@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Fri, 05 Jun 2026 08:32:16 +0000"
 description: "Article URL: https://arxiv.org/abs/2606.03673 Comments URL: https://news.ycombinator.com/item?id=48409664 Points: 22 # Comments: 4"
 keywords: "url, https, comments, tracing, powerful, gnss, interference, source"
-generated: "2026-06-05T10:10:12.594039"
+generated: "2026-06-05T10:13:51.904580"
 ---
 
 # Tracing a powerful GNSS interference source over Europe

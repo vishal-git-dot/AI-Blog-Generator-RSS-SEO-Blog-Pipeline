@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Fri, 05 Jun 2026 07:40:04 +0000"
 description: "Article URL: https://github.com/geo-tp/ESP32-Bit-Pirate Comments URL: https://news.ycombinator.com/item?id=48409306 Points: 24 # Comments: 15"
 keywords: "bit, pirate, url, https, com, comments, hardware, hacking"
-generated: "2026-06-05T10:10:12.594149"
+generated: "2026-06-05T10:13:51.904721"
 ---
 
 # ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol

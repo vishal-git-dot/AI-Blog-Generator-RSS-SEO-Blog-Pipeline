@@ -6,7 +6,7 @@ source: "devto_python"
 published: "Fri, 05 Jun 2026 10:00:48 +0000"
 description: "I spent three days fighting with an LLM that refused to output valid JSON. My app needed structured data – user profiles, query parameters, tool calls – and ..."
 keywords: "json, function, model, you, output, type, calling, but"
-generated: "2026-06-05T10:10:12.594831"
+generated: "2026-06-05T10:13:51.906353"
 ---
 
 # Why My AI Kept Giving Me Invalid JSON (And How I Fixed It)

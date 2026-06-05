@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Fri, 05 Jun 2026 08:33:37 +0000"
 description: "Article URL: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/ Comments URL: https://news.ycombinator.com/it..."
 keywords: "entanglement, builds, space, time, now, magic, gives, gravity"
-generated: "2026-06-05T10:10:12.593892"
+generated: "2026-06-05T10:13:51.904405"
 ---
 
 # Entanglement Builds Space-Time. Now "Magic" Gives It Gravity

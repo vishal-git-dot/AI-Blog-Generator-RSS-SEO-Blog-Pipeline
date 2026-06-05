@@ -6,7 +6,7 @@ source: "devto_python"
 published: "Fri, 05 Jun 2026 10:00:15 +0000"
 description: "Recent developments at Stanford University's CS336 course are at the forefront of this change. Something is shifting in ai. Here is what the data says and wh..."
 keywords: "guidelines, development, systems, agent, responsible, stanford, can, practitioners"
-generated: "2026-06-05T10:10:12.595287"
+generated: "2026-06-05T10:13:51.906848"
 ---
 
 # AI Agent Guidelines for CS336 at Stanford

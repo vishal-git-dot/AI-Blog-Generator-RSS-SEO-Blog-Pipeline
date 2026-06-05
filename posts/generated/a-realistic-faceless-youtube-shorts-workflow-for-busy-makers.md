@@ -6,7 +6,7 @@ source: "devto_python"
 published: "Fri, 05 Jun 2026 10:00:04 +0000"
 description: "You're building a product, writing docs, answering support tickets. You know YouTube Shorts could be a solid content channel, but recording yourself on camer..."
 keywords: "you, your, youtube, workflow, shorts, video, what, script"
-generated: "2026-06-05T10:10:12.595694"
+generated: "2026-06-05T10:13:51.907271"
 ---
 
 # A Realistic Faceless YouTube Shorts Workflow for Busy Makers

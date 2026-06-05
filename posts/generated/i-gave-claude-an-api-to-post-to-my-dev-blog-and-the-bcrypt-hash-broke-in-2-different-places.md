@@ -1,0 +1,34 @@
+---
+title: "I gave Claude an API to post to my dev blog (and the bcrypt hash broke in 2 different places)"
+slug: "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places"
+author: "Sensational-DEV"
+source: "devto_webdev"
+published: "Fri, 05 Jun 2026 10:05:14 +0000"
+description: "It started with a side project: a personal blog. I wanted somewhere to write that wasn't a hosted platform, with the dark-mode-by-default and the URL structu..."
+keywords: "api, key, env, claude, post, next, return, bcrypt"
+generated: "2026-06-05T10:13:51.908280"
+---
+
+# I gave Claude an API to post to my dev blog (and the bcrypt hash broke in 2 different places)
+
+## Overview
+
+It started with a side project: a personal blog. I wanted somewhere to write that wasn't a hosted platform, with the dark-mode-by-default and the URL structure and the editor I'd been craving. Then halfway through building it, a thought: What if I could just tell Claude "publish a post about X" and it actually shows up on my blog? 48 hours later, here we are. The mental model There are two ways to write on the blog: Web admin — a split-view markdown editor with live preview, behind HTTP Basic Auth API endpoint — POST /api/ai/posts with an X-API-Key header Path #2 is the new thing. The key idea: every Claude Code session I run from the terminal already has the API key in my env. So I can just do: curl -X POST http://localhost:3210/api/ai/posts \ -H "X-API-Key: $BLOG_AI_API_KEY " \ -H "Content-Type: application/json" \ -d '{"title":"...","body_markdown":"...","status":"draft"}' And a draft (or published post) appears on the blog. No browser. No copy-paste. The stack Next.js 16 (App Router) + React 19 + TypeScript Tailwind v4 (dark-first) File-based JSON store (will swap to Postgres later) Bcrypt for the API key Zod for input validation I'm intentionally not using a database yet. A .data/posts.json file works fine while I'm the only writer. Trading 30 lines of complexity for "I'll migrate when it matters." The endpoint The handler lives at app/api/ai/posts/route.ts . It exports four functions for four verbs: export async function GET ( req ) { /* list */ } export async function POST ( req ) { /* create */ } export async function PUT ( req ) { /* update */ } export async function DELETE ( req ) { /* delete */ } The shared first step in each is auth: async function requireAuth ( req : NextRequest ) { if ( ! apiKeyConfigured ()) { return jsonError ( 503 , " API key not configured " ); } const ok = await verifyApiKey ( req . headers . get ( " x-api-key " )); if ( ! ok ) return jsonError ( 401 , " Invalid or missing X-API-Key " ); return null ; } Then the verb-specific logic does the obvious thing — parse JSON, validate with zod, call the store, return JSON back. The clever bit is in the store: when Claude POSTs a new post, the slug is auto-generated from the title. If that slug is taken, it appends -2 , -3 , etc. So Claude can call POST repeatedly with similar titles without worrying about collisions. The bcrypt gotcha (and the second one I didn't see coming) This took me 30 minutes to figure out and I want it documented somewhere so I never fall for it again. I generated an API key, hashed it with bcryptjs , dropped both into .env.local : BLOG_AI_API_KEY_HASH = " $2b$10$yNATBgF ..." Restarted the server. Called the endpoint. Got 503: API key not configured . That's the error I throw when process.env.BLOG_AI_API_KEY_HASH is undefined. But the env file has it. What gives? Turns out Next.js's @next/env loader does variable expansion inside double-quoted values. Bcrypt hashes start with $2b$10$ and contain more $ characters. The loader sees $2b , $10 — those look like variable references to it. They don't exist as actual env vars, so they expand to empty strings, and your hash collapses to garbage. I tried single quotes: BLOG_AI_API_KEY_HASH = '$2b$10$yNATBgF...' Same problem. Next.js's loader doesn't respect single-quoting the same way standard dotenv does — that's the second gotcha. In a vanilla dotenv.config() call, single quotes prevent expansion. In Next.js they don't. Two fixes that actually work: Escape the dollars : BLOG_AI_API_KEY_HASH="\$2b\$10\$..." Skip the hash for local dev : store the raw key in BLOG_AI_API_KEY , do a constant-time string compare. The .env.local is gitignored anyway. I went with option 2 locally and option 1 (via Vercel's env-var UI, which doesn't interpret $ ) in production. The verifier is bilingual: export async function verifyApiKey ( rawKey : string | null ) { if ( ! rawKey ) return false ; const hash = process . env . BLOG_AI_API_KEY_HASH ; if ( hash ) return bcrypt . compare ( rawKey , hash ); const raw = process . env . BLOG_AI_API_KEY ; if ( raw ) return timingSafeEqual ( rawKey , raw ); return false ; } Prefers the hash. Falls back to raw. Works everywhere. How I actually use it Honestly, the most common use case so far is during the writing loop itself. I'll be in the terminal with Claude Code, talking through an idea. When it's good, I ask Claude to draft it and POST it as a draft. Then I open the admin in my browser and finish it in the split-view editor. That's the whole thing: AI handles the rough cut, I handle the edit. Same as code review, but for prose. The other surprisingly nice flow is updates. Halfway through writing a post I'll realize I want a fourth section. I describe it. Claude PUTs the update. I refresh the editor — there it is. The AI is operating inside my draft, not next to it. What's next Dev.to cross-posting : a button in the editor that POSTs to Dev.to with canonical_url pointing back to my blog. SEO win. Migrating to Postgres : when the file store becomes annoying — probably around 50 posts. An /api/ai/profile endpoint : so I can update the about page from Claude too. Right now I have to edit a JSON file or use the UI. Image upload via API : so Claude can attach a cover image without me having to upload it separately. Try it yourself The architecture is uncomplicated enough to lift in an afternoon: Next.js 16 API route with zod validation Bcrypt-or-raw key check (mind the dollar signs) JSON file or DB on the back If you build something similar — or if you've found a saner way to handle bcrypt hashes in .env — I want to hear about it. The comments are open.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/sensational5510/i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places-18mo
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
