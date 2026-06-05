@@ -1,0 +1,29 @@
+feeds:
+
+  - name: hackernews
+    url: https://hnrss.org/frontpage
+
+  - name: devto_python
+    url: https://dev.to/feed/tag/python
+
+  - name: devto_webdev
+    url: https://dev.to/feed/tag/webdev
+
+  - name: devto_ai
+    url: https://dev.to/feed/tag/ai
+
+  - name: medium_programming
+    url: https://medium.com/feed/tag/programming
+
+  - name: medium_javascript
+    url: https://medium.com/feed/tag/javascript
+
+settings:
+
+  max_articles_per_feed: 5
+
+  max_total_articles: 20
+
+  min_title_length: 10
+
+  max_title_length: 150
