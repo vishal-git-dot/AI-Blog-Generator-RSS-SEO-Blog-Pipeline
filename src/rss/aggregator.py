@@ -46,7 +46,10 @@ def collect_articles():
                 entry,
                 feed_name
             )
-
+            
+            if article is None:
+                continue
+            
             if not article["title"]:
                 continue
 
