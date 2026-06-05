@@ -88,6 +88,17 @@
         "file": "i-got-tired-of-managing-5-ai-api-keys-so-i-built-one-gateway.md"
     },
     {
+        "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+        "slug": "sakana-ais-recursive-self-improvement-rsi-lab",
+        "author": "hardmaru",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 17:27:39 +0000",
+        "description": "Article URL: https://sakana.ai/rsi-lab/ Comments URL: https://news.ycombinator.com/item?id=48415633 Points: 22 # Comments: 14",
+        "keywords": "sakana, rsi, lab, url, https, comments, recursive, self",
+        "generated": "2026-06-05T20:02:11.234858",
+        "file": "sakana-ais-recursive-self-improvement-rsi-lab.md"
+    },
+    {
         "title": "Detect PDF Tampering Programmatically: Developer Guide",
         "slug": "detect-pdf-tampering-programmatically-developer-guide",
         "author": "Iurii Rogulia",
@@ -165,6 +176,28 @@
         "file": "ai-agent-guidelines-for-cs336-at-stanford.md"
     },
     {
+        "title": "Paper2Code: Automating Code Generation from Scientific Papers in MachineLearning",
+        "slug": "paper2code-automating-code-generation-from-scientific-papers-in-machinelearning",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 19:50:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "automating, code, generation, scientific, papers, machinelearning, json, postcontent",
+        "generated": "2026-06-05T20:02:11.239885",
+        "file": "paper2code-automating-code-generation-from-scientific-papers-in-machinelearning.md"
+    },
+    {
+        "title": "What a Refrigerator Taught Me About Building an AI Troubleshooting Tool",
+        "slug": "what-a-refrigerator-taught-me-about-building-an-ai-troubleshooting-tool",
+        "author": "Michael Groover",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 19:45:53 +0000",
+        "description": "A few days ago I was testing an appliance photo inside an AI troubleshooting app I’m helping build. The photo showed what appeared to be a loose electrical c...",
+        "keywords": "what, troubleshooting, best, isn, like, can, you, refrigerator",
+        "generated": "2026-06-05T20:02:11.238991",
+        "file": "what-a-refrigerator-taught-me-about-building-an-ai-troubleshooting-tool.md"
+    },
+    {
         "title": "New York just passed a one-year temporary ban on data centers",
         "slug": "new-york-just-passed-a-one-year-temporary-ban-on-data-centers",
         "author": "binarymax",
@@ -174,6 +207,17 @@
         "keywords": "new, york, just, passed, one, year, temporary, ban",
         "generated": "2026-06-05T15:19:56.041186",
         "file": "new-york-just-passed-a-one-year-temporary-ban-on-data-centers.md"
+    },
+    {
+        "title": "Turning an SEO Audit Into a Revenue Strategy",
+        "slug": "turning-an-seo-audit-into-a-revenue-strategy",
+        "author": "Joshua Gutierrez",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 19:37:10 +0000",
+        "description": "Most SEO work starts with a checklist. Titles. Headings. Keywords. Page speed. Internal links. Technical errors. Content gaps. Those things matter, but they ...",
+        "keywords": "audit, page, seo, not, traffic, visitor, result, site",
+        "generated": "2026-06-05T20:02:11.239537",
+        "file": "turning-an-seo-audit-into-a-revenue-strategy.md"
     },
     {
         "title": "Claude MCP Integrations Through a Proxy: How ShadoClaw Keeps Your Tool Chains Stable",
@@ -220,6 +264,17 @@
         "file": "ai-integration-services-connect-ai-to-your-tech-stack.md"
     },
     {
+        "title": "Three of our worst VC stories",
+        "slug": "three-of-our-worst-vc-stories",
+        "author": "orgonon",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 19:08:12 +0000",
+        "description": "https://xcancel.com/eastdakota/status/2062860530360959273 Comments URL: https://news.ycombinator.com/item?id=48416845 Points: 10 # Comments: 0",
+        "keywords": "https, com, comments, three, our, worst, stories, xcancel",
+        "generated": "2026-06-05T20:02:11.234622",
+        "file": "three-of-our-worst-vc-stories.md"
+    },
+    {
         "title": "Meta Spent More on AI Than Anyone Except Google. Its Platform Is Still Not Out the Door.",
         "slug": "meta-spent-more-on-ai-than-anyone-except-google-its-platform-is-still-not-out-the-door",
         "author": "marcom",
@@ -229,6 +284,17 @@
         "keywords": "trust, meta, investment, capability, platform, not, developer, execution",
         "generated": "2026-06-05T10:10:12.600501",
         "file": "meta-spent-more-on-ai-than-anyone-except-google-its-platform-is-still-not-out-the-door.md"
+    },
+    {
+        "title": "Why Appliance Model Numbers Matter More Than Most People Realize",
+        "slug": "why-appliance-model-numbers-matter-more-than-most-people-realize",
+        "author": "Michael Groover",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 19:34:33 +0000",
+        "description": "Most homeowners jump straight into troubleshooting when an appliance breaks. They’ll search for symptoms, watch YouTube videos, and start replacing parts. Th...",
+        "keywords": "model, parts, number, can, appliance, troubleshooting, information, start",
+        "generated": "2026-06-05T20:02:11.239788",
+        "file": "why-appliance-model-numbers-matter-more-than-most-people-realize.md"
     },
     {
         "title": "A Realistic Faceless YouTube Shorts Workflow for Busy Makers",
@@ -242,6 +308,17 @@
         "file": "a-realistic-faceless-youtube-shorts-workflow-for-busy-makers.md"
     },
     {
+        "title": "VibeSync- Music Recommendation",
+        "slug": "vibesync-music-recommendation",
+        "author": "RUDRA PRATAP",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 19:41:47 +0000",
+        "description": "If you’ve ever gone down a rabbit hole trying to understand how Spotify or Apple Music always knows exactly what song to play next, you know how fascinating ...",
+        "keywords": "music, recommendation, you, vibesync, song, like, how, what",
+        "generated": "2026-06-05T20:02:11.235968",
+        "file": "vibesync-music-recommendation.md"
+    },
+    {
         "title": "Python Decorators Explained Simply",
         "slug": "python-decorators-explained-simply",
         "author": "qing",
@@ -251,6 +328,17 @@
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
         "generated": "2026-06-05T10:13:51.905885",
         "file": "python-decorators-explained-simply.md"
+    },
+    {
+        "title": "Track AI Token Usage From Your Mac Menu Bar With Trackr Bar",
+        "slug": "track-ai-token-usage-from-your-mac-menu-bar-with-trackr-bar",
+        "author": "Aura Technologies",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 19:42:46 +0000",
+        "description": "Track AI Token Usage From Your Mac Menu Bar With Trackr Bar AI tools are useful, but they are also easy to lose track of. You run a few Claude prompts. You t...",
+        "keywords": "usage, bar, you, trackr, not, api, your, menu",
+        "generated": "2026-06-05T20:02:11.241359",
+        "file": "track-ai-token-usage-from-your-mac-menu-bar-with-trackr-bar.md"
     },
     {
         "title": "ChatGPT writes you a clean doc. Your Mac shows raw text with ## everywhere. Here's the fix",
@@ -284,6 +372,17 @@
         "keywords": "entanglement, builds, space, time, now, magic, gives, gravity",
         "generated": "2026-06-05T10:13:51.904405",
         "file": "entanglement-builds-space-time-now-magic-gives-it-gravity.md"
+    },
+    {
+        "title": "Concurrency is byproduct of capability design not bottleneck to patch",
+        "slug": "concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch",
+        "author": "Chief Mojo Risin'",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 19:44:27 +0000",
+        "description": "Concurrency is byproduct of capability design not bottleneck to patch. A single line. Hold it. More as the build matures. — chiefmojo79",
+        "keywords": "concurrency, byproduct, capability, design, not, bottleneck, patch, single",
+        "generated": "2026-06-05T20:02:11.240917",
+        "file": "concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch.md"
     },
     {
         "title": "Cómo saber qué LLM te entra en tu GPU (y a cuántos tok/s) sin adivinar",
@@ -396,6 +495,17 @@
         "file": "how-ai-is-transforming-staffing-software-in-2026.md"
     },
     {
+        "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+        "slug": "accidentally-deleted-subscriptions-for-chat-integrations-slack-and-ms-teams",
+        "author": "SparkyDogs",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 19:15:36 +0000",
+        "description": "Article URL: https://www.githubstatus.com/incidents/2nmfnbknhlnv Comments URL: https://news.ycombinator.com/item?id=48416936 Points: 62 # Comments: 20",
+        "keywords": "url, https, com, comments, accidentally, deleted, subscriptions, chat",
+        "generated": "2026-06-05T20:02:11.234461",
+        "file": "accidentally-deleted-subscriptions-for-chat-integrations-slack-and-ms-teams.md"
+    },
+    {
         "title": "Exploring the Future of Software Development with Artificial Intelligence",
         "slug": "exploring-the-future-of-software-development-with-artificial-intelligence",
         "author": "Tanya Sethi",
@@ -416,6 +526,61 @@
         "keywords": "json, function, model, you, output, type, calling, but",
         "generated": "2026-06-05T10:13:51.906353",
         "file": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it.md"
+    },
+    {
+        "title": "How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong)",
+        "slug": "how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong",
+        "author": "Muhammad Masad Ashraf",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 19:35:27 +0000",
+        "description": "Originally published on KolachiTech I have reviewed a lot of Shopify app codebases. One thing shows up constantly: webhook verification that looks correct bu...",
+        "keywords": "shopify, your, secret, webhook, hmac, verification, const, payload",
+        "generated": "2026-06-05T20:02:11.236434",
+        "file": "how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong.md"
+    },
+    {
+        "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+        "slug": "govuk-has-replaced-stripe-with-dutch-provider-adyen",
+        "author": "toomuchtodo",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 16:55:30 +0000",
+        "description": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m... https://www.adyen.com/press-and-media/adyen-payments-gov-uk Comments URL: https://news.ycombi...",
+        "keywords": "gov, adyen, https, com, comments, has, replaced, stripe",
+        "generated": "2026-06-05T20:02:11.235016",
+        "file": "govuk-has-replaced-stripe-with-dutch-provider-adyen.md"
+    },
+    {
+        "title": "The non-technical skills that made me a better developer",
+        "slug": "the-non-technical-skills-that-made-me-a-better-developer",
+        "author": "Tdvh yfdg",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 19:45:52 +0000",
+        "description": "For years, I poured almost everything into technical growth - new languages, frameworks, design patterns. It felt like the right move. Then somewhere around ...",
+        "keywords": "you, what, work, technical, day, something, but, one",
+        "generated": "2026-06-05T20:02:11.240778",
+        "file": "the-non-technical-skills-that-made-me-a-better-developer.md"
+    },
+    {
+        "title": "How to Add Drug Interaction Checking to Your Health App in 5 Minutes",
+        "slug": "how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes",
+        "author": "Josh",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 19:21:16 +0000",
+        "description": "Nearly 1 in 4 Americans takes a prescription drug alongside a dietary supplement. That's roughly 75 million people who might not know that their fish oil cou...",
+        "keywords": "api, data, drug, interactions, response, print, supplement, const",
+        "generated": "2026-06-05T20:02:11.237054",
+        "file": "how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes.md"
+    },
+    {
+        "title": "Answer",
+        "slug": "answer",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 19:50:19 +0000",
+        "description": "Answer Answer Links Images Share Write a detailed blog post: a frontend development guide with real code patterns. First, research what topics are currently ...",
+        "keywords": "incorporating, your, input, rizwan, frontend, guide, entity, saleem",
+        "generated": "2026-06-05T20:02:11.238767",
+        "file": "answer.md"
     },
     {
         "title": "Atlanta Braves vs Miami Marlins: MLB Preview & Picks",
@@ -484,6 +649,17 @@
         "file": "theres-no-escaping-it-an-exploration-of-ansi-codes.md"
     },
     {
+        "title": "NVIDIA’s new model on SageMaker, a CLI for AI pipelines, UK AI rules, and a worm threat",
+        "slug": "nvidias-new-model-on-sagemaker-a-cli-for-ai-pipelines-uk-ai-rules-and-a-worm-threat",
+        "author": "Anikalp Jaiswal",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 19:48:27 +0000",
+        "description": "NVIDIA’s new model on SageMaker, a CLI for AI pipelines, UK AI rules, and a worm threat NVIDIA’s latest model is now on SageMaker, and a new CLI gives develo...",
+        "keywords": "nvidia, model, worm, agents, what, happened, why, matters",
+        "generated": "2026-06-05T20:02:11.240143",
+        "file": "nvidias-new-model-on-sagemaker-a-cli-for-ai-pipelines-uk-ai-rules-and-a-worm-threat.md"
+    },
+    {
         "title": "Zero to Autopilot, Part 1: I Built an AI That Runs a YouTube Channel (the landscape, and my $10 wake-up call)",
         "slug": "zero-to-autopilot-part-1-i-built-an-ai-that-runs-a-youtube-channel-the-landscape-and-my-10-wake-up-call",
         "author": "Maksims Gavrilovs",
@@ -528,6 +704,17 @@
         "file": "setting-up-dora-metrics-in-github-actions-without-buying-anything.md"
     },
     {
+        "title": "Transformers Are Inherently Succinct",
+        "slug": "transformers-are-inherently-succinct",
+        "author": "brandonb",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 18:50:26 +0000",
+        "description": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers. Comments URL: https://news.ycombinator.c...",
+        "keywords": "comments, transformers, inherently, succinct, paper, being, published, iclr",
+        "generated": "2026-06-05T20:02:11.234758",
+        "file": "transformers-are-inherently-succinct.md"
+    },
+    {
         "title": "Tracing a powerful GNSS interference source over Europe",
         "slug": "tracing-a-powerful-gnss-interference-source-over-europe",
         "author": "mimorigasaka",
@@ -537,6 +724,39 @@
         "keywords": "url, https, comments, tracing, powerful, gnss, interference, source",
         "generated": "2026-06-05T10:13:51.904580",
         "file": "tracing-a-powerful-gnss-interference-source-over-europe.md"
+    },
+    {
+        "title": "I Was Supposed to Fix Bugs. I Accidentally Built Two Features Instead. PC Workman 1.7.8 - Advanced Deep Learning AI, Supply Monitor and Health Keeper.",
+        "slug": "i-was-supposed-to-fix-bugs-i-accidentally-built-two-features-instead-pc-workman-178-advanced-deep-learning-ai-supply-monitor-and-health-keeper",
+        "author": "Marcin Firmuga",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 19:44:00 +0000",
+        "description": "I Was Supposed to Fix Bugs. I Accidentally Built Two Features Instead. Friday Shipped & Scarred #11 , the one where no new features lasted about 4 hours. T...",
+        "keywords": "self, cpu, intent, fix, after, temperatura, text, str",
+        "generated": "2026-06-05T20:02:11.235726",
+        "file": "i-was-supposed-to-fix-bugs-i-accidentally-built-two-features-instead-pc-workman-178-advanced-deep-learning-ai-supply-monitor-and-health-keeper.md"
+    },
+    {
+        "title": "Oreste AI: il mio progetto di assistente intelligente con OS, Storybook e voce",
+        "slug": "oreste-ai-il-mio-progetto-di-assistente-intelligente-con-os-storybook-e-voce",
+        "author": "Oreste AI Team",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 19:50:51 +0000",
+        "description": "to sviluppando come assistente intelligente basato su HTML, CSS e JavaScript. L’idea è creare un sistema completo che unisce: 🤖 Assistente AI con voce 💻 Sist...",
+        "keywords": "oreste, progetto, con, sistema, web, personaggi, assistente, animazioni",
+        "generated": "2026-06-05T20:02:11.238493",
+        "file": "oreste-ai-il-mio-progetto-di-assistente-intelligente-con-os-storybook-e-voce.md"
+    },
+    {
+        "title": "Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices",
+        "slug": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices",
+        "author": "Daniel Cordeiro",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 19:16:13 +0000",
+        "description": "Introduction A significant portion of telecom customer support calls follow the same pattern: What is my current bill?, Why did it go up?, I want to dis...",
+        "keywords": "service, agent, customer, billing, what, spring, code, each",
+        "generated": "2026-06-05T20:02:11.238271",
+        "file": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices.md"
     },
     {
         "title": "Topology rewrite not bug repair",
