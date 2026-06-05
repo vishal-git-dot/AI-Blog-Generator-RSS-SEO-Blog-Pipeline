@@ -6,7 +6,7 @@ source: "devto_python"
 published: "Fri, 05 Jun 2026 09:34:34 +0000"
 description: "You turned on prompt caching, the hit counter ticks now and then, but your bill barely moved. Before blaming your prompt structure, look at something the das..."
 keywords: "model, cache, hit, your, you, upstream, provider, drift"
-generated: "2026-06-05T09:49:03.891875"
+generated: "2026-06-05T09:55:35.953008"
 ---
 
 # Provider Drift: How Default Routing Inflates LLM Cost 3.9 — A Measurement

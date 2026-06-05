@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Fri, 05 Jun 2026 07:02:14 +0000"
 description: "Article URL: https://blog.safia.rocks/2025/12/22/ansi-codes/ Comments URL: https://news.ycombinator.com/item?id=48408995 Points: 5 # Comments: 3"
 keywords: "ansi, codes, url, https, comments, there, escaping, exploration"
-generated: "2026-06-05T09:49:03.891307"
+generated: "2026-06-05T09:55:35.952554"
 ---
 
 # There's no escaping it: an exploration of ANSI codes

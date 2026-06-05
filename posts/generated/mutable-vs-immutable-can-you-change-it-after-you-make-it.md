@@ -6,7 +6,7 @@ source: "devto_webdev"
 published: "Fri, 05 Jun 2026 09:27:00 +0000"
 description: "You copy an array to be "safe," tweak the copy, and somehow the original changes too. You stare at the screen. You didn't touch the original. Did the compute..."
 keywords: "you, original, copy, new, change, mutable, immutable, can"
-generated: "2026-06-05T09:49:03.895018"
+generated: "2026-06-05T09:55:35.956452"
 ---
 
 # "Mutable" vs "Immutable": Can You Change It After You Make It?

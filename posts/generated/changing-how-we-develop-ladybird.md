@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Fri, 05 Jun 2026 07:26:33 +0000"
 description: "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/ Comments URL: https://news.ycombinator.com/item?id=48409191 Points: 176 # Comments: 96"
 keywords: "ladybird, changing, how, develop, url, https, comments, article"
-generated: "2026-06-05T09:49:03.891198"
+generated: "2026-06-05T09:55:35.952454"
 ---
 
 # Changing How We Develop Ladybird

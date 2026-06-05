@@ -6,7 +6,7 @@ source: "devto_webdev"
 published: "Fri, 05 Jun 2026 09:25:00 +0000"
 description: "Did you know there's a browser storage API that can handle gigabytes of data? Apps like WhatsApp and Figma already rely on it heavily. It's called IndexedDB...."
 keywords: "react, hooks, indexeddb, idb, you, status, error, data"
-generated: "2026-06-05T09:49:03.895392"
+generated: "2026-06-05T09:55:35.956765"
 ---
 
 # IndexedDB Is the Most Underrated Browser API
