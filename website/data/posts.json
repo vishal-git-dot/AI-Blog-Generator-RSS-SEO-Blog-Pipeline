@@ -1,5 +1,49 @@
 [
     {
+        "title": "Building a Perceptual Hashing Pipeline for Video Deduplication in Python",
+        "slug": "building-a-perceptual-hashing-pipeline-for-video-deduplication-in-python",
+        "author": "ahmet gedik",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 15:00:01 +0000",
+        "description": "Across eight regions our crawlers pull the same trending clip dozens of times a day. A music video that charts in the US shows up again in GB with a differen...",
+        "keywords": "int, hash, not, hashes, frame, bit, frames, video",
+        "generated": "2026-06-05T15:19:56.044013",
+        "file": "building-a-perceptual-hashing-pipeline-for-video-deduplication-in-python.md"
+    },
+    {
+        "title": "The Math Behind Prediction Market Prices: Implied Probability, the Vig, EV and Kelly (in plain JS)",
+        "slug": "the-math-behind-prediction-market-prices-implied-probability-the-vig-ev-and-kelly-in-plain-js",
+        "author": "Clarence Yu",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 15:09:47 +0000",
+        "description": "If you've looked at Polymarket, Kalshi or Manifold and wondered what a YES share at $0.40 actually means — or why two opposite outcomes don't add up to 100...",
+        "keywords": "you, kelly, probability, const, market, vig, yes, price",
+        "generated": "2026-06-05T15:19:56.045304",
+        "file": "the-math-behind-prediction-market-prices-implied-probability-the-vig-ev-and-kelly-in-plain-js.md"
+    },
+    {
+        "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+        "slug": "nango-yc-w23-dev-infra-is-hiring-staff-back-end-engineers",
+        "author": "bastienbeurier",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 12:00:18 +0000",
+        "description": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=48411227 Points: 0 # Comments: 0",
+        "keywords": "nango, dev, url, https, comments, infra, hiring, staff",
+        "generated": "2026-06-05T15:19:56.041546",
+        "file": "nango-yc-w23-dev-infra-is-hiring-staff-back-end-engineers.md"
+    },
+    {
+        "title": "Build a Dependency Dashboard with Automated Updates Using Renovate",
+        "slug": "build-a-dependency-dashboard-with-automated-updates-using-renovate",
+        "author": "Tracepilot",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 15:14:12 +0000",
+        "description": "Build a Dependency Dashboard with Automated Updates Using Renovate What we're building: A fully automated dependency management system that tracks every pack...",
+        "keywords": "your, renovate, dependency, updates, you, dashboard, tracepilot, prs",
+        "generated": "2026-06-05T15:19:56.047859",
+        "file": "build-a-dependency-dashboard-with-automated-updates-using-renovate.md"
+    },
+    {
         "title": "What are the best tech accessories to buy in India in 2026?",
         "slug": "what-are-the-best-tech-accessories-to-buy-in-india-in-2026",
         "author": "seo wrapcart",
@@ -9,6 +53,17 @@
         "keywords": "accessories, tech, organizers, what, best, buy, india, popular",
         "generated": "2026-06-05T10:13:51.908415",
         "file": "what-are-the-best-tech-accessories-to-buy-in-india-in-2026.md"
+    },
+    {
+        "title": "movies index",
+        "slug": "movies-index",
+        "author": "movies index",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 15:04:30 +0000",
+        "description": "https://qimrbinmemory.raiselysite.com/phim-lau-doraemon https://qimrbinmemory.raiselysite.com/doraemonmovie45nobita https://qimrbinmemory.raiselysite.com/tho...",
+        "keywords": "https, raiselysite, com, vietsub, minh, thuyt, motchill, phim",
+        "generated": "2026-06-05T15:19:56.046600",
+        "file": "movies-index.md"
     },
     {
         "title": "How Banks Halt Billions in Fraud With Real-Time AI",
@@ -22,6 +77,17 @@
         "file": "how-banks-halt-billions-in-fraud-with-real-time-ai.md"
     },
     {
+        "title": "I Got Tired of Managing 5 AI API Keys — So I Built One Gateway",
+        "slug": "i-got-tired-of-managing-5-ai-api-keys-so-i-built-one-gateway",
+        "author": "Daniel Dong",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 15:13:58 +0000",
+        "description": "AI devs, be honest — how many API keys are you currently managing? 🔑 • OpenAI key for GPT-4o • DeepSeek for cost-efficient coding • Qwen for long context • C...",
+        "keywords": "api, openai, one, aibridge, managing, keys, key, cost",
+        "generated": "2026-06-05T15:19:56.048069",
+        "file": "i-got-tired-of-managing-5-ai-api-keys-so-i-built-one-gateway.md"
+    },
+    {
         "title": "Detect PDF Tampering Programmatically: Developer Guide",
         "slug": "detect-pdf-tampering-programmatically-developer-guide",
         "author": "Iurii Rogulia",
@@ -31,6 +97,17 @@
         "keywords": "pdf, status, result, htpbe, document, return, modified, api",
         "generated": "2026-06-05T10:10:12.597425",
         "file": "detect-pdf-tampering-programmatically-developer-guide.md"
+    },
+    {
+        "title": "India's surprise baby bust is a warning to the world",
+        "slug": "indias-surprise-baby-bust-is-a-warning-to-the-world",
+        "author": "hakonbogen",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 14:44:44 +0000",
+        "description": "Article URL: https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world Comments URL: https://news.ycombinator.com/item...",
+        "keywords": "surprise, baby, bust, warning, world, url, https, com",
+        "generated": "2026-06-05T15:19:56.041318",
+        "file": "indias-surprise-baby-bust-is-a-warning-to-the-world.md"
     },
     {
         "title": "AI Automation for Ai For Small Scale Specialty Food Producers How To Automate Fdanutrition Label Generation And Ingredient So...",
@@ -88,6 +165,17 @@
         "file": "ai-agent-guidelines-for-cs336-at-stanford.md"
     },
     {
+        "title": "New York just passed a one-year temporary ban on data centers",
+        "slug": "new-york-just-passed-a-one-year-temporary-ban-on-data-centers",
+        "author": "binarymax",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 14:49:49 +0000",
+        "description": "Article URL: https://scienceaim.com/new-york-just-passed-a-one-year-temporary-ban-on-data-centers/ Comments URL: https://news.ycombinator.com/item?id=4841330...",
+        "keywords": "new, york, just, passed, one, year, temporary, ban",
+        "generated": "2026-06-05T15:19:56.041186",
+        "file": "new-york-just-passed-a-one-year-temporary-ban-on-data-centers.md"
+    },
+    {
         "title": "Claude MCP Integrations Through a Proxy: How ShadoClaw Keeps Your Tool Chains Stable",
         "slug": "claude-mcp-integrations-through-a-proxy-how-shadoclaw-keeps-your-tool-chains-stable",
         "author": "Gerus Lab",
@@ -97,6 +185,28 @@
         "keywords": "mcp, claude, tool, you, shadoclaw, your, proxy, server",
         "generated": "2026-06-05T10:13:51.909072",
         "file": "claude-mcp-integrations-through-a-proxy-how-shadoclaw-keeps-your-tool-chains-stable.md"
+    },
+    {
+        "title": "Programmers will document for Claude, but not for each other",
+        "slug": "programmers-will-document-for-claude-but-not-for-each-other",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 12:30:17 +0000",
+        "description": "Article URL: https://blog.plover.com/2026/03/09/#documentation-wins-2 Comments URL: https://news.ycombinator.com/item?id=48411510 Points: 81 # Comments: 85",
+        "keywords": "url, https, com, comments, programmers, will, document, claude",
+        "generated": "2026-06-05T15:19:56.041435",
+        "file": "programmers-will-document-for-claude-but-not-for-each-other.md"
+    },
+    {
+        "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+        "slug": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks",
+        "author": "janpot",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 15:00:31 +0000",
+        "description": "Article URL: https://www.bbc.com/news/live/c4g44ew3g1kt Comments URL: https://news.ycombinator.com/item?id=48413464 Points: 13 # Comments: 2",
+        "keywords": "url, https, com, news, comments, astronauts, iss, told",
+        "generated": "2026-06-05T15:19:56.041017",
+        "file": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md"
     },
     {
         "title": "AI Integration Services: Connect AI to Your Tech Stack",
@@ -176,6 +286,17 @@
         "file": "entanglement-builds-space-time-now-magic-gives-it-gravity.md"
     },
     {
+        "title": "Cómo saber qué LLM te entra en tu GPU (y a cuántos tok/s) sin adivinar",
+        "slug": "cmo-saber-qu-llm-te-entra-en-tu-gpu-y-a-cuntos-toks-sin-adivinar",
+        "author": "Jonathan Martin Paez",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 15:09:11 +0000",
+        "description": "monté InferBench , una app de escritorio open source que, con un click, descarga el motor, baja el modelo, lo arranca con la config óptima para tu hardware y...",
+        "keywords": "con, del, inferbench, que, modelo, tok, motor, sin",
+        "generated": "2026-06-05T15:19:56.042726",
+        "file": "cmo-saber-qu-llm-te-entra-en-tu-gpu-y-a-cuntos-toks-sin-adivinar.md"
+    },
+    {
         "title": "Reviving My AI-Powered Draw and Learn Game - What If an AI Could Look at Your Drawing and Actually Respond?",
         "slug": "reviving-my-ai-powered-draw-and-learn-game-what-if-an-ai-could-look-at-your-drawing-and-actually-respond",
         "author": "Krish Panchani",
@@ -220,6 +341,17 @@
         "file": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it.md"
     },
     {
+        "title": "The Biggest Mistake I Made When Building an AI Troubleshooting Tool",
+        "slug": "the-biggest-mistake-i-made-when-building-an-ai-troubleshooting-tool",
+        "author": "Michael Groover",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 15:16:27 +0000",
+        "description": "The Biggest Mistake I Made When Building an AI Troubleshooting Tool When I started building an AI troubleshooting platform, I assumed the hardest part would ...",
+        "keywords": "building, biggest, when, troubleshooting, they, more, answer, started",
+        "generated": "2026-06-05T15:19:56.044945",
+        "file": "the-biggest-mistake-i-made-when-building-an-ai-troubleshooting-tool.md"
+    },
+    {
         "title": "I gave Claude an API to post to my dev blog (and the bcrypt hash broke in 2 different places)",
         "slug": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places",
         "author": "Sensational-DEV",
@@ -229,6 +361,17 @@
         "keywords": "api, key, env, claude, post, next, return, bcrypt",
         "generated": "2026-06-05T10:13:51.908280",
         "file": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places.md"
+    },
+    {
+        "title": "Washington Mystics vs Dallas Wings: WNBA Preview & Picks",
+        "slug": "washington-mystics-vs-dallas-wings-wnba-preview-picks",
+        "author": "James Mullinaux",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 15:15:12 +0000",
+        "description": "Washington Mystics vs Dallas Wings: WNBA Preview & Picks The Washington Mystics venture into Dallas to face the Wings in a highly anticipated WNBA matchup. W...",
+        "keywords": "wings, their, will, mystics, washington, dallas, game, scoring",
+        "generated": "2026-06-05T15:19:56.046949",
+        "file": "washington-mystics-vs-dallas-wings-wnba-preview-picks.md"
     },
     {
         "title": "The Endowment",
@@ -275,6 +418,39 @@
         "file": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it.md"
     },
     {
+        "title": "Atlanta Braves vs Miami Marlins: MLB Preview & Picks",
+        "slug": "atlanta-braves-vs-miami-marlins-mlb-preview-picks",
+        "author": "James Mullinaux",
+        "source": "devto_ai",
+        "published": "Fri, 05 Jun 2026 15:15:12 +0000",
+        "description": "Atlanta Braves vs Miami Marlins: MLB Preview & Picks The Atlanta Braves head to South Florida to take on the Miami Marlins Atlanta Braves vs Miami Marlins: M...",
+        "keywords": "braves, marlins, miami, atlanta, will, their, pitching, game",
+        "generated": "2026-06-05T15:19:56.047310",
+        "file": "atlanta-braves-vs-miami-marlins-mlb-preview-picks.md"
+    },
+    {
+        "title": "Deep Dive: Navigating Your First Real Client Proje…",
+        "slug": "deep-dive-navigating-your-first-real-client-proje",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 15:06:30 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the intricacies of tackling your first client project in web development, from technical challenges ...",
+        "keywords": "your, client, project, testing, projects, can, architecture, communication",
+        "generated": "2026-06-05T15:19:56.046345",
+        "file": "deep-dive-navigating-your-first-real-client-proje.md"
+    },
+    {
+        "title": "Optimizing WebSocket Processing for High-Speed Market Data with Polymarket CLOB",
+        "slug": "optimizing-websocket-processing-for-high-speed-market-data-with-polymarket-clob",
+        "author": "Benjamin-Cup",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 15:10:05 +0000",
+        "description": "Real-time market data is the backbone of every successful prediction market trading system. Whether you're building a market-making engine, arbitrage scanner...",
+        "keywords": "polymarket, trading, market, order, bot, data, execution, self",
+        "generated": "2026-06-05T15:19:56.042411",
+        "file": "optimizing-websocket-processing-for-high-speed-market-data-with-polymarket-clob.md"
+    },
+    {
         "title": "Your Pipeline Is 14.3h Behind: Catching Investing Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-143h-behind-catching-investing-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -306,6 +482,28 @@
         "keywords": "ansi, codes, url, https, comments, there, escaping, exploration",
         "generated": "2026-06-05T10:13:51.904970",
         "file": "theres-no-escaping-it-an-exploration-of-ansi-codes.md"
+    },
+    {
+        "title": "Zero to Autopilot, Part 1: I Built an AI That Runs a YouTube Channel (the landscape, and my $10 wake-up call)",
+        "slug": "zero-to-autopilot-part-1-i-built-an-ai-that-runs-a-youtube-channel-the-landscape-and-my-10-wake-up-call",
+        "author": "Maksims Gavrilovs",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 14:59:45 +0000",
+        "description": "Series: Zero to Autopilot — Building a Self-Improving AI Media Channel. Part 1 of 7. I'm an AI engineer and this is the full build log of an autonomous AI sh...",
+        "keywords": "video, part, can, you, channel, one, every, cost",
+        "generated": "2026-06-05T15:19:56.044689",
+        "file": "zero-to-autopilot-part-1-i-built-an-ai-that-runs-a-youtube-channel-the-landscape-and-my-10-wake-up-call.md"
+    },
+    {
+        "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
+        "slug": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages",
+        "author": "Clarence Yu",
+        "source": "devto_webdev",
+        "published": "Fri, 05 Jun 2026 15:07:04 +0000",
+        "description": "If you run paid acquisition on Meta for landing pages, you already know the problem: iOS 14.5 gutted browser-side tracking. Meta's answer is the Conversions ...",
+        "keywords": "fbc, event, function, meta, fbp, const, server, browser",
+        "generated": "2026-06-05T15:19:56.045887",
+        "file": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages.md"
     },
     {
         "title": "Changing How We Develop Ladybird",
@@ -345,10 +543,21 @@
         "slug": "topology-rewrite-not-bug-repair",
         "author": "Chief Mojo Risin'",
         "source": "devto_ai",
-        "published": "Fri, 05 Jun 2026 09:59:13 +0000",
+        "published": "Fri, 05 Jun 2026 15:14:18 +0000",
         "description": "Topology rewrite not bug repair. A single line. Hold it. More as the build matures. — chiefmojo79",
         "keywords": "topology, rewrite, not, bug, repair, single, line, hold",
-        "generated": "2026-06-05T10:10:12.600225",
+        "generated": "2026-06-05T15:19:56.047421",
         "file": "topology-rewrite-not-bug-repair.md"
+    },
+    {
+        "title": "How I Built a Personal AI Operating System with Claude, Python, and Local LLMs",
+        "slug": "how-i-built-a-personal-ai-operating-system-with-claude-python-and-local-llms",
+        "author": "Paul Holland",
+        "source": "devto_python",
+        "published": "Fri, 05 Jun 2026 15:08:07 +0000",
+        "description": "Every AI conversation I had vanished the moment I closed the tab. Weeks of research, planning sessions, decision context — gone. So I built a system that fix...",
+        "keywords": "atlas, search, vault, system, every, your, you, skills",
+        "generated": "2026-06-05T15:19:56.043117",
+        "file": "how-i-built-a-personal-ai-operating-system-with-claude-python-and-local-llms.md"
     }
 ]
