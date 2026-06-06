@@ -33,6 +33,28 @@
         "file": "nango-yc-w23-dev-infra-is-hiring-staff-back-end-engineers.md"
     },
     {
+        "title": "The Neuroscience of Wealth: Why Your Brain Frequency Determines Your Bank Balance",
+        "slug": "the-neuroscience-of-wealth-why-your-brain-frequency-determines-your-bank-balance",
+        "author": "Chitta Ranjan Rath",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 03:45:34 +0000",
+        "description": "Why Smart, Hard-Working People Stay Broke You probably know someone like this. Brilliant. Hardworking. Does everything right. Yet somehow, financial breakthr...",
+        "keywords": "brain, your, alpha, financial, wealth, you, signal, frequency",
+        "generated": "2026-06-06T04:00:30.110672",
+        "file": "the-neuroscience-of-wealth-why-your-brain-frequency-determines-your-bank-balance.md"
+    },
+    {
+        "title": "My Claude Code hook silently ate every Korean character, and it took me an hour to figure out why",
+        "slug": "my-claude-code-hook-silently-ate-every-korean-character-and-it-took-me-an-hour-to-figure-out-why",
+        "author": "coding_j",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 03:48:06 +0000",
+        "description": "I spent an hour last week debugging a hook that wasn't broken. Here's the setup: I run Claude Code on Windows, and I'd written a little UserPromptSubmit hook...",
+        "keywords": "you, claude, powershell, code, korean, file, bom, hook",
+        "generated": "2026-06-06T04:00:30.109957",
+        "file": "my-claude-code-hook-silently-ate-every-korean-character-and-it-took-me-an-hour-to-figure-out-why.md"
+    },
+    {
         "title": "Build a Dependency Dashboard with Automated Updates Using Renovate",
         "slug": "build-a-dependency-dashboard-with-automated-updates-using-renovate",
         "author": "Tracepilot",
@@ -97,6 +119,17 @@
         "keywords": "sakana, rsi, lab, url, https, comments, recursive, self",
         "generated": "2026-06-05T20:02:11.234858",
         "file": "sakana-ais-recursive-self-improvement-rsi-lab.md"
+    },
+    {
+        "title": "Ai Humanizer — Free Online Tool",
+        "slug": "ai-humanizer-free-online-tool",
+        "author": "BAOMING",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 03:40:23 +0000",
+        "description": "title: Ai Humanizer tags: webdev, programming, tutorial, productivity canonical_url: https://tools.scoreroute.com/tools/ai-humanizer/ Ai Humanizer — Free O...",
+        "keywords": "free, humanizer, tool, tools, browser, answer, your, content",
+        "generated": "2026-06-06T04:00:30.107825",
+        "file": "ai-humanizer-free-online-tool.md"
     },
     {
         "title": "Detect PDF Tampering Programmatically: Developer Guide",
@@ -176,6 +209,17 @@
         "file": "ai-agent-guidelines-for-cs336-at-stanford.md"
     },
     {
+        "title": "Why Developers Are Moving Away From AWS to Simpler Platforms",
+        "slug": "why-developers-are-moving-away-from-aws-to-simpler-platforms",
+        "author": "Kuberns",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 03:37:59 +0000",
+        "description": "Most developers who leave AWS are not unhappy with its reliability. They are unhappy with the time it takes to configure, secure, and maintain it for applica...",
+        "keywords": "aws, not, infrastructure, kuberns, they, what, developer, developers",
+        "generated": "2026-06-06T04:00:30.108691",
+        "file": "why-developers-are-moving-away-from-aws-to-simpler-platforms.md"
+    },
+    {
         "title": "Paper2Code: Automating Code Generation from Scientific Papers in MachineLearning",
         "slug": "paper2code-automating-code-generation-from-scientific-papers-in-machinelearning",
         "author": "Paperium",
@@ -231,6 +275,28 @@
         "file": "claude-mcp-integrations-through-a-proxy-how-shadoclaw-keeps-your-tool-chains-stable.md"
     },
     {
+        "title": "Nordstjernen Web Browser 1.0.0 released",
+        "slug": "nordstjernen-web-browser-100-released",
+        "author": "andreasrosdal",
+        "source": "hackernews",
+        "published": "Fri, 05 Jun 2026 23:42:54 +0000",
+        "description": "Article URL: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48419821 Points: 21 # Com...",
+        "keywords": "nordstjernen, web, url, https, com, comments, browser, released",
+        "generated": "2026-06-06T04:00:30.105458",
+        "file": "nordstjernen-web-browser-100-released.md"
+    },
+    {
+        "title": "Show HN: ABC Classic 100 Rankings visualised",
+        "slug": "show-hn-abc-classic-100-rankings-visualised",
+        "author": "gotski",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 01:32:09 +0000",
+        "description": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years. I've cons...",
+        "keywords": "abc, classic, rankings, also, bit, comments, show, visualised",
+        "generated": "2026-06-06T04:00:30.105219",
+        "file": "show-hn-abc-classic-100-rankings-visualised.md"
+    },
+    {
         "title": "Programmers will document for Claude, but not for each other",
         "slug": "programmers-will-document-for-claude-but-not-for-each-other",
         "author": "surprisetalk",
@@ -251,6 +317,17 @@
         "keywords": "url, https, com, news, comments, astronauts, iss, told",
         "generated": "2026-06-05T15:19:56.041017",
         "file": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md"
+    },
+    {
+        "title": "Browser Agent Firewall for AI SaaS: Filter Web Pages Before They Burn Tokens or Trust",
+        "slug": "browser-agent-firewall-for-ai-saas-filter-web-pages-before-they-burn-tokens-or-trust",
+        "author": "Jack M",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 03:49:43 +0000",
+        "description": "If your AI agent can browse the web, every page is now part of your prompt surface. That sounds useful until the agent reads a cookie banner, a hidden instru...",
+        "keywords": "page, not, browser, agent, text, model, content, risk",
+        "generated": "2026-06-06T04:00:30.109619",
+        "file": "browser-agent-firewall-for-ai-saas-filter-web-pages-before-they-burn-tokens-or-trust.md"
     },
     {
         "title": "AI Integration Services: Connect AI to Your Tech Stack",
@@ -284,6 +361,17 @@
         "keywords": "trust, meta, investment, capability, platform, not, developer, execution",
         "generated": "2026-06-05T10:10:12.600501",
         "file": "meta-spent-more-on-ai-than-anyone-except-google-its-platform-is-still-not-out-the-door.md"
+    },
+    {
+        "title": "How to Convert Excel to PDF with Python Automation",
+        "slug": "how-to-convert-excel-to-pdf-with-python-automation",
+        "author": "Oddshop",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 02:44:13 +0000",
+        "description": "Excel to pdf converter tools are a common necessity when you need to share structured data from spreadsheets in a portable format. But manually exporting eac...",
+        "keywords": "pdf, excel, you, python, table, data, files, spreadsheet",
+        "generated": "2026-06-06T04:00:30.107024",
+        "file": "how-to-convert-excel-to-pdf-with-python-automation.md"
     },
     {
         "title": "Why Appliance Model Numbers Matter More Than Most People Realize",
@@ -328,6 +416,17 @@
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
         "generated": "2026-06-05T10:13:51.905885",
         "file": "python-decorators-explained-simply.md"
+    },
+    {
+        "title": "The intracies of modern camera lens repair (2024)",
+        "slug": "the-intracies-of-modern-camera-lens-repair-2024",
+        "author": "transistor-man",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 00:33:26 +0000",
+        "description": "Article URL: https://salvagedcircuitry.com/sigma-45mm.html Comments URL: https://news.ycombinator.com/item?id=48420148 Points: 91 # Comments: 26",
+        "keywords": "url, https, com, comments, intracies, modern, camera, lens",
+        "generated": "2026-06-06T04:00:30.105344",
+        "file": "the-intracies-of-modern-camera-lens-repair-2024.md"
     },
     {
         "title": "Track AI Token Usage From Your Mac Menu Bar With Trackr Bar",
@@ -418,6 +517,17 @@
         "file": "ai-can-write-mern-code-but-architecture-still-needs-a-developer.md"
     },
     {
+        "title": "Structural exclusion is the only defense that scales",
+        "slug": "structural-exclusion-is-the-only-defense-that-scales",
+        "author": "Chief Mojo Risin'",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 03:44:42 +0000",
+        "description": "Structural exclusion is the only defense that scales. A single line. Hold it. More as the build matures. — chiefmojo79",
+        "keywords": "structural, exclusion, only, defense, scales, single, line, hold",
+        "generated": "2026-06-06T04:00:30.110812",
+        "file": "structural-exclusion-is-the-only-defense-that-scales.md"
+    },
+    {
         "title": "The case for persistent sandboxes in AI code execution",
         "slug": "the-case-for-persistent-sandboxes-in-ai-code-execution",
         "author": "Arun Raghunath",
@@ -440,6 +550,17 @@
         "file": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it.md"
     },
     {
+        "title": "OpenAI Help: Lockdown Mode",
+        "slug": "openai-help-lockdown-mode",
+        "author": "berlianta",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 03:36:15 +0000",
+        "description": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode Comments URL: https://news.ycombinator.com/item?id=48421145 Points: 7 # Comments: 3",
+        "keywords": "openai, help, lockdown, mode, url, https, com, comments",
+        "generated": "2026-06-06T04:00:30.104813",
+        "file": "openai-help-lockdown-mode.md"
+    },
+    {
         "title": "The Biggest Mistake I Made When Building an AI Troubleshooting Tool",
         "slug": "the-biggest-mistake-i-made-when-building-an-ai-troubleshooting-tool",
         "author": "Michael Groover",
@@ -451,6 +572,17 @@
         "file": "the-biggest-mistake-i-made-when-building-an-ai-troubleshooting-tool.md"
     },
     {
+        "title": "AI didn’t invent code drift. It made it harder to ignore.",
+        "slug": "ai-didnt-invent-code-drift-it-made-it-harder-to-ignore",
+        "author": "Scarab Systems",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 03:43:58 +0000",
+        "description": "I started noticing this while building a real frontend/backend system with AI assistance. The problem was not that the AI could not code. It could. It could ...",
+        "keywords": "not, what, code, repo, drift, system, problem, more",
+        "generated": "2026-06-06T04:00:30.107615",
+        "file": "ai-didnt-invent-code-drift-it-made-it-harder-to-ignore.md"
+    },
+    {
         "title": "I gave Claude an API to post to my dev blog (and the bcrypt hash broke in 2 different places)",
         "slug": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places",
         "author": "Sensational-DEV",
@@ -460,6 +592,17 @@
         "keywords": "api, key, env, claude, post, next, return, bcrypt",
         "generated": "2026-06-05T10:13:51.908280",
         "file": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places.md"
+    },
+    {
+        "title": "NEP: A Semantic Transform That Beats zstd by 12% on Ethereum JSON-RPC Data",
+        "slug": "nep-a-semantic-transform-that-beats-zstd-by-12-on-ethereum-json-rpc-data",
+        "author": "Lourens Wasserman",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 03:15:58 +0000",
+        "description": "If you've ever looked at what Ethereum JSON-RPC responses actually contain, you'll notice most of the data is structured waste: hex strings that could be raw...",
+        "keywords": "zstd, nep, ethereum, json, blocks, block, compression, stage",
+        "generated": "2026-06-06T04:00:30.106656",
+        "file": "nep-a-semantic-transform-that-beats-zstd-by-12-on-ethereum-json-rpc-data.md"
     },
     {
         "title": "Washington Mystics vs Dallas Wings: WNBA Preview & Picks",
@@ -528,6 +671,50 @@
         "file": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it.md"
     },
     {
+        "title": "Encryption at rest and in transit: what every developer needs to know",
+        "slug": "encryption-at-rest-and-in-transit-what-every-developer-needs-to-know",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 03:50:20 +0000",
+        "description": "Encryption at rest and in transit: what every developer needs to know Encryption is the foundation of data security. Encryption in transit protects data as i...",
+        "keywords": "encryption, data, rest, protects, key, transit, tls, like",
+        "generated": "2026-06-06T04:00:30.107403",
+        "file": "encryption-at-rest-and-in-transit-what-every-developer-needs-to-know.md"
+    },
+    {
+        "title": "Ask HN: Why is the HN crowd so anti-AI?",
+        "slug": "ask-hn-why-is-the-hn-crowd-so-anti-ai",
+        "author": "Ekami",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 02:31:51 +0000",
+        "description": "Genuine question. Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes...",
+        "keywords": "code, version, been, make, care, product, more, than",
+        "generated": "2026-06-06T04:00:30.105045",
+        "file": "ask-hn-why-is-the-hn-crowd-so-anti-ai.md"
+    },
+    {
+        "title": "bipixie-mcp added to PyPI",
+        "slug": "bipixie-mcp-added-to-pypi",
+        "author": "Clyde C",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 03:48:12 +0000",
+        "description": "Why It Matters The addition of bipixie-mcp to PyPI is a significant development for data analysts and AI engineers working with Power BI and Python. This pac...",
+        "keywords": "data, bipixie, mcp, pypi, our, analytics, will, access",
+        "generated": "2026-06-06T04:00:30.106383",
+        "file": "bipixie-mcp-added-to-pypi.md"
+    },
+    {
+        "title": "Leni",
+        "slug": "leni",
+        "author": "tech_minimalist",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 03:47:07 +0000",
+        "description": "Leni Technical Analysis Leni is an AI-powered tool designed to help users generate and manage their online presence, primarily through creating and schedulin...",
+        "keywords": "content, leni, user, social, media, using, access, like",
+        "generated": "2026-06-06T04:00:30.110307",
+        "file": "leni.md"
+    },
+    {
         "title": "How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong)",
         "slug": "how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong",
         "author": "Muhammad Masad Ashraf",
@@ -537,6 +724,17 @@
         "keywords": "shopify, your, secret, webhook, hmac, verification, const, payload",
         "generated": "2026-06-05T20:02:11.236434",
         "file": "how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong.md"
+    },
+    {
+        "title": "Make Your Own AI Modle With One Line of Code",
+        "slug": "make-your-own-ai-modle-with-one-line-of-code",
+        "author": "Asaad Shakeel",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 02:35:56 +0000",
+        "description": "Visist this Repo: https://github.com/asaad123sh/MAS-AI-LANGUAGE-DSL Download Release: https://github.com/asaad123sh/MAS-AI-LANGUAGE-DSL/releases/download/v0....",
+        "keywords": "mas, language, you, download, modle, code, https, github",
+        "generated": "2026-06-06T04:00:30.107201",
+        "file": "make-your-own-ai-modle-with-one-line-of-code.md"
     },
     {
         "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
@@ -614,6 +812,17 @@
         "keywords": "polymarket, trading, market, order, bot, data, execution, self",
         "generated": "2026-06-05T15:19:56.042411",
         "file": "optimizing-websocket-processing-for-high-speed-market-data-with-polymarket-clob.md"
+    },
+    {
+        "title": "Edge computing patterns: CDNs, workers, and regional processing",
+        "slug": "edge-computing-patterns-cdns-workers-and-regional-processing",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 03:40:18 +0000",
+        "description": "Edge computing patterns: CDNs, workers, and regional processing Edge computing moves computation closer to users, reducing latency and improving experience. ...",
+        "keywords": "edge, computing, caching, cdn, functions, cache, content, patterns",
+        "generated": "2026-06-06T04:00:30.108024",
+        "file": "edge-computing-patterns-cdns-workers-and-regional-processing.md"
     },
     {
         "title": "Your Pipeline Is 14.3h Behind: Catching Investing Sentiment Leads with Pulsebit",
@@ -724,6 +933,17 @@
         "keywords": "url, https, comments, tracing, powerful, gnss, interference, source",
         "generated": "2026-06-05T10:13:51.904580",
         "file": "tracing-a-powerful-gnss-interference-source-over-europe.md"
+    },
+    {
+        "title": "I built a data-contract validator in pure Python (no pandas, no PyYAML) and it caught a 30% revenue ghost",
+        "slug": "i-built-a-data-contract-validator-in-pure-python-no-pandas-no-pyyaml-and-it-caught-a-30-revenue-ghost",
+        "author": "Haji Rufai",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 03:51:24 +0000",
+        "description": "A few months ago I spent the better part of a day chasing a bug that turned out not to be a bug at all. A downstream dashboard showed revenue had jumped 30% ...",
+        "keywords": "data, datapact, report, contract, you, column, yaml, not",
+        "generated": "2026-06-06T04:00:30.106105",
+        "file": "i-built-a-data-contract-validator-in-pure-python-no-pandas-no-pyyaml-and-it-caught-a-30-revenue-ghost.md"
     },
     {
         "title": "I Was Supposed to Fix Bugs. I Accidentally Built Two Features Instead. PC Workman 1.7.8 - Advanced Deep Learning AI, Supply Monitor and Health Keeper.",
