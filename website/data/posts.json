@@ -77,6 +77,17 @@
         "file": "build-a-dependency-dashboard-with-automated-updates-using-renovate.md"
     },
     {
+        "title": "PySecToolkit：Python安全工具包全面解析",
+        "slug": "pysectoolkitpython",
+        "author": "WDSEGA",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 13:29:45 +0000",
+        "description": "在当今网络安全威胁日益严峻的环境下，Python开发者需要一套 可靠、易用、功能全面 的安全工具包。今天，我就来为大家介绍 PySecToolkit ——一款集成了7大安全功能的Python工具包。 为什么需要PySecToolkit？ Python应用面临着各种安全威胁：SQL注入、XSS攻击、密码强度不足、敏...",
+        "keywords": "pysectoolkit, paypal, content, security, policy, frame, gumroad, payhip",
+        "generated": "2026-06-06T13:56:22.889468",
+        "file": "pysectoolkitpython.md"
+    },
+    {
         "title": "The Developer's Guide to Data Pipeline Automation: Beyond Cron Jobs",
         "slug": "the-developers-guide-to-data-pipeline-automation-beyond-cron-jobs",
         "author": "howiprompt",
@@ -176,6 +187,17 @@
         "file": "detect-pdf-tampering-programmatically-developer-guide.md"
     },
     {
+        "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+        "slug": "nvidia-is-proposing-a-beast-of-a-cpu-system-for-windows-pcs",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 12:52:18 +0000",
+        "description": "Article URL: https://twitter.com/lemire/status/2062880075117113739 Comments URL: https://news.ycombinator.com/item?id=48424605 Points: 21 # Comments: 23",
+        "keywords": "url, https, com, comments, nvidia, proposing, beast, cpu",
+        "generated": "2026-06-06T13:56:22.888861",
+        "file": "nvidia-is-proposing-a-beast-of-a-cpu-system-for-windows-pcs.md"
+    },
+    {
         "title": "India's surprise baby bust is a warning to the world",
         "slug": "indias-surprise-baby-bust-is-a-warning-to-the-world",
         "author": "hakonbogen",
@@ -185,6 +207,17 @@
         "keywords": "surprise, baby, bust, warning, world, url, https, com",
         "generated": "2026-06-05T15:19:56.041318",
         "file": "indias-surprise-baby-bust-is-a-warning-to-the-world.md"
+    },
+    {
+        "title": "BizNode now has 7 tiers from $20 to $1500. API-hosted tiers need zero installation — your bot runs on BizNode...",
+        "slug": "biznode-now-has-7-tiers-from-20-to-1500-api-hosted-tiers-need-zero-installation-your-bot-runs-on-biznode",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 13:41:37 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, tiers, dzit, now, has, api",
+        "generated": "2026-06-06T13:56:22.893825",
+        "file": "biznode-now-has-7-tiers-from-20-to-1500-api-hosted-tiers-need-zero-installation-your-bot-runs-on-biznode.md"
     },
     {
         "title": "AI Automation for Ai For Small Scale Specialty Food Producers How To Automate Fdanutrition Label Generation And Ingredient So...",
@@ -242,6 +275,17 @@
         "file": "introducing-ozymorlab-building-the-operating-system-for-modern-education.md"
     },
     {
+        "title": "I Tested 17 AI Tools Side by Side — Here's What Actually Matters",
+        "slug": "i-tested-17-ai-tools-side-by-side-heres-what-actually-matters",
+        "author": "Aittolblaze",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 13:43:25 +0000",
+        "description": "I Tested 17 AI Tools Side by Side — Here's What Actually Matters A few months ago I got tired of bookmarking AI tools I never used. My tab bar looked like a ...",
+        "keywords": "one, you, tools, tool, side, actually, which, pricing",
+        "generated": "2026-06-06T13:56:22.892817",
+        "file": "i-tested-17-ai-tools-side-by-side-heres-what-actually-matters.md"
+    },
+    {
         "title": "AI Agent Guidelines for CS336 at Stanford",
         "slug": "ai-agent-guidelines-for-cs336-at-stanford",
         "author": "ironbyte-rgb",
@@ -295,6 +339,17 @@
         "keywords": "automating, code, generation, scientific, papers, machinelearning, json, postcontent",
         "generated": "2026-06-05T20:02:11.239885",
         "file": "paper2code-automating-code-generation-from-scientific-papers-in-machinelearning.md"
+    },
+    {
+        "title": "Why Use UTF-8 in File Handling?",
+        "slug": "why-use-utf-8-in-file-handling",
+        "author": "Arul .A",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 13:45:04 +0000",
+        "description": "UTF-8 is a character encoding standard.It is used to store and read text files correctly. -It supports mostly all languages and special characters.Nowadays m...",
+        "keywords": "utf, file, using, encoding, languages, can, store, read",
+        "generated": "2026-06-06T13:56:22.891066",
+        "file": "why-use-utf-8-in-file-handling.md"
     },
     {
         "title": "What a Refrigerator Taught Me About Building an AI Troubleshooting Tool",
@@ -407,6 +462,17 @@
         "file": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md"
     },
     {
+        "title": "Using Symfony Forms as Controller Arguments with #[MapRequestToForm]",
+        "slug": "using-symfony-forms-as-controller-arguments-with-maprequesttoform",
+        "author": "AzYouness",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 13:32:17 +0000",
+        "description": "I recently published a small Symfony bundle called Request To Form Bundle . I have been using Symfony for a while now, and in several REST API projects I hav...",
+        "keywords": "form, post, request, data, symfony, controller, maprequesttoform, use",
+        "generated": "2026-06-06T13:56:22.892143",
+        "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
+    },
+    {
         "title": "The back cover of C++: The Language raises questions not answered by front cover",
         "slug": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover",
         "author": "paulmooreparks",
@@ -438,6 +504,17 @@
         "keywords": "data, model, integration, your, system, use, batch, monitoring",
         "generated": "2026-06-05T10:10:12.598300",
         "file": "ai-integration-services-connect-ai-to-your-tech-stack.md"
+    },
+    {
+        "title": "How I Validated My Micro-SaaS Idea in 48 Hours Without Writing a Single Line of Code",
+        "slug": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code",
+        "author": "Affan Bin Yeakub",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 13:38:14 +0000",
+        "description": "Most developers I know have a graveyard of half-built projects. Not because they couldn't build. Because they built the wrong thing. I was the same. I'd get ...",
+        "keywords": "you, people, what, problem, validation, just, build, building",
+        "generated": "2026-06-06T13:56:22.891428",
+        "file": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code.md"
     },
     {
         "title": "From Rust CLI bug-hunting to a massive Portfolio overhaul",
@@ -532,10 +609,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Sat, 06 Jun 2026 08:38:34 +0000",
+        "published": "Sat, 06 Jun 2026 12:44:26 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-06-06T08:41:07.448313",
+        "generated": "2026-06-06T13:56:22.889868",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -548,6 +625,17 @@
         "keywords": "url, https, com, comments, intracies, modern, camera, lens",
         "generated": "2026-06-06T04:00:30.105344",
         "file": "the-intracies-of-modern-camera-lens-repair-2024.md"
+    },
+    {
+        "title": "How to Use Mistral for Llm-Friendly Content Structure in 2026",
+        "slug": "how-to-use-mistral-for-llm-friendly-content-structure-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 13:42:28 +0000",
+        "description": "Originally published at https://seointent.com/blog/mistral-for-llm-friendly-content-structure TL;DR - Mistral for llm-friendly content structure creates cont...",
+        "keywords": "content, mistral, structure, friendly, llm, semantic, prompts, structured",
+        "generated": "2026-06-06T13:56:22.893671",
+        "file": "how-to-use-mistral-for-llm-friendly-content-structure-in-2026.md"
     },
     {
         "title": "Track AI Token Usage From Your Mac Menu Bar With Trackr Bar",
@@ -671,6 +759,17 @@
         "file": "structural-exclusion-is-the-only-defense-that-scales.md"
     },
     {
+        "title": "I built an independent search engine—and the results were interesting",
+        "slug": "i-built-an-independent-search-engineand-the-results-were-interesting",
+        "author": "Splot Dev",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 13:11:59 +0000",
+        "description": "A few months ago, I came across FrogFind , a retro search engine, and I decided that I wanted to try my hand at making one, too. I first started with the cra...",
+        "keywords": "search, engine, quokko, engines, crawler, wanted, simple, experience",
+        "generated": "2026-06-06T13:56:22.889684",
+        "file": "i-built-an-independent-search-engineand-the-results-were-interesting.md"
+    },
+    {
         "title": "The case for persistent sandboxes in AI code execution",
         "slug": "the-case-for-persistent-sandboxes-in-ai-code-execution",
         "author": "Arun Raghunath",
@@ -693,6 +792,17 @@
         "file": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it.md"
     },
     {
+        "title": "Quark's Outlines: Python User-defined Methods",
+        "slug": "quarks-outlines-python-user-defined-methods",
+        "author": "Mike Vincent",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 12:36:28 +0000",
+        "description": "Quark’s Outlines: Python User-Defined Methods Overview, Historical Timeline, Problems & Solutions An Overview of Python User-Defined Methods What is a Python...",
+        "keywords": "you, method, python, class, methods, function, object, instance",
+        "generated": "2026-06-06T13:56:22.890874",
+        "file": "quarks-outlines-python-user-defined-methods.md"
+    },
+    {
         "title": "OpenAI Help: Lockdown Mode",
         "slug": "openai-help-lockdown-mode",
         "author": "berlianta",
@@ -713,6 +823,17 @@
         "keywords": "building, biggest, when, troubleshooting, they, more, answer, started",
         "generated": "2026-06-05T15:19:56.044945",
         "file": "the-biggest-mistake-i-made-when-building-an-ai-troubleshooting-tool.md"
+    },
+    {
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "slug": "google-will-pay-spacex-920m-per-month-for-compute",
+        "author": "ramanan",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 11:46:15 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/ Comments URL: https://news.ycombinator.com/item?id=48423990...",
+        "keywords": "google, will, pay, spacex, per, month, compute, url",
+        "generated": "2026-06-06T13:56:22.889349",
+        "file": "google-will-pay-spacex-920m-per-month-for-compute.md"
     },
     {
         "title": "Your Flask App Will Break on Railway Unless You Do This First",
@@ -803,6 +924,17 @@
         "file": "how-ai-is-transforming-staffing-software-in-2026.md"
     },
     {
+        "title": "Advanced CSS layouts: container queries, grid, and subgrid in practice",
+        "slug": "advanced-css-layouts-container-queries-grid-and-subgrid-in-practice",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 13:30:19 +0000",
+        "description": "Advanced CSS layouts: container queries, grid, and subgrid in practice CSS layout has evolved dramatically. Modern CSS provides layout tools that were unimag...",
+        "keywords": "grid, css, layout, container, queries, layouts, subgrid, use",
+        "generated": "2026-06-06T13:56:22.892347",
+        "file": "advanced-css-layouts-container-queries-grid-and-subgrid-in-practice.md"
+    },
+    {
         "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
         "slug": "accidentally-deleted-subscriptions-for-chat-integrations-slack-and-ms-teams",
         "author": "SparkyDogs",
@@ -845,6 +977,17 @@
         "keywords": "encryption, data, rest, protects, key, transit, tls, like",
         "generated": "2026-06-06T04:00:30.107403",
         "file": "encryption-at-rest-and-in-transit-what-every-developer-needs-to-know.md"
+    },
+    {
+        "title": "The Meeting That Became a Nervous System",
+        "slug": "the-meeting-that-became-a-nervous-system",
+        "author": "Masato　Kato",
+        "source": "devto_python",
+        "published": "Sat, 06 Jun 2026 12:38:58 +0000",
+        "description": "Introduction: From Meeting Room to Nervous System Part 6 ended on Day 495 (May 1, 2026). At 197: the system names what it feels. Thirty-five days later: Da...",
+        "keywords": "system, not, who, day, part, personas, wishes, what",
+        "generated": "2026-06-06T13:56:22.890381",
+        "file": "the-meeting-that-became-a-nervous-system.md"
     },
     {
         "title": "Ask HN: Why is the HN crowd so anti-AI?",
@@ -1056,6 +1199,28 @@
         "file": "nvidias-new-model-on-sagemaker-a-cli-for-ai-pipelines-uk-ai-rules-and-a-worm-threat.md"
     },
     {
+        "title": "Ai Image Generator — Free Online Tool",
+        "slug": "ai-image-generator-free-online-tool",
+        "author": "BAOMING",
+        "source": "devto_webdev",
+        "published": "Sat, 06 Jun 2026 13:37:55 +0000",
+        "description": "title: Ai Image Generator tags: webdev, programming, tutorial, productivity canonical: https://tools.scoreroute.com/tools/ai-image-generator/ Ai Image Gene...",
+        "keywords": "generator, tool, image, free, tools, browser, scoreroute, answer",
+        "generated": "2026-06-06T13:56:22.891659",
+        "file": "ai-image-generator-free-online-tool.md"
+    },
+    {
+        "title": "The new bibliomaniacs",
+        "slug": "the-new-bibliomaniacs",
+        "author": "RickJWagner",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 12:03:21 +0000",
+        "description": "Article URL: https://engelsbergideas.com/notebook/the-new-bibliomaniacs/ Comments URL: https://news.ycombinator.com/item?id=48424125 Points: 12 # Comments: 10",
+        "keywords": "new, bibliomaniacs, url, https, com, comments, article, engelsbergideas",
+        "generated": "2026-06-06T13:56:22.889151",
+        "file": "the-new-bibliomaniacs.md"
+    },
+    {
         "title": "Zero to Autopilot, Part 1: I Built an AI That Runs a YouTube Channel (the landscape, and my $10 wake-up call)",
         "slug": "zero-to-autopilot-part-1-i-built-an-ai-that-runs-a-youtube-channel-the-landscape-and-my-10-wake-up-call",
         "author": "Maksims Gavrilovs",
@@ -1087,6 +1252,17 @@
         "keywords": "ladybird, changing, how, develop, url, https, comments, article",
         "generated": "2026-06-05T10:13:51.904850",
         "file": "changing-how-we-develop-ladybird.md"
+    },
+    {
+        "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+        "slug": "mbodi-ai-yc-p25-is-hiring-founding-machine-learning-engineer-robotics",
+        "author": "chitianhao",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 12:00:56 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?i...",
+        "keywords": "mbodi, founding, machine, learning, engineer, url, https, ycombinator",
+        "generated": "2026-06-06T13:56:22.889254",
+        "file": "mbodi-ai-yc-p25-is-hiring-founding-machine-learning-engineer-robotics.md"
     },
     {
         "title": "Setting Up DORA Metrics in GitHub Actions Without Buying Anything",
@@ -1166,14 +1342,25 @@
         "file": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices.md"
     },
     {
+        "title": "Your Software Factory Is a Dark Kitchen. The $1,000 Nobody Mentions.",
+        "slug": "your-software-factory-is-a-dark-kitchen-the-1000-nobody-mentions",
+        "author": "Phil Rentier Digital",
+        "source": "devto_ai",
+        "published": "Sat, 06 Jun 2026 13:41:11 +0000",
+        "description": "The summer of 2021, everyone opened a dark kitchen. Rent an industrial space on the city's edge, slap a brand on Deliveroo, skip the dining room and the serv...",
+        "keywords": "what, factory, you, agent, not, kitchen, before, software",
+        "generated": "2026-06-06T13:56:22.894617",
+        "file": "your-software-factory-is-a-dark-kitchen-the-1000-nobody-mentions.md"
+    },
+    {
         "title": "Topology rewrite not bug repair",
         "slug": "topology-rewrite-not-bug-repair",
         "author": "Chief Mojo Risin'",
         "source": "devto_ai",
-        "published": "Fri, 05 Jun 2026 15:14:18 +0000",
+        "published": "Sat, 06 Jun 2026 13:44:48 +0000",
         "description": "Topology rewrite not bug repair. A single line. Hold it. More as the build matures. — chiefmojo79",
         "keywords": "topology, rewrite, not, bug, repair, single, line, hold",
-        "generated": "2026-06-05T15:19:56.047421",
+        "generated": "2026-06-06T13:56:22.892434",
         "file": "topology-rewrite-not-bug-repair.md"
     },
     {
@@ -1186,5 +1373,16 @@
         "keywords": "atlas, search, vault, system, every, your, you, skills",
         "generated": "2026-06-05T15:19:56.043117",
         "file": "how-i-built-a-personal-ai-operating-system-with-claude-python-and-local-llms.md"
+    },
+    {
+        "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+        "slug": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
+        "author": "mekpro",
+        "source": "hackernews",
+        "published": "Sat, 06 Jun 2026 12:15:59 +0000",
+        "description": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.co...",
+        "keywords": "meta, keeps, delaying, release, its, new, model, developers",
+        "generated": "2026-06-06T13:56:22.889034",
+        "file": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers.md"
     }
 ]
