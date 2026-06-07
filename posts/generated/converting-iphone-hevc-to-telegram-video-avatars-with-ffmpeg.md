@@ -1,0 +1,34 @@
+---
+title: "Converting iPhone HEVC to Telegram Video Avatars with ffmpeg"
+slug: "converting-iphone-hevc-to-telegram-video-avatars-with-ffmpeg"
+author: "liveavabot"
+source: "devto_python"
+published: "Sun, 07 Jun 2026 09:05:05 +0000"
+description: "The Problem: iPhone Videos That Telegram Silently Rejects iPhone records video in HEVC (H.265). That's fine for most things. But when you try to set an iPhon..."
+keywords: "telegram, video, bot, hevc, ffmpeg, msg, crop, iphone"
+generated: "2026-06-07T09:24:56.816744"
+---
+
+# Converting iPhone HEVC to Telegram Video Avatars with ffmpeg
+
+## Overview
+
+The Problem: iPhone Videos That Telegram Silently Rejects iPhone records video in HEVC (H.265). That's fine for most things. But when you try to set an iPhone video as your Telegram profile video avatar, Telegram either silently fails or shows a generic error. No explanation. The video just doesn't stick. I ran into this myself. Then I noticed others in Telegram groups asking the same question. The spec Telegram enforces is stricter than most people realize. What Telegram Actually Requires for Video Avatars The constraints are specific: Codec: H.264 (not HEVC/H.265, not VP9) Resolution: exactly 800x800 pixels Duration: 10 seconds maximum File size: 2MB maximum Audio: must be removed (profile videos are silent) Pixel format: yuv420p (a lot of encoders default to yuv444p, which Telegram rejects) That last one trips people up. Even if you convert HEVC to H.264, if you skip -pix_fmt yuv420p , Telegram might still reject the file silently. The silent failure makes this particularly annoying to debug. The ffmpeg Pipeline That Actually Works The core conversion is two steps. First, detect crop boundaries for vertical iPhone videos that have black bars. Second, encode to spec. Here's the command I settled on after a lot of trial and error: # Step 1: detect crop (run on a 5-second sample) ffmpeg -i input.mov -vf cropdetect = 24:16:0 -t 5 -f null - 2>&1 | grep crop # Step 2: encode to Telegram avatar spec # Replace crop=W:H:X:Y with values from step 1, or remove the crop filter ffmpeg -i input.mov \ -vf "crop=W:H:X:Y,scale=800:800:force_original_aspect_ratio=decrease,pad=800:800:(ow-iw)/2:(oh-ih)/2,setsar=1,fps=30" \ -c :v libx264 \ -preset fast \ -crf 28 \ -pix_fmt yuv420p \ -movflags +faststart \ -an \ -t 10 \ output.mp4 The -an flag strips audio. -movflags +faststart moves the MOOV atom to the front, which Telegram needs for streaming. The pad filter letterboxes to square, avoiding distortion on portrait or landscape shots. For outputs that land over 2MB, I bump CRF by 4 and re-encode. At 800x800 you rarely notice the quality difference. The Aiogram 3 Bot Handler Wrapping this in a Telegram bot makes it practical for non-technical users. They send a video or GIF, the bot processes it, and sends back a ready-to-use avatar file. Here's the core handler using aiogram 3: from aiogram import Router , F from aiogram.types import Message , BufferedInputFile import subprocess , tempfile , pathlib router = Router () FFMPEG_ARGS = [ " -vf " , " scale=800:800:force_original_aspect_ratio=decrease, " " pad=800:800:(ow-iw)/2:(oh-ih)/2,setsar=1,fps=30 " , " -c:v " , " libx264 " , " -preset " , " fast " , " -crf " , " 28 " , " -pix_fmt " , " yuv420p " , " -movflags " , " +faststart " , " -an " , " -t " , " 10 " , ] @router.message ( F . video | F . animation | F . document ) async def handle_video ( msg : Message , bot ): await msg . answer ( " Converting... this takes a few seconds. " ) file_id = ( msg . video or msg . animation or msg . document ). file_id tg_file = await bot . get_file ( file_id ) with tempfile . TemporaryDirectory () as tmpdir : src = pathlib . Path ( tmpdir ) / " input " dst = pathlib . Path ( tmpdir ) / " output.mp4 " await bot . download_file ( tg_file . file_path , destination = str ( src )) result = subprocess . run ( [ " ffmpeg " , " -y " , " -i " , str ( src )] + FFMPEG_ARGS + [ str ( dst )], capture_output = True , timeout = 60 , ) if result . returncode != 0 or not dst . exists (): await msg . answer ( " Conversion failed. Try a shorter or smaller video. " ) return if dst . stat (). st_size > 2 * 1024 * 1024 : await msg . answer ( " Result is over 2MB. Try a shorter clip. " ) return await msg . answer_video ( BufferedInputFile ( dst . read_bytes (), filename = " avatar.mp4 " ), caption = " Set this as your Telegram profile video. " , ) I use a temporary directory so cleanup is automatic. The 60-second timeout catches ffmpeg hanging on malformed inputs. The explicit 2MB check after encoding gives a clear error instead of Telegram silently failing on upload. Packaging This as @liveavabot I packaged this pipeline into @LiveAvaBot . It handles conversion without any local setup. The bot has 119 users so far. Most inputs are iPhone HEVC .mov files, but it also handles GIFs and MP4s with wrong resolution or duration. A few things I added beyond the basic pipeline: HEVC detection. I probe the input with ffprobe -v error -select_streams v:0 -show_entries stream=codec_name before passing it to ffmpeg. If the codec is hevc , I log it separately. Helps with debugging since most users have no idea what codec their phone uses. Size feedback loop. If the first encode comes out over 2MB, I retry with CRF bumped by 4. Usually enough to get under the limit at avatar resolution without visible quality loss. GIF handling. Animated GIFs sent to Telegram are stored internally as MPEG-4 animations. The bot accepts both raw GIF inputs and the already-converted animation type, so users don't need to think about the distinction. Edge Cases and What's Left A few things the bot doesn't handle yet: 4K input crashes ffmpeg on the VPS because of RAM limits. I cap accepted file size at 50MB for now. Portrait videos with heavy pillarboxing look off at 800x800 even after cropdetect. I haven't found a reliable automatic crop threshold for very narrow-content videos. Some HEVC files from older iPhones use hvc1 instead of hevc as the codec tag in the container. ffprobe handles both, but worth knowing if you're probing manually with a different tool. ffmpeg is doing the heavy lifting here. The bot is mostly a wrapper that handles Telegram's file download and upload API and feeds inputs to the subprocess. Built by me. Try it without setting up anything locally: https://t.me/LiveAvaBot?start=devto_article_20260607
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/liveavabot/converting-iphone-hevc-to-telegram-video-avatars-with-ffmpeg-2bo6
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

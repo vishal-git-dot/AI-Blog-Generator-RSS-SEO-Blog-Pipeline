@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Sun, 07 Jun 2026 02:46:37 +0000"
 description: "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=48431286 Poin..."
 keywords: "polo, article, url, https, comments, field, clones, how"
-generated: "2026-06-07T04:26:51.961244"
+generated: "2026-06-07T09:24:56.816037"
 ---
 
 # Field of clones: How horse replicas came to dominate polo
 
 ## Overview
 
-Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=48431286 Points: 30 # Comments: 12
+Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=48431286 Points: 81 # Comments: 39
 
 ## Key Insights
 

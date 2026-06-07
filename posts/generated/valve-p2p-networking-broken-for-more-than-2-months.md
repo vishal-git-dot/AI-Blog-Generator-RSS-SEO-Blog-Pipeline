@@ -4,16 +4,16 @@ slug: "valve-p2p-networking-broken-for-more-than-2-months"
 author: "babuskov"
 source: "hackernews"
 published: "Sun, 07 Jun 2026 03:21:52 +0000"
-description: "Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 Comments URL: https://news.ycombinator.com/item?id=48431461 Points: 33 # Comme..."
+description: "Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 Comments URL: https://news.ycombinator.com/item?id=48431461 Points: 152 # Comm..."
 keywords: "url, https, com, comments, valve, networking, broken, more"
-generated: "2026-06-07T04:26:51.960931"
+generated: "2026-06-07T09:24:56.815890"
 ---
 
 # Valve P2P networking broken for more than 2 months
 
 ## Overview
 
-Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 Comments URL: https://news.ycombinator.com/item?id=48431461 Points: 33 # Comments: 9
+Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398 Comments URL: https://news.ycombinator.com/item?id=48431461 Points: 152 # Comments: 71
 
 ## Key Insights
 

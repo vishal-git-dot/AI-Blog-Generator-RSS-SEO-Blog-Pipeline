@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Sun, 07 Jun 2026 02:12:19 +0000"
 description: "Article URL: https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/ Comments URL: https://news.ycombinator.com/item?id=48431085 ..."
 keywords: "how, liminalism, became, defining, aesthetic, our, time, url"
-generated: "2026-06-07T04:26:51.961457"
+generated: "2026-06-07T09:24:56.816170"
 ---
 
 # How Liminalism Became the Defining Aesthetic of Our Time
 
 ## Overview
 
-Article URL: https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/ Comments URL: https://news.ycombinator.com/item?id=48431085 Points: 7 # Comments: 0
+Article URL: https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/ Comments URL: https://news.ycombinator.com/item?id=48431085 Points: 62 # Comments: 35
 
 ## Key Insights
 
