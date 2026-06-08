@@ -3,10 +3,10 @@ title: "Concurrency is byproduct of capability design not bottleneck to patch"
 slug: "concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch"
 author: "Chief Mojo Risin'"
 source: "devto_ai"
-published: "Mon, 08 Jun 2026 04:36:55 +0000"
+published: "Mon, 08 Jun 2026 20:22:26 +0000"
 description: "Concurrency is byproduct of capability design not bottleneck to patch. A single line. Hold it. More as the build matures. — chiefmojo79"
 keywords: "concurrency, byproduct, capability, design, not, bottleneck, patch, single"
-generated: "2026-06-08T04:42:39.222957"
+generated: "2026-06-08T20:25:42.490121"
 ---
 
 # Concurrency is byproduct of capability design not bottleneck to patch
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-kle
+https://dev.to/chiefmojo79/concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch-107f
 
 ## Conclusion
 
