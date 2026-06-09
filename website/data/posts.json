@@ -187,6 +187,17 @@
         "file": "pysectoolkitpython.md"
     },
     {
+        "title": "We Think the SpaceX IPO Is Overvalued",
+        "slug": "we-think-the-spacex-ipo-is-overvalued",
+        "author": "0xedb",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 01:56:40 +0000",
+        "description": "Article URL: https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545 Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "think, spacex, ipo, overvalued, url, https, com, comments",
+        "generated": "2026-06-09T04:03:32.524285",
+        "file": "we-think-the-spacex-ipo-is-overvalued.md"
+    },
+    {
         "title": "Building a Secure Authentication System with Django",
         "slug": "building-a-secure-authentication-system-with-django",
         "author": "Mushi Dharun A",
@@ -407,6 +418,17 @@
         "file": "ai-humanizer-free-online-tool.md"
     },
     {
+        "title": "Five overlooked packages running my AI directory stack",
+        "slug": "five-overlooked-packages-running-my-ai-directory-stack",
+        "author": "MORINAGA",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 03:54:02 +0000",
+        "description": "The interesting parts of a project are not always the AI model or the hosting platform. This week I spent time reading source code for five dependencies that...",
+        "keywords": "etl, but, typescript, client, yaml, week, turso, tsx",
+        "generated": "2026-06-09T04:03:32.527995",
+        "file": "five-overlooked-packages-running-my-ai-directory-stack.md"
+    },
+    {
         "title": "Build a Recession Indicator with Unemployment + Inflation Data (Free API)",
         "slug": "build-a-recession-indicator-with-unemployment-inflation-data-free-api",
         "author": "linderroger-eng",
@@ -616,6 +638,17 @@
         "file": "building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents-rag.md"
     },
     {
+        "title": "Cloudflare R2: Object Storage for Edge Applications and SaaS",
+        "slug": "cloudflare-r2-object-storage-for-edge-applications-and-saas",
+        "author": "wellallyTech",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 03:45:33 +0000",
+        "description": "Cloudflare R2 is an S3-compatible object storage service with zero egress fees — a game-changer for SaaS applications. Unlike AWS S3, you pay no transfer cos...",
+        "keywords": "const, key, width, image, file, data, context, bucket",
+        "generated": "2026-06-09T04:03:32.529985",
+        "file": "cloudflare-r2-object-storage-for-edge-applications-and-saas.md"
+    },
+    {
         "title": "Why Experience Still Matters in the Age of AI",
         "slug": "why-experience-still-matters-in-the-age-of-ai",
         "author": "Michael Groover",
@@ -792,6 +825,17 @@
         "file": "why-developers-are-moving-away-from-aws-to-simpler-platforms.md"
     },
     {
+        "title": "Mobile App Monetization Benchmarks 2026: Paywalls, Trials, Pricing & AI Apps",
+        "slug": "mobile-app-monetization-benchmarks-2026-paywalls-trials-pricing-ai-apps",
+        "author": "paywallpro",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 03:55:43 +0000",
+        "description": "Building a subscription app has never been easier. Thanks to AI-assisted development tools, developers can now launch products in days instead of months. As ...",
+        "keywords": "subscription, apps, revenue, monetization, than, app, users, most",
+        "generated": "2026-06-09T04:03:32.530570",
+        "file": "mobile-app-monetization-benchmarks-2026-paywalls-trials-pricing-ai-apps.md"
+    },
+    {
         "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
         "slug": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot",
         "author": "speckx",
@@ -902,6 +946,17 @@
         "file": "why-use-utf-8-in-file-handling.md"
     },
     {
+        "title": "PagedAttention vs Traditional KV Cache: How vLLM Reinvented GPU Memory for LLM Inference",
+        "slug": "pagedattention-vs-traditional-kv-cache-how-vllm-reinvented-gpu-memory-for-llm-inference",
+        "author": "Kotcherla Murali Krishna",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 02:26:16 +0000",
+        "description": "A deep dive into memory fragmentation, paged memory management, and why PagedAttention can deliver up to 24× higher throughput than conventional KV cache imp...",
+        "keywords": "memory, block, cache, vllm, fragmentation, throughput, pagedattention, self",
+        "generated": "2026-06-09T04:03:32.527556",
+        "file": "pagedattention-vs-traditional-kv-cache-how-vllm-reinvented-gpu-memory-for-llm-inference.md"
+    },
+    {
         "title": "Agent mistakes don't fail alone, they compound",
         "slug": "agent-mistakes-dont-fail-alone-they-compound",
         "author": "Arun Kumar Molugu",
@@ -950,10 +1005,10 @@
         "slug": "how-to-build-a-faceless-youtube-channel-with-ai-in-30-days",
         "author": "Already Here LLC",
         "source": "devto_ai",
-        "published": "Mon, 08 Jun 2026 15:54:29 +0000",
-        "description": "How to Build a Faceless YouTube Channel with AI in 30 Days In an age where content is king, building a faceless YouTube channel has become a lucrative opport...",
-        "keywords": "your, you, can, videos, channel, content, faceless, youtube",
-        "generated": "2026-06-08T16:07:42.608577",
+        "published": "Tue, 09 Jun 2026 03:54:29 +0000",
+        "description": "How to Build a Faceless YouTube Channel with AI in 30 Days Creating a faceless YouTube channel can be an incredibly lucrative endeavor, especially when lever...",
+        "keywords": "your, you, can, channel, content, videos, youtube, tools",
+        "generated": "2026-06-09T04:03:32.531185",
         "file": "how-to-build-a-faceless-youtube-channel-with-ai-in-30-days.md"
     },
     {
@@ -1144,6 +1199,17 @@
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
     },
     {
+        "title": "Turso libSQL vs Cloudflare D1 for an Astro monorepo: the practical difference",
+        "slug": "turso-libsql-vs-cloudflare-d1-for-an-astro-monorepo-the-practical-difference",
+        "author": "MORINAGA",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 03:53:06 +0000",
+        "description": "When I set up the shared ETL database for three Astro SSG directory sites , I had two obvious SQLite-at-the-edge options: Turso (libSQL, runs anywhere) and C...",
+        "keywords": "turso, local, cloudflare, etl, workers, same, you, file",
+        "generated": "2026-06-09T04:03:32.528416",
+        "file": "turso-libsql-vs-cloudflare-d1-for-an-astro-monorepo-the-practical-difference.md"
+    },
+    {
         "title": "Security Copilot in Intune Implementation | Policy Analysis, Device Troubleshooting and Endpoint Decisions | R.A.H.S.I. Framework™",
         "slug": "security-copilot-in-intune-implementation-policy-analysis-device-troubleshooting-and-endpoint-decisions-rahsi-framework",
         "author": "Aakash Rahsi",
@@ -1263,6 +1329,17 @@
         "keywords": "you, people, what, problem, validation, just, build, building",
         "generated": "2026-06-06T13:56:22.891428",
         "file": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code.md"
+    },
+    {
+        "title": "What I learned generating OG images for articles with Playwright and zero API cost",
+        "slug": "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost",
+        "author": "MORINAGA",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 03:52:22 +0000",
+        "description": "The conclusion first: for a batch of under a few hundred static articles, generating OG images by screenshotting HTML templates with Playwright costs nothing...",
+        "keywords": "playwright, image, articles, fonts, article, generation, per, url",
+        "generated": "2026-06-09T04:03:32.525257",
+        "file": "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost.md"
     },
     {
         "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
@@ -1562,6 +1639,17 @@
         "file": "the-intracies-of-modern-camera-lens-repair-2024.md"
     },
     {
+        "title": "FastAPI for AI Engineers - Part 4: Stop Bad Data Before It Breaks Your API (Pydantic and Data Validation)",
+        "slug": "fastapi-for-ai-engineers-part-4-stop-bad-data-before-it-breaks-your-api-pydantic-and-data-validation",
+        "author": "Ananya S",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 03:05:00 +0000",
+        "description": "In the previous article, we connected our FastAPI application to a database using SQLite and SQLAlchemy. We also used classes like: class StudentCreate ( Bas...",
+        "keywords": "fastapi, cgpa, pydantic, name, student, request, data, basemodel",
+        "generated": "2026-06-09T04:03:32.526385",
+        "file": "fastapi-for-ai-engineers-part-4-stop-bad-data-before-it-breaks-your-api-pydantic-and-data-validation.md"
+    },
+    {
         "title": "Serializable Isolation Debugger for Python Race Conditions",
         "slug": "serializable-isolation-debugger-for-python-race-conditions",
         "author": "ItsEvilDuck",
@@ -1709,10 +1797,10 @@
         "slug": "concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch",
         "author": "Chief Mojo Risin'",
         "source": "devto_ai",
-        "published": "Mon, 08 Jun 2026 20:22:26 +0000",
+        "published": "Tue, 09 Jun 2026 03:52:43 +0000",
         "description": "Concurrency is byproduct of capability design not bottleneck to patch. A single line. Hold it. More as the build matures. — chiefmojo79",
         "keywords": "concurrency, byproduct, capability, design, not, bottleneck, patch, single",
-        "generated": "2026-06-08T20:25:42.490121",
+        "generated": "2026-06-09T04:03:32.531731",
         "file": "concurrency-is-byproduct-of-capability-design-not-bottleneck-to-patch.md"
     },
     {
@@ -2123,6 +2211,17 @@
         "file": "your-pipeline-is-256h-behind-catching-law-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Why SQLite FTS5's default tokenizer drops your Japanese substrings (and the one-line fix)",
+        "slug": "why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix",
+        "author": "Omochi",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 03:34:19 +0000",
+        "description": "If you're building any kind of personal-memory layer on top of SQLite — Claude Code conversation history, notes app, indexed knowledge base — there's a sharp...",
+        "keywords": "trigram, hit, index, sqlite, you, content, query, queries",
+        "generated": "2026-06-09T04:03:32.525935",
+        "file": "why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix.md"
+    },
+    {
         "title": "My automated doubt development process",
         "slug": "my-automated-doubt-development-process",
         "author": "aself101",
@@ -2167,6 +2266,17 @@
         "file": "the-endowment.md"
     },
     {
+        "title": "Claude Fable 5",
+        "slug": "claude-fable-5",
+        "author": "tokengod",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 03:46:15 +0000",
+        "description": "Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5 Comments URL: https://news.ycombinator.com/item?id=48456104 Points: 5 # Comments: 2",
+        "keywords": "claude, fable, url, https, com, news, comments, article",
+        "generated": "2026-06-09T04:03:32.523819",
+        "file": "claude-fable-5.md"
+    },
+    {
         "title": "The Importance of AWS MFA Dete…",
         "slug": "the-importance-of-aws-mfa-dete",
         "author": "Norvik Tech",
@@ -2176,6 +2286,17 @@
         "keywords": "mfa, detection, security, aws, development, cloud, data, breaches",
         "generated": "2026-06-07T09:24:56.818924",
         "file": "the-importance-of-aws-mfa-dete.md"
+    },
+    {
+        "title": "Scaling AI with Multi-Tenant SaaS Architecture",
+        "slug": "scaling-ai-with-multi-tenant-saas-architecture",
+        "author": "Ravi Roy",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 03:55:04 +0000",
+        "description": "Understanding Multi-Tenant SaaS Architecture in AI With the surge in demand for scalable AI solutions, understanding multi-tenant SaaS architecture becomes p...",
+        "keywords": "tenant, multi, saas, workloads, can, architecture, data, isolation",
+        "generated": "2026-06-09T04:03:32.530820",
+        "file": "scaling-ai-with-multi-tenant-saas-architecture.md"
     },
     {
         "title": "OpenAI-Compatible Gateway Control Plane Checklist",
@@ -2530,6 +2651,17 @@
         "file": "buy-verified-paypal-accounts-with-easy-setup.md"
     },
     {
+        "title": "I ran 4 AI agents on yesterday's PRs. Two real security bugs surfaced.",
+        "slug": "i-ran-4-ai-agents-on-yesterdays-prs-two-real-security-bugs-surfaced",
+        "author": "Vadym Arnaut",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 03:01:20 +0000",
+        "description": "After every coding session I run a 4-agent parallel audit on the diff I just shipped. A recent session of mine was seven PRs landing a new daily-challenge fe...",
+        "keywords": "test, agent, not, iat, token, rotation, security, one",
+        "generated": "2026-06-09T04:03:32.526904",
+        "file": "i-ran-4-ai-agents-on-yesterdays-prs-two-real-security-bugs-surfaced.md"
+    },
+    {
         "title": "50 Reusable Claude Code Skills That'll Save You Hours Every Week",
         "slug": "50-reusable-claude-code-skills-thatll-save-you-hours-every-week",
         "author": "z z",
@@ -2816,6 +2948,17 @@
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
     },
     {
+        "title": "Federal judge blocks H1B visa $100K fee",
+        "slug": "federal-judge-blocks-h1b-visa-100k-fee",
+        "author": "naturalmovement",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 00:01:37 +0000",
+        "description": "Article URL: https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/ Comments URL: https://news.ycombinator.com/item?id=4845421...",
+        "keywords": "federal, judge, blocks, visa, fee, url, https, com",
+        "generated": "2026-06-09T04:03:32.524401",
+        "file": "federal-judge-blocks-h1b-visa-100k-fee.md"
+    },
+    {
         "title": "Lockdown Mode",
         "slug": "lockdown-mode",
         "author": "berlianta",
@@ -2904,6 +3047,17 @@
         "file": "buy-verified-chime-accounts-top-5-trusted-platforms-2026.md"
     },
     {
+        "title": "Job: Head of Stonehenge",
+        "slug": "job-head-of-stonehenge",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 03:20:40 +0000",
+        "description": "Article URL: https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449 Comments URL: https://news.ycombi...",
+        "keywords": "job, url, https, comments, head, stonehenge, article, www",
+        "generated": "2026-06-09T04:03:32.524163",
+        "file": "job-head-of-stonehenge.md"
+    },
+    {
         "title": "Ai Image Generator — Free Online Tool",
         "slug": "ai-image-generator-free-online-tool",
         "author": "BAOMING",
@@ -2913,6 +3067,17 @@
         "keywords": "generator, tool, image, free, tools, browser, scoreroute, answer",
         "generated": "2026-06-06T13:56:22.891659",
         "file": "ai-image-generator-free-online-tool.md"
+    },
+    {
+        "title": "Five things that caught my attention this week in AI tools and open-source models",
+        "slug": "five-things-that-caught-my-attention-this-week-in-ai-tools-and-open-source-models",
+        "author": "MORINAGA",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 03:53:19 +0000",
+        "description": "A lighter week for me operationally — content refreshes, a YouTube analytics update, some Bluesky queue maintenance. Which meant more time to actually read t...",
+        "keywords": "code, claude, you, mcp, agent, here, servicenow, tools",
+        "generated": "2026-06-09T04:03:32.531595",
+        "file": "five-things-that-caught-my-attention-this-week-in-ai-tools-and-open-source-models.md"
     },
     {
         "title": "The new bibliomaniacs",
@@ -2935,6 +3100,17 @@
         "keywords": "video, part, can, you, channel, one, every, cost",
         "generated": "2026-06-05T15:19:56.044689",
         "file": "zero-to-autopilot-part-1-i-built-an-ai-that-runs-a-youtube-channel-the-landscape-and-my-10-wake-up-call.md"
+    },
+    {
+        "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+        "slug": "gogograndparent-yc-s16-is-hiring-back-end-engineers",
+        "author": "davidchl",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 03:34:00 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=48456015 ...",
+        "keywords": "gogograndparent, url, https, ycombinator, com, comments, hiring, back",
+        "generated": "2026-06-09T04:03:32.524031",
+        "file": "gogograndparent-yc-s16-is-hiring-back-end-engineers.md"
     },
     {
         "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
@@ -3100,6 +3276,28 @@
         "keywords": "comments, transformers, inherently, succinct, paper, being, published, iclr",
         "generated": "2026-06-05T20:02:11.234758",
         "file": "transformers-are-inherently-succinct.md"
+    },
+    {
+        "title": "What I learned wiring JSON-LD structured data audits into a post-deploy CI step",
+        "slug": "what-i-learned-wiring-json-ld-structured-data-audits-into-a-post-deploy-ci-step",
+        "author": "MORINAGA",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 03:51:52 +0000",
+        "description": "The conclusion first: JSON-LD structured data is one of those things that can vanish from your site without breaking anything visible. The Astro build succee...",
+        "keywords": "pages, com, audit, sitemap, json, data, structured, deploy",
+        "generated": "2026-06-09T04:03:32.529437",
+        "file": "what-i-learned-wiring-json-ld-structured-data-audits-into-a-post-deploy-ci-step.md"
+    },
+    {
+        "title": "Rolling a Google Service Account JWT in Node.js without the googleapis package",
+        "slug": "rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package",
+        "author": "MORINAGA",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 03:52:09 +0000",
+        "description": "The googleapis npm package is the default answer for calling Google APIs from Node.js. It works, but it installs around 380KB and brings in over 450 transiti...",
+        "keywords": "token, jwt, const, url, you, googleapis, json, google",
+        "generated": "2026-06-09T04:03:32.528820",
+        "file": "rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package.md"
     },
     {
         "title": "Tracing a powerful GNSS interference source over Europe",
