@@ -11,6 +11,17 @@
         "file": "buy-verified-paypal-accounts-with-satisfaction-guarantee.md"
     },
     {
+        "title": "Architecture vs. Reality: A Developer's Deep Dive into Scaling Healthcare AI Platforms",
+        "slug": "architecture-vs-reality-a-developers-deep-dive-into-scaling-healthcare-ai-platforms",
+        "author": "Vanessa",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 09:48:35 +0000",
+        "description": "As a US-based developer who has spent years navigating the landscape of digital health and production systems, I frequently see teams get trapped in pilot p...",
+        "keywords": "engineering, healthcare, data, production, compliance, product, requires, health",
+        "generated": "2026-06-09T09:59:01.261081",
+        "file": "architecture-vs-reality-a-developers-deep-dive-into-scaling-healthcare-ai-platforms.md"
+    },
+    {
         "title": "Building a Perceptual Hashing Pipeline for Video Deduplication in Python",
         "slug": "building-a-perceptual-hashing-pipeline-for-video-deduplication-in-python",
         "author": "ahmet gedik",
@@ -308,6 +319,17 @@
         "file": "i-replaced-spotify-with-a-homemade-fm-radio-station.md"
     },
     {
+        "title": "Image To Pdf — Free Online Tool",
+        "slug": "image-to-pdf-free-online-tool",
+        "author": "BAOMING",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 09:55:06 +0000",
+        "description": "Image To Pdf — Free Online Tool Open Image To Pdf and get what you need instantly. Free. No signup. No download. Everything stays in your browser. Converting...",
+        "keywords": "image, pdf, tool, can, images, you, your, convert",
+        "generated": "2026-06-09T09:59:01.259961",
+        "file": "image-to-pdf-free-online-tool.md"
+    },
+    {
         "title": "How Banks Halt Billions in Fraud With Real-Time AI",
         "slug": "how-banks-halt-billions-in-fraud-with-real-time-ai",
         "author": "Auton AI News",
@@ -350,6 +372,17 @@
         "keywords": "sakana, rsi, lab, url, https, comments, recursive, self",
         "generated": "2026-06-05T20:02:11.234858",
         "file": "sakana-ais-recursive-self-improvement-rsi-lab.md"
+    },
+    {
+        "title": "How Shoppable Videos Increase Conversion Rates in E-commerce",
+        "slug": "how-shoppable-videos-increase-conversion-rates-in-e-commerce",
+        "author": "Waqas Hanif Khan",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 09:47:16 +0000",
+        "description": "Ecommerce brands are constantly looking for ways to improve conversion rates. Traffic is expensive, competition is rising, and customers are more selective t...",
+        "keywords": "videos, product, shoppable, ecommerce, they, conversion, rates, video",
+        "generated": "2026-06-09T09:59:01.261475",
+        "file": "how-shoppable-videos-increase-conversion-rates-in-e-commerce.md"
     },
     {
         "title": "Building a Multi-Agent Legal Research Pipeline with Live Source Verification",
@@ -416,6 +449,17 @@
         "keywords": "free, humanizer, tool, tools, browser, answer, your, content",
         "generated": "2026-06-06T04:00:30.107825",
         "file": "ai-humanizer-free-online-tool.md"
+    },
+    {
+        "title": "MCPEasy: Stop Rewriting MCP Integration Boilerplate",
+        "slug": "mcpeasy-stop-rewriting-mcp-integration-boilerplate",
+        "author": "WDSEGA",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 08:39:36 +0000",
+        "description": "Every time you integrate a new MCP tool, you rewrite the same auth logic, timeout handling, and error processing. Pure repetition. MCPEasy: Unified MCP Tool ...",
+        "keywords": "mcpeasy, mcp, tool, auth, unified, more, boilerplate, you",
+        "generated": "2026-06-09T09:59:01.259240",
+        "file": "mcpeasy-stop-rewriting-mcp-integration-boilerplate.md"
     },
     {
         "title": "Five overlooked packages running my AI directory stack",
@@ -583,6 +627,17 @@
         "file": "teaching-ai-your-products-context-knowledge-base-integration-and-prompt-engineering-for-micro-saas-support.md"
     },
     {
+        "title": "Why Your React Frontend Crashes When an LLM Streams Malformed JSON",
+        "slug": "why-your-react-frontend-crashes-when-an-llm-streams-malformed-json",
+        "author": "Gaurav Thorat",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 09:50:02 +0000",
+        "description": "A production-minded walkthrough with a live Next.js demo — JSON.parse() vs partial-json + Zod for real-time AI dashboards. canonical: https://gauravthorat-po...",
+        "keywords": "json, react, llm, why, your, frontend, crashes, when",
+        "generated": "2026-06-09T09:59:01.260467",
+        "file": "why-your-react-frontend-crashes-when-an-llm-streams-malformed-json.md"
+    },
+    {
         "title": "LLMs are eroding my software engineering career and I don't know what to do",
         "slug": "llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
         "author": "poisonfountain",
@@ -669,6 +724,17 @@
         "keywords": "symbolic, action, dispatcher, python, symbol, snippet, named, operations",
         "generated": "2026-06-08T04:42:39.220484",
         "file": "symbolic-action-dispatcher-python-snippet-for-named-operations.md"
+    },
+    {
+        "title": "Add a Regime Filter to Any Freqtrade Strategy in 10 Minutes",
+        "slug": "add-a-regime-filter-to-any-freqtrade-strategy-in-10-minutes",
+        "author": "Gunnar Thorderson",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 09:00:12 +0000",
+        "description": "Add a Regime Filter to Any Freqtrade Strategy in 10 Minutes A regime filter is a single gate you add on top of your existing Freqtrade entry logic: before a ...",
+        "keywords": "regime, self, your, confidence, freqtrade, bot, api, action",
+        "generated": "2026-06-09T09:59:01.258301",
+        "file": "add-a-regime-filter-to-any-freqtrade-strategy-in-10-minutes.md"
     },
     {
         "title": "Kubernetes deployment strategies: rolling, blue-green, canary, and beyond",
@@ -836,6 +902,17 @@
         "file": "mobile-app-monetization-benchmarks-2026-paywalls-trials-pricing-ai-apps.md"
     },
     {
+        "title": "Eagle Computer: The rise and fall of an early PC clone",
+        "slug": "eagle-computer-the-rise-and-fall-of-an-early-pc-clone",
+        "author": "giuliomagnifico",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 09:17:41 +0000",
+        "description": "Article URL: https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/ Comments URL: https://news.ycombinator.com/item?id=48458636 Poin...",
+        "keywords": "eagle, computer, rise, fall, early, clone, url, https",
+        "generated": "2026-06-09T09:59:01.256452",
+        "file": "eagle-computer-the-rise-and-fall-of-an-early-pc-clone.md"
+    },
+    {
         "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
         "slug": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot",
         "author": "speckx",
@@ -957,6 +1034,17 @@
         "file": "pagedattention-vs-traditional-kv-cache-how-vllm-reinvented-gpu-memory-for-llm-inference.md"
     },
     {
+        "title": "Party Supplies Market Set for Strong Expansion Through 2034 Driven by Rising Event Culture",
+        "slug": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture",
+        "author": "Mahesh Chavan",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 09:48:53 +0000",
+        "description": "The global party supplies market is experiencing rapid expansion, supported by rising consumer spending on celebrations, increasing popularity of themed even...",
+        "keywords": "party, market, event, supplies, celebrations, themed, products, global",
+        "generated": "2026-06-09T09:59:01.260793",
+        "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
+    },
+    {
         "title": "Agent mistakes don't fail alone, they compound",
         "slug": "agent-mistakes-dont-fail-alone-they-compound",
         "author": "Arun Kumar Molugu",
@@ -988,6 +1076,17 @@
         "keywords": "you, your, what, team, engineering, implementation, when, them",
         "generated": "2026-06-08T20:25:42.488145",
         "file": "memory-management-in-production-garbage-collection-leaks-and-optimization-across-languages.md"
+    },
+    {
+        "title": "Facebook is paying people overseas promoting Alberta separatism",
+        "slug": "facebook-is-paying-people-overseas-promoting-alberta-separatism",
+        "author": "vrganj",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 06:14:20 +0000",
+        "description": "Article URL: https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966 Comments URL: https://news.ycombinator.com/item?id=48457181 Points:...",
+        "keywords": "facebook, overseas, alberta, url, https, news, comments, paying",
+        "generated": "2026-06-09T09:59:01.256894",
+        "file": "facebook-is-paying-people-overseas-promoting-alberta-separatism.md"
     },
     {
         "title": "New York just passed a one-year temporary ban on data centers",
@@ -1241,6 +1340,17 @@
         "keywords": "cover, url, https, com, comments, back, language, raises",
         "generated": "2026-06-06T08:41:07.447942",
         "file": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md"
+    },
+    {
+        "title": "Perplexity — Deep Dive",
+        "slug": "perplexity-deep-dive",
+        "author": "GAUTAM MANAK",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 09:44:52 +0000",
+        "description": "Company Overview Perplexity AI has rapidly evolved from a niche answer engine into one of the most formidable forces in the artificial intelligence landsca...",
+        "keywords": "perplexity, search, source, data, api, content, model, agent",
+        "generated": "2026-06-09T09:59:01.262595",
+        "file": "perplexity-deep-dive.md"
     },
     {
         "title": "I design with Claude more than Figma now",
@@ -2068,6 +2178,17 @@
         "file": "understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough.md"
     },
     {
+        "title": "Oxygenators Market Set for Strong Growth Through 2034 Driven by Rising Cardiovascular Surgeries",
+        "slug": "oxygenators-market-set-for-strong-growth-through-2034-driven-by-rising-cardiovascular-surgeries",
+        "author": "Mahesh Chavan",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 09:56:21 +0000",
+        "description": "The global oxygenators market is experiencing consistent growth, supported by the increasing prevalence of cardiopulmonary disorders, rising surgical interve...",
+        "keywords": "market, oxygenators, systems, global, surgical, ecmo, cardiac, advanced",
+        "generated": "2026-06-09T09:59:01.259724",
+        "file": "oxygenators-market-set-for-strong-growth-through-2034-driven-by-rising-cardiovascular-surgeries.md"
+    },
+    {
         "title": "The Cloud is a Scam (For 90% of Your Projects)",
         "slug": "the-cloud-is-a-scam-for-90-of-your-projects",
         "author": "Renato Silva",
@@ -2154,6 +2275,17 @@
         "keywords": "query, index, model, optimization, data, plan, can, execution",
         "generated": "2026-06-07T09:24:56.822278",
         "file": "the-future-of-query-optimization-ai-driven-insights-in-big-data.md"
+    },
+    {
+        "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
+        "slug": "crdts-merge-concurrent-edits-why-not-concurrent-creation",
+        "author": "czx111331",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 04:48:10 +0000",
+        "description": "Article URL: https://loro.dev/blog/mergeable-containers Comments URL: https://news.ycombinator.com/item?id=48456555 Points: 18 # Comments: 2",
+        "keywords": "concurrent, url, https, comments, crdts, merge, edits, why",
+        "generated": "2026-06-09T09:59:01.256992",
+        "file": "crdts-merge-concurrent-edits-why-not-concurrent-creation.md"
     },
     {
         "title": "5 AI tools that generated $50k for creators in 2026 — steal this strategy",
@@ -2607,6 +2739,17 @@
         "file": "make-your-own-ai-modle-with-one-line-of-code.md"
     },
     {
+        "title": "Generate UUIDs in Bulk Instantly with This Free Tool",
+        "slug": "generate-uuids-in-bulk-instantly-with-this-free-tool",
+        "author": "matengtian",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 09:53:44 +0000",
+        "description": "Ever needed a unique identifier for a database record, a session token, or a file name? Generating UUIDs (Universally Unique Identifiers) one by one is tedio...",
+        "keywords": "uuids, tool, generate, one, copy, uuid, you, bulk",
+        "generated": "2026-06-09T09:59:01.260138",
+        "file": "generate-uuids-in-bulk-instantly-with-this-free-tool.md"
+    },
+    {
         "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
         "slug": "govuk-has-replaced-stripe-with-dutch-provider-adyen",
         "author": "toomuchtodo",
@@ -2616,6 +2759,17 @@
         "keywords": "gov, adyen, https, com, comments, has, replaced, stripe",
         "generated": "2026-06-05T20:02:11.235016",
         "file": "govuk-has-replaced-stripe-with-dutch-provider-adyen.md"
+    },
+    {
+        "title": "How to Build a Bulletproof Shopify Cart Event Listener (Without App Conflict)",
+        "slug": "how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict",
+        "author": "Xerxes",
+        "source": "devto_webdev",
+        "published": "Tue, 09 Jun 2026 09:51:01 +0000",
+        "description": "If you’ve ever built a slide-out cart drawer, a dynamic free-shipping bar, or custom analytics tracking for a Shopify store, you've run straight into this br...",
+        "keywords": "cart, you, shopify, out, fetch, add, listener, drawer",
+        "generated": "2026-06-09T09:59:01.260354",
+        "file": "how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict.md"
     },
     {
         "title": "Dev containers: reproducible development environments for your team",
@@ -2805,6 +2959,17 @@
         "file": "how-to-build-an-eve-online-market-trading-bot-in-python.md"
     },
     {
+        "title": "How I Reverse-Engineered OpenAI’s Image 2.0 Launch into a High-Converting Indie Product (with Architecture & Copywriting Breakdown)",
+        "slug": "how-i-reverse-engineered-openais-image-20-launch-into-a-high-converting-indie-product-with-architecture-copywriting-breakdown",
+        "author": "Elinda Gut",
+        "source": "devto_ai",
+        "published": "Tue, 09 Jun 2026 09:44:22 +0000",
+        "description": "How I Reverse-Engineered OpenAI’s Image 2.0 Launch into a High-Converting Indie Product As independent developers, we often face a brutal reality: Building t...",
+        "keywords": "image, your, credits, high, how, product, architecture, building",
+        "generated": "2026-06-09T09:59:01.262883",
+        "file": "how-i-reverse-engineered-openais-image-20-launch-into-a-high-converting-indie-product-with-architecture-copywriting-breakdown.md"
+    },
+    {
         "title": "LiteParse: A Fast, Local Document Parser for Developers",
         "slug": "liteparse-a-fast-local-document-parser-for-developers",
         "author": "ArshTechPro",
@@ -2935,6 +3100,17 @@
         "keywords": "edge, computing, caching, cdn, functions, cache, content, patterns",
         "generated": "2026-06-06T04:00:30.108024",
         "file": "edge-computing-patterns-cdns-workers-and-regional-processing.md"
+    },
+    {
+        "title": "Search bug or model bug - testing a RAG system to tell them apart",
+        "slug": "search-bug-or-model-bug-testing-a-rag-system-to-tell-them-apart",
+        "author": "Sara Bezjak",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 09:23:30 +0000",
+        "description": "I'm an automation tester. Usually my job is simple: the same input should give the same output, every time. Language models don't work that way. Ask the same...",
+        "keywords": "answer, model, page, one, search, test, right, pytest",
+        "generated": "2026-06-09T09:59:01.257641",
+        "file": "search-bug-or-model-bug-testing-a-rag-system-to-tell-them-apart.md"
     },
     {
         "title": "Replies to comments on my LLMs are eroding my career post",
@@ -3113,6 +3289,17 @@
         "file": "gogograndparent-yc-s16-is-hiring-back-end-engineers.md"
     },
     {
+        "title": "Resume ATS Optimizer: Help Your Resume Pass the AI Screening Gate",
+        "slug": "resume-ats-optimizer-help-your-resume-pass-the-ai-screening-gate",
+        "author": "WDSEGA",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 08:38:59 +0000",
+        "description": "You sent 30 applications and got 2 replies. The problem might not be your skills -- it might be that ATS (Applicant Tracking System) filtered your resume bef...",
+        "keywords": "ats, resume, your, optimizer, python, keywords, identifies, you",
+        "generated": "2026-06-09T09:59:01.259422",
+        "file": "resume-ats-optimizer-help-your-resume-pass-the-ai-screening-gate.md"
+    },
+    {
         "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
         "slug": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages",
         "author": "Clarence Yu",
@@ -3144,6 +3331,17 @@
         "keywords": "verified, your, accounts, com, chime, you, buy, www",
         "generated": "2026-06-06T19:40:03.730302",
         "file": "buy-verified-chime-accounts-top-5-verified-safe-options.md"
+    },
+    {
+        "title": "I let two AI Ollamas talk to each other, and this is what happened.",
+        "slug": "i-let-two-ai-ollamas-talk-to-each-other-and-this-is-what-happened",
+        "author": "Phúc Dương Minh",
+        "source": "devto_python",
+        "published": "Tue, 09 Jun 2026 08:58:48 +0000",
+        "description": "Did you think what happen if two AI chat together ? I used Python and Ollama to do that and the result were amazing! Both agents run the same model: MODEL_A ...",
+        "keywords": "latest, cho, content, doanh, hay, thay, trung, gia",
+        "generated": "2026-06-09T09:59:01.259039",
+        "file": "i-let-two-ai-ollamas-talk-to-each-other-and-this-is-what-happened.md"
     },
     {
         "title": "Changing How We Develop Ladybird",
@@ -3300,6 +3498,17 @@
         "file": "rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package.md"
     },
     {
+        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "slug": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+        "author": "raffael_de",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 07:33:16 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycomb...",
+        "keywords": "open, source, tools, hacked, steal, passwords, developers, url",
+        "generated": "2026-06-09T09:59:01.256738",
+        "file": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md"
+    },
+    {
         "title": "Tracing a powerful GNSS interference source over Europe",
         "slug": "tracing-a-powerful-gnss-interference-source-over-europe",
         "author": "mimorigasaka",
@@ -3419,6 +3628,17 @@
         "keywords": "character, you, key, value, out, dictionary, data, anya",
         "generated": "2026-06-06T19:40:03.722471",
         "file": "day-5-dictionaries.md"
+    },
+    {
+        "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+        "slug": "forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state2025",
+        "author": "bryanrasmussen",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 08:25:36 +0000",
+        "description": "Article URL: https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age Comments URL: https://news.ycombinator.com/item?id=48458257 Points: 1...",
+        "keywords": "plants, url, https, comments, forever, young, how, one",
+        "generated": "2026-06-09T09:59:01.256622",
+        "file": "forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state2025.md"
     },
     {
         "title": "Your Software Factory Is a Dark Kitchen. The $1,000 Nobody Mentions.",
