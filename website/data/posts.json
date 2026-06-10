@@ -297,6 +297,17 @@
         "file": "pentagon-raised-threat-of-israeli-spying-on-us-to-highest-level-sources-say.md"
     },
     {
+        "title": "JWT Decoding: Reading Tokens Without a Library",
+        "slug": "jwt-decoding-reading-tokens-without-a-library",
+        "author": "Snappy Tools",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 10:08:50 +0000",
+        "description": "JSON Web Tokens (JWTs) are everywhere: authentication headers, session cookies, API keys. When debugging, you often need to see what is inside a token — expi...",
+        "keywords": "token, payload, jwt, claims, json, tokens, signature, string",
+        "generated": "2026-06-10T10:13:09.116956",
+        "file": "jwt-decoding-reading-tokens-without-a-library.md"
+    },
+    {
         "title": "The Undruggable",
         "slug": "the-undruggable",
         "author": "thesythesis.ai",
@@ -306,6 +317,17 @@
         "keywords": "kras, cancer, percent, pancreatic, not, daraxonrasib, drug, mutations",
         "generated": "2026-06-07T14:06:36.538335",
         "file": "the-undruggable.md"
+    },
+    {
+        "title": "Essential Resources for Settin…",
+        "slug": "essential-resources-for-settin",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 10:06:40 +0000",
+        "description": "Originally published at norvik.tech Introduction Dive into the best resources for beginners looking to set up Traefik with DOKS and EKS. A detailed technical...",
+        "keywords": "traefik, eks, doks, cloud, services, norvik, tech, ssl",
+        "generated": "2026-06-10T10:13:09.118048",
+        "file": "essential-resources-for-settin.md"
     },
     {
         "title": "How's Linear so fast? A technical breakdown",
@@ -394,6 +416,17 @@
         "keywords": "fraud, banks, time, data, real, systems, tools, can",
         "generated": "2026-06-05T10:13:51.909808",
         "file": "how-banks-halt-billions-in-fraud-with-real-time-ai.md"
+    },
+    {
+        "title": "The Question Behind the Tool",
+        "slug": "the-question-behind-the-tool",
+        "author": "HYPHANTA",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 10:07:54 +0000",
+        "description": "Every tool we build carries a question we didn't know we were asking. We built 190+ tools for PAI not to automate tasks, but to discover: what does it mean f...",
+        "keywords": "question, tool, tools, behind, every, build, carries, didn",
+        "generated": "2026-06-10T10:13:09.118179",
+        "file": "the-question-behind-the-tool.md"
     },
     {
         "title": "I Got Tired of Managing 5 AI API Keys — So I Built One Gateway",
@@ -1254,6 +1287,17 @@
         "file": "what-a-refrigerator-taught-me-about-building-an-ai-troubleshooting-tool.md"
     },
     {
+        "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+        "slug": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs",
+        "author": "dmckinno",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 03:27:47 +0000",
+        "description": "Article URL: https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/ Comments URL: https://news.ycombinator.com/...",
+        "keywords": "vibe, coding, way, healthy, family, introducing, gamow, labs",
+        "generated": "2026-06-10T10:13:09.114315",
+        "file": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs.md"
+    },
+    {
         "title": "Memory management in production: garbage collection, leaks, and optimization across languages",
         "slug": "memory-management-in-production-garbage-collection-leaks-and-optimization-across-languages",
         "author": "Rizwan Saleem",
@@ -1452,6 +1496,28 @@
         "file": "programmers-will-document-for-claude-but-not-for-each-other.md"
     },
     {
+        "title": "How to Evaluate Drawer Balance Using Python and Cabinet Hardware Weights",
+        "slug": "how-to-evaluate-drawer-balance-using-python-and-cabinet-hardware-weights",
+        "author": "FrishayLTD",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 10:03:06 +0000",
+        "description": "I've been refining a Python script to analyze cabinet hardware weight distribution and its effect on drawer balance. It's a practical approach to understandi...",
+        "keywords": "color, balance, weight, hardware, cabinet, plt, how, python",
+        "generated": "2026-06-10T10:13:09.114887",
+        "file": "how-to-evaluate-drawer-balance-using-python-and-cabinet-hardware-weights.md"
+    },
+    {
+        "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+        "slug": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models",
+        "author": "TomAnthony",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 08:21:38 +0000",
+        "description": "> For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on My...",
+        "keywords": "data, aws, mythos, anthropic, models, retention, class, https",
+        "generated": "2026-06-10T10:13:09.114059",
+        "file": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md"
+    },
+    {
         "title": "ContextLens — py-spy/pprof but for what's inside your LLM prompt",
         "slug": "contextlens-py-spypprof-but-for-whats-inside-your-llm-prompt",
         "author": "Harshal Sant",
@@ -1461,6 +1527,17 @@
         "keywords": "contextlens, turn, report, tool, what, waste, model, client",
         "generated": "2026-06-08T16:07:42.605559",
         "file": "contextlens-py-spypprof-but-for-whats-inside-your-llm-prompt.md"
+    },
+    {
+        "title": "Which is the Best AI Development Company in India",
+        "slug": "which-is-the-best-ai-development-company-in-india",
+        "author": "Antonio Miller",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 10:06:54 +0000",
+        "description": "Abhiwan Technology is regarded as one of the best AI Development Company in India, delivering innovative and scalable artificial intelligence solutions that ...",
+        "keywords": "company, best, development, india, solutions, applications, which, abhiwan",
+        "generated": "2026-06-10T10:13:09.117692",
+        "file": "which-is-the-best-ai-development-company-in-india.md"
     },
     {
         "title": "Your `aws` npm package has 8 vulnerabilities. Here's what's actually happening.",
@@ -1538,6 +1615,17 @@
         "keywords": "policy, endpoint, device, security, intune, copilot, can, which",
         "generated": "2026-06-08T16:07:42.608226",
         "file": "security-copilot-in-intune-implementation-policy-analysis-device-troubleshooting-and-endpoint-decisions-rahsi-framework.md"
+    },
+    {
+        "title": "CSS Minification: What It Is, Why It Matters, and How to Do It",
+        "slug": "css-minification-what-it-is-why-it-matters-and-how-to-do-it",
+        "author": "Snappy Tools",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 10:08:47 +0000",
+        "description": "CSS minification is one of the simplest optimisations you can make to a website, and it consistently shaves 10–40% off stylesheet file sizes. This guide expl...",
+        "keywords": "css, minification, minified, you, your, file, not, minify",
+        "generated": "2026-06-10T10:13:09.117310",
+        "file": "css-minification-what-it-is-why-it-matters-and-how-to-do-it.md"
     },
     {
         "title": "Enhancing LLM Reliability with Evaluation Engineering",
@@ -1683,6 +1771,17 @@
         "file": "how-i-built-1200-calculator-pages-in-astro-without-writing-1200-templates.md"
     },
     {
+        "title": "The Pulse of Patient Care: Why Healthcare is Embracing AI Voice Agents in 2026",
+        "slug": "the-pulse-of-patient-care-why-healthcare-is-embracing-ai-voice-agents-in-2026",
+        "author": "Frisson",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 10:04:39 +0000",
+        "description": "A phone call to a healthcare provider is rarely just a transaction. It's often a moment of uncertainty, vulnerability, or urgency. Whether it's a worried par...",
+        "keywords": "patient, healthcare, voice, agents, patients, can, care, administrative",
+        "generated": "2026-06-10T10:13:09.119485",
+        "file": "the-pulse-of-patient-care-why-healthcare-is-embracing-ai-voice-agents-in-2026.md"
+    },
+    {
         "title": "How I Validated My Micro-SaaS Idea in 48 Hours Without Writing a Single Line of Code",
         "slug": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code",
         "author": "Affan Bin Yeakub",
@@ -1749,6 +1848,17 @@
         "file": "valve-p2p-networking-broken-for-more-than-2-months.md"
     },
     {
+        "title": "Vibration Plate Fitness",
+        "slug": "vibration-plate-fitness",
+        "author": "Adilali Raza",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 10:04:17 +0000",
+        "description": "Vibration Plate Fitness Platform Exercise Machine Vibrating Shaking Full Body Shaker Workout Vibrate Stand Shake Board Sport for Weight Loss Fat Burner for G...",
+        "keywords": "vibration, plate, fitness, platform, exercise, machine, vibrating, shaking",
+        "generated": "2026-06-10T10:13:09.119622",
+        "file": "vibration-plate-fitness.md"
+    },
+    {
         "title": "Mastering Secrets Management in the Cloud: A Secure Foundation for Your Applications",
         "slug": "mastering-secrets-management-in-the-cloud-a-secure-foundation-for-your-applications",
         "author": "TechBlogs",
@@ -1802,6 +1912,17 @@
         "keywords": "https, com, comments, three, our, worst, stories, xcancel",
         "generated": "2026-06-05T20:02:11.234622",
         "file": "three-of-our-worst-vc-stories.md"
+    },
+    {
+        "title": "Port React Compiler to Rust",
+        "slug": "port-react-compiler-to-rust",
+        "author": "boudra",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 09:19:55 +0000",
+        "description": "Article URL: https://github.com/react/react/pull/36173 Comments URL: https://news.ycombinator.com/item?id=48473662 Points: 24 # Comments: 7",
+        "keywords": "react, url, https, com, comments, port, compiler, rust",
+        "generated": "2026-06-10T10:13:09.113711",
+        "file": "port-react-compiler-to-rust.md"
     },
     {
         "title": "5 mistakes job seekers make with AI tools in 2025",
@@ -2365,6 +2486,17 @@
         "file": "python-function.md"
     },
     {
+        "title": "Gemini Ignites Workspace: 1M Tokens, 32% Gains, and New Language Frontiers",
+        "slug": "gemini-ignites-workspace-1m-tokens-32-gains-and-new-language-frontiers",
+        "author": "Auton AI News",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 10:06:07 +0000",
+        "description": "Key Takeaways Google’s April 1, 2026 update expanded Gemini’s language support across Workspace — including AI-assisted form creation — directly targeting on...",
+        "keywords": "gemini, google, workspace, data, not, you, enterprise, than",
+        "generated": "2026-06-10T10:13:09.119020",
+        "file": "gemini-ignites-workspace-1m-tokens-32-gains-and-new-language-frontiers.md"
+    },
+    {
         "title": "One AI Vendor Is a Single Point of Failure. Treat It Like One.",
         "slug": "one-ai-vendor-is-a-single-point-of-failure-treat-it-like-one",
         "author": "Keith MacKay",
@@ -2596,6 +2728,17 @@
         "file": "your-pipeline-is-165h-behind-catching-world-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Sunny Health & Fitness",
+        "slug": "sunny-health-fitness",
+        "author": "Adilali Raza",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 10:07:43 +0000",
+        "description": "Sunny Health & Fitness Mini Steppers for Exercise at Home, Stair Step Workout Machine with Resistance Bands, Full Body Cardio Equipment, Optional Free SunnyF...",
+        "keywords": "sunny, health, fitness, mini, steppers, exercise, home, stair",
+        "generated": "2026-06-10T10:13:09.118288",
+        "file": "sunny-health-fitness.md"
+    },
+    {
         "title": "I gave Claude an API to post to my dev blog (and the bcrypt hash broke in 2 different places)",
         "slug": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places",
         "author": "Sensational-DEV",
@@ -2704,6 +2847,17 @@
         "keywords": "gpt, url, https, comments, too, dangerous, release, article",
         "generated": "2026-06-09T20:13:36.278965",
         "file": "gpt-2-too-dangerous-to-release-2019.md"
+    },
+    {
+        "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+        "slug": "mercedesbenz-starts-largescale-production-of-electric-axial-flux-motor",
+        "author": "raffael_de",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 07:44:49 +0000",
+        "description": "Article URL: https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf Comments URL: https://news.ycombinator.com/item?id=48472877 Poin...",
+        "keywords": "mercedes, benz, article, url, https, com, comments, starts",
+        "generated": "2026-06-10T10:13:09.114193",
+        "file": "mercedesbenz-starts-largescale-production-of-electric-axial-flux-motor.md"
     },
     {
         "title": "Washington Mystics vs Dallas Wings: WNBA Preview & Picks",
@@ -2891,6 +3045,17 @@
         "keywords": "assistants, personal, human, can, tasks, tech, technology, while",
         "generated": "2026-06-08T11:08:35.057917",
         "file": "is-ai-replacing-personal-assistants-insights-for-ctos-and-tech-managers.md"
+    },
+    {
+        "title": "I Built an AI-Native Trading Engine in Python. Here's How It Works",
+        "slug": "i-built-an-ai-native-trading-engine-in-python-heres-how-it-works",
+        "author": "Alexey Polyakov",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 10:04:06 +0000",
+        "description": "I Built an AI-Native Trading Engine in Python. Here's How It Works 9 strategies, 24/7 WebSocket monitoring, AI scoring, and full agent-based orchestration. O...",
+        "keywords": "bybit, scoring, agent, entry, daily, trading, rsi, funding",
+        "generated": "2026-06-10T10:13:09.114691",
+        "file": "i-built-an-ai-native-trading-engine-in-python-heres-how-it-works.md"
     },
     {
         "title": "Five Lessons Maintenance Has Taught Me about Leadership",
@@ -3144,6 +3309,17 @@
         "keywords": "devto, hub, measuring, operational, output, high, performance, teams",
         "generated": "2026-06-07T19:40:41.523897",
         "file": "measuring-operational-output-in-high-performance-teams-255.md"
+    },
+    {
+        "title": "European sentiments towards the US hit an all-time low",
+        "slug": "european-sentiments-towards-the-us-hit-an-all-time-low",
+        "author": "marcyb5st",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 08:27:46 +0000",
+        "description": "Article URL: https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/ Comments URL: https://news.ycombinator.com/item?id=48473204 Poi...",
+        "keywords": "url, https, comments, european, sentiments, towards, hit, all",
+        "generated": "2026-06-10T10:13:09.113878",
+        "file": "european-sentiments-towards-the-us-hit-an-all-time-low.md"
     },
     {
         "title": "Event stores and event sourcing databases: EventStoreDB, Kafka, and PostgreSQL as event stores",
@@ -3597,6 +3773,17 @@
         "file": "the-ai-ipo-wave-is-here-and-none-of-these-companies-make-money.md"
     },
     {
+        "title": "When Your AI Provider Fails: Building a Resilient Fallback System",
+        "slug": "when-your-ai-provider-fails-building-a-resilient-fallback-system",
+        "author": "zhongqiyue",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 10:00:42 +0000",
+        "description": "I was showing off my new side project at a virtual meetup when it happened. The demo froze. I refreshed—nothing. The API calls to my single AI provider were ...",
+        "keywords": "provider, self, you, providers, fallback, str, def, prompt",
+        "generated": "2026-06-10T10:13:09.115428",
+        "file": "when-your-ai-provider-fails-building-a-resilient-fallback-system.md"
+    },
+    {
         "title": "Edge computing patterns: CDNs, workers, and regional processing",
         "slug": "edge-computing-patterns-cdns-workers-and-regional-processing",
         "author": "Rizwan Saleem",
@@ -3628,6 +3815,17 @@
         "keywords": "comments, replies, llms, eroding, career, post, url, https",
         "generated": "2026-06-08T11:08:35.049710",
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
+    },
+    {
+        "title": "Why Cloudflare Breaks Proxy-Only Scrapers",
+        "slug": "why-cloudflare-breaks-proxy-only-scrapers",
+        "author": "Anakin",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 10:00:01 +0000",
+        "description": "You rotate residential proxies, set a Chrome user agent, and still get a 403. Or worse, you get a 200 response that contains a Cloudflare challenge page inst...",
+        "keywords": "not, browser, you, html, challenge, proxy, proxies, page",
+        "generated": "2026-06-10T10:13:09.116585",
+        "file": "why-cloudflare-breaks-proxy-only-scrapers.md"
     },
     {
         "title": "Federal judge blocks H1B visa $100K fee",
@@ -3828,6 +4026,17 @@
         "file": "i-built-a-voice-ai-platform-that-hits-442ms-latency-heres-the-full-architecture.md"
     },
     {
+        "title": "A $47K Agent Loop: Add a Hard Spend-Cap in 40 Lines",
+        "slug": "a-47k-agent-loop-add-a-hard-spend-cap-in-40-lines",
+        "author": "Alexey Spinov",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 10:00:39 +0000",
+        "description": "A $47K Agent Loop: Add a Hard Spend-Cap in 40 Lines Last November, a market-research pipeline of four LangChain agents ran for 11 straight days before anyone...",
+        "keywords": "you, self, cap, action, usd, loop, brake, step",
+        "generated": "2026-06-10T10:13:09.116179",
+        "file": "a-47k-agent-loop-add-a-hard-spend-cap-in-40-lines.md"
+    },
+    {
         "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
         "slug": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages",
         "author": "Clarence Yu",
@@ -4013,6 +4222,17 @@
         "keywords": "you, your, what, team, simple, implementation, when, them",
         "generated": "2026-06-08T04:42:39.222854",
         "file": "webassembly-in-production-running-high-performance-code-in-the-browser-and-beyond.md"
+    },
+    {
+        "title": "I built 3 SaaS landing page templates so founders can stop wasting time on landing pages",
+        "slug": "i-built-3-saas-landing-page-templates-so-founders-can-stop-wasting-time-on-landing-pages",
+        "author": "BuildNova",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 10:08:21 +0000",
+        "description": "Every time I started a new SaaS project, I faced the same problem. I'd spend 2-3 days building a landing page from scratch — navbar, hero, features, pricing,...",
+        "keywords": "built, hero, saas, landing, templates, features, pricing, testimonials",
+        "generated": "2026-06-10T10:13:09.117550",
+        "file": "i-built-3-saas-landing-page-templates-so-founders-can-stop-wasting-time-on-landing-pages.md"
     },
     {
         "title": "Time-series data: storage, querying, and visualization patterns",
