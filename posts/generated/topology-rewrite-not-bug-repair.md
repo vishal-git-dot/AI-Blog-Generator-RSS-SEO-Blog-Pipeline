@@ -3,10 +3,10 @@ title: "Topology rewrite not bug repair"
 slug: "topology-rewrite-not-bug-repair"
 author: "Chief Mojo Risin'"
 source: "devto_ai"
-published: "Tue, 09 Jun 2026 15:08:16 +0000"
+published: "Wed, 10 Jun 2026 04:08:47 +0000"
 description: "Topology rewrite not bug repair. A single line. Hold it. More as the build matures. — chiefmojo79"
 keywords: "topology, rewrite, not, bug, repair, single, line, hold"
-generated: "2026-06-09T15:18:05.201521"
+generated: "2026-06-10T04:15:10.543803"
 ---
 
 # Topology rewrite not bug repair
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-3lmd
+https://dev.to/chiefmojo79/topology-rewrite-not-bug-repair-37on
 
 ## Conclusion
 

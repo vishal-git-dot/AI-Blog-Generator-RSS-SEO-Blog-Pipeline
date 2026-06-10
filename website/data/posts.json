@@ -198,6 +198,17 @@
         "file": "why-my-perplexity-citations-jumped-400-after-killing-seo-tactics.md"
     },
     {
+        "title": "How to Scrape Google Search Results Without Building Your Own Scraper",
+        "slug": "how-to-scrape-google-search-results-without-building-your-own-scraper",
+        "author": "Cecilia Hill",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 04:00:44 +0000",
+        "description": "So you want to scrape Google search results. At first, it sounds simple. Send a request. Download the HTML. Parse the titles, links, snippets, and rankings. ...",
+        "keywords": "results, item, get, search, data, query, you, location",
+        "generated": "2026-06-10T04:15:10.537071",
+        "file": "how-to-scrape-google-search-results-without-building-your-own-scraper.md"
+    },
+    {
         "title": "PySecToolkit：Python安全工具包全面解析",
         "slug": "pysectoolkitpython",
         "author": "WDSEGA",
@@ -218,6 +229,17 @@
         "keywords": "think, spacex, ipo, overvalued, url, https, com, comments",
         "generated": "2026-06-09T04:03:32.524285",
         "file": "we-think-the-spacex-ipo-is-overvalued.md"
+    },
+    {
+        "title": "🐍 Mastering parsing nested json with python json module",
+        "slug": "mastering-parsing-nested-json-with-python-json-module",
+        "author": "Python-T Point",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 03:40:25 +0000",
+        "description": "🔍 Two Approaches, Same JSON — Different Results Reading a file with json.load() and walking the resulting object with a hand‑written loop yields the same Pyt...",
+        "keywords": "json, python, key, stack, nested, recursive, module, dict",
+        "generated": "2026-06-10T04:15:10.538250",
+        "file": "mastering-parsing-nested-json-with-python-json-module.md"
     },
     {
         "title": "Building a Secure Authentication System with Django",
@@ -537,6 +559,17 @@
         "keywords": "mcpeasy, mcp, tool, auth, unified, more, boilerplate, you",
         "generated": "2026-06-09T09:59:01.259240",
         "file": "mcpeasy-stop-rewriting-mcp-integration-boilerplate.md"
+    },
+    {
+        "title": "macOS Container Machines",
+        "slug": "macos-container-machines",
+        "author": "timsneath",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 00:29:01 +0000",
+        "description": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md Comments URL: https://news.ycombinator.com/item?id=48469658 Points: 352 #...",
+        "keywords": "container, url, https, com, comments, macos, machines, article",
+        "generated": "2026-06-10T04:15:10.535529",
+        "file": "macos-container-machines.md"
     },
     {
         "title": "Five overlooked packages running my AI directory stack",
@@ -889,6 +922,17 @@
         "keywords": "price, option, what, writing, tools, comparison, pros, cons",
         "generated": "2026-06-09T20:13:36.284063",
         "file": "ai-writing-tools-comparison-pros-cons-honest-take.md"
+    },
+    {
+        "title": "I Built a Production RAG System on My M1 Mac for $0",
+        "slug": "i-built-a-production-rag-system-on-my-m1-mac-for-0",
+        "author": "Alex Bogle",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 04:09:35 +0000",
+        "description": "I Built a Production RAG System on My M1 Mac for $0 Most RAG tutorials stop at it answers questions. But answering questions is table stakes. The real ques...",
+        "keywords": "rag, all, system, answers, you, ollama, mac, source",
+        "generated": "2026-06-10T04:15:10.543230",
+        "file": "i-built-a-production-rag-system-on-my-m1-mac-for-0.md"
     },
     {
         "title": "Jasper vs Surfer SEO for Long-Form Blog Content 2026: Detailed Comparison",
@@ -1463,6 +1507,17 @@
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
     },
     {
+        "title": "Xcode 27: The Future of Agent-Driven Development is Here",
+        "slug": "xcode-27-the-future-of-agent-driven-development-is-here",
+        "author": "ArshTechPro",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 04:09:05 +0000",
+        "description": "For the first time, Apple is bringing production-grade AI agents directly into the IDE. This isn't just code completion on steroids. Xcode 27 integrates codi...",
+        "keywords": "xcode, agent, your, you, can, agents, code, apple",
+        "generated": "2026-06-10T04:15:10.543682",
+        "file": "xcode-27-the-future-of-agent-driven-development-is-here.md"
+    },
+    {
         "title": "Turso libSQL vs Cloudflare D1 for an Astro monorepo: the practical difference",
         "slug": "turso-libsql-vs-cloudflare-d1-for-an-astro-monorepo-the-practical-difference",
         "author": "MORINAGA",
@@ -1859,6 +1914,17 @@
         "file": "stop-hardcoding-roles-a-practical-guide-to-roles-permissions-and-scalable-authorization.md"
     },
     {
+        "title": "Ad Creatives Compliance: Navigating the Maze of Ne…",
+        "slug": "ad-creatives-compliance-navigating-the-maze-of-ne",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 04:06:44 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore effective strategies to keep ad creatives compliant across networks while optimizing workflow and mi...",
+        "keywords": "compliance, can, ads, your, creatives, norvik, brand, tech",
+        "generated": "2026-06-10T04:15:10.540309",
+        "file": "ad-creatives-compliance-navigating-the-maze-of-ne.md"
+    },
+    {
         "title": "A Realistic Faceless YouTube Shorts Workflow for Busy Makers",
         "slug": "a-realistic-faceless-youtube-shorts-workflow-for-busy-makers",
         "author": "Jae",
@@ -2057,6 +2123,17 @@
         "file": "turning-your-ai-into-an-adversarial-security-agent-the-skillsmd-framework.md"
     },
     {
+        "title": "llms.txt Explained: The robots.txt for AI Search (With Next.js Code)",
+        "slug": "llmstxt-explained-the-robotstxt-for-ai-search-with-nextjs-code",
+        "author": "Muhammad Awais",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 04:06:09 +0000",
+        "description": "You've got robots.txt . You've got sitemap.xml . In 2026, there's a third file you should have at your site root-and most developers still haven't added it. ...",
+        "keywords": "txt, llms, your, robots, you, content, agent, user",
+        "generated": "2026-06-10T04:15:10.540956",
+        "file": "llmstxt-explained-the-robotstxt-for-ai-search-with-nextjs-code.md"
+    },
+    {
         "title": "India's Digital Ad Spend Is Tripling. Here's Why.",
         "slug": "indias-digital-ad-spend-is-tripling-heres-why",
         "author": "Clickmaking",
@@ -2244,6 +2321,17 @@
         "file": "onedrive-data-now-has-an-expiry-date.md"
     },
     {
+        "title": "German ruling declares Google liable for false answers in AI Overviews",
+        "slug": "german-ruling-declares-google-liable-for-false-answers-in-ai-overviews",
+        "author": "ahlCVA",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 01:44:13 +0000",
+        "description": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Commen...",
+        "keywords": "german, ruling, declares, liable, false, answers, overviews, url",
+        "generated": "2026-06-10T04:15:10.535402",
+        "file": "german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md"
+    },
+    {
         "title": "I built an independent search engine—and the results were interesting",
         "slug": "i-built-an-independent-search-engineand-the-results-were-interesting",
         "author": "Splot Dev",
@@ -2319,6 +2407,17 @@
         "keywords": "phillies, athletics, their, will, philadelphia, pitching, home, runs",
         "generated": "2026-06-07T04:26:51.967792",
         "file": "athletics-vs-philadelphia-phillies-mlb-preview-picks.md"
+    },
+    {
+        "title": "I built a feature store in pure Python to finally understand the point-in-time join",
+        "slug": "i-built-a-feature-store-in-pure-python-to-finally-understand-the-point-in-time-join",
+        "author": "Haji Rufai",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 03:50:46 +0000",
+        "description": "For a long time the phrase feature store sat in my head as a box on an architecture diagram. Feast, Tecton, Databricks Feature Store. I knew they served fe...",
+        "keywords": "feature, store, you, join, label, one, time, asof",
+        "generated": "2026-06-10T04:15:10.537653",
+        "file": "i-built-a-feature-store-in-pure-python-to-finally-understand-the-point-in-time-join.md"
     },
     {
         "title": "Quark's Outlines: Python User-defined Methods",
@@ -2717,6 +2816,17 @@
         "file": "scaling-ai-with-multi-tenant-saas-architecture.md"
     },
     {
+        "title": "USA-Made Peptides vs. Imported: Manufacturing Controls, COA Validity, and Contamination Risk | Peptide Supplier USA Lab Grade",
+        "slug": "usa-made-peptides-vs-imported-manufacturing-controls-coa-validity-and-contamination-risk-peptide-supplier-usa-lab-grade",
+        "author": "Inlab Peptides",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 04:07:45 +0000",
+        "description": "The Question Every Researcher Should Be Asking Right Now You found a peptide online . The price looks good. The sequence matches what you need. You click ord...",
+        "keywords": "peptides, your, peptide, research, you, lab, not, supplier",
+        "generated": "2026-06-10T04:15:10.539879",
+        "file": "usa-made-peptides-vs-imported-manufacturing-controls-coa-validity-and-contamination-risk-peptide-supplier-usa-lab-grade.md"
+    },
+    {
         "title": "OpenAI-Compatible Gateway Control Plane Checklist",
         "slug": "openai-compatible-gateway-control-plane-checklist",
         "author": "江欢（JackSoul）",
@@ -2836,6 +2946,17 @@
         "keywords": "use, user, users, experience, your, application, like, state",
         "generated": "2026-06-07T09:24:56.818571",
         "file": "uiux-patterns-for-ai-powered-applications-designing-for-the-ai-era.md"
+    },
+    {
+        "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+        "slug": "show-hn-nucleus-a-security-hardened-nix-native-container-runtime",
+        "author": "0kenx",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 23:03:40 +0000",
+        "description": "Hi HN, I've been building Nucleus, a lightweight Linux container runtime focused on two workloads: ephemeral AI-agent sandboxes and declarative NixOS service...",
+        "keywords": "mode, nucleus, native, runtime, ephemeral, agent, not, docker",
+        "generated": "2026-06-10T04:15:10.535910",
+        "file": "show-hn-nucleus-a-security-hardened-nix-native-container-runtime.md"
     },
     {
         "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
@@ -3300,6 +3421,17 @@
         "file": "answer.md"
     },
     {
+        "title": "10x PRs, 1x Reviewers: The Code-Quality Bottleneck",
+        "slug": "10x-prs-1x-reviewers-the-code-quality-bottleneck",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 04:11:08 +0000",
+        "description": "Amazon employees have a Slack channel called Sloppenheimer. They use it to mock Kiro, the company's AI coding tool , sharing memes edited to carry its purp...",
+        "keywords": "review, code, agents, agent, you, prs, human, coding",
+        "generated": "2026-06-10T04:15:10.542704",
+        "file": "10x-prs-1x-reviewers-the-code-quality-bottleneck.md"
+    },
+    {
         "title": "The EU Open Source Strategy",
         "slug": "the-eu-open-source-strategy",
         "author": "vrganj",
@@ -3608,6 +3740,17 @@
         "file": "job-head-of-stonehenge.md"
     },
     {
+        "title": "AI Automation for Ai For Micro Saas Customer Support How To Automate Technical Issue Triage Debug Log Analysis And Personaliz...",
+        "slug": "ai-automation-for-ai-for-micro-saas-customer-support-how-to-automate-technical-issue-triage-debug-log-analysis-and-personaliz",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Wed, 10 Jun 2026 04:10:48 +0000",
+        "description": "AI Automation for Ai For Micro Saas Customer Support How To Automate Technical Issue Triage Debug Log Analysis And Personalized Response Drafting: Quick Guid...",
+        "keywords": "automate, you, micro, saas, customer, support, how, technical",
+        "generated": "2026-06-10T04:15:10.542881",
+        "file": "ai-automation-for-ai-for-micro-saas-customer-support-how-to-automate-technical-issue-triage-debug-log-analysis-and-personaliz.md"
+    },
+    {
         "title": "Ai Image Generator — Free Online Tool",
         "slug": "ai-image-generator-free-online-tool",
         "author": "BAOMING",
@@ -3672,6 +3815,17 @@
         "keywords": "ats, resume, your, optimizer, python, keywords, identifies, you",
         "generated": "2026-06-09T09:59:01.259422",
         "file": "resume-ats-optimizer-help-your-resume-pass-the-ai-screening-gate.md"
+    },
+    {
+        "title": "I built a voice AI platform that hits 442ms latency. Here's the full architecture.",
+        "slug": "i-built-a-voice-ai-platform-that-hits-442ms-latency-heres-the-full-architecture",
+        "author": "Aryan Panwar",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 03:35:00 +0000",
+        "description": "Most voice AI tutorials end at call the ElevenLabs API. That's not a platform. That's a demo that breaks the moment ElevenLabs changes pricing. I spent 30 ...",
+        "keywords": "voice, config, import, tts, step, provider, websocket, str",
+        "generated": "2026-06-10T04:15:10.539078",
+        "file": "i-built-a-voice-ai-platform-that-hits-442ms-latency-heres-the-full-architecture.md"
     },
     {
         "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
@@ -3773,6 +3927,17 @@
         "file": "how-to-optimize-frontend-performance-a-hands-on-tutorial.md"
     },
     {
+        "title": "Explainable LLM Routing Is the Missing Layer in Agentic Systems — and Why It Matters for Lynkr",
+        "slug": "explainable-llm-routing-is-the-missing-layer-in-agentic-systems-and-why-it-matters-for-lynkr",
+        "author": "Lynkr",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 04:01:33 +0000",
+        "description": "Most multi-model agent stacks can route for cost. Very few can explain why a task was sent to a specific model, what tradeoff was made , or whether the cheap...",
+        "keywords": "model, routing, can, you, not, just, why, paper",
+        "generated": "2026-06-10T04:15:10.541576",
+        "file": "explainable-llm-routing-is-the-missing-layer-in-agentic-systems-and-why-it-matters-for-lynkr.md"
+    },
+    {
         "title": "pip install jhansi — the SDK is live",
         "slug": "pip-install-jhansi-the-sdk-is-live",
         "author": "Arun Raghunath",
@@ -3826,6 +3991,17 @@
         "keywords": "jsl, data, json, def, state, runner, code, host",
         "generated": "2026-06-07T04:26:51.962836",
         "file": "jsl-a-functional-language-where-code-is-json.md"
+    },
+    {
+        "title": "Rich Sutton on AI creativity and discovery",
+        "slug": "rich-sutton-on-ai-creativity-and-discovery",
+        "author": "yimby",
+        "source": "hackernews",
+        "published": "Wed, 10 Jun 2026 02:25:24 +0000",
+        "description": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 37 # Comments: 16",
+        "keywords": "https, com, comments, rich, sutton, creativity, discovery, www",
+        "generated": "2026-06-10T04:15:10.535217",
+        "file": "rich-sutton-on-ai-creativity-and-discovery.md"
     },
     {
         "title": "WebAssembly in production: running high-performance code in the browser and beyond",
@@ -3971,6 +4147,17 @@
         "file": "i-was-supposed-to-fix-bugs-i-accidentally-built-two-features-instead-pc-workman-178-advanced-deep-learning-ai-supply-monitor-and-health-keeper.md"
     },
     {
+        "title": "It's death",
+        "slug": "its-death",
+        "author": "inatreecrown2",
+        "source": "hackernews",
+        "published": "Tue, 09 Jun 2026 23:44:16 +0000",
+        "description": "Article URL: https://jesseduffield.com/ITS-DEATH/ Comments URL: https://news.ycombinator.com/item?id=48469347 Points: 133 # Comments: 40",
+        "keywords": "death, url, https, com, comments, article, jesseduffield, its",
+        "generated": "2026-06-10T04:15:10.535643",
+        "file": "its-death.md"
+    },
+    {
         "title": "KDP Niche Spotlight: Middle Of The Night Insomnia (Demand 42/100, Competition 0/100)",
         "slug": "kdp-niche-spotlight-middle-of-the-night-insomnia-demand-42100-competition-0100",
         "author": "Jay",
@@ -4015,6 +4202,28 @@
         "file": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices.md"
     },
     {
+        "title": "Battery Storage News: Understanding the Technology Powering the Renewable Revolution",
+        "slug": "battery-storage-news-understanding-the-technology-powering-the-renewable-revolution",
+        "author": "zprostudio",
+        "source": "devto_webdev",
+        "published": "Wed, 10 Jun 2026 03:51:41 +0000",
+        "description": "Introduction Renewable energy generation continues to expand across the globe. However, one persistent challenge remains: how do we store electricity effecti...",
+        "keywords": "storage, energy, battery, renewable, systems, technology, power, management",
+        "generated": "2026-06-10T04:15:10.541845",
+        "file": "battery-storage-news-understanding-the-technology-powering-the-renewable-revolution.md"
+    },
+    {
+        "title": "Your schema validation passes and the agent still picks the wrong tool. The bug is semantic.",
+        "slug": "your-schema-validation-passes-and-the-agent-still-picks-the-wrong-tool-the-bug-is-semantic",
+        "author": "James O'Connor",
+        "source": "devto_python",
+        "published": "Wed, 10 Jun 2026 04:05:27 +0000",
+        "description": "Pydantic and JSON-schema guarantee the shape of a tool call. They say nothing about whether it was the right call for the user's intent. TL;DR: We put strict...",
+        "keywords": "tool, call, wrong, validation, schema, intent, not, agent",
+        "generated": "2026-06-10T04:15:10.536196",
+        "file": "your-schema-validation-passes-and-the-agent-still-picks-the-wrong-tool-the-bug-is-semantic.md"
+    },
+    {
         "title": "🏷️ DAY 5: Dictionaries",
         "slug": "day-5-dictionaries",
         "author": "Bonface Thuo",
@@ -4052,10 +4261,10 @@
         "slug": "topology-rewrite-not-bug-repair",
         "author": "Chief Mojo Risin'",
         "source": "devto_ai",
-        "published": "Tue, 09 Jun 2026 15:08:16 +0000",
+        "published": "Wed, 10 Jun 2026 04:08:47 +0000",
         "description": "Topology rewrite not bug repair. A single line. Hold it. More as the build matures. — chiefmojo79",
         "keywords": "topology, rewrite, not, bug, repair, single, line, hold",
-        "generated": "2026-06-09T15:18:05.201521",
+        "generated": "2026-06-10T04:15:10.543803",
         "file": "topology-rewrite-not-bug-repair.md"
     },
     {
