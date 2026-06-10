@@ -3,10 +3,10 @@ title: "Structural exclusion is the only defense that scales"
 slug: "structural-exclusion-is-the-only-defense-that-scales"
 author: "Chief Mojo Risin'"
 source: "devto_ai"
-published: "Sat, 06 Jun 2026 03:44:42 +0000"
+published: "Wed, 10 Jun 2026 20:24:26 +0000"
 description: "Structural exclusion is the only defense that scales. A single line. Hold it. More as the build matures. — chiefmojo79"
 keywords: "structural, exclusion, only, defense, scales, single, line, hold"
-generated: "2026-06-06T04:00:30.110812"
+generated: "2026-06-10T20:38:15.851914"
 ---
 
 # Structural exclusion is the only defense that scales
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-41e9
+https://dev.to/chiefmojo79/structural-exclusion-is-the-only-defense-that-scales-idg
 
 ## Conclusion
 
