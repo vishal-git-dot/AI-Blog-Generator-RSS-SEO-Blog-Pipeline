@@ -4,16 +4,16 @@ slug: "ai-agent-runs-amok-in-fedora-and-elsewhere"
 author: "tanelpoder"
 source: "hackernews"
 published: "Thu, 11 Jun 2026 00:10:08 +0000"
-description: "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 205 # Comments: 55"
+description: "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 420 # Comments: 172"
 keywords: "url, https, comments, agent, runs, amok, fedora, elsewhere"
-generated: "2026-06-11T04:27:42.954980"
+generated: "2026-06-11T10:47:52.345304"
 ---
 
 # AI agent runs amok in Fedora and elsewhere
 
 ## Overview
 
-Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 205 # Comments: 55
+Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 420 # Comments: 172
 
 ## Key Insights
 
