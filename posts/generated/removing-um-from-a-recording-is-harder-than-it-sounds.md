@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Fri, 12 Jun 2026 00:42:11 +0000"
 description: "Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/ Comments URL: https://news.ycombinator.com/item?id=48498421 Poin..."
 keywords: "url, https, comments, removing, recording, harder, than, sounds"
-generated: "2026-06-12T04:40:33.062856"
+generated: "2026-06-12T10:23:24.146458"
 ---
 
 # Removing 'um' from a recording is harder than it sounds
 
 ## Overview
 
-Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/ Comments URL: https://news.ycombinator.com/item?id=48498421 Points: 30 # Comments: 11
+Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/ Comments URL: https://news.ycombinator.com/item?id=48498421 Points: 84 # Comments: 34
 
 ## Key Insights
 
