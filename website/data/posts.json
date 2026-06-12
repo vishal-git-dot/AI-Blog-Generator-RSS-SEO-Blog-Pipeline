@@ -1111,6 +1111,17 @@
         "file": "anthropicopenai-may-be-spending-more-than-1000-for-every-100-you-pay-them.md"
     },
     {
+        "title": "How Agentic AI Is Changing Application Modernization Programs",
+        "slug": "how-agentic-ai-is-changing-application-modernization-programs",
+        "author": "Cygnet.One",
+        "source": "devto_ai",
+        "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+        "description": "Modernization has been a boardroom priority for years, yet many enterprises are still running critical operations on applications built decades ago. Legacy s...",
+        "keywords": "modernization, agentic, migration, can, application, organizations, business, code",
+        "generated": "2026-06-12T04:40:33.070769",
+        "file": "how-agentic-ai-is-changing-application-modernization-programs.md"
+    },
+    {
         "title": "Image To Pdf — Free Online Tool",
         "slug": "image-to-pdf-free-online-tool",
         "author": "BAOMING",
@@ -1716,6 +1727,17 @@
         "file": "where-i-would-prep-for-a-meta-interview-in-2026.md"
     },
     {
+        "title": "Kubernetes network policies: implementing zero-trust networking in your cluster",
+        "slug": "kubernetes-network-policies-implementing-zero-trust-networking-in-your-cluster",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Fri, 12 Jun 2026 04:30:18 +0000",
+        "description": "Kubernetes network policies: implementing zero-trust networking in your cluster Understanding the Core Concepts By default, all pods in a Kubernetes cluster ...",
+        "keywords": "you, your, what, can, implementation, when, them, learn",
+        "generated": "2026-06-12T04:40:33.068195",
+        "file": "kubernetes-network-policies-implementing-zero-trust-networking-in-your-cluster.md"
+    },
+    {
         "title": "There's no escaping it: an exploration of ANSI codes",
         "slug": "theres-no-escaping-it-an-exploration-of-ansi-codes",
         "author": "ankitg12",
@@ -2044,6 +2066,17 @@
         "keywords": "job, tools, application, automation, human, can, elyasians, seekers",
         "generated": "2026-06-07T04:26:51.968210",
         "file": "5-mistakes-job-seekers-make-with-ai-tools-in-2025.md"
+    },
+    {
+        "title": "Kubernetes horizontal pod autoscaling based on custom metrics",
+        "slug": "kubernetes-horizontal-pod-autoscaling-based-on-custom-metrics",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Fri, 12 Jun 2026 04:20:20 +0000",
+        "description": "Kubernetes horizontal pod autoscaling based on custom metrics Understanding the Core Concepts Kubernetes HPA based on CPU and memory covers basic scenarios, ...",
+        "keywords": "you, your, what, implementation, when, them, learn, team",
+        "generated": "2026-06-12T04:40:33.069008",
+        "file": "kubernetes-horizontal-pod-autoscaling-based-on-custom-metrics.md"
     },
     {
         "title": "The Neuroscience of Wealth: Why Your Brain Frequency Determines Your Bank Balance",
@@ -2528,6 +2561,17 @@
         "keywords": "model, routing, can, you, not, just, why, paper",
         "generated": "2026-06-10T04:15:10.541576",
         "file": "explainable-llm-routing-is-the-missing-layer-in-agentic-systems-and-why-it-matters-for-lynkr.md"
+    },
+    {
+        "title": "Removing 'um' from a recording is harder than it sounds",
+        "slug": "removing-um-from-a-recording-is-harder-than-it-sounds",
+        "author": "dougcalobrisi",
+        "source": "hackernews",
+        "published": "Fri, 12 Jun 2026 00:42:11 +0000",
+        "description": "Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/ Comments URL: https://news.ycombinator.com/item?id=48498421 Poin...",
+        "keywords": "url, https, comments, removing, recording, harder, than, sounds",
+        "generated": "2026-06-12T04:40:33.062856",
+        "file": "removing-um-from-a-recording-is-harder-than-it-sounds.md"
     },
     {
         "title": "Your `aws` npm package has 8 vulnerabilities. Here's what's actually happening.",
@@ -3256,6 +3300,17 @@
         "file": "the-pulse-of-patient-care-why-healthcare-is-embracing-ai-voice-agents-in-2026.md"
     },
     {
+        "title": "The Hessigheim 3D (H3D) Benchmark on Semantic Segmentation of High-Resolution 3DPoint Clouds and Textured Meshes from UAV LiDAR",
+        "slug": "the-hessigheim-3d-h3d-benchmark-on-semantic-segmentation-of-high-resolution-3dpoint-clouds-and-textured-meshes-from-uav-lidar",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Fri, 12 Jun 2026 04:30:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "hessigheim, benchmark, semantic, segmentation, high, resolution, clouds, textured",
+        "generated": "2026-06-12T04:40:33.070012",
+        "file": "the-hessigheim-3d-h3d-benchmark-on-semantic-segmentation-of-high-resolution-3dpoint-clouds-and-textured-meshes-from-uav-lidar.md"
+    },
+    {
         "title": "I Built 10 MCP Servers in a Weekend — Here's the Template I Wish I Had Starting Out",
         "slug": "i-built-10-mcp-servers-in-a-weekend-heres-the-template-i-wish-i-had-starting-out",
         "author": "z z",
@@ -3674,6 +3729,17 @@
         "file": "best-ai-image-generator-app-in-2026.md"
     },
     {
+        "title": "🐍 Mastering dunder methods for immutable data classes",
+        "slug": "mastering-dunder-methods-for-immutable-data-classes",
+        "author": "Python-T Point",
+        "source": "devto_python",
+        "published": "Fri, 12 Jun 2026 03:40:32 +0000",
+        "description": "🐍 Counterintuitive Truth — Using dunder methods for immutable data classes can feel like adding extra flexibility to a lock, yet the lock never opens again. ...",
+        "keywords": "self, immutable, class, dataclass, name, methods, custom, hash",
+        "generated": "2026-06-12T04:40:33.066968",
+        "file": "mastering-dunder-methods-for-immutable-data-classes.md"
+    },
+    {
         "title": "Building RFC 3161 Layer 2 Verification for AI Decision Evidence",
         "slug": "building-rfc-3161-layer-2-verification-for-ai-decision-evidence",
         "author": "Lee HeeJun",
@@ -4048,6 +4114,17 @@
         "file": "i-built-an-adversarial-eval-framework-and-attacked-5-llms-every-single-one-failed.md"
     },
     {
+        "title": "5 Things I Stopped Doing as a Lead",
+        "slug": "5-things-i-stopped-doing-as-a-lead",
+        "author": "Susilo harjo",
+        "source": "devto_ai",
+        "published": "Fri, 12 Jun 2026 04:27:53 +0000",
+        "description": "I led a small engineering team for two years. We shipped on time, the code was clean, and the standups were short. By every metric I cared about, the team lo...",
+        "keywords": "team, things, stopped, doing, lead, engineering, shipped, not",
+        "generated": "2026-06-12T04:40:33.071331",
+        "file": "5-things-i-stopped-doing-as-a-lead.md"
+    },
+    {
         "title": "Show HN: ABC Classic 100 Rankings visualised",
         "slug": "show-hn-abc-classic-100-rankings-visualised",
         "author": "gotski",
@@ -4200,6 +4277,17 @@
         "keywords": "apache, burr, url, https, comments, build, reliable, agents",
         "generated": "2026-06-10T15:51:30.356397",
         "file": "apache-burr-build-reliable-ai-agents-and-applications.md"
+    },
+    {
+        "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
+        "slug": "wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right",
+        "author": "Rapls",
+        "source": "devto_webdev",
+        "published": "Fri, 12 Jun 2026 04:34:38 +0000",
+        "description": "I committed a new version of my plugin to SVN and got a message I hadn’t seen before: this version will reach sites in about 24 hours. My first thought was t...",
+        "keywords": "author, commit, before, one, plugin, default, hours, every",
+        "generated": "2026-06-12T04:40:33.067438",
+        "file": "wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right.md"
     },
     {
         "title": "How to handle imposter syndrome as a developer: practical strategies",
@@ -4455,6 +4543,17 @@
         "file": "i-built-a-link-preview-api-on-cloudflare-workers-and-learned-kv-is-not-a-counter.md"
     },
     {
+        "title": "The Factory Robot That Doesn’t Specialize — Korea’s Hidden Edge",
+        "slug": "the-factory-robot-that-doesnt-specialize-koreas-hidden-edge",
+        "author": "lifes koreaplus",
+        "source": "devto_ai",
+        "published": "Fri, 12 Jun 2026 04:28:19 +0000",
+        "description": "The global tech conversation is buzzing with visions of 'artificial general engineers' and 'non-specialized' factory robots. Western startups are making head...",
+        "keywords": "systems, robot, factory, specialized, robots, just, isn, control",
+        "generated": "2026-06-12T04:40:33.071166",
+        "file": "the-factory-robot-that-doesnt-specialize-koreas-hidden-edge.md"
+    },
+    {
         "title": "bipixie-mcp added to PyPI",
         "slug": "bipixie-mcp-added-to-pypi",
         "author": "Clyde C",
@@ -4646,10 +4745,10 @@
         "slug": "web-scraping-for-beginners-sell-data-as-a-service",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Wed, 10 Jun 2026 19:42:02 +0000",
-        "description": "Web Scraping for Beginners: Sell Data as a Service Web scraping is the process of extracting data from websites, and it's a valuable skill for any developer ...",
-        "keywords": "scraping, data, web, you, can, website, your, services",
-        "generated": "2026-06-10T20:38:15.849360",
+        "published": "Fri, 12 Jun 2026 03:42:27 +0000",
+        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely no stranger to the concept of web scraping. But have you ever considered tur...",
+        "keywords": "data, job, web, scraping, title, company, location, you",
+        "generated": "2026-06-12T04:40:33.066274",
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
     },
     {
@@ -4673,6 +4772,17 @@
         "keywords": "contextlens, turn, report, tool, what, waste, model, client",
         "generated": "2026-06-08T16:07:42.605559",
         "file": "contextlens-py-spypprof-but-for-whats-inside-your-llm-prompt.md"
+    },
+    {
+        "title": "Claude Fable is relentlessly proactive",
+        "slug": "claude-fable-is-relentlessly-proactive",
+        "author": "lumpa",
+        "source": "hackernews",
+        "published": "Fri, 12 Jun 2026 01:06:51 +0000",
+        "description": "Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/ Comments URL: https://news.ycombinator.com/item?id=48498573 Points: 216 #...",
+        "keywords": "fable, relentlessly, proactive, url, https, comments, claude, article",
+        "generated": "2026-06-12T04:40:33.062692",
+        "file": "claude-fable-is-relentlessly-proactive.md"
     },
     {
         "title": "We Think the SpaceX IPO Is Overvalued",
@@ -4939,6 +5049,17 @@
         "file": "transformers-are-inherently-succinct.md"
     },
     {
+        "title": "If you are asking for human attention, demonstrate human effort",
+        "slug": "if-you-are-asking-for-human-attention-demonstrate-human-effort",
+        "author": "jjfoooo4",
+        "source": "hackernews",
+        "published": "Thu, 11 Jun 2026 23:01:55 +0000",
+        "description": "Article URL: https://tombedor.dev/human-attention-and-human-effort/ Comments URL: https://news.ycombinator.com/item?id=48497609 Points: 381 # Comments: 120",
+        "keywords": "human, attention, effort, url, https, comments, you, asking",
+        "generated": "2026-06-12T04:40:33.063103",
+        "file": "if-you-are-asking-for-human-attention-demonstrate-human-effort.md"
+    },
+    {
         "title": "Debugging with AI: Stop Feeding It Files, Start Feeding It Snapshots",
         "slug": "debugging-with-ai-stop-feeding-it-files-start-feeding-it-snapshots",
         "author": "kai belmo",
@@ -5104,6 +5225,17 @@
         "file": "kdp-niche-spotlight-middle-of-the-night-insomnia-demand-42100-competition-0100.md"
     },
     {
+        "title": "Deep-Linkable Livewire: Scoping a Browser to the Thing You Clicked",
+        "slug": "deep-linkable-livewire-scoping-a-browser-to-the-thing-you-clicked",
+        "author": "Nasrul Hazim Bin Mohamad",
+        "source": "devto_webdev",
+        "published": "Fri, 12 Jun 2026 04:21:17 +0000",
+        "description": "Today's work was a small piece of UX that's easy to underestimate: making an admin browser page scope itself to whatever you clicked to get there. The setu...",
+        "keywords": "connector, you, property, livewire, deep, ldap, url, public",
+        "generated": "2026-06-12T04:40:33.068641",
+        "file": "deep-linkable-livewire-scoping-a-browser-to-the-thing-you-clicked.md"
+    },
+    {
         "title": "The Undruggable",
         "slug": "the-undruggable",
         "author": "thesythesis.ai",
@@ -5225,6 +5357,17 @@
         "file": "show-hn-gravity-interactive-solar-system-simulator-from-newton-to-einstein.md"
     },
     {
+        "title": "A jacket that harvests drinking water from the air",
+        "slug": "a-jacket-that-harvests-drinking-water-from-the-air",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Thu, 11 Jun 2026 22:59:22 +0000",
+        "description": "Article URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/ Comments URL: https://news.ycombinator.com/item?id=48497576 P...",
+        "keywords": "jacket, drinking, water, air, url, https, news, comments",
+        "generated": "2026-06-12T04:40:33.063248",
+        "file": "a-jacket-that-harvests-drinking-water-from-the-air.md"
+    },
+    {
         "title": "Sunny Health & Fitness",
         "slug": "sunny-health-fitness",
         "author": "Adilali Raza",
@@ -5324,6 +5467,17 @@
         "file": "you-can-run.md"
     },
     {
+        "title": "Lessons from shipping a fully client-side image tool as a solo founder",
+        "slug": "lessons-from-shipping-a-fully-client-side-image-tool-as-a-solo-founder",
+        "author": "DHANANJAY KUMAR",
+        "source": "devto_webdev",
+        "published": "Fri, 12 Jun 2026 04:33:25 +0000",
+        "description": "Most online image compression and converter tools work the same way: you upload your photo to their server, their server does the work, you download the resu...",
+        "keywords": "you, side, your, server, files, most, formats, users",
+        "generated": "2026-06-12T04:40:33.067791",
+        "file": "lessons-from-shipping-a-fully-client-side-image-tool-as-a-solo-founder.md"
+    },
+    {
         "title": "XTK: A Symbolic Expression Toolkit for Term Rewriting",
         "slug": "xtk-a-symbolic-expression-toolkit-for-term-rewriting",
         "author": "Alex Towell",
@@ -5350,10 +5504,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Thu, 11 Jun 2026 19:57:04 +0000",
+        "published": "Fri, 12 Jun 2026 04:09:15 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-06-11T20:28:40.308513",
+        "generated": "2026-06-12T04:40:33.063397",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -5522,6 +5676,17 @@
         "file": "my-ai-manga-toolkit-the-exact-tools-and-settings-that-gave-me-consistent-characters-across-100-pages.md"
     },
     {
+        "title": "Context Engineering for AI Agents: The 2026 Practitioner's Deep Dive",
+        "slug": "context-engineering-for-ai-agents-the-2026-practitioners-deep-dive",
+        "author": "Manoranjan Rajguru",
+        "source": "devto_python",
+        "published": "Fri, 12 Jun 2026 03:46:33 +0000",
+        "description": "Table of Contents The Model War Is Over. The Harness War Has Begun. Why Prompt Engineering Failed (And What Replaced It) Anatomy of an Agent Context Window T...",
+        "keywords": "context, agent, messages, engineering, task, model, tool, return",
+        "generated": "2026-06-12T04:40:33.065918",
+        "file": "context-engineering-for-ai-agents-the-2026-practitioners-deep-dive.md"
+    },
+    {
         "title": "Automate Social Media With Python and the Zernio API",
         "slug": "automate-social-media-with-python-and-the-zernio-api",
         "author": "Kevin Meneses González",
@@ -5531,6 +5696,17 @@
         "keywords": "you, zernio, content, reddit, api, platform, twitter, one",
         "generated": "2026-06-05T10:13:51.905690",
         "file": "automate-social-media-with-python-and-the-zernio-api.md"
+    },
+    {
+        "title": "Exact vs semantic caching for LLMs: when each wins, measured",
+        "slug": "exact-vs-semantic-caching-for-llms-when-each-wins-measured",
+        "author": "Ravi Patel",
+        "source": "devto_ai",
+        "published": "Fri, 12 Jun 2026 04:30:38 +0000",
+        "description": "If you're building on top of an LLM API and the bill is starting to bite, you've probably read that caching is the answer. The follow-up question is which ki...",
+        "keywords": "cache, semantic, caching, exact, you, embedding, threshold, your",
+        "generated": "2026-06-12T04:40:33.069873",
+        "file": "exact-vs-semantic-caching-for-llms-when-each-wins-measured.md"
     },
     {
         "title": "Top 10 Reliable Websites for Buying Gmail Accounts",
@@ -5709,6 +5885,17 @@
         "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
     },
     {
+        "title": "vozern added to PyPI",
+        "slug": "vozern-added-to-pypi",
+        "author": "Clyde C",
+        "source": "devto_python",
+        "published": "Fri, 12 Jun 2026 03:48:08 +0000",
+        "description": "Why It Matters The recent addition of vozern to PyPI is a significant development in the field of AI governance. As AI becomes increasingly pervasive in vari...",
+        "keywords": "vozern, governance, pypi, development, compliance, help, systems, more",
+        "generated": "2026-06-12T04:40:33.063679",
+        "file": "vozern-added-to-pypi.md"
+    },
+    {
         "title": "One object, three interfaces: building a natural-language Kanban board with ExoModel",
         "slug": "one-object-three-interfaces-building-a-natural-language-kanban-board-with-exomodel",
         "author": "Leo Pessoa",
@@ -5729,5 +5916,16 @@
         "keywords": "url, https, com, comments, notes, deepseek, article, twitter",
         "generated": "2026-06-10T15:51:30.356726",
         "file": "notes-on-deepseek.md"
+    },
+    {
+        "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+        "slug": "nobody-ever-gets-credit-for-fixing-problems-that-never-happened-2001-pdf",
+        "author": "sam_bristow",
+        "source": "hackernews",
+        "published": "Fri, 12 Jun 2026 00:38:11 +0000",
+        "description": "Article URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf Comments URL: https://news.ycombinator.com/item?id=48498385 Points: 209 # Commen...",
+        "keywords": "pdf, url, https, comments, nobody, ever, gets, credit",
+        "generated": "2026-06-12T04:40:33.062985",
+        "file": "nobody-ever-gets-credit-for-fixing-problems-that-never-happened-2001-pdf.md"
     }
 ]
