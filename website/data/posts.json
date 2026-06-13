@@ -132,6 +132,17 @@
         "file": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs.md"
     },
     {
+        "title": "Open source AI must win",
+        "slug": "open-source-ai-must-win",
+        "author": "vednig",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 02:14:24 +0000",
+        "description": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 380 # Comments: 107",
+        "keywords": "url, https, com, comments, open, source, must, win",
+        "generated": "2026-06-13T04:19:15.383119",
+        "file": "open-source-ai-must-win.md"
+    },
+    {
         "title": "Measuring Operational Output in High-Performance Teams (787)",
         "slug": "measuring-operational-output-in-high-performance-teams-787",
         "author": "mara Banks",
@@ -308,6 +319,17 @@
         "file": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md"
     },
     {
+        "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+        "slug": "weve-suspended-access-to-claude-mythos-5-and-claude-fable-5",
+        "author": "jesse_dot_id",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 00:58:06 +0000",
+        "description": "Article URL: https://status.claude.com/incidents/s9w82lp9dcn9 Comments URL: https://news.ycombinator.com/item?id=48511121 Points: 184 # Comments: 70",
+        "keywords": "claude, url, https, com, comments, suspended, access, mythos",
+        "generated": "2026-06-13T04:19:15.383363",
+        "file": "weve-suspended-access-to-claude-mythos-5-and-claude-fable-5.md"
+    },
+    {
         "title": "Quark's Outlines: Python User-defined Methods",
         "slug": "quarks-outlines-python-user-defined-methods",
         "author": "Mike Vincent",
@@ -361,6 +383,17 @@
         "keywords": "html, price, span, json, data, you, scraping, div",
         "generated": "2026-06-06T08:41:07.449341",
         "file": "when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages.md"
+    },
+    {
+        "title": "How I Built a Real-Time Biometric Telemetry Pipeline to Detect AI Code Injections in VS Code",
+        "slug": "how-i-built-a-real-time-biometric-telemetry-pipeline-to-detect-ai-code-injections-in-vs-code",
+        "author": "Tanush Bhootra",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 04:00:00 +0000",
+        "description": "Hey everyone! I’m a 19-year-old student developer, and over the last few weeks, I’ve been building an independent developer-security pipeline called Epistemi...",
+        "keywords": "code, how, telemetry, developer, tier, built, pipeline, here",
+        "generated": "2026-06-13T04:19:15.385606",
+        "file": "how-i-built-a-real-time-biometric-telemetry-pipeline-to-detect-ai-code-injections-in-vs-code.md"
     },
     {
         "title": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
@@ -1342,6 +1375,17 @@
         "file": "ask-hn-why-is-the-hn-crowd-so-anti-ai.md"
     },
     {
+        "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+        "slug": "statement-on-us-government-directive-to-suspend-access-to-fable-5-and-mythos-5",
+        "author": "Dylan1312",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 00:51:30 +0000",
+        "description": "Article URL: https://www.anthropic.com/news/fable-mythos-access Comments URL: https://news.ycombinator.com/item?id=48511072 Points: 1360 # Comments: 906",
+        "keywords": "access, fable, mythos, url, https, com, news, comments",
+        "generated": "2026-06-13T04:19:15.383442",
+        "file": "statement-on-us-government-directive-to-suspend-access-to-fable-5-and-mythos-5.md"
+    },
+    {
         "title": "Google will pay SpaceX $920M per month for compute",
         "slug": "google-will-pay-spacex-920m-per-month-for-compute",
         "author": "ramanan",
@@ -1749,6 +1793,17 @@
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
     },
     {
+        "title": "Scikit-allel 群體遺傳學分析工具完整評測",
+        "slug": "scikit-allel",
+        "author": "JH5",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 04:02:00 +0000",
+        "description": "scikit-allel 實戰：Python 基因體學分析利器 作者 : Laman Wu 測試日期 : 2026-02-23 (教學) / 2026-03-05 (P2 實測 DV vs GATK) 測試環境 : Ubuntu 22.04, Python 3.10.12, scikit-allel 1.3.13...",
+        "keywords": "allel, print, plt, scikit, pca, ihs, import, genotypes",
+        "generated": "2026-06-13T04:19:15.385316",
+        "file": "scikit-allel.md"
+    },
+    {
         "title": "European sentiments towards the US hit an all-time low",
         "slug": "european-sentiments-towards-the-us-hit-an-all-time-low",
         "author": "marcyb5st",
@@ -1903,6 +1958,17 @@
         "file": "kubernetes-network-policies-implementing-zero-trust-networking-in-your-cluster.md"
     },
     {
+        "title": "Mastering TypeScript's `never` Type: Exhaustive Checks, Conditional Types, and Real Patterns",
+        "slug": "mastering-typescripts-never-type-exhaustive-checks-conditional-types-and-real-patterns",
+        "author": "Kai Thorne",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 04:05:58 +0000",
+        "description": "If you've been writing TypeScript for a while, you've probably seen never in error messages or type definitions and wondered what it actually does. It's not ...",
+        "keywords": "never, type, string, number, you, case, function, state",
+        "generated": "2026-06-13T04:19:15.387602",
+        "file": "mastering-typescripts-never-type-exhaustive-checks-conditional-types-and-real-patterns.md"
+    },
+    {
         "title": "There's no escaping it: an exploration of ANSI codes",
         "slug": "theres-no-escaping-it-an-exploration-of-ansi-codes",
         "author": "ankitg12",
@@ -1912,6 +1978,17 @@
         "keywords": "ansi, codes, url, https, comments, there, escaping, exploration",
         "generated": "2026-06-05T10:13:51.904970",
         "file": "theres-no-escaping-it-an-exploration-of-ansi-codes.md"
+    },
+    {
+        "title": "10 API and Database Blunders Every Beginner Makes (and How to Fix Them Before Production Bites Back)",
+        "slug": "10-api-and-database-blunders-every-beginner-makes-and-how-to-fix-them-before-production-bites-back",
+        "author": "Sarim Nadeem",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 04:13:25 +0000",
+        "description": "You wrote your first REST endpoint. You ran your first SELECT * . Things worked. Life was good. Then a colleague casually mentioned idempotency key, anothe...",
+        "keywords": "you, not, one, every, your, index, table, orders",
+        "generated": "2026-06-13T04:19:15.386491",
+        "file": "10-api-and-database-blunders-every-beginner-makes-and-how-to-fix-them-before-production-bites-back.md"
     },
     {
         "title": "TokenEase: One API Key for DeepSeek, GLM, Qwen, and Doubao — With Automatic Failover",
@@ -2299,6 +2376,17 @@
         "file": "kubernetes-horizontal-pod-autoscaling-based-on-custom-metrics.md"
     },
     {
+        "title": "Im new here!",
+        "slug": "im-new-here",
+        "author": "Tokio",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 04:06:52 +0000",
+        "description": "Hello dev, I just started going down the rabbit hole. After more than a year of jumping from one course to another, I decided to commit to a more structured ...",
+        "keywords": "after, more, decided, path, lot, learning, becoming, developer",
+        "generated": "2026-06-13T04:19:15.386801",
+        "file": "im-new-here.md"
+    },
+    {
         "title": "The Neuroscience of Wealth: Why Your Brain Frequency Determines Your Bank Balance",
         "slug": "the-neuroscience-of-wealth-why-your-brain-frequency-determines-your-bank-balance",
         "author": "Chitta Ranjan Rath",
@@ -2319,6 +2407,17 @@
         "keywords": "who, runs, ransomware, group, gentlemen, url, https, com",
         "generated": "2026-06-11T20:28:40.306500",
         "file": "who-runs-the-ransomware-group-the-gentlemen.md"
+    },
+    {
+        "title": "用 Pyodide 解鎖前端AI超能力",
+        "slug": "pyodide-ai",
+        "author": "JH5",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 04:13:21 +0000",
+        "description": "用 Pyodide 解鎖前端AI超能力 https://github.com/pyodide/pyodide UpdatedMarch 24, 2026•3 min read J JhihHao Wu ** 近期研究重點包含 AI Agent 的供應鏈攻擊、PII 偵測模型評估，以及醫療 AI 在臨床流程中的安全...",
+        "keywords": "pyodide, script, print, import, document, https, html, textcontent",
+        "generated": "2026-06-13T04:19:15.383881",
+        "file": "pyodide-ai.md"
     },
     {
         "title": "Best WhatsApp WordPress Plugins for Support (2026)",
@@ -2352,6 +2451,17 @@
         "keywords": "server, mcp, can, servers, not, code, how, production",
         "generated": "2026-06-08T04:42:39.223262",
         "file": "we-tried-to-independently-verify-all-22561-mcp-servers-only-18-could-be-checked.md"
+    },
+    {
+        "title": "工程師眼中的 “Don’t Make Me Think”",
+        "slug": "dont-make-me-think",
+        "author": "JH5",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 04:08:30 +0000",
+        "description": "工程師眼中的 “Don’t Make Me Think” Steve Krug有一本跟使用者經驗有關的經典著作《Don’t Make Me Think》，很多工程師誤以為這本書只屬於 UI/UX 設計師，尤其是現在在Agent AI輔助我們日常的開發下，更需要把工程思維中的「Don’t Make Me… Upda...",
+        "keywords": "don, make, think, message, web, bff, api, sending",
+        "generated": "2026-06-13T04:19:15.388724",
+        "file": "dont-make-me-think.md"
     },
     {
         "title": "Driving in America Is Headlight Hell",
@@ -2638,6 +2748,17 @@
         "keywords": "pirates, marlins, their, miami, home, will, pittsburgh, has",
         "generated": "2026-06-12T20:19:14.999617",
         "file": "miami-marlins-vs-pittsburgh-pirates-mlb-preview-picks.md"
+    },
+    {
+        "title": "自動化測試 API 權限漏洞與 OpenAPI 安全性",
+        "slug": "api-openapi",
+        "author": "JH5",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 04:08:18 +0000",
+        "description": "自動化測試 API 權限漏洞與 OpenAPI 安全性 許多團隊在導入 微服務架構後，往往會因為自動生成了 Swagger/OpenAPI，卻常常卻忘記權限控管，導致 API 變成大家的遊樂園ＸＤ，而AutoSwagger 就是針對這個痛點而生的工具。 UpdatedMarch 24, 2026•2 min re...",
+        "keywords": "api, autoswagger, swagger, json, openapi, get, demo, https",
+        "generated": "2026-06-13T04:19:15.384142",
+        "file": "api-openapi.md"
     },
     {
         "title": "The curious case of low-protein diets",
@@ -3201,6 +3322,17 @@
         "file": "the-case-for-persistent-sandboxes-in-ai-code-execution.md"
     },
     {
+        "title": "Iconfinder的驟然告別",
+        "slug": "iconfinder",
+        "author": "JH5",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 04:09:16 +0000",
+        "description": "Iconfinder的驟然告別 一兩周前，習慣性的上IconFinder 像要找一些素材，卻突然發現網站上頭多了一條公告。 UpdatedMarch 24, 2026•1 min read J JhihHao Wu ** 近期研究重點包含 AI Agent 的供應鏈攻擊、PII 偵測模型評估，以及醫療 AI 在臨...",
+        "keywords": "iconfinder, read, updatedmarch, min, jhihhao, agent, pii, nvidia",
+        "generated": "2026-06-13T04:19:15.388515",
+        "file": "iconfinder.md"
+    },
+    {
         "title": "NASA's High-Tech Prada LCVG Sp…",
         "slug": "nasas-high-tech-prada-lcvg-sp",
         "author": "Norvik Tech",
@@ -3465,6 +3597,17 @@
         "file": "usereducer-in-react.md"
     },
     {
+        "title": "React Fiber Architecture Explained: How React Renders UI",
+        "slug": "react-fiber-architecture-explained-how-react-renders-ui",
+        "author": "Dev Encyclopedia",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 04:13:13 +0000",
+        "description": "Fiber has been React's core engine since v16, but most devs never look at how it actually works. Here's a plain-English breakdown. The problem before Fiber T...",
+        "keywords": "fiber, react, tree, render, work, commit, component, phase",
+        "generated": "2026-06-13T04:19:15.386694",
+        "file": "react-fiber-architecture-explained-how-react-renders-ui.md"
+    },
+    {
         "title": "Job: Head of Stonehenge",
         "slug": "job-head-of-stonehenge",
         "author": "mooreds",
@@ -3650,6 +3793,17 @@
         "keywords": "patient, healthcare, voice, agents, patients, can, care, administrative",
         "generated": "2026-06-10T10:13:09.119485",
         "file": "the-pulse-of-patient-care-why-healthcare-is-embracing-ai-voice-agents-in-2026.md"
+    },
+    {
+        "title": "pysam、cyvcf2、PyVCF3 性能對比與應用",
+        "slug": "pysamcyvcf2pyvcf3",
+        "author": "JH5",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 04:07:32 +0000",
+        "description": "pysam、cyvcf2、PyVCF3 性能對比與應用 在生物資訊的世界裡，處理基因組變異數據是在日常不過的工作，從最入門的PyVCF3 再到 pysam 除了可以除了vcf外，還可以一並處理GATK前後處理，再到 cyvcf2 可以處理大型WGS檔案以及批次同時處理多個VCF檔，到底要怎麼選？ UpdatedM...",
+        "keywords": "vcf, pysam, print, variant, record, import, variantfile, qual",
+        "generated": "2026-06-13T04:19:15.384458",
+        "file": "pysamcyvcf2pyvcf3.md"
     },
     {
         "title": "The Hessigheim 3D (H3D) Benchmark on Semantic Segmentation of High-Resolution 3DPoint Clouds and Textured Meshes from UAV LiDAR",
@@ -4070,6 +4224,17 @@
         "file": "build-an-eve-online-market-trading-bot-in-python-using-the-esi-api.md"
     },
     {
+        "title": "實測 GeminiCLI Security Extensions 來Review CodeX 原始碼",
+        "slug": "geminicli-security-extensions-review-codex",
+        "author": "JH5",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 04:09:56 +0000",
+        "description": "實測 GeminiCLI Security Extensions 來Review CodeX 原始碼 前陣子Gemini CLI除了公布最新的網域？ https://geminicli.com/ 之外，也帶來了一堆好玩的 Gemini CLI Extension ， 今天我們就來試玩下面兩位主角 Code Rev...",
+        "keywords": "codex, tui, security, gemini, extension, src, cli, code",
+        "generated": "2026-06-13T04:19:15.388386",
+        "file": "geminicli-security-extensions-review-codex.md"
+    },
+    {
         "title": "Kostenloser DSGVO-Scanner für eure Website — 73% der getesteten .de-Domains hatten Verstöße",
         "slug": "kostenloser-dsgvo-scanner-fr-eure-website-73-der-getesteten-de-domains-hatten-verste",
         "author": "Nevik Schmidt",
@@ -4323,6 +4488,28 @@
         "file": "dev-containers-reproducible-development-environments-for-your-team.md"
     },
     {
+        "title": "AMD Stiffs Researcher $10k Bug Bounty",
+        "slug": "amd-stiffs-researcher-10k-bug-bounty",
+        "author": "worik",
+        "source": "hackernews",
+        "published": "Fri, 12 Jun 2026 22:57:27 +0000",
+        "description": "Article URL: https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix Comments URL: https://new...",
+        "keywords": "amd, stiffs, researcher, bug, bounty, url, https, com",
+        "generated": "2026-06-13T04:19:15.383517",
+        "file": "amd-stiffs-researcher-10k-bug-bounty.md"
+    },
+    {
+        "title": "Deep Dive: NinjaOne Secures $400M for Endpoint Man…",
+        "slug": "deep-dive-ninjaone-secures-400m-for-endpoint-man",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 04:06:24 +0000",
+        "description": "Originally published at norvik.tech Introduction An in-depth analysis of NinjaOne's recent funding and its implications for endpoint management technology an...",
+        "keywords": "ninjaone, management, endpoint, security, its, remote, solutions, tech",
+        "generated": "2026-06-13T04:19:15.387140",
+        "file": "deep-dive-ninjaone-secures-400m-for-endpoint-man.md"
+    },
+    {
         "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
         "slug": "a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-data-center",
         "author": "greedo",
@@ -4442,6 +4629,17 @@
         "keywords": "novaedgedigitallabs, citykit, cities, search, distance, nearest, api, import",
         "generated": "2026-06-10T20:38:15.850888",
         "file": "i-built-a-zero-dependency-city-search-library-with-50000-cities-built-in.md"
+    },
+    {
+        "title": "Suno AI 有意思的授權條款",
+        "slug": "suno-ai",
+        "author": "JH5",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 04:10:01 +0000",
+        "description": "Suno AI 有意思的授權條款 前陣子看玩一些LLM音樂創作的文章後，手癢利用Suno AI的免費額度玩了幾天，每次聽到v5產出的一分鍾偷聽版本，都覺得歎為觀止… 連續好幾天都按了Upgrade按鈕，都始終都沒有使用鈔能力課金，不過卻意外的喵到再升級的畫面上有一個有趣的條款。 UpdatedMarch 24, ...",
+        "keywords": "suno, commercial, songs, your, use, non, music, rights",
+        "generated": "2026-06-13T04:19:15.387914",
+        "file": "suno-ai.md"
     },
     {
         "title": "AI Automation for Ai For Micro Saas Customer Support How To Automate Technical Issue Triage Debug Log Analysis And Personaliz...",
@@ -6072,6 +6270,17 @@
         "file": "python-decorators-explained-simply.md"
     },
     {
+        "title": "As a result of a US Government directive, we are suspending access to Fable 5",
+        "slug": "as-a-result-of-a-us-government-directive-we-are-suspending-access-to-fable-5",
+        "author": "plonkus",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 01:02:41 +0000",
+        "description": "Article URL: https://twitter.com/ClaudeDevs/status/2065597942602531163 Comments URL: https://news.ycombinator.com/item?id=48511168 Points: 70 # Comments: 16",
+        "keywords": "url, https, com, comments, result, government, directive, suspending",
+        "generated": "2026-06-13T04:19:15.383274",
+        "file": "as-a-result-of-a-us-government-directive-we-are-suspending-access-to-fable-5.md"
+    },
+    {
         "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
         "slug": "surveillance-is-not-safety-a-statement-on-the-uks-latest-threat-to-privacy-pdf",
         "author": "g0xA52A2A",
@@ -6455,6 +6664,17 @@
         "keywords": "fact, number, factorial, print, input, start, stop, enter",
         "generated": "2026-06-07T14:06:36.534511",
         "file": "factorial-of-a-given-number.md"
+    },
+    {
+        "title": "AI Automation for Ai For Independent Physical Therapists How To Automate Soap Note Generation And Insurance Billing Codes Fro...",
+        "slug": "ai-automation-for-ai-for-independent-physical-therapists-how-to-automate-soap-note-generation-and-insurance-billing-codes-fro",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 04:10:24 +0000",
+        "description": "AI Automation for Ai For Independent Physical Therapists How To Automate Soap Note Generation And Insurance Billing Codes From Session Voice Notes: Quick Gui...",
+        "keywords": "automate, you, independent, physical, therapists, how, soap, note",
+        "generated": "2026-06-13T04:19:15.387726",
+        "file": "ai-automation-for-ai-for-independent-physical-therapists-how-to-automate-soap-note-generation-and-insurance-billing-codes-fro.md"
     },
     {
         "title": "Rate Limits & Anti-Bots in Agentic Scraping",
