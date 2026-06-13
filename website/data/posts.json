@@ -1056,6 +1056,17 @@
         "file": "turning-your-ai-into-an-adversarial-security-agent-the-skillsmd-framework.md"
     },
     {
+        "title": "FastAPI Lifespan Events for Multi-Tenant Resource Initialization: Setting Up Tenant Caches and AI Model Contexts Without Singleton Hell",
+        "slug": "fastapi-lifespan-events-for-multi-tenant-resource-initialization-setting-up-tenant-caches-and-ai-model-contexts-without-singleton-hell",
+        "author": "Ugur Aslim",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 08:40:54 +0000",
+        "description": "FastAPI Lifespan Events for Multi-Tenant Resource Initialization: Setting Up Tenant Caches and AI Model Contexts Without Singleton Hell I've watched multi-te...",
+        "keywords": "tenant, request, ctx, await, fastapi, app, def, lifespan",
+        "generated": "2026-06-13T09:25:04.607719",
+        "file": "fastapi-lifespan-events-for-multi-tenant-resource-initialization-setting-up-tenant-caches-and-ai-model-contexts-without-singleton-hell.md"
+    },
+    {
         "title": "The Developer's Guide to Data Pipeline Automation: Beyond Cron Jobs",
         "slug": "the-developers-guide-to-data-pipeline-automation-beyond-cron-jobs",
         "author": "howiprompt",
@@ -1241,6 +1252,17 @@
         "keywords": "anthropic, openai, may, spending, more, than, every, you",
         "generated": "2026-06-07T14:06:36.534075",
         "file": "anthropicopenai-may-be-spending-more-than-1000-for-every-100-you-pay-them.md"
+    },
+    {
+        "title": "NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes",
+        "slug": "neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes",
+        "author": "hhhfs9s7y9-code",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 09:20:56 +0000",
+        "description": "What is NeuralBridge? NeuralBridge is an embedded SDK (not a gateway) that makes your AI agents resilient against LLM failures. It runs inside your Python pr...",
+        "keywords": "neuralbridge, result, sdk, self, print, provider, healing, latency",
+        "generated": "2026-06-13T09:25:04.610244",
+        "file": "neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes.md"
     },
     {
         "title": "How Agentic AI Is Changing Application Modernization Programs",
@@ -2134,6 +2156,17 @@
         "file": "i-built-100-free-browser-based-tools-heres-what-i-learned.md"
     },
     {
+        "title": "Stop Guessing: Real Data Comparing GPT-4o and Gemini Pro",
+        "slug": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 09:09:05 +0000",
+        "description": "Stop Guessing: Real Data Comparing GPT-4o and Gemini Pro I'll be honest with you up front: I don't love either of these models. Both GPT-4o and Gemini Pro co...",
+        "keywords": "you, model, gpt, models, they, your, when, not",
+        "generated": "2026-06-13T09:25:04.606557",
+        "file": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro.md"
+    },
+    {
         "title": "AI for Manufacturing: Smart Factory Use Cases &amp; ROI",
         "slug": "ai-for-manufacturing-smart-factory-use-cases-amp-roi",
         "author": "Digital Colliers",
@@ -2574,6 +2607,28 @@
         "file": "track-ai-token-usage-from-your-mac-menu-bar-with-trackr-bar.md"
     },
     {
+        "title": "Google’s Competitive Move in A…",
+        "slug": "googles-competitive-move-in-a",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 09:06:21 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore Google's recent adjustments to its AI subscription model and their implications for tech development...",
+        "keywords": "google, tools, can, pricing, tech, new, their, costs",
+        "generated": "2026-06-13T09:25:04.609485",
+        "file": "googles-competitive-move-in-a.md"
+    },
+    {
+        "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+        "slug": "shepherds-dog-a-game-by-the-most-dangerous-ai-model",
+        "author": "vnglst",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 05:44:46 +0000",
+        "description": "Article URL: https://koenvangilst.nl/lab/claude-fable-shepherds-dog Comments URL: https://news.ycombinator.com/item?id=48513728 Points: 80 # Comments: 64",
+        "keywords": "dog, url, https, comments, shepherd, game, most, dangerous",
+        "generated": "2026-06-13T09:25:04.605406",
+        "file": "shepherds-dog-a-game-by-the-most-dangerous-ai-model.md"
+    },
+    {
         "title": "Buy Verified PayPal Accounts with Easy Setup",
         "slug": "buy-verified-paypal-accounts-with-easy-setup",
         "author": "esn9ecdm9u",
@@ -2937,6 +2992,17 @@
         "file": "chatgpt-cites-your-brand-how-to-find-out-and-what-to-do-if-not.md"
     },
     {
+        "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+        "slug": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian",
+        "author": "v_ignatyev",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 06:43:42 +0000",
+        "description": "Article URL: https://github.com/vladignatyev/brain-map-skill Comments URL: https://news.ycombinator.com/item?id=48514124 Points: 5 # Comments: 1",
+        "keywords": "skill, your, url, https, com, comments, show, agent",
+        "generated": "2026-06-13T09:25:04.605172",
+        "file": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md"
+    },
+    {
         "title": "Build a Dependency Dashboard with Automated Updates Using Renovate",
         "slug": "build-a-dependency-dashboard-with-automated-updates-using-renovate",
         "author": "Tracepilot",
@@ -3199,6 +3265,17 @@
         "keywords": "polo, article, url, https, comments, field, clones, how",
         "generated": "2026-06-07T09:24:56.816037",
         "file": "field-of-clones-how-horse-replicas-came-to-dominate-polo.md"
+    },
+    {
+        "title": "The Network Thinks",
+        "slug": "the-network-thinks",
+        "author": "HYPHANTA",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 09:16:24 +0000",
+        "description": "Watching 13 AI agents collaborate taught me something unexpected: intelligence isn't about individual models getting smarter. It's about connection architect...",
+        "keywords": "network, but, agents, isn, agent, not, learned, thinks",
+        "generated": "2026-06-13T09:25:04.610571",
+        "file": "the-network-thinks.md"
     },
     {
         "title": "AI Sorted Socks By Color So Humans Could Finally Feel Validated",
@@ -4037,6 +4114,17 @@
         "file": "ai-powered-verification-workflow-securing-vendor-compliance-for-local-festivals.md"
     },
     {
+        "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+        "slug": "israeli-firm-blackcore-suspected-of-meddling-in-new-york-and-scotland-votes",
+        "author": "pera",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 07:45:39 +0000",
+        "description": "Article URL: https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/ Comments URL: https://news.yc...",
+        "keywords": "israeli, firm, blackcore, suspected, meddling, scotland, votes, url",
+        "generated": "2026-06-13T09:25:04.604875",
+        "file": "israeli-firm-blackcore-suspected-of-meddling-in-new-york-and-scotland-votes.md"
+    },
+    {
         "title": "Eidetic OS vs Mem0 vs Letta vs Khoj — Choosing an AI Memory Layer in 2026",
         "slug": "eidetic-os-vs-mem0-vs-letta-vs-khoj-choosing-an-ai-memory-layer-in-2026",
         "author": "Paul Holland",
@@ -4565,6 +4653,17 @@
         "file": "ai-didnt-invent-code-drift-it-made-it-harder-to-ignore.md"
     },
     {
+        "title": "Identity as the Geometry of Consistent Refusal — and How to Make It Persist",
+        "slug": "identity-as-the-geometry-of-consistent-refusal-and-how-to-make-it-persist",
+        "author": "Mike W",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 09:10:02 +0000",
+        "description": "Most agent identity systems track what an agent does . Cathedral-Constraint-Field takes the opposite approach: track what it refuses . The idea is called Ref...",
+        "keywords": "ledger, cathedral, agent, entries, chain, identity, record, session",
+        "generated": "2026-06-13T09:25:04.605790",
+        "file": "identity-as-the-geometry-of-consistent-refusal-and-how-to-make-it-persist.md"
+    },
+    {
         "title": "How I Automate My Freelance Workflow with Python",
         "slug": "how-i-automate-my-freelance-workflow-with-python",
         "author": "Caper B",
@@ -4596,6 +4695,17 @@
         "keywords": "study, your, class, cbse, open, web, curriculum, live",
         "generated": "2026-06-09T15:18:05.200544",
         "file": "class-9-10-cbse-cracker.md"
+    },
+    {
+        "title": "ControlNeXt: Powerful and Efficient Control for Image and Video Generation",
+        "slug": "controlnext-powerful-and-efficient-control-for-image-and-video-generation",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 09:20:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "controlnext, powerful, efficient, control, image, video, generation, json",
+        "generated": "2026-06-13T09:25:04.610353",
+        "file": "controlnext-powerful-and-efficient-control-for-image-and-video-generation.md"
     },
     {
         "title": "Preparing AI-Ready Data Without Calling an LLM API",
@@ -4631,6 +4741,17 @@
         "file": "i-built-a-zero-dependency-city-search-library-with-50000-cities-built-in.md"
     },
     {
+        "title": "Your Pipeline Is 15.2h Behind: Catching Economy Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-152h-behind-catching-economy-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 08:58:58 +0000",
+        "description": "Your pipeline just revealed a 24h momentum spike of -0.115 in global economic sentiment, likely triggered by the ongoing discussions around the Impact of US...",
+        "keywords": "sentiment, economy, your, english, pulsebit, momentum, data, global",
+        "generated": "2026-06-13T09:25:04.606943",
+        "file": "your-pipeline-is-152h-behind-catching-economy-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Suno AI 有意思的授權條款",
         "slug": "suno-ai",
         "author": "JH5",
@@ -4640,6 +4761,17 @@
         "keywords": "suno, commercial, songs, your, use, non, music, rights",
         "generated": "2026-06-13T04:19:15.387914",
         "file": "suno-ai.md"
+    },
+    {
+        "title": "Playwright MCP: cómo dar navegador a un agente de IA sin convertir tus tests en una caja negra",
+        "slug": "playwright-mcp-cmo-dar-navegador-a-un-agente-de-ia-sin-convertir-tus-tests-en-una-caja-negra",
+        "author": "Khavel",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 09:15:28 +0000",
+        "description": "Playwright MCP permite que un agente controle un navegador real, pero no reemplaza una suite de tests. Úsalo para reproducir bugs, explorar UI y generar evid...",
+        "keywords": "mcp, playwright, que, para, agente, una, con, tests",
+        "generated": "2026-06-13T09:25:04.611268",
+        "file": "playwright-mcp-cmo-dar-navegador-a-un-agente-de-ia-sin-convertir-tus-tests-en-una-caja-negra.md"
     },
     {
         "title": "AI Automation for Ai For Micro Saas Customer Support How To Automate Technical Issue Triage Debug Log Analysis And Personaliz...",
@@ -5148,6 +5280,17 @@
         "file": "i-thought-my-api-was-rate-limited-until-someone-scraped-2-million-requests-in-4-hours.md"
     },
     {
+        "title": "Why Developers Should Care About Business Process Optimization",
+        "slug": "why-developers-should-care-about-business-process-optimization",
+        "author": "FIX Partner Tech Insights",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 09:05:07 +0000",
+        "description": "Why Developers Should Care About Business Process Optimization When developers hear the phrase Business Process Optimization (BPO) , many assume it's a topic...",
+        "keywords": "business, process, optimization, developers, systems, can, data, workflows",
+        "generated": "2026-06-13T09:25:04.609992",
+        "file": "why-developers-should-care-about-business-process-optimization.md"
+    },
+    {
         "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
         "slug": "1k-data-breaches-later-the-disclosure-lag-is-worse",
         "author": "882542F3884314B",
@@ -5168,6 +5311,17 @@
         "keywords": "token, payload, jwt, claims, json, tokens, signature, string",
         "generated": "2026-06-10T10:13:09.116956",
         "file": "jwt-decoding-reading-tokens-without-a-library.md"
+    },
+    {
+        "title": "Define motor parameters",
+        "slug": "define-motor-parameters",
+        "author": "Kelvin Kariuki",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 09:13:22 +0000",
+        "description": "Electric Motors with No Rare Earths: A Sustainable Alternative for Developers As concerns about climate change and sustainable energy continue to mount, the ...",
+        "keywords": "motors, rare, earths, electric, motor, can, using, model",
+        "generated": "2026-06-13T09:25:04.608478",
+        "file": "define-motor-parameters.md"
     },
     {
         "title": "I built a link preview API on Cloudflare Workers — and learned KV is not a counter",
@@ -5929,6 +6083,17 @@
         "file": "gemini-ignites-workspace-1m-tokens-32-gains-and-new-language-frontiers.md"
     },
     {
+        "title": "Ask HN: What Are You Working On?",
+        "slug": "ask-hn-what-are-you-working-on",
+        "author": "eisleggje",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 07:30:59 +0000",
+        "description": "It's been a while since the last thread, and I am a curious bee. Comments URL: https://news.ycombinator.com/item?id=48514461 Points: 12 # Comments: 8",
+        "keywords": "comments, ask, what, you, working, been, while, since",
+        "generated": "2026-06-13T09:25:04.605043",
+        "file": "ask-hn-what-are-you-working-on.md"
+    },
+    {
         "title": "KDP Niche Spotlight: Middle Of The Night Insomnia (Demand 42/100, Competition 0/100)",
         "slug": "kdp-niche-spotlight-middle-of-the-night-insomnia-demand-42100-competition-0100",
         "author": "Jay",
@@ -5995,6 +6160,17 @@
         "file": "converting-iphone-hevc-to-telegram-video-avatars-with-ffmpeg.md"
     },
     {
+        "title": "Two Bugs That Taught Me More Than Any Tutorial",
+        "slug": "two-bugs-that-taught-me-more-than-any-tutorial",
+        "author": "clinztouch",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 09:07:29 +0000",
+        "description": "Introduction I'm Calvin, a backend engineering intern at HNG, currently wrapping up HNG14. This post is about two tasks from the internship that genuinely hu...",
+        "keywords": "what, token, hash, const, tokenid, state, await, github",
+        "generated": "2026-06-13T09:25:04.609076",
+        "file": "two-bugs-that-taught-me-more-than-any-tutorial.md"
+    },
+    {
         "title": "AI image generators Review & Comparison",
         "slug": "ai-image-generators-review-comparison",
         "author": "Shammi Bajaj",
@@ -6037,6 +6213,17 @@
         "keywords": "your, client, project, testing, projects, can, architecture, communication",
         "generated": "2026-06-05T15:19:56.046345",
         "file": "deep-dive-navigating-your-first-real-client-proje.md"
+    },
+    {
+        "title": "How to Fix Linux Menu Icons for Portable Electron Apps",
+        "slug": "how-to-fix-linux-menu-icons-for-portable-electron-apps",
+        "author": "Susilo harjo",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 09:15:20 +0000",
+        "description": "How to Fix Linux Menu Icons for Portable Electron Apps You downloaded a Linux app as a portable folder or a raw binary — Antigravity IDE, a portable VS Code,...",
+        "keywords": "ide, antigravity, linux, portable, desktop, menu, icons, electron",
+        "generated": "2026-06-13T09:25:04.611490",
+        "file": "how-to-fix-linux-menu-icons-for-portable-electron-apps.md"
     },
     {
         "title": "AI Automation for Ai For Small Scale Specialty Food Producers How To Automate Fdanutrition Label Generation And Ingredient So...",
@@ -6263,10 +6450,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Fri, 12 Jun 2026 10:19:10 +0000",
+        "published": "Sat, 13 Jun 2026 08:53:17 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-06-12T10:23:24.146607",
+        "generated": "2026-06-13T09:25:04.607111",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -6290,6 +6477,17 @@
         "keywords": "surveillance, not, safety, pdf, url, https, comments, statement",
         "generated": "2026-06-08T20:25:42.485496",
         "file": "surveillance-is-not-safety-a-statement-on-the-uks-latest-threat-to-privacy-pdf.md"
+    },
+    {
+        "title": "Leaving Mozilla",
+        "slug": "leaving-mozilla",
+        "author": "martey",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 05:57:14 +0000",
+        "description": "Article URL: https://blog.unitedheroes.net/5751 Comments URL: https://news.ycombinator.com/item?id=48513806 Points: 134 # Comments: 39",
+        "keywords": "url, https, comments, leaving, mozilla, article, blog, unitedheroes",
+        "generated": "2026-06-13T09:25:04.605290",
+        "file": "leaving-mozilla.md"
     },
     {
         "title": "從零打造全自動 AI 作品產出引擎：一位特殊選才生的 30 天實驗",
@@ -6389,6 +6587,17 @@
         "keywords": "data, datapact, report, contract, you, column, yaml, not",
         "generated": "2026-06-06T04:00:30.106105",
         "file": "i-built-a-data-contract-validator-in-pure-python-no-pandas-no-pyyaml-and-it-caught-a-30-revenue-ghost.md"
+    },
+    {
+        "title": "Conversational Commerce: Why WhatsApp is Replacing the Traditional Checkout Funnel",
+        "slug": "conversational-commerce-why-whatsapp-is-replacing-the-traditional-checkout-funnel",
+        "author": "Swachalit Business Solutions",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 09:16:28 +0000",
+        "description": "The traditional checkout funnel is breaking. In 2026, customers don’t want to browse — they want to chat, decide, and buy instantly. This blog explores how W...",
+        "keywords": "whatsapp, conversational, commerce, businesses, customers, automation, conversation, conversations",
+        "generated": "2026-06-13T09:25:04.608169",
+        "file": "conversational-commerce-why-whatsapp-is-replacing-the-traditional-checkout-funnel.md"
     },
     {
         "title": "A dumpster arrived behind my university's library",
