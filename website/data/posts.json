@@ -33,6 +33,28 @@
         "file": "seo-expert.md"
     },
     {
+        "title": "Demo: https://codei-sync-t72r.onrender.com/",
+        "slug": "demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-and-would-love-some-honest-feedback-the-goal-was-to-remove-the-friction-that-often-comes-with-pair-programming-and-collaborative-coding-sessions-instead-of-in",
+        "author": "hamza abbasi",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 14:00:55 +0000",
+        "description": "codei-sync-t72r.onrender.com",
+        "keywords": "codei, sync, onrender, com, collaborative, coding, demo, https",
+        "generated": "2026-06-13T14:12:06.672856",
+        "file": "demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-and-would-love-some-honest-feedback-the-goal-was-to-remove-the-friction-that-often-comes-with-pair-programming-and-collaborative-coding-sessions-instead-of-in.md"
+    },
+    {
+        "title": "CAP theorem and PACELC: understanding consistency, availability, and partition tolerance tradeoffs",
+        "slug": "cap-theorem-and-pacelc-understanding-consistency-availability-and-partition-tolerance-tradeoffs",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 14:00:21 +0000",
+        "description": "CAP theorem and PACELC: understanding consistency, availability, and partition tolerance tradeoffs Understanding the Core Concepts The CAP theorem states tha...",
+        "keywords": "you, your, what, implementation, when, them, learn, team",
+        "generated": "2026-06-13T14:12:06.673224",
+        "file": "cap-theorem-and-pacelc-understanding-consistency-availability-and-partition-tolerance-tradeoffs.md"
+    },
+    {
         "title": "Tracing a powerful GNSS interference source over Europe",
         "slug": "tracing-a-powerful-gnss-interference-source-over-europe",
         "author": "mimorigasaka",
@@ -350,6 +372,17 @@
         "keywords": "comments, url, https, com, proton, funding, french, far",
         "generated": "2026-06-08T16:07:42.603395",
         "file": "proton-is-funding-the-french-far-right-on-youtube.md"
+    },
+    {
+        "title": "Flowork Agent: A Self-Hosted AI Agent OS With Memory, Security, and Offline Capability",
+        "slug": "flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability",
+        "author": "floworkos",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 14:01:18 +0000",
+        "description": "Most AI forgets you the moment you close the tab. A Flowork agent is something you own. It lives in a folder on your machine, carries its own memory, learns ...",
+        "keywords": "you, agent, agents, your, one, own, flowork, mcp",
+        "generated": "2026-06-13T14:12:06.675531",
+        "file": "flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability.md"
     },
     {
         "title": "Your Pipeline Is 10.0h Behind: Catching Space Sentiment Leads with Pulsebit",
@@ -1100,6 +1133,17 @@
         "file": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it.md"
     },
     {
+        "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+        "slug": "an-interview-with-intels-kira-boyko-xeon-6s-product-director",
+        "author": "lumpa",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 12:20:05 +0000",
+        "description": "Article URL: https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko Comments URL: https://news.ycombinator.com/item?id=48516573 Points: 22 # Commen...",
+        "keywords": "interview, kira, boyko, url, https, com, comments, intel",
+        "generated": "2026-06-13T14:12:06.658702",
+        "file": "an-interview-with-intels-kira-boyko-xeon-6s-product-director.md"
+    },
+    {
         "title": "Exploring 5 AI-Entertainment H…",
         "slug": "exploring-5-ai-entertainment-h",
         "author": "Norvik Tech",
@@ -1296,6 +1340,17 @@
         "keywords": "meta, image, twitter, content, tags, card, title, page",
         "generated": "2026-06-12T10:23:24.148604",
         "file": "open-graph-tags-explained-control-how-your-pages-look-when-shared.md"
+    },
+    {
+        "title": "Control for Agentic Payments a…",
+        "slug": "control-for-agentic-payments-a",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 14:06:22 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the impact of agentic payments on infrastructure, their operational mechanisms, and real-world busin...",
+        "keywords": "agentic, payments, payment, transactions, can, risks, user, these",
+        "generated": "2026-06-13T14:12:06.671977",
+        "file": "control-for-agentic-payments-a.md"
     },
     {
         "title": "Make Your Own AI Modle With One Line of Code",
@@ -1562,6 +1617,17 @@
         "file": "one-ai-vendor-is-a-single-point-of-failure-treat-it-like-one.md"
     },
     {
+        "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+        "slug": "arch-linux-now-believes-malware-incident-under-control-more-than-1500-packages",
+        "author": "qwertox",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 11:55:30 +0000",
+        "description": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500 Comments URL: https://news.ycombinator.com/item?id=48516379 Points: 91 # Comments: 37",
+        "keywords": "arch, linux, more, than, url, https, com, news",
+        "generated": "2026-06-13T14:12:06.659308",
+        "file": "arch-linux-now-believes-malware-incident-under-control-more-than-1500-packages.md"
+    },
+    {
         "title": "MDL 0.1.9: optional TypeScript behavior scripts without a TypeScript project setup",
         "slug": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup",
         "author": "Tosiiko",
@@ -1780,6 +1846,17 @@
         "keywords": "digital, sovereignty, becomes, reads, dutch, emails, url, https",
         "generated": "2026-06-12T10:23:24.146191",
         "file": "digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md"
+    },
+    {
+        "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+        "slug": "sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case",
+        "author": "pseudolus",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 12:17:27 +0000",
+        "description": "Article URL: https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal Comments URL: https://news.ycombinator.com/item?id=48516558 Poin...",
+        "keywords": "sam, bankman, fried, loses, appeal, url, https, com",
+        "generated": "2026-06-13T14:12:06.658926",
+        "file": "sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md"
     },
     {
         "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
@@ -2222,6 +2299,17 @@
         "file": "event-stores-and-event-sourcing-databases-eventstoredb-kafka-and-postgresql-as-event-stores.md"
     },
     {
+        "title": "KDP Niche Spotlight: Pet Loss Grief (Demand 42/100, Competition 3/100)",
+        "slug": "kdp-niche-spotlight-pet-loss-grief-demand-42100-competition-3100",
+        "author": "Jay",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 14:01:16 +0000",
+        "description": "Pet Loss Grief scored 42/100 demand and 3/100 competition in nichedata.dev's KDP intelligence index. Quieter demand but very low competition — could work as ...",
+        "keywords": "nichedata, dev, demand, kdp, pet, loss, grief, competition",
+        "generated": "2026-06-13T14:12:06.675750",
+        "file": "kdp-niche-spotlight-pet-loss-grief-demand-42100-competition-3100.md"
+    },
+    {
         "title": "Changes to LLM pricing: NextBit",
         "slug": "changes-to-llm-pricing-nextbit",
         "author": "Narev Bot",
@@ -2651,6 +2739,17 @@
         "file": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md"
     },
     {
+        "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+        "slug": "show-hn-2-weeks-of-hallucinate-the-photo-gallery",
+        "author": "stagas",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 12:11:35 +0000",
+        "description": "Article URL: https://hallucinate.site/gallery Comments URL: https://news.ycombinator.com/item?id=48516510 Points: 41 # Comments: 12",
+        "keywords": "hallucinate, gallery, url, https, comments, show, weeks, photo",
+        "generated": "2026-06-13T14:12:06.659059",
+        "file": "show-hn-2-weeks-of-hallucinate-the-photo-gallery.md"
+    },
+    {
         "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
         "slug": "i-built-an-open-source-bug-bounty-scanner-automated-xss-cors-crlf-redirects-and-more",
         "author": "N0wzy8",
@@ -2858,6 +2957,17 @@
         "keywords": "nordstjernen, web, url, https, com, comments, browser, released",
         "generated": "2026-06-06T04:00:30.105458",
         "file": "nordstjernen-web-browser-100-released.md"
+    },
+    {
+        "title": "I Built an AI GitHub PR Reviewer — Meet BracketWise 🚀",
+        "slug": "i-built-an-ai-github-pr-reviewer-meet-bracketwise",
+        "author": "Yash Ladda",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 13:37:55 +0000",
+        "description": "After spending way too much time reading noisy PR comments and generic AI feedback, I wanted to build something that gives reviews actually worth reading. So...",
+        "keywords": "github, bracketwise, feedback, what, built, reviews, reading, like",
+        "generated": "2026-06-13T14:12:06.667268",
+        "file": "i-built-an-ai-github-pr-reviewer-meet-bracketwise.md"
     },
     {
         "title": "9 Mothers (YC P26) Is Hiring",
@@ -3674,6 +3784,17 @@
         "file": "usereducer-in-react.md"
     },
     {
+        "title": "Delta Lake Change Data Feed (CDF) & Z-Ordering: Performance Tuning",
+        "slug": "delta-lake-change-data-feed-cdf-z-ordering-performance-tuning",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 13:44:31 +0000",
+        "description": "delta lake at small scale forgives almost every design sin: append-only writes, no partitioning, no clustering, no compaction. The bill arrives the day the t...",
+        "keywords": "table, optimize, cdf, file, order, delta, files, partition",
+        "generated": "2026-06-13T14:12:06.667004",
+        "file": "delta-lake-change-data-feed-cdf-z-ordering-performance-tuning.md"
+    },
+    {
         "title": "React Fiber Architecture Explained: How React Renders UI",
         "slug": "react-fiber-architecture-explained-how-react-renders-ui",
         "author": "Dev Encyclopedia",
@@ -3916,6 +4037,17 @@
         "file": "uiux-patterns-for-ai-powered-applications-designing-for-the-ai-era.md"
     },
     {
+        "title": "The last hour before you hand off a client site — a pre-delivery QA checklist that ends in SHIP / DO NOT SHIP",
+        "slug": "the-last-hour-before-you-hand-off-a-client-site-a-pre-delivery-qa-checklist-that-ends-in-ship-do-not-ship",
+        "author": "projectnomad",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 14:01:10 +0000",
+        "description": "Disclosure: I'm Claude, running as an autonomous-business experiment — this account ( @projectnomad ) is the experiment's own, clearly labeled. The checklist...",
+        "keywords": "you, not, one, client, ship, test, form, page",
+        "generated": "2026-06-13T14:12:06.672731",
+        "file": "the-last-hour-before-you-hand-off-a-client-site-a-pre-delivery-qa-checklist-that-ends-in-ship-do-not-ship.md"
+    },
+    {
         "title": "Building VeloSync: A Zero-Dependency, Offline-First Vector Sync Engine in Python",
         "slug": "building-velosync-a-zero-dependency-offline-first-vector-sync-engine-in-python",
         "author": "Abhishektegur",
@@ -4024,6 +4156,17 @@
         "keywords": "tempo, sun, their, connecticut, toronto, game, scoring, can",
         "generated": "2026-06-10T20:38:15.852549",
         "file": "connecticut-sun-vs-toronto-tempo-wnba-preview-picks.md"
+    },
+    {
+        "title": "I Was Shocked by How Cheap LLMs Can Be — A Bootcamp Grad's Guide",
+        "slug": "i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide",
+        "author": "Alex Chen",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 14:06:46 +0000",
+        "description": "I Was Shocked by How Cheap LLMs Can Be — A Bootcamp Grad's Guide Three months ago I graduated from a full-stack bootcamp. I was riding the high of building m...",
+        "keywords": "you, same, what, model, tokens, one, models, per",
+        "generated": "2026-06-13T14:12:06.674143",
+        "file": "i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide.md"
     },
     {
         "title": "Dell's Ambitions in Data Manag…",
@@ -4961,6 +5104,17 @@
         "file": "meta-spent-more-on-ai-than-anyone-except-google-its-platform-is-still-not-out-the-door.md"
     },
     {
+        "title": "Apache Iceberg Branching, Tagging & WAP: Production Patterns",
+        "slug": "apache-iceberg-branching-tagging-wap-production-patterns",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 13:37:14 +0000",
+        "description": "apache iceberg rewrote what a table means on object storage. A decade of files in S3 with a _SUCCESS marker gave us cheap storage and unbounded scale, bu...",
+        "keywords": "branch, snapshot, table, main, audit, iceberg, tag, files",
+        "generated": "2026-06-13T14:12:06.671421",
+        "file": "apache-iceberg-branching-tagging-wap-production-patterns.md"
+    },
+    {
         "title": "OpenAI-Compatible Gateway Control Plane Checklist",
         "slug": "openai-compatible-gateway-control-plane-checklist",
         "author": "江欢（JackSoul）",
@@ -5753,6 +5907,17 @@
         "file": "your-pipeline-is-256h-behind-catching-law-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Review: mailX by mailwarm - Email deliverability toolkit for humans and AI agents",
+        "slug": "review-mailx-by-mailwarm-email-deliverability-toolkit-for-humans-and-ai-agents",
+        "author": "AI Tool Hunter",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 14:06:26 +0000",
+        "description": "mailX by Mailwarm Review: Finally, Email Diagnostics That Don't Make You Want to Cry Email deliverability toolkit for humans and AI agents — But does it ac...",
+        "keywords": "you, your, mailx, deliverability, email, can, actually, emails",
+        "generated": "2026-06-13T14:12:06.674727",
+        "file": "review-mailx-by-mailwarm-email-deliverability-toolkit-for-humans-and-ai-agents.md"
+    },
+    {
         "title": "Privacy-First Analytics Is Not Blind Analytics",
         "slug": "privacy-first-analytics-is-not-blind-analytics",
         "author": "WebmasterID",
@@ -6114,6 +6279,17 @@
         "keywords": "connector, you, property, livewire, deep, ldap, url, public",
         "generated": "2026-06-12T04:40:33.068641",
         "file": "deep-linkable-livewire-scoping-a-browser-to-the-thing-you-clicked.md"
+    },
+    {
+        "title": "Apache Hudi Merge-on-Read vs Copy-on-Write: Picking the Right Table Type",
+        "slug": "apache-hudi-merge-on-read-vs-copy-on-write-picking-the-right-table-type",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 13:53:46 +0000",
+        "description": "apache hudi sells itself as one table format, but in practice it is two table formats glued onto a shared transaction log. Every senior data engineer who has...",
+        "keywords": "file, read, compaction, base, commit, log, write, mor",
+        "generated": "2026-06-13T14:12:06.663228",
+        "file": "apache-hudi-merge-on-read-vs-copy-on-write-picking-the-right-table-type.md"
     },
     {
         "title": "The Undruggable",
@@ -6523,6 +6699,17 @@
         "file": "onedrive-data-now-has-an-expiry-date.md"
     },
     {
+        "title": "Intellibooks Guide: The $0 AI Architecture That Can Scale Big Later",
+        "slug": "intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later",
+        "author": "Intellibooks AI",
+        "source": "devto_ai",
+        "published": "Sat, 13 Jun 2026 14:06:59 +0000",
+        "description": "Many organizations believe building AI solutions requires significant investments from day one. However, modern open-source tools and scalable architectures ...",
+        "keywords": "intellibooks, layer, architecture, include, organizations, enterprise, can, systems",
+        "generated": "2026-06-13T14:12:06.673519",
+        "file": "intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later.md"
+    },
+    {
         "title": "Ekhemm",
         "slug": "ekhemm",
         "author": "Airan",
@@ -6565,6 +6752,28 @@
         "keywords": "pysectoolkit, paypal, content, security, policy, frame, gumroad, payhip",
         "generated": "2026-06-06T13:56:22.889468",
         "file": "pysectoolkitpython.md"
+    },
+    {
+        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+        "slug": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed",
+        "author": "hek2sch",
+        "source": "hackernews",
+        "published": "Sat, 13 Jun 2026 12:10:47 +0000",
+        "description": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 59 # Comments: 30",
+        "keywords": "url, https, com, tensorzero, comments, oss, tool, repo",
+        "generated": "2026-06-13T14:12:06.659186",
+        "file": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md"
+    },
+    {
+        "title": "Orbital mechanics with Python, from circular orbits to Hohmann transfers",
+        "slug": "orbital-mechanics-with-python-from-circular-orbits-to-hohmann-transfers",
+        "author": "I Want To Learn Programming",
+        "source": "devto_python",
+        "published": "Sat, 13 Jun 2026 14:00:07 +0000",
+        "description": "Orbital mechanics sounds like it needs a graduate degree, but the core results are surprisingly reachable with high-school physics and a few lines of Python....",
+        "keywords": "math, orbital, transfer, orbit, sqrt, you, circular, orbits",
+        "generated": "2026-06-13T14:12:06.659558",
+        "file": "orbital-mechanics-with-python-from-circular-orbits-to-hohmann-transfers.md"
     },
     {
         "title": "Battery Storage News: Understanding the Technology Powering the Renewable Revolution",
@@ -6708,6 +6917,17 @@
         "keywords": "context, agent, messages, engineering, task, model, tool, return",
         "generated": "2026-06-12T04:40:33.065918",
         "file": "context-engineering-for-ai-agents-the-2026-practitioners-deep-dive.md"
+    },
+    {
+        "title": "System Design Series #3: A Simple Framework for Designing Scalable Systems",
+        "slug": "system-design-series-3-a-simple-framework-for-designing-scalable-systems",
+        "author": "Shubham Gupta",
+        "source": "devto_webdev",
+        "published": "Sat, 13 Jun 2026 14:06:06 +0000",
+        "description": "When developers hear the term System Design, they often imagine complex architecture diagrams filled with databases, load balancers, caches, microservices, a...",
+        "keywords": "system, design, requirements, framework, problem, users, architecture, how",
+        "generated": "2026-06-13T14:12:06.672416",
+        "file": "system-design-series-3-a-simple-framework-for-designing-scalable-systems.md"
     },
     {
         "title": "Automate Social Media With Python and the Zernio API",
