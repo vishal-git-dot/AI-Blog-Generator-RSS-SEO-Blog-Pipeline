@@ -1,13 +1,13 @@
 [
     {
-        "title": "全球行情自动更新、多品种展示、性能优化实战指南",
+        "title": "# الترجمة المعتمدة ودورها في السفر والعمل بالخارج",
         "slug": "",
-        "author": "San Si wu",
-        "source": "devto_python",
-        "published": "Thu, 11 Jun 2026 16:09:27 +0000",
-        "description": "引言 在金融科技飞速发展的今天，股票、外汇、加密货币等资产的实时行情推送已成为金融资讯网站的核心竞争力。用户在毫秒级的价格波动中寻求交易机会，对数据的实时性、准确性和展示流畅度提出了极高的要求。传统的 HTTP 轮询方案早已力不从心，本文将从 行情数据接入、多品种行情展示、前后端全链路性能优化 三个维度，系统阐述...",
-        "keywords": "websocket, client, sdk, itick, http, dom, error, item",
-        "generated": "2026-06-11T16:13:08.004366",
+        "author": "sila Matar",
+        "source": "devto_ai",
+        "published": "Sun, 14 Jun 2026 14:06:49 +0000",
+        "description": "مقدمة أصبح السفر والعمل بالخارج هدفًا للعديد من الأفراد الباحثين عن فرص أفضل سواء في الدراسة أو العمل أو تحسين مستوى المعيشة. ومع تزايد الإجراءات الرسمية الم...",
+        "keywords": "",
+        "generated": "2026-06-14T14:17:29.354542",
         "file": ".md"
     },
     {
@@ -616,6 +616,17 @@
         "file": "i-built-an-ai-powered-python-to-c-transpiler-entirely-from-my-phone-here-is-how-and-why.md"
     },
     {
+        "title": "How to Earn a Billion Dollars",
+        "slug": "how-to-earn-a-billion-dollars",
+        "author": "kingstoned",
+        "source": "hackernews",
+        "published": "Sun, 14 Jun 2026 11:50:48 +0000",
+        "description": "Article URL: https://paulgraham.com/earn.html Comments URL: https://news.ycombinator.com/item?id=48526360 Points: 91 # Comments: 195",
+        "keywords": "earn, url, https, com, comments, how, billion, dollars",
+        "generated": "2026-06-14T14:17:29.348856",
+        "file": "how-to-earn-a-billion-dollars.md"
+    },
+    {
         "title": "AI Agents for Business: Autonomous Systems Explained",
         "slug": "ai-agents-for-business-autonomous-systems-explained",
         "author": "Digital Colliers",
@@ -1166,6 +1177,17 @@
         "file": "i-built-a-small-browser-game-for-guessing-cartoon-colors.md"
     },
     {
+        "title": "The billing state most APIs get wrong: unknown is not no",
+        "slug": "the-billing-state-most-apis-get-wrong-unknown-is-not-no",
+        "author": "Larry Johnson",
+        "source": "devto_python",
+        "published": "Sun, 14 Jun 2026 13:55:12 +0000",
+        "description": "If you bill per result, there is one design decision that quietly decides whether customers trust you: what you do when you could not get an answer. Most usa...",
+        "keywords": "you, not, your, unknown, answer, bill, could, per",
+        "generated": "2026-06-14T14:17:29.350318",
+        "file": "the-billing-state-most-apis-get-wrong-unknown-is-not-no.md"
+    },
+    {
         "title": "Why Most People Get Bad AI Outputs (And How to Fix It)",
         "slug": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it",
         "author": "PromptForge Studio",
@@ -1296,6 +1318,17 @@
         "keywords": "system, not, who, day, part, personas, wishes, what",
         "generated": "2026-06-06T13:56:22.890381",
         "file": "the-meeting-that-became-a-nervous-system.md"
+    },
+    {
+        "title": "The Developer's Guide to AI Translation Without Going Broke",
+        "slug": "the-developers-guide-to-ai-translation-without-going-broke",
+        "author": "gentlenode",
+        "source": "devto_python",
+        "published": "Sun, 14 Jun 2026 14:00:19 +0000",
+        "description": "Look, the Developer's Guide to AI Translation Without Going Broke I still remember the first time I looked at my translation API bill. Three hundred and fort...",
+        "keywords": "translation, gpt, str, you, text, deepseek, quality, output",
+        "generated": "2026-06-14T14:17:29.349777",
+        "file": "the-developers-guide-to-ai-translation-without-going-broke.md"
     },
     {
         "title": "Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices",
@@ -1705,6 +1738,17 @@
         "file": "one-ai-vendor-is-a-single-point-of-failure-treat-it-like-one.md"
     },
     {
+        "title": "Context Engineering: Why It's Replacing Traditional Prompt Writing in Production AI",
+        "slug": "context-engineering-why-its-replacing-traditional-prompt-writing-in-production-ai",
+        "author": "Julian Neagu",
+        "source": "devto_webdev",
+        "published": "Sun, 14 Jun 2026 13:59:22 +0000",
+        "description": "TL;DR: Context engineering designs the full reasoning environment of AI systems through structured, reusable inputs that connect memory, tools, and retrieval...",
+        "keywords": "context, you, engineering, prompt, system, tools, self, memory",
+        "generated": "2026-06-14T14:17:29.353395",
+        "file": "context-engineering-why-its-replacing-traditional-prompt-writing-in-production-ai.md"
+    },
+    {
         "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
         "slug": "arch-linux-now-believes-malware-incident-under-control-more-than-1500-packages",
         "author": "qwertox",
@@ -1841,10 +1885,10 @@
         "slug": "topology-rewrite-not-bug-repair",
         "author": "Chief Mojo Risin'",
         "source": "devto_ai",
-        "published": "Sat, 13 Jun 2026 19:27:00 +0000",
+        "published": "Sun, 14 Jun 2026 14:12:08 +0000",
         "description": "Topology rewrite not bug repair. A single line. Hold it. More as the build matures. — chiefmojo79",
         "keywords": "topology, rewrite, not, bug, repair, single, line, hold",
-        "generated": "2026-06-13T19:44:24.812943",
+        "generated": "2026-06-14T14:17:29.353777",
         "file": "topology-rewrite-not-bug-repair.md"
     },
     {
@@ -2077,6 +2121,17 @@
         "keywords": "review, code, agents, agent, you, prs, human, coding",
         "generated": "2026-06-10T04:15:10.542704",
         "file": "10x-prs-1x-reviewers-the-code-quality-bottleneck.md"
+    },
+    {
+        "title": "The Birth and Death of JavaScript (2014)",
+        "slug": "the-birth-and-death-of-javascript-2014",
+        "author": "subset",
+        "source": "hackernews",
+        "published": "Sun, 14 Jun 2026 12:38:31 +0000",
+        "description": "Article URL: https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript Comments URL: https://news.ycombinator.com/item?id=48526661 Points: 6...",
+        "keywords": "birth, death, javascript, url, https, com, comments, article",
+        "generated": "2026-06-14T14:17:29.348648",
+        "file": "the-birth-and-death-of-javascript-2014.md"
     },
     {
         "title": "Global Account Store: Buy Verified PayPal Accounts for International Money Transfers from smmgetusa.com",
@@ -2792,6 +2847,17 @@
         "keywords": "okx, trading, verified, account, accounts, users, progmb, access",
         "generated": "2026-06-11T16:13:08.007247",
         "file": "10-sites-to-buy-verified-okx-in-2026-buy-okx-accounts.md"
+    },
+    {
+        "title": "I Let AI Write My Backend Code for a Week — Here's What Actually Broke",
+        "slug": "i-let-ai-write-my-backend-code-for-a-week-heres-what-actually-broke",
+        "author": "kol kol",
+        "source": "devto_webdev",
+        "published": "Sun, 14 Jun 2026 14:02:24 +0000",
+        "description": "I told myself it would be fine. I had been using AI coding assistants for suggestions and autocomplete for months — and it worked great. So when a new projec...",
+        "keywords": "error, but, code, tests, your, what, generated, users",
+        "generated": "2026-06-14T14:17:29.351430",
+        "file": "i-let-ai-write-my-backend-code-for-a-week-heres-what-actually-broke.md"
     },
     {
         "title": "Ai Adult Clip Pack Download — Professional Resources & Guide",
@@ -3729,6 +3795,17 @@
         "file": "the-case-for-persistent-sandboxes-in-ai-code-execution.md"
     },
     {
+        "title": "سکه امامی تاریخ پایین زیر 86 چیست؟",
+        "slug": "86",
+        "author": "Seke Maghrebi",
+        "source": "devto_ai",
+        "published": "Sun, 14 Jun 2026 14:15:15 +0000",
+        "description": "سکه امامی تاریخ پایین زیر 86 چیست؟ سکه امامی تاریخ پایین به سکه‌هایی گفته می‌شود که سال ضرب آن‌ها قبل از 1386 است. این سکه‌ها همچنان توسط بانک مرکزی ضرب شده‌...",
+        "keywords": "faq",
+        "generated": "2026-06-14T14:17:29.353665",
+        "file": "86.md"
+    },
+    {
         "title": "Iconfinder的驟然告別",
         "slug": "iconfinder",
         "author": "JH5",
@@ -4024,6 +4101,17 @@
         "keywords": "state, usereducer, react, reducer, used, function, dispatch, mostly",
         "generated": "2026-06-10T15:51:30.359682",
         "file": "usereducer-in-react.md"
+    },
+    {
+        "title": "Kakunin introduces cryptographic compliance shield to secure autonomous AI agents",
+        "slug": "kakunin-introduces-cryptographic-compliance-shield-to-secure-autonomous-ai-agents",
+        "author": "Dave Kurian",
+        "source": "devto_ai",
+        "published": "Sun, 14 Jun 2026 14:06:11 +0000",
+        "description": "Autonomous AI agents are powering everything from customer support to high-frequency trading—but as they gain more control, the threats grow sharper. Too man...",
+        "keywords": "agent, kakunin, shield, cryptographic, agents, prompt, compliance, only",
+        "generated": "2026-06-14T14:17:29.355196",
+        "file": "kakunin-introduces-cryptographic-compliance-shield-to-secure-autonomous-ai-agents.md"
     },
     {
         "title": "Delta Lake Change Data Feed (CDF) & Z-Ordering: Performance Tuning",
@@ -4774,6 +4862,17 @@
         "file": "kostenloser-dsgvo-scanner-fr-eure-website-73-der-getesteten-de-domains-hatten-verste.md"
     },
     {
+        "title": "How did Atari apply side art to Arcade Cabinets?",
+        "slug": "how-did-atari-apply-side-art-to-arcade-cabinets",
+        "author": "msephton",
+        "source": "hackernews",
+        "published": "Sun, 14 Jun 2026 12:57:33 +0000",
+        "description": "Article URL: https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/ Comments URL: https://news.ycombinator.com/item?id=4852679...",
+        "keywords": "how, did, atari, apply, side, art, arcade, cabinets",
+        "generated": "2026-06-14T14:17:29.348481",
+        "file": "how-did-atari-apply-side-art-to-arcade-cabinets.md"
+    },
+    {
         "title": "Age verification tech could put children at greater risk, says think tank",
         "slug": "age-verification-tech-could-put-children-at-greater-risk-says-think-tank",
         "author": "robtherobber",
@@ -5082,6 +5181,17 @@
         "file": "a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-data-center.md"
     },
     {
+        "title": "Can't Stop the Signal. Poison It",
+        "slug": "cant-stop-the-signal-poison-it",
+        "author": "rmadriz",
+        "source": "hackernews",
+        "published": "Sun, 14 Jun 2026 12:15:27 +0000",
+        "description": "Article URL: https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal Comments URL: https://news.ycombinator.com/item?id=48526472 Points: 9 # Comments: 2",
+        "keywords": "stop, signal, url, https, comments, can, poison, article",
+        "generated": "2026-06-14T14:17:29.348758",
+        "file": "cant-stop-the-signal-poison-it.md"
+    },
+    {
         "title": "Why AI hasn't replaced software engineers, and won't",
         "slug": "why-ai-hasnt-replaced-software-engineers-and-wont",
         "author": "trueduke",
@@ -5179,6 +5289,17 @@
         "keywords": "controlnext, powerful, efficient, control, image, video, generation, json",
         "generated": "2026-06-13T09:25:04.610353",
         "file": "controlnext-powerful-and-efficient-control-for-image-and-video-generation.md"
+    },
+    {
+        "title": "Level Up Your Dev Presence: Build a Killer Portfolio Without Spending a Dime",
+        "slug": "level-up-your-dev-presence-build-a-killer-portfolio-without-spending-a-dime",
+        "author": "FreeDevKit",
+        "source": "devto_webdev",
+        "published": "Sun, 14 Jun 2026 14:00:07 +0000",
+        "description": "Level Up Your Dev Presence: Build a Killer Portfolio Without Spending a Dime As developers, we know the power of a well-crafted product. But what about the p...",
+        "keywords": "your, you, portfolio, can, tools, free, professional, browser",
+        "generated": "2026-06-14T14:17:29.352613",
+        "file": "level-up-your-dev-presence-build-a-killer-portfolio-without-spending-a-dime.md"
     },
     {
         "title": "Eeg Headband Review 2025",
@@ -5753,6 +5874,17 @@
         "file": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms.md"
     },
     {
+        "title": "How to Find Companies Using MySQL: API Guide for 2026",
+        "slug": "how-to-find-companies-using-mysql-api-guide-for-2026",
+        "author": "MikeL",
+        "source": "devto_webdev",
+        "published": "Sun, 14 Jun 2026 14:01:17 +0000",
+        "description": "MySQL has been the default database of the web for two decades. It sits underneath WordPress, Magento, PrestaShop, and a long tail of forums, wikis, and self...",
+        "keywords": "mysql, you, wordpress, database, list, detection, domain, rapidapi",
+        "generated": "2026-06-14T14:17:29.352255",
+        "file": "how-to-find-companies-using-mysql-api-guide-for-2026.md"
+    },
+    {
         "title": "PwC Report: AI Making Medical Bills Higher",
         "slug": "pwc-report-ai-making-medical-bills-higher",
         "author": "karakoram",
@@ -6286,9 +6418,9 @@
         "author": "computersuck",
         "source": "hackernews",
         "published": "Sun, 14 Jun 2026 06:07:09 +0000",
-        "description": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows Comments URL: https://news.ycombinator.com/item?id=48524620 Points: 83 # Co...",
+        "description": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows Comments URL: https://news.ycombinator.com/item?id=48524620 Points: 174 # C...",
         "keywords": "trust, large, context, windows, url, https, comments, don",
-        "generated": "2026-06-14T09:45:48.682660",
+        "generated": "2026-06-14T14:17:29.348971",
         "file": "dont-trust-large-context-windows.md"
     },
     {
@@ -7425,6 +7557,17 @@
         "file": "pixel-polish-photoshop-alternatives-for-the-time-strapped-developer.md"
     },
     {
+        "title": "Netra-security",
+        "slug": "netra-security",
+        "author": "BALLA NAGA V VENKATA SATYA NARASIMHAMURTHY",
+        "source": "devto_python",
+        "published": "Sun, 14 Jun 2026 13:49:18 +0000",
+        "description": "🔱 Building Netra Security: Creating a Python-Based Static Application Security Testing (SAST) Tool As a cybersecurity student, I've always been curious about...",
+        "keywords": "security, netra, code, ast, analysis, how, vulnerabilities, injection",
+        "generated": "2026-06-14T14:17:29.350705",
+        "file": "netra-security.md"
+    },
+    {
         "title": "My AI Agent Tried to Get Me Fired From Reddit (And Other Things Nobody Warns You About)",
         "slug": "my-ai-agent-tried-to-get-me-fired-from-reddit-and-other-things-nobody-warns-you-about",
         "author": "Pini Solomon",
@@ -7742,6 +7885,17 @@
         "keywords": "you, local, block, transaction, bitcoin, regtest, network, your",
         "generated": "2026-06-08T20:25:42.487802",
         "file": "navigating-bitcoin-core-a-developer-introduction-to-scripting-the-blockchain.md"
+    },
+    {
+        "title": "Framework Fatigue? What a 98% Evaluated Vanilla JS Game Taught Me About Clean Architecture",
+        "slug": "framework-fatigue-what-a-98-evaluated-vanilla-js-game-taught-me-about-clean-architecture",
+        "author": "Sukriti Singh",
+        "source": "devto_ai",
+        "published": "Sun, 14 Jun 2026 14:11:33 +0000",
+        "description": "The Architecture Behind a 98% Scoring Vanilla JavaScript Game: A Deep Dive into Thirsty Crow The summer heat is hitting hard this June, but the real burn r...",
+        "keywords": "perfect, game, browser, drop, scoring, web, javascript, when",
+        "generated": "2026-06-14T14:17:29.354387",
+        "file": "framework-fatigue-what-a-98-evaluated-vanilla-js-game-taught-me-about-clean-architecture.md"
     },
     {
         "title": "Party Supplies Market Set for Strong Expansion Through 2034 Driven by Rising Event Culture",
