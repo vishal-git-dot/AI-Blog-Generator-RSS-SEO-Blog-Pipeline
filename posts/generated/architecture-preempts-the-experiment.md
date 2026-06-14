@@ -3,10 +3,10 @@ title: "Architecture preempts the experiment"
 slug: "architecture-preempts-the-experiment"
 author: "Chief Mojo Risin'"
 source: "devto_ai"
-published: "Sun, 14 Jun 2026 09:42:07 +0000"
+published: "Sun, 14 Jun 2026 19:27:10 +0000"
 description: "Architecture preempts the experiment. A single line. Hold it. More as the build matures. — chiefmojo79"
 keywords: "architecture, preempts, experiment, single, line, hold, more, build"
-generated: "2026-06-14T09:45:48.688087"
+generated: "2026-06-14T19:44:48.278932"
 ---
 
 # Architecture preempts the experiment
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/chiefmojo79/architecture-preempts-the-experiment-3i4b
+https://dev.to/chiefmojo79/architecture-preempts-the-experiment-2f8g
 
 ## Conclusion
 
