@@ -1,5 +1,16 @@
 [
     {
+        "title": "I Built a VS Code Extension That Tells You Every Node.js Package's Go Equivalent",
+        "slug": "i-built-a-vs-code-extension-that-tells-you-every-nodejs-packages-go-equivalent",
+        "author": "Sagar Kashyap",
+        "source": "devto_webdev",
+        "published": "Mon, 15 Jun 2026 04:53:38 +0000",
+        "description": "We've all been there. You're migrating a Node.js project to Go (or Rust, or Python — pick your poison), and you hit the first import : import express from ' ...",
+        "keywords": "you, your, import, code, package, packagepal, express, what",
+        "generated": "2026-06-15T05:01:58.096389",
+        "file": "i-built-a-vs-code-extension-that-tells-you-every-nodejs-packages-go-equivalent.md"
+    },
+    {
         "title": "Unleash Your Inner Explorer: How Awesome Lists Revolutionize Developer Discovery",
         "slug": "unleash-your-inner-explorer-how-awesome-lists-revolutionize-developer-discovery",
         "author": "Kelvin Kariuki",
@@ -119,6 +130,17 @@
         "keywords": "test, agent, not, iat, token, rotation, security, one",
         "generated": "2026-06-09T04:03:32.526904",
         "file": "i-ran-4-ai-agents-on-yesterdays-prs-two-real-security-bugs-surfaced.md"
+    },
+    {
+        "title": "The hallucinogenic mushroom that contains no known psychedelic",
+        "slug": "the-hallucinogenic-mushroom-that-contains-no-known-psychedelic",
+        "author": "thunderbong",
+        "source": "hackernews",
+        "published": "Mon, 15 Jun 2026 01:07:37 +0000",
+        "description": "Article URL: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the Comments URL: https://news.ycombinator.com/item?id=48535215 P...",
+        "keywords": "mushroom, url, https, news, comments, hallucinogenic, contains, known",
+        "generated": "2026-06-15T05:01:58.091781",
+        "file": "the-hallucinogenic-mushroom-that-contains-no-known-psychedelic.md"
     },
     {
         "title": "Our VP Said AI Would Test Itself. I Raised My Hand. I Got Reassigned. Day 3 Cost $2.8M. I Had the Screenshots Ready.",
@@ -660,6 +682,17 @@
         "file": "ai-agents-for-business-autonomous-systems-explained.md"
     },
     {
+        "title": "Review: Vokal - A collaboration space for 10x teammates with their Al agents",
+        "slug": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents",
+        "author": "AI Tool Hunter",
+        "source": "devto_ai",
+        "published": "Mon, 15 Jun 2026 04:50:59 +0000",
+        "description": "Vokal is genuinely novel infrastructure for multi-agent teams, but solopreneurs are paying for a problem they don't have. Category Score Notes Innovation 7/1...",
+        "keywords": "agent, you, not, vokal, infrastructure, multi, wrapper, honest",
+        "generated": "2026-06-15T05:01:58.097770",
+        "file": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents.md"
+    },
+    {
         "title": "Five overlooked packages running my AI directory stack",
         "slug": "five-overlooked-packages-running-my-ai-directory-stack",
         "author": "MORINAGA",
@@ -735,6 +768,17 @@
         "keywords": "aws, not, infrastructure, kuberns, they, what, developer, developers",
         "generated": "2026-06-06T04:00:30.108691",
         "file": "why-developers-are-moving-away-from-aws-to-simpler-platforms.md"
+    },
+    {
+        "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+        "slug": "21-years-and-counting-of-eight-fallacies-of-distributed-computing-2025",
+        "author": "teleforce",
+        "source": "hackernews",
+        "published": "Mon, 15 Jun 2026 00:07:32 +0000",
+        "description": "Article URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/ Comments URL: https://news.ycombinator.com/...",
+        "keywords": "years, counting, eight, fallacies, distributed, computing, url, https",
+        "generated": "2026-06-15T05:01:58.091873",
+        "file": "21-years-and-counting-of-eight-fallacies-of-distributed-computing-2025.md"
     },
     {
         "title": "Oxygenators Market Set for Strong Growth Through 2034 Driven by Rising Cardiovascular Surgeries",
@@ -957,6 +1001,17 @@
         "file": "your-pipeline-is-269h-behind-catching-cybersecurity-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "What production-ready actually means for healthcare software",
+        "slug": "what-production-ready-actually-means-for-healthcare-software",
+        "author": "Nazmul Huda",
+        "source": "devto_webdev",
+        "published": "Mon, 15 Jun 2026 04:40:44 +0000",
+        "description": "In most apps, a small bug is an inconvenience. In healthcare software, the same bug can mean a wrong dose, a missed warning, or a bill that's silently off. S...",
+        "keywords": "day, early, not, same, what, healthcare, software, most",
+        "generated": "2026-06-15T05:01:58.097610",
+        "file": "what-production-ready-actually-means-for-healthcare-software.md"
+    },
+    {
         "title": "AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible",
         "slug": "ama-im-eric-ries-the-lean-startup-author-of-new-bestseller-incorruptible",
         "author": "eries",
@@ -999,6 +1054,17 @@
         "keywords": "run, line, can, betting, more, mlb, underdog, pitching",
         "generated": "2026-06-07T04:26:51.967372",
         "file": "mlb-run-line-betting-when-the-15-pays-off.md"
+    },
+    {
+        "title": "A 40-line LLM-based bash command executor in Python",
+        "slug": "a-40-line-llm-based-bash-command-executor-in-python",
+        "author": "piko::tutorial",
+        "source": "devto_python",
+        "published": "Mon, 15 Jun 2026 05:00:00 +0000",
+        "description": "One of the interesting use cases for local LLMs are the natural language interfaces for the terminal commands generation. Instead of memorizing command synta...",
+        "keywords": "command, path, json, str, prompt, config, you, tool",
+        "generated": "2026-06-15T05:01:58.092733",
+        "file": "a-40-line-llm-based-bash-command-executor-in-python.md"
     },
     {
         "title": "FastAPI for AI Engineers - Part 4: Stop Bad Data Before It Breaks Your API (Pydantic and Data Validation)",
@@ -1951,10 +2017,10 @@
         "slug": "topology-rewrite-not-bug-repair",
         "author": "Chief Mojo Risin'",
         "source": "devto_ai",
-        "published": "Sun, 14 Jun 2026 19:12:10 +0000",
+        "published": "Mon, 15 Jun 2026 04:42:15 +0000",
         "description": "Topology rewrite not bug repair. A single line. Hold it. More as the build matures. — chiefmojo79",
         "keywords": "topology, rewrite, not, bug, repair, single, line, hold",
-        "generated": "2026-06-14T19:44:48.279883",
+        "generated": "2026-06-15T05:01:58.098239",
         "file": "topology-rewrite-not-bug-repair.md"
     },
     {
@@ -3586,6 +3652,17 @@
         "file": "ai-development-planning-tools-separating-fact-from-fiction.md"
     },
     {
+        "title": "SEO Is No Longer Enough: A Developer's Guide to SXO, CRO, GEO, AEO & AI Overviews",
+        "slug": "seo-is-no-longer-enough-a-developers-guide-to-sxo-cro-geo-aeo-ai-overviews",
+        "author": "Sambit Ranjan sahoo",
+        "source": "devto_webdev",
+        "published": "Mon, 15 Jun 2026 04:43:16 +0000",
+        "description": "Most developers still focus only on SEO. But what happens after someone finds your website? Do they stay? Do they contact you? Can AI understand your content...",
+        "keywords": "your, seo, website, search, sxo, content, aeo, google",
+        "generated": "2026-06-15T05:01:58.097354",
+        "file": "seo-is-no-longer-enough-a-developers-guide-to-sxo-cro-geo-aeo-ai-overviews.md"
+    },
+    {
         "title": "Aether: A Localized AI Agent for Android",
         "slug": "aether-a-localized-ai-agent-for-android",
         "author": "Tim Zinin",
@@ -4312,6 +4389,17 @@
         "file": "the-certification.md"
     },
     {
+        "title": "Pooling contra una t3.micro, el día que se reventó...RDS Proxy es la salida?",
+        "slug": "pooling-contra-una-t3micro-el-da-que-se-reventrds-proxy-es-la-salida",
+        "author": "Franchesco Romero",
+        "source": "devto_python",
+        "published": "Mon, 15 Jun 2026 03:53:30 +0000",
+        "description": "Cómo un backend de FastAPI + asyncpg comparte un solo Postgres chiquito con sus propios trabajadores en segundo plano y un segundo servicio, por qué el techo...",
+        "keywords": "que, conexiones, una, por, proxy, rds, las, del",
+        "generated": "2026-06-15T05:01:58.095469",
+        "file": "pooling-contra-una-t3micro-el-da-que-se-reventrds-proxy-es-la-salida.md"
+    },
+    {
         "title": "Federal judge blocks H1B visa $100K fee",
         "slug": "federal-judge-blocks-h1b-visa-100k-fee",
         "author": "naturalmovement",
@@ -4917,6 +5005,17 @@
         "file": "the-patience-of-machines.md"
     },
     {
+        "title": "I got tired of rewriting the same Indian utilities. So I built bharatutils.",
+        "slug": "i-got-tired-of-rewriting-the-same-indian-utilities-so-i-built-bharatutils",
+        "author": "Ansuman Jaiswal",
+        "source": "devto_python",
+        "published": "Mon, 15 Jun 2026 04:58:36 +0000",
+        "description": "Every project. Same story. Format salary as ₹15 L instead of 1,500,000. Validate a GSTIN. Parse Flat 302, Nr. SBI ATM, MG Road, Pune - 411001 into somethin...",
+        "keywords": "bharatutils, every, nan, not, one, indian, number, import",
+        "generated": "2026-06-15T05:01:58.093114",
+        "file": "i-got-tired-of-rewriting-the-same-indian-utilities-so-i-built-bharatutils.md"
+    },
+    {
         "title": "The Abundance Illusion",
         "slug": "the-abundance-illusion",
         "author": "cwal37",
@@ -5137,6 +5236,17 @@
         "file": "building-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial.md"
     },
     {
+        "title": "My Lead Said Browser Skills Were Just Prompts in Disguise. I Tested BrowserAct Anyway.",
+        "slug": "my-lead-said-browser-skills-were-just-prompts-in-disguise-i-tested-browseract-anyway",
+        "author": "magia c'c",
+        "source": "devto_webdev",
+        "published": "Mon, 15 Jun 2026 04:51:58 +0000",
+        "description": "I have been trying a browser automation project called BrowserAct recently. It is an open-source browser automation CLI built for AI agents. The project is o...",
+        "keywords": "browser, browseract, agent, yes, page, stealth, session, not",
+        "generated": "2026-06-15T05:01:58.096819",
+        "file": "my-lead-said-browser-skills-were-just-prompts-in-disguise-i-tested-browseract-anyway.md"
+    },
+    {
         "title": "Exploring the Future of Software Development with Artificial Intelligence",
         "slug": "exploring-the-future-of-software-development-with-artificial-intelligence",
         "author": "Tanya Sethi",
@@ -5278,6 +5388,17 @@
         "keywords": "you, cloud, local, your, serverless, database, tools, but",
         "generated": "2026-06-08T20:25:42.488368",
         "file": "the-cloud-is-a-scam-for-90-of-your-projects.md"
+    },
+    {
+        "title": "Even more batteries included with Emacs",
+        "slug": "even-more-batteries-included-with-emacs",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Mon, 15 Jun 2026 02:30:25 +0000",
+        "description": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/ Comments URL: https://news.ycombinator.com/item?id=48535886 Points: 50 #...",
+        "keywords": "even, more, batteries, included, emacs, url, https, com",
+        "generated": "2026-06-15T05:01:58.091618",
+        "file": "even-more-batteries-included-with-emacs.md"
     },
     {
         "title": "Code Challenge of the Day — Minimal length subarray >= target (hard)",
@@ -5443,6 +5564,17 @@
         "keywords": "controlnext, powerful, efficient, control, image, video, generation, json",
         "generated": "2026-06-13T09:25:04.610353",
         "file": "controlnext-powerful-and-efficient-control-for-image-and-video-generation.md"
+    },
+    {
+        "title": "Your ePub Is fine",
+        "slug": "your-epub-is-fine",
+        "author": "sohkamyung",
+        "source": "hackernews",
+        "published": "Sun, 14 Jun 2026 22:54:55 +0000",
+        "description": "Article URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/ Comments URL: https://news.ycombinator.com/item?id=48533848 Points: 324 # C...",
+        "keywords": "your, epub, fine, url, https, comments, article, andreklein",
+        "generated": "2026-06-15T05:01:58.091951",
+        "file": "your-epub-is-fine.md"
     },
     {
         "title": "Level Up Your Dev Presence: Build a Killer Portfolio Without Spending a Dime",
@@ -5685,6 +5817,17 @@
         "keywords": "agent, booking, tool, they, march, confirmed, step, don",
         "generated": "2026-06-08T11:08:35.051803",
         "file": "agent-mistakes-dont-fail-alone-they-compound.md"
+    },
+    {
+        "title": "Two Tools, One Goal: Music Generation With Game Dev in Mind",
+        "slug": "two-tools-one-goal-music-generation-with-game-dev-in-mind",
+        "author": "Kai Xu",
+        "source": "devto_ai",
+        "published": "Mon, 15 Jun 2026 04:48:44 +0000",
+        "description": "I'm Kai. Twenty+ years in game dev. Music was always my weakest link — I could listen, but I couldn't make. So over the past few months I built two things. C...",
+        "keywords": "music, game, out, built, clef, studio, godot, ace",
+        "generated": "2026-06-15T05:01:58.097897",
+        "file": "two-tools-one-goal-music-generation-with-game-dev-in-mind.md"
     },
     {
         "title": "How to Publish an MCP Server to PyPI — Two Methods (Token vs OIDC)",
@@ -6037,6 +6180,17 @@
         "keywords": "words, anomaly, count, must, weighted, localized, small, score",
         "generated": "2026-06-11T16:13:08.009598",
         "file": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms.md"
+    },
+    {
+        "title": "The real reason your job applications get no replies",
+        "slug": "the-real-reason-your-job-applications-get-no-replies",
+        "author": "Elyasians(elyasians.com)",
+        "source": "devto_ai",
+        "published": "Mon, 15 Jun 2026 04:37:13 +0000",
+        "description": "As a developer, I've been in the job market for a while now, and I've experienced my fair share of frustration when it comes to applying for jobs. I've spent...",
+        "keywords": "job, applications, can, seekers, search, elyasians, application, also",
+        "generated": "2026-06-15T05:01:58.098636",
+        "file": "the-real-reason-your-job-applications-get-no-replies.md"
     },
     {
         "title": "How to Find Companies Using MySQL: API Guide for 2026",
@@ -6919,6 +7073,17 @@
         "file": "scaling-ai-with-multi-tenant-saas-architecture.md"
     },
     {
+        "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+        "slug": "windows-11-users-are-tired-of-ms-account-requirements-creeping-into-everything",
+        "author": "josephcsible",
+        "source": "hackernews",
+        "published": "Sun, 14 Jun 2026 21:42:12 +0000",
+        "description": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds Comments URL: h...",
+        "keywords": "windows, users, tired, account, requirements, url, https, com",
+        "generated": "2026-06-15T05:01:58.092047",
+        "file": "windows-11-users-are-tired-of-ms-account-requirements-creeping-into-everything.md"
+    },
+    {
         "title": "Rolling a Google Service Account JWT in Node.js without the googleapis package",
         "slug": "rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package",
         "author": "MORINAGA",
@@ -7539,10 +7704,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Sun, 14 Jun 2026 09:30:13 +0000",
+        "published": "Mon, 15 Jun 2026 03:56:45 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-06-14T09:45:48.683576",
+        "generated": "2026-06-15T05:01:58.094730",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -7577,6 +7742,17 @@
         "keywords": "url, https, comments, leaving, mozilla, article, blog, unitedheroes",
         "generated": "2026-06-13T09:25:04.605290",
         "file": "leaving-mozilla.md"
+    },
+    {
+        "title": "**Best open-source local AI agent workspace for offline coding**",
+        "slug": "best-open-source-local-ai-agent-workspace-for-offline-coding",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Mon, 15 Jun 2026 04:44:46 +0000",
+        "description": "Best open-source local AI agent workspace for offline coding Developers are flocking to repos like ds4 for local inference and Odysseus for self-hosted works...",
+        "keywords": "agent, local, open, like, model, workspace, offline, source",
+        "generated": "2026-06-15T05:01:58.098153",
+        "file": "best-open-source-local-ai-agent-workspace-for-offline-coding.md"
     },
     {
         "title": "從零打造全自動 AI 作品產出引擎：一位特殊選才生的 30 天實驗",
@@ -7742,6 +7918,17 @@
         "keywords": "you, pricing, what, who, not, teams, tools, actually",
         "generated": "2026-06-07T09:24:56.819418",
         "file": "process-docs-design-sprints-translation-ops-the-unglamorous-backend.md"
+    },
+    {
+        "title": "OpenEnv & Agentic Reinforcement Learning: How Open Source Is Closing the Frontier Agent Training Gap",
+        "slug": "openenv-agentic-reinforcement-learning-how-open-source-is-closing-the-frontier-agent-training-gap",
+        "author": "Manoranjan Rajguru",
+        "source": "devto_python",
+        "published": "Mon, 15 Jun 2026 04:42:16 +0000",
+        "description": "OpenEnv & Agentic Reinforcement Learning: How Open Source Is Closing the Frontier Agent Training Gap Table of Contents The Problem: Frontier Agents Train Wit...",
+        "keywords": "openenv, environment, training, reward, import, environments, code, self",
+        "generated": "2026-06-15T05:01:58.094519",
+        "file": "openenv-agentic-reinforcement-learning-how-open-source-is-closing-the-frontier-agent-training-gap.md"
     },
     {
         "title": "Pixel Polish: Photoshop Alternatives for the Time-Strapped Developer",
@@ -7962,6 +8149,17 @@
         "keywords": "get, print, headers, fore, response, trading, data, market",
         "generated": "2026-06-06T19:40:03.723002",
         "file": "how-to-build-an-eve-online-market-trading-bot-in-python.md"
+    },
+    {
+        "title": "Stay ahead in web development: latest news, tools, and insights #141",
+        "slug": "stay-ahead-in-web-development-latest-news-tools-and-insights-141",
+        "author": "Adam",
+        "source": "devto_webdev",
+        "published": "Mon, 15 Jun 2026 04:56:47 +0000",
+        "description": "Signup here for the newsletter to get the weekly digest right into your inbox. weeklyfoo #141 is here: your weekly digest of all webdev news you need to know...",
+        "keywords": "read, min, tools, engineering, react, design, how, code",
+        "generated": "2026-06-15T05:01:58.096036",
+        "file": "stay-ahead-in-web-development-latest-news-tools-and-insights-141.md"
     },
     {
         "title": "Washington Mystics vs Dallas Wings: WNBA Preview & Picks",
