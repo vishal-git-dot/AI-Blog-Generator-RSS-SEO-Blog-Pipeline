@@ -781,6 +781,17 @@
         "file": "top-5-best-places-to-buy-verified-chime-accounts-securely.md"
     },
     {
+        "title": "Deploying Jina Serve Open-Source Neural Search and AI Serving Framework on Ubuntu 24.04",
+        "slug": "deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404",
+        "author": "Sanskriti Harmukh",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 20:55:00 +0000",
+        "description": "Jina Serve is an open-source framework for building neural search and multimodal AI applications, with a cloud-native runtime that handles dynamic batching, ...",
+        "keywords": "jina, executor, flow, text, docker, traefik, letsencrypt, search",
+        "generated": "2026-06-16T21:09:41.017682",
+        "file": "deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404.md"
+    },
+    {
         "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
         "slug": "pirates-a-naval-warfare-game-inspired-by-sid-meiers-pirates",
         "author": "iweczek",
@@ -1793,6 +1804,17 @@
         "file": "ask-hn-why-is-the-hn-crowd-so-anti-ai.md"
     },
     {
+        "title": "Exclusive &#8211; Databricks Releases General AI Agents for Businesses &#8211; WSJ",
+        "slug": "exclusive-8211-databricks-releases-general-ai-agents-for-businesses-8211-wsj",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 20:50:20 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Exclusive | Databricks Releases General AI Agent...",
+        "keywords": "progressino, your, before, businesses, you, evaluating, similar, initiatives",
+        "generated": "2026-06-16T21:09:41.015090",
+        "file": "exclusive-8211-databricks-releases-general-ai-agents-for-businesses-8211-wsj.md"
+    },
+    {
         "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
         "slug": "statement-on-us-government-directive-to-suspend-access-to-fable-5-and-mythos-5",
         "author": "Dylan1312",
@@ -1835,6 +1857,17 @@
         "keywords": "you, model, not, cost, models, production, what, when",
         "generated": "2026-06-13T19:44:24.806657",
         "file": "i-ran-qwen-and-claude-3-in-production-for-30-days-heres-what-won.md"
+    },
+    {
+        "title": "Deploying Label Studio Open-Source Data Labeling Platform on Ubuntu 24.04",
+        "slug": "deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404",
+        "author": "Sanskriti Harmukh",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 20:57:20 +0000",
+        "description": "Label Studio is an open-source data labeling platform that supports annotation across text, images, audio, video, and time series, with collaborative workflo...",
+        "keywords": "docker, labelstudio, data, traefik, letsencrypt, label, studio, compose",
+        "generated": "2026-06-16T21:09:41.017394",
+        "file": "deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404.md"
     },
     {
         "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
@@ -2011,6 +2044,17 @@
         "keywords": "mdl, scripts, typescript, javascript, app, behavior, still, modules",
         "generated": "2026-06-11T20:28:40.310096",
         "file": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup.md"
+    },
+    {
+        "title": "I Benchmarked 9 Multimodal AI APIs — The Pricing Data Surprised Me",
+        "slug": "i-benchmarked-9-multimodal-ai-apis-the-pricing-data-surprised-me",
+        "author": "purecast",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 21:04:47 +0000",
+        "description": "I Benchmarked 9 Multimodal AI APIs — The Pricing Data Surprised Me Let me be upfront with you: I didn't set out to write this. I started running these benchm...",
+        "keywords": "model, text, glm, you, image, but, omni, per",
+        "generated": "2026-06-16T21:09:41.012426",
+        "file": "i-benchmarked-9-multimodal-ai-apis-the-pricing-data-surprised-me.md"
     },
     {
         "title": "Overcoming MSE: How We Built an Ultra-Reliable Lahore Smog Forecaster Using PyTorch Transformers and Asymmetric Loss",
@@ -2629,6 +2673,17 @@
         "file": "crdts-merge-concurrent-edits-why-not-concurrent-creation.md"
     },
     {
+        "title": "Your Pipeline Is 22.6h Behind: Catching Software Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-226h-behind-catching-software-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 20:30:16 +0000",
+        "description": "Your Pipeline Is 22.6h Behind: Catching Software Sentiment Leads with Pulsebit We recently uncovered a striking anomaly: a 24-hour momentum spike of +0.335 i...",
+        "keywords": "sentiment, software, your, you, pulsebit, english, can, get",
+        "generated": "2026-06-16T21:09:41.013798",
+        "file": "your-pipeline-is-226h-behind-catching-software-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Why Cloudflare Breaks Proxy-Only Scrapers",
         "slug": "why-cloudflare-breaks-proxy-only-scrapers",
         "author": "Anakin",
@@ -3080,6 +3135,17 @@
         "file": "mcp-payment-extensions-in-june-2026-x402-v2-l402-and-what-actually-works.md"
     },
     {
+        "title": "I Replaced My GPU Cluster With an API. Here's What Happened.",
+        "slug": "i-replaced-my-gpu-cluster-with-an-api-heres-what-happened",
+        "author": "fiercedash",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 20:50:42 +0000",
+        "description": "I gotta say, i Replaced My GPU Cluster With an API. Here's What Happened. Six months ago I had two A100s humming in my garage-rack setup, a tangle of cooling...",
+        "keywords": "you, model, gpu, api, month, open, weights, tokens",
+        "generated": "2026-06-16T21:09:41.013447",
+        "file": "i-replaced-my-gpu-cluster-with-an-api-heres-what-happened.md"
+    },
+    {
         "title": "Kubernetes horizontal pod autoscaling based on custom metrics",
         "slug": "kubernetes-horizontal-pod-autoscaling-based-on-custom-metrics",
         "author": "Rizwan Saleem",
@@ -3344,6 +3410,17 @@
         "file": "pre-modern-armies-for-worldbuilders-part-i-why-they-fight.md"
     },
     {
+        "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+        "slug": "show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves",
+        "author": "ajaypanthagani",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 19:13:30 +0000",
+        "description": "I was frustated by having to draw system design diagrams by hand when discussing it with my team mates or in an interview. So I thought Wouldn't it be great...",
+        "keywords": "system, out, loud, diagrams, voicedraw, design, draw, when",
+        "generated": "2026-06-16T21:09:41.011746",
+        "file": "show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md"
+    },
+    {
         "title": "Agentic AI: Are we giving it too much of our agency?",
         "slug": "agentic-ai-are-we-giving-it-too-much-of-our-agency",
         "author": "Ruben Arevalo",
@@ -3540,6 +3617,17 @@
         "keywords": "open, source, tools, hacked, steal, passwords, developers, url",
         "generated": "2026-06-09T09:59:01.256738",
         "file": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md"
+    },
+    {
+        "title": "Agents Are Your New Customer",
+        "slug": "agents-are-your-new-customer",
+        "author": "Hector Flores",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 20:58:38 +0000",
+        "description": "I watched the WorkOS Auth.md video this morning and felt two things simultaneously. Amazed. And annoyed. Amazed because this is real. Annoyed because I want ...",
+        "keywords": "agent, you, auth, agents, your, not, can, user",
+        "generated": "2026-06-16T21:09:41.017123",
+        "file": "agents-are-your-new-customer.md"
     },
     {
         "title": "Creating an AI Note Taker with Gemini API",
@@ -4015,6 +4103,17 @@
         "file": "ntsc-rs-open-source-video-emulation-of-analog-tv-and-vhs-artifacts.md"
     },
     {
+        "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
+        "slug": "us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nio-nears",
+        "author": "ResearchAtPlay",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 19:42:05 +0000",
+        "description": "Article URL: https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874 Comments URL: https://...",
+        "keywords": "pulling, ocean, sensors, shock, canadian, research, nears, url",
+        "generated": "2026-06-16T21:09:41.011596",
+        "file": "us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nio-nears.md"
+    },
+    {
         "title": "CSS Minification: What It Is, Why It Matters, and How to Do It",
         "slug": "css-minification-what-it-is-why-it-matters-and-how-to-do-it",
         "author": "Snappy Tools",
@@ -4101,6 +4200,17 @@
         "keywords": "compliance, can, ads, your, creatives, norvik, brand, tech",
         "generated": "2026-06-10T04:15:10.540309",
         "file": "ad-creatives-compliance-navigating-the-maze-of-ne.md"
+    },
+    {
+        "title": "Frood, an Alpine Initramfs NAS",
+        "slug": "frood-an-alpine-initramfs-nas",
+        "author": "ethanpil",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 20:17:04 +0000",
+        "description": "Article URL: https://words.filippo.io/frood/ Comments URL: https://news.ycombinator.com/item?id=48561402 Points: 12 # Comments: 2",
+        "keywords": "frood, url, https, comments, alpine, initramfs, nas, article",
+        "generated": "2026-06-16T21:09:41.011147",
+        "file": "frood-an-alpine-initramfs-nas.md"
     },
     {
         "title": "Mahdi Shamlou | Structural Design Patterns 2026: Facade, Flyweight, Proxy — Production Examples",
@@ -5093,6 +5203,17 @@
         "file": "why-id-put-an-llm-gateway-between-librechat-and-model-providers.md"
     },
     {
+        "title": "Cloudflare cf_clearance: why it expires and how to stop the re-challenge loop",
+        "slug": "cloudflare-cfclearance-why-it-expires-and-how-to-stop-the-re-challenge-loop",
+        "author": "Bassem Shahin",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 20:58:13 +0000",
+        "description": "Cloudflare cf_clearance: why it expires and how to stop the re-challenge loop You solve the Cloudflare challenge, get a cf_clearance cookie, make your next r...",
+        "keywords": "challenge, you, cookie, cloudflare, session, fingerprint, loop, one",
+        "generated": "2026-06-16T21:09:41.012859",
+        "file": "cloudflare-cfclearance-why-it-expires-and-how-to-stop-the-re-challenge-loop.md"
+    },
+    {
         "title": "pysam、cyvcf2、PyVCF3 性能對比與應用",
         "slug": "pysamcyvcf2pyvcf3",
         "author": "JH5",
@@ -5753,6 +5874,17 @@
         "file": "mastering-dunder-methods-for-immutable-data-classes.md"
     },
     {
+        "title": "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
+        "slug": "databricks-launches-ltap-a-unified-olapoltp-data-architecture",
+        "author": "thehaikuza",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 19:45:11 +0000",
+        "description": "Article URL: https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical Comments URL: https://new...",
+        "keywords": "databricks, launches, ltap, url, https, com, comments, unified",
+        "generated": "2026-06-16T21:09:41.011467",
+        "file": "databricks-launches-ltap-a-unified-olapoltp-data-architecture.md"
+    },
+    {
         "title": "Building RFC 3161 Layer 2 Verification for AI Decision Evidence",
         "slug": "building-rfc-3161-layer-2-verification-for-ai-decision-evidence",
         "author": "Lee HeeJun",
@@ -6048,6 +6180,17 @@
         "keywords": "amd, stiffs, researcher, bug, bounty, url, https, com",
         "generated": "2026-06-13T04:19:15.383517",
         "file": "amd-stiffs-researcher-10k-bug-bounty.md"
+    },
+    {
+        "title": "I Replaced My $200/Month Video SaaS With a One-Time $20 Workflow",
+        "slug": "i-replaced-my-200month-video-saas-with-a-one-time-20-workflow",
+        "author": "Ali Yılmaz Dok",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 21:00:38 +0000",
+        "description": "I Replaced My $200/Month Video SaaS With a One-Time $20 Workflow I was paying $200/month for a video automation SaaS. Then I found an n8n workflow that does ...",
+        "keywords": "you, video, workflow, saas, one, time, your, month",
+        "generated": "2026-06-16T21:09:41.016496",
+        "file": "i-replaced-my-200month-video-saas-with-a-one-time-20-workflow.md"
     },
     {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",
@@ -6490,6 +6633,17 @@
         "file": "agent-mistakes-dont-fail-alone-they-compound.md"
     },
     {
+        "title": "7 Best Platforms To Buy Verified Gmail Accounts (Aged or ...",
+        "slug": "7-best-platforms-to-buy-verified-gmail-accounts-aged-or",
+        "author": "Michel Scott",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 20:32:00 +0000",
+        "description": "Buy USA Gmail Accounts 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 WhatsApp: +1 (984) 291-3274 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 progmb.contact@gmail.com Getting U...",
+        "keywords": "gmail, telegram, progmbofficial, progmb, com, buy, accounts, usa",
+        "generated": "2026-06-16T21:09:41.015651",
+        "file": "7-best-platforms-to-buy-verified-gmail-accounts-aged-or.md"
+    },
+    {
         "title": "Two Tools, One Goal: Music Generation With Game Dev in Mind",
         "slug": "two-tools-one-goal-music-generation-with-game-dev-in-mind",
         "author": "Kai Xu",
@@ -6543,6 +6697,17 @@
         "keywords": "cover, url, https, com, comments, back, language, raises",
         "generated": "2026-06-06T08:41:07.447942",
         "file": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md"
+    },
+    {
+        "title": "#New40k – Points, apps, and updates incoming - Warhammer Community",
+        "slug": "new40k-points-apps-and-updates-incoming-warhammer-community",
+        "author": "Thomas Woodfin",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 21:00:08 +0000",
+        "description": "#New40k: How Games Workshop Is Quietly Revolutionizing Tabletop Wargaming With Software Engineering Warhammer 40k's latest wave of updates - dubbed #New40k -...",
+        "keywords": "points, app, data, list, warhammer, input, error, apps",
+        "generated": "2026-06-16T21:09:41.014834",
+        "file": "new40k-points-apps-and-updates-incoming-warhammer-community.md"
     },
     {
         "title": "Meta Spent More on AI Than Anyone Except Google. Its Platform Is Still Not Out the Door.",
@@ -6664,6 +6829,17 @@
         "keywords": "ozymorlab, educational, another, grading, education, one, platform, academic",
         "generated": "2026-06-05T10:13:51.907887",
         "file": "introducing-ozymorlab-building-the-operating-system-for-modern-education.md"
+    },
+    {
+        "title": "Your Pipeline Is 22.8h Behind: Catching Hardware Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-228h-behind-catching-hardware-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 20:15:08 +0000",
+        "description": "Your Pipeline Is 22.8h Behind: Catching Hardware Sentiment Leads with Pulsebit We recently uncovered a fascinating data anomaly: a 24h momentum spike of -0.3...",
+        "keywords": "sentiment, hardware, your, pulsebit, you, english, pipeline, momentum",
+        "generated": "2026-06-16T21:09:41.014122",
+        "file": "your-pipeline-is-228h-behind-catching-hardware-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Apache Burr: Build reliable AI agents and applications",
@@ -7546,6 +7722,17 @@
         "file": "anthropics-safety-superpower.md"
     },
     {
+        "title": "Why I stopped using ChatGPT for code reviews",
+        "slug": "why-i-stopped-using-chatgpt-for-code-reviews",
+        "author": "eternalsix",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 21:01:46 +0000",
+        "description": "Why I Stopped Using ChatGPT for Code Reviews (And What I Use Instead) Last month I pasted 400 lines of a TypeScript service into ChatGPT and asked it to revi...",
+        "keywords": "code, review, you, model, not, chatgpt, your, context",
+        "generated": "2026-06-16T21:09:41.016104",
+        "file": "why-i-stopped-using-chatgpt-for-code-reviews.md"
+    },
+    {
         "title": "I Was Supposed to Fix Bugs. I Accidentally Built Two Features Instead. PC Workman 1.7.8 - Advanced Deep Learning AI, Supply Monitor and Health Keeper.",
         "slug": "i-was-supposed-to-fix-bugs-i-accidentally-built-two-features-instead-pc-workman-178-advanced-deep-learning-ai-supply-monitor-and-health-keeper",
         "author": "Marcin Firmuga",
@@ -8173,6 +8360,17 @@
         "file": "gemini-ignites-workspace-1m-tokens-32-gains-and-new-language-frontiers.md"
     },
     {
+        "title": "Developer take on: Nobody clicks your share buttons",
+        "slug": "developer-take-on-nobody-clicks-your-share-buttons",
+        "author": "Kelvin Kariuki",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 20:44:42 +0000",
+        "description": "You pour hours into crafting compelling content, optimizing your code, and designing a beautiful user experience. Then you add those ubiquitous social share ...",
+        "keywords": "share, buttons, your, content, they, you, user, social",
+        "generated": "2026-06-16T21:09:41.015269",
+        "file": "developer-take-on-nobody-clicks-your-share-buttons.md"
+    },
+    {
         "title": "Ask HN: What Are You Working On?",
         "slug": "ask-hn-what-are-you-working-on",
         "author": "eisleggje",
@@ -8347,6 +8545,17 @@
         "keywords": "love, computer, url, https, com, comments, article, michaelenger",
         "generated": "2026-06-15T21:11:31.712968",
         "file": "i-love-the-computer.md"
+    },
+    {
+        "title": "Why PDF generation breaks in production (and why localhost lies)",
+        "slug": "why-pdf-generation-breaks-in-production-and-why-localhost-lies",
+        "author": "Johin Johny",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 20:44:03 +0000",
+        "description": "PDF generation is one of those things that works perfectly… until real users touch it. On localhost: npm run dev Open Chrome → print → PDF. Done. Then produc...",
+        "keywords": "pdf, your, html, browser, you, not, generation, pdfpipe",
+        "generated": "2026-06-16T21:09:41.015514",
+        "file": "why-pdf-generation-breaks-in-production-and-why-localhost-lies.md"
     },
     {
         "title": "Trial Software Activation Server — prometheusdev.io Jun 2026",
@@ -9194,6 +9403,17 @@
         "keywords": "you, vessel, mmsi, ais, data, position, can, when",
         "generated": "2026-06-10T20:38:15.849061",
         "file": "working-with-ais-data-in-python-what-the-quickstart-wont-tell-you.md"
+    },
+    {
+        "title": "Nobody clicks share buttons",
+        "slug": "nobody-clicks-share-buttons",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 20:12:05 +0000",
+        "description": "Article URL: https://ankursethi.com/links/nobody-clicks-your-share-buttons/ Comments URL: https://news.ycombinator.com/item?id=48561332 Points: 82 # Comments...",
+        "keywords": "nobody, clicks, share, buttons, url, https, com, comments",
+        "generated": "2026-06-16T21:09:41.011336",
+        "file": "nobody-clicks-share-buttons.md"
     },
     {
         "title": "How to Build an EVE Online Market Trading Bot in Python",
