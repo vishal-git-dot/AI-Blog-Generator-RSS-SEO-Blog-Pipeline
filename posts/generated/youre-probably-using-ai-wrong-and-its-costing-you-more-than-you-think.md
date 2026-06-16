@@ -1,0 +1,34 @@
+---
+title: "You're probably using AI wrong. And it's costing you more than you think."
+slug: "youre-probably-using-ai-wrong-and-its-costing-you-more-than-you-think"
+author: "Jinav Shah"
+source: "devto_ai"
+published: "Tue, 16 Jun 2026 04:58:54 +0000"
+description: "Most companies today have one AI setup: send everything to the most powerful model available. Pay the bill. Repeat. It works. But it's expensive, slower than..."
+keywords: "model, you, your, frontier, most, specialist, one, like"
+generated: "2026-06-16T05:04:00.741451"
+---
+
+# You're probably using AI wrong. And it's costing you more than you think.
+
+## Overview
+
+Most companies today have one AI setup: send everything to the most powerful model available. Pay the bill. Repeat. It works. But it's expensive, slower than it needs to be, and honestly — a bit like hiring a surgeon to change a lightbulb. The problem nobody talks about Imagine a hospital where every patient — whether they need open-heart surgery or a bandage on a paper cut — is seen by the senior consultant first. The consultant is brilliant. But the waiting room is chaos. The costs are sky-high. And half his time is spent on things a nurse could have handled in two minutes. That's what most AI pipelines look like today. When your team sends something to an AI model, it might be a Python file, a customer complaint in Hindi, a SQL query, or a casual Hinglish support ticket. These are completely different problems requiring different expertise, different depth, different cost. Yet most systems send them all to the same model, at the same price, with the same wait time. The smarter approach: right model for the right job Some inputs have hard, deterministic boundaries. A .py file contains Python. A .sql file contains SQL. You don't need the most powerful AI in the world to figure that out — you need a rule. Here's what a smarter pipeline looks like: Input arrives ↓ Orchestrator SLM — a small, fast model that reads the input and decides: what is this, who handles it? ↓ ├── Python file → Python specialist model ├── SQL query → SQL specialist model ├── Hindi doc → Hindi specialist model └── Ambiguous → Frontier model directly ↓ Specialist outputs + original input → Frontier model → Final answer There is no separate routing system to build. The orchestrator is itself a small AI model — trained to classify inputs and direct traffic. It costs almost nothing to run. The powerful frontier model — your Claude, your GPT-4 — stays in the loop for the final answer. It just isn't doing the sorting anymore. One insight most teams miss When specialist models pass findings to the frontier model, the instinct is to format outputs for human readability. Paragraphs. Explanations. Full sentences. Wrong target. The downstream consumer is another model — not a human. Specialist models should produce machine-readable structured output. Dense. Precise. No explanation. { "language" : "python" , "issues_detected" : [ "unbounded loop at line 47" ], "confidence" : 0.94 } This isn't for a person to read. It's for a model to consume efficiently. The constraint is baked into training — not imposed by external truncation at runtime. Prevention over correction. Think of it like a doctor handing a consultant a structured chart instead of a five-page narrative. Same information. Faster to read. More room to think. What happens when context gets too large? The frontier model has finite working memory. Multiple specialists contributing outputs fills it fast. Here's the fallback stack, in order: First — specialists send only essential structured signal. No reasoning traces. This is the default. If needed — summarise the original input first. Compress before routing. If still needed — feed specialist outputs one at a time. The frontier model builds context incrementally. Slower, but accurate. Last resort — skip specialists entirely. Raw input directly to the frontier model. Full cost, guaranteed quality. The pipeline always has a path to the right answer. You're just choosing how much it costs. Does this actually save money? Honest answer: only at scale. Specialist models are open-source — free to use, but you pay for compute. A reasonable GPU setup costs $1,000–1,100 per month. The savings come from routing a large share of queries away from expensive frontier API calls. Monthly AI API spend Does this make sense? Below $2,000 Probably not — keep it simple $3,000–$5,000 Worth evaluating Above $5,000 Very likely yes One important caveat. If your team currently uses Claude.ai, Claude Code, or any managed AI interface — this architecture means moving away from that. You'd be calling APIs directly from your own system, which means building and owning the interaction layer your employees use. How you use AI today What this means Managed interface (Claude.ai, etc.) Build a custom interface first — factor in engineering cost Already using APIs with custom tooling Plugs in naturally You've already seen this architecture If you've used agent mode in Cursor — the AI coding tool — you've experienced this exact pattern without realising it. Cursor doesn't send your entire codebase to one model and hope for the best. A lightweight orchestrator reads your request, decides what to do — read a file, search the codebase, run a terminal command — routes to the right tool, then a frontier model synthesises the final response. Enterprise tools like Atlassian's Rovo are moving in the same direction for workplace workflows. The companies that built these tools figured out that one model doing everything is wasteful. The question is whether the AI pipelines inside your organisation are designed with the same intelligence — or still sending every query to the most expensive model available. The real lesson Most AI cost and speed problems aren't model problems. They're routing problems. The best AI pipelines look less like "one genius doing everything" and more like a well-run team: a smart receptionist, skilled specialists, and senior judgment applied only where it genuinely matters. The question isn't which model is best. It's: are you using the right model for the right job? What routing decisions is your organisation making — or avoiding? Would love to hear in the comments.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/jinav_shah_6c63fcc03c0b9e/youre-probably-using-ai-wrong-and-its-costing-you-more-than-you-think-1ilc
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
