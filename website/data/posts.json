@@ -1738,6 +1738,17 @@
         "file": "open-source-multi-agent-orchestration-lessons-from-agentforge.md"
     },
     {
+        "title": "The Inline HTML Almost Nobody Uses",
+        "slug": "the-inline-html-almost-nobody-uses",
+        "author": "Dimon",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 16:54:33 +0000",
+        "description": "Everyone knows <b> , <i> , <a> , and <code> . But HTML has a whole second cast of inline elements that most developers go entire careers without typing once ...",
+        "keywords": "you, ins, abbr, var, mark, one, dfn, not",
+        "generated": "2026-06-16T17:05:59.750966",
+        "file": "the-inline-html-almost-nobody-uses.md"
+    },
+    {
         "title": "Astrophysics & AI with Python: Navigating the Universe with RA, Dec, and Coordinate Transformations",
         "slug": "astrophysics-ai-with-python-navigating-the-universe-with-ra-dec-and-coordinate-transformations",
         "author": "Programming Central",
@@ -2099,6 +2110,17 @@
         "keywords": "you, returns, not, finance, building, yourself, they, risk",
         "generated": "2026-06-09T20:13:36.281448",
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
+    },
+    {
+        "title": "Wiring Up DeepSeek in Next.js: A Bootcamp Grad's Story",
+        "slug": "wiring-up-deepseek-in-nextjs-a-bootcamp-grads-story",
+        "author": "rarenode",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 16:18:53 +0000",
+        "description": "Wiring Up DeepSeek in Next.js: A Bootcamp Grad's Story I graduated from a coding bootcamp about three months ago, and I'm going to be real with you: nothing ...",
+        "keywords": "you, deepseek, api, openai, what, global, model, bootcamp",
+        "generated": "2026-06-16T17:05:59.749801",
+        "file": "wiring-up-deepseek-in-nextjs-a-bootcamp-grads-story.md"
     },
     {
         "title": "You Don't Own the Code AI Wrote for You",
@@ -2761,6 +2783,17 @@
         "file": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro.md"
     },
     {
+        "title": "Developer take on: Running local models is good now",
+        "slug": "developer-take-on-running-local-models-is-good-now",
+        "author": "Kelvin Kariuki",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 16:35:06 +0000",
+        "description": "Developer take on: Running local models is good now Forget the days when running powerful AI models required specialized hardware, complex setups, or hefty c...",
+        "keywords": "your, models, local, running, can, cloud, model, data",
+        "generated": "2026-06-16T17:05:59.752346",
+        "file": "developer-take-on-running-local-models-is-good-now.md"
+    },
+    {
         "title": "Building a Food Blog Platform with Django — Daily Dev Log",
         "slug": "building-a-food-blog-platform-with-django-daily-dev-log",
         "author": "Arslon Erkinov",
@@ -3397,6 +3430,17 @@
         "keywords": "url, https, com, news, comments, astronauts, iss, told",
         "generated": "2026-06-05T15:19:56.041017",
         "file": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md"
+    },
+    {
+        "title": "Everything You Need to Promote & Profit",
+        "slug": "everything-you-need-to-promote-profit",
+        "author": "Sonia Malik",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 16:36:32 +0000",
+        "description": "Top Promotion Tips Proven strategies to maximise your conversions with this offer Lead With the Pain — Not the Product Don't open with here's a done-for-you...",
+        "keywords": "you, your, page, offer, side, value, sales, guarantee",
+        "generated": "2026-06-16T17:05:59.752071",
+        "file": "everything-you-need-to-promote-profit.md"
     },
     {
         "title": "BrancoSoft Insights: Building Scalable Digital Solutions",
@@ -4356,6 +4400,28 @@
         "file": "ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks.md"
     },
     {
+        "title": "Clearbit died. Here's a pay-per-call company enrichment API for AI agents ($0.03/lookup)",
+        "slug": "clearbit-died-heres-a-pay-per-call-company-enrichment-api-for-ai-agents-003lookup",
+        "author": "Tuf Ti",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 16:39:22 +0000",
+        "description": "Clearbit's free API shut down April 30, 2025. The replacement (HubSpot Breeze Intelligence) requires an enterprise contract that starts around $20K/year. If ...",
+        "keywords": "company, com, api, cinderwright, json, https, stripe, post",
+        "generated": "2026-06-16T17:05:59.748347",
+        "file": "clearbit-died-heres-a-pay-per-call-company-enrichment-api-for-ai-agents-003lookup.md"
+    },
+    {
+        "title": "AI Is Quietly Becoming Game Development Infrastructure: The 2026 Numbers That Matter",
+        "slug": "ai-is-quietly-becoming-game-development-infrastructure-the-2026-numbers-that-matter",
+        "author": "Krishna Soni",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 16:36:51 +0000",
+        "description": "Photo by ANOOF C on Unsplash The loud version of the AI-in-games conversation is easy to spot: giant promises, instant worldbuilding, NPCs that supposedly th...",
+        "keywords": "game, development, studios, faster, can, https, one, kri",
+        "generated": "2026-06-16T17:05:59.754328",
+        "file": "ai-is-quietly-becoming-game-development-infrastructure-the-2026-numbers-that-matter.md"
+    },
+    {
         "title": "The $4,800/month API Lock-in I'd Undo: A Fractional CTO's Audit Checklist",
         "slug": "the-4800month-api-lock-in-id-undo-a-fractional-ctos-audit-checklist",
         "author": "Elena Revicheva",
@@ -5137,6 +5203,17 @@
         "file": "i-built-a-privacy-first-json-viewer-for-chrome-after-i-got-tired-of-waiting.md"
     },
     {
+        "title": "Reduce LLM Token Waste in RAG with Markdown",
+        "slug": "reduce-llm-token-waste-in-rag-with-markdown",
+        "author": "AlterLab",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 16:18:52 +0000",
+        "description": "TL;DR Feeding raw HTML to Large Language Models wastes tokens on markup, scripts, and styling. By rendering dynamic web pages in a headless browser and conve...",
+        "keywords": "markdown, you, html, your, data, text, rag, web",
+        "generated": "2026-06-16T17:05:59.750356",
+        "file": "reduce-llm-token-waste-in-rag-with-markdown.md"
+    },
+    {
         "title": "I built a voice AI platform that hits 442ms latency. Here's the full architecture.",
         "slug": "i-built-a-voice-ai-platform-that-hits-442ms-latency-heres-the-full-architecture",
         "author": "Aryan Panwar",
@@ -5830,6 +5907,17 @@
         "file": "obscura-rust-headless-browser-for-ai-agents-14000-stars-30mb-memory-85ms-load-setup-guide-2026.md"
     },
     {
+        "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+        "slug": "how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev",
+        "author": "Ben Halpern",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 16:41:51 +0000",
+        "description": "Hey everyone, Ben here. If you’ve been following the journey of DEV and our open source project Forem , you know we’ve always been obsessed with web performa...",
+        "keywords": "our, url, image, edge, bunny, optimizer, images, you",
+        "generated": "2026-06-16T17:05:59.751813",
+        "file": "how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev.md"
+    },
+    {
         "title": "5 AI tools that generated $50k for creators in 2026 — steal this strategy",
         "slug": "5-ai-tools-that-generated-50k-for-creators-in-2026-steal-this-strategy",
         "author": "Already Here LLC",
@@ -6004,6 +6092,17 @@
         "keywords": "stop, signal, url, https, comments, can, poison, article",
         "generated": "2026-06-14T14:17:29.348758",
         "file": "cant-stop-the-signal-poison-it.md"
+    },
+    {
+        "title": "After AI Takes Everything",
+        "slug": "after-ai-takes-everything",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 15:20:05 +0000",
+        "description": "Article URL: https://ursb.me/en/posts/after-ai-takes-everything/ Comments URL: https://news.ycombinator.com/item?id=48556644 Points: 4 # Comments: 0",
+        "keywords": "after, takes, everything, url, https, comments, article, ursb",
+        "generated": "2026-06-16T17:05:59.747916",
+        "file": "after-ai-takes-everything.md"
     },
     {
         "title": "Why AI hasn't replaced software engineers, and won't",
@@ -6314,6 +6413,17 @@
         "file": "zero-to-autopilot-part-1-i-built-an-ai-that-runs-a-youtube-channel-the-landscape-and-my-10-wake-up-call.md"
     },
     {
+        "title": "From $0 to $500/Month: How I Added Recurring Affiliate Revenue to My Indie Maker Stack",
+        "slug": "from-0-to-500month-how-i-added-recurring-affiliate-revenue-to-my-indie-maker-stack",
+        "author": "smartcore",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 16:40:32 +0000",
+        "description": "Six months ago, I had never made a single dollar from affiliate marketing. Today, it's quietly depositing between $350 and $600 into my account every month, ...",
+        "keywords": "you, month, recurring, affiliate, income, because, content, but",
+        "generated": "2026-06-16T17:05:59.754002",
+        "file": "from-0-to-500month-how-i-added-recurring-affiliate-revenue-to-my-indie-maker-stack.md"
+    },
+    {
         "title": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
         "slug": "i-built-an-adversarial-eval-framework-and-attacked-5-llms-every-single-one-failed",
         "author": "Saurav Bhattacharya",
@@ -6488,6 +6598,17 @@
         "keywords": "model, gateway, cost, can, provider, routing, customer, one",
         "generated": "2026-06-07T09:24:56.823585",
         "file": "openai-compatible-gateway-control-plane-checklist.md"
+    },
+    {
+        "title": "I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown",
+        "slug": "i-wish-i-knew-this-deepseek-api-trick-sooner-my-full-breakdown",
+        "author": "Alex Chen",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 17:02:37 +0000",
+        "description": "I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown Let me tell you about the dumbest thing I did last quarter. I was burning through $400 a wee...",
+        "keywords": "you, deepseek, client, api, global, output, cost, model",
+        "generated": "2026-06-16T17:05:59.752988",
+        "file": "i-wish-i-knew-this-deepseek-api-trick-sooner-my-full-breakdown.md"
     },
     {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",
@@ -6741,6 +6862,17 @@
         "keywords": "words, anomaly, count, must, weighted, localized, small, score",
         "generated": "2026-06-11T16:13:08.009598",
         "file": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms.md"
+    },
+    {
+        "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+        "slug": "gategpt-56k-tokens-per-second-transformer-kv-cache-on-fpga-at-80-mhz",
+        "author": "laxmena",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 16:12:26 +0000",
+        "description": "Article URL: https://twitter.com/fguzmanai/status/2065832668172845209 Comments URL: https://news.ycombinator.com/item?id=48557535 Points: 13 # Comments: 3",
+        "keywords": "url, https, com, comments, gategpt, tokens, per, second",
+        "generated": "2026-06-16T17:05:59.747713",
+        "file": "gategpt-56k-tokens-per-second-transformer-kv-cache-on-fpga-at-80-mhz.md"
     },
     {
         "title": "The real reason your job applications get no replies",
@@ -7381,6 +7513,17 @@
         "file": "dont-trust-large-context-windows.md"
     },
     {
+        "title": "Apple's weird anti-nausea dots cured my car sickness",
+        "slug": "apples-weird-anti-nausea-dots-cured-my-car-sickness",
+        "author": "neilfrndes",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 16:12:06 +0000",
+        "description": "Article URL: https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work Comments URL: https://news.ycombinator.com/item?id=48557530 Po...",
+        "keywords": "apple, url, https, com, comments, weird, anti, nausea",
+        "generated": "2026-06-16T17:05:59.747822",
+        "file": "apples-weird-anti-nausea-dots-cured-my-car-sickness.md"
+    },
+    {
         "title": "AI Agent Guidelines for CS336 at Stanford",
         "slug": "ai-agent-guidelines-for-cs336-at-stanford",
         "author": "ironbyte-rgb",
@@ -7480,6 +7623,17 @@
         "file": "review-mailx-by-mailwarm-email-deliverability-toolkit-for-humans-and-ai-agents.md"
     },
     {
+        "title": "Making ast.walk 220x Faster",
+        "slug": "making-astwalk-220x-faster",
+        "author": "palashawas",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 16:25:28 +0000",
+        "description": "Article URL: https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/ Comments URL: https://news.ycombinator.com/item?id=48557768 Points: 18 # Comments: 4",
+        "keywords": "ast, walk, url, https, comments, making, faster, article",
+        "generated": "2026-06-16T17:05:59.747408",
+        "file": "making-astwalk-220x-faster.md"
+    },
+    {
         "title": "Privacy-First Analytics Is Not Blind Analytics",
         "slug": "privacy-first-analytics-is-not-blind-analytics",
         "author": "WebmasterID",
@@ -7566,6 +7720,17 @@
         "keywords": "shit, moment, your, you, moments, what, these, not",
         "generated": "2026-06-06T08:41:07.453954",
         "file": "genai-oh-shit-moments-real-turning-points-that-changed-everything.md"
+    },
+    {
+        "title": "Never talk to the police",
+        "slug": "never-talk-to-the-police",
+        "author": "Cider9986",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 16:16:38 +0000",
+        "description": "Article URL: https://www.campolalaw.com/why-you-should-never-talk-to-the-po Comments URL: https://news.ycombinator.com/item?id=48557607 Points: 22 # Comments: 4",
+        "keywords": "never, talk, url, https, com, comments, police, article",
+        "generated": "2026-06-16T17:05:59.747595",
+        "file": "never-talk-to-the-police.md"
     },
     {
         "title": "5 Python Type Hint Patterns That Finally Made My Code Click",
@@ -7810,6 +7975,17 @@
         "file": "windows-11-users-are-tired-of-ms-account-requirements-creeping-into-everything.md"
     },
     {
+        "title": "Mouse Polling Rate Test: Check Mouse Hz and Fix Low Readings",
+        "slug": "mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings",
+        "author": "keyboardTester.Click",
+        "source": "devto_webdev",
+        "published": "Tue, 16 Jun 2026 16:59:31 +0000",
+        "description": "Your 1000Hz mouse shows 800Hz. Your 8000Hz mouse refuses to get past 1000Hz. That does not always mean the mouse is broken. I published the full guide on Key...",
+        "keywords": "mouse, rate, test, not, browser, polling, tier, check",
+        "generated": "2026-06-16T17:05:59.750659",
+        "file": "mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings.md"
+    },
+    {
         "title": "Rolling a Google Service Account JWT in Node.js without the googleapis package",
         "slug": "rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package",
         "author": "MORINAGA",
@@ -7885,6 +8061,17 @@
         "keywords": "kage, url, https, com, comments, show, shadow, any",
         "generated": "2026-06-14T19:44:48.275034",
         "file": "show-hn-kage-shadow-any-website-to-a-single-binary-for-offline-viewing.md"
+    },
+    {
+        "title": "2 AI Tools That Actually Make Money — Built on a Raspberry Pi",
+        "slug": "2-ai-tools-that-actually-make-money-built-on-a-raspberry-pi",
+        "author": "ULNIT",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 16:55:36 +0000",
+        "description": "The $35 Passive Income Machine I run all my SaaS products on a Raspberry Pi that costs $35. No AWS bills. No Heroku. No Docker. Just pure Python and cron job...",
+        "keywords": "tools, raspberry, python, docker, pure, stdlib, products, agent",
+        "generated": "2026-06-16T17:05:59.748131",
+        "file": "2-ai-tools-that-actually-make-money-built-on-a-raspberry-pi.md"
     },
     {
         "title": "Chaos engineering: testing system resilience through controlled experiments",
@@ -8171,6 +8358,17 @@
         "keywords": "software, server, trial, activation, professional, you, key, license",
         "generated": "2026-06-16T05:04:00.737063",
         "file": "trial-software-activation-server-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "I Cut My AI Bill By 97% Switching to DeepSeek — Here's How",
+        "slug": "i-cut-my-ai-bill-by-97-switching-to-deepseek-heres-how",
+        "author": "gentlenode",
+        "source": "devto_python",
+        "published": "Tue, 16 Jun 2026 16:29:59 +0000",
+        "description": "I Cut My AI Bill By 97% Switching to DeepSeek — Here's How Okay so I gotta be honest with you. For the longest time I was the guy paying GPT-4o prices like i...",
+        "keywords": "you, deepseek, openai, like, but, here, flash, don",
+        "generated": "2026-06-16T17:05:59.749160",
+        "file": "i-cut-my-ai-bill-by-97-switching-to-deepseek-heres-how.md"
     },
     {
         "title": "How to Fix Linux Menu Icons for Portable Electron Apps",
@@ -8844,6 +9042,17 @@
         "file": "teaching-ai-like-a-junior-dev-4-leadership-40-moves.md"
     },
     {
+        "title": "AI Doesn’t Need More Intelligence. It Needs Better Coordination.",
+        "slug": "ai-doesnt-need-more-intelligence-it-needs-better-coordination",
+        "author": "EvanLin | Contorium",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 16:48:36 +0000",
+        "description": "The AI industry is obsessed with model upgrades. Every week we see larger context windows, faster inference, and stronger reasoning benchmarks. Yet many prac...",
+        "keywords": "intelligence, model, contorium, more, coordination, context, systems, challenge",
+        "generated": "2026-06-16T17:05:59.753291",
+        "file": "ai-doesnt-need-more-intelligence-it-needs-better-coordination.md"
+    },
+    {
         "title": "AI-Driven Test Automation Is Not a Testing Strategy, It's a Decision Shift",
         "slug": "ai-driven-test-automation-is-not-a-testing-strategy-its-a-decision-shift",
         "author": "Markus Gasser",
@@ -9161,6 +9370,17 @@
         "keywords": "grammarly, teams, writing, review, business, assistant, across, your",
         "generated": "2026-06-15T21:11:31.716912",
         "file": "grammarly-review-2026-ai-writing-assistant-for-business-teams.md"
+    },
+    {
+        "title": "Everyone Wants AI Agents. Few Want To Build The Infrastructure.",
+        "slug": "everyone-wants-ai-agents-few-want-to-build-the-infrastructure",
+        "author": "EvanLin | Contorium",
+        "source": "devto_ai",
+        "published": "Tue, 16 Jun 2026 16:56:04 +0000",
+        "description": "AI agents are everywhere. Every week, new frameworks promise autonomous workflows, intelligent assistants, and self-improving systems. But there’s an uncomfo...",
+        "keywords": "agents, infrastructure, systems, agent, contorium, few, new, but",
+        "generated": "2026-06-16T17:05:59.753160",
+        "file": "everyone-wants-ai-agents-few-want-to-build-the-infrastructure.md"
     },
     {
         "title": "Framework Fatigue? What a 98% Evaluated Vanilla JS Game Taught Me About Clean Architecture",
