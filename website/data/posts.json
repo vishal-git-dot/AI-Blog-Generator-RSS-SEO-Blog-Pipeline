@@ -979,6 +979,17 @@
         "file": "beyond-the-buzzwords-engineering-hashtags-that-actually-drive-engagement.md"
     },
     {
+        "title": "I Built an AI-Native Trading Engine in Python. 5 Months Later, Here's What Changed",
+        "slug": "i-built-an-ai-native-trading-engine-in-python-5-months-later-heres-what-changed",
+        "author": "Alexey Polyakov",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 10:44:34 +0000",
+        "description": "I Built an AI-Native Trading Engine in Python. 5 Months Later, Here's What Changed 9 strategies → 12. ML scoring, backtesting, partial take-profit, Telegram ...",
+        "keywords": "bybit, daily, every, funding, cycle, pnl, partial, telegram",
+        "generated": "2026-06-17T11:07:27.900673",
+        "file": "i-built-an-ai-native-trading-engine-in-python-5-months-later-heres-what-changed.md"
+    },
+    {
         "title": "How I Built a Six-Figure AI API Reseller Funnel (And How You Can Too)",
         "slug": "how-i-built-a-six-figure-ai-api-reseller-funnel-and-how-you-can-too",
         "author": "bold",
@@ -1364,6 +1375,17 @@
         "file": "quadratic-funding-democratizes-allocation-by-rewarding-projects-w-broad-support.md"
     },
     {
+        "title": "Mistral Large vs Mistral Medium: CTO Notes From Production",
+        "slug": "mistral-large-vs-mistral-medium-cto-notes-from-production",
+        "author": "gentlenode",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 11:04:04 +0000",
+        "description": "Here's the thing: mistral Large vs Mistral Medium: CTO Notes From Production Three months ago I shipped what I thought was a solid LLM-backed feature into pr...",
+        "keywords": "you, mistral, medium, model, large, what, not, when",
+        "generated": "2026-06-17T11:07:27.903924",
+        "file": "mistral-large-vs-mistral-medium-cto-notes-from-production.md"
+    },
+    {
         "title": "FastAPI Lifespan Events for Multi-Tenant Resource Initialization: Setting Up Tenant Caches and AI Model Contexts Without Singleton Hell",
         "slug": "fastapi-lifespan-events-for-multi-tenant-resource-initialization-setting-up-tenant-caches-and-ai-model-contexts-without-singleton-hell",
         "author": "Ugur Aslim",
@@ -1428,6 +1450,17 @@
         "keywords": "interview, kira, boyko, url, https, com, comments, intel",
         "generated": "2026-06-13T14:12:06.658702",
         "file": "an-interview-with-intels-kira-boyko-xeon-6s-product-director.md"
+    },
+    {
+        "title": "Hacker News but for Independent Blogs",
+        "slug": "hacker-news-but-for-independent-blogs",
+        "author": "headalgorithm",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 07:49:44 +0000",
+        "description": "Article URL: https://bubbles.town/ Comments URL: https://news.ycombinator.com/item?id=48567155 Points: 115 # Comments: 34",
+        "keywords": "news, url, https, comments, hacker, but, independent, blogs",
+        "generated": "2026-06-17T11:07:27.899107",
+        "file": "hacker-news-but-for-independent-blogs.md"
     },
     {
         "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
@@ -1659,6 +1692,17 @@
         "keywords": "devto, hub, jak, produktivitu, komunikaci, produktivita, roste, pokud",
         "generated": "2026-06-07T19:40:41.523456",
         "file": "jak-zlepit-tmovou-produktivitu-a-komunikaci-802.md"
+    },
+    {
+        "title": "RAG vs. Fine-Tuning: The Architect's Guide to Production AI",
+        "slug": "rag-vs-fine-tuning-the-architects-guide-to-production-ai",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 10:56:40 +0000",
+        "description": "The hype cycle suggests Large Language Models (LLMs) can do anything. The reality of production engineering hits differently: your model hallucinates pricing...",
+        "keywords": "you, model, fine, rag, tuning, your, specific, data",
+        "generated": "2026-06-17T11:07:27.905135",
+        "file": "rag-vs-fine-tuning-the-architects-guide-to-production-ai.md"
     },
     {
         "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
@@ -2222,6 +2266,17 @@
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
     },
     {
+        "title": "U.S. Science Is in Chaos",
+        "slug": "us-science-is-in-chaos",
+        "author": "presspot",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 09:54:21 +0000",
+        "description": "Article URL: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/ Comments URL: https://news.ycombinator.com/i...",
+        "keywords": "science, article, url, https, com, comments, chaos, www",
+        "generated": "2026-06-17T11:07:27.898486",
+        "file": "us-science-is-in-chaos.md"
+    },
+    {
         "title": "Wiring Up DeepSeek in Next.js: A Bootcamp Grad's Story",
         "slug": "wiring-up-deepseek-in-nextjs-a-bootcamp-grads-story",
         "author": "rarenode",
@@ -2640,6 +2695,17 @@
         "file": "singlespa-works-import-maps-dont-manage-themselves.md"
     },
     {
+        "title": "Show HN: High-Res Neural Cellular Automata",
+        "slug": "show-hn-high-res-neural-cellular-automata",
+        "author": "esychology",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 09:28:36 +0000",
+        "description": "Neural CAs model self-organizing pattern formation. Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neur...",
+        "keywords": "neural, pattern, can, textures, comments, show, high, res",
+        "generated": "2026-06-17T11:07:27.898655",
+        "file": "show-hn-high-res-neural-cellular-automata.md"
+    },
+    {
         "title": "Kubernetes network policies: implementing zero-trust networking in your cluster",
         "slug": "kubernetes-network-policies-implementing-zero-trust-networking-in-your-cluster",
         "author": "Rizwan Saleem",
@@ -2759,6 +2825,17 @@
         "keywords": "not, browser, you, html, challenge, proxy, proxies, page",
         "generated": "2026-06-10T10:13:09.116585",
         "file": "why-cloudflare-breaks-proxy-only-scrapers.md"
+    },
+    {
+        "title": "I Lost a Weekend to CORS Errors — Here's the Data-Backed Fix",
+        "slug": "i-lost-a-weekend-to-cors-errors-heres-the-data-backed-fix",
+        "author": "bolddeck",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 10:27:01 +0000",
+        "description": "I Lost a Weekend to CORS Errors — Here's the Data-Backed Fix Last Saturday at 2 AM, I was staring at a browser console that kept throwing the same error over...",
+        "keywords": "cors, api, cache, data, model, browser, but, time",
+        "generated": "2026-06-17T11:07:27.901656",
+        "file": "i-lost-a-weekend-to-cors-errors-heres-the-data-backed-fix.md"
     },
     {
         "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
@@ -3773,6 +3850,17 @@
         "file": "reviews-have-become-expensive-rewrites-have-become-cheap.md"
     },
     {
+        "title": "Soft Skills in the AI Era: The Power of Human-in-the-Loop Learning",
+        "slug": "soft-skills-in-the-ai-era-the-power-of-human-in-the-loop-learning",
+        "author": "Poddar Group of Institutions",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 11:01:00 +0000",
+        "description": "As we navigate through 2026, the technological landscape has shifted from simple automation to complex, autonomous agents. In this era of Multi-Agent AI Syst...",
+        "keywords": "skills, students, jaipur, human, college, soft, can, learning",
+        "generated": "2026-06-17T11:07:27.904517",
+        "file": "soft-skills-in-the-ai-era-the-power-of-human-in-the-loop-learning.md"
+    },
+    {
         "title": "Oreste AI: il mio progetto di assistente intelligente con OS, Storybook e voce",
         "slug": "oreste-ai-il-mio-progetto-di-assistente-intelligente-con-os-storybook-e-voce",
         "author": "Oreste AI Team",
@@ -3903,6 +3991,17 @@
         "keywords": "nordstjernen, web, url, https, com, comments, browser, released",
         "generated": "2026-06-06T04:00:30.105458",
         "file": "nordstjernen-web-browser-100-released.md"
+    },
+    {
+        "title": "How to use build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+        "slug": "how-to-use-build-your-own-x-master-programming-by-recreating-your-favorite-technologies-from-scratch",
+        "author": "Kelvin Kariuki",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 11:05:37 +0000",
+        "description": "How many times have you used a library, framework, or tool without truly understanding how it works under the hood? What if I told you there's a secret super...",
+        "keywords": "you, your, how, build, building, use, own, what",
+        "generated": "2026-06-17T11:07:27.903269",
+        "file": "how-to-use-build-your-own-x-master-programming-by-recreating-your-favorite-technologies-from-scratch.md"
     },
     {
         "title": "How I Cut AI Finance Forecasting Costs 65% — The Complete Breakdown",
@@ -5929,6 +6028,17 @@
         "file": "how-did-atari-apply-side-art-to-arcade-cabinets.md"
     },
     {
+        "title": "My 90-Day Affiliate Lab: What Happens When a Course Creator Teaches the Tools She Already Uses",
+        "slug": "my-90-day-affiliate-lab-what-happens-when-a-course-creator-teaches-the-tools-she-already-uses",
+        "author": "true",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 10:54:00 +0000",
+        "description": "I run a small online school where I teach working developers how to ship AI-powered products without falling for the hype. My course platform has around 1,20...",
+        "keywords": "you, month, one, affiliate, first, every, step, not",
+        "generated": "2026-06-17T11:07:27.906060",
+        "file": "my-90-day-affiliate-lab-what-happens-when-a-course-creator-teaches-the-tools-she-already-uses.md"
+    },
+    {
         "title": "Age verification tech could put children at greater risk, says think tank",
         "slug": "age-verification-tech-could-put-children-at-greater-risk-says-think-tank",
         "author": "robtherobber",
@@ -6015,6 +6125,17 @@
         "keywords": "self, immutable, class, dataclass, name, methods, custom, hash",
         "generated": "2026-06-12T04:40:33.066968",
         "file": "mastering-dunder-methods-for-immutable-data-classes.md"
+    },
+    {
+        "title": "Medallion Architecture in Databricks: A Complete Implementation Guide",
+        "slug": "medallion-architecture-in-databricks-a-complete-implementation-guide",
+        "author": "Thesius Code",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 10:45:27 +0000",
+        "description": "The Medallion Architecture has become the de facto standard for organizing data in a lakehouse. If you've worked with Databricks, Delta Lake, or any modern d...",
+        "keywords": "self, silver, spark, bronze, schema, gold, data, dataframe",
+        "generated": "2026-06-17T11:07:27.900030",
+        "file": "medallion-architecture-in-databricks-a-complete-implementation-guide.md"
     },
     {
         "title": "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
@@ -6776,6 +6897,17 @@
         "file": "agent-mistakes-dont-fail-alone-they-compound.md"
     },
     {
+        "title": "Free AI APIs with no credit card required — complete 2026 guide",
+        "slug": "free-ai-apis-with-no-credit-card-required-complete-2026-guide",
+        "author": "Kelvin Kariuki",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 11:04:00 +0000",
+        "description": "Free AI APIs with no credit card required — complete 2026 guide Tired of hitting paywalls or whipping out your credit card just to try the latest AI tech? Wh...",
+        "keywords": "free, apis, credit, card, guide, required, complete, just",
+        "generated": "2026-06-17T11:07:27.904107",
+        "file": "free-ai-apis-with-no-credit-card-required-complete-2026-guide.md"
+    },
+    {
         "title": "7 Best Platforms To Buy Verified Gmail Accounts (Aged or ...",
         "slug": "7-best-platforms-to-buy-verified-gmail-accounts-aged-or",
         "author": "Michel Scott",
@@ -7117,6 +7249,17 @@
         "file": "anthropic-please-ship-an-official-claude-desktop-for-linux.md"
     },
     {
+        "title": "Python Selenium Architecture and Significance of Python Virtual Environment",
+        "slug": "python-selenium-architecture-and-significance-of-python-virtual-environment",
+        "author": "javed shaikh",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 10:30:47 +0000",
+        "description": "Introduction Python and Selenium are widely used for automation testing. Selenium helps automate web browsers, while Python makes writing automation scripts ...",
+        "keywords": "selenium, python, browser, project, virtual, environment, webdriver, architecture",
+        "generated": "2026-06-17T11:07:27.901041",
+        "file": "python-selenium-architecture-and-significance-of-python-virtual-environment.md"
+    },
+    {
         "title": "Leni",
         "slug": "leni",
         "author": "tech_minimalist",
@@ -7425,6 +7568,28 @@
         "file": "i-built-a-link-preview-api-on-cloudflare-workers-and-learned-kv-is-not-a-counter.md"
     },
     {
+        "title": "I Wish I Fixed Streaming Disconnects Sooner — Full Breakdown",
+        "slug": "i-wish-i-fixed-streaming-disconnects-sooner-full-breakdown",
+        "author": "swift",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 10:13:48 +0000",
+        "description": "I Wish I Fixed Streaming Disconnects Sooner — Full Breakdown Last March, a client called me in a panic. Their chatbot was dropping mid-sentence during peak h...",
+        "keywords": "you, client, model, streaming, models, production, deepseek, content",
+        "generated": "2026-06-17T11:07:27.902435",
+        "file": "i-wish-i-fixed-streaming-disconnects-sooner-full-breakdown.md"
+    },
+    {
+        "title": "The Best Free Midjourney Alternatives in 2026",
+        "slug": "the-best-free-midjourney-alternatives-in-2026",
+        "author": "Auke de Haan",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 10:56:32 +0000",
+        "description": "Midjourney remains a benchmark for AI image quality, but the $10/month subscription puts it out of reach for casual creators and beginners. The good news: th...",
+        "keywords": "free, midjourney, image, quality, but, here, tools, text",
+        "generated": "2026-06-17T11:07:27.905354",
+        "file": "the-best-free-midjourney-alternatives-in-2026.md"
+    },
+    {
         "title": "The Factory Robot That Doesn’t Specialize — Korea’s Hidden Edge",
         "slug": "the-factory-robot-that-doesnt-specialize-koreas-hidden-edge",
         "author": "lifes koreaplus",
@@ -7610,6 +7775,17 @@
         "keywords": "comments, replies, llms, eroding, career, post, url, https",
         "generated": "2026-06-08T11:08:35.049710",
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
+    },
+    {
+        "title": "Best Red Hat Certification Training in Delhi — Now at Summer Discount Prices",
+        "slug": "best-red-hat-certification-training-in-delhi-now-at-summer-discount-prices",
+        "author": "Rahul",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 10:51:40 +0000",
+        "description": "Linux and Red Hat certifications continue to be among the most valuable credentials for IT professionals in 2026. Whether you are a beginner looking to start...",
+        "keywords": "red, hat, offer, training, summer, openshift, price, linux",
+        "generated": "2026-06-17T11:07:27.906617",
+        "file": "best-red-hat-certification-training-in-delhi-now-at-summer-discount-prices.md"
     },
     {
         "title": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction...",
@@ -8173,6 +8349,17 @@
         "file": "buy-verified-paypal-accounts-with-satisfaction-guarantee.md"
     },
     {
+        "title": "Most of the CVE-2026-4020 attackers are the same client",
+        "slug": "most-of-the-cve-2026-4020-attackers-are-the-same-client",
+        "author": "Robbedoes",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 08:47:14 +0000",
+        "description": "Article URL: https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020 Comments URL: https://news.ycombinator.com/item?id=48567574 Points: 4 # Comments: 0",
+        "keywords": "cve, url, https, comments, most, attackers, same, client",
+        "generated": "2026-06-17T11:07:27.898984",
+        "file": "most-of-the-cve-2026-4020-attackers-are-the-same-client.md"
+    },
+    {
         "title": "A backdoor in a LinkedIn job offer",
         "slug": "a-backdoor-in-a-linkedin-job-offer",
         "author": "lwhsiao",
@@ -8512,6 +8699,17 @@
         "keywords": "you, what, work, technical, day, something, but, one",
         "generated": "2026-06-05T20:02:11.240778",
         "file": "the-non-technical-skills-that-made-me-a-better-developer.md"
+    },
+    {
+        "title": "How Can WhatsApp Messages Be Auto-Replied?",
+        "slug": "how-can-whatsapp-messages-be-auto-replied",
+        "author": "Husnex",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 10:52:06 +0000",
+        "description": "Customers expect quick responses, but manually replying to every WhatsApp message can become overwhelming as conversations grow. Auto-replies help businesses...",
+        "keywords": "can, whatsapp, customers, businesses, conversations, replies, customer, how",
+        "generated": "2026-06-17T11:07:27.906242",
+        "file": "how-can-whatsapp-messages-be-auto-replied.md"
     },
     {
         "title": "5 JSON Errors That Break APIs (And How to Fix Them)",
@@ -8897,6 +9095,17 @@
         "keywords": "sunny, health, fitness, mini, steppers, exercise, home, stair",
         "generated": "2026-06-10T10:13:09.118288",
         "file": "sunny-health-fitness.md"
+    },
+    {
+        "title": "KPMG's AI Report Withdrawal: Analyzing the Implica…",
+        "slug": "kpmgs-ai-report-withdrawal-analyzing-the-implica",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 11:05:56 +0000",
+        "description": "Originally published at norvik.tech Introduction Deep dive into KPMG's decision to withdraw its AI report, exploring technical aspects, implications for web ...",
+        "keywords": "data, models, kpmg, hallucinations, can, these, las, outputs",
+        "generated": "2026-06-17T11:07:27.902952",
+        "file": "kpmgs-ai-report-withdrawal-analyzing-the-implica.md"
     },
     {
         "title": "I Posted 50 Times a Day to Launch My SaaS — Here's What Actually Worked",
@@ -9425,6 +9634,17 @@
         "keywords": "design, claude, more, than, figma, now, url, https",
         "generated": "2026-06-07T09:24:56.815775",
         "file": "i-design-with-claude-more-than-figma-now.md"
+    },
+    {
+        "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+        "slug": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
+        "author": "himata4113",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 09:12:00 +0000",
+        "description": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL:...",
+        "keywords": "glm, new, leading, open, weights, model, artificial, analysis",
+        "generated": "2026-06-17T11:07:27.898784",
+        "file": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md"
     },
     {
         "title": "Teaching AI Like a Junior Dev: 4 Leadership 4.0 Moves",
