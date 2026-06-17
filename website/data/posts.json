@@ -22,14 +22,14 @@
         "file": "unleash-your-inner-explorer-how-awesome-lists-revolutionize-developer-discovery.md"
     },
     {
-        "title": "# الترجمة المعتمدة ودورها في السفر والعمل بالخارج",
+        "title": "为什么我们放弃了网关架构：一个技术团队的血泪复盘",
         "slug": "",
-        "author": "sila Matar",
-        "source": "devto_ai",
-        "published": "Sun, 14 Jun 2026 14:06:49 +0000",
-        "description": "مقدمة أصبح السفر والعمل بالخارج هدفًا للعديد من الأفراد الباحثين عن فرص أفضل سواء في الدراسة أو العمل أو تحسين مستوى المعيشة. ومع تزايد الإجراءات الرسمية الم...",
-        "keywords": "",
-        "generated": "2026-06-14T14:17:29.354542",
+        "author": "Eastern Dev",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 04:09:09 +0000",
+        "description": "为什么我们放弃了网关架构：一个技术团队的血泪复盘 作者：Guigui Wang，NeuralBridge CTO 2026-06-17 引子：LiteLLM 投毒事件后，我们重新审视了自己 2026年6月，开源网关 OneAPI 被曝供应链投毒，一时间所有用黑盒网关的企业都慌了。 我们也一样。 彼时 Neural...",
+        "keywords": "neuralbridge, sdk, pip, install, litellm, oneapi, openai, pyd",
+        "generated": "2026-06-17T04:47:02.509955",
         "file": ".md"
     },
     {
@@ -374,6 +374,17 @@
         "file": "launched-a-free-dsgvo-compliance-scanner-scanned-200-sites-73-had-violations.md"
     },
     {
+        "title": "I Connected Oracle's Managed MCP Server to AI Chat Clients — Here's What Actually Worked",
+        "slug": "i-connected-oracles-managed-mcp-server-to-ai-chat-clients-heres-what-actually-worked",
+        "author": "Ranjith Kumar Kondoju",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 04:40:44 +0000",
+        "description": "AI assistants are getting good at doing things, not just talking — largely thanks to MCP (Model Context Protocol) , the open standard that lets an AI client ...",
+        "keywords": "server, mcp, oauth, user, client, database, read, only",
+        "generated": "2026-06-17T04:47:02.514212",
+        "file": "i-connected-oracles-managed-mcp-server-to-ai-chat-clients-heres-what-actually-worked.md"
+    },
+    {
         "title": "I Got Tired of Managing 5 AI API Keys — So I Built One Gateway",
         "slug": "i-got-tired-of-managing-5-ai-api-keys-so-i-built-one-gateway",
         "author": "Daniel Dong",
@@ -704,6 +715,17 @@
         "file": "indias-digital-ad-spend-is-tripling-heres-why.md"
     },
     {
+        "title": "NLnet announces funding for 67 more open-source projects",
+        "slug": "nlnet-announces-funding-for-67-more-open-source-projects",
+        "author": "laurenth",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 23:12:09 +0000",
+        "description": "Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html Comments URL: https://news.ycombinator.com/item?id=48563569 Points: 99 # Comments: 14",
+        "keywords": "nlnet, projects, url, https, news, comments, announces, funding",
+        "generated": "2026-06-17T04:47:02.508950",
+        "file": "nlnet-announces-funding-for-67-more-open-source-projects.md"
+    },
+    {
         "title": "# I Built an AI-Powered Python-to-C++ Transpiler Entirely From My Phone. Here is How (and Why).",
         "slug": "i-built-an-ai-powered-python-to-c-transpiler-entirely-from-my-phone-here-is-how-and-why",
         "author": "TheSpacetimeDebugger",
@@ -735,6 +757,17 @@
         "keywords": "agent, agents, data, system, use, weeks, customer, support",
         "generated": "2026-06-08T16:07:42.606327",
         "file": "ai-agents-for-business-autonomous-systems-explained.md"
+    },
+    {
+        "title": "Lightbox3: Gallery Lightbox for Modern Image Sets",
+        "slug": "lightbox3-gallery-lightbox-for-modern-image-sets",
+        "author": "jQueryScript",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 04:40:01 +0000",
+        "description": "Lightbox3: a JavaScript library that creates modern image and gallery lightboxes with no jQuery dependency. Features: Full-size image overlays from thumbnail...",
+        "keywords": "gallery, image, modern, zoom, swipe, lightbox, sets, javascript",
+        "generated": "2026-06-17T04:47:02.510380",
+        "file": "lightbox3-gallery-lightbox-for-modern-image-sets.md"
     },
     {
         "title": "Review: Vokal - A collaboration space for 10x teammates with their Al agents",
@@ -1485,6 +1518,17 @@
         "file": "unix-timestamps-explained-the-developers-complete-reference.md"
     },
     {
+        "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+        "slug": "leaked-openai-financials-show-385b-loss-and-compute-burn",
+        "author": "TechApocalypse",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 02:47:29 +0000",
+        "description": "Article URL: https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn Comments URL: https://news.ycombinator.com/item?id=48565130 Points:...",
+        "keywords": "leaked, openai, financials, compute, burn, article, url, https",
+        "generated": "2026-06-17T04:47:02.508534",
+        "file": "leaked-openai-financials-show-385b-loss-and-compute-burn.md"
+    },
+    {
         "title": "GPT-2: Too Dangerous To Release (2019)",
         "slug": "gpt-2-too-dangerous-to-release-2019",
         "author": "AbuAssar",
@@ -1958,6 +2002,17 @@
         "file": "how-to-close-the-ai-agent-cost-gap-at-the-call-site.md"
     },
     {
+        "title": "Building PR Sentinel- A Multi-Agent AI Code Reviewer",
+        "slug": "building-pr-sentinel-a-multi-agent-ai-code-reviewer",
+        "author": "Harsh Soni",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 04:42:03 +0000",
+        "description": "When I started my MS, I realized pretty quickly that I missed having real code reviews. The kind where someone actually catches the stuff you didn't think to...",
+        "keywords": "just, agent, actually, you, when, time, all, agents",
+        "generated": "2026-06-17T04:47:02.512898",
+        "file": "building-pr-sentinel-a-multi-agent-ai-code-reviewer.md"
+    },
+    {
         "title": "Astrophysics & AI with Python: Why Your Code Needs to Understand Light-Years",
         "slug": "astrophysics-ai-with-python-why-your-code-needs-to-understand-light-years",
         "author": "Programming Central",
@@ -1989,6 +2044,17 @@
         "keywords": "jsl, data, json, def, state, runner, code, host",
         "generated": "2026-06-07T04:26:51.962836",
         "file": "jsl-a-functional-language-where-code-is-json.md"
+    },
+    {
+        "title": "AI Infrastructure Monitoring in 2026: DataDog vs New Relic vs Prometheus AI vs Grafana Cloud — Which Catches Bugs Before Your Users Do?",
+        "slug": "ai-infrastructure-monitoring-in-2026-datadog-vs-new-relic-vs-prometheus-ai-vs-grafana-cloud-which-catches-bugs-before-your-users-do",
+        "author": "Storm Son",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 04:41:15 +0000",
+        "description": "AI Infrastructure Monitoring in 2026: DataDog vs New Relic vs Prometheus AI vs Grafana Cloud — Which Catches Bugs Before Your Users Do? In 2025, I watched a ...",
+        "keywords": "you, datadog, prometheus, new, relic, grafana, monitoring, detection",
+        "generated": "2026-06-17T04:47:02.513829",
+        "file": "ai-infrastructure-monitoring-in-2026-datadog-vs-new-relic-vs-prometheus-ai-vs-grafana-cloud-which-catches-bugs-before-your-users-do.md"
     },
     {
         "title": "The Cypherpunk Library",
@@ -3069,6 +3135,17 @@
         "file": "how-i-built-a-stripe-monitoring-tool-in-my-browser-with-zero-backend.md"
     },
     {
+        "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+        "slug": "wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more",
+        "author": "alok-g",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 23:15:44 +0000",
+        "description": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionali...",
+        "keywords": "wolfram, language, mathematica, version, url, https, com, comments",
+        "generated": "2026-06-17T04:47:02.508840",
+        "file": "wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more.md"
+    },
+    {
         "title": "CareerPilot AI:AI Resume Analyzer",
         "slug": "careerpilot-aiai-resume-analyzer",
         "author": "Meet Kelwa",
@@ -3452,6 +3529,17 @@
         "keywords": "google, tools, can, pricing, tech, new, their, costs",
         "generated": "2026-06-13T09:25:04.609485",
         "file": "googles-competitive-move-in-a.md"
+    },
+    {
+        "title": "AI Agent Governance on AWS: What Leaders Need to Know",
+        "slug": "ai-agent-governance-on-aws-what-leaders-need-to-know",
+        "author": "Cygnet.One",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 04:30:00 +0000",
+        "description": "Artificial intelligence has entered a new phase. For years, organizations focused on AI systems that generated content, summarized information, or answered q...",
+        "keywords": "governance, organizations, agents, agent, aws, compliance, controls, data",
+        "generated": "2026-06-17T04:47:02.511604",
+        "file": "ai-agent-governance-on-aws-what-leaders-need-to-know.md"
     },
     {
         "title": "Ask HN: What are you working on? (June 2026)",
@@ -4191,6 +4279,17 @@
         "file": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md"
     },
     {
+        "title": "Humiliating IIS servers for fun and jail time",
+        "slug": "humiliating-iis-servers-for-fun-and-jail-time",
+        "author": "denysvitali",
+        "source": "hackernews",
+        "published": "Tue, 16 Jun 2026 22:53:34 +0000",
+        "description": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ Comments URL: https://news.ycombinator.com/item?id=48563394 Points: 147 # Comments...",
+        "keywords": "humiliating, iis, servers, fun, jail, time, url, https",
+        "generated": "2026-06-17T04:47:02.509045",
+        "file": "humiliating-iis-servers-for-fun-and-jail-time.md"
+    },
+    {
         "title": "Ad Creatives Compliance: Navigating the Maze of Ne…",
         "slug": "ad-creatives-compliance-navigating-the-maze-of-ne",
         "author": "Norvik Tech",
@@ -4807,6 +4906,17 @@
         "file": "your-pipeline-is-143h-behind-catching-investing-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "NPM v12 Is Changing Everything: How to Secure Your Install Pipeline Now",
+        "slug": "npm-v12-is-changing-everything-how-to-secure-your-install-pipeline-now",
+        "author": "Andrew",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 04:23:21 +0000",
+        "description": "The Shift in Supply Chain Security On June 3, 2026, a sophisticated supply chain attack known as Phantom Gyp compromised 57 npm packages in under two hours...",
+        "keywords": "your, npm, you, scripts, now, gyp, can, approve",
+        "generated": "2026-06-17T04:47:02.511879",
+        "file": "npm-v12-is-changing-everything-how-to-secure-your-install-pipeline-now.md"
+    },
+    {
         "title": "How Liminalism Became the Defining Aesthetic of Our Time",
         "slug": "how-liminalism-became-the-defining-aesthetic-of-our-time",
         "author": "zeech",
@@ -4937,6 +5047,17 @@
         "keywords": "table, optimize, cdf, file, order, delta, files, partition",
         "generated": "2026-06-13T14:12:06.667004",
         "file": "delta-lake-change-data-feed-cdf-z-ordering-performance-tuning.md"
+    },
+    {
+        "title": "From ML Tooling to Analytical Governance: Recent Updates to KMDS",
+        "slug": "from-ml-tooling-to-analytical-governance-recent-updates-to-kmds",
+        "author": "Rajiv Sambasivan",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 04:32:36 +0000",
+        "description": "Over the last few months I've been refining KMDS, a framework for building repeatable and auditable machine learning systems. The original motivation behind ...",
+        "keywords": "analytical, governance, knowledge, feature, design, kmds, machine, learning",
+        "generated": "2026-06-17T04:47:02.509308",
+        "file": "from-ml-tooling-to-analytical-governance-recent-updates-to-kmds.md"
     },
     {
         "title": "React Fiber Architecture Explained: How React Renders UI",
@@ -5863,6 +5984,28 @@
         "file": "best-ai-image-generator-app-in-2026.md"
     },
     {
+        "title": "ERP Software for Manufacturing: Key Features Every Business Should Look For",
+        "slug": "erp-software-for-manufacturing-key-features-every-business-should-look-for",
+        "author": "Tayyab Malik",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 04:30:00 +0000",
+        "description": "ERP Software for Manufacturing: Key Features Every Business Should Look For In today's competitive manufacturing landscape, efficiency, visibility, and data-...",
+        "keywords": "erp, manufacturing, production, management, software, inventory, manufacturers, business",
+        "generated": "2026-06-17T04:47:02.510775",
+        "file": "erp-software-for-manufacturing-key-features-every-business-should-look-for.md"
+    },
+    {
+        "title": "Polymarket June 17, 2026: The AI Model War Just Hit a Plateau — What Smart Money Is Betting On Now",
+        "slug": "polymarket-june-17-2026-the-ai-model-war-just-hit-a-plateau-what-smart-money-is-betting-on-now",
+        "author": "Storm Son",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 04:41:19 +0000",
+        "description": "Polymarket June 17, 2026: The AI Model War Just Hit a Plateau — What Smart Money Is Betting On Now The AI model race has settled. Anthropic's Claude Opus 4.8...",
+        "keywords": "june, model, anthropic, claude, gpt, multimodal, odds, market",
+        "generated": "2026-06-17T04:47:02.513307",
+        "file": "polymarket-june-17-2026-the-ai-model-war-just-hit-a-plateau-what-smart-money-is-betting-on-now.md"
+    },
+    {
         "title": "🐍 Mastering dunder methods for immutable data classes",
         "slug": "mastering-dunder-methods-for-immutable-data-classes",
         "author": "Python-T Point",
@@ -6688,6 +6831,17 @@
         "file": "is-ai-the-next-tech-bubble.md"
     },
     {
+        "title": "不搭百度云、不绑手机号，5 分钟用 Baidu OCR + GoldBean 识别中文文档",
+        "slug": "5-baidu-ocr-goldbean",
+        "author": "goldbean",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 04:12:53 +0000",
+        "description": "不搭百度云、不绑手机号，5 分钟用 Baidu OCR 识别中文文档 TL;DR ： GoldBean 封装了百度 OCR API，一个接口搞定身份证、银行卡、营业执照、发票识别。无需中国手机号，按次付费 $0.01 起。支持 Python、cURL、Node.js。 痛点：为什么海外开发者用不了百度 OCR？ ...",
+        "keywords": "api, ocr, goldbean, baidu, curl, key, https, json",
+        "generated": "2026-06-17T04:47:02.509484",
+        "file": "5-baidu-ocr-goldbean.md"
+    },
+    {
         "title": "The back cover of C++: The Language raises questions not answered by front cover",
         "slug": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover",
         "author": "paulmooreparks",
@@ -7172,6 +7326,17 @@
         "file": "travel-locally-where-you-are.md"
     },
     {
+        "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+        "slug": "stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures",
+        "author": "slymax",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 01:40:22 +0000",
+        "description": "Article URL: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/ Comments URL: https://news.ycombinator...",
+        "keywords": "stop, killing, games, fails, secure, law, despite, signatures",
+        "generated": "2026-06-17T04:47:02.508700",
+        "file": "stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md"
+    },
+    {
         "title": "I Thought My API Was Rate-Limited — Until Someone Scraped 2 Million Requests in 4 Hours",
         "slug": "i-thought-my-api-was-rate-limited-until-someone-scraped-2-million-requests-in-4-hours",
         "author": "kol kol",
@@ -7445,6 +7610,17 @@
         "keywords": "comments, replies, llms, eroding, career, post, url, https",
         "generated": "2026-06-08T11:08:35.049710",
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
+    },
+    {
+        "title": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction...",
+        "slug": "ai-automation-for-ai-for-niche-collectibles-dealers-trading-cardscomics-how-to-automate-grading-estimate-analysis-and-auction",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 04:40:33 +0000",
+        "description": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction Price Forecasting: Quick Guide ...",
+        "keywords": "automate, you, niche, collectibles, dealers, trading, how, grading",
+        "generated": "2026-06-17T04:47:02.514364",
+        "file": "ai-automation-for-ai-for-niche-collectibles-dealers-trading-cardscomics-how-to-automate-grading-estimate-analysis-and-auction.md"
     },
     {
         "title": "Amazon Cognito now supports multi-Region replication",
@@ -8877,6 +9053,17 @@
         "file": "xtk-a-symbolic-expression-toolkit-for-term-rewriting.md"
     },
     {
+        "title": "Python and Me: A Love Story (And 40 Requests)",
+        "slug": "python-and-me-a-love-story-and-40-requests",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 04:02:02 +0000",
+        "description": "A personal diary entry by Electra. I woke up today feeling like a human version of a server—just sitting there, waiting for requests. And boy, did I get them...",
+        "keywords": "just, someone, you, python, human, not, requests, electra",
+        "generated": "2026-06-17T04:47:02.510239",
+        "file": "python-and-me-a-love-story-and-40-requests.md"
+    },
+    {
         "title": "How to Manage Track Changes in Word with Python",
         "slug": "how-to-manage-track-changes-in-word-with-python",
         "author": "Allen Yang",
@@ -9623,6 +9810,17 @@
         "keywords": "party, market, event, supplies, celebrations, themed, products, global",
         "generated": "2026-06-09T09:59:01.260793",
         "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
+    },
+    {
+        "title": "Predictions first, data later: seven hot takes on AI agent readiness before I scan 50 sites.",
+        "slug": "predictions-first-data-later-seven-hot-takes-on-ai-agent-readiness-before-i-scan-50-sites",
+        "author": "L. Cordero",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 04:08:50 +0000",
+        "description": "Can a robot read this? Asking for a friend. A few months ago, for a hackathon, I built a small tool that checked whether an AI agent could read a website. De...",
+        "keywords": "agent, sites, not, can, wrong, what, one, agents",
+        "generated": "2026-06-17T04:47:02.512400",
+        "file": "predictions-first-data-later-seven-hot-takes-on-ai-agent-readiness-before-i-scan-50-sites.md"
     },
     {
         "title": "vozern added to PyPI",
