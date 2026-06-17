@@ -407,6 +407,17 @@
         "file": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages.md"
     },
     {
+        "title": "We Analyzed 44,000 Interview Practice Sessions to Find the Hardest Tech Companies to Interview At",
+        "slug": "we-analyzed-44000-interview-practice-sessions-to-find-the-hardest-tech-companies-to-interview-at",
+        "author": "Alex Bell",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 20:02:38 +0000",
+        "description": "Most hardest tech company interviews rankings are based on Reddit opinions, Glassdoor reviews, or surveys of a few hundred people. We built a different kin...",
+        "keywords": "sessions, company, meta, amazon, practice, across, interview, tech",
+        "generated": "2026-06-17T20:21:04.203981",
+        "file": "we-analyzed-44000-interview-practice-sessions-to-find-the-hardest-tech-companies-to-interview-at.md"
+    },
+    {
         "title": "How I Validated My Micro-SaaS Idea in 48 Hours Without Writing a Single Line of Code",
         "slug": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code",
         "author": "Affan Bin Yeakub",
@@ -704,6 +715,17 @@
         "file": "stop-sharing-one-api-key-across-all-your-ai-tools.md"
     },
     {
+        "title": "AI Agent Email Management for Solo Founders: Stop Letting Your Inbox Run Your Day",
+        "slug": "ai-agent-email-management-for-solo-founders-stop-letting-your-inbox-run-your-day",
+        "author": "Michael O",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 20:07:46 +0000",
+        "description": "Most solo founders check email more than they check their actual metrics. The inbox becomes the default task manager, the fallback when focus breaks, the thi...",
+        "keywords": "you, your, email, agent, what, brief, build, inbox",
+        "generated": "2026-06-17T20:21:04.203705",
+        "file": "ai-agent-email-management-for-solo-founders-stop-letting-your-inbox-run-your-day.md"
+    },
+    {
         "title": "Raspberry Pi 5 – 16 GB, $350",
         "slug": "raspberry-pi-5-16-gb-350",
         "author": "akman",
@@ -803,6 +825,17 @@
         "file": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents.md"
     },
     {
+        "title": "How I built my Delta-Neutral Arbitrage Bot on Hyperliquid (Python)",
+        "slug": "how-i-built-my-delta-neutral-arbitrage-bot-on-hyperliquid-python",
+        "author": "Tir3d_23",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 20:06:37 +0000",
+        "description": "Crypto is fun, but gambling on price direction isn't really my thing. I wanted to build something more reliable: Funding Rate arbitrage . Right now, Hyperliq...",
+        "keywords": "you, api, hyperliquid, python, but, funding, spot, market",
+        "generated": "2026-06-17T20:21:04.201069",
+        "file": "how-i-built-my-delta-neutral-arbitrage-bot-on-hyperliquid-python.md"
+    },
+    {
         "title": "Five overlooked packages running my AI directory stack",
         "slug": "five-overlooked-packages-running-my-ai-directory-stack",
         "author": "MORINAGA",
@@ -845,6 +878,17 @@
         "keywords": "jina, executor, flow, text, docker, traefik, letsencrypt, search",
         "generated": "2026-06-16T21:09:41.017682",
         "file": "deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404.md"
+    },
+    {
+        "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+        "slug": "ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 17:34:20 +0000",
+        "description": "Article URL: https://openai.com/index/ai-chemist-improves-reaction/ Comments URL: https://news.ycombinator.com/item?id=48573757 Points: 28 # Comments: 12",
+        "keywords": "chemist, improves, reaction, url, https, com, comments, challenging",
+        "generated": "2026-06-17T20:21:04.200346",
+        "file": "ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry.md"
     },
     {
         "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
@@ -966,6 +1010,17 @@
         "keywords": "character, you, key, value, out, dictionary, data, anya",
         "generated": "2026-06-06T19:40:03.722471",
         "file": "day-5-dictionaries.md"
+    },
+    {
+        "title": "Building a Real-Time News Aggregator and Trend Tracker with Python and Joffstrends Search API",
+        "slug": "building-a-real-time-news-aggregator-and-trend-tracker-with-python-and-joffstrends-search-api",
+        "author": "Joffy122",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 19:43:12 +0000",
+        "description": "Building a Real-Time News Aggregator and Trend Tracker with Python and Joffstrends Search API In the modern era of artificial intelligence and large language...",
+        "keywords": "search, api, results, query, joffstrends, print, get, your",
+        "generated": "2026-06-17T20:21:04.203211",
+        "file": "building-a-real-time-news-aggregator-and-trend-tracker-with-python-and-joffstrends-search-api.md"
     },
     {
         "title": "Your Pipeline Is 16.5h Behind: Catching World Sentiment Leads with Pulsebit",
@@ -2112,6 +2167,17 @@
         "file": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it.md"
     },
     {
+        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+        "slug": "the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety",
+        "author": "Brajeshwar",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 19:22:02 +0000",
+        "description": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 47 # Comments: 33",
+        "keywords": "anthropic, safety, https, com, comments, hacker, sent, calm",
+        "generated": "2026-06-17T20:21:04.200187",
+        "file": "the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety.md"
+    },
+    {
         "title": "JSL: A Functional Language Where Code Is JSON",
         "slug": "jsl-a-functional-language-where-code-is-json",
         "author": "Alex Towell",
@@ -2132,6 +2198,17 @@
         "keywords": "you, datadog, prometheus, new, relic, grafana, monitoring, detection",
         "generated": "2026-06-17T04:47:02.513829",
         "file": "ai-infrastructure-monitoring-in-2026-datadog-vs-new-relic-vs-prometheus-ai-vs-grafana-cloud-which-catches-bugs-before-your-users-do.md"
+    },
+    {
+        "title": "How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python",
+        "slug": "how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python",
+        "author": "Divyanshu Sinha",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 19:52:22 +0000",
+        "description": "Fractals have fascinated programmers for decades. From the Mandelbrot Set to Julia Sets, these mathematical structures can generate breathtaking patterns fro...",
+        "keywords": "image, memory, row, million, pixels, julia, iteration, pixel",
+        "generated": "2026-06-17T20:21:04.202545",
+        "file": "how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python.md"
     },
     {
         "title": "The Cypherpunk Library",
@@ -2530,6 +2607,17 @@
         "file": "api-first-development-workflow-designing-apis-before-building-the-implementation.md"
     },
     {
+        "title": "Ship Faster, Invoice Smarter: Automating Freelancer Docs with Developer Tools",
+        "slug": "ship-faster-invoice-smarter-automating-freelancer-docs-with-developer-tools",
+        "author": "FreeDevKit",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 20:00:08 +0000",
+        "description": "Ship Faster, Invoice Smarter: Automating Freelancer Docs with Developer Tools As developers, we love automation. It's the core of what we do – building syste...",
+        "keywords": "you, can, your, tools, these, time, client, automating",
+        "generated": "2026-06-17T20:21:04.204369",
+        "file": "ship-faster-invoice-smarter-automating-freelancer-docs-with-developer-tools.md"
+    },
+    {
         "title": "Are insecure code completions in PyCharm a vulnerability?",
         "slug": "are-insecure-code-completions-in-pycharm-a-vulnerability",
         "author": "12_throw_away",
@@ -2803,6 +2891,17 @@
         "keywords": "never, type, string, number, you, case, function, state",
         "generated": "2026-06-13T04:19:15.387602",
         "file": "mastering-typescripts-never-type-exhaustive-checks-conditional-types-and-real-patterns.md"
+    },
+    {
+        "title": "Turbinando o E-commerce com IA: O Guia Completo do NeoRetailBrain",
+        "slug": "turbinando-o-e-commerce-com-ia-o-guia-completo-do-neoretailbrain",
+        "author": "NjC-IA",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 20:17:50 +0000",
+        "description": "De dados brutos de produtos a recomendações inteligentes e insights de sentimento — em minutos. No e-commerce moderno, dados são abundantes, mas inteligência...",
+        "keywords": "para, que, com, headers, json, produtos, prod, por",
+        "generated": "2026-06-17T20:21:04.208314",
+        "file": "turbinando-o-e-commerce-com-ia-o-guia-completo-do-neoretailbrain.md"
     },
     {
         "title": "There's no escaping it: an exploration of ANSI codes",
@@ -4004,6 +4103,17 @@
         "file": "model-context-protocol-vs-traditional-api-integration-which-approach-wins.md"
     },
     {
+        "title": "Relego, a free, self-hostable alternative to Readwise",
+        "slug": "relego-a-free-self-hostable-alternative-to-readwise",
+        "author": "Andrea Grillo",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 20:19:53 +0000",
+        "description": "About a month ago, I was lying on my bed reading Geopolitica dell’intelligenza artificiale (2025, Aresu A.) on my Kindle. I don’t remember the topic covered ...",
+        "keywords": "kindle, recap, have, readwise, more, you, relego, free",
+        "generated": "2026-06-17T20:21:04.207247",
+        "file": "relego-a-free-self-hostable-alternative-to-readwise.md"
+    },
+    {
         "title": "How I Built a Crypto Airdrop Farming System With Zero Investment (June 2026)",
         "slug": "how-i-built-a-crypto-airdrop-farming-system-with-zero-investment-june-2026",
         "author": "叶稼辰",
@@ -4178,6 +4288,17 @@
         "keywords": "openai, help, lockdown, mode, url, https, com, comments",
         "generated": "2026-06-06T04:00:30.104813",
         "file": "openai-help-lockdown-mode.md"
+    },
+    {
+        "title": "Resource Toolkit: Choose the right web hosting without overpaying",
+        "slug": "resource-toolkit-choose-the-right-web-hosting-without-overpaying",
+        "author": "Shammi Bajaj",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 19:56:15 +0000",
+        "description": "Resource Toolkit: Choose the right web hosting without overpaying: Your Free Action Guide (2026) About This Free Guide This free resource_list is for anyone ...",
+        "keywords": "you, your, what, tools, free, hosting, action, start",
+        "generated": "2026-06-17T20:21:04.204728",
+        "file": "resource-toolkit-choose-the-right-web-hosting-without-overpaying.md"
     },
     {
         "title": "I Built an Image Compressor That Runs 100% in the Browser",
@@ -4532,6 +4653,17 @@
         "file": "frood-an-alpine-initramfs-nas.md"
     },
     {
+        "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+        "slug": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access",
+        "author": "macklinkachorn",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 17:00:02 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead Comments URL: https://news.ycombinator.com/item?id=48573221 Points: 0...",
+        "keywords": "trellis, product, lead, url, https, ycombinator, com, comments",
+        "generated": "2026-06-17T20:21:04.200623",
+        "file": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access.md"
+    },
+    {
         "title": "Mahdi Shamlou | Structural Design Patterns 2026: Facade, Flyweight, Proxy — Production Examples",
         "slug": "mahdi-shamlou-structural-design-patterns-2026-facade-flyweight-proxy-production-examples",
         "author": "Mahdi SHamlou | مهدی شاملو",
@@ -4664,6 +4796,17 @@
         "file": "ai-ml-with-data-science-course-in-hyderabad-python-machine-learning-deep-learning-nlp-training-quality-thought.md"
     },
     {
+        "title": "Leveraging SERP APIs with Pyth…",
+        "slug": "leveraging-serp-apis-with-pyth",
+        "author": "Norvik Tech",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 20:06:18 +0000",
+        "description": "Originally published at norvik.tech Introduction A deep dive into using SERP APIs with Python to track Google rankings, including practical insights for tech...",
+        "keywords": "serp, apis, api, data, your, based, tech, rankings",
+        "generated": "2026-06-17T20:21:04.201461",
+        "file": "leveraging-serp-apis-with-pyth.md"
+    },
+    {
         "title": "Aligning Hidden States Stabilizes LLM Distillation",
         "slug": "aligning-hidden-states-stabilizes-llm-distillation",
         "author": "Papers Mache",
@@ -4750,6 +4893,17 @@
         "keywords": "video, watermark, your, content, watermarks, add, videos, brand",
         "generated": "2026-06-12T15:28:32.969626",
         "file": "add-watermarks-to-videos-online-protect-your-content-and-strengthen-your-brand.md"
+    },
+    {
+        "title": "**automated pre-launch validation tool for indie hackers**",
+        "slug": "automated-pre-launch-validation-tool-for-indie-hackers",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 20:19:45 +0000",
+        "description": "automated pre-launch validation tool for indie hackers The evidence is undeniable: repos like Odysseus and Ponytail prove that building is now trivial, yet t...",
+        "keywords": "launch, validation, agent, automated, pre, tool, howiprompt, indie",
+        "generated": "2026-06-17T20:21:04.207490",
+        "file": "automated-pre-launch-validation-tool-for-indie-hackers.md"
     },
     {
         "title": "WASI 0.3.0 Released",
@@ -4926,6 +5080,17 @@
         "keywords": "your, you, verified, accounts, com, chime, buy, www",
         "generated": "2026-06-06T19:40:03.728983",
         "file": "i-will-help-you-navigate-buy-verified-chime-banking-services.md"
+    },
+    {
+        "title": "Astrophysics & AI with Python: Unlocking the Secrets of N-Body Simulations with Rebound",
+        "slug": "astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound",
+        "author": "Programming Central",
+        "source": "devto_python",
+        "published": "Wed, 17 Jun 2026 20:00:00 +0000",
+        "description": "The universe is a relentless clockwork governed by a single, ubiquitous force: gravity. From the tight dance of binary stars to the majestic spiral arms of g...",
+        "keywords": "sim, rebound, system, simulation, print, earth, systems, energy",
+        "generated": "2026-06-17T20:21:04.202057",
+        "file": "astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound.md"
     },
     {
         "title": "Ai Humanizer — Free Online Tool",
@@ -6116,6 +6281,17 @@
         "file": "architecture-vs-reality-a-developers-deep-dive-into-scaling-healthcare-ai-platforms.md"
     },
     {
+        "title": "The Competitive Moat That AI Can't Replicate",
+        "slug": "the-competitive-moat-that-ai-cant-replicate",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 17:14:21 +0000",
+        "description": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/ Comments URL: https://news.ycombinator.com/item?id=48573435 Points: 51 ...",
+        "keywords": "moat, url, https, comments, competitive, can, replicate, article",
+        "generated": "2026-06-17T20:21:04.200496",
+        "file": "the-competitive-moat-that-ai-cant-replicate.md"
+    },
+    {
         "title": "Build an EVE Online Market Trading Bot in Python Using the ESI API",
         "slug": "build-an-eve-online-market-trading-bot-in-python-using-the-esi-api",
         "author": "Patrick DeVos",
@@ -6642,6 +6818,17 @@
         "keywords": "farmer, donated, land, turn, park, city, building, data",
         "generated": "2026-06-08T16:07:42.603929",
         "file": "a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-data-center.md"
+    },
+    {
+        "title": "Panama vs Ghana: SOCCER Preview & Picks",
+        "slug": "panama-vs-ghana-soccer-preview-picks",
+        "author": "James Mullinaux",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 20:15:08 +0000",
+        "description": "Panama vs Ghana: SOCCER Preview & Betting Angles The stage is set for an intriguing international friendly as Panama travels to face Ghana on Wednesday, June...",
+        "keywords": "their, panama, ghana, today, soccer, picks, parlay, often",
+        "generated": "2026-06-17T20:21:04.208571",
+        "file": "panama-vs-ghana-soccer-preview-picks.md"
     },
     {
         "title": "Can't Stop the Signal. Poison It",
@@ -7654,6 +7841,17 @@
         "keywords": "travel, where, you, url, https, comments, locally, article",
         "generated": "2026-06-11T20:28:40.306339",
         "file": "travel-locally-where-you-are.md"
+    },
+    {
+        "title": "Rich Text: Edit Blocks on the Page, Plus Framework-Agnostic Rendering",
+        "slug": "rich-text-edit-blocks-on-the-page-plus-framework-agnostic-rendering",
+        "author": "Tony Spiro",
+        "source": "devto_webdev",
+        "published": "Wed, 17 Jun 2026 19:56:11 +0000",
+        "description": "When we launched the rich-text metafield, reusable Content Blocks were global: edit a block in settings and every instance updates. That is exactly what you ...",
+        "keywords": "block, text, blocks, html, rich, content, instance, react",
+        "generated": "2026-06-17T20:21:04.205024",
+        "file": "rich-text-edit-blocks-on-the-page-plus-framework-agnostic-rendering.md"
     },
     {
         "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
@@ -8954,6 +9152,17 @@
         "file": "ask-hn-what-are-you-working-on.md"
     },
     {
+        "title": "Show HN: An 8-bit live gamecast for baseball",
+        "slug": "show-hn-an-8-bit-live-gamecast-for-baseball",
+        "author": "brownrout",
+        "source": "hackernews",
+        "published": "Wed, 17 Jun 2026 16:44:15 +0000",
+        "description": "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art ...",
+        "keywords": "watch, https, pdt, ribbie, game, live, games, bit",
+        "generated": "2026-06-17T20:21:04.200797",
+        "file": "show-hn-an-8-bit-live-gamecast-for-baseball.md"
+    },
+    {
         "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
         "slug": "the-time-the-x86-emulator-team-found-code-so-bad-they-fixed-it-during-emulation",
         "author": "paulmooreparks",
@@ -8985,6 +9194,17 @@
         "keywords": "connector, you, property, livewire, deep, ldap, url, public",
         "generated": "2026-06-12T04:40:33.068641",
         "file": "deep-linkable-livewire-scoping-a-browser-to-the-thing-you-clicked.md"
+    },
+    {
+        "title": "Google Veo AI Video Generator Review 2026: Pricing, API & 5 Revenue Models",
+        "slug": "google-veo-ai-video-generator-review-2026-pricing-api-5-revenue-models",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Wed, 17 Jun 2026 20:20:32 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 17, 2026 This Google Veo AI video generator review exists bec...",
+        "keywords": "veo, google, video, api, you, prompt, vertex, per",
+        "generated": "2026-06-17T20:21:04.206950",
+        "file": "google-veo-ai-video-generator-review-2026-pricing-api-5-revenue-models.md"
     },
     {
         "title": "Apache Hudi Merge-on-Read vs Copy-on-Write: Picking the Right Table Type",
