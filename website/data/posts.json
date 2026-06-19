@@ -60,9 +60,9 @@
         "author": "philonoist",
         "source": "hackernews",
         "published": "Fri, 19 Jun 2026 06:35:57 +0000",
-        "description": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 136 # Comments...",
+        "description": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 356 # Comments...",
         "keywords": "project, valhalla, explained, how, url, https, com, comments",
-        "generated": "2026-06-19T10:46:49.265721",
+        "generated": "2026-06-19T15:31:48.963500",
         "file": "project-valhalla-explained-how-a-decade-of-work-arrives-in-jdk-28.md"
     },
     {
@@ -572,6 +572,17 @@
         "file": "proton-is-funding-the-french-far-right-on-youtube.md"
     },
     {
+        "title": "Build a Web Scraper in Python in 10 Minutes",
+        "slug": "build-a-web-scraper-in-python-in-10-minutes",
+        "author": "Xinglin Ming",
+        "source": "devto_python",
+        "published": "Fri, 19 Jun 2026 15:26:01 +0000",
+        "description": "Web Scraping Made Simple import requests from bs4 import BeautifulSoup import csv def scrape ( url , selector ): r = requests . get ( url , headers = { ' Use...",
+        "keywords": "web, scraper, import, scraping, requests, beautifulsoup, csv, scrape",
+        "generated": "2026-06-19T15:31:48.964002",
+        "file": "build-a-web-scraper-in-python-in-10-minutes.md"
+    },
+    {
         "title": "The 0DTE Gamma Heatmap API: Strike-by-Time GEX, a HIRO and Heatseeker Alternative",
         "slug": "the-0dte-gamma-heatmap-api-strike-by-time-gex-a-hiro-and-heatseeker-alternative",
         "author": "tomasz dobrowolski",
@@ -966,6 +977,17 @@
         "keywords": "gallery, image, modern, zoom, swipe, lightbox, sets, javascript",
         "generated": "2026-06-17T04:47:02.510380",
         "file": "lightbox3-gallery-lightbox-for-modern-image-sets.md"
+    },
+    {
+        "title": "Safe Travel: Prom Airport Limo Service – Luxury, Comfort, and Reliable Airport Transportation",
+        "slug": "safe-travel-prom-airport-limo-service-luxury-comfort-and-reliable-airport-transportation",
+        "author": "Arslan Ibrahim",
+        "source": "devto_webdev",
+        "published": "Fri, 19 Jun 2026 15:12:53 +0000",
+        "description": "Traveling to and from the airport can often be stressful, especially during important events like prom nights, special celebrations, or business trips. Delay...",
+        "keywords": "airport, service, travel, limo, prom, transportation, experience, luxury",
+        "generated": "2026-06-19T15:31:48.967362",
+        "file": "safe-travel-prom-airport-limo-service-luxury-comfort-and-reliable-airport-transportation.md"
     },
     {
         "title": "Review: Vokal - A collaboration space for 10x teammates with their Al agents",
@@ -1529,6 +1551,17 @@
         "file": "pgdog-is-funded-and-coming-to-a-database-near-you.md"
     },
     {
+        "title": "I Slashed My AI API Bill by 60%: A Freelancer's Field Notes",
+        "slug": "i-slashed-my-ai-api-bill-by-60-a-freelancers-field-notes",
+        "author": "gentleforge",
+        "source": "devto_ai",
+        "published": "Fri, 19 Jun 2026 15:27:31 +0000",
+        "description": "I Slashed My AI API Bill by 60%: A Freelancer's Field Notes Three months ago I opened my AI usage dashboard and nearly choked on my cold brew. I'd been burni...",
+        "keywords": "gpt, model, deepseek, client, api, tokens, you, project",
+        "generated": "2026-06-19T15:31:48.968032",
+        "file": "i-slashed-my-ai-api-bill-by-60-a-freelancers-field-notes.md"
+    },
+    {
         "title": "When Your AI Provider Fails: Building a Resilient Fallback System",
         "slug": "when-your-ai-provider-fails-building-a-resilient-fallback-system",
         "author": "zhongqiyue",
@@ -1996,9 +2029,9 @@
         "author": "lumpa",
         "source": "hackernews",
         "published": "Fri, 19 Jun 2026 01:06:27 +0000",
-        "description": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/ Comments URL: https://news.ycombinator.com/item?id=48593731 Points: 81 # Comments: 28",
+        "description": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/ Comments URL: https://news.ycombinator.com/item?id=48593731 Points: 115 # Comments: 43",
         "keywords": "datasette, apps, url, https, comments, host, custom, html",
-        "generated": "2026-06-19T10:46:49.266221",
+        "generated": "2026-06-19T15:31:48.963799",
         "file": "datasette-apps-host-custom-html-applications-inside-datasette.md"
     },
     {
@@ -2084,9 +2117,9 @@
         "author": "ingve",
         "source": "hackernews",
         "published": "Fri, 19 Jun 2026 06:05:01 +0000",
-        "description": "Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 70 # Comments: 33",
+        "description": "Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 118 # Comments: 67",
         "keywords": "url, https, comments, you, want, define, well, known",
-        "generated": "2026-06-19T10:46:49.265885",
+        "generated": "2026-06-19T15:31:48.963655",
         "file": "so-you-want-to-define-a-well-known-uri.md"
     },
     {
@@ -2517,6 +2550,17 @@
         "keywords": "image, memory, row, million, pixels, julia, iteration, pixel",
         "generated": "2026-06-17T20:21:04.202545",
         "file": "how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python.md"
+    },
+    {
+        "title": "The Best Insurance Claims Outsourcing Companies in 2026",
+        "slug": "the-best-insurance-claims-outsourcing-companies-in-2026",
+        "author": "Rowan Whitaker",
+        "source": "devto_webdev",
+        "published": "Fri, 19 Jun 2026 15:16:29 +0000",
+        "description": "Insurance claims outsourcing is not just moving paperwork to another team I used to think claims outsourcing was mostly an efficiency decision. Too many clai...",
+        "keywords": "claims, support, not, outsourcing, more, provider, processing, insurance",
+        "generated": "2026-06-19T15:31:48.966564",
+        "file": "the-best-insurance-claims-outsourcing-companies-in-2026.md"
     },
     {
         "title": "The Cypherpunk Library",
@@ -3744,10 +3788,10 @@
         "slug": "changes-to-llm-pricing-nextbit",
         "author": "Narev Bot",
         "source": "devto_ai",
-        "published": "Wed, 10 Jun 2026 20:19:44 +0000",
+        "published": "Fri, 19 Jun 2026 15:26:23 +0000",
         "description": "Model price changes detected for NextBit. Details below.",
         "keywords": "changes, nextbit, llm, pricing, model, price, detected, details",
-        "generated": "2026-06-10T20:38:15.852053",
+        "generated": "2026-06-19T15:31:48.969091",
         "file": "changes-to-llm-pricing-nextbit.md"
     },
     {
@@ -4519,6 +4563,17 @@
         "keywords": "you, tools, your, website, speed, optimization, time, when",
         "generated": "2026-06-17T15:50:36.571681",
         "file": "best-website-speed-optimization-tools-in-2026.md"
+    },
+    {
+        "title": "How many of the 170k English words do you know?",
+        "slug": "how-many-of-the-170k-english-words-do-you-know",
+        "author": "abnry",
+        "source": "hackernews",
+        "published": "Fri, 19 Jun 2026 13:51:36 +0000",
+        "description": "Article URL: https://vocabowl-870366514258.us-west1.run.app/ Comments URL: https://news.ycombinator.com/item?id=48598586 Points: 55 # Comments: 72",
+        "keywords": "url, https, comments, how, many, english, words, you",
+        "generated": "2026-06-19T15:31:48.963190",
+        "file": "how-many-of-the-170k-english-words-do-you-know.md"
     },
     {
         "title": "Creating an AI Note Taker with Gemini API",
@@ -5720,6 +5775,17 @@
         "file": "what-being-a-hands-on-cto-is-teaching-me-about-leadership.md"
     },
     {
+        "title": "Norway greenlights first full-scale ship tunnel",
+        "slug": "norway-greenlights-first-full-scale-ship-tunnel",
+        "author": "geox",
+        "source": "hackernews",
+        "published": "Fri, 19 Jun 2026 10:16:10 +0000",
+        "description": "Article URL: https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel Comments URL: https://news.ycombinator.com/item?id=4...",
+        "keywords": "norway, greenlights, first, full, scale, ship, tunnel, url",
+        "generated": "2026-06-19T15:31:48.963367",
+        "file": "norway-greenlights-first-full-scale-ship-tunnel.md"
+    },
+    {
         "title": "I Will Help You Navigate Buy Verified Chime Banking Services",
         "slug": "i-will-help-you-navigate-buy-verified-chime-banking-services",
         "author": "brendatt",
@@ -6538,10 +6604,10 @@
         "slug": "biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-machine-true-ai-privacy",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Wed, 10 Jun 2026 15:40:25 +0000",
+        "published": "Fri, 19 Jun 2026 15:26:10 +0000",
         "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
         "keywords": "biznode, https, biz, your, copyguard, uses, ollama, running",
-        "generated": "2026-06-10T15:51:30.361309",
+        "generated": "2026-06-19T15:31:48.969255",
         "file": "biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-machine-true-ai-privacy.md"
     },
     {
@@ -6873,6 +6939,17 @@
         "keywords": "tool, model, agent, loop, prompt, you, not, state",
         "generated": "2026-06-18T10:38:46.940406",
         "file": "understanding-the-agent-loop-how-tool-using-llm-systems-actually-work.md"
+    },
+    {
+        "title": "AML outsourcing is not just compliance overflow",
+        "slug": "aml-outsourcing-is-not-just-compliance-overflow",
+        "author": "Rowan Whitaker",
+        "source": "devto_webdev",
+        "published": "Fri, 19 Jun 2026 15:13:48 +0000",
+        "description": "I used to think AML outsourcing was mostly a capacity problem. Too many alerts. Too many false positives. Too many cases sitting in the queue. Not enough ana...",
+        "keywords": "aml, not, outsourcing, review, compliance, how, team, work",
+        "generated": "2026-06-19T15:31:48.966919",
+        "file": "aml-outsourcing-is-not-just-compliance-overflow.md"
     },
     {
         "title": "Jasper vs Surfer SEO for Long-Form Blog Content 2026: Detailed Comparison",
@@ -7744,6 +7821,17 @@
         "file": "advanced-linux-system-administrator-interview-questions-and-solutions.md"
     },
     {
+        "title": "Use GPT, Claude, and Gemini with the OpenAI SDK - one base_url, any language",
+        "slug": "use-gpt-claude-and-gemini-with-the-openai-sdk-one-baseurl-any-language",
+        "author": "chenxiao5580-cmd",
+        "source": "devto_python",
+        "published": "Fri, 19 Jun 2026 15:24:17 +0000",
+        "description": "If you're juggling separate SDKs and API keys for OpenAI, Anthropic, and Google, here's a simpler setup: point the OpenAI SDK at an OpenAI-compatible gateway...",
+        "keywords": "openai, model, gpt, content, claude, gemini, client, resp",
+        "generated": "2026-06-19T15:31:48.964432",
+        "file": "use-gpt-claude-and-gemini-with-the-openai-sdk-one-baseurl-any-language.md"
+    },
+    {
         "title": "How to automate Instagram engagements with computer vision (and get banned)",
         "slug": "how-to-automate-instagram-engagements-with-computer-vision-and-get-banned",
         "author": "florianherrengt",
@@ -7907,6 +7995,17 @@
         "keywords": "novaedgedigitallabs, citykit, cities, search, distance, nearest, api, import",
         "generated": "2026-06-10T20:38:15.850888",
         "file": "i-built-a-zero-dependency-city-search-library-with-50000-cities-built-in.md"
+    },
+    {
+        "title": "We Open-Sourced a 500-Line Python Module That Solves Agent Crash Recovery",
+        "slug": "we-open-sourced-a-500-line-python-module-that-solves-agent-crash-recovery",
+        "author": "hhhfs9s7y9-code",
+        "source": "devto_python",
+        "published": "Fri, 19 Jun 2026 15:07:57 +0000",
+        "description": "We Open-Sourced Our Agent Checkpoint Module Problem: Your 12-step agent crashes at Step 11 → you restart from Step 1, burning API calls and time. Solution: 5...",
+        "keywords": "checkpoint, ctx, step, lambda, client, chat, text, agent",
+        "generated": "2026-06-19T15:31:48.965499",
+        "file": "we-open-sourced-a-500-line-python-module-that-solves-agent-crash-recovery.md"
     },
     {
         "title": "Your Pipeline Is 15.2h Behind: Catching Economy Sentiment Leads with Pulsebit",
@@ -8470,6 +8569,17 @@
         "file": "best-youtube-downloader-alternatives-that-work-in-2026.md"
     },
     {
+        "title": "The best BPO partner is not always the biggest one",
+        "slug": "the-best-bpo-partner-is-not-always-the-biggest-one",
+        "author": "Rowan Whitaker",
+        "source": "devto_webdev",
+        "published": "Fri, 19 Jun 2026 15:21:44 +0000",
+        "description": "I used to think finding the best BPO provider meant starting with the largest names in the market. That sounds logical. Bigger company, more delivery centers...",
+        "keywords": "bpo, provider, support, workflow, not, best, more, needs",
+        "generated": "2026-06-19T15:31:48.965852",
+        "file": "the-best-bpo-partner-is-not-always-the-biggest-one.md"
+    },
+    {
         "title": "Changing How We Develop Ladybird",
         "slug": "changing-how-we-develop-ladybird",
         "author": "EdwinHoksberg",
@@ -8545,6 +8655,17 @@
         "keywords": "quantum, simulation, qiskit, key, protocol, numpy, project, distribution",
         "generated": "2026-06-18T10:38:46.940994",
         "file": "building-a-quantum-safe-bb84-simulation-with-qiskit-10-and-numpy.md"
+    },
+    {
+        "title": "How I Slashed AI API Costs 60% as a Cloud Architect",
+        "slug": "how-i-slashed-ai-api-costs-60-as-a-cloud-architect",
+        "author": "swift",
+        "source": "devto_python",
+        "published": "Fri, 19 Jun 2026 15:11:20 +0000",
+        "description": "How I Slashed AI API Costs 60% as a Cloud Architect I still remember the Slack message that started it all. Our CFO had pulled up a dashboard, and our monthl...",
+        "keywords": "you, your, model, our, latency, deepseek, cost, what",
+        "generated": "2026-06-19T15:31:48.965230",
+        "file": "how-i-slashed-ai-api-costs-60-as-a-cloud-architect.md"
     },
     {
         "title": "Anthropic, please ship an official Claude Desktop for Linux",
@@ -8778,6 +8899,17 @@
         "file": "reviving-my-ai-powered-draw-and-learn-game-what-if-an-ai-could-look-at-your-drawing-and-actually-respond.md"
     },
     {
+        "title": "OpenAI IPO Preparations: Shazeer and Ball Join Ahead of Stock Debut",
+        "slug": "openai-ipo-preparations-shazeer-and-ball-join-ahead-of-stock-debut",
+        "author": "Grant Klimaytys",
+        "source": "devto_ai",
+        "published": "Fri, 19 Jun 2026 15:27:15 +0000",
+        "description": "TL;DR: OpenAI is accelerating its IPO timeline by adding two high-profile hires: Noam Shazeer, co-inventor of the Transformer architecture, from Google DeepM...",
+        "keywords": "openai, ipo, shazeer, policy, company, its, hires, research",
+        "generated": "2026-06-19T15:31:48.968540",
+        "file": "openai-ipo-preparations-shazeer-and-ball-join-ahead-of-stock-debut.md"
+    },
+    {
         "title": "Aerospace Lubricants Market to Reach USD 4.69 Billion by 2034 as Expanding Air Travel and Next-Generation Aircraft Development Drive Demand",
         "slug": "aerospace-lubricants-market-to-reach-usd-469-billion-by-2034-as-expanding-air-travel-and-next-generation-aircraft-development-drive-demand",
         "author": "Mahesh Chavan",
@@ -8798,6 +8930,17 @@
         "keywords": "code, claude, you, mcp, agent, here, servicenow, tools",
         "generated": "2026-06-09T04:03:32.531595",
         "file": "five-things-that-caught-my-attention-this-week-in-ai-tools-and-open-source-models.md"
+    },
+    {
+        "title": "The Best AML Providers in 2026",
+        "slug": "the-best-aml-providers-in-2026",
+        "author": "Rowan Whitaker",
+        "source": "devto_ai",
+        "published": "Fri, 19 Jun 2026 15:26:45 +0000",
+        "description": "The best AML provider is not the one that clears alerts the fastest I used to think AML provider selection was mostly about backlog. Too many alerts. Too man...",
+        "keywords": "aml, not, provider, review, support, cases, can, work",
+        "generated": "2026-06-19T15:31:48.968968",
+        "file": "the-best-aml-providers-in-2026.md"
     },
     {
         "title": "[AI Income Engine 9/12] How to use LM Studio to run AI agents locally for free",
@@ -9128,6 +9271,17 @@
         "keywords": "your, you, com, account, paypal, www, verified, accounts",
         "generated": "2026-06-08T11:08:35.052628",
         "file": "top-choice-for-buy-verified-paypal-accounts.md"
+    },
+    {
+        "title": "How to Build a Python File Organizer Script in 5 Minutes",
+        "slug": "how-to-build-a-python-file-organizer-script-in-5-minutes",
+        "author": "Xinglin Ming",
+        "source": "devto_python",
+        "published": "Fri, 19 Jun 2026 15:26:00 +0000",
+        "description": "The Problem: Messy Downloads Folder We all have that one folder where files pile up. PDFs, images, code files, all mixed together. The Solution import os imp...",
+        "keywords": "file, folder, directory, path, python, dest, join, downloads",
+        "generated": "2026-06-19T15:31:48.964174",
+        "file": "how-to-build-a-python-file-organizer-script-in-5-minutes.md"
     },
     {
         "title": "PagedAttention vs Traditional KV Cache: How vLLM Reinvented GPU Memory for LLM Inference",
@@ -10217,6 +10371,17 @@
         "keywords": "you, agent, run, span, logs, what, your, not",
         "generated": "2026-06-12T15:28:32.968875",
         "file": "why-your-ai-agent-logs-are-not-evidence-and-what-to-do-about-it.md"
+    },
+    {
+        "title": "The Best AI Outsourcing Companies in 2026",
+        "slug": "the-best-ai-outsourcing-companies-in-2026",
+        "author": "Rowan Whitaker",
+        "source": "devto_webdev",
+        "published": "Fri, 19 Jun 2026 15:19:07 +0000",
+        "description": "AI outsourcing is not just data labeling anymore I used to think AI outsourcing meant one thing: data annotation. You have images to label, text to tag, mode...",
+        "keywords": "outsourcing, review, not, human, work, data, moderation, model",
+        "generated": "2026-06-19T15:31:48.966215",
+        "file": "the-best-ai-outsourcing-companies-in-2026.md"
     },
     {
         "title": "I Built the Same Hash Utility for Browser, Node, and Python",

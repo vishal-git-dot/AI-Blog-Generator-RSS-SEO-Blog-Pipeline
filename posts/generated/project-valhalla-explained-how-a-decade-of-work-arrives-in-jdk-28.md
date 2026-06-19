@@ -4,16 +4,16 @@ slug: "project-valhalla-explained-how-a-decade-of-work-arrives-in-jdk-28"
 author: "philonoist"
 source: "hackernews"
 published: "Fri, 19 Jun 2026 06:35:57 +0000"
-description: "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 136 # Comments..."
+description: "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 356 # Comments..."
 keywords: "project, valhalla, explained, how, url, https, com, comments"
-generated: "2026-06-19T10:46:49.265721"
+generated: "2026-06-19T15:31:48.963500"
 ---
 
 # Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28
 
 ## Overview
 
-Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 136 # Comments: 64
+Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 356 # Comments: 195
 
 ## Key Insights
 

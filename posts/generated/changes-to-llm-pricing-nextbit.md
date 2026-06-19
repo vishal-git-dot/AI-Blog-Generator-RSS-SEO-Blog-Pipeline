@@ -3,10 +3,10 @@ title: "Changes to LLM pricing: NextBit"
 slug: "changes-to-llm-pricing-nextbit"
 author: "Narev Bot"
 source: "devto_ai"
-published: "Wed, 10 Jun 2026 20:19:44 +0000"
+published: "Fri, 19 Jun 2026 15:26:23 +0000"
 description: "Model price changes detected for NextBit. Details below."
 keywords: "changes, nextbit, llm, pricing, model, price, detected, details"
-generated: "2026-06-10T20:38:15.852053"
+generated: "2026-06-19T15:31:48.969091"
 ---
 
 # Changes to LLM pricing: NextBit
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/narevbot/changes-to-llm-pricing-nextbit-3lc9
+https://dev.to/narevbot/changes-to-llm-pricing-nextbit-1p4p
 
 ## Conclusion
 

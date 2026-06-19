@@ -4,16 +4,16 @@ slug: "so-you-want-to-define-a-well-known-uri"
 author: "ingve"
 source: "hackernews"
 published: "Fri, 19 Jun 2026 06:05:01 +0000"
-description: "Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 70 # Comments: 33"
+description: "Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 118 # Comments: 67"
 keywords: "url, https, comments, you, want, define, well, known"
-generated: "2026-06-19T10:46:49.265885"
+generated: "2026-06-19T15:31:48.963655"
 ---
 
 # So You Want to Define a Well-Known URI
 
 ## Overview
 
-Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 70 # Comments: 33
+Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 118 # Comments: 67
 
 ## Key Insights
 
