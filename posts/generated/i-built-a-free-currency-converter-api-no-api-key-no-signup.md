@@ -1,0 +1,34 @@
+---
+title: "I Built a Free Currency Converter API — No API Key, No Signup"
+slug: "i-built-a-free-currency-converter-api-no-api-key-no-signup"
+author: "Oleksandr Kaiukov"
+source: "devto_webdev"
+published: "Sat, 20 Jun 2026 09:07:25 +0000"
+description: "I needed a simple exchange rate API for my currency converter project, but all the popular ones (XE, OANDA, CurrencyLayer, Fixer.io) require signup, an API k..."
+keywords: "api, usd, data, uah, rate, com, get, key"
+generated: "2026-06-20T09:27:21.556674"
+---
+
+# I Built a Free Currency Converter API — No API Key, No Signup
+
+## Overview
+
+I needed a simple exchange rate API for my currency converter project, but all the popular ones (XE, OANDA, CurrencyLayer, Fixer.io) require signup, an API key, or a credit card. Some cap you at 100 requests per month. Others return data cached yesterday. So I built my own — and made it completely public. → Try it now: currencyexchangetool.com/api-docs No signup. No API key. No monthly cap. Just make a GET request. What It Does The API provides live exchange rates for 100+ currencies, including major, emerging-market, and cross-rate pairs. Rates are fetched live from Yahoo Finance on each request — you always get the current rate, not cached data. It is rate-limited per IP (not per account): 100 requests/minute for convert and currencies, 30 requests/minute for history. There is no monthly cap and no key to manage. Endpoints # Convert 100 USD to EUR GET /api/v1/convert?from=USD&to=EUR&amount=100 # List supported currencies GET /api/v1/currencies # Historical data — last N days, a single date, or a range (max 365 days) GET /api/v1/history?from=USD&to=UAH&days=7 GET /api/v1/history?from=USD&to=UAH&date=2026-05-01 GET /api/v1/history?from=USD&to=UAH&start_date=2026-04-01&end_date=2026-05-28 Quick Start — cURL curl -s "https://www.currencyexchangetool.com/api/v1/convert?amount=100&from=USD&to=UAH" Quick Start — Python import requests res = requests . get ( ' https://www.currencyexchangetool.com/api/v1/convert ' , params = { ' amount ' : 100 , ' from ' : ' USD ' , ' to ' : ' UAH ' } ) data = res . json () print ( f " 100 USD = { data [ ' result ' ] } UAH " ) Quick Start — JavaScript const res = await fetch ( ' https://www.currencyexchangetool.com/api/v1/convert?amount=100&from=USD&to=UAH ' ); const data = await res . json (); console . log ( `100 USD = ${ data . result } UAH` ); Quick Start — Go package main import ( "encoding/json" "fmt" "net/http" "net/url" ) func main () { params := url . Values {} params . Add ( "amount" , "100" ) params . Add ( "from" , "USD" ) params . Add ( "to" , "UAH" ) resp , _ := http . Get ( "https://www.currencyexchangetool.com/api/v1/convert?" + params . Encode (), ) defer resp . Body . Close () var data map [ string ] any json . NewDecoder ( resp . Body ) . Decode ( & data ) fmt . Printf ( "100 USD = %v UAH \n " , data [ "result" ]) } Quick Start — PHP <?php $response = file_get_contents ( 'https://www.currencyexchangetool.com/api/v1/convert?' . http_build_query ([ 'amount' => 100 , 'from' => 'USD' , 'to' => 'UAH' ]) ); $data = json_decode ( $response , true ); echo "100 USD = { $data [ 'result' ] } UAH" ; ?> Google Sheets — IMPORTXML Add format=xml for Google Sheets compatibility: =VALUE(IMPORTXML( "https://www.currencyexchangetool.com/api/v1/convert?amount=1&from=USD&to=EUR&format=xml", "/response/rate" )) How It Compares to Other Free Currency APIs API API Key Signup Currencies Free Limit Updates Currency Exchange Tool ⭐ No No 100+ 100/min, no monthly cap Live Frankfurter No No ~30 (ECB) Unlimited Daily MoneyConvert No No 182+ Rate-limited 5 min ExchangeRate-API (Open) No No 160+ Rate-limited Daily ExchangeRate-API (Free) Yes Yes 160+ 1,500/mo Daily FreeCurrencyAPI Yes Yes 32 1,000/mo Daily Open Exchange Rates Yes Yes 170+ 1,000/mo Hourly Fixer.io Yes Yes 170+ 100/mo Daily CurrencyAPI.net Yes Yes 300+ 500/mo Daily Key insight: Our API is the only one that combines no API key , no signup , no monthly cap , live rates, and 100+ currencies . Why "No API Key" Matters Prototyping: No need to stop coding and fill out a registration form Open source: You can commit working examples without exposing API keys CI/CD: No env variables to configure in every pipeline Education: Every student can follow along without their own key Hackathons: Zero setup friction — just write code Response Format All endpoints return a consistent JSON envelope (or XML with format=xml ): { "success" : true , "from" : "USD" , "to" : "EUR" , "amount" : 100 , "rate" : 0.9234 , "result" : 92.34 , "change24h" : -0.0002 , "changePct24h" : -0.0229 , "updatedAt" : "2026-06-08T12:00:00.000Z" } Error responses are predictable: { "success" : false , "error" : "Unsupported currency" , "code" : "unsupported_currency" } When you exceed the rate limit you get HTTP 429 with a Retry-After header, and every response carries X-RateLimit-Limit / X-RateLimit-Remaining so you can back off early. Production Features CORS enabled — Access-Control-Allow-Origin: * on every endpoint, with OPTIONS preflight Rate limit headers — X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset XML output — format=xml for Google Sheets integration Historical data — Up to 365 days of daily rates SSL/HTTPS — Every request is encrypted Who This Is For Side projects & MVPs — Get building in seconds, not minutes E-commerce — Display prices in local currencies Fintech dashboards — Live rate widgets without auth complexity AI assistants — Simple REST endpoint for currency queries Google Sheets users — Pull live rates into spreadsheets Students — Learn REST API integration with a no-friction endpoint Tech Stack Built with Next.js API routes running on Vercel. No backend database — rates are fetched on-demand from Yahoo Finance. The main site (a currency converter) and the API share the same infrastructure, keeping operational costs near zero. Give It a Try The API is live and running right now: curl -s "https://www.currencyexchangetool.com/api/v1/convert?amount=1&from=USD&to=EUR" No signup, no API key — it just works. Documentation: currencyexchangetool.com/api-docs Main site: currencyexchangetool.com GitHub: github.com/Kaiukov/currency-converter-vercel Feedback welcome! Open an issue on GitHub or leave a comment below. If you find this useful, a quick star on GitHub helps others discover it.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/oleksandr_kaiukov_63f3e92/i-built-a-free-currency-converter-api-no-api-key-no-signup-k0m
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

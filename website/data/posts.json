@@ -682,6 +682,17 @@
         "file": "how-i-built-a-real-time-biometric-telemetry-pipeline-to-detect-ai-code-injections-in-vs-code.md"
     },
     {
+        "title": "AI Technology for Real-Time Agents: How AgentCore Closes the Coordination Gap",
+        "slug": "ai-technology-for-real-time-agents-how-agentcore-closes-the-coordination-gap",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 09:12:39 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 20, 2026 Most AI technology workflows are solving the wrong p...",
+        "keywords": "web, search, agent, layer, agentcore, model, coordination, state",
+        "generated": "2026-06-20T09:27:21.564221",
+        "file": "ai-technology-for-real-time-agents-how-agentcore-closes-the-coordination-gap.md"
+    },
+    {
         "title": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
         "slug": "apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong",
         "author": "speckx",
@@ -810,7 +821,7 @@
         "published": "Fri, 19 Jun 2026 22:51:09 +0000",
         "description": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory? Comments URL: https://n...",
         "keywords": "more, will, memory, use, comments, ask, programmers, write",
-        "generated": "2026-06-20T04:12:08.212211",
+        "generated": "2026-06-20T09:27:21.553971",
         "file": "ask-hn-will-programmers-write-more-efficient-code-during-the-memory-shortage.md"
     },
     {
@@ -933,6 +944,17 @@
         "keywords": "you, python, code, astmize, mobile, but, developer, frontend",
         "generated": "2026-06-11T10:47:52.346263",
         "file": "i-built-an-ai-powered-python-to-c-transpiler-entirely-from-my-phone-here-is-how-and-why.md"
+    },
+    {
+        "title": "Where to Find the Colors Your Screen Can't Show You",
+        "slug": "where-to-find-the-colors-your-screen-cant-show-you",
+        "author": "moultano",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 03:36:49 +0000",
+        "description": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ Comments URL: https://news.ycombinator.com/item?id...",
+        "keywords": "where, find, colors, your, screen, show, you, url",
+        "generated": "2026-06-20T09:27:21.553849",
+        "file": "where-to-find-the-colors-your-screen-cant-show-you.md"
     },
     {
         "title": "How to Earn a Billion Dollars",
@@ -2110,6 +2132,17 @@
         "keywords": "datasette, apps, url, https, comments, host, custom, html",
         "generated": "2026-06-19T15:31:48.963799",
         "file": "datasette-apps-host-custom-html-applications-inside-datasette.md"
+    },
+    {
+        "title": "Satellite reveals immense scale of GPS signal tampering",
+        "slug": "satellite-reveals-immense-scale-of-gps-signal-tampering",
+        "author": "y1n0",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 04:07:03 +0000",
+        "description": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering...",
+        "keywords": "satellite, reveals, immense, scale, gps, signal, tampering, url",
+        "generated": "2026-06-20T09:27:21.553726",
+        "file": "satellite-reveals-immense-scale-of-gps-signal-tampering.md"
     },
     {
         "title": "swarm-test v0.3.1 — Interactive HTML Reports and Developer Experience Overhaul",
@@ -4015,6 +4048,17 @@
         "file": "dont-you-just-upload-it-to-chatgpt.md"
     },
     {
+        "title": "Give Your Codebase a Constitution",
+        "slug": "give-your-codebase-a-constitution",
+        "author": "Mitesh Sharma",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 09:14:24 +0000",
+        "description": "Architecture that lives only in people's heads doesn't survive agents. For most of my career, the real rules of a codebase weren't written down. People knew ...",
+        "keywords": "constitution, not, they, agents, layers, don, rule, you",
+        "generated": "2026-06-20T09:27:21.562481",
+        "file": "give-your-codebase-a-constitution.md"
+    },
+    {
         "title": "DoorDash Introduces AI Chatbot to Simplify Food and Grocery Ordering",
         "slug": "doordash-introduces-ai-chatbot-to-simplify-food-and-grocery-ordering",
         "author": "Advay254",
@@ -4343,6 +4387,17 @@
         "keywords": "their, insomniacs, they, real, estate, marketing, development, services",
         "generated": "2026-06-19T04:58:32.739490",
         "file": "insomniacsin-a-leading-real-estate-martech-company.md"
+    },
+    {
+        "title": "minbpe vs turboBPE: Two ways to think about tokenizer training",
+        "slug": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training",
+        "author": "Cersei",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 08:35:23 +0000",
+        "description": "If you have spent time understanding how LLMs process text, you have probably come across Byte Pair Encoding. It is the algorithm sitting quietly under the h...",
+        "keywords": "you, tokenizer, minbpe, your, merge, turbobpe, training, what",
+        "generated": "2026-06-20T09:27:21.555468",
+        "file": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training.md"
     },
     {
         "title": "工程師眼中的 “Don’t Make Me Think”",
@@ -4739,6 +4794,17 @@
         "keywords": "you, tools, your, website, speed, optimization, time, when",
         "generated": "2026-06-17T15:50:36.571681",
         "file": "best-website-speed-optimization-tools-in-2026.md"
+    },
+    {
+        "title": "How to Download Historical Exchange Rates as CSV with a Free API",
+        "slug": "how-to-download-historical-exchange-rates-as-csv-with-a-free-api",
+        "author": "Jenpo Zhan",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 09:01:49 +0000",
+        "description": "Developers and spreadsheet users often need historical exchange rates for reporting, bookkeeping, ecommerce reconciliation, or dashboards. The usual workflow...",
+        "keywords": "cny, try, api, fxpeek, url, rates, csv, https",
+        "generated": "2026-06-20T09:27:21.554236",
+        "file": "how-to-download-historical-exchange-rates-as-csv-with-a-free-api.md"
     },
     {
         "title": "How many of the 170k English words do you know?",
@@ -6182,6 +6248,17 @@
         "file": "amd-acquires-mext-for-data-cen.md"
     },
     {
+        "title": "I Built a Free Currency Converter API — No API Key, No Signup",
+        "slug": "i-built-a-free-currency-converter-api-no-api-key-no-signup",
+        "author": "Oleksandr Kaiukov",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 09:07:25 +0000",
+        "description": "I needed a simple exchange rate API for my currency converter project, but all the popular ones (XE, OANDA, CurrencyLayer, Fixer.io) require signup, an API k...",
+        "keywords": "api, usd, data, uah, rate, com, get, key",
+        "generated": "2026-06-20T09:27:21.556674",
+        "file": "i-built-a-free-currency-converter-api-no-api-key-no-signup.md"
+    },
+    {
         "title": "I built 3 SaaS landing page templates so founders can stop wasting time on landing pages",
         "slug": "i-built-3-saas-landing-page-templates-so-founders-can-stop-wasting-time-on-landing-pages",
         "author": "BuildNova",
@@ -6380,6 +6457,17 @@
         "file": "when-polymarket-says-70-does-it-happen-70-of-the-time-i-checked-against-194m-price-snapshots.md"
     },
     {
+        "title": "Everything You Need to Know About Debt Management",
+        "slug": "everything-you-need-to-know-about-debt-management",
+        "author": "MNS Credit Management Group",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 09:02:45 +0000",
+        "description": "Managing debt effectively is a critical aspect of financial health for both businesses and individuals. While borrowing can help achieve growth, expansion, o...",
+        "keywords": "debt, financial, management, repayment, can, interest, cash, credit",
+        "generated": "2026-06-20T09:27:21.557512",
+        "file": "everything-you-need-to-know-about-debt-management.md"
+    },
+    {
         "title": "AI Agent vs LLM: Why Just Calling the OpenAI API Doesn't Give You an Agent (And What Does)",
         "slug": "ai-agent-vs-llm-why-just-calling-the-openai-api-doesnt-give-you-an-agent-and-what-does",
         "author": "Dextra Labs",
@@ -6455,6 +6543,17 @@
         "keywords": "namecheap, domain, you, features, who, should, what, use",
         "generated": "2026-06-17T15:50:36.573634",
         "file": "why-i-recommend-namecheap-domain-and-who-should-skip-it.md"
+    },
+    {
+        "title": "In-Depth Analysis: HPE's Free Software Initiative…",
+        "slug": "in-depth-analysis-hpes-free-software-initiative",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 09:06:01 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of HPE's initiative to offer free virtualization software and its impact on the tec...",
+        "keywords": "software, hpe, virtualization, initiative, free, can, businesses, vmware",
+        "generated": "2026-06-20T09:27:21.557090",
+        "file": "in-depth-analysis-hpes-free-software-initiative.md"
     },
     {
         "title": "React Fiber Architecture Explained: How React Renders UI",
@@ -6928,6 +7027,17 @@
         "keywords": "self, agent, memory, tool, str, context, value, federated",
         "generated": "2026-06-09T20:13:36.279952",
         "file": "the-federated-swarm-how-to-build-autonomous-self-evolving-ai-workforces.md"
+    },
+    {
+        "title": "Why Statistics is Important in Data Science",
+        "slug": "why-statistics-is-important-in-data-science",
+        "author": "jayson kibet",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 08:37:33 +0000",
+        "description": "Introduction Ask ten people what data science is and you'll hear things like Python,machine learning and building dashboards.Almost nobody says statistics....",
+        "keywords": "you, data, what, statistics, things, your, just, rent",
+        "generated": "2026-06-20T09:27:21.554969",
+        "file": "why-statistics-is-important-in-data-science.md"
     },
     {
         "title": "Extend UI: React Document Components for Document",
@@ -7887,6 +7997,17 @@
         "file": "the-ipad-was-on-tailscale-a-webrtc-debugging-story.md"
     },
     {
+        "title": "Designing a backyard deck for my house",
+        "slug": "designing-a-backyard-deck-for-my-house",
+        "author": "spycraft",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 04:45:59 +0000",
+        "description": "Article URL: https://blog.cosmin.cloud/posts/diy-deck.html Comments URL: https://news.ycombinator.com/item?id=48606413 Points: 14 # Comments: 4",
+        "keywords": "deck, url, https, comments, designing, backyard, house, article",
+        "generated": "2026-06-20T09:27:21.553596",
+        "file": "designing-a-backyard-deck-for-my-house.md"
+    },
+    {
         "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
         "slug": "show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises",
         "author": "sakuraiben",
@@ -8413,6 +8534,17 @@
         "keywords": "react, websocket, app, price, data, import, python, websockets",
         "generated": "2026-06-18T04:40:19.047394",
         "file": "build-a-real-time-crypto-trading-dashboard-with-python-react-and-websockets.md"
+    },
+    {
+        "title": "How can a professionally designed website increase customer trust?",
+        "slug": "how-can-a-professionally-designed-website-increase-customer-trust",
+        "author": "omsoftsolution",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 09:13:35 +0000",
+        "description": "Introduction to Website Design and Customer Trust In this day and age, a website is often the first interaction a business has with its potential customers. ...",
+        "keywords": "website, customer, your, trust, can, design, company, professional",
+        "generated": "2026-06-20T09:27:21.556234",
+        "file": "how-can-a-professionally-designed-website-increase-customer-trust.md"
     },
     {
         "title": "Simple pero poderoso: CRUD dinámico con Flask, Javascript y Fetch API.",
@@ -9405,6 +9537,17 @@
         "file": "the-factory-robot-that-doesnt-specialize-koreas-hidden-edge.md"
     },
     {
+        "title": "Amazon Bedrock AgentCore Web Search: The Production Guide",
+        "slug": "amazon-bedrock-agentcore-web-search-the-production-guide",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 09:18:31 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 20, 2026 Every AI agent your team shipped this year is alread...",
+        "keywords": "search, web, agentcore, agent, tool, model, aws, bedrock",
+        "generated": "2026-06-20T09:27:21.559215",
+        "file": "amazon-bedrock-agentcore-web-search-the-production-guide.md"
+    },
+    {
         "title": "ForgePyGen: Turning Natural Language into Project Structures",
         "slug": "forgepygen-turning-natural-language-into-project-structures",
         "author": "Varanasi Teja",
@@ -9612,6 +9755,17 @@
         "keywords": "mcp, tool, server, context, not, model, runtime, description",
         "generated": "2026-06-16T05:04:00.742487",
         "file": "smarter-models-dumber-security-mcp-supply-chain-attack-vector.md"
+    },
+    {
+        "title": "LiteLLM Proxy: cómo montar un gateway de IA para controlar coste, claves y modelos",
+        "slug": "litellm-proxy-cmo-montar-un-gateway-de-ia-para-controlar-coste-claves-y-modelos",
+        "author": "Khavel",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 09:15:31 +0000",
+        "description": "LiteLLM Proxy no es solo un adaptador para llamar a muchos modelos. Bien usado, es la capa donde un equipo convierte el uso de IA en infraestructura gobernab...",
+        "keywords": "para, una, litellm, proxy, por, con, que, modelos",
+        "generated": "2026-06-20T09:27:21.562021",
+        "file": "litellm-proxy-cmo-montar-un-gateway-de-ia-para-controlar-coste-claves-y-modelos.md"
     },
     {
         "title": "Redfin vs Zillow Data: Which is Better for Real Estate Market Research?",
@@ -10052,6 +10206,17 @@
         "keywords": "safety, superpower, url, https, com, comments, anthropic, article",
         "generated": "2026-06-15T12:29:05.499659",
         "file": "anthropics-safety-superpower.md"
+    },
+    {
+        "title": "Stop Learning Everything: The Minimalist Python Roadmap for Data Science 🚀",
+        "slug": "stop-learning-everything-the-minimalist-python-roadmap-for-data-science",
+        "author": "Sagar Shrestha",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 08:01:13 +0000",
+        "description": "Data science track par aane ke liye aapko har ek library ya syntax ko rटने ki zaroorat nahi hai. Real-world engineering me focus hamesha problem-solving par ...",
+        "keywords": "data, hai, par, python, syntax, focus, hain, learning",
+        "generated": "2026-06-20T09:27:21.555689",
+        "file": "stop-learning-everything-the-minimalist-python-roadmap-for-data-science.md"
     },
     {
         "title": "Why I stopped using ChatGPT for code reviews",
@@ -10690,6 +10855,17 @@
         "keywords": "wwe, live, watch, raw, smackdown, streaming, stream, options",
         "generated": "2026-06-18T15:38:46.162012",
         "file": "watch-wwe-raw-smackdown-live-stream-2026-in-hd-and-4k-quality.md"
+    },
+    {
+        "title": "Amazon Bedrock AgentCore Web Search: Production Deployment Guide",
+        "slug": "amazon-bedrock-agentcore-web-search-production-deployment-guide",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 09:17:09 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 20, 2026 Your RAG pipeline is not a knowledge system — it's a...",
+        "keywords": "web, search, agentcore, agent, you, aws, tool, bedrock",
+        "generated": "2026-06-20T09:27:21.561290",
+        "file": "amazon-bedrock-agentcore-web-search-production-deployment-guide.md"
     },
     {
         "title": "Chaos engineering: testing system resilience through controlled experiments",
@@ -11440,6 +11616,17 @@
         "file": "xtk-a-symbolic-expression-toolkit-for-term-rewriting.md"
     },
     {
+        "title": "Day 49 of Learning MERN stack",
+        "slug": "day-49-of-learning-mern-stack",
+        "author": "Ali Hamza",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 09:19:04 +0000",
+        "description": "Hello Dev Community! 👋 It is officially Day 49 of my daily coding run toward full-stack engineering! Yesterday, I used JavaScript Classes to handle async fil...",
+        "keywords": "day, data, variable, path, inside, stack, javascript, today",
+        "generated": "2026-06-20T09:27:21.555884",
+        "file": "day-49-of-learning-mern-stack.md"
+    },
+    {
         "title": "RAM (Ramayanam) Quiz App 🚩📖",
         "slug": "ram-ramayanam-quiz-app",
         "author": "Bhargavi Simhadri",
@@ -12023,6 +12210,17 @@
         "file": "how-i-built-an-ai-to-read-the-market-every-morning.md"
     },
     {
+        "title": "Building TraceroAI: A Better Way to Debug RAG Applications",
+        "slug": "building-traceroai-a-better-way-to-debug-rag-applications",
+        "author": "Chinmai Sd",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 08:52:24 +0000",
+        "description": "Over the last few months, I've spent a lot of time building RAG applications and experimenting with different retrieval strategies, prompts, and models. One ...",
+        "keywords": "building, rag, applications, traceroai, better, answer, context, few",
+        "generated": "2026-06-20T09:27:21.554462",
+        "file": "building-traceroai-a-better-way-to-debug-rag-applications.md"
+    },
+    {
         "title": "Automate Social Media With Python and the Zernio API",
         "slug": "automate-social-media-with-python-and-the-zernio-api",
         "author": "Kevin Meneses González",
@@ -12274,6 +12472,17 @@
         "keywords": "openrouter, fusion, url, https, comments, api, article, news",
         "generated": "2026-06-15T12:29:05.500193",
         "file": "openrouter-fusion-api.md"
+    },
+    {
+        "title": "I Stored a Website in a Favicon",
+        "slug": "i-stored-a-website-in-a-favicon",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 05:33:59 +0000",
+        "description": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 114 # Comment...",
+        "keywords": "stored, website, favicon, url, https, comments, article, www",
+        "generated": "2026-06-20T09:27:21.553436",
+        "file": "i-stored-a-website-in-a-favicon.md"
     },
     {
         "title": "Rate Limits & Anti-Bots in Agentic Scraping",
