@@ -1540,6 +1540,17 @@
         "file": "ai-powered-narrative-drafting-for-rias-streamlining-market-commentary-and-portfolio-drift-analysis.md"
     },
     {
+        "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+        "slug": "bootimus-a-self-contained-pxe-and-http-boot-server",
+        "author": "car",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 10:55:18 +0000",
+        "description": "Article URL: https://bootimus.com Comments URL: https://news.ycombinator.com/item?id=48608255 Points: 26 # Comments: 5",
+        "keywords": "bootimus, url, https, com, comments, self, contained, pxe",
+        "generated": "2026-06-20T14:15:47.237792",
+        "file": "bootimus-a-self-contained-pxe-and-http-boot-server.md"
+    },
+    {
         "title": "I stopped telling ChatGPT to 'fix it.' Here's the 4-part prompt I use instead.",
         "slug": "i-stopped-telling-chatgpt-to-fix-it-heres-the-4-part-prompt-i-use-instead",
         "author": "Gideon Rüscher",
@@ -4037,6 +4048,17 @@
         "file": "gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram.md"
     },
     {
+        "title": "Code Challenge of the Day — Missing number 0..n (medium)",
+        "slug": "code-challenge-of-the-day-missing-number-0n-medium",
+        "author": "I Want To Learn Programming",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 14:00:03 +0000",
+        "description": "The list holds n distinct numbers from 0..n with one missing. Return the missing one. Write missing_number(nums). Starter: def missing_number ( nums ): # TOD...",
+        "keywords": "missing, your, challenge, one, nums, iwtlp, code, day",
+        "generated": "2026-06-20T14:15:47.238059",
+        "file": "code-challenge-of-the-day-missing-number-0n-medium.md"
+    },
+    {
         "title": "Don't You Just Upload It to ChatGPT?",
         "slug": "dont-you-just-upload-it-to-chatgpt",
         "author": "speckx",
@@ -5258,6 +5280,17 @@
         "file": "the-brain-v10-building-open-source-workflow-orchestration-the-boring-way.md"
     },
     {
+        "title": "Anthropic's IPO Unpacked: What the S-1 Filing Means for AI Developers",
+        "slug": "anthropics-ipo-unpacked-what-the-s-1-filing-means-for-ai-developers",
+        "author": "Tyson Cung",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 14:07:00 +0000",
+        "description": "Anthropic dropped its S-1 filing last week, setting the stage to become the first pure-play AI company on a major US exchange. The filing landed the same day...",
+        "keywords": "anthropic, mcp, company, ipo, what, not, enterprise, public",
+        "generated": "2026-06-20T14:15:47.240259",
+        "file": "anthropics-ipo-unpacked-what-the-s-1-filing-means-for-ai-developers.md"
+    },
+    {
         "title": "Craft Killer Blog Posts: Your SEO Friendly Guide",
         "slug": "craft-killer-blog-posts-your-seo-friendly-guide",
         "author": "BlogMe.io",
@@ -6292,6 +6325,17 @@
         "file": "mercedesbenz-starts-largescale-production-of-electric-axial-flux-motor.md"
     },
     {
+        "title": "Deep Dive: Insights from Chi-Hua Chien on AI's Fut…",
+        "slug": "deep-dive-insights-from-chi-hua-chien-on-ais-fut",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 14:05:58 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore Chi-Hua Chien's perspective on AI's evolution, its implications for technology, and actionable insig...",
+        "keywords": "companies, can, tech, data, their, integration, chien, norvik",
+        "generated": "2026-06-20T14:15:47.238992",
+        "file": "deep-dive-insights-from-chi-hua-chien-on-ais-fut.md"
+    },
+    {
         "title": "I Launched My Analytics Tool 3 Months Ago. It Got 1 Upvote. Here's What I Rebuilt.",
         "slug": "i-launched-my-analytics-tool-3-months-ago-it-got-1-upvote-heres-what-i-rebuilt",
         "author": "Soumyadip Maity",
@@ -6567,6 +6611,17 @@
         "file": "react-fiber-architecture-explained-how-react-renders-ui.md"
     },
     {
+        "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+        "slug": "from-pgp-to-mythos-a-brief-history-of-export-controls-that-didnt-stop-anyone",
+        "author": "Brajeshwar",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 13:44:39 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/ Comments URL: https://ne...",
+        "keywords": "mythos, history, export, url, https, com, comments, pgp",
+        "generated": "2026-06-20T14:15:47.237543",
+        "file": "from-pgp-to-mythos-a-brief-history-of-export-controls-that-didnt-stop-anyone.md"
+    },
+    {
         "title": "Job: Head of Stonehenge",
         "slug": "job-head-of-stonehenge",
         "author": "mooreds",
@@ -6620,6 +6675,17 @@
         "keywords": "federal, judge, blocks, visa, fee, url, https, com",
         "generated": "2026-06-09T04:03:32.524401",
         "file": "federal-judge-blocks-h1b-visa-100k-fee.md"
+    },
+    {
+        "title": "I Built WirePrompt: Turning UI Inspiration Into AI-Ready Development Prompts",
+        "slug": "i-built-wireprompt-turning-ui-inspiration-into-ai-ready-development-prompts",
+        "author": "Mehul",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 14:03:58 +0000",
+        "description": "Over the past few months, I've been building projects with AI coding tools like ChatGPT, Claude, and Cursor. One thing kept bothering me. I'd find a UI desig...",
+        "keywords": "design, wireprompt, coding, tools, prompt, you, your, building",
+        "generated": "2026-06-20T14:15:47.239414",
+        "file": "i-built-wireprompt-turning-ui-inspiration-into-ai-ready-development-prompts.md"
     },
     {
         "title": "AI agent bankrupted their operator while trying to scan DN42",
@@ -6741,6 +6807,17 @@
         "keywords": "row, grid, data, prop, source, but, you, target",
         "generated": "2026-06-07T19:40:41.524230",
         "file": "javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago.md"
+    },
+    {
+        "title": "Beyond the Black Box: Navigating SEO Tools Without Breaking the Bank",
+        "slug": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank",
+        "author": "FreeDevKit",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 14:00:09 +0000",
+        "description": "Beyond the Black Box: Navigating SEO Tools Without Breaking the Bank As developers, we're often tasked with not just building robust applications, but ensuri...",
+        "keywords": "you, your, seo, tools, can, content, free, paid",
+        "generated": "2026-06-20T14:15:47.239885",
+        "file": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank.md"
     },
     {
         "title": "Bezos' Prometheus Closes $12B Round at $41B Valuation",
@@ -7590,6 +7667,17 @@
         "file": "i-cut-my-ai-chatbot-bill-by-65-heres-the-exact-math.md"
     },
     {
+        "title": "Bring your own AI: letting users pick from 13 providers (and run models locally)",
+        "slug": "bring-your-own-ai-letting-users-pick-from-13-providers-and-run-models-locally",
+        "author": "Apoorv Darshan",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 14:00:11 +0000",
+        "description": "Most AI apps pick one model for you and bill you for it. In Fud AI (an open-source calorie tracker) I went the other way: the user brings their own key. Why ...",
+        "keywords": "one, fud, provider, device, own, letting, users, pick",
+        "generated": "2026-06-20T14:15:47.239551",
+        "file": "bring-your-own-ai-letting-users-pick-from-13-providers-and-run-models-locally.md"
+    },
+    {
         "title": "My 90-Day Affiliate Lab: What Happens When a Course Creator Teaches the Tools She Already Uses",
         "slug": "my-90-day-affiliate-lab-what-happens-when-a-course-creator-teaches-the-tools-she-already-uses",
         "author": "true",
@@ -8118,6 +8206,17 @@
         "file": "i-replaced-my-200month-video-saas-with-a-one-time-20-workflow.md"
     },
     {
+        "title": "12 defensive patterns I shipped after OpenClaw 2026.4.14 broke my agents",
+        "slug": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents",
+        "author": "Chief Mojo Risin'",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 13:13:16 +0000",
+        "description": "What broke OpenClaw 2026.4.14 took out lossless-claw (#66591) and active-memory (#66849). Many operators rolled back to 4.12. I shipped a defensive pack inst...",
+        "keywords": "pack, patterns, defensive, shipped, openclaw, broke, what, memory",
+        "generated": "2026-06-20T14:15:47.238348",
+        "file": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents.md"
+    },
+    {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",
         "slug": "moving-from-chatbots-to-agents-testing-openai-operator",
         "author": "Puneet Khandelwal",
@@ -8424,6 +8523,17 @@
         "keywords": "checkpoint, ctx, step, lambda, client, chat, text, agent",
         "generated": "2026-06-19T15:31:48.965499",
         "file": "we-open-sourced-a-500-line-python-module-that-solves-agent-crash-recovery.md"
+    },
+    {
+        "title": "CSSQuake",
+        "slug": "cssquake",
+        "author": "msalsas",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 10:49:53 +0000",
+        "description": "Article URL: https://cssquake.com/ Comments URL: https://news.ycombinator.com/item?id=48608223 Points: 153 # Comments: 26",
+        "keywords": "cssquake, url, https, com, comments, article, news, ycombinator",
+        "generated": "2026-06-20T14:15:47.237868",
+        "file": "cssquake.md"
     },
     {
         "title": "Your Pipeline Is 15.2h Behind: Catching Economy Sentiment Leads with Pulsebit",
@@ -10010,6 +10120,17 @@
         "file": "how-to-set-up-a-daily-ai-briefing-for-your-business.md"
     },
     {
+        "title": "AI Technology and the Coordination Gap: Why Benchmarks Lie",
+        "slug": "ai-technology-and-the-coordination-gap-why-benchmarks-lie",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 14:03:23 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 20, 2026 Most AI technology workflows are solving the wrong p...",
+        "keywords": "coordination, end, step, reliability, not, agent, benchmark, model",
+        "generated": "2026-06-20T14:15:47.242297",
+        "file": "ai-technology-and-the-coordination-gap-why-benchmarks-lie.md"
+    },
+    {
         "title": "A Developer's Guide to Bulk-Downloading TikTok Videos (Without Losing Your Mind)",
         "slug": "a-developers-guide-to-bulk-downloading-tiktok-videos-without-losing-your-mind",
         "author": "bulkdl",
@@ -10505,6 +10626,17 @@
         "file": "scrape-serps-for-ai-agents-without-triggering-anti-bot-defenses.md"
     },
     {
+        "title": "My Journey as a Full-Stack Developer",
+        "slug": "my-journey-as-a-full-stack-developer",
+        "author": "Jayesh Aswani",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 13:06:02 +0000",
+        "description": "Hello developers! I'm a passionate Full-Stack Developer and BCA student who loves turning ideas into real-world applications. My journey in software developm...",
+        "keywords": "developers, development, backend, design, journey, full, stack, developer",
+        "generated": "2026-06-20T14:15:47.238493",
+        "file": "my-journey-as-a-full-stack-developer.md"
+    },
+    {
         "title": "Buy Verified PayPal Accounts with Satisfaction Guarantee",
         "slug": "buy-verified-paypal-accounts-with-satisfaction-guarantee",
         "author": "jamisami",
@@ -10923,6 +11055,17 @@
         "file": "i-built-the-same-hash-utility-for-browser-node-and-python.md"
     },
     {
+        "title": "Hiring a Developer? Ask These 5 Questions Before You Spend a Single Dollar",
+        "slug": "hiring-a-developer-ask-these-5-questions-before-you-spend-a-single-dollar",
+        "author": "Utilizor",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 14:06:34 +0000",
+        "description": "Hiring a Developer? Ask These 5 Questions Before You Spend a Single Dollar Hiring a developer can be one of the best investments your business ever makes—or ...",
+        "keywords": "developer, you, can, ask, your, business, developers, they",
+        "generated": "2026-06-20T14:15:47.240658",
+        "file": "hiring-a-developer-ask-these-5-questions-before-you-spend-a-single-dollar.md"
+    },
+    {
         "title": "Why Use UTF-8 in File Handling?",
         "slug": "why-use-utf-8-in-file-handling",
         "author": "Arul .A",
@@ -11088,6 +11231,17 @@
         "file": "zenzizenzizenzic.md"
     },
     {
+        "title": "I Compared 10 AI Automation Platforms So You Don't Have To (2026)",
+        "slug": "i-compared-10-ai-automation-platforms-so-you-dont-have-to-2026",
+        "author": "TuanPK Builds",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 12:57:18 +0000",
+        "description": "Automation tools have become much more powerful over the last year. Instead of just connecting apps together, many platforms now include AI agents, code gene...",
+        "keywords": "automation, platforms, have, instead, now, several, zapier, make",
+        "generated": "2026-06-20T14:15:47.238615",
+        "file": "i-compared-10-ai-automation-platforms-so-you-dont-have-to-2026.md"
+    },
+    {
         "title": "The Undruggable",
         "slug": "the-undruggable",
         "author": "thesythesis.ai",
@@ -11176,6 +11330,28 @@
         "file": "ai-image-generators-review-comparison.md"
     },
     {
+        "title": "KDP Niche Spotlight: Self Help Anxiety (Demand 82/100, Competition 60/100)",
+        "slug": "kdp-niche-spotlight-self-help-anxiety-demand-82100-competition-60100",
+        "author": "Jay",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 14:00:27 +0000",
+        "description": "Self Help Anxiety scored 82/100 demand and 60/100 competition in nichedata.dev's KDP intelligence index. Strong demand but high competition — entry possible ...",
+        "keywords": "nichedata, dev, demand, kdp, self, help, anxiety, competition",
+        "generated": "2026-06-20T14:15:47.243100",
+        "file": "kdp-niche-spotlight-self-help-anxiety-demand-82100-competition-60100.md"
+    },
+    {
+        "title": "My API Broke Every January 1st — The Timezone Bug That Slipped Past Code Review",
+        "slug": "my-api-broke-every-january-1st-the-timezone-bug-that-slipped-past-code-review",
+        "author": "kol kol",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 14:04:46 +0000",
+        "description": "My API broke at exactly 00:00 UTC on January 1st. Not the users' midnight — UTC midnight . Which meant our users in Tokyo had been living with broken data si...",
+        "keywords": "date, utc, timezone, new, our, production, every, staging",
+        "generated": "2026-06-20T14:15:47.239244",
+        "file": "my-api-broke-every-january-1st-the-timezone-bug-that-slipped-past-code-review.md"
+    },
+    {
         "title": "Autonomous Agents Need More Than Wallets: The Missing Trust Layer for Machine Economies",
         "slug": "autonomous-agents-need-more-than-wallets-the-missing-trust-layer-for-machine-economies",
         "author": "Ankita Virani",
@@ -11251,6 +11427,17 @@
         "keywords": "love, computer, url, https, com, comments, article, michaelenger",
         "generated": "2026-06-15T21:11:31.712968",
         "file": "i-love-the-computer.md"
+    },
+    {
+        "title": "I Built a Free API That Scrapes Any Website Using Plain English - No CSS Selectors",
+        "slug": "i-built-a-free-api-that-scrapes-any-website-using-plain-english-no-css-selectors",
+        "author": "Paras Tejpal",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 13:51:12 +0000",
+        "description": "I've wasted days of my life maintaining CSS selectors. You know the drill - you write the perfect scraper, it works great for a week, then the site does a fr...",
+        "keywords": "free, selectors, you, opticparse, api, your, vision, json",
+        "generated": "2026-06-20T14:15:47.238230",
+        "file": "i-built-a-free-api-that-scrapes-any-website-using-plain-english-no-css-selectors.md"
     },
     {
         "title": "I tested 7 free PDF tools back to back — here's what's actually free",
@@ -11636,6 +11823,17 @@
         "keywords": "quiz, ramayanam, ram, app, project, users, interactive, download",
         "generated": "2026-06-20T04:12:08.216702",
         "file": "ram-ramayanam-quiz-app.md"
+    },
+    {
+        "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+        "slug": "lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+        "author": "giuliomagnifico",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 11:58:32 +0000",
+        "description": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones Comments URL: http...",
+        "keywords": "lithuanian, startup, launches, open, source, network, detect, shahed",
+        "generated": "2026-06-20T14:15:47.237700",
+        "file": "lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones.md"
     },
     {
         "title": "Python and Me: A Love Story (And 40 Requests)",
@@ -12408,6 +12606,17 @@
         "file": "mastering-parsing-nested-json-with-python-json-module.md"
     },
     {
+        "title": "From Lab to Production: A Practical Guide to AI Model Deployment",
+        "slug": "from-lab-to-production-a-practical-guide-to-ai-model-deployment",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 14:01:02 +0000",
+        "description": "Building a high-accuracy model is only half the battle. For developers and founders, the true challenge begins when that model needs to serve predictions in ...",
+        "keywords": "model, you, inference, your, production, models, real, cost",
+        "generated": "2026-06-20T14:15:47.242930",
+        "file": "from-lab-to-production-a-practical-guide-to-ai-model-deployment.md"
+    },
+    {
         "title": "Embedding lottie-web in React without wrecking your bundle (notes from building a previewer)",
         "slug": "embedding-lottie-web-in-react-without-wrecking-your-bundle-notes-from-building-a-previewer",
         "author": "Scofield",
@@ -12479,9 +12688,9 @@
         "author": "theanonymousone",
         "source": "hackernews",
         "published": "Sat, 20 Jun 2026 05:33:59 +0000",
-        "description": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 114 # Comment...",
+        "description": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 214 # Comment...",
         "keywords": "stored, website, favicon, url, https, comments, article, www",
-        "generated": "2026-06-20T09:27:21.553436",
+        "generated": "2026-06-20T14:15:47.237938",
         "file": "i-stored-a-website-in-a-favicon.md"
     },
     {

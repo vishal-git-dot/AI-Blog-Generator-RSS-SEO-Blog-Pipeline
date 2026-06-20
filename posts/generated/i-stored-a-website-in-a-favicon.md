@@ -4,16 +4,16 @@ slug: "i-stored-a-website-in-a-favicon"
 author: "theanonymousone"
 source: "hackernews"
 published: "Sat, 20 Jun 2026 05:33:59 +0000"
-description: "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 114 # Comment..."
+description: "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 214 # Comment..."
 keywords: "stored, website, favicon, url, https, comments, article, www"
-generated: "2026-06-20T09:27:21.553436"
+generated: "2026-06-20T14:15:47.237938"
 ---
 
 # I Stored a Website in a Favicon
 
 ## Overview
 
-Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 114 # Comments: 33
+Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 214 # Comments: 77
 
 ## Key Insights
 
