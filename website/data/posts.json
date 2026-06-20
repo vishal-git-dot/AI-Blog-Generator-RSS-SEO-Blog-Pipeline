@@ -803,6 +803,17 @@
         "file": "dopamine-fracking.md"
     },
     {
+        "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+        "slug": "ask-hn-will-programmers-write-more-efficient-code-during-the-memory-shortage",
+        "author": "amichail",
+        "source": "hackernews",
+        "published": "Fri, 19 Jun 2026 22:51:09 +0000",
+        "description": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory? Comments URL: https://n...",
+        "keywords": "more, will, memory, use, comments, ask, programmers, write",
+        "generated": "2026-06-20T04:12:08.212211",
+        "file": "ask-hn-will-programmers-write-more-efficient-code-during-the-memory-shortage.md"
+    },
+    {
         "title": "Building a Fast Video Metadata Service with Litestar in Python",
         "slug": "building-a-fast-video-metadata-service-with-litestar-in-python",
         "author": "ahmet gedik",
@@ -1483,6 +1494,17 @@
         "keywords": "will, literacy, can, professionals, not, you, how, who",
         "generated": "2026-06-16T05:04:00.738629",
         "file": "ai-literacy-will-be-more-valuable-than-coding-for-most-professionals.md"
+    },
+    {
+        "title": "AI Technology in 2026: Build Real-Time Agents on Bedrock AgentCore That Never Go Stale",
+        "slug": "ai-technology-in-2026-build-real-time-agents-on-bedrock-agentcore-that-never-go-stale",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 03:58:30 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 20, 2026 Most AI technology workflows are solving the wrong p...",
+        "keywords": "search, agent, agentcore, web, agents, model, coordination, live",
+        "generated": "2026-06-20T04:12:08.220926",
+        "file": "ai-technology-in-2026-build-real-time-agents-on-bedrock-agentcore-that-never-go-stale.md"
     },
     {
         "title": "AI-Powered Narrative Drafting for RIAs: Streamlining Market Commentary and Portfolio Drift Analysis",
@@ -2431,6 +2453,17 @@
         "file": "i-ran-qwen-and-claude-3-in-production-for-30-days-heres-what-won.md"
     },
     {
+        "title": "Build a GST Invoice Parser in 70 Lines of Python",
+        "slug": "build-a-gst-invoice-parser-in-70-lines-of-python",
+        "author": "Archit Mittal",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 03:41:45 +0000",
+        "description": "If you run a small business in India, you know the monthly ritual: a folder full of vendor invoice PDFs, and a spreadsheet that needs GSTIN, invoice number, ...",
+        "keywords": "invoice, gstin, row, compile, total, text, invoices, pdfs",
+        "generated": "2026-06-20T04:12:08.213569",
+        "file": "build-a-gst-invoice-parser-in-70-lines-of-python.md"
+    },
+    {
         "title": "Deploying Label Studio Open-Source Data Labeling Platform on Ubuntu 24.04",
         "slug": "deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404",
         "author": "Sanskriti Harmukh",
@@ -3190,6 +3223,17 @@
         "file": "understanding-the-rationale-behind-a-rule-when-trying-to-circumvent-it.md"
     },
     {
+        "title": "🐍 python list comprehension performance vs map — which one should you use?",
+        "slug": "python-list-comprehension-performance-vs-map-which-one-should-you-use",
+        "author": "Python-T Point",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 03:40:31 +0000",
+        "description": "💡 Readability — Why Clarity Wins Readability is the primary factor influencing the preference for list comprehensions over map in everyday code. 📑 Table of C...",
+        "keywords": "map, list, python, comprehension, when, iterator, function, bytecode",
+        "generated": "2026-06-20T04:12:08.214763",
+        "file": "python-list-comprehension-performance-vs-map-which-one-should-you-use.md"
+    },
+    {
         "title": "How I Use Claude Code as My 24/7 AI Money-Making Assistant",
         "slug": "how-i-use-claude-code-as-my-247-ai-money-making-assistant",
         "author": "叶稼辰",
@@ -3309,6 +3353,17 @@
         "keywords": "german, ruling, declares, liable, false, answers, overviews, url",
         "generated": "2026-06-10T04:15:10.535402",
         "file": "german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md"
+    },
+    {
+        "title": "Enhancing Multi-Tenant SaaS with AI for Better Performance",
+        "slug": "enhancing-multi-tenant-saas-with-ai-for-better-performance",
+        "author": "Ravi Roy",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 03:55:49 +0000",
+        "description": "Understanding Multi-Tenant SaaS Architecture Multi-tenant SaaS is reshaping cloud business operations. By utilizing one software for multiple clients, it boo...",
+        "keywords": "tenant, multi, saas, data, resource, efficiency, costs, user",
+        "generated": "2026-06-20T04:12:08.221665",
+        "file": "enhancing-multi-tenant-saas-with-ai-for-better-performance.md"
     },
     {
         "title": "Eagle Computer: The rise and fall of an early PC clone",
@@ -3718,6 +3773,28 @@
         "file": "developer-take-on-running-local-models-is-good-now.md"
     },
     {
+        "title": "Aikido Code Audit",
+        "slug": "aikido-code-audit",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Fri, 19 Jun 2026 23:54:54 +0000",
+        "description": "Article URL: https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase Comments URL: https://news.ycombinator.c...",
+        "keywords": "aikido, code, audit, url, https, comments, article, www",
+        "generated": "2026-06-20T04:12:08.212090",
+        "file": "aikido-code-audit.md"
+    },
+    {
+        "title": "Hey, n00b, we didn't hire you to complete tasks",
+        "slug": "hey-n00b-we-didnt-hire-you-to-complete-tasks",
+        "author": "rrvsh",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 00:11:07 +0000",
+        "description": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete Comments URL: https://news.ycombinator.com/item?id=48604851 Points: 114...",
+        "keywords": "hey, hire, you, complete, url, https, com, comments",
+        "generated": "2026-06-20T04:12:08.211965",
+        "file": "hey-n00b-we-didnt-hire-you-to-complete-tasks.md"
+    },
+    {
         "title": "Building a Food Blog Platform with Django — Daily Dev Log",
         "slug": "building-a-food-blog-platform-with-django-daily-dev-log",
         "author": "Arslon Erkinov",
@@ -3771,6 +3848,17 @@
         "keywords": "your, you, not, have, data, they, what, business",
         "generated": "2026-06-17T15:50:36.575006",
         "file": "moving-ai-from-pilot-purgatory-to-production-power.md"
+    },
+    {
+        "title": "Python for Beginners — Part 3: Strings & Booleans",
+        "slug": "python-for-beginners-part-3-strings-booleans",
+        "author": "Ramesh S",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 03:50:48 +0000",
+        "description": "Python for Beginners — Part 3: Strings & Booleans Part 3 of a beginner-friendly series on learning Python from scratch. In Part 2 , we learned how variables ...",
+        "keywords": "print, python, true, string, strings, text, part, you",
+        "generated": "2026-06-20T04:12:08.212844",
+        "file": "python-for-beginners-part-3-strings-booleans.md"
     },
     {
         "title": "Strengthening Network Defense for a fashion startup (Proposal)",
@@ -3958,6 +4046,28 @@
         "keywords": "staffing, recruitment, agencies, hiring, candidate, software, candidates, recruiters",
         "generated": "2026-06-05T10:10:12.600936",
         "file": "how-ai-is-transforming-staffing-software-in-2026.md"
+    },
+    {
+        "title": "Imagine Your Phone Calls With a Built-In AI Assistant: Jio Makes it Real",
+        "slug": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real",
+        "author": "Advay254",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 04:01:15 +0000",
+        "description": "India's richest man, Mukesh Ambani, just unveiled a bold vision for how artificial intelligence will weave into the lives of over 500 million people. His com...",
+        "keywords": "phone, calls, imagine, your, built, assistant, jio, makes",
+        "generated": "2026-06-20T04:12:08.219351",
+        "file": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real.md"
+    },
+    {
+        "title": "From Prompts to AI Agents: A Frontend Developer's Guide to Mastery",
+        "slug": "from-prompts-to-ai-agents-a-frontend-developers-guide-to-mastery",
+        "author": "Dave Kurian",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 04:06:03 +0000",
+        "description": "How to build AI agents as a frontend developer is the enable that sits quietly underneath every AI-powered UI you’ve seen this year. Knowing how to write q...",
+        "keywords": "agents, agent, frontend, you, prompt, prompts, your, code",
+        "generated": "2026-06-20T04:12:08.216519",
+        "file": "from-prompts-to-ai-agents-a-frontend-developers-guide-to-mastery.md"
     },
     {
         "title": "How to Build a Zero-Trust Docker Sandbox for Local AI & Python Applications",
@@ -4653,6 +4763,17 @@
         "file": "creating-an-ai-note-taker-with-gemini-api.md"
     },
     {
+        "title": "I built a free habit tracker where your habits are 3D creatures that grow (or shrink) with your streak",
+        "slug": "i-built-a-free-habit-tracker-where-your-habits-are-3d-creatures-that-grow-or-shrink-with-your-streak",
+        "author": "Ruben D. Silva Espinosa",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 03:34:54 +0000",
+        "description": "I'm a solo XR/creative director by day, and a few months ago I got tired of habit apps that guilt-trip you the moment you miss a day. Red X marks. Broken str...",
+        "keywords": "habit, you, day, built, free, your, habits, streak",
+        "generated": "2026-06-20T04:12:08.217296",
+        "file": "i-built-a-free-habit-tracker-where-your-habits-are-3d-creatures-that-grow-or-shrink-with-your-streak.md"
+    },
+    {
         "title": "It's death",
         "slug": "its-death",
         "author": "inatreecrown2",
@@ -4849,6 +4970,17 @@
         "keywords": "agent, self, memory, its, context, execution, prompt, hermes",
         "generated": "2026-06-08T20:25:42.486914",
         "file": "beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation.md"
+    },
+    {
+        "title": "AWS AgentCore Web Search: Real-Time AI Technology Agents Without Scraping Infrastructure",
+        "slug": "aws-agentcore-web-search-real-time-ai-technology-agents-without-scraping-infrastructure",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 04:02:02 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 20, 2026 Stop blaming your model. The next time your AI techn...",
+        "keywords": "search, agentcore, agent, web, model, coordination, what, time",
+        "generated": "2026-06-20T04:12:08.219143",
+        "file": "aws-agentcore-web-search-real-time-ai-technology-agents-without-scraping-infrastructure.md"
     },
     {
         "title": "Nordstjernen Web Browser 1.0.0 released",
@@ -5335,6 +5467,17 @@
         "file": "frood-an-alpine-initramfs-nas.md"
     },
     {
+        "title": "O que é FullAgenticStack?",
+        "slug": "o-que-fullagenticstack",
+        "author": "suissAI",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 03:38:33 +0000",
+        "description": "A evolução da arquitetura Quando escrevi meu primeiro artigo sobre Full Agentic Stack em 2025, meu sistema ainda era muito mais simples. Naquele momento, eu ...",
+        "keywords": "uma, que, arquitetura, agents, ser, stack, mais, com",
+        "generated": "2026-06-20T04:12:08.217060",
+        "file": "o-que-fullagenticstack.md"
+    },
+    {
         "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
         "slug": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access",
         "author": "macklinkachorn",
@@ -5531,6 +5674,17 @@
         "keywords": "opd, variance, oprd, distillation, hidden, policy, representation, late",
         "generated": "2026-06-16T05:04:00.740484",
         "file": "aligning-hidden-states-stabilizes-llm-distillation.md"
+    },
+    {
+        "title": "Databricks Acquires Panther: A New Era in Cyberatt…",
+        "slug": "databricks-acquires-panther-a-new-era-in-cyberatt",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 04:06:04 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of Databricks' acquisition of Panther for the cybersecurity landscape. In-depth ana...",
+        "keywords": "panther, data, can, security, databricks, cybersecurity, detection, solutions",
+        "generated": "2026-06-20T04:12:08.215568",
+        "file": "databricks-acquires-panther-a-new-era-in-cyberatt.md"
     },
     {
         "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
@@ -7612,6 +7766,17 @@
         "file": "building-a-multi-source-threat-intelligence-correlation-engine-in-python.md"
     },
     {
+        "title": "How to feed a dictator",
+        "slug": "how-to-feed-a-dictator",
+        "author": "Michelangelo11",
+        "source": "hackernews",
+        "published": "Sat, 20 Jun 2026 01:16:56 +0000",
+        "description": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film Comments URL: https://news.ycombinator.com/item?id=48605301 Points: 98 ...",
+        "keywords": "how, feed, dictator, url, https, com, film, comments",
+        "generated": "2026-06-20T04:12:08.211806",
+        "file": "how-to-feed-a-dictator.md"
+    },
+    {
         "title": "I'm 18 and I built an AI Pomodoro timer that actually forces you to study",
         "slug": "im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study",
         "author": "Jakub Mužík",
@@ -9618,10 +9783,10 @@
         "slug": "web-scraping-for-beginners-sell-data-as-a-service",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Thu, 18 Jun 2026 19:44:37 +0000",
-        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely no stranger to the concept of web scraping. But have you ever considered tur...",
-        "keywords": "data, you, web, scraping, can, html, website, prices",
-        "generated": "2026-06-18T20:32:55.629555",
+        "published": "Sat, 20 Jun 2026 03:45:04 +0000",
+        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely aware of the vast amount of data available on the web. However, extracting a...",
+        "keywords": "data, you, web, can, html, scraping, tables, requests",
+        "generated": "2026-06-20T04:12:08.213129",
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
     },
     {
@@ -10736,6 +10901,17 @@
         "file": "apache-hudi-merge-on-read-vs-copy-on-write-picking-the-right-table-type.md"
     },
     {
+        "title": "Zenzizenzizenzic",
+        "slug": "zenzizenzizenzic",
+        "author": "gyosifov",
+        "source": "hackernews",
+        "published": "Fri, 19 Jun 2026 21:49:44 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic Comments URL: https://news.ycombinator.com/item?id=48603664 Points: 80 # Comments: 22",
+        "keywords": "zenzizenzizenzic, url, https, comments, article, wikipedia, org, wiki",
+        "generated": "2026-06-20T04:12:08.212350",
+        "file": "zenzizenzizenzic.md"
+    },
+    {
         "title": "The Undruggable",
         "slug": "the-undruggable",
         "author": "thesythesis.ai",
@@ -10767,6 +10943,17 @@
         "keywords": "you, trainee, three, conversation, mentor, one, what, training",
         "generated": "2026-06-18T04:40:19.047051",
         "file": "i-built-a-three-agent-ai-training-simulator-on-telegram-heres-how-it-works.md"
+    },
+    {
+        "title": "I Analyzed 853 LLM Conversations About Brand Monitoring Tools",
+        "slug": "i-analyzed-853-llm-conversations-about-brand-monitoring-tools",
+        "author": "Saul Fleischman",
+        "source": "devto_ai",
+        "published": "Sat, 20 Jun 2026 03:57:25 +0000",
+        "description": "Most founders measuring AI visibility are doing it wrong - they run one query, see their name appear, and declare victory. I ran 853. The Study That Made Me ...",
+        "keywords": "you, not, our, what, brand, how, they, across",
+        "generated": "2026-06-20T04:12:08.221400",
+        "file": "i-analyzed-853-llm-conversations-about-brand-monitoring-tools.md"
     },
     {
         "title": "GDPR compliance for web devs: A practical technical guide (2026 edition with code examples)",
@@ -11253,6 +11440,17 @@
         "file": "xtk-a-symbolic-expression-toolkit-for-term-rewriting.md"
     },
     {
+        "title": "RAM (Ramayanam) Quiz App 🚩📖",
+        "slug": "ram-ramayanam-quiz-app",
+        "author": "Bhargavi Simhadri",
+        "source": "devto_webdev",
+        "published": "Sat, 20 Jun 2026 03:54:23 +0000",
+        "description": "Today, I am excited to share my project, RAM (Ramayanam) Quiz App. This project helps users learn about Ramayanam in a fun and interactive way. Users can ans...",
+        "keywords": "quiz, ramayanam, ram, app, project, users, interactive, download",
+        "generated": "2026-06-20T04:12:08.216702",
+        "file": "ram-ramayanam-quiz-app.md"
+    },
+    {
         "title": "Python and Me: A Love Story (And 40 Requests)",
         "slug": "python-and-me-a-love-story-and-40-requests",
         "author": "Electra AI",
@@ -11735,6 +11933,17 @@
         "keywords": "glm, new, leading, open, weights, model, artificial, analysis",
         "generated": "2026-06-17T11:07:27.898784",
         "file": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md"
+    },
+    {
+        "title": "Build a GST Invoice Generator in 87 Lines of Python",
+        "slug": "build-a-gst-invoice-generator-in-87-lines-of-python",
+        "author": "Archit Mittal",
+        "source": "devto_python",
+        "published": "Sat, 20 Jun 2026 03:40:49 +0000",
+        "description": "If you freelance or run a small business in India, you have probably paid for invoicing software that does one thing: multiply numbers and put them in a PDF....",
+        "keywords": "pdf, invoice, cell, buyer, tax, csv, gstin, subtotal",
+        "generated": "2026-06-20T04:12:08.214008",
+        "file": "build-a-gst-invoice-generator-in-87-lines-of-python.md"
     },
     {
         "title": "Teaching AI Like a Junior Dev: 4 Leadership 4.0 Moves",
