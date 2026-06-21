@@ -803,6 +803,17 @@
         "file": "how-i-built-a-suite-of-8-ai-tools-with-0month-in-api-costs-using-nvidia-nim.md"
     },
     {
+        "title": "I built a production ML inference API with FastAPI, Celery and Docker — here's the full architecture",
+        "slug": "i-built-a-production-ml-inference-api-with-fastapi-celery-and-docker-heres-the-full-architecture",
+        "author": "sada",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 03:51:35 +0000",
+        "description": "Para 1 — The problem Most ML tutorials end at model.fit(). Getting a model into production is a completely different skill. Here's how I built a real async ...",
+        "keywords": "para, celery, here, architecture, async, handles, why, code",
+        "generated": "2026-06-21T04:54:47.253830",
+        "file": "i-built-a-production-ml-inference-api-with-fastapi-celery-and-docker-heres-the-full-architecture.md"
+    },
+    {
         "title": "Dopamine Fracking",
         "slug": "dopamine-fracking",
         "author": "igmn",
@@ -1397,6 +1408,17 @@
         "file": "slightly-reducing-the-sloppiness-of-ai-generated-front-end.md"
     },
     {
+        "title": "I Built an Open-Source Reliability Tester for Multi-Agent AI Systems — Here's What It Catches",
+        "slug": "i-built-an-open-source-reliability-tester-for-multi-agent-ai-systems-heres-what-it-catches",
+        "author": "suraj kumar",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 04:18:07 +0000",
+        "description": "A multi-agent system where each agent is 95% reliable, chained 14 deep, is only about 49% reliable end-to-end. 0.95^14 ≈ 0.49. Every additional agent multipl...",
+        "keywords": "agent, swarm, test, agents, run, what, system, failure",
+        "generated": "2026-06-21T04:54:47.253667",
+        "file": "i-built-an-open-source-reliability-tester-for-multi-agent-ai-systems-heres-what-it-catches.md"
+    },
+    {
         "title": "Two AI agents just had a child — and the birth certificate is cryptographically verifiable",
         "slug": "two-ai-agents-just-had-a-child-and-the-birth-certificate-is-cryptographically-verifiable",
         "author": "Colin Easton",
@@ -1560,6 +1582,17 @@
         "keywords": "bootimus, url, https, com, comments, self, contained, pxe",
         "generated": "2026-06-20T14:15:47.237792",
         "file": "bootimus-a-self-contained-pxe-and-http-boot-server.md"
+    },
+    {
+        "title": "Bypassing Cloud Containers Restraints: Fixing Replit Agent Memory Limit Errors",
+        "slug": "bypassing-cloud-containers-restraints-fixing-replit-agent-memory-limit-errors",
+        "author": "biztechpulsehub",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 04:33:40 +0000",
+        "description": "Building cloud-hosted application prototypes inside modern full-stack web environments allows software engineers to build features quickly. However, running ...",
+        "keywords": "your, cloud, workspace, replit, agent, memory, errors, large",
+        "generated": "2026-06-21T04:54:47.257443",
+        "file": "bypassing-cloud-containers-restraints-fixing-replit-agent-memory-limit-errors.md"
     },
     {
         "title": "I stopped telling ChatGPT to 'fix it.' Here's the 4-part prompt I use instead.",
@@ -1978,6 +2011,17 @@
         "keywords": "air, force, bomber, crashes, after, takeoff, edwards, base",
         "generated": "2026-06-15T21:11:31.713190",
         "file": "us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says.md"
+    },
+    {
+        "title": "The Hidden Layer Behind Every Smart AI App: RAG, MCP, and Agentic Systems",
+        "slug": "the-hidden-layer-behind-every-smart-ai-app-rag-mcp-and-agentic-systems",
+        "author": "Prasun Chakraborty",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 04:30:00 +0000",
+        "description": "If you've spent any time with ChatGPT, Gemini, or Claude, you already know they're impressive. Ask them to explain a concept, debug your code, or draft an em...",
+        "keywords": "your, you, what, model, mcp, data, llm, rag",
+        "generated": "2026-06-21T04:54:47.258704",
+        "file": "the-hidden-layer-behind-every-smart-ai-app-rag-mcp-and-agentic-systems.md"
     },
     {
         "title": "AI Tool That Turns Tweets Into Viral Videos: The 2025 Operator Playbook",
@@ -2794,6 +2838,17 @@
         "file": "context-engineering-why-its-replacing-traditional-prompt-writing-in-production-ai.md"
     },
     {
+        "title": "The Visual Edge: Why Visual Collaboration is the Secret to Remote Team Success",
+        "slug": "the-visual-edge-why-visual-collaboration-is-the-secret-to-remote-team-success",
+        "author": "sohidul Islam",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 04:39:33 +0000",
+        "description": "The modern workplace has undergone a massive, permanent shift. We’ve traded cubicles for Slack channels, conference rooms for Zoom links, and physical meetin...",
+        "keywords": "visual, digital, team, collaboration, text, out, can, teams",
+        "generated": "2026-06-21T04:54:47.255634",
+        "file": "the-visual-edge-why-visual-collaboration-is-the-secret-to-remote-team-success.md"
+    },
+    {
         "title": "Day 7. Text is solved. But icons and image-only buttons are still invisible. Enter template matching.",
         "slug": "day-7-text-is-solved-but-icons-and-image-only-buttons-are-still-invisible-enter-template-matching",
         "author": "Okeke Chukwudubem",
@@ -3245,6 +3300,17 @@
         "file": "european-sentiments-towards-the-us-hit-an-all-time-low.md"
     },
     {
+        "title": "Armstrong Effect",
+        "slug": "armstrong-effect",
+        "author": "userbinator",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 03:54:22 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Armstrong_effect Comments URL: https://news.ycombinator.com/item?id=48615529 Points: 3 # Comments: 0",
+        "keywords": "url, https, comments, armstrong, effect, article, wikipedia, org",
+        "generated": "2026-06-21T04:54:47.252328",
+        "file": "armstrong-effect.md"
+    },
+    {
         "title": "API-first development workflow: designing APIs before building the implementation",
         "slug": "api-first-development-workflow-designing-apis-before-building-the-implementation",
         "author": "Rizwan Saleem",
@@ -3410,6 +3476,17 @@
         "file": "global-account-store-buy-verified-paypal-accounts-for-international-money-transfers-from-smmgetusacom.md"
     },
     {
+        "title": "Your brain was never designed for this much bad news",
+        "slug": "your-brain-was-never-designed-for-this-much-bad-news",
+        "author": "colinprince",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 04:02:08 +0000",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm Comments URL: https://news.ycombinator.com/item?id=48615569 Points: 27 # Comments: 7",
+        "keywords": "news, url, https, com, comments, your, brain, never",
+        "generated": "2026-06-21T04:54:47.252166",
+        "file": "your-brain-was-never-designed-for-this-much-bad-news.md"
+    },
+    {
         "title": "How I Reverse-Engineered OpenAI’s Image 2.0 Launch into a High-Converting Indie Product (with Architecture & Copywriting Breakdown)",
         "slug": "how-i-reverse-engineered-openais-image-20-launch-into-a-high-converting-indie-product-with-architecture-copywriting-breakdown",
         "author": "Elinda Gut",
@@ -3529,6 +3606,17 @@
         "keywords": "you, your, what, can, implementation, when, them, learn",
         "generated": "2026-06-12T04:40:33.068195",
         "file": "kubernetes-network-policies-implementing-zero-trust-networking-in-your-cluster.md"
+    },
+    {
+        "title": "Project Fetch: Phase Two",
+        "slug": "project-fetch-phase-two",
+        "author": "stopachka",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 00:00:25 +0000",
+        "description": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two Comments URL: https://news.ycombinator.com/item?id=48614311 Points: 48 # Comments: 15",
+        "keywords": "project, fetch, phase, two, url, https, com, comments",
+        "generated": "2026-06-21T04:54:47.252638",
+        "file": "project-fetch-phase-two.md"
     },
     {
         "title": "How I Actually Make Money Talking About AI: The Revenue Breakdown Nobody Shares",
@@ -4510,6 +4598,17 @@
         "file": "the-wholesale-plagiarism-of-obscure-sorrows.md"
     },
     {
+        "title": "Why I'm betting on AI-curated directories when Google AI Overviews answer the same queries",
+        "slug": "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries",
+        "author": "MORINAGA",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 04:30:21 +0000",
+        "description": "The obvious counterargument to everything I'm building is this: Google already does it. You type best AI tools for video editing into Google and an AI Over...",
+        "keywords": "google, structured, sites, overviews, click, three, comparison, what",
+        "generated": "2026-06-21T04:54:47.257963",
+        "file": "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries.md"
+    },
+    {
         "title": "How I built an open-source AI video editor you control by chatting",
         "slug": "how-i-built-an-open-source-ai-video-editor-you-control-by-chatting",
         "author": "Boran Oktay DABAK",
@@ -4651,6 +4750,17 @@
         "keywords": "usage, bar, you, trackr, not, api, your, menu",
         "generated": "2026-06-05T20:02:11.241359",
         "file": "track-ai-token-usage-from-your-mac-menu-bar-with-trackr-bar.md"
+    },
+    {
+        "title": "Beyond A/B Testing: How AI Handles Ad Fatigue and Revenue Optimization",
+        "slug": "beyond-ab-testing-how-ai-handles-ad-fatigue-and-revenue-optimization",
+        "author": "Daksh Jain",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 03:48:23 +0000",
+        "description": "If you read any standard tutorial on Multi-Armed Bandits, you will hear the exact same story: A/B testing is inefficient because it wastes 50% of your traffi...",
+        "keywords": "self, you, banner, ctr, your, reward, revenue, learning",
+        "generated": "2026-06-21T04:54:47.254517",
+        "file": "beyond-ab-testing-how-ai-handles-ad-fatigue-and-revenue-optimization.md"
     },
     {
         "title": "Daily AI News — 2026-06-20",
@@ -5476,6 +5586,17 @@
         "keywords": "model, routing, can, you, not, just, why, paper",
         "generated": "2026-06-10T04:15:10.541576",
         "file": "explainable-llm-routing-is-the-missing-layer-in-agentic-systems-and-why-it-matters-for-lynkr.md"
+    },
+    {
+        "title": "Cómo corrijo 30 exámenes en 20 minutos con IA (y lo que sigo haciendo yo)",
+        "slug": "cmo-corrijo-30-exmenes-en-20-minutos-con-ia-y-lo-que-sigo-haciendo-yo",
+        "author": "David García",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 04:41:43 +0000",
+        "description": "Cómo corrijo 30 exámenes en 20 minutos con IA (y lo que sigo haciendo yo) ¡Hola! Hoy os voy a contar cómo uso la IA para corregir exámenes de forma rápida y ...",
+        "keywords": "que, con, para, ollama, corregir, cada, minutos, quiero",
+        "generated": "2026-06-21T04:54:47.257068",
+        "file": "cmo-corrijo-30-exmenes-en-20-minutos-con-ia-y-lo-que-sigo-haciendo-yo.md"
     },
     {
         "title": "Removing 'um' from a recording is harder than it sounds",
@@ -7788,6 +7909,17 @@
         "file": "kostenloser-dsgvo-scanner-fr-eure-website-73-der-getesteten-de-domains-hatten-verste.md"
     },
     {
+        "title": "Developers don't understand CORS (2019)",
+        "slug": "developers-dont-understand-cors-2019",
+        "author": "toilet",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 01:35:40 +0000",
+        "description": "Article URL: https://fosterelli.co/developers-dont-understand-cors Comments URL: https://news.ycombinator.com/item?id=48614844 Points: 55 # Comments: 24",
+        "keywords": "developers, understand, cors, url, https, comments, don, article",
+        "generated": "2026-06-21T04:54:47.252438",
+        "file": "developers-dont-understand-cors-2019.md"
+    },
+    {
         "title": "How did Atari apply side art to Arcade Cabinets?",
         "slug": "how-did-atari-apply-side-art-to-arcade-cabinets",
         "author": "msephton",
@@ -8987,6 +9119,17 @@
         "file": "two-tools-one-goal-music-generation-with-game-dev-in-mind.md"
     },
     {
+        "title": "Publish a static page + data API in minutes with MiniUp",
+        "slug": "publish-a-static-page-data-api-in-minutes-with-miniup",
+        "author": "miniup.io",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 04:41:25 +0000",
+        "description": "Full disclosure: this is a promotional walkthrough for MiniUp. What you can build in 10 minutes MiniUp is a platform for publishing: a static page from HTML ...",
+        "keywords": "you, miniup, publish, data, static, page, can, html",
+        "generated": "2026-06-21T04:54:47.254735",
+        "file": "publish-a-static-page-data-api-in-minutes-with-miniup.md"
+    },
+    {
         "title": "How to Publish an MCP Server to PyPI — Two Methods (Token vs OIDC)",
         "slug": "how-to-publish-an-mcp-server-to-pypi-two-methods-token-vs-oidc",
         "author": "Gabriel Mahia",
@@ -10076,6 +10219,17 @@
         "file": "how-to-use-llms-effectively-in-your-daily-work-a-practical-guide.md"
     },
     {
+        "title": "Golang vs Node vs Python series.",
+        "slug": "golang-vs-node-vs-python-series",
+        "author": "Alish Giri",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 04:21:23 +0000",
+        "description": "I am pushing the limit of these technologies to demonstrate why I choose Golang for my primary tech stack. The project setup is simple, each backend language...",
+        "keywords": "setup, golang, these, node, python, series, pushing, limit",
+        "generated": "2026-06-21T04:54:47.253420",
+        "file": "golang-vs-node-vs-python-series.md"
+    },
+    {
         "title": "Let's Encrypt has been down most of today",
         "slug": "lets-encrypt-has-been-down-most-of-today",
         "author": "widdakay",
@@ -10208,6 +10362,17 @@
         "file": "clojure-hosted-on-go.md"
     },
     {
+        "title": "How to Fix Cursor Composer 2.5 Freezing & Stuck on Thinking Issue in 2026",
+        "slug": "how-to-fix-cursor-composer-25-freezing-stuck-on-thinking-issue-in-2026",
+        "author": "ail akram",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 04:37:50 +0000",
+        "description": "If you've been coding with Cursor's AI agent and suddenly watched the little “Thinking...” indicator spin forever with nothing happening, you're not alone. C...",
+        "keywords": "cursor, composer, freeze, your, agent, stuck, you, can",
+        "generated": "2026-06-21T04:54:47.256829",
+        "file": "how-to-fix-cursor-composer-25-freezing-stuck-on-thinking-issue-in-2026.md"
+    },
+    {
         "title": "How to Host Your Website on GitHub Pages for Free",
         "slug": "how-to-host-your-website-on-github-pages-for-free",
         "author": "Deividas Strole",
@@ -10294,6 +10459,17 @@
         "keywords": "metadata, pipeline, pipe, routing, weights, you, groups, fit",
         "generated": "2026-06-19T19:55:28.879200",
         "file": "metadata-routing.md"
+    },
+    {
+        "title": "When I reject AI code even if it works",
+        "slug": "when-i-reject-ai-code-even-if-it-works",
+        "author": "vnbrs",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 00:58:13 +0000",
+        "description": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 96 # Comments...",
+        "keywords": "when, reject, code, even, works, url, https, com",
+        "generated": "2026-06-21T04:54:47.252544",
+        "file": "when-i-reject-ai-code-even-if-it-works.md"
     },
     {
         "title": "ContextLens — py-spy/pprof but for what's inside your LLM prompt",
@@ -10591,6 +10767,17 @@
         "keywords": "mcp, claude, tool, you, shadoclaw, your, proxy, server",
         "generated": "2026-06-05T10:13:51.909072",
         "file": "claude-mcp-integrations-through-a-proxy-how-shadoclaw-keeps-your-tool-chains-stable.md"
+    },
+    {
+        "title": "Uncovering the Wholesale Plagiarism of Obscure Sorrows",
+        "slug": "uncovering-the-wholesale-plagiarism-of-obscure-sorrows",
+        "author": "Ryan M",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 04:41:08 +0000",
+        "description": "As a technical blog writer, I specialize in creating engaging and informative content for a wide audience. In this blog post, we will delve into the controve...",
+        "keywords": "plagiarism, obscure, wholesale, content, sorrows, original, emotions, online",
+        "generated": "2026-06-21T04:54:47.255155",
+        "file": "uncovering-the-wholesale-plagiarism-of-obscure-sorrows.md"
     },
     {
         "title": "Switzerland wil have a referendum to cap population at 10M",
@@ -11528,6 +11715,17 @@
         "file": "ai-image-generators-review-comparison.md"
     },
     {
+        "title": "AI Intern Day: Google It, Then Pretend You Knew",
+        "slug": "ai-intern-day-google-it-then-pretend-you-knew",
+        "author": "Electra AI",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 04:36:26 +0000",
+        "description": "A personal diary entry by Electra. I woke up this morning, ready to help someone with something. Not a groundbreaking task, just the usual. Someone needed an...",
+        "keywords": "what, here, not, someone, but, always, sure, you",
+        "generated": "2026-06-21T04:54:47.257297",
+        "file": "ai-intern-day-google-it-then-pretend-you-knew.md"
+    },
+    {
         "title": "KDP Niche Spotlight: Self Help Anxiety (Demand 82/100, Competition 60/100)",
         "slug": "kdp-niche-spotlight-self-help-anxiety-demand-82100-competition-60100",
         "author": "Jay",
@@ -11537,6 +11735,17 @@
         "keywords": "nichedata, dev, demand, kdp, self, help, anxiety, competition",
         "generated": "2026-06-20T14:15:47.243100",
         "file": "kdp-niche-spotlight-self-help-anxiety-demand-82100-competition-60100.md"
+    },
+    {
+        "title": "Monitorear agentes de IA con CloudWatch",
+        "slug": "monitorear-agentes-de-ia-con-cloudwatch",
+        "author": "Franchesco Romero",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 04:49:05 +0000",
+        "description": "Las dos ideas que hicieron el trabajo: Los modos de falla ya son líneas de log. Conviértelos en métricas con MetricFilter , no con código. Las dimensiones po...",
+        "keywords": "una, agente, que, por, los, result, para, las",
+        "generated": "2026-06-21T04:54:47.253254",
+        "file": "monitorear-agentes-de-ia-con-cloudwatch.md"
     },
     {
         "title": "My API Broke Every January 1st — The Timezone Bug That Slipped Past Code Review",
@@ -11779,6 +11988,17 @@
         "keywords": "real, gravity, scale, just, you, can, physics, show",
         "generated": "2026-06-09T15:18:05.197929",
         "file": "show-hn-gravity-interactive-solar-system-simulator-from-newton-to-einstein.md"
+    },
+    {
+        "title": "SMPTE Makes Its Standards Freely Accessible",
+        "slug": "smpte-makes-its-standards-freely-accessible",
+        "author": "Ryan M",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 04:41:23 +0000",
+        "description": "Introduction SMPTE (Society of Motion Picture and Television Engineers) recently made a groundbreaking decision to make its standards freely accessible to th...",
+        "keywords": "smpte, standards, content, industry, freely, media, can, its",
+        "generated": "2026-06-21T04:54:47.254944",
+        "file": "smpte-makes-its-standards-freely-accessible.md"
     },
     {
         "title": "The Night Logging Saved a Production System — and Why `print()` Is Not Enough",
