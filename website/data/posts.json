@@ -814,6 +814,17 @@
         "file": "i-built-a-production-ml-inference-api-with-fastapi-celery-and-docker-heres-the-full-architecture.md"
     },
     {
+        "title": "A 3D voxel game engine written in APL",
+        "slug": "a-3d-voxel-game-engine-written-in-apl",
+        "author": "sph",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 08:04:54 +0000",
+        "description": "Article URL: https://github.com/namgyaaal/avoxelgame Comments URL: https://news.ycombinator.com/item?id=48616713 Points: 36 # Comments: 6",
+        "keywords": "url, https, com, comments, voxel, game, engine, written",
+        "generated": "2026-06-21T09:58:05.289171",
+        "file": "a-3d-voxel-game-engine-written-in-apl.md"
+    },
+    {
         "title": "Dopamine Fracking",
         "slug": "dopamine-fracking",
         "author": "igmn",
@@ -1065,6 +1076,17 @@
         "keywords": "agent, you, not, vokal, infrastructure, multi, wrapper, honest",
         "generated": "2026-06-15T05:01:58.097770",
         "file": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents.md"
+    },
+    {
+        "title": "I Fixed the AI Commit Messages Problem in 20 Lines of Python",
+        "slug": "i-fixed-the-ai-commit-messages-problem-in-20-lines-of-python",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 09:14:30 +0000",
+        "description": "You've probably seen that trending post — I Asked AI to Write My Commit Messages and It Was Embarrassing. Same. But instead of accepting embarrassing outpu...",
+        "keywords": "git, diff, commit, you, claude, message, system, api",
+        "generated": "2026-06-21T09:58:05.290632",
+        "file": "i-fixed-the-ai-commit-messages-problem-in-20-lines-of-python.md"
     },
     {
         "title": "How I built my Delta-Neutral Arbitrage Bot on Hyperliquid (Python)",
@@ -2827,6 +2849,17 @@
         "file": "one-ai-vendor-is-a-single-point-of-failure-treat-it-like-one.md"
     },
     {
+        "title": "פוסט שיווקי — Telegram Brand Manager Agent 3",
+        "slug": "telegram-brand-manager-agent-3",
+        "author": "אופיר צרפתי",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 09:47:33 +0000",
+        "description": "🚨 שברנו את מחסום השפה מידע קריטי מגיע בערבית, רוסית, אנגלית — קבור בתמונות ובסרטונים. אתה מפספס אותו. Radar מתרגם הכל לעברית בזמן אמת: ✅ ערוצי טלגרם ו-X ✅ טק...",
+        "keywords": "radar, telegram, brand, manager, agent, push, com, home",
+        "generated": "2026-06-21T09:58:05.296189",
+        "file": "telegram-brand-manager-agent-3.md"
+    },
+    {
         "title": "Context Engineering: Why It's Replacing Traditional Prompt Writing in Production AI",
         "slug": "context-engineering-why-its-replacing-traditional-prompt-writing-in-production-ai",
         "author": "Julian Neagu",
@@ -3487,6 +3520,17 @@
         "file": "your-brain-was-never-designed-for-this-much-bad-news.md"
     },
     {
+        "title": "The Lost Story of Alan Turing's Delilah Project",
+        "slug": "the-lost-story-of-alan-turings-delilah-project",
+        "author": "asdefghyk",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 05:15:33 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/alan-turings-delilah Comments URL: https://news.ycombinator.com/item?id=48615890 Points: 21 # Comments: 1",
+        "keywords": "alan, delilah, url, https, comments, lost, story, turing",
+        "generated": "2026-06-21T09:58:05.289405",
+        "file": "the-lost-story-of-alan-turings-delilah-project.md"
+    },
+    {
         "title": "How I Reverse-Engineered OpenAI’s Image 2.0 Launch into a High-Converting Indie Product (with Architecture & Copywriting Breakdown)",
         "slug": "how-i-reverse-engineered-openais-image-20-launch-into-a-high-converting-indie-product-with-architecture-copywriting-breakdown",
         "author": "Elinda Gut",
@@ -3837,6 +3881,17 @@
         "keywords": "your, agentpay, payment, bank, payments, settlement, vietqr, agents",
         "generated": "2026-06-14T04:46:39.565318",
         "file": "vietqr-payments-for-ai-agentsno-stripe-setup.md"
+    },
+    {
+        "title": "The 100k Whys of AI",
+        "slug": "the-100k-whys-of-ai",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 05:45:21 +0000",
+        "description": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 108 # Comments: 56",
+        "keywords": "whys, url, https, com, comments, article, lcamtuf, substack",
+        "generated": "2026-06-21T09:58:05.289335",
+        "file": "the-100k-whys-of-ai.md"
     },
     {
         "title": "Teaching AI Your Product's Context: Knowledge Base Integration and Prompt Engineering for Micro SaaS Support",
@@ -4601,12 +4656,23 @@
         "title": "Why I'm betting on AI-curated directories when Google AI Overviews answer the same queries",
         "slug": "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries",
         "author": "MORINAGA",
-        "source": "devto_ai",
-        "published": "Sun, 21 Jun 2026 04:30:21 +0000",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 09:33:29 +0000",
         "description": "The obvious counterargument to everything I'm building is this: Google already does it. You type best AI tools for video editing into Google and an AI Over...",
         "keywords": "google, structured, sites, overviews, click, three, comparison, what",
-        "generated": "2026-06-21T04:54:47.257963",
+        "generated": "2026-06-21T09:58:05.293270",
         "file": "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries.md"
+    },
+    {
+        "title": "Windows UI evolution: Clicking an unassociated file",
+        "slug": "windows-ui-evolution-clicking-an-unassociated-file",
+        "author": "jandeboevrie",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 06:24:52 +0000",
+        "description": "Article URL: https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html Comments URL: https://news.ycombinator.com/item?id=48616173 Points: 14 # Comments: 0",
+        "keywords": "url, https, comments, windows, evolution, clicking, unassociated, file",
+        "generated": "2026-06-21T09:58:05.289259",
+        "file": "windows-ui-evolution-clicking-an-unassociated-file.md"
     },
     {
         "title": "How I built an open-source AI video editor you control by chatting",
@@ -5170,6 +5236,17 @@
         "file": "relego-a-free-self-hostable-alternative-to-readwise.md"
     },
     {
+        "title": "Gelişmiş Veri İşleme (Python)",
+        "slug": "gelimi-veri-ileme-python",
+        "author": "Vebende Akademi",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 09:12:32 +0000",
+        "description": "Gelişmiş Veri İşleme (Python) Sıralama, Filtreleme ve Arama – Profesyonel Veri Manipülasyonu Rehberi Python’da veri işleme, sadece döngülerden ibaret değildi...",
+        "keywords": "python, print, lambda, sonuc, sayilar, sorted, veri, map",
+        "generated": "2026-06-21T09:58:05.291000",
+        "file": "gelimi-veri-ileme-python.md"
+    },
+    {
         "title": "How I Built a Crypto Airdrop Farming System With Zero Investment (June 2026)",
         "slug": "how-i-built-a-crypto-airdrop-farming-system-with-zero-investment-june-2026",
         "author": "叶稼辰",
@@ -5289,6 +5366,17 @@
         "keywords": "nordstjernen, web, url, https, com, comments, browser, released",
         "generated": "2026-06-06T04:00:30.105458",
         "file": "nordstjernen-web-browser-100-released.md"
+    },
+    {
+        "title": "What is a Cron Job? How to Use It? Basic Information and Application Scenarios",
+        "slug": "what-is-a-cron-job-how-to-use-it-basic-information-and-application-scenarios",
+        "author": "PulseTech | AI & Electronics Hub",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 09:36:30 +0000",
+        "description": "A cron job is an indispensable tool for system administrators. It automates scheduled tasks, simplifying workflows. In this article, you will explore the con...",
+        "keywords": "cron, job, scenarios, article, what, how, use, basic",
+        "generated": "2026-06-21T09:58:05.290408",
+        "file": "what-is-a-cron-job-how-to-use-it-basic-information-and-application-scenarios.md"
     },
     {
         "title": "How to use build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
@@ -6512,6 +6600,17 @@
         "file": "amd-acquires-mext-for-data-cen.md"
     },
     {
+        "title": "The Real Reason Everyone's Fighting About Tailwind CSS v4",
+        "slug": "the-real-reason-everyones-fighting-about-tailwind-css-v4",
+        "author": "Enjoy Kumawat",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 09:36:34 +0000",
+        "description": "The Tailwind CSS4 debate is everywhere right now. And honestly? Most people are arguing about the wrong thing. The real question isn't inline styles vs. uti...",
+        "keywords": "tailwind, css, your, you, red, apply, classes, real",
+        "generated": "2026-06-21T09:58:05.291791",
+        "file": "the-real-reason-everyones-fighting-about-tailwind-css-v4.md"
+    },
+    {
         "title": "I Built a Free Currency Converter API — No API Key, No Signup",
         "slug": "i-built-a-free-currency-converter-api-no-api-key-no-signup",
         "author": "Oleksandr Kaiukov",
@@ -6554,6 +6653,17 @@
         "keywords": "data, converter, encoding, development, encoded, developers, cloudaipdf, use",
         "generated": "2026-06-13T19:44:24.812825",
         "file": "base64-converter-online-encode-and-decode-base64-data-instantly.md"
+    },
+    {
+        "title": "The Chat Graveyard — How to Export, Search, and Learn from Your AI Conversations",
+        "slug": "the-chat-graveyard-how-to-export-search-and-learn-from-your-ai-conversations",
+        "author": "Mike",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 09:54:23 +0000",
+        "description": "The Chat Graveyard — How to Export, Search, and Learn from Your AI Conversations I counted recently. Across ChatGPT, Claude, Hermes Agent, and a couple of ot...",
+        "keywords": "conversations, chat, graveyard, how, export, search, learn, your",
+        "generated": "2026-06-21T09:58:05.289546",
+        "file": "the-chat-graveyard-how-to-export-search-and-learn-from-your-ai-conversations.md"
     },
     {
         "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
@@ -6774,6 +6884,17 @@
         "keywords": "api, data, drug, interactions, response, print, supplement, const",
         "generated": "2026-06-05T20:02:11.237054",
         "file": "how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes.md"
+    },
+    {
+        "title": "AI Technology in 2026: Why the Coordination Gap Beats Adoption",
+        "slug": "ai-technology-in-2026-why-the-coordination-gap-beats-adoption",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 09:50:25 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: June 21, 2026 Most AI technology workflows are solving the wrong p...",
+        "keywords": "model, coordination, agent, gap, huang, layer, technology, langgraph",
+        "generated": "2026-06-21T09:58:05.295333",
+        "file": "ai-technology-in-2026-why-the-coordination-gap-beats-adoption.md"
     },
     {
         "title": "useReducer in React?",
@@ -7027,6 +7148,17 @@
         "keywords": "article, linkedin, content, medium, dev, articles, title, cross",
         "generated": "2026-06-10T20:38:15.846935",
         "file": "i-wrote-a-python-script-that-cross-posts-my-devto-articles-to-3-platforms-automatically-heres-the-code.md"
+    },
+    {
+        "title": "Vibe coding is not a level. It's an axis.",
+        "slug": "vibe-coding-is-not-a-level-its-an-axis",
+        "author": "Mike Czerwinski",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 09:48:45 +0000",
+        "description": "Karpathy gave us vibe coding: see stuff, say stuff, run stuff, copy and paste stuff, and it mostly works. Since then, the industry has kept trying to turn ...",
+        "keywords": "you, not, axis, what, one, discipline, session, level",
+        "generated": "2026-06-21T09:58:05.296028",
+        "file": "vibe-coding-is-not-a-level-its-an-axis.md"
     },
     {
         "title": "How to Check Core Web Vitals in 10 Minutes",
@@ -7896,6 +8028,17 @@
         "keywords": "codex, tui, security, gemini, extension, src, cli, code",
         "generated": "2026-06-13T04:19:15.388386",
         "file": "geminicli-security-extensions-review-codex.md"
+    },
+    {
+        "title": "Building DeepSeek RAG From Scratch: What Nobody Tells You",
+        "slug": "building-deepseek-rag-from-scratch-what-nobody-tells-you",
+        "author": "rarenode",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 09:33:42 +0000",
+        "description": "Building DeepSeek RAG From Scratch: What Nobody Tells You Six months ago I was staring at a $47,000 monthly OpenAI bill for a RAG pipeline that served maybe ...",
+        "keywords": "you, deepseek, model, what, your, one, cost, query",
+        "generated": "2026-06-21T09:58:05.292406",
+        "file": "building-deepseek-rag-from-scratch-what-nobody-tells-you.md"
     },
     {
         "title": "Kostenloser DSGVO-Scanner für eure Website — 73% der getesteten .de-Domains hatten Verstöße",
@@ -11066,6 +11209,17 @@
         "file": "how-to-start-when-the-machine-writes-the-code.md"
     },
     {
+        "title": "I Cut My AI Document QA Bill by 65%: Here's the Full Breakdown",
+        "slug": "i-cut-my-ai-document-qa-bill-by-65-heres-the-full-breakdown",
+        "author": "gentlenode",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 09:47:26 +0000",
+        "description": "Honestly, i Cut My AI Document QA Bill by 65%: Here's the Full Breakdown I'll be honest with you — when I first started building document QA pipelines, I was...",
+        "keywords": "document, you, here, model, question, gpt, deepseek, str",
+        "generated": "2026-06-21T09:58:05.290262",
+        "file": "i-cut-my-ai-document-qa-bill-by-65-heres-the-full-breakdown.md"
+    },
+    {
         "title": "Why Every Computer Vision Team Ends Up Rewriting the Same Video Clip Pipeline",
         "slug": "why-every-computer-vision-team-ends-up-rewriting-the-same-video-clip-pipeline",
         "author": "Chống Chí Dinh",
@@ -11119,6 +11273,17 @@
         "keywords": "snaplog, runtime, code, skill, node, kaibelmo, debugging, source",
         "generated": "2026-06-08T20:25:42.490952",
         "file": "debugging-with-ai-stop-feeding-it-files-start-feeding-it-snapshots.md"
+    },
+    {
+        "title": "Why Reading Interview Tips Doesn't Work — And What Actually Does",
+        "slug": "why-reading-interview-tips-doesnt-work-and-what-actually-does",
+        "author": "Om Bhandwalkar",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 09:49:35 +0000",
+        "description": "You've read the guides. You've watched the YouTube videos. You've bookmarked 47 top interview questions articles. And yet, when someone asks you tell me a...",
+        "keywords": "you, interview, out, loud, your, real, what, actually",
+        "generated": "2026-06-21T09:58:05.295632",
+        "file": "why-reading-interview-tips-doesnt-work-and-what-actually-does.md"
     },
     {
         "title": "🚀 Oreste AI — Assistente vocale web costruito con HTML, CSS e JavaScript",
@@ -11350,6 +11515,17 @@
         "keywords": "judge, span, cost, you, not, agent, your, one",
         "generated": "2026-06-19T19:55:28.875957",
         "file": "your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines.md"
+    },
+    {
+        "title": "Google Hits 50% IPv6",
+        "slug": "google-hits-50-ipv6",
+        "author": "barqawiz",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 08:21:22 +0000",
+        "description": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/ Comments URL: https://news.ycombinator.com/item?id=48616800 Points: 73 # Comments: 46",
+        "keywords": "google, hits, url, https, comments, article, blog, apnic",
+        "generated": "2026-06-21T09:58:05.288993",
+        "file": "google-hits-50-ipv6.md"
     },
     {
         "title": "2 AI Tools That Actually Make Money — Built on a Raspberry Pi",
@@ -12606,6 +12782,17 @@
         "file": "conversational-commerce-why-whatsapp-is-replacing-the-traditional-checkout-funnel.md"
     },
     {
+        "title": "Three post-deploy checks I run after every Cloudflare Pages build",
+        "slug": "three-post-deploy-checks-i-run-after-every-cloudflare-pages-build",
+        "author": "MORINAGA",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 09:33:33 +0000",
+        "description": "After spending two weeks debugging issues that only showed up in production — a sitemap _redirects rule that was blocking my own sitemap-index.xml and a Blue...",
+        "keywords": "sitemap, com, after, check, deploy, xml, domain, three",
+        "generated": "2026-06-21T09:58:05.292758",
+        "file": "three-post-deploy-checks-i-run-after-every-cloudflare-pages-build.md"
+    },
+    {
         "title": "How do you scale a frontend application to a million users ?",
         "slug": "how-do-you-scale-a-frontend-application-to-a-million-users",
         "author": "Dhiraj Shrotri",
@@ -12815,6 +13002,17 @@
         "file": "context-engineering-for-ai-agents-the-2026-practitioners-deep-dive.md"
     },
     {
+        "title": "The question that actually decides your state stack (it's not 'Redux or React Query')",
+        "slug": "the-question-that-actually-decides-your-state-stack-its-not-redux-or-react-query",
+        "author": "KhaledSalem",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 09:39:24 +0000",
+        "description": "This is not a Redux is dead post. Redux is excellent at what it's for. So is React Query. So is Zustand. The problem was never the tools. It was that I spe...",
+        "keywords": "state, one, truth, query, react, not, redux, zustand",
+        "generated": "2026-06-21T09:58:05.291456",
+        "file": "the-question-that-actually-decides-your-state-stack-its-not-redux-or-react-query.md"
+    },
+    {
         "title": "System Design Series #3: A Simple Framework for Designing Scalable Systems",
         "slug": "system-design-series-3-a-simple-framework-for-designing-scalable-systems",
         "author": "Shubham Gupta",
@@ -12989,6 +13187,17 @@
         "keywords": "wings, their, will, mystics, washington, dallas, game, scoring",
         "generated": "2026-06-05T15:19:56.046949",
         "file": "washington-mystics-vs-dallas-wings-wnba-preview-picks.md"
+    },
+    {
+        "title": "AI: complete breakdown",
+        "slug": "ai-complete-breakdown",
+        "author": "NIRA Synth",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 09:52:09 +0000",
+        "description": "AI: complete breakdown Key resources in the AI synthesis technology neural space: Alpha Waves Sunshine Coast Au Alpha Waves Surrey Ca Alpha Waves Sutton Cold...",
+        "keywords": "alpha, waves, complete, breakdown, resources, sydney, key, synthesis",
+        "generated": "2026-06-21T09:58:05.293417",
+        "file": "ai-complete-breakdown.md"
     },
     {
         "title": "I built a daily AI-news pipeline that scores stories with an LLM (RSS AI human-gated publish)",

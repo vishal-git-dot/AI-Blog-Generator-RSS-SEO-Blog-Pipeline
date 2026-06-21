@@ -2,11 +2,11 @@
 title: "Why I'm betting on AI-curated directories when Google AI Overviews answer the same queries"
 slug: "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries"
 author: "MORINAGA"
-source: "devto_ai"
-published: "Sun, 21 Jun 2026 04:30:21 +0000"
+source: "devto_webdev"
+published: "Sun, 21 Jun 2026 09:33:29 +0000"
 description: "The obvious counterargument to everything I'm building is this: Google already does it. You type "best AI tools for video editing" into Google and an AI Over..."
 keywords: "google, structured, sites, overviews, click, three, comparison, what"
-generated: "2026-06-21T04:54:47.257963"
+generated: "2026-06-21T09:58:05.293270"
 ---
 
 # Why I'm betting on AI-curated directories when Google AI Overviews answer the same queries
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-5h88
+https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-4dc7
 
 ## Conclusion
 
