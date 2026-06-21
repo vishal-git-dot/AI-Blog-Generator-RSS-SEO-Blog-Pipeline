@@ -352,6 +352,17 @@
         "file": "dalus-yc-w25-is-hiring-a-senior-software-engineer-in-germany.md"
     },
     {
+        "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+        "slug": "wildcard-yc-w25-is-hiring-an-applied-ml-engineer",
+        "author": "kaushikmahorker",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 17:00:28 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer Comments URL: https://news.ycombinator.com/item?id=4862...",
+        "keywords": "wildcard, applied, engineer, url, https, ycombinator, com, comments",
+        "generated": "2026-06-21T19:51:26.680249",
+        "file": "wildcard-yc-w25-is-hiring-an-applied-ml-engineer.md"
+    },
+    {
         "title": "Mobile App Monetization Benchmarks 2026: Paywalls, Trials, Pricing & AI Apps",
         "slug": "mobile-app-monetization-benchmarks-2026-paywalls-trials-pricing-ai-apps",
         "author": "paywallpro",
@@ -691,6 +702,17 @@
         "keywords": "feds, freaked, over, fable, after, simple, fix, code",
         "generated": "2026-06-16T11:22:59.962859",
         "file": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md"
+    },
+    {
+        "title": "JSON-LD Explained for Personal Websites",
+        "slug": "json-ld-explained-for-personal-websites",
+        "author": "ethanhawksley",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 18:51:47 +0000",
+        "description": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/ Comments URL: https://news.ycombinator.com/item?id=48621517 Points: 12 # Comm...",
+        "keywords": "json, explained, personal, websites, url, https, comments, article",
+        "generated": "2026-06-21T19:51:26.680101",
+        "file": "json-ld-explained-for-personal-websites.md"
     },
     {
         "title": "How I Built a Real-Time Biometric Telemetry Pipeline to Detect AI Code Injections in VS Code",
@@ -2629,6 +2651,17 @@
         "file": "statement-on-us-government-directive-to-suspend-access-to-fable-5-and-mythos-5.md"
     },
     {
+        "title": "Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos",
+        "slug": "ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos",
+        "author": "Vani Chitkara",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 19:34:37 +0000",
+        "description": "We have all been there. It is 2:00 AM, and your phone starts screaming on the nightstand. You squint at the screen to see a cryptic alert: login error rate ...",
+        "keywords": "you, backtrace, gitlab, orbit, agent, login, who, flow",
+        "generated": "2026-06-21T19:51:26.685748",
+        "file": "ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos.md"
+    },
+    {
         "title": "Rome Fell and Nobody Noticed",
         "slug": "rome-fell-and-nobody-noticed",
         "author": "fkozlowski",
@@ -2913,6 +2946,17 @@
         "keywords": "radar, telegram, brand, manager, agent, push, com, home",
         "generated": "2026-06-21T09:58:05.296189",
         "file": "telegram-brand-manager-agent-3.md"
+    },
+    {
+        "title": "The minimum viable unit of saleable software",
+        "slug": "the-minimum-viable-unit-of-saleable-software",
+        "author": "brandur",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 16:41:21 +0000",
+        "description": "Article URL: https://brandur.org/minimum-viable-unit Comments URL: https://news.ycombinator.com/item?id=48620342 Points: 51 # Comments: 22",
+        "keywords": "minimum, viable, unit, url, https, comments, saleable, software",
+        "generated": "2026-06-21T19:51:26.680374",
+        "file": "the-minimum-viable-unit-of-saleable-software.md"
     },
     {
         "title": "Context Engineering: Why It's Replacing Traditional Prompt Writing in Production AI",
@@ -3760,6 +3804,17 @@
         "keywords": "word, next, one, model, temperature, how, every, you",
         "generated": "2026-06-17T15:50:36.575329",
         "file": "what-an-llm-actually-does-predicting-the-next-word-explained.md"
+    },
+    {
+        "title": "Title",
+        "slug": "title",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 19:31:31 +0000",
+        "description": "We need to write a concise Dev.to article 400-500 words. Must be between 400-500 words inclusive. Must be markdown with # title, ## subheadings, paragraphs. ...",
+        "keywords": "your, draft, tool, feedback, voice, loop, facts, you",
+        "generated": "2026-06-21T19:51:26.686222",
+        "file": "title.md"
     },
     {
         "title": "Mastering TypeScript's `never` Type: Exhaustive Checks, Conditional Types, and Real Patterns",
@@ -5236,6 +5291,17 @@
         "file": "its-death.md"
     },
     {
+        "title": "Windows + WSL + Next.js Development Setup: Zero to Professional Environment",
+        "slug": "windows-wsl-nextjs-development-setup-zero-to-professional-environment",
+        "author": "Anik Deb Nath",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 19:50:33 +0000",
+        "description": "আজ আমি আমার Windows মেশিনে একটা স্মুথ ও মডার্ন ওয়েব ডেভেলপমেন্ট সেটআপ তৈরি করেছি ব্যবহার করেছি Windows Subsystem for Linux (WSL) , Node.js , pnpm আর Next.js...",
+        "keywords": "wsl, pnpm, windows, step, linux, node, nvm, code",
+        "generated": "2026-06-21T19:51:26.683240",
+        "file": "windows-wsl-nextjs-development-setup-zero-to-professional-environment.md"
+    },
+    {
         "title": "Why Generic Sales Repos Are Failing Your Team (And How We Fixed Simulation)",
         "slug": "why-generic-sales-repos-are-failing-your-team-and-how-we-fixed-simulation",
         "author": "Call Flow",
@@ -5344,6 +5410,17 @@
         "keywords": "june, you, airdrop, your, wallet, testnet, free, tokens",
         "generated": "2026-06-11T04:27:42.956222",
         "file": "how-i-built-a-crypto-airdrop-farming-system-with-zero-investment-june-2026.md"
+    },
+    {
+        "title": "4 Best Sites to Buy Negative Google Reviews",
+        "slug": "4-best-sites-to-buy-negative-google-reviews",
+        "author": "Michel",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 19:29:32 +0000",
+        "description": "Buy Negative Google Reviews: 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 WhatsApp: +1 (984) 291-3274 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 progmb.contact@gmail.com A S...",
+        "keywords": "reviews, negative, google, your, can, you, buy, business",
+        "generated": "2026-06-21T19:51:26.684291",
+        "file": "4-best-sites-to-buy-negative-google-reviews.md"
     },
     {
         "title": "Miami Marlins vs Pittsburgh Pirates: MLB Preview & Picks",
@@ -5784,6 +5861,17 @@
         "keywords": "que, con, para, ollama, corregir, cada, minutos, quiero",
         "generated": "2026-06-21T04:54:47.257068",
         "file": "cmo-corrijo-30-exmenes-en-20-minutos-con-ia-y-lo-que-sigo-haciendo-yo.md"
+    },
+    {
+        "title": "The early hiring funnel is now breaking on both ends",
+        "slug": "the-early-hiring-funnel-is-now-breaking-on-both-ends",
+        "author": "ChrisArchitect",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 16:14:54 +0000",
+        "description": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it Comments URL: https://news.ycombinator.com/item?id=48620142 Points: 68 # Commen...",
+        "keywords": "hiring, url, https, comments, early, funnel, now, breaking",
+        "generated": "2026-06-21T19:51:26.680429",
+        "file": "the-early-hiring-funnel-is-now-breaking-on-both-ends.md"
     },
     {
         "title": "Removing 'um' from a recording is harder than it sounds",
@@ -7249,6 +7337,17 @@
         "file": "i-wrote-a-python-script-that-cross-posts-my-devto-articles-to-3-platforms-automatically-heres-the-code.md"
     },
     {
+        "title": "React JS Install Guide: Step by Step React + Vite Setup (Latest Version)",
+        "slug": "react-js-install-guide-step-by-step-react-vite-setup-latest-version",
+        "author": "CodeSetupLab",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 19:41:52 +0000",
+        "description": "Setting up a new React project shouldn't come with a wall of dependency errors or unnecessary bloat. In this quick guide, we’re installing Node.js and using ...",
+        "keywords": "react, step, your, vite, install, guide, node, installation",
+        "generated": "2026-06-21T19:51:26.683351",
+        "file": "react-js-install-guide-step-by-step-react-vite-setup-latest-version.md"
+    },
+    {
         "title": "Vibe coding is not a level. It's an axis.",
         "slug": "vibe-coding-is-not-a-level-its-an-axis",
         "author": "Mike Czerwinski",
@@ -7689,6 +7788,17 @@
         "file": "amazon-announces-multibillion-dollar-data-center-in-missouri.md"
     },
     {
+        "title": "How to Buy Yahoo Accounts: Complete Beginner's Guide …",
+        "slug": "how-to-buy-yahoo-accounts-complete-beginners-guide",
+        "author": "Michel",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 19:29:22 +0000",
+        "description": "Buy Yahoo Accounts 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 WhatsApp: +1 (984) 291-3274 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 progmb.contact@gmail.com Buy Yahoo Acc...",
+        "keywords": "yahoo, accounts, can, account, your, you, online, their",
+        "generated": "2026-06-21T19:51:26.684946",
+        "file": "how-to-buy-yahoo-accounts-complete-beginners-guide.md"
+    },
+    {
         "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
         "slug": "ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos",
         "author": "speckx",
@@ -8127,6 +8237,17 @@
         "keywords": "get, print, headers, fore, response, trading, data, market",
         "generated": "2026-06-06T19:40:03.723580",
         "file": "build-an-eve-online-market-trading-bot-in-python-using-the-esi-api.md"
+    },
+    {
+        "title": "I Slashed My AI API Costs by 60% — Here's the Raw Data",
+        "slug": "i-slashed-my-ai-api-costs-by-60-heres-the-raw-data",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 19:41:57 +0000",
+        "description": "Check this out: i Slashed My AI API Costs by 60% — Here's the Raw Data A few months ago I opened our team's monthly invoice for AI inference and did a double...",
+        "keywords": "model, deepseek, quality, cost, you, data, our, what",
+        "generated": "2026-06-21T19:51:26.681706",
+        "file": "i-slashed-my-ai-api-costs-by-60-heres-the-raw-data.md"
     },
     {
         "title": "實測 GeminiCLI Security Extensions 來Review CodeX 原始碼",
@@ -8635,6 +8756,17 @@
         "file": "get-any-instagram-profile-data-in-10-lines-of-python.md"
     },
     {
+        "title": "4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency",
+        "slug": "4dgen-grounded-4d-content-generation-with-spatial-temporal-consistency",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 19:40:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "grounded, content, generation, spatial, temporal, consistency, json, postcontent",
+        "generated": "2026-06-21T19:51:26.685027",
+        "file": "4dgen-grounded-4d-content-generation-with-spatial-temporal-consistency.md"
+    },
+    {
         "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
         "slug": "show-hn-nucleus-a-security-hardened-nix-native-container-runtime",
         "author": "0kenx",
@@ -8699,6 +8831,17 @@
         "keywords": "protocol, context, mcp, model, integration, data, your, application",
         "generated": "2026-06-16T11:22:59.968022",
         "file": "understanding-model-context-protocol-a-developers-introduction.md"
+    },
+    {
+        "title": "5 Best Sites to Buy Negative Google Reviews",
+        "slug": "5-best-sites-to-buy-negative-google-reviews",
+        "author": "Michel",
+        "source": "devto_webdev",
+        "published": "Sun, 21 Jun 2026 19:35:52 +0000",
+        "description": "Buy Negative Google Reviews: 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 WhatsApp: +1 (984) 291-3274 🌈🚀🎯💎 Telegram: @progmbofficial 🌈🚀🎯💎 progmb.contact@gmail.com A S...",
+        "keywords": "reviews, negative, google, your, can, you, buy, business",
+        "generated": "2026-06-21T19:51:26.683810",
+        "file": "5-best-sites-to-buy-negative-google-reviews.md"
     },
     {
         "title": "The Cloud is a Scam (For 90% of Your Projects)",
@@ -10487,10 +10630,10 @@
         "slug": "redfin-vs-zillow-data-which-is-better-for-real-estate-market-research",
         "author": "NexGenData",
         "source": "devto_python",
-        "published": "Thu, 18 Jun 2026 15:16:14 +0000",
-        "description": "Redfin vs Zillow Data: Which is Better for Real Estate Market Research? If you're doing real estate market research, you've probably wondered which data sour...",
-        "keywords": "redfin, data, market, yes, zillow, you, price, they",
-        "generated": "2026-06-18T15:38:46.160378",
+        "published": "Sun, 21 Jun 2026 19:05:06 +0000",
+        "description": "If you're doing real estate market research, you've probably wondered which data source to prioritize: Redfin or Zillow. Both are massive, well-known platfor...",
+        "keywords": "redfin, data, market, yes, you, zillow, price, they",
+        "generated": "2026-06-21T19:51:26.682753",
         "file": "redfin-vs-zillow-data-which-is-better-for-real-estate-market-research.md"
     },
     {
@@ -11440,6 +11583,17 @@
         "file": "debugging-with-ai-stop-feeding-it-files-start-feeding-it-snapshots.md"
     },
     {
+        "title": "De-mystifying the GenAI Stack: From LLMs to RAG (A Systems Perspective)",
+        "slug": "de-mystifying-the-genai-stack-from-llms-to-rag-a-systems-perspective",
+        "author": "Ingit Bhatnagar",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 19:36:29 +0000",
+        "description": "As a backend engineer who has spent more than a decade designing distributed systems, asynchronous microservices, and fault-tolerant architectures, my first ...",
+        "keywords": "self, llm, context, rag, system, you, data, api",
+        "generated": "2026-06-21T19:51:26.685523",
+        "file": "de-mystifying-the-genai-stack-from-llms-to-rag-a-systems-perspective.md"
+    },
+    {
         "title": "Why Reading Interview Tips Doesn't Work — And What Actually Does",
         "slug": "why-reading-interview-tips-doesnt-work-and-what-actually-does",
         "author": "Om Bhandwalkar",
@@ -11493,6 +11647,17 @@
         "keywords": "height, growth, mph, parental, range, adult, mid, math",
         "generated": "2026-06-15T12:29:05.504455",
         "file": "how-we-built-an-adult-height-predictor-the-math-the-science-and-the-edge-cases.md"
+    },
+    {
+        "title": "BizNode Basic ($200) vs Pro ($499): both run on your hardware with zero recurring costs. One-time purchase, lifetime ownership",
+        "slug": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Sun, 21 Jun 2026 19:40:25 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, dzit, basic, pro, both, run",
+        "generated": "2026-06-21T19:51:26.685095",
+        "file": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership.md"
     },
     {
         "title": "State pattern for workflow and state machine management",
@@ -13101,6 +13266,28 @@
         "file": "live-coding-lost-its-signal-heres-how-interview-prep-splits-by-company-size-in-2026.md"
     },
     {
+        "title": "I built an open-source tool that turns workcell incidents into evidence bundles and regression tests",
+        "slug": "i-built-an-open-source-tool-that-turns-workcell-incidents-into-evidence-bundles-and-regression-tests",
+        "author": "Miko",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 18:59:40 +0000",
+        "description": "I built MetriPlane v0.2.0 , an open-source physical-observability tool for bounded workcells. The short version: A missing tool in a workcell becomes a physi...",
+        "keywords": "metriplane, pass, bundle, atlas, regression, evidence, test, physical",
+        "generated": "2026-06-21T19:51:26.683062",
+        "file": "i-built-an-open-source-tool-that-turns-workcell-incidents-into-evidence-bundles-and-regression-tests.md"
+    },
+    {
+        "title": "Agent Loop Cost: 11x Your Per-Call Quote, in 40 Lines",
+        "slug": "agent-loop-cost-11x-your-per-call-quote-in-40-lines",
+        "author": "Alexey Spinov",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 19:45:15 +0000",
+        "description": "Agent loop cost is what you pay per task, not per call — and it runs multiples higher than your per-call quote because every tool-call re-bills the whole sys...",
+        "keywords": "tool, step, you, per, your, loop, call, quote",
+        "generated": "2026-06-21T19:51:26.681214",
+        "file": "agent-loop-cost-11x-your-per-call-quote-in-40-lines.md"
+    },
+    {
         "title": "Docker Compose Config Variable…",
         "slug": "docker-compose-config-variable",
         "author": "Norvik Tech",
@@ -13231,6 +13418,17 @@
         "keywords": "what, brief, built, before, data, every, you, model",
         "generated": "2026-06-19T19:55:28.877225",
         "file": "how-i-built-an-ai-to-read-the-market-every-morning.md"
+    },
+    {
+        "title": "Burnout is real for open source maintainers",
+        "slug": "burnout-is-real-for-open-source-maintainers",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Sun, 21 Jun 2026 16:56:18 +0000",
+        "description": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers Comments URL: https://news.ycombinator.com/item?id=48620462 Points: 77 # Co...",
+        "keywords": "burnout, real, open, source, maintainers, url, https, comments",
+        "generated": "2026-06-21T19:51:26.680317",
+        "file": "burnout-is-real-for-open-source-maintainers.md"
     },
     {
         "title": "Building TraceroAI: A Better Way to Debug RAG Applications",
@@ -13671,6 +13869,17 @@
         "keywords": "pdf, url, https, comments, nobody, ever, gets, credit",
         "generated": "2026-06-12T04:40:33.062985",
         "file": "nobody-ever-gets-credit-for-fixing-problems-that-never-happened-2001-pdf.md"
+    },
+    {
+        "title": "How I Cut Our AI Bill by 65%: A CTO's Model Selection Playbook",
+        "slug": "how-i-cut-our-ai-bill-by-65-a-ctos-model-selection-playbook",
+        "author": "gentlenode",
+        "source": "devto_python",
+        "published": "Sun, 21 Jun 2026 19:10:49 +0000",
+        "description": "How I Cut Our AI Bill by 65%: A CTO's Model Selection Playbook Three months ago I opened our monthly infra invoice and nearly dropped my coffee. We were burn...",
+        "keywords": "model, you, our, month, every, not, prompt, provider",
+        "generated": "2026-06-21T19:51:26.682246",
+        "file": "how-i-cut-our-ai-bill-by-65-a-ctos-model-selection-playbook.md"
     },
     {
         "title": "Apple and Intel's Strategic Ch…",
