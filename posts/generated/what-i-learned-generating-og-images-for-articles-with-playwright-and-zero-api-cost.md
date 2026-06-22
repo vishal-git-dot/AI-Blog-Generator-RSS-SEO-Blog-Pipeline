@@ -3,10 +3,10 @@ title: "What I learned generating OG images for articles with Playwright and zer
 slug: "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost"
 author: "MORINAGA"
 source: "devto_python"
-published: "Tue, 09 Jun 2026 03:52:22 +0000"
+published: "Mon, 22 Jun 2026 11:29:33 +0000"
 description: "The conclusion first: for a batch of under a few hundred static articles, generating OG images by screenshotting HTML templates with Playwright costs nothing..."
 keywords: "playwright, image, articles, fonts, article, generation, per, url"
-generated: "2026-06-09T04:03:32.525257"
+generated: "2026-06-22T12:15:23.444714"
 ---
 
 # What I learned generating OG images for articles with Playwright and zero API cost
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/morinaga/what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost-18n8
+https://dev.to/morinaga/what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost-31o4
 
 ## Conclusion
 

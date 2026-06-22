@@ -3223,6 +3223,17 @@
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
     },
     {
+        "title": "Your Django background scheduler is probably running twice. Here's why, and the migrate chicken-and-egg.",
+        "slug": "your-django-background-scheduler-is-probably-running-twice-heres-why-and-the-migrate-chicken-and-egg",
+        "author": "ひとし 田畑",
+        "source": "devto_python",
+        "published": "Mon, 22 Jun 2026 11:40:12 +0000",
+        "description": "I needed periodic background work in a Django app — scan AWS every N minutes, sync remote tfstate, refresh data daily. No Celery, no Redis, no extra moving p...",
+        "keywords": "scheduler, migrate, ready, true, django, runs, apscheduler, job",
+        "generated": "2026-06-22T12:15:23.443866",
+        "file": "your-django-background-scheduler-is-probably-running-twice-heres-why-and-the-migrate-chicken-and-egg.md"
+    },
+    {
         "title": "U.S. Science Is in Chaos",
         "slug": "us-science-is-in-chaos",
         "author": "presspot",
@@ -3575,6 +3586,17 @@
         "file": "understanding-the-rationale-behind-a-rule-when-trying-to-circumvent-it.md"
     },
     {
+        "title": "Your Face Is Forever. Your Boss's Insurance Isn't.",
+        "slug": "your-face-is-forever-your-bosss-insurance-isnt",
+        "author": "CaraComp",
+        "source": "devto_ai",
+        "published": "Mon, 22 Jun 2026 12:06:32 +0000",
+        "description": "The shifting landscape of biometric liability is a wake-up call for any developer currently architecting facial recognition or comparison systems. A recent f...",
+        "keywords": "you, your, comparison, facial, data, biometric, analysis, one",
+        "generated": "2026-06-22T12:15:23.447898",
+        "file": "your-face-is-forever-your-bosss-insurance-isnt.md"
+    },
+    {
         "title": "🐍 python list comprehension performance vs map — which one should you use?",
         "slug": "python-list-comprehension-performance-vs-map-which-one-should-you-use",
         "author": "Python-T Point",
@@ -3782,6 +3804,17 @@
         "keywords": "polymarket, bot, momentum, production, delta, here, clean, easy",
         "generated": "2026-06-15T21:11:31.714105",
         "file": "building-a-production-ready-polymarket-bot-delta-momentum-clob-execution.md"
+    },
+    {
+        "title": "How I Automated My Shopify Store's Video Ads Using AI (And Increased Conversions by 40%)",
+        "slug": "how-i-automated-my-shopify-stores-video-ads-using-ai-and-increased-conversions-by-40",
+        "author": "Cenk KURTOĞLU",
+        "source": "devto_webdev",
+        "published": "Mon, 22 Jun 2026 12:13:29 +0000",
+        "description": "How I Automated My Shopify Store's Video Ads Using AI If you run a Shopify store, you know that video ads convert significantly better than static images . A...",
+        "keywords": "video, you, product, your, shopify, store, ads, how",
+        "generated": "2026-06-22T12:15:23.445056",
+        "file": "how-i-automated-my-shopify-stores-video-ads-using-ai-and-increased-conversions-by-40.md"
     },
     {
         "title": "The Biggest Mistake I Made When Building an AI Troubleshooting Tool",
@@ -4664,6 +4697,17 @@
         "file": "5-mistakes-job-seekers-make-with-ai-tools-in-2025.md"
     },
     {
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "slug": "codex-logging-bug-may-write-tbs-to-local-ssds",
+        "author": "vantareed",
+        "source": "hackernews",
+        "published": "Mon, 22 Jun 2026 07:30:17 +0000",
+        "description": "Article URL: https://github.com/openai/codex/issues/28224 Comments URL: https://news.ycombinator.com/item?id=48626930 Points: 153 # Comments: 80",
+        "keywords": "codex, url, https, com, comments, logging, bug, may",
+        "generated": "2026-06-22T12:15:23.441643",
+        "file": "codex-logging-bug-may-write-tbs-to-local-ssds.md"
+    },
+    {
         "title": "I tested 200 AI prompts so you don't have to — here's what actually works",
         "slug": "i-tested-200-ai-prompts-so-you-dont-have-to-heres-what-actually-works",
         "author": "Ig0tU",
@@ -5025,6 +5069,17 @@
         "keywords": "system, out, loud, diagrams, voicedraw, design, draw, when",
         "generated": "2026-06-16T21:09:41.011746",
         "file": "show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md"
+    },
+    {
+        "title": "8 Best Programming Languages for Modern Web Development",
+        "slug": "8-best-programming-languages-for-modern-web-development",
+        "author": "Infocrats Web Solutions Pvt. Ltd.",
+        "source": "devto_python",
+        "published": "Mon, 22 Jun 2026 11:48:45 +0000",
+        "description": "Discover the most popular programming languages used for modern web development, including JavaScript, Python, PHP, Java, Ruby, Rust, HTML, and CSS. Learn ho...",
+        "keywords": "development, web, company, programming, languages, modern, best, discover",
+        "generated": "2026-06-22T12:15:23.442330",
+        "file": "8-best-programming-languages-for-modern-web-development.md"
     },
     {
         "title": "Agentic AI: Are we giving it too much of our agency?",
@@ -6963,6 +7018,17 @@
         "file": "i-built-3-saas-landing-page-templates-so-founders-can-stop-wasting-time-on-landing-pages.md"
     },
     {
+        "title": "Capability vs Adoption: The AI Strategy Confusion",
+        "slug": "capability-vs-adoption-the-ai-strategy-confusion",
+        "author": "ORCHESTRATE",
+        "source": "devto_ai",
+        "published": "Mon, 22 Jun 2026 12:05:54 +0000",
+        "description": "Your company bought the licenses. Someone ran a lunch-and-learn. The all-hands deck had a slide that said AI-first. Six months later you check the logs and...",
+        "keywords": "not, capability, you, adoption, workflow, your, does, strategy",
+        "generated": "2026-06-22T12:15:23.448587",
+        "file": "capability-vs-adoption-the-ai-strategy-confusion.md"
+    },
+    {
         "title": "Base64 Converter Online: Encode and Decode Base64 Data Instantly",
         "slug": "base64-converter-online-encode-and-decode-base64-data-instantly",
         "author": "CloudAiRambo",
@@ -8155,10 +8221,10 @@
         "slug": "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost",
         "author": "MORINAGA",
         "source": "devto_python",
-        "published": "Tue, 09 Jun 2026 03:52:22 +0000",
+        "published": "Mon, 22 Jun 2026 11:29:33 +0000",
         "description": "The conclusion first: for a batch of under a few hundred static articles, generating OG images by screenshotting HTML templates with Playwright costs nothing...",
         "keywords": "playwright, image, articles, fonts, article, generation, per, url",
-        "generated": "2026-06-09T04:03:32.525257",
+        "generated": "2026-06-22T12:15:23.444714",
         "file": "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost.md"
     },
     {
@@ -8833,6 +8899,17 @@
         "file": "govuk-has-replaced-stripe-with-dutch-provider-adyen.md"
     },
     {
+        "title": "Week 7: My First Agorithms.",
+        "slug": "week-7-my-first-agorithms",
+        "author": "Om Kolhapure",
+        "source": "devto_python",
+        "published": "Mon, 22 Jun 2026 11:42:54 +0000",
+        "description": "For six weeks I built things. Week 7 I solved problems. It's a different muscle. Building an app is about organising features and data so a user can do somet...",
+        "keywords": "right, left, two, nums, list, seen, return, time",
+        "generated": "2026-06-22T12:15:23.443436",
+        "file": "week-7-my-first-agorithms.md"
+    },
+    {
         "title": "Your Pipeline Is 28.3h Behind: Catching World Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-283h-behind-catching-world-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -8930,6 +9007,17 @@
         "keywords": "ipad, tailscale, url, https, com, comments, webrtc, debugging",
         "generated": "2026-06-10T15:51:30.356236",
         "file": "the-ipad-was-on-tailscale-a-webrtc-debugging-story.md"
+    },
+    {
+        "title": "Human in the Loop Isn't a Checkbox",
+        "slug": "human-in-the-loop-isnt-a-checkbox",
+        "author": "ORCHESTRATE",
+        "source": "devto_ai",
+        "published": "Mon, 22 Jun 2026 12:06:25 +0000",
+        "description": "Human in the loop has quietly become the phrase you add to a system design to make it sound safe. There is a model that produces an output, and then there ...",
+        "keywords": "human, you, not, loop, model, real, gap, has",
+        "generated": "2026-06-22T12:15:23.448237",
+        "file": "human-in-the-loop-isnt-a-checkbox.md"
     },
     {
         "title": "Designing a backyard deck for my house",
@@ -9227,6 +9315,17 @@
         "keywords": "api, data, free, build, get, code, started, weather",
         "generated": "2026-06-19T19:55:28.879488",
         "file": "top-10-free-apis-to-build-profitable-side-projects.md"
+    },
+    {
+        "title": "How we built a permissionless live streaming platform with real-time on-chain payments",
+        "slug": "how-we-built-a-permissionless-live-streaming-platform-with-real-time-on-chain-payments",
+        "author": "Satwik Kansal",
+        "source": "devto_webdev",
+        "published": "Mon, 22 Jun 2026 12:11:38 +0000",
+        "description": "Building a creator economy platform where viewers pay streamers instantly without subscriptions, intermediaries, or delayed payouts Most live streaming platf...",
+        "keywords": "payment, streaming, payments, creators, platform, live, time, creator",
+        "generated": "2026-06-22T12:15:23.446521",
+        "file": "how-we-built-a-permissionless-live-streaming-platform-with-real-time-on-chain-payments.md"
     },
     {
         "title": "Identity as the Geometry of Consistent Refusal — and How to Make It Persist",
@@ -9821,6 +9920,17 @@
         "keywords": "simulation, robot, arm, control, deep, learning, json, postcontent",
         "generated": "2026-06-21T14:23:01.495242",
         "file": "3d-simulation-for-robot-arm-control-with-deep-q-learning.md"
+    },
+    {
+        "title": "GLM 5.2 vs. Opus",
+        "slug": "glm-52-vs-opus",
+        "author": "ritzaco",
+        "source": "hackernews",
+        "published": "Mon, 22 Jun 2026 07:22:03 +0000",
+        "description": "Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/ Comments URL: https://news.ycombinator.com/item?id=48626866 Points: 184 # Comments: 156",
+        "keywords": "glm, opus, url, https, com, comments, article, techstackups",
+        "generated": "2026-06-22T12:15:23.441850",
+        "file": "glm-52-vs-opus.md"
     },
     {
         "title": "I Wish I Knew This DeepSeek API Trick Sooner — My Full Breakdown",
@@ -10580,6 +10690,17 @@
         "keywords": "api, key, env, claude, post, next, return, bcrypt",
         "generated": "2026-06-05T10:13:51.908280",
         "file": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places.md"
+    },
+    {
+        "title": "Your Code Is Being Replaced -And The Scary Part? You're Helping It Happen.",
+        "slug": "your-code-is-being-replaced-and-the-scary-part-youre-helping-it-happen",
+        "author": "Emma Schmidt",
+        "source": "devto_webdev",
+        "published": "Mon, 22 Jun 2026 12:09:36 +0000",
+        "description": "Let me be blunt with you. The week I watched an AI agent open a GitHub PR, write tests, respond to review comments, fix the failing CI pipeline, and ping the...",
+        "keywords": "not, code, developers, typescript, action, you, now, agentic",
+        "generated": "2026-06-22T12:15:23.446928",
+        "file": "your-code-is-being-replaced-and-the-scary-part-youre-helping-it-happen.md"
     },
     {
         "title": "Claude Fable 5",
@@ -11484,6 +11605,17 @@
         "file": "vibesync-music-recommendation.md"
     },
     {
+        "title": "UpSet Plots in 2026: A Smarter Way to Visualize Overlapping Data at Scale",
+        "slug": "upset-plots-in-2026-a-smarter-way-to-visualize-overlapping-data-at-scale",
+        "author": "Dipti",
+        "source": "devto_webdev",
+        "published": "Mon, 22 Jun 2026 12:11:56 +0000",
+        "description": "As data becomes more interconnected, analysts are increasingly asked to answer questions that involve overlap: Which customers bought multiple products? Whic...",
+        "keywords": "upset, plots, overlap, which, plot, analytics, business, they",
+        "generated": "2026-06-22T12:15:23.446105",
+        "file": "upset-plots-in-2026-a-smarter-way-to-visualize-overlapping-data-at-scale.md"
+    },
+    {
         "title": "Why I Think Most AI Agents Are Overengineered",
         "slug": "why-i-think-most-ai-agents-are-overengineered",
         "author": "Jaideep Parashar",
@@ -11548,6 +11680,17 @@
         "keywords": "you, global, deepseek, models, model, like, gpt, api",
         "generated": "2026-06-19T10:46:49.268009",
         "file": "quick-tip-building-n8n-ai-workflows-in-under-10-minutes.md"
+    },
+    {
+        "title": "5 AI Stories From This Week That Change the Strategic Conversation — Colorado AI Act: 8 Days",
+        "slug": "5-ai-stories-from-this-week-that-change-the-strategic-conversation-colorado-ai-act-8-days",
+        "author": "marcom",
+        "source": "devto_ai",
+        "published": "Mon, 22 Jun 2026 12:12:22 +0000",
+        "description": "Monday. Eight days to the Colorado AI Act. The Claude Fable 5 export ban at day ten. The EU just selected its sovereign AI model builder. The FERC reshaped h...",
+        "keywords": "infrastructure, strategic, one, your, days, not, action, colorado",
+        "generated": "2026-06-22T12:15:23.447449",
+        "file": "5-ai-stories-from-this-week-that-change-the-strategic-conversation-colorado-ai-act-8-days.md"
     },
     {
         "title": "GenAI Oh Shit Moments: Real Turning Points That Changed Everything",
@@ -11693,6 +11836,17 @@
         "file": "how-to-start-when-the-machine-writes-the-code.md"
     },
     {
+        "title": "Investors get real-time view of UK bond market activity for the first time",
+        "slug": "investors-get-real-time-view-of-uk-bond-market-activity-for-the-first-time",
+        "author": "monkeydust",
+        "source": "hackernews",
+        "published": "Mon, 22 Jun 2026 07:29:17 +0000",
+        "description": "Article URL: https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time Comments URL: https://news.ycombinato...",
+        "keywords": "time, investors, get, real, view, bond, market, activity",
+        "generated": "2026-06-22T12:15:23.441752",
+        "file": "investors-get-real-time-view-of-uk-bond-market-activity-for-the-first-time.md"
+    },
+    {
         "title": "I Cut My AI Document QA Bill by 65%: Here's the Full Breakdown",
         "slug": "i-cut-my-ai-document-qa-bill-by-65-heres-the-full-breakdown",
         "author": "gentlenode",
@@ -11702,6 +11856,17 @@
         "keywords": "document, you, here, model, question, gpt, deepseek, str",
         "generated": "2026-06-21T09:58:05.290262",
         "file": "i-cut-my-ai-document-qa-bill-by-65-heres-the-full-breakdown.md"
+    },
+    {
+        "title": "LLMs vs Generative AI",
+        "slug": "llms-vs-generative-ai",
+        "author": "Aljen M",
+        "source": "devto_python",
+        "published": "Mon, 22 Jun 2026 12:11:22 +0000",
+        "description": "LLM Inference (HuggingFace Transformers) This is a minimal example of running a causal language model using HuggingFace. from transformers import AutoTokeniz...",
+        "keywords": "torch, model, diffusion, import, idea, transformer, output, key",
+        "generated": "2026-06-22T12:15:23.442179",
+        "file": "llms-vs-generative-ai.md"
     },
     {
         "title": "Why Every Computer Vision Team Ends Up Rewriting the Same Video Clip Pipeline",
@@ -11801,6 +11966,17 @@
         "keywords": "you, why, return, not, list, matters, key, what",
         "generated": "2026-06-11T10:47:52.347551",
         "file": "top-12-python-interview-problems-for-data-engineers-with-answers.md"
+    },
+    {
+        "title": "Why ‘Move Fast, Break Things’ Is Killing Your Custom AI Agent Development Before Year 2?",
+        "slug": "why-move-fast-break-things-is-killing-your-custom-ai-agent-development-before-year-2",
+        "author": "Inument",
+        "source": "devto_webdev",
+        "published": "Mon, 22 Jun 2026 12:09:09 +0000",
+        "description": "The “move fast and break things” attitude is actively hurting custom AI agent development by prioritising speed over structural soundness. Speedy AI deployme...",
+        "keywords": "development, fast, year, move, break, things, custom, agent",
+        "generated": "2026-06-22T12:15:23.447076",
+        "file": "why-move-fast-break-things-is-killing-your-custom-ai-agent-development-before-year-2.md"
     },
     {
         "title": "Interpretable Convolutional Filters with SincNet",
@@ -12021,6 +12197,17 @@
         "keywords": "agent, you, not, tool, workflow, monitoring, context, whether",
         "generated": "2026-06-19T10:46:49.271601",
         "file": "how-to-monitor-ai-agent-behavior-in-production-tools-metrics-and-what-to-alert-on.md"
+    },
+    {
+        "title": "AI’s Expanding Role in Industrial Cyber Defense & Security",
+        "slug": "ais-expanding-role-in-industrial-cyber-defense-security",
+        "author": "Rahul v",
+        "source": "devto_ai",
+        "published": "Mon, 22 Jun 2026 12:09:03 +0000",
+        "description": "Artificial intelligence is transforming manufacturing cybersecurity, helping organizations detect threats faster and respond to attacks in real time. As fact...",
+        "keywords": "manufacturing, cyber, security, attacks, smart, expanding, role, industrial",
+        "generated": "2026-06-22T12:15:23.447590",
+        "file": "ais-expanding-role-in-industrial-cyber-defense-security.md"
     },
     {
         "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
@@ -12362,6 +12549,17 @@
         "keywords": "you, self, cap, action, usd, loop, brake, step",
         "generated": "2026-06-10T10:13:09.116179",
         "file": "a-47k-agent-loop-add-a-hard-spend-cap-in-40-lines.md"
+    },
+    {
+        "title": "LLMs do not merely reflect the bias of their training, they police it",
+        "slug": "llms-do-not-merely-reflect-the-bias-of-their-training-they-police-it",
+        "author": "nailer",
+        "source": "hackernews",
+        "published": "Mon, 22 Jun 2026 10:50:46 +0000",
+        "description": "Article URL: https://twitter.com/brianroemmele/status/1991714955339657384 Comments URL: https://news.ycombinator.com/item?id=48628450 Points: 24 # Comments: 6",
+        "keywords": "url, https, com, comments, llms, not, merely, reflect",
+        "generated": "2026-06-22T12:15:23.441526",
+        "file": "llms-do-not-merely-reflect-the-bias-of-their-training-they-police-it.md"
     },
     {
         "title": "I Built a Three-Agent AI Training Simulator on Telegram — Here's How It Works",
@@ -13484,6 +13682,17 @@
         "keywords": "tool, step, you, per, your, loop, call, quote",
         "generated": "2026-06-21T19:51:26.681214",
         "file": "agent-loop-cost-11x-your-per-call-quote-in-40-lines.md"
+    },
+    {
+        "title": "Britain's prime minister to step down, Burnham puts himself forward as successor",
+        "slug": "britains-prime-minister-to-step-down-burnham-puts-himself-forward-as-successor",
+        "author": "JumpCrisscross",
+        "source": "hackernews",
+        "published": "Mon, 22 Jun 2026 11:11:11 +0000",
+        "description": "Article URL: https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/ Comments URL: https://news.yc...",
+        "keywords": "prime, minister, url, https, com, comments, britain, step",
+        "generated": "2026-06-22T12:15:23.441338",
+        "file": "britains-prime-minister-to-step-down-burnham-puts-himself-forward-as-successor.md"
     },
     {
         "title": "Docker Compose Config Variable…",
