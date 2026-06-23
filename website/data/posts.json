@@ -462,6 +462,17 @@
         "file": "algorithmic-monocultures-in-hiring.md"
     },
     {
+        "title": "I built a tiny static reset system and put it on GitHub Pages",
+        "slug": "i-built-a-tiny-static-reset-system-and-put-it-on-github-pages",
+        "author": "aiden",
+        "source": "devto_webdev",
+        "published": "Tue, 23 Jun 2026 03:58:39 +0000",
+        "description": "I wanted a simple public page that does one job: give someone a practical 7-day home reset plan without asking them to sign up first. So I kept it boring on ...",
+        "keywords": "page, reset, github, first, can, pages, plan, without",
+        "generated": "2026-06-23T04:02:13.419074",
+        "file": "i-built-a-tiny-static-reset-system-and-put-it-on-github-pages.md"
+    },
+    {
         "title": "Launched a free DSGVO compliance scanner — scanned 200+ sites, 73% had violations",
         "slug": "launched-a-free-dsgvo-compliance-scanner-scanned-200-sites-73-had-violations",
         "author": "Nevik Schmidt",
@@ -1472,6 +1483,17 @@
         "keywords": "cart, you, shopify, out, fetch, add, listener, drawer",
         "generated": "2026-06-09T09:59:01.260354",
         "file": "how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict.md"
+    },
+    {
+        "title": "Write HTML, Not JSON: HeyGen's Visual-Grounding Trick",
+        "slug": "write-html-not-json-heygens-visual-grounding-trick",
+        "author": "Max Quimby",
+        "source": "devto_webdev",
+        "published": "Tue, 23 Jun 2026 03:56:14 +0000",
+        "description": "Read the full version with screenshots and embedded sources on AgentConn → agentconn.com/blog/heygen-hyperframes-html-visual-grounding-video-ui-agents-2026 E...",
+        "keywords": "json, html, agent, visual, hyperframes, video, grounding, heygen",
+        "generated": "2026-06-23T04:02:13.419358",
+        "file": "write-html-not-json-heygens-visual-grounding-trick.md"
     },
     {
         "title": "Build a Recession Indicator with Unemployment + Inflation Data (Free API)",
@@ -2605,6 +2627,17 @@
         "keywords": "automated, doubt, url, https, comments, development, process, article",
         "generated": "2026-06-07T19:40:41.521431",
         "file": "my-automated-doubt-development-process.md"
+    },
+    {
+        "title": "Python for Beginners — Part 6: Functions",
+        "slug": "python-for-beginners-part-6-functions",
+        "author": "Ramesh S",
+        "source": "devto_python",
+        "published": "Tue, 23 Jun 2026 03:43:55 +0000",
+        "description": "Part 6 of a beginner-friendly series on learning Python from scratch. In Part 5 , we learned to organize data with lists, dictionaries, and other collections...",
+        "keywords": "print, def, ramesh, function, name, return, age, greet",
+        "generated": "2026-06-23T04:02:13.417494",
+        "file": "python-for-beginners-part-6-functions.md"
     },
     {
         "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
@@ -5841,6 +5874,17 @@
         "file": "9-mothers-yc-p26-is-hiring.md"
     },
     {
+        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+        "slug": "vibethinker-3b-param-model-that-beats-opus-45-on-reasoning-with-novel-sftgrpo",
+        "author": "timhigins",
+        "source": "hackernews",
+        "published": "Tue, 23 Jun 2026 02:01:25 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2606.16140 Comments URL: https://news.ycombinator.com/item?id=48639240 Points: 33 # Comments: 10",
+        "keywords": "url, https, comments, vibethinker, param, model, beats, opus",
+        "generated": "2026-06-23T04:02:13.416005",
+        "file": "vibethinker-3b-param-model-that-beats-opus-45-on-reasoning-with-novel-sftgrpo.md"
+    },
+    {
         "title": "Optimizing WebSocket Processing for High-Speed Market Data with Polymarket CLOB",
         "slug": "optimizing-websocket-processing-for-high-speed-market-data-with-polymarket-clob",
         "author": "Benjamin-Cup",
@@ -6831,6 +6875,17 @@
         "file": "iconfinder.md"
     },
     {
+        "title": "Cómo automatizar el 30% de tu trabajo docente con IA (sin ser experto)",
+        "slug": "cmo-automatizar-el-30-de-tu-trabajo-docente-con-ia-sin-ser-experto",
+        "author": "David García",
+        "source": "devto_ai",
+        "published": "Tue, 23 Jun 2026 03:59:52 +0000",
+        "description": "Ia automatizacion profesores docentes — artículo de Itelnet Consulting Cómo automatizar el 30% de tu trabajo docente con IA (sin ser experto) Como profesor, ...",
+        "keywords": "con, para, automatizar, trabajo, docente, que, ser, recursos",
+        "generated": "2026-06-23T04:02:13.420582",
+        "file": "cmo-automatizar-el-30-de-tu-trabajo-docente-con-ia-sin-ser-experto.md"
+    },
+    {
         "title": "NASA's High-Tech Prada LCVG Sp…",
         "slug": "nasas-high-tech-prada-lcvg-sp",
         "author": "Norvik Tech",
@@ -7293,6 +7348,17 @@
         "file": "building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents-rag.md"
     },
     {
+        "title": "ATL más Función Seno para hacer animaciones fluídas.",
+        "slug": "atl-ms-funcin-seno-para-hacer-animaciones-fludas",
+        "author": "Lily",
+        "source": "devto_python",
+        "published": "Tue, 23 Jun 2026 03:33:10 +0000",
+        "description": "# 1. Mantenemos el transform del Baile de los Números init python : import math def efecto_holograma_avanzado ( trans , st , at ): # Movimiento vertical us...",
+        "keywords": "int, renpy, color, return, append, para, def, colores",
+        "generated": "2026-06-23T04:02:13.417804",
+        "file": "atl-ms-funcin-seno-para-hacer-animaciones-fludas.md"
+    },
+    {
         "title": "Your Software Factory Is a Dark Kitchen. The $1,000 Nobody Mentions.",
         "slug": "your-software-factory-is-a-dark-kitchen-the-1000-nobody-mentions",
         "author": "Phil Rentier Digital",
@@ -7566,6 +7632,17 @@
         "keywords": "url, https, comments, environment, variable, article, bnikolic, blog",
         "generated": "2026-06-09T20:13:36.279061",
         "file": "the-lddebug-environment-variable-2012.md"
+    },
+    {
+        "title": "What an AI video tool actually changed for my team (it wasn't the quality)",
+        "slug": "what-an-ai-video-tool-actually-changed-for-my-team-it-wasnt-the-quality",
+        "author": "SeedAI Video",
+        "source": "devto_ai",
+        "published": "Tue, 23 Jun 2026 03:50:21 +0000",
+        "description": "A client asked for a 30-second product clip on a Tuesday and wanted it by Thursday. A year ago that request meant one of two things for my team: book someone...",
+        "keywords": "you, video, model, your, what, tool, team, where",
+        "generated": "2026-06-23T04:02:13.421315",
+        "file": "what-an-ai-video-tool-actually-changed-for-my-team-it-wasnt-the-quality.md"
     },
     {
         "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
@@ -8193,6 +8270,17 @@
         "keywords": "words, liability, risk, count, workflow, name, festival, vendor",
         "generated": "2026-06-07T19:40:41.526817",
         "file": "ai-powered-verification-workflow-securing-vendor-compliance-for-local-festivals.md"
+    },
+    {
+        "title": "I have been building an open-source MMORPG mostly with Claude. It just shipped its first 10-man raid",
+        "slug": "i-have-been-building-an-open-source-mmorpg-mostly-with-claude-it-just-shipped-its-first-10-man-raid",
+        "author": "WorldofClaudecraft",
+        "source": "devto_webdev",
+        "published": "Tue, 23 Jun 2026 04:00:00 +0000",
+        "description": "World of Claudecraft is a free, browser-based MMORPG. No download, no signup wall, you open a tab and you are in. It is open source, and most of it has been ...",
+        "keywords": "you, not, have, open, just, first, raid, has",
+        "generated": "2026-06-23T04:02:13.418911",
+        "file": "i-have-been-building-an-open-source-mmorpg-mostly-with-claude-it-just-shipped-its-first-10-man-raid.md"
     },
     {
         "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
@@ -9150,6 +9238,17 @@
         "keywords": "deck, url, https, comments, designing, backyard, house, article",
         "generated": "2026-06-20T09:27:21.553596",
         "file": "designing-a-backyard-deck-for-my-house.md"
+    },
+    {
+        "title": "An Introduction to YOLO26",
+        "slug": "an-introduction-to-yolo26",
+        "author": "teleforce",
+        "source": "hackernews",
+        "published": "Tue, 23 Jun 2026 01:52:20 +0000",
+        "description": "Article URL: https://blog.roboflow.com/yolo26/ Comments URL: https://news.ycombinator.com/item?id=48639165 Points: 7 # Comments: 0",
+        "keywords": "url, https, com, comments, introduction, article, blog, roboflow",
+        "generated": "2026-06-23T04:02:13.416248",
+        "file": "an-introduction-to-yolo26.md"
     },
     {
         "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
@@ -10186,6 +10285,17 @@
         "file": "wordpressorg-now-distrusts-my-commits-by-default-as-a-plugin-author-i-think-thats-right.md"
     },
     {
+        "title": "The Silent Ledger Leak: Measuring Causality Violations in Async Payment Pipelines",
+        "slug": "the-silent-ledger-leak-measuring-causality-violations-in-async-payment-pipelines",
+        "author": "yakuburoseline1-gif",
+        "source": "devto_python",
+        "published": "Tue, 23 Jun 2026 03:22:32 +0000",
+        "description": "I spent the last few months trying to understand why reconciliation errors keep appearing in high-throughput pipelines. Here is what I found. In the race to ...",
+        "keywords": "causality, simulation, measuring, pipelines, reconciliation, high, transactions, engineering",
+        "generated": "2026-06-23T04:02:13.418027",
+        "file": "the-silent-ledger-leak-measuring-causality-violations-in-async-payment-pipelines.md"
+    },
+    {
         "title": "How to handle imposter syndrome as a developer: practical strategies",
         "slug": "how-to-handle-imposter-syndrome-as-a-developer-practical-strategies",
         "author": "Rizwan Saleem",
@@ -11066,6 +11176,17 @@
         "file": "how-to-use-llms-effectively-in-your-daily-work-a-practical-guide.md"
     },
     {
+        "title": "I scanned FastAPI's tutorial examples. Here's what I found.",
+        "slug": "i-scanned-fastapis-tutorial-examples-heres-what-i-found",
+        "author": "Moon sehwan",
+        "source": "devto_python",
+        "published": "Tue, 23 Jun 2026 03:50:41 +0000",
+        "description": "FastAPI's official docs are beautiful. I love them. So I scanned them through AINAScan . Here's what I found. The Setup FastAPI's tutorial examples are desig...",
+        "keywords": "fastapi, user, tutorial, ainascan, app, async, def, result",
+        "generated": "2026-06-23T04:02:13.416792",
+        "file": "i-scanned-fastapis-tutorial-examples-heres-what-i-found.md"
+    },
+    {
         "title": "Golang vs Node vs Python series.",
         "slug": "golang-vs-node-vs-python-series",
         "author": "Alish Giri",
@@ -11198,6 +11319,17 @@
         "file": "securing-api-communications-in-decentralized-systems-637.md"
     },
     {
+        "title": "When AI Is Confidently Wrong, Who's Responsible?",
+        "slug": "when-ai-is-confidently-wrong-whos-responsible",
+        "author": "KAILAS VS",
+        "source": "devto_ai",
+        "published": "Tue, 23 Jun 2026 04:00:00 +0000",
+        "description": "When AI Is Confidently Wrong, Who's Responsible? Recently, I was preparing for AI Engineer interviews and discussing a Retrieval-Augmented Generation (RAG) c...",
+        "keywords": "answer, rag, can, you, system, confidently, wrong, retrieval",
+        "generated": "2026-06-23T04:02:13.420302",
+        "file": "when-ai-is-confidently-wrong-whos-responsible.md"
+    },
+    {
         "title": "Clojure Hosted on Go",
         "slug": "clojure-hosted-on-go",
         "author": "dnlo",
@@ -11231,6 +11363,17 @@
         "file": "how-to-host-your-website-on-github-pages-for-free.md"
     },
     {
+        "title": "Toastry: Sonner-Style Toast Notifications in JavaScript",
+        "slug": "toastry-sonner-style-toast-notifications-in-javascript",
+        "author": "jQueryScript",
+        "source": "devto_webdev",
+        "published": "Tue, 23 Jun 2026 03:49:42 +0000",
+        "description": "Toastry: a dependency-free JavaScript library for Sonner-style stacked toast notifications. Features: Success, error, warning, info, and loading states Promi...",
+        "keywords": "toastry, sonner, style, toast, notifications, javascript, dependency, free",
+        "generated": "2026-06-23T04:02:13.419899",
+        "file": "toastry-sonner-style-toast-notifications-in-javascript.md"
+    },
+    {
         "title": "1983 Northern Telecom Commodore Phone",
         "slug": "1983-northern-telecom-commodore-phone",
         "author": "arexxbifs",
@@ -11240,6 +11383,17 @@
         "keywords": "northern, telecom, commodore, phone, url, https, comments, article",
         "generated": "2026-06-22T05:02:45.246732",
         "file": "1983-northern-telecom-commodore-phone.md"
+    },
+    {
+        "title": "Improvised Apriori Algorithm using frequent pattern tree for real timeapplications in data mining",
+        "slug": "improvised-apriori-algorithm-using-frequent-pattern-tree-for-real-timeapplications-in-data-mining",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Tue, 23 Jun 2026 04:00:32 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "improvised, apriori, algorithm, using, frequent, pattern, tree, real",
+        "generated": "2026-06-23T04:02:13.420007",
+        "file": "improvised-apriori-algorithm-using-frequent-pattern-tree-for-real-timeapplications-in-data-mining.md"
     },
     {
         "title": "DeepSeek Introduces Vision",
@@ -11757,6 +11911,17 @@
         "keywords": "google, workspace, threatening, block, firefox, url, https, com",
         "generated": "2026-06-19T19:55:28.874897",
         "file": "google-workspace-threatening-to-block-firefox-access.md"
+    },
+    {
+        "title": "Hedy AI: Master Professional Conversations with AI –",
+        "slug": "hedy-ai-master-professional-conversations-with-ai",
+        "author": "Al Beruni",
+        "source": "devto_webdev",
+        "published": "Tue, 23 Jun 2026 03:55:05 +0000",
+        "description": "Hedy AI: Master Professional Conversations with AI – Your AI-Powered Assistant for Navigating Professional Conversations with Confidence – My Honest AppSumo ...",
+        "keywords": "hedy, conversations, professional, month, communication, your, confidence, emails",
+        "generated": "2026-06-23T04:02:13.419760",
+        "file": "hedy-ai-master-professional-conversations-with-ai.md"
     },
     {
         "title": "WWDC 2026: Apple is Folding",
@@ -12309,6 +12474,17 @@
         "file": "understanding-saas-landing-pag.md"
     },
     {
+        "title": "I Almost Hashed a Document Number That Needed to Be Read Again",
+        "slug": "i-almost-hashed-a-document-number-that-needed-to-be-read-again",
+        "author": "Ravi Gupta",
+        "source": "devto_python",
+        "published": "Tue, 23 Jun 2026 03:20:00 +0000",
+        "description": "What building KYC verification taught me about the difference between encryption and hashing - and why getting that choice wrong would have broken the entire...",
+        "keywords": "submission, document, admin, what, encryption, you, wallet, number",
+        "generated": "2026-06-23T04:02:13.418652",
+        "file": "i-almost-hashed-a-document-number-that-needed-to-be-read-again.md"
+    },
+    {
         "title": "Essential Resources for Settin…",
         "slug": "essential-resources-for-settin",
         "author": "Norvik Tech",
@@ -12472,6 +12648,17 @@
         "keywords": "web, search, agentcore, agent, you, aws, tool, bedrock",
         "generated": "2026-06-20T09:27:21.561290",
         "file": "amazon-bedrock-agentcore-web-search-production-deployment-guide.md"
+    },
+    {
+        "title": "Mastering Multi-Tenant SaaS Architecture for AI Platforms",
+        "slug": "mastering-multi-tenant-saas-architecture-for-ai-platforms",
+        "author": "Ravi Roy",
+        "source": "devto_ai",
+        "published": "Tue, 23 Jun 2026 03:56:10 +0000",
+        "description": "Mastering Multi-Tenant SaaS Architecture for AI Platforms Building a multi-tenant SaaS architecture for AI isn’t just about efficiency; it’s about transformi...",
+        "keywords": "tenant, multi, saas, resource, tenants, data, architectures, architecture",
+        "generated": "2026-06-23T04:02:13.420920",
+        "file": "mastering-multi-tenant-saas-architecture-for-ai-platforms.md"
     },
     {
         "title": "Chaos engineering: testing system resilience through controlled experiments",
@@ -13013,6 +13200,17 @@
         "file": "trial-software-activation-server-prometheusdevio-jun-2026.md"
     },
     {
+        "title": "1,700 free online courses from top universities",
+        "slug": "1700-free-online-courses-from-top-universities",
+        "author": "momentmaker",
+        "source": "hackernews",
+        "published": "Tue, 23 Jun 2026 01:54:38 +0000",
+        "description": "Article URL: https://www.openculture.com/freeonlinecourses Comments URL: https://news.ycombinator.com/item?id=48639184 Points: 84 # Comments: 17",
+        "keywords": "url, https, com, comments, free, online, courses, top",
+        "generated": "2026-06-23T04:02:13.416132",
+        "file": "1700-free-online-courses-from-top-universities.md"
+    },
+    {
         "title": "I Cut My AI Bill By 97% Switching to DeepSeek — Here's How",
         "slug": "i-cut-my-ai-bill-by-97-switching-to-deepseek-heres-how",
         "author": "gentlenode",
@@ -13044,6 +13242,17 @@
         "keywords": "automate, you, small, scale, specialty, food, producers, how",
         "generated": "2026-06-05T10:13:51.910605",
         "file": "ai-automation-for-ai-for-small-scale-specialty-food-producers-how-to-automate-fdanutrition-label-generation-and-ingredient-so.md"
+    },
+    {
+        "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+        "slug": "ultralytics-yolo26-unified-real-time-end-to-end-vision-models",
+        "author": "teleforce",
+        "source": "hackernews",
+        "published": "Tue, 23 Jun 2026 02:28:00 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2606.03748 Comments URL: https://news.ycombinator.com/item?id=48639434 Points: 8 # Comments: 0",
+        "keywords": "end, url, https, comments, ultralytics, unified, real, time",
+        "generated": "2026-06-23T04:02:13.415835",
+        "file": "ultralytics-yolo26-unified-real-time-end-to-end-vision-models.md"
     },
     {
         "title": "Your Pipeline Is 13.0h Behind: Catching Travel Sentiment Leads with Pulsebit",
@@ -13308,6 +13517,17 @@
         "keywords": "url, https, com, comments, you, can, run, article",
         "generated": "2026-06-06T19:40:03.722073",
         "file": "you-can-run.md"
+    },
+    {
+        "title": "SpaceX sheds $400B in market value as debut rally hits reverse",
+        "slug": "spacex-sheds-400b-in-market-value-as-debut-rally-hits-reverse",
+        "author": "simonpure",
+        "source": "hackernews",
+        "published": "Tue, 23 Jun 2026 01:35:26 +0000",
+        "description": "Article URL: https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4 Comments URL: https://news.ycombinator.com/item?id=48639057 Points: 35 # Comment...",
+        "keywords": "url, https, com, comments, spacex, sheds, market, value",
+        "generated": "2026-06-23T04:02:13.416365",
+        "file": "spacex-sheds-400b-in-market-value-as-debut-rally-hits-reverse.md"
     },
     {
         "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
