@@ -4,16 +4,16 @@ slug: "qwen-agentworld-language-world-models-for-general-agents"
 author: "ilreb"
 source: "hackernews"
 published: "Wed, 24 Jun 2026 02:21:47 +0000"
-description: "Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 6 # Comments: 0"
+description: "Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 100 # Comments: 27"
 keywords: "url, https, comments, qwen, agentworld, language, world, models"
-generated: "2026-06-24T04:04:51.772070"
+generated: "2026-06-24T09:40:50.186065"
 ---
 
 # Qwen-AgentWorld: Language World Models for General Agents
 
 ## Overview
 
-Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 6 # Comments: 0
+Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 100 # Comments: 27
 
 ## Key Insights
 

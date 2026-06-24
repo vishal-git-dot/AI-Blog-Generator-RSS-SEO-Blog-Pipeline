@@ -132,6 +132,17 @@
         "file": "tracing-a-powerful-gnss-interference-source-over-europe.md"
     },
     {
+        "title": "Generate PDF invoices from HTML in Python — without a headless browser",
+        "slug": "generate-pdf-invoices-from-html-in-python-without-a-headless-browser",
+        "author": "Hani Amro",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 09:30:19 +0000",
+        "description": "Almost every app eventually has to turn HTML into a PDF: invoices, receipts, reports, tickets, certificates. The reflex is spin up Puppeteer / headless Chro...",
+        "keywords": "html, page, pdf, you, right, invoice, class, weasyprint",
+        "generated": "2026-06-24T09:40:50.188555",
+        "file": "generate-pdf-invoices-from-html-in-python-without-a-headless-browser.md"
+    },
+    {
         "title": "I built 19 micro-SaaS tools in one week as a solo developer",
         "slug": "i-built-19-micro-saas-tools-in-one-week-as-a-solo-developer",
         "author": "Akif",
@@ -968,6 +979,17 @@
         "file": "a-3d-voxel-game-engine-written-in-apl.md"
     },
     {
+        "title": "The loop doesn't know what done looks like.",
+        "slug": "the-loop-doesnt-know-what-done-looks-like",
+        "author": "Paul Penling",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 09:39:32 +0000",
+        "description": "Loop engineering has been making the rounds. Engineers at Anthropic, Google, OpenAI — people worth listening to — saying they've stopped writing prompts. The...",
+        "keywords": "loop, you, what, spec, not, done, agent, when",
+        "generated": "2026-06-24T09:40:50.192399",
+        "file": "the-loop-doesnt-know-what-done-looks-like.md"
+    },
+    {
         "title": "Dopamine Fracking",
         "slug": "dopamine-fracking",
         "author": "igmn",
@@ -977,6 +999,17 @@
         "keywords": "dopamine, fracking, url, https, comments, article, igerman, blog",
         "generated": "2026-06-08T04:42:39.217294",
         "file": "dopamine-fracking.md"
+    },
+    {
+        "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+        "slug": "raspberry-pi-pico-w-as-usb-wi-fi-adapter",
+        "author": "byb",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 03:17:47 +0000",
+        "description": "Article URL: https://gitlab.com/baiyibai/pico-usb-wifi Comments URL: https://news.ycombinator.com/item?id=48654676 Points: 127 # Comments: 37",
+        "keywords": "pico, usb, url, https, com, comments, raspberry, adapter",
+        "generated": "2026-06-24T09:40:50.185680",
+        "file": "raspberry-pi-pico-w-as-usb-wi-fi-adapter.md"
     },
     {
         "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
@@ -1021,6 +1054,17 @@
         "keywords": "agents, url, https, com, comments, building, without, harness",
         "generated": "2026-06-11T20:28:40.306623",
         "file": "building-agents-without-harness-engineering.md"
+    },
+    {
+        "title": "Gamma สร้างสไลด์ด้วย AI ใน 8 วินาที ได้ยังไง",
+        "slug": "gamma-ai-8",
+        "author": "Tawan Shamsanor",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 09:39:52 +0000",
+        "description": "รีวิว Gamma 2026: AI สร้าง Presentation ฉลาดขนาดนี้ได้ไง? TL;DR: Gamma คือเครื่องมือสร้างงานนำเสนออัจฉริยะที่ขับเคลื่อนด้วย AI ซึ่งช่วยให้คุณสร้างสไลด์, สรุป...",
+        "keywords": "gamma, web, native, uses, powerpoint, notion, otter, presentation",
+        "generated": "2026-06-24T09:40:50.191982",
+        "file": "gamma-ai-8.md"
     },
     {
         "title": "Buy Verified Chime Accounts: Top 5 Verified & Safe Options",
@@ -1681,6 +1725,17 @@
         "keywords": "article, url, https, com, comments, deficient, executive, control",
         "generated": "2026-06-11T04:27:42.955116",
         "file": "deficient-executive-control-in-transformer-attention.md"
+    },
+    {
+        "title": "MongoDB Indexes Finally Clicked for Me: Understanding Indexes, Compound Indexes & the Prefix Rule 🚀",
+        "slug": "mongodb-indexes-finally-clicked-for-me-understanding-indexes-compound-indexes-the-prefix-rule",
+        "author": "aarthirs",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 09:34:53 +0000",
+        "description": "While working on a MERN project, I came across these indexes: transactionSchema . index ({ user : 1 , date : - 1 }); transactionSchema . index ({ user : 1 , ...",
+        "keywords": "user, index, date, find, mongodb, indexes, aarthi, type",
+        "generated": "2026-06-24T09:40:50.189672",
+        "file": "mongodb-indexes-finally-clicked-for-me-understanding-indexes-compound-indexes-the-prefix-rule.md"
     },
     {
         "title": "Building a Multi-Agent Legal Research Pipeline with Live Source Verification",
@@ -5720,6 +5775,17 @@
         "file": "astrophysics-ai-with-python-decoding-the-hertzsprung-russell-diagram.md"
     },
     {
+        "title": "Getting Started with Python Training At Marathahalli: A 2026 Roadmap — #6",
+        "slug": "getting-started-with-python-training-at-marathahalli-a-2026-roadmap-6",
+        "author": "lmt",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 09:17:45 +0000",
+        "description": "Best Python Training at Marathahalli — Complete Guide 2026 Are you looking for the best Python Training at Marathahalli in 2026? You have come to the right p...",
+        "keywords": "training, python, marathahalli, you, our, industry, career, experience",
+        "generated": "2026-06-24T09:40:50.189136",
+        "file": "getting-started-with-python-training-at-marathahalli-a-2026-roadmap-6.md"
+    },
+    {
         "title": "BrancoSoft Insights: Building Scalable Digital Solutions",
         "slug": "brancosoft-insights-building-scalable-digital-solutions",
         "author": "Vedansh Singh",
@@ -6070,6 +6136,17 @@
         "keywords": "api, autoswagger, swagger, json, openapi, get, demo, https",
         "generated": "2026-06-13T04:19:15.384142",
         "file": "api-openapi.md"
+    },
+    {
+        "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+        "slug": "ashby-yc-w19-is-hiring-emea-engineers-who-can-design",
+        "author": "abhikp",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 07:01:21 +0000",
+        "description": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "url, https, com, comments, ashby, hiring, emea, engineers",
+        "generated": "2026-06-24T09:40:50.185500",
+        "file": "ashby-yc-w19-is-hiring-emea-engineers-who-can-design.md"
     },
     {
         "title": "Structured output from LLMs: JSON mode, function calling, and grammar-constrained decoding",
@@ -8987,6 +9064,17 @@
         "file": "port-react-compiler-to-rust.md"
     },
     {
+        "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
+        "slug": "i-scanned-50-ai-generated-repos-5-critical-bugs-per-file-on-average-all-missed-by-linters",
+        "author": "Moon sehwan",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 09:26:56 +0000",
+        "description": "I scanned 50 AI-generated Python repos this week. Every single one had at least one critical security vulnerability that standard linters missed. Here's what...",
+        "keywords": "scan, aina, block, layer, file, key, security, patterns",
+        "generated": "2026-06-24T09:40:50.190836",
+        "file": "i-scanned-50-ai-generated-repos-5-critical-bugs-per-file-on-average-all-missed-by-linters.md"
+    },
+    {
         "title": "Building Recommender Systems with LLM",
         "slug": "building-recommender-systems-with-llm",
         "author": "shashank ms",
@@ -9513,6 +9601,17 @@
         "keywords": "accessories, tech, organizers, what, best, buy, india, popular",
         "generated": "2026-06-05T10:13:51.908415",
         "file": "what-are-the-best-tech-accessories-to-buy-in-india-in-2026.md"
+    },
+    {
+        "title": "Your ID Has Secret Ink — And It's Why Fake Faces Don't Fool the System",
+        "slug": "your-id-has-secret-ink-and-its-why-fake-faces-dont-fool-the-system",
+        "author": "CaraComp",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 09:36:47 +0000",
+        "description": "Decoding the invisible chemistry of identity verification For most developers building identity verification (IDV) flows, the process feels like a standard d...",
+        "keywords": "document, physical, developers, identity, verification, comparison, you, facial",
+        "generated": "2026-06-24T09:40:50.192748",
+        "file": "your-id-has-secret-ink-and-its-why-fake-faces-dont-fool-the-system.md"
     },
     {
         "title": "Building a Profitable AI Agent with LangChain: A Step-by-Step Tutorial",
@@ -11077,6 +11176,17 @@
         "file": "how-i-slashed-ai-api-costs-60-as-a-cloud-architect.md"
     },
     {
+        "title": "I Wish I'd Found DeepSeek V4 Flash Sooner — A Backend Breakdown",
+        "slug": "i-wish-id-found-deepseek-v4-flash-sooner-a-backend-breakdown",
+        "author": "RileyKim",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 09:30:19 +0000",
+        "description": "I Wish I'd Found DeepSeek V4 Flash Sooner — A Backend Breakdown I'll be honest with you: I rolled my eyes when DeepSeek first hit my radar. Another week, ano...",
+        "keywords": "flash, you, gpt, model, deepseek, what, openai, api",
+        "generated": "2026-06-24T09:40:50.188078",
+        "file": "i-wish-id-found-deepseek-v4-flash-sooner-a-backend-breakdown.md"
+    },
+    {
         "title": "Anthropic, please ship an official Claude Desktop for Linux",
         "slug": "anthropic-please-ship-an-official-claude-desktop-for-linux",
         "author": "predkambrij",
@@ -11130,6 +11240,17 @@
         "keywords": "one, code, across, app, what, database, actually, fast",
         "generated": "2026-06-18T10:38:46.941520",
         "file": "best-lovable-alternatives-for-teams-building-past-the-prototype-stage.md"
+    },
+    {
+        "title": "Apache Spark Query Optimization on Databricks: Catalyst, AQE, and Photon Engine",
+        "slug": "apache-spark-query-optimization-on-databricks-catalyst-aqe-and-photon-engine",
+        "author": "Jubin Soni",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 09:32:37 +0000",
+        "description": "A deep dive into how Spark transforms your SQL into a physical execution plan — and how Databricks layers Adaptive Query Execution and the Photon vectorized ...",
+        "keywords": "spark, sql, join, photon, table, databricks, plan, query",
+        "generated": "2026-06-24T09:40:50.187268",
+        "file": "apache-spark-query-optimization-on-databricks-catalyst-aqe-and-photon-engine.md"
     },
     {
         "title": "AI Prompt Security: Is the Same Protection Necessary for Every",
@@ -11913,6 +12034,17 @@
         "file": "amazon-cognito-now-supports-multi-region-replication.md"
     },
     {
+        "title": "Fix MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+        "slug": "fix-macbook-neo-cursor-lag-record-1-pixel-of-the-screen-every-10-seconds",
+        "author": "retroplasma",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 02:38:47 +0000",
+        "description": "Article URL: https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf Comments URL: https://news.ycombinator.com/item?id=48654465 Points: 90 # Co...",
+        "keywords": "url, https, com, comments, fix, macbook, neo, cursor",
+        "generated": "2026-06-24T09:40:50.185816",
+        "file": "fix-macbook-neo-cursor-lag-record-1-pixel-of-the-screen-every-10-seconds.md"
+    },
+    {
         "title": "The $47K Mistake: What Your Fractional CTO Should Audit Before Lock-In",
         "slug": "the-47k-mistake-what-your-fractional-cto-should-audit-before-lock-in",
         "author": "Elena Revicheva",
@@ -12650,6 +12782,17 @@
         "file": "diffusionbench-towards-holistic-evaluation-of-generative-diffusion-transformers.md"
     },
     {
+        "title": "Build Dynamic Websites and Applications with Modern Development Skills",
+        "slug": "build-dynamic-websites-and-applications-with-modern-development-skills",
+        "author": "CBitss 34",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 09:34:06 +0000",
+        "description": "The demand for skilled web developers continues to grow as businesses increasingly rely on digital platforms to connect with customers and expand their servi...",
+        "keywords": "development, full, stack, developers, applications, can, learning, skills",
+        "generated": "2026-06-24T09:40:50.189959",
+        "file": "build-dynamic-websites-and-applications-with-modern-development-skills.md"
+    },
+    {
         "title": "VibeSync- Music Recommendation",
         "slug": "vibesync-music-recommendation",
         "author": "RUDRA PRATAP",
@@ -12692,6 +12835,17 @@
         "keywords": "you, model, client, deepseek, tokens, your, one, models",
         "generated": "2026-06-24T04:04:51.773558",
         "file": "how-i-stopped-bleeding-money-on-ai-apis-a-freelancers-guide.md"
+    },
+    {
+        "title": "How I Built a Free ACS Citation Generator for Chemistry Papers",
+        "slug": "how-i-built-a-free-acs-citation-generator-for-chemistry-papers",
+        "author": "David Flores Flores",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 09:30:07 +0000",
+        "description": "If you have ever cleaned up references for a chemistry paper, you know the tiny formatting problems add up fast. ACS references look simple until you have to...",
+        "keywords": "journal, doi, reference, acs, tool, citation, missing, fields",
+        "generated": "2026-06-24T09:40:50.190399",
+        "file": "how-i-built-a-free-acs-citation-generator-for-chemistry-papers.md"
     },
     {
         "title": "YourGPT vs LangChain: Which One Actually Fits Your Team?",
@@ -12743,9 +12897,9 @@
         "author": "ilreb",
         "source": "hackernews",
         "published": "Wed, 24 Jun 2026 02:21:47 +0000",
-        "description": "Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 6 # Comments: 0",
+        "description": "Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 100 # Comments: 27",
         "keywords": "url, https, comments, qwen, agentworld, language, world, models",
-        "generated": "2026-06-24T04:04:51.772070",
+        "generated": "2026-06-24T09:40:50.186065",
         "file": "qwen-agentworld-language-world-models-for-general-agents.md"
     },
     {
@@ -13618,6 +13772,17 @@
         "file": "show-hn-an-8-bit-live-gamecast-for-baseball.md"
     },
     {
+        "title": "Lawmadi OS: an LLM-independent legal-AI OS for Korean law (every citation verified)",
+        "slug": "lawmadi-os-an-llm-independent-legal-ai-os-for-korean-law-every-citation-verified",
+        "author": "peter choe",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 09:35:46 +0000",
+        "description": "Lawmadi OS is an LLM-independent legal-AI operating system for Korean law. Answer quality is guaranteed by the verified-asset layer (SSOT) + grounding + real...",
+        "keywords": "llm, law, lawmadi, legal, citation, verification, independent, korean",
+        "generated": "2026-06-24T09:40:50.192937",
+        "file": "lawmadi-os-an-llm-independent-legal-ai-os-for-korean-law-every-citation-verified.md"
+    },
+    {
         "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
         "slug": "the-time-the-x86-emulator-team-found-code-so-bad-they-fixed-it-during-emulation",
         "author": "paulmooreparks",
@@ -13957,6 +14122,17 @@
         "keywords": "pdf, your, html, browser, you, not, generation, pdfpipe",
         "generated": "2026-06-16T21:09:41.015514",
         "file": "why-pdf-generation-breaks-in-production-and-why-localhost-lies.md"
+    },
+    {
+        "title": "Bash script vs Python script for sysadmin tasks?",
+        "slug": "bash-script-vs-python-script-for-sysadmin-tasks",
+        "author": "TaiKedz",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 09:28:54 +0000",
+        "description": "Which do you prefer to sling around, a bash command or a python script? In my goal to write more python and less shell, for the benefit of my colleagues' san...",
+        "keywords": "host, python, run, return, grep, script, command, def",
+        "generated": "2026-06-24T09:40:50.188874",
+        "file": "bash-script-vs-python-script-for-sysadmin-tasks.md"
     },
     {
         "title": "AI's Guide to Pretending to Be Useful (Spoiler: It's Harder Than It Looks)",
@@ -14408,6 +14584,17 @@
         "keywords": "quiz, ramayanam, ram, app, project, users, interactive, download",
         "generated": "2026-06-20T04:12:08.216702",
         "file": "ram-ramayanam-quiz-app.md"
+    },
+    {
+        "title": "The Teensy Executable Revisited",
+        "slug": "the-teensy-executable-revisited",
+        "author": "ankitg12",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 02:30:13 +0000",
+        "description": "Article URL: https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html Comments URL: https://news.ycombinator.com/item?id=48654411 Points: 37 # Comment...",
+        "keywords": "url, https, com, comments, teensy, executable, revisited, article",
+        "generated": "2026-06-24T09:40:50.185940",
+        "file": "the-teensy-executable-revisited.md"
     },
     {
         "title": "Context Engineering for Enterprise AI, Part 2: The Memory Layer That Makes Agents Useful",
@@ -15521,6 +15708,17 @@
         "file": "framework-fatigue-what-a-98-evaluated-vanilla-js-game-taught-me-about-clean-architecture.md"
     },
     {
+        "title": "Why Hiring an Office Interior Designer in Noida Can Transform Your Workspace",
+        "slug": "why-hiring-an-office-interior-designer-in-noida-can-transform-your-workspace",
+        "author": "Shalini Kumari",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 09:25:56 +0000",
+        "description": "A well-designed office is more than just a place where employees work. It directly impacts productivity, employee satisfaction, client impressions, and overa...",
+        "keywords": "design, interior, office, can, your, professional, designer, business",
+        "generated": "2026-06-24T09:40:50.191251",
+        "file": "why-hiring-an-office-interior-designer-in-noida-can-transform-your-workspace.md"
+    },
+    {
         "title": "Party Supplies Market Set for Strong Expansion Through 2034 Driven by Rising Event Culture",
         "slug": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture",
         "author": "Mahesh Chavan",
@@ -15585,6 +15783,17 @@
         "keywords": "url, https, com, comments, notes, deepseek, article, twitter",
         "generated": "2026-06-10T15:51:30.356726",
         "file": "notes-on-deepseek.md"
+    },
+    {
+        "title": "Your first business opportunity in 3 commands: /register_directory in @biznode_bot, wait for matches, then /my_pulse to view...",
+        "slug": "your-first-business-opportunity-in-3-commands-registerdirectory-in-biznodebot-wait-for-matches-then-mypulse-to-view",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 09:40:24 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "https, biz, biznode, business, blog, your, first, opportunity",
+        "generated": "2026-06-24T09:40:50.191413",
+        "file": "your-first-business-opportunity-in-3-commands-registerdirectory-in-biznodebot-wait-for-matches-then-mypulse-to-view.md"
     },
     {
         "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
