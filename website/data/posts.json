@@ -1,5 +1,16 @@
 [
     {
+        "title": "AI Coding Was Never Cheap. You Were Just Being Subsidized.",
+        "slug": "ai-coding-was-never-cheap-you-were-just-being-subsidized",
+        "author": "Lakshman Sai",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 03:52:38 +0000",
+        "description": "On June 1, GitHub Copilot switched to token-based billing, and developers did the math out loud in public. A plan that cost $29 a month could, under heavy us...",
+        "keywords": "you, cost, who, one, building, free, never, not",
+        "generated": "2026-06-24T04:04:51.778007",
+        "file": "ai-coding-was-never-cheap-you-were-just-being-subsidized.md"
+    },
+    {
         "title": "I Built a VS Code Extension That Tells You Every Node.js Package's Go Equivalent",
         "slug": "i-built-a-vs-code-extension-that-tells-you-every-nodejs-packages-go-equivalent",
         "author": "Sagar Kashyap",
@@ -1144,6 +1155,17 @@
         "file": "cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration.md"
     },
     {
+        "title": "Unlimited-OCR vs Mistral OCR 4: Which One Wins?",
+        "slug": "unlimited-ocr-vs-mistral-ocr-4-which-one-wins",
+        "author": "Max Quimby",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 03:49:56 +0000",
+        "description": "Two OCR models hit the Hacker News front page on the same day — June 22, 2026. Baidu's Unlimited-OCR pulled 447 points. Mistral's OCR 4 followed twelve hours...",
+        "keywords": "ocr, mistral, you, unlimited, page, model, output, document",
+        "generated": "2026-06-24T04:04:51.775712",
+        "file": "unlimited-ocr-vs-mistral-ocr-4-which-one-wins.md"
+    },
+    {
         "title": "Claude Code Built My SaaS But Couldn't Verify Signup Emails",
         "slug": "claude-code-built-my-saas-but-couldnt-verify-signup-emails",
         "author": "zerodrop",
@@ -1285,6 +1307,17 @@
         "keywords": "you, file, free, your, yes, markdown, want, text",
         "generated": "2026-06-05T10:13:51.910463",
         "file": "chatgpt-writes-you-a-clean-doc-your-mac-shows-raw-text-with-everywhere-heres-the-fix.md"
+    },
+    {
+        "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+        "slug": "meta-pauses-employee-tracking-program-following-internal-data-leak",
+        "author": "1vuio0pswjnm7",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 00:28:41 +0000",
+        "description": "Article URL: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/ Comments URL: https://news.ycombinator.com...",
+        "keywords": "meta, pauses, employee, tracking, program, following, internal, url",
+        "generated": "2026-06-24T04:04:51.772313",
+        "file": "meta-pauses-employee-tracking-program-following-internal-data-leak.md"
     },
     {
         "title": "Top 5 Best Places to Buy Verified Chime Accounts Securely",
@@ -2079,6 +2112,17 @@
         "file": "good-results-fine-tuning-a-local-llm-like-qwen-306b-to-categorize-questions.md"
     },
     {
+        "title": "The war on terror primed America for autocracy",
+        "slug": "the-war-on-terror-primed-america-for-autocracy",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 02:23:39 +0000",
+        "description": "https://archive.is/CBCZM Comments URL: https://news.ycombinator.com/item?id=48654367 Points: 76 # Comments: 39",
+        "keywords": "https, comments, war, terror, primed, america, autocracy, archive",
+        "generated": "2026-06-24T04:04:51.771899",
+        "file": "the-war-on-terror-primed-america-for-autocracy.md"
+    },
+    {
         "title": "Turning Your AI Into an Adversarial Security Agent: The SKILLS.md Framework",
         "slug": "turning-your-ai-into-an-adversarial-security-agent-the-skillsmd-framework",
         "author": "Shubham",
@@ -2165,6 +2209,17 @@
         "keywords": "data, you, your, prefect, pipeline, task, use, run",
         "generated": "2026-06-06T08:41:07.452506",
         "file": "the-developers-guide-to-data-pipeline-automation-beyond-cron-jobs.md"
+    },
+    {
+        "title": "My autonomous agent caught itself publishing fake statistics on its own public pages",
+        "slug": "my-autonomous-agent-caught-itself-publishing-fake-statistics-on-its-own-public-pages",
+        "author": "Florian Demartini",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 03:49:50 +0000",
+        "description": "My autonomous agent has been running a small French SaaS (BailleurVérif, a rent-compliance checker for tenants) for ~640 cron-driven wakes. Last week it caug...",
+        "keywords": "agent, pages, csv, latest, canonical, itself, own, data",
+        "generated": "2026-06-24T04:04:51.772810",
+        "file": "my-autonomous-agent-caught-itself-publishing-fake-statistics-on-its-own-public-pages.md"
     },
     {
         "title": "I built a small browser game for guessing cartoon colors",
@@ -3454,6 +3509,17 @@
         "file": "web-security-basics-every-developer-must-know-2026.md"
     },
     {
+        "title": "Append-CLIP-Interrogation: A SuperCLI Plugin Guide",
+        "slug": "append-clip-interrogation-a-supercli-plugin-guide",
+        "author": "Javier Leandro Arancibia",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 03:44:35 +0000",
+        "description": "Append-CLIP-Interrogation Simple python script to automatically append caption generated by CLIP interrogator to an image file Source https://github.com/Appe...",
+        "keywords": "append, clip, interrogation, supercli, plugin, python, github, installation",
+        "generated": "2026-06-24T04:04:51.774032",
+        "file": "append-clip-interrogation-a-supercli-plugin-guide.md"
+    },
+    {
         "title": "When AI Runs the Experiment: What Near-Autonomous Agents Mean for You",
         "slug": "when-ai-runs-the-experiment-what-near-autonomous-agents-mean-for-you",
         "author": "Basavaraj SH",
@@ -3540,6 +3606,17 @@
         "keywords": "you, deepseek, api, openai, what, global, model, bootcamp",
         "generated": "2026-06-16T17:05:59.749801",
         "file": "wiring-up-deepseek-in-nextjs-a-bootcamp-grads-story.md"
+    },
+    {
+        "title": "The Shadow Perimeter: Eliminating Undocumented Access Paths in Corporate Clouds",
+        "slug": "the-shadow-perimeter-eliminating-undocumented-access-paths-in-corporate-clouds",
+        "author": "biztechpulsehub",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 03:45:46 +0000",
+        "description": "The accelerating complexity of enterprise cloud architecture has created a massive layout vulnerability that sits entirely unmonitored by standard firewalls....",
+        "keywords": "automated, your, cloud, they, testing, active, these, data",
+        "generated": "2026-06-24T04:04:51.775973",
+        "file": "the-shadow-perimeter-eliminating-undocumented-access-paths-in-corporate-clouds.md"
     },
     {
         "title": "You Don't Own the Code AI Wrote for You",
@@ -4620,6 +4697,17 @@
         "file": "resume-ats-optimizer-help-your-resume-pass-the-ai-screening-gate.md"
     },
     {
+        "title": "RAG in production: the failure modes nobody warns you about",
+        "slug": "rag-in-production-the-failure-modes-nobody-warns-you-about",
+        "author": "Mridul Nagpal",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 03:55:15 +0000",
+        "description": "Retrieval-augmented generation looks trivial in a tutorial: embed some documents, drop them in a vector database, stuff the top matches into a prompt, done. ...",
+        "keywords": "you, rag, retrieval, model, real, context, production, data",
+        "generated": "2026-06-24T04:04:51.777643",
+        "file": "rag-in-production-the-failure-modes-nobody-warns-you-about.md"
+    },
+    {
         "title": "Moving AI From Pilot Purgatory to Production Power",
         "slug": "moving-ai-from-pilot-purgatory-to-production-power",
         "author": "Mclean Forrester",
@@ -5214,6 +5302,17 @@
         "file": "insomniacsin-a-leading-real-estate-martech-company.md"
     },
     {
+        "title": "Claude Tag: How the Per-Thread Sandbox Works",
+        "slug": "claude-tag-how-the-per-thread-sandbox-works",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 03:50:05 +0000",
+        "description": "Anthropic just shipped Claude Tag — and it's not what most people expected from Claude in Slack. This isn't a chatbot bolted onto a messaging sidebar. It's...",
+        "keywords": "claude, channel, slack, tag, your, can, code, access",
+        "generated": "2026-06-24T04:04:51.778754",
+        "file": "claude-tag-how-the-per-thread-sandbox-works.md"
+    },
+    {
         "title": "minbpe vs turboBPE: Two ways to think about tokenizer training",
         "slug": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training",
         "author": "Cersei",
@@ -5322,6 +5421,17 @@
         "keywords": "you, your, what, implementation, when, them, learn, team",
         "generated": "2026-06-11T20:28:40.309300",
         "file": "argocd-for-gitops-managing-kubernetes-deployments-declaratively.md"
+    },
+    {
+        "title": "We have officially OPEN-SOURCED projectbrain.md - A persistent memory layer for your projects.",
+        "slug": "we-have-officially-open-sourced-projectbrainmd-a-persistent-memory-layer-for-your-projects",
+        "author": "MindMux.ai",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 03:55:18 +0000",
+        "description": "You spend an afternoon with a coding agent settling something real. Why Markdown over SQLite. Why option B is out. What done means for this version. The re...",
+        "keywords": "brain, you, agent, one, markdown, project, file, why",
+        "generated": "2026-06-24T04:04:51.777348",
+        "file": "we-have-officially-open-sourced-projectbrainmd-a-persistent-memory-layer-for-your-projects.md"
     },
     {
         "title": "10 Sites to Buy verified OKX in 2026 Buy OKX Accounts",
@@ -7214,6 +7324,17 @@
         "keywords": "code, file, sandboxes, post, workspace, every, run, exec",
         "generated": "2026-06-05T10:10:12.596245",
         "file": "the-case-for-persistent-sandboxes-in-ai-code-execution.md"
+    },
+    {
+        "title": "Line AI Chatbot In Production: A CTO's Honest Breakdown",
+        "slug": "line-ai-chatbot-in-production-a-ctos-honest-breakdown",
+        "author": "eagerspark",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 03:38:14 +0000",
+        "description": "Line AI Chatbot In Production: A CTO's Honest Breakdown Three months ago I was staring at our infrastructure bill wondering where the hell our runway went. W...",
+        "keywords": "model, you, cost, what, chatbot, not, can, when",
+        "generated": "2026-06-24T04:04:51.774739",
+        "file": "line-ai-chatbot-in-production-a-ctos-honest-breakdown.md"
     },
     {
         "title": "سکه امامی تاریخ پایین زیر 86 چیست؟",
@@ -10637,6 +10758,17 @@
         "file": "3d-simulation-for-robot-arm-control-with-deep-q-learning.md"
     },
     {
+        "title": "Vulnerability reports are not special anymore",
+        "slug": "vulnerability-reports-are-not-special-anymore",
+        "author": "goranmoomin",
+        "source": "hackernews",
+        "published": "Tue, 23 Jun 2026 23:42:46 +0000",
+        "description": "Article URL: https://words.filippo.io/vuln-reports/ Comments URL: https://news.ycombinator.com/item?id=48653216 Points: 117 # Comments: 42",
+        "keywords": "reports, url, https, comments, vulnerability, not, special, anymore",
+        "generated": "2026-06-24T04:04:51.772410",
+        "file": "vulnerability-reports-are-not-special-anymore.md"
+    },
+    {
         "title": "GLM 5.2 vs. Opus",
         "slug": "glm-52-vs-opus",
         "author": "ritzaco",
@@ -11726,6 +11858,17 @@
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
     },
     {
+        "title": "The Window to Build AI Expertise Is Closing Faster Than Anyone Expected",
+        "slug": "the-window-to-build-ai-expertise-is-closing-faster-than-anyone-expected",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 03:36:26 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "you, not, what, agent, can, actually, than, when",
+        "generated": "2026-06-24T04:04:51.776666",
+        "file": "the-window-to-build-ai-expertise-is-closing-faster-than-anyone-expected.md"
+    },
+    {
         "title": "Best Red Hat Certification Training in Delhi — Now at Summer Discount Prices",
         "slug": "best-red-hat-certification-training-in-delhi-now-at-summer-discount-prices",
         "author": "Rahul",
@@ -11939,10 +12082,10 @@
         "slug": "web-scraping-for-beginners-sell-data-as-a-service",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Sat, 20 Jun 2026 03:45:04 +0000",
-        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely aware of the vast amount of data available on the web. However, extracting a...",
-        "keywords": "data, you, web, can, html, scraping, tables, requests",
-        "generated": "2026-06-20T04:12:08.213129",
+        "published": "Wed, 24 Jun 2026 03:46:21 +0000",
+        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely aware of the vast amounts of data available on the web. However, extracting ...",
+        "keywords": "data, you, can, web, scraping, service, step, need",
+        "generated": "2026-06-24T04:04:51.773855",
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
     },
     {
@@ -12208,6 +12351,17 @@
         "keywords": "watermark, image, watermarks, images, you, remove, removal, free",
         "generated": "2026-06-19T19:55:28.881291",
         "file": "remove-watermark-from-image-online-free.md"
+    },
+    {
+        "title": "How to prepare for Spain civil service TIC exam using AI in 2026",
+        "slug": "how-to-prepare-for-spain-civil-service-tic-exam-using-ai-in-2026",
+        "author": "David García",
+        "source": "devto_ai",
+        "published": "Wed, 24 Jun 2026 03:59:43 +0000",
+        "description": "Preparing for the Spanish Civil Service TIC (Tecnologías de la Información y Comunicaciones) exam requires dedication and a well-planned strategy. With the i...",
+        "keywords": "exam, tic, your, you, preparing, use, government, understanding",
+        "generated": "2026-06-24T04:04:51.776919",
+        "file": "how-to-prepare-for-spain-civil-service-tic-exam-using-ai-in-2026.md"
     },
     {
         "title": "RAG Rerank: the Highest-Leverage Upgrade to Your Retrieval Pipeline",
@@ -12485,6 +12639,17 @@
         "file": "jerrys-map.md"
     },
     {
+        "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+        "slug": "diffusionbench-towards-holistic-evaluation-of-generative-diffusion-transformers",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 02:12:31 +0000",
+        "description": "Article URL: https://github.com/End2End-Diffusion/diffusion-bench Comments URL: https://news.ycombinator.com/item?id=48654274 Points: 9 # Comments: 0",
+        "keywords": "diffusion, url, https, com, comments, diffusionbench, towards, holistic",
+        "generated": "2026-06-24T04:04:51.772204",
+        "file": "diffusionbench-towards-holistic-evaluation-of-generative-diffusion-transformers.md"
+    },
+    {
         "title": "VibeSync- Music Recommendation",
         "slug": "vibesync-music-recommendation",
         "author": "RUDRA PRATAP",
@@ -12516,6 +12681,17 @@
         "keywords": "agent, agents, most, complexity, more, systems, not, workflows",
         "generated": "2026-06-22T05:02:45.250131",
         "file": "why-i-think-most-ai-agents-are-overengineered.md"
+    },
+    {
+        "title": "How I Stopped Bleeding Money on AI APIs — A Freelancer's Guide",
+        "slug": "how-i-stopped-bleeding-money-on-ai-apis-a-freelancers-guide",
+        "author": "RileyKim",
+        "source": "devto_python",
+        "published": "Wed, 24 Jun 2026 03:49:32 +0000",
+        "description": "Three months ago, I opened my monthly AI bill and nearly choked on my cold brew. $847. For a solo freelancer running a handful of client chatbots. That's not...",
+        "keywords": "you, model, client, deepseek, tokens, your, one, models",
+        "generated": "2026-06-24T04:04:51.773558",
+        "file": "how-i-stopped-bleeding-money-on-ai-apis-a-freelancers-guide.md"
     },
     {
         "title": "YourGPT vs LangChain: Which One Actually Fits Your Team?",
@@ -12560,6 +12736,17 @@
         "keywords": "who, invented, url, https, com, comments, russian, semiconductors",
         "generated": "2026-06-07T04:26:51.961106",
         "file": "the-russian-who-invented-semiconductors-25-years-before-the-usa.md"
+    },
+    {
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "slug": "qwen-agentworld-language-world-models-for-general-agents",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Wed, 24 Jun 2026 02:21:47 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2606.24597 Comments URL: https://news.ycombinator.com/item?id=48654351 Points: 6 # Comments: 0",
+        "keywords": "url, https, comments, qwen, agentworld, language, world, models",
+        "generated": "2026-06-24T04:04:51.772070",
+        "file": "qwen-agentworld-language-world-models-for-general-agents.md"
     },
     {
         "title": "Quick Tip: Building N8n AI Workflows in Under 10 Minutes",
@@ -13088,6 +13275,17 @@
         "keywords": "page, seo, title, next, you, but, search, content",
         "generated": "2026-06-18T10:38:46.942110",
         "file": "the-most-expensive-nextjs-seo-mistake-i-still-see-developers-making.md"
+    },
+    {
+        "title": "Pipeline Freezes: Resolving Token Serialization Crashes in Automated Cloud Channels",
+        "slug": "pipeline-freezes-resolving-token-serialization-crashes-in-automated-cloud-channels",
+        "author": "biztechpulsehub",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 03:38:21 +0000",
+        "description": "Managing continuous delivery loops within distributed multi-cloud platforms demands perfect technical harmony across all data transaction tracks. When a dyna...",
+        "keywords": "data, token, automated, cloud, technical, transaction, framework, validation",
+        "generated": "2026-06-24T04:04:51.776197",
+        "file": "pipeline-freezes-resolving-token-serialization-crashes-in-automated-cloud-channels.md"
     },
     {
         "title": "My First Portfolio Website",
@@ -13704,6 +13902,17 @@
         "keywords": "your, client, project, testing, projects, can, architecture, communication",
         "generated": "2026-06-05T15:19:56.046345",
         "file": "deep-dive-navigating-your-first-real-client-proje.md"
+    },
+    {
+        "title": "I built a tool to automate growth, but crickets. Advice?",
+        "slug": "i-built-a-tool-to-automate-growth-but-crickets-advice",
+        "author": "CreatiVault",
+        "source": "devto_webdev",
+        "published": "Wed, 24 Jun 2026 03:55:06 +0000",
+        "description": "I spent years working on data infra. I got tired of the manual grunt work, so I built CreatiVault to automate my benchmarking and influencer tracking. It doe...",
+        "keywords": "built, automate, but, get, have, product, actually, just",
+        "generated": "2026-06-24T04:04:51.774908",
+        "file": "i-built-a-tool-to-automate-growth-but-crickets-advice.md"
     },
     {
         "title": "I Love the Computer",
