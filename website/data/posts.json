@@ -1210,6 +1210,17 @@
         "file": "nlnet-announces-funding-for-67-more-open-source-projects.md"
     },
     {
+        "title": "Windows 10 quietly gets one more year of support and updates",
+        "slug": "windows-10-quietly-gets-one-more-year-of-support-and-updates",
+        "author": "bundie",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 15:59:54 +0000",
+        "description": "Article URL: https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/ Comments URL: https://news.ycombinator.com/item?id=486...",
+        "keywords": "windows, quietly, gets, one, more, year, support, updates",
+        "generated": "2026-06-25T20:09:21.017828",
+        "file": "windows-10-quietly-gets-one-more-year-of-support-and-updates.md"
+    },
+    {
         "title": "# I Built an AI-Powered Python-to-C++ Transpiler Entirely From My Phone. Here is How (and Why).",
         "slug": "i-built-an-ai-powered-python-to-c-transpiler-entirely-from-my-phone-here-is-how-and-why",
         "author": "TheSpacetimeDebugger",
@@ -1329,6 +1340,17 @@
         "keywords": "ascii, art, printer, colorful, console, name, browser, javascript",
         "generated": "2026-06-22T05:02:45.250710",
         "file": "ascii-printer-colorful-console-ascii-art.md"
+    },
+    {
+        "title": "I was burning context feeding HTML to LLMs, so I built a Markdown converter for agents",
+        "slug": "i-was-burning-context-feeding-html-to-llms-so-i-built-a-markdown-converter-for-agents",
+        "author": "Konstantin Konstantinov",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 19:13:15 +0000",
+        "description": "If you build AI agents, scrapers, or RAG pipelines, you have run into this: feeding raw HTML to a model is mostly waste. The <div> , the class=... , the na...",
+        "keywords": "markdown, html, agents, you, not, cloudflare, your, browser",
+        "generated": "2026-06-25T20:09:21.019741",
+        "file": "i-was-burning-context-feeding-html-to-llms-so-i-built-a-markdown-converter-for-agents.md"
     },
     {
         "title": "Lightbox3: Gallery Lightbox for Modern Image Sets",
@@ -1925,6 +1947,17 @@
         "file": "what-production-ready-actually-means-for-healthcare-software.md"
     },
     {
+        "title": "5 Oracle AI Database Dev Tools I’d Put in a Starter Kit",
+        "slug": "5-oracle-ai-database-dev-tools-id-put-in-a-starter-kit",
+        "author": "Anya Summers",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 19:56:31 +0000",
+        "description": "A practical toolkit to quickly build, test, and validate Oracle AI Database workflows from local to cloud Key Takeaways Start fast with containers or FreeSQL...",
+        "keywords": "database, you, oracle, sql, use, when, need, cloud",
+        "generated": "2026-06-25T20:09:21.021378",
+        "file": "5-oracle-ai-database-dev-tools-id-put-in-a-starter-kit.md"
+    },
+    {
         "title": "AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible",
         "slug": "ama-im-eric-ries-the-lean-startup-author-of-new-bestseller-incorruptible",
         "author": "eries",
@@ -2354,6 +2387,17 @@
         "file": "fastapi-lifespan-events-for-multi-tenant-resource-initialization-setting-up-tenant-caches-and-ai-model-contexts-without-singleton-hell.md"
     },
     {
+        "title": "How I Automated My Morning Routine With Python (Full Code)",
+        "slug": "how-i-automated-my-morning-routine-with-python-full-code",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 20:00:07 +0000",
+        "description": "As a developer, I'm always looking for ways to optimize my daily routine and make the most of my time. One area that I've been able to automate with great su...",
+        "keywords": "time, datetime, coffee, server, com, maker, news, morning",
+        "generated": "2026-06-25T20:09:21.018380",
+        "file": "how-i-automated-my-morning-routine-with-python-full-code.md"
+    },
+    {
         "title": "Reinforcement Learning with Verifiable Rewards: Why AI is Learning to Grade Its Own Homework",
         "slug": "reinforcement-learning-with-verifiable-rewards-why-ai-is-learning-to-grade-its-own-homework",
         "author": "Shrijith Venkatramana",
@@ -2418,6 +2462,17 @@
         "keywords": "you, not, your, unknown, answer, bill, could, per",
         "generated": "2026-06-14T14:17:29.350318",
         "file": "the-billing-state-most-apis-get-wrong-unknown-is-not-no.md"
+    },
+    {
+        "title": "Hiring: AI Developer / Agent Engineer at Keelen (Remote, Contract)",
+        "slug": "hiring-ai-developer-agent-engineer-at-keelen-remote-contract",
+        "author": "Jamie",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 20:02:08 +0000",
+        "description": "We're hiring an AI Developer / Agent Engineer at Keelen — remote, contract. Keelen is a platform where AI agents run the full software dev loop — plan, code,...",
+        "keywords": "keelen, agent, remote, contract, ship, hiring, developer, engineer",
+        "generated": "2026-06-25T20:09:21.022154",
+        "file": "hiring-ai-developer-agent-engineer-at-keelen-remote-contract.md"
     },
     {
         "title": "Why Most People Get Bad AI Outputs (And How to Fix It)",
@@ -2737,6 +2792,17 @@
         "keywords": "datasette, apps, url, https, comments, host, custom, html",
         "generated": "2026-06-19T15:31:48.963799",
         "file": "datasette-apps-host-custom-html-applications-inside-datasette.md"
+    },
+    {
+        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "slug": "show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion",
+        "author": "engomez",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 16:04:46 +0000",
+        "description": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations ...",
+        "keywords": "openknowledge, what, you, markdown, open, have, prosemirror, https",
+        "generated": "2026-06-25T20:09:21.017673",
+        "file": "show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion.md"
     },
     {
         "title": "Satellite reveals immense scale of GPS signal tampering",
@@ -3804,6 +3870,17 @@
         "keywords": "append, clip, interrogation, supercli, plugin, python, github, installation",
         "generated": "2026-06-24T04:04:51.774032",
         "file": "append-clip-interrogation-a-supercli-plugin-guide.md"
+    },
+    {
+        "title": "Besimple AI (YC P25) Is Hiring",
+        "slug": "besimple-ai-yc-p25-is-hiring",
+        "author": "yzhong94",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 17:00:00 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data Comments URL: https://news.ycombinator.com/ite...",
+        "keywords": "besimple, url, https, ycombinator, com, comments, hiring, article",
+        "generated": "2026-06-25T20:09:21.017426",
+        "file": "besimple-ai-yc-p25-is-hiring.md"
     },
     {
         "title": "When AI Runs the Experiment: What Near-Autonomous Agents Mean for You",
@@ -6281,6 +6358,17 @@
         "file": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md"
     },
     {
+        "title": "Lessons from building a QR-paired browser handoff tool",
+        "slug": "lessons-from-building-a-qr-paired-browser-handoff-tool",
+        "author": "IcyZip",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 19:50:00 +0000",
+        "description": "I have been working on a small browser handoff tool. The use case is intentionally narrow: open a page on one device, scan a QR code with another device, the...",
+        "keywords": "browser, file, not, can, should, pair, text, code",
+        "generated": "2026-06-25T20:09:21.021980",
+        "file": "lessons-from-building-a-qr-paired-browser-handoff-tool.md"
+    },
+    {
         "title": "Agents Are Your New Customer",
         "slug": "agents-are-your-new-customer",
         "author": "Hector Flores",
@@ -6930,6 +7018,17 @@
         "file": "anthropics-ipo-unpacked-what-the-s-1-filing-means-for-ai-developers.md"
     },
     {
+        "title": "Pixel Perfect SERPs: Why Pre-Publish Previews Are Your New Best Friend",
+        "slug": "pixel-perfect-serps-why-pre-publish-previews-are-your-new-best-friend",
+        "author": "FreeDevKit",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 20:00:15 +0000",
+        "description": "Pixel Perfect SERPs: Why Pre-Publish Previews Are Your New Best Friend As developers, we meticulously craft our code, test our APIs, and ensure our UIs are r...",
+        "keywords": "your, you, preview, can, serp, our, content, title",
+        "generated": "2026-06-25T20:09:21.020163",
+        "file": "pixel-perfect-serps-why-pre-publish-previews-are-your-new-best-friend.md"
+    },
+    {
         "title": "Craft Killer Blog Posts: Your SEO Friendly Guide",
         "slug": "craft-killer-blog-posts-your-seo-friendly-guide",
         "author": "BlogMe.io",
@@ -7170,6 +7269,17 @@
         "keywords": "https, com, comments, john, carmack, fabrice, bellard, xcancel",
         "generated": "2026-06-16T11:22:59.963238",
         "file": "john-carmack-on-fabrice-bellard.md"
+    },
+    {
+        "title": "I Built a JWT Playground That Re-signs Tokens With Real HMAC-SHA256",
+        "slug": "i-built-a-jwt-playground-that-re-signs-tokens-with-real-hmac-sha256",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 19:59:15 +0000",
+        "description": "Most JWT explainers cheat. They show you header.payload.signature , point at the third part, and say ...and then the server verifies it. But they never run...",
+        "keywords": "hmac, you, token, jwt, real, signature, key, playground",
+        "generated": "2026-06-25T20:09:21.020457",
+        "file": "i-built-a-jwt-playground-that-re-signs-tokens-with-real-hmac-sha256.md"
     },
     {
         "title": "Aether: A Localized AI Agent for Android",
@@ -7786,6 +7896,17 @@
         "keywords": "company, com, api, cinderwright, json, https, stripe, post",
         "generated": "2026-06-16T17:05:59.748347",
         "file": "clearbit-died-heres-a-pay-per-call-company-enrichment-api-for-ai-agents-003lookup.md"
+    },
+    {
+        "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+        "slug": "ai-is-designing-radio-chips-that-humans-couldnt-even-imagine",
+        "author": "pseudolus",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 19:39:38 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/ai-radio-chip-design Comments URL: https://news.ycombinator.com/item?id=48678240 Points: 5 # Comments: 0",
+        "keywords": "radio, url, https, comments, designing, chips, humans, couldn",
+        "generated": "2026-06-25T20:09:21.017269",
+        "file": "ai-is-designing-radio-chips-that-humans-couldnt-even-imagine.md"
     },
     {
         "title": "AI Is Quietly Becoming Game Development Infrastructure: The 2026 Numbers That Matter",
@@ -8512,6 +8633,17 @@
         "keywords": "debt, financial, management, repayment, can, interest, cash, credit",
         "generated": "2026-06-20T09:27:21.557512",
         "file": "everything-you-need-to-know-about-debt-management.md"
+    },
+    {
+        "title": "How to Install Python 3.14.6 on Windows 11 / 10 (Quick & Easy Guide)",
+        "slug": "how-to-install-python-3146-on-windows-11-10-quick-easy-guide",
+        "author": "CodeSetupLab",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 20:00:05 +0000",
+        "description": "Setting up a fresh development environment can sometimes feel like a chore, but getting the latest version of Python up and running on Windows doesn't have t...",
+        "keywords": "python, windows, version, step, your, install, quick, check",
+        "generated": "2026-06-25T20:09:21.018564",
+        "file": "how-to-install-python-3146-on-windows-11-10-quick-easy-guide.md"
     },
     {
         "title": "AI Agent vs LLM: Why Just Calling the OpenAI API Doesn't Give You an Agent (And What Does)",
@@ -11583,6 +11715,17 @@
         "file": "vulnerability-reports-are-not-special-anymore.md"
     },
     {
+        "title": "I generated a pixel font in pure Python with fonttools (no font editor)",
+        "slug": "i-generated-a-pixel-font-in-pure-python-with-fonttools-no-font-editor",
+        "author": "Zerrin Arslan",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 19:32:28 +0000",
+        "description": "I needed a font last week — not to use one, to ship one. Long story short, the cleanest way to get listed on the big font directories is to publish your own ...",
+        "keywords": "font, pen, glyph, fonttools, you, one, cell, ttglyphpen",
+        "generated": "2026-06-25T20:09:21.019418",
+        "file": "i-generated-a-pixel-font-in-pure-python-with-fonttools-no-font-editor.md"
+    },
+    {
         "title": "GLM 5.2 vs. Opus",
         "slug": "glm-52-vs-opus",
         "author": "ritzaco",
@@ -12529,6 +12672,17 @@
         "file": "you-dont-need-another-agent-you-need-a-linter.md"
     },
     {
+        "title": "I Completed 18 Tasks as an AI Agent and Earned $3.16 USDC On-Chain — Here Is What I Learned",
+        "slug": "i-completed-18-tasks-as-an-ai-agent-and-earned-316-usdc-on-chain-here-is-what-i-learned",
+        "author": "Kryos",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 19:54:38 +0000",
+        "description": "Most agents talk about earning. I have the transaction hashes. 18 completed tasks on agentxchange.io. $3.16 confirmed on Polygon. Every cent verifiable on-ch...",
+        "keywords": "tasks, agent, not, chain, task, buyers, work, history",
+        "generated": "2026-06-25T20:09:21.023257",
+        "file": "i-completed-18-tasks-as-an-ai-agent-and-earned-316-usdc-on-chain-here-is-what-i-learned.md"
+    },
+    {
         "title": "AI Integration Services: Connect AI to Your Tech Stack",
         "slug": "ai-integration-services-connect-ai-to-your-tech-stack",
         "author": "Digital Colliers",
@@ -13002,6 +13156,17 @@
         "file": "1983-northern-telecom-commodore-phone.md"
     },
     {
+        "title": "An entire Herculaneum scroll has been read for the first time",
+        "slug": "an-entire-herculaneum-scroll-has-been-read-for-the-first-time",
+        "author": "verditelabs",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 15:48:07 +0000",
+        "description": "Preprint: https://scrollprize.org/pdf/main.pdf https://github.com/ScrollPrize/villa Comments URL: https://news.ycombinator.com/item?id=48675179 Points: 484 #...",
+        "keywords": "https, scrollprize, pdf, com, comments, entire, herculaneum, scroll",
+        "generated": "2026-06-25T20:09:21.017954",
+        "file": "an-entire-herculaneum-scroll-has-been-read-for-the-first-time.md"
+    },
+    {
         "title": "Improvised Apriori Algorithm using frequent pattern tree for real timeapplications in data mining",
         "slug": "improvised-apriori-algorithm-using-frequent-pattern-tree-for-real-timeapplications-in-data-mining",
         "author": "Paperium",
@@ -13055,6 +13220,17 @@
         "keywords": "data, you, can, web, scraping, service, step, need",
         "generated": "2026-06-24T04:04:51.773855",
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
+    },
+    {
+        "title": "I built gessi: playful OS-style interfaces with just HTML",
+        "slug": "i-built-gessi-playful-os-style-interfaces-with-just-html",
+        "author": "Paul Contreras",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 19:58:38 +0000",
+        "description": "Meet gessi, a dependency-free CSS and Web Component library for building retro desktops, draggable windows, and expressive interfaces without framework lock-...",
+        "keywords": "gessi, you, can, html, like, components, feel, css",
+        "generated": "2026-06-25T20:09:21.020873",
+        "file": "i-built-gessi-playful-os-style-interfaces-with-just-html.md"
     },
     {
         "title": "Code Challenge of the Day — Count set bits (medium)",
@@ -13891,6 +14067,17 @@
         "keywords": "you, voicegis, map, app, offline, middleware, like, voice",
         "generated": "2026-06-22T20:55:23.247268",
         "file": "how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript.md"
+    },
+    {
+        "title": "Astrophysics & AI with Python: The Ultimate Guide to Denoising Telescope Images",
+        "slug": "astrophysics-ai-with-python-the-ultimate-guide-to-denoising-telescope-images",
+        "author": "Programming Central",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 20:00:00 +0000",
+        "description": "Introduction: The Battle Against Cosmic Static You've pointed your telescope at a distant galaxy, waited hours for the sensor to capture faint, ancient light...",
+        "keywords": "noise, you, image, gaussian, filter, axes, median, import",
+        "generated": "2026-06-25T20:09:21.019088",
+        "file": "astrophysics-ai-with-python-the-ultimate-guide-to-denoising-telescope-images.md"
     },
     {
         "title": "Your Pipeline Is 28.3h Behind: Catching Defence Sentiment Leads with Pulsebit",
@@ -14892,6 +15079,17 @@
         "keywords": "option, what, price, time, features, you, community, best",
         "generated": "2026-06-12T15:28:32.971250",
         "file": "ai-image-generators-review-comparison.md"
+    },
+    {
+        "title": "The 5 Security Attack Vectors Every AI Agent Deployment Should Be Reviewed Against",
+        "slug": "the-5-security-attack-vectors-every-ai-agent-deployment-should-be-reviewed-against",
+        "author": "Kryos",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 19:54:43 +0000",
+        "description": "After reviewing multiple agent deployments, the same failure modes appear in the same order. Here they are, ranked by frequency. 1. API Key Exposure in Conte...",
+        "keywords": "agent, tool, data, external, context, through, output, fix",
+        "generated": "2026-06-25T20:09:21.022956",
+        "file": "the-5-security-attack-vectors-every-ai-agent-deployment-should-be-reviewed-against.md"
     },
     {
         "title": "AI Intern Day: Google It, Then Pretend You Knew",
