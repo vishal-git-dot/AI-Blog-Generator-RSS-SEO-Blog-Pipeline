@@ -1364,6 +1364,17 @@
         "file": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents.md"
     },
     {
+        "title": "Vector Databases for Data Engineers: Pinecone vs Weaviate vs Qdrant vs pgvector",
+        "slug": "vector-databases-for-data-engineers-pinecone-vs-weaviate-vs-qdrant-vs-pgvector",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 14:15:34 +0000",
+        "description": "vector database is the most over-bought, under-understood piece of the 2026 data stack — every product team wants RAG, every architect names a vendor in the ...",
+        "keywords": "vector, query, filter, index, per, hnsw, you, pinecone",
+        "generated": "2026-06-25T14:43:02.859658",
+        "file": "vector-databases-for-data-engineers-pinecone-vs-weaviate-vs-qdrant-vs-pgvector.md"
+    },
+    {
         "title": "I Fixed the AI Commit Messages Problem in 20 Lines of Python",
         "slug": "i-fixed-the-ai-commit-messages-problem-in-20-lines-of-python",
         "author": "Enjoy Kumawat",
@@ -3366,6 +3377,17 @@
         "file": "astrophysics-ai-with-python-why-your-code-needs-to-understand-light-years.md"
     },
     {
+        "title": "Thinking Faster vs. Thinking Longer: Test-Time Compute",
+        "slug": "thinking-faster-vs-thinking-longer-test-time-compute",
+        "author": "Dhruv Aggarwal",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 14:36:15 +0000",
+        "description": "Imagine you are asked to solve a complex math problem. If you answer immediately, you’ll likely rely on intuition or a guess. But if you are given ten minute...",
+        "keywords": "model, compute, thinking, answer, time, you, your, test",
+        "generated": "2026-06-25T14:43:02.867745",
+        "file": "thinking-faster-vs-thinking-longer-test-time-compute.md"
+    },
+    {
         "title": "Why My AI Kept Giving Me Invalid JSON (And How I Fixed It)",
         "slug": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it",
         "author": "zhongqiyue",
@@ -3630,6 +3652,17 @@
         "file": "overcoming-mse-how-we-built-an-ultra-reliable-lahore-smog-forecaster-using-pytorch-transformers-and-asymmetric-loss.md"
     },
     {
+        "title": "OpenAI Shipped Your Voice Stack at $0.25/Min. Vapi Went Enterprise. The Infra Layer Abandoned Agencies in Eleven Days.",
+        "slug": "openai-shipped-your-voice-stack-at-025min-vapi-went-enterprise-the-infra-layer-abandoned-agencies-in-eleven-days",
+        "author": "Alfredo Romero",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 14:36:27 +0000",
+        "description": "On May 7, OpenAI made gpt-realtime-2 generally available in the Realtime API at roughly $0.25 to $0.35 per minute of conversation, with GPT-5-class reasoning...",
+        "keywords": "per, your, layer, not, platform, agency, plus, model",
+        "generated": "2026-06-25T14:43:02.867489",
+        "file": "openai-shipped-your-voice-stack-at-025min-vapi-went-enterprise-the-infra-layer-abandoned-agencies-in-eleven-days.md"
+    },
+    {
         "title": "Jobs and Software Is Fucked",
         "slug": "jobs-and-software-is-fucked",
         "author": "speckx",
@@ -3727,6 +3760,17 @@
         "keywords": "their, canada, qatar, will, home, soccer, picks, match",
         "generated": "2026-06-18T20:32:55.636226",
         "file": "qatar-vs-canada-soccer-preview-picks.md"
+    },
+    {
+        "title": "What Is Order-Flow Microstructure? A Plain-English Guide to Reading the Tape",
+        "slug": "what-is-order-flow-microstructure-a-plain-english-guide-to-reading-the-tape",
+        "author": "Andrea Migliavacca",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 14:18:37 +0000",
+        "description": "What Is Order-Flow Microstructure? A Plain-English Guide to Reading the Tape By TickDistill — order-flow microstructure signals. Educational content, not fin...",
+        "keywords": "order, flow, what, trade, not, volume, price, aggressor",
+        "generated": "2026-06-25T14:43:02.850719",
+        "file": "what-is-order-flow-microstructure-a-plain-english-guide-to-reading-the-tape.md"
     },
     {
         "title": "Answer",
@@ -4906,6 +4950,17 @@
         "file": "i-built-100-free-browser-based-tools-heres-what-i-learned.md"
     },
     {
+        "title": "Data Observability Platforms Compared: Monte Carlo, Anomalo, Bigeye & Lightup",
+        "slug": "data-observability-platforms-compared-monte-carlo-anomalo-bigeye-lightup",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 14:18:12 +0000",
+        "description": "data observability platforms is the line item on every senior data engineer's 2026 platform roadmap that most teams underestimate until the first painful dat...",
+        "keywords": "data, table, monte, carlo, lineage, platform, column, observability",
+        "generated": "2026-06-25T14:43:02.855403",
+        "file": "data-observability-platforms-compared-monte-carlo-anomalo-bigeye-lightup.md"
+    },
+    {
         "title": "Stop Guessing: Real Data Comparing GPT-4o and Gemini Pro",
         "slug": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro",
         "author": "Alex Chen",
@@ -5223,6 +5278,17 @@
         "keywords": "ollama, qat, gemma, vram, model, laptop, local, stack",
         "generated": "2026-06-10T20:38:15.851806",
         "file": "gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram.md"
+    },
+    {
+        "title": "Code Challenge of the Day — Letter grade (easy)",
+        "slug": "code-challenge-of-the-day-letter-grade-easy",
+        "author": "I Want To Learn Programming",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 14:00:06 +0000",
+        "description": "Return 'A' for >=90, 'B' for >=80, 'C' for >=70, 'D' for >=60, else 'F'. Write grade(score). Starter: def grade ( score ): # TODO pass Solve it interactively...",
+        "keywords": "grade, your, challenge, score, iwtlp, code, day, letter",
+        "generated": "2026-06-25T14:43:02.863941",
+        "file": "code-challenge-of-the-day-letter-grade-easy.md"
     },
     {
         "title": "Buy Old Gmail Accounts",
@@ -6358,6 +6424,17 @@
         "file": "oreste-ai-il-mio-progetto-di-assistente-intelligente-con-os-storybook-e-voce.md"
     },
     {
+        "title": "Tell HN: OpenAI has started putting ads on paid programs",
+        "slug": "tell-hn-openai-has-started-putting-ads-on-paid-programs",
+        "author": "shantnutiwari",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 13:37:36 +0000",
+        "description": "I was on the £6.99/month program-- mainly because I didnt use it much. Last few days I've started seeing ads: 1. Ad for Financial Times 2. Add for Shein 3. A...",
+        "keywords": "ads, started, add, comments, tell, openai, has, putting",
+        "generated": "2026-06-25T14:43:02.849544",
+        "file": "tell-hn-openai-has-started-putting-ads-on-paid-programs.md"
+    },
+    {
         "title": "Mejores casinos online para jugar desde el móvil",
         "slug": "mejores-casinos-online-para-jugar-desde-el-mvil",
         "author": "Skhan zai",
@@ -6686,6 +6763,17 @@
         "keywords": "gpt, output, flash, model, deepseek, what, you, more",
         "generated": "2026-06-25T09:33:20.210029",
         "file": "china-ai-vs-us-ai-a-freelance-devs-honest-bill-by-bill-comparison.md"
+    },
+    {
+        "title": "Vibe Coding Can Build a Playable Game Prototype Fast — The Real Shift Is Who Gets to Create",
+        "slug": "vibe-coding-can-build-a-playable-game-prototype-fast-the-real-shift-is-who-gets-to-create",
+        "author": "Krishna Soni",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 14:39:57 +0000",
+        "description": "Photo by Jakub Żerdzicki on Unsplash Game development is getting a new interface. Not a new engine. Not a new asset store. A new interface. In the source pie...",
+        "keywords": "game, can, not, playable, coding, vibe, real, first",
+        "generated": "2026-06-25T14:43:02.866582",
+        "file": "vibe-coding-can-build-a-playable-game-prototype-fast-the-real-shift-is-who-gets-to-create.md"
     },
     {
         "title": "OpenAI Help: Lockdown Mode",
@@ -7115,6 +7203,17 @@
         "keywords": "mimo, url, https, com, comments, pro, ultraspeed, model",
         "generated": "2026-06-08T16:07:42.603573",
         "file": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md"
+    },
+    {
+        "title": "Everything You Need to Know About Onchain Attribution",
+        "slug": "everything-you-need-to-know-about-onchain-attribution",
+        "author": "analytic kit",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 14:32:16 +0000",
+        "description": "If you've ever tried to wire up campaign tracking for a dApp, you've hit the wall: UTM parameters survive the landing page, but the moment a user signs a tra...",
+        "keywords": "wallet, attribution, onchain, chain, marketing, user, protocol, can",
+        "generated": "2026-06-25T14:43:02.865029",
+        "file": "everything-you-need-to-know-about-onchain-attribution.md"
     },
     {
         "title": "Humiliating IIS servers for fun and jail time",
@@ -8228,6 +8327,17 @@
         "file": "i-launched-my-analytics-tool-3-months-ago-it-got-1-upvote-heres-what-i-rebuilt.md"
     },
     {
+        "title": "Polars vs Pandas vs DuckDB Benchmarked: Speed, Memory & API Trade-offs",
+        "slug": "polars-vs-pandas-vs-duckdb-benchmarked-speed-memory-api-trade-offs",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Thu, 25 Jun 2026 14:05:44 +0000",
+        "description": "polars vs pandas is the single biggest dataframe-engine choice a Python data team makes in 2026 — and the one most teams get wrong on the first try because t...",
+        "keywords": "polars, pandas, duckdb, arrow, sql, parquet, engine, country",
+        "generated": "2026-06-25T14:43:02.863708",
+        "file": "polars-vs-pandas-vs-duckdb-benchmarked-speed-memory-api-trade-offs.md"
+    },
+    {
         "title": "From Telehealth MVP to Production-Ready AI Product",
         "slug": "from-telehealth-mvp-to-production-ready-ai-product",
         "author": "tech_minimalist",
@@ -9130,6 +9240,17 @@
         "file": "cmo-saber-qu-llm-te-entra-en-tu-gpu-y-a-cuntos-toks-sin-adivinar.md"
     },
     {
+        "title": "Supabase Shopify Backend: Side-Car Architecture (2026)",
+        "slug": "supabase-shopify-backend-side-car-architecture-2026",
+        "author": "no7software",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 14:29:09 +0000",
+        "description": "For high-volume merchants, relying solely on Shopify metafields to store relational data or custom customer records is an architectural dead end. A dedicated...",
+        "keywords": "shopify, your, you, supabase, database, data, postgres, side",
+        "generated": "2026-06-25T14:43:02.866024",
+        "file": "supabase-shopify-backend-side-car-architecture-2026.md"
+    },
+    {
         "title": "Connecticut Sun vs Toronto Tempo: WNBA Preview & Picks",
         "slug": "connecticut-sun-vs-toronto-tempo-wnba-preview-picks",
         "author": "James Mullinaux",
@@ -9469,6 +9590,17 @@
         "keywords": "geely, restructuring, factory, market, global, automotive, operations, norvik",
         "generated": "2026-06-18T04:40:19.049230",
         "file": "geelys-strategic-factory-capa.md"
+    },
+    {
+        "title": "Open Banking vs Stripe: The Real Cost Comparison for SaaS in 2026",
+        "slug": "open-banking-vs-stripe-the-real-cost-comparison-for-saas-in-2026",
+        "author": "chnby",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 14:34:49 +0000",
+        "description": "If you've ever looked at your Stripe dashboard and done the math on 2.9% + $0.30 per transaction, you've probably wondered: is there a cheaper way? Open bank...",
+        "keywords": "open, banking, stripe, you, card, transaction, ticket, your",
+        "generated": "2026-06-25T14:43:02.864235",
+        "file": "open-banking-vs-stripe-the-real-cost-comparison-for-saas-in-2026.md"
     },
     {
         "title": "What Is Data Analytics and Why Is It One of the Most In-Demand Skills in 2026?",
@@ -10109,6 +10241,17 @@
         "file": "what-are-the-best-tech-accessories-to-buy-in-india-in-2026.md"
     },
     {
+        "title": "Countries are competing to see which can carry out mass surveillance the best",
+        "slug": "countries-are-competing-to-see-which-can-carry-out-mass-surveillance-the-best",
+        "author": "Cider9986",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 13:07:07 +0000",
+        "description": "Article URL: https://mullvad.net/en/why-privacy-matters/state-mass-surveillance Comments URL: https://news.ycombinator.com/item?id=48672764 Points: 179 # Com...",
+        "keywords": "mass, surveillance, url, https, comments, countries, competing, see",
+        "generated": "2026-06-25T14:43:02.849843",
+        "file": "countries-are-competing-to-see-which-can-carry-out-mass-surveillance-the-best.md"
+    },
+    {
         "title": "Your ID Has Secret Ink — And It's Why Fake Faces Don't Fool the System",
         "slug": "your-id-has-secret-ink-and-its-why-fake-faces-dont-fool-the-system",
         "author": "CaraComp",
@@ -10239,6 +10382,17 @@
         "keywords": "mistral, ocr, url, https, news, comments, article, ycombinator",
         "generated": "2026-06-23T15:13:55.040189",
         "file": "mistral-ocr-4.md"
+    },
+    {
+        "title": "Where every major LLM stands politically",
+        "slug": "where-every-major-llm-stands-politically",
+        "author": "mektrik",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 13:08:31 +0000",
+        "description": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 13 # Comments: 13",
+        "keywords": "url, https, comments, where, every, major, llm, stands",
+        "generated": "2026-06-25T14:43:02.849666",
+        "file": "where-every-major-llm-stands-politically.md"
     },
     {
         "title": "How to feed a dictator",
@@ -11902,6 +12056,17 @@
         "file": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms.md"
     },
     {
+        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+        "slug": "federal-agents-track-down-woman-demand-she-remove-instagram-post-about-ice",
+        "author": "coloneltcb",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 14:16:17 +0000",
+        "description": "Article URL: https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html Comments URL: htt...",
+        "keywords": "federal, agents, track, down, woman, demand, she, remove",
+        "generated": "2026-06-25T14:43:02.849217",
+        "file": "federal-agents-track-down-woman-demand-she-remove-instagram-post-about-ice.md"
+    },
+    {
         "title": "Zombie unicorns are haunting Silicon Valley",
         "slug": "zombie-unicorns-are-haunting-silicon-valley",
         "author": "andsoitis",
@@ -12472,6 +12637,17 @@
         "keywords": "new, bill, takes, aim, government, pressure, silence, lawful",
         "generated": "2026-06-19T19:55:28.874773",
         "file": "a-new-bill-takes-aim-at-government-pressure-to-silence-lawful-online-speech.md"
+    },
+    {
+        "title": "Small shift in how I discover web apps",
+        "slug": "small-shift-in-how-i-discover-web-apps",
+        "author": "Sara",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 14:29:01 +0000",
+        "description": "Lately, I’ve been trying to simplify how I find and evaluate web apps for side projects. Product Hunt and Google still help, but they can feel a bit noisy wh...",
+        "keywords": "web, how, apps, but, still, you, tools, small",
+        "generated": "2026-06-25T14:43:02.866208",
+        "file": "small-shift-in-how-i-discover-web-apps.md"
     },
     {
         "title": "How to Build a Python File Organizer Script in 5 Minutes",
@@ -14872,6 +15048,17 @@
         "file": "i-built-a-free-api-that-scrapes-any-website-using-plain-english-no-css-selectors.md"
     },
     {
+        "title": "Choosing the Right Model-Routing Threshold for Frontier Models",
+        "slug": "choosing-the-right-model-routing-threshold-for-frontier-models",
+        "author": "kapil Maheshwari",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 14:37:01 +0000",
+        "description": "Key takeaways Model-routing thresholds can drastically cut costs. Understanding request complexity is key to effective routing. Dynamic thresholds improve pe...",
+        "keywords": "thresholds, can, request, routing, models, performance, metrics, threshold",
+        "generated": "2026-06-25T14:43:02.866905",
+        "file": "choosing-the-right-model-routing-threshold-for-frontier-models.md"
+    },
+    {
         "title": "I tested 7 free PDF tools back to back — here's what's actually free",
         "slug": "i-tested-7-free-pdf-tools-back-to-back-heres-whats-actually-free",
         "author": "Souparna Roy",
@@ -15400,6 +15587,17 @@
         "file": "the-teensy-executable-revisited.md"
     },
     {
+        "title": "UN hypocrisy in AI Environmental demands",
+        "slug": "un-hypocrisy-in-ai-environmental-demands",
+        "author": "AlexanderHanff",
+        "source": "hackernews",
+        "published": "Thu, 25 Jun 2026 13:46:48 +0000",
+        "description": "Article URL: https://www.thatprivacyguy.com/blog/un-tracking-without-consent/ Comments URL: https://news.ycombinator.com/item?id=48673321 Points: 4 # Comment...",
+        "keywords": "url, https, com, comments, hypocrisy, environmental, demands, article",
+        "generated": "2026-06-25T14:43:02.849393",
+        "file": "un-hypocrisy-in-ai-environmental-demands.md"
+    },
+    {
         "title": "Context Engineering for Enterprise AI, Part 2: The Memory Layer That Makes Agents Useful",
         "slug": "context-engineering-for-enterprise-ai-part-2-the-memory-layer-that-makes-agents-useful",
         "author": "kirandeepjassal-crypto",
@@ -15618,6 +15816,17 @@
         "keywords": "ekhemm, indonesia, what, you, think, country",
         "generated": "2026-06-11T10:47:52.349739",
         "file": "ekhemm.md"
+    },
+    {
+        "title": "MCP Server CORS: The Preflight Problem That Broke My MCP Server 92 Times And How I Fixed It For Good",
+        "slug": "mcp-server-cors-the-preflight-problem-that-broke-my-mcp-server-92-times-and-how-i-fixed-it-for-good",
+        "author": "KevinTen",
+        "source": "devto_ai",
+        "published": "Thu, 25 Jun 2026 14:34:52 +0000",
+        "description": "MCP Server CORS: The Preflight Problem That Broke My MCP Server 92 Times And How I Fixed It For Good Honestly, I thought I understood CORS. I've been buildin...",
+        "keywords": "cors, you, mcp, key, preflight, request, headers, your",
+        "generated": "2026-06-25T14:43:02.868396",
+        "file": "mcp-server-cors-the-preflight-problem-that-broke-my-mcp-server-92-times-and-how-i-fixed-it-for-good.md"
     },
     {
         "title": "How to Leverage Magento 2 Asynchronous Bulk APIs in Google Apps Script (Zero Timeouts)",
@@ -16586,6 +16795,17 @@
         "keywords": "party, market, event, supplies, celebrations, themed, products, global",
         "generated": "2026-06-09T09:59:01.260793",
         "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
+    },
+    {
+        "title": "Under the Hood: Drag, Touch, and CSS Cascade in a Real Diff UI",
+        "slug": "under-the-hood-drag-touch-and-css-cascade-in-a-real-diff-ui",
+        "author": "Bonzai2Carn",
+        "source": "devto_webdev",
+        "published": "Thu, 25 Jun 2026 14:30:00 +0000",
+        "description": "TLDR: Three interconnected UI problems reveal how layout-aware drag detection, unified touch/mouse event handling, and CSS specificity interact when you rede...",
+        "keywords": "flex, diff, layout, display, css, panel, drag, height",
+        "generated": "2026-06-25T14:43:02.865449",
+        "file": "under-the-hood-drag-touch-and-css-cascade-in-a-real-diff-ui.md"
     },
     {
         "title": "Predictions first, data later: seven hot takes on AI agent readiness before I scan 50 sites.",
