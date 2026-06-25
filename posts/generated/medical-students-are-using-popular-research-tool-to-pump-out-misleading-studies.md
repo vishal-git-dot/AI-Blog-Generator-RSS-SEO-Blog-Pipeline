@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Thu, 25 Jun 2026 02:30:18 +0000"
 description: "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies Comments URL: https://news...."
 keywords: "medical, students, using, popular, research, tool, pump, out"
-generated: "2026-06-25T04:05:12.291129"
+generated: "2026-06-25T09:33:20.208861"
 ---
 
 # Medical students are using popular research tool to pump out misleading studies
 
 ## Overview
 
-Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies Comments URL: https://news.ycombinator.com/item?id=48668119 Points: 4 # Comments: 0
+Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies Comments URL: https://news.ycombinator.com/item?id=48668119 Points: 51 # Comments: 24
 
 ## Key Insights
 
