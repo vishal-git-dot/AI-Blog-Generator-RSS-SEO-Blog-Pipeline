@@ -1,19 +1,19 @@
 ---
-title: "We All Depend on Open Source. We Will Defend It Together"
+title: "We all depend on open source. We will defend it together"
 slug: "we-all-depend-on-open-source-we-will-defend-it-together"
 author: "dhruv3006"
 source: "hackernews"
 published: "Fri, 26 Jun 2026 05:40:36 +0000"
-description: "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 77 # Comments: 25"
+description: "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 350 # Comments: 167"
 keywords: "url, https, comments, all, depend, open, source, will"
-generated: "2026-06-26T09:38:14.827231"
+generated: "2026-06-26T14:36:05.285429"
 ---
 
-# We All Depend on Open Source. We Will Defend It Together
+# We all depend on open source. We will defend it together
 
 ## Overview
 
-Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 77 # Comments: 25
+Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 350 # Comments: 167
 
 ## Key Insights
 

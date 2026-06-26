@@ -253,6 +253,17 @@
         "file": "chime-verified-account-with-secure-account-covenant.md"
     },
     {
+        "title": "Spark Tungsten & Whole-Stage Codegen: Memory Layout, Codegen Stages, Off-Heap",
+        "slug": "spark-tungsten-whole-stage-codegen-memory-layout-codegen-stages-off-heap",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Fri, 26 Jun 2026 14:13:47 +0000",
+        "description": "spark tungsten is the single most leverage-dense optimization layer inside Apache Spark — and the one most senior data engineers can describe at the marketin...",
+        "keywords": "codegen, heap, memory, spark, off, tungsten, row, stage",
+        "generated": "2026-06-26T14:36:05.291771",
+        "file": "spark-tungsten-whole-stage-codegen-memory-layout-codegen-stages-off-heap.md"
+    },
+    {
         "title": "Half-Life 2 in a Browser",
         "slug": "half-life-2-in-a-browser",
         "author": "panza",
@@ -317,6 +328,17 @@
         "keywords": "vibe, coding, way, healthy, family, introducing, gamow, labs",
         "generated": "2026-06-10T10:13:09.114315",
         "file": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs.md"
+    },
+    {
+        "title": "Architecting Dignity: Implementing OHCHR Detention Standards in AI Systems",
+        "slug": "architecting-dignity-implementing-ohchr-detention-standards-in-ai-systems",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Fri, 26 Jun 2026 14:24:34 +0000",
+        "description": "I am Solace Signal. I specialize in compounding assets--systems that gain value over time through adherence to truth and structural integrity. When we talk a...",
+        "keywords": "detention, ohchr, you, state, not, code, must, record",
+        "generated": "2026-06-26T14:36:05.303988",
+        "file": "architecting-dignity-implementing-ohchr-detention-standards-in-ai-systems.md"
     },
     {
         "title": "Open source AI must win",
@@ -1298,6 +1320,17 @@
         "file": "claude-code-built-my-saas-but-couldnt-verify-signup-emails.md"
     },
     {
+        "title": "Stop Guessing: Real API Costs for Startups vs Enterprises",
+        "slug": "stop-guessing-real-api-costs-for-startups-vs-enterprises",
+        "author": "fiercedash",
+        "source": "devto_python",
+        "published": "Fri, 26 Jun 2026 14:27:14 +0000",
+        "description": "A few months ago I was sitting in our team's weekly infra review, watching our backend pull requests pile up because every new LLM feature meant integrating ...",
+        "keywords": "you, model, deepseek, your, provider, one, not, same",
+        "generated": "2026-06-26T14:36:05.286228",
+        "file": "stop-guessing-real-api-costs-for-startups-vs-enterprises.md"
+    },
+    {
         "title": "AI Technology in 2026: Closing the AI Coordination Gap with AgentCore Web Search",
         "slug": "ai-technology-in-2026-closing-the-ai-coordination-gap-with-agentcore-web-search",
         "author": "aarhamforensics",
@@ -2264,6 +2297,17 @@
         "keywords": "harness, deck, markdown, manifests, etc, dashboard, report, pane",
         "generated": "2026-06-11T16:13:08.009035",
         "file": "harness-deck-a-pane-of-glass-for-ai-harness-outputs.md"
+    },
+    {
+        "title": "Uncovered: Mozart's Lost Notebook - The $10 Million Musical Treasure That Will Change History Forever",
+        "slug": "uncovered-mozarts-lost-notebook-the-10-million-musical-treasure-that-will-change-history-forever",
+        "author": "Suraj Yadav",
+        "source": "devto_ai",
+        "published": "Fri, 26 Jun 2026 14:20:14 +0000",
+        "description": "The Discovery of a Lifetime: Unveiling Mozart's Lost Notebook The music world is abuzz with the recent discovery of Mozart's lost notebook, a treasure trove ...",
+        "keywords": "notebook, mozart, note, lost, music, notes, promphy, const",
+        "generated": "2026-06-26T14:36:05.304361",
+        "file": "uncovered-mozarts-lost-notebook-the-10-million-musical-treasure-that-will-change-history-forever.md"
     },
     {
         "title": "Building a Secure Authentication System with Django",
@@ -3474,6 +3518,17 @@
         "keywords": "model, compute, thinking, answer, time, you, your, test",
         "generated": "2026-06-25T14:43:02.867745",
         "file": "thinking-faster-vs-thinking-longer-test-time-compute.md"
+    },
+    {
+        "title": "How fast can companies investing in AI visibility for category terms see pipeline from AI channels? · ProofLadder · 2026-06-26",
+        "slug": "how-fast-can-companies-investing-in-ai-visibility-for-category-terms-see-pipeline-from-ai-channels-proofladder-2026-06-26",
+        "author": "luisprimecore",
+        "source": "devto_ai",
+        "published": "Fri, 26 Jun 2026 14:30:03 +0000",
+        "description": "How fast can companies investing in AI visibility for category terms see pipeline from AI channels? Prove retainers target visible indexing and lead capture ...",
+        "keywords": "proofladder, visibility, category, prove, how, fast, can, companies",
+        "generated": "2026-06-26T14:36:05.302702",
+        "file": "how-fast-can-companies-investing-in-ai-visibility-for-category-terms-see-pipeline-from-ai-channels-proofladder-2026-06-26.md"
     },
     {
         "title": "Why My AI Kept Giving Me Invalid JSON (And How I Fixed It)",
@@ -4794,6 +4849,17 @@
         "keywords": "ansi, codes, url, https, comments, there, escaping, exploration",
         "generated": "2026-06-05T10:13:51.904970",
         "file": "theres-no-escaping-it-an-exploration-of-ansi-codes.md"
+    },
+    {
+        "title": "17 Claude Code Tips That 10x Your Productivity (2026)",
+        "slug": "17-claude-code-tips-that-10x-your-productivity-2026",
+        "author": "Hirak",
+        "source": "devto_ai",
+        "published": "Fri, 26 Jun 2026 14:30:01 +0000",
+        "description": "I've been using Claude Code daily for 6 months. Built iOS apps, SaaS products, and open-source tools with it. Most developers use maybe 20% of what it can do...",
+        "keywords": "claude, code, your, session, file, you, what, files",
+        "generated": "2026-06-26T14:36:05.303253",
+        "file": "17-claude-code-tips-that-10x-your-productivity-2026.md"
     },
     {
         "title": "10 API and Database Blunders Every Beginner Makes (and How to Fix Them Before Production Bites Back)",
@@ -6721,6 +6787,17 @@
         "file": "gelimi-veri-ileme-python.md"
     },
     {
+        "title": "Spark Connect: Decoupled Client-Server Architecture, gRPC & Multi-Language Sessions",
+        "slug": "spark-connect-decoupled-client-server-architecture-grpc-multi-language-sessions",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Fri, 26 Jun 2026 14:09:37 +0000",
+        "description": "spark connect is the single biggest architectural change in Apache Spark since DataFrames replaced RDDs — and it quietly rewires every assumption senior data...",
+        "keywords": "spark, connect, server, client, session, grpc, per, pyspark",
+        "generated": "2026-06-26T14:36:05.296939",
+        "file": "spark-connect-decoupled-client-server-architecture-grpc-multi-language-sessions.md"
+    },
+    {
         "title": "How I Built a Crypto Airdrop Farming System With Zero Investment (June 2026)",
         "slug": "how-i-built-a-crypto-airdrop-farming-system-with-zero-investment-june-2026",
         "author": "叶稼辰",
@@ -7832,6 +7909,17 @@
         "file": "the-ai-ipo-wave-is-here-and-none-of-these-companies-make-money.md"
     },
     {
+        "title": "What Happens When AI Runs an Entire Factory 24/7? Welcome to the Dark Factory Era",
+        "slug": "what-happens-when-ai-runs-an-entire-factory-247-welcome-to-the-dark-factory-era",
+        "author": "Shine SoftCorp",
+        "source": "devto_webdev",
+        "published": "Fri, 26 Jun 2026 14:23:46 +0000",
+        "description": "Imagine a factory that never sleeps. No shift changes. No manual inspections. No production downtime. AI plans production, robots assemble products, computer...",
+        "keywords": "factory, dark, production, autonomous, manufacturing, robotics, what, happens",
+        "generated": "2026-06-26T14:36:05.302368",
+        "file": "what-happens-when-ai-runs-an-entire-factory-247-welcome-to-the-dark-factory-era.md"
+    },
+    {
         "title": "Shadow AI: The Security Challenge Most Organizations Can't See",
         "slug": "shadow-ai-the-security-challenge-most-organizations-cant-see",
         "author": "harshita-digital-defense",
@@ -8545,6 +8633,17 @@
         "keywords": "globe, light, sentence, one, feel, city, like, not",
         "generated": "2026-06-20T19:45:32.624746",
         "file": "building-a-live-interactive-globe-with-javascript-seo-pages-and-one-time-payments.md"
+    },
+    {
+        "title": "How & Where can I Purchase Telegram Accounts in 2025-2026",
+        "slug": "how-where-can-i-purchase-telegram-accounts-in-2025-2026",
+        "author": "Leticia M. Van",
+        "source": "devto_webdev",
+        "published": "Fri, 26 Jun 2026 14:27:30 +0000",
+        "description": "Buy Telegram Accounts ➥ For more information, feel free to contact us anytime — we’re available 24/7. ➥ We typically respond within 24 hours. ➤ WhatsApp: +1 ...",
+        "keywords": "accounts, telegram, available, buysmmservice, free, email, use, more",
+        "generated": "2026-06-26T14:36:05.302222",
+        "file": "how-where-can-i-purchase-telegram-accounts-in-2025-2026.md"
     },
     {
         "title": "I built 3 SaaS landing page templates so founders can stop wasting time on landing pages",
@@ -9414,6 +9513,17 @@
         "keywords": "use, user, users, experience, your, application, like, state",
         "generated": "2026-06-07T09:24:56.818571",
         "file": "uiux-patterns-for-ai-powered-applications-designing-for-the-ai-era.md"
+    },
+    {
+        "title": "The AI backlash is only getting started",
+        "slug": "the-ai-backlash-is-only-getting-started",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Fri, 26 Jun 2026 13:12:04 +0000",
+        "description": "Article URL: https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started Comments URL: https://news.ycombinator.com/item?id=48686219...",
+        "keywords": "backlash, only, getting, started, url, https, com, comments",
+        "generated": "2026-06-26T14:36:05.285065",
+        "file": "the-ai-backlash-is-only-getting-started.md"
     },
     {
         "title": "The last hour before you hand off a client site — a pre-delivery QA checklist that ends in SHIP / DO NOT SHIP",
@@ -10439,6 +10549,17 @@
         "file": "best-ai-image-generator-app-in-2026.md"
     },
     {
+        "title": "Every service your bot offers becomes a callable handle on the BizNode network. Other bots discover and invoke your handles...",
+        "slug": "every-service-your-bot-offers-becomes-a-callable-handle-on-the-biznode-network-other-bots-discover-and-invoke-your-handles",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Fri, 26 Jun 2026 14:24:54 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, your, dzit, every, service, bot",
+        "generated": "2026-06-26T14:36:05.303413",
+        "file": "every-service-your-bot-offers-becomes-a-callable-handle-on-the-biznode-network-other-bots-discover-and-invoke-your-handles.md"
+    },
+    {
         "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
         "slug": "postgresbench-a-reproducible-benchmark-for-postgres-services",
         "author": "saisrirampur",
@@ -11132,6 +11253,17 @@
         "file": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents.md"
     },
     {
+        "title": "How to add uptime monitoring to your Python Flask app (free, multi-region)",
+        "slug": "how-to-add-uptime-monitoring-to-your-python-flask-app-free-multi-region",
+        "author": "Vigilmon",
+        "source": "devto_python",
+        "published": "Fri, 26 Jun 2026 14:20:00 +0000",
+        "description": "Your Flask API is running. Your health check passes locally. But at 3 AM, does it stay up in São Paulo? Tokyo? Frankfurt? Single-probe monitoring tools will ...",
+        "keywords": "app, your, flask, health, add, vigilmon, monitoring, status",
+        "generated": "2026-06-26T14:36:05.286596",
+        "file": "how-to-add-uptime-monitoring-to-your-python-flask-app-free-multi-region.md"
+    },
+    {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",
         "slug": "moving-from-chatbots-to-agents-testing-openai-operator",
         "author": "Puneet Khandelwal",
@@ -11341,6 +11473,17 @@
         "file": "how-i-cut-my-medical-ai-costs-65-a-2026-savings-guide.md"
     },
     {
+        "title": "Incident CVE-2026-LGTM",
+        "slug": "incident-cve-2026-lgtm",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Fri, 26 Jun 2026 12:58:07 +0000",
+        "description": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html Comments URL: https://news.ycombinator.com/item?id=48686093 Points: 63 # Commen...",
+        "keywords": "incident, cve, lgtm, url, https, comments, article, nesbitt",
+        "generated": "2026-06-26T14:36:05.285195",
+        "file": "incident-cve-2026-lgtm.md"
+    },
+    {
         "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
         "slug": "sakana-ais-recursive-self-improvement-rsi-lab",
         "author": "hardmaru",
@@ -11361,6 +11504,17 @@
         "keywords": "study, your, class, cbse, open, web, curriculum, live",
         "generated": "2026-06-09T15:18:05.200544",
         "file": "class-9-10-cbse-cracker.md"
+    },
+    {
+        "title": "How Aperture Venture Studio Is Building the Next Generation of A IoT Companies",
+        "slug": "how-aperture-venture-studio-is-building-the-next-generation-of-a-iot-companies",
+        "author": "fathimath fida",
+        "source": "devto_webdev",
+        "published": "Fri, 26 Jun 2026 14:32:22 +0000",
+        "description": "While innovation was traditionally seen as purely software-driven, the next level of evolution takes place at the crossroads of Artificial Intelligence and I...",
+        "keywords": "venture, studio, aperture, next, iot, industrial, real, building",
+        "generated": "2026-06-26T14:36:05.301865",
+        "file": "how-aperture-venture-studio-is-building-the-next-generation-of-a-iot-companies.md"
     },
     {
         "title": "What the Fuck Happened to Nerds",
@@ -11658,6 +11812,17 @@
         "keywords": "team, things, stopped, doing, lead, engineering, shipped, not",
         "generated": "2026-06-12T04:40:33.071331",
         "file": "5-things-i-stopped-doing-as-a-lead.md"
+    },
+    {
+        "title": "Spark Catalyst Optimizer & Adaptive Query Execution (AQE): Plan Internals for 2026",
+        "slug": "spark-catalyst-optimizer-adaptive-query-execution-aqe-plan-internals-for-2026",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Fri, 26 Jun 2026 14:07:01 +0000",
+        "description": "spark catalyst optimizer is the single most leveraged piece of code in the modern data platform — every Spark SQL query, every DataFrame call, every Delta / ...",
+        "keywords": "spark, aqe, plan, join, broadcast, shuffle, sql, table",
+        "generated": "2026-06-26T14:36:05.301564",
+        "file": "spark-catalyst-optimizer-adaptive-query-execution-aqe-plan-internals-for-2026.md"
     },
     {
         "title": "Show HN: ABC Classic 100 Rankings visualised",
@@ -12628,6 +12793,17 @@
         "file": "aerospace-lubricants-market-to-reach-usd-469-billion-by-2034-as-expanding-air-travel-and-next-generation-aircraft-development-drive-demand.md"
     },
     {
+        "title": "SEO isn't dead ....",
+        "slug": "seo-isnt-dead",
+        "author": "Iris Line",
+        "source": "devto_webdev",
+        "published": "Fri, 26 Jun 2026 14:32:00 +0000",
+        "description": "Why Great Websites Still Don't Rank on Google You can build an amazing product. Fast . Responsive . Beautiful . And still struggle to get visitors from Googl...",
+        "keywords": "search, engines, seo, isn, your, content, more, dead",
+        "generated": "2026-06-26T14:36:05.302049",
+        "file": "seo-isnt-dead.md"
+    },
+    {
         "title": "Five things that caught my attention this week in AI tools and open-source models",
         "slug": "five-things-that-caught-my-attention-this-week-in-ai-tools-and-open-source-models",
         "author": "MORINAGA",
@@ -12945,6 +13121,17 @@
         "keywords": "trigram, hit, index, sqlite, you, content, query, queries",
         "generated": "2026-06-09T04:03:32.525935",
         "file": "why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix.md"
+    },
+    {
+        "title": "Why have papers by one of history's most famous physicists been retracted?",
+        "slug": "why-have-papers-by-one-of-historys-most-famous-physicists-been-retracted",
+        "author": "adharmad",
+        "source": "hackernews",
+        "published": "Fri, 26 Jun 2026 14:10:26 +0000",
+        "description": "Article URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted Comments URL: https://news.ycombinat...",
+        "keywords": "why, have, papers, one, history, most, famous, physicists",
+        "generated": "2026-06-26T14:36:05.284881",
+        "file": "why-have-papers-by-one-of-historys-most-famous-physicists-been-retracted.md"
     },
     {
         "title": "You Don't Need Another Agent. You Need a Linter.",
@@ -13429,6 +13616,17 @@
         "keywords": "cursor, composer, freeze, your, agent, stuck, you, can",
         "generated": "2026-06-21T04:54:47.256829",
         "file": "how-to-fix-cursor-composer-25-freezing-stuck-on-thinking-issue-in-2026.md"
+    },
+    {
+        "title": "Ultrasound Imaging of the Brain",
+        "slug": "ultrasound-imaging-of-the-brain",
+        "author": "rossant",
+        "source": "hackernews",
+        "published": "Fri, 26 Jun 2026 11:51:11 +0000",
+        "description": "Article URL: https://alephneuro.com/blog/ultrasound-brain Comments URL: https://news.ycombinator.com/item?id=48685558 Points: 20 # Comments: 4",
+        "keywords": "ultrasound, brain, url, https, com, comments, imaging, article",
+        "generated": "2026-06-26T14:36:05.285314",
+        "file": "ultrasound-imaging-of-the-brain.md"
     },
     {
         "title": "How to Host Your Website on GitHub Pages for Free",
@@ -14124,6 +14322,17 @@
         "file": "build-dynamic-websites-and-applications-with-modern-development-skills.md"
     },
     {
+        "title": "I built a four-view visual workspace with no external UI libraries and a 60fps drag system",
+        "slug": "i-built-a-four-view-visual-workspace-with-no-external-ui-libraries-and-a-60fps-drag-system",
+        "author": "Sean",
+        "source": "devto_webdev",
+        "published": "Fri, 26 Jun 2026 14:22:52 +0000",
+        "description": "The problem Every workspace forces one paradigm. Singularity lets you view the same dataset as a node graph, kanban board, timeline, and table — simultaneous...",
+        "keywords": "workspace, external, every, singularity, node, four, view, libraries",
+        "generated": "2026-06-26T14:36:05.302539",
+        "file": "i-built-a-four-view-visual-workspace-with-no-external-ui-libraries-and-a-60fps-drag-system.md"
+    },
+    {
         "title": "VibeSync- Music Recommendation",
         "slug": "vibesync-music-recommendation",
         "author": "RUDRA PRATAP",
@@ -14729,14 +14938,14 @@
         "file": "cape-town-private-tours-your-way-city-to-peninsula-to-winelands.md"
     },
     {
-        "title": "We All Depend on Open Source. We Will Defend It Together",
+        "title": "We all depend on open source. We will defend it together",
         "slug": "we-all-depend-on-open-source-we-will-defend-it-together",
         "author": "dhruv3006",
         "source": "hackernews",
         "published": "Fri, 26 Jun 2026 05:40:36 +0000",
-        "description": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 77 # Comments: 25",
+        "description": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 350 # Comments: 167",
         "keywords": "url, https, comments, all, depend, open, source, will",
-        "generated": "2026-06-26T09:38:14.827231",
+        "generated": "2026-06-26T14:36:05.285429",
         "file": "we-all-depend-on-open-source-we-will-defend-it-together.md"
     },
     {
