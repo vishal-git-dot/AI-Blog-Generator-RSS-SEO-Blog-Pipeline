@@ -4,16 +4,16 @@ slug: "libre-barcode-project"
 author: "luu"
 source: "hackernews"
 published: "Fri, 26 Jun 2026 03:12:42 +0000"
-description: "Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 17 # Comments: 0"
+description: "Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 141 # Comments: 14"
 keywords: "url, https, comments, libre, barcode, project, article, graphicore"
-generated: "2026-06-26T04:12:11.596027"
+generated: "2026-06-26T09:38:14.827350"
 ---
 
 # Libre Barcode Project
 
 ## Overview
 
-Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 17 # Comments: 0
+Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 141 # Comments: 14
 
 ## Key Insights
 
