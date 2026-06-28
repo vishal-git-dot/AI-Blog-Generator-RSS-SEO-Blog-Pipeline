@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Sun, 28 Jun 2026 02:23:08 +0000"
 description: "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points..."
 keywords: "marfa, public, radio, puts, you, sleep, url, https"
-generated: "2026-06-28T04:20:44.689811"
+generated: "2026-06-28T09:19:21.763610"
 ---
 
 # Marfa Public Radio Puts You to Sleep
 
 ## Overview
 
-Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points: 74 # Comments: 12
+Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points: 208 # Comments: 56
 
 ## Key Insights
 

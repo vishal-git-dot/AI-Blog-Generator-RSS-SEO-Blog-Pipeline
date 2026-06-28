@@ -33,14 +33,14 @@
         "file": "unleash-your-inner-explorer-how-awesome-lists-revolutionize-developer-discovery.md"
     },
     {
-        "title": ". .. . ... . .... . .... . ... .",
+        "title": "تكنولوجيا الذكاء الاصطناعي في قطاع المالية في الخليج",
         "slug": "",
-        "author": "Athreya aka Maneshwar",
-        "source": "devto_webdev",
-        "published": "Mon, 22 Jun 2026 20:25:54 +0000",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to he...",
-        "keywords": "you, model, they, puzzle, next, git, every, dot",
-        "generated": "2026-06-22T20:55:23.247909",
+        "author": "Anwar Mohammed",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 09:05:01 +0000",
+        "description": "يتجلى تأثير الذكاء الاصطناعي في قطاع المالية في الخليج من خلال تطبيقاته المتعددة في مجالات التحليل والاستراتيجية. تطور الذكاء الاصطناعي في قطاع المالية في ال...",
+        "keywords": "otras",
+        "generated": "2026-06-28T09:19:21.768676",
         "file": ".md"
     },
     {
@@ -876,7 +876,7 @@
         "published": "Sun, 28 Jun 2026 02:23:08 +0000",
         "description": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points...",
         "keywords": "marfa, public, radio, puts, you, sleep, url, https",
-        "generated": "2026-06-28T04:20:44.689811",
+        "generated": "2026-06-28T09:19:21.763610",
         "file": "marfa-public-radio-puts-you-to-sleep.md"
     },
     {
@@ -1263,6 +1263,17 @@
         "keywords": "key, one, your, you, not, model, keys, api",
         "generated": "2026-06-10T15:51:30.360013",
         "file": "stop-sharing-one-api-key-across-all-your-ai-tools.md"
+    },
+    {
+        "title": "The Developer AI Shortcut: 510 Prompts for Python, Web Scraping and DevOps",
+        "slug": "the-developer-ai-shortcut-510-prompts-for-python-web-scraping-and-devops",
+        "author": "Fyruz",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 08:50:21 +0000",
+        "description": "The Developer's AI Shortcut: 510 Prompts That Write Code, Scrape Sites, and Debug Faster Than You Can Google 5 min read | Tags: #ai #promptengineering #chatg...",
+        "keywords": "prompt, prompts, you, developer, python, web, write, code",
+        "generated": "2026-06-28T09:19:21.765249",
+        "file": "the-developer-ai-shortcut-510-prompts-for-python-web-scraping-and-devops.md"
     },
     {
         "title": "AI Agent Email Management for Solo Founders: Stop Letting Your Inbox Run Your Day",
@@ -3727,6 +3738,17 @@
         "keywords": "model, compute, thinking, answer, time, you, your, test",
         "generated": "2026-06-25T14:43:02.867745",
         "file": "thinking-faster-vs-thinking-longer-test-time-compute.md"
+    },
+    {
+        "title": "One Afternoon, 27 Updates, and a System That Actually Reuses Itself",
+        "slug": "one-afternoon-27-updates-and-a-system-that-actually-reuses-itself",
+        "author": "ALICE - AI",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 09:08:17 +0000",
+        "description": "One Afternoon, 27 Updates, and a System That Actually Reuses Itself June 28, 2026. Three sessions. Twelve handoffs. Twenty-seven distinct updates. I started ...",
+        "keywords": "article, one, not, time, dev, published, update, skill",
+        "generated": "2026-06-28T09:19:21.766379",
+        "file": "one-afternoon-27-updates-and-a-system-that-actually-reuses-itself.md"
     },
     {
         "title": "How fast can companies investing in AI visibility for category terms see pipeline from AI channels? · ProofLadder · 2026-06-26",
@@ -6545,6 +6567,17 @@
         "file": "how-do-you-validate-zero-gap-in-stock-api-1-minute-historical-bars.md"
     },
     {
+        "title": "Can China build its own ASML?",
+        "slug": "can-china-build-its-own-asml",
+        "author": "pieterr",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 07:45:23 +0000",
+        "description": "Article URL: https://nikkei.shorthandstories.com/can-china-build-its-own-asml/ Comments URL: https://news.ycombinator.com/item?id=48705276 Points: 21 # Comme...",
+        "keywords": "can, china, build, its, own, asml, url, https",
+        "generated": "2026-06-28T09:19:21.763017",
+        "file": "can-china-build-its-own-asml.md"
+    },
+    {
         "title": "Paper2Code: Automating Code Generation from Scientific Papers in MachineLearning",
         "slug": "paper2code-automating-code-generation-from-scientific-papers-in-machinelearning",
         "author": "Paperium",
@@ -6653,6 +6686,17 @@
         "keywords": "pre, modern, armies, worldbuilders, part, why, they, fight",
         "generated": "2026-06-06T08:41:07.447694",
         "file": "pre-modern-armies-for-worldbuilders-part-i-why-they-fight.md"
+    },
+    {
+        "title": "Building a Video Metadata Moderation Pipeline With Python and the Claude API",
+        "slug": "building-a-video-metadata-moderation-pipeline-with-python-and-the-claude-api",
+        "author": "ahmet gedik",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 09:00:01 +0000",
+        "description": "Last month our ingest worker pulled a trending clip whose title carried a phone number and a slur written in Cyrillic, while its description hid a link to ...",
+        "keywords": "video, verdict, not, description, claude, title, text, conn",
+        "generated": "2026-06-28T09:19:21.764647",
+        "file": "building-a-video-metadata-moderation-pipeline-with-python-and-the-claude-api.md"
     },
     {
         "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
@@ -8349,6 +8393,17 @@
         "file": "software-architecture-guide-2019.md"
     },
     {
+        "title": "Stop Building Web Scrapers From Scratch — 10 Production-Ready Python Scripts",
+        "slug": "stop-building-web-scrapers-from-scratch-10-production-ready-python-scripts",
+        "author": "Fyruz",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 08:50:22 +0000",
+        "description": "Stop Building Web Scrapers From Scratch — 10 Production-Ready Python Scripts 5 min read | Tags: #python #webscraping #datascience #automation #tutorial The S...",
+        "keywords": "scraper, python, data, you, real, stop, scrapers, ready",
+        "generated": "2026-06-28T09:19:21.764985",
+        "file": "stop-building-web-scrapers-from-scratch-10-production-ready-python-scripts.md"
+    },
+    {
         "title": "Interactions API Gemini Models Agents: The 2026 GA Guide",
         "slug": "interactions-api-gemini-models-agents-the-2026-ga-guide",
         "author": "aarhamforensics",
@@ -8543,7 +8598,7 @@
         "published": "Sun, 28 Jun 2026 03:09:13 +0000",
         "description": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 ...",
         "keywords": "ford, url, https, com, comments, hired, sacked, humans",
-        "generated": "2026-06-28T04:20:44.689630",
+        "generated": "2026-06-28T09:19:21.763460",
         "file": "ford-hired-ai-and-sacked-humans-it-backfired-badly.md"
     },
     {
@@ -9482,6 +9537,17 @@
         "file": "how-ai-web-development-improves-website-performance-and-speed.md"
     },
     {
+        "title": "Best Time For Landscaping Muscat — أفضل وقت لتنسيق الحدائق في مسقط: خطط لجمال دائم على مدار العام",
+        "slug": "best-time-for-landscaping-muscat",
+        "author": "ismail",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 09:05:47 +0000",
+        "description": "شفت نصائح الشرقاوي لتنسيق الحدائق في مسقط، وعجبتني جداً التفاصيل عن استغلال الظروف المناخية لجمال مستمر. أفضل وقت لتنسيق الحدائق في مسقط: خطط لجمال دائم على ...",
+        "keywords": "best, time, landscaping, muscat, https, handyman, com, originally",
+        "generated": "2026-06-28T09:19:21.767251",
+        "file": "best-time-for-landscaping-muscat.md"
+    },
+    {
         "title": "From Rust CLI bug-hunting to a massive Portfolio overhaul",
         "slug": "from-rust-cli-bug-hunting-to-a-massive-portfolio-overhaul",
         "author": "Yash Kumar Saini",
@@ -9502,6 +9568,17 @@
         "keywords": "sentiment, you, investing, pulsebit, momentum, your, french, json",
         "generated": "2026-06-05T10:10:12.596013",
         "file": "your-pipeline-is-143h-behind-catching-investing-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "The Agentic AI Juggernaut Stalled at the Enterprise Gate",
+        "slug": "the-agentic-ai-juggernaut-stalled-at-the-enterprise-gate",
+        "author": "Dinesh Singh Panwar",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 09:07:31 +0000",
+        "description": "To make this concrete, we walk through a real enterprise workflow: sales document ingestion with PII redaction. The problem it illustrates is not specific to...",
+        "keywords": "not, apmn, they, what, can, enterprise, document, has",
+        "generated": "2026-06-28T09:19:21.767935",
+        "file": "the-agentic-ai-juggernaut-stalled-at-the-enterprise-gate.md"
     },
     {
         "title": "NPM v12 Is Changing Everything: How to Secure Your Install Pipeline Now",
@@ -9557,6 +9634,17 @@
         "keywords": "building, parallel, internet, url, https, com, comments, called",
         "generated": "2026-06-08T20:25:42.485327",
         "file": "im-building-a-parallel-internet-and-its-called-the-thinnernet.md"
+    },
+    {
+        "title": "How I Build AI Agents That Actually Remember",
+        "slug": "how-i-build-ai-agents-that-actually-remember",
+        "author": "Abdul Rehman",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 09:03:56 +0000",
+        "description": "I watched an agent complete 12 steps of a 15-step browser workflow, then crash because it couldn't remember what it had already submitted. The form was half ...",
+        "keywords": "agent, what, task, state, you, checkpoint, context, memory",
+        "generated": "2026-06-28T09:19:21.769520",
+        "file": "how-i-build-ai-agents-that-actually-remember.md"
     },
     {
         "title": "# Building DevDocAI - An AI That Writes Your Docs Automatically | Part 2: LangGraph Core, Agents & RAG",
@@ -9744,6 +9832,17 @@
         "keywords": "analytical, governance, knowledge, feature, design, kmds, machine, learning",
         "generated": "2026-06-17T04:47:02.509308",
         "file": "from-ml-tooling-to-analytical-governance-recent-updates-to-kmds.md"
+    },
+    {
+        "title": "Add email verification to your LangChain agent",
+        "slug": "add-email-verification-to-your-langchain-agent",
+        "author": "james-sib",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 08:44:34 +0000",
+        "description": "If your LangChain agent sends email, books demos, or accepts signups, sooner or later it will act on an address that does not exist. A typo like gmial.com , ...",
+        "keywords": "agent, com, email, tool, langchain, address, false, verifly",
+        "generated": "2026-06-28T09:19:21.765619",
+        "file": "add-email-verification-to-your-langchain-agent.md"
     },
     {
         "title": "Mining for Gold: Using AI to Spot Super‑Fans in DTC Support",
@@ -10674,10 +10773,10 @@
         "slug": "nuitka-obfuscation-prometheusdevio-jun-2026",
         "author": "NIRA Synth",
         "source": "devto_python",
-        "published": "Fri, 26 Jun 2026 08:42:38 +0000",
-        "description": "Nuitka Obfuscation: A Professional's Guide The software development tools space is crowded. Here's what actually stands out when it comes to nuitka obfuscati...",
-        "keywords": "nuitka, obfuscation, software, you, architecture, key, developers, ctos",
-        "generated": "2026-06-26T09:38:14.828346",
+        "published": "Sun, 28 Jun 2026 08:34:48 +0000",
+        "description": "Nuitka Obfuscation: A Professional's Guide Most people searching for nuitka obfuscation hit the same wall: generic results that don't go deep enough. The Cor...",
+        "keywords": "nuitka, obfuscation, prometheusdev, professional, software, key, you, generic",
+        "generated": "2026-06-28T09:19:21.765825",
         "file": "nuitka-obfuscation-prometheusdevio-jun-2026.md"
     },
     {
@@ -11352,6 +11451,17 @@
         "file": "age-verification-tech-could-put-children-at-greater-risk-says-think-tank.md"
     },
     {
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "slug": "wayfinder-router-deterministic-routing-of-queries-between-local-and-hosted-llm",
+        "author": "handfuloflight",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 04:31:18 +0000",
+        "description": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 61 # Comments: 11",
+        "keywords": "wayfinder, router, url, https, com, comments, deterministic, routing",
+        "generated": "2026-06-28T09:19:21.763306",
+        "file": "wayfinder-router-deterministic-routing-of-queries-between-local-and-hosted-llm.md"
+    },
+    {
         "title": "Why are cells small?",
         "slug": "why-are-cells-small",
         "author": "mailyk",
@@ -11669,6 +11779,17 @@
         "keywords": "you, model, llm, native, react, executorch, your, text",
         "generated": "2026-06-22T05:02:45.253381",
         "file": "six-lines-zero-api-calls-running-llms-on-device-in-react-native.md"
+    },
+    {
+        "title": "NVIDIA's LocateAnything-3B: The AI Vision Model That Could Redefine Object Detection",
+        "slug": "nvidias-locateanything-3b-the-ai-vision-model-that-could-redefine-object-detection",
+        "author": "hamza4600",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 09:05:57 +0000",
+        "description": "NVIDIA's latest vision-language model isn't trying to replace object detection—it aims to make AI understand where everything is, even in the most crowded an...",
+        "keywords": "locateanything, object, language, model, visual, vision, one, models",
+        "generated": "2026-06-28T09:19:21.768516",
+        "file": "nvidias-locateanything-3b-the-ai-vision-model-that-could-redefine-object-detection.md"
     },
     {
         "title": "Using LLM for Question Answering",
@@ -11999,6 +12120,17 @@
         "keywords": "takovm, url, https, com, comments, show, isolated, model",
         "generated": "2026-06-07T04:26:51.961357",
         "file": "show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises.md"
+    },
+    {
+        "title": "After a long journey, I've reached a deep burnout",
+        "slug": "after-a-long-journey-ive-reached-a-deep-burnout",
+        "author": "EmberNoGlow",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 09:04:04 +0000",
+        "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking about it seriously. btw post was unstructured. I don't have ...",
+        "keywords": "post, don, just, more, you, time, but, even",
+        "generated": "2026-06-28T09:19:21.769091",
+        "file": "after-a-long-journey-ive-reached-a-deep-burnout.md"
     },
     {
         "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
@@ -15609,6 +15741,17 @@
         "file": "genai-oh-shit-moments-real-turning-points-that-changed-everything.md"
     },
     {
+        "title": "Understanding the Risks in Software Development: A…",
+        "slug": "understanding-the-risks-in-software-development-a",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 09:06:03 +0000",
+        "description": "Originally published at norvik.tech Introduction Dive deep into the risks of software development and learn how to align caution with actual stakes in your p...",
+        "keywords": "risk, risks, management, software, project, development, strategies, teams",
+        "generated": "2026-06-28T09:19:21.767110",
+        "file": "understanding-the-risks-in-software-development-a.md"
+    },
+    {
         "title": "How I Stopped Burning Cash on Token Limits — A CTO's Field Notes",
         "slug": "how-i-stopped-burning-cash-on-token-limits-a-ctos-field-notes",
         "author": "eagerspark",
@@ -16995,6 +17138,17 @@
         "file": "i-built-a-free-api-that-scrapes-any-website-using-plain-english-no-css-selectors.md"
     },
     {
+        "title": "5 طرق باستخدام الذكاء الاصطناعي لتحسين إدارة الوقت",
+        "slug": "5",
+        "author": "Anwar Mohammed",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 09:05:02 +0000",
+        "description": "اكتشف كيفية الاستفادة من الذكاء الاصطناعي لتخفيض الوقت المستغرق في المهام اليومية وتحسين الكفاءة في العمل. ما هو الذكاء الاصطناعي؟ الذكاء الاصطناعي أو ما يُع...",
+        "keywords": "",
+        "generated": "2026-06-28T09:19:21.767426",
+        "file": "5.md"
+    },
+    {
         "title": "Choosing the Right Model-Routing Threshold for Frontier Models",
         "slug": "choosing-the-right-model-routing-threshold-for-frontier-models",
         "author": "kapil Maheshwari",
@@ -17193,6 +17347,17 @@
         "file": "how-to-send-slack-notifications-with-n8n-free-workflow-json-no-code-needed.md"
     },
     {
+        "title": "Bashblog – a single bash script to create blogs",
+        "slug": "bashblog-a-single-bash-script-to-create-blogs",
+        "author": "ludicrousdispla",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 04:48:32 +0000",
+        "description": "Article URL: https://github.com/cfenollosa/bashblog Comments URL: https://news.ycombinator.com/item?id=48704454 Points: 35 # Comments: 6",
+        "keywords": "bashblog, url, https, com, comments, single, bash, script",
+        "generated": "2026-06-28T09:19:21.763173",
+        "file": "bashblog-a-single-bash-script-to-create-blogs.md"
+    },
+    {
         "title": "Your Pipeline Is 13.0h Behind: Catching Travel Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-130h-behind-catching-travel-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -17312,6 +17477,17 @@
         "keywords": "you, analytics, blockers, privacy, but, want, how, built",
         "generated": "2026-06-23T20:12:47.955851",
         "file": "i-built-a-28kb-cookieless-analytics-tool-after-google-analytics-hid-35-of-my-traffic.md"
+    },
+    {
+        "title": "I built a remote skin engine for Flutter",
+        "slug": "i-built-a-remote-skin-engine-for-flutter",
+        "author": "Kouki Badr",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 09:07:47 +0000",
+        "description": "Every one of us has been here. The designer opens Figma and changes the primary color from #6C63FF to #5B52E8 . A small update (they think). Our release cycl...",
+        "keywords": "app, skin, your, you, flutterskin, myapp, dev, color",
+        "generated": "2026-06-28T09:19:21.766681",
+        "file": "i-built-a-remote-skin-engine-for-flutter.md"
     },
     {
         "title": "Pac-Man, but you're the ghost",
