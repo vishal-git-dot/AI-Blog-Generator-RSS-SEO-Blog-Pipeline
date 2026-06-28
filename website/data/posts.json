@@ -726,6 +726,17 @@
         "file": "om.md"
     },
     {
+        "title": "The curious case of the disappearing Polish S",
+        "slug": "the-curious-case-of-the-disappearing-polish-s",
+        "author": "colinprince",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 12:44:24 +0000",
+        "description": "Article URL: https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/ Comments URL: https://news.ycombinator.com/item?id=48706814 Points: 5 # Comm...",
+        "keywords": "curious, case, disappearing, polish, url, https, comments, article",
+        "generated": "2026-06-28T14:00:55.750322",
+        "file": "the-curious-case-of-the-disappearing-polish-s.md"
+    },
+    {
         "title": "How I Validated My Micro-SaaS Idea in 48 Hours Without Writing a Single Line of Code",
         "slug": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code",
         "author": "Affan Bin Yeakub",
@@ -2442,6 +2453,17 @@
         "file": "uncovered-mozarts-lost-notebook-the-10-million-musical-treasure-that-will-change-history-forever.md"
     },
     {
+        "title": "I Built a Free Apache Kafka Course from Scratch — Here's the Full Curriculum (and What I Got Wrong)",
+        "slug": "i-built-a-free-apache-kafka-course-from-scratch-heres-the-full-curriculum-and-what-i-got-wrong",
+        "author": "Rohit Srivastava",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 12:21:05 +0000",
+        "description": "I Built a Free Apache Kafka Course from Scratch — Here's the Full Curriculum (and What I Got Wrong) I spent months building a free Apache Kafka course coveri...",
+        "keywords": "kafka, module, you, what, consumer, actually, problem, course",
+        "generated": "2026-06-28T14:00:55.757298",
+        "file": "i-built-a-free-apache-kafka-course-from-scratch-heres-the-full-curriculum-and-what-i-got-wrong.md"
+    },
+    {
         "title": "Building a Secure Authentication System with Django",
         "slug": "building-a-secure-authentication-system-with-django",
         "author": "Mushi Dharun A",
@@ -2473,6 +2495,17 @@
         "keywords": "meta, keeps, delaying, release, its, new, model, developers",
         "generated": "2026-06-06T13:56:22.889034",
         "file": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers.md"
+    },
+    {
+        "title": "AI Cracks Vesuvius Papyrus Scroll Sealed in Carbon",
+        "slug": "ai-cracks-vesuvius-papyrus-scroll-sealed-in-carbon",
+        "author": "XOOMAR",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 13:41:31 +0000",
+        "description": "A Vesuvius-burned papyrus scroll that looked more like a lump of carbon than a book has now yielded 20 columns of hidden text without being opened by hand. R...",
+        "keywords": "scroll, can, papyrus, text, vesuvius, not, more, herculaneum",
+        "generated": "2026-06-28T14:00:55.761728",
+        "file": "ai-cracks-vesuvius-papyrus-scroll-sealed-in-carbon.md"
     },
     {
         "title": "Best IPTV for Sports Fans 2026 — AllTimeIPTV Discussion",
@@ -2904,6 +2937,17 @@
         "file": "gpt-2-too-dangerous-to-release-2019.md"
     },
     {
+        "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+        "slug": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+        "author": "root-parent",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 13:34:14 +0000",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs Comments URL: https://news.ycombin...",
+        "keywords": "austria, lobbies, host, anthropic, after, access, curbs, url",
+        "generated": "2026-06-28T14:00:55.749967",
+        "file": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs.md"
+    },
+    {
         "title": "Audit AI-Generated Tests: Half of Green CI Proves Nothing",
         "slug": "audit-ai-generated-tests-half-of-green-ci-proves-nothing",
         "author": "Alexey Spinov",
@@ -3311,6 +3355,17 @@
         "file": "vibration-plate-fitness.md"
     },
     {
+        "title": "Found a hidden gem GitHub repo explaining CPython internals and memory management",
+        "slug": "found-a-hidden-gem-github-repo-explaining-cpython-internals-and-memory-management",
+        "author": "Durgesh kumar",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 12:17:28 +0000",
+        "description": "Most of us learn how to write Python syntax, but very few developers actually dig into what happens behind the scenes when our scripts execute.I recently stu...",
+        "keywords": "python, memory, cpython, how, guide, you, repository, under",
+        "generated": "2026-06-28T14:00:55.757611",
+        "file": "found-a-hidden-gem-github-repo-explaining-cpython-internals-and-memory-management.md"
+    },
+    {
         "title": "My automated doubt development process",
         "slug": "my-automated-doubt-development-process",
         "author": "aself101",
@@ -3353,6 +3408,17 @@
         "keywords": "make, look, scanned, url, https, com, comments, show",
         "generated": "2026-06-20T19:45:32.620851",
         "file": "show-hn-make-pdfs-look-scanned-cli-or-in-the-browser-via-wasm.md"
+    },
+    {
+        "title": "Before the Algorithm: Building the Input Layer for My Poker Analysis Tool",
+        "slug": "before-the-algorithm-building-the-input-layer-for-my-poker-analysis-tool",
+        "author": "ty215",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 13:41:42 +0000",
+        "description": "In my first post about this project I described repeated-poker-analysis : a small, abstract toolkit for studying repeated poker spots as a commitment-analysi...",
+        "keywords": "scenario, model, form, json, input, abstract, analysis, not",
+        "generated": "2026-06-28T14:00:55.756664",
+        "file": "before-the-algorithm-building-the-input-layer-for-my-poker-analysis-tool.md"
     },
     {
         "title": "Prix de l’immobilier par canton 2026 : tutoriel d’ajustement avec le facteur construction neuve",
@@ -5621,6 +5687,17 @@
         "file": "data-observability-platforms-compared-monte-carlo-anomalo-bigeye-lightup.md"
     },
     {
+        "title": "Vercel Web Analytics that fits in your pocket",
+        "slug": "vercel-web-analytics-that-fits-in-your-pocket",
+        "author": "Apoorv Darshan",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 13:30:07 +0000",
+        "description": "Real-time visitors, page views, bounce rate, referrers, UTMs, countries, devices and deployments — Verceltics brings your whole Vercel Web Analytics to a nat...",
+        "keywords": "vercel, analytics, web, your, verceltics, app, fits, pocket",
+        "generated": "2026-06-28T14:00:55.758457",
+        "file": "vercel-web-analytics-that-fits-in-your-pocket.md"
+    },
+    {
         "title": "Stop Guessing: Real Data Comparing GPT-4o and Gemini Pro",
         "slug": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro",
         "author": "Alex Chen",
@@ -5905,6 +5982,17 @@
         "keywords": "nox, metals, url, https, ycombinator, com, comments, hiring",
         "generated": "2026-06-27T13:54:40.039083",
         "file": "nox-metals-yc-s25-is-hiring-swe.md"
+    },
+    {
+        "title": "Memory Mystery: Uncovering the Hidden Dangers of 'Ghost' DLLs - Is Your System at Risk?",
+        "slug": "memory-mystery-uncovering-the-hidden-dangers-of-ghost-dlls-is-your-system-at-risk",
+        "author": "Suraj Yadav",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 13:41:41 +0000",
+        "description": "Introduction to the Memory Mystery When it comes to system performance and security, there are numerous factors to consider, and one of the most overlooked a...",
+        "keywords": "system, dlls, ghost, dll, promphy, your, performance, security",
+        "generated": "2026-06-28T14:00:55.760737",
+        "file": "memory-mystery-uncovering-the-hidden-dangers-of-ghost-dlls-is-your-system-at-risk.md"
     },
     {
         "title": "GTA VI's Influence on Game Rel…",
@@ -6512,6 +6600,17 @@
         "file": "the-wholesale-plagiarism-of-obscure-sorrows.md"
     },
     {
+        "title": "Proofreading & Editing Help in UAE",
+        "slug": "proofreading-editing-help-in-uae",
+        "author": "Oliviawrites88",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 13:42:41 +0000",
+        "description": "Perfect Your Academic Writing with Professional Proofreading & Editing Services in the UAE Writing a high-quality academic paper requires more than great ide...",
+        "keywords": "your, proofreading, editing, professional, academic, work, editors, document",
+        "generated": "2026-06-28T14:00:55.757957",
+        "file": "proofreading-editing-help-in-uae.md"
+    },
+    {
         "title": "Why I'm betting on AI-curated directories when Google AI Overviews answer the same queries",
         "slug": "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries",
         "author": "MORINAGA",
@@ -7005,6 +7104,17 @@
         "keywords": "hallucinate, gallery, url, https, comments, show, weeks, photo",
         "generated": "2026-06-13T14:12:06.659059",
         "file": "show-hn-2-weeks-of-hallucinate-the-photo-gallery.md"
+    },
+    {
+        "title": "How to Analyze Storefront Elements by Revenue Impact, Not Just CTR",
+        "slug": "how-to-analyze-storefront-elements-by-revenue-impact-not-just-ctr",
+        "author": "Sylwester Kowal",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 13:24:10 +0000",
+        "description": "Most ecommerce teams can tell you where traffic comes from. Fewer teams can tell you which storefront components actually move revenue. That gap matters more...",
+        "keywords": "you, storefront, which, not, revenue, can, store, better",
+        "generated": "2026-06-28T14:00:55.759308",
+        "file": "how-to-analyze-storefront-elements-by-revenue-impact-not-just-ctr.md"
     },
     {
         "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
@@ -8336,6 +8446,17 @@
         "keywords": "tech, fix, freight, logistics, uae, what, solutions, forwarders",
         "generated": "2026-06-12T10:23:24.148352",
         "file": "how-tech-is-solving-uaes-biggest-freight-forwarding-problems-in-2026.md"
+    },
+    {
+        "title": "Hindsight Gave My Agent a Memory",
+        "slug": "hindsight-gave-my-agent-a-memory",
+        "author": "Chintala Mahesh Babu",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 13:47:33 +0000",
+        "description": "The fourth time our agent suggested restart the service for a Postgres connection error it had already seen three times before, I realized the problem wasn...",
+        "keywords": "agent, incident, memory, not, alert, what, response, cascadeflow",
+        "generated": "2026-06-28T14:00:55.755971",
+        "file": "hindsight-gave-my-agent-a-memory.md"
     },
     {
         "title": "The Endowment",
@@ -11979,6 +12100,17 @@
         "file": "obscura-rust-headless-browser-for-ai-agents-14000-stars-30mb-memory-85ms-load-setup-guide-2026.md"
     },
     {
+        "title": "Ornith 1.0: The Open-Source Coding Model Developers Should Watch Closely",
+        "slug": "ornith-10-the-open-source-coding-model-developers-should-watch-closely",
+        "author": "Jenuel Oras Ganawed",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 13:44:39 +0000",
+        "description": "A new coding model is easy to ignore now. Every week someone claims a new benchmark score, a new agent, a new workflow, a new reason developers should change...",
+        "keywords": "ornith, model, coding, use, you, local, not, deepreinforce",
+        "generated": "2026-06-28T14:00:55.760363",
+        "file": "ornith-10-the-open-source-coding-model-developers-should-watch-closely.md"
+    },
+    {
         "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
         "slug": "how-we-saved-big-and-simplified-our-image-pipeline-adopting-bunnynet-on-dev",
         "author": "Ben Halpern",
@@ -12859,6 +12991,17 @@
         "file": "5-things-i-stopped-doing-as-a-lead.md"
     },
     {
+        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+        "slug": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex",
+        "author": "pikseladam",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 12:27:33 +0000",
+        "description": "Article URL: https://github.com/openai/codex/issues/2847 Comments URL: https://news.ycombinator.com/item?id=48706714 Points: 44 # Comments: 26",
+        "keywords": "openai, codex, url, https, com, comments, way, exclude",
+        "generated": "2026-06-28T14:00:55.750572",
+        "file": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex.md"
+    },
+    {
         "title": "Spark Catalyst Optimizer & Adaptive Query Execution (AQE): Plan Internals for 2026",
         "slug": "spark-catalyst-optimizer-adaptive-query-execution-aqe-plan-internals-for-2026",
         "author": "Gowtham Potureddi",
@@ -13330,6 +13473,17 @@
         "keywords": "posthog, sql, parser, url, https, com, comments, rewrote",
         "generated": "2026-06-24T19:54:11.161876",
         "file": "i-rewrote-posthogs-sql-parser-70x-faster-while-barely-looking-at-the-code.md"
+    },
+    {
+        "title": "Snowpark Python: DataFrames, UDFs & Stored Procs Running Inside Snowflake",
+        "slug": "snowpark-python-dataframes-udfs-stored-procs-running-inside-snowflake",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 13:53:07 +0000",
+        "description": "snowpark python is the runtime that lets you write Python — DataFrames, UDFs, stored procedures, ML training loops — and have every line of it execute inside...",
+        "keywords": "snowpark, snowflake, sql, session, warehouse, python, udf, table",
+        "generated": "2026-06-28T14:00:55.755297",
+        "file": "snowpark-python-dataframes-udfs-stored-procs-running-inside-snowflake.md"
     },
     {
         "title": "Introducing OzymorLab: Building the Operating System for Modern Education",
@@ -14496,6 +14650,17 @@
         "keywords": "you, frisk, tool, mcp, code, can, install, your",
         "generated": "2026-06-24T19:54:11.164870",
         "file": "i-got-nervous-about-installing-mcp-servers-so-i-built-a-scanner-for-them.md"
+    },
+    {
+        "title": "Hardcoded System Prompts: An Anti-Pattern in Production",
+        "slug": "hardcoded-system-prompts-an-anti-pattern-in-production",
+        "author": "Ivo van der Knaap",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 13:24:24 +0000",
+        "description": "A support engineer pasted the system prompt into Slack to ask why the bot had started agreeing with everything. Three people replied with different versions....",
+        "keywords": "prompt, prompts, one, system, production, deploy, not, hardcoded",
+        "generated": "2026-06-28T14:00:55.759017",
+        "file": "hardcoded-system-prompts-an-anti-pattern-in-production.md"
     },
     {
         "title": "Introducing NextPy – Building the Future of Full-Stack Python Development",
@@ -15807,6 +15972,17 @@
         "file": "i-got-tired-of-cryptic-python-error-messages-so-i-built-a-vs-code-extension-that-fixes-them-automatically.md"
     },
     {
+        "title": "Unlock Lightning-Fast Performance: The Ultimate AMD Strix Halo RDMA Cluster Setup Guide for Maximum Speed and Efficiency",
+        "slug": "unlock-lightning-fast-performance-the-ultimate-amd-strix-halo-rdma-cluster-setup-guide-for-maximum-speed-and-efficiency",
+        "author": "Suraj Yadav",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 13:41:33 +0000",
+        "description": "Introduction to AMD Strix Halo RDMA Cluster Setup For businesses and organizations seeking to unlock lightning-fast performance, the AMD Strix Halo RDMA clus...",
+        "keywords": "performance, rdma, cluster, promphy, amd, setup, strix, halo",
+        "generated": "2026-06-28T14:00:55.761128",
+        "file": "unlock-lightning-fast-performance-the-ultimate-amd-strix-halo-rdma-cluster-setup-guide-for-maximum-speed-and-efficiency.md"
+    },
+    {
         "title": "Your AI agent forgets your repo every session. Give the repo a brain.",
         "slug": "your-ai-agent-forgets-your-repo-every-session-give-the-repo-a-brain",
         "author": "Igor Ganapolsky",
@@ -16168,6 +16344,17 @@
         "keywords": "biznode, https, biz, dzit, basic, pro, both, run",
         "generated": "2026-06-21T19:51:26.685095",
         "file": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership.md"
+    },
+    {
+        "title": "The origins of the school system aimed to produce independent, critical thinkers",
+        "slug": "the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers",
+        "author": "pseudolus",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 12:55:36 +0000",
+        "description": "Article URL: https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093 Comments URL: https://news.ycombinator.com/item?id=48706877 Points: 1...",
+        "keywords": "system, url, https, comments, origins, school, aimed, produce",
+        "generated": "2026-06-28T14:00:55.750168",
+        "file": "the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers.md"
     },
     {
         "title": "Top Influencer Marketing Dubai: How Technology Is Changing Creator Partnerships",
@@ -17765,6 +17952,28 @@
         "file": "a-practical-github-actions-baseline-for-python-projects.md"
     },
     {
+        "title": "Review Crossfit Timer: what we learned building Random Tactical Timer",
+        "slug": "review-crossfit-timer-what-we-learned-building-random-tactical-timer",
+        "author": "Igor Ganapolsky",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 13:51:57 +0000",
+        "description": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics)...",
+        "keywords": "review, timer, what, random, chore, refresh, tactical, analytics",
+        "generated": "2026-06-28T14:00:55.759538",
+        "file": "review-crossfit-timer-what-we-learned-building-random-tactical-timer.md"
+    },
+    {
+        "title": "The MUMPS 76 Primer – anniversary edition",
+        "slug": "the-mumps-76-primer-anniversary-edition",
+        "author": "Rochus",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 12:41:45 +0000",
+        "description": "Article URL: https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc Comments URL: https://news.ycombinator.com/item?id=48706796 Points: 10 #...",
+        "keywords": "mumps, url, https, com, comments, primer, anniversary, edition",
+        "generated": "2026-06-28T14:00:55.750449",
+        "file": "the-mumps-76-primer-anniversary-edition.md"
+    },
+    {
         "title": "UN hypocrisy in AI Environmental demands",
         "slug": "un-hypocrisy-in-ai-environmental-demands",
         "author": "AlexanderHanff",
@@ -18709,6 +18918,17 @@
         "keywords": "audit, page, seo, not, traffic, visitor, result, site",
         "generated": "2026-06-05T20:02:11.239537",
         "file": "turning-an-seo-audit-into-a-revenue-strategy.md"
+    },
+    {
+        "title": "AI Won't Replace React Developers — But It's Changing How We Think",
+        "slug": "ai-wont-replace-react-developers-but-its-changing-how-we-think",
+        "author": "Vitalii",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 13:33:37 +0000",
+        "description": "There's a hot take circulating in dev circles: AI will replace frontend developers. After shipping React apps daily alongside AI tools, here's what I actua...",
+        "keywords": "you, react, what, your, but, actually, just, can",
+        "generated": "2026-06-28T14:00:55.758322",
+        "file": "ai-wont-replace-react-developers-but-its-changing-how-we-think.md"
     },
     {
         "title": "Add a Regime Filter to Any Freqtrade Strategy in 10 Minutes",
