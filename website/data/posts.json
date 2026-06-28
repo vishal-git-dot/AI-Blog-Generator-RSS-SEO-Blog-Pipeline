@@ -418,6 +418,17 @@
         "file": "openttd-160-beta1.md"
     },
     {
+        "title": "🌐 HTTP Got a New Verb, and Your POST /search Was Always a Lie",
+        "slug": "http-got-a-new-verb-and-your-post-search-was-always-a-lie",
+        "author": "Kyryl",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 19:36:14 +0000",
+        "description": "Every POST /search endpoint you have ever written is a read pretending to be a write. You did not do it because you wanted to. You did it because the alterna...",
+        "keywords": "you, query, post, search, body, not, get, http",
+        "generated": "2026-06-28T19:38:17.338482",
+        "file": "http-got-a-new-verb-and-your-post-search-was-always-a-lie.md"
+    },
+    {
         "title": "pip install jhansi — the SDK is live",
         "slug": "pip-install-jhansi-the-sdk-is-live",
         "author": "Arun Raghunath",
@@ -790,6 +801,17 @@
         "keywords": "you, method, python, class, methods, function, object, instance",
         "generated": "2026-06-06T13:56:22.890874",
         "file": "quarks-outlines-python-user-defined-methods.md"
+    },
+    {
+        "title": "The Pomodoro Technique Is Overhyped — But the Science Behind It Is Not",
+        "slug": "the-pomodoro-technique-is-overhyped-but-the-science-behind-it-is-not",
+        "author": "The AI producer",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 19:35:19 +0000",
+        "description": "Everyone recommends the Pomodoro Technique. But most guides miss the point. The magic is not the 25-minute timer. It is the neuroscience behind why focused i...",
+        "keywords": "you, your, intervals, work, pomodoro, not, timer, brain",
+        "generated": "2026-06-28T19:38:17.338728",
+        "file": "the-pomodoro-technique-is-overhyped-but-the-science-behind-it-is-not.md"
     },
     {
         "title": "Built Isn't Serving",
@@ -1230,6 +1252,17 @@
         "keywords": "agents, url, https, com, comments, building, without, harness",
         "generated": "2026-06-11T20:28:40.306623",
         "file": "building-agents-without-harness-engineering.md"
+    },
+    {
+        "title": "The cost YAGNI was never about",
+        "slug": "the-cost-yagni-was-never-about",
+        "author": "kiyanwang",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 18:31:54 +0000",
+        "description": "Article URL: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about Comments URL: https://news.ycombinator.com/item?id=48710082 Points: 31 # Commen...",
+        "keywords": "cost, yagni, never, url, https, com, comments, article",
+        "generated": "2026-06-28T19:38:17.335291",
+        "file": "the-cost-yagni-was-never-about.md"
     },
     {
         "title": "Gamma สร้างสไลด์ด้วย AI ใน 8 วินาที ได้ยังไง",
@@ -3047,6 +3080,17 @@
         "file": "the-developers-guide-to-ai-translation-without-going-broke.md"
     },
     {
+        "title": "Ford Brought Back 350 Veteran Engineers After Its AI Quality Systems Missed Real-world Problems",
+        "slug": "ford-brought-back-350-veteran-engineers-after-its-ai-quality-systems-missed-real-world-problems",
+        "author": "Simon Paxton",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 19:33:22 +0000",
+        "description": "Ford brought back about 350 veteran “gray beard” engineers over the last three years after its automated quality systems and AI tools missed engineering prob...",
+        "keywords": "ford, quality, engineers, not, veteran, problems, study, systems",
+        "generated": "2026-06-28T19:38:17.339966",
+        "file": "ford-brought-back-350-veteran-engineers-after-its-ai-quality-systems-missed-real-world-problems.md"
+    },
+    {
         "title": "Datasette Apps: Host custom HTML applications inside Datasette",
         "slug": "datasette-apps-host-custom-html-applications-inside-datasette",
         "author": "lumpa",
@@ -3287,6 +3331,17 @@
         "keywords": "agentic, payments, payment, transactions, can, risks, user, these",
         "generated": "2026-06-13T14:12:06.671977",
         "file": "control-for-agentic-payments-a.md"
+    },
+    {
+        "title": "How I Automated Internal Linking for My B2B SaaS Review Blog Using Python",
+        "slug": "how-i-automated-internal-linking-for-my-b2b-saas-review-blog-using-python",
+        "author": "Machine4321",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 18:40:24 +0000",
+        "description": "Internal linking is one of the most overlooked ranking factors in SEO. For high-ticket affiliate sites—especially in competitive niches like B2B SaaS reviews...",
+        "keywords": "keywords, link, crm, internal, keyword, linking, posts, how",
+        "generated": "2026-06-28T19:38:17.337948",
+        "file": "how-i-automated-internal-linking-for-my-b2b-saas-review-blog-using-python.md"
     },
     {
         "title": "Make Your Own AI Modle With One Line of Code",
@@ -3619,6 +3674,17 @@
         "file": "deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404.md"
     },
     {
+        "title": "Wappalyzer Paywalled Itself in 2023. Here's the OSS-Powered Replacement",
+        "slug": "wappalyzer-paywalled-itself-in-2023-heres-the-oss-powered-replacement",
+        "author": "NexGenData",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 19:04:47 +0000",
+        "description": "Wappalyzer died on May 24, 2023. Here's the playbook. Died is a little unfair — Wappalyzer, the company, is very much alive. What died was the open-source ...",
+        "keywords": "wappalyzer, tech, fingerprint, you, actor, oss, detection, not",
+        "generated": "2026-06-28T19:38:17.336768",
+        "file": "wappalyzer-paywalled-itself-in-2023-heres-the-oss-powered-replacement.md"
+    },
+    {
         "title": "SparkClean: editable HTML/CSS/JS landing page kit",
         "slug": "sparkclean-editable-htmlcssjs-landing-page-kit",
         "author": "Jimmy Chan",
@@ -3727,6 +3793,17 @@
         "keywords": "sakana, fugu, url, https, comments, article, news, ycombinator",
         "generated": "2026-06-22T05:02:45.246605",
         "file": "sakana-fugu.md"
+    },
+    {
+        "title": "Unlocking the Potential of LLMs for Academic Writing",
+        "slug": "unlocking-the-potential-of-llms-for-academic-writing",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 19:32:49 +0000",
+        "description": "We are building an academic writing assistant on Oxlo.ai that generates structured paper sections, critiques its own output, and exports a clean Markdown dra...",
+        "keywords": "json, content, lines, oxlo, draft, append, topic, response",
+        "generated": "2026-06-28T19:38:17.340309",
+        "file": "unlocking-the-potential-of-llms-for-academic-writing.md"
     },
     {
         "title": "Concurrency is byproduct of capability design not bottleneck to patch",
@@ -5302,6 +5379,17 @@
         "file": "17-claude-code-tips-that-10x-your-productivity-2026.md"
     },
     {
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "slug": "i-used-claude-code-to-get-a-second-opinion-on-my-mri",
+        "author": "engmarketer",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 16:35:19 +0000",
+        "description": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus Comments URL: https://news.ycombinator.com/item?id=48708941 Points: 135 # Comments: 216",
+        "keywords": "claude, code, mri, url, https, comments, used, get",
+        "generated": "2026-06-28T19:38:17.335589",
+        "file": "i-used-claude-code-to-get-a-second-opinion-on-my-mri.md"
+    },
+    {
         "title": "10 API and Database Blunders Every Beginner Makes (and How to Fix Them Before Production Bites Back)",
         "slug": "10-api-and-database-blunders-every-beginner-makes-and-how-to-fix-them-before-production-bites-back",
         "author": "Sarim Nadeem",
@@ -5311,6 +5399,17 @@
         "keywords": "you, not, one, every, your, index, table, orders",
         "generated": "2026-06-13T04:19:15.386491",
         "file": "10-api-and-database-blunders-every-beginner-makes-and-how-to-fix-them-before-production-bites-back.md"
+    },
+    {
+        "title": "How Online File Conversion Supports World Cup Stadium Operations",
+        "slug": "how-online-file-conversion-supports-world-cup-stadium-operations",
+        "author": "fast convert",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 19:34:35 +0000",
+        "description": "Large sporting events require seamless communication between engineers, administrators, logistics teams, and event managers. These professionals frequently e...",
+        "keywords": "file, world, cup, events, teams, documents, convert, how",
+        "generated": "2026-06-28T19:38:17.338830",
+        "file": "how-online-file-conversion-supports-world-cup-stadium-operations.md"
     },
     {
         "title": "TokenEase: One API Key for DeepSeek, GLM, Qwen, and Doubao — With Automatic Failover",
@@ -6336,6 +6435,17 @@
         "file": "codex-logging-bug-may-write-tbs-to-local-ssds.md"
     },
     {
+        "title": "The Role of LLMs in Grant Writing: Opportunities and Challenges",
+        "slug": "the-role-of-llms-in-grant-writing-opportunities-and-challenges",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 19:34:58 +0000",
+        "description": "Grant writing is a high-stakes, time-intensive process that requires synthesizing complex research, aligning with funder-specific requirements, and producing...",
+        "keywords": "grant, writing, requires, research, specific, sections, role, llms",
+        "generated": "2026-06-28T19:38:17.339327",
+        "file": "the-role-of-llms-in-grant-writing-opportunities-and-challenges.md"
+    },
+    {
         "title": "I tested 200 AI prompts so you don't have to — here's what actually works",
         "slug": "i-tested-200-ai-prompts-so-you-dont-have-to-heres-what-actually-works",
         "author": "Ig0tU",
@@ -6752,6 +6862,17 @@
         "keywords": "model, open, you, not, benchmark, models, pro, bench",
         "generated": "2026-06-15T12:29:05.504006",
         "file": "best-open-source-ai-models-developers-should-use-in-2026.md"
+    },
+    {
+        "title": "I made a production ready auth scaffold with Nuxt and Supabase",
+        "slug": "i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase",
+        "author": "Theo",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 19:33:23 +0000",
+        "description": "I have a lot of ideas. The kind of ideas you get at midnight, the ones that seem brilliant, and then I have to implement auth and all traction on a brilliant...",
+        "keywords": "auth, nuxt, supabase, time, brilliant, idea, through, your",
+        "generated": "2026-06-28T19:38:17.339004",
+        "file": "i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase.md"
     },
     {
         "title": "hi",
@@ -7335,6 +7456,17 @@
         "keywords": "ghostclaw, mcp, architecture, one, server, project, hybrid, every",
         "generated": "2026-06-12T20:19:14.997145",
         "file": "the-architecture-that-almost-shipped-a-builder-reflection-on-deadlines-cost-anxiety-and-what-survives-both.md"
+    },
+    {
+        "title": "AI Language Learning",
+        "slug": "ai-language-learning",
+        "author": "Elena Revicheva",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 19:30:04 +0000",
+        "description": "Originally published on AIdeazz — cross-posted here with canonical link. $12,456 is what I spent on Oracle Cloud infrastructure to ship EspaLuz, a Spanish la...",
+        "keywords": "conversation, user, espaluz, which, using, database, oracle, store",
+        "generated": "2026-06-28T19:38:17.340591",
+        "file": "ai-language-learning.md"
     },
     {
         "title": "Reviews have become expensive, rewrites have become cheap",
@@ -8270,6 +8402,17 @@
         "keywords": "json, formatting, response, but, become, problem, one, navigation",
         "generated": "2026-06-14T19:44:48.277943",
         "file": "the-day-i-stopped-scrolling-through-1000-lines-of-json.md"
+    },
+    {
+        "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "slug": "working-around-dragons-with-the-lemote-yeeloong-laptop-and-openbsd",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 16:58:59 +0000",
+        "description": "Article URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html Comments URL: https://news.ycombinator.com/item?id=48709187 Points: 5...",
+        "keywords": "working, around, dragons, lemote, url, com, comments, yeeloong",
+        "generated": "2026-06-28T19:38:17.335383",
+        "file": "working-around-dragons-with-the-lemote-yeeloong-laptop-and-openbsd.md"
     },
     {
         "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
@@ -10802,6 +10945,17 @@
         "file": "custom-ai-chips-transform-the-future-of-computing.md"
     },
     {
+        "title": "I Built 50 Free Browser-Based Tools (No API Keys, No Signups, No Tracking) — Here Is What I Learned",
+        "slug": "i-built-50-free-browser-based-tools-no-api-keys-no-signups-no-tracking-here-is-what-i-learned",
+        "author": "The AI producer",
+        "source": "devto_webdev",
+        "published": "Sun, 28 Jun 2026 19:31:10 +0000",
+        "description": "Last week I got frustrated. Every free online tool I tried either wanted my email, required an API key, or tracked everything I did. So I built 50 of my ow...",
+        "keywords": "tools, free, tool, plus, equals, api, what, searches",
+        "generated": "2026-06-28T19:38:17.339211",
+        "file": "i-built-50-free-browser-based-tools-no-api-keys-no-signups-no-tracking-here-is-what-i-learned.md"
+    },
+    {
         "title": "How to monitor a brand across 5 Chinese social platforms with Python in 2026 — the cross-platform dedup problem and how to handle it",
         "slug": "how-to-monitor-a-brand-across-5-chinese-social-platforms-with-python-in-2026-the-cross-platform-dedup-problem-and-how-to-handle-it",
         "author": "Sami",
@@ -11803,6 +11957,17 @@
         "file": "thomann-takes-legal-action-against-fender.md"
     },
     {
+        "title": "How to Automate Stock Video Sourcing for TikTok & Shorts Using Python",
+        "slug": "how-to-automate-stock-video-sourcing-for-tiktok-shorts-using-python",
+        "author": "Machine4321",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 19:24:59 +0000",
+        "description": "How to Automate Stock Video Sourcing for TikTok & Shorts Using Python Faceless channels on TikTok, YouTube Shorts, and Instagram Reels are booming. Many crea...",
+        "keywords": "your, video, videos, apify, download, vertical, pexels, scraper",
+        "generated": "2026-06-28T19:38:17.335838",
+        "file": "how-to-automate-stock-video-sourcing-for-tiktok-shorts-using-python.md"
+    },
+    {
         "title": "I Rebuilt Slack's Message Box With Plain HTML, CSS and JS",
         "slug": "i-rebuilt-slacks-message-box-with-plain-html-css-and-js",
         "author": "Devanshu Biswas",
@@ -12516,6 +12681,17 @@
         "keywords": "data, you, they, learning, real, science, can, them",
         "generated": "2026-06-19T19:55:28.885070",
         "file": "ai-data-science-and-ml-overlap-in-surprising-ways.md"
+    },
+    {
+        "title": "Building Academic Writing Tools with LLMs: A Step-by-Step Guide",
+        "slug": "building-academic-writing-tools-with-llms-a-step-by-step-guide",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Sun, 28 Jun 2026 19:34:06 +0000",
+        "description": "Academic writing assistants need to handle long drafts, dense citations, and strict formatting without ballooning costs. In this guide, I will walk you throu...",
+        "keywords": "oxlo, you, text, section, step, citations, openai, content",
+        "generated": "2026-06-28T19:38:17.339630",
+        "file": "building-academic-writing-tools-with-llms-a-step-by-step-guide.md"
     },
     {
         "title": "Why AI hasn't replaced software engineers, and won't",
@@ -16192,6 +16368,17 @@
         "file": "why-stateless-llms-cant-make-consistent-decisions-and-how-hindsight-fixed-that.md"
     },
     {
+        "title": "Your Pipeline Is 28.4h Behind: Catching Politics Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-284h-behind-catching-politics-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 18:46:04 +0000",
+        "description": "Your model just missed a critical insight: a 24h momentum spike of +0.612 in political sentiment. This anomaly is particularly telling, especially given the ...",
+        "keywords": "sentiment, you, pulsebit, language, narrative, politics, political, data",
+        "generated": "2026-06-28T19:38:17.337650",
+        "file": "your-pipeline-is-284h-behind-catching-politics-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
         "slug": "show-hn-decomp-academy-learn-to-decompile-gamecube-games-into-matching-c",
         "author": "jackpriceburns",
@@ -16443,6 +16630,17 @@
         "keywords": "windows, users, tired, account, requirements, url, https, com",
         "generated": "2026-06-15T05:01:58.092047",
         "file": "windows-11-users-are-tired-of-ms-account-requirements-creeping-into-everything.md"
+    },
+    {
+        "title": "Show HN: DRM-Free Books",
+        "slug": "show-hn-drm-free-books",
+        "author": "TeaVMFan",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 16:58:56 +0000",
+        "description": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books. Pick author...",
+        "keywords": "drm, free, books, authors, https, com, comments, show",
+        "generated": "2026-06-28T19:38:17.335473",
+        "file": "show-hn-drm-free-books.md"
     },
     {
         "title": "The Forge We Deserve",
@@ -17334,6 +17532,17 @@
         "keywords": "",
         "generated": "2026-06-28T09:19:21.767426",
         "file": "5.md"
+    },
+    {
+        "title": "I Built a DeepSeek API Cost Tracker and Saved $2K a Month",
+        "slug": "i-built-a-deepseek-api-cost-tracker-and-saved-2k-a-month",
+        "author": "Praveen Tech World",
+        "source": "devto_python",
+        "published": "Sun, 28 Jun 2026 18:52:40 +0000",
+        "description": "I built a Python script that tracks AI API costs across four providers using DeepSeek. It saved my team roughly $2,000 a month in wasted spend. Getting there...",
+        "keywords": "api, cost, provider, deepseek, dashboard, script, each, usage",
+        "generated": "2026-06-28T19:38:17.337387",
+        "file": "i-built-a-deepseek-api-cost-tracker-and-saved-2k-a-month.md"
     },
     {
         "title": "Choosing the Right Model-Routing Threshold for Frontier Models",
@@ -19391,6 +19600,17 @@
         "keywords": "pdf, url, https, comments, nobody, ever, gets, credit",
         "generated": "2026-06-12T04:40:33.062985",
         "file": "nobody-ever-gets-credit-for-fixing-problems-that-never-happened-2001-pdf.md"
+    },
+    {
+        "title": "Historical memory prices 1960-2026",
+        "slug": "historical-memory-prices-1960-2026",
+        "author": "vga1",
+        "source": "hackernews",
+        "published": "Sun, 28 Jun 2026 18:32:53 +0000",
+        "description": "Article URL: https://dam.stanford.edu/memory-prices.html Comments URL: https://news.ycombinator.com/item?id=48710092 Points: 5 # Comments: 0",
+        "keywords": "memory, prices, url, https, comments, historical, article, dam",
+        "generated": "2026-06-28T19:38:17.335137",
+        "file": "historical-memory-prices-1960-2026.md"
     },
     {
         "title": "How I Cut Our AI Bill by 65%: A CTO's Model Selection Playbook",
