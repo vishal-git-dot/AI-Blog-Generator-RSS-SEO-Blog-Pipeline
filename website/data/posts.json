@@ -2024,6 +2024,17 @@
         "file": "code-challenge-of-the-day-product-of-array-except-self-hard.md"
     },
     {
+        "title": "How I engineered a custom social media app in 2 months?",
+        "slug": "how-i-engineered-a-custom-social-media-app-in-2-months",
+        "author": "Codemaster_121482",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 19:43:11 +0000",
+        "description": "What is BlockSocial? BlockSocial is the ultimate social network for developers, bringing the energy of short-form video to the world of open source. Think of...",
+        "keywords": "post, user, data, posts, fork, account, anonymous, blocksocial",
+        "generated": "2026-06-29T20:06:45.988711",
+        "file": "how-i-engineered-a-custom-social-media-app-in-2-months.md"
+    },
+    {
         "title": "Meet Chatrove: a 100% local, open-source vault for your AI chats",
         "slug": "meet-chatrove-a-100-local-open-source-vault-for-your-ai-chats",
         "author": "vuhuutam459-max",
@@ -4433,6 +4444,17 @@
         "file": "i-built-a-production-rag-system-on-my-m1-mac-for-0.md"
     },
     {
+        "title": "Your AI agent forgets. Mine doesn't - and it works on a plane, in a hospital, with wifi off.",
+        "slug": "your-ai-agent-forgets-mine-doesnt-and-it-works-on-a-plane-in-a-hospital-with-wifi-off",
+        "author": "Julien L",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 19:52:58 +0000",
+        "description": "Six months ago you recommended switching your client's invoicing tool. Last week they asked why. You have no idea - the conversation happened in three meetin...",
+        "keywords": "memory, velesdb, why, what, sage, you, your, not",
+        "generated": "2026-06-29T20:06:45.987728",
+        "file": "your-ai-agent-forgets-mine-doesnt-and-it-works-on-a-plane-in-a-hospital-with-wifi-off.md"
+    },
+    {
         "title": "The Biggest Mistake I Made Online Was Starting Over Every Year",
         "slug": "the-biggest-mistake-i-made-online-was-starting-over-every-year",
         "author": "Jaabir Yusuf",
@@ -5467,6 +5489,17 @@
         "file": "what-an-llm-actually-does-predicting-the-next-word-explained.md"
     },
     {
+        "title": "Python Debugging Tips: 5 Techniques That Will Save You Hours",
+        "slug": "python-debugging-tips-5-techniques-that-will-save-you-hours",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 20:00:07 +0000",
+        "description": "Python Debugging Tips: 5 Techniques That Will Save You Hours As a Python developer, you've likely spent hours staring at your code, trying to figure out why ...",
+        "keywords": "code, you, your, pdb, python, debugging, can, use",
+        "generated": "2026-06-29T20:06:45.985817",
+        "file": "python-debugging-tips-5-techniques-that-will-save-you-hours.md"
+    },
+    {
         "title": "Title",
         "slug": "title",
         "author": "Ken Deng",
@@ -6488,6 +6521,17 @@
         "keywords": "phone, calls, imagine, your, built, assistant, jio, makes",
         "generated": "2026-06-20T04:12:08.219351",
         "file": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real.md"
+    },
+    {
+        "title": "Why Your Heat Pump Keeps Switching Into Defrost Mode",
+        "slug": "why-your-heat-pump-keeps-switching-into-defrost-mode",
+        "author": "Michael Groover",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 19:13:41 +0000",
+        "description": "If your heat pump seems to enter defrost mode every few minutes during cold weather, you may think something is seriously wrong. While occasional defrost cyc...",
+        "keywords": "defrost, outdoor, frost, coil, cycles, heat, mode, may",
+        "generated": "2026-06-29T20:06:45.989312",
+        "file": "why-your-heat-pump-keeps-switching-into-defrost-mode.md"
     },
     {
         "title": "From Prompts to AI Agents: A Frontend Developer's Guide to Mastery",
@@ -9537,6 +9581,17 @@
         "file": "practice-problems-in-python.md"
     },
     {
+        "title": "Qwen 3.6 27B is the sweet spot for local development",
+        "slug": "qwen-36-27b-is-the-sweet-spot-for-local-development",
+        "author": "stared",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 17:05:16 +0000",
+        "description": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/ Comments URL: https://news.ycombinator.com/item?id=48721903 Points: 322 # Comments: 243",
+        "keywords": "qwen, url, https, com, comments, sweet, spot, local",
+        "generated": "2026-06-29T20:06:45.985150",
+        "file": "qwen-36-27b-is-the-sweet-spot-for-local-development.md"
+    },
+    {
         "title": "سکه امامی تاریخ پایین زیر 86 چیست؟",
         "slug": "86",
         "author": "Seke Maghrebi",
@@ -9623,6 +9678,17 @@
         "keywords": "changes, parasail, siliconflow, llm, pricing, model, price, detected",
         "generated": "2026-06-25T09:33:20.215293",
         "file": "changes-to-llm-pricing-parasail-and-siliconflow.md"
+    },
+    {
+        "title": "Building a Constraint-Based Scheduling Engine with Timefold and Spring Boot",
+        "slug": "building-a-constraint-based-scheduling-engine-with-timefold-and-spring-boot",
+        "author": "Anshika Jain",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 19:49:45 +0000",
+        "description": "As scheduling complexity grows, hard-coded business rules become difficult to maintain. Timefold helps developers solve workforce scheduling, routing, and re...",
+        "keywords": "timefold, scheduling, constraint, business, planning, employee, based, rules",
+        "generated": "2026-06-29T20:06:45.988303",
+        "file": "building-a-constraint-based-scheduling-engine-with-timefold-and-spring-boot.md"
     },
     {
         "title": "What Being a Hands-On CTO Is Teaching Me About Leadership",
@@ -10076,6 +10142,17 @@
         "file": "polars-vs-pandas-vs-duckdb-benchmarked-speed-memory-api-trade-offs.md"
     },
     {
+        "title": "Revolutionizing Retro Gaming: How JIT-Compiled Game Boy Instructions in WASM Outperform Native Interpreters by Up to 300%",
+        "slug": "revolutionizing-retro-gaming-how-jit-compiled-game-boy-instructions-in-wasm-outperform-native-interpreters-by-up-to-300",
+        "author": "Suraj Yadav",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 19:59:44 +0000",
+        "description": "Introduction to Retro Gaming and the Importance of Performance The world of retro gaming has experienced a significant resurgence in recent years, with many ...",
+        "keywords": "performance, wasm, jit, developers, gaming, game, boy, instructions",
+        "generated": "2026-06-29T20:06:45.990602",
+        "file": "revolutionizing-retro-gaming-how-jit-compiled-game-boy-instructions-in-wasm-outperform-native-interpreters-by-up-to-300.md"
+    },
+    {
         "title": "From Telehealth MVP to Production-Ready AI Product",
         "slug": "from-telehealth-mvp-to-production-ready-ai-product",
         "author": "tech_minimalist",
@@ -10349,6 +10426,17 @@
         "keywords": "api, data, drug, interactions, response, print, supplement, const",
         "generated": "2026-06-05T20:02:11.237054",
         "file": "how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes.md"
+    },
+    {
+        "title": ".garden TLD's change to a bad neighborhood",
+        "slug": "garden-tlds-change-to-a-bad-neighborhood",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 18:49:41 +0000",
+        "description": "Article URL: https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627 Comments URL: https://news.ycombinator.com/item?id=48723452 Points...",
+        "keywords": "garden, change, bad, neighborhood, url, https, comments, tld",
+        "generated": "2026-06-29T20:06:45.984754",
+        "file": "garden-tlds-change-to-a-bad-neighborhood.md"
     },
     {
         "title": "AI Technology in 2026: Why the Coordination Gap Beats Adoption",
@@ -12980,6 +13068,17 @@
         "file": "how-to-add-uptime-monitoring-to-your-python-flask-app-free-multi-region.md"
     },
     {
+        "title": "10 AI Tools That Will Replace Your Virtual Assistant",
+        "slug": "10-ai-tools-that-will-replace-your-virtual-assistant",
+        "author": "AutoMate AI",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 20:00:16 +0000",
+        "description": "I pay my VA $800/month. She's great. But last month I calculated: 60% of her work could be done by AI tools that cost $50 total. Not theory. I tested each on...",
+        "keywords": "replaces, month, what, verdict, claude, hours, your, she",
+        "generated": "2026-06-29T20:06:45.989648",
+        "file": "10-ai-tools-that-will-replace-your-virtual-assistant.md"
+    },
+    {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",
         "slug": "moving-from-chatbots-to-agents-testing-openai-operator",
         "author": "Puneet Khandelwal",
@@ -13044,6 +13143,17 @@
         "keywords": "bank, pdf, people, specific, statement, what, building, most",
         "generated": "2026-06-18T20:32:55.628496",
         "file": "how-i-built-a-pdf-bank-statement-analyzer-in-8-languages-and-what-i-learned.md"
+    },
+    {
+        "title": "Exposed: The Shocking Truth About Radiation Poisoning and the Hidden Dangers You're Not Being Told",
+        "slug": "exposed-the-shocking-truth-about-radiation-poisoning-and-the-hidden-dangers-youre-not-being-told",
+        "author": "Suraj Yadav",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 19:59:48 +0000",
+        "description": "",
+        "keywords": "exposed, shocking, truth, radiation, poisoning, hidden, dangers, you",
+        "generated": "2026-06-29T20:06:45.990282",
+        "file": "exposed-the-shocking-truth-about-radiation-poisoning-and-the-hidden-dangers-youre-not-being-told.md"
     },
     {
         "title": "After AI Takes Everything",
@@ -13706,6 +13816,17 @@
         "file": "free-ai-apis-with-no-credit-card-required-complete-2026-guide.md"
     },
     {
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "slug": "ornith-10-self-improving-open-source-models-for-agentic-coding",
+        "author": "danboarder",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 17:16:17 +0000",
+        "description": "Article URL: https://github.com/deepreinforce-ai/Ornith-1 Comments URL: https://news.ycombinator.com/item?id=48722052 Points: 60 # Comments: 7",
+        "keywords": "ornith, url, https, com, comments, self, improving, open",
+        "generated": "2026-06-29T20:06:45.985033",
+        "file": "ornith-10-self-improving-open-source-models-for-agentic-coding.md"
+    },
+    {
         "title": "7 Best Platforms To Buy Verified Gmail Accounts (Aged or ...",
         "slug": "7-best-platforms-to-buy-verified-gmail-accounts-aged-or",
         "author": "Michel Scott",
@@ -14080,6 +14201,17 @@
         "file": "introducing-ozymorlab-building-the-operating-system-for-modern-education.md"
     },
     {
+        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+        "slug": "micro-agent-beat-frontier-models-with-collaboration-inside-model-api",
+        "author": "matt_d",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 18:03:26 +0000",
+        "description": "Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models Comments URL: https://news.ycombinator.com/item?id=48722802 Points: 11 # Comments: 0",
+        "keywords": "micro, agent, frontier, models, url, https, comments, beat",
+        "generated": "2026-06-29T20:06:45.984909",
+        "file": "micro-agent-beat-frontier-models-with-collaboration-inside-model-api.md"
+    },
+    {
         "title": "Your Pipeline Is 22.8h Behind: Catching Hardware Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-228h-behind-catching-hardware-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -14166,6 +14298,17 @@
         "keywords": "architecture, preempts, experiment, single, line, hold, more, build",
         "generated": "2026-06-14T19:44:48.278932",
         "file": "architecture-preempts-the-experiment.md"
+    },
+    {
+        "title": "Need a break? Play today's game from The Daily Context.",
+        "slug": "need-a-break-play-todays-game-from-the-daily-context",
+        "author": "Jess Lee",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 20:00:00 +0000",
+        "description": "We (at DEV and MLH) are covering AI Engineer's World Fair by printing a physical newspaper called The Daily Context everyday of the conference. We wanted t...",
+        "keywords": "search, game, word, today, daily, context, little, you",
+        "generated": "2026-06-29T20:06:45.990178",
+        "file": "need-a-break-play-todays-game-from-the-daily-context.md"
     },
     {
         "title": "macOS Container Machines",
@@ -14287,6 +14430,17 @@
         "keywords": "lore, url, https, comments, epic, games, announces, version",
         "generated": "2026-06-17T15:50:36.569308",
         "file": "epic-games-announces-lore-version-control-system.md"
+    },
+    {
+        "title": "Your Meta CAPI events from a Telegram bot are losing attribution. Here's the fix.",
+        "slug": "your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix",
+        "author": "Boris Kl",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 19:37:36 +0000",
+        "description": "A funnel I see all the time: a Meta ad sends people to a landing page, the page says message us on Telegram, and a bot takes it from there — qualifies the ...",
+        "keywords": "click, bot, token, fbclid, you, meta, start, telegram",
+        "generated": "2026-06-29T20:06:45.989064",
+        "file": "your-meta-capi-events-from-a-telegram-bot-are-losing-attribution-heres-the-fix.md"
     },
     {
         "title": "Building a Quantum-Safe BB84 Simulation with Qiskit 1.0+ and NumPy",
@@ -14551,6 +14705,17 @@
         "keywords": "harajuku, moment, url, https, comments, article, tim, blog",
         "generated": "2026-06-18T20:32:55.628271",
         "file": "the-harajuku-moment-2024.md"
+    },
+    {
+        "title": "Building ContractPilot AI: A Serverless Multi-Agent Legal Copilot with Vercel and AWS Databases ⚖️🚀",
+        "slug": "building-contractpilot-ai-a-serverless-multi-agent-legal-copilot-with-vercel-and-aws-databases",
+        "author": "mustapha Chaibi",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 19:56:12 +0000",
+        "description": "Legal contracts are the lifeblood of business, yet small business owners, freelancers, and startups sign agreements every week that they don't fully understa...",
+        "keywords": "amazon, serverless, api, agent, our, vercel, aws, contract",
+        "generated": "2026-06-29T20:06:45.988126",
+        "file": "building-contractpilot-ai-a-serverless-multi-agent-legal-copilot-with-vercel-and-aws-databases.md"
     },
     {
         "title": "How to Find Companies Using MySQL: API Guide for 2026",
@@ -15169,6 +15334,17 @@
         "file": "openai-acquires-cloud-startup-ona-to-power-agent-infrastructure.md"
     },
     {
+        "title": "How I Built a Passive Income System with Python: Complete Guide",
+        "slug": "how-i-built-a-passive-income-system-with-python-complete-guide",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 20:00:09 +0000",
+        "description": "How I Built a Passive Income System with Python: Complete Guide As a developer, I've always been fascinated by the idea of building a passive income system t...",
+        "keywords": "affiliate, product, income, system, passive, you, twitter, python",
+        "generated": "2026-06-29T20:06:45.985529",
+        "file": "how-i-built-a-passive-income-system-with-python-complete-guide.md"
+    },
+    {
         "title": "BizNode now has 7 tiers from $20 to $1500. API-hosted tiers need zero installation — your bot runs on BizNode...",
         "slug": "biznode-now-has-7-tiers-from-20-to-1500-api-hosted-tiers-need-zero-installation-your-bot-runs-on-biznode",
         "author": "shashikanth ramamurthy",
@@ -15233,6 +15409,28 @@
         "keywords": "file, folder, directory, path, python, dest, join, downloads",
         "generated": "2026-06-19T15:31:48.964174",
         "file": "how-to-build-a-python-file-organizer-script-in-5-minutes.md"
+    },
+    {
+        "title": "Astrophysics & AI with Python: Build Your Own AI Research Assistant to Tame ArXiv Overload",
+        "slug": "astrophysics-ai-with-python-build-your-own-ai-research-assistant-to-tame-arxiv-overload",
+        "author": "Programming Central",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 20:00:00 +0000",
+        "description": "The relentless pace of modern scientific discovery is a double-edged sword. In fields like astrophysics and cosmology, thousands of new preprints are uploade...",
+        "keywords": "arxiv, agent, structured, llm, you, print, paper, list",
+        "generated": "2026-06-29T20:06:45.986469",
+        "file": "astrophysics-ai-with-python-build-your-own-ai-research-assistant-to-tame-arxiv-overload.md"
+    },
+    {
+        "title": "How Machine Identities The Invisible Attack Surface: Why Machine Identities Are Cloud Security's Biggest Blind Spot",
+        "slug": "how-machine-identities-the-invisible-attack-surface-why-machine-identities-are-cloud-securitys-biggest-blind-spot",
+        "author": "Joseph TUI",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 19:54:09 +0000",
+        "description": "And how I built an open-source platform to solve it. The Problem No One Is Talking About Here's a number that should concern every CISO: 82 to 1 . That's the...",
+        "keywords": "identity, trust, machine, aws, identities, security, can, your",
+        "generated": "2026-06-29T20:06:45.987012",
+        "file": "how-machine-identities-the-invisible-attack-surface-why-machine-identities-are-cloud-securitys-biggest-blind-spot.md"
     },
     {
         "title": "PagedAttention vs Traditional KV Cache: How vLLM Reinvented GPU Memory for LLM Inference",
@@ -18106,6 +18304,17 @@
         "file": "i-built-a-deepseek-api-cost-tracker-and-saved-2k-a-month.md"
     },
     {
+        "title": "JumpServer: Open-Source Privileged Access Management",
+        "slug": "jumpserver-open-source-privileged-access-management",
+        "author": "neitsab",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 19:06:17 +0000",
+        "description": "Article URL: https://github.com/jumpserver/jumpserver Comments URL: https://news.ycombinator.com/item?id=48723677 Points: 10 # Comments: 1",
+        "keywords": "jumpserver, url, https, com, comments, open, source, privileged",
+        "generated": "2026-06-29T20:06:45.984597",
+        "file": "jumpserver-open-source-privileged-access-management.md"
+    },
+    {
         "title": "Let AI Call Your API (Function Calling Tutorial)",
         "slug": "let-ai-call-your-api-function-calling-tutorial",
         "author": "Daniel Dong",
@@ -19985,6 +20194,17 @@
         "keywords": "const, fingerprint, prototype, math, data, renderer, user, canvas",
         "generated": "2026-06-14T04:46:39.568955",
         "file": "browser-fingerprint-randomization-beyond-user-agent-rotation.md"
+    },
+    {
+        "title": "How a Hair Salon Automated 80% of Their Bookings (Case Study)",
+        "slug": "how-a-hair-salon-automated-80-of-their-bookings-case-study",
+        "author": "AutoMate AI",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 20:00:05 +0000",
+        "description": "Marina runs a 4-chair salon in Brooklyn. Last year she was drowning. Instagram DMs at midnight. Missed calls during appointments. Double bookings because the...",
+        "keywords": "marina, you, month, automation, bookings, hours, she, dms",
+        "generated": "2026-06-29T20:06:45.989974",
+        "file": "how-a-hair-salon-automated-80-of-their-bookings-case-study.md"
     },
     {
         "title": "Factorial of a Given Number",
