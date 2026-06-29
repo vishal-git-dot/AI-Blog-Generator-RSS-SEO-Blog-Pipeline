@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Mon, 29 Jun 2026 03:42:07 +0000"
 description: "Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 Comments URL: https://news.ycombinator.com/item?id=4..."
 keywords: "age, verification, just, precursor, attribution, speech, url, https"
-generated: "2026-06-29T04:27:36.036982"
+generated: "2026-06-29T11:11:05.057047"
 ---
 
 # Age verification is just a precursor to automated attribution of speech
 
 ## Overview
 
-Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 Comments URL: https://news.ycombinator.com/item?id=48714529 Points: 94 # Comments: 18
+Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 Comments URL: https://news.ycombinator.com/item?id=48714529 Points: 532 # Comments: 303
 
 ## Key Insights
 
