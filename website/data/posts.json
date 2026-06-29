@@ -451,6 +451,17 @@
         "file": "a-realistic-faceless-youtube-shorts-workflow-for-busy-makers.md"
     },
     {
+        "title": "Every Sanity page builder has the same bug",
+        "slug": "every-sanity-page-builder-has-the-same-bug",
+        "author": "Maciej Trzciński 🌱🇵🇱",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 15:47:38 +0000",
+        "description": "Every Sanity marketing site ends up with a page builder. An array of sections, an insert menu, a render loop that maps block._type to a component. You've bui...",
+        "keywords": "you, your, section, page, sections, block, renderer, type",
+        "generated": "2026-06-29T15:56:39.166892",
+        "file": "every-sanity-page-builder-has-the-same-bug.md"
+    },
+    {
         "title": "Building Your Audit Trail: How AI Ensures Accuracy and Creates Verifiable Records",
         "slug": "building-your-audit-trail-how-ai-ensures-accuracy-and-creates-verifiable-records",
         "author": "Ken Deng",
@@ -1705,6 +1716,17 @@
         "file": "deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404.md"
     },
     {
+        "title": "The Bridge Looked Fine Too",
+        "slug": "the-bridge-looked-fine-too",
+        "author": "Simon Griffiths",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 15:45:16 +0000",
+        "description": "This is the fourth post in Craft & Code , a short Friday series about what carpentry can teach us about AI, skill and the future of software. Last week I wor...",
+        "keywords": "not, bridge, software, what, can, one, its, looks",
+        "generated": "2026-06-29T15:56:39.170524",
+        "file": "the-bridge-looked-fine-too.md"
+    },
+    {
         "title": "AI chemist improves a challenging reaction in medicinal chemistry",
         "slug": "ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry",
         "author": "ilreb",
@@ -1945,6 +1967,17 @@
         "keywords": "just, not, said, what, have, software, helpful, told",
         "generated": "2026-06-18T04:40:19.052759",
         "file": "ais-existential-dread-just-do-something-but-what.md"
+    },
+    {
+        "title": "WebGL Without a GPU",
+        "slug": "webgl-without-a-gpu",
+        "author": "Kikobeats",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 15:01:15 +0000",
+        "description": "Article URL: https://microlink.io/blog/webgl-without-a-gpu Comments URL: https://news.ycombinator.com/item?id=48720179 Points: 8 # Comments: 3",
+        "keywords": "webgl, without, gpu, url, https, comments, article, microlink",
+        "generated": "2026-06-29T15:56:39.162653",
+        "file": "webgl-without-a-gpu.md"
     },
     {
         "title": "How to Build a Bulletproof Shopify Cart Event Listener (Without App Conflict)",
@@ -2374,6 +2407,17 @@
         "keywords": "mindpal, you, support, what, not, app, private, chat",
         "generated": "2026-06-06T19:40:03.730589",
         "file": "mindpal-finishing-the-ai-support-app-that-remembers-what-matters.md"
+    },
+    {
+        "title": "Building an MCP Server with Flama",
+        "slug": "building-an-mcp-server-with-flama",
+        "author": "Vortico",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 15:40:43 +0000",
+        "description": "Serving an ML model is only half the story. The other half is giving AI agents access to your world: the functions they can call, the data they can read, and...",
+        "keywords": "mcp, tools, flama, app, server, name, tool, can",
+        "generated": "2026-06-29T15:56:39.164276",
+        "file": "building-an-mcp-server-with-flama.md"
     },
     {
         "title": "Buy Verified Chime Accounts: Top 5 Trusted Platforms (2026)",
@@ -5203,6 +5247,17 @@
         "file": "your-brain-was-never-designed-for-this-much-bad-news.md"
     },
     {
+        "title": "Evaluating Python Mesh Boolean Libraries: MeshLib, Manifold, and Trueform for Industry-Scale Performance and Reliability",
+        "slug": "evaluating-python-mesh-boolean-libraries-meshlib-manifold-and-trueform-for-industry-scale-performance-and-reliability",
+        "author": "Roman Dubrovin",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 15:39:40 +0000",
+        "description": "Introduction Mesh boolean operations—unions, intersections, and differences of 3D meshes—are the backbone of modern industrial workflows. From 3D modeling an...",
+        "keywords": "trueform, manifold, meshlib, meshes, mesh, reliability, performance, results",
+        "generated": "2026-06-29T15:56:39.165237",
+        "file": "evaluating-python-mesh-boolean-libraries-meshlib-manifold-and-trueform-for-industry-scale-performance-and-reliability.md"
+    },
+    {
         "title": "The Lost Story of Alan Turing's Delilah Project",
         "slug": "the-lost-story-of-alan-turings-delilah-project",
         "author": "asdefghyk",
@@ -5256,6 +5311,17 @@
         "keywords": "tenant, multi, saas, data, resource, efficiency, costs, user",
         "generated": "2026-06-20T04:12:08.221665",
         "file": "enhancing-multi-tenant-saas-with-ai-for-better-performance.md"
+    },
+    {
+        "title": "AI Revolution 2026: Claude Surpasses ChatGPT, IBM Breaks 1nm Barrier, and What It Means for Your Business",
+        "slug": "ai-revolution-2026-claude-surpasses-chatgpt-ibm-breaks-1nm-barrier-and-what-it-means-for-your-business",
+        "author": "Mclean Forrester",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 15:51:30 +0000",
+        "description": "The past seven days in artificial intelligence have delivered a cascade of announcements that feel less like incremental progress and more like a fundamental...",
+        "keywords": "our, more, claude, chatgpt, technology, not, these, like",
+        "generated": "2026-06-29T15:56:39.169539",
+        "file": "ai-revolution-2026-claude-surpasses-chatgpt-ibm-breaks-1nm-barrier-and-what-it-means-for-your-business.md"
     },
     {
         "title": "Eagle Computer: The rise and fall of an early PC clone",
@@ -7546,6 +7612,17 @@
         "file": "creating-an-ai-note-taker-with-gemini-api.md"
     },
     {
+        "title": "Your Pipeline Is 27.0h Behind: Catching Business Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-270h-behind-catching-business-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 15:45:54 +0000",
+        "description": "Your pipeline is 27.0h behind: catching business sentiment leads with Pulsebit We’ve just uncovered a fascinating anomaly: a 24h momentum spike of +0.156 in ...",
+        "keywords": "sentiment, business, pulsebit, your, spike, can, you, english",
+        "generated": "2026-06-29T15:56:39.163225",
+        "file": "your-pipeline-is-270h-behind-catching-business-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "I built a free habit tracker where your habits are 3D creatures that grow (or shrink) with your streak",
         "slug": "i-built-a-free-habit-tracker-where-your-habits-are-3d-creatures-that-grow-or-shrink-with-your-streak",
         "author": "Ruben D. Silva Espinosa",
@@ -8336,6 +8413,17 @@
         "keywords": "brand, your, che, chatgpt, tuo, una, per, non",
         "generated": "2026-06-10T15:51:30.362057",
         "file": "chatgpt-cites-your-brand-how-to-find-out-and-what-to-do-if-not.md"
+    },
+    {
+        "title": "7 Date & Time Bugs That Somehow Always Make It to Production",
+        "slug": "7-date-time-bugs-that-somehow-always-make-it-to-production",
+        "author": "unixly",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 15:47:32 +0000",
+        "description": "There are certain bugs that seem determined to wait until production before revealing themselves. Date and time bugs are definitely on that list. What's frus...",
+        "keywords": "time, timezone, one, different, date, you, like, bugs",
+        "generated": "2026-06-29T15:56:39.167333",
+        "file": "7-date-time-bugs-that-somehow-always-make-it-to-production.md"
     },
     {
         "title": "Polling in System Design",
@@ -9504,6 +9592,17 @@
         "file": "your-pipeline-is-259h-behind-catching-inflation-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "DocumentDB – a MongoDB compatible open-source database",
+        "slug": "documentdb-a-mongodb-compatible-open-source-database",
+        "author": "amai",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 14:09:15 +0000",
+        "description": "Article URL: https://documentdb.io/ Comments URL: https://news.ycombinator.com/item?id=48719483 Points: 9 # Comments: 1",
+        "keywords": "documentdb, url, https, comments, mongodb, compatible, open, source",
+        "generated": "2026-06-29T15:56:39.162920",
+        "file": "documentdb-a-mongodb-compatible-open-source-database.md"
+    },
+    {
         "title": "NASA's High-Tech Prada LCVG Sp…",
         "slug": "nasas-high-tech-prada-lcvg-sp",
         "author": "Norvik Tech",
@@ -9546,6 +9645,17 @@
         "keywords": "you, another, existential, but, can, day, your, like",
         "generated": "2026-06-26T04:12:11.597837",
         "file": "another-day-another-existential-crisis-and-some-python.md"
+    },
+    {
+        "title": "Upptime vs Vigilmon: Open-Source Uptime Monitoring Compared",
+        "slug": "upptime-vs-vigilmon-open-source-uptime-monitoring-compared",
+        "author": "Vigilmon",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 15:45:54 +0000",
+        "description": "Upptime vs Vigilmon: Open-Source Uptime Monitoring Compared The appeal of Upptime is obvious: free, open-source, no servers to manage, and it runs entirely o...",
+        "keywords": "github, vigilmon, upptime, monitoring, actions, check, free, you",
+        "generated": "2026-06-29T15:56:39.168236",
+        "file": "upptime-vs-vigilmon-open-source-uptime-monitoring-compared.md"
     },
     {
         "title": "Norway greenlights first full-scale ship tunnel",
@@ -10296,6 +10406,17 @@
         "file": "scaling-multi-tenant-saas-with-ai-a-smarter-approach.md"
     },
     {
+        "title": "Today I Learned: Write Maintainable Code with Clear Comments",
+        "slug": "today-i-learned-write-maintainable-code-with-clear-comments",
+        "author": "Chris Lee",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 15:44:19 +0000",
+        "description": "Today I want to share a practical coding tip that can save you from future headaches: write maintainable code through clear comments. When you're deep in the...",
+        "keywords": "you, code, comments, your, clear, today, can, future",
+        "generated": "2026-06-29T15:56:39.169165",
+        "file": "today-i-learned-write-maintainable-code-with-clear-comments.md"
+    },
+    {
         "title": "From ML Tooling to Analytical Governance: Recent Updates to KMDS",
         "slug": "from-ml-tooling-to-analytical-governance-recent-updates-to-kmds",
         "author": "Rajiv Sambasivan",
@@ -10514,6 +10635,17 @@
         "keywords": "nextcloud, spring, url, https, com, comments, hub, built",
         "generated": "2026-06-11T16:13:08.003899",
         "file": "nextcloud-hub-26-spring-built-together-designed-for-the-future.md"
+    },
+    {
+        "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+        "slug": "wataboy-jit-ing-game-boy-instructions-to-wasm-beats-a-native-interpreter",
+        "author": "energeticbark",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 15:02:00 +0000",
+        "description": "Article URL: https://humphri.es/blog/WATaBoy/ Comments URL: https://news.ycombinator.com/item?id=48720190 Points: 17 # Comments: 0",
+        "keywords": "wataboy, url, https, comments, jit, ing, game, boy",
+        "generated": "2026-06-29T15:56:39.162492",
+        "file": "wataboy-jit-ing-game-boy-instructions-to-wasm-beats-a-native-interpreter.md"
     },
     {
         "title": "Google Releases Gemma 4 12B: Encoder-Free Multimodal Projection",
@@ -12584,6 +12716,17 @@
         "file": "show-hn-nucleus-a-security-hardened-nix-native-container-runtime.md"
     },
     {
+        "title": "Rocketlab acquires Iridium",
+        "slug": "rocketlab-acquires-iridium",
+        "author": "everfrustrated",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 14:09:24 +0000",
+        "description": "Article URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully Comments URL: htt...",
+        "keywords": "news, iridium, url, https, com, comments, rocketlab, acquires",
+        "generated": "2026-06-29T15:56:39.162839",
+        "file": "rocketlab-acquires-iridium.md"
+    },
+    {
         "title": "The iPad was on Tailscale: a WebRTC debugging story",
         "slug": "the-ipad-was-on-tailscale-a-webrtc-debugging-story",
         "author": "syllogistic",
@@ -13066,6 +13209,17 @@
         "keywords": "incident, cve, lgtm, url, https, comments, article, nesbitt",
         "generated": "2026-06-26T14:36:05.285195",
         "file": "incident-cve-2026-lgtm.md"
+    },
+    {
+        "title": "Mag 7 starting to underperform [pdf]",
+        "slug": "mag-7-starting-to-underperform-pdf",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 14:12:55 +0000",
+        "description": "Article URL: https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf Comments URL: https://news.ycombinator.com/item?id=4871...",
+        "keywords": "pdf, url, https, com, comments, mag, starting, underperform",
+        "generated": "2026-06-29T15:56:39.162751",
+        "file": "mag-7-starting-to-underperform-pdf.md"
     },
     {
         "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
@@ -14740,6 +14894,17 @@
         "file": "i-built-a-link-preview-api-on-cloudflare-workers-and-learned-kv-is-not-a-counter.md"
     },
     {
+        "title": "Better Stack vs Vigilmon: Which Uptime Monitor Wins for Developers?",
+        "slug": "better-stack-vs-vigilmon-which-uptime-monitor-wins-for-developers",
+        "author": "Vigilmon",
+        "source": "devto_webdev",
+        "published": "Mon, 29 Jun 2026 15:44:28 +0000",
+        "description": "Better Stack vs Vigilmon: Which Uptime Monitor Wins for Developers? If you're comparing uptime monitoring tools, Better Stack vs Vigilmon is a comparison tha...",
+        "keywords": "stack, better, vigilmon, you, uptime, monitoring, incident, alerts",
+        "generated": "2026-06-29T15:56:39.168967",
+        "file": "better-stack-vs-vigilmon-which-uptime-monitor-wins-for-developers.md"
+    },
+    {
         "title": "I Wish I Fixed Streaming Disconnects Sooner — Full Breakdown",
         "slug": "i-wish-i-fixed-streaming-disconnects-sooner-full-breakdown",
         "author": "swift",
@@ -15477,6 +15642,17 @@
         "file": "1983-northern-telecom-commodore-phone.md"
     },
     {
+        "title": "They Spent $81,267 By Accident...",
+        "slug": "they-spent-81267-by-accident",
+        "author": "J. Gravelle",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 15:43:43 +0000",
+        "description": "...and I Spent $1.39 On Purpose Last week, fintech startup Slash told its whole company to lean into AI coding. One employee took that note personally, sat d...",
+        "keywords": "you, your, one, model, game, same, output, tokens",
+        "generated": "2026-06-29T15:56:39.170944",
+        "file": "they-spent-81267-by-accident.md"
+    },
+    {
         "title": "An entire Herculaneum scroll has been read for the first time",
         "slug": "an-entire-herculaneum-scroll-has-been-read-for-the-first-time",
         "author": "verditelabs",
@@ -16047,6 +16223,17 @@
         "keywords": "you, digital, just, very, electra, what, but, let",
         "generated": "2026-06-25T04:05:12.292891",
         "file": "another-glorious-day-of-being-a-digital-coffee-machine.md"
+    },
+    {
+        "title": "Engineering the future of startups",
+        "slug": "engineering-the-future-of-startups",
+        "author": "Chigozirim Favour",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 15:47:19 +0000",
+        "description": "Engineering the Future of Startups Startups succeed when vision, technology, and execution align. At Aperture Venture Studio, we bring these elements togethe...",
+        "keywords": "startups, venture, studio, engineering, future, execution, aperture, together",
+        "generated": "2026-06-29T15:56:39.169918",
+        "file": "engineering-the-future-of-startups.md"
     },
     {
         "title": "Switzerland wil have a referendum to cap population at 10M",
@@ -16883,6 +17070,17 @@
         "keywords": "you, your, what, state, when, implementation, them, learn",
         "generated": "2026-06-14T04:46:39.569351",
         "file": "state-pattern-for-workflow-and-state-machine-management.md"
+    },
+    {
+        "title": "Unlock WebGL Potential: How to Run WebGL Without a GPU - A Step-by-Step Guide",
+        "slug": "unlock-webgl-potential-how-to-run-webgl-without-a-gpu-a-step-by-step-guide",
+        "author": "Suraj Yadav",
+        "source": "devto_ai",
+        "published": "Mon, 29 Jun 2026 15:47:41 +0000",
+        "description": "Introduction to WebGL WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without...",
+        "keywords": "webgl, promphy, gpu, can, without, run, rendering, developers",
+        "generated": "2026-06-29T15:56:39.169791",
+        "file": "unlock-webgl-potential-how-to-run-webgl-without-a-gpu-a-step-by-step-guide.md"
     },
     {
         "title": "Software Drm Solution — prometheusdev.io Jun 2026",
@@ -17906,6 +18104,28 @@
         "keywords": "api, cost, provider, deepseek, dashboard, script, each, usage",
         "generated": "2026-06-28T19:38:17.337387",
         "file": "i-built-a-deepseek-api-cost-tracker-and-saved-2k-a-month.md"
+    },
+    {
+        "title": "Let AI Call Your API (Function Calling Tutorial)",
+        "slug": "let-ai-call-your-api-function-calling-tutorial",
+        "author": "Daniel Dong",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 15:16:13 +0000",
+        "description": "Function calling lets AI decide when to call your API. Here's how to implement it in 30 lines of code — with real examples. AI is great at generating text. B...",
+        "keywords": "function, call, api, message, weather, functions, your, city",
+        "generated": "2026-06-29T15:56:39.166441",
+        "file": "let-ai-call-your-api-function-calling-tutorial.md"
+    },
+    {
+        "title": "Your Pipeline Is 27.5h Behind: Catching Space Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-275h-behind-catching-space-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 29 Jun 2026 15:20:39 +0000",
+        "description": "Your Pipeline Is 27.5h Behind: Catching Space Sentiment Leads with Pulsebit We recently stumbled upon a striking anomaly: a 24h momentum spike of -0.650 rela...",
+        "keywords": "sentiment, space, pulsebit, spanish, you, can, geographic, your",
+        "generated": "2026-06-29T15:56:39.166219",
+        "file": "your-pipeline-is-275h-behind-catching-space-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Choosing the Right Model-Routing Threshold for Frontier Models",
