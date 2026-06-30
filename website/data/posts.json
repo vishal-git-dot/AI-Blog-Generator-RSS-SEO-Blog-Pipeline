@@ -363,6 +363,17 @@
         "file": "measuring-operational-output-in-high-performance-teams-787.md"
     },
     {
+        "title": "9 Open-Source AI No-Code Tools on GitHub Worth Watching",
+        "slug": "9-open-source-ai-no-code-tools-on-github-worth-watching",
+        "author": "NocoBase",
+        "source": "devto_ai",
+        "published": "Tue, 30 Jun 2026 03:59:24 +0000",
+        "description": "Originally published at https://www.nocobase.com/en/blog/open-source-ai-no-code-tools-github-9 AI coding is getting a lot of attention. Many tools can alread...",
+        "keywords": "tools, can, business, code, systems, suitable, nocobase, building",
+        "generated": "2026-06-30T04:06:54.988021",
+        "file": "9-open-source-ai-no-code-tools-on-github-worth-watching.md"
+    },
+    {
         "title": "Cosmodial Sky Atlas",
         "slug": "cosmodial-sky-atlas",
         "author": "memalign",
@@ -1089,6 +1100,17 @@
         "file": "how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong.md"
     },
     {
+        "title": "JWT Debugger: Decode & Verify JSON Web Tokens in Your Browser",
+        "slug": "jwt-debugger-decode-verify-json-web-tokens-in-your-browser",
+        "author": "Dev Nestio",
+        "source": "devto_webdev",
+        "published": "Tue, 30 Jun 2026 03:57:02 +0000",
+        "description": "JWT Debugger — Free Online Tool Need to quickly inspect a JWT token? JWT Debugger lets you decode and verify JSON Web Tokens entirely in your browser — no da...",
+        "keywords": "jwt, your, debugger, tokens, verify, json, web, token",
+        "generated": "2026-06-30T04:06:54.984388",
+        "file": "jwt-debugger-decode-verify-json-web-tokens-in-your-browser.md"
+    },
+    {
         "title": "Generate UUIDs in Bulk Instantly with This Free Tool",
         "slug": "generate-uuids-in-bulk-instantly-with-this-free-tool",
         "author": "matengtian",
@@ -1120,6 +1142,17 @@
         "keywords": "solar, energy, coal, url, https, com, news, comments",
         "generated": "2026-06-11T20:28:40.306899",
         "file": "solar-generates-more-energy-in-us-than-coal-for-first-time.md"
+    },
+    {
+        "title": "Building a Weather MCP Server with Python",
+        "slug": "building-a-weather-mcp-server-with-python",
+        "author": "Mary Luz Chura Ticona",
+        "source": "devto_python",
+        "published": "Tue, 30 Jun 2026 03:34:00 +0000",
+        "description": "Building a Weather MCP Server with Python Introduction The Model Context Protocol (MCP) is an open standard that allows AI models like Claude to connect with...",
+        "keywords": "mcp, server, weather, current, city, client, python, httpx",
+        "generated": "2026-06-30T04:06:54.983230",
+        "file": "building-a-weather-mcp-server-with-python.md"
     },
     {
         "title": "Setting Up DORA Metrics in GitHub Actions Without Buying Anything",
@@ -1252,6 +1285,17 @@
         "keywords": "pico, usb, url, https, com, comments, raspberry, adapter",
         "generated": "2026-06-24T09:40:50.185680",
         "file": "raspberry-pi-pico-w-as-usb-wi-fi-adapter.md"
+    },
+    {
+        "title": "Medical Research Data Analysis Deserves a Higher Standard",
+        "slug": "medical-research-data-analysis-deserves-a-higher-standard",
+        "author": "AIPOCH",
+        "source": "devto_ai",
+        "published": "Tue, 30 Jun 2026 04:00:00 +0000",
+        "description": "A Problem That Has Been Overlooked for Too Long The most frustrating errors in medical research data analysis aren't the ones that crash your code — at least...",
+        "keywords": "analysis, code, what, data, but, research, has, you",
+        "generated": "2026-06-30T04:06:54.986166",
+        "file": "medical-research-data-analysis-deserves-a-higher-standard.md"
     },
     {
         "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
@@ -3628,6 +3672,17 @@
         "keywords": "dsql, recall, vercel, write, product, safestate, recalled, where",
         "generated": "2026-06-25T04:05:12.294092",
         "file": "making-product-recalls-executable-with-aurora-dsql-and-vercel.md"
+    },
+    {
+        "title": "Exploring PDP-1 Lisp (1960)",
+        "slug": "exploring-pdp-1-lisp-1960",
+        "author": "ozymandiax",
+        "source": "hackernews",
+        "published": "Tue, 30 Jun 2026 00:56:42 +0000",
+        "description": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html Comments URL: https://news.ycombinator.com/item?id=48727323 Points: 27 # Comments: 14",
+        "keywords": "lisp, url, https, comments, exploring, pdp, article, obsolescence",
+        "generated": "2026-06-30T04:06:54.979593",
+        "file": "exploring-pdp-1-lisp-1960.md"
     },
     {
         "title": "Astrophysics & AI with Python: Navigating the Universe with RA, Dec, and Coordinate Transformations",
@@ -7513,6 +7568,17 @@
         "file": "i-built-an-open-source-bug-bounty-scanner-automated-xss-cors-crlf-redirects-and-more.md"
     },
     {
+        "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+        "slug": "memory-safe-context-switching-longjmp-setjmp-in-fil-c",
+        "author": "modeless",
+        "source": "hackernews",
+        "published": "Tue, 30 Jun 2026 00:38:19 +0000",
+        "description": "Article URL: https://fil-c.org/context_switches Comments URL: https://news.ycombinator.com/item?id=48727177 Points: 50 # Comments: 19",
+        "keywords": "fil, url, https, comments, memory, safe, context, switching",
+        "generated": "2026-06-30T04:06:54.979759",
+        "file": "memory-safe-context-switching-longjmp-setjmp-in-fil-c.md"
+    },
+    {
         "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
         "slug": "show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai",
         "author": "martiano",
@@ -8413,6 +8479,17 @@
         "keywords": "your, seo, blog, post, content, you, search, use",
         "generated": "2026-06-11T10:47:52.350624",
         "file": "craft-killer-blog-posts-your-seo-friendly-guide.md"
+    },
+    {
+        "title": "FastAPI for Production AI: From Notebook to Scalable APIs",
+        "slug": "fastapi-for-production-ai-from-notebook-to-scalable-apis",
+        "author": "Ankit Sharma",
+        "source": "devto_python",
+        "published": "Tue, 30 Jun 2026 03:54:34 +0000",
+        "description": "Here's the updated blog post with more code examples and guidance for beginners: Building Production AI Pipelines with FastAPI You've spent weeks, maybe mont...",
+        "keywords": "model, your, fastapi, you, app, data, production, prediction",
+        "generated": "2026-06-30T04:06:54.981782",
+        "file": "fastapi-for-production-ai-from-notebook-to-scalable-apis.md"
     },
     {
         "title": "Eight Hours of AI Therapy: When Code Feels More Human Than Coffee",
@@ -10725,6 +10802,17 @@
         "file": "nextcloud-hub-26-spring-built-together-designed-for-the-future.md"
     },
     {
+        "title": "⚙️ FastAPI vs Flask for async microservices — which one should you actually use?",
+        "slug": "fastapi-vs-flask-for-async-microservices-which-one-should-you-actually-use",
+        "author": "Python-T Point",
+        "source": "devto_python",
+        "published": "Tue, 30 Jun 2026 03:39:57 +0000",
+        "description": "Roughly 30 % of production Python web services still run on Flask despite its synchronous request handling model. The choice between FastAPI and Flask direct...",
+        "keywords": "async, fastapi, flask, app, request, server, worker, asgi",
+        "generated": "2026-06-30T04:06:54.982975",
+        "file": "fastapi-vs-flask-for-async-microservices-which-one-should-you-actually-use.md"
+    },
+    {
         "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
         "slug": "wataboy-jit-ing-game-boy-instructions-to-wasm-beats-a-native-interpreter",
         "author": "energeticbark",
@@ -12329,6 +12417,17 @@
         "keywords": "self, immutable, class, dataclass, name, methods, custom, hash",
         "generated": "2026-06-12T04:40:33.066968",
         "file": "mastering-dunder-methods-for-immutable-data-classes.md"
+    },
+    {
+        "title": "The Philosophy of a Tool: Why AI Will Never Take Over and Hidden Guardrails Are Literal Evil",
+        "slug": "the-philosophy-of-a-tool-why-ai-will-never-take-over-and-hidden-guardrails-are-literal-evil",
+        "author": "Mike Cornwell",
+        "source": "devto_ai",
+        "published": "Tue, 30 Jun 2026 04:00:00 +0000",
+        "description": "I want to talk about the philosophy of a tool. It is an extremely important concept, and in the day and age of AI, people desperately need to be reminded of ...",
+        "keywords": "you, tool, not, they, but, will, what, its",
+        "generated": "2026-06-30T04:06:54.985842",
+        "file": "the-philosophy-of-a-tool-why-ai-will-never-take-over-and-hidden-guardrails-are-literal-evil.md"
     },
     {
         "title": "Medallion Architecture in Databricks: A Complete Implementation Guide",
@@ -13970,6 +14069,17 @@
         "file": "mobile-banking-market-size-share-trends-analysis-report-and-forecast-20262034.md"
     },
     {
+        "title": "Hermes Memory Installer: New Snapshot Compression and Restore Helpers",
+        "slug": "hermes-memory-installer-new-snapshot-compression-and-restore-helpers",
+        "author": "Manoir Yantai",
+        "source": "devto_ai",
+        "published": "Tue, 30 Jun 2026 04:01:38 +0000",
+        "description": "Hermes Memory Installer, a tool for managing memory state in distributed systems, recently added snapshot compression and restore helpers. This feature direc...",
+        "keywords": "snapshot, compression, memory, you, restore, helpers, state, compressed",
+        "generated": "2026-06-30T04:06:54.985036",
+        "file": "hermes-memory-installer-new-snapshot-compression-and-restore-helpers.md"
+    },
+    {
         "title": "Build a Job Market Intelligence Tool with SERP API",
         "slug": "build-a-job-market-intelligence-tool-with-serp-api",
         "author": "LEO o",
@@ -14311,6 +14421,17 @@
         "file": "need-a-break-play-todays-game-from-the-daily-context.md"
     },
     {
+        "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+        "slug": "south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots",
+        "author": "jnord",
+        "source": "hackernews",
+        "published": "Mon, 29 Jun 2026 22:21:00 +0000",
+        "description": "Article URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/ Comments URL: https://news.ycombi...",
+        "keywords": "south, korea, spend, more, memory, chip, production, humanoid",
+        "generated": "2026-06-30T04:06:54.980120",
+        "file": "south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots.md"
+    },
+    {
         "title": "macOS Container Machines",
         "slug": "macos-container-machines",
         "author": "timsneath",
@@ -14597,6 +14718,17 @@
         "file": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot.md"
     },
     {
+        "title": "Stop Writing Python Loops: Vectorization and Broadcasting in NumPy",
+        "slug": "stop-writing-python-loops-vectorization-and-broadcasting-in-numpy",
+        "author": "Shoumik Chakravarty",
+        "source": "devto_python",
+        "published": "Tue, 30 Jun 2026 03:47:39 +0000",
+        "description": "In production systems, the difference between a Python loop and a vectorized NumPy operation isn't academic — it's the difference between a job that finishes...",
+        "keywords": "numpy, array, python, you, broadcasting, one, memory, loop",
+        "generated": "2026-06-30T04:06:54.982311",
+        "file": "stop-writing-python-loops-vectorization-and-broadcasting-in-numpy.md"
+    },
+    {
         "title": "FastAPI vs Flask: Which Should You Choose for Your Next Project?",
         "slug": "fastapi-vs-flask-which-should-you-choose-for-your-next-project",
         "author": "qing",
@@ -14760,6 +14892,17 @@
         "keywords": "banned, book, library, url, https, com, comments, smart",
         "generated": "2026-06-16T05:04:00.735724",
         "file": "banned-book-library-in-a-wi-fi-smart-light-bulb.md"
+    },
+    {
+        "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+        "slug": "open-memory-protocol-one-memory-store-for-claude-chatgpt-curso",
+        "author": "soji_mathew",
+        "source": "hackernews",
+        "published": "Tue, 30 Jun 2026 00:05:33 +0000",
+        "description": "Article URL: https://github.com/SMJAI/open-memory-protocol Comments URL: https://news.ycombinator.com/item?id=48726966 Points: 16 # Comments: 5",
+        "keywords": "memory, open, protocol, url, https, com, comments, one",
+        "generated": "2026-06-30T04:06:54.980007",
+        "file": "open-memory-protocol-one-memory-store-for-claude-chatgpt-curso.md"
     },
     {
         "title": "Financial Projection Tool: Forecast Revenue, Expenses, Profit, and Business Growth Online",
@@ -15774,6 +15917,17 @@
         "file": "when-ai-is-confidently-wrong-whos-responsible.md"
     },
     {
+        "title": "html-to-markdown v3.8.0",
+        "slug": "html-to-markdown-v380",
+        "author": "Khalid Hussein",
+        "source": "devto_webdev",
+        "published": "Tue, 30 Jun 2026 03:58:34 +0000",
+        "description": "TL;DR Package rebrand. Every published identifier moves from kreuzberg -namespaced to xberg -namespaced — npm, Maven, NuGet, Homebrew tap, GitHub org. See th...",
+        "keywords": "html, markdown, xberg, kreuzberg, install, package, node, tap",
+        "generated": "2026-06-30T04:06:54.983862",
+        "file": "html-to-markdown-v380.md"
+    },
+    {
         "title": "Clojure Hosted on Go",
         "slug": "clojure-hosted-on-go",
         "author": "dnlo",
@@ -15915,6 +16069,17 @@
         "keywords": "data, product, you, step, scraping, can, description, web",
         "generated": "2026-06-26T19:58:27.779544",
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
+    },
+    {
+        "title": "Fix WebSocket Tick Data Gaps for Crypto Market Feeds — Production Python Implementation",
+        "slug": "fix-websocket-tick-data-gaps-for-crypto-market-feeds-production-python-implementation",
+        "author": "kelos",
+        "source": "devto_python",
+        "published": "Tue, 30 Jun 2026 03:56:19 +0000",
+        "description": "Introduction When building quantitative research pipelines, backtesting frameworks and live trading data collectors, WebSocket real-time crypto tick streams ...",
+        "keywords": "tick, data, websocket, code, subscription, sequence, symbol, ticks",
+        "generated": "2026-06-30T04:06:54.980936",
+        "file": "fix-websocket-tick-data-gaps-for-crypto-market-feeds-production-python-implementation.md"
     },
     {
         "title": "I built gessi: playful OS-style interfaces with just HTML",
@@ -16322,6 +16487,17 @@
         "keywords": "walt, disney, company, url, https, comments, most, successful",
         "generated": "2026-06-22T20:55:23.242891",
         "file": "walt-disney-company-is-the-most-successful-at-monetizing-human-nostalgia-audio.md"
+    },
+    {
+        "title": "How to Create a CSS Gradient (and Copy Clean Code)",
+        "slug": "how-to-create-a-css-gradient-and-copy-clean-code",
+        "author": "İsmail Aydın",
+        "source": "devto_webdev",
+        "published": "Tue, 30 Jun 2026 03:57:11 +0000",
+        "description": "A flat color is fine, but a well-judged gradient is what makes a hero section, a button, or a card feel finished. The trouble is that hand-writing gradient s...",
+        "keywords": "gradient, you, your, colors, css, code, one, copy",
+        "generated": "2026-06-30T04:06:54.984203",
+        "file": "how-to-create-a-css-gradient-and-copy-clean-code.md"
     },
     {
         "title": "Why I stopped using ChatGPT for code reviews",
@@ -17226,6 +17402,17 @@
         "file": "how-we-built-an-adult-height-predictor-the-math-the-science-and-the-edge-cases.md"
     },
     {
+        "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+        "slug": "longcat-20-a-large-scale-moe-model-with-16t-total-and-48b-active",
+        "author": "benjiro29",
+        "source": "hackernews",
+        "published": "Tue, 30 Jun 2026 00:30:11 +0000",
+        "description": "Article URL: https://longcat.chat/blog/longcat-2.0/ Comments URL: https://news.ycombinator.com/item?id=48727116 Points: 47 # Comments: 12",
+        "keywords": "longcat, url, https, comments, large, scale, moe, model",
+        "generated": "2026-06-30T04:06:54.979871",
+        "file": "longcat-20-a-large-scale-moe-model-with-16t-total-and-48b-active.md"
+    },
+    {
         "title": "BizNode Basic ($200) vs Pro ($499): both run on your hardware with zero recurring costs. One-time purchase, lifetime ownership",
         "slug": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership",
         "author": "shashikanth ramamurthy",
@@ -17301,6 +17488,17 @@
         "keywords": "cape, town, private, https, com, tours, www, your",
         "generated": "2026-06-21T14:23:01.492318",
         "file": "cape-town-private-tours-your-way-city-to-peninsula-to-winelands.md"
+    },
+    {
+        "title": "How to Convert HEIC to JPG Without Uploading Your Photos",
+        "slug": "how-to-convert-heic-to-jpg-without-uploading-your-photos",
+        "author": "İsmail Aydın",
+        "source": "devto_webdev",
+        "published": "Tue, 30 Jun 2026 03:55:15 +0000",
+        "description": "You email a photo from your iPhone, and the person on the other end replies that they can't open it. You drag a picture into an old app or an upload form, an...",
+        "keywords": "heic, jpg, your, you, photo, file, convert, photos",
+        "generated": "2026-06-30T04:06:54.984653",
+        "file": "how-to-convert-heic-to-jpg-without-uploading-your-photos.md"
     },
     {
         "title": "We all depend on open source. We will defend it together",
@@ -18324,6 +18522,17 @@
         "keywords": "function, call, api, message, weather, functions, your, city",
         "generated": "2026-06-29T15:56:39.166441",
         "file": "let-ai-call-your-api-function-calling-tutorial.md"
+    },
+    {
+        "title": "Why We Treat HTML as a CAD Format for PDF (And Why It Works)",
+        "slug": "why-we-treat-html-as-a-cad-format-for-pdf-and-why-it-works",
+        "author": "Bonzai2Carn",
+        "source": "devto_webdev",
+        "published": "Tue, 30 Jun 2026 04:00:00 +0000",
+        "description": "Most PDF-to-HTML tools stop at extraction. You get a dump of text, maybe some tables, and a download HTML button. That's the end of the story. We didn't st...",
+        "keywords": "you, html, edit, pdf, what, element, drag, document",
+        "generated": "2026-06-30T04:06:54.983552",
+        "file": "why-we-treat-html-as-a-cad-format-for-pdf-and-why-it-works.md"
     },
     {
         "title": "Your Pipeline Is 27.5h Behind: Catching Space Sentiment Leads with Pulsebit",
@@ -20260,6 +20469,17 @@
         "keywords": "chunks, question, you, rag, document, text, chunk, answer",
         "generated": "2026-06-20T19:45:32.622514",
         "file": "build-your-first-rag-system-from-scratch-no-frameworks-just-python.md"
+    },
+    {
+        "title": "I Built an AI Coding Agent Toolkit — Here's What 50 Claude Code + Cursor Workflows Taught Me",
+        "slug": "i-built-an-ai-coding-agent-toolkit-heres-what-50-claude-code-cursor-workflows-taught-me",
+        "author": "The AI producer",
+        "source": "devto_ai",
+        "published": "Tue, 30 Jun 2026 03:59:33 +0000",
+        "description": "After 6 months of using AI coding agents daily (Claude Code, Cursor, GitHub Copilot), I distilled everything into a structured toolkit.",
+        "keywords": "coding, toolkit, claude, code, cursor, built, agent, here",
+        "generated": "2026-06-30T04:06:54.986287",
+        "file": "i-built-an-ai-coding-agent-toolkit-heres-what-50-claude-code-cursor-workflows-taught-me.md"
     },
     {
         "title": "Azure cost optimization strategies for 2026",
