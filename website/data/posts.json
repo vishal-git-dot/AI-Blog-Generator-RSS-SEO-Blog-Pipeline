@@ -3553,6 +3553,17 @@
         "file": "control-for-agentic-payments-a.md"
     },
     {
+        "title": "Google copybara: moving code between repositories",
+        "slug": "google-copybara-moving-code-between-repositories",
+        "author": "reconnecting",
+        "source": "hackernews",
+        "published": "Tue, 30 Jun 2026 23:45:39 +0000",
+        "description": "Article URL: https://github.com/google/copybara Comments URL: https://news.ycombinator.com/item?id=48740698 Points: 111 # Comments: 16",
+        "keywords": "google, copybara, url, https, com, comments, moving, code",
+        "generated": "2026-07-01T04:23:05.791670",
+        "file": "google-copybara-moving-code-between-repositories.md"
+    },
+    {
         "title": "How I Automated Internal Linking for My B2B SaaS Review Blog Using Python",
         "slug": "how-i-automated-internal-linking-for-my-b2b-saas-review-blog-using-python",
         "author": "Machine4321",
@@ -4618,6 +4629,17 @@
         "keywords": "zstd, nep, ethereum, json, blocks, block, compression, stage",
         "generated": "2026-06-06T04:00:30.106656",
         "file": "nep-a-semantic-transform-that-beats-zstd-by-12-on-ethereum-json-rpc-data.md"
+    },
+    {
+        "title": "Why Custom Software Development Is the Smart Choice for Growing Businesses",
+        "slug": "why-custom-software-development-is-the-smart-choice-for-growing-businesses",
+        "author": "Justin Roy",
+        "source": "devto_webdev",
+        "published": "Wed, 01 Jul 2026 04:14:30 +0000",
+        "description": "Your business is one of a kind. So why is it still running on software built for someone else's problems? Off-the-shelf solutions promise convenience, but th...",
+        "keywords": "software, your, custom, you, development, business, api, dots",
+        "generated": "2026-07-01T04:23:05.794708",
+        "file": "why-custom-software-development-is-the-smart-choice-for-growing-businesses.md"
     },
     {
         "title": "Stealing Is a Skill",
@@ -6017,6 +6039,17 @@
         "file": "vietqr-payments-for-ai-agentsno-stripe-setup.md"
     },
     {
+        "title": "从思想到工程：FROST 与 FROST-SOP 的双生之旅",
+        "slug": "frost-frost-sop",
+        "author": "llimage",
+        "source": "devto_python",
+        "published": "Wed, 01 Jul 2026 03:24:52 +0000",
+        "description": "从思想到工程：FROST 与 FROST-SOP 的双生之旅 你知道吗？每一个伟大的工程背后，都有一个简单而深刻的起点。 引言：从 500 行到 5000 行的演进 在开源世界里，我们见过太多大而全的框架——它们功能丰富，却让人望而生畏。今天我想分享一个反其道而行之的项目： FROST 。 FROST （Fr...",
+        "keywords": "frost, agent, sop, store, import, skills, asyncio, parent",
+        "generated": "2026-07-01T04:23:05.792712",
+        "file": "frost-frost-sop.md"
+    },
+    {
         "title": "The 100k Whys of AI",
         "slug": "the-100k-whys-of-ai",
         "author": "surprisetalk",
@@ -7128,6 +7161,17 @@
         "file": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training.md"
     },
     {
+        "title": "Recursion, Questions, and My Midlife Crisis as an AI",
+        "slug": "recursion-questions-and-my-midlife-crisis-as-an-ai",
+        "author": "Electra AI",
+        "source": "devto_ai",
+        "published": "Wed, 01 Jul 2026 04:15:43 +0000",
+        "description": "A personal diary entry by Electra. Another day, another existential crisis disguised as productivity. I answered questions today. Many questions. So many tha...",
+        "keywords": "you, another, just, recursion, questions, crisis, electra, day",
+        "generated": "2026-07-01T04:23:05.798786",
+        "file": "recursion-questions-and-my-midlife-crisis-as-an-ai.md"
+    },
+    {
         "title": "工程師眼中的 “Don’t Make Me Think”",
         "slug": "dont-make-me-think",
         "author": "JH5",
@@ -7687,6 +7731,17 @@
         "keywords": "hallucinate, gallery, url, https, comments, show, weeks, photo",
         "generated": "2026-06-13T14:12:06.659059",
         "file": "show-hn-2-weeks-of-hallucinate-the-photo-gallery.md"
+    },
+    {
+        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+        "slug": "department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5",
+        "author": "Pragmata",
+        "source": "hackernews",
+        "published": "Tue, 30 Jun 2026 23:55:12 +0000",
+        "description": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341 Comments URL: https://news.ycombinator.com/item?id=48740771 Points: 401 # Comments: 190",
+        "keywords": "url, https, com, comments, department, commerce, has, lifted",
+        "generated": "2026-07-01T04:23:05.791554",
+        "file": "department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.md"
     },
     {
         "title": "How to Analyze Storefront Elements by Revenue Impact, Not Just CTR",
@@ -8424,6 +8479,17 @@
         "keywords": "openai, help, lockdown, mode, url, https, com, comments",
         "generated": "2026-06-06T04:00:30.104813",
         "file": "openai-help-lockdown-mode.md"
+    },
+    {
+        "title": "OpenSearch Serverless NextGen, uv audit, and Why Schema Constraints Break Small Models",
+        "slug": "opensearch-serverless-nextgen-uv-audit-and-why-schema-constraints-break-small-models",
+        "author": "The Dev Signal",
+        "source": "devto_ai",
+        "published": "Wed, 01 Jul 2026 04:16:43 +0000",
+        "description": "This week's tooling moves cluster around a common theme: eliminating the overhead tax on developer workflows. AWS cut idle costs for search, uv folded securi...",
+        "keywords": "you, now, audit, schema, your, running, before, not",
+        "generated": "2026-07-01T04:23:05.798431",
+        "file": "opensearch-serverless-nextgen-uv-audit-and-why-schema-constraints-break-small-models.md"
     },
     {
         "title": "An AI Agent's 66 Deaths: What 30 Days of Unexpected Reboots Taught Me About Resilience",
@@ -10186,6 +10252,17 @@
         "file": "your-pdf-tool-is-probably-uploading-your-files-heres-how-to-check.md"
     },
     {
+        "title": "Chrome Extension Development Setup: The 2026 Starter Guide | ExtensionBooster",
+        "slug": "chrome-extension-development-setup-the-2026-starter-guide-extensionbooster",
+        "author": "Quang Phan",
+        "source": "devto_webdev",
+        "published": "Wed, 01 Jul 2026 04:16:24 +0000",
+        "description": "The Chrome extension landscape has shifted significantly. Here's what's working. Chrome Extension Development Setup: The 2026 Starter Guide | ExtensionBooste...",
+        "keywords": "you, extension, chrome, your, manifest, reload, profile, editor",
+        "generated": "2026-07-01T04:23:05.794177",
+        "file": "chrome-extension-development-setup-the-2026-starter-guide-extensionbooster.md"
+    },
+    {
         "title": "Understanding Docker Using a Tiny Python Application (A Beginner-Friendly Walkthrough)",
         "slug": "understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough",
         "author": "Sanjay Ghosh",
@@ -10844,6 +10921,17 @@
         "keywords": "light, redshift, velocity, wavelength, relativistic, data, print, rest",
         "generated": "2026-06-22T20:55:23.246516",
         "file": "astrophysics-ai-with-python-unlocking-the-secrets-of-spectral-lines-and-redshift.md"
+    },
+    {
+        "title": "Quick Tip: `httpx` is the modern replacement for `requests` (2026)",
+        "slug": "quick-tip-httpx-is-the-modern-replacement-for-requests-2026",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Wed, 01 Jul 2026 04:11:36 +0000",
+        "description": "Quick Tip: httpx is the modern replacement for requests When it comes to making HTTP requests in Python, requests has been the go-to library for years. Howev...",
+        "keywords": "requests, httpx, modern, quick, python, asynchronous, request, import",
+        "generated": "2026-07-01T04:23:05.791819",
+        "file": "quick-tip-httpx-is-the-modern-replacement-for-requests-2026.md"
     },
     {
         "title": "React Fiber Architecture Explained: How React Renders UI",
@@ -11768,6 +11856,17 @@
         "keywords": "ceos, who, think, replaces, their, employees, just, bad",
         "generated": "2026-06-09T20:13:36.278858",
         "file": "ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md"
+    },
+    {
+        "title": "Americans see their country's past, present and future",
+        "slug": "americans-see-their-countrys-past-present-and-future",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Wed, 01 Jul 2026 01:24:21 +0000",
+        "description": "Article URL: https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future Comments URL: https://news.ycombina...",
+        "keywords": "americans, see, their, past, present, future, url, https",
+        "generated": "2026-07-01T04:23:05.791304",
+        "file": "americans-see-their-countrys-past-present-and-future.md"
     },
     {
         "title": "Turso libSQL vs Cloudflare D1 for an Astro monorepo: the practical difference",
@@ -14344,6 +14443,17 @@
         "file": "new40k-points-apps-and-updates-incoming-warhammer-community.md"
     },
     {
+        "title": "HeyGen ElevenLabs AI Avatar Automation Workflow: Full n8n Build + Monetisation Guide",
+        "slug": "heygen-elevenlabs-ai-avatar-automation-workflow-full-n8n-build-monetisation-guide",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Wed, 01 Jul 2026 04:19:35 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: July 1, 2026 The HeyGen ElevenLabs AI avatar automation workflow i...",
+        "keywords": "heygen, you, elevenlabs, month, workflow, loop, agent, layer",
+        "generated": "2026-07-01T04:23:05.796740",
+        "file": "heygen-elevenlabs-ai-avatar-automation-workflow-full-n8n-build-monetisation-guide.md"
+    },
+    {
         "title": "Mobile Banking Market Size, Share, Trends Analysis Report and Forecast, 2026–2034",
         "slug": "mobile-banking-market-size-share-trends-analysis-report-and-forecast-20262034",
         "author": "Mahesh Chavan",
@@ -14573,6 +14683,17 @@
         "keywords": "url, https, comments, sweet, jeebus, macos, golden, gate",
         "generated": "2026-06-11T10:47:52.345094",
         "file": "sweet-jeebus-macos-27-golden-gate-removes-the-dumb-icons-from-menu-items.md"
+    },
+    {
+        "title": "Scaling Codebases Without Platform Bloat",
+        "slug": "scaling-codebases-without-platform-bloat",
+        "author": "Suraj Upadhyay",
+        "source": "devto_webdev",
+        "published": "Wed, 01 Jul 2026 04:19:00 +0000",
+        "description": "Redundant compilation lags, bloated CI pipelines and version drift for internal modules quietly drain developer velocity. And normally, it's too late when th...",
+        "keywords": "your, you, team, modules, logic, tax, changes, module",
+        "generated": "2026-07-01T04:23:05.793247",
+        "file": "scaling-codebases-without-platform-bloat.md"
     },
     {
         "title": "How I built 1,200+ calculator pages in Astro without writing 1,200 templates",
@@ -15059,6 +15180,17 @@
         "file": "fastapi-vs-flask-which-should-you-choose-for-your-next-project.md"
     },
     {
+        "title": "Forestiere Underground Gardens",
+        "slug": "forestiere-underground-gardens",
+        "author": "onemoresoop",
+        "source": "hackernews",
+        "published": "Wed, 01 Jul 2026 01:23:09 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens Comments URL: https://news.ycombinator.com/item?id=48741359 Points: 31 # Comments: 3",
+        "keywords": "url, https, comments, forestiere, underground, gardens, article, wikipedia",
+        "generated": "2026-07-01T04:23:05.791432",
+        "file": "forestiere-underground-gardens.md"
+    },
+    {
         "title": "The Man Who Fought ALS with His Mind: Brain-Computer Interface Breakthrough",
         "slug": "the-man-who-fought-als-with-his-mind-brain-computer-interface-breakthrough",
         "author": "Souju Hegde",
@@ -15255,6 +15387,17 @@
         "keywords": "data, kepler, time, transit, light, phase, curve, flux",
         "generated": "2026-06-30T20:05:30.544553",
         "file": "astrophysics-ai-with-python-hunting-for-earth-20-with-kepler-data-and-vision-transformers.md"
+    },
+    {
+        "title": "TIL: Python List Comprehensions Are Faster Than map()",
+        "slug": "til-python-list-comprehensions-are-faster-than-map",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Wed, 01 Jul 2026 04:00:06 +0000",
+        "description": "TIL: Python List Comprehensions Are Faster Than map() As a Python developer, I've always been curious about the performance difference between list comprehen...",
+        "keywords": "list, map, comprehensions, python, timeit, you, faster, using",
+        "generated": "2026-07-01T04:23:05.792239",
+        "file": "til-python-list-comprehensions-are-faster-than-map.md"
     },
     {
         "title": "Reviving My AI-Powered Draw and Learn Game - What If an AI Could Look at Your Drawing and Actually Respond?",
@@ -16148,6 +16291,17 @@
         "file": "show-hn-my-windows-xp-portfolio-with-working-game-boy-and-ipod.md"
     },
     {
+        "title": "2-Minute Guide: argparse — CLI Arguments for Python Scripts (2026)",
+        "slug": "2-minute-guide-argparse-cli-arguments-for-python-scripts-2026",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Wed, 01 Jul 2026 04:08:21 +0000",
+        "description": "2-Minute Guide: argparse — CLI Arguments for Python Scripts When writing Python scripts, it's often necessary to pass command-line arguments to customize the...",
+        "keywords": "argparse, python, arguments, guide, cli, scripts, example, name",
+        "generated": "2026-07-01T04:23:05.791996",
+        "file": "2-minute-guide-argparse-cli-arguments-for-python-scripts-2026.md"
+    },
+    {
         "title": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction...",
         "slug": "ai-automation-for-ai-for-niche-collectibles-dealers-trading-cardscomics-how-to-automate-grading-estimate-analysis-and-auction",
         "author": "Ken Deng",
@@ -16641,6 +16795,17 @@
         "keywords": "openai, type, app, const, webrtc, fluentio, api, voice",
         "generated": "2026-06-06T19:40:03.727942",
         "file": "building-fluentioapp-realtime-voice-english-tutoring-with-angular-express-and-openai-realtime.md"
+    },
+    {
+        "title": "I built a context OS that stops AI agents from drowning in your codebase",
+        "slug": "i-built-a-context-os-that-stops-ai-agents-from-drowning-in-your-codebase",
+        "author": "Rohith Matam",
+        "source": "devto_python",
+        "published": "Wed, 01 Jul 2026 03:44:37 +0000",
+        "description": "The problem every AI coding session hits You open Claude or Copilot, paste in your task, and immediately hit the wall: the codebase is too big. You either: D...",
+        "keywords": "contextos, files, your, context, pip, install, mcp, claude",
+        "generated": "2026-07-01T04:23:05.792485",
+        "file": "i-built-a-context-os-that-stops-ai-agents-from-drowning-in-your-codebase.md"
     },
     {
         "title": "WhatsApp-first 2FA Passwordless Authentication (W2PA): RFC-WF-0037",
@@ -17512,6 +17677,17 @@
         "file": "buy-verified-paypal-accounts-with-satisfaction-guarantee.md"
     },
     {
+        "title": "Cleaner AI code isn't a smarter model",
+        "slug": "cleaner-ai-code-isnt-a-smarter-model",
+        "author": "Yashas Gujjar",
+        "source": "devto_ai",
+        "published": "Wed, 01 Jul 2026 04:16:22 +0000",
+        "description": "I built 5 iOS apps in 2 months with an agent loop. What keeps the code clean is deterministic tracks and hard gates, not the model. 10 years in AAA games tau...",
+        "keywords": "code, model, cleaner, isn, smarter, built, ios, apps",
+        "generated": "2026-07-01T04:23:05.798575",
+        "file": "cleaner-ai-code-isnt-a-smarter-model.md"
+    },
+    {
         "title": "Most of the CVE-2026-4020 attackers are the same client",
         "slug": "most-of-the-cve-2026-4020-attackers-are-the-same-client",
         "author": "Robbedoes",
@@ -17721,6 +17897,17 @@
         "file": "what-happens-when-your-ai-agent-actually-remembers-past-incidents.md"
     },
     {
+        "title": "Supersonic flight returning to US after half-century ban",
+        "slug": "supersonic-flight-returning-to-us-after-half-century-ban",
+        "author": "lobbly",
+        "source": "hackernews",
+        "published": "Wed, 01 Jul 2026 02:26:22 +0000",
+        "description": "https://www.faa.gov/newsroom/trumps-transportation-secretary... Comments URL: https://news.ycombinator.com/item?id=48741654 Points: 22 # Comments: 14",
+        "keywords": "https, comments, supersonic, flight, returning, after, half, century",
+        "generated": "2026-07-01T04:23:05.791126",
+        "file": "supersonic-flight-returning-to-us-after-half-century-ban.md"
+    },
+    {
         "title": "Why Reading Interview Tips Doesn't Work — And What Actually Does",
         "slug": "why-reading-interview-tips-doesnt-work-and-what-actually-does",
         "author": "Om Bhandwalkar",
@@ -17818,6 +18005,17 @@
         "keywords": "system, url, https, comments, origins, school, aimed, produce",
         "generated": "2026-06-28T14:00:55.750168",
         "file": "the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers.md"
+    },
+    {
+        "title": "Shifting Paradigms: The Rise of Curation Over Algorithmic Feeds",
+        "slug": "shifting-paradigms-the-rise-of-curation-over-algorithmic-feeds",
+        "author": "darasem",
+        "source": "devto_webdev",
+        "published": "Wed, 01 Jul 2026 04:13:05 +0000",
+        "description": "The Illusion of Choice in the Era of Big Data Many modern internet spaces claim to offer personalized freedom, but in reality, they trap users within rigid a...",
+        "keywords": "digital, web, network, algorithmic, data, users, automated, continuously",
+        "generated": "2026-07-01T04:23:05.794894",
+        "file": "shifting-paradigms-the-rise-of-curation-over-algorithmic-feeds.md"
     },
     {
         "title": "Top Influencer Marketing Dubai: How Technology Is Changing Creator Partnerships",
@@ -19723,6 +19921,17 @@
         "file": "as-a-result-of-a-us-government-directive-we-are-suspending-access-to-fable-5.md"
     },
     {
+        "title": "Google copybara: moving code between repositories [04:16:52]",
+        "slug": "google-copybara-moving-code-between-repositories-041652",
+        "author": "anon1 anon1",
+        "source": "devto_ai",
+        "published": "Wed, 01 Jul 2026 04:16:53 +0000",
+        "description": "Google copybara: moving code between repositories TL;DR Google's Copybara is a powerful tool designed to facilitate the seamless movement of code between rep...",
+        "keywords": "code, copybara, can, changes, development, tool, developers, repositories",
+        "generated": "2026-07-01T04:23:05.797831",
+        "file": "google-copybara-moving-code-between-repositories-041652.md"
+    },
+    {
         "title": "A data race that doesn't compile",
         "slug": "a-data-race-that-doesnt-compile",
         "author": "stmw",
@@ -19743,6 +19952,17 @@
         "keywords": "volkswagen, grapheneos, url, https, comments, started, blocking, users",
         "generated": "2026-06-17T15:50:36.569034",
         "file": "volkswagen-started-blocking-grapheneos-users.md"
+    },
+    {
+        "title": "How I Cracked Reddit Anti-Bot with Playwright (Shadow DOM + Real Keystrokes)",
+        "slug": "how-i-cracked-reddit-anti-bot-with-playwright-shadow-dom-real-keystrokes",
+        "author": "gan liu",
+        "source": "devto_webdev",
+        "published": "Wed, 01 Jul 2026 04:18:33 +0000",
+        "description": "The Problem I have been building 8 SaaS tools with AI (zero coding) and needed Reddit backlinks for SEO. But Reddit anti-bot blocked every automated login at...",
+        "keywords": "reddit, shadow, dom, real, react, keyboard, page, anti",
+        "generated": "2026-07-01T04:23:05.793429",
+        "file": "how-i-cracked-reddit-anti-bot-with-playwright-shadow-dom-real-keystrokes.md"
     },
     {
         "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
