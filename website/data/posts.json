@@ -737,6 +737,17 @@
         "file": "i-connected-oracles-managed-mcp-server-to-ai-chat-clients-heres-what-actually-worked.md"
     },
     {
+        "title": "Structural Isolation: Shielding Personal Device Metrics from Network Scrapers",
+        "slug": "structural-isolation-shielding-personal-device-metrics-from-network-scrapers",
+        "author": "darasem",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 09:14:26 +0000",
+        "description": "The Commercial Monetization of Unprotected Browser Telemetry Every modern network interaction leaves behind a persistent trail of device metadata, from scree...",
+        "keywords": "device, personal, network, browser, every, hardware, users, without",
+        "generated": "2026-07-02T09:22:43.956414",
+        "file": "structural-isolation-shielding-personal-device-metrics-from-network-scrapers.md"
+    },
+    {
         "title": "Smart Development: Building with Autonomous Agentic AI",
         "slug": "smart-development-building-with-autonomous-agentic-ai",
         "author": "Chandana Pathirage",
@@ -1837,6 +1848,17 @@
         "file": "best-3-sites-to-buy-edu-emails-accounts-for-student.md"
     },
     {
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "slug": "kimi-k27-code-is-generally-available-in-github-copilot",
+        "author": "unliftedq",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 04:32:41 +0000",
+        "description": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=487566...",
+        "keywords": "github, kimi, available, copilot, url, https, comments, code",
+        "generated": "2026-07-02T09:22:43.951862",
+        "file": "kimi-k27-code-is-generally-available-in-github-copilot.md"
+    },
+    {
         "title": "Deploying Jina Serve Open-Source Neural Search and AI Serving Framework on Ubuntu 24.04",
         "slug": "deploying-jina-serve-open-source-neural-search-and-ai-serving-framework-on-ubuntu-2404",
         "author": "Sanskriti Harmukh",
@@ -2308,6 +2330,17 @@
         "keywords": "user, index, date, find, mongodb, indexes, aarthi, type",
         "generated": "2026-06-24T09:40:50.189672",
         "file": "mongodb-indexes-finally-clicked-for-me-understanding-indexes-compound-indexes-the-prefix-rule.md"
+    },
+    {
+        "title": "Why SQLite is Perfect for Edge Device Data Logging",
+        "slug": "why-sqlite-is-perfect-for-edge-device-data-logging",
+        "author": "Supun Sriyananda",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 08:57:42 +0000",
+        "description": "Most embedded Linux projects do not need a database server. They need something that stores data reliably when the network is down, survives a power cut, doe...",
+        "keywords": "conn, not, you, execute, rows, synced, thread, timestamp",
+        "generated": "2026-07-02T09:22:43.953343",
+        "file": "why-sqlite-is-perfect-for-edge-device-data-logging.md"
     },
     {
         "title": "Building a Multi-Agent Legal Research Pipeline with Live Source Verification",
@@ -3364,6 +3397,17 @@
         "keywords": "test, mirror, not, code, one, tests, suite, you",
         "generated": "2026-06-22T20:55:23.245029",
         "file": "audit-ai-generated-tests-half-of-green-ci-proves-nothing.md"
+    },
+    {
+        "title": "CursorBench 3.1",
+        "slug": "cursorbench-31",
+        "author": "handfuloflight",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 05:19:34 +0000",
+        "description": "Article URL: https://cursor.com/evals Comments URL: https://news.ycombinator.com/item?id=48756840 Points: 56 # Comments: 36",
+        "keywords": "url, https, com, comments, cursorbench, article, cursor, evals",
+        "generated": "2026-07-02T09:22:43.951740",
+        "file": "cursorbench-31.md"
     },
     {
         "title": "French physicist and media star loses doctorate after plagiarism investigation",
@@ -7029,6 +7073,17 @@
         "file": "give-your-codebase-a-constitution.md"
     },
     {
+        "title": "The Fall of the Theorem Economy",
+        "slug": "the-fall-of-the-theorem-economy",
+        "author": "varjag",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 08:01:15 +0000",
+        "description": "Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy Comments URL: https://news.ycombinator.com/item?id=48758048 Points: 10 # Comm...",
+        "keywords": "fall, theorem, economy, url, https, com, comments, article",
+        "generated": "2026-07-02T09:22:43.951613",
+        "file": "the-fall-of-the-theorem-economy.md"
+    },
+    {
         "title": "How I Cut LLM API Costs by 60% With 2 Lines of Code",
         "slug": "how-i-cut-llm-api-costs-by-60-with-2-lines-of-code",
         "author": "Emmanuel Ekunsumi",
@@ -8206,6 +8261,17 @@
         "file": "i-built-an-autonomous-pr-review-agent-that-runs-247-on-my-github.md"
     },
     {
+        "title": "Eeg Headband Consumer — nirasynth.ai Jul 2026",
+        "slug": "eeg-headband-consumer-nirasynthai-jul-2026",
+        "author": "NIRA Synth",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 09:16:35 +0000",
+        "description": "Eeg Headband Consumer: A Professional's Guide For anyone serious about EEG headband consumer, finding the right resources is the difference between good and ...",
+        "keywords": "eeg, headband, consumer, professional, tdcs, software, nirasynth, neurostimulation",
+        "generated": "2026-07-02T09:22:43.957843",
+        "file": "eeg-headband-consumer-nirasynthai-jul-2026.md"
+    },
+    {
         "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
         "slug": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
         "author": "raffael_de",
@@ -9240,6 +9306,17 @@
         "file": "cmo-corrijo-30-exmenes-en-20-minutos-con-ia-y-lo-que-sigo-haciendo-yo.md"
     },
     {
+        "title": "Lost Luggage, Found Fast: The Tech Behind Smart NFC Travel Tags",
+        "slug": "lost-luggage-found-fast-the-tech-behind-smart-nfc-travel-tags",
+        "author": "Profile Tap",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 09:15:36 +0000",
+        "description": "Imagine a small tag on your bag. Someone finds it, taps it with their phone (NFC) or scans the QR code, and instantly sees a secure digital travel profile — ...",
+        "keywords": "nfc, travel, tag, without, smart, tags, your, profile",
+        "generated": "2026-07-02T09:22:43.956231",
+        "file": "lost-luggage-found-fast-the-tech-behind-smart-nfc-travel-tags.md"
+    },
+    {
         "title": "The early hiring funnel is now breaking on both ends",
         "slug": "the-early-hiring-funnel-is-now-breaking-on-both-ends",
         "author": "ChrisArchitect",
@@ -10228,6 +10305,17 @@
         "keywords": "step, you, agent, model, reliability, chain, steps, they",
         "generated": "2026-06-25T09:33:20.211738",
         "file": "why-ai-agents-fail-in-production-the-reliability-math.md"
+    },
+    {
+        "title": "Learn Python with Claude in 2026: build real skills, not AI dependency",
+        "slug": "learn-python-with-claude-in-2026-build-real-skills-not-ai-dependency",
+        "author": "Odilon HUGONNOT",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 09:00:02 +0000",
+        "description": "A junior colleague showed me his Python code last week. Clean, well-structured, type hints everywhere, impeccable docstrings. I asked him why he used a defau...",
+        "keywords": "you, claude, your, code, not, why, write, python",
+        "generated": "2026-07-02T09:22:43.952708",
+        "file": "learn-python-with-claude-in-2026-build-real-skills-not-ai-dependency.md"
     },
     {
         "title": "The $4,800/month API Lock-in I'd Undo: A Fractional CTO's Audit Checklist",
@@ -12969,6 +13057,17 @@
         "file": "geminicli-security-extensions-review-codex.md"
     },
     {
+        "title": "In this age of artificial intelligence, is cybersecurity destined to remain the same, or will it no longer be able to protect us?",
+        "slug": "in-this-age-of-artificial-intelligence-is-cybersecurity-destined-to-remain-the-same-or-will-it-no-longer-be-able-to-protect-us",
+        "author": "Ben Falik",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 09:14:26 +0000",
+        "description": "That’s an excellent question. In this age of AI, it’s clear that the major cybersecurity firms are powerless against future attacks by AI agents. Anthropic’s...",
+        "keywords": "system, age, cybersecurity, remain, future, attacks, mythos, has",
+        "generated": "2026-07-02T09:22:43.958674",
+        "file": "in-this-age-of-artificial-intelligence-is-cybersecurity-destined-to-remain-the-same-or-will-it-no-longer-be-able-to-protect-us.md"
+    },
+    {
         "title": "Revolutionary Breakthrough: Play Half-Life 2 FULLY in Your Browser - No Downloads, No Hassle!",
         "slug": "revolutionary-breakthrough-play-half-life-2-fully-in-your-browser-no-downloads-no-hassle",
         "author": "Suraj Yadav",
@@ -13231,6 +13330,17 @@
         "keywords": "erp, manufacturing, production, management, software, inventory, manufacturers, business",
         "generated": "2026-06-17T04:47:02.510775",
         "file": "erp-software-for-manufacturing-key-features-every-business-should-look-for.md"
+    },
+    {
+        "title": "How to Use Google Search Results as Context for RAG Applications",
+        "slug": "how-to-use-google-search-results-as-context-for-rag-applications",
+        "author": "Cecilia Hill",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 08:46:00 +0000",
+        "description": "RAG usually starts with documents. PDFs. Help center pages. Notion exports. Internal docs. Database records. Knowledge base articles. That works well when th...",
+        "keywords": "search, results, not, result, return, value, google, url",
+        "generated": "2026-07-02T09:22:43.954802",
+        "file": "how-to-use-google-search-results-as-context-for-rag-applications.md"
     },
     {
         "title": "I Rebuilt the Cmd-K Command Palette in ~60 Lines of JavaScript",
@@ -13717,6 +13827,17 @@
         "file": "obscura-rust-headless-browser-for-ai-agents-14000-stars-30mb-memory-85ms-load-setup-guide-2026.md"
     },
     {
+        "title": "Google loses fight over record $4.7B EU antitrust fine",
+        "slug": "google-loses-fight-over-record-47b-eu-antitrust-fine",
+        "author": "boshomi",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 08:34:13 +0000",
+        "description": "Article URL: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html Comments URL: https://news.ycombinator.co...",
+        "keywords": "google, antitrust, fine, url, https, com, comments, loses",
+        "generated": "2026-07-02T09:22:43.951277",
+        "file": "google-loses-fight-over-record-47b-eu-antitrust-fine.md"
+    },
+    {
         "title": "Ornith 1.0: The Open-Source Coding Model Developers Should Watch Closely",
         "slug": "ornith-10-the-open-source-coding-model-developers-should-watch-closely",
         "author": "Jenuel Oras Ganawed",
@@ -14069,6 +14190,17 @@
         "file": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents.md"
     },
     {
+        "title": "We Don't Have to Be This Bad at Improving Society",
+        "slug": "we-dont-have-to-be-this-bad-at-improving-society",
+        "author": "juunge",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 08:26:09 +0000",
+        "description": "Article URL: https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/ Comments URL: https://news.ycombinator.com/item?id=48758242 Point...",
+        "keywords": "have, bad, improving, society, url, https, com, comments",
+        "generated": "2026-07-02T09:22:43.951457",
+        "file": "we-dont-have-to-be-this-bad-at-improving-society.md"
+    },
+    {
         "title": "How to add uptime monitoring to your Python Flask app (free, multi-region)",
         "slug": "how-to-add-uptime-monitoring-to-your-python-flask-app-free-multi-region",
         "author": "Vigilmon",
@@ -14353,6 +14485,17 @@
         "keywords": "pdf, url, https, com, comments, mag, starting, underperform",
         "generated": "2026-06-29T15:56:39.162751",
         "file": "mag-7-starting-to-underperform-pdf.md"
+    },
+    {
+        "title": "Emergency Medical Services Market Size, Share & Trends Analysis Report, 2026–2034",
+        "slug": "emergency-medical-services-market-size-share-trends-analysis-report-20262034",
+        "author": "Mahesh Chavan",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 09:16:55 +0000",
+        "description": "The global emergency medical services (EMS) market is experiencing steady growth as healthcare systems worldwide strengthen emergency response capabilities t...",
+        "keywords": "emergency, market, medical, healthcare, services, growth, systems, ambulance",
+        "generated": "2026-07-02T09:22:43.956000",
+        "file": "emergency-medical-services-market-size-share-trends-analysis-report-20262034.md"
     },
     {
         "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
@@ -15477,6 +15620,17 @@
         "file": "the-best-bpo-partner-is-not-always-the-biggest-one.md"
     },
     {
+        "title": "Iris Recognition Market Growth, Size, Share, Trends & Forecast, 2026–2034",
+        "slug": "iris-recognition-market-growth-size-share-trends-forecast-20262034",
+        "author": "Mahesh Chavan",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 09:10:18 +0000",
+        "description": "The global iris recognition market is witnessing robust growth as organizations across industries strengthen identity verification systems to combat cyber th...",
+        "keywords": "market, iris, biometric, recognition, identity, authentication, growth, across",
+        "generated": "2026-07-02T09:22:43.956920",
+        "file": "iris-recognition-market-growth-size-share-trends-forecast-20262034.md"
+    },
+    {
         "title": "Changing How We Develop Ladybird",
         "slug": "changing-how-we-develop-ladybird",
         "author": "EdwinHoksberg",
@@ -16060,6 +16214,17 @@
         "file": "ai-income-engine-912-how-to-use-lm-studio-to-run-ai-agents-locally-for-free.md"
     },
     {
+        "title": "Neurofeedback For Focus — nirasynth.ai Jul 2026",
+        "slug": "neurofeedback-for-focus-nirasynthai-jul-2026",
+        "author": "NIRA Synth",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 09:16:29 +0000",
+        "description": "Neurofeedback For Focus: A Professional's Guide If you've been frustrated with lack of real-time adaptation, you're not alone. The gap between average and pr...",
+        "keywords": "neurofeedback, focus, you, tech, professional, health, brain, enhancement",
+        "generated": "2026-07-02T09:22:43.958044",
+        "file": "neurofeedback-for-focus-nirasynthai-jul-2026.md"
+    },
+    {
         "title": "Travel Locally, Where You Are",
         "slug": "travel-locally-where-you-are",
         "author": "zazuke",
@@ -16245,6 +16410,17 @@
         "keywords": "you, workflow, model, context, what, not, step, can",
         "generated": "2026-06-15T21:11:31.718000",
         "file": "why-most-ai-workflow-apps-fail.md"
+    },
+    {
+        "title": "Hrv Training Biofeedback — nirasynth.ai Jul 2026",
+        "slug": "hrv-training-biofeedback-nirasynthai-jul-2026",
+        "author": "NIRA Synth",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 09:17:02 +0000",
+        "description": "Hrv Training Biofeedback: A Professional's Guide For anyone serious about HRV training biofeedback, finding the right resources is the difference between goo...",
+        "keywords": "hrv, biofeedback, training, nirasynth, you, resources, clinicians, researchers",
+        "generated": "2026-07-02T09:22:43.957630",
+        "file": "hrv-training-biofeedback-nirasynthai-jul-2026.md"
     },
     {
         "title": "I built a link preview API on Cloudflare Workers — and learned KV is not a counter",
@@ -16586,6 +16762,17 @@
         "keywords": "binance, verified, account, level, your, withdrawal, limit, verification",
         "generated": "2026-06-24T14:43:41.339993",
         "file": "buy-verified-binance-account.md"
+    },
+    {
+        "title": "Why Your Brand Might Be Invisible to ChatGPT, Gemini, and Claude",
+        "slug": "why-your-brand-might-be-invisible-to-chatgpt-gemini-and-claude",
+        "author": "Efe şar",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 09:15:42 +0000",
+        "description": "Why Your Brand Might Be Invisible to ChatGPT, Gemini, and Claude You've done the SEO work. You rank on page one. Your content is solid. But when someone asks...",
+        "keywords": "your, you, brand, content, seo, training, when, how",
+        "generated": "2026-07-02T09:22:43.958462",
+        "file": "why-your-brand-might-be-invisible-to-chatgpt-gemini-and-claude.md"
     },
     {
         "title": "Top Choice for Buy Verified PayPal Accounts",
@@ -17147,6 +17334,17 @@
         "keywords": "https, scrollprize, pdf, com, comments, entire, herculaneum, scroll",
         "generated": "2026-06-25T20:09:21.017954",
         "file": "an-entire-herculaneum-scroll-has-been-read-for-the-first-time.md"
+    },
+    {
+        "title": "150+ Python Interview Questions I Wish I Had Before My FAANG Interview (Free Preview Inside)",
+        "slug": "150-python-interview-questions-i-wish-i-had-before-my-faang-interview-free-preview-inside",
+        "author": "The AI producer",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 08:40:38 +0000",
+        "description": "I spent 3 months preparing for Python developer interviews. The biggest problem? Most resources give you toy problems that never appear in real interviews. S...",
+        "keywords": "python, questions, you, what, import, threading, fastapi, interview",
+        "generated": "2026-07-02T09:22:43.955168",
+        "file": "150-python-interview-questions-i-wish-i-had-before-my-faang-interview-free-preview-inside.md"
     },
     {
         "title": "Best USA Websites to Buy Old Yahoo Accounts Safely",
@@ -20130,6 +20328,17 @@
         "file": "your-pipeline-is-130h-behind-catching-travel-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "In-Depth Analysis: The Challenges of EU Age Verifi…",
+        "slug": "in-depth-analysis-the-challenges-of-eu-age-verifi",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 09:06:05 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the technical intricacies of EU age verification systems and their implications for web development ...",
+        "keywords": "age, verification, systems, user, content, compliance, your, their",
+        "generated": "2026-07-02T09:22:43.957389",
+        "file": "in-depth-analysis-the-challenges-of-eu-age-verifi.md"
+    },
+    {
         "title": "Project for Hackathon",
         "slug": "project-for-hackathon",
         "author": "Shani Prajapati",
@@ -21866,6 +22075,17 @@
         "keywords": "developers, engineering, workflows, why, systems, software, coding, technical",
         "generated": "2026-06-16T05:04:00.738293",
         "file": "12-best-ai-tools-for-software-developers-in-2026-to-code-faster-and-learn-smarter.md"
+    },
+    {
+        "title": "🧩How we built a Telegram automation system using Make,Nation,Webhooks,and Payhip",
+        "slug": "how-we-built-a-telegram-automation-system-using-makenationwebhooksand-payhip",
+        "author": "Eva",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 08:38:07 +0000",
+        "description": "✍️In this post,I want to break down a simple automation system we built for handling digital product sales automatically. The goal was to remove manual work ...",
+        "keywords": "system, automation, telegram, make, delivery, notion, built, payhip",
+        "generated": "2026-07-02T09:22:43.955449",
+        "file": "how-we-built-a-telegram-automation-system-using-makenationwebhooksand-payhip.md"
     },
     {
         "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
