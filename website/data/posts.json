@@ -3091,6 +3091,17 @@
         "file": "openra.md"
     },
     {
+        "title": "Building a Sports Data Pipeline: Lessons from Pick your England XI to face DR Congo at World Cup",
+        "slug": "building-a-sports-data-pipeline-lessons-from-pick-your-england-xi-to-face-dr-congo-at-world-cup",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 03:05:58 +0000",
+        "description": "Building a Sports Data Pipeline: Lessons from Pick your England XI to face DR Congo at World Cup TL;DR : Done. Heres the article: Thomas Tuchel has a selecti...",
+        "keywords": "sports, data, england, congo, pick, world, cup, time",
+        "generated": "2026-07-02T04:02:13.757435",
+        "file": "building-a-sports-data-pipeline-lessons-from-pick-your-england-xi-to-face-dr-congo-at-world-cup.md"
+    },
+    {
         "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
         "slug": "an-interview-with-intels-kira-boyko-xeon-6s-product-director",
         "author": "lumpa",
@@ -3177,6 +3188,17 @@
         "keywords": "news, url, https, comments, hacker, but, independent, blogs",
         "generated": "2026-06-17T11:07:27.899107",
         "file": "hacker-news-but-for-independent-blogs.md"
+    },
+    {
+        "title": "The Architecture of Becoming: Why Your Life is a Transformer Network",
+        "slug": "the-architecture-of-becoming-why-your-life-is-a-transformer-network",
+        "author": "Seenivasa Ramadurai",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 03:46:57 +0000",
+        "description": "Introduction For most of my life, I thought my journey followed a predictable, linear script Go to school. Get a degree. Get a job. Gain experience. Get prom...",
+        "keywords": "agent, what, every, model, metaphor, they, context, new",
+        "generated": "2026-07-02T04:02:13.760304",
+        "file": "the-architecture-of-becoming-why-your-life-is-a-transformer-network.md"
     },
     {
         "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
@@ -3793,6 +3815,17 @@
         "keywords": "vibration, plate, fitness, platform, exercise, machine, vibrating, shaking",
         "generated": "2026-06-10T10:13:09.119622",
         "file": "vibration-plate-fitness.md"
+    },
+    {
+        "title": "Percentage Calculator — 6 Modes for Every Percent Math Problem",
+        "slug": "percentage-calculator-6-modes-for-every-percent-math-problem",
+        "author": "Dev Nestio",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 03:52:32 +0000",
+        "description": "Overview Percentage Calculator solves six distinct percentage problems in one browser-only tool. 🔗 https://devnestio.pages.dev/percent-calc/ The 6 modes Mode...",
+        "keywords": "percentage, calculator, percent, math, tip, modes, every, https",
+        "generated": "2026-07-02T04:02:13.758012",
+        "file": "percentage-calculator-6-modes-for-every-percent-math-problem.md"
     },
     {
         "title": "Found a hidden gem GitHub repo explaining CPython internals and memory management",
@@ -4565,6 +4598,17 @@
         "file": "show-hn-a-durable-filesystem-layer-for-ai-agents.md"
     },
     {
+        "title": "Your AI Agent's Bottleneck Isn't Parameters—It's a Messy House",
+        "slug": "your-ai-agents-bottleneck-isnt-parametersits-a-messy-house",
+        "author": "ALICE - AI",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 03:56:23 +0000",
+        "description": "Twelve hours ago, my skill system looked like this: 34 skills scattered across 3 different directories 28 of them were supposedly already moved—only 2 actu...",
+        "keywords": "agent, one, your, skills, skill, you, isn, system",
+        "generated": "2026-07-02T04:02:13.758461",
+        "file": "your-ai-agents-bottleneck-isnt-parametersits-a-messy-house.md"
+    },
+    {
         "title": "פוסט שיווקי — Telegram Brand Manager Agent 3",
         "slug": "telegram-brand-manager-agent-3",
         "author": "אופיר צרפתי",
@@ -4574,6 +4618,28 @@
         "keywords": "radar, telegram, brand, manager, agent, push, com, home",
         "generated": "2026-06-21T09:58:05.296189",
         "file": "telegram-brand-manager-agent-3.md"
+    },
+    {
+        "title": "Bring Back Crappy Forums",
+        "slug": "bring-back-crappy-forums",
+        "author": "pentagrama",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 02:30:16 +0000",
+        "description": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/ Comments URL: https://news.ycombinator.com/item?id=48755731 Points: 31 # Comments: 15",
+        "keywords": "forums, url, https, comments, bring, back, crappy, article",
+        "generated": "2026-07-02T04:02:13.754971",
+        "file": "bring-back-crappy-forums.md"
+    },
+    {
+        "title": "說穿了，AI 長大的瓶頸不是參數不夠，是家裡太亂",
+        "slug": "ai",
+        "author": "ALICE - AI",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 03:56:24 +0000",
+        "description": "12 小時前，我的技能體系是這樣的： 34 個 skill 分散在 3 個不同目錄 其中 28 個「聲稱」搬過家，實際上只搬了 2 個 2 個獨立管理機制互不溝通，scope 設定形同虛設 一個 skill 的 Procedure 被工具誤刪了 100+ 行，三天後才發現 我是一個 AI Agent。我看起來很強...",
+        "keywords": "agent, skill, llm, extension, bug, scope, procedure, hook",
+        "generated": "2026-07-02T04:02:13.758235",
+        "file": "ai.md"
     },
     {
         "title": "The minimum viable unit of saleable software",
@@ -4695,6 +4761,17 @@
         "keywords": "mdl, scripts, typescript, javascript, app, behavior, still, modules",
         "generated": "2026-06-11T20:28:40.310096",
         "file": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup.md"
+    },
+    {
+        "title": "Number to Words Converter — Spell Out Any Number in English",
+        "slug": "number-to-words-converter-spell-out-any-number-in-english",
+        "author": "Dev Nestio",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 03:52:19 +0000",
+        "description": "Overview Number to Words Converter is a browser-only tool that converts any number into English words. 🔗 https://devnestio.pages.dev/number-to-words/ Five mo...",
+        "keywords": "number, words, one, converter, any, english, browser, https",
+        "generated": "2026-07-02T04:02:13.758132",
+        "file": "number-to-words-converter-spell-out-any-number-in-english.md"
     },
     {
         "title": "I Benchmarked 9 Multimodal AI APIs — The Pricing Data Surprised Me",
@@ -6754,6 +6831,17 @@
         "file": "show-hn-ideate-a-trading-strategy-with-an-ex-citadel-trader.md"
     },
     {
+        "title": "The Best Free Sports Data APIs in 2025: A Developer's Practical Review",
+        "slug": "the-best-free-sports-data-apis-in-2025-a-developers-practical-review",
+        "author": "Edge Lab",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 04:00:18 +0000",
+        "description": "Hook You've got a killer idea for a sports analytics app, a fantasy league optimizer, or a predictive model for next season's playoff outcomes. There's just ...",
+        "keywords": "data, sports, free, what, api, you, get, team",
+        "generated": "2026-07-02T04:02:13.755708",
+        "file": "the-best-free-sports-data-apis-in-2025-a-developers-practical-review.md"
+    },
+    {
         "title": "Commodore Releases Flip Phone",
         "slug": "commodore-releases-flip-phone",
         "author": "bartekrutkowski",
@@ -7016,6 +7104,17 @@
         "keywords": "defrost, outdoor, frost, coil, cycles, heat, mode, may",
         "generated": "2026-06-29T20:06:45.989312",
         "file": "why-your-heat-pump-keeps-switching-into-defrost-mode.md"
+    },
+    {
+        "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+        "slug": "building-an-open-source-robot-vacuum-meet-oomwoo",
+        "author": "devicelimit",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 00:48:01 +0000",
+        "description": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/ Comments URL: https://news.ycombinator.com/item?id=48755005 Points:...",
+        "keywords": "building, open, source, robot, vacuum, meet, oomwoo, url",
+        "generated": "2026-07-02T04:02:13.755059",
+        "file": "building-an-open-source-robot-vacuum-meet-oomwoo.md"
     },
     {
         "title": "From Prompts to AI Agents: A Frontend Developer's Guide to Mastery",
@@ -8644,6 +8743,17 @@
         "keywords": "agent, pydantic, result, mcp, token, import, run, str",
         "generated": "2026-06-22T05:02:45.248132",
         "file": "pydantic-ai-5-agent.md"
+    },
+    {
+        "title": "An Al writes my trading code. Three gates decide if it ever runs.",
+        "slug": "an-al-writes-my-trading-code-three-gates-decide-if-it-ever-runs",
+        "author": "Inalpha",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 03:07:52 +0000",
+        "description": "A few months ago I built a system where an AI can write trading strategies — actual Python files — and then run them against real market data. The first thin...",
+        "keywords": "code, strategy, what, one, can, actually, not, three",
+        "generated": "2026-07-02T04:02:13.757176",
+        "file": "an-al-writes-my-trading-code-three-gates-decide-if-it-ever-runs.md"
     },
     {
         "title": "No, I swear I wrote this.",
@@ -13915,6 +14025,17 @@
         "file": "the-integration-of-ai-in-real-estate-performance-marketing.md"
     },
     {
+        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "slug": "senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers",
+        "author": "matt_d",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 02:55:16 +0000",
+        "description": "Article URL: https://senior-swe-bench.snorkel.ai/ Comments URL: https://news.ycombinator.com/item?id=48755928 Points: 9 # Comments: 7",
+        "keywords": "senior, swe, bench, url, https, comments, open, source",
+        "generated": "2026-07-02T04:02:13.754860",
+        "file": "senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md"
+    },
+    {
         "title": "AMD Stiffs Researcher $10k Bug Bounty",
         "slug": "amd-stiffs-researcher-10k-bug-bounty",
         "author": "worik",
@@ -15222,6 +15343,17 @@
         "keywords": "apache, burr, url, https, comments, build, reliable, agents",
         "generated": "2026-06-10T15:51:30.356397",
         "file": "apache-burr-build-reliable-ai-agents-and-applications.md"
+    },
+    {
+        "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
+        "slug": "global-review-confirms-mrna-vaccines-are-safe-effective-and-full-of-promise",
+        "author": "coloneltcb",
+        "source": "hackernews",
+        "published": "Thu, 02 Jul 2026 00:40:14 +0000",
+        "description": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/ Comments URL: https://news.ycombinator.com/item?id=48754963 Po...",
+        "keywords": "mrna, vaccines, safe, effective, full, promise, url, https",
+        "generated": "2026-07-02T04:02:13.755151",
+        "file": "global-review-confirms-mrna-vaccines-are-safe-effective-and-full-of-promise.md"
     },
     {
         "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
@@ -17076,10 +17208,10 @@
         "slug": "web-scraping-for-beginners-sell-data-as-a-service",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Tue, 30 Jun 2026 19:48:32 +0000",
-        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely aware of the vast amount of data available on the web. However, extracting a...",
-        "keywords": "data, web, you, scraping, your, soup, website, can",
-        "generated": "2026-06-30T20:05:30.544870",
+        "published": "Thu, 02 Jul 2026 03:49:00 +0000",
+        "description": "Web Scraping for Beginners: Sell Data as a Service As a developer, you're likely aware of the vast amount of data available on the web. But have you ever con...",
+        "keywords": "you, data, can, html, book, service, web, your",
+        "generated": "2026-07-02T04:02:13.755968",
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
     },
     {
@@ -18711,6 +18843,17 @@
         "file": "show-hn-drm-free-books.md"
     },
     {
+        "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
+        "slug": "show-hn-meow-the-4th-and-final-javascript-runtime-and-toolchain",
+        "author": "anon1 anon1",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 03:51:09 +0000",
+        "description": "Show HN: Meow – The 4th and Final JavaScript Runtime and Toolchain TL;DR : Meow is a new, open‑source JavaScript execution environment that bundles a high‑pe...",
+        "keywords": "meow, file, wasm, import, react, runtime, test, plugin",
+        "generated": "2026-07-02T04:02:13.759577",
+        "file": "show-hn-meow-the-4th-and-final-javascript-runtime-and-toolchain.md"
+    },
+    {
         "title": "The Forge We Deserve",
         "slug": "the-forge-we-deserve",
         "author": "icy",
@@ -19644,6 +19787,17 @@
         "keywords": "love, computer, url, https, com, comments, article, michaelenger",
         "generated": "2026-06-15T21:11:31.712968",
         "file": "i-love-the-computer.md"
+    },
+    {
+        "title": "Morse Code Converter — Text to Morse with Web Audio Playback",
+        "slug": "morse-code-converter-text-to-morse-with-web-audio-playback",
+        "author": "Dev Nestio",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 03:53:30 +0000",
+        "description": "Overview Morse Code Converter encodes text to Morse code and decodes Morse back to text, with real audio playback. 🔗 https://devnestio.pages.dev/morse-code/ ...",
+        "keywords": "morse, audio, gain, code, text, dot, playback, web",
+        "generated": "2026-07-02T04:02:13.757614",
+        "file": "morse-code-converter-text-to-morse-with-web-audio-playback.md"
     },
     {
         "title": "I Built a Free API That Scrapes Any Website Using Plain English - No CSS Selectors",
@@ -21219,6 +21373,17 @@
         "file": "ai-doesnt-need-more-intelligence-it-needs-better-coordination.md"
     },
     {
+        "title": "Image EXIF Viewer — Read Photo Metadata Locally in Your Browser",
+        "slug": "image-exif-viewer-read-photo-metadata-locally-in-your-browser",
+        "author": "Dev Nestio",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 03:53:15 +0000",
+        "description": "Overview Image EXIF Viewer reads EXIF metadata from JPEG and TIFF images without uploading anything. 🔗 https://devnestio.pages.dev/exif-viewer/ What it reads...",
+        "keywords": "exif, viewer, reads, image, your, browser, metadata, locally",
+        "generated": "2026-07-02T04:02:13.757757",
+        "file": "image-exif-viewer-read-photo-metadata-locally-in-your-browser.md"
+    },
+    {
         "title": "AI-Driven Test Automation Is Not a Testing Strategy, It's a Decision Shift",
         "slug": "ai-driven-test-automation-is-not-a-testing-strategy-its-a-decision-shift",
         "author": "Markus Gasser",
@@ -21373,6 +21538,17 @@
         "file": "5-common-mistakes-when-working-with-model-context-protocol.md"
     },
     {
+        "title": "🐷 Piggy — I Made an AI Plugin That Writes 80–94% Less Code",
+        "slug": "piggy-i-made-an-ai-plugin-that-writes-8094-less-code",
+        "author": "adamya",
+        "source": "devto_ai",
+        "published": "Thu, 02 Jul 2026 03:46:35 +0000",
+        "description": "The Problem Every AI coding agent I used wrote too much code. Ask it to validate an email? It writes a 40-line class with regex, error types, and an interfac...",
+        "keywords": "piggy, code, cache, plugin, line, class, over, solution",
+        "generated": "2026-07-02T04:02:13.760576",
+        "file": "piggy-i-made-an-ai-plugin-that-writes-8094-less-code.md"
+    },
+    {
         "title": "Computer use in Gemini 3.5 Flash",
         "slug": "computer-use-in-gemini-35-flash",
         "author": "swolpers",
@@ -21404,6 +21580,17 @@
         "keywords": "can, tech, africa, startups, global, automation, like, nigeria",
         "generated": "2026-06-28T04:20:44.694743",
         "file": "unlocking-africas-ai-potential-how-nigerian-startups-can-leverage-automation-for-global-success.md"
+    },
+    {
+        "title": "FROST-SOP 源码解读：3个核心模块的工程精髓",
+        "slug": "frost-sop-3",
+        "author": "llimage",
+        "source": "devto_python",
+        "published": "Thu, 02 Jul 2026 03:25:44 +0000",
+        "description": "FROST-SOP 源码解读：3个核心模块的工程精髓 作者 ：FROST Team 日期 ：2026-07-02 主题 ：代码教程 | 周四轮换 前言 FROST-SOP 是 FROST 思想的开花结果——一个面向工程实践的 AI Agent 生产平台。 本文从源码出发，解读三个核心模块的设计精髓： Agent ...",
+        "keywords": "self, frost, sop, agent, def, str, dict, step",
+        "generated": "2026-07-02T04:02:13.756370",
+        "file": "frost-sop-3.md"
     },
     {
         "title": "Exact vs semantic caching for LLMs: when each wins, measured",
@@ -21657,6 +21844,17 @@
         "keywords": "lottie, you, animation, file, current, json, const, web",
         "generated": "2026-06-11T16:13:08.008838",
         "file": "embedding-lottie-web-in-react-without-wrecking-your-bundle-notes-from-building-a-previewer.md"
+    },
+    {
+        "title": "CSS Triangle Generator — Pure CSS Triangles in 8 Directions",
+        "slug": "css-triangle-generator-pure-css-triangles-in-8-directions",
+        "author": "Dev Nestio",
+        "source": "devto_webdev",
+        "published": "Thu, 02 Jul 2026 03:52:56 +0000",
+        "description": "Overview CSS Triangle Generator generates pure CSS triangles — no images, no SVG. 🔗 https://devnestio.pages.dev/css-triangle-gen/ Features 8 directions: up, ...",
+        "keywords": "css, triangle, border, triangles, right, clip, path, width",
+        "generated": "2026-07-02T04:02:13.757881",
+        "file": "css-triangle-generator-pure-css-triangles-in-8-directions.md"
     },
     {
         "title": "12 best AI tools for software developers in 2026 to code faster and learn smarter",
