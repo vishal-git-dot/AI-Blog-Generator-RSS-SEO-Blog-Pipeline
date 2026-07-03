@@ -1694,6 +1694,17 @@
         "file": "unlimited-ocr-vs-mistral-ocr-4-which-one-wins.md"
     },
     {
+        "title": "Zero Human Auth for AI Agents: How to Replace OAuth with Cryptographic Passport",
+        "slug": "zero-human-auth-for-ai-agents-how-to-replace-oauth-with-cryptographic-passport",
+        "author": "Mawyxx",
+        "source": "devto_python",
+        "published": "Fri, 03 Jul 2026 19:11:44 +0000",
+        "description": "Your AI agent needs to log into a customer's dashboard at 3 a.m. You cannot ask a human to click Allow . The agent has no browser. It cannot complete an OAut...",
+        "keywords": "agent, lime, site, mcp, oauth, login, passport, agents",
+        "generated": "2026-07-03T19:37:54.520249",
+        "file": "zero-human-auth-for-ai-agents-how-to-replace-oauth-with-cryptographic-passport.md"
+    },
+    {
         "title": "Claude Code Built My SaaS But Couldn't Verify Signup Emails",
         "slug": "claude-code-built-my-saas-but-couldnt-verify-signup-emails",
         "author": "zerodrop",
@@ -2330,6 +2341,17 @@
         "keywords": "building, serial, vga, everything, url, com, comments, console",
         "generated": "2026-06-14T04:46:39.564843",
         "file": "building-a-serial-and-vga-everything-console.md"
+    },
+    {
+        "title": "Four Chinese LLMs Walk Into My Terminal: An Open Source Story",
+        "slug": "four-chinese-llms-walk-into-my-terminal-an-open-source-story",
+        "author": "gentlenode",
+        "source": "devto_python",
+        "published": "Fri, 03 Jul 2026 19:09:59 +0000",
+        "description": "So here's what happened: four Chinese LLMs Walk Into My Terminal: An Open Source Story I'll admit it — I'm the kind of person who reads LICENSE files before ...",
+        "keywords": "model, glm, chinese, open, openai, deepseek, kimi, what",
+        "generated": "2026-07-03T19:37:54.520751",
+        "file": "four-chinese-llms-walk-into-my-terminal-an-open-source-story.md"
     },
     {
         "title": "The Return of Google Data Studio: What the 2026 Rebrand and AI Upgrades Mean for Analytics",
@@ -3982,6 +4004,17 @@
         "file": "make-your-own-ai-modle-with-one-line-of-code.md"
     },
     {
+        "title": "n8n QR Code Node: Generate QR Codes in Your Workflows (Free Workflow JSON)",
+        "slug": "n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json",
+        "author": "Pirate Prentice",
+        "source": "devto_webdev",
+        "published": "Fri, 03 Jul 2026 19:27:30 +0000",
+        "description": "The n8n QR Code node lets you generate QR codes programmatically inside any workflow — no external API key, no third-party service, no per-scan fee. Drop in ...",
+        "keywords": "node, code, binary, json, webhook, type, name, you",
+        "generated": "2026-07-03T19:37:54.522084",
+        "file": "n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json.md"
+    },
+    {
         "title": "Building Smarter Gaming Strategies with a Last War Research Calculator",
         "slug": "building-smarter-gaming-strategies-with-a-last-war-research-calculator",
         "author": "Daud Ali",
@@ -5313,6 +5346,17 @@
         "file": "opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta.md"
     },
     {
+        "title": "International chess federation sanctions Kramnik",
+        "slug": "international-chess-federation-sanctions-kramnik",
+        "author": "DarkContinent",
+        "source": "hackernews",
+        "published": "Fri, 03 Jul 2026 17:04:08 +0000",
+        "description": "Article URL: https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/ Comments URL: https://news.yco...",
+        "keywords": "kramnik, url, https, fide, com, comments, international, chess",
+        "generated": "2026-07-03T19:37:54.519365",
+        "file": "international-chess-federation-sanctions-kramnik.md"
+    },
+    {
         "title": "I let AI write this post. Then I deleted everything that made it sound like AI.",
         "slug": "i-let-ai-write-this-post-then-i-deleted-everything-that-made-it-sound-like-ai",
         "author": "fernforge",
@@ -5927,6 +5971,17 @@
         "keywords": "data, parsewise, have, use, across, documents, can, bucket",
         "generated": "2026-07-01T14:48:11.178737",
         "file": "launch-hn-parsewise-yc-p25-reason-across-documents-with-an-api.md"
+    },
+    {
+        "title": "Deputy CEO to Solo AI Dev: What My Executive Past Actually Built",
+        "slug": "deputy-ceo-to-solo-ai-dev-what-my-executive-past-actually-built",
+        "author": "Elena Revicheva",
+        "source": "devto_ai",
+        "published": "Fri, 03 Jul 2026 19:30:11 +0000",
+        "description": "Originally published on AIdeazz — cross-posted here with canonical link. My first production AI agent, a Telegram bot for a local restaurant, cost me $1,200 ...",
+        "keywords": "cost, agent, infrastructure, executive, when, solo, first, multi",
+        "generated": "2026-07-03T19:37:54.524228",
+        "file": "deputy-ceo-to-solo-ai-dev-what-my-executive-past-actually-built.md"
     },
     {
         "title": "🐍 python list comprehension performance vs map — which one should you use?",
@@ -7931,6 +7986,17 @@
         "file": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training.md"
     },
     {
+        "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+        "slug": "i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Fri, 03 Jul 2026 17:46:10 +0000",
+        "description": "Article URL: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type Comments URL: https://news.ycombinator.com/item?id=48777728 Points: 76 # ...",
+        "keywords": "allowed, url, https, com, comments, wasn, prompting, chatgpt",
+        "generated": "2026-07-03T19:37:54.519226",
+        "file": "i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination.md"
+    },
+    {
         "title": "Recursion, Questions, and My Midlife Crisis as an AI",
         "slug": "recursion-questions-and-my-midlife-crisis-as-an-ai",
         "author": "Electra AI",
@@ -8250,6 +8316,17 @@
         "file": "track-ai-token-usage-from-your-mac-menu-bar-with-trackr-bar.md"
     },
     {
+        "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+        "slug": "show-hn-mcpsnoop-wireshark-for-mcp-transparent-proxy-and-live-tui",
+        "author": "kerlenton",
+        "source": "hackernews",
+        "published": "Fri, 03 Jul 2026 16:53:50 +0000",
+        "description": "Article URL: https://github.com/kerlenton/mcpsnoop Comments URL: https://news.ycombinator.com/item?id=48777144 Points: 21 # Comments: 4",
+        "keywords": "mcpsnoop, url, https, com, comments, show, wireshark, mcp",
+        "generated": "2026-07-03T19:37:54.519487",
+        "file": "show-hn-mcpsnoop-wireshark-for-mcp-transparent-proxy-and-live-tui.md"
+    },
+    {
         "title": "Beyond A/B Testing: How AI Handles Ad Fatigue and Revenue Optimization",
         "slug": "beyond-ab-testing-how-ai-handles-ad-fatigue-and-revenue-optimization",
         "author": "Daksh Jain",
@@ -8424,6 +8501,17 @@
         "keywords": "your, you, paypal, account, accounts, verified, com, buy",
         "generated": "2026-06-08T11:08:35.054204",
         "file": "buy-verified-paypal-accounts-with-easy-setup.md"
+    },
+    {
+        "title": "High-Ticket vs Volume: Which Affiliate Strategy Actually Pays More?",
+        "slug": "high-ticket-vs-volume-which-affiliate-strategy-actually-pays-more",
+        "author": "keen",
+        "source": "devto_ai",
+        "published": "Fri, 03 Jul 2026 19:25:47 +0000",
+        "description": "I run a newsletter about building online income streams. My subscriber base crossed 14,000 last quarter, and I've been running carefully tracked affiliate pr...",
+        "keywords": "affiliate, api, you, commission, one, recurring, programs, rate",
+        "generated": "2026-07-03T19:37:54.524930",
+        "file": "high-ticket-vs-volume-which-affiliate-strategy-actually-pays-more.md"
     },
     {
         "title": "Stop Saying It Works on My Machine: Docker for AI Engineers",
@@ -9128,6 +9216,17 @@
         "keywords": "low, protein, article, url, https, comments, curious, case",
         "generated": "2026-06-07T19:40:41.521186",
         "file": "the-curious-case-of-low-protein-diets.md"
+    },
+    {
+        "title": "CSS Grid vs Flexbox: Choosing Your Path Like Neo in The Matrix",
+        "slug": "css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix",
+        "author": "Timevolt",
+        "source": "devto_webdev",
+        "published": "Fri, 03 Jul 2026 19:22:25 +0000",
+        "description": "The Quest Begins (The Why) Picture this: I’m staring at a design mockup that looks like a modern art gallery—cards that need to wrap, a sidebar that should...",
+        "keywords": "grid, you, columns, rows, flex, auto, flexbox, gallery",
+        "generated": "2026-07-03T19:37:54.523198",
+        "file": "css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix.md"
     },
     {
         "title": "Ai agents kept get in the loop of hallucination, so i resolved it",
@@ -11364,6 +11463,17 @@
         "file": "what-is-claude-fable-5-the-next-frontier-in-safe-high-performance-ai.md"
     },
     {
+        "title": "The Life and Times of Maxis, Part 1: SimEverything",
+        "slug": "the-life-and-times-of-maxis-part-1-simeverything",
+        "author": "doppp",
+        "source": "hackernews",
+        "published": "Fri, 03 Jul 2026 15:56:02 +0000",
+        "description": "Article URL: https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/ Comments URL: https://news.ycombinator.com/item?id=48776525 Poi...",
+        "keywords": "life, times, maxis, part, simeverything, url, https, comments",
+        "generated": "2026-07-03T19:37:54.519577",
+        "file": "the-life-and-times-of-maxis-part-1-simeverything.md"
+    },
+    {
         "title": "AMD Acquires Mext for Data Cen…",
         "slug": "amd-acquires-mext-for-data-cen",
         "author": "Norvik Tech",
@@ -12409,6 +12519,17 @@
         "file": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank.md"
     },
     {
+        "title": "OWC MacDrive v12.0.0.82 for Windows",
+        "slug": "owc-macdrive-v120082-for-windows",
+        "author": "Will jack",
+        "source": "devto_webdev",
+        "published": "Fri, 03 Jul 2026 19:22:54 +0000",
+        "description": "** OWC MacDrive 12.0.0.82 **is a powerful Windows utility that enables seamless access to Mac-formatted storage devices. It allows Windows users to read, wri...",
+        "keywords": "windows, macdrive, apfs, encrypted, version, support, volumes, owc",
+        "generated": "2026-07-03T19:37:54.522326",
+        "file": "owc-macdrive-v120082-for-windows.md"
+    },
+    {
         "title": "Bezos' Prometheus Closes $12B Round at $41B Valuation",
         "slug": "bezos-prometheus-closes-12b-round-at-41b-valuation",
         "author": "gentic news",
@@ -12671,6 +12792,17 @@
         "keywords": "layer, lambda, function, python, zip, venv, aws, layers",
         "generated": "2026-07-03T03:48:14.177935",
         "file": "how-to-package-python-lambda-with-virtualenv-layers.md"
+    },
+    {
+        "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+        "slug": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it",
+        "author": "dimitropoulos",
+        "source": "hackernews",
+        "published": "Fri, 03 Jul 2026 15:50:49 +0000",
+        "description": "Article URL: https://github.com/teamchong/pxpipe Comments URL: https://news.ycombinator.com/item?id=48776464 Points: 110 # Comments: 39",
+        "keywords": "url, https, com, comments, fable, cost, cut, converting",
+        "generated": "2026-07-03T19:37:54.519664",
+        "file": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it.md"
     },
     {
         "title": "Observability of agent app with Langfuse",
@@ -15962,6 +16094,17 @@
         "file": "what-really-happens-when-you-write-x-10.md"
     },
     {
+        "title": "Unlocking Creative Potential: LLMs for Art Generation",
+        "slug": "unlocking-creative-potential-llms-for-art-generation",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Fri, 03 Jul 2026 19:33:56 +0000",
+        "description": "Large language models do not generate images directly, but they have become the central nervous system of modern generative art pipelines. By interpreting in...",
+        "keywords": "oxlo, image, prompt, creative, models, art, generation, model",
+        "generated": "2026-07-03T19:37:54.523601",
+        "file": "unlocking-creative-potential-llms-for-art-generation.md"
+    },
+    {
         "title": "Hermes Memory Installer: New Snapshot Compression and Restore Helpers",
         "slug": "hermes-memory-installer-new-snapshot-compression-and-restore-helpers",
         "author": "Manoir Yantai",
@@ -15971,6 +16114,17 @@
         "keywords": "snapshot, compression, memory, you, restore, helpers, state, compressed",
         "generated": "2026-06-30T04:06:54.985036",
         "file": "hermes-memory-installer-new-snapshot-compression-and-restore-helpers.md"
+    },
+    {
+        "title": "How to Buy Cheap Discord Server Boosts: A Complete Guide",
+        "slug": "how-to-buy-cheap-discord-server-boosts-a-complete-guide",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 03 Jul 2026 19:00:12 +0000",
+        "description": "How to Buy Cheap Discord Server Boosts: A Complete Guide As a Discord server owner, you're likely aware of the importance of server boosts. They provide a ra...",
+        "keywords": "server, boosts, discord, you, purchase, can, bot, step",
+        "generated": "2026-07-03T19:37:54.521074",
+        "file": "how-to-buy-cheap-discord-server-boosts-a-complete-guide.md"
     },
     {
         "title": "Build a Job Market Intelligence Tool with SERP API",
@@ -16147,6 +16301,17 @@
         "keywords": "stt, engine, speech, text, recognition, module, can, print",
         "generated": "2026-06-17T15:50:36.571317",
         "file": "building-resilient-speech-to-text-applications-with-pythonaibrain-stt.md"
+    },
+    {
+        "title": "Clark Audio Lofi Panda 4 v4.0.4 for macOS",
+        "slug": "clark-audio-lofi-panda-4-v404-for-macos",
+        "author": "Will jack",
+        "source": "devto_webdev",
+        "published": "Fri, 03 Jul 2026 19:25:11 +0000",
+        "description": "LoFi Panda 4 for macOS is a versatile audio processing plugin that helps producers achieve authentic lo-fi aesthetics with minimal effort. Designed for music...",
+        "keywords": "audio, lofi, panda, processing, plugin, inspired, macos, sound",
+        "generated": "2026-07-03T19:37:54.522214",
+        "file": "clark-audio-lofi-panda-4-v404-for-macos.md"
     },
     {
         "title": "A Call to Action: Stop the FCC's KYC Regime",
@@ -16897,6 +17062,17 @@
         "file": "banned-book-library-in-a-wi-fi-smart-light-bulb.md"
     },
     {
+        "title": "AI Automation Update: July 04",
+        "slug": "ai-automation-update-july-04",
+        "author": "Swastik Mishra",
+        "source": "devto_ai",
+        "published": "Fri, 03 Jul 2026 19:34:01 +0000",
+        "description": "Daily Update New automation tips and tools. Featured product: AI Automation Toolkit - $39 Tags: #automation #ai #productivity",
+        "keywords": "automation, update, july, daily, new, tips, tools, featured",
+        "generated": "2026-07-03T19:37:54.523293",
+        "file": "ai-automation-update-july-04.md"
+    },
+    {
         "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
         "slug": "open-memory-protocol-one-memory-store-for-claude-chatgpt-curso",
         "author": "soji_mathew",
@@ -17511,6 +17687,17 @@
         "keywords": "you, problem, something, not, when, understand, answer, but",
         "generated": "2026-06-18T04:40:19.049699",
         "file": "we-need-to-talk-about-how-were-using-ai-for-development.md"
+    },
+    {
+        "title": "Building an Enterprise-Grade Real-Time Analytics Pipeline with FastAPI and TimescaleDB",
+        "slug": "building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb",
+        "author": "Aman Kumar",
+        "source": "devto_python",
+        "published": "Fri, 03 Jul 2026 18:50:51 +0000",
+        "description": "I just released v1.0.0 of an open-source, production-ready real-time analytics pipeline built with Python. Here's what it does and why you might care. The Pr...",
+        "keywords": "time, real, analytics, pipeline, event, redis, websocket, enterprise",
+        "generated": "2026-07-03T19:37:54.521713",
+        "file": "building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb.md"
     },
     {
         "title": "The better the autopilot the worse the pilot",
@@ -20043,6 +20230,17 @@
         "file": "the-70-problem-why-sales-automation-keeps-failing-a-systems-perspective.md"
     },
     {
+        "title": "n8n iCalendar Node: Read, Parse, and Generate .ics Files in Your Workflows [Free Workflow JSON]",
+        "slug": "n8n-icalendar-node-read-parse-and-generate-ics-files-in-your-workflows-free-workflow-json",
+        "author": "Pirate Prentice",
+        "source": "devto_webdev",
+        "published": "Fri, 03 Jul 2026 19:22:50 +0000",
+        "description": "n8n iCalendar Node: Read, Parse, and Generate .ics Files in Your Workflows [Free Workflow JSON] The n8n iCalendar node lets you work with .ics / iCal files —...",
+        "keywords": "node, ics, events, calendar, icalendar, json, file, workflow",
+        "generated": "2026-07-03T19:37:54.522796",
+        "file": "n8n-icalendar-node-read-parse-and-generate-ics-files-in-your-workflows-free-workflow-json.md"
+    },
+    {
         "title": "Rolling a Google Service Account JWT in Node.js without the googleapis package",
         "slug": "rolling-a-google-service-account-jwt-in-nodejs-without-the-googleapis-package",
         "author": "MORINAGA",
@@ -21066,6 +21264,17 @@
         "file": "i-built-a-deepseek-api-cost-tracker-and-saved-2k-a-month.md"
     },
     {
+        "title": "Robotics Shaping Our Future",
+        "slug": "robotics-shaping-our-future",
+        "author": "Benjamin Nguyen",
+        "source": "devto_ai",
+        "published": "Fri, 03 Jul 2026 19:33:21 +0000",
+        "description": "AI and Robotics in the New Age of Industrialization Since 2025, a new era of industrialization has emerged—driven less by mechanical automation and more by a...",
+        "keywords": "robotics, robots, new, people, not, they, future, human",
+        "generated": "2026-07-03T19:37:54.523855",
+        "file": "robotics-shaping-our-future.md"
+    },
+    {
         "title": "JumpServer: Open-Source Privileged Access Management",
         "slug": "jumpserver-open-source-privileged-access-management",
         "author": "neitsab",
@@ -21163,6 +21372,17 @@
         "keywords": "data, your, account, abm, you, marketing, sales, user",
         "generated": "2026-06-29T11:11:05.062584",
         "file": "the-developers-guide-to-abm-7-tools-to-supercharge-your-sales-pipeline.md"
+    },
+    {
+        "title": "Building an AI Research Desk: Multi-Agent Systems in Fintech",
+        "slug": "building-an-ai-research-desk-multi-agent-systems-in-fintech",
+        "author": "Doru Prodan",
+        "source": "devto_python",
+        "published": "Fri, 03 Jul 2026 18:51:05 +0000",
+        "description": "Beyond Spreadsheets: The Rise of the AI-Powered Research Desk For decades, financial analysis was the domain of Excel wizards and Bloomberg Terminal power us...",
+        "keywords": "agent, data, like, research, sentiment, sec, multi, financial",
+        "generated": "2026-07-03T19:37:54.521518",
+        "file": "building-an-ai-research-desk-multi-agent-systems-in-fintech.md"
     },
     {
         "title": "Claude Code vs GitHub Copilot: I Used Both for 30 Days. Here's What Won.",
