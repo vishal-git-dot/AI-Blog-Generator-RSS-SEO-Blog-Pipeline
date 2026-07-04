@@ -4,16 +4,16 @@ slug: "the-bottleneck-might-be-the-air-in-the-room"
 author: "gslin"
 source: "hackernews"
 published: "Sat, 04 Jul 2026 06:32:28 +0000"
-description: "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 140 # Comment..."
+description: "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 481 # Comment..."
 keywords: "url, https, comments, bottleneck, might, air, room, article"
-generated: "2026-07-04T08:44:47.972165"
+generated: "2026-07-04T13:45:59.766320"
 ---
 
 # The bottleneck might be the air in the room
 
 ## Overview
 
-Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 140 # Comments: 67
+Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 481 # Comments: 297
 
 ## Key Insights
 

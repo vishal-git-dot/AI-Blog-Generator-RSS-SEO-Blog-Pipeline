@@ -4,16 +4,16 @@ slug: "maybe-you-should-learn-something"
 author: "tylerdane"
 source: "hackernews"
 published: "Sat, 04 Jul 2026 03:36:03 +0000"
-description: "Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 55 # Comments: 23"
+description: "Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 192 # Comments: 91"
 keywords: "url, https, comments, maybe, you, should, learn, something"
-generated: "2026-07-04T08:44:47.972589"
+generated: "2026-07-04T13:45:59.766798"
 ---
 
 # Maybe you should learn something
 
 ## Overview
 
-Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 55 # Comments: 23
+Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 192 # Comments: 91
 
 ## Key Insights
 
