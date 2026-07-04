@@ -385,6 +385,17 @@
         "file": "architecting-dignity-implementing-ohchr-detention-standards-in-ai-systems.md"
     },
     {
+        "title": "Why We Built a Flight Simulator for Conversations: The Story Behind CallFlow.dev",
+        "slug": "why-we-built-a-flight-simulator-for-conversations-the-story-behind-callflowdev",
+        "author": "Call Flow",
+        "source": "devto_ai",
+        "published": "Sat, 04 Jul 2026 08:30:05 +0000",
+        "description": "Building a startup often feels like solving a puzzle where the pieces are constantly changing shape. When we started building CallFlow.dev , we didn't just w...",
+        "keywords": "callflow, just, sales, they, our, high, dev, building",
+        "generated": "2026-07-04T08:44:47.978203",
+        "file": "why-we-built-a-flight-simulator-for-conversations-the-story-behind-callflowdev.md"
+    },
+    {
         "title": "Open source AI must win",
         "slug": "open-source-ai-must-win",
         "author": "vednig",
@@ -1452,6 +1463,17 @@
         "file": "medical-research-data-analysis-deserves-a-higher-standard.md"
     },
     {
+        "title": "You reached for !important again. @layer is the real fix.",
+        "slug": "you-reached-for-important-again-layer-is-the-real-fix",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Sat, 04 Jul 2026 08:44:01 +0000",
+        "description": "You typed !important . Be honest — you did. The third-party reset was winning, your override wasn't sticking, the clock was ticking, and !important made the ...",
+        "keywords": "layer, you, reset, your, important, rule, selector, specificity",
+        "generated": "2026-07-04T08:44:47.975350",
+        "file": "you-reached-for-important-again-layer-is-the-real-fix.md"
+    },
+    {
         "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
         "slug": "ask-hn-will-programmers-write-more-efficient-code-during-the-memory-shortage",
         "author": "amichail",
@@ -1736,6 +1758,17 @@
         "keywords": "web, search, agent, coordination, agentcore, agents, layer, you",
         "generated": "2026-06-19T19:55:28.883695",
         "file": "ai-technology-in-2026-closing-the-ai-coordination-gap-with-agentcore-web-search.md"
+    },
+    {
+        "title": "Tokenizer Changes Can Break AI-Agent Budget Assumptions",
+        "slug": "tokenizer-changes-can-break-ai-agent-budget-assumptions",
+        "author": "Assili Salim",
+        "source": "devto_ai",
+        "published": "Sat, 04 Jul 2026 08:41:45 +0000",
+        "description": "Claude Sonnet 5 is a good reminder that AI-agent cost control is not only about model pricing. Anthropic says Sonnet 5 launches at $2 per million input token...",
+        "keywords": "model, not, call, cost, allowed, prompt, agent, per",
+        "generated": "2026-07-04T08:44:47.976890",
+        "file": "tokenizer-changes-can-break-ai-agent-budget-assumptions.md"
     },
     {
         "title": "AI Agents for Business: Autonomous Systems Explained",
@@ -3641,6 +3674,17 @@
         "file": "why-experience-still-matters-in-the-age-of-ai.md"
     },
     {
+        "title": "Maybe you should learn something",
+        "slug": "maybe-you-should-learn-something",
+        "author": "tylerdane",
+        "source": "hackernews",
+        "published": "Sat, 04 Jul 2026 03:36:03 +0000",
+        "description": "Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 55 # Comments: 23",
+        "keywords": "url, https, comments, maybe, you, should, learn, something",
+        "generated": "2026-07-04T08:44:47.972589",
+        "file": "maybe-you-should-learn-something.md"
+    },
+    {
         "title": "Building a Self-Hosted MLOps Platform from Scratch with FastAPI, PostgreSQL, GCS, and Docker",
         "slug": "building-a-self-hosted-mlops-platform-from-scratch-with-fastapi-postgresql-gcs-and-docker",
         "author": "SHIVAM UPADHYAY",
@@ -3848,6 +3892,17 @@
         "keywords": "url, https, comments, you, want, define, well, known",
         "generated": "2026-06-19T15:31:48.963655",
         "file": "so-you-want-to-define-a-well-known-uri.md"
+    },
+    {
+        "title": "Data management patterns in Apache Airflow",
+        "slug": "data-management-patterns-in-apache-airflow",
+        "author": "Abdi Omari",
+        "source": "devto_python",
+        "published": "Sat, 04 Jul 2026 07:42:48 +0000",
+        "description": "What is Airflow? Apache Airflow is an open-source orchestration tool used by data engineers for developing, scheduling, and monitoring batch-oriented workflo...",
+        "keywords": "airflow, task, data, xcom, you, tasks, dag, def",
+        "generated": "2026-07-04T08:44:47.973985",
+        "file": "data-management-patterns-in-apache-airflow.md"
     },
     {
         "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
@@ -4343,6 +4398,17 @@
         "keywords": "rome, fell, nobody, noticed, url, https, com, comments",
         "generated": "2026-06-14T19:44:48.274937",
         "file": "rome-fell-and-nobody-noticed.md"
+    },
+    {
+        "title": "How to Track Public Tenders from UK and EU Sources with Apify",
+        "slug": "how-to-track-public-tenders-from-uk-and-eu-sources-with-apify",
+        "author": "Eren Yeager",
+        "source": "devto_webdev",
+        "published": "Sat, 04 Jul 2026 08:32:57 +0000",
+        "description": "Public tenders and RFPs can be valuable, but checking different procurement portals manually is slow. A bid team, public-sector sales team, or GovCon consult...",
+        "keywords": "apify, you, actor, can, tender, use, not, public",
+        "generated": "2026-07-04T08:44:47.976115",
+        "file": "how-to-track-public-tenders-from-uk-and-eu-sources-with-apify.md"
     },
     {
         "title": "Google will pay SpaceX $920M per month for compute",
@@ -4970,6 +5036,17 @@
         "keywords": "visual, digital, team, collaboration, text, out, can, teams",
         "generated": "2026-06-21T04:54:47.255634",
         "file": "the-visual-edge-why-visual-collaboration-is-the-secret-to-remote-team-success.md"
+    },
+    {
+        "title": "API Development in 2025–2026: The Ultimate Guide for Beginners",
+        "slug": "api-development-in-20252026-the-ultimate-guide-for-beginners",
+        "author": "Muhammad Haris",
+        "source": "devto_webdev",
+        "published": "Sat, 04 Jul 2026 08:32:34 +0000",
+        "description": "Here’s your SEO-optimized article with natural keyword integration (no stuffing). I've strategically placed the keywords while maintaining readability and te...",
+        "keywords": "api, apis, development, web, rest, swagger, data, express",
+        "generated": "2026-07-04T08:44:47.976518",
+        "file": "api-development-in-20252026-the-ultimate-guide-for-beginners.md"
     },
     {
         "title": "What Is a Nomogram and Why Would It Interest Me?",
@@ -8382,6 +8459,17 @@
         "file": "slashing-ai-api-costs-from-scratch-what-nobody-tells-you.md"
     },
     {
+        "title": "Agentic coding notes from Galapagos Island",
+        "slug": "agentic-coding-notes-from-galapagos-island",
+        "author": "gm678",
+        "source": "hackernews",
+        "published": "Sat, 04 Jul 2026 04:37:15 +0000",
+        "description": "Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post Comments URL: https://news.ycombinator.com/item?id=48782671 Points: 7...",
+        "keywords": "agentic, coding, url, https, com, comments, notes, galapagos",
+        "generated": "2026-07-04T08:44:47.972467",
+        "file": "agentic-coding-notes-from-galapagos-island.md"
+    },
+    {
         "title": "Your Pipeline Is 29.2h Behind: Catching Entertainment Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-292h-behind-catching-entertainment-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -9339,6 +9427,17 @@
         "file": "what-is-a-cron-job-how-to-use-it-basic-information-and-application-scenarios.md"
     },
     {
+        "title": "I Built a Python Library That Diagnoses Machine Learning Models Before Deployment",
+        "slug": "i-built-a-python-library-that-diagnoses-machine-learning-models-before-deployment",
+        "author": "Ujayer Hasnat",
+        "source": "devto_python",
+        "published": "Sat, 04 Jul 2026 07:43:22 +0000",
+        "description": "I Built ModelDoctor — A Python Library That Diagnoses Machine Learning Models Most machine learning workflows end with a few familiar metrics: Accuracy F1 Sc...",
+        "keywords": "modeldoctor, model, built, machine, learning, report, python, library",
+        "generated": "2026-07-04T08:44:47.973577",
+        "file": "i-built-a-python-library-that-diagnoses-machine-learning-models-before-deployment.md"
+    },
+    {
         "title": "How to use build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
         "slug": "how-to-use-build-your-own-x-master-programming-by-recreating-your-favorite-technologies-from-scratch",
         "author": "Kelvin Kariuki",
@@ -10285,6 +10384,17 @@
         "file": "mahdi-shamlou-structural-design-patterns-2026-facade-flyweight-proxy-production-examples.md"
     },
     {
+        "title": "David Beazley – Programming Courses",
+        "slug": "david-beazley-programming-courses",
+        "author": "gregsadetsky",
+        "source": "hackernews",
+        "published": "Sat, 04 Jul 2026 05:43:01 +0000",
+        "description": "Article URL: https://www.dabeaz.com/courses.html Comments URL: https://news.ycombinator.com/item?id=48782918 Points: 65 # Comments: 21",
+        "keywords": "courses, url, https, com, comments, david, beazley, programming",
+        "generated": "2026-07-04T08:44:47.972341",
+        "file": "david-beazley-programming-courses.md"
+    },
+    {
         "title": "Building an Enterprise Knowledge Platform from Scratch (Part 1)",
         "slug": "building-an-enterprise-knowledge-platform-from-scratch-part-1",
         "author": "Samiksha",
@@ -10701,6 +10811,17 @@
         "keywords": "local, opus, url, https, comments, qwen, isn, worse",
         "generated": "2026-06-18T04:40:19.045500",
         "file": "local-qwen-isnt-a-worse-opus-its-a-different-tool.md"
+    },
+    {
+        "title": "The bottleneck might be the air in the room",
+        "slug": "the-bottleneck-might-be-the-air-in-the-room",
+        "author": "gslin",
+        "source": "hackernews",
+        "published": "Sat, 04 Jul 2026 06:32:28 +0000",
+        "description": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 140 # Comment...",
+        "keywords": "url, https, comments, bottleneck, might, air, room, article",
+        "generated": "2026-07-04T08:44:47.972165",
+        "file": "the-bottleneck-might-be-the-air-in-the-room.md"
     },
     {
         "title": "The Network Thinks",
@@ -12585,6 +12706,17 @@
         "file": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank.md"
     },
     {
+        "title": "Meeting Recording With Real-Time Text Output",
+        "slug": "meeting-recording-with-real-time-text-output",
+        "author": "Hazel Xu",
+        "source": "devto_webdev",
+        "published": "Sat, 04 Jul 2026 08:37:00 +0000",
+        "description": "Can a Meeting Recording App Generate Accurate Real-Time Text Output? The short answer is yes—but the quality varies significantly depending on the app. As hy...",
+        "keywords": "meeting, transcription, can, recording, time, text, real, summaries",
+        "generated": "2026-07-04T08:44:47.975737",
+        "file": "meeting-recording-with-real-time-text-output.md"
+    },
+    {
         "title": "OWC MacDrive v12.0.0.82 for Windows",
         "slug": "owc-macdrive-v120082-for-windows",
         "author": "Will jack",
@@ -13241,7 +13373,7 @@
         "published": "Sat, 04 Jul 2026 02:45:24 +0000",
         "description": "Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/ Comments URL: https://news.ycombinator.com/item?id=48782219 Points:...",
         "keywords": "synthesis, harder, than, analysis, url, https, comments, article",
-        "generated": "2026-07-04T03:39:49.955393",
+        "generated": "2026-07-04T08:44:47.972738",
         "file": "synthesis-is-harder-than-analysis.md"
     },
     {
@@ -14741,6 +14873,17 @@
         "file": "claude-sonnet-5.md"
     },
     {
+        "title": "The Ultimate New serious vulnerabilities spiked around release of Claude Mythos Preview Playbook",
+        "slug": "the-ultimate-new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview-playbook",
+        "author": "Adedolapo Adeniyi",
+        "source": "devto_ai",
+        "published": "Sat, 04 Jul 2026 08:30:58 +0000",
+        "description": "Title: Unmasking the Claude Mythos Preview Vulnerabilities: A Call to Action for Cybersecurity In the ever-evolving world of cybersecurity, a new chapter unf...",
+        "keywords": "claude, mythos, preview, vulnerabilities, security, data, transparency, new",
+        "generated": "2026-07-04T08:44:47.977864",
+        "file": "the-ultimate-new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview-playbook.md"
+    },
+    {
         "title": "Your Pipeline Is 28.3h Behind: Catching World Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-283h-behind-catching-world-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -15427,10 +15570,10 @@
         "slug": "how-i-automate-my-freelance-workflow-with-python",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Thu, 11 Jun 2026 15:42:18 +0000",
-        "description": "How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automation is key to increasing productivity and efficiency. In ...",
-        "keywords": "project, client, email, invoice, python, use, your, github",
-        "generated": "2026-06-11T16:13:08.006038",
+        "published": "Sat, 04 Jul 2026 07:49:44 +0000",
+        "description": "How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automation is key to increasing productivity and earning more. I...",
+        "keywords": "project, timer, api, your, python, new, username, password",
+        "generated": "2026-07-04T08:44:47.973338",
         "file": "how-i-automate-my-freelance-workflow-with-python.md"
     },
     {
@@ -16323,6 +16466,17 @@
         "keywords": "model, gateway, cost, can, provider, routing, customer, one",
         "generated": "2026-06-07T09:24:56.823585",
         "file": "openai-compatible-gateway-control-plane-checklist.md"
+    },
+    {
+        "title": "First Look: Enterprise IGA Platforms Expose Structural Gaps as AI Agents Proliferate",
+        "slug": "first-look-enterprise-iga-platforms-expose-structural-gaps-as-ai-agents-proliferate",
+        "author": "Achin Bansal",
+        "source": "devto_ai",
+        "published": "Sat, 04 Jul 2026 08:31:01 +0000",
+        "description": "Forensic Summary A new analysis published via The Hacker News details how traditional Identity Governance and Administration (IGA) frameworks — built around ...",
+        "keywords": "iga, agents, enterprise, platforms, first, look, expose, structural",
+        "generated": "2026-07-04T08:44:47.977549",
+        "file": "first-look-enterprise-iga-platforms-expose-structural-gaps-as-ai-agents-proliferate.md"
     },
     {
         "title": "3D Simulation for Robot Arm Control with Deep Q-Learning",
@@ -17700,6 +17854,17 @@
         "file": "applying-bandit-sast-to-detect-vulnerabilities-in-a-python-flask-application.md"
     },
     {
+        "title": "I Built a Privacy-First Health Record MCP Server That Runs Entirely on Your Machine",
+        "slug": "i-built-a-privacy-first-health-record-mcp-server-that-runs-entirely-on-your-machine",
+        "author": "Priyanshu Goel",
+        "source": "devto_python",
+        "published": "Sat, 04 Jul 2026 07:16:08 +0000",
+        "description": "How I used the Model Context Protocol, Gemini Vision, and AES-256 encryption to let Claude answer questions about your personal health data — without sending...",
+        "keywords": "your, mcp, claude, data, you, health, medmemory, tool",
+        "generated": "2026-07-04T08:44:47.974524",
+        "file": "i-built-a-privacy-first-health-record-mcp-server-that-runs-entirely-on-your-machine.md"
+    },
+    {
         "title": "Your Code Is Being Replaced -And The Scary Part? You're Helping It Happen.",
         "slug": "your-code-is-being-replaced-and-the-scary-part-youre-helping-it-happen",
         "author": "Emma Schmidt",
@@ -17920,6 +18085,17 @@
         "file": "buy-verified-binance-account.md"
     },
     {
+        "title": "Building Profitable Python Scripts: From Zero to Income",
+        "slug": "building-profitable-python-scripts-from-zero-to-income",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sat, 04 Jul 2026 08:10:16 +0000",
+        "description": "Building Profitable Python Scripts: From Zero to Income As a Python developer, you're likely aware of the versatility and potential of the language. However,...",
+        "keywords": "script, website, data, building, python, monitoring, environment, profitable",
+        "generated": "2026-07-04T08:44:47.973086",
+        "file": "building-profitable-python-scripts-from-zero-to-income.md"
+    },
+    {
         "title": "Why Your Brand Might Be Invisible to ChatGPT, Gemini, and Claude",
         "slug": "why-your-brand-might-be-invisible-to-chatgpt-gemini-and-claude",
         "author": "Efe şar",
@@ -17962,6 +18138,17 @@
         "keywords": "web, how, apps, but, still, you, tools, small",
         "generated": "2026-06-25T14:43:02.866208",
         "file": "small-shift-in-how-i-discover-web-apps.md"
+    },
+    {
+        "title": "The Day I Stopped Chasing Certifications and Started Building Things",
+        "slug": "the-day-i-stopped-chasing-certifications-and-started-building-things",
+        "author": "Indrajith Bandara",
+        "source": "devto_webdev",
+        "published": "Sat, 04 Jul 2026 08:44:04 +0000",
+        "description": "For a long time, I believed the next certification would be the one that changed everything. Another badge. Another certificate. Another course completion. E...",
+        "keywords": "you, certifications, can, another, what, how, learning, they",
+        "generated": "2026-07-04T08:44:47.974872",
+        "file": "the-day-i-stopped-chasing-certifications-and-started-building-things.md"
     },
     {
         "title": "I Cut My LLM Bill 40x and Rewrote Nothing: A CTO's Migration Story",
@@ -18380,6 +18567,17 @@
         "keywords": "pdf, page, text, document, ptt, extraction, processing, logging",
         "generated": "2026-06-17T15:50:36.570499",
         "file": "extracting-text-from-pdfs-reliably-in-python-with-pythonaibrain-ptt.md"
+    },
+    {
+        "title": "I let an AI handle an outage. It invented a hack that never happened, then spiraled",
+        "slug": "i-let-an-ai-handle-an-outage-it-invented-a-hack-that-never-happened-then-spiraled",
+        "author": "Jun",
+        "source": "devto_ai",
+        "published": "Sat, 04 Jul 2026 08:41:37 +0000",
+        "description": "One evening, a monitoring alert went off: a server behind a web service was down. I handed the incident to an AI coding agent. Half experiment, half laziness...",
+        "keywords": "agent, you, own, its, one, what, real, not",
+        "generated": "2026-07-04T08:44:47.977387",
+        "file": "i-let-an-ai-handle-an-outage-it-invented-a-hack-that-never-happened-then-spiraled.md"
     },
     {
         "title": "Securing API Communications in Decentralized Systems (637)",
