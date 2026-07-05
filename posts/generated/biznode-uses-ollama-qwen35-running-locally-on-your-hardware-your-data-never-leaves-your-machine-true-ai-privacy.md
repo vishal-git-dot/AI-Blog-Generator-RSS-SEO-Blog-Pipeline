@@ -3,10 +3,10 @@ title: "BizNode uses Ollama (Qwen3.5) running locally on your hardware — your 
 slug: "biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-machine-true-ai-privacy"
 author: "shashikanth ramamurthy"
 source: "devto_ai"
-published: "Fri, 19 Jun 2026 15:26:10 +0000"
+published: "Sun, 05 Jul 2026 13:39:36 +0000"
 description: "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h..."
 keywords: "biznode, https, biz, your, copyguard, uses, ollama, running"
-generated: "2026-06-19T15:31:48.969255"
+generated: "2026-07-05T13:51:56.699151"
 ---
 
 # BizNode uses Ollama (Qwen3.5) running locally on your hardware — your data never leaves your machine. True AI privacy
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/biznode/biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-2eja
+https://dev.to/biznode/biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-57fl
 
 ## Conclusion
 
