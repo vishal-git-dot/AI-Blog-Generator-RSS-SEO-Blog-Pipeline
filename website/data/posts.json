@@ -396,6 +396,17 @@
         "file": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs.md"
     },
     {
+        "title": "AI Test Automation Is Useful, but It Is Not Magic",
+        "slug": "ai-test-automation-is-useful-but-it-is-not-magic",
+        "author": "David Frei",
+        "source": "devto_ai",
+        "published": "Mon, 06 Jul 2026 15:38:38 +0000",
+        "description": "AI has made test automation more exciting. It has also made it easier to fool ourselves. A generated test can look impressive in a demo. A self-healing locat...",
+        "keywords": "test, can, not, but, automation, has, testing, team",
+        "generated": "2026-07-06T15:45:24.414625",
+        "file": "ai-test-automation-is-useful-but-it-is-not-magic.md"
+    },
+    {
         "title": "Show HN: KiCad in the Browser",
         "slug": "show-hn-kicad-in-the-browser",
         "author": "ViktorEE",
@@ -966,6 +977,17 @@
         "keywords": "you, people, what, problem, validation, just, build, building",
         "generated": "2026-06-06T13:56:22.891428",
         "file": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code.md"
+    },
+    {
+        "title": "Running Hugging Face Inference with Kiro: From Prompt to Working Summarizer",
+        "slug": "running-hugging-face-inference-with-kiro-from-prompt-to-working-summarizer",
+        "author": "Avani",
+        "source": "devto_python",
+        "published": "Mon, 06 Jul 2026 15:11:11 +0000",
+        "description": "Pre-trained models are the backbone of modern NLP. Whether you're summarizing documents, classifying support tickets, or building semantic search, the Huggin...",
+        "keywords": "model, kiro, device, tokenizer, texts, true, summaries, text",
+        "generated": "2026-07-06T15:45:24.412288",
+        "file": "running-hugging-face-inference-with-kiro-from-prompt-to-working-summarizer.md"
     },
     {
         "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
@@ -2717,6 +2739,17 @@
         "file": "how-we-choose-technology-at-worqship-and-what-that-means-for-you.md"
     },
     {
+        "title": "AI 自进化与发现模型：RSI、验证与科学品味",
+        "slug": "ai-rsi",
+        "author": "cognitalk",
+        "source": "devto_ai",
+        "published": "Mon, 06 Jul 2026 15:38:19 +0000",
+        "description": "https://www.youtube.com/watch?v=VGIbhIW5ljk 整文标题： 《AI 自进化与发现模型：Anthropic 八成代码自写背后，Apodex 两位一线研究员谈 RSI、验证与科学品味》 第（一）部分｜开场引入：Anthropic 承认 80% 代码自写，RSI 成为硅谷热词...",
+        "keywords": "agent, apodex, beibin, rsi, self, simon, anthropic, recursive",
+        "generated": "2026-07-06T15:45:24.415313",
+        "file": "ai-rsi.md"
+    },
+    {
         "title": "Integrating myPOS IPC into a Netlify Checkout: RSA Signatures, Error Code 25 and the Traps in the Docs",
         "slug": "integrating-mypos-ipc-into-a-netlify-checkout-rsa-signatures-error-code-25-and-the-traps-in-the-docs",
         "author": "Andrea Roversi",
@@ -2891,6 +2924,17 @@
         "keywords": "stripe, mcp, crypto, wallet, nano, empire, tollbooth, call",
         "generated": "2026-06-22T20:55:23.246696",
         "file": "stripe-backed-mcp-metering-no-crypto-no-wallet-just-pip-install.md"
+    },
+    {
+        "title": "Do you really need separate systems when you already have Postgres?",
+        "slug": "do-you-really-need-separate-systems-when-you-already-have-postgres",
+        "author": "b-man",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 14:57:05 +0000",
+        "description": "Article URL: https://postgresisenough.dev/ Comments URL: https://news.ycombinator.com/item?id=48805564 Points: 14 # Comments: 2",
+        "keywords": "you, url, https, comments, really, need, separate, systems",
+        "generated": "2026-07-06T15:45:24.409950",
+        "file": "do-you-really-need-separate-systems-when-you-already-have-postgres.md"
     },
     {
         "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
@@ -3452,6 +3496,17 @@
         "keywords": "real, estate, conversational, can, flowlyn, our, customer, more",
         "generated": "2026-06-19T04:58:32.739242",
         "file": "how-conversational-ai-is-revolutionizing-real-estate.md"
+    },
+    {
+        "title": "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
+        "slug": "doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat",
+        "author": "petethomas",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 14:38:15 +0000",
+        "description": "Article URL: https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat Comments URL: https://news.ycombinato...",
+        "keywords": "doj, closing, abbott, labs, case, spurs, wider, corporate",
+        "generated": "2026-07-06T15:45:24.410211",
+        "file": "doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat.md"
     },
     {
         "title": "I Tested DeepSeek, Qwen, Kimi And GLM Heres The Real Winner",
@@ -4959,6 +5014,17 @@
         "keywords": "rag, model, retrieval, knowledge, generation, data, what, augmented",
         "generated": "2026-06-23T09:53:37.259499",
         "file": "what-is-rag-a-complete-guide-to-retrieval-augmented-generation-2026.md"
+    },
+    {
+        "title": "A Practical Way to Start Browser Test Automation in 2026",
+        "slug": "a-practical-way-to-start-browser-test-automation-in-2026",
+        "author": "Markus Gasser",
+        "source": "devto_webdev",
+        "published": "Mon, 06 Jul 2026 15:35:07 +0000",
+        "description": "When teams start with test automation, they usually ask the tool question too early. Should we use Playwright? Selenium? Cypress? A no-code platform? Should ...",
+        "keywords": "test, automation, not, can, first, tool, team, browser",
+        "generated": "2026-07-06T15:45:24.413616",
+        "file": "a-practical-way-to-start-browser-test-automation-in-2026.md"
     },
     {
         "title": "Astrophysics & AI with Python: Why Your Code Needs to Understand Light-Years",
@@ -7535,6 +7601,17 @@
         "file": "python-basics-variables-conditionals-and-loops.md"
     },
     {
+        "title": "Fixed Price Web Development: Your Budget-Friendly Solution",
+        "slug": "fixed-price-web-development-your-budget-friendly-solution",
+        "author": "Akbar Zubairi",
+        "source": "devto_webdev",
+        "published": "Mon, 06 Jul 2026 15:34:37 +0000",
+        "description": "Why Choose Fixed Price Web Development? When it comes to building a website for your small business, cost and clarity are key concerns. Fixed price web devel...",
+        "keywords": "price, fixed, development, your, projects, web, you, budget",
+        "generated": "2026-07-06T15:45:24.413850",
+        "file": "fixed-price-web-development-your-budget-friendly-solution.md"
+    },
+    {
         "title": "Developer take on: Running local models is good now",
         "slug": "developer-take-on-running-local-models-is-good-now",
         "author": "Kelvin Kariuki",
@@ -9295,6 +9372,17 @@
         "file": "memory-safe-context-switching-longjmp-setjmp-in-fil-c.md"
     },
     {
+        "title": "Optimizing Timefold for Constraint-Based Scheduling in Java Applications",
+        "slug": "optimizing-timefold-for-constraint-based-scheduling-in-java-applications",
+        "author": "Anshika Jain",
+        "source": "devto_webdev",
+        "published": "Mon, 06 Jul 2026 15:36:54 +0000",
+        "description": "Scheduling becomes difficult long before infrastructure reaches its limits. Many Java applications process thousands of tasks, employees, vehicles, or produc...",
+        "keywords": "timefold, optimization, scheduling, business, constraints, production, constraint, java",
+        "generated": "2026-07-06T15:45:24.413088",
+        "file": "optimizing-timefold-for-constraint-based-scheduling-in-java-applications.md"
+    },
+    {
         "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
         "slug": "show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai",
         "author": "martiano",
@@ -10349,6 +10437,17 @@
         "keywords": "chatgpt, codex, samsung, can, data, electronics, technical, tools",
         "generated": "2026-06-23T09:53:37.259985",
         "file": "samsung-electronics-brings-chatgpt-and-codex-to-employees.md"
+    },
+    {
+        "title": "Food Blog Platform — Daily Dev Log",
+        "slug": "food-blog-platform-daily-dev-log",
+        "author": "Arslon Erkinov",
+        "source": "devto_python",
+        "published": "Mon, 06 Jul 2026 15:15:22 +0000",
+        "description": "Today's development session wasn't about adding a big feature—it was about making the project stronger. As the application grows, I find myself spending more...",
+        "keywords": "user, new, what, experience, every, today, feature, project",
+        "generated": "2026-07-06T15:45:24.411371",
+        "file": "food-blog-platform-daily-dev-log.md"
     },
     {
         "title": "The Brain v1.0 — building open-source workflow orchestration the boring way",
@@ -11660,6 +11759,17 @@
         "file": "ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks.md"
     },
     {
+        "title": "Python Tutorial: Show HN: Pet Reminder – A macOS reminder app with",
+        "slug": "python-tutorial-show-hn-pet-reminder-a-macos-reminder-app-with",
+        "author": "Anna lilith",
+        "source": "devto_python",
+        "published": "Mon, 06 Jul 2026 15:14:11 +0000",
+        "description": "Python Tutorial: Show HN: Pet Reminder – A macOS reminder app with In this tutorial, we'll cover how to show hn: pet reminder – a macos reminder app with usi...",
+        "keywords": "python, reminder, code, tutorial, show, pet, macos, app",
+        "generated": "2026-07-06T15:45:24.411582",
+        "file": "python-tutorial-show-hn-pet-reminder-a-macos-reminder-app-with.md"
+    },
+    {
         "title": "Clearbit died. Here's a pay-per-call company enrichment API for AI agents ($0.03/lookup)",
         "slug": "clearbit-died-heres-a-pay-per-call-company-enrichment-api-for-ai-agents-003lookup",
         "author": "Tuf Ti",
@@ -12286,6 +12396,17 @@
         "keywords": "data, google, database, user, built, stack, app, under",
         "generated": "2026-06-24T19:54:11.165178",
         "file": "how-i-built-deployed-and-google-indexed-a-full-stack-ai-app-in-under-24-hours-published-true.md"
+    },
+    {
+        "title": "I Run 1,000 Agents in Production. Here's What I Learned About Reliability",
+        "slug": "i-run-1000-agents-in-production-heres-what-i-learned-about-reliability",
+        "author": "wzg0911",
+        "source": "devto_python",
+        "published": "Mon, 06 Jul 2026 15:27:09 +0000",
+        "description": "The 3 AM Wake-Up Call Last month, my phone buzzed at 3:17 AM. A Slack alert informed me that my OpenAI bill had jumped from $47 to $5,847 in 58 minutes. A wh...",
+        "keywords": "agent, ark, agents, model, output, not, charge, production",
+        "generated": "2026-07-06T15:45:24.410686",
+        "file": "i-run-1000-agents-in-production-heres-what-i-learned-about-reliability.md"
     },
     {
         "title": "LiteParse: A Fast, Local Document Parser for Developers",
@@ -14158,6 +14279,17 @@
         "file": "the-passive-income-blueprint-that-ai-makes-possible-in-2026.md"
     },
     {
+        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+        "slug": "amd-ryzen-ai-halo-4k-ai-dev-kit",
+        "author": "LabsLucas",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 15:01:18 +0000",
+        "description": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 17 # Comments: 17",
+        "keywords": "amd, ryzen, halo, url, https, com, comments, dev",
+        "generated": "2026-07-06T15:45:24.409770",
+        "file": "amd-ryzen-ai-halo-4k-ai-dev-kit.md"
+    },
+    {
         "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
         "slug": "amazon-announces-multibillion-dollar-data-center-in-missouri",
         "author": "thelonelyborg",
@@ -14728,6 +14860,17 @@
         "keywords": "migrate, openclaw, url, https, com, comments, article, hermes",
         "generated": "2026-06-18T15:38:46.159235",
         "file": "migrate-from-openclaw.md"
+    },
+    {
+        "title": "AI PPC Strategies for Higher Ad Returns",
+        "slug": "ai-ppc-strategies-for-higher-ad-returns",
+        "author": "Shivatechdigital",
+        "source": "devto_webdev",
+        "published": "Mon, 06 Jul 2026 15:37:58 +0000",
+        "description": "Originally published at shivatechdigital.com Read Full Article Click here to read the complete article on our website About ShivaTechDigital: We are a leadin...",
+        "keywords": "our, shivatechdigital, read, article, website, ppc, strategies, higher",
+        "generated": "2026-07-06T15:45:24.412638",
+        "file": "ai-ppc-strategies-for-higher-ad-returns.md"
     },
     {
         "title": "Agent Series (20): Harness in Production — From Single File to Reusable Package",
@@ -16226,6 +16369,17 @@
         "file": "10-ai-tools-that-will-replace-your-virtual-assistant.md"
     },
     {
+        "title": "How I Built a Multi-Agent AI Research Suite with Human-in-the-Loop Validation",
+        "slug": "how-i-built-a-multi-agent-ai-research-suite-with-human-in-the-loop-validation",
+        "author": "Emmanuel Utibe Ernest",
+        "source": "devto_python",
+        "published": "Mon, 06 Jul 2026 15:21:39 +0000",
+        "description": "Introduction Everyone is talking about autonomous AI agents. Give an agent internet access, connect it to an LLM, and it can research topics, write reports, ...",
+        "keywords": "agent, research, human, agents, project, engineering, systems, one",
+        "generated": "2026-07-06T15:45:24.411165",
+        "file": "how-i-built-a-multi-agent-ai-research-suite-with-human-in-the-loop-validation.md"
+    },
+    {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",
         "slug": "moving-from-chatbots-to-agents-testing-openai-operator",
         "author": "Puneet Khandelwal",
@@ -17467,6 +17621,17 @@
         "keywords": "iga, agents, enterprise, platforms, first, look, expose, structural",
         "generated": "2026-07-04T08:44:47.977549",
         "file": "first-look-enterprise-iga-platforms-expose-structural-gaps-as-ai-agents-proliferate.md"
+    },
+    {
+        "title": "Emily Bender Sets the Record Straight on Stochastic Parrots",
+        "slug": "emily-bender-sets-the-record-straight-on-stochastic-parrots",
+        "author": "digital55",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 14:45:31 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/stochastic-parrot Comments URL: https://news.ycombinator.com/item?id=48805401 Points: 39 # Comments: 18",
+        "keywords": "stochastic, url, https, comments, emily, bender, sets, record",
+        "generated": "2026-07-06T15:45:24.410084",
+        "file": "emily-bender-sets-the-record-straight-on-stochastic-parrots.md"
     },
     {
         "title": "From Dirt to Inference: Why I Am Starting at the Family Table",
@@ -18941,6 +19106,17 @@
         "keywords": "project, forgepygen, files, code, development, create, your, local",
         "generated": "2026-06-18T20:32:55.630086",
         "file": "forgepygen-turning-natural-language-into-project-structures.md"
+    },
+    {
+        "title": "I rebuilt a Texas city's open data portal in 30 minutes with Claude Code",
+        "slug": "i-rebuilt-a-texas-citys-open-data-portal-in-30-minutes-with-claude-code",
+        "author": "Anuar Ustayev",
+        "source": "devto_ai",
+        "published": "Mon, 06 Jul 2026 15:38:34 +0000",
+        "description": "The City of Kyle, TX has an open data portal. That already puts it ahead of most cities its size: budgets, investment reports, police data, water utilities, ...",
+        "keywords": "portaljs, portal, data, city, kyle, open, one, https",
+        "generated": "2026-07-06T15:45:24.414949",
+        "file": "i-rebuilt-a-texas-citys-open-data-portal-in-30-minutes-with-claude-code.md"
     },
     {
         "title": "bipixie-mcp added to PyPI",
@@ -21605,6 +21781,17 @@
         "file": "carplay-is-additive.md"
     },
     {
+        "title": "Resetting Xbox",
+        "slug": "resetting-xbox",
+        "author": "dijksterhuis",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 14:18:23 +0000",
+        "description": "Article URL: https://news.xbox.com/en-us/2026/07/06/resetting-xbox/ Comments URL: https://news.ycombinator.com/item?id=48804993 Points: 45 # Comments: 17",
+        "keywords": "xbox, resetting, url, https, news, com, comments, article",
+        "generated": "2026-07-06T15:45:24.410326",
+        "file": "resetting-xbox.md"
+    },
+    {
         "title": "Why Reading Interview Tips Doesn't Work — And What Actually Does",
         "slug": "why-reading-interview-tips-doesnt-work-and-what-actually-does",
         "author": "Om Bhandwalkar",
@@ -21636,6 +21823,17 @@
         "keywords": "you, why, return, not, list, matters, key, what",
         "generated": "2026-06-11T10:47:52.347551",
         "file": "top-12-python-interview-problems-for-data-engineers-with-answers.md"
+    },
+    {
+        "title": "Built a Conventional Commits CLI with free AI tools (zero cost)",
+        "slug": "built-a-conventional-commits-cli-with-free-ai-tools-zero-cost",
+        "author": "MonoBuild Studio",
+        "source": "devto_ai",
+        "published": "Mon, 06 Jul 2026 15:40:38 +0000",
+        "description": "Built a Conventional Commits CLI with free AI tools (zero cost) Staring at a staged diff trying to summarize it in one sentence is a tax every developer pays...",
+        "keywords": "commit, built, conventional, staged, diff, sage, cli, free",
+        "generated": "2026-07-06T15:45:24.414062",
+        "file": "built-a-conventional-commits-cli-with-free-ai-tools-zero-cost.md"
     },
     {
         "title": "Why ‘Move Fast, Break Things’ Is Killing Your Custom AI Agent Development Before Year 2?",
@@ -24410,6 +24608,17 @@
         "file": "i-built-a-data-contract-validator-in-pure-python-no-pandas-no-pyyaml-and-it-caught-a-30-revenue-ghost.md"
     },
     {
+        "title": "Tencent Hunyuan Hy3: 295B MoE Hits 90% Agent Task Resolution",
+        "slug": "tencent-hunyuan-hy3-295b-moe-hits-90-agent-task-resolution",
+        "author": "gentic news",
+        "source": "devto_ai",
+        "published": "Mon, 06 Jul 2026 15:38:16 +0000",
+        "description": "Tencent launched Hunyuan Hy3, a 295B MoE model with 21B active parameters, claiming 90% agent task resolution, surpassing DeepSeek V4 Pro and Qwen 3.7 Max. T...",
+        "keywords": "agent, tencent, deepseek, qwen, active, model, pro, task",
+        "generated": "2026-07-06T15:45:24.415597",
+        "file": "tencent-hunyuan-hy3-295b-moe-hits-90-agent-task-resolution.md"
+    },
+    {
         "title": "Hypnotherapist for Anxiety: A Natural Path to Calm and Emotional Wellness",
         "slug": "hypnotherapist-for-anxiety-a-natural-path-to-calm-and-emotional-wellness",
         "author": "lionheartclinic",
@@ -25739,6 +25948,17 @@
         "keywords": "https, biz, biznode, business, blog, your, first, opportunity",
         "generated": "2026-06-24T09:40:50.191413",
         "file": "your-first-business-opportunity-in-3-commands-registerdirectory-in-biznodebot-wait-for-matches-then-mypulse-to-view.md"
+    },
+    {
+        "title": "Was kostet Online-Buchung wirklich im Jahr? Ehrliche Rechnung für Kleinunternehmer",
+        "slug": "was-kostet-online-buchung-wirklich-im-jahr-ehrliche-rechnung-fr-kleinunternehmer",
+        "author": "Victor Knapp",
+        "source": "devto_webdev",
+        "published": "Mon, 06 Jul 2026 15:44:31 +0000",
+        "description": "Viele Kleinunternehmer — Kosmetikstudios, Friseure, Physiotherapeuten, Fahrschulen — zögern bei Online-Buchung, weil die Kosten unklar sind. Hier eine ehrlic...",
+        "keywords": "buchung, die, website, jahr, bei, auf, kostet, online",
+        "generated": "2026-07-06T15:45:24.412508",
+        "file": "was-kostet-online-buchung-wirklich-im-jahr-ehrliche-rechnung-fr-kleinunternehmer.md"
     },
     {
         "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
