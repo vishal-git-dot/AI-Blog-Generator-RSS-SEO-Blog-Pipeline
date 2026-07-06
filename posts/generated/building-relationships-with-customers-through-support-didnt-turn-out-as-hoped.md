@@ -4,16 +4,16 @@ slug: "building-relationships-with-customers-through-support-didnt-turn-out-as-h
 author: "dabluck"
 source: "hackernews"
 published: "Mon, 06 Jul 2026 02:06:49 +0000"
-description: "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Comments URL: https://news.ycombinator.com/item?id=48799929 Points: 7 ..."
+description: "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Comments URL: https://news.ycombinator.com/item?id=48799929 Points: 14..."
 keywords: "support, url, https, comments, building, relationships, customers, through"
-generated: "2026-07-06T04:05:09.363477"
+generated: "2026-07-06T10:49:20.342061"
 ---
 
 # Building relationships with customers through support didn't turn out as hoped
 
 ## Overview
 
-Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Comments URL: https://news.ycombinator.com/item?id=48799929 Points: 7 # Comments: 0
+Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Comments URL: https://news.ycombinator.com/item?id=48799929 Points: 144 # Comments: 91
 
 ## Key Insights
 

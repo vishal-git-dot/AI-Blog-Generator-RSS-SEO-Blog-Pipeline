@@ -4,16 +4,16 @@ slug: "the-sneakerweb"
 author: "GalaxyNova"
 source: "hackernews"
 published: "Mon, 06 Jul 2026 01:35:09 +0000"
-description: "Article URL: https://sneakerweb.org/ Comments URL: https://news.ycombinator.com/item?id=48799781 Points: 24 # Comments: 5"
+description: "Article URL: https://sneakerweb.org/ Comments URL: https://news.ycombinator.com/item?id=48799781 Points: 62 # Comments: 15"
 keywords: "sneakerweb, url, https, comments, article, org, news, ycombinator"
-generated: "2026-07-06T04:05:09.363638"
+generated: "2026-07-06T10:49:20.342206"
 ---
 
 # The Sneakerweb
 
 ## Overview
 
-Article URL: https://sneakerweb.org/ Comments URL: https://news.ycombinator.com/item?id=48799781 Points: 24 # Comments: 5
+Article URL: https://sneakerweb.org/ Comments URL: https://news.ycombinator.com/item?id=48799781 Points: 62 # Comments: 15
 
 ## Key Insights
 
