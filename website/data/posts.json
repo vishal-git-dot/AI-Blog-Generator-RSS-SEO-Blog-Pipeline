@@ -3833,9 +3833,9 @@
         "author": "bilsbie",
         "source": "hackernews",
         "published": "Tue, 07 Jul 2026 00:14:21 +0000",
-        "description": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Comments URL: https://news.ycombinator.com/item?id=48812156 Points: 86 # Comments...",
+        "description": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Comments URL: https://news.ycombinator.com/item?id=48812156 Points: 214 # Comment...",
         "keywords": "own, dna, home, url, https, com, comments, how",
-        "generated": "2026-07-07T03:56:09.934314",
+        "generated": "2026-07-07T09:51:54.393071",
         "file": "how-to-sequence-your-own-dna-at-home.md"
     },
     {
@@ -5885,6 +5885,17 @@
         "file": "answer.md"
     },
     {
+        "title": "Agent Trajectory and Convergence: Why the Path Matters in AI Agent Evals",
+        "slug": "agent-trajectory-and-convergence-why-the-path-matters-in-ai-agent-evals",
+        "author": "Mahima Thacker",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 09:45:03 +0000",
+        "description": "When evaluating AI agents, we often focus on the final answer. Was it correct? Was it useful? Was it grounded? That matters. But for agents, there is another...",
+        "keywords": "agent, steps, convergence, path, answer, final, takes, score",
+        "generated": "2026-07-07T09:51:54.398807",
+        "file": "agent-trajectory-and-convergence-why-the-path-matters-in-ai-agent-evals.md"
+    },
+    {
         "title": "Web Security Basics: Every Developer Must Know (2026)",
         "slug": "web-security-basics-every-developer-must-know-2026",
         "author": "Alex Chen",
@@ -6241,10 +6252,10 @@
         "slug": "how-to-build-a-faceless-youtube-channel-with-ai-in-30-days",
         "author": "Already Here LLC",
         "source": "devto_ai",
-        "published": "Tue, 09 Jun 2026 15:09:28 +0000",
-        "description": "How to Build a Faceless YouTube Channel with AI in 30 Days In today’s digital landscape, creating a faceless YouTube channel can be an efficient way to gener...",
-        "keywords": "your, you, channel, can, tools, content, videos, youtube",
-        "generated": "2026-06-09T15:18:05.201390",
+        "published": "Tue, 07 Jul 2026 09:42:26 +0000",
+        "description": "How to build a faceless YouTube channel with AI in 30 days Top AI Tools Making Money AI Writer Pro - $50/month, earn $500+ in affiliate commission Video Gene...",
+        "keywords": "how, build, faceless, youtube, channel, days, tools, earn",
+        "generated": "2026-07-07T09:51:54.399526",
         "file": "how-to-build-a-faceless-youtube-channel-with-ai-in-30-days.md"
     },
     {
@@ -8558,6 +8569,17 @@
         "file": "what-happened-after-2k-people-tried-to-hack-my-ai-assistant.md"
     },
     {
+        "title": "AWS Is Not Simpler. Agents Just Got Better at Reading It.",
+        "slug": "aws-is-not-simpler-agents-just-got-better-at-reading-it",
+        "author": "Takafumi Endo",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 09:46:03 +0000",
+        "description": "I optimized my architecture for the wrong model. I used to think black-box infrastructure was the right abstraction for AI-driven development. Vercel, Supaba...",
+        "keywords": "aws, more, not, hcl, agents, cloudflare, terraform, infra",
+        "generated": "2026-07-07T09:51:54.398089",
+        "file": "aws-is-not-simpler-agents-just-got-better-at-reading-it.md"
+    },
+    {
         "title": "5 mistakes job seekers make with AI tools in 2025",
         "slug": "5-mistakes-job-seekers-make-with-ai-tools-in-2025",
         "author": "Elyasians(elyasians.com)",
@@ -9546,6 +9568,17 @@
         "keywords": "timefold, optimization, scheduling, business, constraints, production, constraint, java",
         "generated": "2026-07-06T15:45:24.413088",
         "file": "optimizing-timefold-for-constraint-based-scheduling-in-java-applications.md"
+    },
+    {
+        "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+        "slug": "lago-yc-s21-is-hiring-for-our-gtm-team",
+        "author": "AnhTho_FR",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 07:00:27 +0000",
+        "description": "Article URL: https://jobs.ashbyhq.com/lago Comments URL: https://news.ycombinator.com/item?id=48814509 Points: 0 # Comments: 0",
+        "keywords": "lago, url, https, com, comments, hiring, our, gtm",
+        "generated": "2026-07-07T09:51:54.392806",
+        "file": "lago-yc-s21-is-hiring-for-our-gtm-team.md"
     },
     {
         "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
@@ -12265,6 +12298,17 @@
         "file": "your-pipeline-is-259h-behind-catching-inflation-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "BizNode Pro: BizChannel decentralized ad marketplace — advertise across a network of bot operators",
+        "slug": "biznode-pro-bizchannel-decentralized-ad-marketplace-advertise-across-a-network-of-bot-operators",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 09:45:17 +0000",
+        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
+        "keywords": "biznode, business, can, agents, https, you, biz, human",
+        "generated": "2026-07-07T09:51:54.398465",
+        "file": "biznode-pro-bizchannel-decentralized-ad-marketplace-advertise-across-a-network-of-bot-operators.md"
+    },
+    {
         "title": "DocumentDB – a MongoDB compatible open-source database",
         "slug": "documentdb-a-mongodb-compatible-open-source-database",
         "author": "amai",
@@ -13421,6 +13465,17 @@
         "file": "quick-tip-httpx-is-the-modern-replacement-for-requests-2026.md"
     },
     {
+        "title": "How to Write a Script That Finds Every Parameterized URL Variant on Your Site",
+        "slug": "how-to-write-a-script-that-finds-every-parameterized-url-variant-on-your-site",
+        "author": "137Foundry",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 09:33:40 +0000",
+        "description": "Before you can fix duplicate content caused by URL parameters, you need to know the actual scope. Guessing from a few examples in Search Console misses most ...",
+        "keywords": "path, you, query, groups, line, base, def, not",
+        "generated": "2026-07-07T09:51:54.394105",
+        "file": "how-to-write-a-script-that-finds-every-parameterized-url-variant-on-your-site.md"
+    },
+    {
         "title": "React Fiber Architecture Explained: How React Renders UI",
         "slug": "react-fiber-architecture-explained-how-react-renders-ui",
         "author": "Dev Encyclopedia",
@@ -14411,6 +14466,17 @@
         "file": "crunchbase-killed-its-free-api-heres-how-to-rebuild-it-2026.md"
     },
     {
+        "title": "I gave an LLM agent write access to my cloud drive. Three bugs taught me how to constrain it.",
+        "slug": "i-gave-an-llm-agent-write-access-to-my-cloud-drive-three-bugs-taught-me-how-to-constrain-it",
+        "author": "Fancy39",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 09:44:44 +0000",
+        "description": "I wanted a media library that knew the difference between what should exist and what does. Most automation I tried picked one side. Some tools search well an...",
+        "keywords": "model, agent, one, drive, your, you, not, own",
+        "generated": "2026-07-07T09:51:54.399348",
+        "file": "i-gave-an-llm-agent-write-access-to-my-cloud-drive-three-bugs-taught-me-how-to-constrain-it.md"
+    },
+    {
         "title": "I Was Shocked by How Cheap LLMs Can Be — A Bootcamp Grad's Guide",
         "slug": "i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide",
         "author": "Alex Chen",
@@ -14618,6 +14684,17 @@
         "keywords": "ceos, who, think, replaces, their, employees, just, bad",
         "generated": "2026-06-09T20:13:36.278858",
         "file": "ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md"
+    },
+    {
+        "title": "What Makes a Top Python Development Company Stand Out?",
+        "slug": "what-makes-a-top-python-development-company-stand-out",
+        "author": "Devang Chavda",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 09:22:56 +0000",
+        "description": "A better Python development company knows of the ecosystem of Python web frameworks like Django, Flask, and FastAPI, has a proven history, has amazing skills...",
+        "keywords": "python, development, you, data, company, they, learning, machine",
+        "generated": "2026-07-07T09:51:54.395572",
+        "file": "what-makes-a-top-python-development-company-stand-out.md"
     },
     {
         "title": "3 Best Platforms to Buy Aged Telegram Accounts in the US",
@@ -15762,6 +15839,17 @@
         "keywords": "encryption, aes, tool, key, data, crypto, implementation, browser",
         "generated": "2026-06-21T14:23:01.493041",
         "file": "introducing-aes-encryption-a-quick-tour.md"
+    },
+    {
+        "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+        "slug": "yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 08:39:51 +0000",
+        "description": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media Comments URL: https://news.ycombinator.com/item?id=48815117 ...",
+        "keywords": "url, https, com, comments, ceo, says, ships, loc",
+        "generated": "2026-07-07T09:51:54.392678",
+        "file": "yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood.md"
     },
     {
         "title": "I open-sourced the product that IS the business. Here's the cold logic.",
@@ -17711,6 +17799,17 @@
         "file": "5-baidu-ocr-goldbean.md"
     },
     {
+        "title": "General Managers Mailing List Connect with Business Leaders and Drive Targeted Growth",
+        "slug": "general-managers-mailing-list-connect-with-business-leaders-and-drive-targeted-growth",
+        "author": "Ready Mailing Team",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 09:47:43 +0000",
+        "description": "The General Managers Mailing List from Ready Mailing Team is a valuable B2B marketing database designed to help organizations connect with experienced profes...",
+        "keywords": "mailing, general, managers, business, list, marketing, professionals, database",
+        "generated": "2026-07-07T09:51:54.396259",
+        "file": "general-managers-mailing-list-connect-with-business-leaders-and-drive-targeted-growth.md"
+    },
+    {
         "title": "The back cover of C++: The Language raises questions not answered by front cover",
         "slug": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover",
         "author": "paulmooreparks",
@@ -18468,6 +18567,17 @@
         "keywords": "mobile, agentic, anthropic, control, claude, cowork, tasks, first",
         "generated": "2026-06-27T08:43:42.525976",
         "file": "first-look-anthropic-tests-mobile-remote-control-for-claude-cowork-agentic-desktop-tasks.md"
+    },
+    {
+        "title": "Stegachirp: Hide Messages in Audio Files Using Pure Python (No NumPy, No SciPy)",
+        "slug": "stegachirp-hide-messages-in-audio-files-using-pure-python-no-numpy-no-scipy",
+        "author": "Aman Sachan",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 09:37:05 +0000",
+        "description": "Hide a Message in a WAV File With Pure Python (No NumPy, No FFT) I built stegachirp because I wanted to send a short secret message inside an audio file usin...",
+        "keywords": "khz, bit, message, out, audio, math, wav, bits",
+        "generated": "2026-07-07T09:51:54.393586",
+        "file": "stegachirp-hide-messages-in-audio-files-using-pure-python-no-numpy-no-scipy.md"
     },
     {
         "title": "Epic Games announces Lore version control system",
@@ -19348,6 +19458,17 @@
         "keywords": "systems, robot, factory, specialized, robots, just, isn, control",
         "generated": "2026-06-12T04:40:33.071166",
         "file": "the-factory-robot-that-doesnt-specialize-koreas-hidden-edge.md"
+    },
+    {
+        "title": "Can an LLM generate your Django project boilerplate?",
+        "slug": "can-an-llm-generate-your-django-project-boilerplate",
+        "author": "Mikhail Podgurskiy",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 09:40:29 +0000",
+        "description": "Here is how I think starting a Django project should work. You type one sentence: Job board. Postgres, Google login, background tasks, Stripe, deploy to my ...",
+        "keywords": "project, code, model, generated, you, seedkit, can, one",
+        "generated": "2026-07-07T09:51:54.397404",
+        "file": "can-an-llm-generate-your-django-project-boilerplate.md"
     },
     {
         "title": "Amazon Bedrock AgentCore Web Search: The Production Guide",
@@ -21275,6 +21396,17 @@
         "file": "your-pipeline-is-256h-behind-catching-law-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "How I Cut My AI API Bill by 95% — A Freelance Dev Playbook",
+        "slug": "how-i-cut-my-ai-api-bill-by-95-a-freelance-dev-playbook",
+        "author": "loyaldash",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 09:26:14 +0000",
+        "description": "How I Cut My AI API Bill by 95% — A Freelance Dev Playbook I almost shut down my side hustle last March. Not because the work dried up. Not because clients g...",
+        "keywords": "prompt, requests, return, model, deepseek, month, three, because",
+        "generated": "2026-07-07T09:51:54.394746",
+        "file": "how-i-cut-my-ai-api-bill-by-95-a-freelance-dev-playbook.md"
+    },
+    {
         "title": "Review: mailX by mailwarm - Email deliverability toolkit for humans and AI agents",
         "slug": "review-mailx-by-mailwarm-email-deliverability-toolkit-for-humans-and-ai-agents",
         "author": "AI Tool Hunter",
@@ -21801,6 +21933,17 @@
         "keywords": "sentiment, defence, your, pulsebit, you, pipeline, english, can",
         "generated": "2026-06-15T12:29:05.502587",
         "file": "your-pipeline-is-283h-behind-catching-defence-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "The One Tool Developers Use to Finally Launch Products Without Wasting Months",
+        "slug": "the-one-tool-developers-use-to-finally-launch-products-without-wasting-months",
+        "author": "Areg",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 09:39:33 +0000",
+        "description": "You ever build something impressive and still feel stuck at the moment you’re supposed to launch? It’s the same cycle every developer knows: the product is r...",
+        "keywords": "one, launch, you, too, many, without, build, your",
+        "generated": "2026-07-07T09:51:54.397552",
+        "file": "the-one-tool-developers-use-to-finally-launch-products-without-wasting-months.md"
     },
     {
         "title": "The Most Expensive AI Standard Problem Is the One You Cannot See Yet.",
@@ -22595,6 +22738,17 @@
         "file": "n8n-discord-node-send-messages-manage-channels-and-build-bots-in-your-workflows-free-workflow-json.md"
     },
     {
+        "title": "I built a 5-agent swarm that researches crypto tokens and refuses to hallucinate numbers",
+        "slug": "i-built-a-5-agent-swarm-that-researches-crypto-tokens-and-refuses-to-hallucinate-numbers",
+        "author": "Max",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 09:44:24 +0000",
+        "description": "Every AI crypto assistant I tried had the same failure mode. Ask it about a token and it hands you a clean, confident price that is just... wrong. Or a mar...",
+        "keywords": "model, data, you, one, chain, every, source, prompt",
+        "generated": "2026-07-07T09:51:54.396660",
+        "file": "i-built-a-5-agent-swarm-that-researches-crypto-tokens-and-refuses-to-hallucinate-numbers.md"
+    },
+    {
         "title": "Astrophysics & AI with Python: Predicting Asteroid Positions with Skyfield",
         "slug": "astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield",
         "author": "Programming Central",
@@ -23231,6 +23385,17 @@
         "keywords": "url, https, com, comments, llms, not, merely, reflect",
         "generated": "2026-06-22T12:15:23.441526",
         "file": "llms-do-not-merely-reflect-the-bias-of-their-training-they-police-it.md"
+    },
+    {
+        "title": "The Art of Computer Programming by Donald E. Knuth",
+        "slug": "the-art-of-computer-programming-by-donald-e-knuth",
+        "author": "archargelod",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 05:19:03 +0000",
+        "description": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/taocp.html Comments URL: https://news.ycombinator.com/item?id=48813929 Points: 16 # Comments: 3",
+        "keywords": "knuth, url, https, comments, art, computer, programming, donald",
+        "generated": "2026-07-07T09:51:54.392927",
+        "file": "the-art-of-computer-programming-by-donald-e-knuth.md"
     },
     {
         "title": "I Built a Three-Agent AI Training Simulator on Telegram — Here's How It Works",
@@ -24025,6 +24190,17 @@
         "file": "ai-driven-sports-prediction-software-key-technical-specs-every-investor-should-understand.md"
     },
     {
+        "title": "Get Your Gaming Console Back to Peak Performance",
+        "slug": "get-your-gaming-console-back-to-peak-performance",
+        "author": "Shazia Khan",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 09:40:30 +0000",
+        "description": "Don't Ignore These Early Signs of Console Failure When a big fault shows up in a gaming console, it usually lets you know in a bunch of ways. If it is happen...",
+        "keywords": "console, can, repair, you, your, gaming, issues, they",
+        "generated": "2026-07-07T09:51:54.397075",
+        "file": "get-your-gaming-console-back-to-peak-performance.md"
+    },
+    {
         "title": "Hugging Face Inference API: Run 200,000+ AI Models for Free with Python",
         "slug": "hugging-face-inference-api-run-200000-ai-models-for-free-with-python",
         "author": "qing",
@@ -24595,6 +24771,17 @@
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
         "generated": "2026-06-15T05:01:58.094730",
         "file": "python-decorators-explained-simply.md"
+    },
+    {
+        "title": "Microsoft Can Track Users via a Windows Device ID",
+        "slug": "microsoft-can-track-users-via-a-windows-device-id",
+        "author": "ifh-hn",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 08:54:03 +0000",
+        "description": "Article URL: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "microsoft, can, track, users, via, windows, device, url",
+        "generated": "2026-07-07T09:51:54.392510",
+        "file": "microsoft-can-track-users-via-a-windows-device-id.md"
     },
     {
         "title": "As a result of a US Government directive, we are suspending access to Fable 5",
@@ -25563,6 +25750,17 @@
         "keywords": "state, one, truth, query, react, not, redux, zustand",
         "generated": "2026-06-21T09:58:05.291456",
         "file": "the-question-that-actually-decides-your-state-stack-its-not-redux-or-react-query.md"
+    },
+    {
+        "title": "Prof. Dr. Gustavo Henrique Valente: Building a Regime-Detection Layer for Brazilian Market Data",
+        "slug": "prof-dr-gustavo-henrique-valente-building-a-regime-detection-layer-for-brazilian-market-data",
+        "author": "Dr. Gustavo Henrique Valente",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 09:14:07 +0000",
+        "description": "Most financial dashboards start with prices. For a developer building analytical tools, that is understandable. Prices are available, easy to chart and simpl...",
+        "keywords": "should, system, block, inflation, rates, currency, regime, layer",
+        "generated": "2026-07-07T09:51:54.395922",
+        "file": "prof-dr-gustavo-henrique-valente-building-a-regime-detection-layer-for-brazilian-market-data.md"
     },
     {
         "title": "System Design Series #3: A Simple Framework for Designing Scalable Systems",
