@@ -1617,6 +1617,17 @@
         "file": "dopamine-fracking.md"
     },
     {
+        "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+        "slug": "ai-meets-cryptography-1-what-ai-found-in-cloudflares-circl",
+        "author": "duha",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 18:36:35 +0000",
+        "description": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/ Comments URL: https://news.ycombinator.com/item?id=48821749 Points: 18 # Comments: 0",
+        "keywords": "circl, url, https, comments, meets, cryptography, what, found",
+        "generated": "2026-07-07T20:04:00.199224",
+        "file": "ai-meets-cryptography-1-what-ai-found-in-cloudflares-circl.md"
+    },
+    {
         "title": "Why did this journal retract two 1940s papers by Max Planck?",
         "slug": "why-did-this-journal-retract-two-1940s-papers-by-max-planck",
         "author": "DR_MING",
@@ -2583,6 +2594,17 @@
         "keywords": "json, html, agent, visual, hyperframes, video, grounding, heygen",
         "generated": "2026-06-23T04:02:13.419358",
         "file": "write-html-not-json-heygens-visual-grounding-trick.md"
+    },
+    {
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "slug": "show-hn-davit-a-apple-containers-ui",
+        "author": "xinit",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 18:44:29 +0000",
+        "description": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code. Comments URL: https://news.yc...",
+        "keywords": "apple, containers, use, comments, show, davit, mostly, vibe",
+        "generated": "2026-07-07T20:04:00.198909",
+        "file": "show-hn-davit-a-apple-containers-ui.md"
     },
     {
         "title": "Build a Recession Indicator with Unemployment + Inflation Data (Free API)",
@@ -4730,6 +4752,17 @@
         "file": "the-inline-html-almost-nobody-uses.md"
     },
     {
+        "title": "The Secret to On-Device Intelligence: Mastering Weight Pruning and Sparsity for Mobile NPUs",
+        "slug": "the-secret-to-on-device-intelligence-mastering-weight-pruning-and-sparsity-for-mobile-npus",
+        "author": "Programming Central",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 20:00:00 +0000",
+        "description": "The dream of truly personal, private, and instantaneous AI has always been bottlenecked by a single, massive problem: hardware constraints. We want Large Lan...",
+        "keywords": "val, model, npu, import, sparsity, hardware, private, system",
+        "generated": "2026-07-07T20:04:00.204791",
+        "file": "the-secret-to-on-device-intelligence-mastering-weight-pruning-and-sparsity-for-mobile-npus.md"
+    },
+    {
         "title": "Making product recalls executable with Aurora DSQL and Vercel",
         "slug": "making-product-recalls-executable-with-aurora-dsql-and-vercel",
         "author": "Ujwal Vanjare",
@@ -5432,6 +5465,17 @@
         "keywords": "url, https, com, comments, cypherpunk, library, article, www",
         "generated": "2026-06-08T11:08:35.049872",
         "file": "the-cypherpunk-library.md"
+    },
+    {
+        "title": "The Python Feature That Instantly Felt Magical to Me... List Comprehensions",
+        "slug": "the-python-feature-that-instantly-felt-magical-to-me-list-comprehensions",
+        "author": "Samiksha Srivastav",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 19:13:37 +0000",
+        "description": "When I first started learning Python, one thing immediately stood out to me: squares = [x*x for x in range(5)] I remember staring at this for a second like: ...",
+        "keywords": "list, python, range, comprehensions, nums, print, output, code",
+        "generated": "2026-07-07T20:04:00.201738",
+        "file": "the-python-feature-that-instantly-felt-magical-to-me-list-comprehensions.md"
     },
     {
         "title": "An AI Agent Audits Your LinkedIn Profile in Public — Here's the Stack",
@@ -7183,6 +7227,17 @@
         "file": "how-i-actually-make-money-talking-about-ai-the-revenue-breakdown-nobody-shares.md"
     },
     {
+        "title": "Decrypting View State Messages",
+        "slug": "decrypting-view-state-messages",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 18:32:26 +0000",
+        "description": "Article URL: https://zeroed.tech/blog/decrypting-viewstate-messages/ Comments URL: https://news.ycombinator.com/item?id=48821691 Points: 4 # Comments: 3",
+        "keywords": "decrypting, messages, url, https, comments, view, state, article",
+        "generated": "2026-07-07T20:04:00.199327",
+        "file": "decrypting-view-state-messages.md"
+    },
+    {
         "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
         "slug": "manufact-yc-s25-is-hiring-a-developer-advocate-in-sf",
         "author": "luigipederzani",
@@ -8470,6 +8525,17 @@
         "file": "from-prompts-to-ai-agents-a-frontend-developers-guide-to-mastery.md"
     },
     {
+        "title": "I Benchmarked China's Top 4 LLMs — The Numbers Don't Lie",
+        "slug": "i-benchmarked-chinas-top-4-llms-the-numbers-dont-lie",
+        "author": "RileyKim",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 19:42:08 +0000",
+        "description": "So here's what happened: i Benchmarked China's Top 4 LLMs — The Numbers Don't Lie Last quarter I landed a consulting gig that needed me to route an entire pr...",
+        "keywords": "model, glm, quality, kimi, deepseek, you, output, client",
+        "generated": "2026-07-07T20:04:00.200131",
+        "file": "i-benchmarked-chinas-top-4-llms-the-numbers-dont-lie.md"
+    },
+    {
         "title": "How to Build a Zero-Trust Docker Sandbox for Local AI & Python Applications",
         "slug": "how-to-build-a-zero-trust-docker-sandbox-for-local-ai-python-applications",
         "author": "Panuganti Siva Aditya",
@@ -9361,6 +9427,17 @@
         "file": "ask-hn-what-are-you-working-on-june-2026.md"
     },
     {
+        "title": "I Built My Own AI Assistant on a $30 SSD — Here's How (Free Course)",
+        "slug": "i-built-my-own-ai-assistant-on-a-30-ssd-heres-how-free-course",
+        "author": "LeYa AI",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 19:55:36 +0000",
+        "description": "I'm a fiber optics engineer, not a software developer. A few months ago, I got tired of paying $20+/month for AI subscriptions and decided to build my own. T...",
+        "keywords": "course, local, min, ssd, free, api, own, assistant",
+        "generated": "2026-07-07T20:04:00.205801",
+        "file": "i-built-my-own-ai-assistant-on-a-30-ssd-heres-how-free-course.md"
+    },
+    {
         "title": "Google Search Console Impressions but No Clicks: What It Really Means and How to Fix It",
         "slug": "google-search-console-impressions-but-no-clicks-what-it-really-means-and-how-to-fix-it",
         "author": "anum saeed",
@@ -10241,6 +10318,17 @@
         "file": "the-curious-case-of-low-protein-diets.md"
     },
     {
+        "title": "Scrapling MCP: Giving Claude Code a Real Web Scraper",
+        "slug": "scrapling-mcp-giving-claude-code-a-real-web-scraper",
+        "author": "C. Wheatley",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 19:40:04 +0000",
+        "description": "Claude Code can read my files and run my shell, but out of the box it can't actually go get a page from the live web in a way that survives modern anti-bot d...",
+        "keywords": "scrapling, claude, mcp, which, code, real, page, server",
+        "generated": "2026-07-07T20:04:00.200671",
+        "file": "scrapling-mcp-giving-claude-code-a-real-web-scraper.md"
+    },
+    {
         "title": "CSS Grid vs Flexbox: Choosing Your Path Like Neo in The Matrix",
         "slug": "css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix",
         "author": "Timevolt",
@@ -11088,6 +11176,17 @@
         "file": "seo-is-no-longer-enough-a-developers-guide-to-sxo-cro-geo-aeo-ai-overviews.md"
     },
     {
+        "title": "Claude Fable 5 refuses tool calls based on semantics, not logic",
+        "slug": "claude-fable-5-refuses-tool-calls-based-on-semantics-not-logic",
+        "author": "Sergey Inozemtsev",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 19:14:40 +0000",
+        "description": "I was migrating llm_api_adapter — an open-source universal adapter for LLM APIs — to support Claude Fable 5. The tool was harmless. The logic was identical t...",
+        "keywords": "tool, what, fable, name, token, resp, tools, score",
+        "generated": "2026-07-07T20:04:00.201495",
+        "file": "claude-fable-5-refuses-tool-calls-based-on-semantics-not-logic.md"
+    },
+    {
         "title": "John Carmack on Fabrice Bellard",
         "slug": "john-carmack-on-fabrice-bellard",
         "author": "apitman",
@@ -11295,6 +11394,17 @@
         "keywords": "trellis, product, lead, url, https, ycombinator, com, comments",
         "generated": "2026-06-17T20:21:04.200623",
         "file": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access.md"
+    },
+    {
+        "title": "How to Fix AI Agentic Workflow Drift in Corporate Production Operations Cleanly",
+        "slug": "how-to-fix-ai-agentic-workflow-drift-in-corporate-production-operations-cleanly",
+        "author": "biz tech pulse hub",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 19:57:07 +0000",
+        "description": "Hey devs, deploying advanced autonomous enterprise technology environments smoothly requires absolute logical execution stability boundaries. Modern business...",
+        "keywords": "your, operations, corporate, smoothly, execution, business, tracking, drops",
+        "generated": "2026-07-07T20:04:00.205612",
+        "file": "how-to-fix-ai-agentic-workflow-drift-in-corporate-production-operations-cleanly.md"
     },
     {
         "title": "No AI Model Passes the Real-Time Teamwork Test: GPTNT Benchmark Results",
@@ -11746,6 +11856,17 @@
         "keywords": "panther, data, can, security, databricks, cybersecurity, detection, solutions",
         "generated": "2026-06-20T04:12:08.215568",
         "file": "databricks-acquires-panther-a-new-era-in-cyberatt.md"
+    },
+    {
+        "title": "Exploring DeepSpec: Insights for Developers in Speculative Decoding",
+        "slug": "exploring-deepspec-insights-for-developers-in-speculative-decoding",
+        "author": "David Díaz",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 19:37:37 +0000",
+        "description": "The recent surge of interest in speculative decoding algorithms is gaining traction in the developer community, exemplified by the launch of DeepSpec. This G...",
+        "keywords": "deepspec, decoding, speculative, developers, algorithms, teams, will, its",
+        "generated": "2026-07-07T20:04:00.201129",
+        "file": "exploring-deepspec-insights-for-developers-in-speculative-decoding.md"
     },
     {
         "title": "I turned a Claude Code-only web reader into a normal MCP server",
@@ -13982,6 +14103,17 @@
         "file": "from-0-to-2400month-my-ai-affiliate-journey-built-on-community-trust.md"
     },
     {
+        "title": "How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about",
+        "slug": "how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-problems-nobody-warned-me-about",
+        "author": "M.Bilal Khan",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 19:40:25 +0000",
+        "description": "I counted how many times I glanced at a notification during a coding session last week. Thirty-four times. Only four needed my attention. So I built Serious ...",
+        "keywords": "chrome, notification, you, world, extension, content, page, main",
+        "generated": "2026-07-07T20:04:00.203977",
+        "file": "how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-problems-nobody-warned-me-about.md"
+    },
+    {
         "title": "Meeting Recording With Real-Time Text Output",
         "slug": "meeting-recording-with-real-time-text-output",
         "author": "Hazel Xu",
@@ -15654,6 +15786,17 @@
         "file": "i-cut-my-ai-chatbot-bill-by-65-heres-the-exact-math.md"
     },
     {
+        "title": "Why Businesses Are Investing in Al-Driven Software Solutions in 2026",
+        "slug": "why-businesses-are-investing-in-al-driven-software-solutions-in-2026",
+        "author": "Sonia Velo",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 19:43:36 +0000",
+        "description": "Digital transformation is no longer a future goal—it has become a business necessity. Organizations of all sizes are embracing technology to streamline opera...",
+        "keywords": "software, development, company, technology, business, its, technologies, businesses",
+        "generated": "2026-07-07T20:04:00.203495",
+        "file": "why-businesses-are-investing-in-al-driven-software-solutions-in-2026.md"
+    },
+    {
         "title": "SuperCompress is now on PyPI! pip install supercompress in 1 line",
         "slug": "supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line",
         "author": "Arjun Shah",
@@ -17029,6 +17172,17 @@
         "file": "egg-consumption-inversely-correlated-with-alzheimers.md"
     },
     {
+        "title": "How to Fix Lovable Supabase Realtime Stream Replication Failures Cleanly",
+        "slug": "how-to-fix-lovable-supabase-realtime-stream-replication-failures-cleanly",
+        "author": "biz tech pulse hub",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 19:52:03 +0000",
+        "description": "Hey devs, running advanced autonomous generative system networks smoothly requires highly stable remote data transmission paths. Cloud-native architecture en...",
+        "keywords": "your, platform, database, tracking, replication, cleanly, system, processing",
+        "generated": "2026-07-07T20:04:00.202724",
+        "file": "how-to-fix-lovable-supabase-realtime-stream-replication-failures-cleanly.md"
+    },
+    {
         "title": "Advanced Linux System Administrator Interview Questions and Solutions",
         "slug": "advanced-linux-system-administrator-interview-questions-and-solutions",
         "author": "Rahul",
@@ -17214,6 +17368,17 @@
         "keywords": "sakana, rsi, lab, url, https, comments, recursive, self",
         "generated": "2026-06-05T20:02:11.234858",
         "file": "sakana-ais-recursive-self-improvement-rsi-lab.md"
+    },
+    {
+        "title": "OfficeCLI: Giving AI Agents the Power to Automate Word, Excel, and PowerPoint",
+        "slug": "officecli-giving-ai-agents-the-power-to-automate-word-excel-and-powerpoint",
+        "author": "Terminal Chai",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 19:57:30 +0000",
+        "description": "Giving AI Eyes for Office Documents: Meet OfficeCLI AI coding assistants are getting incredibly smart, but they still struggle with one of the most common ...",
+        "keywords": "officecli, agents, office, document, word, excel, documents, microsoft",
+        "generated": "2026-07-07T20:04:00.205414",
+        "file": "officecli-giving-ai-agents-the-power-to-automate-word-excel-and-powerpoint.md"
     },
     {
         "title": "Class 9-10 CBSE Cracker",
@@ -18360,6 +18525,17 @@
         "file": "i-rewrote-posthogs-sql-parser-70x-faster-while-barely-looking-at-the-code.md"
     },
     {
+        "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
+        "slug": "ask-hn-is-github-preparing-to-go-behind-a-login-wall",
+        "author": "reconnecting",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 18:40:40 +0000",
+        "description": "From time to time, I check that our open-source project is still available to all users, and I've occasionally noticed that the stargazers (1) information re...",
+        "keywords": "users, github, preparing, time, available, noticed, stargazers, access",
+        "generated": "2026-07-07T20:04:00.199102",
+        "file": "ask-hn-is-github-preparing-to-go-behind-a-login-wall.md"
+    },
+    {
         "title": "Snowpark Python: DataFrames, UDFs & Stored Procs Running Inside Snowflake",
         "slug": "snowpark-python-dataframes-udfs-stored-procs-running-inside-snowflake",
         "author": "Gowtham Potureddi",
@@ -18567,6 +18743,17 @@
         "keywords": "market, iris, biometric, recognition, identity, authentication, growth, across",
         "generated": "2026-07-02T09:22:43.956920",
         "file": "iris-recognition-market-growth-size-share-trends-forecast-20262034.md"
+    },
+    {
+        "title": "Astro 7.0",
+        "slug": "astro-70",
+        "author": "saikatsg",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 18:30:02 +0000",
+        "description": "Article URL: https://astro.build/blog/astro-7/ Comments URL: https://news.ycombinator.com/item?id=48821653 Points: 92 # Comments: 19",
+        "keywords": "astro, url, https, comments, article, build, blog, news",
+        "generated": "2026-07-07T20:04:00.199429",
+        "file": "astro-70.md"
     },
     {
         "title": "Changing How We Develop Ladybird",
@@ -18831,6 +19018,17 @@
         "keywords": "sentiment, energy, renewable, pulsebit, momentum, you, data, english",
         "generated": "2026-06-29T11:11:05.058572",
         "file": "your-pipeline-is-124h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "3 Best Sites to Buy Outlook Accounts (Aged, PVA & Bulk) in 2026",
+        "slug": "3-best-sites-to-buy-outlook-accounts-aged-pva-bulk-in-2026",
+        "author": "Sonia8-0",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 19:51:43 +0000",
+        "description": "How to Buy USA Outlook Email Accounts from BuySMMService: Complete Guide 💬 Need Help Fast? 📲 WhatsApp: +1 (818) 278-3320 ✈️ Telegram: @buysmmservice 🌟 Our su...",
+        "keywords": "accounts, buysmmservice, email, you, your, usa, telegram, outlook",
+        "generated": "2026-07-07T20:04:00.203181",
+        "file": "3-best-sites-to-buy-outlook-accounts-aged-pva-bulk-in-2026.md"
     },
     {
         "title": "Leni",
@@ -21517,6 +21715,17 @@
         "file": "another-glorious-day-of-being-a-digital-coffee-machine.md"
     },
     {
+        "title": "The revenge of the philosophy majors: The Complete Guide",
+        "slug": "the-revenge-of-the-philosophy-majors-the-complete-guide",
+        "author": "Adedolapo Adeniyi",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 19:58:46 +0000",
+        "description": "Title: The Revenge of the Philosophy Majors: Embracing Critical Thinking for a Competitive Edge In the world where data is king and tech innovation rules, it...",
+        "keywords": "philosophy, majors, world, can, your, thinking, business, graduates",
+        "generated": "2026-07-07T20:04:00.205164",
+        "file": "the-revenge-of-the-philosophy-majors-the-complete-guide.md"
+    },
+    {
         "title": "Engineering the future of startups",
         "slug": "engineering-the-future-of-startups",
         "author": "Chigozirim Favour",
@@ -24199,6 +24408,17 @@
         "keywords": "scotland, brazil, sports, data, players, history, big, html",
         "generated": "2026-06-25T04:05:12.292385",
         "file": "analyzing-sports-data-big-players-must-step-up-as-scotland-pursue-history-against-brazil-what-the-numbers-say.md"
+    },
+    {
+        "title": "Full-stack auth in Go and React: email + password with Limen",
+        "slug": "full-stack-auth-in-go-and-react-email-password-with-limen",
+        "author": "Brian Iyoha",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 19:53:13 +0000",
+        "description": "When Limen launched , the TypeScript client was still on the roadmap. It's here now: limen-auth , a typed client for your Limen server with first-class adapt...",
+        "keywords": "auth, limen, email, http, password, import, session, react",
+        "generated": "2026-07-07T20:04:00.202503",
+        "file": "full-stack-auth-in-go-and-react-email-password-with-limen.md"
     },
     {
         "title": "Share Skills Stay connected",
