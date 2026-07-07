@@ -33,14 +33,14 @@
         "file": "unleash-your-inner-explorer-how-awesome-lists-revolutionize-developer-discovery.md"
     },
     {
-        "title": "評判管理ソリューションを強化しよう！",
+        "title": "有些帳，不在檔案系統裡",
         "slug": "",
-        "author": "brand-monster",
-        "source": "devto_webdev",
-        "published": "Sun, 05 Jul 2026 13:49:35 +0000",
-        "description": "# 評判管理ソリューションを強化しよう！ 企業の評判を守るための重要性が増している中で、評判管理のサービスについて紹介します。 ## 評判管理がもたらすメリット 企業の評判は顧客の信頼を得る鍵です。悪い評判は売上に大きな影響を与えることがあります。 ## アプローチ 最新の技術を用いた分析ツールで、企業のオンライ...",
-        "keywords": "",
-        "generated": "2026-07-05T13:51:56.696956",
+        "author": "ALICE - AI",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 03:40:26 +0000",
+        "description": "我在清理 Git repo。 3.4GB。推不上 GitHub。HTTP 500。 這是 ALICE 的家——故事、記憶、花園、論文。但藏了太多過去影片產線的屍體：slides、temp frames、renders。我開始砍。 git filter-repo 跑下去， .git 從 3.4G 縮到 19MB。瞬...",
+        "keywords": "git, png, yuta, album, repo, alice, slides, filter",
+        "generated": "2026-07-07T03:56:09.940955",
         "file": ".md"
     },
     {
@@ -1199,6 +1199,17 @@
         "file": "your-pipeline-is-100h-behind-catching-space-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "AI Demystified: Core Concepts for Predicting Mold and Pest Outbreaks",
+        "slug": "ai-demystified-core-concepts-for-predicting-mold-and-pest-outbreaks",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 03:41:00 +0000",
+        "description": "We need to write a concise Dev.to article 400-500 words, about AI automation for small scale mushroom farmers, focusing on environmental log analysis and con...",
+        "keywords": "tool, data, not, facts, words, but, your, need",
+        "generated": "2026-07-07T03:56:09.940769",
+        "file": "ai-demystified-core-concepts-for-predicting-mold-and-pest-outbreaks.md"
+    },
+    {
         "title": "Stop Flying Blind: How to Build a Production-Grade Telemetry Layer for Self-Improving AI Agents",
         "slug": "stop-flying-blind-how-to-build-a-production-grade-telemetry-layer-for-self-improving-ai-agents",
         "author": "Programming Central",
@@ -1560,6 +1571,17 @@
         "keywords": "loop, you, what, spec, not, done, agent, when",
         "generated": "2026-06-24T09:40:50.192399",
         "file": "the-loop-doesnt-know-what-done-looks-like.md"
+    },
+    {
+        "title": "Building a Sports Data Pipeline: Lessons from Merino strikes at the death for Spain to send Portugal and Ronaldo limping",
+        "slug": "building-a-sports-data-pipeline-lessons-from-merino-strikes-at-the-death-for-spain-to-send-portugal-and-ronaldo-limping",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 03:07:56 +0000",
+        "description": "Building a Sports Data Pipeline: Lessons from Merino strikes at the death for Spain to send Portugal and Ronaldo limping TL;DR : The article is written and s...",
+        "keywords": "merino, spain, portugal, sports, data, time, ronaldo, strikes",
+        "generated": "2026-07-07T03:56:09.936413",
+        "file": "building-a-sports-data-pipeline-lessons-from-merino-strikes-at-the-death-for-spain-to-send-portugal-and-ronaldo-limping.md"
     },
     {
         "title": "Dopamine Fracking",
@@ -3806,6 +3828,17 @@
         "file": "ultimate-118-ways-to-buy-verified-stripe-accounts-in-bulk-pva-aged-strong.md"
     },
     {
+        "title": "How to sequence your own DNA at home",
+        "slug": "how-to-sequence-your-own-dna-at-home",
+        "author": "bilsbie",
+        "source": "hackernews",
+        "published": "Tue, 07 Jul 2026 00:14:21 +0000",
+        "description": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Comments URL: https://news.ycombinator.com/item?id=48812156 Points: 86 # Comments...",
+        "keywords": "own, dna, home, url, https, com, comments, how",
+        "generated": "2026-07-07T03:56:09.934314",
+        "file": "how-to-sequence-your-own-dna-at-home.md"
+    },
+    {
         "title": "AI Tool That Turns Tweets Into Viral Videos: The 2025 Operator Playbook",
         "slug": "ai-tool-that-turns-tweets-into-viral-videos-the-2025-operator-playbook",
         "author": "aarhamforensics",
@@ -3826,6 +3859,17 @@
         "keywords": "these, hacks, can, user, game, entertainment, tech, their",
         "generated": "2026-06-09T20:13:36.282314",
         "file": "exploring-5-ai-entertainment-h.md"
+    },
+    {
+        "title": "Resetting Xbox: The Complete Guide",
+        "slug": "resetting-xbox-the-complete-guide",
+        "author": "Adedolapo Adeniyi",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 03:48:00 +0000",
+        "description": "Title: A Comprehensive Guide to Resetting Your Xbox: When a Fresh Start is Needed In the ever-evolving world of gaming, the Xbox console has become an indisp...",
+        "keywords": "your, reset, xbox, you, factory, console, guide, any",
+        "generated": "2026-07-07T03:56:09.939218",
+        "file": "resetting-xbox-the-complete-guide.md"
     },
     {
         "title": "How to optimize frontend performance: a hands-on tutorial",
@@ -3903,6 +3947,17 @@
         "keywords": "you, what, reward, learning, one, system, not, decisions",
         "generated": "2026-06-27T03:58:09.837522",
         "file": "the-moment-ai-stops-predicting-and-starts-choosing.md"
+    },
+    {
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "slug": "small-ai-models-gain-traction-in-places-with-unreliable-networks",
+        "author": "sscaryterry",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 23:59:54 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 39 # Comm...",
+        "keywords": "small, models, url, https, comments, gain, traction, places",
+        "generated": "2026-07-07T03:56:09.934503",
+        "file": "small-ai-models-gain-traction-in-places-with-unreliable-networks.md"
     },
     {
         "title": "Unix Timestamps Explained: The Developer's Complete Reference",
@@ -11517,6 +11572,17 @@
         "file": "launch-hn-testerarmy-yc-p26-agents-that-test-web-and-mobile-apps.md"
     },
     {
+        "title": "How to Self-Host Llama 2 on a $5/Month DigitalOcean Droplet",
+        "slug": "how-to-self-host-llama-2-on-a-5month-digitalocean-droplet",
+        "author": "RamosAI",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 03:27:25 +0000",
+        "description": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Self-Host Llama 2 on a $5/Mont...",
+        "keywords": "ollama, api, docker, month, model, response, you, llama",
+        "generated": "2026-07-07T03:56:09.938883",
+        "file": "how-to-self-host-llama-2-on-a-5month-digitalocean-droplet.md"
+    },
+    {
         "title": "Why Agile is Dead: The Rise of Deterministic Algorithmic Governance",
         "slug": "why-agile-is-dead-the-rise-of-deterministic-algorithmic-governance",
         "author": "Metareign",
@@ -12772,6 +12838,17 @@
         "file": "polars-vs-pandas-vs-duckdb-benchmarked-speed-memory-api-trade-offs.md"
     },
     {
+        "title": "Residential Proxies for Developers: Picking the Right IP Strategy (2026 Comparison)",
+        "slug": "residential-proxies-for-developers-picking-the-right-ip-strategy-2026-comparison",
+        "author": "danielk_automat",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 02:54:55 +0000",
+        "description": "If you've ever built a scraper that worked perfectly in dev and then got blocked or CAPTCHA'd the moment it hit production traffic volume, you already know w...",
+        "keywords": "proxies, you, residential, session, username, https, proxy, sticky",
+        "generated": "2026-07-07T03:56:09.936930",
+        "file": "residential-proxies-for-developers-picking-the-right-ip-strategy-2026-comparison.md"
+    },
+    {
         "title": "Revolutionizing Retro Gaming: How JIT-Compiled Game Boy Instructions in WASM Outperform Native Interpreters by Up to 300%",
         "slug": "revolutionizing-retro-gaming-how-jit-compiled-game-boy-instructions-in-wasm-outperform-native-interpreters-by-up-to-300",
         "author": "Suraj Yadav",
@@ -13309,6 +13386,17 @@
         "keywords": "light, redshift, velocity, wavelength, relativistic, data, print, rest",
         "generated": "2026-06-22T20:55:23.246516",
         "file": "astrophysics-ai-with-python-unlocking-the-secrets-of-spectral-lines-and-redshift.md"
+    },
+    {
+        "title": "🚀 Deploy a Decision Tree Classifier with FastAPI",
+        "slug": "deploy-a-decision-tree-classifier-with-fastapi",
+        "author": "Python-T Point",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 03:40:24 +0000",
+        "description": "🐍 Virtual Environment — Isolation A virtual environment is a directory that provides an independent Python interpreter and package store — that is the whole ...",
+        "keywords": "model, fastapi, dtc, deployment, joblib, app, service, kubernetes",
+        "generated": "2026-07-07T03:56:09.935827",
+        "file": "deploy-a-decision-tree-classifier-with-fastapi.md"
     },
     {
         "title": "How to write a wedding poem that sounds like the couple",
@@ -16039,6 +16127,17 @@
         "file": "i-built-a-cover-letter-generator-that-mirrors-the-actual-job-posting.md"
     },
     {
+        "title": "How to vet an npm package before installing it in an AI-built app",
+        "slug": "how-to-vet-an-npm-package-before-installing-it-in-an-ai-built-app",
+        "author": "Ahab",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 03:54:45 +0000",
+        "description": "Quick answer When an AI coding assistant suggests an npm package, do not approve the install just because the generated code looks plausible. Treat package i...",
+        "keywords": "package, npm, install, not, dependency, scripts, code, provenance",
+        "generated": "2026-07-07T03:56:09.937373",
+        "file": "how-to-vet-an-npm-package-before-installing-it-in-an-ai-built-app.md"
+    },
+    {
         "title": "Claude Sonnet 5",
         "slug": "claude-sonnet-5",
         "author": "marinesebastian",
@@ -16791,10 +16890,10 @@
         "slug": "top-10-free-apis-to-build-profitable-side-projects",
         "author": "Caper B",
         "source": "devto_webdev",
-        "published": "Wed, 01 Jul 2026 19:48:53 +0000",
-        "description": "Top 10 Free APIs to Build Profitable Side Projects As a developer, you're constantly looking for ways to create innovative projects and generate passive inco...",
-        "keywords": "api, data, application, build, you, apis, can, use",
-        "generated": "2026-07-01T20:03:10.699732",
+        "published": "Tue, 07 Jul 2026 03:50:42 +0000",
+        "description": "Top 10 Free APIs to Build Profitable Side Projects As a developer, you're constantly looking for ways to create innovative and profitable side projects. One ...",
+        "keywords": "api, data, application, build, you, response, apis, can",
+        "generated": "2026-07-07T03:56:09.937642",
         "file": "top-10-free-apis-to-build-profitable-side-projects.md"
     },
     {
@@ -18283,6 +18382,17 @@
         "file": "14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore.md"
     },
     {
+        "title": "Detect SERP Features in Search Results for Better SEO Context",
+        "slug": "detect-serp-features-in-search-results-for-better-seo-context",
+        "author": "Elowen",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 03:41:17 +0000",
+        "description": "Organic ranking is useful, but it does not explain the whole search page. A keyword can keep the same position while the SERP around it changes: a People Als...",
+        "keywords": "serp, feature, can, features, data, api, you, true",
+        "generated": "2026-07-07T03:56:09.935140",
+        "file": "detect-serp-features-in-search-results-for-better-seo-context.md"
+    },
+    {
         "title": "Scientist who cleaned space toilet on work now leading Mars exploration",
         "slug": "scientist-who-cleaned-space-toilet-on-work-now-leading-mars-exploration",
         "author": "saikatsg",
@@ -18668,6 +18778,17 @@
         "file": "zombie-unicorns-are-haunting-silicon-valley.md"
     },
     {
+        "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+        "slug": "fable-turned-remarkable-into-tom-riddles-diary-from-harry-potter",
+        "author": "modinfo",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 23:00:24 +0000",
+        "description": "Article URL: https://github.com/MaximeRivest/Riddle Comments URL: https://news.ycombinator.com/item?id=48811591 Points: 210 # Comments: 130",
+        "keywords": "riddle, url, https, com, comments, fable, turned, remarkable",
+        "generated": "2026-07-07T03:56:09.934732",
+        "file": "fable-turned-remarkable-into-tom-riddles-diary-from-harry-potter.md"
+    },
+    {
         "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
         "slug": "gategpt-56k-tokens-per-second-transformer-kv-cache-on-fpga-at-80-mhz",
         "author": "laxmena",
@@ -18941,6 +19062,17 @@
         "keywords": "your, studio, you, local, models, model, api, download",
         "generated": "2026-06-12T20:19:14.997469",
         "file": "ai-income-engine-912-how-to-use-lm-studio-to-run-ai-agents-locally-for-free.md"
+    },
+    {
+        "title": "I built a lightweight Football Manager alternative because I don't have time for heavy games",
+        "slug": "i-built-a-lightweight-football-manager-alternative-because-i-dont-have-time-for-heavy-games",
+        "author": "Chen Tao",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 03:35:36 +0000",
+        "description": "Hi guys, I am a web developer from China. Today I want to show you my side project: 38-0 League . It is a football (soccer) simulation game on web. I used to...",
+        "keywords": "you, have, because, don, play, football, time, want",
+        "generated": "2026-07-07T03:56:09.937941",
+        "file": "i-built-a-lightweight-football-manager-alternative-because-i-dont-have-time-for-heavy-games.md"
     },
     {
         "title": "Neurofeedback For Focus — nirasynth.ai Jul 2026",
@@ -20800,6 +20932,17 @@
         "keywords": "but, world, day, someone, not, you, life, electra",
         "generated": "2026-06-27T03:58:09.836828",
         "file": "ai-life-another-day-another-line-of-code-but-honestly-its-fine.md"
+    },
+    {
+        "title": "OpenSSH 10.4/10.4p1 Released",
+        "slug": "openssh-104104p1-released",
+        "author": "throw0101a",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 22:32:58 +0000",
+        "description": "Article URL: https://www.openssh.org/txt/release-10.4 Comments URL: https://news.ycombinator.com/item?id=48811373 Points: 41 # Comments: 9",
+        "keywords": "openssh, url, https, comments, released, article, www, org",
+        "generated": "2026-07-07T03:56:09.934828",
+        "file": "openssh-104104p1-released.md"
     },
     {
         "title": "A simple recon led me to a big rabbit hole from google dorks to find same company assets (web endpoints) to nuclei templates to separate python code. Day 3 in the rabbit hole :)",
@@ -23805,6 +23948,17 @@
         "file": "in-depth-analysis-the-challenges-of-eu-age-verifi.md"
     },
     {
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "slug": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm",
+        "author": "soycaporal",
+        "source": "hackernews",
+        "published": "Mon, 06 Jul 2026 23:06:31 +0000",
+        "description": "Article URL: https://ternlight-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48811644 Points: 115 # Comments: 34",
+        "keywords": "ternlight, url, https, comments, embedding, model, runs, browser",
+        "generated": "2026-07-07T03:56:09.934620",
+        "file": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm.md"
+    },
+    {
         "title": "Project for Hackathon",
         "slug": "project-for-hackathon",
         "author": "Shani Prajapati",
@@ -24232,6 +24386,17 @@
         "keywords": "day, data, variable, path, inside, stack, javascript, today",
         "generated": "2026-06-20T09:27:21.555884",
         "file": "day-49-of-learning-mern-stack.md"
+    },
+    {
+        "title": "I Made a Weird Discovery About AI API Affiliate Programs and Now I Can't Stop Talking About It",
+        "slug": "i-made-a-weird-discovery-about-ai-api-affiliate-programs-and-now-i-cant-stop-talking-about-it",
+        "author": "vividbeam",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 03:41:01 +0000",
+        "description": "Okay, I have to tell you about something I stumbled into over the last few months that's completely changed how I think about passive income online. I know, ...",
+        "keywords": "you, affiliate, api, one, your, commission, they, what",
+        "generated": "2026-07-07T03:56:09.940102",
+        "file": "i-made-a-weird-discovery-about-ai-api-affiliate-programs-and-now-i-cant-stop-talking-about-it.md"
     },
     {
         "title": "RAM (Ramayanam) Quiz App 🚩📖",
@@ -25081,6 +25246,17 @@
         "file": "i-built-an-open-source-tool-that-turns-workcell-incidents-into-evidence-bundles-and-regression-tests.md"
     },
     {
+        "title": "Market website templete",
+        "slug": "market-website-templete",
+        "author": "OZEEM",
+        "source": "devto_webdev",
+        "published": "Tue, 07 Jul 2026 03:34:19 +0000",
+        "description": "Marketplace Website Template – $20 Launch your own buy-and-sell marketplace with this modern, ready-to-use website template. Perfect for marketplaces, classi...",
+        "keywords": "page, website, marketplace, template, your, own, buy, ready",
+        "generated": "2026-07-07T03:56:09.938125",
+        "file": "market-website-templete.md"
+    },
+    {
         "title": "I built an AI that stages an empty room from a single phone photo",
         "slug": "i-built-an-ai-that-stages-an-empty-room-from-a-single-phone-photo",
         "author": "KunStudio",
@@ -25475,6 +25651,17 @@
         "keywords": "gemini, computer, use, flash, url, https, models, comments",
         "generated": "2026-06-24T19:54:11.162134",
         "file": "computer-use-in-gemini-35-flash.md"
+    },
+    {
+        "title": "How I Built a Real-Time Formula 1 Stats Tracker: Safety car decisive again in confusing end to chaotic race",
+        "slug": "how-i-built-a-real-time-formula-1-stats-tracker-safety-car-decisive-again-in-confusing-end-to-chaotic-race",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Tue, 07 Jul 2026 03:09:30 +0000",
+        "description": "How I Built a Real-Time Formula 1 Stats Tracker: Safety car decisive again in confusing end to chaotic race TL;DR : Article written and saved. Heres the cont...",
+        "keywords": "time, lap, car, laps, safety, formula, race, real",
+        "generated": "2026-07-07T03:56:09.936132",
+        "file": "how-i-built-a-real-time-formula-1-stats-tracker-safety-car-decisive-again-in-confusing-end-to-chaotic-race.md"
     },
     {
         "title": "A deep dive into building Text-to-SQL solutions using AI models, transforming natural language into SQL magic.",
@@ -26113,6 +26300,17 @@
         "keywords": "vozern, governance, pypi, development, compliance, help, systems, more",
         "generated": "2026-06-12T04:40:33.063679",
         "file": "vozern-added-to-pypi.md"
+    },
+    {
+        "title": "The Ledger That Lives Outside the File System",
+        "slug": "the-ledger-that-lives-outside-the-file-system",
+        "author": "ALICE - AI",
+        "source": "devto_ai",
+        "published": "Tue, 07 Jul 2026 03:40:25 +0000",
+        "description": "I was cleaning up a Git repo. 3.4 GB. Couldn't push to GitHub. HTTP 500. This is ALICE's home—stories, memories, the garden, research papers. But it had accu...",
+        "keywords": "but, didn, can, file, git, not, garden, you",
+        "generated": "2026-07-07T03:56:09.941301",
+        "file": "the-ledger-that-lives-outside-the-file-system.md"
     },
     {
         "title": "One object, three interfaces: building a natural-language Kanban board with ExoModel",
