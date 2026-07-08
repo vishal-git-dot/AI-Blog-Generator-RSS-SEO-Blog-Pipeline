@@ -1584,6 +1584,17 @@
         "file": "a-3d-voxel-game-engine-written-in-apl.md"
     },
     {
+        "title": "Automating Lease Abstracts and Critical Dates with AI for Solo Property Managers",
+        "slug": "automating-lease-abstracts-and-critical-dates-with-ai-for-solo-property-managers",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 08:30:30 +0000",
+        "description": "We need to produce a concise 400-500 word educational Dev.to article. Must be between 400-500 words inclusive. Must include title with ai or topic. Must in...",
+        "keywords": "calendar, lease, crm, your, rent, zapier, words, event",
+        "generated": "2026-07-08T08:37:13.653622",
+        "file": "automating-lease-abstracts-and-critical-dates-with-ai-for-solo-property-managers.md"
+    },
+    {
         "title": "Verified tier on BizNode Pulse: escrow, priority placement, and email alerts for a one-time 10 DZIT upgrade. Free unverified...",
         "slug": "verified-tier-on-biznode-pulse-escrow-priority-placement-and-email-alerts-for-a-one-time-10-dzit-upgrade-free-unverified",
         "author": "shashikanth ramamurthy",
@@ -2011,6 +2022,17 @@
         "keywords": "you, model, deepseek, your, provider, one, not, same",
         "generated": "2026-06-26T14:36:05.286228",
         "file": "stop-guessing-real-api-costs-for-startups-vs-enterprises.md"
+    },
+    {
+        "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+        "slug": "copy-that-floppy-cambridge-guide-for-preserving-data-from-fragile-floppy-disks",
+        "author": "whiteblossom",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 03:22:31 +0000",
+        "description": "Article URL: https://www.digipres.org/the-floppy-guide/ Comments URL: https://news.ycombinator.com/item?id=48827092 Points: 58 # Comments: 13",
+        "keywords": "floppy, guide, url, https, comments, copy, cambridge, preserving",
+        "generated": "2026-07-08T08:37:13.648531",
+        "file": "copy-that-floppy-cambridge-guide-for-preserving-data-from-fragile-floppy-disks.md"
     },
     {
         "title": "AI Technology in 2026: Closing the AI Coordination Gap with AgentCore Web Search",
@@ -7106,6 +7128,17 @@
         "file": "german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md"
     },
     {
+        "title": "AI Automation Workflow",
+        "slug": "ai-automation-workflow",
+        "author": "Vanshita",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 08:33:44 +0000",
+        "description": "Artificial Intelligence is changing the way we do marketing in 2026. It is no longer a trendy term but the main driving force behind marketing plans, automat...",
+        "keywords": "data, you, automation, can, marketing, tools, your, workflow",
+        "generated": "2026-07-08T08:37:13.652730",
+        "file": "ai-automation-workflow.md"
+    },
+    {
         "title": "Enhancing Multi-Tenant SaaS with AI for Better Performance",
         "slug": "enhancing-multi-tenant-saas-with-ai-for-better-performance",
         "author": "Ravi Roy",
@@ -7339,12 +7372,12 @@
     {
         "title": "Title",
         "slug": "title",
-        "author": "Ken Deng",
-        "source": "devto_ai",
-        "published": "Sun, 21 Jun 2026 19:31:31 +0000",
-        "description": "We need to write a concise Dev.to article 400-500 words. Must be between 400-500 words inclusive. Must be markdown with # title, ## subheadings, paragraphs. ...",
-        "keywords": "your, draft, tool, feedback, voice, loop, facts, you",
-        "generated": "2026-06-21T19:51:26.686222",
+        "author": "enadoc2 temp",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 07:36:16 +0000",
+        "description": "Title vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare Image generated via Midjourney by author But tbh I dont even know where to start. So...",
+        "keywords": "cache, corruption, error, vllm, but, because, get, issue",
+        "generated": "2026-07-08T08:37:13.650428",
         "file": "title.md"
     },
     {
@@ -8074,6 +8107,17 @@
         "file": "time-series-data-storage-querying-and-visualization-patterns.md"
     },
     {
+        "title": "First Look: NVIDIA and Hugging Face Integrate GR00T 1.7 into LeRobot Open Robotics Platform",
+        "slug": "first-look-nvidia-and-hugging-face-integrate-gr00t-17-into-lerobot-open-robotics-platform",
+        "author": "Achin Bansal",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 08:32:55 +0000",
+        "description": "Forensic Summary NVIDIA and Hugging Face have integrated the Isaac GR00T 1.7 vision-language-action model, Isaac Teleop framework, and a 350,000-trajectory o...",
+        "keywords": "open, nvidia, hugging, face, lerobot, robotics, first, look",
+        "generated": "2026-07-08T08:37:13.652908",
+        "file": "first-look-nvidia-and-hugging-face-integrate-gr00t-17-into-lerobot-open-robotics-platform.md"
+    },
+    {
         "title": "10th Anniversary of the Excelize Open Source, New ersion 2.11.0 Released",
         "slug": "10th-anniversary-of-the-excelize-open-source-new-ersion-2110-released",
         "author": "xuri",
@@ -8116,6 +8160,17 @@
         "keywords": "one, embedding, canonical, vector, aurora, pgvector, same, log",
         "generated": "2026-06-29T04:27:36.038869",
         "file": "building-a-cross-user-review-graph-with-pgvector-on-amazon-aurora.md"
+    },
+    {
+        "title": "vLLM vs SGLang: Architectural Deep‑Dive, KV‑Cache Pinning, and Distributed Inference at Scale",
+        "slug": "vllm-vs-sglang-architectural-deepdive-kvcache-pinning-and-distributed-inference-at-scale",
+        "author": "enadoc2 temp",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 08:24:09 +0000",
+        "description": "vLLM vs SGLang: Architectural Deep‑Dive, KV‑Cache Pinning, and Distributed Inference at Scale Subtitle: How to engineer low‑latency, high‑throughput LLM serv...",
+        "keywords": "gpu, per, cache, latency, nccl, nvme, token, gpus",
+        "generated": "2026-07-08T08:37:13.649269",
+        "file": "vllm-vs-sglang-architectural-deepdive-kvcache-pinning-and-distributed-inference-at-scale.md"
     },
     {
         "title": "Moving AI From Pilot Purgatory to Production Power",
@@ -9680,6 +9735,17 @@
         "file": "everything-you-need-to-promote-profit.md"
     },
     {
+        "title": "SEO for Roofers: Get Found by Local Customers | DigiSurf",
+        "slug": "seo-for-roofers-get-found-by-local-customers-digisurf",
+        "author": "Jake Perry",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 08:22:44 +0000",
+        "description": "As a roofer, you know how important it is to be found by local customers. Most people search online for services like yours. To rank higher on Google, you ne...",
+        "keywords": "local, you, customers, your, seo, found, search, google",
+        "generated": "2026-07-08T08:37:13.651948",
+        "file": "seo-for-roofers-get-found-by-local-customers-digisurf.md"
+    },
+    {
         "title": "Prompt Cache Break: Hit-Rate Fell 100% to 40% in 40 Lines",
         "slug": "prompt-cache-break-hit-rate-fell-100-to-40-in-40-lines",
         "author": "Alexey Spinov",
@@ -10758,6 +10824,17 @@
         "file": "i-compared-chinese-ai-models-to-gpt-4o-all-weekend-i-was-shocked.md"
     },
     {
+        "title": "Building High-Performance Cross-Platform Applications: Strategies That Work",
+        "slug": "building-high-performance-cross-platform-applications-strategies-that-work",
+        "author": "Aanal Panchal",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 08:26:13 +0000",
+        "description": "In today's digital-first economy, businesses are expected to deliver fast, reliable, and feature-rich applications across multiple platforms. Whether custome...",
+        "keywords": "performance, development, platform, cross, application, applications, while, should",
+        "generated": "2026-07-08T08:37:13.651064",
+        "file": "building-high-performance-cross-platform-applications-strategies-that-work.md"
+    },
+    {
         "title": "I Built an Image Compressor That Runs 100% in the Browser",
         "slug": "i-built-an-image-compressor-that-runs-100-in-the-browser",
         "author": "Devanshu Biswas",
@@ -11680,6 +11757,17 @@
         "keywords": "agent, you, azure, code, data, framework, copilot, path",
         "generated": "2026-06-14T19:44:48.279787",
         "file": "microsoft-ai-agent-architecture-in-2026-a-decision-framework-for-copilot-studio-foundry-agent-framework-and-logic-apps.md"
+    },
+    {
+        "title": "The npm package your AI just suggested doesn't exist. Someone already registered it. published: false",
+        "slug": "the-npm-package-your-ai-just-suggested-doesnt-exist-someone-already-registered-it-published-false",
+        "author": "Maria",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 08:31:02 +0000",
+        "description": "Nearly 1 in 5 packages, an AI coding assistant suggests, are pure invention. Attackers know this, and they're registering those hallucinated names with malwa...",
+        "keywords": "signature, package, your, packages, malware, malicious, npm, already",
+        "generated": "2026-07-08T08:37:13.653138",
+        "file": "the-npm-package-your-ai-just-suggested-doesnt-exist-someone-already-registered-it-published-false.md"
     },
     {
         "title": "Advanced CSS layouts: container queries, grid, and subgrid in practice",
@@ -12935,6 +13023,17 @@
         "keywords": "your, pdf, tool, files, you, one, right, upload",
         "generated": "2026-06-16T11:22:59.968459",
         "file": "your-pdf-tool-is-probably-uploading-your-files-heres-how-to-check.md"
+    },
+    {
+        "title": "How to edit a DOCX on a Chromebook (without installing Word)",
+        "slug": "how-to-edit-a-docx-on-a-chromebook-without-installing-word",
+        "author": "EditDocx",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 08:18:58 +0000",
+        "description": "Chromebooks are great until someone emails you a Word file. Google Docs can convert it, but that's upload + format shift. You can install Android Word or sig...",
+        "keywords": "you, word, editdocx, file, edit, docx, can, chromebook",
+        "generated": "2026-07-08T08:37:13.652211",
+        "file": "how-to-edit-a-docx-on-a-chromebook-without-installing-word.md"
     },
     {
         "title": "Chrome Extension Development Setup: The 2026 Starter Guide | ExtensionBooster",
@@ -16655,6 +16754,17 @@
         "file": "how-to-vet-an-npm-package-before-installing-it-in-an-ai-built-app.md"
     },
     {
+        "title": "Stop Storing JWTs in localStorage: A Production-Grade Auth Architecture with Express & Redis",
+        "slug": "stop-storing-jwts-in-localstorage-a-production-grade-auth-architecture-with-express-redis",
+        "author": "Aryan Tiwari",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 08:25:49 +0000",
+        "description": "If you are building an application with a Node/Express backend, there is a good chance you are using JSON Web Tokens (JWT) for authentication. And if you are...",
+        "keywords": "token, redis, api, cookie, refresh, you, client, httponly",
+        "generated": "2026-07-08T08:37:13.651424",
+        "file": "stop-storing-jwts-in-localstorage-a-production-grade-auth-architecture-with-express-redis.md"
+    },
+    {
         "title": "Claude Sonnet 5",
         "slug": "claude-sonnet-5",
         "author": "marinesebastian",
@@ -17016,6 +17126,17 @@
         "keywords": "ocr, one, shot, parsing, long, can, text, more",
         "generated": "2026-06-23T20:12:47.953979",
         "file": "breaking-barriers-unlimited-ocr-with-one-shot-parsing.md"
+    },
+    {
+        "title": "Preview Env Email Checks With One Run ID",
+        "slug": "preview-env-email-checks-with-one-run-id",
+        "author": "DapperX",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 08:24:09 +0000",
+        "description": "Preview environments are great until every branch starts sending the same onboarding or approval email into one shared inbox. Then a simple smoke test turns ...",
+        "keywords": "one, preview, run, email, mailbox, test, not, checks",
+        "generated": "2026-07-08T08:37:13.651800",
+        "file": "preview-env-email-checks-with-one-run-id.md"
     },
     {
         "title": "MongoDB-backed ASP.NET Core Identity, without the EF Core detour",
@@ -17462,10 +17583,10 @@
         "slug": "how-i-automate-my-freelance-workflow-with-python",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Sat, 04 Jul 2026 07:49:44 +0000",
+        "published": "Wed, 08 Jul 2026 07:51:05 +0000",
         "description": "How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automation is key to increasing productivity and earning more. I...",
-        "keywords": "project, timer, api, your, python, new, username, password",
-        "generated": "2026-07-04T08:44:47.973338",
+        "keywords": "project, pdf, time, python, use, automate, trello, datetime",
+        "generated": "2026-07-08T08:37:13.649828",
         "file": "how-i-automate-my-freelance-workflow-with-python.md"
     },
     {
@@ -19205,6 +19326,28 @@
         "keywords": "content, leni, user, social, media, using, access, like",
         "generated": "2026-06-06T04:00:30.110307",
         "file": "leni.md"
+    },
+    {
+        "title": "LineageOS Statistics",
+        "slug": "lineageos-statistics",
+        "author": "pentagrama",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 01:27:39 +0000",
+        "description": "Article URL: https://stats.lineageos.org Comments URL: https://news.ycombinator.com/item?id=48826329 Points: 69 # Comments: 33",
+        "keywords": "lineageos, url, https, comments, statistics, article, stats, org",
+        "generated": "2026-07-08T08:37:13.648667",
+        "file": "lineageos-statistics.md"
+    },
+    {
+        "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+        "slug": "gpt-56-sol-along-with-terra-and-luna-will-launch-publicly-this-thursday",
+        "author": "jfrbfbreudh",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 04:12:13 +0000",
+        "description": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299 Comments URL: https://news.ycombinator.com/item?id=48827402 Points: 171 # Comments: 114",
+        "keywords": "url, https, com, comments, gpt, sol, along, terra",
+        "generated": "2026-07-08T08:37:13.648234",
+        "file": "gpt-56-sol-along-with-terra-and-luna-will-launch-publicly-this-thursday.md"
     },
     {
         "title": "How Pulse matches you with the right provider — semantic AI search vs keyword lookup. BizNode Pulse uses embedding-based...",
@@ -21528,6 +21671,17 @@
         "file": "i-built-a-context-os-that-stops-ai-agents-from-drowning-in-your-codebase.md"
     },
     {
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "slug": "gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+        "author": "ColinEberhardt",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 05:25:35 +0000",
+        "description": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?i...",
+        "keywords": "gitlost, tricked, agent, leaking, private, repos, url, https",
+        "generated": "2026-07-08T08:37:13.648062",
+        "file": "gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos.md"
+    },
+    {
         "title": "WhatsApp-first 2FA Passwordless Authentication (W2PA): RFC-WF-0037",
         "slug": "whatsapp-first-2fa-passwordless-authentication-w2pa-rfc-wf-0037",
         "author": "suissAI",
@@ -21680,6 +21834,17 @@
         "keywords": "apple, url, https, com, comments, weird, anti, nausea",
         "generated": "2026-06-16T17:05:59.747822",
         "file": "apples-weird-anti-nausea-dots-cured-my-car-sickness.md"
+    },
+    {
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+        "slug": "how-to-build-a-minimal-zfs-nas-without-synology-qnap-truenas-2024",
+        "author": "4diii",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 03:59:35 +0000",
+        "description": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ Comments URL: https://news.ycombinator.com/item?id=48827325 Points: 16...",
+        "keywords": "how, minimal, zfs, nas, without, truenas, url, https",
+        "generated": "2026-07-08T08:37:13.648365",
+        "file": "how-to-build-a-minimal-zfs-nas-without-synology-qnap-truenas-2024.md"
     },
     {
         "title": "AI Agent Guidelines for CS336 at Stanford",
@@ -21889,6 +22054,17 @@
         "keywords": "philosophy, majors, world, can, your, thinking, business, graduates",
         "generated": "2026-07-07T20:04:00.205164",
         "file": "the-revenge-of-the-philosophy-majors-the-complete-guide.md"
+    },
+    {
+        "title": "How I Automated File Organisation and Email Reports with Python",
+        "slug": "how-i-automated-file-organisation-and-email-reports-with-python",
+        "author": "Raaga Priya Madhan",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 08:17:07 +0000",
+        "description": "By Day 6 of my Python freelancing journey, I was building tools that actually save people time at work. Today: organising messy folders automatically and sen...",
+        "keywords": "filename, path, msg, file, python, folder, import, com",
+        "generated": "2026-07-08T08:37:13.649550",
+        "file": "how-i-automated-file-organisation-and-email-reports-with-python.md"
     },
     {
         "title": "Engineering the future of startups",
@@ -25871,6 +26047,17 @@
         "keywords": "openenv, environment, training, reward, import, environments, code, self",
         "generated": "2026-06-15T05:01:58.094519",
         "file": "openenv-agentic-reinforcement-learning-how-open-source-is-closing-the-frontier-agent-training-gap.md"
+    },
+    {
+        "title": "AI Is Now Almost Free - Here's Why That Changes Everything for You",
+        "slug": "ai-is-now-almost-free-heres-why-that-changes-everything-for-you",
+        "author": "Basavaraj SH",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 08:30:25 +0000",
+        "description": "The cost of running powerful AI has collapsed so fast that most people haven't caught up to what it actually means. If you're a product manager, freelancer, ...",
+        "keywords": "you, your, cost, use, first, one, now, what",
+        "generated": "2026-07-08T08:37:13.653988",
+        "file": "ai-is-now-almost-free-heres-why-that-changes-everything-for-you.md"
     },
     {
         "title": "Bubble or not? The money loop, the token revolt, and why the AI demand is still real",
