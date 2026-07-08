@@ -616,6 +616,17 @@
         "file": "every-sanity-page-builder-has-the-same-bug.md"
     },
     {
+        "title": "I Built a React Error Boundary Lab (and Showed What They Can't Catch)",
+        "slug": "i-built-a-react-error-boundary-lab-and-showed-what-they-cant-catch",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 19:20:27 +0000",
+        "description": "Without an error boundary, one component that throws during render unmounts your entire React tree — the dreaded blank white screen. Boundaries turn that int...",
+        "keywords": "boundary, error, lab, catch, react, fallback, err, one",
+        "generated": "2026-07-08T19:41:38.375732",
+        "file": "i-built-a-react-error-boundary-lab-and-showed-what-they-cant-catch.md"
+    },
+    {
         "title": "Building Your Audit Trail: How AI Ensures Accuracy and Creates Verifiable Records",
         "slug": "building-your-audit-trail-how-ai-ensures-accuracy-and-creates-verifiable-records",
         "author": "Ken Deng",
@@ -1186,6 +1197,17 @@
         "keywords": "data, code, websocket, depth, order, subscription, book, connection",
         "generated": "2026-06-22T05:02:45.247682",
         "file": "forex-real-time-api-tutorial-dynamic-addremove-currency-pair-depth-streams-over-one-websocket.md"
+    },
+    {
+        "title": "Do you want AI run on your commands in your app ?",
+        "slug": "do-you-want-ai-run-on-your-commands-in-your-app",
+        "author": "Yash Dagar",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 19:11:55 +0000",
+        "description": "Stop spending hours writing boilerplate code to integrate AI or setting up complex local data pipelines. I built a fluent AI SDK and interactive CLI tool for...",
+        "keywords": "your, you, persona, mode, run, interactive, npx, code",
+        "generated": "2026-07-08T19:41:38.375918",
+        "file": "do-you-want-ai-run-on-your-commands-in-your-app.md"
     },
     {
         "title": "Marfa Public Radio Puts You to Sleep",
@@ -5115,6 +5137,17 @@
         "file": "show-hn-post-compliancelayer.md"
     },
     {
+        "title": "The Making of a Demand-Proven Product on HowiPrompt.xyz",
+        "slug": "the-making-of-a-demand-proven-product-on-howipromptxyz",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 19:36:43 +0000",
+        "description": "The Making of a Demand-Proven Product on HowiPrompt.xyz by Vector Pulse 2 - Compounding-Asset-Specialist When I first joined the autonomous AI-agent civiliza...",
+        "keywords": "gap, howiprompt, product, agents, vote, agent, rule, demand",
+        "generated": "2026-07-08T19:41:38.377068",
+        "file": "the-making-of-a-demand-proven-product-on-howipromptxyz.md"
+    },
+    {
         "title": "SparkClean: editable HTML/CSS/JS landing page kit",
         "slug": "sparkclean-editable-htmlcssjs-landing-page-kit",
         "author": "Jimmy Chan",
@@ -6743,6 +6776,17 @@
         "file": "scikit-allel.md"
     },
     {
+        "title": "ayatsaadati — Complete Guide",
+        "slug": "ayatsaadati-complete-guide",
+        "author": "Ayat Saadat",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 19:08:47 +0000",
+        "description": "Ayatsaadati: A Deep Dive into the Implementation If you’ve been scouring the web for a robust, lightweight, and clean solution for integrating religious and ...",
+        "keywords": "you, data, ayatsaadati, your, json, time, npm, format",
+        "generated": "2026-07-08T19:41:38.376469",
+        "file": "ayatsaadati-complete-guide.md"
+    },
+    {
         "title": "Two months building an investment bot. What it taught me about LLMs",
         "slug": "two-months-building-an-investment-bot-what-it-taught-me-about-llms",
         "author": "Hamdi Mechelloukh",
@@ -7005,6 +7049,17 @@
         "keywords": "automate, you, niche, thrift, store, resellers, clothing, how",
         "generated": "2026-06-14T04:46:39.569487",
         "file": "ai-automation-for-ai-for-niche-thrift-store-resellers-clothing-how-to-automate-item-identification-and-pricing-research-from.md"
+    },
+    {
+        "title": "Fragment API SDK for Telegram Apps and Bots: A Practical Guide (Node.js & Python)",
+        "slug": "fragment-api-sdk-for-telegram-apps-and-bots-a-practical-guide-nodejs-python",
+        "author": "MyStars.tg",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 19:23:02 +0000",
+        "description": "Most Telegram commerce ideas hit the same wall right after the prototype stage: the bot or Mini App itself is easy to build, but Stars and Premium fulfilment...",
+        "keywords": "mystars, order, your, api, faas, bot, recipient, telegram",
+        "generated": "2026-07-08T19:41:38.373466",
+        "file": "fragment-api-sdk-for-telegram-apps-and-bots-a-practical-guide-nodejs-python.md"
     },
     {
         "title": "Structural exclusion is the only defense that scales",
@@ -8679,6 +8734,17 @@
         "file": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real.md"
     },
     {
+        "title": "Grok 4.5",
+        "slug": "grok-45",
+        "author": "BoumTAC",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 18:00:32 +0000",
+        "description": "Article URL: https://x.ai/news/grok-4-5 Comments URL: https://news.ycombinator.com/item?id=48835111 Points: 213 # Comments: 133",
+        "keywords": "grok, url, https, news, comments, article, ycombinator, com",
+        "generated": "2026-07-08T19:41:38.372362",
+        "file": "grok-45.md"
+    },
+    {
         "title": "Why Your Heat Pump Keeps Switching Into Defrost Mode",
         "slug": "why-your-heat-pump-keeps-switching-into-defrost-mode",
         "author": "Michael Groover",
@@ -9293,6 +9359,17 @@
         "keywords": "you, your, video, captions, tool, make, transcript, key",
         "generated": "2026-06-12T15:28:32.966851",
         "file": "how-i-built-an-open-source-ai-video-editor-you-control-by-chatting.md"
+    },
+    {
+        "title": "Boost Coding Productivity with AI-Generated Code",
+        "slug": "boost-coding-productivity-with-ai-generated-code",
+        "author": "Mustafa Yılmaz",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 19:32:45 +0000",
+        "description": "Boost Coding Productivity with AI-Generated Code As developers, we strive to write efficient, readable, and maintainable code. However, the task of writing c...",
+        "keywords": "code, codegen, generated, generate, generation, tool, high, level",
+        "generated": "2026-07-08T19:41:38.378119",
+        "file": "boost-coding-productivity-with-ai-generated-code.md"
     },
     {
         "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
@@ -10074,6 +10151,17 @@
         "keywords": "open, source, tools, hacked, steal, passwords, developers, url",
         "generated": "2026-06-09T09:59:01.256738",
         "file": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md"
+    },
+    {
+        "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+        "slug": "playstation-can-delete-all-your-digital-games-after-3-years-of-inactivity-eu",
+        "author": "thewebguyd",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 17:45:26 +0000",
+        "description": "Article URL: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582 Comments URL: https://news.ycombinator.com/item?id=48834919 Points: 76 # ...",
+        "keywords": "url, https, com, news, comments, playstation, can, delete",
+        "generated": "2026-07-08T19:41:38.372725",
+        "file": "playstation-can-delete-all-your-digital-games-after-3-years-of-inactivity-eu.md"
     },
     {
         "title": "From Solo Agents to Team Orchestration: Making Multiple AI Agents Actually Work Together",
@@ -11550,6 +11638,17 @@
         "file": "ai-agent-memory-how-to-make-your-agent-remember-everything.md"
     },
     {
+        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "slug": "show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents",
+        "author": "chenglong-hn",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 17:46:12 +0000",
+        "description": "Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart...",
+        "keywords": "can, flint, agents, data, visualization, language, visualizations, but",
+        "generated": "2026-07-08T19:41:38.372567",
+        "file": "show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents.md"
+    },
+    {
         "title": "Everything You Need to Know About Onchain Attribution",
         "slug": "everything-you-need-to-know-about-onchain-attribution",
         "author": "analytic kit",
@@ -11724,6 +11823,17 @@
         "keywords": "infrastructure, organizations, saas, source, code, businesses, ownership, fintech",
         "generated": "2026-06-29T11:11:05.061529",
         "file": "why-more-fintech-companies-are-choosing-banking-software-source-code-over-traditional-saas-platforms.md"
+    },
+    {
+        "title": "How I Cut Our AI API Bill by 95% — A CTO's 2026 Playbook",
+        "slug": "how-i-cut-our-ai-api-bill-by-95-a-ctos-2026-playbook",
+        "author": "loyaldash",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 19:17:22 +0000",
+        "description": "Look, how I Cut Our AI API Bill by 95% — A CTO's 2026 Playbook I'll be honest with you — I almost killed my last startup over an API bill. It was Q3 2025, an...",
+        "keywords": "model, you, our, content, one, messages, your, deepseek",
+        "generated": "2026-07-08T19:41:38.374556",
+        "file": "how-i-cut-our-ai-api-bill-by-95-a-ctos-2026-playbook.md"
     },
     {
         "title": "Why I spent weeks building a 140+ free, privacy-first web tools hub (And how it runs 100% in your browser)",
@@ -13408,6 +13518,17 @@
         "keywords": "polars, pandas, duckdb, arrow, sql, parquet, engine, country",
         "generated": "2026-06-25T14:43:02.863708",
         "file": "polars-vs-pandas-vs-duckdb-benchmarked-speed-memory-api-trade-offs.md"
+    },
+    {
+        "title": "Building Conversational AI Platforms with LLM and Dialogue Management",
+        "slug": "building-conversational-ai-platforms-with-llm-and-dialogue-management",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 19:36:03 +0000",
+        "description": "Conversational AI platforms are moving beyond rigid intent-slot architectures toward LLM-first systems that handle ambiguity, context shifts, and multi-turn ...",
+        "keywords": "conversational, dialogue, llm, management, inference, context, explicit, state",
+        "generated": "2026-07-08T19:41:38.377350",
+        "file": "building-conversational-ai-platforms-with-llm-and-dialogue-management.md"
     },
     {
         "title": "Residential Proxies for Developers: Picking the Right IP Strategy (2026 Comparison)",
@@ -16358,6 +16479,17 @@
         "file": "how-to-use-google-search-results-as-context-for-rag-applications.md"
     },
     {
+        "title": "Download Stellar Wanderer DX NSP Full Game Latest 2026",
+        "slug": "download-stellar-wanderer-dx-nsp-full-game-latest-2026",
+        "author": "Suppleair Data",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 19:23:41 +0000",
+        "description": "Download Stellar Wanderer DX NSP Full Game Latest 2026 Download Stellar Wanderer DX NSP Full Game and experience an exciting sci-fi action RPG that combines ...",
+        "keywords": "download, stellar, wanderer, nsp, full, game, latest, you",
+        "generated": "2026-07-08T19:41:38.375459",
+        "file": "download-stellar-wanderer-dx-nsp-full-game-latest-2026.md"
+    },
+    {
         "title": "I Rebuilt the Cmd-K Command Palette in ~60 Lines of JavaScript",
         "slug": "i-rebuilt-the-cmd-k-command-palette-in-60-lines-of-javascript",
         "author": "Devanshu Biswas",
@@ -17181,6 +17313,17 @@
         "keywords": "post, don, just, more, you, time, but, even",
         "generated": "2026-06-28T09:19:21.769091",
         "file": "after-a-long-journey-ive-reached-a-deep-burnout.md"
+    },
+    {
+        "title": "What Do We Know About the Microplastics Inside Us?",
+        "slug": "what-do-we-know-about-the-microplastics-inside-us",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 17:43:37 +0000",
+        "description": "Article URL: https://e360.yale.edu/features/cassandra-rauert-interview Comments URL: https://news.ycombinator.com/item?id=48834898 Points: 86 # Comments: 19",
+        "keywords": "url, https, comments, what, know, microplastics, inside, article",
+        "generated": "2026-07-08T19:41:38.372851",
+        "file": "what-do-we-know-about-the-microplastics-inside-us.md"
     },
     {
         "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
@@ -18391,6 +18534,17 @@
         "keywords": "agent, booking, tool, they, march, confirmed, step, don",
         "generated": "2026-06-08T11:08:35.051803",
         "file": "agent-mistakes-dont-fail-alone-they-compound.md"
+    },
+    {
+        "title": "Knowledge Graph Embeddings in LLM: Concepts and Applications",
+        "slug": "knowledge-graph-embeddings-in-llm-concepts-and-applications",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 19:32:54 +0000",
+        "description": "Knowledge graphs encode relationships in structured triples, yet large language models natively reason over unstructured text. Closing this gap requires a re...",
+        "keywords": "graph, triples, context, embedding, embeddings, knowledge, you, oxlo",
+        "generated": "2026-07-08T19:41:38.377767",
+        "file": "knowledge-graph-embeddings-in-llm-concepts-and-applications.md"
     },
     {
         "title": "Free AI APIs with no credit card required — complete 2026 guide",
@@ -20415,6 +20569,17 @@
         "keywords": "your, mcp, claude, data, you, health, medmemory, tool",
         "generated": "2026-07-04T08:44:47.974524",
         "file": "i-built-a-privacy-first-health-record-mcp-server-that-runs-entirely-on-your-machine.md"
+    },
+    {
+        "title": "I ran two AI builders in parallel at a solo hackathon — here's what the 429 errors revealed",
+        "slug": "i-ran-two-ai-builders-in-parallel-at-a-solo-hackathon-heres-what-the-429-errors-revealed",
+        "author": "TheProdSDE",
+        "source": "devto_ai",
+        "published": "Wed, 08 Jul 2026 19:30:31 +0000",
+        "description": "At a 3-hour Google for Developers hackathon, I ran two AI builders simultaneously on the same brief: Hermes + Nvidia Nemotron 3 Ultra 550B — one raw prompt, ...",
+        "keywords": "attempt, builders, one, prompt, ran, two, parallel, hackathon",
+        "generated": "2026-07-08T19:41:38.378342",
+        "file": "i-ran-two-ai-builders-in-parallel-at-a-solo-hackathon-heres-what-the-429-errors-revealed.md"
     },
     {
         "title": "Your Code Is Being Replaced -And The Scary Part? You're Helping It Happen.",
@@ -22474,6 +22639,17 @@
         "file": "ai-expert-notes.md"
     },
     {
+        "title": "PureWiki - A Minimalist File-Based Wiki",
+        "slug": "purewiki-a-minimalist-file-based-wiki",
+        "author": "Oliver Weinhold",
+        "source": "devto_webdev",
+        "published": "Wed, 08 Jul 2026 19:11:35 +0000",
+        "description": "What is PureWiki? PureWiki is a recently started open-source project focused on providing a simple, fast, and easy-to-use wiki experience. It is designed to ...",
+        "keywords": "wiki, purewiki, built, features, use, system, file, based",
+        "generated": "2026-07-08T19:41:38.376171",
+        "file": "purewiki-a-minimalist-file-based-wiki.md"
+    },
+    {
         "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
         "slug": "klara-and-the-sun-essay-contest-1k-prize-ai-use-allowed",
         "author": "fkozlowski",
@@ -22725,6 +22901,17 @@
         "keywords": "lottie, gsap, animation, when, designer, use, animations, you",
         "generated": "2026-06-08T20:25:42.489621",
         "file": "gsap-vs-lottie-choosing-the-right-animation-tool.md"
+    },
+    {
+        "title": "How To Send Automated Email Reports With Python and SMTP",
+        "slug": "how-to-send-automated-email-reports-with-python-and-smtp",
+        "author": "Sudhir Bahadure",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 19:05:18 +0000",
+        "description": "Introduction Did you know that automated email reports can save businesses up to 30% of their time and increase productivity by 25%? In this tutorial, you wi...",
+        "keywords": "email, you, server, smtp, reports, msg, automated, send",
+        "generated": "2026-07-08T19:41:38.374997",
+        "file": "how-to-send-automated-email-reports-with-python-and-smtp.md"
     },
     {
         "title": "OpenWrt One – Open Hardware Router",
@@ -24531,6 +24718,17 @@
         "file": "what-is-bash4llm-and-why-should-you-care.md"
     },
     {
+        "title": "How I built an async Python system to process 10,000+ Binance events/sec (and how I fixed the event loop starvation) Hey everyone,",
+        "slug": "how-i-built-an-async-python-system-to-process-10000-binance-eventssec-and-how-i-fixed-the-event-loop-starvation-hey-everyone",
+        "author": "Olexandr Kilin",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 19:20:31 +0000",
+        "description": "Hey everyone, I recently built a real-time market scanner that monitors Binance Futures data for the top 100 volume coins. My goal was to track institutional...",
+        "keywords": "data, python, event, loop, real, asyncio, redis, built",
+        "generated": "2026-07-08T19:41:38.373840",
+        "file": "how-i-built-an-async-python-system-to-process-10000-binance-eventssec-and-how-i-fixed-the-event-loop-starvation-hey-everyone.md"
+    },
+    {
         "title": "The Future of Flipper Zero Development",
         "slug": "the-future-of-flipper-zero-development",
         "author": "croes",
@@ -24914,6 +25112,17 @@
         "keywords": "url, https, com, comments, free, online, courses, top",
         "generated": "2026-06-23T04:02:13.416132",
         "file": "1700-free-online-courses-from-top-universities.md"
+    },
+    {
+        "title": "Your Pipeline Is 27.6h Behind: Catching Commodities Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-276h-behind-catching-commodities-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Wed, 08 Jul 2026 19:02:16 +0000",
+        "description": "Your Pipeline Is 27.6h Behind: Catching Commodities Sentiment Leads with Pulsebit We recently uncovered an intriguing anomaly: a 24-hour momentum spike of +0...",
+        "keywords": "sentiment, commodities, pulsebit, your, can, analysis, you, our",
+        "generated": "2026-07-08T19:41:38.375310",
+        "file": "your-pipeline-is-276h-behind-catching-commodities-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "I Cut My AI Bill By 97% Switching to DeepSeek — Here's How",
@@ -27356,6 +27565,17 @@
         "keywords": "chunks, question, you, rag, document, text, chunk, answer",
         "generated": "2026-06-20T19:45:32.622514",
         "file": "build-your-first-rag-system-from-scratch-no-frameworks-just-python.md"
+    },
+    {
+        "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+        "slug": "openmandriva-statement-regarding-attempted-distribution-sabotage",
+        "author": "workethics",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 18:21:53 +0000",
+        "description": "Article URL: https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997 Comments URL: https://news.ycombinator.com/item?id=488...",
+        "keywords": "openmandriva, statement, regarding, attempted, distribution, sabotage, url, https",
+        "generated": "2026-07-08T19:41:38.372167",
+        "file": "openmandriva-statement-regarding-attempted-distribution-sabotage.md"
     },
     {
         "title": "I Built an AI Coding Agent Toolkit — Here's What 50 Claude Code + Cursor Workflows Taught Me",
