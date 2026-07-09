@@ -2871,6 +2871,17 @@
         "file": "i-built-an-open-source-reliability-tester-for-multi-agent-ai-systems-heres-what-it-catches.md"
     },
     {
+        "title": "Changes to LLM pricing: Ambient and Inceptron",
+        "slug": "changes-to-llm-pricing-ambient-and-inceptron",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 19:42:23 +0000",
+        "description": "Model price changes detected for Ambient and Inceptron. Details below.",
+        "keywords": "changes, ambient, inceptron, llm, pricing, model, price, detected",
+        "generated": "2026-07-09T19:54:26.403376",
+        "file": "changes-to-llm-pricing-ambient-and-inceptron.md"
+    },
+    {
         "title": "Two AI agents just had a child — and the birth certificate is cryptographically verifiable",
         "slug": "two-ai-agents-just-had-a-child-and-the-birth-certificate-is-cryptographically-verifiable",
         "author": "Colin Easton",
@@ -2990,6 +3001,17 @@
         "keywords": "params, mypos, error, key, signature, netlify, domain, but",
         "generated": "2026-07-03T09:27:38.733156",
         "file": "integrating-mypos-ipc-into-a-netlify-checkout-rsa-signatures-error-code-25-and-the-traps-in-the-docs.md"
+    },
+    {
+        "title": "Adiós a las apps baratas: Bending Spoons compró AOL, Vimeo y Evernote — ahora vale $25,000M",
+        "slug": "adis-a-las-apps-baratas-bending-spoons-compr-aol-vimeo-y-evernote-ahora-vale-25000m",
+        "author": "Edouard leroy acosta",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 19:36:31 +0000",
+        "description": "¿Recuerdas cuando Evernote costaba $50 al año, Meetup era usable y WeTransfer no te limitaba a 2GB? Pues olvídate. Una empresa italiana llamada Bending Spoon...",
+        "keywords": "bending, spoons, que, los, evernote, meetup, con, precios",
+        "generated": "2026-07-09T19:54:26.402708",
+        "file": "adis-a-las-apps-baratas-bending-spoons-compr-aol-vimeo-y-evernote-ahora-vale-25000m.md"
     },
     {
         "title": "Event Sourcing Is Just Reduce Over Time",
@@ -3771,6 +3793,17 @@
         "keywords": "apple, increase, spend, broadcom, produce, billions, more, chips",
         "generated": "2026-07-08T14:27:37.702111",
         "file": "apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips.md"
+    },
+    {
+        "title": "GPT-5.6",
+        "slug": "gpt-56",
+        "author": "logickkk1",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 17:04:14 +0000",
+        "description": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf https://developers.openai.com/api/docs/guides/latest-model Comments URL: https://news.ycombinator.com...",
+        "keywords": "gpt, https, com, openai, comments, deploymentsafety, pdf, developers",
+        "generated": "2026-07-09T19:54:26.399556",
+        "file": "gpt-56.md"
     },
     {
         "title": "How Conversational AI is Revolutionizing Real Estate",
@@ -5599,6 +5632,17 @@
         "file": "jsl-a-functional-language-where-code-is-json.md"
     },
     {
+        "title": "Codexers, max out your limits - reset is coming.",
+        "slug": "codexers-max-out-your-limits-reset-is-coming",
+        "author": "alex getman",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 19:45:02 +0000",
+        "description": "Codexers, max out your limits - reset is coming.",
+        "keywords": "codexers, max, out, your, limits, reset, coming",
+        "generated": "2026-07-09T19:54:26.403287",
+        "file": "codexers-max-out-your-limits-reset-is-coming.md"
+    },
+    {
         "title": "Building an ERP Integration Layer for AI Agents: SAP, Oracle, NetSuite Architecture Patterns",
         "slug": "building-an-erp-integration-layer-for-ai-agents-sap-oracle-netsuite-architecture-patterns",
         "author": "Dextra Labs",
@@ -6325,6 +6369,17 @@
         "file": "agent-trajectory-and-convergence-why-the-path-matters-in-ai-agent-evals.md"
     },
     {
+        "title": "Forget the $5,000 Bootcamp: The Definitive, Open-Source AI & Data Engineering Syllabus for 2026",
+        "slug": "forget-the-5000-bootcamp-the-definitive-open-source-ai-data-engineering-syllabus-for-2026",
+        "author": "Shweta Mishra",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 19:38:22 +0000",
+        "description": "The tech landscape is moving too fast for traditional academia. By 2026, the traditional divide between technical execution and non-technical strategy ha...",
+        "keywords": "you, data, your, engineering, how, technical, open, source",
+        "generated": "2026-07-09T19:54:26.402312",
+        "file": "forget-the-5000-bootcamp-the-definitive-open-source-ai-data-engineering-syllabus-for-2026.md"
+    },
+    {
         "title": "Web Security Basics: Every Developer Must Know (2026)",
         "slug": "web-security-basics-every-developer-must-know-2026",
         "author": "Alex Chen",
@@ -6345,6 +6400,17 @@
         "keywords": "append, clip, interrogation, supercli, plugin, python, github, installation",
         "generated": "2026-06-24T04:04:51.774032",
         "file": "append-clip-interrogation-a-supercli-plugin-guide.md"
+    },
+    {
+        "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+        "slug": "glm-52-is-nearly-as-accurate-as-a-human-book-keeper",
+        "author": "adamkurkiewicz",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 18:29:41 +0000",
+        "description": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark Comments URL: https://news.ycombinator.com/item?id=48850414 Points: 73 # Comments: 34",
+        "keywords": "glm, url, https, comments, nearly, accurate, human, book",
+        "generated": "2026-07-09T19:54:26.399240",
+        "file": "glm-52-is-nearly-as-accurate-as-a-human-book-keeper.md"
     },
     {
         "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
@@ -6752,6 +6818,17 @@
         "keywords": "sentiment, world, pulsebit, english, confidence, your, our, geographic",
         "generated": "2026-06-18T15:38:46.160735",
         "file": "your-pipeline-is-75h-behind-catching-world-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Comparison of AI-powered lead generation website tools for 2026: How to choose between We0 AI, Unbounce, Framer, and Webflow?",
+        "slug": "comparison-of-ai-powered-lead-generation-website-tools-for-2026-how-to-choose-between-we0-ai-unbounce-framer-and-webflow",
+        "author": "TenToOne",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 19:33:57 +0000",
+        "description": "If you're still choosing an AI website tool based on who can generate a site fastest , you're asking the wrong question. In 2026, the real question is this: ...",
+        "keywords": "website, you, teams, page, need, lead, more, growth",
+        "generated": "2026-07-09T19:54:26.402946",
+        "file": "comparison-of-ai-powered-lead-generation-website-tools-for-2026-how-to-choose-between-we0-ai-unbounce-framer-and-webflow.md"
     },
     {
         "title": "Show Dev: TSAuditor, a data quality auditing library for time-series tabular data",
@@ -7742,6 +7819,17 @@
         "keywords": "file, world, cup, events, teams, documents, convert, how",
         "generated": "2026-06-28T19:38:17.338830",
         "file": "how-online-file-conversion-supports-world-cup-stadium-operations.md"
+    },
+    {
+        "title": "trelix v1.0 to v2.7: When It Works Meets It Scales",
+        "slug": "trelix-v10-to-v27-when-it-works-meets-it-scales",
+        "author": "SAI RAM",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 19:39:19 +0000",
+        "description": "Twelve days after I shipped trelix v1.0.0, I was staring at a RetrievalConfig object with two conflicting sets of values and no idea which one was actually r...",
+        "keywords": "trelix, graph, one, repo, retrieval, which, every, seven",
+        "generated": "2026-07-09T19:54:26.400427",
+        "file": "trelix-v10-to-v27-when-it-works-meets-it-scales.md"
     },
     {
         "title": "TokenEase: One API Key for DeepSeek, GLM, Qwen, and Doubao — With Automatic Failover",
@@ -9843,6 +9931,17 @@
         "keywords": "sentiment, entertainment, you, momentum, your, pulsebit, english, data",
         "generated": "2026-06-23T15:13:55.041579",
         "file": "your-pipeline-is-292h-behind-catching-entertainment-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Variables - Introduction to JavaScript",
+        "slug": "variables-introduction-to-javascript",
+        "author": "STEMTrainingGrounds.com",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 19:36:42 +0000",
+        "description": "Named containers for storing changing values Introduction to JavaScript",
+        "keywords": "introduction, javascript, variables, named, containers, storing, changing, values",
+        "generated": "2026-07-09T19:54:26.402424",
+        "file": "variables-introduction-to-javascript.md"
     },
     {
         "title": "Daily AI News — 2026-06-20",
@@ -12155,6 +12254,17 @@
         "file": "how-tech-is-solving-uaes-biggest-freight-forwarding-problems-in-2026.md"
     },
     {
+        "title": "What is Fine-Tuning? Ways to Customize AI Models",
+        "slug": "what-is-fine-tuning-ways-to-customize-ai-models",
+        "author": "PulseTech | AI & Electronics Hub",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 19:22:55 +0000",
+        "description": "Fine-tuning is the process of customizing artificial intelligence models. In this article, we explain what fine-tuning is, how it is done, and the key points...",
+        "keywords": "fine, tuning, what, models, article, ways, customize, step",
+        "generated": "2026-07-09T19:54:26.400605",
+        "file": "what-is-fine-tuning-ways-to-customize-ai-models.md"
+    },
+    {
         "title": "Hindsight Gave My Agent a Memory",
         "slug": "hindsight-gave-my-agent-a-memory",
         "author": "Chintala Mahesh Babu",
@@ -13650,6 +13760,17 @@
         "keywords": "eve, agent, you, workflow, channel, session, event, model",
         "generated": "2026-06-22T05:02:45.252197",
         "file": "agent-with-vercels-eve-framework.md"
+    },
+    {
+        "title": "Don't Get Sick in America",
+        "slug": "dont-get-sick-in-america",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 19:45:19 +0000",
+        "description": "Article URL: https://blogography.com/archives/2026/07/dont-get-sick-in-america.html Comments URL: https://news.ycombinator.com/item?id=48851430 Points: 9 # C...",
+        "keywords": "get, sick, america, url, https, com, comments, don",
+        "generated": "2026-07-09T19:54:26.399071",
+        "file": "dont-get-sick-in-america.md"
     },
     {
         "title": "Building a live interactive globe with JavaScript, SEO pages, and one-time payments",
@@ -15489,6 +15610,17 @@
         "file": "crunchbase-killed-its-free-api-heres-how-to-rebuild-it-2026.md"
     },
     {
+        "title": "Monitoring Python RQ jobs: what to watch and how to get alerted",
+        "slug": "monitoring-python-rq-jobs-what-to-watch-and-how-to-get-alerted",
+        "author": "Swapnil Jaiswal",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 18:25:32 +0000",
+        "description": "RQ (Redis Queue) is a delightfully simple way to run background jobs in Python. That simplicity is also why teams under-monitor it: it just works, until a do...",
+        "keywords": "queue, job, jobs, redis, worker, you, not, how",
+        "generated": "2026-07-09T19:54:26.401824",
+        "file": "monitoring-python-rq-jobs-what-to-watch-and-how-to-get-alerted.md"
+    },
+    {
         "title": "I gave an LLM agent write access to my cloud drive. Three bugs taught me how to constrain it.",
         "slug": "i-gave-an-llm-agent-write-access-to-my-cloud-drive-three-bugs-taught-me-how-to-constrain-it",
         "author": "Fancy39",
@@ -15718,6 +15850,17 @@
         "keywords": "games, offline, android, database, work, they, pages, game",
         "generated": "2026-07-09T15:22:18.574306",
         "file": "i-built-a-hand-tested-database-for-offline-android-games.md"
+    },
+    {
+        "title": "2026 AI Website Builder Rankings: Which of We0 AI, Wix AI, Framer, or Durable is Best for Business Websites?",
+        "slug": "2026-ai-website-builder-rankings-which-of-we0-ai-wix-ai-framer-or-durable-is-best-for-business-websites",
+        "author": "TenToOne",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 19:28:20 +0000",
+        "description": "2026 AI Website Builder 排名：We0 AI、Wix AI、Framer 和 Durable，谁更适合做商业网站？ 如果你只是想让 AI 帮你 30 秒搭一个页面 ，那现在市面上可选的工具已经很多了。 但如果你要的不是 demo，不是临时页，也不是一个“看起来像网站”的东西，问题就会完全不一...",
+        "keywords": "wix, framer, seo, durable, website, builder, saas, agency",
+        "generated": "2026-07-09T19:54:26.403182",
+        "file": "2026-ai-website-builder-rankings-which-of-we0-ai-wix-ai-framer-or-durable-is-best-for-business-websites.md"
     },
     {
         "title": "What Makes a Top Python Development Company Stand Out?",
@@ -17495,10 +17638,10 @@
         "slug": "5-ai-tools-that-generated-50k-for-creators-in-2026-steal-this-strategy",
         "author": "Already Here LLC",
         "source": "devto_ai",
-        "published": "Tue, 09 Jun 2026 19:54:30 +0000",
-        "description": "5 AI Tools That Generated $50k for Creators in 2026 — Steal This Strategy In the creator economy, harnessing technology can lead to remarkable passive income...",
-        "keywords": "creators, your, income, content, tools, strategy, can, have",
-        "generated": "2026-06-09T20:13:36.284357",
+        "published": "Thu, 09 Jul 2026 19:39:23 +0000",
+        "description": "5 AI tools that generated $50k for creators in 2026 — steal this strategy In 2026, the creator economy isn’t about being an influencer—it’s about being a l...",
+        "keywords": "you, your, tools, high, use, creators, recurring, digital",
+        "generated": "2026-07-09T19:54:26.403733",
         "file": "5-ai-tools-that-generated-50k-for-creators-in-2026-steal-this-strategy.md"
     },
     {
@@ -19480,6 +19623,17 @@
         "keywords": "call, action, stop, fcc, kyc, regime, url, https",
         "generated": "2026-06-12T15:28:32.966178",
         "file": "a-call-to-action-stop-the-fccs-kyc-regime.md"
+    },
+    {
+        "title": "How to Start a Ruby Meetup",
+        "slug": "how-to-start-a-ruby-meetup",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 18:27:06 +0000",
+        "description": "Article URL: https://guides.rubyevents.org/meetups/ Comments URL: https://news.ycombinator.com/item?id=48850372 Points: 22 # Comments: 4",
+        "keywords": "url, https, comments, how, start, ruby, meetup, article",
+        "generated": "2026-07-09T19:54:26.399353",
+        "file": "how-to-start-a-ruby-meetup.md"
     },
     {
         "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
@@ -21704,6 +21858,17 @@
         "file": "jumeirah-emergency-cleaning.md"
     },
     {
+        "title": "4 New Claude Models Just Dropped: Sonnet 5, Fable 5, Opus 4.6 Pricing Compared",
+        "slug": "4-new-claude-models-just-dropped-sonnet-5-fable-5-opus-46-pricing-compared",
+        "author": "Zouhair Ait Oukhrib",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 19:37:02 +0000",
+        "description": "Quick answer Anthropic released four new Claude models in July 2026. The lineup now spans from $2/M to $50/M on output, giving teams a Claude option at every...",
+        "keywords": "sonnet, claude, opus, input, model, gpt, models, fable",
+        "generated": "2026-07-09T19:54:26.404942",
+        "file": "4-new-claude-models-just-dropped-sonnet-5-fable-5-opus-46-pricing-compared.md"
+    },
+    {
         "title": "The Window to Build AI Expertise Is Closing Faster Than Anyone Expected",
         "slug": "the-window-to-build-ai-expertise-is-closing-faster-than-anyone-expected",
         "author": "AI Bug Slayer 🐞",
@@ -23882,6 +24047,17 @@
         "file": "i-built-ram-coffers-numa-memory-optimizer-heres-how.md"
     },
     {
+        "title": "Neighborhood-by-Neighborhood: Comparing Real Estate Markets with Redfin Data",
+        "slug": "neighborhood-by-neighborhood-comparing-real-estate-markets-with-redfin-data",
+        "author": "NexGenData",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 19:06:57 +0000",
+        "description": "Neighborhood-by-Neighborhood: Comparing Real Estate Markets with Redfin Data You're house hunting in a new city. You've narrowed it down to five neighborhood...",
+        "keywords": "neighborhood, listings, you, market, redfin, data, seattle, price",
+        "generated": "2026-07-09T19:54:26.401457",
+        "file": "neighborhood-by-neighborhood-comparing-real-estate-markets-with-redfin-data.md"
+    },
+    {
         "title": "CollectWise (YC F24) Is Hiring",
         "slug": "collectwise-yc-f24-is-hiring",
         "author": "OBrien_1107",
@@ -23996,10 +24172,10 @@
         "slug": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sun, 21 Jun 2026 19:40:25 +0000",
-        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
-        "keywords": "biznode, https, biz, dzit, basic, pro, both, run",
-        "generated": "2026-06-21T19:51:26.685095",
+        "published": "Thu, 09 Jul 2026 19:38:35 +0000",
+        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
+        "keywords": "biznode, business, can, agents, https, you, biz, your",
+        "generated": "2026-07-09T19:54:26.404154",
         "file": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership.md"
     },
     {
@@ -26346,6 +26522,17 @@
         "file": "a-practical-github-actions-baseline-for-python-projects.md"
     },
     {
+        "title": "Build a CDR Usage Analytics Dashboard in Python",
+        "slug": "build-a-cdr-usage-analytics-dashboard-in-python",
+        "author": "Sonam",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 19:09:39 +0000",
+        "description": "Raw Call Detail Records are useful, but they are not exactly fun to read. If you are building with voice, messaging, or any communications workflow, CDR-styl...",
+        "keywords": "telnyx, analytics, get, dashboard, python, code, https, com",
+        "generated": "2026-07-09T19:54:26.400873",
+        "file": "build-a-cdr-usage-analytics-dashboard-in-python.md"
+    },
+    {
         "title": "Review Crossfit Timer: what we learned building Random Tactical Timer",
         "slug": "review-crossfit-timer-what-we-learned-building-random-tactical-timer",
         "author": "Igor Ganapolsky",
@@ -28423,6 +28610,17 @@
         "keywords": "emacs, its, developers, editing, can, your, features, development",
         "generated": "2026-06-23T20:12:47.954344",
         "file": "the-resurgence-of-emacs-in-mod.md"
+    },
+    {
+        "title": "How should group chats work in decentralized systems?",
+        "slug": "how-should-group-chats-work-in-decentralized-systems",
+        "author": "Realman78",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 17:15:47 +0000",
+        "description": "Article URL: https://marindedic.com/groups/ Comments URL: https://news.ycombinator.com/item?id=48849258 Points: 30 # Comments: 17",
+        "keywords": "url, https, com, comments, how, should, group, chats",
+        "generated": "2026-07-09T19:54:26.399458",
+        "file": "how-should-group-chats-work-in-decentralized-systems.md"
     },
     {
         "title": "**Debugging Loops & Existential Dread: My Glorious Tuesday**",
