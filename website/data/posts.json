@@ -110,6 +110,17 @@
         "file": "demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-and-would-love-some-honest-feedback-the-goal-was-to-remove-the-friction-that-often-comes-with-pair-programming-and-collaborative-coding-sessions-instead-of-in.md"
     },
     {
+        "title": "Using LLMs for Sentiment Analysis and Opinion Mining in Social Media",
+        "slug": "using-llms-for-sentiment-analysis-and-opinion-mining-in-social-media",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 03:35:02 +0000",
+        "description": "Social media sentiment analysis usually fails when it misses nuance, sarcasm, or product-specific context. In this tutorial we will build a lightweight opini...",
+        "keywords": "sentiment, openai, oxlo, aspects, posts, content, topic, json",
+        "generated": "2026-07-09T03:49:54.088517",
+        "file": "using-llms-for-sentiment-analysis-and-opinion-mining-in-social-media.md"
+    },
+    {
         "title": "Loop Engineering ภาคปฏิบัติ ตอนที่ 1: จาก Prompter สู่ Loop Designer — เปลี่ยนวิธีคิดก่อนเปลี่ยนเครื่องมือ",
         "slug": "loop-engineering-1-prompter-loop-designer",
         "author": "Nokka",
@@ -1903,6 +1914,17 @@
         "file": "raspberry-pi-5-16-gb-350.md"
     },
     {
+        "title": "Claude Code Tops JetBrains' New Kotlin Benchmark with 85.7% Resolution",
+        "slug": "claude-code-tops-jetbrains-new-kotlin-benchmark-with-857-resolution",
+        "author": "gentic news",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 03:38:23 +0000",
+        "description": "Claude Code with Opus 4.7 xhigh tops JetBrains' Kotlin Benchmark at 85.7%. Configure your CLAUDE.md with Kotlin conventions and use --model opus-4.7-xhigh to...",
+        "keywords": "kotlin, claude, benchmark, code, xhigh, model, your, jetbrains",
+        "generated": "2026-07-09T03:49:54.087583",
+        "file": "claude-code-tops-jetbrains-new-kotlin-benchmark-with-857-resolution.md"
+    },
+    {
         "title": "Your Pipeline Is 25.4h Behind: Catching Food Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-254h-behind-catching-food-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -3034,6 +3056,17 @@
         "keywords": "type, text, file, markdown, content, txt, pdf, add",
         "generated": "2026-06-15T21:11:31.713914",
         "file": "adding-markdown-support-end-to-end-part-7.md"
+    },
+    {
+        "title": "Condicionales en Python: enseña a tu programa a tomar decisiones",
+        "slug": "condicionales-en-python-ensea-a-tu-programa-a-tomar-decisiones",
+        "author": "Tu codigo cotidiano",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 03:01:04 +0000",
+        "description": "Condicionales en Python: enseña a tu programa a tomar decisiones Cuando una persona empieza a aprender Python, normalmente aprende primero a guardar datos, h...",
+        "keywords": "python, condicionales, tomar, decisiones, una, programa, los, usar",
+        "generated": "2026-07-09T03:49:54.084707",
+        "file": "condicionales-en-python-ensea-a-tu-programa-a-tomar-decisiones.md"
     },
     {
         "title": "AI Literacy Will Be More Valuable Than Coding for Most Professionals",
@@ -5577,6 +5610,17 @@
         "file": "i-ran-10-ai-coding-models-through-real-tasks-heres-what-actually-won.md"
     },
     {
+        "title": "Your First Mini-App in 30 Minutes: What the Developer Experience Actually Looks Like",
+        "slug": "your-first-mini-app-in-30-minutes-what-the-developer-experience-actually-looks-like",
+        "author": "FinClip Super-App",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 03:46:56 +0000",
+        "description": "Less philosophy, more terminal. Here's what building, debugging, and shipping a mini-app feels like — from zero to production. Most super app content talks a...",
+        "keywords": "app, mini, you, your, host, build, ide, step",
+        "generated": "2026-07-09T03:49:54.085121",
+        "file": "your-first-mini-app-in-30-minutes-what-the-developer-experience-actually-looks-like.md"
+    },
+    {
         "title": "AI Agents in Practice — Part 8: The Boundaries That Keep Agents Safe",
         "slug": "ai-agents-in-practice-part-8-the-boundaries-that-keep-agents-safe",
         "author": "Gursharan Singh",
@@ -6501,6 +6545,17 @@
         "file": "how-to-setup-a-local-coding-agent-on-macos.md"
     },
     {
+        "title": "2026 Technical Comparison: Stock & Forex Historical Market Data APIs – Capabilities & Integration Workflows",
+        "slug": "2026-technical-comparison-stock-forex-historical-market-data-apis-capabilities-integration-workflows",
+        "author": "kelos",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 03:18:03 +0000",
+        "description": "Introduction Fintech engineers building backtesting engines, live quote dashboards, and algorithmic trading pipelines repeatedly face consistent pain points ...",
+        "keywords": "data, tick, time, websocket, historical, api, symbol, str",
+        "generated": "2026-07-09T03:49:54.084355",
+        "file": "2026-technical-comparison-stock-forex-historical-market-data-apis-capabilities-integration-workflows.md"
+    },
+    {
         "title": "Chaosnet",
         "slug": "chaosnet",
         "author": "RGBCube",
@@ -6560,10 +6615,10 @@
         "slug": "how-to-build-a-faceless-youtube-channel-with-ai-in-30-days",
         "author": "Already Here LLC",
         "source": "devto_ai",
-        "published": "Tue, 07 Jul 2026 09:42:26 +0000",
-        "description": "How to build a faceless YouTube channel with AI in 30 days Top AI Tools Making Money AI Writer Pro - $50/month, earn $500+ in affiliate commission Video Gene...",
-        "keywords": "how, build, faceless, youtube, channel, days, tools, earn",
-        "generated": "2026-07-07T09:51:54.399526",
+        "published": "Thu, 09 Jul 2026 03:39:22 +0000",
+        "description": "How to build a faceless YouTube channel with AI in 30 days The era of needing a fancy camera, professional lighting, or even showing your face to build a six...",
+        "keywords": "your, you, channel, build, start, need, video, tools",
+        "generated": "2026-07-09T03:49:54.087170",
         "file": "how-to-build-a-faceless-youtube-channel-with-ai-in-30-days.md"
     },
     {
@@ -7676,6 +7731,17 @@
         "keywords": "node, words, code, confidence, count, pdf, score, workflow",
         "generated": "2026-06-26T04:12:11.601559",
         "file": "ai-powered-workflow-for-niche-physical-product-importers-from-supplier-to-final-delivery.md"
+    },
+    {
+        "title": "The Hidden Cost of Rebuilding an MVP: A Mistake Many Startups Make",
+        "slug": "the-hidden-cost-of-rebuilding-an-mvp-a-mistake-many-startups-make",
+        "author": "Mavani Solution",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 03:46:03 +0000",
+        "description": "An MVP is designed to validate an idea—not become a product that needs a complete rebuild six months later. Yet many startups find themselves rewriting large...",
+        "keywords": "mvp, startups, mistake, product, rebuild, their, hidden, cost",
+        "generated": "2026-07-09T03:49:54.085333",
+        "file": "the-hidden-cost-of-rebuilding-an-mvp-a-mistake-many-startups-make.md"
     },
     {
         "title": "I shipped an AI side panel in 2 weekends",
@@ -9152,6 +9218,17 @@
         "file": "10-ai-adsense.md"
     },
     {
+        "title": "Remote Attestation",
+        "slug": "remote-attestation",
+        "author": "lcvw",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 00:32:33 +0000",
+        "description": "Article URL: https://www.liamcvw.com/p/remote-attestation Comments URL: https://news.ycombinator.com/item?id=48839397 Points: 38 # Comments: 19",
+        "keywords": "remote, attestation, url, https, com, comments, article, www",
+        "generated": "2026-07-09T03:49:54.082200",
+        "file": "remote-attestation.md"
+    },
+    {
         "title": "用 Pyodide 解鎖前端AI超能力",
         "slug": "pyodide-ai",
         "author": "JH5",
@@ -10494,6 +10571,17 @@
         "file": "serving-cheap-when-two-models-agree-a-measured-cost-lever.md"
     },
     {
+        "title": "Building Better Front-End Code with Modern Web Guidance",
+        "slug": "building-better-front-end-code-with-modern-web-guidance",
+        "author": "Tipu sultan",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 03:32:24 +0000",
+        "description": "AI is becoming a powerful part of modern software development. But I've realized that getting high-quality code isn't just about writing better prompts—it's ...",
+        "keywords": "code, modern, web, guidance, better, quality, development, generating",
+        "generated": "2026-07-09T03:49:54.086817",
+        "file": "building-better-front-end-code-with-modern-web-guidance.md"
+    },
+    {
         "title": "4 Best Sites to Buy Negative Google Reviews",
         "slug": "4-best-sites-to-buy-negative-google-reviews",
         "author": "Michel",
@@ -11550,14 +11638,14 @@
         "file": "i-built-a-jwt-playground-that-re-signs-tokens-with-real-hmac-sha256.md"
     },
     {
-        "title": "FROST 的治理哲学：为什么每个 Agent 系统都需要一部宪法",
+        "title": "用 FROST 五维元模型构建可治理的多 Agent 系统：从零到一的代码教程",
         "slug": "frost-agent",
         "author": "llimage",
         "source": "devto_python",
-        "published": "Mon, 06 Jul 2026 03:23:52 +0000",
-        "description": "FROST 的治理哲学：为什么每个 Agent 系统都需要一部宪法 细胞会死，但谱系会存续。Agent 会消亡，但宪法会传承。资产会永存。 在 AI Agent 框架百花齐放的 2026 年，我们见证了一个有趣的现象：框架越来越多，治理却越来越缺失。LangChain 给了你工具链，CrewAI 给了你角色扮...",
-        "keywords": "agent, frost, self, sop, store, key, generation, def",
-        "generated": "2026-07-06T04:05:09.365530",
+        "published": "Thu, 09 Jul 2026 03:23:58 +0000",
+        "description": "用 FROST 五维元模型构建可治理的多 Agent 系统：从零到一的代码教程 作者 ：FROST Team 日期 ：2026-07-09 主题 ：代码教程 | 周四轮换 项目 ：FROST + FROST-SOP 前言 2026 年，Agent 框架百花齐放——LangChain、CrewAI、AutoGen ...",
+        "keywords": "frost, armory, agent, print, taskregistry, platformregistry, ruleregistry, registry",
+        "generated": "2026-07-09T03:49:54.083216",
         "file": "frost-agent.md"
     },
     {
@@ -11801,6 +11889,17 @@
         "keywords": "sentiment, oxlo, confidence, posts, negative, entities, post, escalate",
         "generated": "2026-06-18T15:38:46.164551",
         "file": "sentiment-analysis-for-social-media-monitoring-using-llm-best-practices-and-applications.md"
+    },
+    {
+        "title": "I Tested 8 Northflank Alternatives. Here Are the 6 I'd Actually Recommend.",
+        "slug": "i-tested-8-northflank-alternatives-here-are-the-6-id-actually-recommend",
+        "author": "Charan Achari",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 03:33:49 +0000",
+        "description": "Over the past few weeks, I've been exploring deployment platforms to see which ones I'd actually use for a new project today. There are plenty of articles co...",
+        "keywords": "deployment, applications, platform, northflank, developers, platforms, infrastructure, more",
+        "generated": "2026-07-09T03:49:54.086578",
+        "file": "i-tested-8-northflank-alternatives-here-are-the-6-id-actually-recommend.md"
     },
     {
         "title": "Migrating from GNU Stow to Chezmoi",
@@ -14620,6 +14719,17 @@
         "file": "how-i-built-a-gmail-automation-chrome-extension-using-javascript-and-flask.md"
     },
     {
+        "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+        "slug": "mira-multiplayer-interactive-world-models-trained-on-rocket-league",
+        "author": "ethanlipson",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 00:27:57 +0000",
+        "description": "https://mira-wm.com/blog-post/ Comments URL: https://news.ycombinator.com/item?id=48839355 Points: 38 # Comments: 9",
+        "keywords": "mira, https, com, comments, multiplayer, interactive, world, models",
+        "generated": "2026-07-09T03:49:54.082313",
+        "file": "mira-multiplayer-interactive-world-models-trained-on-rocket-league.md"
+    },
+    {
         "title": "WebAssembly in production: running high-performance code in the browser and beyond",
         "slug": "webassembly-in-production-running-high-performance-code-in-the-browser-and-beyond",
         "author": "Rizwan Saleem",
@@ -14662,6 +14772,17 @@
         "keywords": "modal, auto, endpoints, url, https, com, comments, optimized",
         "generated": "2026-06-23T20:12:47.951007",
         "file": "modal-auto-endpoints-optimized-inference-you-own.md"
+    },
+    {
+        "title": "I Think I Have LLM Burnout",
+        "slug": "i-think-i-have-llm-burnout",
+        "author": "sosodev",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 01:56:28 +0000",
+        "description": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 135 # Comments: 89",
+        "keywords": "llm, burnout, url, https, com, comments, think, have",
+        "generated": "2026-07-09T03:49:54.082032",
+        "file": "i-think-i-have-llm-burnout.md"
     },
     {
         "title": "Digital Transformation for Businesses: It's About More Than Just New Technology",
@@ -17260,6 +17381,17 @@
         "file": "designing-a-backyard-deck-for-my-house.md"
     },
     {
+        "title": "Pytest Pt1 - Fundamentals for Data Engineers",
+        "slug": "pytest-pt1-fundamentals-for-data-engineers",
+        "author": "Felipe de Godoy",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 03:18:17 +0000",
+        "description": "Pytest Fundamentals for Data Engineers Data engineering code is still software, and software that doesn't have tests is a liability. If you've ever had a pro...",
+        "keywords": "you, test, pytest, data, assert, your, code, bucket",
+        "generated": "2026-07-09T03:49:54.083750",
+        "file": "pytest-pt1-fundamentals-for-data-engineers.md"
+    },
+    {
         "title": "An Introduction to YOLO26",
         "slug": "an-introduction-to-yolo26",
         "author": "teleforce",
@@ -17412,6 +17544,17 @@
         "keywords": "one, preview, run, email, mailbox, test, not, checks",
         "generated": "2026-07-08T08:37:13.651800",
         "file": "preview-env-email-checks-with-one-run-id.md"
+    },
+    {
+        "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+        "slug": "we-made-grok-45-gpt-55-and-claude-build-the-same-apps",
+        "author": "hershyb_",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 23:27:14 +0000",
+        "description": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 93 # Comm...",
+        "keywords": "grok, gpt, claude, build, url, https, comments, made",
+        "generated": "2026-07-09T03:49:54.082535",
+        "file": "we-made-grok-45-gpt-55-and-claude-build-the-same-apps.md"
     },
     {
         "title": "MongoDB-backed ASP.NET Core Identity, without the EF Core detour",
@@ -20714,6 +20857,17 @@
         "file": "i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently.md"
     },
     {
+        "title": "How I'm Building an AI Empire With Zero Budget",
+        "slug": "how-im-building-an-ai-empire-with-zero-budget",
+        "author": "Swastik Mishra",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 03:38:06 +0000",
+        "description": "How I'm Building an AI Empire With Zero Budget The Setup I'm a student with no money, no team, and no experience. But I have AI. Here's how I'm building a bu...",
+        "keywords": "how, building, month, empire, zero, budget, runs, everything",
+        "generated": "2026-07-09T03:49:54.087749",
+        "file": "how-im-building-an-ai-empire-with-zero-budget.md"
+    },
+    {
         "title": "We Need to Talk About How We're Using AI for Development",
         "slug": "we-need-to-talk-about-how-were-using-ai-for-development",
         "author": "kavya1205",
@@ -23057,6 +23211,17 @@
         "file": "the-most-expensive-ai-standard-problem-is-the-one-you-cannot-see-yet.md"
     },
     {
+        "title": "The Role of LLMs in Language Translation and Localization",
+        "slug": "the-role-of-llms-in-language-translation-and-localization",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 03:36:03 +0000",
+        "description": "Large language models have shifted translation and localization from statistical phrase matching to context-aware generation. For engineering teams building ...",
+        "keywords": "context, translation, model, oxlo, localization, can, token, based",
+        "generated": "2026-07-09T03:49:54.088158",
+        "file": "the-role-of-llms-in-language-translation-and-localization.md"
+    },
+    {
         "title": "Scrape SERPs for AI Agents Without Triggering Anti-Bot Defenses",
         "slug": "scrape-serps-for-ai-agents-without-triggering-anti-bot-defenses",
         "author": "AlterLab",
@@ -24443,6 +24608,17 @@
         "file": "apache-hudi-merge-on-read-vs-copy-on-write-picking-the-right-table-type.md"
     },
     {
+        "title": "Automate Web Scraping with Crew AI and Pro Tips",
+        "slug": "automate-web-scraping-with-crew-ai-and-pro-tips",
+        "author": "Mustafa Yılmaz",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 03:35:48 +0000",
+        "description": "Automate Web Scraping with Crew AI and Pro Tips As a developer, you're likely familiar with the challenges of web scraping. You may have spent countless hour...",
+        "keywords": "scraping, crew, you, web, your, pro, data, workflow",
+        "generated": "2026-07-09T03:49:54.085694",
+        "file": "automate-web-scraping-with-crew-ai-and-pro-tips.md"
+    },
+    {
         "title": "Zenzizenzizenzic",
         "slug": "zenzizenzizenzic",
         "author": "gyosifov",
@@ -25827,6 +26003,17 @@
         "keywords": "translation, glossary, llm, cache, return, not, word, fallback",
         "generated": "2026-07-08T03:22:28.625677",
         "file": "how-we-built-instant-translation-help-with-python-and-llms.md"
+    },
+    {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "slug": "john-deere-owners-will-get-the-right-to-repair-equipment-under-ftc-settlement",
+        "author": "djoldman",
+        "source": "hackernews",
+        "published": "Wed, 08 Jul 2026 23:37:43 +0000",
+        "description": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 Comments URL: https://news.ycombina...",
+        "keywords": "john, deere, right, repair, equipment, article, url, https",
+        "generated": "2026-07-09T03:49:54.082431",
+        "file": "john-deere-owners-will-get-the-right-to-repair-equipment-under-ftc-settlement.md"
     },
     {
         "title": "Context Engineering for Enterprise AI, Part 2: The Memory Layer That Makes Agents Useful",
@@ -27631,6 +27818,17 @@
         "keywords": "const, what, you, one, await, return, chrome, api",
         "generated": "2026-07-05T09:14:04.980126",
         "file": "5-mistakes-i-made-building-an-ai-chrome-extension-and-the-readers-who-caught-them.md"
+    },
+    {
+        "title": "Python Libraries Crush Scientific Computing in 2026",
+        "slug": "python-libraries-crush-scientific-computing-in-2026",
+        "author": "MLXIO",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 03:06:41 +0000",
+        "description": "Python’s libraries dominate scientific computing in 2026, enabling researchers to handle data, perform calculations, and visualize results with ease. Key tak...",
+        "keywords": "python, scientific, computing, libraries, mlxio, tutorial, crush, dominate",
+        "generated": "2026-07-09T03:49:54.084529",
+        "file": "python-libraries-crush-scientific-computing-in-2026.md"
     },
     {
         "title": "Navigating Bitcoin Core: A Developer Introduction to Scripting the Blockchain",
