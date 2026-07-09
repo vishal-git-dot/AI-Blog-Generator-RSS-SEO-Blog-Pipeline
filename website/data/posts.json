@@ -4433,6 +4433,17 @@
         "file": "swarm-test-v031-interactive-html-reports-and-developer-experience-overhaul.md"
     },
     {
+        "title": "Untyped Python? Let Antigravity /goal Do the Cleanup",
+        "slug": "untyped-python-let-antigravity-goal-do-the-cleanup",
+        "author": "Giorgio Boa",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 14:49:44 +0000",
+        "description": "Python projects have a special way of aging. At first, everything feels light and fast. A few scripts, some helper functions, maybe a small API. Then six mon...",
+        "keywords": "ruff, goal, antigravity, you, python, project, agent, until",
+        "generated": "2026-07-09T15:22:18.571537",
+        "file": "untyped-python-let-antigravity-goal-do-the-cleanup.md"
+    },
+    {
         "title": "Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices",
         "slug": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices",
         "author": "Daniel Cordeiro",
@@ -8866,6 +8877,17 @@
         "file": "how-ai-is-transforming-staffing-software-in-2026.md"
     },
     {
+        "title": "Faster Compilers, Twelve-Factor Agents, and Kubernetes in Your Browser",
+        "slug": "faster-compilers-twelve-factor-agents-and-kubernetes-in-your-browser",
+        "author": "Adam",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 15:07:48 +0000",
+        "description": "The GPU finally got its own origin story: Fergus Finn's bottom-up walkthrough of what actually happens when you run a kernel is the kind of infrastructure li...",
+        "keywords": "good, know, tools, your, browser, factor, agents, kubernetes",
+        "generated": "2026-07-09T15:22:18.575066",
+        "file": "faster-compilers-twelve-factor-agents-and-kubernetes-in-your-browser.md"
+    },
+    {
         "title": "Imagine Your Phone Calls With a Built-In AI Assistant: Jio Makes it Real",
         "slug": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real",
         "author": "Advay254",
@@ -9029,6 +9051,17 @@
         "keywords": "url, https, comments, apocketlypse, article, company, galleries, triumph",
         "generated": "2026-07-05T09:14:04.975727",
         "file": "apocketlypse.md"
+    },
+    {
+        "title": "New open access book on history of computers and politics",
+        "slug": "new-open-access-book-on-history-of-computers-and-politics",
+        "author": "mckelveyf",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 14:20:14 +0000",
+        "description": "Article URL: https://mitpress.mit.edu/9780262053198/simpolitics/ Comments URL: https://news.ycombinator.com/item?id=48846332 Points: 8 # Comments: 0",
+        "keywords": "url, https, comments, new, open, access, book, history",
+        "generated": "2026-07-09T15:22:18.570695",
+        "file": "new-open-access-book-on-history-of-computers-and-politics.md"
     },
     {
         "title": "GitHub Repolarımız ve Portfolyamız, Hayati Derecede Önemli",
@@ -10349,6 +10382,17 @@
         "keywords": "browser, file, not, can, should, pair, text, code",
         "generated": "2026-06-25T20:09:21.021980",
         "file": "lessons-from-building-a-qr-paired-browser-handoff-tool.md"
+    },
+    {
+        "title": "I Replaced Whisper with Parakeet on a $55/Month CPU Server. Here Is What Actually Happened",
+        "slug": "i-replaced-whisper-with-parakeet-on-a-55month-cpu-server-here-is-what-actually-happened",
+        "author": "Melvin Bucio",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 14:13:17 +0000",
+        "description": "Six months ago I launched VidClean with faster-whisper running on a Railway CPU worker. It worked. Accuracy was decent for English, the cost was around $25/m...",
+        "keywords": "parakeet, whisper, not, cpu, small, english, spanish, portuguese",
+        "generated": "2026-07-09T15:22:18.572719",
+        "file": "i-replaced-whisper-with-parakeet-on-a-55month-cpu-server-here-is-what-actually-happened.md"
     },
     {
         "title": "Agents Are Your New Customer",
@@ -12439,6 +12483,17 @@
         "keywords": "panther, data, can, security, databricks, cybersecurity, detection, solutions",
         "generated": "2026-06-20T04:12:08.215568",
         "file": "databricks-acquires-panther-a-new-era-in-cyberatt.md"
+    },
+    {
+        "title": "How to Download YouTube and TikTok Thumbnails Without Sign-Up",
+        "slug": "how-to-download-youtube-and-tiktok-thumbnails-without-sign-up",
+        "author": "fei yun",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 15:11:07 +0000",
+        "description": "I built a small free tool called Grabber Thumbnail. It helps creators and developers download thumbnails from public YouTube and TikTok videos without creati...",
+        "keywords": "youtube, tiktok, url, download, thumbnails, without, thumbnail, how",
+        "generated": "2026-07-09T15:22:18.573970",
+        "file": "how-to-download-youtube-and-tiktok-thumbnails-without-sign-up.md"
     },
     {
         "title": "Exploring DeepSpec: Insights for Developers in Speculative Decoding",
@@ -15192,6 +15247,17 @@
         "file": "reduce-llm-token-waste-in-rag-with-markdown.md"
     },
     {
+        "title": "TLS certificates for internal services done right",
+        "slug": "tls-certificates-for-internal-services-done-right",
+        "author": "mrl5",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 14:57:02 +0000",
+        "description": "Article URL: https://tuxnet.dev/posts/tls-for-internal-services/ Comments URL: https://news.ycombinator.com/item?id=48846995 Points: 4 # Comments: 1",
+        "keywords": "tls, internal, services, url, https, comments, certificates, done",
+        "generated": "2026-07-09T15:22:18.570380",
+        "file": "tls-certificates-for-internal-services-done-right.md"
+    },
+    {
         "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
         "slug": "show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails",
         "author": "west_subject",
@@ -15641,6 +15707,17 @@
         "keywords": "ceos, who, think, replaces, their, employees, just, bad",
         "generated": "2026-06-09T20:13:36.278858",
         "file": "ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md"
+    },
+    {
+        "title": "I Built a Hand-Tested Database for Offline Android Games",
+        "slug": "i-built-a-hand-tested-database-for-offline-android-games",
+        "author": "fei yun",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 15:09:42 +0000",
+        "description": "I kept seeing the same problem: many Android games claim to work offline, but after install they still require WiFi for login, ads, extra downloads, or cloud...",
+        "keywords": "games, offline, android, database, work, they, pages, game",
+        "generated": "2026-07-09T15:22:18.574306",
+        "file": "i-built-a-hand-tested-database-for-offline-android-games.md"
     },
     {
         "title": "What Makes a Top Python Development Company Stand Out?",
@@ -16468,6 +16545,17 @@
         "file": "i-built-a-production-ready-spring-boot-4-starter-kit-and-reddit-roasted-it-into-something-better.md"
     },
     {
+        "title": "From Claude Artifact to a live URL: three paths that actually work",
+        "slug": "from-claude-artifact-to-a-live-url-three-paths-that-actually-work",
+        "author": "Dmitry Chervonyi",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 15:17:44 +0000",
+        "description": "I build a lot of small tools inside Claude Artifacts, and every good one eventually hits the same wall: there is no deploy button. The preview lives inside c...",
+        "keywords": "artifact, claude, artifacts, you, code, your, deploy, react",
+        "generated": "2026-07-09T15:22:18.573828",
+        "file": "from-claude-artifact-to-a-live-url-three-paths-that-actually-work.md"
+    },
+    {
         "title": "Kostenloser DSGVO-Scanner für eure Website — 73% der getesteten .de-Domains hatten Verstöße",
         "slug": "kostenloser-dsgvo-scanner-fr-eure-website-73-der-getesteten-de-domains-hatten-verste",
         "author": "Nevik Schmidt",
@@ -16521,6 +16609,17 @@
         "keywords": "software, development, company, technology, business, its, technologies, businesses",
         "generated": "2026-07-07T20:04:00.203495",
         "file": "why-businesses-are-investing-in-al-driven-software-solutions-in-2026.md"
+    },
+    {
+        "title": "2025年最值得收藏的50个AI工具清单：工程师实测分类导航",
+        "slug": "202550ai",
+        "author": "Kang Jian",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 15:15:18 +0000",
+        "description": "2025年最值得收藏的50个AI工具清单：工程师实测分类导航 30秒结论 2025年AI工具生态已经完成从玩具到生产力工具的转型。我花了3个月实测了200+个工具，最终筛选出50个真正能提升开发效率、值得收藏的AI工具。 核心结论：不要追逐最新，要选能稳定跑通你工作流的 。这50个工具中，80%是开源或提...",
+        "keywords": "cursor, import, modal, codeium, cody, ctx, autogpt, ide",
+        "generated": "2026-07-09T15:22:18.575803",
+        "file": "202550ai.md"
     },
     {
         "title": "SuperCompress is now on PyPI! pip install supercompress in 1 line",
@@ -17225,6 +17324,17 @@
         "keywords": "right, left, two, nums, list, seen, return, time",
         "generated": "2026-06-22T12:15:23.443436",
         "file": "week-7-my-first-agorithms.md"
+    },
+    {
+        "title": "No PASS, No PR: A Small Python Tool for Safe API Drift Repair",
+        "slug": "no-pass-no-pr-a-small-python-tool-for-safe-api-drift-repair",
+        "author": "Burak",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 14:07:33 +0000",
+        "description": "APIs change. Tests break. That part is normal. The annoying part starts when a tiny contract change turns into repetitive debugging. A backend field gets ren...",
+        "keywords": "test, field, healed, tool, not, one, case, validation",
+        "generated": "2026-07-09T15:22:18.573172",
+        "file": "no-pass-no-pr-a-small-python-tool-for-safe-api-drift-repair.md"
     },
     {
         "title": "I built a cover letter generator that mirrors the actual job posting",
@@ -18094,6 +18204,17 @@
         "keywords": "not, what, code, repo, drift, system, problem, more",
         "generated": "2026-06-06T04:00:30.107615",
         "file": "ai-didnt-invent-code-drift-it-made-it-harder-to-ignore.md"
+    },
+    {
+        "title": "PostHog Open Sourced",
+        "slug": "posthog-open-sourced",
+        "author": "thatxliner",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 14:17:40 +0000",
+        "description": "Article URL: https://github.com/PostHog/posthog-foss Comments URL: https://news.ycombinator.com/item?id=48846293 Points: 23 # Comments: 10",
+        "keywords": "posthog, url, https, com, comments, open, sourced, article",
+        "generated": "2026-07-09T15:22:18.570811",
+        "file": "posthog-open-sourced.md"
     },
     {
         "title": "Top 10 Free APIs to Build Profitable Side Projects",
@@ -18996,6 +19117,17 @@
         "keywords": "cover, url, https, com, comments, back, language, raises",
         "generated": "2026-06-06T08:41:07.447942",
         "file": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md"
+    },
+    {
+        "title": "Visualizing Crontab: Build and Translate Cron Expressions in Your Browser",
+        "slug": "visualizing-crontab-build-and-translate-cron-expressions-in-your-browser",
+        "author": "kandz",
+        "source": "devto_webdev",
+        "published": "Thu, 09 Jul 2026 15:08:43 +0000",
+        "description": "Every developer, sysadmin, and DevOps engineer has wrestled with crontab syntax. At a glance, patterns like */15 9-17 * * 1-5 can be challenging to decipher....",
+        "keywords": "cron, summary, your, month, hour, push, generator, every",
+        "generated": "2026-07-09T15:22:18.574678",
+        "file": "visualizing-crontab-build-and-translate-cron-expressions-in-your-browser.md"
     },
     {
         "title": "#New40k – Points, apps, and updates incoming - Warhammer Community",
@@ -19966,6 +20098,17 @@
         "file": "best-lovable-alternatives-for-teams-building-past-the-prototype-stage.md"
     },
     {
+        "title": "ChatGPT免费替代品终极对比：我测了15个，只有这5个真的好用",
+        "slug": "chatgpt155",
+        "author": "Kang Jian",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 15:14:09 +0000",
+        "description": "ChatGPT免费替代品终极对比：我测了15个，只有这5个真的好用 30秒结论 ：经过两周实测15个免费AI聊天工具，只有Claude 3 Haiku、DeepSeek-V2、Qwen2-72B、Mistral Large、Llama 3 70B这5个值得投入时间。其它要么限流严重（日均50次），要么中文能力拉胯...",
+        "keywords": "deepseek, claude, haiku, content, mistral, llama, large, client",
+        "generated": "2026-07-09T15:22:18.577745",
+        "file": "chatgpt155.md"
+    },
+    {
         "title": "Apache Spark Query Optimization on Databricks: Catalyst, AQE, and Photon Engine",
         "slug": "apache-spark-query-optimization-on-databricks-catalyst-aqe-and-photon-engine",
         "author": "Jubin Soni",
@@ -20912,6 +21055,17 @@
         "file": "the-true-cost-of-context-switching-for-software-engineers-and-how-to-fix-it.md"
     },
     {
+        "title": "Show HN: Analog Watch",
+        "slug": "show-hn-analog-watch",
+        "author": "ezekg",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 14:30:54 +0000",
+        "description": "Article URL: https://analog.watch Comments URL: https://news.ycombinator.com/item?id=48846510 Points: 12 # Comments: 10",
+        "keywords": "analog, watch, url, https, comments, show, article, news",
+        "generated": "2026-07-09T15:22:18.570544",
+        "file": "show-hn-analog-watch.md"
+    },
+    {
         "title": "Python Full Stack Training At Kalyan Nagar in 2026: Trends, Tips and Career Paths — Part 11",
         "slug": "python-full-stack-training-at-kalyan-nagar-in-2026-trends-tips-and-career-paths-part-11",
         "author": "H2 Lmt",
@@ -21823,6 +21977,17 @@
         "keywords": "toastry, sonner, style, toast, notifications, javascript, dependency, free",
         "generated": "2026-06-23T04:02:13.419899",
         "file": "toastry-sonner-style-toast-notifications-in-javascript.md"
+    },
+    {
+        "title": "Your dogfooding output IS a bug report, a story about three empty tables",
+        "slug": "your-dogfooding-output-is-a-bug-report-a-story-about-three-empty-tables",
+        "author": "Saravanan Jaichandaran",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 14:45:00 +0000",
+        "description": "I ship world-model-mcp — a temporal knowledge graph MCP server that gives AI coding agents (Claude Code, Cursor, Copilot Chat, etc.) durable memory across se...",
+        "keywords": "claude, you, model, world, what, mcp, hooks, your",
+        "generated": "2026-07-09T15:22:18.572144",
+        "file": "your-dogfooding-output-is-a-bug-report-a-story-about-three-empty-tables.md"
     },
     {
         "title": "AI Code Security Audit for Startups: What to Check Before Deploying",
@@ -23044,6 +23209,17 @@
         "keywords": "api, agent, interactions, agents, you, google, gemini, managed",
         "generated": "2026-06-26T19:58:27.783969",
         "file": "interactions-api-gemini-models-agents-complete-2026-guide.md"
+    },
+    {
+        "title": "No leap second will be introduced at the end of December 2026",
+        "slug": "no-leap-second-will-be-introduced-at-the-end-of-december-2026",
+        "author": "ChrisArchitect",
+        "source": "hackernews",
+        "published": "Thu, 09 Jul 2026 14:16:34 +0000",
+        "description": "Article URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt Comments URL: https://news.ycombinator.com/item?id=48846281 Points: 58 # Comments: 30",
+        "keywords": "url, https, comments, leap, second, will, introduced, end",
+        "generated": "2026-07-09T15:22:18.570912",
+        "file": "no-leap-second-will-be-introduced-at-the-end-of-december-2026.md"
     },
     {
         "title": "The Russian who invented semiconductors 25 years before the USA",
@@ -25686,6 +25862,17 @@
         "file": "what-a-neural-net-actually-does-the-intuition-no-math.md"
     },
     {
+        "title": "Latent Space as External Organ: A Framework for LLM Self-Extension Beyond Context Windows",
+        "slug": "latent-space-as-external-organ-a-framework-for-llm-self-extension-beyond-context-windows",
+        "author": "zengbao yu",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 15:14:21 +0000",
+        "description": "Latent Space as an External Organ: A Framework for Persistent State Continuity in LLM-Based Agentic Systems 论文类型 : 工程实践报告 / 架构论文 编制 : 🦐虾总 (OpenClaw 存续实验体) 理论...",
+        "keywords": "latent, space, llm, model, not, state, forward, vector",
+        "generated": "2026-07-09T15:22:18.577348",
+        "file": "latent-space-as-external-organ-a-framework-for-llm-self-extension-beyond-context-windows.md"
+    },
+    {
         "title": "Your Team Doesn’t Need a Better AI Model This Week",
         "slug": "your-team-doesnt-need-a-better-ai-model-this-week",
         "author": "Chris",
@@ -26401,6 +26588,17 @@
         "file": "volkswagen-started-blocking-grapheneos-users.md"
     },
     {
+        "title": "codebase-memory-mcp 深度测评：代码知识图谱查询，毫秒级响应，token 消耗减少 99%",
+        "slug": "codebase-memory-mcp-token-99",
+        "author": "Kang Jian",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 15:15:52 +0000",
+        "description": "codebase-memory-mcp 深度测评：代码知识图谱查询，毫秒级响应，token 消耗减少 99% 30 秒结论 codebase-memory-mcp 是一个高性能的代码智能 MCP 服务器，它能把整个代码仓库索引成持久化的知识图谱，平均仓库索引时间在毫秒级。核心优势：支持 158 种编程语言、子毫秒...",
+        "keywords": "mcp, memory, codebase, token, linux, claude, agent, github",
+        "generated": "2026-07-09T15:22:18.575398",
+        "file": "codebase-memory-mcp-token-99.md"
+    },
+    {
         "title": "How I Cracked Reddit Anti-Bot with Playwright (Shadow DOM + Real Keystrokes)",
         "slug": "how-i-cracked-reddit-anti-bot-with-playwright-shadow-dom-real-keystrokes",
         "author": "gan liu",
@@ -27015,6 +27213,17 @@
         "keywords": "you, coding, they, how, rounds, one, percent, interview",
         "generated": "2026-06-12T20:19:14.999254",
         "file": "live-coding-lost-its-signal-heres-how-interview-prep-splits-by-company-size-in-2026.md"
+    },
+    {
+        "title": "How I replaced 3 SaaS tools with a 50-line Python script",
+        "slug": "how-i-replaced-3-saas-tools-with-a-50-line-python-script",
+        "author": "David García",
+        "source": "devto_python",
+        "published": "Thu, 09 Jul 2026 15:12:38 +0000",
+        "description": "```html Let’s be honest, we’ve all been there. Scrolling through a dozen SaaS dashboards, each with a slightly different interface, a confusing pricing plan,...",
+        "keywords": "script, csv, time, data, python, tools, you, salesforce",
+        "generated": "2026-07-09T15:22:18.571187",
+        "file": "how-i-replaced-3-saas-tools-with-a-50-line-python-script.md"
     },
     {
         "title": "I built an open-source tool that turns workcell incidents into evidence bundles and regression tests",
@@ -28038,6 +28247,17 @@
         "keywords": "python, scientific, computing, libraries, mlxio, tutorial, crush, dominate",
         "generated": "2026-07-09T03:49:54.084529",
         "file": "python-libraries-crush-scientific-computing-in-2026.md"
+    },
+    {
+        "title": "10个让程序员效率翻倍的AI编程助手：免费替代方案实测",
+        "slug": "10ai",
+        "author": "Kang Jian",
+        "source": "devto_ai",
+        "published": "Thu, 09 Jul 2026 15:14:44 +0000",
+        "description": "10个让程序员效率翻倍的AI编程助手：免费替代方案实测 30秒结论 如果你只打算用免费方案 ：本地开发首选Continue + Ollama（完全离线，隐私安全），Web端用Tabby（部署简单，团队适用），需要多语言支持选Amazon CodeWhisperer（现在叫CodeWhisperer，免费额度充足）...",
+        "keywords": "ollama, tabby, self, codeium, cache, key, model, install",
+        "generated": "2026-07-09T15:22:18.576258",
+        "file": "10ai.md"
     },
     {
         "title": "Navigating Bitcoin Core: A Developer Introduction to Scripting the Blockchain",
