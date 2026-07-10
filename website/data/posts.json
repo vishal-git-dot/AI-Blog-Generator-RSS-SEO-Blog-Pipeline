@@ -66,6 +66,17 @@
         "file": "seo-expert.md"
     },
     {
+        "title": "Maker-taker economics for grid bots: when post-only actually pays",
+        "slug": "maker-taker-economics-for-grid-bots-when-post-only-actually-pays",
+        "author": "Jack Chen",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 03:36:14 +0000",
+        "description": "Grid bots don't win by predicting direction — they win on fee bps. Every rung you fill is one leg of a round trip, and a grid that trades 400 times a day tur...",
+        "keywords": "bps, maker, only, taker, post, fee, grid, fills",
+        "generated": "2026-07-10T03:51:00.819450",
+        "file": "maker-taker-economics-for-grid-bots-when-post-only-actually-pays.md"
+    },
+    {
         "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
         "slug": "project-valhalla-explained-how-a-decade-of-work-arrives-in-jdk-28",
         "author": "philonoist",
@@ -4081,6 +4092,17 @@
         "file": "the-hidden-layer-behind-every-smart-ai-app-rag-mcp-and-agentic-systems.md"
     },
     {
+        "title": "What Restaurant Menu Websites Can Teach Us About Better User Experience",
+        "slug": "what-restaurant-menu-websites-can-teach-us-about-better-user-experience",
+        "author": "Olivia",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 03:41:36 +0000",
+        "description": "Restaurant menu websites look simple, but they can teach us a lot about user experience. Most visitors do not open a menu website for fun. They have a clear ...",
+        "keywords": "menu, restaurant, they, should, can, not, websites, clear",
+        "generated": "2026-07-10T03:51:00.822185",
+        "file": "what-restaurant-menu-websites-can-teach-us-about-better-user-experience.md"
+    },
+    {
         "title": "Free HEIC to JPG and Live Photo Tools That Run in the Browser",
         "slug": "free-heic-to-jpg-and-live-photo-tools-that-run-in-the-browser",
         "author": "gan liu",
@@ -4816,6 +4838,17 @@
         "keywords": "line, height, baseline, width, size, var, can, root",
         "generated": "2026-06-11T20:28:40.310769",
         "file": "aligning-images-to-a-baseline-grid-with-modern-css.md"
+    },
+    {
+        "title": "Changes to LLM pricing: Novita and StreamLake",
+        "slug": "changes-to-llm-pricing-novita-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 03:41:11 +0000",
+        "description": "Model price changes detected for Novita and StreamLake. Details below.",
+        "keywords": "changes, novita, streamlake, llm, pricing, model, price, detected",
+        "generated": "2026-07-10T03:51:00.822807",
+        "file": "changes-to-llm-pricing-novita-and-streamlake.md"
     },
     {
         "title": "Elevated error rate across multiple models",
@@ -6501,6 +6534,17 @@
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
     },
     {
+        "title": "AI Agent Runtime Policy: Stop Dangerous Tool Calls Before They Execute",
+        "slug": "ai-agent-runtime-policy-stop-dangerous-tool-calls-before-they-execute",
+        "author": "Jack M",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 03:38:17 +0000",
+        "description": "An AI agent does not need to be malicious to damage production. It only needs the wrong tool, the wrong database, the wrong customer ID, or one confident ste...",
+        "keywords": "policy, agent, tool, action, runtime, string, approval, not",
+        "generated": "2026-07-10T03:51:00.824045",
+        "file": "ai-agent-runtime-policy-stop-dangerous-tool-calls-before-they-execute.md"
+    },
+    {
         "title": "Your Django background scheduler is probably running twice. Here's why, and the migrate chicken-and-egg.",
         "slug": "your-django-background-scheduler-is-probably-running-twice-heres-why-and-the-migrate-chicken-and-egg",
         "author": "ひとし 田畑",
@@ -6963,6 +7007,17 @@
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
     },
     {
+        "title": "Build your own vulnerability harness",
+        "slug": "build-your-own-vulnerability-harness",
+        "author": "ianrahman",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 01:28:43 +0000",
+        "description": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/ Comments URL: https://news.ycombinator.com/item?id=48854681 Points: 18 # Comme...",
+        "keywords": "build, your, own, vulnerability, harness, url, https, com",
+        "generated": "2026-07-10T03:51:00.818807",
+        "file": "build-your-own-vulnerability-harness.md"
+    },
+    {
         "title": "I Spent Years Building Productivity Systems Instead of Doing the Work",
         "slug": "i-spent-years-building-productivity-systems-instead-of-doing-the-work",
         "author": "Jaabir Yusuf",
@@ -7170,6 +7225,17 @@
         "keywords": "but, sports, balogun, usa, data, time, march, will",
         "generated": "2026-07-03T03:48:14.178839",
         "file": "i-scraped-100-sports-matches-here-is-what-i-found-usa-march-on-but-will-balogun-red-card-prove-costly.md"
+    },
+    {
+        "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+        "slug": "ben-bernanke-joins-anthropic-oversight-trust",
+        "author": "Jimmc414",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 02:39:07 +0000",
+        "description": "Article URL: https://www.anthropic.com/news/ben-bernanke Comments URL: https://news.ycombinator.com/item?id=48855112 Points: 7 # Comments: 1",
+        "keywords": "ben, bernanke, anthropic, url, https, com, news, comments",
+        "generated": "2026-07-10T03:51:00.818650",
+        "file": "ben-bernanke-joins-anthropic-oversight-trust.md"
     },
     {
         "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
@@ -13751,6 +13817,17 @@
         "file": "i-built-a-free-currency-converter-api-no-api-key-no-signup.md"
     },
     {
+        "title": "Why Do US Stock Minute Bar Backtests Fail to Match Live Trading Results?",
+        "slug": "why-do-us-stock-minute-bar-backtests-fail-to-match-live-trading-results",
+        "author": "James Tao",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 02:52:04 +0000",
+        "description": "Intro If you’ve built intraday quantitative strategies for US equities, you’ve almost certainly hit this frustrating roadblock: a strategy that delivers stro...",
+        "keywords": "live, minute, data, bars, time, tick, backtest, price",
+        "generated": "2026-07-10T03:51:00.821497",
+        "file": "why-do-us-stock-minute-bar-backtests-fail-to-match-live-trading-results.md"
+    },
+    {
         "title": "Agent with Vercel's Eve Framework",
         "slug": "agent-with-vercels-eve-framework",
         "author": "Johnny Z",
@@ -15795,6 +15872,17 @@
         "keywords": "you, platform, brand, one, data, five, sentiment, chinese",
         "generated": "2026-06-24T19:54:11.162770",
         "file": "how-to-monitor-a-brand-across-5-chinese-social-platforms-with-python-in-2026-the-cross-platform-dedup-problem-and-how-to-handle-it.md"
+    },
+    {
+        "title": "Study: Mommy, do you love your phone more than me?",
+        "slug": "study-mommy-do-you-love-your-phone-more-than-me",
+        "author": "hbcondo714",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 00:20:28 +0000",
+        "description": "Article URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full Comments URL: https://news.ycombinator.com/item?id=4885...",
+        "keywords": "url, https, comments, study, mommy, you, love, your",
+        "generated": "2026-07-10T03:51:00.819196",
+        "file": "study-mommy-do-you-love-your-phone-more-than-me.md"
     },
     {
         "title": "LLM-Assisted Content Analysis: Using Large Language Models to Support DeductiveCoding",
@@ -18151,6 +18239,17 @@
         "file": "cant-stop-the-signal-poison-it.md"
     },
     {
+        "title": "Building a Real-Time Price Comparison API with Node.js — Free Tier Included",
+        "slug": "building-a-real-time-price-comparison-api-with-nodejs-free-tier-included",
+        "author": "rock2089",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 02:35:05 +0000",
+        "description": "Building a Real-Time Price Comparison API with Node.js — Free Tier Included Are you tired of manually checking prices across Carousell, Amazon, and other mar...",
+        "keywords": "api, free, building, real, time, price, you, prices",
+        "generated": "2026-07-10T03:51:00.821669",
+        "file": "building-a-real-time-price-comparison-api-with-nodejs-free-tier-included.md"
+    },
+    {
         "title": "How I built a PDF bank statement analyzer in 8 languages (and what I learned)",
         "slug": "how-i-built-a-pdf-bank-statement-analyzer-in-8-languages-and-what-i-learned",
         "author": "FLOW by Vestelon",
@@ -19152,6 +19251,17 @@
         "file": "zuckerberg-admits-metas-layoffs-were-ineffective.md"
     },
     {
+        "title": "Cash App Banking Features",
+        "slug": "cash-app-banking-features",
+        "author": "Oscar Apodaca",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 03:41:33 +0000",
+        "description": "Cash App offers a variety of banking-related features that help users manage everyday financial activities through a convenient mobile platform. These featur...",
+        "keywords": "users, app, features, cash, manage, financial, account, their",
+        "generated": "2026-07-10T03:51:00.822394",
+        "file": "cash-app-banking-features.md"
+    },
+    {
         "title": "Code Challenge of the Day — Count words (easy)",
         "slug": "code-challenge-of-the-day-count-words-easy",
         "author": "I Want To Learn Programming",
@@ -19568,6 +19678,17 @@
         "keywords": "you, your, what, them, implementation, when, learn, team",
         "generated": "2026-06-14T04:46:39.568082",
         "file": "strategy-pattern-in-practice-replacing-conditional-chains-with-composable-algorithms.md"
+    },
+    {
+        "title": "I Built a Personal Paper Engine to Stop Losing Research Papers",
+        "slug": "i-built-a-personal-paper-engine-to-stop-losing-research-papers",
+        "author": "Ethan",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 03:35:47 +0000",
+        "description": "Disclosure: I contribute to the OpenNomos ecosystem where Paper List is listed. I read about 30 research papers a month. Not because I'm an academic—I'm a pr...",
+        "keywords": "paper, what, you, list, engine, read, papers, need",
+        "generated": "2026-07-10T03:51:00.822689",
+        "file": "i-built-a-personal-paper-engine-to-stop-losing-research-papers.md"
     },
     {
         "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History",
@@ -20439,6 +20560,28 @@
         "file": "gategpt-56k-tokens-per-second-transformer-kv-cache-on-fpga-at-80-mhz.md"
     },
     {
+        "title": "What I learned building an AI video background changer",
+        "slug": "what-i-learned-building-an-ai-video-background-changer",
+        "author": "andy tu",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 03:45:39 +0000",
+        "description": "Hey DEV community, I recently launched bgchanger.video , an AI video background changer for removing or replacing video backgrounds directly in the browser. ...",
+        "keywords": "video, background, videos, you, would, what, bgchanger, product",
+        "generated": "2026-07-10T03:51:00.822001",
+        "file": "what-i-learned-building-an-ai-video-background-changer.md"
+    },
+    {
+        "title": "Language Translation with LLMs: A Guide",
+        "slug": "language-translation-with-llms-a-guide",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 03:34:22 +0000",
+        "description": "I needed a translation pipeline that preserves technical terminology and tone, not just literal word swaps. Building a small LLM-powered translator on Oxlo.a...",
+        "keywords": "glossary, text, json, str, translate, translation, oxlo, openai",
+        "generated": "2026-07-10T03:51:00.824545",
+        "file": "language-translation-with-llms-a-guide.md"
+    },
+    {
         "title": "The real reason your job applications get no replies",
         "slug": "the-real-reason-your-job-applications-get-no-replies",
         "author": "Elyasians(elyasians.com)",
@@ -20910,6 +21053,17 @@
         "keywords": "nextnews, live, you, every, score, match, quarter, final",
         "generated": "2026-07-09T09:49:56.277819",
         "file": "quarter-final-intensity-france-vs-morocco-live-on-nextnews.md"
+    },
+    {
+        "title": "Databricks Defaults to Chinese Model GLM 5.2, Matches Opus at $1.28/Task",
+        "slug": "databricks-defaults-to-chinese-model-glm-52-matches-opus-at-128task",
+        "author": "gentic news",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 03:38:23 +0000",
+        "description": "Databricks defaulted to GLM 5.2 after it matched Opus 4.8 at $1.28/task vs $1.94. The move signals enterprises building custom benchmarks and multi-vendor AI...",
+        "keywords": "glm, databricks, opus, percent, models, chinese, task, benchmarks",
+        "generated": "2026-07-10T03:51:00.823366",
+        "file": "databricks-defaults-to-chinese-model-glm-52-matches-opus-at-128task.md"
     },
     {
         "title": "Which Data Analytics Certification Is Best? Complete Comparison",
@@ -24102,6 +24256,17 @@
         "file": "built-a-conventional-commits-cli-with-free-ai-tools-zero-cost.md"
     },
     {
+        "title": "Focus",
+        "slug": "focus",
+        "author": "iacguy",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 00:40:33 +0000",
+        "description": "Article URL: https://boz.com/articles/focus Comments URL: https://news.ycombinator.com/item?id=48854363 Points: 67 # Comments: 33",
+        "keywords": "focus, url, https, com, comments, article, boz, articles",
+        "generated": "2026-07-10T03:51:00.819053",
+        "file": "focus.md"
+    },
+    {
         "title": "AWS launches MCP server for its open-data registry",
         "slug": "aws-launches-mcp-server-for-its-open-data-registry",
         "author": "gentic news",
@@ -24353,6 +24518,17 @@
         "keywords": "chiptune, comments, show, radio, built, song, generator, its",
         "generated": "2026-07-08T03:22:28.623993",
         "file": "show-hn-chiptune-radio.md"
+    },
+    {
+        "title": "当国家标准开始为 Agent 立规矩，FROST 为什么说自己早就准备好了？",
+        "slug": "agent-frost",
+        "author": "llimage",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 03:23:20 +0000",
+        "description": "当国家标准开始为 Agent 立规矩，FROST 为什么说自己早就准备好了？ 作者 ：FROST Team 日期 ：2026-07-10 主题 ：行业趋势 | 周五轮换 项目 ：FROST + FROST-SOP 本周发生了一件大事 2026 年 7 月 9 日，中国发布了《人工智能 智能体互联》（GB/Z 18...",
+        "keywords": "agent, frost, sop, armory, weapon, gitee, mcp, ruleregistry",
+        "generated": "2026-07-10T03:51:00.821022",
+        "file": "agent-frost.md"
     },
     {
         "title": "Show HN: DRM-Free Books",
@@ -25939,6 +26115,17 @@
         "file": "ultralytics-yolo26-unified-real-time-end-to-end-vision-models.md"
     },
     {
+        "title": "Everyone Solved AI Adoption. Almost No One Has Solved AI Control.",
+        "slug": "everyone-solved-ai-adoption-almost-no-one-has-solved-ai-control",
+        "author": "Piush Gupta",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 03:40:39 +0000",
+        "description": "In 2024 the question was whether to use AI. In 2025 it was which tools. In 2026 the only question that matters is quieter: can you trust what it produces? Ne...",
+        "keywords": "brand, they, has, your, almost, tools, you, teams",
+        "generated": "2026-07-10T03:51:00.823054",
+        "file": "everyone-solved-ai-adoption-almost-no-one-has-solved-ai-control.md"
+    },
+    {
         "title": "Agenvoy@v0.27.10",
         "slug": "agenvoyv02710",
         "author": "邱敬幃 Pardn Chiu",
@@ -26443,6 +26630,17 @@
         "keywords": "claude, design, system, prompt, url, https, com, comments",
         "generated": "2026-07-05T13:51:56.695183",
         "file": "claude-design-system-prompt.md"
+    },
+    {
+        "title": "Star Just Ate a Planet, and It's Not Done Yet",
+        "slug": "star-just-ate-a-planet-and-its-not-done-yet",
+        "author": "wglb",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 01:20:16 +0000",
+        "description": "Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html Comments URL: https://news.ycombinator.com/item?id=488546...",
+        "keywords": "star, url, https, com, comments, just, ate, planet",
+        "generated": "2026-07-10T03:51:00.818937",
+        "file": "star-just-ate-a-planet-and-its-not-done-yet.md"
     },
     {
         "title": "Toronto Tempo vs Washington Mystics: WNBA Preview & Picks",
@@ -28126,6 +28324,17 @@
         "keywords": "wings, their, will, mystics, washington, dallas, game, scoring",
         "generated": "2026-06-05T15:19:56.046949",
         "file": "washington-mystics-vs-dallas-wings-wnba-preview-picks.md"
+    },
+    {
+        "title": "8 Free Research Paper APIs With No Key (2026)",
+        "slug": "8-free-research-paper-apis-with-no-key-2026",
+        "author": "Alex Spinov",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 03:33:18 +0000",
+        "description": "On July 9, 2026 I asked arXiv for one paper about large language models. It answered HTTP 200. My parser took the response, found nothing useful, and moved o...",
+        "keywords": "not, api, you, keyless, doi, org, json, paper",
+        "generated": "2026-07-10T03:51:00.820667",
+        "file": "8-free-research-paper-apis-with-no-key-2026.md"
     },
     {
         "title": "AI: complete breakdown",
