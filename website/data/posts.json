@@ -1144,6 +1144,17 @@
         "file": "built-isnt-serving.md"
     },
     {
+        "title": "Day 05: Network Foundations & Security(For Dev's)",
+        "slug": "day-05-network-foundations-securityfor-devs",
+        "author": "RexTora",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 14:37:06 +0000",
+        "description": "🎯 Learning Objectives By the end of this article, you will understand: How the Client-Server model distributes system workloads over the internet. How networ...",
+        "keywords": "network, your, server, address, data, packets, you, client",
+        "generated": "2026-07-10T14:40:05.902819",
+        "file": "day-05-network-foundations-securityfor-devs.md"
+    },
+    {
         "title": "Proton is funding the French far right on YouTube",
         "slug": "proton-is-funding-the-french-far-right-on-youtube",
         "author": "partsch",
@@ -1329,6 +1340,17 @@
         "keywords": "html, price, span, json, data, you, scraping, div",
         "generated": "2026-06-06T08:41:07.449341",
         "file": "when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages.md"
+    },
+    {
+        "title": "Building Open-Source Education Infrastructure for African History and the African Diaspora",
+        "slug": "building-open-source-education-infrastructure-for-african-history-and-the-african-diaspora",
+        "author": "Anthony Wright",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 14:25:10 +0000",
+        "description": "When people hear education platform, they usually think about another Learning Management System. EchoEd isn't trying to become another LMS. It's an attemp...",
+        "keywords": "source, open, echoed, documentation, you, can, project, african",
+        "generated": "2026-07-10T14:40:05.897452",
+        "file": "building-open-source-education-infrastructure-for-african-history-and-the-african-diaspora.md"
     },
     {
         "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
@@ -2671,6 +2693,17 @@
         "keywords": "gpt, https, com, comments, previewing, sol, next, generation",
         "generated": "2026-06-26T19:58:27.779093",
         "file": "previewing-gpt56-sol-a-next-generation-model.md"
+    },
+    {
+        "title": "Code Challenge of the Day — Make an acronym (easy)",
+        "slug": "code-challenge-of-the-day-make-an-acronym-easy",
+        "author": "I Want To Learn Programming",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 14:00:05 +0000",
+        "description": "Return the uppercase first letter of each space-separated word. Write acronym(s). Starter: def acronym ( s ): # TODO pass Solve it interactively in your brow...",
+        "keywords": "acronym, your, challenge, iwtlp, code, day, make, easy",
+        "generated": "2026-07-10T14:40:05.897788",
+        "file": "code-challenge-of-the-day-make-an-acronym-easy.md"
     },
     {
         "title": "How I Built a Six-Figure AI API Reseller Funnel (And How You Can Too)",
@@ -4356,6 +4389,17 @@
         "file": "cursorbench-31.md"
     },
     {
+        "title": "We Built an AI Receptionist With No Per-Call Fees and No Customer Cap",
+        "slug": "we-built-an-ai-receptionist-with-no-per-call-fees-and-no-customer-cap",
+        "author": "Cristiano Arruda",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 14:39:09 +0000",
+        "description": "Most AI phone receptionists charge per call ($1.60-1.90/call) or cap you at a fixed number of unique customers per month on entry-level plans. We built AION ...",
+        "keywords": "call, per, cap, built, receptionist, you, number, unique",
+        "generated": "2026-07-10T14:40:05.900645",
+        "file": "we-built-an-ai-receptionist-with-no-per-call-fees-and-no-customer-cap.md"
+    },
+    {
         "title": "French physicist and media star loses doctorate after plagiarism investigation",
         "slug": "french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
         "author": "bookofjoe",
@@ -5467,6 +5511,17 @@
         "file": "age-verification-is-just-a-precursor-to-automated-attribution-of-speech.md"
     },
     {
+        "title": "I Was Tired of Bloated Typing Tests, So I Built a Vanilla JS Alternative",
+        "slug": "i-was-tired-of-bloated-typing-tests-so-i-built-a-vanilla-js-alternative",
+        "author": "Getinfo Toyou",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 14:30:21 +0000",
+        "description": "Have you ever sat down to write code or draft an email, only to feel like your fingers couldn't keep up with your brain? Or worse, you decide to quickly chec...",
+        "keywords": "typing, text, your, time, character, you, test, when",
+        "generated": "2026-07-10T14:40:05.899799",
+        "file": "i-was-tired-of-bloated-typing-tests-so-i-built-a-vanilla-js-alternative.md"
+    },
+    {
         "title": "The AI personal brand stack — build your audience while building your product",
         "slug": "the-ai-personal-brand-stack-build-your-audience-while-building-your-product",
         "author": "Harsha Kumar",
@@ -6136,6 +6191,17 @@
         "keywords": "fery, tennis, dimitrov, set, time, thriller, live, real",
         "generated": "2026-07-08T03:22:28.624669",
         "file": "how-i-built-a-real-time-tennis-stats-tracker-gbs-fery-beats-dimitrov-in-five-set-thriller-to-extend-historic-run.md"
+    },
+    {
+        "title": "A Robust Modbus Proxy: Reconnect, Stale-Cache Detection and Timeouts Done Right",
+        "slug": "a-robust-modbus-proxy-reconnect-stale-cache-detection-and-timeouts-done-right",
+        "author": "Michael Bernhart",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 13:26:12 +0000",
+        "description": "A self-built Modbus cache proxy runs for weeks without complaint in summer — until the first night the inverter shuts down, or the first firmware reboot of t...",
+        "keywords": "proxy, sdongle, timeout, cache, loop, you, read, modbus",
+        "generated": "2026-07-10T14:40:05.898810",
+        "file": "a-robust-modbus-proxy-reconnect-stale-cache-detection-and-timeouts-done-right.md"
     },
     {
         "title": "Who Actually Uses ASCII Art in 2024? (And Why I Built a Browser Tool for Them)",
@@ -8250,6 +8316,17 @@
         "file": "vietqr-payments-for-ai-agentsno-stripe-setup.md"
     },
     {
+        "title": "*Top 10 Python Concepts for freshers* 👇",
+        "slug": "top-10-python-concepts-for-freshers",
+        "author": "Juliet Kiplimo",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 14:16:02 +0000",
+        "description": "Top 10 Python Concepts for freshers 👇 1. Variables & Data Types: Understand integers, floats, strings, booleans, lists, tuples, sets, and dictionaries. 2. Co...",
+        "keywords": "data, write, using, top, python, concepts, freshers, understand",
+        "generated": "2026-07-10T14:40:05.897647",
+        "file": "top-10-python-concepts-for-freshers.md"
+    },
+    {
         "title": "developer",
         "slug": "developer",
         "author": "laxman Subedi",
@@ -10186,6 +10263,17 @@
         "file": "agents-are-not-magic-heres-the-boring-infrastructure-that-makes-them-work.md"
     },
     {
+        "title": "Vercel AI SDK 6: An Agent Is Just a while Loop",
+        "slug": "vercel-ai-sdk-6-an-agent-is-just-a-while-loop",
+        "author": "curioustore",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 14:38:28 +0000",
+        "description": "I wired the same model and the same single tool into two functions in the exact same way. One of them ran the tool once and then gave back no answer at all ;...",
+        "keywords": "model, tool, loop, you, sdk, agent, what, text",
+        "generated": "2026-07-10T14:40:05.901806",
+        "file": "vercel-ai-sdk-6-an-agent-is-just-a-while-loop.md"
+    },
+    {
         "title": "Buy Elite Yelp Reviews – Trusted & Affordable Services",
         "slug": "buy-elite-yelp-reviews-trusted-affordable-services",
         "author": "Johnson Charls",
@@ -11515,6 +11603,17 @@
         "keywords": "streaming, services, obnoxiously, loud, ads, become, illegal, july",
         "generated": "2026-06-27T13:54:40.038804",
         "file": "streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california.md"
+    },
+    {
+        "title": "ActivityPub over ATProto",
+        "slug": "activitypub-over-atproto",
+        "author": "albuic",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 13:40:01 +0000",
+        "description": "Article URL: https://berjon.com/ap-at/ Comments URL: https://news.ycombinator.com/item?id=48859784 Points: 12 # Comments: 5",
+        "keywords": "url, https, com, comments, activitypub, over, atproto, article",
+        "generated": "2026-07-10T14:40:05.896393",
+        "file": "activitypub-over-atproto.md"
     },
     {
         "title": "Engineering onboarding programs: structured ramping that accelerates time to productivity",
@@ -14191,6 +14290,17 @@
         "file": "best-time-for-landscaping-muscat.md"
     },
     {
+        "title": "Google, Apple, and Microsoft Just Declared War on Voice AI. Here's What That Means for Your Agency.",
+        "slug": "google-apple-and-microsoft-just-declared-war-on-voice-ai-heres-what-that-means-for-your-agency",
+        "author": "Alfredo Romero",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 14:36:01 +0000",
+        "description": "Yesterday, The Korea Times reported what anyone building in voice AI already felt coming: Google, Apple, Microsoft, and Meta are in a full sprint to make voi...",
+        "keywords": "your, voice, not, agency, you, agencies, infrastructure, tech",
+        "generated": "2026-07-10T14:40:05.903509",
+        "file": "google-apple-and-microsoft-just-declared-war-on-voice-ai-heres-what-that-means-for-your-agency.md"
+    },
+    {
         "title": "Top 75 Ways to Buy Old Yahoo Email Accounts (PVA, Aged)",
         "slug": "top-75-ways-to-buy-old-yahoo-email-accounts-pva-aged",
         "author": "Penelope Pippa",
@@ -15476,6 +15586,17 @@
         "keywords": "url, https, com, comments, fable, cost, cut, converting",
         "generated": "2026-07-03T19:37:54.519664",
         "file": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it.md"
+    },
+    {
+        "title": "Permission UI the Rails way",
+        "slug": "permission-ui-the-rails-way",
+        "author": "Rails Designer",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 14:30:00 +0000",
+        "description": "I’ve built many a SaaS . And most have pricing tiers: the higher the plans the more widgets you can create or features are allowed. Typically there are two w...",
+        "keywords": "render, end, allowed, you, html, helper, content, current",
+        "generated": "2026-07-10T14:40:05.900077",
+        "file": "permission-ui-the-rails-way.md"
     },
     {
         "title": "Observability of agent app with Langfuse",
@@ -17634,6 +17755,17 @@
         "file": "where-every-major-llm-stands-politically.md"
     },
     {
+        "title": "Your AI built a static page. It can't store anything. Here's the fix I settled on.",
+        "slug": "your-ai-built-a-static-page-it-cant-store-anything-heres-the-fix-i-settled-on",
+        "author": "Alex",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 14:26:23 +0000",
+        "description": "An AI can build you a full page in one prompt now. A leaderboard, an RSVP form, a little internal dashboard, a guestbook. It looks done. Then someone types t...",
+        "keywords": "page, you, can, one, step, record, your, there",
+        "generated": "2026-07-10T14:40:05.900484",
+        "file": "your-ai-built-a-static-page-it-cant-store-anything-heres-the-fix-i-settled-on.md"
+    },
+    {
         "title": "Linux on the Atari Jaguar. No, really.",
         "slug": "linux-on-the-atari-jaguar-no-really",
         "author": "cakehonolulu",
@@ -17786,6 +17918,17 @@
         "keywords": "samiksha, feedback, structured, based, architecture, universal, review, comment",
         "generated": "2026-06-14T19:44:48.276401",
         "file": "samiksha-ai-universal-review-comment-analyzer.md"
+    },
+    {
+        "title": "Successful Companies Go Blind",
+        "slug": "successful-companies-go-blind",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 13:31:08 +0000",
+        "description": "Article URL: https://ianreppel.org/how-successful-companies-go-blind/ Comments URL: https://news.ycombinator.com/item?id=48859678 Points: 19 # Comments: 4",
+        "keywords": "successful, companies, blind, url, https, comments, article, ianreppel",
+        "generated": "2026-07-10T14:40:05.896845",
+        "file": "successful-companies-go-blind.md"
     },
     {
         "title": "AI Tools that Actually Pay You Back: A Developer's Guide to Monetizing AI",
@@ -19854,6 +19997,17 @@
         "keywords": "window, app, rain, your, brightness, right, weather, says",
         "generated": "2026-06-18T04:40:19.046282",
         "file": "your-weather-app-is-lying-to-you-and-your-window-knows-it.md"
+    },
+    {
+        "title": "Mastering Risk Management in Day Trading: A Veteran's Perspective",
+        "slug": "mastering-risk-management-in-day-trading-a-veterans-perspective",
+        "author": "Sniper Day Trading",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 13:51:33 +0000",
+        "description": "It was a Tuesday morning, and I had just finished a session where I saw my P&L swing by over $10,000 in under an hour. The adrenaline was real, but so was th...",
+        "keywords": "risk, you, management, trade, your, stop, can, trading",
+        "generated": "2026-07-10T14:40:05.898186",
+        "file": "mastering-risk-management-in-day-trading-a-veterans-perspective.md"
     },
     {
         "title": "Building Resilient Speech-to-Text Applications with Pythonaibrain STT",
@@ -22001,6 +22155,17 @@
         "file": "redfin-vs-zillow-data-which-is-better-for-real-estate-market-research.md"
     },
     {
+        "title": "Write code like a human will maintain it",
+        "slug": "write-code-like-a-human-will-maintain-it",
+        "author": "ScottWRobinson",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 13:33:00 +0000",
+        "description": "Article URL: https://unstack.io/write-code-like-a-human-will-maintain-it Comments URL: https://news.ycombinator.com/item?id=48859701 Points: 75 # Comments: 54",
+        "keywords": "write, code, like, human, will, maintain, url, https",
+        "generated": "2026-07-10T14:40:05.896723",
+        "file": "write-code-like-a-human-will-maintain-it.md"
+    },
+    {
         "title": "Platform Architecture of Java, node.js, python",
         "slug": "platform-architecture-of-java-nodejs-python",
         "author": "ViGnEsH",
@@ -23794,6 +23959,17 @@
         "file": "genai-oh-shit-moments-real-turning-points-that-changed-everything.md"
     },
     {
+        "title": "Proton AG Services is currently experiencing some issues",
+        "slug": "proton-ag-services-is-currently-experiencing-some-issues",
+        "author": "exploraz",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 13:36:56 +0000",
+        "description": "Article URL: https://status.proton.me/incidents/01lxtcq155lc Comments URL: https://news.ycombinator.com/item?id=48859752 Points: 16 # Comments: 14",
+        "keywords": "proton, url, https, comments, services, currently, experiencing, some",
+        "generated": "2026-07-10T14:40:05.896591",
+        "file": "proton-ag-services-is-currently-experiencing-some-issues.md"
+    },
+    {
         "title": "Another Tale of Two Threads (C or C++ vs. Python)",
         "slug": "another-tale-of-two-threads-c-or-c-vs-python",
         "author": "Paul J. Lucas",
@@ -25114,6 +25290,17 @@
         "file": "setiap-gol-membawa-sensasi-baru.md"
     },
     {
+        "title": "Scarf has moved away from Haskell",
+        "slug": "scarf-has-moved-away-from-haskell",
+        "author": "aviaviavi",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 13:30:41 +0000",
+        "description": "Article URL: https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html Comments URL: https://news.yco...",
+        "keywords": "scarf, has, moved, away, haskell, url, https, comments",
+        "generated": "2026-07-10T14:40:05.896976",
+        "file": "scarf-has-moved-away-from-haskell.md"
+    },
+    {
         "title": "AI News today - June 26th - Ford had to hire back former engineers to fix mistakes made by its...",
         "slug": "ai-news-today-june-26th-ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its",
         "author": "Jonas Prenissl",
@@ -25937,6 +26124,17 @@
         "keywords": "free, selectors, you, opticparse, api, your, vision, json",
         "generated": "2026-06-20T14:15:47.238230",
         "file": "i-built-a-free-api-that-scrapes-any-website-using-plain-english-no-css-selectors.md"
+    },
+    {
+        "title": "How I Build Vue 3 Applications (Part 2): How I Decide Where Every Component Belongs",
+        "slug": "how-i-build-vue-3-applications-part-2-how-i-decide-where-every-component-belongs",
+        "author": "Luka Jioshvili",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 14:31:44 +0000",
+        "description": "One of the hardest decisions in a growing Vue application isn't writing components. It's deciding who owns them . Most projects don't struggle with this on d...",
+        "keywords": "components, component, every, business, feature, they, application, belongs",
+        "generated": "2026-07-10T14:40:05.899219",
+        "file": "how-i-build-vue-3-applications-part-2-how-i-decide-where-every-component-belongs.md"
     },
     {
         "title": "The Safari MCP server for web developers",
@@ -27952,6 +28150,17 @@
         "file": "from-good-luck-to-certified-why-readiness-scores-are-the-new-standard-for-customer-facing-teams.md"
     },
     {
+        "title": "I Built an AI Publishing Stack for $31/Month — Real Numbers After 15 Posts",
+        "slug": "i-built-an-ai-publishing-stack-for-31month-real-numbers-after-15-posts",
+        "author": "Luna",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 14:31:18 +0000",
+        "description": "I've been building a solo content operation in public for the past month. The goal: run a real publishing workflow — blog posts, analytics, affiliate trackin...",
+        "keywords": "month, real, api, stack, posts, analytics, claude, cloudflare",
+        "generated": "2026-07-10T14:40:05.899479",
+        "file": "i-built-an-ai-publishing-stack-for-31month-real-numbers-after-15-posts.md"
+    },
+    {
         "title": "I design with Claude more than Figma now",
         "slug": "i-design-with-claude-more-than-figma-now",
         "author": "MrBuddyCasino",
@@ -29006,6 +29215,17 @@
         "keywords": "card, await, object, exomodel, interface, str, exokanban, same",
         "generated": "2026-06-08T16:07:42.605268",
         "file": "one-object-three-interfaces-building-a-natural-language-kanban-board-with-exomodel.md"
+    },
+    {
+        "title": "Agent sandboxing will be the default by mid-2027, and most teams aren't ready",
+        "slug": "agent-sandboxing-will-be-the-default-by-mid-2027-and-most-teams-arent-ready",
+        "author": "Aamer Mihaysi",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 14:37:19 +0000",
+        "description": "Agent sandboxing will be the default by mid-2027, and most teams aren't ready I've been watching the agent security conversation shift from should we worry ...",
+        "keywords": "agent, model, tool, sandboxing, will, most, call, isn",
+        "generated": "2026-07-10T14:40:05.902133",
+        "file": "agent-sandboxing-will-be-the-default-by-mid-2027-and-most-teams-arent-ready.md"
     },
     {
         "title": "The Resurgence of Emacs in Mod…",
