@@ -1,0 +1,34 @@
+---
+title: "Introduction to LLMs in Humanities and Social Sciences"
+slug: "introduction-to-llms-in-humanities-and-social-sciences"
+author: "shashank ms"
+source: "devto_ai"
+published: "Fri, 10 Jul 2026 19:34:45 +0000"
+description: "Humanities and social sciences researchers routinely work with dense primary sources, complex theoretical frameworks, and sprawling literature reviews. In th..."
+keywords: "model, oxlo, json, text, primary, agent, str, research"
+generated: "2026-07-10T19:40:31.693610"
+---
+
+# Introduction to LLMs in Humanities and Social Sciences
+
+## Overview
+
+Humanities and social sciences researchers routinely work with dense primary sources, complex theoretical frameworks, and sprawling literature reviews. In this tutorial, I will walk you through building a research analysis agent that ingests a primary source excerpt or research question and returns structured insights including historical context, theoretical lenses, methodological notes, and suggested directions for further reading. The agent runs on Oxlo.ai, where flat per-request pricing means analyzing a fifty-page transcript costs the same as a one-paragraph excerpt. See https://oxlo.ai/pricing for current plan details. What you'll need Python 3.10 or newer An Oxlo.ai API key from https://portal.oxlo.ai The OpenAI SDK: pip install openai Step 1: Set up the Oxlo.ai client We instantiate the OpenAI-compatible client pointing to Oxlo.ai's base URL. I default to Llama 3.3 70B because it handles long-form scholarly analysis reliably, but you can swap in Qwen 3 32B for multilingual sources or Kimi K2.6 for agentic reasoning. from openai import OpenAI client = OpenAI( base_url="https://api.oxlo.ai/v1", api_key="YOUR_OXLO_API_KEY" ) Step 2: Write the agent's system prompt The system prompt constrains the model to act as a disciplined research assistant. It requires the agent to stay within scholarly conventions, flag uncertainty, and return structured JSON. SYSTEM_PROMPT = """You are a research assistant for humanities and social sciences. Your task is to analyze a user-provided primary source excerpt or research question and produce a structured scholarly assessment. Follow these rules: 1. Identify the historical or social context. 2. Propose two relevant theoretical frameworks. 3. Note methodological considerations or biases. 4. Suggest three specific directions for further research. 5. Flag any factual uncertainty. Return your response as a JSON object with these keys: context, frameworks, methodology, next_steps, caveats. Be concise, precise, and avoid hype.""" Step 3: Build the analysis function Now we wrap the API call in a reusable function. The function accepts a text string, sends it to Oxlo.ai with the system prompt, and returns the model's output. We keep the temperature low at 0.2 to maintain analytical consistency. def analyze_source(text: str, model: str = "llama-3.3-70b") -> str: response = client.chat.completions.create( model=model, temperature=0.2, messages=[ {"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": text}, ], ) return response.choices[0].message.content Step 4: Enforce structured output with JSON mode Parsing free text in a pipeline is fragile. Oxlo.ai supports JSON mode on compatible models, so we can request valid JSON directly. We add response_format and pretty-print the result with Python's json module. import json def analyze_source_json(text: str, model: str = "llama-3.3-70b") -> dict: response = client.chat.completions.create( model=model, temperature=0.2, response_format={"type": "json_object"}, messages=[ {"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": text}, ], ) raw = response.choices[0].message.content return json.loads(raw) Step 5: Process long primary sources Primary sources in the humanities can run for thousands of tokens. On token-based providers, long inputs inflate costs linearly. Oxlo.ai uses flat per-request pricing, so a long interview transcript or digitized archival letter costs the same single request as a short paragraph. For texts that exceed context windows, we split on character count and call the agent per chunk. def analyze_long_source(text: str, model: str = "llama-3.3-70b", max_chunk_chars: int = 8000) -> list: chunks = [text[i:i+max_chunk_chars] for i in range(0, len(text), max_chunk_chars)] results = [] for idx, chunk in enumerate(chunks): print(f"Processing chunk {idx + 1} of {len(chunks)}...") result = analyze_source_json(chunk, model=model) results.append(result) return results Run it Here is a complete script that analyzes a short primary source excerpt about labor conditions during the Industrial Revolution. The output below shows the structured breakdown the agent returns. import json SAMPLE_TEXT = """Extract from Manchester factory inspector report, 1832: 'The children in the spinning rooms are kept at work from six in the morning until seven in the evening, with forty minutes for meals. Several testified that they suffer from chronic coughs and that the dust fills their lungs by midday.'""" if __name__ == "__main__": analysis = analyze_source_json(SAMPLE_TEXT, model="llama-3.3-70b") print(json.dumps(analysis, indent=2)) Example output: { "context": "British Industrial Revolution textile production, pre-Factory Act labor conditions", "frameworks": [ "Marxist political economy: exploitation of labor and surplus value", "Foucauldian biopolitics: governance of the body and health as state concern" ], "methodology": "Primary source is an official report, likely shaped by reformist agendas; testimony may be mediated by inspectors' questions.", "next_steps": [ "Compare with 1842 Mines Report to trace evolving child labor narratives", "Examine factory owner rebuttals in Parliamentary Papers for competing framings", "Quantify illness claims against medical officer records from the same district" ], "caveats": "Specific factory unidentified; 'several' is vague quantification; medical terminology is lay testimony, not clinical diagnosis." } Next steps Wire the agent into a simple Streamlit interface so historians can upload transcripts and batch-process archives without writing Python. If you want to experiment at no cost, swap the model to deepseek-v3.2 on Oxlo.ai's free tier before scaling up, or switch to Qwen 3 32B to handle multilingual colonial records without changing any other code.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-in-humanities-and-social-sciences-cg2
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

@@ -1126,10 +1126,10 @@
         "slug": "complete-guide",
         "author": "Ayat Saadat",
         "source": "devto_webdev",
-        "published": "Sun, 05 Jul 2026 19:12:06 +0000",
-        "description": "سوزن زرین (Sozane Zarin): هنرِ دقت در دنیای دیجیتال در دنیای پرهیاهوی توسعه نرم‌افزار و طراحی‌های دقیق، گاهی نیاز به ابزاری داریم که نه تنها کارآمد باشد، بلک...",
-        "keywords": "sozane, zarin, yarn, core, node, npm, goldenneedle, needle",
-        "generated": "2026-07-05T19:25:51.384135",
+        "published": "Fri, 10 Jul 2026 19:12:26 +0000",
+        "description": "مستندات فنی و راهنمای جامع: سوزن زرین (Sozane Zarin) در دنیای مدرن، هنر و فناوری همیشه در حال تلاقی هستند. «سوزن زرین» پروژه‌ای است که با هدف ارتقای استاندار...",
+        "keywords": "self, name, sozane, zarin, sozanezarinproject, def, project, complete",
+        "generated": "2026-07-10T19:40:31.690065",
         "file": "complete-guide.md"
     },
     {
@@ -1617,6 +1617,17 @@
         "file": "download-tiny-bookshop-xci-full-game-latest-2026.md"
     },
     {
+        "title": "New York City to become first in US to ban deceptive subscription practices",
+        "slug": "new-york-city-to-become-first-in-us-to-ban-deceptive-subscription-practices",
+        "author": "randycupertino",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 18:26:24 +0000",
+        "description": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban Comments URL: https://news.ycombinator.com/item?id=488...",
+        "keywords": "new, york, city, ban, deceptive, url, https, com",
+        "generated": "2026-07-10T19:40:31.686297",
+        "file": "new-york-city-to-become-first-in-us-to-ban-deceptive-subscription-practices.md"
+    },
+    {
         "title": "J’ai créé Agenda Festivals : une carte interactive des festivals en France avec Next.js et data.gouv",
         "slug": "jai-cr-agenda-festivals-une-carte-interactive-des-festivals-en-france-avec-nextjs-et-datagouv",
         "author": "Guillaume Sere",
@@ -1956,6 +1967,17 @@
         "keywords": "you, your, email, agent, what, brief, build, inbox",
         "generated": "2026-06-17T20:21:04.203705",
         "file": "ai-agent-email-management-for-solo-founders-stop-letting-your-inbox-run-your-day.md"
+    },
+    {
+        "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+        "slug": "how-the-terrorist-group-boko-haram-uses-frontier-ai",
+        "author": "imustachyou",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 18:49:26 +0000",
+        "description": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 15 # Comments: 5",
+        "keywords": "url, https, comments, how, terrorist, group, boko, haram",
+        "generated": "2026-07-10T19:40:31.685987",
+        "file": "how-the-terrorist-group-boko-haram-uses-frontier-ai.md"
     },
     {
         "title": "Raspberry Pi 5 – 16 GB, $350",
@@ -6677,6 +6699,17 @@
         "file": "us-science-is-in-chaos.md"
     },
     {
+        "title": "E‑‑: The middle ground between English and Python",
+        "slug": "e-the-middle-ground-between-english-and-python",
+        "author": "Oded Fuhrmann",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 19:20:26 +0000",
+        "description": "Or, what if you could dial how much English lives in your code, per line? Modern LLM code generation has a strange property. Your program's behavior is a fun...",
+        "keywords": "you, tempo, english, code, llm, call, piece, python",
+        "generated": "2026-07-10T19:40:31.687139",
+        "file": "e-the-middle-ground-between-english-and-python.md"
+    },
+    {
         "title": "BDE Score™: Open-Source Multi-Factor Stock Analysis Tool Covering US, HK & A-Share Markets",
         "slug": "bde-score-open-source-multi-factor-stock-analysis-tool-covering-us-hk-a-share-markets",
         "author": "hbhqq9",
@@ -8030,6 +8063,17 @@
         "file": "trelix-v10-to-v27-when-it-works-meets-it-scales.md"
     },
     {
+        "title": "Python Automation Cookbook, Part 2: Using AI to make decisions in your automation pipelines",
+        "slug": "python-automation-cookbook-part-2-using-ai-to-make-decisions-in-your-automation-pipelines",
+        "author": "Peyton Green",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 19:18:48 +0000",
+        "description": "Part 1 covered the 25 scripts I reach for every week — reliable, production-ready automation building blocks. This part covers the part that takes longer to ...",
+        "keywords": "you, triage, output, prompt, pipeline, file, review, api",
+        "generated": "2026-07-10T19:40:31.687892",
+        "file": "python-automation-cookbook-part-2-using-ai-to-make-decisions-in-your-automation-pipelines.md"
+    },
+    {
         "title": "TokenEase: One API Key for DeepSeek, GLM, Qwen, and Doubao — With Automatic Failover",
         "slug": "tokenease-one-api-key-for-deepseek-glm-qwen-and-doubao-with-automatic-failover",
         "author": "jianjun Liu",
@@ -8921,6 +8965,17 @@
         "file": "commodore-releases-flip-phone.md"
     },
     {
+        "title": "Introduction to LLMs in Humanities and Social Sciences",
+        "slug": "introduction-to-llms-in-humanities-and-social-sciences",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 19:34:45 +0000",
+        "description": "Humanities and social sciences researchers routinely work with dense primary sources, complex theoretical frameworks, and sprawling literature reviews. In th...",
+        "keywords": "model, oxlo, json, text, primary, agent, str, research",
+        "generated": "2026-07-10T19:40:31.693610",
+        "file": "introduction-to-llms-in-humanities-and-social-sciences.md"
+    },
+    {
         "title": "MaxMind vs. IPinfo vs. GeoIPHub: The 2026 IP Geolocation Showdown",
         "slug": "maxmind-vs-ipinfo-vs-geoiphub-the-2026-ip-geolocation-showdown",
         "author": "Husnain",
@@ -9515,6 +9570,17 @@
         "file": "mcp-payment-extensions-in-june-2026-x402-v2-l402-and-what-actually-works.md"
     },
     {
+        "title": "Step-by-Step Guide to B,uy.ing a Secure Mail.ru Ac.count",
+        "slug": "step-by-step-guide-to-buying-a-secure-mailru-account",
+        "author": "abusmm",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 19:37:04 +0000",
+        "description": "In today's digital landscape, email accounts serve as gateways to countless online services, making their security and proper setup essential life skills. Un...",
+        "keywords": "your, account, mail, email, you, security, digital, password",
+        "generated": "2026-07-10T19:40:31.691579",
+        "file": "step-by-step-guide-to-buying-a-secure-mailru-account.md"
+    },
+    {
         "title": "I Replaced My GPU Cluster With an API. Here's What Happened.",
         "slug": "i-replaced-my-gpu-cluster-with-an-api-heres-what-happened",
         "author": "fiercedash",
@@ -9876,6 +9942,17 @@
         "keywords": "scans, navigation, military, url, https, comments, trained, tech",
         "generated": "2026-06-11T10:47:52.345204",
         "file": "pokmon-go-scans-trained-the-navigation-tech-for-military-drones.md"
+    },
+    {
+        "title": "Ultimate Guide to B;uy.ing a Veri'fied Mail.ru Ac'count in the USA",
+        "slug": "ultimate-guide-to-buying-a-verified-mailru-account-in-the-usa",
+        "author": "abusmm",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 19:36:21 +0000",
+        "description": "Email remains one of the most essential tools in modern digital life, serving as a gateway to communication, education, and personal organization. A Mail.ru ...",
+        "keywords": "your, account, mail, email, digital, can, security, you",
+        "generated": "2026-07-10T19:40:31.693189",
+        "file": "ultimate-guide-to-buying-a-verified-mailru-account-in-the-usa.md"
     },
     {
         "title": "How Do You Validate Zero Gap in Stock API 1-Minute Historical Bars?",
@@ -10316,6 +10393,17 @@
         "keywords": "tools, their, python, new, episode, show, hosts, talk",
         "generated": "2026-06-28T04:20:44.691716",
         "file": "talk-python-to-me-553-all-of-our-tools.md"
+    },
+    {
+        "title": "I Migrated Off OpenAI and Cut My API Bill by 97.5%: Here's the Data",
+        "slug": "i-migrated-off-openai-and-cut-my-api-bill-by-975-heres-the-data",
+        "author": "fiercedash",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 19:20:37 +0000",
+        "description": "I Migrated Off OpenAI and Cut My API Bill by 97.5%: Here's the Data Three months ago I opened my team's monthly LLM bill and almost choked on my coffee. We w...",
+        "keywords": "openai, api, you, gpt, deepseek, global, cheaper, cost",
+        "generated": "2026-07-10T19:40:31.689850",
+        "file": "i-migrated-off-openai-and-cut-my-api-bill-by-975-heres-the-data.md"
     },
     {
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
@@ -18250,6 +18338,17 @@
         "file": "the-cloud-is-a-scam-for-90-of-your-projects.md"
     },
     {
+        "title": "Deepfakes Are Getting Scary Good. Here's How to Catch Them Anyway",
+        "slug": "deepfakes-are-getting-scary-good-heres-how-to-catch-them-anyway",
+        "author": "Hamda Naz",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 19:34:13 +0000",
+        "description": "A few years ago, spotting a fake video was easy. The lighting looked off, the lip sync was clumsy, and the whole thing had a slightly uncanny, video game qua...",
+        "keywords": "video, can, voice, you, deepfakes, how, fake, what",
+        "generated": "2026-07-10T19:40:31.694075",
+        "file": "deepfakes-are-getting-scary-good-heres-how-to-catch-them-anyway.md"
+    },
+    {
         "title": "Even more batteries included with Emacs",
         "slug": "even-more-batteries-included-with-emacs",
         "author": "signa11",
@@ -18402,6 +18501,17 @@
         "keywords": "pack, patterns, defensive, shipped, openclaw, broke, what, memory",
         "generated": "2026-06-20T14:15:47.238348",
         "file": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents.md"
+    },
+    {
+        "title": "Your Pipeline Is 28.9h Behind: Catching Finance Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-289h-behind-catching-finance-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 19:01:58 +0000",
+        "description": "Your Pipeline Is 28.9h Behind: Catching Finance Sentiment Leads with Pulsebit We recently observed a striking anomaly: a 24-hour momentum spike of +0.719 in ...",
+        "keywords": "sentiment, finance, you, your, pulsebit, english, can, api",
+        "generated": "2026-07-10T19:40:31.688857",
+        "file": "your-pipeline-is-289h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "We Don't Have to Be This Bad at Improving Society",
@@ -18831,6 +18941,17 @@
         "keywords": "emergency, market, medical, healthcare, services, growth, systems, ambulance",
         "generated": "2026-07-02T09:22:43.956000",
         "file": "emergency-medical-services-market-size-share-trends-analysis-report-20262034.md"
+    },
+    {
+        "title": "JavaScript: async/await Patterns That Will Save You Hours – The Matrix",
+        "slug": "javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix",
+        "author": "Timevolt",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 19:05:02 +0000",
+        "description": "The Quest Begins (The Why) I was knee‑deep in a legacy codebase that looked like a bowl of spaghetti written by someone who loved callbacks more than pizza...",
+        "keywords": "you, await, const, async, then, promise, return, all",
+        "generated": "2026-07-10T19:40:31.688490",
+        "file": "javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix.md"
     },
     {
         "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
@@ -19482,6 +19603,17 @@
         "file": "dbt-macros-jinja-deep-dive-custom-materializations-hooks-adapter-dispatch.md"
     },
     {
+        "title": "How Handmade Indian Crafts Are Transforming Modern Home Decor",
+        "slug": "how-handmade-indian-crafts-are-transforming-modern-home-decor",
+        "author": "Dhruv Pathak",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 19:10:16 +0000",
+        "description": "Although Dev.to focuses on technology, many creators also write about design, creativity, entrepreneurship, and eCommerce. Indian handcrafted products have b...",
+        "keywords": "handmade, products, indian, handcrafted, sustainable, craftsmanship, how, crafts",
+        "generated": "2026-07-10T19:40:31.690499",
+        "file": "how-handmade-indian-crafts-are-transforming-modern-home-decor.md"
+    },
+    {
         "title": "Ornith-1.0: self-improving open-source models for agentic coding",
         "slug": "ornith-10-self-improving-open-source-models-for-agentic-coding",
         "author": "danboarder",
@@ -19568,6 +19700,17 @@
         "keywords": "pypi, mcp, your, token, publish, build, python, pip",
         "generated": "2026-06-09T15:18:05.198695",
         "file": "how-to-publish-an-mcp-server-to-pypi-two-methods-token-vs-oidc.md"
+    },
+    {
+        "title": "I rebuilt my Windows video downloader from scratch — yt-dlp + FFmpeg + PyInstaller, 1,700 downloads later",
+        "slug": "i-rebuilt-my-windows-video-downloader-from-scratch-yt-dlp-ffmpeg-pyinstaller-1700-downloads-later",
+        "author": "Rebell Yell",
+        "source": "devto_python",
+        "published": "Fri, 10 Jul 2026 19:01:14 +0000",
+        "description": "Three months ago I posted here about Grabbit, a desktop video downloader I built for Windows. The app has grown a lot since then — new engine, local file con...",
+        "keywords": "dlp, ffmpeg, pyinstaller, video, grabbit, new, what, you",
+        "generated": "2026-07-10T19:40:31.689245",
+        "file": "i-rebuilt-my-windows-video-downloader-from-scratch-yt-dlp-ffmpeg-pyinstaller-1700-downloads-later.md"
     },
     {
         "title": "How to Tell If a Task Needs an Agent or an Automation",
@@ -19953,6 +20096,17 @@
         "keywords": "use, tabs, notion, free, tools, save, every, week",
         "generated": "2026-07-06T04:05:09.367393",
         "file": "3-free-ai-tools-i-use-to-save-hours-every-week.md"
+    },
+    {
+        "title": "Launching my Dev journey",
+        "slug": "launching-my-dev-journey",
+        "author": "Ishika Pandey",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 19:07:21 +0000",
+        "description": "Hello everyone! I am Ishika Pandey, a 2nd-year engineering student, having just wrapped up my first year, and I'm incredibly excited to finally join and cont...",
+        "keywords": "space, year, connect, tech, you, dev, engineering, what",
+        "generated": "2026-07-10T19:40:31.690692",
+        "file": "launching-my-dev-journey.md"
     },
     {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",
@@ -22804,6 +22958,17 @@
         "file": "web-scraping-for-beginners-sell-data-as-a-service.md"
     },
     {
+        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "slug": "gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf",
+        "author": "scrlk",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 18:29:19 +0000",
+        "description": "Article URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf Comments URL: https://news.ycombinator.com/item?id=48863490 Points...",
+        "keywords": "pdf, url, https, com, comments, gpt, sol, ultra",
+        "generated": "2026-07-10T19:40:31.686161",
+        "file": "gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf.md"
+    },
+    {
         "title": "7 Browser-Based Developer Tools That Saved Me Hours This Week",
         "slug": "7-browser-based-developer-tools-that-saved-me-hours-this-week",
         "author": "The AI producer",
@@ -23220,6 +23385,17 @@
         "keywords": "price, option, what, writing, tools, comparison, pros, cons",
         "generated": "2026-06-09T20:13:36.284063",
         "file": "ai-writing-tools-comparison-pros-cons-honest-take.md"
+    },
+    {
+        "title": "The tech of 'Terminator 2' – an oral history (2017)",
+        "slug": "the-tech-of-terminator-2-an-oral-history-2017",
+        "author": "markus_zhang",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 16:48:41 +0000",
+        "description": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/ Comments URL: https://news.ycombinator.com/item?id=48862365 Points: 78 ...",
+        "keywords": "tech, terminator, oral, history, url, https, com, comments",
+        "generated": "2026-07-10T19:40:31.686571",
+        "file": "the-tech-of-terminator-2-an-oral-history-2017.md"
     },
     {
         "title": "Remove Watermark from Image Online Free",
@@ -23792,6 +23968,17 @@
         "keywords": "battery, replacement, city, phones, phone, service, melbourne, has",
         "generated": "2026-07-09T09:49:56.276822",
         "file": "battery-replacement-service-by-city-phones-melbourne.md"
+    },
+    {
+        "title": "War Atlas: An interactive cartography of every named war in human history",
+        "slug": "war-atlas-an-interactive-cartography-of-every-named-war-in-human-history",
+        "author": "NaOH",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 17:52:48 +0000",
+        "description": "Article URL: https://waratlas.org Comments URL: https://news.ycombinator.com/item?id=48863080 Points: 29 # Comments: 9",
+        "keywords": "war, url, https, comments, atlas, interactive, cartography, every",
+        "generated": "2026-07-10T19:40:31.686442",
+        "file": "war-atlas-an-interactive-cartography-of-every-named-war-in-human-history.md"
     },
     {
         "title": "Code Challenge of the Day — Target sum ways (hard)",
@@ -26346,6 +26533,17 @@
         "file": "claude-code-vs-github-copilot-i-used-both-for-30-days-heres-what-won.md"
     },
     {
+        "title": "I’m 17 and building a creator platform, but I’m hiding the name until I secure the .com",
+        "slug": "im-17-and-building-a-creator-platform-but-im-hiding-the-name-until-i-secure-the-com",
+        "author": "Young Dev",
+        "source": "devto_webdev",
+        "published": "Fri, 10 Jul 2026 19:12:01 +0000",
+        "description": "Hey, I’m a 17-year-old developer and I’m building a creator platform for game developers, modders, artists, and makers. The idea is simple: a place where peo...",
+        "keywords": "building, creator, platform, com, name, want, domain, secure",
+        "generated": "2026-07-10T19:40:31.690296",
+        "file": "im-17-and-building-a-creator-platform-but-im-hiding-the-name-until-i-secure-the-com.md"
+    },
+    {
         "title": "Bash script vs Python script for sysadmin tasks?",
         "slug": "bash-script-vs-python-script-for-sysadmin-tasks",
         "author": "TaiKedz",
@@ -28357,6 +28555,17 @@
         "keywords": "state, one, truth, query, react, not, redux, zustand",
         "generated": "2026-06-21T09:58:05.291456",
         "file": "the-question-that-actually-decides-your-state-stack-its-not-redux-or-react-query.md"
+    },
+    {
+        "title": "5 Morning Habits That Actually Move the Needle on Creativity and Focus",
+        "slug": "5-morning-habits-that-actually-move-the-needle-on-creativity-and-focus",
+        "author": "SonGo",
+        "source": "devto_ai",
+        "published": "Fri, 10 Jul 2026 19:36:41 +0000",
+        "description": "Most “perfect morning routine” threads read like a productivity cosplay—ice baths, 30 supplements, sunrise yoga on a cliff. The problem is not that these thi...",
+        "keywords": "your, you, minutes, work, before, first, focus, what",
+        "generated": "2026-07-10T19:40:31.692115",
+        "file": "5-morning-habits-that-actually-move-the-needle-on-creativity-and-focus.md"
     },
     {
         "title": "Prof. Dr. Gustavo Henrique Valente: Building a Regime-Detection Layer for Brazilian Market Data",
