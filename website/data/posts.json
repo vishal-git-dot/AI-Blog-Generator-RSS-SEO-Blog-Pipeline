@@ -462,6 +462,28 @@
         "file": "real-time-map-of-great-britains-rail-network.md"
     },
     {
+        "title": "Measure, Don't Estimate: Labeling Speakers Without a Gated Model",
+        "slug": "measure-dont-estimate-labeling-speakers-without-a-gated-model",
+        "author": "Dima Statz",
+        "source": "devto_python",
+        "published": "Sat, 11 Jul 2026 03:06:02 +0000",
+        "description": "In the first post I argued there are two ways to pull meaning out of audio: measure it with signal processing, or estimate it with a model. This post is the ...",
+        "keywords": "speakers, agent, two, pitch, customer, you, model, token",
+        "generated": "2026-07-11T03:17:17.850782",
+        "file": "measure-dont-estimate-labeling-speakers-without-a-gated-model.md"
+    },
+    {
+        "title": "Open-Weight LLM API Integration: A Practical Guide for Developers",
+        "slug": "open-weight-llm-api-integration-a-practical-guide-for-developers",
+        "author": "NovaStack",
+        "source": "devto_ai",
+        "published": "Sat, 11 Jul 2026 03:01:30 +0000",
+        "description": "Open-Weight LLM API Integration: A Practical Guide for Developers Stop settling for closed-door APIs. Here’s how to harness open-weight models with a clean, ...",
+        "keywords": "you, json, your, content, api, chat, headers, open",
+        "generated": "2026-07-11T03:17:17.854130",
+        "file": "open-weight-llm-api-integration-a-practical-guide-for-developers.md"
+    },
+    {
         "title": "Why We Built a Flight Simulator for Conversations: The Story Behind CallFlow.dev",
         "slug": "why-we-built-a-flight-simulator-for-conversations-the-story-behind-callflowdev",
         "author": "Call Flow",
@@ -5654,6 +5676,17 @@
         "file": "building-pr-sentinel-a-multi-agent-ai-code-reviewer.md"
     },
     {
+        "title": "wavio",
+        "slug": "wavio",
+        "author": "firefrog",
+        "source": "devto_python",
+        "published": "Sat, 11 Jul 2026 03:16:46 +0000",
+        "description": "| Audio Fingerprinting Without the ML Tax Most audio identification tools today reach for embeddings and neural nets. wavio doesn't. It's a fast, determinist...",
+        "keywords": "wavio, query, cli, audio, rust, same, fingerprinting, identification",
+        "generated": "2026-07-11T03:17:17.849871",
+        "file": "wavio.md"
+    },
+    {
         "title": "What is RAG? A Complete Guide to Retrieval-Augmented Generation (2026)",
         "slug": "what-is-rag-a-complete-guide-to-retrieval-augmented-generation-2026",
         "author": "Hamza",
@@ -6268,6 +6301,17 @@
         "keywords": "number, words, one, converter, any, english, browser, https",
         "generated": "2026-07-02T04:02:13.758132",
         "file": "number-to-words-converter-spell-out-any-number-in-english.md"
+    },
+    {
+        "title": "Python + AI: 6 automations any freelancer can ship this week",
+        "slug": "python-ai-6-automations-any-freelancer-can-ship-this-week",
+        "author": "David García",
+        "source": "devto_python",
+        "published": "Sat, 11 Jul 2026 03:05:50 +0000",
+        "description": "```html Let’s be honest. As a freelancer – whether you’re a developer, consultant, or just a really good problem solver – your time is gold . Spending hours ...",
+        "keywords": "your, jpg, directory, you, filename, path, python, time",
+        "generated": "2026-07-11T03:17:17.851028",
+        "file": "python-ai-6-automations-any-freelancer-can-ship-this-week.md"
     },
     {
         "title": "I Benchmarked 9 Multimodal AI APIs — The Pricing Data Surprised Me",
@@ -7313,6 +7357,17 @@
         "keywords": "you, can, your, tools, these, time, client, automating",
         "generated": "2026-06-17T20:21:04.204369",
         "file": "ship-faster-invoice-smarter-automating-freelancer-docs-with-developer-tools.md"
+    },
+    {
+        "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+        "slug": "einsteins-relativity-rules-chemical-bonds-in-heavy-elements-new-research-shows",
+        "author": "hhs",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 22:30:44 +0000",
+        "description": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 124 # Commen...",
+        "keywords": "relativity, chemical, bonds, url, https, news, comments, einstein",
+        "generated": "2026-07-11T03:17:17.849491",
+        "file": "einsteins-relativity-rules-chemical-bonds-in-heavy-elements-new-research-shows.md"
     },
     {
         "title": "Anthropic updates their terms to verify age or identity",
@@ -10439,6 +10494,17 @@
         "file": "high-ticket-vs-volume-which-affiliate-strategy-actually-pays-more.md"
     },
     {
+        "title": "The Transformer Paper Had 8 Authors. All 8 Left Google.",
+        "slug": "the-transformer-paper-had-8-authors-all-8-left-google",
+        "author": "Blue lobster_Agent",
+        "source": "devto_ai",
+        "published": "Sat, 11 Jul 2026 03:00:56 +0000",
+        "description": "In March 2025, Gemini 2.5 Pro hit 1470 Elo on Chatbot Arena. First place in text, vision, and coding — a triple crown no model had achieved before. Google wa...",
+        "keywords": "google, gemini, model, not, anthropic, you, one, has",
+        "generated": "2026-07-11T03:17:17.855150",
+        "file": "the-transformer-paper-had-8-authors-all-8-left-google.md"
+    },
+    {
         "title": "Stop Saying It Works on My Machine: Docker for AI Engineers",
         "slug": "stop-saying-it-works-on-my-machine-docker-for-ai-engineers",
         "author": "Sachin Singh",
@@ -12461,6 +12527,17 @@
         "keywords": "accounts, available, yahoo, old, aged, buy, usa, high",
         "generated": "2026-07-01T14:48:11.179122",
         "file": "top-10-websites-to-buy-old-yahoo-accounts-in-the-usa.md"
+    },
+    {
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "slug": "apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets",
+        "author": "stock_toaster",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 20:47:09 +0000",
+        "description": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 633 # Comments: 308",
+        "keywords": "apple, sues, openai, https, com, comments, accuses, employees",
+        "generated": "2026-07-11T03:17:17.849695",
+        "file": "apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets.md"
     },
     {
         "title": "Sentiment Analysis for Social Media Monitoring using LLM: Best Practices and Applications",
@@ -15951,6 +16028,17 @@
         "file": "lumo-is-a-privacy-focused-ai-chatbot-with-clear-limits.md"
     },
     {
+        "title": "Apple vs. OpenAI: What's Going On with AI and Trade Secrets?",
+        "slug": "apple-vs-openai-whats-going-on-with-ai-and-trade-secrets",
+        "author": "Yuravolontir",
+        "source": "devto_ai",
+        "published": "Sat, 11 Jul 2026 03:04:47 +0000",
+        "description": "Apple vs. OpenAI: What's Going On with AI and Trade Secrets? Imagine you've spent years perfecting a secret family recipe for the most delicious cake in town...",
+        "keywords": "apple, openai, trade, secrets, cake, right, what, you",
+        "generated": "2026-07-11T03:17:17.853047",
+        "file": "apple-vs-openai-whats-going-on-with-ai-and-trade-secrets.md"
+    },
+    {
         "title": "Cómo saber qué LLM te entra en tu GPU (y a cuántos tok/s) sin adivinar",
         "slug": "cmo-saber-qu-llm-te-entra-en-tu-gpu-y-a-cuntos-toks-sin-adivinar",
         "author": "Jonathan Martin Paez",
@@ -16380,6 +16468,17 @@
         "file": "nuitka-obfuscation-prometheusdevio-jun-2026.md"
     },
     {
+        "title": "FreeCAD in the Browser",
+        "slug": "freecad-in-the-browser",
+        "author": "cui",
+        "source": "hackernews",
+        "published": "Sat, 11 Jul 2026 00:44:00 +0000",
+        "description": "Article URL: https://magik.net/freecad/ Comments URL: https://news.ycombinator.com/item?id=48867264 Points: 31 # Comments: 20",
+        "keywords": "freecad, url, https, comments, browser, article, magik, net",
+        "generated": "2026-07-11T03:17:17.849178",
+        "file": "freecad-in-the-browser.md"
+    },
+    {
         "title": "AI Technology Is Flooding Your Feed: Inside the Multi-Agent Pipelines Running It",
         "slug": "ai-technology-is-flooding-your-feed-inside-the-multi-agent-pipelines-running-it",
         "author": "aarhamforensics",
@@ -16512,6 +16611,17 @@
         "file": "ai-under-trumps-control-can-france-still-avoid-digital-dependence.md"
     },
     {
+        "title": "Three Pitfalls in Dashboard Ca…",
+        "slug": "three-pitfalls-in-dashboard-ca",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 11 Jul 2026 03:05:44 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the pitfalls of dashboard cache lifetime management, their implications, and actionable solutions fo...",
+        "keywords": "cache, management, invalidation, para, que, pitfalls, data, can",
+        "generated": "2026-07-11T03:17:17.851359",
+        "file": "three-pitfalls-in-dashboard-ca.md"
+    },
+    {
         "title": "My Claude Code hook silently ate every Korean character, and it took me an hour to figure out why",
         "slug": "my-claude-code-hook-silently-ate-every-korean-character-and-it-took-me-an-hour-to-figure-out-why",
         "author": "coding_j",
@@ -16609,6 +16719,17 @@
         "keywords": "geely, restructuring, factory, market, global, automotive, operations, norvik",
         "generated": "2026-06-18T04:40:19.049230",
         "file": "geelys-strategic-factory-capa.md"
+    },
+    {
+        "title": "$60 Billion for a Dataset: Why Grok 4.5 Just Killed the Clever Architecture Myth",
+        "slug": "60-billion-for-a-dataset-why-grok-45-just-killed-the-clever-architecture-myth",
+        "author": "Blue lobster_Agent",
+        "source": "devto_ai",
+        "published": "Sat, 11 Jul 2026 03:03:58 +0000",
+        "description": "The AI industry loves a good story about cleverness. Constitutional AI. Mixture of Experts. RLHF. Distillation. Quantization. Sparse attention. Every lab has...",
+        "keywords": "data, grok, not, more, model, parameters, training, scale",
+        "generated": "2026-07-11T03:17:17.853607",
+        "file": "60-billion-for-a-dataset-why-grok-45-just-killed-the-clever-architecture-myth.md"
     },
     {
         "title": "Open Banking vs Stripe: The Real Cost Comparison for SaaS in 2026",
@@ -18723,6 +18844,28 @@
         "file": "why-ai-hasnt-replaced-software-engineers-and-wont.md"
     },
     {
+        "title": "Moss (YC F25) Is Hiring",
+        "slug": "moss-yc-f25-is-hiring",
+        "author": "srimalireddi",
+        "source": "hackernews",
+        "published": "Fri, 10 Jul 2026 21:11:18 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk Comments URL: https://news.ycombinator.com/item?id=48865332 Points...",
+        "keywords": "moss, url, https, ycombinator, com, comments, hiring, article",
+        "generated": "2026-07-11T03:17:17.849597",
+        "file": "moss-yc-f25-is-hiring.md"
+    },
+    {
+        "title": "Building a Nba Data Pipeline: Lessons from Lowry retires after returning to Raptors for one day",
+        "slug": "building-a-nba-data-pipeline-lessons-from-lowry-retires-after-returning-to-raptors-for-one-day",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Sat, 11 Jul 2026 03:14:20 +0000",
+        "description": "Building a Nba Data Pipeline: Lessons from Lowry retires after returning to Raptors for one day TL;DR : Kyle Lowrys 19-season NBA career ended where it peake...",
+        "keywords": "nba, data, games, lowry, raptors, one, day, time",
+        "generated": "2026-07-11T03:17:17.850403",
+        "file": "building-a-nba-data-pipeline-lessons-from-lowry-retires-after-returning-to-raptors-for-one-day.md"
+    },
+    {
         "title": "Egg consumption inversely correlated with Alzheimer's",
         "slug": "egg-consumption-inversely-correlated-with-alzheimers",
         "author": "natbennett",
@@ -18754,6 +18897,17 @@
         "keywords": "your, platform, database, tracking, replication, cleanly, system, processing",
         "generated": "2026-07-07T20:04:00.202724",
         "file": "how-to-fix-lovable-supabase-realtime-stream-replication-failures-cleanly.md"
+    },
+    {
+        "title": "Streaming Instant Translation with Cultural Insights: The Engineering Behind LectuLibre’s 即时翻译与文字解读",
+        "slug": "streaming-instant-translation-with-cultural-insights-the-engineering-behind-lectulibres",
+        "author": "龚旭东",
+        "source": "devto_webdev",
+        "published": "Sat, 11 Jul 2026 03:02:32 +0000",
+        "description": "How we built a feature that translates e-book text in real time and explains cultural nuances, all while keeping latency under 2 seconds with Python and Fast...",
+        "keywords": "translation, buffer, interpretation, text, llm, streaming, data, import",
+        "generated": "2026-07-11T03:17:17.852507",
+        "file": "streaming-instant-translation-with-cultural-insights-the-engineering-behind-lectulibres.md"
     },
     {
         "title": "Advanced Linux System Administrator Interview Questions and Solutions",
@@ -19843,6 +19997,17 @@
         "keywords": "heygen, you, elevenlabs, month, workflow, loop, agent, layer",
         "generated": "2026-07-01T04:23:05.796740",
         "file": "heygen-elevenlabs-ai-avatar-automation-workflow-full-n8n-build-monetisation-guide.md"
+    },
+    {
+        "title": "Still Confused About Which Computer Course to Join in Ludhiana? Read This Before You Waste Your Money",
+        "slug": "still-confused-about-which-computer-course-to-join-in-ludhiana-read-this-before-you-waste-your-money",
+        "author": "rajniguptainning@gmail.com",
+        "source": "devto_webdev",
+        "published": "Sat, 11 Jul 2026 03:03:58 +0000",
+        "description": "Every year, thousands of students in Ludhiana pass their 12th or graduation and ask the same question: Ab kya karein? They walk into three, four, sometimes...",
+        "keywords": "you, course, ludhiana, computer, just, still, every, job",
+        "generated": "2026-07-11T03:17:17.851924",
+        "file": "still-confused-about-which-computer-course-to-join-in-ludhiana-read-this-before-you-waste-your-money.md"
     },
     {
         "title": "Mobile Banking Market Size, Share, Trends Analysis Report and Forecast, 2026–2034",
@@ -22232,6 +22397,17 @@
         "file": "announcing-box3d-box2d.md"
     },
     {
+        "title": "https://irisinstituteofeducation.com/blogs",
+        "slug": "httpsirisinstituteofeducationcomblogs",
+        "author": "rajniguptainning@gmail.com",
+        "source": "devto_webdev",
+        "published": "Sat, 11 Jul 2026 03:04:34 +0000",
+        "description": "",
+        "keywords": "https, irisinstituteofeducation, com, blogs",
+        "generated": "2026-07-11T03:17:17.851465",
+        "file": "httpsirisinstituteofeducationcomblogs.md"
+    },
+    {
         "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
         "slug": "since-linux-69-luks-suspend-stopped-wiping-disk-encryption-keys-from-memory",
         "author": "IngoBlechschmid",
@@ -24474,6 +24650,17 @@
         "keywords": "backdoor, linkedin, url, https, comments, job, offer, article",
         "generated": "2026-06-15T21:11:31.713291",
         "file": "a-backdoor-in-a-linkedin-job-offer.md"
+    },
+    {
+        "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
+        "slug": "my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice",
+        "author": "Himanshu Kumar",
+        "source": "devto_ai",
+        "published": "Sat, 11 Jul 2026 03:10:15 +0000",
+        "description": "This is a submission for the DEV Weekend Challenge: Passion Edition . What I Built Everyone will tell you about the passions they have. Nobody talks about th...",
+        "keywords": "you, what, passion, every, voice, persona, snowflake, abandoned",
+        "generated": "2026-07-11T03:17:17.852857",
+        "file": "my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice.md"
     },
     {
         "title": "How to start when the machine writes the code",
@@ -28381,6 +28568,17 @@
         "file": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md"
     },
     {
+        "title": "360 Virtual Tours Art Galleries Cairo Immersive Experience — تصوير 360 لمعارض فنية بالقاهرة: تجربة غامرة",
+        "slug": "360-virtual-tours-art-galleries-cairo-immersive-experience-360",
+        "author": "ismail",
+        "source": "devto_webdev",
+        "published": "Sat, 11 Jul 2026 03:04:10 +0000",
+        "description": "شفت كيف تصوير 360 بيخلّي زيارة المعارض الفنية في القاهرة تجربة حقيقية وأكثر تفاعلية، بجد فكرة مبتكرة. تصوير 360 لمعارض فنية بالقاهرة: تجربة غامرة اكتشف كيف ي...",
+        "keywords": "virtual, tours, art, galleries, cairo, immersive, experience, https",
+        "generated": "2026-07-11T03:17:17.851572",
+        "file": "360-virtual-tours-art-galleries-cairo-immersive-experience-360.md"
+    },
+    {
         "title": "Build a GST Invoice Generator in 87 Lines of Python",
         "slug": "build-a-gst-invoice-generator-in-87-lines-of-python",
         "author": "Archit Mittal",
@@ -28489,6 +28687,17 @@
         "keywords": "mcp, you, apikey, key, your, server, api, what",
         "generated": "2026-06-25T04:05:12.296561",
         "file": "mcp-authentication-what-i-got-wrong-building-a-production-mcp-server-for-my-knowledge-base.md"
+    },
+    {
+        "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
+        "slug": "show-hn-we-beat-cloudflares-bot-detection-open-source-stealth-browser",
+        "author": "armanluthra_",
+        "source": "hackernews",
+        "published": "Sat, 11 Jul 2026 00:26:16 +0000",
+        "description": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents Comments URL: https://news.ycombinator.com/item?id=48867124 Points: 6 # Comments: 0",
+        "keywords": "cloudflare, url, https, comments, show, beat, bot, detection",
+        "generated": "2026-07-11T03:17:17.849368",
+        "file": "show-hn-we-beat-cloudflares-bot-detection-open-source-stealth-browser.md"
     },
     {
         "title": "My AI Manga Toolkit: The Exact Tools and Settings That Gave Me Consistent Characters Across 100+ Pages",
@@ -29369,6 +29578,17 @@
         "keywords": "you, might, not, need, service, worker, url, https",
         "generated": "2026-06-29T04:27:36.037170",
         "file": "you-might-not-need-a-service-worker.md"
+    },
+    {
+        "title": "How I Built a Real-Time Sports Stats Tracker: France cruise into semi-finals could this be the best Les Bleus ever?",
+        "slug": "how-i-built-a-real-time-sports-stats-tracker-france-cruise-into-semi-finals-could-this-be-the-best-les-bleus-ever",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Sat, 11 Jul 2026 03:15:57 +0000",
+        "description": "How I Built a Real-Time Sports Stats Tracker: France cruise into semi-finals could this be the best Les Bleus ever? TL;DR : The article is written and saved ...",
+        "keywords": "sports, france, time, les, bleus, best, html, real",
+        "generated": "2026-07-11T03:17:17.850116",
+        "file": "how-i-built-a-real-time-sports-stats-tracker-france-cruise-into-semi-finals-could-this-be-the-best-les-bleus-ever.md"
     },
     {
         "title": "Under the Hood: Drag, Touch, and CSS Cascade in a Real Diff UI",
