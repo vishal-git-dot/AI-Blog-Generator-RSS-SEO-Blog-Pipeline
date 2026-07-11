@@ -4,16 +4,16 @@ slug: "einsteins-relativity-rules-chemical-bonds-in-heavy-elements-new-research-
 author: "hhs"
 source: "hackernews"
 published: "Fri, 10 Jul 2026 22:30:44 +0000"
-description: "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 124 # Commen..."
-keywords: "relativity, chemical, bonds, url, https, news, comments, einstein"
-generated: "2026-07-11T03:17:17.849491"
+description: "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 208 # Comments: 72"
+keywords: "https, science, comments, einstein, relativity, rules, chemical, bonds"
+generated: "2026-07-11T08:04:04.869541"
 ---
 
 # Einstein's relativity rules chemical bonds in heavy elements, new research shows
 
 ## Overview
 
-Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 124 # Comments: 44
+https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 208 # Comments: 72
 
 ## Key Insights
 

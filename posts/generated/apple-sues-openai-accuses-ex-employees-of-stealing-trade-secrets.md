@@ -4,16 +4,16 @@ slug: "apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets"
 author: "stock_toaster"
 source: "hackernews"
 published: "Fri, 10 Jul 2026 20:47:09 +0000"
-description: "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 633 # Comments: 308"
+description: "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 971 # Comments: 479"
 keywords: "apple, sues, openai, https, com, comments, accuses, employees"
-generated: "2026-07-11T03:17:17.849695"
+generated: "2026-07-11T08:04:04.869695"
 ---
 
 # Apple sues OpenAI, accuses ex-employees of stealing trade secrets
 
 ## Overview
 
-https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 633 # Comments: 308
+https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 971 # Comments: 479
 
 ## Key Insights
 
