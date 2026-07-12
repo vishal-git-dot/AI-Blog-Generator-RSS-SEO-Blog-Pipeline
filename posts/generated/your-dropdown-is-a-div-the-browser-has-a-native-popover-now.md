@@ -1,0 +1,34 @@
+---
+title: "Your dropdown is a div. The browser has a native popover now."
+slug: "your-dropdown-is-a-div-the-browser-has-a-native-popover-now"
+author: "Parsa Jiravand"
+source: "devto_webdev"
+published: "Sun, 12 Jul 2026 08:24:42 +0000"
+description: "You've written some version of this before: function toggleMenu () { setOpen ( prev => ! prev ); } useEffect (() => { const handler = ( e ) => { if ( ! ref ...."
+keywords: "popover, you, browser, open, your, dismiss, element, when"
+generated: "2026-07-12T08:25:23.793337"
+---
+
+# Your dropdown is a div. The browser has a native popover now.
+
+## Overview
+
+You've written some version of this before: function toggleMenu () { setOpen ( prev => ! prev ); } useEffect (() => { const handler = ( e ) => { if ( ! ref . current ?. contains ( e . target )) setOpen ( false ); }; document . addEventListener ( ' mousedown ' , handler ); return () => document . removeEventListener ( ' mousedown ' , handler ); }, []); Plus the CSS that sets position: absolute; z-index: 9999 . Plus the aria-expanded you forget half the time. Plus the Escape key handler you add after the first accessibility audit. You've been solving the same four problems — open/close state, light dismiss, z-index, keyboard — over and over. They're browser problems. The browser fixed them. Two attributes The Popover API is Baseline 2024 : shipping in Chrome 114, Firefox 125, and Safari 17. The baseline version looks like this: <button popovertarget= "options-menu" > Options </button> <ul id= "options-menu" popover > <li> Edit </li> <li> Duplicate </li> <li> Delete </li> </ul> That's the full implementation for the open/close/dismiss problem. The browser wires popovertarget to the element with the matching id . Clicking the button opens the popover. Pressing Escape closes it. Clicking anywhere outside closes it. No JavaScript, no event listeners, no useRef . 🎮 Try it yourself ▶️ Open the interactive playground → Runs right in your browser — poke at it and watch the concept react live. The top layer is the real fix The reason your dropdown gets a z-index: 9999 is because positioned elements compete inside stacking contexts, and anything with transform , opacity , or filter creates a new one that traps your menu below it. You can't escape a stacking context by going higher — you have to get out of it entirely. Popovers render in the top layer : a browser-managed surface that sits above every stacking context in the document, including overflow: hidden parents and transform -ed ancestors. Your tooltip no longer disappears behind a sticky header. Your menu no longer clips inside a table cell. The top layer is outside the layout tree entirely — there's nowhere for it to get trapped. <dialog> modals use the same top layer. Popovers just make it available to any element, not just dialog elements. auto vs manual popover (same as popover="auto" ) is the light-dismiss mode: only one auto popover is open at a time, clicking outside closes it, Escape closes it. This is what you want for menus and dropdowns. popover="manual" turns all that off. Nothing closes a manual popover unless your code explicitly does: const toast = document . getElementById ( ' toast ' ); toast . showPopover (); setTimeout (() => toast . hidePopover (), 3000 ); Manual is right for toasts, alerts, and any UI where you decide when it goes away. Auto is right for anything the user should be able to dismiss by looking away from. The JavaScript API rounds it out: el . showPopover (); // open el . hidePopover (); // close el . togglePopover (); // flip state el . matches ( ' :popover-open ' ); // true when currently open Adding enter and exit animations Popovers are display: none when closed. The browser switches them to display: block when open. That transition normally can't be animated — CSS can't interpolate between none and block . Two features fix this. First, allow-discrete in the transition lets the browser animate through display changes. Second, @starting-style defines the animation's starting values for the moment the element first becomes visible: [ popover ] { opacity : 0 ; transform : translateY ( -6px ); transition : opacity 0.15s ease , transform 0.15s ease , display 0.15s allow-discrete ; } [ popover ] :popover-open { opacity : 1 ; transform : translateY ( 0 ); } @starting-style { [ popover ] :popover-open { opacity : 0 ; transform : translateY ( -6px ); } } The :popover-open block is the target state. @starting-style tells the browser where to start the animation from — without it, the element appears fully visible in frame one and your enter animation never plays. Exit animations (the element going back to hidden) happen in reverse across the same transition. What you still need a library for The Popover API handles the surface and the dismiss behavior. It doesn't handle positioning. If your dropdown needs to flip above the trigger when there's no room below, or shift left when it would overflow the viewport edge, you'll still want Floating UI or a similar library — or the CSS Anchor Positioning API , which ties a floating element to an anchor element natively. Anchor positioning is shipping in Chrome and gaining traction, but isn't cross-browser yet. It also doesn't give you a complete accessible menu pattern for free. Arrow-key navigation inside the list, role="menu" / role="menuitem" ARIA semantics, and focus management within the options are still yours to implement — or delegate to a headless component library. What you get free: Escape key, light dismiss, top-layer placement, and the aria-expanded state (browsers update it automatically when the popover opens via popovertarget ). The short version If you're building a dropdown, tooltip trigger, disclosure panel, or any floating UI today, start with the Popover API. Light dismiss, Escape key, and top-layer rendering come for free. Animations cost you a @starting-style block. Viewport-aware positioning still needs Floating UI or Anchor Positioning. The click-outside listener you've written a hundred times is a browser primitive now. Use the primitive. Thanks for reading! Let's stay connected: ⭐ GitHub — follow me and star the projects: github.com/parsajiravand 📸 Instagram — frontend best practices, daily: @bestpractice___ 💼 LinkedIn — linkedin.com/in/parsa-jiravand ✉️ Email (work & contract inquiries): bestpractice2026@gmail.com
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/parsajiravand/your-dropdown-is-a-div-the-browser-has-a-native-popover-now-43d6
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

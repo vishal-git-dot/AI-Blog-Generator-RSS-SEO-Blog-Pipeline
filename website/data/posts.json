@@ -902,6 +902,17 @@
         "file": "swift-package-index-joins-apple-a-new-era-for-developers.md"
     },
     {
+        "title": "Why Write Code in 2026",
+        "slug": "why-write-code-in-2026",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Sun, 12 Jul 2026 04:15:27 +0000",
+        "description": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html Comments URL: https://news.ycombinator.com/item?id=48878195 Points: 46 # Comments: 26",
+        "keywords": "write, code, url, https, com, comments, why, article",
+        "generated": "2026-07-12T08:25:23.790749",
+        "file": "why-write-code-in-2026.md"
+    },
+    {
         "title": "Bikin Otak AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula",
         "slug": "bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula",
         "author": "Nugroho Ardi Sutrisno",
@@ -2348,9 +2359,9 @@
         "author": "lioeters",
         "source": "hackernews",
         "published": "Sun, 12 Jul 2026 01:59:35 +0000",
-        "description": "Article URL: https://arxiv.org/abs/1203.5426 Comments URL: https://news.ycombinator.com/item?id=48877613 Points: 7 # Comments: 0",
+        "description": "Article URL: https://arxiv.org/abs/1203.5426 Comments URL: https://news.ycombinator.com/item?id=48877613 Points: 20 # Comments: 1",
         "keywords": "url, https, comments, energetic, costs, cellular, computation, article",
-        "generated": "2026-07-12T03:28:48.639822",
+        "generated": "2026-07-12T08:25:23.791128",
         "file": "the-energetic-costs-of-cellular-computation-2012.md"
     },
     {
@@ -6226,14 +6237,14 @@
         "file": "bring-back-crappy-forums.md"
     },
     {
-        "title": "Преимущества аренды AI маркетинг-агентов для бизнеса",
+        "title": "AI 時代的合規地獄？",
         "slug": "ai",
-        "author": "Алексей Кузнецов",
+        "author": "JH5",
         "source": "devto_ai",
-        "published": "Fri, 03 Jul 2026 09:25:32 +0000",
-        "description": "Экономическая эффективность аренды AI-агентов Современные предприятия стремятся оптимизировать расходы и повысить эффективность своих маркетинговых кампаний....",
-        "keywords": "svi, marketing, enterprise, handofhands, mail, production, modules",
-        "generated": "2026-07-03T09:27:38.736706",
+        "published": "Sun, 12 Jul 2026 08:08:20 +0000",
+        "description": "上週剛結束一場地獄般的 ISO 27001/27701 專案稽核，也因應開發流程都可以看到導入ＡＩ協助的 Code Review Bot 或是 Coauthor 蹤跡，也跟顧問老師請教了一些目前在法規與法遵上的趨勢，雖然老師幫我解惑了一些問題，不過放颱風假的週末卻衍生了我更多問題，還打斷了我看匹茲堡醫魂看到一半還...",
+        "keywords": "iso, owasp, devsecops, nist, api, llm, rmf, top",
+        "generated": "2026-07-12T08:25:23.795467",
         "file": "ai.md"
     },
     {
@@ -6400,6 +6411,17 @@
         "keywords": "screen, repair, samsung, phone, city, phones, melbourne, our",
         "generated": "2026-07-09T09:49:56.277045",
         "file": "screen-repair-service-of-samsung-a90-mobile-phone.md"
+    },
+    {
+        "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+        "slug": "under-federal-rule-colleges-must-leave-grads-better-off-or-lose-financial-aid",
+        "author": "nradov",
+        "source": "hackernews",
+        "published": "Sun, 12 Jul 2026 04:00:14 +0000",
+        "description": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans Comments URL: https://news.ycombinator.com/item?id=48878126 P...",
+        "keywords": "url, https, comments, under, federal, rule, colleges, must",
+        "generated": "2026-07-12T08:25:23.790883",
+        "file": "under-federal-rule-colleges-must-leave-grads-better-off-or-lose-financial-aid.md"
     },
     {
         "title": "How I Built a Real-Time Tennis Stats Tracker: GBs Fery beats Dimitrov in five-set thriller to extend historic run",
@@ -7139,6 +7161,17 @@
         "file": "2026-technical-comparison-stock-forex-historical-market-data-apis-capabilities-integration-workflows.md"
     },
     {
+        "title": "Part 4: Going Fully Autonomous: EventBridge, DynamoDB, and Automated Publishing",
+        "slug": "part-4-going-fully-autonomous-eventbridge-dynamodb-and-automated-publishing",
+        "author": "Ashley Armstrong",
+        "source": "devto_ai",
+        "published": "Sun, 12 Jul 2026 08:09:36 +0000",
+        "description": "Generating content is interesting. Generating content, creating artwork, and publishing it without human intervention is where things start to get fun. The F...",
+        "keywords": "content, publishing, image, dynamodb, workflow, every, became, pending",
+        "generated": "2026-07-12T08:25:23.795256",
+        "file": "part-4-going-fully-autonomous-eventbridge-dynamodb-and-automated-publishing.md"
+    },
+    {
         "title": "Chaosnet",
         "slug": "chaosnet",
         "author": "RGBCube",
@@ -7225,6 +7258,17 @@
         "keywords": "comaps, url, https, comments, foss, offline, maps, article",
         "generated": "2026-07-06T20:05:38.434363",
         "file": "comaps-foss-offline-maps.md"
+    },
+    {
+        "title": "I built a two-way AI voice interview simulator for developers",
+        "slug": "i-built-a-two-way-ai-voice-interview-simulator-for-developers",
+        "author": "D J",
+        "source": "devto_ai",
+        "published": "Sun, 12 Jul 2026 08:14:29 +0000",
+        "description": "I built DevPrep.app because I kept failing technical interviews even when I knew the material. The problem wasn't knowledge it was that I'd never actually pr...",
+        "keywords": "devprep, app, you, would, built, two, way, voice",
+        "generated": "2026-07-12T08:25:23.794589",
+        "file": "i-built-a-two-way-ai-voice-interview-simulator-for-developers.md"
     },
     {
         "title": "The EU Open Source Strategy",
@@ -11660,6 +11704,17 @@
         "file": "scrapling-mcp-giving-claude-code-a-real-web-scraper.md"
     },
     {
+        "title": "DJI Osmo Action 4 Essential Combo Review 2026",
+        "slug": "dji-osmo-action-4-essential-combo-review-2026",
+        "author": "Metul Roy",
+        "source": "devto_ai",
+        "published": "Sun, 12 Jul 2026 08:10:17 +0000",
+        "description": "DJI Osmo Action 4 Essential Combo Review 2026 | Best 4K Waterproof Action Camera? Honest Review & Test DJIOsmoAction4 #DJI #ActionCamera #CameraReview #4KCam...",
+        "keywords": "action, dji, review, osmo, essential, combo, best, waterproof",
+        "generated": "2026-07-12T08:25:23.794756",
+        "file": "dji-osmo-action-4-essential-combo-review-2026.md"
+    },
+    {
         "title": "CSS Grid vs Flexbox: Choosing Your Path Like Neo in The Matrix",
         "slug": "css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix",
         "author": "Timevolt",
@@ -12989,6 +13044,17 @@
         "keywords": "pdf, const, data, next, how, obstacle, not, currentwords",
         "generated": "2026-06-10T20:38:15.851308",
         "file": "5-obstacles-i-hit-building-pdf-rag-in-nextjs-15-and-how-i-fixed-each-one-published-true.md"
+    },
+    {
+        "title": "Learn the Agent Loop Without an Agent Framework",
+        "slug": "learn-the-agent-loop-without-an-agent-framework",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Sun, 12 Jul 2026 08:07:13 +0000",
+        "description": "The article “An Agent in 100 Lines of Lisp” was one of the most discussed programming items in the Hacker News snapshot I reviewed on 2026-07-12 , with 123 p...",
+        "keywords": "tool, action, not, add, type, name, loop, model",
+        "generated": "2026-07-12T08:25:23.791495",
+        "file": "learn-the-agent-loop-without-an-agent-framework.md"
     },
     {
         "title": "How Tech is Solving UAE's Biggest Freight Forwarding Problems in 2026",
@@ -14334,6 +14400,17 @@
         "file": "we-were-about-to-launch-first-we-decided-to-hack-ourselves.md"
     },
     {
+        "title": "Run Tokens Make Email CI Less Fragile",
+        "slug": "run-tokens-make-email-ci-less-fragile",
+        "author": "DapperX",
+        "source": "devto_webdev",
+        "published": "Sun, 12 Jul 2026 08:24:14 +0000",
+        "description": "I keep seeing the same failure pattern in email automation: the test passes locally, gets weird in CI, and then somebody adds a sleep plus one more retry. Th...",
+        "keywords": "email, test, message, run, inbox, token, mail, not",
+        "generated": "2026-07-12T08:25:23.793915",
+        "file": "run-tokens-make-email-ci-less-fragile.md"
+    },
+    {
         "title": "What I learned wiring JSON-LD structured data audits into a post-deploy CI step",
         "slug": "what-i-learned-wiring-json-ld-structured-data-audits-into-a-post-deploy-ci-step",
         "author": "MORINAGA",
@@ -14433,6 +14510,17 @@
         "file": "understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough.md"
     },
     {
+        "title": "I Wish I'd Switched Off OpenAI Sooner — Here's My Full Breakdown",
+        "slug": "i-wish-id-switched-off-openai-sooner-heres-my-full-breakdown",
+        "author": "rarenode",
+        "source": "devto_python",
+        "published": "Sun, 12 Jul 2026 08:00:40 +0000",
+        "description": "I Wish I'd Switched Off OpenAI Sooner — Here's My Full Breakdown I want to start this off with a confession: I spent way too long overpaying for AI inference...",
+        "keywords": "openai, api, you, same, global, gpt, cheaper, here",
+        "generated": "2026-07-12T08:25:23.792373",
+        "file": "i-wish-id-switched-off-openai-sooner-heres-my-full-breakdown.md"
+    },
+    {
         "title": "How I Built, Deployed, and Google-Indexed a Full-Stack AI App in Under 24 Hours published: true",
         "slug": "how-i-built-deployed-and-google-indexed-a-full-stack-ai-app-in-under-24-hours-published-true",
         "author": "Jesse Otobo",
@@ -14486,6 +14574,17 @@
         "keywords": "devto, hub, measuring, operational, output, high, performance, teams",
         "generated": "2026-06-07T19:40:41.523897",
         "file": "measuring-operational-output-in-high-performance-teams-255.md"
+    },
+    {
+        "title": "How I Stopped Writing JSON-LD by Hand",
+        "slug": "how-i-stopped-writing-json-ld-by-hand",
+        "author": "SeoGeo Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 12 Jul 2026 08:21:35 +0000",
+        "description": "How I Stopped Writing JSON-LD by Hand If you've worked on more than a few websites, you've probably written the same JSON-LD markup over and over again. An A...",
+        "keywords": "json, you, schema, workflow, how, technical, seo, structured",
+        "generated": "2026-07-12T08:25:23.794425",
+        "file": "how-i-stopped-writing-json-ld-by-hand.md"
     },
     {
         "title": "AI For Fun! Électrique Chats at Hack the Kitty, Built with Kiro.",
@@ -14970,6 +15069,17 @@
         "keywords": "agent, what, task, state, you, checkpoint, context, memory",
         "generated": "2026-06-28T09:19:21.769520",
         "file": "how-i-build-ai-agents-that-actually-remember.md"
+    },
+    {
+        "title": "Unexpected Solidlike Fracture in Simple Liquids",
+        "slug": "unexpected-solidlike-fracture-in-simple-liquids",
+        "author": "Anon84",
+        "source": "hackernews",
+        "published": "Sun, 12 Jul 2026 02:13:46 +0000",
+        "description": "https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr Comments URL: https://news.ycombinator.com/item?id=48877668 Points: 87 # Comments: 44",
+        "keywords": "https, comments, unexpected, solidlike, fracture, simple, liquids, journals",
+        "generated": "2026-07-12T08:25:23.791012",
+        "file": "unexpected-solidlike-fracture-in-simple-liquids.md"
     },
     {
         "title": "# Building DevDocAI - An AI That Writes Your Docs Automatically | Part 2: LangGraph Core, Agents & RAG",
@@ -20142,6 +20252,17 @@
         "file": "ultimate-guide-to-email-newsletter-platforms.md"
     },
     {
+        "title": "We Built a Free AI Tool That Tells You Whether to Bid",
+        "slug": "we-built-a-free-ai-tool-that-tells-you-whether-to-bid",
+        "author": "Vilius",
+        "source": "devto_ai",
+        "published": "Sun, 12 Jul 2026 08:08:13 +0000",
+        "description": "You're staring at a tender. £2M/year, five years, NHS trust. Looks good on paper. The deadline is six weeks out and your team can probably handle it. So you ...",
+        "keywords": "you, bid, your, win, tender, free, tool, out",
+        "generated": "2026-07-12T08:25:23.795840",
+        "file": "we-built-a-free-ai-tool-that-tells-you-whether-to-bid.md"
+    },
+    {
         "title": "AWS Journey – Day 3 🚀",
         "slug": "aws-journey-day-3",
         "author": "Waris Khan",
@@ -21812,6 +21933,17 @@
         "keywords": "month, you, free, one, openai, code, api, your",
         "generated": "2026-06-11T16:13:08.005552",
         "file": "how-i-built-an-ai-side-hustle-that-earns-50kmonth-as-a-dev.md"
+    },
+    {
+        "title": "Can AI Make Carbon Credits More Trustworthy? I Tried Building an Answer with Gemini 🌍",
+        "slug": "can-ai-make-carbon-credits-more-trustworthy-i-tried-building-an-answer-with-gemini",
+        "author": "Sreejit Pradhan",
+        "source": "devto_webdev",
+        "published": "Sun, 12 Jul 2026 08:24:02 +0000",
+        "description": "Climate change is one of the biggest challenges of our generation, and carbon credits have become an important tool in reducing global emissions. But one que...",
+        "keywords": "carbonsense, gemini, environmental, make, carbon, information, insights, more",
+        "generated": "2026-07-12T08:25:23.794187",
+        "file": "can-ai-make-carbon-credits-more-trustworthy-i-tried-building-an-answer-with-gemini.md"
     },
     {
         "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
@@ -23968,6 +24100,17 @@
         "keywords": "openai, inference, just, costs, free, basic, value, specialized",
         "generated": "2026-07-01T09:59:55.962329",
         "file": "openai-halves-inference-costs-the-ai-commoditization-wave-accelerates.md"
+    },
+    {
+        "title": "Python Performance Tips: Make Your Code 10x Faster",
+        "slug": "python-performance-tips-make-your-code-10x-faster",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 12 Jul 2026 08:00:06 +0000",
+        "description": "Python Performance Tips: Make Your Code 10x Faster Speed matters. Here are the most impactful Python optimizations. 1. Use Built-in Functions # Slow total = ...",
+        "keywords": "python, slow, fast, range, count, result, use, list",
+        "generated": "2026-07-12T08:25:23.792867",
+        "file": "python-performance-tips-make-your-code-10x-faster.md"
     },
     {
         "title": "WooCommerce Caching: Which Pages to Exclude and Why",
@@ -28447,6 +28590,17 @@
         "file": "a-data-race-that-doesnt-compile.md"
     },
     {
+        "title": "OPERATORS",
+        "slug": "operators",
+        "author": "Keerthana M",
+        "source": "devto_webdev",
+        "published": "Sun, 12 Jul 2026 08:24:33 +0000",
+        "description": "OPERATORS TYPES OF OPERATORS: 1. Arithmetic Operators Arithmetic operators perform basic mathematical operations on numeric values. Common examples include: ...",
+        "keywords": "operators, true, values, false, two, operand, one, example",
+        "generated": "2026-07-12T08:25:23.793559",
+        "file": "operators.md"
+    },
+    {
         "title": "Volkswagen started blocking GrapheneOS users",
         "slug": "volkswagen-started-blocking-grapheneos-users",
         "author": "microtonal",
@@ -28964,6 +29118,17 @@
         "file": "bubble-or-not-the-money-loop-the-token-revolt-and-why-the-ai-demand-is-still-real.md"
     },
     {
+        "title": "Your dropdown is a div. The browser has a native popover now.",
+        "slug": "your-dropdown-is-a-div-the-browser-has-a-native-popover-now",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Sun, 12 Jul 2026 08:24:42 +0000",
+        "description": "You've written some version of this before: function toggleMenu () { setOpen ( prev => ! prev ); } useEffect (() => { const handler = ( e ) => { if ( ! ref ....",
+        "keywords": "popover, you, browser, open, your, dismiss, element, when",
+        "generated": "2026-07-12T08:25:23.793337",
+        "file": "your-dropdown-is-a-div-the-browser-has-a-native-popover-now.md"
+    },
+    {
         "title": "Cloudflare launched self-managed OAuth for all",
         "slug": "cloudflare-launched-self-managed-oauth-for-all",
         "author": "terryds",
@@ -29435,6 +29600,17 @@
         "keywords": "not, test, browser, teams, can, you, but, automation",
         "generated": "2026-06-08T20:25:42.490684",
         "file": "ai-driven-test-automation-is-not-a-testing-strategy-its-a-decision-shift.md"
+    },
+    {
+        "title": "TIL: Python's pathlib Makes File Paths Cross-Platform and Readable (2026)",
+        "slug": "til-pythons-pathlib-makes-file-paths-cross-platform-and-readable-2026",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 12 Jul 2026 08:00:11 +0000",
+        "description": "TIL: Python's pathlib Makes File Paths Cross-Platform and Readable When working with file paths in Python, it's easy to get tangled up in a mess of strings a...",
+        "keywords": "file, pathlib, path, python, paths, root, dir, txt",
+        "generated": "2026-07-12T08:25:23.792645",
+        "file": "til-pythons-pathlib-makes-file-paths-cross-platform-and-readable-2026.md"
     },
     {
         "title": "Net Salary in Europe 2026: The Gross-to-Net Gap in Italy, Germany, France and Spain",
@@ -29998,6 +30174,17 @@
         "file": "herdr-agent-multiplexer-that-lives-in-your-terminal.md"
     },
     {
+        "title": "TIL: asyncio.gather() Runs Coroutines Concurrently, Not Sequentially (2026)",
+        "slug": "til-asynciogather-runs-coroutines-concurrently-not-sequentially-2026",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 12 Jul 2026 08:05:35 +0000",
+        "description": "TIL: asyncio.gather() Runs Coroutines Concurrently, Not Sequentially When working with asynchronous code in Python, it's essential to understand how to run c...",
+        "keywords": "asyncio, time, gather, coroutines, await, concurrently, sequentially, using",
+        "generated": "2026-07-12T08:25:23.791691",
+        "file": "til-asynciogather-runs-coroutines-concurrently-not-sequentially-2026.md"
+    },
+    {
         "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
         "slug": "why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives",
         "author": "Gedxx",
@@ -30161,6 +30348,17 @@
         "keywords": "automate, you, independent, physical, therapists, how, soap, note",
         "generated": "2026-06-13T04:19:15.387726",
         "file": "ai-automation-for-ai-for-independent-physical-therapists-how-to-automate-soap-note-generation-and-insurance-billing-codes-fro.md"
+    },
+    {
+        "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+        "slug": "show-hn-mindwalk-replay-coding-agent-sessions-on-a-3d-map-of-your-codebase",
+        "author": "cosmtrek",
+        "source": "hackernews",
+        "published": "Sun, 12 Jul 2026 05:51:32 +0000",
+        "description": "Article URL: https://github.com/cosmtrek/mindwalk Comments URL: https://news.ycombinator.com/item?id=48878682 Points: 13 # Comments: 1",
+        "keywords": "mindwalk, url, https, com, comments, show, replay, coding",
+        "generated": "2026-07-12T08:25:23.790586",
+        "file": "show-hn-mindwalk-replay-coding-agent-sessions-on-a-3d-map-of-your-codebase.md"
     },
     {
         "title": "Openrouter Fusion API",
