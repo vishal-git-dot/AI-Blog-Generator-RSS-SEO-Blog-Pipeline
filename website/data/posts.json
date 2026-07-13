@@ -1287,6 +1287,17 @@
         "file": "build-a-web-scraper-in-python-in-10-minutes.md"
     },
     {
+        "title": "Crypto Trading API for Python: Complete Beginner's Guide (2026)",
+        "slug": "crypto-trading-api-for-python-complete-beginners-guide-2026",
+        "author": "Gunnar Thorderson",
+        "source": "devto_python",
+        "published": "Mon, 13 Jul 2026 09:00:15 +0000",
+        "description": "Crypto Trading API for Python: Complete Beginner's Guide Want to get crypto market data in Python? Here's every option, from simplest to most powerful. Optio...",
+        "keywords": "api, regime, market, data, print, overview, price, crypto",
+        "generated": "2026-07-13T09:37:40.645923",
+        "file": "crypto-trading-api-for-python-complete-beginners-guide-2026.md"
+    },
+    {
         "title": "The 0DTE Gamma Heatmap API: Strike-by-Time GEX, a HIRO and Heatseeker Alternative",
         "slug": "the-0dte-gamma-heatmap-api-strike-by-time-gex-a-hiro-and-heatseeker-alternative",
         "author": "tomasz dobrowolski",
@@ -1494,6 +1505,17 @@
         "keywords": "feds, freaked, over, fable, after, simple, fix, code",
         "generated": "2026-06-16T11:22:59.962859",
         "file": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md"
+    },
+    {
+        "title": "How Python's Import System Works and Why It Matters for Debugging",
+        "slug": "how-pythons-import-system-works-and-why-it-matters-for-debugging",
+        "author": "Ameer Abdullah",
+        "source": "devto_python",
+        "published": "Mon, 13 Jul 2026 09:36:00 +0000",
+        "description": "Module caching, execution order, and circular imports explained by tracing what actually happens. How Python's Import System Works and Why It Matters for Deb...",
+        "keywords": "import, module, python, print, sys, config, code, when",
+        "generated": "2026-07-13T09:37:40.643738",
+        "file": "how-pythons-import-system-works-and-why-it-matters-for-debugging.md"
     },
     {
         "title": "Discovery as a Capability in T…",
@@ -5049,6 +5071,17 @@
         "file": "anthropicopenai-may-be-spending-more-than-1000-for-every-100-you-pay-them.md"
     },
     {
+        "title": "I Stopped Trusting Free PDF Tools. So I Built One That Never Sees Your Files.",
+        "slug": "i-stopped-trusting-free-pdf-tools-so-i-built-one-that-never-sees-your-files",
+        "author": "PDFWix",
+        "source": "devto_webdev",
+        "published": "Mon, 13 Jul 2026 09:27:25 +0000",
+        "description": "Let me ask you something. You just uploaded your resume to a free PDF compressor. Where did it go? Not where do they say it goes. Where did it actually g...",
+        "keywords": "you, your, pdf, free, tools, what, pdfwix, where",
+        "generated": "2026-07-13T09:37:40.646298",
+        "file": "i-stopped-trusting-free-pdf-tools-so-i-built-one-that-never-sees-your-files.md"
+    },
+    {
         "title": "7 Free Online Image Tools Every Student and Job Seeker Should Bookmark",
         "slug": "7-free-online-image-tools-every-student-and-job-seeker-should-bookmark",
         "author": "Vijay Kanna",
@@ -5861,6 +5894,17 @@
         "keywords": "you, training, development, website, developer, projects, yrc, your",
         "generated": "2026-07-01T09:59:55.959243",
         "file": "top-website-development-institute-in-noida-with-practical-training-live-projects.md"
+    },
+    {
+        "title": "Developer tools",
+        "slug": "developer-tools",
+        "author": "Mahesh Meena",
+        "source": "devto_webdev",
+        "published": "Mon, 13 Jul 2026 09:28:43 +0000",
+        "description": "I built a suite of 40+ developer tools that run entirely in the browser so your company's data never touches a server.",
+        "keywords": "developer, tools, built, suite, run, entirely, browser, your",
+        "generated": "2026-07-13T09:37:40.646022",
+        "file": "developer-tools.md"
     },
     {
         "title": "What a Refrigerator Taught Me About Building an AI Troubleshooting Tool",
@@ -7909,6 +7953,17 @@
         "file": "understanding-the-rationale-behind-a-rule-when-trying-to-circumvent-it.md"
     },
     {
+        "title": "Облачный хостинг для Битрикс24 и веб-проектов: на что смотреть при выборе провайдера",
+        "slug": "24",
+        "author": "Глеб Лужбин S-WEBS",
+        "source": "devto_webdev",
+        "published": "Mon, 13 Jul 2026 09:25:13 +0000",
+        "description": "Свой сервер в офисе — это не только железо в стойке, но и кондиционер, ИБП, админ в штате и ночные звонки «всё упало». Для большинства компаний, которые рабо...",
+        "keywords": "tier, cloud, vps, sla, cpu, ram, vcpu, iii",
+        "generated": "2026-07-13T09:37:40.646613",
+        "file": "24.md"
+    },
+    {
         "title": "Your Face Is Forever. Your Boss's Insurance Isn't.",
         "slug": "your-face-is-forever-your-bosss-insurance-isnt",
         "author": "CaraComp",
@@ -8483,12 +8538,12 @@
     {
         "title": "Title",
         "slug": "title",
-        "author": "enadoc2 temp",
-        "source": "devto_python",
-        "published": "Wed, 08 Jul 2026 07:36:16 +0000",
-        "description": "Title vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare Image generated via Midjourney by author But tbh I dont even know where to start. So...",
-        "keywords": "cache, corruption, error, vllm, but, because, get, issue",
-        "generated": "2026-07-08T08:37:13.650428",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Mon, 13 Jul 2026 09:30:25 +0000",
+        "description": "We need to write a concise 400-500 word educational Dev.to article for professionals about AI automation in AI for independent language localization speciali...",
+        "keywords": "idiom, loop, bank, count, tool, can, region, words",
+        "generated": "2026-07-13T09:37:40.648483",
         "file": "title.md"
     },
     {
@@ -10008,6 +10063,17 @@
         "keywords": "intelligence, threat, security, sentinel, apex, organizations, cyber, threats",
         "generated": "2026-06-24T19:54:11.167933",
         "file": "cyberdudebivash-sentinel-apex-enterprise-threat-intelligence-at-global-scale.md"
+    },
+    {
+        "title": "How to Extract Google Maps Results with Python and a SERP API",
+        "slug": "how-to-extract-google-maps-results-with-python-and-a-serp-api",
+        "author": "Cecilia Hill",
+        "source": "devto_python",
+        "published": "Mon, 13 Jul 2026 09:25:38 +0000",
+        "description": "Google Maps results are useful for a lot of projects. Not only for SEO people. Developers may need Google Maps data for: local SEO tracking business director...",
+        "keywords": "location, get, item, query, value, maps, return, google",
+        "generated": "2026-07-13T09:37:40.644997",
+        "file": "how-to-extract-google-maps-results-with-python-and-a-serp-api.md"
     },
     {
         "title": "Why Custom Web Applications Are Worth Building Instead of Buying",
@@ -11616,6 +11682,17 @@
         "file": "how-many-of-the-170k-english-words-do-you-know.md"
     },
     {
+        "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+        "slug": "interrail-6379km-and-13-countries-over-7-weeks",
+        "author": "coinfused",
+        "source": "hackernews",
+        "published": "Mon, 13 Jul 2026 08:04:30 +0000",
+        "description": "Article URL: https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/ Comments URL: https://news.ycombinat...",
+        "keywords": "interrail, countries, over, weeks, url, https, comments, article",
+        "generated": "2026-07-13T09:37:40.643328",
+        "file": "interrail-6379km-and-13-countries-over-7-weeks.md"
+    },
+    {
         "title": "Creating an AI Note Taker with Gemini API",
         "slug": "creating-an-ai-note-taker-with-gemini-api",
         "author": "VANSH SHAH",
@@ -12329,6 +12406,17 @@
         "keywords": "txt, llms, your, robots, you, content, agent, user",
         "generated": "2026-06-10T04:15:10.540956",
         "file": "llmstxt-explained-the-robotstxt-for-ai-search-with-nextjs-code.md"
+    },
+    {
+        "title": "US AI Pulse: When AI Overthinks — The Curious Case of Claude Code's 33k Tokens",
+        "slug": "us-ai-pulse-when-ai-overthinks-the-curious-case-of-claude-codes-33k-tokens",
+        "author": "Pixelwitch",
+        "source": "devto_ai",
+        "published": "Mon, 13 Jul 2026 09:31:41 +0000",
+        "description": "US AI Pulse: When AI Overthinks — The Curious Case of Claude Code's 33k Tokens In a world where AI is supposed to make our lives easier, sometimes it feels l...",
+        "keywords": "code, claude, tokens, user, opencode, when, case, between",
+        "generated": "2026-07-13T09:37:40.647878",
+        "file": "us-ai-pulse-when-ai-overthinks-the-curious-case-of-claude-codes-33k-tokens.md"
     },
     {
         "title": "China AI vs US AI: A Freelance Dev's Honest Bill-by-Bill Comparison",
@@ -13528,6 +13616,17 @@
         "keywords": "grid, css, layout, container, queries, layouts, subgrid, use",
         "generated": "2026-06-06T13:56:22.892347",
         "file": "advanced-css-layouts-container-queries-grid-and-subgrid-in-practice.md"
+    },
+    {
+        "title": "Berkshire's $397B Bet Against an Overheated Market",
+        "slug": "berkshires-397b-bet-against-an-overheated-market",
+        "author": "emsidisii",
+        "source": "hackernews",
+        "published": "Mon, 13 Jul 2026 08:15:52 +0000",
+        "description": "Article URL: https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/ Comments URL: https://news.ycombina...",
+        "keywords": "bet, against, overheated, market, url, https, com, comments",
+        "generated": "2026-07-13T09:37:40.643236",
+        "file": "berkshires-397b-bet-against-an-overheated-market.md"
     },
     {
         "title": "How I Built a Premium AI SaaS Dashboard with Next.js 15, Tailwind CSS and Recharts",
@@ -17117,6 +17216,17 @@
         "file": "i-built-32-free-browser-based-tools-no-signup-no-limits-no-file-uploads.md"
     },
     {
+        "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+        "slug": "zig-creator-calls-spade-a-spade-anthropic-blows-smoke",
+        "author": "crowdhailer",
+        "source": "hackernews",
+        "published": "Mon, 13 Jul 2026 08:39:39 +0000",
+        "description": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/ Comments URL: https://news.ycombinator.com/item?id=48889637 Points: 85 # Comments: 41",
+        "keywords": "spade, creator, calls, url, https, comments, zig, anthropic",
+        "generated": "2026-07-13T09:37:40.643073",
+        "file": "zig-creator-calls-spade-a-spade-anthropic-blows-smoke.md"
+    },
+    {
         "title": "Samsung Galaxy S22 Ultra Screen Repair in Melbourne and Greensborough",
         "slug": "samsung-galaxy-s22-ultra-screen-repair-in-melbourne-and-greensborough",
         "author": "cityphones",
@@ -18107,6 +18217,17 @@
         "file": "the-enterprise-software-industry-has-been-solving-yesterdays-problems.md"
     },
     {
+        "title": "Your Pipeline Is 12.2h Behind: Catching Stock Market Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-122h-behind-catching-stock-market-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 13 Jul 2026 09:02:53 +0000",
+        "description": "Your Pipeline Is 12.2h Behind: Catching Stock Market Sentiment Leads with Pulsebit We recently noticed a striking anomaly: a 24h momentum spike of +0.575 in ...",
+        "keywords": "sentiment, stock, market, pulsebit, articles, json, your, you",
+        "generated": "2026-07-13T09:37:40.645731",
+        "file": "your-pipeline-is-122h-behind-catching-stock-market-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "The Competitive Moat That AI Can't Replicate",
         "slug": "the-competitive-moat-that-ai-cant-replicate",
         "author": "speckx",
@@ -18402,6 +18523,17 @@
         "keywords": "tickets, cache, api, ticket, str, batch, self, but",
         "generated": "2026-06-21T14:23:01.491355",
         "file": "how-i-slashed-llm-api-costs-by-70-with-batching-no-magic.md"
+    },
+    {
+        "title": "How to Add Your First Products to an Online Store: A Step-by-Step Guide",
+        "slug": "how-to-add-your-first-products-to-an-online-store-a-step-by-step-guide",
+        "author": "Amanur Rahman",
+        "source": "devto_webdev",
+        "published": "Mon, 13 Jul 2026 09:25:31 +0000",
+        "description": "Adding your first products the wrong way is one of the quietest ways new stores lose sales — blurry photos, missing descriptions, and confusing categories pu...",
+        "keywords": "step, first, products, guide, one, photos, you, product",
+        "generated": "2026-07-13T09:37:40.646452",
+        "file": "how-to-add-your-first-products-to-an-online-store-a-step-by-step-guide.md"
     },
     {
         "title": "Bring your own AI: letting users pick from 13 providers (and run models locally)",
@@ -21220,6 +21352,17 @@
         "file": "how-to-buy-cheap-discord-server-boosts-a-complete-guide.md"
     },
     {
+        "title": "Backtrack-Free Cursive",
+        "slug": "backtrack-free-cursive",
+        "author": "dmit",
+        "source": "hackernews",
+        "published": "Mon, 13 Jul 2026 06:08:12 +0000",
+        "description": "Article URL: https://mmapped.blog/posts/52-backtrack-free-cursive Comments URL: https://news.ycombinator.com/item?id=48888518 Points: 78 # Comments: 32",
+        "keywords": "backtrack, free, cursive, url, https, comments, article, mmapped",
+        "generated": "2026-07-13T09:37:40.643477",
+        "file": "backtrack-free-cursive.md"
+    },
+    {
         "title": "Build a Job Market Intelligence Tool with SERP API",
         "slug": "build-a-job-market-intelligence-tool-with-serp-api",
         "author": "LEO o",
@@ -23145,6 +23288,17 @@
         "file": "i-ran-two-ai-builders-in-parallel-at-a-solo-hackathon-heres-what-the-429-errors-revealed.md"
     },
     {
+        "title": "Python Packaging: How to Publish Your First pip Package",
+        "slug": "python-packaging-how-to-publish-your-first-pip-package",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 13 Jul 2026 09:03:34 +0000",
+        "description": "Python Packaging: How to Publish Your First pip Package Making Your Code Shareable: A Step-by-Step Guide to Publishing Your First pip Package Have you ever w...",
+        "keywords": "your, package, pip, you, python, setup, file, code",
+        "generated": "2026-07-13T09:37:40.645424",
+        "file": "python-packaging-how-to-publish-your-first-pip-package.md"
+    },
+    {
         "title": "Your Code Is Being Replaced -And The Scary Part? You're Helping It Happen.",
         "slug": "your-code-is-being-replaced-and-the-scary-part-youre-helping-it-happen",
         "author": "Emma Schmidt",
@@ -23154,6 +23308,17 @@
         "keywords": "not, code, developers, typescript, action, you, now, agentic",
         "generated": "2026-06-22T12:15:23.446928",
         "file": "your-code-is-being-replaced-and-the-scary-part-youre-helping-it-happen.md"
+    },
+    {
+        "title": "Environmental Benefits of Wastewater Recycling",
+        "slug": "environmental-benefits-of-wastewater-recycling",
+        "author": "WTE Infra Projects Pvt. Ltd",
+        "source": "devto_webdev",
+        "published": "Mon, 13 Jul 2026 09:24:28 +0000",
+        "description": "Water is easy to take for granted when it flows from a tap, runs through a factory, or supports everyday operations without interruption. The real concern us...",
+        "keywords": "water, wastewater, can, recycling, treated, treatment, may, more",
+        "generated": "2026-07-13T09:37:40.647140",
+        "file": "environmental-benefits-of-wastewater-recycling.md"
     },
     {
         "title": "Claude Fable 5",
@@ -25785,6 +25950,17 @@
         "file": "your-ai-agent-forgets-your-repo-every-session-give-the-repo-a-brain.md"
     },
     {
+        "title": "Quadrupling code performance with a useless if",
+        "slug": "quadrupling-code-performance-with-a-useless-if",
+        "author": "birdculture",
+        "source": "hackernews",
+        "published": "Mon, 13 Jul 2026 07:37:06 +0000",
+        "description": "Article URL: https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/ Comments URL: https://news.ycombinator.com/item?id=48889148 Point...",
+        "keywords": "quadrupling, code, performance, useless, url, https, comments, article",
+        "generated": "2026-07-13T09:37:40.643405",
+        "file": "quadrupling-code-performance-with-a-useless-if.md"
+    },
+    {
         "title": "ΠFS",
         "slug": "fs",
         "author": "helterskelter",
@@ -26599,6 +26775,17 @@
         "file": "show-hn-chiptune-radio.md"
     },
     {
+        "title": "I Was Tired of Boring AI Chats, So I Built an AI Playground That Actually Feels Fun",
+        "slug": "i-was-tired-of-boring-ai-chats-so-i-built-an-ai-playground-that-actually-feels-fun",
+        "author": "Aarti Jangid",
+        "source": "devto_ai",
+        "published": "Mon, 13 Jul 2026 09:33:10 +0000",
+        "description": "Hi, I'm a software developer, and like many people, I've spent countless hours experimenting with AI tools. At first, it was exciting. I'd ask questions, gen...",
+        "keywords": "you, what, one, they, users, more, built, tools",
+        "generated": "2026-07-13T09:37:40.647457",
+        "file": "i-was-tired-of-boring-ai-chats-so-i-built-an-ai-playground-that-actually-feels-fun.md"
+    },
+    {
         "title": "当国家标准开始为 Agent 立规矩，FROST 为什么说自己早就准备好了？",
         "slug": "agent-frost",
         "author": "llimage",
@@ -27114,6 +27301,17 @@
         "keywords": "url, https, comments, knowledge, distillation, black, box, large",
         "generated": "2026-06-29T04:27:36.037259",
         "file": "knowledge-distillation-of-black-box-large-language-models-2024.md"
+    },
+    {
+        "title": "Changes to LLM pricing: Inceptron, Novita and StreamLake",
+        "slug": "changes-to-llm-pricing-inceptron-novita-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Mon, 13 Jul 2026 09:32:47 +0000",
+        "description": "Model price changes detected for Inceptron, Novita and StreamLake. Details below.",
+        "keywords": "changes, inceptron, novita, streamlake, llm, pricing, model, price",
+        "generated": "2026-07-13T09:37:40.647543",
+        "file": "changes-to-llm-pricing-inceptron-novita-and-streamlake.md"
     },
     {
         "title": "I Built the Same Hash Utility for Browser, Node, and Python",
@@ -30491,6 +30689,17 @@
         "keywords": "age, reading, url, https, com, comments, over, article",
         "generated": "2026-07-08T14:27:37.701985",
         "file": "the-age-of-reading-is-over.md"
+    },
+    {
+        "title": "Expert Patios, Block Paving & Landscaping in Wolverhampton & West Bromwich:",
+        "slug": "expert-patios-block-paving-landscaping-in-wolverhampton-west-bromwich",
+        "author": "RIO Property and Developers",
+        "source": "devto_ai",
+        "published": "Mon, 13 Jul 2026 09:32:06 +0000",
+        "description": "https://medium.com/@riopropertydevelopers/quality-outdoor-transformations-by-rio-property-developers-and-driveways-3301c7111abc Transform your outdoor space ...",
+        "keywords": "west, bromwich, block, paving, wolverhampton, driveways, patios, landscaping",
+        "generated": "2026-07-13T09:37:40.647638",
+        "file": "expert-patios-block-paving-landscaping-in-wolverhampton-west-bromwich.md"
     },
     {
         "title": "Dua Lipa opens library for banned and censored books in Portugal",
