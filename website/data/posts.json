@@ -2332,6 +2332,17 @@
         "file": "where-to-find-the-colors-your-screen-cant-show-you.md"
     },
     {
+        "title": "Twitter Marketing for Crypto Projects: How to Build an Active Web3 Community",
+        "slug": "twitter-marketing-for-crypto-projects-how-to-build-an-active-web3-community",
+        "author": "Valerie Snyder",
+        "source": "devto_ai",
+        "published": "Tue, 14 Jul 2026 13:48:28 +0000",
+        "description": "The cryptocurrency industry moves fast, and Twitter has become one of the most important platforms for Web3 projects, NFT teams, blockchain startups, and cry...",
+        "keywords": "crypto, twitter, community, your, project, marketing, cybermindpro, helps",
+        "generated": "2026-07-14T13:57:07.332072",
+        "file": "twitter-marketing-for-crypto-projects-how-to-build-an-active-web3-community.md"
+    },
+    {
         "title": "How to Earn a Billion Dollars",
         "slug": "how-to-earn-a-billion-dollars",
         "author": "kingstoned",
@@ -7997,6 +8008,17 @@
         "file": "anatomy-of-a-failed-nation-state-attack.md"
     },
     {
+        "title": "Serena Williams Fit-Dex",
+        "slug": "serena-williams-fit-dex",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Tue, 14 Jul 2026 13:12:55 +0000",
+        "description": "Article URL: https://serena-williams-fitdex.netlify.app/ Comments URL: https://news.ycombinator.com/item?id=48906339 Points: 3 # Comments: 0",
+        "keywords": "serena, williams, url, https, comments, fit, dex, article",
+        "generated": "2026-07-14T13:57:07.325702",
+        "file": "serena-williams-fit-dex.md"
+    },
+    {
         "title": "Armstrong Effect",
         "slug": "armstrong-effect",
         "author": "userbinator",
@@ -9108,6 +9130,17 @@
         "file": "i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark.md"
     },
     {
+        "title": "How to Setup a Firebase Account for FCM Notifications: A Step-by-Step Guide",
+        "slug": "how-to-setup-a-firebase-account-for-fcm-notifications-a-step-by-step-guide",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Tue, 14 Jul 2026 13:53:46 +0000",
+        "description": "Before you can send a single push notification to a user's device, you need infrastructure. You need a service that can act as the post office, accepting mes...",
+        "keywords": "you, project, firebase, your, fcm, backend, service, key",
+        "generated": "2026-07-14T13:57:07.326662",
+        "file": "how-to-setup-a-firebase-account-for-fcm-notifications-a-step-by-step-guide.md"
+    },
+    {
         "title": "My 'Incident-to-PR Autopilot' Never Actually Opened the PR. I Finally Finished It.",
         "slug": "my-incident-to-pr-autopilot-never-actually-opened-the-pr-i-finally-finished-it",
         "author": "Aliza Ali",
@@ -9909,6 +9942,17 @@
         "keywords": "round, app, troubleshooting, mobile, com, buffer, source, network",
         "generated": "2026-06-12T20:19:14.997952",
         "file": "round-2-buffer-discovery-map-app-source-checks-and-mobile-network-troubleshooting.md"
+    },
+    {
+        "title": "Serverless Automation: Scheduling Python Scripts with Google Cloud",
+        "slug": "serverless-automation-scheduling-python-scripts-with-google-cloud",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Tue, 14 Jul 2026 13:53:03 +0000",
+        "description": "In Part 1 , we se t up the credentials. In Part 2 , we wr ote the Python code to send a notification. But there is a p roblem: The code only runs when you ma...",
+        "keywords": "https, google, search, www, com, logiclooptech, dev, fcm",
+        "generated": "2026-07-14T13:57:07.327531",
+        "file": "serverless-automation-scheduling-python-scripts-with-google-cloud.md"
     },
     {
         "title": "Enhancing LLM Reliability with Evaluation Engineering",
@@ -11374,6 +11418,17 @@
         "file": "agents-are-not-magic-heres-the-boring-infrastructure-that-makes-them-work.md"
     },
     {
+        "title": "Bjj Rounds For Beginners: what we learned building Random Tactical Timer",
+        "slug": "bjj-rounds-for-beginners-what-we-learned-building-random-tactical-timer",
+        "author": "Igor Ganapolsky",
+        "source": "devto_ai",
+        "published": "Tue, 14 Jul 2026 13:51:41 +0000",
+        "description": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics)...",
+        "keywords": "what, random, timer, chore, refresh, review, tactical, analytics",
+        "generated": "2026-07-14T13:57:07.330538",
+        "file": "bjj-rounds-for-beginners-what-we-learned-building-random-tactical-timer.md"
+    },
+    {
         "title": "Vercel AI SDK 6: An Agent Is Just a while Loop",
         "slug": "vercel-ai-sdk-6-an-agent-is-just-a-while-loop",
         "author": "curioustore",
@@ -12197,6 +12252,17 @@
         "keywords": "python, print, lambda, sonuc, sayilar, sorted, veri, map",
         "generated": "2026-06-21T09:58:05.291000",
         "file": "gelimi-veri-ileme-python.md"
+    },
+    {
+        "title": "Serverless Python: Deploying FastAPI to Google Cloud Run with Docker",
+        "slug": "serverless-python-deploying-fastapi-to-google-cloud-run-with-docker",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Tue, 14 Jul 2026 13:53:09 +0000",
+        "description": "Introduction In my previous article , we built a high-performance Async API using FastAPI and SQLAlchemy 2.0. But code that only lives on localhost provides ...",
+        "keywords": "run, docker, cloud, you, your, api, container, logicloop",
+        "generated": "2026-07-14T13:57:07.326993",
+        "file": "serverless-python-deploying-fastapi-to-google-cloud-run-with-docker.md"
     },
     {
         "title": "Spark Connect: Decoupled Client-Server Architecture, gRPC & Multi-Language Sessions",
@@ -13541,6 +13607,17 @@
         "file": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md"
     },
     {
+        "title": "Out of Cash? Grab a Fast $1,500 Crypto Advance Instantly",
+        "slug": "out-of-cash-grab-a-fast-1500-crypto-advance-instantly",
+        "author": "omnilender",
+        "source": "devto_webdev",
+        "published": "Tue, 14 Jul 2026 13:51:35 +0000",
+        "description": "Get a $1,500 instant crypto credit with one-click Web3 approvals. Borrow against your wallet in seconds with no credit checks. ⚡ 🔥 💎👑◢◤ Contact Us ⚡ 🔥 💎👑◢◤ n...",
+        "keywords": "credit, your, crypto, you, collateral, instant, one, click",
+        "generated": "2026-07-14T13:57:07.330062",
+        "file": "out-of-cash-grab-a-fast-1500-crypto-advance-instantly.md"
+    },
+    {
         "title": "AI Agent Memory: How to Make Your Agent Remember Everything",
         "slug": "ai-agent-memory-how-to-make-your-agent-remember-everything",
         "author": "AutoMate AI",
@@ -13968,6 +14045,17 @@
         "keywords": "bet, against, overheated, market, url, https, com, comments",
         "generated": "2026-07-13T09:37:40.643236",
         "file": "berkshires-397b-bet-against-an-overheated-market.md"
+    },
+    {
+        "title": "Building an AI Resume Rewriter That Refuses to Invent Achievements",
+        "slug": "building-an-ai-resume-rewriter-that-refuses-to-invent-achievements",
+        "author": "Shaozhe Zhang",
+        "source": "devto_ai",
+        "published": "Tue, 14 Jul 2026 13:48:46 +0000",
+        "description": "AI is very good at making a resume sound more polished. It is also very good at making an unsupported claim sound completely plausible. That tension is what ...",
+        "keywords": "resume, not, string, user, career, zesume, model, template",
+        "generated": "2026-07-14T13:57:07.331783",
+        "file": "building-an-ai-resume-rewriter-that-refuses-to-invent-achievements.md"
     },
     {
         "title": "How I Built a Premium AI SaaS Dashboard with Next.js 15, Tailwind CSS and Recharts",
@@ -14474,6 +14562,17 @@
         "keywords": "url, https, comments, bottleneck, might, air, room, article",
         "generated": "2026-07-04T13:45:59.766320",
         "file": "the-bottleneck-might-be-the-air-in-the-room.md"
+    },
+    {
+        "title": "Tensor Is the Might",
+        "slug": "tensor-is-the-might",
+        "author": "eatonphil",
+        "source": "hackernews",
+        "published": "Tue, 14 Jul 2026 12:56:21 +0000",
+        "description": "Article URL: https://zserge.com/posts/tensor/ Comments URL: https://news.ycombinator.com/item?id=48906123 Points: 10 # Comments: 1",
+        "keywords": "tensor, url, https, com, comments, might, article, zserge",
+        "generated": "2026-07-14T13:57:07.325997",
+        "file": "tensor-is-the-might.md"
     },
     {
         "title": "The Network Thinks",
@@ -15046,6 +15145,17 @@
         "keywords": "biznode, business, can, agents, https, you, biz, human",
         "generated": "2026-07-07T09:51:54.398465",
         "file": "biznode-pro-bizchannel-decentralized-ad-marketplace-advertise-across-a-network-of-bot-operators.md"
+    },
+    {
+        "title": "The AI Agent Solved Drupal's Easy Problem. Nobody Asked About the Hard One.",
+        "slug": "the-ai-agent-solved-drupals-easy-problem-nobody-asked-about-the-hard-one",
+        "author": "Santiago yie",
+        "source": "devto_ai",
+        "published": "Tue, 14 Jul 2026 13:50:48 +0000",
+        "description": "Drupal now has an AI agent that builds your site by chat. Type a sentence, it wires up a field, spins up a content type, configures a view. Stuff that used t...",
+        "keywords": "drupal, agent, which, work, not, part, now, one",
+        "generated": "2026-07-14T13:57:07.330876",
+        "file": "the-ai-agent-solved-drupals-easy-problem-nobody-asked-about-the-hard-one.md"
     },
     {
         "title": "DocumentDB – a MongoDB compatible open-source database",
@@ -16831,6 +16941,17 @@
         "file": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank.md"
     },
     {
+        "title": "Maximizing Your Cash Reserves: A Fast $1,500 Crypto Lo",
+        "slug": "maximizing-your-cash-reserves-a-fast-1500-crypto-lo",
+        "author": "omnilender",
+        "source": "devto_webdev",
+        "published": "Tue, 14 Jul 2026 13:52:41 +0000",
+        "description": "Borrow $1,500 against your crypto while maximizing cash reserves. Learn a smart lending strategy to unlock liquidity without selling. ⚡ 🔥 💎👑◢◤ Contact Us ⚡ 🔥...",
+        "keywords": "your, you, crypto, loan, cash, borrow, strategy, omnilender",
+        "generated": "2026-07-14T13:57:07.329412",
+        "file": "maximizing-your-cash-reserves-a-fast-1500-crypto-lo.md"
+    },
+    {
         "title": "From $0 to $2,400/Month: My AI Affiliate Journey Built on Community Trust",
         "slug": "from-0-to-2400month-my-ai-affiliate-journey-built-on-community-trust",
         "author": "gentle",
@@ -17951,6 +18072,17 @@
         "keywords": "llm, robotics, models, reasoning, core, integrating, large, production",
         "generated": "2026-07-12T13:38:55.222296",
         "file": "integrating-llm-with-robotics-a-comprehensive-guide.md"
+    },
+    {
+        "title": "Mastering FastAPI Error Handling Best Practices – A Hands‑On Guide",
+        "slug": "mastering-fastapi-error-handling-best-practices-a-handson-guide",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Tue, 14 Jul 2026 13:52:20 +0000",
+        "description": "Introduction When you build APIs with FastAPI , you quickly realize that graceful error handling is as important as the business logic itself. Poorly handled...",
+        "keywords": "fastapi, error, import, app, response, request, json, you",
+        "generated": "2026-07-14T13:57:07.328755",
+        "file": "mastering-fastapi-error-handling-best-practices-a-handson-guide.md"
     },
     {
         "title": "What Makes a Top Python Development Company Stand Out?",
@@ -21132,6 +21264,17 @@
         "file": "your-pipeline-is-152h-behind-catching-economy-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Beautiful Type Erasure with C++26 Reflection",
+        "slug": "beautiful-type-erasure-with-c26-reflection",
+        "author": "RyanJK5",
+        "source": "hackernews",
+        "published": "Tue, 14 Jul 2026 12:40:50 +0000",
+        "description": "Article URL: https://ryanjk5.github.io/posts/rjk-duck/ Comments URL: https://news.ycombinator.com/item?id=48905914 Points: 26 # Comments: 7",
+        "keywords": "url, https, comments, beautiful, type, erasure, reflection, article",
+        "generated": "2026-07-14T13:57:07.326246",
+        "file": "beautiful-type-erasure-with-c26-reflection.md"
+    },
+    {
         "title": "Python Metaclasses Explained: Advanced OOP",
         "slug": "python-metaclasses-explained-advanced-oop",
         "author": "qing",
@@ -22177,6 +22320,17 @@
         "file": "launching-my-dev-journey.md"
     },
     {
+        "title": "O Teste de Amostragem de Conversas Como Termômetro Comercial",
+        "slug": "o-teste-de-amostragem-de-conversas-como-termmetro-comercial",
+        "author": "Erick Martins",
+        "source": "devto_webdev",
+        "published": "Tue, 14 Jul 2026 13:54:21 +0000",
+        "description": "O dono da empresa não precisa ler milhares de mensagens para saber se o time comercial atua bem. A leitura aleatória e pontual de apenas 5 diálogos específic...",
+        "keywords": "para, que, amostragem, conversas, como, comercial, uma, teste",
+        "generated": "2026-07-14T13:57:07.328975",
+        "file": "o-teste-de-amostragem-de-conversas-como-termmetro-comercial.md"
+    },
+    {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",
         "slug": "strategy-pattern-in-practice-replacing-conditional-chains-with-composable-algorithms",
         "author": "Rizwan Saleem",
@@ -22714,6 +22868,17 @@
         "keywords": "mobile, agentic, anthropic, control, claude, cowork, tasks, first",
         "generated": "2026-06-27T08:43:42.525976",
         "file": "first-look-anthropic-tests-mobile-remote-control-for-claude-cowork-agentic-desktop-tasks.md"
+    },
+    {
+        "title": "Fix AsyncSession Errors in FastAPI (SQLAlchemy 2.0 Guide)",
+        "slug": "fix-asyncsession-errors-in-fastapi-sqlalchemy-20-guide",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Tue, 14 Jul 2026 13:52:25 +0000",
+        "description": "Introduction Building async APIs with FastAPI and SQLAlchemy 2.0 looks straightforward in tutorials, until you deploy to production. Suddenly you start seein...",
+        "keywords": "async, fastapi, sqlalchemy, task, import, models, asyncsession, you",
+        "generated": "2026-07-14T13:57:07.328041",
+        "file": "fix-asyncsession-errors-in-fastapi-sqlalchemy-20-guide.md"
     },
     {
         "title": "Stegachirp: Hide Messages in Audio Files Using Pure Python (No NumPy, No SciPy)",
@@ -26852,6 +27017,17 @@
         "file": "my-journey-as-a-full-stack-developer.md"
     },
     {
+        "title": "Proof of Care in the Age of A.I",
+        "slug": "proof-of-care-in-the-age-of-ai",
+        "author": "jfil",
+        "source": "hackernews",
+        "published": "Tue, 14 Jul 2026 12:56:25 +0000",
+        "description": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 16 # Comments: 5",
+        "keywords": "care, url, https, com, comments, proof, age, article",
+        "generated": "2026-07-14T13:57:07.325874",
+        "file": "proof-of-care-in-the-age-of-ai.md"
+    },
+    {
         "title": "Buy Verified PayPal Accounts with Satisfaction Guarantee",
         "slug": "buy-verified-paypal-accounts-with-satisfaction-guarantee",
         "author": "jamisami",
@@ -30196,6 +30372,17 @@
         "file": "i-built-frogger-in-120-lines-of-vanilla-javascript.md"
     },
     {
+        "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+        "slug": "show-hn-i-rl-trained-an-agent-that-trains-models-with-rl-for-13k",
+        "author": "Danau5tin",
+        "source": "hackernews",
+        "published": "Tue, 14 Jul 2026 12:41:25 +0000",
+        "description": "Article URL: https://github.com/Danau5tin/ai-trains-ai Comments URL: https://news.ycombinator.com/item?id=48905919 Points: 24 # Comments: 4",
+        "keywords": "trains, url, https, com, comments, show, trained, agent",
+        "generated": "2026-07-14T13:57:07.326124",
+        "file": "show-hn-i-rl-trained-an-agent-that-trains-models-with-rl-for-13k.md"
+    },
+    {
         "title": "Python Decorators Explained Simply",
         "slug": "python-decorators-explained-simply",
         "author": "qing",
@@ -31404,6 +31591,17 @@
         "keywords": "state, one, truth, query, react, not, redux, zustand",
         "generated": "2026-06-21T09:58:05.291456",
         "file": "the-question-that-actually-decides-your-state-stack-its-not-redux-or-react-query.md"
+    },
+    {
+        "title": "Introducing Beautifyx: The AI-Powered Salon Management Software",
+        "slug": "introducing-beautifyx-the-ai-powered-salon-management-software",
+        "author": "Beautifyx",
+        "source": "devto_webdev",
+        "published": "Tue, 14 Jul 2026 13:52:25 +0000",
+        "description": "Hello DEV Community! I am excited to share a project I have been working on lately. It is called Beautifyx, which is an AI-powered salon management and onlin...",
+        "keywords": "beautifyx, salon, management, booking, can, powered, online, client",
+        "generated": "2026-07-14T13:57:07.329608",
+        "file": "introducing-beautifyx-the-ai-powered-salon-management-software.md"
     },
     {
         "title": "5 Morning Habits That Actually Move the Needle on Creativity and Focus",
