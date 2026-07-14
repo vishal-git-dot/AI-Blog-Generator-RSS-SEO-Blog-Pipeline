@@ -1,0 +1,34 @@
+---
+title: "Your email passes SPF and DKIM but still fails DMARC. Here's why"
+slug: "your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why"
+author: "Vadim Ivanov"
+source: "devto_webdev"
+published: "Tue, 14 Jul 2026 19:16:58 +0000"
+description: "Your email passes SPF and DKIM but still fails DMARC. Here's why You set up SPF. You set up DKIM. You send a test message and both come back pass. Then your ..."
+keywords: "your, spf, domain, dkim, dmarc, you, one, pass"
+generated: "2026-07-14T19:26:51.412977"
+---
+
+# Your email passes SPF and DKIM but still fails DMARC. Here's why
+
+## Overview
+
+Your email passes SPF and DKIM but still fails DMARC. Here's why You set up SPF. You set up DKIM. You send a test message and both come back pass. Then your DMARC reports show fail, or a receiver quarantines the mail anyway. It reads like a contradiction, and it's the single most common DMARC question I run into. The short version: DMARC doesn't care that SPF or DKIM passed. It cares that they passed for your domain , the one in the From address your recipient actually sees. That extra requirement is called alignment, and it's where almost every "passes auth but fails DMARC" case lives. What DMARC actually checks SPF and DKIM each authenticate a domain, but not always the domain you'd assume. SPF authenticates the Return-Path, the envelope sender (RFC5321.MailFrom) where bounces go. It has nothing to do with the visible From address. DKIM authenticates whatever domain sits in the signature's d= tag. That can be your domain, or it can be your email provider's. DMARC sits on top and adds one rule: at least one of those authenticated domains has to align with the domain in the visible From header. Per RFC 7489, a message passes DMARC when at least one mechanism produces a pass, and that pass is based on an identifier that is in alignment. One aligned pass is enough. You don't need both. So you can have SPF pass for a Return-Path of bounces.sendgrid.net , and a valid DKIM signature with d=sendgrid.net , and still fail DMARC, because neither of those is your domain and your From header says you@yourdomain.com . Relaxed vs strict, and the organizational domain Alignment has two modes, set by the aspf and adkim tags in your DMARC record. Both default to relaxed. Relaxed (the default): the two domains only need to share the same organizational domain, the registrable part. news.yourdomain.com aligns with yourdomain.com . Strict: the fully qualified names must match exactly, so news.yourdomain.com would not align with yourdomain.com . That organizational domain is worked out using the Public Suffix List, which is how a checker knows yourdomain.co.uk is the registrable name rather than co.uk . This matters more than it sounds: I've seen local DMARC filters reject legitimate subdomain mail purely because they had no Public Suffix List configured and couldn't reduce the two names to the same org domain. Unless you deliberately set aspf=s or adkim=s , you are in relaxed mode, which is more forgiving than most people expect. The failure patterns that actually bite Nearly every real "passes auth, fails DMARC" case is one of these four. 1. Your provider sends with its own Return-Path and doesn't sign as you. This is the big one. Marketing and transactional platforms send from their own bounce domain, so SPF authenticates their domain. If they also sign with d= set to their domain instead of yours, nothing aligns with your From, and DMARC fails even though SPF and DKIM both technically passed. The fix lives in the platform: either a custom Return-Path under your own domain so SPF aligns, or an aligned DKIM signature with d=yourdomain.com . Most serious platforms support at least one. Turn it on. 2. Forwarding. A forwarder relays your message from its own servers, so SPF now checks the forwarder's IP against your SPF record and fails. SPF alignment is gone. If your only DKIM signature also got mangled in transit (a footer appended, headers rewritten), DKIM breaks too, and a message you genuinely sent fails DMARC. This is exactly why a DKIM signature that survives forwarding is worth more to DMARC than SPF is. 3. A broken DKIM signature leaves only SPF, and SPF doesn't align. If your aligned DKIM signature fails to verify, maybe a rotated key, a DNS TXT record split badly, or an intermittent DNS lookup failure, DMARC falls back to SPF. If SPF passes only for a non-aligned Return-Path, you fail. The pass you saw in a quick test was the wrong mechanism carrying you. 4. Strict mode you didn't mean to set. If aspf=s or adkim=s is in your record and you send from a subdomain, or your provider signs with the org domain while you send from a subdomain, exact-match rejects an alignment that relaxed mode would have accepted. How to diagnose it in about two minutes Open the raw headers of a message that failed and read the Authentication-Results line. Don't stop at spf=pass and dkim=pass . Look at the domains next to them. For SPF, compare smtp.mailfrom (the Return-Path) with your From domain. For DKIM, compare header.d (the d= tag) with your From domain. If neither matches your From domain, even under the relaxed org-domain rule, that's your answer: authenticated, but not aligned. If picking through raw headers by hand isn't appealing, an email header analyzer will pull those domains out and show you whether SPF and DKIM line up with your From. Your DMARC aggregate reports (the rua address) show the same thing at scale. They break every sending source down by whether SPF and DKIM aligned, which is the fastest way to find the one stream that's failing. The fix, in one line Get one identifier to align with your From domain, and prefer DKIM. An aligned DKIM signature with d= set to your domain survives forwarding and doesn't depend on the Return-Path, so it is the sturdier of the two. Align SPF as well if your platform makes it easy with a custom Return-Path under your domain, but if you only fix one thing, make it DKIM. Alignment isn't DMARC being pedantic. It is the whole point of the standard. SPF and DKIM prove that some domain authorized the mail; alignment is what ties that proof to the name your recipient actually reads in the From line. Without it, a spammer could pass their own SPF and DKIM all day long and still drop your brand into the From field.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/vadimivanov/your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why-58ca
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
