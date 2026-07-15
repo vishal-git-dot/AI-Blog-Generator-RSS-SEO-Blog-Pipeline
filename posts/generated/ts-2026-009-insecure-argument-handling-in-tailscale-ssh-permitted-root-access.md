@@ -4,16 +4,16 @@ slug: "ts-2026-009-insecure-argument-handling-in-tailscale-ssh-permitted-root-ac
 author: "jervant"
 source: "hackernews"
 published: "Wed, 15 Jul 2026 01:08:26 +0000"
-description: "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 45 # Comments: 19"
+description: "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 131 # Comments: 59"
 keywords: "tailscale, url, https, com, comments, insecure, argument, handling"
-generated: "2026-07-15T02:52:14.903650"
+generated: "2026-07-15T08:23:28.882990"
 ---
 
 # TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access
 
 ## Overview
 
-Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 45 # Comments: 19
+Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 131 # Comments: 59
 
 ## Key Insights
 

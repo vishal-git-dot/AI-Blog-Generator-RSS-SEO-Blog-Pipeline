@@ -4,16 +4,16 @@ slug: "solving-20-erds-problems-with-20-codex-accounts-running-in-parallel"
 author: "colin7snyder"
 source: "hackernews"
 published: "Wed, 15 Jul 2026 00:15:56 +0000"
-description: "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 36 # Comments: 9"
+description: "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 119 # Comments: 52"
 keywords: "url, https, com, comments, solving, problems, codex, accounts"
-generated: "2026-07-15T02:52:14.903889"
+generated: "2026-07-15T08:23:28.883152"
 ---
 
 # Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel
 
 ## Overview
 
-Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 36 # Comments: 9
+Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 119 # Comments: 52
 
 ## Key Insights
 

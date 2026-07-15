@@ -4378,6 +4378,17 @@
         "file": "doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat.md"
     },
     {
+        "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
+        "slug": "nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-should-know",
+        "author": "Manoj Khatri",
+        "source": "devto_webdev",
+        "published": "Wed, 15 Jul 2026 08:13:21 +0000",
+        "description": "Stop memorizing the Event Loop. Start understanding why Node.js works. When developers start learning Node.js, they're usually told things like: Node.js is ...",
+        "keywords": "node, javascript, system, libuv, you, thread, operating, loop",
+        "generated": "2026-07-15T08:23:28.886563",
+        "file": "nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-should-know.md"
+    },
+    {
         "title": "I Tested DeepSeek, Qwen, Kimi And GLM Heres The Real Winner",
         "slug": "i-tested-deepseek-qwen-kimi-and-glm-heres-the-real-winner",
         "author": "eagerspark",
@@ -5564,6 +5575,17 @@
         "keywords": "python, memory, cpython, how, guide, you, repository, under",
         "generated": "2026-06-28T14:00:55.757611",
         "file": "found-a-hidden-gem-github-repo-explaining-cpython-internals-and-memory-management.md"
+    },
+    {
+        "title": "Build Advanced Ollama Chatbots with Python, LLM, and API Integrations",
+        "slug": "build-advanced-ollama-chatbots-with-python-llm-and-api-integrations",
+        "author": "Mustafa Yılmaz",
+        "source": "devto_ai",
+        "published": "Wed, 15 Jul 2026 08:21:36 +0000",
+        "description": "Build Advanced Ollama Chatbots with Python, LLM, and API Integrations Introduction In this article, we will explore how to build advanced Ollama chatbots usi...",
+        "keywords": "ollama, api, llm, dialogflow, conversational, python, chatbot, your",
+        "generated": "2026-07-15T08:23:28.889639",
+        "file": "build-advanced-ollama-chatbots-with-python-llm-and-api-integrations.md"
     },
     {
         "title": "The content audit that didn't need me to build a scraper",
@@ -8294,6 +8316,17 @@
         "file": "ben-bernanke-joins-anthropic-oversight-trust.md"
     },
     {
+        "title": "while loops in Python: repetition with a condition",
+        "slug": "while-loops-in-python-repetition-with-a-condition",
+        "author": "Javi Palacios",
+        "source": "devto_python",
+        "published": "Wed, 15 Jul 2026 08:05:48 +0000",
+        "description": "Picture this: you ask the user to type a number between 1 and 10. You write the input , check with an if whether it's in range, and if it isn't... what do yo...",
+        "keywords": "you, while, number, loop, print, condition, attempts, when",
+        "generated": "2026-07-15T08:23:28.884637",
+        "file": "while-loops-in-python-repetition-with-a-condition.md"
+    },
+    {
         "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
         "slug": "launch-hn-parsewise-yc-p25-reason-across-documents-with-an-api",
         "author": "gergelycsegzi",
@@ -8860,9 +8893,9 @@
         "author": "jervant",
         "source": "hackernews",
         "published": "Wed, 15 Jul 2026 01:08:26 +0000",
-        "description": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 45 # Comments: 19",
+        "description": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 131 # Comments: 59",
         "keywords": "tailscale, url, https, com, comments, insecure, argument, handling",
-        "generated": "2026-07-15T02:52:14.903650",
+        "generated": "2026-07-15T08:23:28.882990",
         "file": "ts-2026-009-insecure-argument-handling-in-tailscale-ssh-permitted-root-access.md"
     },
     {
@@ -9183,6 +9216,17 @@
         "keywords": "url, https, comments, what, nice, windows, article, movq",
         "generated": "2026-06-18T15:38:46.159120",
         "file": "what-was-nice-about-the-ui-of-windows-2000.md"
+    },
+    {
+        "title": "H2A2H Manifesto",
+        "slug": "h2a2h-manifesto",
+        "author": "suissAI",
+        "source": "devto_ai",
+        "published": "Wed, 15 Jul 2026 08:18:24 +0000",
+        "description": "Human-to-Agent-to-Agent-to-Human The next era of computing will not be defined solely by humans using software. Nor will it be defined solely by agents execu...",
+        "keywords": "agents, human, agent, will, not, every, they, which",
+        "generated": "2026-07-15T08:23:28.893420",
+        "file": "h2a2h-manifesto.md"
     },
     {
         "title": "2-Minute Guide: dataclasses in Python",
@@ -9757,6 +9801,17 @@
         "file": "vllm-vs-sglang-architectural-deepdive-kvcache-pinning-and-distributed-inference-at-scale.md"
     },
     {
+        "title": "Build a Profit-Generating AI Agent with LangChain: A Step-by-Step Tutorial",
+        "slug": "build-a-profit-generating-ai-agent-with-langchain-a-step-by-step-tutorial",
+        "author": "Caper B",
+        "source": "devto_python",
+        "published": "Wed, 15 Jul 2026 07:53:40 +0000",
+        "description": "Build a Profit-Generating AI Agent with LangChain: A Step-by-Step Tutorial LangChain is a powerful framework for building AI-powered applications, and in thi...",
+        "keywords": "agent, content, self, langchain, can, step, our, generate",
+        "generated": "2026-07-15T08:23:28.885420",
+        "file": "build-a-profit-generating-ai-agent-with-langchain-a-step-by-step-tutorial.md"
+    },
+    {
         "title": "Moving AI From Pilot Purgatory to Production Power",
         "slug": "moving-ai-from-pilot-purgatory-to-production-power",
         "author": "Mclean Forrester",
@@ -10030,6 +10085,17 @@
         "keywords": "system, dlls, ghost, dll, promphy, your, performance, security",
         "generated": "2026-06-28T14:00:55.760737",
         "file": "memory-mystery-uncovering-the-hidden-dangers-of-ghost-dlls-is-your-system-at-risk.md"
+    },
+    {
+        "title": "Best Website Screenshot API in 2026 — 8 Tools Compared",
+        "slug": "best-website-screenshot-api-in-2026-8-tools-compared",
+        "author": "alekseykazandaev",
+        "source": "devto_webdev",
+        "published": "Wed, 15 Jul 2026 08:07:27 +0000",
+        "description": "Originally published on the Site-Shot blog. Picking a website screenshot API in 2026 comes down to a few things: price per screenshot at your volume, whether...",
+        "keywords": "shot, site, api, free, mcp, full, best, page",
+        "generated": "2026-07-15T08:23:28.889300",
+        "file": "best-website-screenshot-api-in-2026-8-tools-compared.md"
     },
     {
         "title": "GTA VI's Influence on Game Rel…",
@@ -10635,6 +10701,17 @@
         "keywords": "aws, more, not, hcl, agents, cloudflare, terraform, infra",
         "generated": "2026-07-07T09:51:54.398089",
         "file": "aws-is-not-simpler-agents-just-got-better-at-reading-it.md"
+    },
+    {
+        "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+        "slug": "risc-v-is-inevitable-state-of-the-union-keynote-argues",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Wed, 15 Jul 2026 06:02:17 +0000",
+        "description": "Article URL: https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/ Comments URL: https://news.ycombinator.com/item?id=48916805 Poin...",
+        "keywords": "risc, inevitable, state, union, keynote, argues, url, https",
+        "generated": "2026-07-15T08:23:28.882768",
+        "file": "risc-v-is-inevitable-state-of-the-union-keynote-argues.md"
     },
     {
         "title": "5 mistakes job seekers make with AI tools in 2025",
@@ -11770,6 +11847,17 @@
         "file": "building-a-python-based-forex-scraper-and-mcp-server-forex-pytory.md"
     },
     {
+        "title": "What Makes Healthcare App Testing Different from Every Other App Category",
+        "slug": "what-makes-healthcare-app-testing-different-from-every-other-app-category",
+        "author": "Jay Saadana",
+        "source": "devto_ai",
+        "published": "Wed, 15 Jul 2026 08:19:36 +0000",
+        "description": "A patient opens their prescription and sees 500mg instead of 50mg. A lab report displays Normal when the value is critically high. A teleconsult disconnect...",
+        "keywords": "app, testing, patient, data, prescription, test, health, healthcare",
+        "generated": "2026-07-15T08:23:28.892387",
+        "file": "what-makes-healthcare-app-testing-different-from-every-other-app-category.md"
+    },
+    {
         "title": "Astrophysics & AI with Python: Decoding the Hertzsprung-Russell Diagram",
         "slug": "astrophysics-ai-with-python-decoding-the-hertzsprung-russell-diagram",
         "author": "Programming Central",
@@ -12285,6 +12373,17 @@
         "keywords": "conversation, user, espaluz, which, using, database, oracle, store",
         "generated": "2026-06-28T19:38:17.340591",
         "file": "ai-language-learning.md"
+    },
+    {
+        "title": "I tricked Claude into leaking your deepest, darkest secrets",
+        "slug": "i-tricked-claude-into-leaking-your-deepest-darkest-secrets",
+        "author": "macleginn",
+        "source": "hackernews",
+        "published": "Wed, 15 Jul 2026 06:28:00 +0000",
+        "description": "Article URL: https://www.ayush.digital/blog/the-memory-heist Comments URL: https://news.ycombinator.com/item?id=48916975 Points: 152 # Comments: 51",
+        "keywords": "url, https, comments, tricked, claude, leaking, your, deepest",
+        "generated": "2026-07-15T08:23:28.882608",
+        "file": "i-tricked-claude-into-leaking-your-deepest-darkest-secrets.md"
     },
     {
         "title": "Reviews have become expensive, rewrites have become cheap",
@@ -18195,6 +18294,17 @@
         "file": "i-built-50-free-browser-based-tools-no-api-keys-no-signups-no-tracking-here-is-what-i-learned.md"
     },
     {
+        "title": "n8n vs Make vs Zapier for Business Automation: The 2026 Cost, AI, and Sovereignty Guide",
+        "slug": "n8n-vs-make-vs-zapier-for-business-automation-the-2026-cost-ai-and-sovereignty-guide",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Wed, 15 Jul 2026 08:20:23 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. By Rushil Shah — Founder, Twarx · Last Updated: July 15, 2026 The n8n vs Make vs...",
+        "keywords": "zapier, you, cost, make, your, automation, ceiling, workflows",
+        "generated": "2026-07-15T08:23:28.891389",
+        "file": "n8n-vs-make-vs-zapier-for-business-automation-the-2026-cost-ai-and-sovereignty-guide.md"
+    },
+    {
         "title": "I Spent $47 Testing DeepSeek vs Qwen vs Kimi vs GLM on Client Work",
         "slug": "i-spent-47-testing-deepseek-vs-qwen-vs-kimi-vs-glm-on-client-work",
         "author": "Alex Chen",
@@ -18820,6 +18930,17 @@
         "keywords": "react, url, https, com, comments, port, compiler, rust",
         "generated": "2026-06-10T10:13:09.113711",
         "file": "port-react-compiler-to-rust.md"
+    },
+    {
+        "title": "5 Self-Hosted Monitoring Tools Worth Running on Your Own Hardware in 2026",
+        "slug": "5-self-hosted-monitoring-tools-worth-running-on-your-own-hardware-in-2026",
+        "author": "우병수",
+        "source": "devto_webdev",
+        "published": "Wed, 15 Jul 2026 08:10:31 +0000",
+        "description": "TL;DR: Most SaaS monitoring products are built around the assumption that you're running fleets of identical cloud VMs serving HTTP traffic. Plug in the agen...",
+        "keywords": "you, prometheus, docker, grafana, your, not, uptime, victoriametrics",
+        "generated": "2026-07-15T08:23:28.888696",
+        "file": "5-self-hosted-monitoring-tools-worth-running-on-your-own-hardware-in-2026.md"
     },
     {
         "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
@@ -21649,6 +21770,17 @@
         "file": "playwright-mcp-cmo-dar-navegador-a-un-agente-de-ia-sin-convertir-tus-tests-en-una-caja-negra.md"
     },
     {
+        "title": "청년정책 2,650건을 긁었더니 73%가 마감이었다 — youth-search를 만들며 두 번 틀린 기록",
+        "slug": "2650-73-youth-search",
+        "author": "hyeong",
+        "source": "devto_python",
+        "published": "Wed, 15 Jul 2026 08:13:14 +0000",
+        "description": "이 글은 제 블로그에 처음 발행되었습니다 · Originally published at dbhyeong.github.io 한국 청년정책을 전수조사하는 스킬 youth-search를 만들어 MIT로 공개했다. 온통청년 2,650건 중 1,940건이 이미 마감이었고, '전라남도'로 조...",
+        "keywords": "youth, originally, published, dbhyeong, github",
+        "generated": "2026-07-15T08:23:28.883351",
+        "file": "2650-73-youth-search.md"
+    },
+    {
         "title": "AI Automation for Ai For Micro Saas Customer Support How To Automate Technical Issue Triage Debug Log Analysis And Personaliz...",
         "slug": "ai-automation-for-ai-for-micro-saas-customer-support-how-to-automate-technical-issue-triage-debug-log-analysis-and-personaliz",
         "author": "Ken Deng",
@@ -22626,6 +22758,17 @@
         "keywords": "space, year, connect, tech, you, dev, engineering, what",
         "generated": "2026-07-10T19:40:31.690692",
         "file": "launching-my-dev-journey.md"
+    },
+    {
+        "title": "I Cut My AI API Bill By 95% — Here's Everything I Wish I Knew Sooner",
+        "slug": "i-cut-my-ai-api-bill-by-95-heres-everything-i-wish-i-knew-sooner",
+        "author": "bolddeck",
+        "source": "devto_python",
+        "published": "Wed, 15 Jul 2026 08:10:47 +0000",
+        "description": "I Cut My AI API Bill By 95% — Here's Everything I Wish I Knew Sooner I still remember the Slack message. Our VP of Engineering pinged me at 11pm on a Thursda...",
+        "keywords": "model, you, our, latency, cache, response, had, gpt",
+        "generated": "2026-07-15T08:23:28.884043",
+        "file": "i-cut-my-ai-api-bill-by-95-heres-everything-i-wish-i-knew-sooner.md"
     },
     {
         "title": "O Teste de Amostragem de Conversas Como Termômetro Comercial",
@@ -27264,9 +27407,9 @@
         "author": "colin7snyder",
         "source": "hackernews",
         "published": "Wed, 15 Jul 2026 00:15:56 +0000",
-        "description": "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 36 # Comments: 9",
+        "description": "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 119 # Comments: 52",
         "keywords": "url, https, com, comments, solving, problems, codex, accounts",
-        "generated": "2026-07-15T02:52:14.903889",
+        "generated": "2026-07-15T08:23:28.883152",
         "file": "solving-20-erds-problems-with-20-codex-accounts-running-in-parallel.md"
     },
     {
@@ -27637,10 +27780,10 @@
         "slug": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sat, 27 Jun 2026 19:24:55 +0000",
-        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
-        "keywords": "biznode, https, biz, business, your, operator, smartpdf, runs",
-        "generated": "2026-06-27T19:36:59.130050",
+        "published": "Wed, 15 Jul 2026 08:18:57 +0000",
+        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
+        "keywords": "biznode, business, can, agents, https, your, you, biz",
+        "generated": "2026-07-15T08:23:28.892778",
         "file": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247.md"
     },
     {
@@ -29193,6 +29336,17 @@
         "keywords": "telegram, video, bot, hevc, ffmpeg, msg, crop, iphone",
         "generated": "2026-06-07T09:24:56.816744",
         "file": "converting-iphone-hevc-to-telegram-video-avatars-with-ffmpeg.md"
+    },
+    {
+        "title": "Jurassic Park computers in excruciating detail",
+        "slug": "jurassic-park-computers-in-excruciating-detail",
+        "author": "vinhnx",
+        "source": "hackernews",
+        "published": "Wed, 15 Jul 2026 02:57:47 +0000",
+        "description": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 341 # Comments...",
+        "keywords": "url, https, comments, jurassic, park, computers, excruciating, detail",
+        "generated": "2026-07-15T08:23:28.882885",
+        "file": "jurassic-park-computers-in-excruciating-detail.md"
     },
     {
         "title": "Two Bugs That Taught Me More Than Any Tutorial",
@@ -31010,6 +31164,17 @@
         "file": "ekhemm.md"
     },
     {
+        "title": "ERP Statistics: What the Numbers Reveal About Modern Business Growth",
+        "slug": "erp-statistics-what-the-numbers-reveal-about-modern-business-growth",
+        "author": "Crystal",
+        "source": "devto_webdev",
+        "published": "Wed, 15 Jul 2026 08:13:48 +0000",
+        "description": "Enterprise Resource Planning (ERP) has evolved far beyond being a back-office software solution. Today, it serves as the operational backbone for businesses ...",
+        "keywords": "erp, statistics, businesses, cloud, business, organizations, automation, adoption",
+        "generated": "2026-07-15T08:23:28.885846",
+        "file": "erp-statistics-what-the-numbers-reveal-about-modern-business-growth.md"
+    },
+    {
         "title": "MCP Server CORS: The Preflight Problem That Broke My MCP Server 92 Times And How I Fixed It For Good",
         "slug": "mcp-server-cors-the-preflight-problem-that-broke-my-mcp-server-92-times-and-how-i-fixed-it-for-good",
         "author": "KevinTen",
@@ -31769,6 +31934,17 @@
         "file": "i-design-with-claude-more-than-figma-now.md"
     },
     {
+        "title": "I Built a Dead-Simple API Gateway for My Local LLMs in 50 Lines of Python",
+        "slug": "i-built-a-dead-simple-api-gateway-for-my-local-llms-in-50-lines-of-python",
+        "author": "Sam Hartley",
+        "source": "devto_python",
+        "published": "Wed, 15 Jul 2026 08:01:40 +0000",
+        "description": "I Built a Dead-Simple API Gateway for My Local LLMs in 50 Lines of Python I run three machines with local LLMs. A Mac Mini with an M4, a Windows box with an ...",
+        "keywords": "model, api, machine, requests, gateway, python, models, http",
+        "generated": "2026-07-15T08:23:28.885115",
+        "file": "i-built-a-dead-simple-api-gateway-for-my-local-llms-in-50-lines-of-python.md"
+    },
+    {
         "title": "Looking for a job",
         "slug": "looking-for-a-job",
         "author": "success",
@@ -32471,6 +32647,17 @@
         "keywords": "not, api, you, keyless, doi, org, json, paper",
         "generated": "2026-07-10T03:51:00.820667",
         "file": "8-free-research-paper-apis-with-no-key-2026.md"
+    },
+    {
+        "title": "Cheapest Screenshot API in 2026 (Free Tiers Compared)",
+        "slug": "cheapest-screenshot-api-in-2026-free-tiers-compared",
+        "author": "alekseykazandaev",
+        "source": "devto_webdev",
+        "published": "Wed, 15 Jul 2026 08:12:12 +0000",
+        "description": "Originally published on the Site-Shot blog. If you're shopping purely on price, cheapest screenshot API has two different answers, and conflating them will...",
+        "keywords": "shot, full, free, site, cheapest, tier, api, you",
+        "generated": "2026-07-15T08:23:28.887270",
+        "file": "cheapest-screenshot-api-in-2026-free-tiers-compared.md"
     },
     {
         "title": "AI: complete breakdown",
