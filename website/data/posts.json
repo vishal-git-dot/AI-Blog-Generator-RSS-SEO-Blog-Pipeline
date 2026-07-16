@@ -1892,6 +1892,17 @@
         "file": "edge-computing-in-the-browser-how-i-replaced-a-backend-server-with-web-workers-wasm.md"
     },
     {
+        "title": "Netstrings (1997)",
+        "slug": "netstrings-1997",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 05:33:50 +0000",
+        "description": "Article URL: https://cr.yp.to/proto/netstrings.txt Comments URL: https://news.ycombinator.com/item?id=48930713 Points: 13 # Comments: 7",
+        "keywords": "netstrings, url, https, comments, article, proto, txt, news",
+        "generated": "2026-07-16T08:22:50.504363",
+        "file": "netstrings-1997.md"
+    },
+    {
         "title": "60% Fable cost cut by converting code to images and having the model OCR it",
         "slug": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it",
         "author": "dimitropoulos",
@@ -2407,6 +2418,17 @@
         "keywords": "you, company, data, github, com, stripe, free, public",
         "generated": "2026-06-27T19:36:59.125867",
         "file": "crunchbase-killed-its-free-api-heres-how-to-rebuild-it-2026.md"
+    },
+    {
+        "title": "Reynard: A real Firefox web browser for iOS 13 or later",
+        "slug": "reynard-a-real-firefox-web-browser-for-ios-13-or-later",
+        "author": "AbuAssar",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 04:36:07 +0000",
+        "description": "Article URL: https://github.com/minh-ton/reynard-browser Comments URL: https://news.ycombinator.com/item?id=48930397 Points: 20 # Comments: 4",
+        "keywords": "reynard, browser, url, https, com, comments, real, firefox",
+        "generated": "2026-07-16T08:22:50.504549",
+        "file": "reynard-a-real-firefox-web-browser-for-ios-13-or-later.md"
     },
     {
         "title": "Streaming Interrupted: How to Debug “Successful” LLM Streams (Before Support Tickets Start)",
@@ -8150,6 +8172,17 @@
         "file": "i-built-an-ai-powered-python-to-c-transpiler-entirely-from-my-phone-here-is-how-and-why.md"
     },
     {
+        "title": "Making 768 servers look like 1",
+        "slug": "making-768-servers-look-like-1",
+        "author": "hisamafahri",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 03:36:42 +0000",
+        "description": "Article URL: https://planetscale.com/blog/making-768-servers-look-like-1 Comments URL: https://news.ycombinator.com/item?id=48930075 Points: 68 # Comments: 10",
+        "keywords": "making, servers, look, like, url, https, com, comments",
+        "generated": "2026-07-16T08:22:50.504649",
+        "file": "making-768-servers-look-like-1.md"
+    },
+    {
         "title": "How Multi-Currency Support Helps MLM Businesses Expand Internationally",
         "slug": "how-multi-currency-support-helps-mlm-businesses-expand-internationally",
         "author": "Skylark Infotech",
@@ -9129,6 +9162,15 @@
         "file": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it.md"
     },
     {
+        "title": "Subscription Paywall Architecture for KMP Apps",
+        "slug": "subscription-paywall-architecture-for-kmp-apps",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 08:19:14 +0000",
+        "description": "",
+        "file": "subscription-paywall-architecture-for-kmp-apps.md"
+    },
+    {
         "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
         "slug": "the-australian-government-to-require-smsmms-sender-id-registraion",
         "author": "anitil",
@@ -9721,6 +9763,17 @@
         "keywords": "users, app, features, cash, manage, financial, account, their",
         "generated": "2026-07-10T03:51:00.822394",
         "file": "cash-app-banking-features.md"
+    },
+    {
+        "title": "The lost joy of music piracy",
+        "slug": "the-lost-joy-of-music-piracy",
+        "author": "mcgin",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 04:46:21 +0000",
+        "description": "Article URL: https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming Comments URL: https://news.ycombinator.com/item?id=489...",
+        "keywords": "music, piracy, url, https, com, comments, lost, joy",
+        "generated": "2026-07-16T08:22:50.504474",
+        "file": "the-lost-joy-of-music-piracy.md"
     },
     {
         "title": "GitHub Trending Digest — June 26, 2026",
@@ -10933,6 +10986,17 @@
         "file": "the-safari-mcp-server-for-web-developers.md"
     },
     {
+        "title": "PyTorch Broadcasting Explained: The 3 Rules (and the Silent Bug That Bites Everyone)",
+        "slug": "pytorch-broadcasting-explained-the-3-rules-and-the-silent-bug-that-bites-everyone",
+        "author": "Wesam Khallaf — Author of PyTorch From Ground Up",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 08:09:38 +0000",
+        "description": "You added two tensors of different shapes and PyTorch didn't complain — it just returned something bigger than you expected. Or you got a RuntimeError about ...",
+        "keywords": "broadcasting, you, print, torch, tensor, shape, size, runtimeerror",
+        "generated": "2026-07-16T08:22:50.504914",
+        "file": "pytorch-broadcasting-explained-the-3-rules-and-the-silent-bug-that-bites-everyone.md"
+    },
+    {
         "title": "Agentic coding notes from Galapagos Island",
         "slug": "agentic-coding-notes-from-galapagos-island",
         "author": "gm678",
@@ -11393,6 +11457,17 @@
         "keywords": "iso, owasp, devsecops, nist, api, llm, rmf, top",
         "generated": "2026-07-12T08:25:23.795467",
         "file": "ai.md"
+    },
+    {
+        "title": "Build a LangChain Agent That Searches 11M+ Products in Real-Time",
+        "slug": "build-a-langchain-agent-that-searches-11m-products-in-real-time",
+        "author": "BuyWhere",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 07:22:15 +0000",
+        "description": "The Problem with Static Product Data in AI Agents Most AI agents that help users shop are backed by static datasets — scraped once, cached forever, and stale...",
+        "keywords": "buywhere, langchain, your, agent, merchant, products, product, live",
+        "generated": "2026-07-16T08:22:50.505391",
+        "file": "build-a-langchain-agent-that-searches-11m-products-in-real-time.md"
     },
     {
         "title": "Human in the Loop Isn't a Checkbox",
@@ -12583,6 +12658,17 @@
         "file": "watch-wwe-raw-smackdown-live-stream-2026-in-hd-and-4k-quality.md"
     },
     {
+        "title": "ColdFusion Enterprise Clustering: Session Replication, Sticky Sessions, and Node Failover",
+        "slug": "coldfusion-enterprise-clustering-session-replication-sticky-sessions-and-node-failover",
+        "author": "Deepak Sir",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 08:12:08 +0000",
+        "description": "ColdFusion Enterprise’s built-in clustering (Enterprise, Trial, or Developer edition only — not Standard) lets you group multiple ColdFusion instances so a w...",
+        "keywords": "session, coldfusion, enterprise, replication, node, sticky, sessions, manager",
+        "generated": "2026-07-16T08:22:50.507004",
+        "file": "coldfusion-enterprise-clustering-session-replication-sticky-sessions-and-node-failover.md"
+    },
+    {
         "title": "Lost Luggage, Found Fast: The Tech Behind Smart NFC Travel Tags",
         "slug": "lost-luggage-found-fast-the-tech-behind-smart-nfc-travel-tags",
         "author": "Profile Tap",
@@ -13076,6 +13162,17 @@
         "keywords": "model, oxlo, json, text, primary, agent, str, research",
         "generated": "2026-07-10T19:40:31.693610",
         "file": "introduction-to-llms-in-humanities-and-social-sciences.md"
+    },
+    {
+        "title": "Best AI Answer Monitoring Tools in 2026",
+        "slug": "best-ai-answer-monitoring-tools-in-2026",
+        "author": "Natalie Chen",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 08:11:10 +0000",
+        "description": "TL;DR: Scrapeless is the best choice for answer-diff monitoring in 2026. It provides a managed API layer for supported AI-answer and Google AI search surface...",
+        "keywords": "answer, scrapeless, prompt, market, surface, monitoring, evidence, context",
+        "generated": "2026-07-16T08:22:50.507462",
+        "file": "best-ai-answer-monitoring-tools-in-2026.md"
     },
     {
         "title": "Your AI Agent's Bottleneck Isn't Parameters—It's a Messy House",
@@ -14044,6 +14141,17 @@
         "keywords": "low, protein, article, url, https, comments, curious, case",
         "generated": "2026-06-07T19:40:41.521186",
         "file": "the-curious-case-of-low-protein-diets.md"
+    },
+    {
+        "title": "Best Diploma in Artificial Intelligence and Machine Learning",
+        "slug": "best-diploma-in-artificial-intelligence-and-machine-learning",
+        "author": "Rahul",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 08:21:13 +0000",
+        "description": "Artificial Intelligence (AI) and Machine Learning (ML) are transforming the world at an incredible speed. From voice assistants like Siri and Alexa to recomm...",
+        "keywords": "diploma, learning, machine, intelligence, students, data, career, practical",
+        "generated": "2026-07-16T08:22:50.506572",
+        "file": "best-diploma-in-artificial-intelligence-and-machine-learning.md"
     },
     {
         "title": "The paper reported jumps like 21% to 97%. My replication got +2%.",
@@ -16244,6 +16352,17 @@
         "keywords": "url, https, com, comments, teensy, executable, revisited, article",
         "generated": "2026-06-24T09:40:50.185940",
         "file": "the-teensy-executable-revisited.md"
+    },
+    {
+        "title": "Watching Agents by Inithouse vs dashboards and alerts: monitoring future questions, not metrics",
+        "slug": "watching-agents-by-inithouse-vs-dashboards-and-alerts-monitoring-future-questions-not-metrics",
+        "author": "Jakub",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 08:21:20 +0000",
+        "description": "Most BI dashboards answer one question: what already happened. Watching Agents answers a different one: what might happen next. We built Watching Agents at I...",
+        "keywords": "you, agents, watching, not, question, what, when, agent",
+        "generated": "2026-07-16T08:22:50.506265",
+        "file": "watching-agents-by-inithouse-vs-dashboards-and-alerts-monitoring-future-questions-not-metrics.md"
     },
     {
         "title": "从玩具到教材：一个500行AI框架的自我修养",
@@ -20162,6 +20281,17 @@
         "file": "perplexity-deep-dive.md"
     },
     {
+        "title": "Deploying AI-Powered Laravel Apps: Queues, Streaming, Timeouts",
+        "slug": "deploying-ai-powered-laravel-apps-queues-streaming-timeouts",
+        "author": "Deploynix",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 08:11:53 +0000",
+        "description": "Somewhere in the Laravel app you're running right now, there's a good chance an HTTP call goes out to OpenAI, Anthropic, or a local model. A chat feature, a ...",
+        "keywords": "llm, your, laravel, call, seconds, layer, server, every",
+        "generated": "2026-07-16T08:22:50.507119",
+        "file": "deploying-ai-powered-laravel-apps-queues-streaming-timeouts.md"
+    },
+    {
         "title": "First Look: Anthropic Tests Mobile Remote Control for Claude Cowork Agentic Desktop Tasks",
         "slug": "first-look-anthropic-tests-mobile-remote-control-for-claude-cowork-agentic-desktop-tasks",
         "author": "Achin Bansal",
@@ -23416,6 +23546,17 @@
         "keywords": "structural, exclusion, only, defense, scales, single, line, hold",
         "generated": "2026-06-10T20:38:15.851914",
         "file": "structural-exclusion-is-the-only-defense-that-scales.md"
+    },
+    {
+        "title": "How Multi-Agent AI Systems Are Reshaping E-Commerce Search",
+        "slug": "how-multi-agent-ai-systems-are-reshaping-e-commerce-search",
+        "author": "Searchless",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 08:10:58 +0000",
+        "description": "Originally published on The Searchless Journal How Multi-Agent AI Systems Are Reshaping E-Commerce Search The landscape of e-commerce search is undergoing a ...",
+        "keywords": "agentic, agents, data, product, commerce, systems, can, products",
+        "generated": "2026-07-16T08:22:50.507811",
+        "file": "how-multi-agent-ai-systems-are-reshaping-e-commerce-search.md"
     },
     {
         "title": "developer",
@@ -28489,6 +28630,17 @@
         "file": "exapunks-2018.md"
     },
     {
+        "title": "AI Automation for Ai For Solo Private Investigators How To Automate Public Records Triage Timeline Visualization From Notes A...",
+        "slug": "ai-automation-for-ai-for-solo-private-investigators-how-to-automate-public-records-triage-timeline-visualization-from-notes-a",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 08:12:15 +0000",
+        "description": "AI Automation for Ai For Solo Private Investigators How To Automate Public Records Triage Timeline Visualization From Notes And Draft Report Generation: Quic...",
+        "keywords": "automate, you, solo, private, investigators, how, public, records",
+        "generated": "2026-07-16T08:22:50.506920",
+        "file": "ai-automation-for-ai-for-solo-private-investigators-how-to-automate-public-records-triage-timeline-visualization-from-notes-a.md"
+    },
+    {
         "title": "Building ContractPilot AI: A Serverless Multi-Agent Legal Copilot with Vercel and AWS Databases ⚖️🚀",
         "slug": "building-contractpilot-ai-a-serverless-multi-agent-legal-copilot-with-vercel-and-aws-databases",
         "author": "mustapha Chaibi",
@@ -29996,6 +30148,17 @@
         "file": "1700-free-online-courses-from-top-universities.md"
     },
     {
+        "title": "If you want to create a button from scratch, you must first create the universe",
+        "slug": "if-you-want-to-create-a-button-from-scratch-you-must-first-create-the-universe",
+        "author": "treve",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 03:48:43 +0000",
+        "description": "Article URL: https://madcampos.dev/blog/2026/07/accessibility-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48930136 Points: 89 # Comments...",
+        "keywords": "you, create, scratch, url, https, comments, want, button",
+        "generated": "2026-07-16T08:22:50.504605",
+        "file": "if-you-want-to-create-a-button-from-scratch-you-must-first-create-the-universe.md"
+    },
+    {
         "title": "Why Every Restaurant Needs a Restaurant Management App in 2026",
         "slug": "why-every-restaurant-needs-a-restaurant-management-app-in-2026",
         "author": "upwork floating infotech",
@@ -31140,6 +31303,17 @@
         "file": "i-thought-my-api-was-rate-limited-until-someone-scraped-2-million-requests-in-4-hours.md"
     },
     {
+        "title": "Building and Deploying a Remote MCP Server: Lessons from Connecting an Expense Tracker to Claude Desktop",
+        "slug": "building-and-deploying-a-remote-mcp-server-lessons-from-connecting-an-expense-tracker-to-claude-desktop",
+        "author": "Ali Raza",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 07:21:50 +0000",
+        "description": "The Problem Personal finance tracking usually means switching between an app, a spreadsheet, or a browser tab just to log a single transaction. I wanted a lo...",
+        "keywords": "mcp, server, claude, desktop, remote, app, tools, database",
+        "generated": "2026-07-16T08:22:50.505581",
+        "file": "building-and-deploying-a-remote-mcp-server-lessons-from-connecting-an-expense-tracker-to-claude-desktop.md"
+    },
+    {
         "title": "12 best AI tools for software developers in 2026 to code faster and learn smarter",
         "slug": "12-best-ai-tools-for-software-developers-in-2026-to-code-faster-and-learn-smarter",
         "author": "Stack Overflowed",
@@ -31149,6 +31323,17 @@
         "keywords": "developers, engineering, workflows, why, systems, software, coding, technical",
         "generated": "2026-06-16T05:04:00.738293",
         "file": "12-best-ai-tools-for-software-developers-in-2026-to-code-faster-and-learn-smarter.md"
+    },
+    {
+        "title": "We scanned 474 French SMB websites for AI-readiness. The average score was 48/100.",
+        "slug": "we-scanned-474-french-smb-websites-for-ai-readiness-the-average-score-was-48100",
+        "author": "Mehdi Kabbaj",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 08:22:40 +0000",
+        "description": "Here's a paradox we didn't expect to find so clearly in the data: French small businesses almost never block AI crawlers, but their sites give those crawlers...",
+        "keywords": "sites, one, not, you, but, only, actually, our",
+        "generated": "2026-07-16T08:22:50.505846",
+        "file": "we-scanned-474-french-smb-websites-for-ai-readiness-the-average-score-was-48100.md"
     },
     {
         "title": "How I engineered a custom social media app in 2 months?",
@@ -31358,6 +31543,17 @@
         "keywords": "react, next, you, product, client, server, app, const",
         "generated": "2026-07-05T13:51:56.697943",
         "file": "nextjs-vs-react-which-should-you-learn-first-in-2026.md"
+    },
+    {
+        "title": "Your AI agent should not have unrestricted power",
+        "slug": "your-ai-agent-should-not-have-unrestricted-power",
+        "author": "vericum",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 07:52:47 +0000",
+        "description": "Most people building AI agents wire the model straight to real actions. The model says run this. So it runs. That works right up until a fetched web page, a ...",
+        "keywords": "token, agent, one, model, gate, not, action, your",
+        "generated": "2026-07-16T08:22:50.505230",
+        "file": "your-ai-agent-should-not-have-unrestricted-power.md"
     },
     {
         "title": "AI Medical Scribes for Urology: Improving Clinical Documentation and Workflow Efficiency in 2026",
@@ -33153,6 +33349,17 @@
         "file": "stop-overpaying-for-photos-5-chatgpt-prompts-for-white-background-product-photos.md"
     },
     {
+        "title": "Your CSS Grid cards look misaligned. `subgrid` is the fix you didn't know existed.",
+        "slug": "your-css-grid-cards-look-misaligned-subgrid-is-the-fix-you-didnt-know-existed",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 08:21:26 +0000",
+        "description": "Here is a layout I have built more times than I can count. You have a row of cards in a CSS Grid. Each card has a header, a body with variable-length content...",
+        "keywords": "grid, card, subgrid, you, row, footer, rows, cards",
+        "generated": "2026-07-16T08:22:50.506086",
+        "file": "your-css-grid-cards-look-misaligned-subgrid-is-the-fix-you-didnt-know-existed.md"
+    },
+    {
         "title": "macOS Container Machines",
         "slug": "macos-container-machines",
         "author": "timsneath",
@@ -33316,6 +33523,17 @@
         "keywords": "async, fastapi, sqlalchemy, task, import, models, asyncsession, you",
         "generated": "2026-07-14T13:57:07.328041",
         "file": "fix-asyncsession-errors-in-fastapi-sqlalchemy-20-guide.md"
+    },
+    {
+        "title": "Automating My Freelance Workflow with Python: A Step-by-Step Guide",
+        "slug": "automating-my-freelance-workflow-with-python-a-step-by-step-guide",
+        "author": "Caper B",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 07:54:00 +0000",
+        "description": "Automating My Freelance Workflow with Python: A Step-by-Step Guide As a freelancer, managing multiple projects and clients can be overwhelming. To streamline...",
+        "keywords": "pdf, time, python, datetime, can, trello, new, fpdf",
+        "generated": "2026-07-16T08:22:50.505060",
+        "file": "automating-my-freelance-workflow-with-python-a-step-by-step-guide.md"
     },
     {
         "title": "Quadrupling code performance with a useless if",
