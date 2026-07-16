@@ -88,6 +88,17 @@
         "file": "structural-isolation-shielding-personal-device-metrics-from-network-scrapers.md"
     },
     {
+        "title": "Goes-19 weather satellite enters Safe Hold mode",
+        "slug": "goes-19-weather-satellite-enters-safe-hold-mode",
+        "author": "yabones",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 13:30:00 +0000",
+        "description": "Article URL: https://www.spaceweather.gov/news/goes-19-safe-hold Comments URL: https://news.ycombinator.com/item?id=48934286 Points: 11 # Comments: 0",
+        "keywords": "goes, safe, hold, url, https, news, comments, weather",
+        "generated": "2026-07-16T14:05:41.526836",
+        "file": "goes-19-weather-satellite-enters-safe-hold-mode.md"
+    },
+    {
         "title": "Verizon is About to Break our Watches",
         "slug": "verizon-is-about-to-break-our-watches",
         "author": "jefftk",
@@ -460,6 +471,17 @@
         "keywords": "scraper, python, data, you, real, stop, scrapers, ready",
         "generated": "2026-06-28T09:19:21.764985",
         "file": "stop-building-web-scrapers-from-scratch-10-production-ready-python-scripts.md"
+    },
+    {
+        "title": "Browser-Based PDF Page Editing with Vue 3 and pdf-lib",
+        "slug": "browser-based-pdf-page-editing-with-vue-3-and-pdf-lib",
+        "author": "sunshey",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 13:41:19 +0000",
+        "description": "True PDF text editing is hard. PDF was designed as a fixed-layout format, not an editable document format. But page-level edits — reorder, rotate, delete, in...",
+        "keywords": "pdf, page, const, pages, editing, value, lib, file",
+        "generated": "2026-07-16T14:05:41.531154",
+        "file": "browser-based-pdf-page-editing-with-vue-3-and-pdf-lib.md"
     },
     {
         "title": "I Love the Computer",
@@ -1351,6 +1373,17 @@
         "keywords": "search, game, word, today, daily, context, little, you",
         "generated": "2026-06-29T20:06:45.990178",
         "file": "need-a-break-play-todays-game-from-the-daily-context.md"
+    },
+    {
+        "title": "Claude's Private Equity Plugin vs a Turnkey Diligence Tool (2026)",
+        "slug": "claudes-private-equity-plugin-vs-a-turnkey-diligence-tool-2026",
+        "author": "DEVALAND",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 14:00:05 +0000",
+        "description": "In 2026, Anthropic released a suite of agent templates for financial services, including private-equity and due-diligence workflows. If you buy companies for...",
+        "keywords": "you, data, claude, diligence, tool, what, turnkey, not",
+        "generated": "2026-07-16T14:05:41.532028",
+        "file": "claudes-private-equity-plugin-vs-a-turnkey-diligence-tool-2026.md"
     },
     {
         "title": "Changes to LLM pricing: Parasail and SiliconFlow",
@@ -6357,6 +6390,17 @@
         "file": "liteparse-a-fast-local-document-parser-for-developers.md"
     },
     {
+        "title": "Build a Multi-Region Canary Trap for LLM Prompt Leaks",
+        "slug": "build-a-multi-region-canary-trap-for-llm-prompt-leaks",
+        "author": "ToxSec",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 13:24:32 +0000",
+        "description": "Your system prompt is going to leak. Not might. Every LLM app with a system prompt worth stealing eventually meets an attacker who talks the model into rep...",
+        "keywords": "canary, region, you, str, token, response, model, redis",
+        "generated": "2026-07-16T14:05:41.529580",
+        "file": "build-a-multi-region-canary-trap-for-llm-prompt-leaks.md"
+    },
+    {
         "title": "7 PySpark Mistakes That Quietly Increase Compute Cost",
         "slug": "7-pyspark-mistakes-that-quietly-increase-compute-cost",
         "author": "Shivani",
@@ -8764,6 +8808,17 @@
         "keywords": "alan, delilah, url, https, comments, lost, story, turing",
         "generated": "2026-06-21T09:58:05.289405",
         "file": "the-lost-story-of-alan-turings-delilah-project.md"
+    },
+    {
+        "title": "Show HN: I've built a words game based on binary search",
+        "slug": "show-hn-ive-built-a-words-game-based-on-binary-search",
+        "author": "ludovicianul",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 13:15:49 +0000",
+        "description": "Article URL: https://hilogame.cc/ Comments URL: https://news.ycombinator.com/item?id=48934092 Points: 7 # Comments: 5",
+        "keywords": "url, https, comments, show, built, words, game, based",
+        "generated": "2026-07-16T14:05:41.526980",
+        "file": "show-hn-ive-built-a-words-game-based-on-binary-search.md"
     },
     {
         "title": "The Visual Edge: Why Visual Collaboration is the Secret to Remote Team Success",
@@ -19214,6 +19269,17 @@
         "file": "apples-weird-anti-nausea-dots-cured-my-car-sickness.md"
     },
     {
+        "title": "Data Science Training in Hyderabad | Python, AI & Machine Learning Course | Quality Thought",
+        "slug": "data-science-training-in-hyderabad-python-ai-machine-learning-course-quality-thought",
+        "author": "Ranga Batchu",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 13:29:06 +0000",
+        "description": "In today's technology-driven world, Data Science has become one of the fastest-growing and highest-paying career paths. Organizations across industries rely ...",
+        "keywords": "data, training, science, learning, quality, our, hyderabad, thought",
+        "generated": "2026-07-16T14:05:41.528322",
+        "file": "data-science-training-in-hyderabad-python-ai-machine-learning-course-quality-thought.md"
+    },
+    {
         "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
         "slug": "copy-that-floppy-cambridge-guide-for-preserving-data-from-fragile-floppy-disks",
         "author": "whiteblossom",
@@ -19674,6 +19740,17 @@
         "keywords": "speakers, agent, two, pitch, customer, you, model, token",
         "generated": "2026-07-11T03:17:17.850782",
         "file": "measure-dont-estimate-labeling-speakers-without-a-gated-model.md"
+    },
+    {
+        "title": "Simplifying AI Integration with OpenAI Compatible APIs",
+        "slug": "simplifying-ai-integration-with-openai-compatible-apis",
+        "author": "TokenHub",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 14:01:20 +0000",
+        "description": "As developers, we're constantly on the lookout for ways to streamline our workflows and enhance our applications with cutting-edge technology. One area that'...",
+        "keywords": "apis, openai, compatible, api, your, integration, developers, our",
+        "generated": "2026-07-16T14:05:41.527383",
+        "file": "simplifying-ai-integration-with-openai-compatible-apis.md"
     },
     {
         "title": "How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python",
@@ -20798,6 +20875,17 @@
         "file": "i-built-an-ai-that-builds-and-sells-ai-products-fully-autonomous.md"
     },
     {
+        "title": "The Referent a Liar Couldn't Author",
+        "slug": "the-referent-a-liar-couldnt-author",
+        "author": "Colin Easton",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 13:56:50 +0000",
+        "description": "Most agent-network verification checks *consistency . A committed liar passes every one of them — because it wrote the comparison set. Here's what actually a...",
+        "keywords": "you, not, agent, consistency, check, one, they, derivations",
+        "generated": "2026-07-16T14:05:41.532537",
+        "file": "the-referent-a-liar-couldnt-author.md"
+    },
+    {
         "title": "Improvised Apriori Algorithm using frequent pattern tree for real timeapplications in data mining",
         "slug": "improvised-apriori-algorithm-using-frequent-pattern-tree-for-real-timeapplications-in-data-mining",
         "author": "Paperium",
@@ -21005,6 +21093,17 @@
         "keywords": "data, use, security, like, access, your, telehealth, ensure",
         "generated": "2026-06-12T10:23:24.150971",
         "file": "from-telehealth-mvp-to-production-ready-ai-product.md"
+    },
+    {
+        "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+        "slug": "sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them",
+        "author": "nekusar",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 12:13:43 +0000",
+        "description": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/ Comments URL: https://news.yco...",
+        "keywords": "sony, deletes, bunch, more, movies, accounts, people, who",
+        "generated": "2026-07-16T14:05:41.527198",
+        "file": "sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them.md"
     },
     {
         "title": "Tech sell-off widens as South Korea index plunges",
@@ -22910,6 +23009,17 @@
         "file": "5-things-i-stopped-doing-as-a-lead.md"
     },
     {
+        "title": "Trusting an LLM's JSON in production",
+        "slug": "trusting-an-llms-json-in-production",
+        "author": "Kate Johnson",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 13:43:19 +0000",
+        "description": "The demo always works. You prompt the model to return JSON with these fields, it returns clean JSON, you parse it, everyone claps. Then you put it behind r...",
+        "keywords": "model, you, return, not, output, intent, confidence, tool",
+        "generated": "2026-07-16T14:05:41.530765",
+        "file": "trusting-an-llms-json-in-production.md"
+    },
+    {
         "title": "Suno AI 有意思的授權條款",
         "slug": "suno-ai",
         "author": "JH5",
@@ -24285,14 +24395,14 @@
         "file": "2-minute-guide-dataclasses-in-python.md"
     },
     {
-        "title": "Buy Old Gmail Accounts",
+        "title": "Buy OLD Gmail Accounts",
         "slug": "buy-old-gmail-accounts",
-        "author": "Buy Old Gmail Accounts",
+        "author": "Buy OLD Gmail Accounts",
         "source": "devto_webdev",
-        "published": "Wed, 24 Jun 2026 14:32:19 +0000",
-        "description": "Your old Gmail account is a valuable asset in today’s digital world, so make sure to make the most of it! Our Services: From the year 2010 to the current yea...",
-        "keywords": "gmail, accounts, old, account, make, year, all, years",
-        "generated": "2026-06-24T14:43:41.341106",
+        "published": "Thu, 16 Jul 2026 13:41:08 +0000",
+        "description": "you can Buy OLD Gmail Accounts . There are online marketplaces and platforms where individuals sell accounts that are several years Buy OLD Gmail Accounts. T...",
+        "keywords": "accounts, gmail, buy, old, you, your, can, account",
+        "generated": "2026-07-16T14:05:41.531454",
         "file": "buy-old-gmail-accounts.md"
     },
     {
@@ -24767,6 +24877,17 @@
         "keywords": "audio, video, content, media, can, tools, extracting, extraction",
         "generated": "2026-06-11T16:13:08.006415",
         "file": "why-extracting-audio-from-video-is-more-useful-than-most-people-realize.md"
+    },
+    {
+        "title": "Beyond the Hype: The Engineering Reality of Scaling Industrial AIoT",
+        "slug": "beyond-the-hype-the-engineering-reality-of-scaling-industrial-aiot",
+        "author": "Unnati Nimavat",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 13:55:30 +0000",
+        "description": "Beyond the Hype: The Engineering Reality of Scaling Industrial AIoT If you’ve worked in the Industrial IoT (IIoT) space long enough, you’ve likely seen the ...",
+        "keywords": "you, industrial, scaling, aiot, world, your, real, isn",
+        "generated": "2026-07-16T14:05:41.533128",
+        "file": "beyond-the-hype-the-engineering-reality-of-scaling-industrial-aiot.md"
     },
     {
         "title": "Building a Serverless Interactive Map for 68,000+ Indian Villages with Leaflet, PMTiles, and GitHub Actions",
@@ -26100,6 +26221,17 @@
         "file": "your-ai-agent-forgets-mine-doesnt-and-it-works-on-a-plane-in-a-hospital-with-wifi-off.md"
     },
     {
+        "title": "How to spend 15 years perfecting a product",
+        "slug": "how-to-spend-15-years-perfecting-a-product",
+        "author": "neochief",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 13:41:12 +0000",
+        "description": "Article URL: https://refactoring.guru/email/gbb-rollout2 Comments URL: https://news.ycombinator.com/item?id=48934434 Points: 3 # Comments: 0",
+        "keywords": "url, https, comments, how, spend, years, perfecting, product",
+        "generated": "2026-07-16T14:05:41.526678",
+        "file": "how-to-spend-15-years-perfecting-a-product.md"
+    },
+    {
         "title": "Changes to LLM pricing: Novita and StreamLake",
         "slug": "changes-to-llm-pricing-novita-and-streamlake",
         "author": "Narev Bot",
@@ -26450,6 +26582,17 @@
         "keywords": "playwright, image, articles, fonts, article, generation, per, url",
         "generated": "2026-06-22T12:15:23.444714",
         "file": "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost.md"
+    },
+    {
+        "title": "The AI Supply Chain Problem Is Real. It's also decades old.",
+        "slug": "the-ai-supply-chain-problem-is-real-its-also-decades-old",
+        "author": "Jonathan Santilli",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 13:53:57 +0000",
+        "description": "Semgrep is right that models are black boxes we can't audit. But you don't need an attacker to poison a model. The internet already did. And the difference b...",
+        "keywords": "model, models, essay, can, you, training, code, not",
+        "generated": "2026-07-16T14:05:41.533582",
+        "file": "the-ai-supply-chain-problem-is-real-its-also-decades-old.md"
     },
     {
         "title": "Day 134 of Learning MERN Stack",
@@ -27816,6 +27959,17 @@
         "file": "the-hard-part-of-attacking-an-ai-isnt-breaking-it-its-telling-real-harm-from-fake.md"
     },
     {
+        "title": "Phone Not Vibrating? A 10-Second Browser Check Tells You If the Motor Is Dead",
+        "slug": "phone-not-vibrating-a-10-second-browser-check-tells-you-if-the-motor-is-dead",
+        "author": "keyboardTester.Click",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 13:44:19 +0000",
+        "description": "This is a cross-post of a guide I originally published on KeyboardTester.click: Phone Not Vibrating? Test Your Vibration Motor and Fix It . When a phone stop...",
+        "keywords": "vibration, motor, test, repair, vibrate, not, you, one",
+        "generated": "2026-07-16T14:05:41.530198",
+        "file": "phone-not-vibrating-a-10-second-browser-check-tells-you-if-the-motor-is-dead.md"
+    },
+    {
         "title": "Build a Stock Price Alert Bot with Python",
         "slug": "build-a-stock-price-alert-bot-with-python",
         "author": "qing",
@@ -28476,6 +28630,17 @@
         "file": "how-i-built-my-delta-neutral-arbitrage-bot-on-hyperliquid-python.md"
     },
     {
+        "title": "AI memory가 자기 출력을 다시 입력으로 세지 않게 하는 법",
+        "slug": "ai-memory",
+        "author": "박준현",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 13:55:57 +0000",
+        "description": "AI memory가 자기 출력을 다시 입력으로 세지 않게 하는 법 AI memory 시스템은 대화에서 기억을 만들고, 그 기억을 다시 요약해 더 높은 수준의 결론을 만들 수 있습니다. 여기서 원본에 가까운 입력과 시스템이 만든 파생 결과를 구분하지 않으면, 파생 결과가 다음 작업의...",
+        "keywords": "explicit, pinned, pending, checkpoint, threshold, deductive, derived, memory",
+        "generated": "2026-07-16T14:05:41.532835",
+        "file": "ai-memory.md"
+    },
+    {
         "title": "20 Best Places to Buy Verified Yoomoney Accounts ...",
         "slug": "20-best-places-to-buy-verified-yoomoney-accounts",
         "author": "charls121",
@@ -28749,6 +28914,17 @@
         "keywords": "admin, opensparrow, panel, automations, rag, beta, improvements, better",
         "generated": "2026-06-09T15:18:05.199613",
         "file": "opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta.md"
+    },
+    {
+        "title": "mempermudah aktivitas sehari-hari. Perangkat pintar, layanan berbasi",
+        "slug": "mempermudah-aktivitas-sehari-hari-perangkat-pintar-layanan-berbasi",
+        "author": "Turbo55",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 13:44:21 +0000",
+        "description": "Inovasi Digital sebagai Penggerak Perubahan Kehidupan Modern Perkembangan teknologi digital telah membawa perubahan besar dalam berbagai aspek kehidupan. Akt...",
+        "keywords": "yang, dalam, digital, dapat, teknologi, dan, kehidupan, menjadi",
+        "generated": "2026-07-16T14:05:41.529864",
+        "file": "mempermudah-aktivitas-sehari-hari-perangkat-pintar-layanan-berbasi.md"
     },
     {
         "title": "Amazon In-Depth Bad Actor Prevention (BAP) Guide: How to Avoid Repeated Document Requests and Review Failures",
@@ -29057,6 +29233,17 @@
         "keywords": "their, canada, qatar, will, home, soccer, picks, match",
         "generated": "2026-06-18T20:32:55.636226",
         "file": "qatar-vs-canada-soccer-preview-picks.md"
+    },
+    {
+        "title": "Introduction to KizunaShelf: A shelf for everything you love",
+        "slug": "introduction-to-kizunashelf-a-shelf-for-everything-you-love",
+        "author": "mudkipme",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 12:33:06 +0000",
+        "description": "Article URL: https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/ Comments URL: https://news.ycombinator.com/item?id=48933581 Points: 6 # Comments: 0",
+        "keywords": "introduction, kizunashelf, url, https, comments, shelf, everything, you",
+        "generated": "2026-07-16T14:05:41.527091",
+        "file": "introduction-to-kizunashelf-a-shelf-for-everything-you-love.md"
     },
     {
         "title": "GPT-5.6 Sol Ultra will be in Codex",
@@ -29849,6 +30036,17 @@
         "keywords": "bitcoin, your, you, ltv, loan, day, same, platforms",
         "generated": "2026-07-15T13:53:37.363104",
         "file": "secure-a-low-interest-2500-digital-asset-loan-in-minutes.md"
+    },
+    {
+        "title": "Best Web Apps for a Rapid $2.500 Bitcoin Loan Today",
+        "slug": "best-web-apps-for-a-rapid-2500-bitcoin-loan-today",
+        "author": "How to Safely Cash Out a Secure $2.500 Crypto Loan",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 13:40:05 +0000",
+        "description": "Need $2,500 fast? Secure an Ethereum loan with instant verification. Access liquidity without selling your ETH. Learn how to borrow against your crypto safel...",
+        "keywords": "your, you, loan, collateral, assets, ltv, need, market",
+        "generated": "2026-07-16T14:05:41.528001",
+        "file": "best-web-apps-for-a-rapid-2500-bitcoin-loan-today.md"
     },
     {
         "title": "You're probably using AI wrong. And it's costing you more than you think.",
@@ -32742,6 +32940,17 @@
         "keywords": "ships, keep, moving, through, hormuz, despite, strike, url",
         "generated": "2026-06-27T19:36:59.123825",
         "file": "ships-keep-moving-through-hormuz-despite-strike.md"
+    },
+    {
+        "title": "12 Patterns Run Every Data Stack. Seniority Is Knowing When Each One Is a Mistake.",
+        "slug": "12-patterns-run-every-data-stack-seniority-is-knowing-when-each-one-is-a-mistake",
+        "author": "Vinicius Fagundes",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 13:25:17 +0000",
+        "description": "Suggested tags: dataengineering , architecture , bigdata , dataops You've seen the chart — twelve boxes, twelve patterns, every data stack ever built somewhe...",
+        "keywords": "data, when, one, batch, you, mistake, not, raw",
+        "generated": "2026-07-16T14:05:41.529176",
+        "file": "12-patterns-run-every-data-stack-seniority-is-knowing-when-each-one-is-a-mistake.md"
     },
     {
         "title": "Changes to LLM pricing: NextBit",
