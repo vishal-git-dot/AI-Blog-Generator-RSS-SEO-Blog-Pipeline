@@ -4662,6 +4662,17 @@
         "file": "britains-prime-minister-to-step-down-burnham-puts-himself-forward-as-successor.md"
     },
     {
+        "title": "I Kept Losing the Why Behind My Code Every Time I Closed an AI Chat, So I Built a Tiny Tool to Save It",
+        "slug": "i-kept-losing-the-why-behind-my-code-every-time-i-closed-an-ai-chat-so-i-built-a-tiny-tool-to-save-it",
+        "author": "Abraham Smith",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 18:47:09 +0000",
+        "description": "Last Tuesday I was deep in a session with an AI assistant, rewriting a caching layer that had been quietly leaking memory in production. We tried Redis first...",
+        "keywords": "what, you, why, your, tried, because, cache, reasoning",
+        "generated": "2026-07-16T19:20:26.283483",
+        "file": "i-kept-losing-the-why-behind-my-code-every-time-i-closed-an-ai-chat-so-i-built-a-tiny-tool-to-save-it.md"
+    },
+    {
         "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
         "slug": "forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state2025",
         "author": "bryanrasmussen",
@@ -5408,6 +5419,17 @@
         "keywords": "linux, system, interview, you, how, tip, what, administrators",
         "generated": "2026-06-06T08:41:07.450720",
         "file": "advanced-linux-system-administrator-interview-questions-and-solutions.md"
+    },
+    {
+        "title": "Building Fixit..",
+        "slug": "building-fixit",
+        "author": "irfan k",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 19:12:53 +0000",
+        "description": "and the map appears 👀 after a 1.5 month break because of semester exams, i'm finally back. i touched react again and man... i felt rusty as hell. for a momen...",
+        "keywords": "project, lot, more, fixit, back, felt, got, map",
+        "generated": "2026-07-16T19:20:26.284505",
+        "file": "building-fixit.md"
     },
     {
         "title": "International chess federation sanctions Kramnik",
@@ -9325,6 +9347,17 @@
         "file": "new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf.md"
     },
     {
+        "title": "Buy Verified Heroku Accounts for Web Apps & Custom Projects",
+        "slug": "buy-verified-heroku-accounts-for-web-apps-custom-projects",
+        "author": "abusmm",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 19:15:31 +0000",
+        "description": "When developers and project creators want to bring their web applications to life, one of the essential steps they encounter is account verification. Heroku,...",
+        "keywords": "heroku, account, your, verification, developers, can, platform, app",
+        "generated": "2026-07-16T19:20:26.284284",
+        "file": "buy-verified-heroku-accounts-for-web-apps-custom-projects.md"
+    },
+    {
         "title": "Cómo automatizar el 30% de tu trabajo docente con IA (sin ser experto)",
         "slug": "cmo-automatizar-el-30-de-tu-trabajo-docente-con-ia-sin-ser-experto",
         "author": "David García",
@@ -10931,6 +10964,17 @@
         "file": "how-i-actually-make-money-talking-about-ai-the-revenue-breakdown-nobody-shares.md"
     },
     {
+        "title": "What Makes an AI System Production-Ready? Part 2: Designing a RAG Ingestion Pipeline",
+        "slug": "what-makes-an-ai-system-production-ready-part-2-designing-a-rag-ingestion-pipeline",
+        "author": "Mohit Bajaj",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 18:56:25 +0000",
+        "description": "Part of a series on building production-grade AI systems. Part 1 covered the overall shape of our enterprise RAG project. This post is about ingestion — the ...",
+        "keywords": "file, one, not, ingestion, source, documents, manifest, run",
+        "generated": "2026-07-16T19:20:26.282558",
+        "file": "what-makes-an-ai-system-production-ready-part-2-designing-a-rag-ingestion-pipeline.md"
+    },
+    {
         "title": "Moving AI From Pilot Purgatory to Production Power",
         "slug": "moving-ai-from-pilot-purgatory-to-production-power",
         "author": "Mclean Forrester",
@@ -11580,6 +11624,17 @@
         "file": "open-weight-llm-api-integration-a-practical-guide-to-building-ai-powered-apps-without-the-lock-in.md"
     },
     {
+        "title": "I built a CLI to catch broken UTM parameters before they wreck your analytics",
+        "slug": "i-built-a-cli-to-catch-broken-utm-parameters-before-they-wreck-your-analytics",
+        "author": "Assmira Lahcen",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 19:12:38 +0000",
+        "description": "One mistyped utm_medium — Email instead of email — splits one marketing channel into two rows in every dashboard downstream. It's a tiny bug that's easy to m...",
+        "keywords": "urldn, utm, validator, https, com, result, console, log",
+        "generated": "2026-07-16T19:20:26.288266",
+        "file": "i-built-a-cli-to-catch-broken-utm-parameters-before-they-wreck-your-analytics.md"
+    },
+    {
         "title": "How to Build an EVE Online Market Trading Bot in Python",
         "slug": "how-to-build-an-eve-online-market-trading-bot-in-python",
         "author": "Patrick DeVos",
@@ -12205,6 +12260,17 @@
         "keywords": "dsql, recall, vercel, write, product, safestate, recalled, where",
         "generated": "2026-06-25T04:05:12.294092",
         "file": "making-product-recalls-executable-with-aurora-dsql-and-vercel.md"
+    },
+    {
+        "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+        "slug": "detecting-llm-generated-texts-with-classical-machine-learning",
+        "author": "uneven9434",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 16:41:37 +0000",
+        "description": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 76 # Comments: 37",
+        "keywords": "llm, url, https, comments, detecting, generated, texts, classical",
+        "generated": "2026-07-16T19:20:26.281128",
+        "file": "detecting-llm-generated-texts-with-classical-machine-learning.md"
     },
     {
         "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
@@ -14913,6 +14979,17 @@
         "file": "ai-agent-governance-on-aws-what-leaders-need-to-know.md"
     },
     {
+        "title": "Adaptional (YC S25) Is Hiring",
+        "slug": "adaptional-yc-s25-is-hiring",
+        "author": "acesohc",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 17:00:55 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs Comments URL: https://news.ycombinator.com/item?id=48937125 Points: 0 # Comments: 0",
+        "keywords": "adaptional, url, https, ycombinator, com, comments, hiring, article",
+        "generated": "2026-07-16T19:20:26.280625",
+        "file": "adaptional-yc-s25-is-hiring.md"
+    },
+    {
         "title": "SpaceX sheds $400B in market value as debut rally hits reverse",
         "slug": "spacex-sheds-400b-in-market-value-as-debut-rally-hits-reverse",
         "author": "simonpure",
@@ -15054,6 +15131,17 @@
         "keywords": "edu, buysmmservice, emails, buy, more, email, com, support",
         "generated": "2026-07-03T14:21:09.820079",
         "file": "top-05-sites-to-buying-edu-emails-for-student-discounts.md"
+    },
+    {
+        "title": "42% of adults rely on their parents for financial support",
+        "slug": "42-of-adults-rely-on-their-parents-for-financial-support",
+        "author": "root-parent",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 17:11:58 +0000",
+        "description": "Article URL: https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapi...",
+        "keywords": "financial, adults, rely, their, parents, url, https, com",
+        "generated": "2026-07-16T19:20:26.280508",
+        "file": "42-of-adults-rely-on-their-parents-for-financial-support.md"
     },
     {
         "title": "*Top 10 Python Concepts for freshers* 👇",
@@ -16660,6 +16748,17 @@
         "keywords": "ford, quality, engineers, not, veteran, problems, study, systems",
         "generated": "2026-06-28T19:38:17.339966",
         "file": "ford-brought-back-350-veteran-engineers-after-its-ai-quality-systems-missed-real-world-problems.md"
+    },
+    {
+        "title": "What it actually takes to turn a Python scraper into a real Apify actor",
+        "slug": "what-it-actually-takes-to-turn-a-python-scraper-into-a-real-apify-actor",
+        "author": "0xGollum",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 19:02:50 +0000",
+        "description": "A scraper that works on your machine and an actor that survives in production are two different things. I found this out the hard way shipping ten of them on...",
+        "keywords": "apify, actor, you, build, every, your, not, one",
+        "generated": "2026-07-16T19:20:26.281418",
+        "file": "what-it-actually-takes-to-turn-a-python-scraper-into-a-real-apify-actor.md"
     },
     {
         "title": "The Role of LLMs in Grant Writing: Opportunities and Challenges",
@@ -19102,6 +19201,17 @@
         "keywords": "url, https, com, news, comments, scientist, who, cleaned",
         "generated": "2026-07-05T13:51:56.695110",
         "file": "scientist-who-cleaned-space-toilet-on-work-now-leading-mars-exploration.md"
+    },
+    {
+        "title": "The Honest 10 Way to Buy Verified DigitalOcean Accounts Setups",
+        "slug": "the-honest-10-way-to-buy-verified-digitalocean-accounts-setups",
+        "author": "Zorina Robles",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 19:17:50 +0000",
+        "description": "DigitalOcean remains one of the most popular cloud platforms for developers, startups, agencies, and businesses that need reliable VPS hosting, droplets, Kub...",
+        "keywords": "accounts, verified, digitalocean, billing, access, account, history, email",
+        "generated": "2026-07-16T19:20:26.286251",
+        "file": "the-honest-10-way-to-buy-verified-digitalocean-accounts-setups.md"
     },
     {
         "title": "REST API Automation With Python: Practical Examples",
@@ -22778,6 +22888,17 @@
         "file": "npm-v12-is-changing-everything-how-to-secure-your-install-pipeline-now.md"
     },
     {
+        "title": "The Developer's Guide To AI Accessibility Tools",
+        "slug": "the-developers-guide-to-ai-accessibility-tools",
+        "author": "Henry Voss",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 19:10:14 +0000",
+        "description": "A messy interface reveals its problems fastest when someone tries to use it with a screen reader, voice control, or a shaky internet connection on an old pho...",
+        "keywords": "accessibility, they, can, when, not, tools, screen, still",
+        "generated": "2026-07-16T19:20:26.285260",
+        "file": "the-developers-guide-to-ai-accessibility-tools.md"
+    },
+    {
         "title": "10x PRs, 1x Reviewers: The Code-Quality Bottleneck",
         "slug": "10x-prs-1x-reviewers-the-code-quality-bottleneck",
         "author": "Max Quimby",
@@ -24109,6 +24230,17 @@
         "file": "the-certification.md"
     },
     {
+        "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+        "slug": "launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps",
+        "author": "XiaHua",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 16:52:16 +0000",
+        "description": "Hey HN, we’re Xia and Varun, the founders of Traceforce ( https://www.traceforce.ai/ ). Traceforce provides visibility and control over AI apps such as ChatG...",
+        "keywords": "traceforce, security, company, device, mcps, apps, https, all",
+        "generated": "2026-07-16T19:20:26.280992",
+        "file": "launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps.md"
+    },
+    {
         "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just",
         "slug": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-just",
         "author": "Sam Raisinghani",
@@ -24648,6 +24780,17 @@
         "file": "introducing-aes-encryption-a-quick-tour.md"
     },
     {
+        "title": "How I Built a Free Code Editor. Then I Open Sourced It.",
+        "slug": "how-i-built-a-free-code-editor-then-i-open-sourced-it",
+        "author": "Deoit",
+        "source": "devto_webdev",
+        "published": "Thu, 16 Jul 2026 19:10:17 +0000",
+        "description": "Six months ago, I had a simple idea. Build a code editor that runs in the browser. No downloads, no setup, no complexity. Just open a tab and start writing H...",
+        "keywords": "open, code, source, what, deoit, built, browser, building",
+        "generated": "2026-07-16T19:20:26.284729",
+        "file": "how-i-built-a-free-code-editor-then-i-open-sourced-it.md"
+    },
+    {
         "title": "Why Statistics is Important in Data Science",
         "slug": "why-statistics-is-important-in-data-science",
         "author": "jayson kibet",
@@ -24712,6 +24855,17 @@
         "keywords": "tickets, cache, api, ticket, str, batch, self, but",
         "generated": "2026-06-21T14:23:01.491355",
         "file": "how-i-slashed-llm-api-costs-by-70-with-batching-no-magic.md"
+    },
+    {
+        "title": "Where Can I Buy Verified Heroku Accounts with 24/7 Support?",
+        "slug": "where-can-i-buy-verified-heroku-accounts-with-247-support",
+        "author": "abusmm",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 19:16:44 +0000",
+        "description": "For developers exploring cloud platforms, understanding the requirements and support options available is an important part of the learning journey. Heroku, ...",
+        "keywords": "heroku, account, verification, developers, support, learning, card, credit",
+        "generated": "2026-07-16T19:20:26.287711",
+        "file": "where-can-i-buy-verified-heroku-accounts-with-247-support.md"
     },
     {
         "title": "Make Your Own AI Modle With One Line of Code",
@@ -25592,6 +25746,17 @@
         "keywords": "you, operator, your, model, browser, agent, changes, out",
         "generated": "2026-06-15T12:29:05.505973",
         "file": "moving-from-chatbots-to-agents-testing-openai-operator.md"
+    },
+    {
+        "title": "FlightGlitch",
+        "slug": "flightglitch",
+        "author": "tech_minimalist",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 19:16:03 +0000",
+        "description": "Technical Analysis: FlightGlitch Overview FlightGlitch is a web-based service that alerts users to airline error fares, which are significantly discounted ti...",
+        "keywords": "data, flightglitch, error, can, fare, user, fares, analysis",
+        "generated": "2026-07-16T19:20:26.288063",
+        "file": "flightglitch.md"
     },
     {
         "title": "Claude MCP Integrations Through a Proxy: How ShadoClaw Keeps Your Tool Chains Stable",
@@ -29202,6 +29367,17 @@
         "file": "event-sourcing-is-just-reduce-over-time.md"
     },
     {
+        "title": "One blocking call freezes every request: FastAPI's def vs async def",
+        "slug": "one-blocking-call-freezes-every-request-fastapis-def-vs-async-def",
+        "author": "r9v",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 18:48:24 +0000",
+        "description": "There's a FastAPI outage that starts with someone doing the right thing. The service has a pile of plain def endpoints written by whoever came before, somebo...",
+        "keywords": "async, def, loop, endpoint, call, you, blocking, one",
+        "generated": "2026-07-16T19:20:26.283077",
+        "file": "one-blocking-call-freezes-every-request-fastapis-def-vs-async-def.md"
+    },
+    {
         "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
         "slug": "pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress-15mil-users",
         "author": "FrustratedMonky",
@@ -30467,14 +30643,14 @@
         "file": "leveraging-llm-for-sentiment-analysis-in-social-media-monitoring.md"
     },
     {
-        "title": "سوزن زرین — Complete Guide",
+        "title": "قمر — Complete Guide",
         "slug": "complete-guide",
         "author": "Ayat Saadat",
         "source": "devto_webdev",
-        "published": "Fri, 10 Jul 2026 19:12:26 +0000",
-        "description": "مستندات فنی و راهنمای جامع: سوزن زرین (Sozane Zarin) در دنیای مدرن، هنر و فناوری همیشه در حال تلاقی هستند. «سوزن زرین» پروژه‌ای است که با هدف ارتقای استاندار...",
-        "keywords": "self, name, sozane, zarin, sozanezarinproject, def, project, complete",
-        "generated": "2026-07-10T19:40:31.690065",
+        "published": "Thu, 16 Jul 2026 19:09:34 +0000",
+        "description": "قمر (Qamar): راهنمای جامع و فنی در دنیای توسعه نرم‌افزار، همیشه به دنبال ابزاری هستیم که بدون درگیر کردن ما در پیچیدگی‌های غیرضروری، کار را به سرانجام برساند...",
+        "keywords": "qamar, yarn, core, node, npm, const, instance, production",
+        "generated": "2026-07-16T19:20:26.285454",
         "file": "complete-guide.md"
     },
     {
@@ -31752,6 +31928,17 @@
         "keywords": "token, agent, one, model, gate, not, action, your",
         "generated": "2026-07-16T08:22:50.505230",
         "file": "your-ai-agent-should-not-have-unrestricted-power.md"
+    },
+    {
+        "title": "Compare Options Before You Buy Verified DigitalOcean Hostings Account Boom",
+        "slug": "compare-options-before-you-buy-verified-digitalocean-hostings-account-boom",
+        "author": "Zorina Robles",
+        "source": "devto_ai",
+        "published": "Thu, 16 Jul 2026 19:17:06 +0000",
+        "description": "DigitalOcean remains one of the most popular platforms for developers, agencies, and businesses that need reliable and scalable cloud infrastructure. In 2026...",
+        "keywords": "accounts, verified, digitalocean, billing, access, history, email, verification",
+        "generated": "2026-07-16T19:20:26.286989",
+        "file": "compare-options-before-you-buy-verified-digitalocean-hostings-account-boom.md"
     },
     {
         "title": "AI Medical Scribes for Urology: Improving Clinical Documentation and Workflow Efficiency in 2026",
@@ -33239,6 +33426,17 @@
         "file": "xor-backpropagation-na-prtica-em-rust.md"
     },
     {
+        "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+        "slug": "german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks",
+        "author": "amai",
+        "source": "hackernews",
+        "published": "Thu, 16 Jul 2026 17:44:46 +0000",
+        "description": "Article URL: https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/ Comments URL: h...",
+        "keywords": "german, consortium, releases, soofi, open, model, tops, benchmarks",
+        "generated": "2026-07-16T19:20:26.280328",
+        "file": "german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md"
+    },
+    {
         "title": "🏷️ DAY 5: Dictionaries",
         "slug": "day-5-dictionaries",
         "author": "Bonface Thuo",
@@ -33303,6 +33501,17 @@
         "keywords": "hospitality, capital, conferences, hotels, https, chairs, kuwait, com",
         "generated": "2026-07-16T03:13:36.752647",
         "file": "hospitality-capital-conferences-hotels.md"
+    },
+    {
+        "title": "Agents Can Remove Image Backgrounds Locally — No Cloud API Required",
+        "slug": "agents-can-remove-image-backgrounds-locally-no-cloud-api-required",
+        "author": "Ross Peili",
+        "source": "devto_python",
+        "published": "Thu, 16 Jul 2026 18:57:48 +0000",
+        "description": "Are you building an agent, or are you the agent that should remove image backgrounds — product shots, portraits, uploads from chat — without wiring a separat...",
+        "keywords": "skill, skillware, agent, model, execute, image, bundle, creative",
+        "generated": "2026-07-16T19:20:26.281754",
+        "file": "agents-can-remove-image-backgrounds-locally-no-cloud-api-required.md"
     },
     {
         "title": "How to Manage Track Changes in Word with Python",
