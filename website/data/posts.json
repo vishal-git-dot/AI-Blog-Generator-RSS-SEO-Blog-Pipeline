@@ -5707,6 +5707,17 @@
         "file": "ai-cost-optimizer-cli-real-time-ai-cost-tracking-model-routing-and-shadow-ai-detection-from-the-terminal.md"
     },
     {
+        "title": "Stop Paying for Authentication: Migrate from Clerk & Google OAuth to Open Source",
+        "slug": "stop-paying-for-authentication-migrate-from-clerk-google-oauth-to-open-source",
+        "author": "Mayur Pawar",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 13:38:50 +0000",
+        "description": "Authentication is one of the first things developers add to an application. Today, many teams use services like Google OAuth, Clerk, Auth0, or Firebase Authe...",
+        "keywords": "authentication, you, your, google, oauth, user, clerk, keycloak",
+        "generated": "2026-07-17T13:49:54.406309",
+        "file": "stop-paying-for-authentication-migrate-from-clerk-google-oauth-to-open-source.md"
+    },
+    {
         "title": "Mastering FastAPI Error Handling Best Practices – A Hands‑On Guide",
         "slug": "mastering-fastapi-error-handling-best-practices-a-handson-guide",
         "author": "Ayush Kumar",
@@ -7182,6 +7193,17 @@
         "file": "how-i-build-vue-3-applications-part-2-how-i-decide-where-every-component-belongs.md"
     },
     {
+        "title": "My Inferentia port matched its reference token-for-token — and still output garbage",
+        "slug": "my-inferentia-port-matched-its-reference-token-for-token-and-still-output-garbage",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 13:29:49 +0000",
+        "description": "I ported Google's biggest open Gemma-4 — the 30-billion-parameter dense model — to AWS Inferentia2. The compiled model passed my strictest check: its output ...",
+        "keywords": "model, not, rank, token, layers, compile, one, weights",
+        "generated": "2026-07-17T13:49:54.404064",
+        "file": "my-inferentia-port-matched-its-reference-token-for-token-and-still-output-garbage.md"
+    },
+    {
         "title": "The Resurgence of Emacs in Mod…",
         "slug": "the-resurgence-of-emacs-in-mod",
         "author": "Norvik Tech",
@@ -8062,6 +8084,17 @@
         "file": "data-observability-platforms-compared-monte-carlo-anomalo-bigeye-lightup.md"
     },
     {
+        "title": "Generator Internals: Why They Are Lazy and What That Actually Means",
+        "slug": "generator-internals-why-they-are-lazy-and-what-that-actually-means",
+        "author": "Ameer Abdullah",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 13:32:00 +0000",
+        "description": "Tracing a generator's execution reveals a fundamentally different way Python can run code. A generator function looks like a regular function but behaves in ...",
+        "keywords": "generator, print, yield, next, value, calling, function, when",
+        "generated": "2026-07-17T13:49:54.402900",
+        "file": "generator-internals-why-they-are-lazy-and-what-that-actually-means.md"
+    },
+    {
         "title": "How to Accept Payments in a Telegram Bot Using Python",
         "slug": "how-to-accept-payments-in-a-telegram-bot-using-python",
         "author": "guardlabs_team",
@@ -8799,6 +8832,17 @@
         "file": "nep-a-semantic-transform-that-beats-zstd-by-12-on-ethereum-json-rpc-data.md"
     },
     {
+        "title": "USING SQLITE IN GO AND IT'S IMPORTANCE",
+        "slug": "using-sqlite-in-go-and-its-importance",
+        "author": "wairewaire",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 13:39:02 +0000",
+        "description": "When starting a new software project, the instinct for most developers is to immediately reach for a heavy relational database network. We spin up Docker con...",
+        "keywords": "your, you, database, file, err, zero, infrastructure, fast",
+        "generated": "2026-07-17T13:49:54.405961",
+        "file": "using-sqlite-in-go-and-its-importance.md"
+    },
+    {
         "title": "AI agents need their own SSL. Here's why I built it.",
         "slug": "ai-agents-need-their-own-ssl-heres-why-i-built-it",
         "author": "Edison Flores",
@@ -8819,6 +8863,17 @@
         "keywords": "new, york, just, passed, one, year, temporary, ban",
         "generated": "2026-06-05T15:19:56.041186",
         "file": "new-york-just-passed-a-one-year-temporary-ban-on-data-centers.md"
+    },
+    {
+        "title": "Minikotlin",
+        "slug": "minikotlin",
+        "author": "frizlab",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 12:50:29 +0000",
+        "description": "Article URL: https://minikotlin.run Comments URL: https://news.ycombinator.com/item?id=48946783 Points: 36 # Comments: 7",
+        "keywords": "minikotlin, url, https, comments, article, run, news, ycombinator",
+        "generated": "2026-07-17T13:49:54.402350",
+        "file": "minikotlin.md"
     },
     {
         "title": "From the Fantasy of Local Models to a Truly Controllable Sports Agent",
@@ -8918,6 +8973,17 @@
         "keywords": "ultracode, you, model, claude, fable, effort, what, every",
         "generated": "2026-07-04T13:45:59.772429",
         "file": "i-found-claude-fable-5s-best-use-case-it-cost-75-of-my-monthly-quota-to-get-there.md"
+    },
+    {
+        "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
+        "slug": "five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 13:29:07 +0000",
+        "description": "I ported the whole Gemma-4 family — E2B, E4B, 12B, 31B, and the 26B-A4B MoE — to run on AWS Inferentia2. Each has its own write-up in this series; this is th...",
+        "keywords": "one, rank, moe, trace, dense, model, every, all",
+        "generated": "2026-07-17T13:49:54.405216",
+        "file": "five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me.md"
     },
     {
         "title": "Another Tale of Two Threads (C or C++ vs. Python)",
@@ -10324,6 +10390,17 @@
         "keywords": "university, oxford, older, than, aztec, empire, other, facts",
         "generated": "2026-07-05T03:58:51.636295",
         "file": "university-of-oxford-is-older-than-the-aztec-empire-and-other-facts-of-history.md"
+    },
+    {
+        "title": "AI Is Changing Hybrid Project Management",
+        "slug": "ai-is-changing-hybrid-project-management",
+        "author": "Scott McMahan",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 13:38:41 +0000",
+        "description": "Project management is no longer about choosing between Agile and traditional methodologies. Many organizations are combining both approaches to meet the dema...",
+        "keywords": "project, hybrid, management, projects, more, managers, teams, agile",
+        "generated": "2026-07-17T13:49:54.406656",
+        "file": "ai-is-changing-hybrid-project-management.md"
     },
     {
         "title": "Add Watermarks to Videos Online: Protect Your Content and Strengthen Your Brand",
@@ -13274,6 +13351,28 @@
         "file": "building-an-mcp-server-and-client-with-spring-ai-and-ollama.md"
     },
     {
+        "title": "Best LLMs for Academic Research: A Comparison",
+        "slug": "best-llms-for-academic-research-a-comparison",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 13:36:46 +0000",
+        "description": "Academic research increasingly relies on large language models for literature synthesis, hypothesis generation, statistical coding, and multimodal analysis. ...",
+        "keywords": "oxlo, research, context, reasoning, you, model, long, deepseek",
+        "generated": "2026-07-17T13:49:54.408366",
+        "file": "best-llms-for-academic-research-a-comparison.md"
+    },
+    {
+        "title": "Show DEV: I built a lightweight, extensible Web Page Builder using React 🚀",
+        "slug": "show-dev-i-built-a-lightweight-extensible-web-page-builder-using-react",
+        "author": "ebrahim elmwafy",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 13:38:03 +0000",
+        "description": "Hey DEV Community! 👋 I wanted to share a project I've been working on recently: Pepsi Page Builder . It’s an open-source, lightweight web page builder design...",
+        "keywords": "lightweight, page, builder, pepsi, github, dev, extensible, web",
+        "generated": "2026-07-17T13:49:54.406474",
+        "file": "show-dev-i-built-a-lightweight-extensible-web-page-builder-using-react.md"
+    },
+    {
         "title": "Your LLM Judge Costs More Than the Agent. Gate It in 40 Lines.",
         "slug": "your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines",
         "author": "Alexey Spinov",
@@ -14460,6 +14559,17 @@
         "keywords": "youtrackdb, url, https, com, comments, general, use, object",
         "generated": "2026-07-14T08:17:51.105714",
         "file": "youtrackdb-is-a-general-use-object-oriented-graph-database.md"
+    },
+    {
+        "title": "🚀 Introducing XQORA Technologies: Building the Future, One Project at a Time",
+        "slug": "introducing-xqora-technologies-building-the-future-one-project-at-a-time",
+        "author": "XQORA TECHNOLOGIES",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 13:45:04 +0000",
+        "description": "Hello, Dev.to community! 👋 We're excited to introduce XQORA Technologies, a growing software startup focused on building practical, scalable, and innovative ...",
+        "keywords": "xqora, technologies, building, software, our, development, solutions, while",
+        "generated": "2026-07-17T13:49:54.405655",
+        "file": "introducing-xqora-technologies-building-the-future-one-project-at-a-time.md"
     },
     {
         "title": "Otary - Image & Geometry Python Library now has Tutorials",
@@ -18158,6 +18268,17 @@
         "file": "geminicli-security-extensions-review-codex.md"
     },
     {
+        "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+        "slug": "manufact-yc-s25-is-hiring-a-senior-infra-engineer-to-build-the-mcp-cloud",
+        "author": "luigipederzani",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 13:22:33 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer Comments URL: https://news.ycombinator.com/item?id=48...",
+        "keywords": "manufact, senior, engineer, url, https, ycombinator, com, comments",
+        "generated": "2026-07-17T13:49:54.402060",
+        "file": "manufact-yc-s25-is-hiring-a-senior-infra-engineer-to-build-the-mcp-cloud.md"
+    },
+    {
         "title": "Python Async Web Scraping: Scrape 1000 Pages in Seconds",
         "slug": "python-async-web-scraping-scrape-1000-pages-in-seconds",
         "author": "qing",
@@ -18508,6 +18629,17 @@
         "keywords": "url, https, comments, since, linux, luks, suspend, stopped",
         "generated": "2026-07-02T19:40:41.062680",
         "file": "since-linux-69-luks-suspend-stopped-wiping-disk-encryption-keys-from-memory.md"
+    },
+    {
+        "title": "Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 — where every rank weighted the wrong experts",
+        "slug": "porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-experts",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 13:29:28 +0000",
+        "description": "Of the five Gemma-4 models I ported to AWS Inferentia2, the 26B-A4B was the one that was supposed to be impossible: a Mixture of Experts . It compiled on the...",
+        "keywords": "experts, rank, moe, its, not, expert, runtime, device",
+        "generated": "2026-07-17T13:49:54.404649",
+        "file": "porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-experts.md"
     },
     {
         "title": "SaaS Metrics for Startups: The KPIs Every Founder Should Track",
@@ -19267,6 +19399,17 @@
         "keywords": "digital, you, marketing, spend, type, just, clickmaking, your",
         "generated": "2026-06-08T04:42:39.221325",
         "file": "indias-digital-ad-spend-is-tripling-heres-why.md"
+    },
+    {
+        "title": "How Much Does AI Development Cost in 2026? Real Numbers, No “It Depends”",
+        "slug": "how-much-does-ai-development-cost-in-2026-real-numbers-no-it-depends",
+        "author": "imsid123",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 13:37:34 +0000",
+        "description": "One of the first questions companies ask before investing in AI is simple: How much is this actually going to cost? Unfortunately, most articles answer wit...",
+        "keywords": "cost, often, one, most, you, production, evaluation, how",
+        "generated": "2026-07-17T13:49:54.407945",
+        "file": "how-much-does-ai-development-cost-in-2026-real-numbers-no-it-depends.md"
     },
     {
         "title": "5 Best Sites to Buy Facebook Accounts (PVA & Aged)",
@@ -23911,6 +24054,17 @@
         "file": "david-beazley-programming-courses.md"
     },
     {
+        "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+        "slug": "multi-primary-color-display-emerges-as-next-gen-color-reproduction-technology",
+        "author": "ksec",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 13:02:07 +0000",
+        "description": "Article URL: https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/ Comments URL: https://news.ycombinator.com/item?id=48946895 Points: 1...",
+        "keywords": "color, multi, primary, display, technology, url, https, com",
+        "generated": "2026-07-17T13:49:54.402239",
+        "file": "multi-primary-color-display-emerges-as-next-gen-color-reproduction-technology.md"
+    },
+    {
         "title": "I Built a Free Browser-Based Photobooth with React and OpenCV",
         "slug": "i-built-a-free-browser-based-photobooth-with-react-and-opencv",
         "author": "Roshani",
@@ -24382,6 +24536,17 @@
         "keywords": "agent, you, not, tool, workflow, monitoring, context, whether",
         "generated": "2026-06-19T10:46:49.271601",
         "file": "how-to-monitor-ai-agent-behavior-in-production-tools-metrics-and-what-to-alert-on.md"
+    },
+    {
+        "title": "Apple targets dozens of OpenAI employees with legal letters",
+        "slug": "apple-targets-dozens-of-openai-employees-with-legal-letters",
+        "author": "merksittich",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 12:02:39 +0000",
+        "description": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166 Comments URL: https://news.ycombinator.com/item?id=48946303 Points: 91 # Comment...",
+        "keywords": "url, https, com, comments, apple, targets, dozens, openai",
+        "generated": "2026-07-17T13:49:54.402563",
+        "file": "apple-targets-dozens-of-openai-employees-with-legal-letters.md"
     },
     {
         "title": "Supersonic flight returning to US after half-century ban",
@@ -27057,6 +27222,17 @@
         "file": "how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-problems-nobody-warned-me-about.md"
     },
     {
+        "title": "VulnHunter: Capital One's agentic AI code security tool",
+        "slug": "vulnhunter-capital-ones-agentic-ai-code-security-tool",
+        "author": "medina",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 12:42:12 +0000",
+        "description": "Article URL: https://www.capitalone.com/tech/open-source/announcing-vulnhunter/ Comments URL: https://news.ycombinator.com/item?id=48946692 Points: 10 # Comm...",
+        "keywords": "vulnhunter, url, https, com, comments, capital, one, agentic",
+        "generated": "2026-07-17T13:49:54.402457",
+        "file": "vulnhunter-capital-ones-agentic-ai-code-security-tool.md"
+    },
+    {
         "title": "How I Built, Deployed, and Google-Indexed a Full-Stack AI App in Under 24 Hours published: true",
         "slug": "how-i-built-deployed-and-google-indexed-a-full-stack-ai-app-in-under-24-hours-published-true",
         "author": "Jesse Otobo",
@@ -29103,6 +29279,17 @@
         "file": "ai-data-privacy-a-three-layer-defense-for-using-ai-without-leaking-secrets.md"
     },
     {
+        "title": "Porting Gemma-4 12B (the encoder-free multimodal one) to AWS Inferentia2",
+        "slug": "porting-gemma-4-12b-the-encoder-free-multimodal-one-to-aws-inferentia2",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 13:30:09 +0000",
+        "description": "The middle child of the series. The 12B is the first Gemma-4 that's neither a MatFormer effective model (E2B/E4B) nor a giant (31B/26B) — but it has its ow...",
+        "keywords": "you, multimodal, model, attention, device, but, global, shard",
+        "generated": "2026-07-17T13:49:54.403314",
+        "file": "porting-gemma-4-12b-the-encoder-free-multimodal-one-to-aws-inferentia2.md"
+    },
+    {
         "title": "How to Balance SMB Workloads Between Cloud and Colocation",
         "slug": "how-to-balance-smb-workloads-between-cloud-and-colocation",
         "author": "Millennium Systems",
@@ -31037,6 +31224,17 @@
         "keywords": "woman, brazil, enslaved, years, generations, same, family, url",
         "generated": "2026-07-12T13:38:55.215900",
         "file": "woman-in-brazil-enslaved-for-55-years-by-3-generations-of-the-same-family.md"
+    },
+    {
+        "title": "How to Extract Clean Content From Any URL in 3 Lines of Python",
+        "slug": "how-to-extract-clean-content-from-any-url-in-3-lines-of-python",
+        "author": "bao001 xiao",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 13:45:16 +0000",
+        "description": "Have you ever needed to grab the actual content from a web page — without all the ads, nav bars, and JavaScript junk? Whether you're building an AI training ...",
+        "keywords": "content, you, requests, api, clean, data, python, reading",
+        "generated": "2026-07-17T13:49:54.405477",
+        "file": "how-to-extract-clean-content-from-any-url-in-3-lines-of-python.md"
     },
     {
         "title": "Day 05: Network Foundations & Security(For Dev's)",
@@ -33270,6 +33468,17 @@
         "file": "building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb.md"
     },
     {
+        "title": "HIPAA-Compliant AI Agent Architecture: The Network Layer You Can't Skip",
+        "slug": "hipaa-compliant-ai-agent-architecture-the-network-layer-you-cant-skip",
+        "author": "Philip Stayetski",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 13:37:52 +0000",
+        "description": "When you're thinking through a HIPAA-compliant AI agent architecture, most of the checklists focus on the obvious layers: data encryption at rest, access con...",
+        "keywords": "network, agent, agents, every, trust, per, data, architecture",
+        "generated": "2026-07-17T13:49:54.407526",
+        "file": "hipaa-compliant-ai-agent-architecture-the-network-layer-you-cant-skip.md"
+    },
+    {
         "title": "Monte Carlo Simulation for Tournament Forecasting: From a Match Model to Bracket Probabilities",
         "slug": "monte-carlo-simulation-for-tournament-forecasting-from-a-match-model-to-bracket-probabilities",
         "author": "Neu Portal",
@@ -34368,6 +34577,17 @@
         "keywords": "async, fastapi, sqlalchemy, task, import, models, asyncsession, you",
         "generated": "2026-07-14T13:57:07.328041",
         "file": "fix-asyncsession-errors-in-fastapi-sqlalchemy-20-guide.md"
+    },
+    {
+        "title": "LLM-Assisted Academic Writing: Tips and Best Practices",
+        "slug": "llm-assisted-academic-writing-tips-and-best-practices",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 13:38:31 +0000",
+        "description": "We are building a lightweight academic writing assistant that helps researchers outline, draft, and refine papers using structured multi-turn conversations. ...",
+        "keywords": "draft, oxlo, topic, outline, content, print, thesis, client",
+        "generated": "2026-07-17T13:49:54.407006",
+        "file": "llm-assisted-academic-writing-tips-and-best-practices.md"
     },
     {
         "title": "Automating My Freelance Workflow with Python: A Step-by-Step Guide",
