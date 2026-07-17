@@ -1,0 +1,34 @@
+---
+title: "Batched Prompt Scheduling for On-Device LLMs"
+slug: "batched-prompt-scheduling-for-on-device-llms"
+author: "SoftwareDevs mvpfactory.io"
+source: "devto_webdev"
+published: "Fri, 17 Jul 2026 08:07:58 +0000"
+description: "--- title : " Batched Prompt Scheduling for On-Device LLMs: Priority Queues, Preemption, and the Android Inference Engine That Never Stalls the UI" published..."
+keywords: "background, priority, foreground, cache, android, lifecycle, budget, engine"
+generated: "2026-07-17T08:19:05.881841"
+---
+
+# Batched Prompt Scheduling for On-Device LLMs
+
+## Overview
+
+--- title : " Batched Prompt Scheduling for On-Device LLMs: Priority Queues, Preemption, and the Android Inference Engine That Never Stalls the UI" published : true description : " Build a three-layer Android inference scheduler that multiplexes on-device LLM calls across foreground chat, inline suggestions, and background summarization — with preemption, partial KV cache eviction, and a lifecycle-aware token-budget governor." tags : android, kotlin, mobile, architecture canonical_url : https://mvpfactory.co/blog/android-on-device-llm-scheduling --- What We Are Building By the end of this tutorial you will have a working three-layer inference scheduler that multiplexes on-device LLM calls across concurrent Android callers — foreground chat, inline suggestions, and background summarization — without canceling in-flight jobs or stalling the UI. Here is the problem we are solving first: on a Tensor G3 chip, a 3B parameter model saturates roughly 85% of the NPU during active generation. A foreground chat request arriving mid-inference on a background summary job sees first-token latency jump from 140ms to over 1,400ms. That is a 10× regression from a single design oversight. Prerequisites Android project targeting API 26+ A running on-device inference engine (MediaPipe, llama.cpp JNI, or similar) androidx.lifecycle:lifecycle-process dependency for ProcessLifecycleOwner The Three-Layer Architecture ┌─────────────────────────────────────────┐ │ InferenceOrchestrator │ │ ┌──────────────┐ ┌───────────────┐ │ │ │ PriorityQueue│ │ TokenBudget │ │ │ │ (min-heap) │ │ Governor │ │ │ └──────────────┘ └───────────────┘ │ │ │ │ │ │ ┌──────▼──────────────────▼──────────┐ │ │ │ PreemptionController │ │ │ │ (KV cache snapshot + eviction) │ │ │ └────────────────────────────────────┘ │ │ │ │ │ ┌──────────▼──────────┐ │ │ │ InferenceEngine │ │ │ └─────────────────────┘ │ └─────────────────────────────────────────┘ Step 1 — Priority Queue With Preemption Assign each request a RequestPriority based on caller type: Caller Type Priority Max Token Budget Preemptible Foreground Chat CRITICAL (0) Unlimited No Inline Suggestion HIGH (1) 128 tokens No Background Summary NORMAL (2) 512 tokens Yes Offline Indexing LOW (3) 1024 tokens Yes The queue is a PriorityBlockingQueue<InferenceJob> backed by a min-heap on priority ordinal. Let me show you a pattern I use in every project — the PreemptionController : class PreemptionController ( private val engine : InferenceEngine ) { fun preempt ( current : InferenceJob , incoming : InferenceJob ) { if ( incoming . priority < current . priority && current . isPreemptible ) { val snapshot = engine . snapshotKVCache ( current . sessionId ) current . checkpointState = snapshot engine . suspendGeneration ( current . sessionId ) engine . resume ( incoming . sessionId ) } } } Notice what is not here: a cancellation call. You snapshot the KV cache and park the job. When the high-priority request completes, the background job resumes from that checkpoint. Step 2 — Partial KV Cache Eviction Full eviction forces re-prefilling the entire prompt context on resume — expensive. The minimal setup that works: retain the static system-prompt portion of the KV cache (it never changes) and evict only the dynamic conversation turns. Retaining the first N layers of the KV cache during preemption cuts re-prefill cost by 40–60% on prompts with fixed system instructions exceeding 512 tokens. Cache eviction only fires when memory pressure exceeds 70% of available LPDDR5 bandwidth. Step 3 — Token-Budget Governor Tied to Process Lifecycle Here is the gotcha that will save you hours. Most implementations wire the budget governor to a timer. Timers are guesses. Android's ProcessLifecycleOwner exposes authoritative ON_RESUME and ON_STOP events — use those instead: class TokenBudgetGovernor ( lifecycle : ProcessLifecycle ) { private var budgetMultiplier = 1.0f init { lifecycle . addObserver { event -> budgetMultiplier = when ( event ) { ON_RESUME -> 1.0f // full budget, foreground ON_STOP -> 0.25f // aggressive throttle, background else -> 0.5f } } } fun budgetFor ( job : InferenceJob ): Int = ( job . priority . baseBudget * budgetMultiplier ). toInt () } When the app moves to background, token output throttles to 25% of base budget. Battery savings are a side effect — the real goal is ensuring the next foreground request hits the engine with full resources already reclaimed. Latency Results Scenario Naive Queue Priority Scheduler Foreground chat, no background jobs 138ms TTFT 135ms TTFT Foreground chat, background summary active 1,420ms TTFT 161ms TTFT Inline suggestion under load 890ms TTFT 148ms TTFT Background resume after preemption N/A (canceled) +22% vs fresh start The 22% overhead on background job resume is the cost of partial KV cache re-prefill. That is the right trade. Gotchas Do not model this like a coroutine dispatcher. Throwing requests at a shared dispatcher and hoping for the best works with one caller. With three concurrent callers it produces that 1,400ms spike shown above. Four priority tiers is the right number. CRITICAL, HIGH, NORMAL, LOW covers the full production caller space. More granularity adds scheduling overhead with negligible SLA benefit. Lifecycle events, not timers. The docs do not make this obvious, but ProcessLifecycleOwner is the correct authority for budget decisions. A Handler -based poll introduces 100–500ms of lag at exactly the moment precision matters. Conclusion A three-layer scheduler — priority queue with preemption, partial KV cache eviction, and a lifecycle-aware token budget governor — brings foreground chat from 1,420ms down to 161ms TTFT under load without canceling a single background job. Relevant reading: Android ProcessLifecycleOwner docs , MediaPipe LLM Inference API .
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/software_mvp-factory/batched-prompt-scheduling-for-on-device-llms-1ik6
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

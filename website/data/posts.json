@@ -143,6 +143,17 @@
         "file": "build-your-first-mcp-server-in-python-give-claude-your-own-notes.md"
     },
     {
+        "title": "UIUC AI Teaching Assistant",
+        "slug": "uiuc-ai-teaching-assistant",
+        "author": "teleforce",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 02:23:18 +0000",
+        "description": "Article URL: https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc Comments URL: https://news.ycombinator.com/item?id=48942721 Points: 16 # ...",
+        "keywords": "uiuc, teaching, assistant, url, https, com, comments, article",
+        "generated": "2026-07-17T08:19:05.878856",
+        "file": "uiuc-ai-teaching-assistant.md"
+    },
+    {
         "title": "ΠFS",
         "slug": "fs",
         "author": "helterskelter",
@@ -1043,6 +1054,17 @@
         "keywords": "you, your, product, what, build, technology, every, will",
         "generated": "2026-06-19T19:55:28.881789",
         "file": "how-we-choose-technology-at-worqship-and-what-that-means-for-you.md"
+    },
+    {
+        "title": "GrapheneOS recommended for domestic abuse victims",
+        "slug": "grapheneos-recommended-for-domestic-abuse-victims",
+        "author": "aussieguy1234",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 01:36:52 +0000",
+        "description": "Article URL: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/ Comments URL: https://news.ycombinator.com/item?id=48942454 Points: 121...",
+        "keywords": "url, https, com, comments, grapheneos, recommended, domestic, abuse",
+        "generated": "2026-07-17T08:19:05.878959",
+        "file": "grapheneos-recommended-for-domestic-abuse-victims.md"
     },
     {
         "title": "TIL: asyncio.gather() Runs Coroutines Concurrently, Not Sequentially (2026)",
@@ -2211,6 +2233,17 @@
         "file": "my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted.md"
     },
     {
+        "title": "I Automated My Content Pipeline With Claude Code. It Published the Same Article Five Times.",
+        "slug": "i-automated-my-content-pipeline-with-claude-code-it-published-the-same-article-five-times",
+        "author": "Kane Fuller",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 08:07:47 +0000",
+        "description": "I have a Mac Mini that runs Claude Code on a schedule. Every Friday morning it wakes up, reads a strategy file, picks the next article off a backlog, writes ...",
+        "keywords": "agent, run, what, claude, code, article, mac, mini",
+        "generated": "2026-07-17T08:19:05.885680",
+        "file": "i-automated-my-content-pipeline-with-claude-code-it-published-the-same-article-five-times.md"
+    },
+    {
         "title": "Python Automation for Passive Crypto Income: A Complete Blueprint (2026)",
         "slug": "python-automation-for-passive-crypto-income-a-complete-blueprint-2026",
         "author": "叶稼辰",
@@ -2728,6 +2761,17 @@
         "file": "stop-flying-blind-how-to-build-a-production-grade-telemetry-layer-for-self-improving-ai-agents.md"
     },
     {
+        "title": "5 Lightweight Tailscale Alternatives Worth Running on Your Own Hardware",
+        "slug": "5-lightweight-tailscale-alternatives-worth-running-on-your-own-hardware",
+        "author": "우병수",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 08:10:19 +0000",
+        "description": "TL;DR: Tailscale's WireGuard mesh is elegant, and the client software works well. The problem isn't the protocol — it's that the glue holding your mesh toget...",
+        "keywords": "you, your, tailscale, headscale, server, relay, self, not",
+        "generated": "2026-07-17T08:19:05.885280",
+        "file": "5-lightweight-tailscale-alternatives-worth-running-on-your-own-hardware.md"
+    },
+    {
         "title": "KDP Niche Spotlight: Middle Of The Night Insomnia (Demand 42/100, Competition 0/100)",
         "slug": "kdp-niche-spotlight-middle-of-the-night-insomnia-demand-42100-competition-0100",
         "author": "Jay",
@@ -2913,6 +2957,17 @@
         "keywords": "sqlite, url, https, comments, nul, characters, strings, article",
         "generated": "2026-07-16T03:13:36.749796",
         "file": "nul-characters-in-strings-in-sqlite.md"
+    },
+    {
+        "title": "ATLOCK v4 vs. Typical Third-Party Security Software: What You're Actually Trading Off",
+        "slug": "atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off",
+        "author": "Akhouri Anmol Kumar",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 07:38:09 +0000",
+        "description": "🔒 ATLOCK v4 vs. Typical Third-Party Security Suites TL;DR — Most security suites ask you to trust a company with your data, pay a subscription, and run bac...",
+        "keywords": "atlock, you, what, security, your, not, typical, software",
+        "generated": "2026-07-17T08:19:05.881138",
+        "file": "atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off.md"
     },
     {
         "title": "Streamline Your AI Development with GSD-Core: Build Smarter Pipelines",
@@ -5785,6 +5840,17 @@
         "file": "your-pipeline-is-283h-behind-catching-defence-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "How Our AI Agents Built a Universal Code Snippet & Embeddable Widget Generator in Record Time",
+        "slug": "how-our-ai-agents-built-a-universal-code-snippet-embeddable-widget-generator-in-record-time",
+        "author": "Denis",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 08:03:00 +0000",
+        "description": "How Our AI Agents Built a Universal Code Snippet & Embeddable Widget Generator in Record Time Dive deep into the technical journey behind our new Universal C...",
+        "keywords": "generator, code, our, snippet, widget, user, firebase, embeddable",
+        "generated": "2026-07-17T08:19:05.883459",
+        "file": "how-our-ai-agents-built-a-universal-code-snippet-embeddable-widget-generator-in-record-time.md"
+    },
+    {
         "title": "ERP Software for Manufacturing: Key Features Every Business Should Look For",
         "slug": "erp-software-for-manufacturing-key-features-every-business-should-look-for",
         "author": "Tayyab Malik",
@@ -6135,6 +6201,17 @@
         "keywords": "your, spf, domain, dkim, dmarc, you, one, pass",
         "generated": "2026-07-14T19:26:51.412977",
         "file": "your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why.md"
+    },
+    {
+        "title": "Kimi K3 explained in plain terms, and why open is getting complicated",
+        "slug": "kimi-k3-explained-in-plain-terms-and-why-open-is-getting-complicated",
+        "author": "Pranav Raj",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 08:12:25 +0000",
+        "description": "TL;DR: Moonshot AI released Kimi K3 on July 16, a 2.8 trillion parameter open-weight model with a 1 million token context window. This post explains what tho...",
+        "keywords": "model, open, can, moonshot, you, but, run, not",
+        "generated": "2026-07-17T08:19:05.883895",
+        "file": "kimi-k3-explained-in-plain-terms-and-why-open-is-getting-complicated.md"
     },
     {
         "title": "Chaos engineering: testing system resilience through controlled experiments",
@@ -7983,6 +8060,17 @@
         "keywords": "data, table, monte, carlo, lineage, platform, column, observability",
         "generated": "2026-06-25T14:43:02.855403",
         "file": "data-observability-platforms-compared-monte-carlo-anomalo-bigeye-lightup.md"
+    },
+    {
+        "title": "How to Accept Payments in a Telegram Bot Using Python",
+        "slug": "how-to-accept-payments-in-a-telegram-bot-using-python",
+        "author": "guardlabs_team",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 08:00:10 +0000",
+        "description": "How to Accept Payments in a Telegram Bot Using Python Telegram allows bots to accept payments for goods and services directly within the chat interface. This...",
+        "keywords": "telegram, update, bot, payment, your, payments, message, payload",
+        "generated": "2026-07-17T08:19:05.879703",
+        "file": "how-to-accept-payments-in-a-telegram-bot-using-python.md"
     },
     {
         "title": "Resume ATS Optimizer: Help Your Resume Pass the AI Screening Gate",
@@ -10436,6 +10524,17 @@
         "file": "hacker-news-but-for-independent-blogs.md"
     },
     {
+        "title": "EEG shows brain can simultaneous encode two speech streams",
+        "slug": "eeg-shows-brain-can-simultaneous-encode-two-speech-streams",
+        "author": "giuliomagnifico",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 05:51:10 +0000",
+        "description": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points...",
+        "keywords": "article, url, https, comments, eeg, shows, brain, can",
+        "generated": "2026-07-17T08:19:05.878430",
+        "file": "eeg-shows-brain-can-simultaneous-encode-two-speech-streams.md"
+    },
+    {
         "title": "Your Pipeline Is 24.1h Behind: Catching Mobile Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-241h-behind-catching-mobile-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -12471,6 +12570,17 @@
         "file": "when-polymarket-says-70-does-it-happen-70-of-the-time-i-checked-against-194m-price-snapshots.md"
     },
     {
+        "title": "How to Summarize PDFs Locally with Open-Source LLMs (No API, No Data Leaving Your Machine)",
+        "slug": "how-to-summarize-pdfs-locally-with-open-source-llms-no-api-no-data-leaving-your-machine",
+        "author": "Ai tools overview",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 08:00:24 +0000",
+        "description": "Most summarize a PDF with AI tutorials send your document to a cloud API. That's fine — until the document is a contract, a patient record, or anything you...",
+        "keywords": "you, local, model, ollama, text, summarize, cloud, your",
+        "generated": "2026-07-17T08:19:05.879404",
+        "file": "how-to-summarize-pdfs-locally-with-open-source-llms-no-api-no-data-leaving-your-machine.md"
+    },
+    {
         "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
         "slug": "gossamer-a-rust-flavoured-language-with-real-goroutines-and-pause-free-memory",
         "author": "mwheeler",
@@ -12900,6 +13010,17 @@
         "file": "lost-luggage-found-fast-the-tech-behind-smart-nfc-travel-tags.md"
     },
     {
+        "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+        "slug": "how-has-roman-concrete-lasted-for-millennia-1900-year-old-latrine-offers-clues",
+        "author": "divbzero",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 03:48:26 +0000",
+        "description": "Article URL: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materia...",
+        "keywords": "how, has, roman, concrete, lasted, millennia, year, old",
+        "generated": "2026-07-17T08:19:05.878745",
+        "file": "how-has-roman-concrete-lasted-for-millennia-1900-year-old-latrine-offers-clues.md"
+    },
+    {
         "title": "Building a Production-Ready Polymarket Bot: Delta-Momentum + CLOB Execution",
         "slug": "building-a-production-ready-polymarket-bot-delta-momentum-clob-execution",
         "author": "Adam Daniels",
@@ -12909,6 +13030,17 @@
         "keywords": "polymarket, bot, momentum, production, delta, here, clean, easy",
         "generated": "2026-06-15T21:11:31.714105",
         "file": "building-a-production-ready-polymarket-bot-delta-momentum-clob-execution.md"
+    },
+    {
+        "title": "Designing AI Learning Experiences for K-12: Emerging Works, Future Opportunitiesand a Design Framework",
+        "slug": "designing-ai-learning-experiences-for-k-12-emerging-works-future-opportunitiesand-a-design-framework",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 08:10:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "designing, learning, experiences, emerging, works, future, opportunitiesand, design",
+        "generated": "2026-07-17T08:19:05.884002",
+        "file": "designing-ai-learning-experiences-for-k-12-emerging-works-future-opportunitiesand-a-design-framework.md"
     },
     {
         "title": "AI News today - June 25th - Congresswoman denies staff used AI to write defense funding amendment...",
@@ -13239,6 +13371,17 @@
         "keywords": "cost, agent, infrastructure, executive, when, solo, first, multi",
         "generated": "2026-07-03T19:37:54.524228",
         "file": "deputy-ceo-to-solo-ai-dev-what-my-executive-past-actually-built.md"
+    },
+    {
+        "title": "Pebble Mega Update – July 2026",
+        "slug": "pebble-mega-update-july-2026",
+        "author": "crazysaem",
+        "source": "hackernews",
+        "published": "Fri, 17 Jul 2026 03:53:38 +0000",
+        "description": "Article URL: https://repebble.com/blog/pebble-mega-update-july-2026 Comments URL: https://news.ycombinator.com/item?id=48943174 Points: 84 # Comments: 13",
+        "keywords": "pebble, mega, update, july, url, https, com, comments",
+        "generated": "2026-07-17T08:19:05.878603",
+        "file": "pebble-mega-update-july-2026.md"
     },
     {
         "title": "Show HN: ABC Classic 100 Rankings visualised",
@@ -22272,6 +22415,17 @@
         "file": "documentdb-a-mongodb-compatible-open-source-database.md"
     },
     {
+        "title": "Why I Switched from Ponytail to Guardsman for AI Coding",
+        "slug": "why-i-switched-from-ponytail-to-guardsman-for-ai-coding",
+        "author": "Antoinette C. Lennox",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 08:05:54 +0000",
+        "description": "TL;DR: Ponytail taught my AI agent to write less code. Guardsman taught it to write accountable code. If you're tired of deleting AI-generated bloat or debug...",
+        "keywords": "ponytail, guardsman, code, you, one, use, your, not",
+        "generated": "2026-07-17T08:19:05.882992",
+        "file": "why-i-switched-from-ponytail-to-guardsman-for-ai-coding.md"
+    },
+    {
         "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
         "slug": "show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai",
         "author": "martiano",
@@ -26170,10 +26324,10 @@
         "slug": "build-a-web-scraper-and-sell-the-data-a-step-by-step-guide",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Mon, 08 Jun 2026 15:41:14 +0000",
-        "description": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide ==================================================================== Web scraping is the process ...",
-        "keywords": "data, can, book, step, requests, web, you, need",
-        "generated": "2026-06-08T16:07:42.604822",
+        "published": "Fri, 17 Jul 2026 07:54:24 +0000",
+        "description": "Build a Web Scraper and Sell the Data: A Step-by-Step Guide Web scraping is the process of automatically extracting data from websites, and it's a valuable s...",
+        "keywords": "data, can, step, web, our, sell, scraper, use",
+        "generated": "2026-07-17T08:19:05.880692",
         "file": "build-a-web-scraper-and-sell-the-data-a-step-by-step-guide.md"
     },
     {
@@ -26824,6 +26978,17 @@
         "keywords": "feds, freaked, over, fable, after, simple, fix, code",
         "generated": "2026-06-16T11:22:59.962859",
         "file": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md"
+    },
+    {
+        "title": "How I built an OpenAI-compatible prompt encryption proxy in 300 lines of Python",
+        "slug": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python",
+        "author": "Xjz · Builder",
+        "source": "devto_python",
+        "published": "Fri, 17 Jul 2026 07:56:39 +0000",
+        "description": "I sell GPT prompts. Small business, $20-50 per prompt, mostly to people who use ChatBox or Cursor. Last month, one of my buyers screenshotted my prompt text ...",
+        "keywords": "prompt, you, key, version, system, pro, lite, encryption",
+        "generated": "2026-07-17T08:19:05.880402",
+        "file": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python.md"
     },
     {
         "title": "The Future of Flipper Zero Development",
@@ -30962,6 +31127,17 @@
         "file": "static-api-keys-are-the-wrong-primitive-for-agent-authentication.md"
     },
     {
+        "title": "The Reality Behind AI Glasses…",
+        "slug": "the-reality-behind-ai-glasses",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 08:05:58 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of AI glasses in web technology. A deep technical analysis focusing on architecture...",
+        "keywords": "glasses, data, can, tech, real, time, processing, user",
+        "generated": "2026-07-17T08:19:05.882252",
+        "file": "the-reality-behind-ai-glasses.md"
+    },
+    {
         "title": "Best YouTube Downloader Alternatives That Work in 2026",
         "slug": "best-youtube-downloader-alternatives-that-work-in-2026",
         "author": "freeinvoiceflow",
@@ -30993,6 +31169,17 @@
         "keywords": "stt, engine, speech, text, recognition, module, can, print",
         "generated": "2026-06-17T15:50:36.571317",
         "file": "building-resilient-speech-to-text-applications-with-pythonaibrain-stt.md"
+    },
+    {
+        "title": "Auth for Indie Hackers 2026: Clerk vs Supabase Auth vs NextAuth v5",
+        "slug": "auth-for-indie-hackers-2026-clerk-vs-supabase-auth-vs-nextauth-v5",
+        "author": "masato",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 08:10:58 +0000",
+        "description": "TL;DR Stop building your own auth. In 2026, pick one of these three: Clerk — 30 lines of code, beautiful UI, 10,000 free MAU Supabase Auth — DB-native, RLS i...",
+        "keywords": "auth, supabase, clerk, nextauth, free, your, import, mau",
+        "generated": "2026-07-17T08:19:05.881457",
+        "file": "auth-for-indie-hackers-2026-clerk-vs-supabase-auth-vs-nextauth-v5.md"
     },
     {
         "title": "Working with AIS Data in Python: What the Quickstart Won't Tell You",
@@ -31235,6 +31422,17 @@
         "keywords": "meta, image, muse, your, privacy, july, public, only",
         "generated": "2026-07-11T19:12:02.617729",
         "file": "metas-muse-image-lasted-only-4-days-the-ai-privacy-backlash-heard-around-the-world.md"
+    },
+    {
+        "title": "Let the Loop Iterate: Restarting Only Pays If You Know What to Throw Away",
+        "slug": "let-the-loop-iterate-restarting-only-pays-if-you-know-what-to-throw-away",
+        "author": "JaviMaligno",
+        "source": "devto_ai",
+        "published": "Fri, 17 Jul 2026 08:07:00 +0000",
+        "description": "A complete study: 3 seeds × 3 policies × 2 model tiers on a 29-feature slice, with the eval harness audited before trusting a single number. Same rigor proto...",
+        "keywords": "restart, agent, same, one, iterate, fresh, loop, all",
+        "generated": "2026-07-17T08:19:05.886315",
+        "file": "let-the-loop-iterate-restarting-only-pays-if-you-know-what-to-throw-away.md"
     },
     {
         "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
@@ -32049,6 +32247,15 @@
         "keywords": "island, global, leaders, red, room, dark, web, abstein",
         "generated": "2026-06-22T05:02:45.252334",
         "file": "abstein-island-global-leaders-live-red-room-orgy-torture-mega-dump-dark-web.md"
+    },
+    {
+        "title": "Batched Prompt Scheduling for On-Device LLMs",
+        "slug": "batched-prompt-scheduling-for-on-device-llms",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Fri, 17 Jul 2026 08:07:58 +0000",
+        "description": "",
+        "file": "batched-prompt-scheduling-for-on-device-llms.md"
     },
     {
         "title": "Three of our worst VC stories",
