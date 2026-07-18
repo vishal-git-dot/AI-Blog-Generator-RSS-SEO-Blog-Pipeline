@@ -4,16 +4,16 @@ slug: "stenchill-3d-printable-solder-paste-stencil-generator"
 author: "radeeyate"
 source: "hackernews"
 published: "Sat, 18 Jul 2026 00:48:37 +0000"
-description: "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 8 # Comments: 1"
+description: "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 39 # Comments: 7"
 keywords: "stenchill, url, https, com, comments, printable, solder, paste"
-generated: "2026-07-18T02:53:43.788090"
+generated: "2026-07-18T08:00:40.323805"
 ---
 
 # Stenchill: 3D Printable Solder Paste Stencil Generator
 
 ## Overview
 
-Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 8 # Comments: 1
+Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 39 # Comments: 7
 
 ## Key Insights
 

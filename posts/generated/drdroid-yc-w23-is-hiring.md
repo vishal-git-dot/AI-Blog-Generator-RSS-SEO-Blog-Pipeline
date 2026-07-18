@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Sat, 18 Jul 2026 01:01:08 +0000"
 description: "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory Comments URL: https://news.ycombinator.com/item..."
 keywords: "drdroid, url, https, ycombinator, com, comments, hiring, article"
-generated: "2026-07-18T02:53:43.787969"
+generated: "2026-07-18T08:00:40.323605"
 ---
 
 # DrDroid (YC W23) Is Hiring

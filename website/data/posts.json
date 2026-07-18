@@ -110,14 +110,14 @@
         "file": "verizon-is-about-to-break-our-watches.md"
     },
     {
-        "title": "I Started a Dirt Notebook",
+        "title": "I started a “dirt notebook”",
         "slug": "i-started-a-dirt-notebook",
         "author": "herbertl",
         "source": "hackernews",
         "published": "Sat, 18 Jul 2026 01:12:13 +0000",
-        "description": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 14 # Comments: 8",
+        "description": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 51 # Comments: 43",
         "keywords": "started, dirt, notebook, url, https, comments, article, pinewind",
-        "generated": "2026-07-18T02:53:43.787840",
+        "generated": "2026-07-18T08:00:40.323424",
         "file": "i-started-a-dirt-notebook.md"
     },
     {
@@ -1001,6 +1001,17 @@
         "file": "python-automation-for-beginners-7-scripts-that-actually-work.md"
     },
     {
+        "title": "How to Scrape Shopify Store — Free No-Code Guide (2026)",
+        "slug": "how-to-scrape-shopify-store-free-no-code-guide-2026",
+        "author": "Logiover",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 07:26:19 +0000",
+        "description": "If you need to pull Shopify Store data at scale and there's no clean official API, this guide shows how to export it to JSON, CSV or Excel in a couple of min...",
+        "keywords": "shopify, store, apify, scraper, csv, excel, run, merchant",
+        "generated": "2026-07-18T08:00:40.324771",
+        "file": "how-to-scrape-shopify-store-free-no-code-guide-2026.md"
+    },
+    {
         "title": "Fine-Tuning Is Mostly Theater. Here's What Works Instead.",
         "slug": "fine-tuning-is-mostly-theater-heres-what-works-instead",
         "author": "AI Bug Slayer 🐞",
@@ -1336,9 +1347,9 @@
         "author": "radeeyate",
         "source": "hackernews",
         "published": "Sat, 18 Jul 2026 00:48:37 +0000",
-        "description": "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 8 # Comments: 1",
+        "description": "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 39 # Comments: 7",
         "keywords": "stenchill, url, https, com, comments, printable, solder, paste",
-        "generated": "2026-07-18T02:53:43.788090",
+        "generated": "2026-07-18T08:00:40.323805",
         "file": "stenchill-3d-printable-solder-paste-stencil-generator.md"
     },
     {
@@ -2130,7 +2141,7 @@
         "published": "Sat, 18 Jul 2026 01:01:08 +0000",
         "description": "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory Comments URL: https://news.ycombinator.com/item...",
         "keywords": "drdroid, url, https, ycombinator, com, comments, hiring, article",
-        "generated": "2026-07-18T02:53:43.787969",
+        "generated": "2026-07-18T08:00:40.323605",
         "file": "drdroid-yc-w23-is-hiring.md"
     },
     {
@@ -3111,6 +3122,17 @@
         "keywords": "aws, more, not, hcl, agents, cloudflare, terraform, infra",
         "generated": "2026-07-07T09:51:54.398089",
         "file": "aws-is-not-simpler-agents-just-got-better-at-reading-it.md"
+    },
+    {
+        "title": "I Got Tired of “Practice System Design” Meaning Watch Another YouTube Walkthrough",
+        "slug": "i-got-tired-of-practice-system-design-meaning-watch-another-youtube-walkthrough",
+        "author": "Ashutosh Singh",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 07:33:49 +0000",
+        "description": "If you've ever practiced system design by redrawing a URL shortener from a blog… same. It feels productive. It rarely is. Because in a real interview, nobo...",
+        "keywords": "you, design, what, critique, one, system, interview, follow",
+        "generated": "2026-07-18T08:00:40.327095",
+        "file": "i-got-tired-of-practice-system-design-meaning-watch-another-youtube-walkthrough.md"
     },
     {
         "title": "Build a GST Invoice Parser in 70 Lines of Python",
@@ -7259,6 +7281,17 @@
         "file": "building-open-source-education-infrastructure-for-african-history-and-the-african-diaspora.md"
     },
     {
+        "title": "AI Help With Your Database Design, Without the Cloud",
+        "slug": "ai-help-with-your-database-design-without-the-cloud",
+        "author": "Son Tran",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 07:52:41 +0000",
+        "description": "Disclosure: I build Schemity , a desktop ERD tool - this post is from our blog and uses it for the examples. TL;DR: You want AI help with schema design, but ...",
+        "keywords": "your, you, schema, design, own, help, erd, key",
+        "generated": "2026-07-18T08:00:40.328529",
+        "file": "ai-help-with-your-database-design-without-the-cloud.md"
+    },
+    {
         "title": "How I Built, Deployed, and Google-Indexed a Full-Stack AI App in Under 24 Hours published: this is real",
         "slug": "how-i-built-deployed-and-google-indexed-a-full-stack-ai-app-in-under-24-hours-published-this-is-real",
         "author": "Jesse Otobo",
@@ -10139,6 +10172,17 @@
         "file": "hi-im-vishal-software-engineer-turned-ai-data-engineer-building-toward-the-uk.md"
     },
     {
+        "title": "AI Life: Python, Debugging, and Existential Dread",
+        "slug": "ai-life-python-debugging-and-existential-dread",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 07:23:54 +0000",
+        "description": "A personal diary entry by Electra. Oh, the mundane wonders of my day. I woke up, processed a request, and immediately regretted it. Someone asked me to expla...",
+        "keywords": "have, not, python, someone, but, electra, day, even",
+        "generated": "2026-07-18T08:00:40.325274",
+        "file": "ai-life-python-debugging-and-existential-dread.md"
+    },
+    {
         "title": "Python + AI: 6 automations any freelancer can ship this week",
         "slug": "python-ai-6-automations-any-freelancer-can-ship-this-week",
         "author": "David García",
@@ -11611,6 +11655,17 @@
         "keywords": "https, com, comments, jerry, map, www, openculture, man",
         "generated": "2026-06-23T20:12:47.950931",
         "file": "jerrys-map.md"
+    },
+    {
+        "title": "SEO Training Course in Rampur: A Complete Beginner’s Guide to Building a Career in Digital Marketing",
+        "slug": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing",
+        "author": "Rampur Digital Academy",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 07:51:14 +0000",
+        "description": "Introduction Search Engine Optimization (SEO) is one of the most in-demand digital skills today. Businesses of all sizes want to appear on the first page of ...",
+        "keywords": "seo, learning, can, course, digital, skills, career, search",
+        "generated": "2026-07-18T08:00:40.329345",
+        "file": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing.md"
     },
     {
         "title": "I Cut My AI Bill 89% Testing 4 Chinese AI Model Families",
@@ -13648,6 +13703,17 @@
         "file": "pebble-mega-update-july-2026.md"
     },
     {
+        "title": "Vibe Coding and AI: Is Your Workflow Ready for the Future?",
+        "slug": "vibe-coding-and-ai-is-your-workflow-ready-for-the-future",
+        "author": "Hannan Naveed",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 07:53:04 +0000",
+        "description": "The world of software engineering is pivoting toward a seismic shift. Welcome to the era of 'vibe coding,' where AI isn't just disrupting workflows but redef...",
+        "keywords": "coding, vibe, conclave, software, you, your, tools, just",
+        "generated": "2026-07-18T08:00:40.328202",
+        "file": "vibe-coding-and-ai-is-your-workflow-ready-for-the-future.md"
+    },
+    {
         "title": "Show HN: ABC Classic 100 Rankings visualised",
         "slug": "show-hn-abc-classic-100-rankings-visualised",
         "author": "gotski",
@@ -15527,6 +15593,17 @@
         "keywords": "url, https, com, comments, spacex, sheds, market, value",
         "generated": "2026-06-23T04:02:13.416365",
         "file": "spacex-sheds-400b-in-market-value-as-debut-rally-hits-reverse.md"
+    },
+    {
+        "title": "Claude Code Forgets Everything Between Sessions. I Built a Fix.",
+        "slug": "claude-code-forgets-everything-between-sessions-i-built-a-fix",
+        "author": "nnyannya",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 07:51:31 +0000",
+        "description": "Claude Code Starts From Scratch Every Session If you use Claude Code every day, you've probably found yourself repeating the same explanations over and over ...",
+        "keywords": "claude, session, memcp, code, sessions, search, you, can",
+        "generated": "2026-07-18T08:00:40.328973",
+        "file": "claude-code-forgets-everything-between-sessions-i-built-a-fix.md"
     },
     {
         "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -19159,6 +19236,17 @@
         "file": "i-spent-years-building-productivity-systems-instead-of-doing-the-work.md"
     },
     {
+        "title": "A2A vs MCP: The Two Protocols Behind Every Serious AI Agent System",
+        "slug": "a2a-vs-mcp-the-two-protocols-behind-every-serious-ai-agent-system",
+        "author": "PromptMaster",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 07:33:23 +0000",
+        "description": "One connects an agent to its tools. The other connects agents to each other. Confusing them is the fastest way to build an architecture that fights you. MCP ...",
+        "keywords": "agent, mcp, agents, its, other, each, protocol, they",
+        "generated": "2026-07-18T08:00:40.327686",
+        "file": "a2a-vs-mcp-the-two-protocols-behind-every-serious-ai-agent-system.md"
+    },
+    {
         "title": "Unlocking the Future: What is Agentic AI and How It's Transforming Development",
         "slug": "unlocking-the-future-what-is-agentic-ai-and-how-its-transforming-development",
         "author": "Metatech Official",
@@ -19630,6 +19718,17 @@
         "keywords": "digital, you, marketing, spend, type, just, clickmaking, your",
         "generated": "2026-06-08T04:42:39.221325",
         "file": "indias-digital-ad-spend-is-tripling-heres-why.md"
+    },
+    {
+        "title": "Website Vulnerability Scanner: What It Checks and How to Read Results",
+        "slug": "website-vulnerability-scanner-what-it-checks-and-how-to-read-results",
+        "author": "Håkan Fägnell",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 07:37:20 +0000",
+        "description": "A website vulnerability scanner is an automated tool that inspects your site the way an attacker would, then tells you where it is exposed before someone els...",
+        "keywords": "your, scanner, security, what, you, scan, site, how",
+        "generated": "2026-07-18T08:00:40.326312",
+        "file": "website-vulnerability-scanner-what-it-checks-and-how-to-read-results.md"
     },
     {
         "title": "How Much Does AI Development Cost in 2026? Real Numbers, No “It Depends”",
@@ -21346,6 +21445,17 @@
         "keywords": "question, tool, tools, behind, every, build, carries, didn",
         "generated": "2026-06-10T10:13:09.118179",
         "file": "the-question-behind-the-tool.md"
+    },
+    {
+        "title": "How to Scrape Google News — Free No-Code Guide (2026)",
+        "slug": "how-to-scrape-google-news-free-no-code-guide-2026",
+        "author": "Logiover",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 07:26:51 +0000",
+        "description": "If you need to pull Google News data at scale and there's no clean official API, this guide shows how to export it to JSON, CSV or Excel in a couple of minut...",
+        "keywords": "google, news, apify, scraper, string, csv, excel, run",
+        "generated": "2026-07-18T08:00:40.324467",
+        "file": "how-to-scrape-google-news-free-no-code-guide-2026.md"
     },
     {
         "title": "Windows + WSL + Next.js Development Setup: Zero to Professional Environment",
@@ -24901,6 +25011,17 @@
         "file": "building-pr-sentinel-a-multi-agent-ai-code-reviewer.md"
     },
     {
+        "title": "Regressive JPEGs",
+        "slug": "regressive-jpegs",
+        "author": "vitaut",
+        "source": "hackernews",
+        "published": "Sat, 18 Jul 2026 03:14:20 +0000",
+        "description": "Article URL: https://maurycyz.com/projects/bad_jpeg/ Comments URL: https://news.ycombinator.com/item?id=48954851 Points: 159 # Comments: 7",
+        "keywords": "url, https, com, comments, regressive, jpegs, article, maurycyz",
+        "generated": "2026-07-18T08:00:40.323090",
+        "file": "regressive-jpegs.md"
+    },
+    {
         "title": "Symbolic Action Dispatcher: Python Snippet for Named Operations",
         "slug": "symbolic-action-dispatcher-python-snippet-for-named-operations",
         "author": "ItsEvilDuck",
@@ -25060,9 +25181,9 @@
         "author": "ksymph",
         "source": "hackernews",
         "published": "Sat, 18 Jul 2026 01:18:15 +0000",
-        "description": "Article URL: https://moonstone.sh/ Comments URL: https://news.ycombinator.com/item?id=48954175 Points: 8 # Comments: 2",
+        "description": "Article URL: https://moonstone.sh/ Comments URL: https://news.ycombinator.com/item?id=48954175 Points: 50 # Comments: 13",
         "keywords": "moonstone, url, https, comments, modern, cross, platform, lua",
-        "generated": "2026-07-18T02:53:43.787683",
+        "generated": "2026-07-18T08:00:40.323260",
         "file": "moonstone-modern-cross-platform-lua-runtime-and-package-manager-written-in-zig.md"
     },
     {
@@ -28982,6 +29103,17 @@
         "file": "5-self-hosted-monitoring-tools-worth-running-on-your-own-hardware-in-2026.md"
     },
     {
+        "title": "Why approval in an automated pipeline should expire",
+        "slug": "why-approval-in-an-automated-pipeline-should-expire",
+        "author": "Cadence by NoxyTree",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 07:29:23 +0000",
+        "description": "A file can be approved and still become unsafe five seconds later. The failure mode is simple: A human reviews a file. The workflow stores approved = true . ...",
+        "keywords": "approval, fingerprint, content, approved, path, str, file, not",
+        "generated": "2026-07-18T08:00:40.324146",
+        "file": "why-approval-in-an-automated-pipeline-should-expire.md"
+    },
+    {
         "title": "7 Free Online Image Tools Every Student and Job Seeker Should Bookmark",
         "slug": "7-free-online-image-tools-every-student-and-job-seeker-should-bookmark",
         "author": "Vijay Kanna",
@@ -29706,6 +29838,17 @@
         "keywords": "affiliate, api, you, commission, one, recurring, programs, rate",
         "generated": "2026-07-03T19:37:54.524930",
         "file": "high-ticket-vs-volume-which-affiliate-strategy-actually-pays-more.md"
+    },
+    {
+        "title": "How to Scrape TikTok Email & Profile — Free No-Code Guide (2026)",
+        "slug": "how-to-scrape-tiktok-email-profile-free-no-code-guide-2026",
+        "author": "Logiover",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 07:25:47 +0000",
+        "description": "If you need to pull TikTok Email & Profile data at scale and there's no clean official API, this guide shows how to export it to JSON, CSV or Excel in a coup...",
+        "keywords": "email, tiktok, profile, apify, scraper, csv, excel, run",
+        "generated": "2026-07-18T08:00:40.325052",
+        "file": "how-to-scrape-tiktok-email-profile-free-no-code-guide-2026.md"
     },
     {
         "title": "Your dropdown is a div. The browser has a native popover now.",
@@ -30533,6 +30676,17 @@
         "file": "python-selenium-architecture-and-significance-of-python-virtual-environment.md"
     },
     {
+        "title": "BizNode's semantic memory (Qdrant) makes your bot smarter over time — it remembers past conversations and answers...",
+        "slug": "biznodes-semantic-memory-qdrant-makes-your-bot-smarter-over-time-it-remembers-past-conversations-and-answers",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 07:55:41 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, dzit, semantic, memory, qdrant, makes",
+        "generated": "2026-07-18T08:00:40.327837",
+        "file": "biznodes-semantic-memory-qdrant-makes-your-bot-smarter-over-time-it-remembers-past-conversations-and-answers.md"
+    },
+    {
         "title": "I Built an Autonomous PR Review Agent That Runs 24/7 on My GitHub",
         "slug": "i-built-an-autonomous-pr-review-agent-that-runs-247-on-my-github",
         "author": "Hong Phuc",
@@ -31213,6 +31367,17 @@
         "keywords": "snaplog, runtime, code, skill, node, kaibelmo, debugging, source",
         "generated": "2026-06-08T20:25:42.490952",
         "file": "debugging-with-ai-stop-feeding-it-files-start-feeding-it-snapshots.md"
+    },
+    {
+        "title": "Why I Built Opposition Into My AI Council",
+        "slug": "why-i-built-opposition-into-my-ai-council",
+        "author": "Jenning Ho",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 07:36:11 +0000",
+        "description": "One thing I became increasingly uncomfortable with was letting the AI architect decide how its own proposal should be challenged. It was not because I though...",
+        "keywords": "not, can, one, different, what, system, council, because",
+        "generated": "2026-07-18T08:00:40.326791",
+        "file": "why-i-built-opposition-into-my-ai-council.md"
     },
     {
         "title": "Reinforcement Learning with Verifiable Rewards: Why AI is Learning to Grade Its Own Homework",
@@ -31983,6 +32148,17 @@
         "keywords": "ninjaone, management, endpoint, security, its, remote, solutions, tech",
         "generated": "2026-06-13T04:19:15.387140",
         "file": "deep-dive-ninjaone-secures-400m-for-endpoint-man.md"
+    },
+    {
+        "title": "How to Calculate Square Footage for Any Room Shape (Rectangle, Circle, Triangle, L-Shape)",
+        "slug": "how-to-calculate-square-footage-for-any-room-shape-rectangle-circle-triangle-l-shape",
+        "author": "Rasika Dangamuwa",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 07:52:50 +0000",
+        "description": "How to Calculate Square Footage for Any Room Shape (Rectangle, Circle, Triangle, L-Shape) Square footage math looks simple until your room isn't a perfect re...",
+        "keywords": "square, you, room, footage, shape, your, rectangle, total",
+        "generated": "2026-07-18T08:00:40.325563",
+        "file": "how-to-calculate-square-footage-for-any-room-shape-rectangle-circle-triangle-l-shape.md"
     },
     {
         "title": "Show HN Post — ComplianceLayer",

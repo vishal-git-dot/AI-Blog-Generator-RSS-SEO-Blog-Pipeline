@@ -1,19 +1,19 @@
 ---
-title: "I Started a "Dirt Notebook""
+title: "I started a “dirt notebook”"
 slug: "i-started-a-dirt-notebook"
 author: "herbertl"
 source: "hackernews"
 published: "Sat, 18 Jul 2026 01:12:13 +0000"
-description: "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 14 # Comments: 8"
+description: "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 51 # Comments: 43"
 keywords: "started, dirt, notebook, url, https, comments, article, pinewind"
-generated: "2026-07-18T02:53:43.787840"
+generated: "2026-07-18T08:00:40.323424"
 ---
 
-# I Started a "Dirt Notebook"
+# I started a “dirt notebook”
 
 ## Overview
 
-Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 14 # Comments: 8
+Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 51 # Comments: 43
 
 ## Key Insights
 
