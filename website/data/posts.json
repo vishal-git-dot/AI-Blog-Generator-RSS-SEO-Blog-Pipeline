@@ -110,6 +110,17 @@
         "file": "verizon-is-about-to-break-our-watches.md"
     },
     {
+        "title": "I Started a Dirt Notebook",
+        "slug": "i-started-a-dirt-notebook",
+        "author": "herbertl",
+        "source": "hackernews",
+        "published": "Sat, 18 Jul 2026 01:12:13 +0000",
+        "description": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 14 # Comments: 8",
+        "keywords": "started, dirt, notebook, url, https, comments, article, pinewind",
+        "generated": "2026-07-18T02:53:43.787840",
+        "file": "i-started-a-dirt-notebook.md"
+    },
+    {
         "title": "How to sequence your own DNA at home",
         "slug": "how-to-sequence-your-own-dna-at-home",
         "author": "bilsbie",
@@ -1320,6 +1331,17 @@
         "file": "building-high-performance-cross-platform-applications-strategies-that-work.md"
     },
     {
+        "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+        "slug": "stenchill-3d-printable-solder-paste-stencil-generator",
+        "author": "radeeyate",
+        "source": "hackernews",
+        "published": "Sat, 18 Jul 2026 00:48:37 +0000",
+        "description": "Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 8 # Comments: 1",
+        "keywords": "stenchill, url, https, com, comments, printable, solder, paste",
+        "generated": "2026-07-18T02:53:43.788090",
+        "file": "stenchill-3d-printable-solder-paste-stencil-generator.md"
+    },
+    {
         "title": "How I Built a Six-Figure AI API Reseller Funnel (And How You Can Too)",
         "slug": "how-i-built-a-six-figure-ai-api-reseller-funnel-and-how-you-can-too",
         "author": "bold",
@@ -2101,6 +2123,17 @@
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
     },
     {
+        "title": "DrDroid (YC W23) Is Hiring",
+        "slug": "drdroid-yc-w23-is-hiring",
+        "author": "TheBengaluruGuy",
+        "source": "hackernews",
+        "published": "Sat, 18 Jul 2026 01:01:08 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory Comments URL: https://news.ycombinator.com/item...",
+        "keywords": "drdroid, url, https, ycombinator, com, comments, hiring, article",
+        "generated": "2026-07-18T02:53:43.787969",
+        "file": "drdroid-yc-w23-is-hiring.md"
+    },
+    {
         "title": "Building a Production-Ready Async API Client in Python",
         "slug": "building-a-production-ready-async-api-client-in-python",
         "author": "Eze",
@@ -2319,6 +2352,17 @@
         "keywords": "auth, limen, email, http, password, import, session, react",
         "generated": "2026-07-07T20:04:00.202503",
         "file": "full-stack-auth-in-go-and-react-email-password-with-limen.md"
+    },
+    {
+        "title": "Instrument First, Then Prompt: Finding Real Agentic Pipeline Bugs",
+        "slug": "instrument-first-then-prompt-finding-real-agentic-pipeline-bugs",
+        "author": "Tae Kim",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 02:42:57 +0000",
+        "description": "The default reaction when an agentic pipeline misbehaves is to open the system prompt and start rewriting it. The instinct makes sense — the prompt is visibl...",
+        "keywords": "prompt, tool, you, time, first, chunk, result, agent",
+        "generated": "2026-07-18T02:53:43.788608",
+        "file": "instrument-first-then-prompt-finding-real-agentic-pipeline-bugs.md"
     },
     {
         "title": "Unify Web and Mobile Development with OTF's Cross-Platform Components",
@@ -2836,6 +2880,17 @@
         "keywords": "openttd, url, https, news, comments, article, www, org",
         "generated": "2026-06-27T08:43:42.522359",
         "file": "openttd-160-beta1.md"
+    },
+    {
+        "title": "How to Build an AI-Powered Web Article Summarizer with Python 🐍",
+        "slug": "how-to-build-an-ai-powered-web-article-summarizer-with-python",
+        "author": "Mohamed",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 02:29:12 +0000",
+        "description": "Hey DEV Community! 👋 Today, I want to share a super useful Python script I built that uses AI to automatically fetch and summarize any web article. It’s perf...",
+        "keywords": "article, summary, python, text, print, summarizer, url, model",
+        "generated": "2026-07-18T02:53:43.788815",
+        "file": "how-to-build-an-ai-powered-web-article-summarizer-with-python.md"
     },
     {
         "title": "AI, data science, and ML overlap in surprising ways",
@@ -6918,6 +6973,17 @@
         "file": "ai-rsi.md"
     },
     {
+        "title": "Its a Post",
+        "slug": "its-a-post",
+        "author": "John Patrick Juni",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 01:43:08 +0000",
+        "description": "Hello Dev.to 👋 This is my very first post on DEV.to. I'm using this article to test how Markdown, code blocks, images, and formatting work before I start pub...",
+        "keywords": "fastapi, dev, end, post, hello, code, work, front",
+        "generated": "2026-07-18T02:53:43.789549",
+        "file": "its-a-post.md"
+    },
+    {
         "title": "The bottleneck might be the air in the room",
         "slug": "the-bottleneck-might-be-the-air-in-the-room",
         "author": "gslin",
@@ -9371,6 +9437,17 @@
         "file": "rag-vs-long-context-models-for-enterprise-ai.md"
     },
     {
+        "title": "Json To Typescript — Free Online Tool",
+        "slug": "json-to-typescript-free-online-tool",
+        "author": "BAOMING",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 02:34:32 +0000",
+        "description": "Json To Typescript — Free Online Tool ===================================== Quick Answer Open Json To Typescript and get what you need instantly. Free. No si...",
+        "keywords": "typescript, json, tool, code, your, free, you, can",
+        "generated": "2026-07-18T02:53:43.790580",
+        "file": "json-to-typescript-free-online-tool.md"
+    },
+    {
         "title": "The Hidden Layer Behind Every Smart AI App: RAG, MCP, and Agentic Systems",
         "slug": "the-hidden-layer-behind-every-smart-ai-app-rag-mcp-and-agentic-systems",
         "author": "Prasun Chakraborty",
@@ -9413,6 +9490,17 @@
         "keywords": "ollama, docker, error, month, get, api, your, you",
         "generated": "2026-07-04T03:39:49.958305",
         "file": "how-to-deploy-llama-2-on-digitalocean-for-5month.md"
+    },
+    {
+        "title": "Run Folders Make Email Agents Easier to Debug",
+        "slug": "run-folders-make-email-agents-easier-to-debug",
+        "author": "DapperX",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 02:24:20 +0000",
+        "description": "When an AI agent touches email, the hard part is rarely sending the message. The hard part is proving what happened in one exact execution after retries, par...",
+        "keywords": "one, run, folder, email, not, but, can, json",
+        "generated": "2026-07-18T02:53:43.791432",
+        "file": "run-folders-make-email-agents-easier-to-debug.md"
     },
     {
         "title": "Why I Think Most AI Agents Are Overengineered",
@@ -12196,6 +12284,17 @@
         "file": "fastapi-rastrea-correos-duplicados-con-run-ids.md"
     },
     {
+        "title": "Best SAP MM Course Online with Placement Assistance",
+        "slug": "best-sap-mm-course-online-with-placement-assistance",
+        "author": "GTR Academy",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 02:37:24 +0000",
+        "description": "Best SAP MM Course Online with Placement Assistance Organizations depend on effective procurement and inventory management in the modern business environment...",
+        "keywords": "sap, training, online, placement, assistance, inventory, procurement, course",
+        "generated": "2026-07-18T02:53:43.790288",
+        "file": "best-sap-mm-course-online-with-placement-assistance.md"
+    },
+    {
         "title": "Extend UI: React Document Components for Document",
         "slug": "extend-ui-react-document-components-for-document",
         "author": "jQueryScript",
@@ -14165,6 +14264,17 @@
         "file": "resetting-xbox-the-complete-guide.md"
     },
     {
+        "title": "Training a 1,000-Qubit, 40,000-Parameter Quantum Algorithm with Full Gradients Using TensorCircuit-NG",
+        "slug": "training-a-1000-qubit-40000-parameter-quantum-algorithm-with-full-gradients-using-tensorcircuit-ng",
+        "author": "Shixin Zhang",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 02:47:36 +0000",
+        "description": "Introduction If you wanted to simulate 1,000 quantum qubits and compute exact full gradients for 40,000 parameters on a classical computer, how much compute ...",
+        "keywords": "contraction, qubit, single, time, vram, path, tensor, spatial",
+        "generated": "2026-07-18T02:53:43.792386",
+        "file": "training-a-1000-qubit-40000-parameter-quantum-algorithm-with-full-gradients-using-tensorcircuit-ng.md"
+    },
+    {
         "title": "From Solo Agents to Team Orchestration: Making Multiple AI Agents Actually Work Together",
         "slug": "from-solo-agents-to-team-orchestration-making-multiple-ai-agents-actually-work-together",
         "author": "Mininglamp",
@@ -15496,6 +15606,17 @@
         "file": "why-is-this-a-60-and-not-a-40.md"
     },
     {
+        "title": "Why I stopped using n8n and wrote my own automation in Python",
+        "slug": "why-i-stopped-using-n8n-and-wrote-my-own-automation-in-python",
+        "author": "David García",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 02:23:31 +0000",
+        "description": "```html Why I stopped using n8n and wrote my own automation in Python Why I stopped using n8n and wrote my own automation in Python I’ve spent the last few y...",
+        "keywords": "automation, your, new, data, python, example, msg, using",
+        "generated": "2026-07-18T02:53:43.789132",
+        "file": "why-i-stopped-using-n8n-and-wrote-my-own-automation-in-python.md"
+    },
+    {
         "title": "How to Self-Host Llama 2 on a $5/Month DigitalOcean Droplet",
         "slug": "how-to-self-host-llama-2-on-a-5month-digitalocean-droplet",
         "author": "RamosAI",
@@ -16341,6 +16462,17 @@
         "keywords": "travel, where, you, url, https, comments, locally, article",
         "generated": "2026-06-11T20:28:40.306339",
         "file": "travel-locally-where-you-are.md"
+    },
+    {
+        "title": "The Sovereign Title Deed: A Final Verdict on Algorithmic Sovereignty",
+        "slug": "the-sovereign-title-deed-a-final-verdict-on-algorithmic-sovereignty",
+        "author": "Blade Yerby",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 02:31:20 +0000",
+        "description": "In an era where technology conglomerates increasingly treat human-authored logic as unowned ore for AI training, a landmark document has emerged to reclaim...",
+        "keywords": "creator, legal, deed, digital, sovereign, doctrine, title, sovereignty",
+        "generated": "2026-07-18T02:53:43.793453",
+        "file": "the-sovereign-title-deed-a-final-verdict-on-algorithmic-sovereignty.md"
     },
     {
         "title": "The revenge of the philosophy majors: The Complete Guide",
@@ -21920,6 +22052,17 @@
         "file": "i-let-ai-write-this-post-then-i-deleted-everything-that-made-it-sound-like-ai.md"
     },
     {
+        "title": "Benchmarking a New Paradigm: An Experimental Analysis of a RealProcessing-in-Memory Architecture",
+        "slug": "benchmarking-a-new-paradigm-an-experimental-analysis-of-a-realprocessing-in-memory-architecture",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 02:40:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "benchmarking, new, paradigm, experimental, analysis, realprocessing, memory, architecture",
+        "generated": "2026-07-18T02:53:43.793083",
+        "file": "benchmarking-a-new-paradigm-an-experimental-analysis-of-a-realprocessing-in-memory-architecture.md"
+    },
+    {
         "title": "My automated doubt development process",
         "slug": "my-automated-doubt-development-process",
         "author": "aself101",
@@ -21951,6 +22094,17 @@
         "keywords": "project, platform, you, projects, list, like, but, your",
         "generated": "2026-07-13T14:46:38.575659",
         "file": "i-created-a-platform-with-a-list-to-help-you-share-your-projects.md"
+    },
+    {
+        "title": "Does IBM&#8217;s miss signal broader enterprise software risk? (IBM:NYSE) &#8211; Seeking Alpha",
+        "slug": "does-ibm8217s-miss-signal-broader-enterprise-software-risk-ibmnyse-8211-seeking-alpha",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 02:49:06 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Does IBM's miss signal broader enterprise softwa...",
+        "keywords": "progressino, ibm, your, before, platform, risk, you, evaluating",
+        "generated": "2026-07-18T02:53:43.789799",
+        "file": "does-ibm8217s-miss-signal-broader-enterprise-software-risk-ibmnyse-8211-seeking-alpha.md"
     },
     {
         "title": "I built a link preview API on Cloudflare Workers — and learned KV is not a counter",
@@ -22072,6 +22226,17 @@
         "keywords": "progressino, your, before, businesses, you, evaluating, similar, initiatives",
         "generated": "2026-06-16T21:09:41.015090",
         "file": "exclusive-8211-databricks-releases-general-ai-agents-for-businesses-8211-wsj.md"
+    },
+    {
+        "title": "React Hooks: Mastering useState and useEffect – The Jedi Training",
+        "slug": "react-hooks-mastering-usestate-and-useeffect-the-jedi-training",
+        "author": "Timevolt",
+        "source": "devto_webdev",
+        "published": "Sat, 18 Jul 2026 02:27:31 +0000",
+        "description": "The Quest Begins (The Why) I still remember the first time I tried to fetch data inside a React component and ended up with an infinite loop that made my b...",
+        "keywords": "you, filter, react, useeffect, state, render, your, usestate",
+        "generated": "2026-07-18T02:53:43.791042",
+        "file": "react-hooks-mastering-usestate-and-useeffect-the-jedi-training.md"
     },
     {
         "title": "How I Built a Python Pipeline That Publishes YouTube Videos Automatically (108 Videos Proven)",
@@ -24351,6 +24516,17 @@
         "file": "mbodi-ai-yc-p25-is-hiring-founding-machine-learning-engineer-robotics.md"
     },
     {
+        "title": "Docker vs Virtualenv: Setup Python Trên Laptop AI AMD & Intel",
+        "slug": "docker-vs-virtualenv-setup-python-trn-laptop-ai-amd-intel",
+        "author": "Laptop Hưng Phát",
+        "source": "devto_python",
+        "published": "Sat, 18 Jul 2026 02:17:32 +0000",
+        "description": "Bài viết gốc tại: TechnologySpot Khi phát triển dự án Python trên các dòng laptop AI đa nhiệm chạy chip Ryzen AI 9 HX 370 (24 luồng) hay Core Ultra 5 225H (1...",
+        "keywords": "python, docker, venv, container, virtualenv, khi, ram, mount",
+        "generated": "2026-07-18T02:53:43.789360",
+        "file": "docker-vs-virtualenv-setup-python-trn-laptop-ai-amd-intel.md"
+    },
+    {
         "title": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
         "slug": "i-built-an-adversarial-eval-framework-and-attacked-5-llms-every-single-one-failed",
         "author": "Saurav Bhattacharya",
@@ -24877,6 +25053,17 @@
         "keywords": "logging, you, error, time, log, logs, system, request",
         "generated": "2026-06-12T20:19:14.996584",
         "file": "the-night-logging-saved-a-production-system-and-why-print-is-not-enough.md"
+    },
+    {
+        "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+        "slug": "moonstone-modern-cross-platform-lua-runtime-and-package-manager-written-in-zig",
+        "author": "ksymph",
+        "source": "hackernews",
+        "published": "Sat, 18 Jul 2026 01:18:15 +0000",
+        "description": "Article URL: https://moonstone.sh/ Comments URL: https://news.ycombinator.com/item?id=48954175 Points: 8 # Comments: 2",
+        "keywords": "moonstone, url, https, comments, modern, cross, platform, lua",
+        "generated": "2026-07-18T02:53:43.787683",
+        "file": "moonstone-modern-cross-platform-lua-runtime-and-package-manager-written-in-zig.md"
     },
     {
         "title": "Samiksha AI: Universal Review & comment Analyzer",
@@ -27310,6 +27497,17 @@
         "file": "building-recommender-systems-with-llm.md"
     },
     {
+        "title": "A grumpy screed about AI in software engineering",
+        "slug": "a-grumpy-screed-about-ai-in-software-engineering",
+        "author": "ssutch3",
+        "source": "hackernews",
+        "published": "Sat, 18 Jul 2026 00:40:08 +0000",
+        "description": "Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed Comments URL: https://news.ycombinator.com/item?id=48953924 Points: 42 # Comments: 33",
+        "keywords": "grumpy, screed, url, https, comments, software, engineering, article",
+        "generated": "2026-07-18T02:53:43.788207",
+        "file": "a-grumpy-screed-about-ai-in-software-engineering.md"
+    },
+    {
         "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
         "slug": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak",
         "author": "_tk_",
@@ -27651,6 +27849,17 @@
         "file": "im-building-a-parallel-internet-and-its-called-the-thinnernet.md"
     },
     {
+        "title": "Еврокомиссия представила план по кибербезопасности и ИИ: платформа для тестирования моделей заработает только в 2027 году…",
+        "slug": "2027",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Sat, 18 Jul 2026 02:44:36 +0000",
+        "description": "Главное сразу. 7 июля 2026 года Еврокомиссия представила Action Plan on Cybersecurity and Artificial Intelligence (источник: European Commission, 2026-07-07)...",
+        "keywords": "commission, openai, api, european, plan, cybersecurity, gpt, enisa",
+        "generated": "2026-07-18T02:53:43.792922",
+        "file": "2027.md"
+    },
+    {
         "title": "Why Your Brand Might Be Invisible to ChatGPT, Gemini, and Claude",
         "slug": "why-your-brand-might-be-invisible-to-chatgpt-gemini-and-claude",
         "author": "Efe şar",
@@ -27820,10 +28029,10 @@
         "slug": "title",
         "author": "Ken Deng",
         "source": "devto_ai",
-        "published": "Mon, 13 Jul 2026 09:30:25 +0000",
-        "description": "We need to write a concise 400-500 word educational Dev.to article for professionals about AI automation in AI for independent language localization speciali...",
-        "keywords": "idiom, loop, bank, count, tool, can, region, words",
-        "generated": "2026-07-13T09:37:40.648483",
+        "published": "Sat, 18 Jul 2026 02:30:56 +0000",
+        "description": "We need to write a concise Dev.to article 400-500 words. Must be between 400-500 words inclusive. Title engaging, include ai or topic. Intro 2-3 sentences ...",
+        "keywords": "set, count, gold, pipeline, extraction, words, your, pythontutor",
+        "generated": "2026-07-18T02:53:43.794013",
         "file": "title.md"
     },
     {
