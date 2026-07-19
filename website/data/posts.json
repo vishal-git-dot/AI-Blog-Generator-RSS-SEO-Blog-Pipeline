@@ -698,9 +698,9 @@
         "author": "xonery",
         "source": "hackernews",
         "published": "Sun, 19 Jul 2026 00:59:55 +0000",
-        "description": "Article URL: https://github.com/stupside/castor Comments URL: https://news.ycombinator.com/item?id=48964015 Points: 49 # Comments: 19",
+        "description": "Article URL: https://github.com/stupside/castor Comments URL: https://news.ycombinator.com/item?id=48964015 Points: 163 # Comments: 39",
         "keywords": "url, https, com, comments, better, cheaper, than, iptv",
-        "generated": "2026-07-19T03:25:16.525265",
+        "generated": "2026-07-19T08:26:32.154726",
         "file": "better-and-cheaper-than-iptv.md"
     },
     {
@@ -1923,6 +1923,17 @@
         "keywords": "openrouter, process, openai, model, const, env, sdk, content",
         "generated": "2026-06-08T16:07:42.608970",
         "file": "llm-integration-with-openrouter.md"
+    },
+    {
+        "title": "AI Agent Memory Starts with a Documentation Table of Contents",
+        "slug": "ai-agent-memory-starts-with-a-documentation-table-of-contents",
+        "author": "dotdot",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 08:13:24 +0000",
+        "description": "Good project memory for AI agents is not a larger pile of documents. It is a hierarchical table of contents that helps an agent reach the right document quic...",
+        "keywords": "readme, docs, index, part, chapter, cli, spec, when",
+        "generated": "2026-07-19T08:26:32.160704",
+        "file": "ai-agent-memory-starts-with-a-documentation-table-of-contents.md"
     },
     {
         "title": "How to Fix Linux Menu Icons for Portable Electron Apps",
@@ -4411,6 +4422,17 @@
         "file": "toronto-tempo-vs-washington-mystics-wnba-preview-picks.md"
     },
     {
+        "title": "I built 31 developer tools in a weekend — here's what I learned",
+        "slug": "i-built-31-developer-tools-in-a-weekend-heres-what-i-learned",
+        "author": "chenghui wu",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 08:08:27 +0000",
+        "description": "Every time I want to format a JSON blob, decode a JWT, or convert a Unix timestamp, I end up on a different random site — each covered in ads, popups, and c...",
+        "keywords": "json, tools, tool, string, every, data, all, formatter",
+        "generated": "2026-07-19T08:26:32.157830",
+        "file": "i-built-31-developer-tools-in-a-weekend-heres-what-i-learned.md"
+    },
+    {
         "title": "Small shift in how I discover web apps",
         "slug": "small-shift-in-how-i-discover-web-apps",
         "author": "Sara",
@@ -5012,6 +5034,17 @@
         "keywords": "shot, site, api, free, mcp, full, best, page",
         "generated": "2026-07-15T08:23:28.889300",
         "file": "best-website-screenshot-api-in-2026-8-tools-compared.md"
+    },
+    {
+        "title": "Deepsec",
+        "slug": "deepsec",
+        "author": "handfuloflight",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 01:33:32 +0000",
+        "description": "Article URL: https://github.com/vercel-labs/deepsec Comments URL: https://news.ycombinator.com/item?id=48964215 Points: 22 # Comments: 0",
+        "keywords": "deepsec, url, https, com, comments, article, github, vercel",
+        "generated": "2026-07-19T08:26:32.154453",
+        "file": "deepsec.md"
     },
     {
         "title": "Restoring Digital Sovereignty: Combatting Data Harvesting with Decentralized Access Protocols",
@@ -6168,6 +6201,17 @@
         "keywords": "capture, you, audio, not, windows, your, translation, own",
         "generated": "2026-06-25T04:05:12.293723",
         "file": "translating-windows-system-audio-in-real-time-driverless-with-no-virtual-cable.md"
+    },
+    {
+        "title": "I built a browser-based P2P file transfer tool using WebRTC",
+        "slug": "i-built-a-browser-based-p2p-file-transfer-tool-using-webrtc",
+        "author": "SamOkampo",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 02:17:03 +0000",
+        "description": "Article URL: https://airdows.com/ Comments URL: https://news.ycombinator.com/item?id=48964424 Points: 17 # Comments: 11",
+        "keywords": "url, https, com, comments, built, browser, based, file",
+        "generated": "2026-07-19T08:26:32.154327",
+        "file": "i-built-a-browser-based-p2p-file-transfer-tool-using-webrtc.md"
     },
     {
         "title": "What's the best way to do authentication in modern applications",
@@ -9952,6 +9996,17 @@
         "file": "make-your-agent-feel-real-time-streaming-with-nvidia-nim.md"
     },
     {
+        "title": "Build Authentication in Next.js 15 From Scratch — No Libraries",
+        "slug": "build-authentication-in-nextjs-15-from-scratch-no-libraries",
+        "author": "Anas Sheikh",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 08:16:02 +0000",
+        "description": "Everyone reaches for NextAuth immediately. But if you want to understand how authentication actually works — build it yourself first. Here's complete JWT aut...",
+        "keywords": "user, token, const, password, return, string, import, error",
+        "generated": "2026-07-19T08:26:32.157505",
+        "file": "build-authentication-in-nextjs-15-from-scratch-no-libraries.md"
+    },
+    {
         "title": "Memory management in production: garbage collection, leaks, and optimization across languages",
         "slug": "memory-management-in-production-garbage-collection-leaks-and-optimization-across-languages",
         "author": "Rizwan Saleem",
@@ -10225,6 +10280,17 @@
         "keywords": "developers, europe, your, you, https, com, take, long",
         "generated": "2026-07-15T02:52:14.906138",
         "file": "i-take-long-term-responsibility-together-with-developers-in-europe-and-the-us.md"
+    },
+    {
+        "title": "Elevate Your Skillset: Top Reasons to Pursue Python Full Stack Training in Marathahalli for Career Growth in 2026",
+        "slug": "elevate-your-skillset-top-reasons-to-pursue-python-full-stack-training-in-marathahalli-for-career-growth-in-2026",
+        "author": "lmt",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 08:13:24 +0000",
+        "description": "Elevate Your Skillset: Top Reasons to Pursue Python Full Stack Training in marathahalli for Career Growth in 2026 In an era where technology evolves at an un...",
+        "keywords": "full, stack, python, development, training, marathahalli, end, developers",
+        "generated": "2026-07-19T08:26:32.155282",
+        "file": "elevate-your-skillset-top-reasons-to-pursue-python-full-stack-training-in-marathahalli-for-career-growth-in-2026.md"
     },
     {
         "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
@@ -10599,6 +10665,17 @@
         "keywords": "vector, query, filter, index, per, hnsw, you, pinecone",
         "generated": "2026-06-25T14:43:02.859658",
         "file": "vector-databases-for-data-engineers-pinecone-vs-weaviate-vs-qdrant-vs-pgvector.md"
+    },
+    {
+        "title": "Google AI Mode Enhancements wi…",
+        "slug": "google-ai-mode-enhancements-wi",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 08:05:39 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of Google's AI Mode integrations with Canva, Instacart, and YouTube. A deep dive in...",
+        "keywords": "mode, google, user, integrations, data, these, can, canva",
+        "generated": "2026-07-19T08:26:32.158266",
+        "file": "google-ai-mode-enhancements-wi.md"
     },
     {
         "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -17520,6 +17597,17 @@
         "file": "the-role-of-ai-powered-analytics-in-improving-operational-efficiency.md"
     },
     {
+        "title": "How to Use Command R for Serp Feature Analysis in 2026",
+        "slug": "how-to-use-command-r-for-serp-feature-analysis-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 08:16:31 +0000",
+        "description": "Originally published at https://seointent.com/blog/command-r-for-serp-feature-analysis TL;DR - Command r for serp feature analysis lets you audit which SERP ...",
+        "keywords": "command, serp, you, analysis, feature, keyword, structured, your",
+        "generated": "2026-07-19T08:26:32.160187",
+        "file": "how-to-use-command-r-for-serp-feature-analysis-in-2026.md"
+    },
+    {
         "title": "The Teensy Executable Revisited",
         "slug": "the-teensy-executable-revisited",
         "author": "ankitg12",
@@ -19157,6 +19245,17 @@
         "keywords": "thousands, documents, query, chat, not, right, way, everything",
         "generated": "2026-06-24T14:43:41.342069",
         "file": "the-right-way-to-chat-with-thousands-of-documents.md"
+    },
+    {
+        "title": "Title: AI-Powered Validation Protocols for Solo Medical Writers: Ensuring Regulatory Accuracy Without Extra Hours",
+        "slug": "title-ai-powered-validation-protocols-for-solo-medical-writers-ensuring-regulatory-accuracy-without-extra-hours",
+        "author": "Ken Deng",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 08:10:54 +0000",
+        "description": "We need to produce a concise 400-500 word educational Dev.to article. Must count words. Must be between 400 and 500 inclusive. We need title, intro (2-3 sent...",
+        "keywords": "count, layer, words, validation, tool, three, automated, checks",
+        "generated": "2026-07-19T08:26:32.161709",
+        "file": "title-ai-powered-validation-protocols-for-solo-medical-writers-ensuring-regulatory-accuracy-without-extra-hours.md"
     },
     {
         "title": "A full body MRI earns you a year of smoking",
@@ -22327,6 +22426,17 @@
         "file": "aligning-images-to-a-baseline-grid-with-modern-css.md"
     },
     {
+        "title": "Breaking Barriers: How Python Full Stack Training in Marathahalli Sparks Career Growth for 2026",
+        "slug": "breaking-barriers-how-python-full-stack-training-in-marathahalli-sparks-career-growth-for-2026",
+        "author": "H2 Lmt",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 08:12:58 +0000",
+        "description": "Breaking Barriers: How Python Full Stack Training in marathahalli Sparks Career Growth for 2026 In today’s tech-driven world, the demand for skilled software...",
+        "keywords": "python, stack, full, training, marathahalli, developers, development, career",
+        "generated": "2026-07-19T08:26:32.156610",
+        "file": "breaking-barriers-how-python-full-stack-training-in-marathahalli-sparks-career-growth-for-2026.md"
+    },
+    {
         "title": "Meta Spent More on AI Than Anyone Except Google. Its Platform Is Still Not Out the Door.",
         "slug": "meta-spent-more-on-ai-than-anyone-except-google-its-platform-is-still-not-out-the-door",
         "author": "marcom",
@@ -24294,6 +24404,17 @@
         "keywords": "patterns, github, return, scan, api, key, add, security",
         "generated": "2026-06-22T05:02:45.250987",
         "file": "add-security-scanning-to-any-github-repo-in-3-lines-of-yaml.md"
+    },
+    {
+        "title": "Launch Your Tech Career: Top Reasons to Choose Python Full Stack Training in Marathahalli in 2026",
+        "slug": "launch-your-tech-career-top-reasons-to-choose-python-full-stack-training-in-marathahalli-in-2026",
+        "author": "Restaurants New",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 08:12:52 +0000",
+        "description": "Launch Your Tech Career: Top Reasons to Choose Python Full Stack Training in marathahalli in 2026 In an era where technology evolves at lightning speed, the ...",
+        "keywords": "stack, full, python, training, your, development, marathahalli, can",
+        "generated": "2026-07-19T08:26:32.156998",
+        "file": "launch-your-tech-career-top-reasons-to-choose-python-full-stack-training-in-marathahalli-in-2026.md"
     },
     {
         "title": "Switzerland wil have a referendum to cap population at 10M",
@@ -27816,6 +27937,17 @@
         "file": "how-i-built-a-real-time-formula-1-stats-tracker-safety-car-decisive-again-in-confusing-end-to-chaotic-race.md"
     },
     {
+        "title": "RAG for Beginners: Build a Document Q&A System with LangChain (Full Code)",
+        "slug": "rag-for-beginners-build-a-document-qa-system-with-langchain-full-code",
+        "author": "Piyush Kumar Soni",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 08:11:29 +0000",
+        "description": "RAG for Beginners: Build a Document Q&A System with LangChain (Full Code) Tags: #ai #langchain #python #tutorial LLMs don't know your private documents. Chat...",
+        "keywords": "you, chunks, your, langchain, llm, documents, retrieval, import",
+        "generated": "2026-07-19T08:26:32.161175",
+        "file": "rag-for-beginners-build-a-document-qa-system-with-langchain-full-code.md"
+    },
+    {
         "title": "Why I built a real-estate tool with zero real-estate listings",
         "slug": "why-i-built-a-real-estate-tool-with-zero-real-estate-listings",
         "author": "iambox leekyuha",
@@ -29002,6 +29134,17 @@
         "keywords": "gemma, model, encoder, multimodal, architecture, training, unified, free",
         "generated": "2026-06-11T10:47:52.349638",
         "file": "introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model.md"
+    },
+    {
+        "title": "Paid Surveys in 2026: A Smart Way to Earn Extra Cash Online Without Special Skills",
+        "slug": "paid-surveys-in-2026-a-smart-way-to-earn-extra-cash-online-without-special-skills",
+        "author": "Robert kanijel",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 08:01:42 +0000",
+        "description": "Why Are Companies Paying for Surveys? Every year, businesses invest billions of dollars into market research before launching new products or improving exist...",
+        "keywords": "surveys, survey, paid, your, you, minutes, companies, time",
+        "generated": "2026-07-19T08:26:32.158572",
+        "file": "paid-surveys-in-2026-a-smart-way-to-earn-extra-cash-online-without-special-skills.md"
     },
     {
         "title": "John Deere owners will get the right to repair equipment under FTC settlement",
@@ -30265,7 +30408,7 @@
         "published": "Sun, 19 Jul 2026 01:29:19 +0000",
         "description": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=4896...",
         "keywords": "mania, eviscerating, global, decision, making, url, https, blog",
-        "generated": "2026-07-19T03:25:16.525108",
+        "generated": "2026-07-19T08:26:32.154576",
         "file": "ai-mania-is-eviscerating-global-decision-making.md"
     },
     {
@@ -31389,6 +31532,17 @@
         "keywords": "wings, their, will, mystics, washington, dallas, game, scoring",
         "generated": "2026-06-05T15:19:56.046949",
         "file": "washington-mystics-vs-dallas-wings-wnba-preview-picks.md"
+    },
+    {
+        "title": "Fuel Your Digital Journey: The Unmatched Value of Python Full Stack Training in Marathahalli for Future Innovators",
+        "slug": "fuel-your-digital-journey-the-unmatched-value-of-python-full-stack-training-in-marathahalli-for-future-innovators",
+        "author": "lmt",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 08:13:10 +0000",
+        "description": "Fuel Your Digital Journey: The Unmatched Value of Python Full Stack Training in marathahalli for Future Innovators In the rapidly evolving landscape of techn...",
+        "keywords": "full, stack, python, training, developers, will, marathahalli, development",
+        "generated": "2026-07-19T08:26:32.155755",
+        "file": "fuel-your-digital-journey-the-unmatched-value-of-python-full-stack-training-in-marathahalli-for-future-innovators.md"
     },
     {
         "title": "Why Your Business Is Losing Money on Manual Data Entry (And the Fix)",
@@ -33644,6 +33798,17 @@
         "file": "batched-prompt-scheduling-for-on-device-llms.md"
     },
     {
+        "title": "Why Aspiring Developers are Flocking to Python Full Stack Training in Marathahalli for Cutting-Edge Skills",
+        "slug": "why-aspiring-developers-are-flocking-to-python-full-stack-training-in-marathahalli-for-cutting-edge-skills",
+        "author": "H2 Lmt",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 08:13:07 +0000",
+        "description": "Why Aspiring Developers are Flocking to Python Full Stack Training in marathahalli for Cutting-Edge Skills In an ever-evolving tech landscape, the demand for...",
+        "keywords": "training, full, stack, python, marathahalli, developers, can, skills",
+        "generated": "2026-07-19T08:26:32.156212",
+        "file": "why-aspiring-developers-are-flocking-to-python-full-stack-training-in-marathahalli-for-cutting-edge-skills.md"
+    },
+    {
         "title": "Three of our worst VC stories",
         "slug": "three-of-our-worst-vc-stories",
         "author": "orgonon",
@@ -34227,6 +34392,17 @@
         "file": "docs-as-data-why-ai-changes-how-we-write-documentation.md"
     },
     {
+        "title": "Kubernetes PersistentVolumes and StorageClasses: dynamic storage provisioning for applications",
+        "slug": "kubernetes-persistentvolumes-and-storageclasses-dynamic-storage-provisioning-for-applications",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 08:01:36 +0000",
+        "description": "Kubernetes PersistentVolumes and StorageClasses: dynamic storage provisioning for applications Understanding the Core Concepts Persistent storage in Kubernet...",
+        "keywords": "you, your, what, implementation, when, them, learn, team",
+        "generated": "2026-07-19T08:26:32.158952",
+        "file": "kubernetes-persistentvolumes-and-storageclasses-dynamic-storage-provisioning-for-applications.md"
+    },
+    {
         "title": "The passive income blueprint that AI makes possible in 2026",
         "slug": "the-passive-income-blueprint-that-ai-makes-possible-in-2026",
         "author": "Already Here LLC",
@@ -34491,6 +34667,17 @@
         "file": "21-years-and-counting-of-eight-fallacies-of-distributed-computing-2025.md"
     },
     {
+        "title": "I built an API that turns any URL into structured JSON for AI agents",
+        "slug": "i-built-an-api-that-turns-any-url-into-structured-json-for-ai-agents",
+        "author": "NexusCore",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 08:17:34 +0000",
+        "description": "I built an API that turns any URL into structured JSON for AI agents",
+        "keywords": "built, api, turns, any, url, structured, json, agents",
+        "generated": "2026-07-19T08:26:32.159087",
+        "file": "i-built-an-api-that-turns-any-url-into-structured-json-for-ai-agents.md"
+    },
+    {
         "title": "How to Extract Google Maps Results with Python and a SERP API",
         "slug": "how-to-extract-google-maps-results-with-python-and-a-serp-api",
         "author": "Cecilia Hill",
@@ -34522,6 +34709,17 @@
         "keywords": "alibaba, ban, claude, code, workplace, over, alleged, backdoor",
         "generated": "2026-07-03T09:27:38.729237",
         "file": "alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says.md"
+    },
+    {
+        "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+        "slug": "scrying-the-amd-gfx1250-llvm-tea-leaves",
+        "author": "mfiguiere",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 05:07:08 +0000",
+        "description": "Article URL: https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea Comments URL: https://news.ycombinator.com/item?id=48965161 Points: 18 # Comments: 0",
+        "keywords": "scrying, amd, llvm, tea, url, https, com, comments",
+        "generated": "2026-07-19T08:26:32.154159",
+        "file": "scrying-the-amd-gfx1250-llvm-tea-leaves.md"
     },
     {
         "title": "Build an EVE Online Market Trading Bot in Python Using the ESI API",

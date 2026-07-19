@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Sun, 19 Jul 2026 01:29:19 +0000"
 description: "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=4896..."
 keywords: "mania, eviscerating, global, decision, making, url, https, blog"
-generated: "2026-07-19T03:25:16.525108"
+generated: "2026-07-19T08:26:32.154576"
 ---
 
 # AI Mania Is Eviscerating Global Decision-Making
 
 ## Overview
 
-Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 33 # Comments: 5
+Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 179 # Comments: 66
 
 ## Key Insights
 
