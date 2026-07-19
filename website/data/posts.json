@@ -176,6 +176,17 @@
         "file": "fs.md"
     },
     {
+        "title": "Python quickstart: nutrition data in 10 lines",
+        "slug": "python-quickstart-nutrition-data-in-10-lines",
+        "author": "Dietly",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 12:52:34 +0000",
+        "description": "Python quickstart: nutrition data in 10 lines You can search Dietly's public nutrition catalog with one GET request to https://api.getdietly.com/search . The...",
+        "keywords": "food, get, self, timeout, you, api, search, requests",
+        "generated": "2026-07-19T13:36:01.814247",
+        "file": "python-quickstart-nutrition-data-in-10-lines.md"
+    },
+    {
         "title": "Running Claude Code and Codex Together Instead of Choosing One",
         "slug": "running-claude-code-and-codex-together-instead-of-choosing-one",
         "author": "Prithvi Bharadwaj",
@@ -2220,6 +2231,17 @@
         "keywords": "self, async, client, def, requests, await, python, api",
         "generated": "2026-07-01T20:03:10.698091",
         "file": "building-a-production-ready-async-api-client-in-python.md"
+    },
+    {
+        "title": "Your Pipeline Is 8.5h Behind: Catching Climate Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-85h-behind-catching-climate-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 13:01:55 +0000",
+        "description": "Your pipeline just missed a significant anomaly: a 24h momentum spike of +0.494 around climate sentiment. This isn’t just a blip; it indicates a rising disco...",
+        "keywords": "sentiment, you, your, climate, pulsebit, can, english, api",
+        "generated": "2026-07-19T13:36:01.813307",
+        "file": "your-pipeline-is-85h-behind-catching-climate-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
@@ -11756,6 +11778,17 @@
         "file": "ai-doesnt-need-more-intelligence-it-needs-better-coordination.md"
     },
     {
+        "title": "Secure Your Borrowing Goals With $2,000 Crypto Loans in USA",
+        "slug": "secure-your-borrowing-goals-with-2000-crypto-loans-in-usa",
+        "author": "Lorne Pugh",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 13:28:18 +0000",
+        "description": "Secure your borrowing goals with $2,000 crypto loans in USA. Compare trusted platforms like Ledn, Nexo, and Strike. No credit checks. Transparent rates. Appl...",
+        "keywords": "loans, you, your, proof, loan, crypto, ledn, strike",
+        "generated": "2026-07-19T13:36:01.814781",
+        "file": "secure-your-borrowing-goals-with-2000-crypto-loans-in-usa.md"
+    },
+    {
         "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
         "slug": "show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves",
         "author": "ajaypanthagani",
@@ -13492,6 +13525,17 @@
         "keywords": "watermark, image, watermarks, images, you, remove, removal, free",
         "generated": "2026-06-19T19:55:28.881291",
         "file": "remove-watermark-from-image-online-free.md"
+    },
+    {
+        "title": "Verdict Buddy by Inithouse: using an AI conflict mediator for a real job (Gottman + EFT + NVC frameworks)",
+        "slug": "verdict-buddy-by-inithouse-using-an-ai-conflict-mediator-for-a-real-job-gottman-eft-nvc-frameworks",
+        "author": "Jakub",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 13:24:30 +0000",
+        "description": "We had a roommate conflict at our office. Two people sharing a workspace, both reasonable, both annoyed. One wanted music playing during the day; the other n...",
+        "keywords": "verdict, conflict, buddy, both, two, one, music, but",
+        "generated": "2026-07-19T13:36:01.815740",
+        "file": "verdict-buddy-by-inithouse-using-an-ai-conflict-mediator-for-a-real-job-gottman-eft-nvc-frameworks.md"
     },
     {
         "title": "Cheap AI token platforms need a real API test console",
@@ -16310,6 +16354,17 @@
         "file": "nextcloud-hub-26-spring-built-together-designed-for-the-future.md"
     },
     {
+        "title": "I burned all my tokens researching how to save tokens",
+        "slug": "i-burned-all-my-tokens-researching-how-to-save-tokens",
+        "author": "bkotrys",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 12:01:53 +0000",
+        "description": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48967355 Points: 29 # Comments: 6",
+        "keywords": "tokens, url, https, com, comments, burned, all, researching",
+        "generated": "2026-07-19T13:36:01.811560",
+        "file": "i-burned-all-my-tokens-researching-how-to-save-tokens.md"
+    },
+    {
         "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
         "slug": "postgresbench-a-reproducible-benchmark-for-postgres-services",
         "author": "saisrirampur",
@@ -17067,6 +17122,17 @@
         "keywords": "step, your, projects, raspberry, camera, module, enhance, you",
         "generated": "2026-07-09T09:49:56.275700",
         "file": "enhance-your-projects-with-raspberry-pi-camera-module.md"
+    },
+    {
+        "title": "One Scrape Per Category, Not Per User: How I Kept a Job-Alert SaaS From Going Broke",
+        "slug": "one-scrape-per-category-not-per-user-how-i-kept-a-job-alert-saas-from-going-broke",
+        "author": "Nabeel Hassan",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 13:26:33 +0000",
+        "description": "I run a small job-alert product called Upwork Scout. Users set filters, describe themselves once, and it emails them only the Upwork jobs that actually fit t...",
+        "keywords": "user, one, job, not, per, scraping, category, users",
+        "generated": "2026-07-19T13:36:01.819433",
+        "file": "one-scrape-per-category-not-per-user-how-i-kept-a-job-alert-saas-from-going-broke.md"
     },
     {
         "title": "Architecture vs. Reality: A Developer's Deep Dive into Scaling Healthcare AI Platforms",
@@ -18818,6 +18884,17 @@
         "file": "five-lessons-maintenance-has-taught-me-about-leadership.md"
     },
     {
+        "title": "Verify the crawler, not its name: Web Bot Auth, IP checks, and the third gate",
+        "slug": "verify-the-crawler-not-its-name-web-bot-auth-ip-checks-and-the-third-gate",
+        "author": "Evgenii Slepinin",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 13:27:03 +0000",
+        "description": "Two posts ago I told people to check their server logs for AI crawlers getting a 403. @wrencalloway replied with the obvious next question: fine, you found t...",
+        "keywords": "you, not, where, can, name, identity, one, json",
+        "generated": "2026-07-19T13:36:01.815392",
+        "file": "verify-the-crawler-not-its-name-web-bot-auth-ip-checks-and-the-third-gate.md"
+    },
+    {
         "title": "Open Banking vs Stripe: The Real Cost Comparison for SaaS in 2026",
         "slug": "open-banking-vs-stripe-the-real-cost-comparison-for-saas-in-2026",
         "author": "chnby",
@@ -18994,6 +19071,17 @@
         "file": "buy-facebook-accounts-for-professional-digital-marketing-success.md"
     },
     {
+        "title": "Building Production-Grade Agentic AI Systems: A Senior Architect’s Blueprint for Scalability, Latency, and Trust",
+        "slug": "building-production-grade-agentic-ai-systems-a-senior-architects-blueprint-for-scalability-latency-and-trust",
+        "author": "Numb Code",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 13:24:07 +0000",
+        "description": "1. The State of Agentic AI: Moving Beyond Toy Prototypes The transition of Large Language Model (LLM) systems from simple, single-turn chat interfaces to aut...",
+        "keywords": "state, model, context, tool, execution, system, const, llm",
+        "generated": "2026-07-19T13:36:01.817073",
+        "file": "building-production-grade-agentic-ai-systems-a-senior-architects-blueprint-for-scalability-latency-and-trust.md"
+    },
+    {
         "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
         "slug": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
         "author": "mekpro",
@@ -19102,6 +19190,17 @@
         "keywords": "temperature, agent, python, raspberry, your, datetime, built, you",
         "generated": "2026-07-14T02:53:42.957514",
         "file": "i-built-a-247-ai-agent-with-python-and-a-raspberry-pi.md"
+    },
+    {
+        "title": "A CSV quality report should not echo the data it rejects",
+        "slug": "a-csv-quality-report-should-not-echo-the-data-it-rejects",
+        "author": "elecson",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 13:19:01 +0000",
+        "description": "CSV validation usually starts with rules: required fields, types, ranges, allowed values, and uniqueness. But if the validation output will be attached to an...",
+        "keywords": "csv, report, not, should, data, row, input, validation",
+        "generated": "2026-07-19T13:36:01.812387",
+        "file": "a-csv-quality-report-should-not-echo-the-data-it-rejects.md"
     },
     {
         "title": "Gemma 4 QAT on 10GB Laptop: Local AI with 6.7GB VRAM",
@@ -20543,6 +20642,17 @@
         "keywords": "not, test, browser, teams, can, you, but, automation",
         "generated": "2026-06-08T20:25:42.490684",
         "file": "ai-driven-test-automation-is-not-a-testing-strategy-its-a-decision-shift.md"
+    },
+    {
+        "title": "Shipped Orbit: A New Tool for Digital Attention Management",
+        "slug": "shipped-orbit-a-new-tool-for-digital-attention-management",
+        "author": "ItsEvilDuck",
+        "source": "devto_webdev",
+        "published": "Sun, 19 Jul 2026 13:21:28 +0000",
+        "description": "Today, we're sharing Orbit, a new app built to help manage digital attention. The core idea behind Orbit is to create a more focused environment for work by ...",
+        "keywords": "orbit, digital, attention, new, built, create, focused, work",
+        "generated": "2026-07-19T13:36:01.817271",
+        "file": "shipped-orbit-a-new-tool-for-digital-attention-management.md"
     },
     {
         "title": "BizNode Basic ($200) vs Pro ($499): both run on your hardware with zero recurring costs. One-time purchase, lifetime ownership",
@@ -23218,6 +23328,17 @@
         "file": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real.md"
     },
     {
+        "title": "Two SKUs, One Model: How Prompt Engineering Alone Creates a $19 vs $29 SOP Generator",
+        "slug": "two-skus-one-model-how-prompt-engineering-alone-creates-a-19-vs-29-sop-generator",
+        "author": "KunStudio",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 13:23:39 +0000",
+        "description": "Two SKUs, One Model: How Prompt Engineering Alone Creates a $19 vs $29 SOP Generator AI SOP Builder turns a plain-language process description into a finishe...",
+        "keywords": "tier, sop, model, prompt, pro, one, env, brief",
+        "generated": "2026-07-19T13:36:01.820175",
+        "file": "two-skus-one-model-how-prompt-engineering-alone-creates-a-19-vs-29-sop-generator.md"
+    },
+    {
         "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
         "slug": "playstation-can-delete-all-your-digital-games-after-3-years-of-inactivity-eu",
         "author": "thewebguyd",
@@ -25284,6 +25405,17 @@
         "keywords": "docker, python, appuser, local, run, zero, trust, root",
         "generated": "2026-06-19T10:46:49.267253",
         "file": "how-to-build-a-zero-trust-docker-sandbox-for-local-ai-python-applications.md"
+    },
+    {
+        "title": "Sending Gmail from behind China's Great Firewall — six attempts that failed",
+        "slug": "sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed",
+        "author": "Baolin Tikool",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 13:02:29 +0000",
+        "description": "Last night I needed to send one email to support@creem.io from Guangzhou, China. Simple email — 15 minutes to draft. Sending it took over an hour. Here's wha...",
+        "keywords": "smtp, gmail, com, tls, email, send, windows, ssl",
+        "generated": "2026-07-19T13:36:01.812959",
+        "file": "sending-gmail-from-behind-chinas-great-firewall-six-attempts-that-failed.md"
     },
     {
         "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
@@ -28289,6 +28421,17 @@
         "file": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md"
     },
     {
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "slug": "what-i-learned-selling-2500-midi-recorders-hardware-is-not-so-hard",
+        "author": "chipweinberger",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 10:34:58 +0000",
+        "description": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard Comments URL: https://news.ycombinator.com/item?id=48966713 Points: 98 # Co...",
+        "keywords": "hardware, not, hard, url, https, com, comments, what",
+        "generated": "2026-07-19T13:36:01.812123",
+        "file": "what-i-learned-selling-2500-midi-recorders-hardware-is-not-so-hard.md"
+    },
+    {
         "title": "How I built an OpenAI-compatible prompt encryption proxy in 300 lines of Python",
         "slug": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python",
         "author": "Xjz · Builder",
@@ -29563,6 +29706,17 @@
         "keywords": "agent, app, you, agents, step, file, one, pytest",
         "generated": "2026-07-04T03:39:49.960968",
         "file": "agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it.md"
+    },
+    {
+        "title": "Why your Cursor rules never fire: globs, alwaysApply, and description explained",
+        "slug": "why-your-cursor-rules-never-fire-globs-alwaysapply-and-description-explained",
+        "author": "Rulestack",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 13:23:52 +0000",
+        "description": "You wrote a .cursor/rules file. It has good rules. And the agent keeps ignoring them. Nine times out of ten this isn't the model being dumb — it's that the r...",
+        "keywords": "rule, rules, agent, description, globs, you, cursor, never",
+        "generated": "2026-07-19T13:36:01.819814",
+        "file": "why-your-cursor-rules-never-fire-globs-alwaysapply-and-description-explained.md"
     },
     {
         "title": "Shifting Paradigms: The Rise of Curation Over Algorithmic Feeds",
@@ -31633,6 +31787,17 @@
         "file": "building-a-simple-algorithmic-trading-bot-in-python-from-data-to-signals.md"
     },
     {
+        "title": "I joined the IndieWeb, here's what I learned",
+        "slug": "i-joined-the-indieweb-heres-what-i-learned",
+        "author": "andros",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 11:14:38 +0000",
+        "description": "Article URL: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/ Comments URL: https://news.ycombinator.com/item?id=48966984 Poin...",
+        "keywords": "joined, indieweb, what, learned, url, https, comments, here",
+        "generated": "2026-07-19T13:36:01.811881",
+        "file": "i-joined-the-indieweb-heres-what-i-learned.md"
+    },
+    {
         "title": "Which is the Best AI Development Company in India",
         "slug": "which-is-the-best-ai-development-company-in-india",
         "author": "Antonio Miller",
@@ -31664,6 +31829,17 @@
         "keywords": "trinket, strivemath, org, url, https, comments, shutting, down",
         "generated": "2026-06-16T11:22:59.962685",
         "file": "trinketio-shutting-down-so-we-saved-it-and-hosted-it-a-trinketstrivemathorg.md"
+    },
+    {
+        "title": "Affordable $2,000 Crypto Loans in USA With Secure Processing",
+        "slug": "affordable-2000-crypto-loans-in-usa-with-secure-processing",
+        "author": "Lorne Pugh",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 13:28:54 +0000",
+        "description": "Find affordable $2,000 crypto loans in USA with secure processing. Compare Ledn, Arch, and Strike. No credit checks. Transparent rates. Apply with confidence...",
+        "keywords": "you, your, collateral, apr, loans, loan, crypto, rehypothecation",
+        "generated": "2026-07-19T13:36:01.817820",
+        "file": "affordable-2000-crypto-loans-in-usa-with-secure-processing.md"
     },
     {
         "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
@@ -33019,6 +33195,17 @@
         "file": "grammarly-review-2026-ai-writing-assistant-for-business-teams.md"
     },
     {
+        "title": "Memory-Safe AI Development: A Practical Guide to Writing Technical Specs for Coding Agents",
+        "slug": "memory-safe-ai-development-a-practical-guide-to-writing-technical-specs-for-coding-agents",
+        "author": "Aleksandr Kossarev",
+        "source": "devto_ai",
+        "published": "Sun, 19 Jul 2026 13:28:32 +0000",
+        "description": "Memory-Safe AI Development: A Practical Guide to Writing Technical Specs for Coding Agents TL;DR: When you use a coding agent to modify an AI system with per...",
+        "keywords": "memory, not, system, importance, agent, every, coding, new",
+        "generated": "2026-07-19T13:36:01.818953",
+        "file": "memory-safe-ai-development-a-practical-guide-to-writing-technical-specs-for-coding-agents.md"
+    },
+    {
         "title": "Line AI Chatbot In Production: A CTO's Honest Breakdown",
         "slug": "line-ai-chatbot-in-production-a-ctos-honest-breakdown",
         "author": "eagerspark",
@@ -33094,6 +33281,17 @@
         "keywords": "use, performance, frontend, optimize, user, your, you, javascript",
         "generated": "2026-06-07T04:26:51.963683",
         "file": "how-to-optimize-frontend-performance-a-hands-on-tutorial.md"
+    },
+    {
+        "title": "Minecraft: Java Edition now uses SDL3",
+        "slug": "minecraft-java-edition-now-uses-sdl3",
+        "author": "ObviouslyFlamer",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 11:48:18 +0000",
+        "description": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 Comments URL: https://news.ycombinator.com/item?id=48967256 Points: 27 # Comme...",
+        "keywords": "minecraft, article, url, https, comments, java, edition, now",
+        "generated": "2026-07-19T13:36:01.811749",
+        "file": "minecraft-java-edition-now-uses-sdl3.md"
     },
     {
         "title": "Agents Are Not Magic. Here's the Boring Infrastructure That Makes Them Work.",
@@ -35261,6 +35459,17 @@
         "file": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs.md"
     },
     {
+        "title": "The death and rebirth of my home server",
+        "slug": "the-death-and-rebirth-of-my-home-server",
+        "author": "steinuil",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 10:44:31 +0000",
+        "description": "Article URL: https://sgt.hootr.club/blog/home-server-rebirth/ Comments URL: https://news.ycombinator.com/item?id=48966769 Points: 32 # Comments: 11",
+        "keywords": "rebirth, home, server, url, https, comments, death, article",
+        "generated": "2026-07-19T13:36:01.812002",
+        "file": "the-death-and-rebirth-of-my-home-server.md"
+    },
+    {
         "title": "The Productivity Stack I Actually Use as a Tech Blogger (After Testing 20+ Tools)",
         "slug": "the-productivity-stack-i-actually-use-as-a-tech-blogger-after-testing-20-tools",
         "author": "Muneeb Tariq",
@@ -36249,6 +36458,17 @@
         "keywords": "what, you, spec, agent, not, who, data, had",
         "generated": "2026-06-27T13:54:40.042720",
         "file": "your-ai-is-not-writing-bad-code-you-are-writing-a-bad-spec.md"
+    },
+    {
+        "title": "I Built a Browser-Based Python Quant Research Sandbox on Cloudflare's Free Tier",
+        "slug": "i-built-a-browser-based-python-quant-research-sandbox-on-cloudflares-free-tier",
+        "author": "Dennis Kim",
+        "source": "devto_python",
+        "published": "Sun, 19 Jul 2026 12:53:06 +0000",
+        "description": "Can you build a Python quant research environment that runs entirely in the browser, on Cloudflare's Free Tier alone? That question cost me several nights ...",
+        "keywords": "python, quant, browser, free, data, cloudflare, you, api",
+        "generated": "2026-07-19T13:36:01.813797",
+        "file": "i-built-a-browser-based-python-quant-research-sandbox-on-cloudflares-free-tier.md"
     },
     {
         "title": "How a Hair Salon Automated 80% of Their Bookings (Case Study)",
