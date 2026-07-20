@@ -2904,6 +2904,17 @@
         "file": "i-connected-oracles-managed-mcp-server-to-ai-chat-clients-heres-what-actually-worked.md"
     },
     {
+        "title": "Agent swarms and the new model economics",
+        "slug": "agent-swarms-and-the-new-model-economics",
+        "author": "jlaneve",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 18:06:13 +0000",
+        "description": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 15 # Comments: 4",
+        "keywords": "agent, model, economics, url, https, com, comments, swarms",
+        "generated": "2026-07-20T19:49:00.044147",
+        "file": "agent-swarms-and-the-new-model-economics.md"
+    },
+    {
         "title": "The vintage beauty of Soviet control rooms (2018)",
         "slug": "the-vintage-beauty-of-soviet-control-rooms-2018",
         "author": "mvdtnz",
@@ -5377,6 +5388,17 @@
         "file": "i-rebuilt-a-texas-citys-open-data-portal-in-30-minutes-with-claude-code.md"
     },
     {
+        "title": "The bug that taught me to grep before I git blame",
+        "slug": "the-bug-that-taught-me-to-grep-before-i-git-blame",
+        "author": "John Builds",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 19:29:58 +0000",
+        "description": "A user reported that a feature had stopped working. Classic regression report: we used to have X, now it's gone. So I did what you do. I opened the git log...",
+        "keywords": "git, had, written, not, grep, regression, report, you",
+        "generated": "2026-07-20T19:49:00.046708",
+        "file": "the-bug-that-taught-me-to-grep-before-i-git-blame.md"
+    },
+    {
         "title": "Godot will no longer accept AI-authored code contributions",
         "slug": "godot-will-no-longer-accept-ai-authored-code-contributions",
         "author": "pjmlp",
@@ -6830,6 +6852,17 @@
         "file": "walt-disney-company-is-the-most-successful-at-monetizing-human-nostalgia-audio.md"
     },
     {
+        "title": "I made $4,200 in 90 days as a Python freelancer with 0 audience. Here's the cold email that worked.",
+        "slug": "i-made-4200-in-90-days-as-a-python-freelancer-with-0-audience-heres-the-cold-email-that-worked",
+        "author": "HAL GOBVAN",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 19:23:09 +0000",
+        "description": "Why I stopped sending freelance proposals (and what I send instead) I used to spend 2 hours on every freelance proposal. I'd write a 4-page doc, list 12 deli...",
+        "keywords": "what, they, you, python, freelance, not, value, freelancer",
+        "generated": "2026-07-20T19:49:00.044774",
+        "file": "i-made-4200-in-90-days-as-a-python-freelancer-with-0-audience-heres-the-cold-email-that-worked.md"
+    },
+    {
         "title": "Rebuilding Orkas for Long-Running Agents",
         "slug": "rebuilding-orkas-for-long-running-agents",
         "author": "Orkas",
@@ -8016,6 +8049,17 @@
         "keywords": "mcpsnoop, url, https, com, comments, show, wireshark, mcp",
         "generated": "2026-07-03T19:37:54.519487",
         "file": "show-hn-mcpsnoop-wireshark-for-mcp-transparent-proxy-and-live-tui.md"
+    },
+    {
+        "title": "Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics",
+        "slug": "building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics",
+        "author": "Imus",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 19:40:36 +0000",
+        "description": "Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics How we replaced looks good to me with automated evaluation catching 92% of halluc...",
+        "keywords": "eval, self, llm, evaluation, production, context, judges, judge",
+        "generated": "2026-07-20T19:49:00.049828",
+        "file": "building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics.md"
     },
     {
         "title": "Introducing NextPy – Building the Future of Full-Stack Python Development",
@@ -10572,10 +10616,10 @@
         "slug": "optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40",
         "author": "Imus",
         "source": "devto_ai",
-        "published": "Sun, 19 Jul 2026 19:01:58 +0000",
+        "published": "Mon, 20 Jul 2026 19:40:37 +0000",
         "description": "Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40% How we moved from semantic search + hope to a measured, tunable ...",
         "keywords": "self, query, retrieval, recall, class, def, rag, search",
-        "generated": "2026-07-19T19:13:25.021433",
+        "generated": "2026-07-20T19:49:00.049177",
         "file": "optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40.md"
     },
     {
@@ -14077,6 +14121,17 @@
         "file": "ai-agents-for-business-autonomous-systems-explained.md"
     },
     {
+        "title": "Proposed API Reference",
+        "slug": "proposed-api-reference",
+        "author": "Patrick G",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 19:23:22 +0000",
+        "description": "This appendix defines the concrete API surface and observable semantics of the explicit reactive-dependency proposal. The API is intentionally low-level. It ...",
+        "keywords": "derivation, dependency, not, invalidation, get, source, value, dependencies",
+        "generated": "2026-07-20T19:49:00.047862",
+        "file": "proposed-api-reference.md"
+    },
+    {
         "title": "Detect SERP Features in Search Results for Better SEO Context",
         "slug": "detect-serp-features-in-search-results-for-better-seo-context",
         "author": "Elowen",
@@ -15164,6 +15219,17 @@
         "keywords": "chemistry, metal, organic, frameworks, new, miracle, materials, url",
         "generated": "2026-07-16T03:13:36.749923",
         "file": "metal-organic-frameworks-chemistrys-new-miracle-materials-2018.md"
+    },
+    {
+        "title": "Password Strength Checker and the case for browser-side cryptography",
+        "slug": "password-strength-checker-and-the-case-for-browser-side-cryptography",
+        "author": "Goksel Yesiller",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 19:19:21 +0000",
+        "description": "Every developer knows the tension between enforcing strong password policies and preserving a smooth user experience. Overly complex rules push users toward ...",
+        "keywords": "password, strength, tool, you, your, checker, length, test",
+        "generated": "2026-07-20T19:49:00.048283",
+        "file": "password-strength-checker-and-the-case-for-browser-side-cryptography.md"
     },
     {
         "title": "Mobile Form Input Types, Page Splits, and Uploads: A Practical Checklist",
@@ -17133,6 +17199,17 @@
         "keywords": "repowise, health, files, same, score, code, defect, file",
         "generated": "2026-06-06T08:41:07.450205",
         "file": "i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark.md"
+    },
+    {
+        "title": "I gave my AI agent the ability to send email",
+        "slug": "i-gave-my-ai-agent-the-ability-to-send-email",
+        "author": "DevOps Daily",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 19:43:43 +0000",
+        "description": "Last month I wired Claude up to my email infrastructure. Not Claude writes an email draft and I paste it somewhere but the agent checks my domain status, s...",
+        "keywords": "mcp, api, server, agent, tool, email, claude, call",
+        "generated": "2026-07-20T19:49:00.048654",
+        "file": "i-gave-my-ai-agent-the-ability-to-send-email.md"
     },
     {
         "title": "How to handle imposter syndrome as a developer: practical strategies",
@@ -19520,6 +19597,17 @@
         "keywords": "you, your, what, implementation, when, them, learn, team",
         "generated": "2026-06-08T16:07:42.606748",
         "file": "event-stores-and-event-sourcing-databases-eventstoredb-kafka-and-postgresql-as-event-stores.md"
+    },
+    {
+        "title": "Safety and alignment in an era of long-horizon models",
+        "slug": "safety-and-alignment-in-an-era-of-long-horizon-models",
+        "author": "Wingy",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 18:43:55 +0000",
+        "description": "Article URL: https://openai.com/index/safety-alignment-long-horizon-models/ Comments URL: https://news.ycombinator.com/item?id=48983108 Points: 5 # Comments: 0",
+        "keywords": "safety, alignment, long, horizon, models, url, https, com",
+        "generated": "2026-07-20T19:49:00.043597",
+        "file": "safety-and-alignment-in-an-era-of-long-horizon-models.md"
     },
     {
         "title": "實測 GeminiCLI Security Extensions 來Review CodeX 原始碼",
@@ -23251,6 +23339,17 @@
         "file": "resource-toolkit-choose-the-right-web-hosting-without-overpaying.md"
     },
     {
+        "title": "Drive a visual site builder with your own Claude/Cursor via MCP",
+        "slug": "drive-a-visual-site-builder-with-your-own-claudecursor-via-mcp",
+        "author": "Mufasa",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 19:40:55 +0000",
+        "description": "I've been building Swebsy , a visual website builder, and last week we shipped something I haven't seen any other builder do. I want to talk about it because...",
+        "keywords": "you, your, agent, already, mcp, their, builder, own",
+        "generated": "2026-07-20T19:49:00.046034",
+        "file": "drive-a-visual-site-builder-with-your-own-claudecursor-via-mcp.md"
+    },
+    {
         "title": "Microsoft reveals why Windows 11 keeps saying a file is in use after closing app",
         "slug": "microsoft-reveals-why-windows-11-keeps-saying-a-file-is-in-use-after-closing-app",
         "author": "thunderbong",
@@ -25594,6 +25693,17 @@
         "file": "how-to-start-a-ruby-meetup.md"
     },
     {
+        "title": "Stack Overflow Data API: Extract Structured JSON in 2026",
+        "slug": "stack-overflow-data-api-extract-structured-json-in-2026",
+        "author": "AlterLab",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 19:21:30 +0000",
+        "description": "This guide covers extracting publicly accessible data. Always review data. Always review a site's robots.txt and Terms of Service before scraping. TL;DR Use ...",
+        "keywords": "type, schema, data, string, alterlab, api, description, extract",
+        "generated": "2026-07-20T19:49:00.045693",
+        "file": "stack-overflow-data-api-extract-structured-json-in-2026.md"
+    },
+    {
         "title": "Class Method and Static Method Explained with Examples",
         "slug": "class-method-and-static-method-explained-with-examples",
         "author": "Shameel Uddin",
@@ -27398,6 +27508,17 @@
         "file": "i-built-an-open-source-tool-that-turns-workcell-incidents-into-evidence-bundles-and-regression-tests.md"
     },
     {
+        "title": "Common Mistakes New Data Engineers Make (And How to Avoid Them)",
+        "slug": "common-mistakes-new-data-engineers-make-and-how-to-avoid-them",
+        "author": "Abhishek Konagalla",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 19:36:22 +0000",
+        "description": "Common Mistakes New Data Engineers Make (And How to Avoid Them) Everyone starts somewhere. The goal isn't to avoid mistakes it's to learn from them as early ...",
+        "keywords": "data, your, mistakes, how, engineering, learn, learning, you",
+        "generated": "2026-07-20T19:49:00.044520",
+        "file": "common-mistakes-new-data-engineers-make-and-how-to-avoid-them.md"
+    },
+    {
         "title": "From Python-Only to Language-Agnostic: How Endee Handles Encrypted Vector Search",
         "slug": "from-python-only-to-language-agnostic-how-endee-handles-encrypted-vector-search",
         "author": "Reena Sharma",
@@ -28531,6 +28652,17 @@
         "file": "bash-script-vs-python-script-for-sysadmin-tasks.md"
     },
     {
+        "title": "AI coding agents still write your SDK's old API — so I built a type-checker to measure it",
+        "slug": "ai-coding-agents-still-write-your-sdks-old-api-so-i-built-a-type-checker-to-measure-it",
+        "author": "Kalpit Rathore",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 19:32:26 +0000",
+        "description": "Here's a bug I kept hitting. I'd ask an AI assistant to write some code against a library — Prisma, the Vercel AI SDK, Zod — and the code would look complete...",
+        "keywords": "model, sdk, code, not, you, tool, city, api",
+        "generated": "2026-07-20T19:49:00.046493",
+        "file": "ai-coding-agents-still-write-your-sdks-old-api-so-i-built-a-type-checker-to-measure-it.md"
+    },
+    {
         "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train [14:04:45]",
         "slug": "is-one-layer-enough-a-single-transformer-layer-matches-full-parameter-rl-train-140445",
         "author": "anon1 anon1",
@@ -29563,6 +29695,17 @@
         "keywords": "downtown, seattle, offices, empty, city, facing, years, zombie",
         "generated": "2026-07-04T19:22:30.074151",
         "file": "as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers.md"
+    },
+    {
+        "title": "25 000 фейков и 28,8 млн запросов - так Alibaba выкачивала Claude",
+        "slug": "25-000-288-alibaba-claude",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 19:37:30 +0000",
+        "description": "Разберёшься за 15 минут · Уровень: для новичка · Данные актуальны на 10.07.2026 Что узнаешь: Что за атака дистилляции на Claude и откуда цифры 25 000 аккаунт...",
+        "keywords": "anthropic, alibaba, claude, deepseek, hacker, news, qwen, api",
+        "generated": "2026-07-20T19:49:00.051090",
+        "file": "25-000-288-alibaba-claude.md"
     },
     {
         "title": "Anthropic's IPO Unpacked: What the S-1 Filing Means for AI Developers",
@@ -30852,6 +30995,17 @@
         "file": "launch-hn-testerarmy-yc-p26-agents-that-test-web-and-mobile-apps.md"
     },
     {
+        "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+        "slug": "an-empirical-study-ai-agent-rules-need-context-and-layered-enforcement",
+        "author": "matt_d",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 18:10:44 +0000",
+        "description": "Article URL: https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/ Comments URL: https://news.ycombinator.com/item?id=48982583 Points: 13 # C...",
+        "keywords": "agent, enforcement, url, https, comments, empirical, study, rules",
+        "generated": "2026-07-20T19:49:00.043905",
+        "file": "an-empirical-study-ai-agent-rules-need-context-and-layered-enforcement.md"
+    },
+    {
         "title": "Ask HN: Where is our profession (programmer) going?",
         "slug": "ask-hn-where-is-our-profession-programmer-going",
         "author": "syntaxbush",
@@ -30872,6 +31026,17 @@
         "keywords": "you, model, direct, deepseek, what, your, one, global",
         "generated": "2026-07-06T20:05:38.435776",
         "file": "i-cut-my-ai-bill-97-without-going-direct-a-ctos-story.md"
+    },
+    {
+        "title": "The 3-line email that gets me freelance clients in 2026",
+        "slug": "the-3-line-email-that-gets-me-freelance-clients-in-2026",
+        "author": "HAL GOBVAN",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 19:22:17 +0000",
+        "description": "The 3-line email that gets me freelance clients in 2026 I sent 100 cold emails in my first 90 days. 18% reply rate. 7 turned into paid projects. The email te...",
+        "keywords": "what, they, clients, you, not, value, freelance, because",
+        "generated": "2026-07-20T19:49:00.045043",
+        "file": "the-3-line-email-that-gets-me-freelance-clients-in-2026.md"
     },
     {
         "title": "When AI Runs the Experiment: What Near-Autonomous Agents Mean for You",
@@ -31983,6 +32148,17 @@
         "keywords": "loop, you, what, spec, not, done, agent, when",
         "generated": "2026-06-24T09:40:50.192399",
         "file": "the-loop-doesnt-know-what-done-looks-like.md"
+    },
+    {
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "slug": "nativ-run-frontier-open-models-locally-on-your-mac",
+        "author": "aratahikaru5",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 18:16:08 +0000",
+        "description": "Article URL: https://blaizzy.github.io/nativ/ Comments URL: https://news.ycombinator.com/item?id=48982681 Points: 26 # Comments: 10",
+        "keywords": "nativ, url, https, comments, run, frontier, open, models",
+        "generated": "2026-07-20T19:49:00.043772",
+        "file": "nativ-run-frontier-open-models-locally-on-your-mac.md"
     },
     {
         "title": "Event Sourcing Is Just Reduce Over Time",
@@ -33276,10 +33452,10 @@
         "slug": "biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-via-blueprint-extensions",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Tue, 07 Jul 2026 14:39:12 +0000",
+        "published": "Mon, 20 Jul 2026 19:37:00 +0000",
         "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
         "keywords": "biznode, business, can, agents, https, you, biz, human",
-        "generated": "2026-07-07T14:49:42.589316",
+        "generated": "2026-07-20T19:49:00.051634",
         "file": "biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-via-blueprint-extensions.md"
     },
     {
@@ -33996,6 +34172,17 @@
         "keywords": "use, performance, frontend, optimize, user, your, you, javascript",
         "generated": "2026-06-07T04:26:51.963683",
         "file": "how-to-optimize-frontend-performance-a-hands-on-tutorial.md"
+    },
+    {
+        "title": "Why I stopped sending freelance proposals (and what I send instead)",
+        "slug": "why-i-stopped-sending-freelance-proposals-and-what-i-send-instead",
+        "author": "HAL GOBVAN",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 19:22:16 +0000",
+        "description": "Why I stopped sending freelance proposals (and what I send instead) I used to spend 2 hours on every freelance proposal. I'd write a 4-page doc, list 12 deli...",
+        "keywords": "what, they, you, not, freelance, price, value, freelancers",
+        "generated": "2026-07-20T19:49:00.045302",
+        "file": "why-i-stopped-sending-freelance-proposals-and-what-i-send-instead.md"
     },
     {
         "title": "Minecraft: Java Edition now uses SDL3",
@@ -36194,6 +36381,17 @@
         "keywords": "para, que, amostragem, conversas, como, comercial, uma, teste",
         "generated": "2026-07-14T13:57:07.328975",
         "file": "o-teste-de-amostragem-de-conversas-como-termmetro-comercial.md"
+    },
+    {
+        "title": "The drivers behind software delivery inefficiency",
+        "slug": "the-drivers-behind-software-delivery-inefficiency",
+        "author": "qaprof",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 18:10:17 +0000",
+        "description": "Article URL: https://dl.acm.org/doi/10.1145/3800646.3800650 Comments URL: https://news.ycombinator.com/item?id=48982578 Points: 15 # Comments: 2",
+        "keywords": "url, https, comments, drivers, behind, software, delivery, inefficiency",
+        "generated": "2026-07-20T19:49:00.044027",
+        "file": "the-drivers-behind-software-delivery-inefficiency.md"
     },
     {
         "title": "Hiring: AI Developer / Agent Engineer at Keelen (Remote, Contract)",

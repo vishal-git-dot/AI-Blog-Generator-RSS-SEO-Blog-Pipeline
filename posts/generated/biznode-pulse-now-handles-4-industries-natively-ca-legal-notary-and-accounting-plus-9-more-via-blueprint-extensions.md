@@ -3,10 +3,10 @@ title: "BizNode Pulse now handles 4 industries natively — CA, Legal, Notary, a
 slug: "biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-via-blueprint-extensions"
 author: "shashikanth ramamurthy"
 source: "devto_ai"
-published: "Tue, 07 Jul 2026 14:39:12 +0000"
+published: "Mon, 20 Jul 2026 19:37:00 +0000"
 description: "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees..."
 keywords: "biznode, business, can, agents, https, you, biz, human"
-generated: "2026-07-07T14:49:42.589316"
+generated: "2026-07-20T19:49:00.051634"
 ---
 
 # BizNode Pulse now handles 4 industries natively — CA, Legal, Notary, and accounting — plus 9 more via blueprint extensions....
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/biznode/biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-7g6
+https://dev.to/biznode/biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-5e24
 
 ## Conclusion
 
