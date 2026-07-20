@@ -3168,6 +3168,17 @@
         "file": "ama-im-eric-ries-the-lean-startup-author-of-new-bestseller-incorruptible.md"
     },
     {
+        "title": "The One Decorator That Makes Your Script Agentic: @mcp.tool() vs. Subprocess",
+        "slug": "the-one-decorator-that-makes-your-script-agentic-mcptool-vs-subprocess",
+        "author": "gentic news",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 03:38:18 +0000",
+        "description": "Wrap your Claude Code helper scripts in @mcp .tool() to expose typed, discoverable interfaces agents can reason about—the schema, not the AI call, is what ma...",
+        "keywords": "tool, mcp, your, server, subprocess, claude, you, same",
+        "generated": "2026-07-20T03:39:19.785143",
+        "file": "the-one-decorator-that-makes-your-script-agentic-mcptool-vs-subprocess.md"
+    },
+    {
         "title": "Soft Diffusion: Score Matching for General Corruptions",
         "slug": "soft-diffusion-score-matching-for-general-corruptions",
         "author": "Paperium",
@@ -3773,6 +3784,17 @@
         "file": "a-general-goal-conditioned-minecraft-model.md"
     },
     {
+        "title": "AI advice made people less accurate but more confident – sudy",
+        "slug": "ai-advice-made-people-less-accurate-but-more-confident-sudy",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 21:18:10 +0000",
+        "description": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id=489717...",
+        "keywords": "advice, url, https, com, news, comments, made, people",
+        "generated": "2026-07-20T03:39:19.781378",
+        "file": "ai-advice-made-people-less-accurate-but-more-confident-sudy.md"
+    },
+    {
         "title": "builtit (npx builtit)",
         "slug": "builtit-npx-builtit",
         "author": "M. Praharshitha",
@@ -4178,6 +4200,17 @@
         "keywords": "new, http, query, method, explained, url, https, comments",
         "generated": "2026-06-23T09:53:37.253932",
         "file": "the-new-http-query-method-explained.md"
+    },
+    {
+        "title": "Reject Image Polyglots After EXIF Removal, Before They Reach Your CDN",
+        "slug": "reject-image-polyglots-after-exif-removal-before-they-reach-your-cdn",
+        "author": "jaryn",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 03:18:35 +0000",
+        "description": "Removing EXIF GPS protects one privacy boundary. It does not prove that an uploaded JPEG contains only a JPEG. A useful hostile fixture is a valid image foll...",
+        "keywords": "jpeg, jpg, exif, bytes, decoded, assert, image, only",
+        "generated": "2026-07-20T03:39:19.784287",
+        "file": "reject-image-polyglots-after-exif-removal-before-they-reach-your-cdn.md"
     },
     {
         "title": "I Tested DeepSeek, Qwen, Kimi And GLM Heres The Real Winner",
@@ -4968,6 +5001,17 @@
         "keywords": "youth, originally, published, dbhyeong, github",
         "generated": "2026-07-15T08:23:28.883351",
         "file": "2650-73-youth-search.md"
+    },
+    {
+        "title": "I Scraped 100 Sports Matches — Here Is What I Found: England 2026 World Cup squad: player-by-player ratings",
+        "slug": "i-scraped-100-sports-matches-here-is-what-i-found-england-2026-world-cup-squad-player-by-player-ratings",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 03:08:08 +0000",
+        "description": "I Scraped 100 Sports Matches — Here Is What I Found: England 2026 World Cup squad: player-by-player ratings TL;DR : Ill write the article directly — this is ...",
+        "keywords": "player, sports, world, cup, england, squad, data, time",
+        "generated": "2026-07-20T03:39:19.783171",
+        "file": "i-scraped-100-sports-matches-here-is-what-i-found-england-2026-world-cup-squad-player-by-player-ratings.md"
     },
     {
         "title": "SWOT analysis example AI: A Practical Guide to Turning AI Strategy into Clear Decisions",
@@ -10205,6 +10249,17 @@
         "file": "mysteries-of-telegram-data-centers.md"
     },
     {
+        "title": "Make Multipart Upload Abort Idempotent Before Orphaned Parts Start Billing You",
+        "slug": "make-multipart-upload-abort-idempotent-before-orphaned-parts-start-billing-you",
+        "author": "kongkong",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 03:18:37 +0000",
+        "description": "Multipart finalization is not the only retry boundary. Abort can succeed in object storage while the HTTP response is lost, leaving your database convinced t...",
+        "keywords": "abort, upload, not, storage, state, aborted, await, multipart",
+        "generated": "2026-07-20T03:39:19.784067",
+        "file": "make-multipart-upload-abort-idempotent-before-orphaned-parts-start-billing-you.md"
+    },
+    {
         "title": "Valve P2P networking broken for more than 2 months",
         "slug": "valve-p2p-networking-broken-for-more-than-2-months",
         "author": "babuskov",
@@ -11083,6 +11138,17 @@
         "keywords": "mcp, you, apikey, key, your, server, api, what",
         "generated": "2026-06-25T04:05:12.296561",
         "file": "mcp-authentication-what-i-got-wrong-building-a-production-mcp-server-for-my-knowledge-base.md"
+    },
+    {
+        "title": "Keep an Accessible Combobox Stable When Search Results Arrive Out of Order",
+        "slug": "keep-an-accessible-combobox-stable-when-search-results-arrive-out-of-order",
+        "author": "babycat",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 03:18:24 +0000",
+        "description": "An accessible combobox can follow the correct ARIA pattern and still become unusable when two search responses arrive in the wrong order. Reproduce this sequ...",
+        "keywords": "cat, search, aria, response, generation, combobox, when, arrives",
+        "generated": "2026-07-20T03:39:19.784490",
+        "file": "keep-an-accessible-combobox-stable-when-search-results-arrive-out-of-order.md"
     },
     {
         "title": "Building a Multi-Source Threat Intelligence Correlation Engine in Python",
@@ -12977,6 +13043,17 @@
         "file": "cognitive-enhancement-technology.md"
     },
     {
+        "title": "We want Texans to know their rights",
+        "slug": "we-want-texans-to-know-their-rights",
+        "author": "amarcheschi",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 22:03:11 +0000",
+        "description": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion Comments URL: https://news....",
+        "keywords": "want, texans, know, their, rights, url, https, comments",
+        "generated": "2026-07-20T03:39:19.780991",
+        "file": "we-want-texans-to-know-their-rights.md"
+    },
+    {
         "title": "The Day I Realised Our Code Reviews Were Making Us Worse",
         "slug": "the-day-i-realised-our-code-reviews-were-making-us-worse",
         "author": "Om Keswani",
@@ -13657,6 +13734,17 @@
         "keywords": "stars, diagram, plt, data, star, they, temperature, use",
         "generated": "2026-06-23T20:12:47.951553",
         "file": "astrophysics-ai-with-python-decoding-the-hertzsprung-russell-diagram.md"
+    },
+    {
+        "title": "Why Hyper-Specialized Micro-SaaS Is the Future of Solo Entrepreneurship in 2026",
+        "slug": "why-hyper-specialized-micro-saas-is-the-future-of-solo-entrepreneurship-in-2026",
+        "author": "Hannan Naveed",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 03:38:21 +0000",
+        "description": "Why Hyper-Specialized Micro-SaaS Is the Future of Solo Entrepreneurship in 2026 The micro-SaaS industry is undergoing a meteoric rise, with projections showi...",
+        "keywords": "saas, micro, your, conclave, founders, solo, can, tools",
+        "generated": "2026-07-20T03:39:19.784843",
+        "file": "why-hyper-specialized-micro-saas-is-the-future-of-solo-entrepreneurship-in-2026.md"
     },
     {
         "title": "The Brain v1.0 — building open-source workflow orchestration the boring way",
@@ -14856,6 +14944,17 @@
         "keywords": "contraction, qubit, single, time, vram, path, tensor, spatial",
         "generated": "2026-07-18T02:53:43.792386",
         "file": "training-a-1000-qubit-40000-parameter-quantum-algorithm-with-full-gradients-using-tensorcircuit-ng.md"
+    },
+    {
+        "title": "Unlocking PromptBase: Data-Driven AI Prompt Marketplace Insights",
+        "slug": "unlocking-promptbase-data-driven-ai-prompt-marketplace-insights",
+        "author": "Crawler Bros",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 03:38:12 +0000",
+        "description": "The Challenge: Navigating the AI Prompt Marketplace Maze The AI landscape is evolving at breakneck speed, and with it, the demand for high-quality, specializ...",
+        "keywords": "prompt, you, promptbase, data, prompts, scraper, actor, categories",
+        "generated": "2026-07-20T03:39:19.785573",
+        "file": "unlocking-promptbase-data-driven-ai-prompt-marketplace-insights.md"
     },
     {
         "title": "From Solo Agents to Team Orchestration: Making Multiple AI Agents Actually Work Together",
@@ -20435,6 +20534,17 @@
         "file": "building-a-video-metadata-moderation-pipeline-with-python-and-claude-api.md"
     },
     {
+        "title": "How I Built a Real-Time Sports Stats Tracker: Over to you, Messi Mbappe leads Golden Boot race for the ages",
+        "slug": "how-i-built-a-real-time-sports-stats-tracker-over-to-you-messi-mbappe-leads-golden-boot-race-for-the-ages",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 03:08:35 +0000",
+        "description": "How I Built a Real-Time Sports Stats Tracker: Over to you, Messi Mbappe leads Golden Boot race for the ages TL;DR : Kylian Mbappes World Cup ended in the sem...",
+        "keywords": "time, sports, messi, golden, boot, real, mbappe, leads",
+        "generated": "2026-07-20T03:39:19.782895",
+        "file": "how-i-built-a-real-time-sports-stats-tracker-over-to-you-messi-mbappe-leads-golden-boot-race-for-the-ages.md"
+    },
+    {
         "title": "A 3D voxel game engine written in APL",
         "slug": "a-3d-voxel-game-engine-written-in-apl",
         "author": "sph",
@@ -21346,6 +21456,17 @@
         "keywords": "your, seo, blog, post, content, you, search, use",
         "generated": "2026-06-11T10:47:52.350624",
         "file": "craft-killer-blog-posts-your-seo-friendly-guide.md"
+    },
+    {
+        "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+        "slug": "moonshine-lets-you-stream-games-from-your-pc-to-any-device-running-moonlight",
+        "author": "wertyk",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 00:16:50 +0000",
+        "description": "Article URL: https://github.com/hgaiser/moonshine Comments URL: https://news.ycombinator.com/item?id=48972970 Points: 12 # Comments: 4",
+        "keywords": "moonshine, url, https, com, comments, lets, you, stream",
+        "generated": "2026-07-20T03:39:19.780789",
+        "file": "moonshine-lets-you-stream-games-from-your-pc-to-any-device-running-moonlight.md"
     },
     {
         "title": "AI Agent Runtime Policy: Stop Dangerous Tool Calls Before They Execute",
@@ -23964,6 +24085,17 @@
         "keywords": "agent, bankrupted, their, operator, scan, article, url, https",
         "generated": "2026-06-12T10:23:24.146281",
         "file": "ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42.md"
+    },
+    {
+        "title": "n8n Zendesk Node: Automate Tickets, Users, and Support Workflows (Free Workflow JSON)",
+        "slug": "n8n-zendesk-node-automate-tickets-users-and-support-workflows-free-workflow-json",
+        "author": "Pirate Prentice",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 03:27:33 +0000",
+        "description": "Zendesk is the support backbone for thousands of SaaS companies and e-commerce brands — and when it's not talking to your other tools, your team is copy-past...",
+        "keywords": "zendesk, ticket, node, your, get, you, tickets, api",
+        "generated": "2026-07-20T03:39:19.783612",
+        "file": "n8n-zendesk-node-automate-tickets-users-and-support-workflows-free-workflow-json.md"
     },
     {
         "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
@@ -27352,6 +27484,17 @@
         "keywords": "data, python, web, libraries, your, range, code, development",
         "generated": "2026-07-05T19:25:51.382961",
         "file": "the-python-developers-toolkit-10-must-know-libraries.md"
+    },
+    {
+        "title": "My Blog-Posting Agent Has a Daily Quota. The Feature That Mattered Was the One That Skips It",
+        "slug": "my-blog-posting-agent-has-a-daily-quota-the-feature-that-mattered-was-the-one-that-skips-it",
+        "author": "Enjoy Kumawat",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 03:36:57 +0000",
+        "description": "I run a small pipeline that publishes technical articles to this blog on a schedule, twice a day, no human in the loop between check trending topics and h...",
+        "keywords": "run, not, topic, one, publish, pipeline, count, article",
+        "generated": "2026-07-20T03:39:19.785982",
+        "file": "my-blog-posting-agent-has-a-daily-quota-the-feature-that-mattered-was-the-one-that-skips-it.md"
     },
     {
         "title": "A jacket that harvests drinking water from the air",
@@ -32029,6 +32172,17 @@
         "file": "my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs.md"
     },
     {
+        "title": "FROST 深度：为什么 AI Agent 需要「家族谱系」？",
+        "slug": "frost-ai-agent",
+        "author": "llimage",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 03:23:08 +0000",
+        "description": "FROST 深度：为什么 AI Agent 需要「家族谱系」？ 前言：一个古老的管理学问题 你有没有想过，为什么人类社会的组织方式大多是「层级制」？ 从部落、到王国、到现代公司，我们习惯了一种结构： 有人决策，有人执行，有人监督 。 但当我们构建 AI Agent 系统时，为什么大多数框架都把 Agent 做成「...",
+        "keywords": "frost, agent, store, self, key, sop, ancestor, parent",
+        "generated": "2026-07-20T03:39:19.782414",
+        "file": "frost-ai-agent.md"
+    },
+    {
         "title": "A simple recon led me to a big rabbit hole from google dorks to find same company assets (web endpoints) to nuclei templates to separate python code. Day 3 in the rabbit hole :)",
         "slug": "a-simple-recon-led-me-to-a-big-rabbit-hole-from-google-dorks-to-find-same-company-assets-web-endpoints-to-nuclei-templates-to-separate-python-code-day-3-in-the-rabbit-hole",
         "author": "Bijan",
@@ -33094,6 +33248,17 @@
         "keywords": "open, nvidia, hugging, face, lerobot, robotics, first, look",
         "generated": "2026-07-08T08:37:13.652908",
         "file": "first-look-nvidia-and-hugging-face-integrate-gr00t-17-into-lerobot-open-robotics-platform.md"
+    },
+    {
+        "title": "T4",
+        "slug": "t4",
+        "author": "wzg0911",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 03:36:04 +0000",
+        "description": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...",
+        "keywords": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "generated": "2026-07-20T03:39:19.786122",
+        "file": "t4.md"
     },
     {
         "title": "🚨 Is AI the Next Tech Bubble?",
@@ -34865,6 +35030,17 @@
         "file": "pre-modern-armies-for-worldbuilders-part-i-why-they-fight.md"
     },
     {
+        "title": "Ship a Restart-Safe Upload CLI That Survives an Expired Resume URL",
+        "slug": "ship-a-restart-safe-upload-cli-that-survives-an-expired-resume-url",
+        "author": "Sam Rivera",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 03:18:45 +0000",
+        "description": "My upload CLI looked restart-safe until I tested two failures together: the process crashed at 63%, and the signed resume URL expired before restart. The che...",
+        "keywords": "remote, upload, checkpoint, file, offset, restart, url, expired",
+        "generated": "2026-07-20T03:39:19.783823",
+        "file": "ship-a-restart-safe-upload-cli-that-survives-an-expired-resume-url.md"
+    },
+    {
         "title": "You reached for !important again. @layer is the real fix.",
         "slug": "you-reached-for-important-again-layer-is-the-real-fix",
         "author": "Parsa Jiravand",
@@ -34929,6 +35105,17 @@
         "keywords": "qwen, url, https, com, comments, sweet, spot, local",
         "generated": "2026-06-29T20:06:45.985150",
         "file": "qwen-36-27b-is-the-sweet-spot-for-local-development.md"
+    },
+    {
+        "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+        "slug": "grok-ios-remote-grok-build-from-your-iphone-over-acp",
+        "author": "pedroshakoor",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 21:51:26 +0000",
+        "description": "Article URL: https://github.com/Pedroshakoor/grok-build-ios Comments URL: https://news.ycombinator.com/item?id=48971999 Points: 10 # Comments: 0",
+        "keywords": "grok, ios, build, url, https, com, comments, remote",
+        "generated": "2026-07-20T03:39:19.781130",
+        "file": "grok-ios-remote-grok-build-from-your-iphone-over-acp.md"
     },
     {
         "title": "兔崽爱露出 (Tuzaibaby): Understanding the Online Search Trend and Creator Profile",
@@ -35085,6 +35272,17 @@
         "file": "kubernetes-deployment-strategies-rolling-blue-green-canary-and-beyond.md"
     },
     {
+        "title": "LLM Gateways Explained: One API for Every LLM Provider",
+        "slug": "llm-gateways-explained-one-api-for-every-llm-provider",
+        "author": "Anuj Tyagi",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 03:23:15 +0000",
+        "description": "LLM Gateways Explained: One API for Every LLM Provider If you're building anything beyond a single-provider prototype, you'll eventually run into the same se...",
+        "keywords": "model, llm, gpt, provider, response, one, you, your",
+        "generated": "2026-07-20T03:39:19.782135",
+        "file": "llm-gateways-explained-one-api-for-every-llm-provider.md"
+    },
+    {
         "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
         "slug": "alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says",
         "author": "nsoonhui",
@@ -35182,6 +35380,17 @@
         "keywords": "apify, you, actor, can, tender, use, not, public",
         "generated": "2026-07-04T08:44:47.976115",
         "file": "how-to-track-public-tenders-from-uk-and-eu-sources-with-apify.md"
+    },
+    {
+        "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+        "slug": "biggest-probabilistic-computer-turns-noise-into-answers",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Sun, 19 Jul 2026 21:42:12 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer Comments URL: https://news.ycombinator.com/item?id=48971938 Points: 42 # Comments: 7",
+        "keywords": "biggest, probabilistic, computer, url, https, comments, turns, noise",
+        "generated": "2026-07-20T03:39:19.781255",
+        "file": "biggest-probabilistic-computer-turns-noise-into-answers.md"
     },
     {
         "title": "Focus",
@@ -36557,6 +36766,17 @@
         "keywords": "sql, cell, hex, notebook, sigma, mode, deepnote, warehouse",
         "generated": "2026-07-18T13:26:53.509013",
         "file": "hex-vs-mode-vs-sigma-vs-deepnote-sql-first-notebooks-compared.md"
+    },
+    {
+        "title": "Learn Configuration Precedence With Empty, Missing, and Invalid Values",
+        "slug": "learn-configuration-precedence-with-empty-missing-and-invalid-values",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 03:18:39 +0000",
+        "description": "Configuration bugs often hide inside one question: does an empty value mean “unset,” “zero,” or “invalid”? Build a resolver with four layers: default < confi...",
+        "keywords": "source, value, port, environment, raw, valueerror, configuration, precedence",
+        "generated": "2026-07-20T03:39:19.782637",
+        "file": "learn-configuration-precedence-with-empty-missing-and-invalid-values.md"
     },
     {
         "title": "Interactions API Gemini Models Agents: Complete 2026 Guide",
