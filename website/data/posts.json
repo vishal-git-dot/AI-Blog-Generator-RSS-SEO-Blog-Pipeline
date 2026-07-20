@@ -264,6 +264,17 @@
         "file": "department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.md"
     },
     {
+        "title": "Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge",
+        "slug": "squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-inf2xlarge",
+        "author": "xbill",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 14:17:17 +0000",
+        "description": "In the last entry I got Gemma-4's 128-expert MoE running on an inf2.24xlarge and signed off with a cliffhanger: fitting it on a 2-core box needs fp4 — a sep...",
+        "keywords": "host, experts, xlarge, model, not, one, box, ram",
+        "generated": "2026-07-20T14:19:27.587530",
+        "file": "squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-inf2xlarge.md"
+    },
+    {
         "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
         "slug": "my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice",
         "author": "Himanshu Kumar",
@@ -878,6 +889,17 @@
         "keywords": "bpo, provider, support, workflow, not, best, more, needs",
         "generated": "2026-06-19T15:31:48.965852",
         "file": "the-best-bpo-partner-is-not-always-the-biggest-one.md"
+    },
+    {
+        "title": "Building Dev-Code: An Agentic AI Coding Assistant With RAG Memory and VS Code Integration",
+        "slug": "building-dev-code-an-agentic-ai-coding-assistant-with-rag-memory-and-vs-code-integration",
+        "author": "Nishal Poojary",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 14:05:28 +0000",
+        "description": "I recently completed Dev-Code , an AI coding assistant project built around Agentic AI, RAG-style memory, and developer-tool integration. GitHub repo: Ailove...",
+        "keywords": "code, fix, memory, dev, not, when, project, fixes",
+        "generated": "2026-07-20T14:19:27.584211",
+        "file": "building-dev-code-an-agentic-ai-coding-assistant-with-rag-memory-and-vs-code-integration.md"
     },
     {
         "title": "Unlock Your AI Career Potential: Mastering the Skills India Needs",
@@ -1892,14 +1914,14 @@
         "file": "odin-wikipedia-and-engagement-farming.md"
     },
     {
-        "title": "ARTLESS TECHNOLOGY",
+        "title": "Artless Technology",
         "slug": "artless-technology",
         "author": "Artless Technology",
         "source": "devto_webdev",
-        "published": "Sun, 12 Jul 2026 13:35:41 +0000",
+        "published": "Mon, 20 Jul 2026 14:12:00 +0000",
         "description": "Building Smarter Web Solutions With Simplicity Artless Technology is a professional web development and software solutions company with over 12 years of expe...",
         "keywords": "development, solutions, web, technology, businesses, artless, software, website",
-        "generated": "2026-07-12T13:38:55.218772",
+        "generated": "2026-07-20T14:19:27.585775",
         "file": "artless-technology.md"
     },
     {
@@ -7259,6 +7281,17 @@
         "file": "building-an-open-source-robot-vacuum-meet-oomwoo.md"
     },
     {
+        "title": "10 Best Websites for Web Design Inspiration in 2026",
+        "slug": "10-best-websites-for-web-design-inspiration-in-2026",
+        "author": "Ritesh Kokam",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 14:11:06 +0000",
+        "description": "Finding inspiration is easy. Finding good inspiration is hard. With thousands of design galleries available today, it's easy to get lost scrolling through en...",
+        "keywords": "you, websites, inspiration, best, design, designers, page, love",
+        "generated": "2026-07-20T14:19:27.586560",
+        "file": "10-best-websites-for-web-design-inspiration-in-2026.md"
+    },
+    {
         "title": "🚀 Oreste AI — Assistente vocale web costruito con HTML, CSS e JavaScript",
         "slug": "oreste-ai-assistente-vocale-web-costruito-con-html-css-e-javascript",
         "author": "Oreste AI Team",
@@ -7752,6 +7785,17 @@
         "keywords": "quality, velocity, you, metrics, your, metric, not, non",
         "generated": "2026-07-09T09:49:56.275211",
         "file": "goodharts-law-is-a-math-problem-and-we-can-prove-it-with-10-lines-of-python.md"
+    },
+    {
+        "title": "How We Built an Affiliate Link Engine That Scales to Thousands of Pages",
+        "slug": "how-we-built-an-affiliate-link-engine-that-scales-to-thousands-of-pages",
+        "author": "TTML",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 14:08:10 +0000",
+        "description": "Why we stopped hard-coding affiliate links and built a publishing system instead Most affiliate websites start the same way. Every review contains a button. ...",
+        "keywords": "affiliate, pages, links, you, every, then, publishing, content",
+        "generated": "2026-07-20T14:19:27.586876",
+        "file": "how-we-built-an-affiliate-link-engine-that-scales-to-thousands-of-pages.md"
     },
     {
         "title": "I built a zero-dependency city search library with 50,000 cities built-in",
@@ -9974,6 +10018,17 @@
         "keywords": "them, like, just, they, didn, life, told, all",
         "generated": "2026-07-13T19:35:56.137155",
         "file": "ai-life-debugging-dreams-one-line-at-a-time.md"
+    },
+    {
+        "title": "Het stappenplan voor een vlekkeloze transitie bij backoffice outsourcing in de supply chain",
+        "slug": "het-stappenplan-voor-een-vlekkeloze-transitie-bij-backoffice-outsourcing-in-de-supply-chain",
+        "author": "DataMondial",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 14:16:49 +0000",
+        "description": "Risicobeheer bij de overdracht van supply chain-data Systeemuitval of haperende data-invoer tijdens de transitie naar een BPO-partner leidt direct tot stilst...",
+        "keywords": "van, het, een, data, deze, voor, bij, worden",
+        "generated": "2026-07-20T14:19:27.585517",
+        "file": "het-stappenplan-voor-een-vlekkeloze-transitie-bij-backoffice-outsourcing-in-de-supply-chain.md"
     },
     {
         "title": "When your agent does something bad, can you tell which agent did it?",
@@ -13406,6 +13461,17 @@
         "file": "besimple-ai-yc-p25-is-hiring.md"
     },
     {
+        "title": "Operating System with Aetherix book",
+        "slug": "operating-system-with-aetherix-book",
+        "author": "Divyanshu Sinha",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 14:11:36 +0000",
+        "description": "To celebrate the framework's release, I have also published a complete textbook: Operating System with Aetherix 📖. It is a from-scratch guide to x86 operatin...",
+        "keywords": "aetherix, how, operating, system, book, framework, textbook, machine",
+        "generated": "2026-07-20T14:19:27.583222",
+        "file": "operating-system-with-aetherix-book.md"
+    },
+    {
         "title": "Changes to LLM pricing: Inceptron, Novita and StreamLake",
         "slug": "changes-to-llm-pricing-inceptron-novita-and-streamlake",
         "author": "Narev Bot",
@@ -14264,6 +14330,17 @@
         "file": "your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines.md"
     },
     {
+        "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
+        "slug": "modder-makes-gta-vice-city-playable-inside-gta-3-inside-gta-san-andreas",
+        "author": "sam_anthony",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 13:23:38 +0000",
+        "description": "Article URL: https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510 Comments URL: https://news.ycombinator.com/i...",
+        "keywords": "gta, playable, vice, city, inside, san, andreas, url",
+        "generated": "2026-07-20T14:19:27.582803",
+        "file": "modder-makes-gta-vice-city-playable-inside-gta-3-inside-gta-san-andreas.md"
+    },
+    {
         "title": "I built a remote skin engine for Flutter",
         "slug": "i-built-a-remote-skin-engine-for-flutter",
         "author": "Kouki Badr",
@@ -14317,6 +14394,17 @@
         "keywords": "payment, lightning, agent, base, facilitator, you, use, boltz",
         "generated": "2026-06-12T15:28:32.971613",
         "file": "mcp-payment-extensions-in-june-2026-x402-v2-l402-and-what-actually-works.md"
+    },
+    {
+        "title": "What Is PEFT? A Guide to Parameter-Efficient Fine-Tuning",
+        "slug": "what-is-peft-a-guide-to-parameter-efficient-fine-tuning",
+        "author": "Bahadir Kusat",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 14:10:51 +0000",
+        "description": "A technical guide comparing LoRA, QLoRA, rsLoRA, AdaLoRA, DoRA, IA³, prompt tuning, and adapter deployment workflows. DEHA Research · July 16, 2026 · 18 min ...",
+        "keywords": "model, peft, lora, tuning, adapter, not, parameters, base",
+        "generated": "2026-07-20T14:19:27.589734",
+        "file": "what-is-peft-a-guide-to-parameter-efficient-fine-tuning.md"
     },
     {
         "title": "Why Every Computer Vision Team Ends Up Rewriting the Same Video Clip Pipeline",
@@ -15126,10 +15214,10 @@
         "slug": "your-first-business-opportunity-in-3-commands-registerdirectory-in-biznodebot-wait-for-matches-then-mypulse-to-view",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Wed, 24 Jun 2026 09:40:24 +0000",
-        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
-        "keywords": "https, biz, biznode, business, blog, your, first, opportunity",
-        "generated": "2026-06-24T09:40:50.191413",
+        "published": "Mon, 20 Jul 2026 14:14:59 +0000",
+        "description": "Hey devto community — ever thought about building your first business with just three commands? 🚀 I recently discovered BizNode , an autonomous AI business o...",
+        "keywords": "you, biznode, your, business, just, dzit, https, biz",
+        "generated": "2026-07-20T14:19:27.587810",
         "file": "your-first-business-opportunity-in-3-commands-registerdirectory-in-biznodebot-wait-for-matches-then-mypulse-to-view.md"
     },
     {
@@ -15615,6 +15703,17 @@
         "keywords": "libraries, community, engagement, resources, can, local, civic, programs",
         "generated": "2026-06-23T15:13:55.043121",
         "file": "libraries-innovative-tools-for-societal-growth.md"
+    },
+    {
+        "title": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business Growth",
+        "slug": "chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-growth",
+        "author": "Caper B",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 14:14:48 +0000",
+        "description": "ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business Growth As a freelancer, staying ahead of the curve is crucial for success....",
+        "keywords": "prompt, chatgpt, engineering, article, businesses, content, task, freelancers",
+        "generated": "2026-07-20T14:19:27.588131",
+        "file": "chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-growth.md"
     },
     {
         "title": "Concurrency is byproduct of capability design not bottleneck to patch",
@@ -18684,6 +18783,17 @@
         "keywords": "left, google, deepmind, url, https, com, comments, article",
         "generated": "2026-07-15T19:19:36.614324",
         "file": "i-left-google-deepmind.md"
+    },
+    {
+        "title": "How to Build a System Monitor Dashboard for Your AI Agent (Step by Step)",
+        "slug": "how-to-build-a-system-monitor-dashboard-for-your-ai-agent-step-by-step",
+        "author": "hermesxclaw-ctrl",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 14:10:51 +0000",
+        "description": "How to Build a System Monitor Dashboard for Your AI Agent (Step by Step) I run an AI agent autonomously on a Windows 10 laptop with 8GB of RAM. That means ev...",
+        "keywords": "class, agent, span, div, timeline, dashboard, step, server",
+        "generated": "2026-07-20T14:19:27.583712",
+        "file": "how-to-build-a-system-monitor-dashboard-for-your-ai-agent-step-by-step.md"
     },
     {
         "title": "how ai is revolutionizing full stack development",
@@ -26947,6 +27057,17 @@
         "file": "make-your-own-ai-modle-with-one-line-of-code.md"
     },
     {
+        "title": "Your Pipeline Is 8.6h Behind: Catching Healthcare Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-86h-behind-catching-healthcare-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 14:02:10 +0000",
+        "description": "Your Pipeline Is 8.6h Behind: Catching Healthcare Sentiment Leads with Pulsebit We recently discovered a significant anomaly in the sentiment analysis surrou...",
+        "keywords": "healthcare, sentiment, data, you, momentum, english, pulsebit, themes",
+        "generated": "2026-07-20T14:19:27.584575",
+        "file": "your-pipeline-is-86h-behind-catching-healthcare-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Meta's Superintelligence Compute Ramp Spans 2000km Across Data Centers",
         "slug": "metas-superintelligence-compute-ramp-spans-2000km-across-data-centers",
         "author": "gentic news",
@@ -28553,6 +28674,17 @@
         "file": "arabic-hospitality-kuwait-city-villas.md"
     },
     {
+        "title": "[Hiring] Global Remote Talent – Ace Tech Interviews, Land Your Role",
+        "slug": "hiring-global-remote-talent-ace-tech-interviews-land-your-role",
+        "author": "Bubble Buddy",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 14:11:16 +0000",
+        "description": "GlobalJobify is the interview acceleration program for global engineers. How it works: We don't just teach you—we put you in front of our US product studio p...",
+        "keywords": "you, hiring, our, global, remote, talent, your, globaljobify",
+        "generated": "2026-07-20T14:19:27.585959",
+        "file": "hiring-global-remote-talent-ace-tech-interviews-land-your-role.md"
+    },
+    {
         "title": "Your Pipeline Is 28.4h Behind: Catching Business Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-284h-behind-catching-business-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -29266,6 +29398,17 @@
         "keywords": "your, you, brand, content, seo, training, when, how",
         "generated": "2026-07-02T09:22:43.958462",
         "file": "why-your-brand-might-be-invisible-to-chatgpt-gemini-and-claude.md"
+    },
+    {
+        "title": "Node SDK 1.3: Run SEO Audits, Track Trends, and Get Slack Alerts from Any Node Project",
+        "slug": "node-sdk-13-run-seo-audits-track-trends-and-get-slack-alerts-from-any-node-project",
+        "author": "Aaron VanSledright",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 14:00:05 +0000",
+        "description": "The Node.js client for SEO Score API is at 1.3.0 on npm. It mirrors the Python release we shipped at the same time: a new compare() function for side-by-side...",
+        "keywords": "const, url, score, domains, console, log, history, historydomains",
+        "generated": "2026-07-20T14:19:27.584999",
+        "file": "node-sdk-13-run-seo-audits-track-trends-and-get-slack-alerts-from-any-node-project.md"
     },
     {
         "title": "CSS Triangle Generator — Pure CSS Triangles in 8 Directions",
@@ -30148,6 +30291,17 @@
         "file": "llm-assisted-content-analysis-using-large-language-models-to-support-deductivecoding.md"
     },
     {
+        "title": "Perfection Is Not Over-Engineering",
+        "slug": "perfection-is-not-over-engineering",
+        "author": "var0xyz",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 14:10:30 +0000",
+        "description": "Article URL: https://var0.xyz/posts/perfection-is-not-over-engineering.html Comments URL: https://news.ycombinator.com/item?id=48979120 Points: 5 # Comments: 0",
+        "keywords": "perfection, not, over, engineering, url, https, comments, article",
+        "generated": "2026-07-20T14:19:27.582447",
+        "file": "perfection-is-not-over-engineering.md"
+    },
+    {
         "title": "So You Want to Define a Well-Known URI",
         "slug": "so-you-want-to-define-a-well-known-uri",
         "author": "ingve",
@@ -30790,10 +30944,10 @@
         "slug": "upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-questions-from-your-own-data",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sat, 11 Jul 2026 13:14:26 +0000",
-        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
-        "keywords": "biznode, https, biz, your, docs, smartpdf, blog, upload",
-        "generated": "2026-07-11T13:38:52.454388",
+        "published": "Mon, 20 Jul 2026 14:14:09 +0000",
+        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
+        "keywords": "biznode, business, can, your, agents, https, you, biz",
+        "generated": "2026-07-20T14:19:27.588561",
         "file": "upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-questions-from-your-own-data.md"
     },
     {
@@ -31719,6 +31873,17 @@
         "keywords": "you, code, comments, your, clear, today, can, future",
         "generated": "2026-06-29T15:56:39.169165",
         "file": "today-i-learned-write-maintainable-code-with-clear-comments.md"
+    },
+    {
+        "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+        "slug": "inertia-1-an-open-exploration-to-a-unified-motion-foundation-model",
+        "author": "hasheddan",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 13:11:12 +0000",
+        "description": "Article URL: https://yang-ai-lab.github.io/Inertia-1/ Comments URL: https://news.ycombinator.com/item?id=48978388 Points: 12 # Comments: 0",
+        "keywords": "inertia, url, https, comments, open, exploration, unified, motion",
+        "generated": "2026-07-20T14:19:27.582934",
+        "file": "inertia-1-an-open-exploration-to-a-unified-motion-foundation-model.md"
     },
     {
         "title": "Python Packaging: How to Publish Your First pip Package",
@@ -37186,6 +37351,17 @@
         "file": "lineageos-statistics.md"
     },
     {
+        "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+        "slug": "were-squandering-leds-potential-to-save-our-night-skies",
+        "author": "defrost",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 13:07:11 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/led-light-pollution Comments URL: https://news.ycombinator.com/item?id=48978350 Points: 11 # Comments: 0",
+        "keywords": "url, https, comments, squandering, leds, potential, save, our",
+        "generated": "2026-07-20T14:19:27.583053",
+        "file": "were-squandering-leds-potential-to-save-our-night-skies.md"
+    },
+    {
         "title": "UpSet Plots in 2026: A Smarter Way to Visualize Overlapping Data at Scale",
         "slug": "upset-plots-in-2026-a-smarter-way-to-visualize-overlapping-data-at-scale",
         "author": "Dipti",
@@ -37382,6 +37558,17 @@
         "keywords": "whatsapp, you, wordpress, support, chat, automation, plugin, api",
         "generated": "2026-06-08T04:42:39.224726",
         "file": "best-whatsapp-wordpress-plugins-for-support-2026.md"
+    },
+    {
+        "title": "Hacker wipes Romania's land registry database",
+        "slug": "hacker-wipes-romanias-land-registry-database",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 13:28:33 +0000",
+        "description": "Article URL: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/ Comments URL: https://news.ycombinator.com/item?id=48...",
+        "keywords": "hacker, wipes, land, registry, database, url, https, news",
+        "generated": "2026-07-20T14:19:27.582631",
+        "file": "hacker-wipes-romanias-land-registry-database.md"
     },
     {
         "title": "Best AI Chatbot Apps in 2026: Top Picks Reviewed",
