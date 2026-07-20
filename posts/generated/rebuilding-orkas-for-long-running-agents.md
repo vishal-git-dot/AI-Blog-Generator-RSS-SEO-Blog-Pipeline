@@ -1,0 +1,34 @@
+---
+title: "Rebuilding Orkas for Long-Running Agents"
+slug: "rebuilding-orkas-for-long-running-agents"
+author: "Orkas"
+source: "devto_ai"
+published: "Mon, 20 Jul 2026 09:24:06 +0000"
+description: "AI agents don’t only break because the model is weak. They often break because the product treats agent work like a single chatbot response. In the Orkas 1.0..."
+keywords: "agent, orkas, can, local, agents, context, tool, runtime"
+generated: "2026-07-20T09:25:08.139374"
+---
+
+# Rebuilding Orkas for Long-Running Agents
+
+## Overview
+
+AI agents don’t only break because the model is weak. They often break because the product treats agent work like a single chatbot response. In the Orkas 1.0 foundation refactor, we rebuilt the lower layers of the system: the agent runtime, provider rotation, orchestration, external hosting, memory, and context management. This post summarizes the architecture changes and the lessons behind them. Why the refactor happened Orkas is a local-first desktop workspace for AI agents. Agents can work with local files, shell commands, project folders, connectors, skills, and knowledge bases. That creates a different set of problems from a normal chat UI: long-running tasks can span many steps context grows quickly tool calls need ordering and safety rules providers can fail mid-run users may interrupt or correct the agent multi-agent workflows need coordination, not just a static plan The refactor was about moving these concerns into Orkas’s own foundation instead of relying on chat-style assumptions. 1. An in-process agent runtime The core change was a standalone, dynamically loadable, in-process agent runtime. It is split into two layers: Engine layer : owns the generic agent loop, tool calling, streaming, context compaction, retry behavior, provider abstraction, memory, and self-evolution. Adapter layer : connects that engine to Orkas-specific storage, permissions, skills, connectors, provider rotation, and event formats. This boundary adds some complexity, but it keeps the reusable agent machinery separate from product-specific wiring. 2. Desktop agents need desktop-grade tool behavior A local desktop agent can touch real files, run local commands, and work across project directories. That means the tool loop needs stronger guarantees. Some details became important: read before write stale edit protection parallel read-only operations ordered writes loop detection for repeated tool calls interruption handling at safe boundaries enough output room for long reports or large edits These are not flashy features, but they are what make agent work feel predictable instead of fragile. 3. Context is a cost and reliability problem Long tasks burn tokens in small repeated steps: reading, searching, summarizing, retrying, compacting, and recovering from errors. The refactor made context handling more model-aware. Instead of using one conservative context limit, the runtime reads the model’s actual context window and compacts around a usage threshold. It also avoids compaction when summarizing would not free useful space. The lesson: context management is not just a UX feature. It affects cost, latency, and whether the agent can finish the task. 4. Provider rotation belongs below the agent runner Model calls fail. Keys hit limits. Networks break. Orkas moved provider rotation below the agent runner so a user turn can survive safe failures without duplicating session state. The rotation rule is conservative: if failure happens before meaningful output, another provider can be tried once text or tool calls start, rotation stops transient failures can retry request or policy errors should not be hidden by blind retries The point is not to make providers invisible. It is to put failover where it can be handled safely. 5. From static plans to group-chat orchestration Earlier orchestration used a more static plan/DAG model. That looked clean, but real agent work changes as new information appears. Orkas moved toward dynamic group-chat orchestration: a Commander coordinates the room worker agents receive focused slices of context dispatch happens through structured tool calls the Commander can fan out, synthesize, or hand off work This fits long-running tasks better than compiling one fixed plan upfront. 6. Opening the system without removing boundaries The refactor also made Orkas more open to external capabilities: external packages custom skills local CLIs user-configured MCP servers external agents launched from Orkas The important constraint is that risky actions still go through controlled boundaries: explicit user confirmation, local process isolation where possible, encrypted credentials, and permission checks for external side effects. Open hosting is useful only if the trust boundary remains clear. 7. Memory and self-evolution need limits Orkas also rebuilt memory and self-evolution around a simple principle: bounded, observable, and off by default where appropriate. Memory is local and separated into categories such as user preferences and agent notes. Retrieval combines semantic and keyword search. Self-evolution is agent-private. It can update private skills or competence notes based on corrections, error recovery, and repeated task patterns, but it is bounded by cost controls and explicit session behavior. “Agents that improve with use” is only useful if users can understand and control what is changing. What we learned Agent infrastructure has a different shape from chat infrastructure. A production agent runtime needs to handle: tool ordering side effects provider failures context pressure token cost user interruption orchestration state local security boundaries memory limits The main challenge is deciding where complexity should live. For Orkas, the answer became: generic agent behavior in the runtime engine product-specific wiring in the adapter orchestration in the group-chat message bus risky external actions behind explicit consent memory and self-evolution behind local controls Closing The Orkas 1.0 foundation refactor was not about adding more surface features. It was about rebuilding the operating layer underneath long-running local agents. If you are building agent systems, especially local-first or desktop agents, the takeaway is simple: You eventually stop building around the model API and start building the runtime around the agent.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/cxw_orkas/rebuilding-orkas-for-long-running-agents-co0
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

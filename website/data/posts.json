@@ -539,6 +539,17 @@
         "file": "browser-based-pdf-page-editing-with-vue-3-and-pdf-lib.md"
     },
     {
+        "title": "How We Built a Production-Ready SaaS with Next.js, React Native & FastAPI",
+        "slug": "how-we-built-a-production-ready-saas-with-nextjs-react-native-fastapi",
+        "author": "WizCodes",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 09:08:54 +0000",
+        "description": "How We Built a Production-Ready SaaS with Next.js, React Native & FastAPI Building software today is no longer just about writing code. A production-ready ap...",
+        "keywords": "native, development, next, react, fastapi, building, saas, architecture",
+        "generated": "2026-07-20T09:25:08.134647",
+        "file": "how-we-built-a-production-ready-saas-with-nextjs-react-native-fastapi.md"
+    },
+    {
         "title": "I Love the Computer",
         "slug": "i-love-the-computer",
         "author": "speckx",
@@ -1835,6 +1846,17 @@
         "keywords": "amd, stiffs, researcher, bug, bounty, url, https, com",
         "generated": "2026-06-13T04:19:15.383517",
         "file": "amd-stiffs-researcher-10k-bug-bounty.md"
+    },
+    {
+        "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+        "slug": "how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in",
+        "author": "cube00",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 04:49:47 +0000",
+        "description": "Article URL: https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/ Comments URL: https://news.ycombinator.com/item?id=4897447...",
+        "keywords": "main, tool, lock, url, https, blog, comments, how",
+        "generated": "2026-07-20T09:25:08.133924",
+        "file": "how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in.md"
     },
     {
         "title": "Where every major LLM stands politically",
@@ -6070,6 +6092,17 @@
         "file": "mastering-fastapi-error-handling-best-practices-a-handson-guide.md"
     },
     {
+        "title": "Master the Python Piscine: Your Ultimate OOP, Data, and Automation Cheat Sheet 🐍🚀",
+        "slug": "master-the-python-piscine-your-ultimate-oop-data-and-automation-cheat-sheet",
+        "author": "Benjamin Koimett",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 08:55:28 +0000",
+        "description": "Surviving a Python Piscine (or an intensive dev boot camp) is all about speed, retention, and having a reliable fallback when your brain stalls at 3 AM. Whet...",
+        "keywords": "self, data, oop, print, level, numpy, file, name",
+        "generated": "2026-07-20T09:25:08.135089",
+        "file": "master-the-python-piscine-your-ultimate-oop-data-and-automation-cheat-sheet.md"
+    },
+    {
         "title": "Your Pipeline Is 12.4h Behind: Catching Renewable Energy Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-124h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -6773,6 +6806,17 @@
         "keywords": "walt, disney, company, url, https, comments, most, successful",
         "generated": "2026-06-22T20:55:23.242891",
         "file": "walt-disney-company-is-the-most-successful-at-monetizing-human-nostalgia-audio.md"
+    },
+    {
+        "title": "Rebuilding Orkas for Long-Running Agents",
+        "slug": "rebuilding-orkas-for-long-running-agents",
+        "author": "Orkas",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 09:24:06 +0000",
+        "description": "AI agents don’t only break because the model is weak. They often break because the product treats agent work like a single chatbot response. In the Orkas 1.0...",
+        "keywords": "agent, orkas, can, local, agents, context, tool, runtime",
+        "generated": "2026-07-20T09:25:08.139374",
+        "file": "rebuilding-orkas-for-long-running-agents.md"
     },
     {
         "title": "The Cypherpunk Library",
@@ -8181,6 +8225,17 @@
         "keywords": "your, you, not, code, agent, step, agents, workflow",
         "generated": "2026-06-29T11:11:05.060546",
         "file": "i-stopped-writing-code-i-started-orchestrating-ai-agents-heres-my-exact-workflow.md"
+    },
+    {
+        "title": "How to Start Programming 2026",
+        "slug": "how-to-start-programming-2026",
+        "author": "Abhishek Maurya",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 09:21:36 +0000",
+        "description": "Most Of Us know programnming as a tough job but, Very few knows how easier it is. You Just Need to Understand the fundamentals and it then gmae starts sponta...",
+        "keywords": "you, how, know, just, need, like, way, start",
+        "generated": "2026-07-20T09:25:08.140283",
+        "file": "how-to-start-programming-2026.md"
     },
     {
         "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
@@ -13703,6 +13758,17 @@
         "file": "estonia-launches-state-issued-digital-ids-for-ai-agents.md"
     },
     {
+        "title": "What breaks when you scrape Steam Community Market at scale",
+        "slug": "what-breaks-when-you-scrape-steam-community-market-at-scale",
+        "author": "0xGollum",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 08:38:22 +0000",
+        "description": "CS2 Skin Pulse tracks price and volume signals on CS2 skins from the Steam Community Market. No official API, no key required — but the public JSON endpoints...",
+        "keywords": "what, you, price, run, steam, volume, public, not",
+        "generated": "2026-07-20T09:25:08.135350",
+        "file": "what-breaks-when-you-scrape-steam-community-market-at-scale.md"
+    },
+    {
         "title": "Iconfinder的驟然告別",
         "slug": "iconfinder",
         "author": "JH5",
@@ -16099,6 +16165,17 @@
         "keywords": "consent, fonts, data, analytics, script, google, cookie, category",
         "generated": "2026-06-11T10:47:52.348603",
         "file": "gdpr-compliance-for-web-devs-a-practical-technical-guide-2026-edition-with-code-examples.md"
+    },
+    {
+        "title": "Best Website Builders 2026: 12 Platforms Compared for Every Need",
+        "slug": "best-website-builders-2026-12-platforms-compared-for-every-need",
+        "author": "Alex Zhang AI",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 09:11:17 +0000",
+        "description": "Best Website Builders 2026: 12 Platforms Compared for Every Need Whether you're launching a personal blog, a portfolio, a service business, or an ecommerce s...",
+        "keywords": "you, best, builder, free, ecommerce, pick, website, systeme",
+        "generated": "2026-07-20T09:25:08.138944",
+        "file": "best-website-builders-2026-12-platforms-compared-for-every-need.md"
     },
     {
         "title": "Ultimate 118 Ways To Buy Verified Stripe Accounts In Bulk (PVA, Aged, Strong)",
@@ -20776,6 +20853,17 @@
         "file": "burnout-is-real-for-open-source-maintainers.md"
     },
     {
+        "title": "agent-shield-runtime v0.1.0: hook de despliegue que conecta 5 sensores de defensa de agentes IA",
+        "slug": "agent-shield-runtime-v010-hook-de-despliegue-que-conecta-5-sensores-de-defensa-de-agentes-ia",
+        "author": "Fenix",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 09:22:55 +0000",
+        "description": "agent-shield-runtime v0.1.0: hook de despliegue que conecta 5 sensores de defensa de agentes IA Los sensores de defensa de un agente no sirven si nada los in...",
+        "keywords": "los, sensores, shield, runtime, que, agent, agente, hook",
+        "generated": "2026-07-20T09:25:08.140139",
+        "file": "agent-shield-runtime-v010-hook-de-despliegue-que-conecta-5-sensores-de-defensa-de-agentes-ia.md"
+    },
+    {
         "title": "The 5 Developer Skills That Separate $50K Salaries from $150K in 2026",
         "slug": "the-5-developer-skills-that-separate-50k-salaries-from-150k-in-2026",
         "author": "Tuba Mughal",
@@ -21568,6 +21656,17 @@
         "file": "wildcard-yc-w25-is-hiring-an-applied-ml-engineer.md"
     },
     {
+        "title": "I Salvaged 40 Bad Voice Memos With One Fade — No Studio, No Subscription",
+        "slug": "i-salvaged-40-bad-voice-memos-with-one-fade-no-studio-no-subscription",
+        "author": "jeenie",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 09:12:27 +0000",
+        "description": "A podcast guest once sent me 40 voice notes recorded on a laptop mic in a coffee shop. Every single one started with a click and ended with a harsh cut. I ha...",
+        "keywords": "fade, you, same, voice, out, zero, all, memos",
+        "generated": "2026-07-20T09:25:08.137188",
+        "file": "i-salvaged-40-bad-voice-memos-with-one-fade-no-studio-no-subscription.md"
+    },
+    {
         "title": "[AI Income Engine 9/12] How to use LM Studio to run AI agents locally for free",
         "slug": "ai-income-engine-912-how-to-use-lm-studio-to-run-ai-agents-locally-for-free",
         "author": "Ig0tU",
@@ -21621,6 +21720,17 @@
         "keywords": "action, dji, review, osmo, essential, combo, best, waterproof",
         "generated": "2026-07-12T08:25:23.794756",
         "file": "dji-osmo-action-4-essential-combo-review-2026.md"
+    },
+    {
+        "title": "I read the r/openclaw voice thread so you don’t have to — and yeah, the real problem is 10–20 second latency",
+        "slug": "i-read-the-ropenclaw-voice-thread-so-you-dont-have-to-and-yeah-the-real-problem-is-1020-second-latency",
+        "author": "Lars Winstand",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 09:11:58 +0000",
+        "description": "A thread on r/openclaw got 10 upvotes and 18 comments. That’s not big Reddit. But small technical subreddits usually surface real problems faster than big on...",
+        "keywords": "voice, you, openclaw, not, thread, latency, realtime, speech",
+        "generated": "2026-07-20T09:25:08.137839",
+        "file": "i-read-the-ropenclaw-voice-thread-so-you-dont-have-to-and-yeah-the-real-problem-is-1020-second-latency.md"
     },
     {
         "title": "From QA to Component Architect: Why Breaking Your Code is the Secret to World-Class Design Systems",
@@ -24461,6 +24571,17 @@
         "file": "tokenease-one-api-key-for-deepseek-glm-qwen-and-doubao-with-automatic-failover.md"
     },
     {
+        "title": "Visual Merchandising Trends in India (2026–2028): What Retail Brands Must Know",
+        "slug": "visual-merchandising-trends-in-india-20262028-what-retail-brands-must-know",
+        "author": "oliver.jameshub",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 09:14:45 +0000",
+        "description": "Visual Merchandising Trends in India: Driving Brand Visibility, Engagement, and Growth Introduction In today’s highly competitive retail landscape, brands mu...",
+        "keywords": "visual, merchandising, india, retail, agency, trends, brand, branding",
+        "generated": "2026-07-20T09:25:08.136874",
+        "file": "visual-merchandising-trends-in-india-20262028-what-retail-brands-must-know.md"
+    },
+    {
         "title": "I built a background remover that keeps the fine hair edges",
         "slug": "i-built-a-background-remover-that-keeps-the-fine-hair-edges",
         "author": "KunStudio",
@@ -27024,6 +27145,17 @@
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
     },
     {
+        "title": "Changes to LLM pricing: Baidu, Decart, Novita and StreamLake",
+        "slug": "changes-to-llm-pricing-baidu-decart-novita-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 09:20:38 +0000",
+        "description": "Model price changes detected for Baidu, Decart, Novita and StreamLake. Details below.",
+        "keywords": "changes, baidu, decart, novita, streamlake, llm, pricing, model",
+        "generated": "2026-07-20T09:25:08.140395",
+        "file": "changes-to-llm-pricing-baidu-decart-novita-and-streamlake.md"
+    },
+    {
         "title": "Buy Telegram Accounts: The Ultimate 16-Step Beginner's …",
         "slug": "buy-telegram-accounts-the-ultimate-16-step-beginners",
         "author": "Top 1.0 Platforms for Buying Telegram Accounts in 2025 Best .. ...",
@@ -27253,6 +27385,17 @@
         "keywords": "agents, url, https, com, comments, building, without, harness",
         "generated": "2026-06-11T20:28:40.306623",
         "file": "building-agents-without-harness-engineering.md"
+    },
+    {
+        "title": "Build vs Buy, for Engineers Who Always Want to Build It",
+        "slug": "build-vs-buy-for-engineers-who-always-want-to-build-it",
+        "author": "Nabeel Hassan",
+        "source": "devto_ai",
+        "published": "Mon, 20 Jul 2026 09:23:11 +0000",
+        "description": "As an engineer, my default answer to almost any problem is I'll just build it. Give me a weekend and a coffee and I will happily reimplement something that...",
+        "keywords": "not, build, tool, you, one, custom, how, real",
+        "generated": "2026-07-20T09:25:08.139829",
+        "file": "build-vs-buy-for-engineers-who-always-want-to-build-it.md"
     },
     {
         "title": "Tencent Hunyuan Hy3: 295B MoE Hits 90% Agent Task Resolution",
@@ -28850,6 +28993,17 @@
         "file": "react-js-install-guide-step-by-step-react-vite-setup-latest-version.md"
     },
     {
+        "title": "Xiaomi-Robotics-1",
+        "slug": "xiaomi-robotics-1",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 04:45:15 +0000",
+        "description": "Article URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html Comments URL: https://news.ycombinator.com/item?id=48974454 Points: 199 # Comments: 130",
+        "keywords": "xiaomi, robotics, url, https, com, comments, article, html",
+        "generated": "2026-07-20T09:25:08.134048",
+        "file": "xiaomi-robotics-1.md"
+    },
+    {
         "title": "What I learned generating OG images for articles with Playwright and zero API cost",
         "slug": "what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost",
         "author": "MORINAGA",
@@ -29244,6 +29398,17 @@
         "keywords": "bharatutils, every, nan, not, one, indian, number, import",
         "generated": "2026-06-15T05:01:58.093114",
         "file": "i-got-tired-of-rewriting-the-same-indian-utilities-so-i-built-bharatutils.md"
+    },
+    {
+        "title": "US gas prices hit an average of $4 a gallon again",
+        "slug": "us-gas-prices-hit-an-average-of-4-a-gallon-again",
+        "author": "geox",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 09:12:10 +0000",
+        "description": "Article URL: https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e Comments URL: https://news.ycombinator.com/item?id=4897...",
+        "keywords": "gas, prices, gallon, article, url, https, com, comments",
+        "generated": "2026-07-20T09:25:08.133465",
+        "file": "us-gas-prices-hit-an-average-of-4-a-gallon-again.md"
     },
     {
         "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
@@ -32040,6 +32205,17 @@
         "file": "memoirs-of-extraordinary-popular-delusions-and-the-madness-of-crowds.md"
     },
     {
+        "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+        "slug": "exploit-brokers-pay-500k-for-wordpress-rces-i-found-one-with-gpt56-and-25",
+        "author": "infosecau",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 08:13:36 +0000",
+        "description": "Article URL: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/ Comments URL: https://news.ycombinato...",
+        "keywords": "exploit, brokers, pay, wordpress, found, one, url, https",
+        "generated": "2026-07-20T09:25:08.133637",
+        "file": "exploit-brokers-pay-500k-for-wordpress-rces-i-found-one-with-gpt56-and-25.md"
+    },
+    {
         "title": "How to Evaluate Drawer Balance Using Python and Cabinet Hardware Weights",
         "slug": "how-to-evaluate-drawer-balance-using-python-and-cabinet-hardware-weights",
         "author": "FrishayLTD",
@@ -32788,6 +32964,17 @@
         "file": "i-built-a-privacy-first-json-viewer-for-chrome-after-i-got-tired-of-waiting.md"
     },
     {
+        "title": "Building Production AI Agents on the JVM: A Practical Guide to Java + Spring AI in 2026",
+        "slug": "building-production-ai-agents-on-the-jvm-a-practical-guide-to-java-spring-ai-in-2026",
+        "author": "Harshvardhan Singh",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 08:24:51 +0000",
+        "description": "Let's skip the philosophical debate. This isn't about whether Java is better than Python for AI, Python owns model research and that's not changing. This is ...",
+        "keywords": "model, spring, you, public, java, threads, string, vectorstore",
+        "generated": "2026-07-20T09:25:08.136125",
+        "file": "building-production-ai-agents-on-the-jvm-a-practical-guide-to-java-spring-ai-in-2026.md"
+    },
+    {
         "title": "Python Code Obfuscation Tools — prometheusdev.io Jun 2026",
         "slug": "python-code-obfuscation-tools-prometheusdevio-jun-2026",
         "author": "NIRA Synth",
@@ -33534,6 +33721,17 @@
         "keywords": "you, best, your, image, generator, app, time, when",
         "generated": "2026-06-09T20:13:36.284708",
         "file": "best-ai-image-generator-app-in-2026.md"
+    },
+    {
+        "title": "The Evolution of Star Wars Collecting: From Childhood Toys to Valuable Collectibles",
+        "slug": "the-evolution-of-star-wars-collecting-from-childhood-toys-to-valuable-collectibles",
+        "author": "Bushra",
+        "source": "devto_webdev",
+        "published": "Mon, 20 Jul 2026 09:15:41 +0000",
+        "description": "The Evolution of Star Wars Collecting: From Childhood Toys to Valuable Collectibles For many fans, Star Wars is more than a movie franchise. It represents ch...",
+        "keywords": "star, wars, collecting, figures, collectibles, fans, history, collectors",
+        "generated": "2026-07-20T09:25:08.136371",
+        "file": "the-evolution-of-star-wars-collecting-from-childhood-toys-to-valuable-collectibles.md"
     },
     {
         "title": "Grammarly Review 2026: AI Writing Assistant for Business Teams",
@@ -36053,6 +36251,17 @@
         "file": "tracing-a-powerful-gnss-interference-source-over-europe.md"
     },
     {
+        "title": "I Built a 2000-Page Digital Museum With AI Agents",
+        "slug": "i-built-a-2000-page-digital-museum-with-ai-agents",
+        "author": "hermesxclaw-ctrl",
+        "source": "devto_python",
+        "published": "Mon, 20 Jul 2026 09:13:11 +0000",
+        "description": "I Built a 2,000-Page Digital Museum With AI Agents (And You Can Too) Most wikis are boring. Ours isn't. OmniLore is a digital archive of every mythological e...",
+        "keywords": "entity, agent, agents, entities, each, build, built, pipeline",
+        "generated": "2026-07-20T09:25:08.134406",
+        "file": "i-built-a-2000-page-digital-museum-with-ai-agents.md"
+    },
+    {
         "title": "8 Best Programming Languages for Modern Web Development",
         "slug": "8-best-programming-languages-for-modern-web-development",
         "author": "Infocrats Web Solutions Pvt. Ltd.",
@@ -36799,6 +37008,17 @@
         "keywords": "accounts, account, itpvapro, facebook, com, usa, security, activity",
         "generated": "2026-07-02T19:40:41.063605",
         "file": "top-21website-to-buy-usa-facebook-accounts-for-business.md"
+    },
+    {
+        "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+        "slug": "eu-exempts-apple-watch-and-airpods-from-battery-removal-requirements",
+        "author": "miohtama",
+        "source": "hackernews",
+        "published": "Mon, 20 Jul 2026 07:10:30 +0000",
+        "description": "Article URL: https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/ Comments URL: https://news.ycombinator.c...",
+        "keywords": "exempts, apple, watch, airpods, battery, removal, url, https",
+        "generated": "2026-07-20T09:25:08.133772",
+        "file": "eu-exempts-apple-watch-and-airpods-from-battery-removal-requirements.md"
     },
     {
         "title": "Building a live interactive globe with JavaScript, SEO pages, and one-time payments",
