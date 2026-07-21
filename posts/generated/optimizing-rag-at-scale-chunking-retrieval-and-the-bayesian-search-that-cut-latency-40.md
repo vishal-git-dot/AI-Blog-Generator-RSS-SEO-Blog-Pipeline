@@ -3,10 +3,10 @@ title: "Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search Th
 slug: "optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40"
 author: "Imus"
 source: "devto_ai"
-published: "Mon, 20 Jul 2026 19:40:37 +0000"
+published: "Tue, 21 Jul 2026 03:10:15 +0000"
 description: "Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40% How we moved from "semantic search + hope" to a measured, tunable ..."
 keywords: "self, query, retrieval, recall, class, def, rag, search"
-generated: "2026-07-20T19:49:00.049177"
+generated: "2026-07-21T03:19:30.892527"
 ---
 
 # Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2f68
+https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4d6e
 
 ## Conclusion
 

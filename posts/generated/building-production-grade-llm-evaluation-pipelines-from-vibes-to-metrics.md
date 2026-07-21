@@ -3,10 +3,10 @@ title: "Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metric
 slug: "building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics"
 author: "Imus"
 source: "devto_ai"
-published: "Mon, 20 Jul 2026 19:40:36 +0000"
+published: "Tue, 21 Jul 2026 03:10:13 +0000"
 description: "Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics How we replaced "looks good to me" with automated evaluation catching 92% of halluc..."
 keywords: "eval, self, llm, evaluation, production, context, judges, judge"
-generated: "2026-07-20T19:49:00.049828"
+generated: "2026-07-21T03:19:30.893162"
 ---
 
 # Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-3j5l
+https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-380g
 
 ## Conclusion
 
