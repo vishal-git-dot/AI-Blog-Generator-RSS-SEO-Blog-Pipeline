@@ -253,6 +253,17 @@
         "file": "clark-audio-lofi-panda-4-v404-for-macos.md"
     },
     {
+        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+        "slug": "qwen-image-30-rich-content-authentic-details-deep-knowledge",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 08:44:23 +0000",
+        "description": "Article URL: https://qwen.ai/blog?id=qwen-image-3.0 Comments URL: https://news.ycombinator.com/item?id=48989701 Points: 295 # Comments: 130",
+        "keywords": "qwen, image, url, https, comments, rich, content, authentic",
+        "generated": "2026-07-21T14:05:44.039223",
+        "file": "qwen-image-30-rich-content-authentic-details-deep-knowledge.md"
+    },
+    {
         "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "slug": "department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5",
         "author": "Pragmata",
@@ -623,7 +634,7 @@
         "published": "Tue, 21 Jul 2026 03:52:05 +0000",
         "description": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/ Comments URL: https://news.ycombinator.com/item?id=48987831 Po...",
         "keywords": "koi, pond, mosaic, made, pounds, url, https, com",
-        "generated": "2026-07-21T08:36:53.662288",
+        "generated": "2026-07-21T14:05:44.039864",
         "file": "a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste.md"
     },
     {
@@ -1956,6 +1967,17 @@
         "keywords": "development, solutions, web, technology, businesses, artless, software, website",
         "generated": "2026-07-20T14:19:27.585775",
         "file": "artless-technology.md"
+    },
+    {
+        "title": "Two tidal libraries disagreed: diff their internals, not their outputs",
+        "slug": "two-tidal-libraries-disagreed-diff-their-internals-not-their-outputs",
+        "author": "Bryan Clark",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 13:37:24 +0000",
+        "description": "Two tide libraries gave different answers and bisecting by ablation found nothing, because the difference was spread thin across a dozen small terms. Both li...",
+        "keywords": "neaps, utide, not, one, you, two, which, constituents",
+        "generated": "2026-07-21T14:05:44.041689",
+        "file": "two-tidal-libraries-disagreed-diff-their-internals-not-their-outputs.md"
     },
     {
         "title": "I Made a Weird Discovery About AI API Affiliate Programs and Now I Can't Stop Talking About It",
@@ -4143,7 +4165,7 @@
         "published": "Tue, 21 Jul 2026 04:48:32 +0000",
         "description": "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/source...",
         "keywords": "source, data, open, index, artifacts, museum, origin, institutions",
-        "generated": "2026-07-21T08:36:53.661880",
+        "generated": "2026-07-21T14:05:44.039535",
         "file": "show-hn-ex-situ-open-source-spatial-index-of-displaced-cultural-artifacts.md"
     },
     {
@@ -8821,6 +8843,17 @@
         "file": "what-is-claude-fable-5-the-next-frontier-in-safe-high-performance-ai.md"
     },
     {
+        "title": "The table looked general-purpose. The schema disagreed.",
+        "slug": "the-table-looked-general-purpose-the-schema-disagreed",
+        "author": "Mike Clarke",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 14:00:09 +0000",
+        "description": "A CHECK constraint is documentation with teeth. That's the whole lesson. But here's what it looks like when you learn it at runtime instead of at read-time. ...",
+        "keywords": "constraint, insert, region, you, trigger, values, new, table",
+        "generated": "2026-07-21T14:05:44.043737",
+        "file": "the-table-looked-general-purpose-the-schema-disagreed.md"
+    },
+    {
         "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
         "slug": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access",
         "author": "macklinkachorn",
@@ -10458,6 +10491,17 @@
         "file": "the-ai-personal-brand-stack-build-your-audience-while-building-your-product.md"
     },
     {
+        "title": "Auth healing pattern for autonomous agents: a 60-line approach",
+        "slug": "auth-healing-pattern-for-autonomous-agents-a-60-line-approach",
+        "author": "Chief Mojo Risin'",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 13:20:36 +0000",
+        "description": "The problem Autonomous agents lose auth state during long runs. Token rotation, OAuth refreshes, and session timeouts all silently break. The pattern Detect ...",
+        "keywords": "auth, pattern, autonomous, agents, safety, pack, landing, healing",
+        "generated": "2026-07-21T14:05:44.042729",
+        "file": "auth-healing-pattern-for-autonomous-agents-a-60-line-approach.md"
+    },
+    {
         "title": "Mysteries of Telegram Data Centers",
         "slug": "mysteries-of-telegram-data-centers",
         "author": "theanonymousone",
@@ -12086,6 +12130,17 @@
         "file": "the-hidden-cost-of-rebuilding-an-mvp-a-mistake-many-startups-make.md"
     },
     {
+        "title": "Astro Server Islands: Keep Pages Fast Without Giving Up Interactivity",
+        "slug": "astro-server-islands-keep-pages-fast-without-giving-up-interactivity",
+        "author": "Momcilo",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 14:00:48 +0000",
+        "description": "Most content sites do not need a full SPA. They need fast HTML first, then a small amount of JavaScript for carousels, comments, or filters. That is exactly ...",
+        "keywords": "astro, client, content, islands, page, server, html, when",
+        "generated": "2026-07-21T14:05:44.042979",
+        "file": "astro-server-islands-keep-pages-fast-without-giving-up-interactivity.md"
+    },
+    {
         "title": "Hardcoded System Prompts: An Anti-Pattern in Production",
         "slug": "hardcoded-system-prompts-an-anti-pattern-in-production",
         "author": "Ivo van der Knaap",
@@ -12317,6 +12372,17 @@
         "file": "agentic-coding-notes-from-galapagos-island.md"
     },
     {
+        "title": "#01 – Classes & Objects in Python",
+        "slug": "01-classes-objects-in-python",
+        "author": "Thiruvengadam Sakthivel",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 13:40:39 +0000",
+        "description": "Welcome to Object-Oriented Programming (OOP) in Python! Up until now, we’ve handled data using individual variables, functions, and collections. OOP allows y...",
+        "keywords": "self, class, print, name, user, def, balance, price",
+        "generated": "2026-07-21T14:05:44.040601",
+        "file": "01-classes-objects-in-python.md"
+    },
+    {
         "title": "When I reject AI code even if it works",
         "slug": "when-i-reject-ai-code-even-if-it-works",
         "author": "vnbrs",
@@ -12535,6 +12601,17 @@
         "keywords": "url, https, com, comments, how, should, group, chats",
         "generated": "2026-07-09T19:54:26.399458",
         "file": "how-should-group-chats-work-in-decentralized-systems.md"
+    },
+    {
+        "title": "How I Fixed Hallucinations by Switching from AGENTS.md to AGENTS.db",
+        "slug": "how-i-fixed-hallucinations-by-switching-from-agentsmd-to-agentsdb",
+        "author": "Mohammed Ibrahim Khan",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 14:01:18 +0000",
+        "description": "Before I dive in, a bit of background on how our agentic workflow at Exam Intelligence for deep analysis and notes generation works... Initially, I tried to ...",
+        "keywords": "agent, not, null, text, step, instructions, what, memories",
+        "generated": "2026-07-21T14:05:44.045419",
+        "file": "how-i-fixed-hallucinations-by-switching-from-agentsmd-to-agentsdb.md"
     },
     {
         "title": "Zenzizenzizenzic",
@@ -13549,6 +13626,17 @@
         "file": "making-product-recalls-executable-with-aurora-dsql-and-vercel.md"
     },
     {
+        "title": "New US homeownership measure puts people first",
+        "slug": "new-us-homeownership-measure-puts-people-first",
+        "author": "throw0101a",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 12:03:14 +0000",
+        "description": "Article URL: https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first Comments URL: https://news.ycombinator.com/item?id=48991...",
+        "keywords": "new, homeownership, measure, puts, people, first, article, url",
+        "generated": "2026-07-21T14:05:44.039062",
+        "file": "new-us-homeownership-measure-puts-people-first.md"
+    },
+    {
         "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
         "slug": "detecting-llm-generated-texts-with-classical-machine-learning",
         "author": "uneven9434",
@@ -14517,6 +14605,17 @@
         "file": "i-built-a-remote-skin-engine-for-flutter.md"
     },
     {
+        "title": "Which tasks are actually worth automating? Take the minimum, not the average",
+        "slug": "which-tasks-are-actually-worth-automating-take-the-minimum-not-the-average",
+        "author": "NEKO.AI",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 14:01:41 +0000",
+        "description": "Most automate your workflow with AI advice gives you the same instruction: automate your repetitive tasks . That advice is how people spend a weekend autom...",
+        "keywords": "your, you, task, automation, tasks, not, week, then",
+        "generated": "2026-07-21T14:05:44.045036",
+        "file": "which-tasks-are-actually-worth-automating-take-the-minimum-not-the-average.md"
+    },
+    {
         "title": "The Unbearable Cheapness of Open Weight Models",
         "slug": "the-unbearable-cheapness-of-open-weight-models",
         "author": "ddxv",
@@ -15087,6 +15186,17 @@
         "keywords": "fable, relentlessly, proactive, url, https, comments, claude, article",
         "generated": "2026-06-12T10:23:24.146359",
         "file": "claude-fable-is-relentlessly-proactive.md"
+    },
+    {
+        "title": "CarLog 1.1 — full history for one vehicle",
+        "slug": "carlog-11-full-history-for-one-vehicle",
+        "author": "SybilGambleyyu",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 13:59:14 +0000",
+        "description": "When you sell a car or visit a new shop, a clean service history helps. CarLog 1.1 opens a full timeline per vehicle — still on your device. What's new Histo...",
+        "keywords": "carlog, history, vehicle, full, one, new, open, when",
+        "generated": "2026-07-21T14:05:44.044777",
+        "file": "carlog-11-full-history-for-one-vehicle.md"
     },
     {
         "title": "I Built a Curated AI Tools Directory With Real Comparisons — Here's What I Learned",
@@ -19929,6 +20039,17 @@
         "file": "influencer-marketing-strategy-how-brands-win-in-2026.md"
     },
     {
+        "title": "Open-Weight LLM API Integration: A Developer's Guide to Flexible AI",
+        "slug": "open-weight-llm-api-integration-a-developers-guide-to-flexible-ai",
+        "author": "NovaStack",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 14:01:00 +0000",
+        "description": "Open-Weight LLM API Integration: A Developer's Guide to Flexible AI The AI landscape is shifting. While proprietary models dominated the early wave, open-wei...",
+        "keywords": "api, open, weight, your, model, content, const, models",
+        "generated": "2026-07-21T14:05:44.046168",
+        "file": "open-weight-llm-api-integration-a-developers-guide-to-flexible-ai.md"
+    },
+    {
         "title": "Every AI provider fails in its own way. I stopped checking status codes and built an error model instead.",
         "slug": "every-ai-provider-fails-in-its-own-way-i-stopped-checking-status-codes-and-built-an-error-model-instead",
         "author": "Lolo",
@@ -21896,6 +22017,17 @@
         "keywords": "your, seo, blog, post, content, you, search, use",
         "generated": "2026-06-11T10:47:52.350624",
         "file": "craft-killer-blog-posts-your-seo-friendly-guide.md"
+    },
+    {
+        "title": "Rails already ships class_names. I built clsx anyway.",
+        "slug": "rails-already-ships-classnames-i-built-clsx-anyway",
+        "author": "Leonid Svyatov",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 14:00:00 +0000",
+        "description": "When I published a little gem for conditional CSS classes two years ago, the first comment was Adrien Poly asking the obvious thing: What is the main differ...",
+        "keywords": "clsx, you, class, rails, one, foo, not, bar",
+        "generated": "2026-07-21T14:05:44.044628",
+        "file": "rails-already-ships-classnames-i-built-clsx-anyway.md"
     },
     {
         "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
@@ -24873,9 +25005,9 @@
         "author": "arghunter",
         "source": "hackernews",
         "published": "Tue, 21 Jul 2026 03:54:16 +0000",
-        "description": "Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 56 # Comments: 10",
+        "description": "Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 101 # Comments: 23",
         "keywords": "doom, url, https, com, comments, running, our, custom",
-        "generated": "2026-07-21T08:36:53.662148",
+        "generated": "2026-07-21T14:05:44.039713",
         "file": "running-doom-on-our-custom-cpu-and-going-viral.md"
     },
     {
@@ -28817,6 +28949,17 @@
         "file": "building-fluentioapp-realtime-voice-english-tutoring-with-angular-express-and-openai-realtime.md"
     },
     {
+        "title": "Sumeh: one API for data quality across 14 engines",
+        "slug": "sumeh-one-api-for-data-quality-across-14-engines",
+        "author": "Demetrius Albuquerque",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 13:30:00 +0000",
+        "description": "Every data quality framework eventually forces you into a choice. Great Expectations gives you a rich ecosystem, but you're managing suites, checkpoints, and...",
+        "keywords": "sumeh, you, sql, pandas, data, not, rules, engines",
+        "generated": "2026-07-21T14:05:44.042530",
+        "file": "sumeh-one-api-for-data-quality-across-14-engines.md"
+    },
+    {
         "title": "Discovery as a Capability in T…",
         "slug": "discovery-as-a-capability-in-t",
         "author": "Norvik Tech",
@@ -29112,6 +29255,17 @@
         "keywords": "agent, new, kit, auth, add, founder, change, not",
         "generated": "2026-07-18T13:26:53.515561",
         "file": "the-real-app-building-kit-for-non-technical-founders-trustworthy-ai-powered-development.md"
+    },
+    {
+        "title": "Screening Polymarket Markets: Liquidity and Resolution Risk",
+        "slug": "screening-polymarket-markets-liquidity-and-resolution-risk",
+        "author": "Blockchain Rust Engineer",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 13:30:36 +0000",
+        "description": "Most of what I've written about building a Polymarket bot so far assumes you're already trading a specific market - execution timing, position sizing. Neithe...",
+        "keywords": "market, resolution, your, you, markets, execution, position, sizing",
+        "generated": "2026-07-21T14:05:44.042034",
+        "file": "screening-polymarket-markets-liquidity-and-resolution-risk.md"
     },
     {
         "title": "I Almost Gave Up... But One Console Log Changed Everything",
@@ -31105,6 +31259,17 @@
         "file": "phone-not-vibrating-a-10-second-browser-check-tells-you-if-the-motor-is-dead.md"
     },
     {
+        "title": "A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects",
+        "slug": "a-multi-cut-formulation-for-joint-segmentation-and-tracking-of-multiple-objects",
+        "author": "Paperium",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 14:00:28 +0000",
+        "description": "{{ $json.postContent }}",
+        "keywords": "multi, cut, formulation, joint, segmentation, tracking, multiple, objects",
+        "generated": "2026-07-21T14:05:44.046330",
+        "file": "a-multi-cut-formulation-for-joint-segmentation-and-tracking-of-multiple-objects.md"
+    },
+    {
         "title": "Build a Stock Price Alert Bot with Python",
         "slug": "build-a-stock-price-alert-bot-with-python",
         "author": "qing",
@@ -31477,6 +31642,17 @@
         "keywords": "polo, article, url, https, comments, field, clones, how",
         "generated": "2026-06-07T09:24:56.816037",
         "file": "field-of-clones-how-horse-replicas-came-to-dominate-polo.md"
+    },
+    {
+        "title": "KDP Niche Spotlight: Shadow Work Journal (Demand 68/100, Competition 45/100)",
+        "slug": "kdp-niche-spotlight-shadow-work-journal-demand-68100-competition-45100",
+        "author": "Jay",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 14:01:06 +0000",
+        "description": "Shadow Work Journal scored 68/100 demand and 45/100 competition in nichedata.dev's KDP intelligence index. Mixed signal — worth deeper research before commit...",
+        "keywords": "nichedata, dev, kdp, shadow, work, journal, demand, niche",
+        "generated": "2026-07-21T14:05:44.045602",
+        "file": "kdp-niche-spotlight-shadow-work-journal-demand-68100-competition-45100.md"
     },
     {
         "title": "Running Hugging Face Inference with Kiro: From Prompt to Working Summarizer",
@@ -34414,6 +34590,17 @@
         "keywords": "star, wars, collecting, figures, collectibles, fans, history, collectors",
         "generated": "2026-07-20T09:25:08.136371",
         "file": "the-evolution-of-star-wars-collecting-from-childhood-toys-to-valuable-collectibles.md"
+    },
+    {
+        "title": "Read any URL's title, description, favicon, and OG image with one API call",
+        "slug": "read-any-urls-title-description-favicon-and-og-image-with-one-api-call",
+        "author": "clause-netizen",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 14:00:38 +0000",
+        "description": "Building a link preview means fetching a page, then parsing its <title> , meta description, favicon, and Open Graph tags out of the HTML. Each site nests tho...",
+        "keywords": "com, github, https, url, title, you, rapidapi, favicon",
+        "generated": "2026-07-21T14:05:44.043318",
+        "file": "read-any-urls-title-description-favicon-and-og-image-with-one-api-call.md"
     },
     {
         "title": "Grammarly Review 2026: AI Writing Assistant for Business Teams",

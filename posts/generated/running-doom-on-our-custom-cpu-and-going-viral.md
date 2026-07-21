@@ -4,16 +4,16 @@ slug: "running-doom-on-our-custom-cpu-and-going-viral"
 author: "arghunter"
 source: "hackernews"
 published: "Tue, 21 Jul 2026 03:54:16 +0000"
-description: "Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 56 # Comments: 10"
+description: "Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 101 # Comments: 23"
 keywords: "doom, url, https, com, comments, running, our, custom"
-generated: "2026-07-21T08:36:53.662148"
+generated: "2026-07-21T14:05:44.039713"
 ---
 
 # Running Doom on Our Custom CPU and Going Viral
 
 ## Overview
 
-Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 56 # Comments: 10
+Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 101 # Comments: 23
 
 ## Key Insights
 

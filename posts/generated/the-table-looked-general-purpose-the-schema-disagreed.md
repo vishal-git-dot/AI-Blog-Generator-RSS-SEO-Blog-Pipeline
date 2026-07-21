@@ -1,0 +1,34 @@
+---
+title: "The table looked general-purpose. The schema disagreed."
+slug: "the-table-looked-general-purpose-the-schema-disagreed"
+author: "Mike Clarke"
+source: "devto_webdev"
+published: "Tue, 21 Jul 2026 14:00:09 +0000"
+description: "A CHECK constraint is documentation with teeth. That's the whole lesson. But here's what it looks like when you learn it at runtime instead of at read-time. ..."
+keywords: "constraint, insert, region, you, trigger, values, new, table"
+generated: "2026-07-21T14:05:44.043737"
+---
+
+# The table looked general-purpose. The schema disagreed.
+
+## Overview
+
+A CHECK constraint is documentation with teeth. That's the whole lesson. But here's what it looks like when you learn it at runtime instead of at read-time. Key Takeaways A CHECK constraint encodes scope assumptions the column name never will A constraint violation inside a trigger aborts the parent transaction — silently, from the caller's perspective Before writing to a table you inherited, run \d tablename or query information_schema.check_constraints . Read what's there. Gate on allowed values in code before the insert. Let the constraint be a backstop, not the first line of defense. Skip-and-log beats throw-and-abort when the parent write is more important than the child record What happened We run ARIA, an autonomous CRM and nurture automation system at Elevare Digital. New contact records enroll into follow-up sequences automatically — no human queues the work. At some point, new records stopped enrolling. The parent write (creating the contact) was aborting entirely. No sequence. No contact. No error surfaced to the caller in a useful way. The culprit was a region column with a CHECK constraint that looked roughly like this: ALTER TABLE enrollment_tracker ADD CONSTRAINT region_allowed CHECK ( region IN ( 'north' , 'south' , 'east' , 'west' , 'central' )); The table had been built for one specific program covering five regions. Later, code started treating it as a general enrollment tracker and writing region values the constraint never anticipated. Postgres rejected the insert. Because that insert happened inside a trigger, the whole parent transaction rolled back. The column was named region . Nothing in that name says "only these five values are valid." The constraint said it. Nobody read the constraint. Why a trigger makes this worse If you insert directly into a table and violate a CHECK, you get an error back immediately. Annoying, but contained. When the insert is inside a trigger on a different table, the error propagates up and aborts the statement that fired the trigger. The caller sees their write fail. They may have no idea a trigger was involved, let alone which constraint fired inside it. -- Trigger fires on INSERT to contacts CREATE OR REPLACE FUNCTION enroll_contact () RETURNS trigger AS $$ BEGIN -- This insert can blow up the parent INSERT INTO contacts INSERT INTO enrollment_tracker ( contact_id , region , enrolled_at ) VALUES ( NEW . id , NEW . region , now ()); RETURN NEW ; END ; $$ LANGUAGE plpgsql ; CREATE TRIGGER trg_enroll AFTER INSERT ON contacts FOR EACH ROW EXECUTE FUNCTION enroll_contact (); Now do this: INSERT INTO contacts ( id , name , region ) VALUES ( gen_random_uuid (), 'Acme Corp' , 'southeast' ); -- ERROR: new row for relation "enrollment_tracker" violates -- check constraint "region_allowed" -- DETAIL: Failing row contains (..., southeast, ...). -- The contact was NOT created. southeast is a perfectly valid business concept. The table just never knew about it. The fix: gate before you insert Once we understood the constraint, the fix was straightforward. Check the allowed values in code (or in the trigger function itself) before attempting the insert. If the value isn't allowed, skip the enrollment record and log it. The parent write completes. CREATE OR REPLACE FUNCTION enroll_contact () RETURNS trigger AS $$ DECLARE allowed_regions TEXT [] : = ARRAY [ 'north' , 'south' , 'east' , 'west' , 'central' ]; BEGIN IF NEW . region = ANY ( allowed_regions ) THEN INSERT INTO enrollment_tracker ( contact_id , region , enrolled_at ) VALUES ( NEW . id , NEW . region , now ()); ELSE -- Log it; don't abort the parent write INSERT INTO enrollment_skipped ( contact_id , region , skipped_at , reason ) VALUES ( NEW . id , NEW . region , now (), 'region not in enrollment_tracker allowed list' ); END IF ; RETURN NEW ; END ; $$ LANGUAGE plpgsql ; Alternately, you can query the constraint definition directly rather than hardcoding the list — which is useful if the allowed values might expand: -- Pull allowed values from the constraint definition at runtime -- (useful for visibility; hardcoding is fine if values are stable) SELECT consrc FROM pg_constraint WHERE conname = 'region_allowed' AND conrelid = 'enrollment_tracker' :: regclass ; Returns something like (region = ANY (ARRAY['north'::text, 'south'::text, ...])) . Not the cleanest parse, but it tells you exactly what the schema intended. How to read the constraints you inherited Before writing to any table you didn't build: -- psql shortcut \ d enrollment_tracker -- Or query directly SELECT tc . constraint_name , tc . constraint_type , cc . check_clause FROM information_schema . table_constraints tc LEFT JOIN information_schema . check_constraints cc ON tc . constraint_name = cc . constraint_name WHERE tc . table_name = 'enrollment_tracker' ; Constraints you'll find this way: CHECK — allowed values, ranges, cross-column rules UNIQUE — uniqueness you may not have assumed NOT NULL — columns the schema considers required FOREIGN KEY — referential dependencies None of this is hidden. It's just rarely read. The actual lesson The table name was enrollment_tracker . That sounds general. It wasn't — it was built for a specific program with five regions, and the CHECK constraint was the only place that scope was written down. When later code treated it as a general tracker, it imported an assumption it never knew was there. The schema surfaced that assumption at write time, inside a trigger, in a way that took down the parent record. Schema constraints are the closest thing to binding documentation that most databases have. They don't drift. They don't get outdated and left in a wiki. They're enforced. Read them before you write. Not after. — Mike Clarke, founder of Elevare Digital.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/mike_clarke_50a95013f5c59/the-table-looked-general-purpose-the-schema-disagreed-9h9
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
