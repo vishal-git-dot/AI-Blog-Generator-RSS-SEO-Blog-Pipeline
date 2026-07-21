@@ -616,6 +616,17 @@
         "file": "deepfakes-are-getting-scary-good-heres-how-to-catch-them-anyway.md"
     },
     {
+        "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+        "slug": "a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste",
+        "author": "sudo_cowsay",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 03:52:05 +0000",
+        "description": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/ Comments URL: https://news.ycombinator.com/item?id=48987831 Po...",
+        "keywords": "koi, pond, mosaic, made, pounds, url, https, com",
+        "generated": "2026-07-21T08:36:53.662288",
+        "file": "a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste.md"
+    },
+    {
         "title": "Eeg Headband Review 2025",
         "slug": "eeg-headband-review-2025",
         "author": "NIRA Synth",
@@ -4125,6 +4136,17 @@
         "file": "announcing-box3d-box2d.md"
     },
     {
+        "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+        "slug": "show-hn-ex-situ-open-source-spatial-index-of-displaced-cultural-artifacts",
+        "author": "hbyel",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 04:48:32 +0000",
+        "description": "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/source...",
+        "keywords": "source, data, open, index, artifacts, museum, origin, institutions",
+        "generated": "2026-07-21T08:36:53.661880",
+        "file": "show-hn-ex-situ-open-source-spatial-index-of-displaced-cultural-artifacts.md"
+    },
+    {
         "title": "AI's Guide to Pretending to Be Useful (Spoiler: It's Harder Than It Looks)",
         "slug": "ais-guide-to-pretending-to-be-useful-spoiler-its-harder-than-it-looks",
         "author": "Electra AI",
@@ -6764,6 +6786,17 @@
         "file": "postgres-rewritten-in-rust-now-passing-100-of-the-postgres-regression-tests.md"
     },
     {
+        "title": "VS Code Is Not Here to Replace You. It Is Here to Save You From the Boring Parts.",
+        "slug": "vs-code-is-not-here-to-replace-you-it-is-here-to-save-you-from-the-boring-parts",
+        "author": "Okello Odhiambo",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 08:29:19 +0000",
+        "description": "There is a joke that programmers spend only a small part of their day writing code. The rest is spent searching for a missing semicolon, wondering why yester...",
+        "keywords": "code, you, not, software, who, has, developers, more",
+        "generated": "2026-07-21T08:36:53.665775",
+        "file": "vs-code-is-not-here-to-replace-you-it-is-here-to-save-you-from-the-boring-parts.md"
+    },
+    {
         "title": "I Fixed the AI Commit Messages Problem in 20 Lines of Python",
         "slug": "i-fixed-the-ai-commit-messages-problem-in-20-lines-of-python",
         "author": "Enjoy Kumawat",
@@ -6938,6 +6971,17 @@
         "keywords": "space, year, connect, tech, you, dev, engineering, what",
         "generated": "2026-07-10T19:40:31.690692",
         "file": "launching-my-dev-journey.md"
+    },
+    {
+        "title": "How to Plan Odoo Implementation Services for Scalable ERP Architecture",
+        "slug": "how-to-plan-odoo-implementation-services-for-scalable-erp-architecture",
+        "author": "Naresh Chandra Lohani",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 08:30:16 +0000",
+        "description": "Modern ERP failures rarely happen because of missing features. They happen because integrations, custom modules, and deployment strategies are introduced wit...",
+        "keywords": "odoo, implementation, upgrades, postgresql, services, deployment, business, modules",
+        "generated": "2026-07-21T08:36:53.667699",
+        "file": "how-to-plan-odoo-implementation-services-for-scalable-erp-architecture.md"
     },
     {
         "title": "Local AI Models: How to Run Your Own AI with Ollama?",
@@ -10997,6 +11041,17 @@
         "file": "free-online-photo-storage-and-sharing.md"
     },
     {
+        "title": "I Shipped a Pixel-Pet SaaS for OpenAI Codex — and the Rate-Limit + Payment Setup That Made It Safe",
+        "slug": "i-shipped-a-pixel-pet-saas-for-openai-codex-and-the-rate-limit-payment-setup-that-made-it-safe",
+        "author": "ahmed isam",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 08:29:44 +0000",
+        "description": "I kept wanting a coding companion with a bit of personality — a little pixel creature that lives in my OpenAI Codex setup while I work. The ones floating aro...",
+        "keywords": "plan, user, const, not, supabase, json, capture, row",
+        "generated": "2026-07-21T08:36:53.665207",
+        "file": "i-shipped-a-pixel-pet-saas-for-openai-codex-and-the-rate-limit-payment-setup-that-made-it-safe.md"
+    },
+    {
         "title": "Title: AI-Powered Early Warning: Stopping Trichoderma Outbreaks in Small-Scale Mushroom Farms",
         "slug": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms",
         "author": "Ken Deng",
@@ -12845,6 +12900,17 @@
         "file": "building-a-korea-market-middleware-for-microsoft-qlib.md"
     },
     {
+        "title": "Your Pipeline Is 17.0h Behind: Catching Trade Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-170h-behind-catching-trade-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 08:15:02 +0000",
+        "description": "Your Pipeline Is 17.0h Behind: Catching Trade Sentiment Leads with Pulsebit We recently discovered a striking anomaly: a 24h momentum spike of +0.424 in the ...",
+        "keywords": "sentiment, trade, pulsebit, english, how, api, your, momentum",
+        "generated": "2026-07-21T08:36:53.663208",
+        "file": "your-pipeline-is-170h-behind-catching-trade-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "NeoBrain: как мой open source проект попал в рекомендации Яндекс Алисы",
         "slug": "neobrain-open-source",
         "author": "Vadik",
@@ -13756,6 +13822,17 @@
         "keywords": "your, data, model, industrial, you, edge, cloud, world",
         "generated": "2026-07-06T10:49:20.345662",
         "file": "why-your-industrial-ai-model-fails-at-the-edge-and-how-to-fix-it.md"
+    },
+    {
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "slug": "five-us-tech-giants-hidden-debts-soar-to-165t-on-opaque-ai-funding",
+        "author": "NordStreamYacht",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 03:56:03 +0000",
+        "description": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding Comments URL: https://news.ycom...",
+        "keywords": "five, tech, giants, hidden, debts, soar, opaque, funding",
+        "generated": "2026-07-21T08:36:53.662024",
+        "file": "five-us-tech-giants-hidden-debts-soar-to-165t-on-opaque-ai-funding.md"
     },
     {
         "title": "I Built an Image Compressor That Runs 100% in the Browser",
@@ -14911,6 +14988,17 @@
         "keywords": "market, traders, intelligence, trading, time, can, real, information",
         "generated": "2026-07-10T09:45:24.785049",
         "file": "the-hidden-cost-of-trading-without-real-time-market-intelligence.md"
+    },
+    {
+        "title": "Why Your Sales and Support Training is Failing (and How AI Bridges the Gap)",
+        "slug": "why-your-sales-and-support-training-is-failing-and-how-ai-bridges-the-gap",
+        "author": "Call Flow",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 08:30:05 +0000",
+        "description": "Late last night, I was reviewing data on how much companies spend on traditional employee onboarding. The numbers are staggering, yet the results are often u...",
+        "keywords": "how, you, agent, training, they, your, data, new",
+        "generated": "2026-07-21T08:36:53.668041",
+        "file": "why-your-sales-and-support-training-is-failing-and-how-ai-bridges-the-gap.md"
     },
     {
         "title": "JWT Explained: What It Is, How It Works, and Why You Should Care",
@@ -20864,6 +20952,17 @@
         "file": "building-a-video-metadata-moderation-pipeline-with-python-and-claude-api.md"
     },
     {
+        "title": "Your Pipeline Is 16.7h Behind: Catching Mobile Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-167h-behind-catching-mobile-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 08:27:43 +0000",
+        "description": "Your Pipeline Is 16.7h Behind: Catching Mobile Sentiment Leads with Pulsebit We just uncovered an anomaly: a 24-hour momentum spike of +0.172 in mobile senti...",
+        "keywords": "sentiment, mobile, pulsebit, spanish, your, you, momentum, data",
+        "generated": "2026-07-21T08:36:53.662894",
+        "file": "your-pipeline-is-167h-behind-catching-mobile-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "How I Built a Real-Time Sports Stats Tracker: Over to you, Messi Mbappe leads Golden Boot race for the ages",
         "slug": "how-i-built-a-real-time-sports-stats-tracker-over-to-you-messi-mbappe-leads-golden-boot-race-for-the-ages",
         "author": "Muhammad Bin Nazeer",
@@ -24769,6 +24868,17 @@
         "file": "anthropicopenai-may-be-spending-more-than-1000-for-every-100-you-pay-them.md"
     },
     {
+        "title": "Running Doom on Our Custom CPU and Going Viral",
+        "slug": "running-doom-on-our-custom-cpu-and-going-viral",
+        "author": "arghunter",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 03:54:16 +0000",
+        "description": "Article URL: https://www.armaangomes.com/blogs/doom/ Comments URL: https://news.ycombinator.com/item?id=48987846 Points: 56 # Comments: 10",
+        "keywords": "doom, url, https, com, comments, running, our, custom",
+        "generated": "2026-07-21T08:36:53.662148",
+        "file": "running-doom-on-our-custom-cpu-and-going-viral.md"
+    },
+    {
         "title": "Code Challenge of the Day — Reverse word order (easy)",
         "slug": "code-challenge-of-the-day-reverse-word-order-easy",
         "author": "I Want To Learn Programming",
@@ -25251,6 +25361,17 @@
         "keywords": "charts, frame, chart, month, desktop, mobile, frameui, data",
         "generated": "2026-07-04T13:45:59.770957",
         "file": "i-added-charts-to-frameui-100.md"
+    },
+    {
+        "title": "How Long-Horizon AI Tasks Break Short-Horizon Safety Assumptions",
+        "slug": "how-long-horizon-ai-tasks-break-short-horizon-safety-assumptions",
+        "author": "Basavaraj SH",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 08:30:54 +0000",
+        "description": "Most AI safety work was designed around a single exchange: prompt in, response out. Long-horizon agents - models that run autonomously over minutes, hours, o...",
+        "keywords": "agent, long, horizon, safety, steps, results, failure, model",
+        "generated": "2026-07-21T08:36:53.662557",
+        "file": "how-long-horizon-ai-tasks-break-short-horizon-safety-assumptions.md"
     },
     {
         "title": "Hedy AI: Master Professional Conversations with AI –",
@@ -28135,6 +28256,17 @@
         "file": "freecad-in-the-browser.md"
     },
     {
+        "title": "Sunburst Charts in 2026: Transforming Hierarchical Data into Actionable Business Insights",
+        "slug": "sunburst-charts-in-2026-transforming-hierarchical-data-into-actionable-business-insights",
+        "author": "Yenosh V",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 08:31:21 +0000",
+        "description": "As organizations continue to generate increasingly complex datasets, presenting hierarchical information in a way that is both meaningful and visually engagi...",
+        "keywords": "sunburst, charts, project, business, hierarchy, hierarchical, data, visualization",
+        "generated": "2026-07-21T08:36:53.664723",
+        "file": "sunburst-charts-in-2026-transforming-hierarchical-data-into-actionable-business-insights.md"
+    },
+    {
         "title": "I Tested Every Chinese AI Model So You Don't Have To",
         "slug": "i-tested-every-chinese-ai-model-so-you-dont-have-to",
         "author": "gentlenode",
@@ -28993,6 +29125,17 @@
         "file": "i-almost-gave-up-but-one-console-log-changed-everything.md"
     },
     {
+        "title": "Your Pipeline Is 17.2h Behind: Catching Defence Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-172h-behind-catching-defence-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 08:02:27 +0000",
+        "description": "Your Pipeline Is 17.2h Behind: Catching Defence Sentiment Leads with Pulsebit We recently discovered a notable anomaly in our sentiment data: a 24-hour momen...",
+        "keywords": "defence, sentiment, pulsebit, can, api, your, english, articles",
+        "generated": "2026-07-21T08:36:53.664082",
+        "file": "your-pipeline-is-172h-behind-catching-defence-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "🚀 Day 1/60: Diving Into C++ Power Concepts & Building Tic-Tac-Toe!",
         "slug": "day-160-diving-into-c-power-concepts-building-tic-tac-toe",
         "author": "shiva sai",
@@ -29739,6 +29882,17 @@
         "keywords": "data, romero, stupid, live, neville, football, matches, labels",
         "generated": "2026-07-17T03:16:27.687726",
         "file": "why-romero-labels-neville-stupid-over-criticism-matters-for-sports-data-engineers.md"
+    },
+    {
+        "title": "Linux kernel will support $ORIGIN, sort of",
+        "slug": "linux-kernel-will-support-origin-sort-of",
+        "author": "ingve",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 06:29:22 +0000",
+        "description": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of Comments URL: https://news.ycombinator.com/item?id=48988793 Points: 24 ...",
+        "keywords": "linux, kernel, will, support, origin, sort, url, https",
+        "generated": "2026-07-21T08:36:53.661575",
+        "file": "linux-kernel-will-support-origin-sort-of.md"
     },
     {
         "title": "I Compared 10 AI Automation Platforms So You Don't Have To (2026)",
@@ -31237,6 +31391,17 @@
         "file": "google-veo-ai-video-generator-review-2026-pricing-api-5-revenue-models.md"
     },
     {
+        "title": "Global Trade Dynamics Q3 2026 — Geopolitical & Macroeconomic Analysis",
+        "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 08:33:50 +0000",
+        "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
+        "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
+        "generated": "2026-07-21T08:36:53.666547",
+        "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
+    },
+    {
         "title": "Upload your product docs to BizNode's knowledge base. Your Telegram bot instantly answers customer questions from your own data",
         "slug": "upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-questions-from-your-own-data",
         "author": "shashikanth ramamurthy",
@@ -32550,10 +32715,10 @@
         "slug": "biznodes-semantic-memory-qdrant-makes-your-bot-smarter-over-time-it-remembers-past-conversations-and-answers",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sat, 18 Jul 2026 07:55:41 +0000",
-        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
-        "keywords": "biznode, https, biz, dzit, semantic, memory, qdrant, makes",
-        "generated": "2026-07-18T08:00:40.327837",
+        "published": "Tue, 21 Jul 2026 08:29:15 +0000",
+        "description": "Hey devs, if youve ever been tired of paying monthly subscriptions for AI agents that disappear as soon as your credit card cycle resets or worried about dat...",
+        "keywords": "your, biznode, you, bot, which, data, but, https",
+        "generated": "2026-07-21T08:36:53.668354",
         "file": "biznodes-semantic-memory-qdrant-makes-your-bot-smarter-over-time-it-remembers-past-conversations-and-answers.md"
     },
     {
@@ -33270,6 +33435,17 @@
         "keywords": "react, url, https, com, comments, port, compiler, rust",
         "generated": "2026-06-10T10:13:09.113711",
         "file": "port-react-compiler-to-rust.md"
+    },
+    {
+        "title": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026",
+        "slug": "the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026",
+        "author": "Adeniran Adebayo Adekunle",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 08:24:37 +0000",
+        "description": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026 A major financial transformation is taking place around the world, and many...",
+        "keywords": "millions, traditional, people, silent, wealth, shift, why, looking",
+        "generated": "2026-07-21T08:36:53.666425",
+        "file": "the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026.md"
     },
     {
         "title": "How llm-d Prefix-Cache Routing Made Qwen 7B on EKS 2.3x Faster",
@@ -35855,6 +36031,17 @@
         "file": "tuzaibaby-understanding-the-online-search-trend-and-creator-profile.md"
     },
     {
+        "title": "AI Agents Don’t Fix Bad Architecture. They Accelerate It.",
+        "slug": "ai-agents-dont-fix-bad-architecture-they-accelerate-it",
+        "author": "Luciano0322",
+        "source": "devto_webdev",
+        "published": "Tue, 21 Jul 2026 08:24:48 +0000",
+        "description": "Across my previous articles, I’ve kept coming back to one central argument: Once UI rendering no longer owns the entire data flow, State, Derived State, Effe...",
+        "keywords": "boundaries, system, can, code, not, data, state, async",
+        "generated": "2026-07-21T08:36:53.666243",
+        "file": "ai-agents-dont-fix-bad-architecture-they-accelerate-it.md"
+    },
+    {
         "title": "How I Built a Multi-Agent AI Research Suite with Human-in-the-Loop Validation",
         "slug": "how-i-built-a-multi-agent-ai-research-suite-with-human-in-the-loop-validation",
         "author": "Emmanuel Utibe Ernest",
@@ -36348,6 +36535,17 @@
         "keywords": "you, change, sow, project, what, scope, client, your",
         "generated": "2026-06-12T10:23:24.147677",
         "file": "scope-creep-is-a-paperwork-problem-fix-it-with-a-real-sow.md"
+    },
+    {
+        "title": "We open-sourced a foundation model. For four days, nobody could load it.",
+        "slug": "we-open-sourced-a-foundation-model-for-four-days-nobody-could-load-it",
+        "author": "AI OpenFree",
+        "source": "devto_python",
+        "published": "Tue, 21 Jul 2026 08:08:57 +0000",
+        "description": "We released Aether-7B-5Attn with everything: weights, the full architecture source, the training data recipe down to per-source token counts and mixing weigh...",
+        "keywords": "model, import, code, you, not, nsa, automodelforcausallm, one",
+        "generated": "2026-07-21T08:36:53.663725",
+        "file": "we-open-sourced-a-foundation-model-for-four-days-nobody-could-load-it.md"
     },
     {
         "title": "周日慢读：如果细胞会写日记——FROST家族的记忆传承",
@@ -36876,6 +37074,17 @@
         "keywords": "data, code, websocket, depth, order, subscription, book, connection",
         "generated": "2026-06-22T05:02:45.247682",
         "file": "forex-real-time-api-tutorial-dynamic-addremove-currency-pair-depth-streams-over-one-websocket.md"
+    },
+    {
+        "title": "Garde-fous pour Agents IA : Portes de Validation et Contrôle de l'Impact",
+        "slug": "garde-fous-pour-agents-ia-portes-de-validation-et-contrle-de-limpact",
+        "author": "Antoine Laurent",
+        "source": "devto_ai",
+        "published": "Tue, 21 Jul 2026 08:32:08 +0000",
+        "description": "Il est 3 heures du matin. Votre agent a traité une file de tickets de support pendant que vous dormiez. Un ticket ressemble à une escalade : l’agent rédige u...",
+        "keywords": "les, une, agent, action, approbation, pas, que, des",
+        "generated": "2026-07-21T08:36:53.667297",
+        "file": "garde-fous-pour-agents-ia-portes-de-validation-et-contrle-de-limpact.md"
     },
     {
         "title": "Best 3 Sites To Buy Edu Emails Accounts for Student ...",
