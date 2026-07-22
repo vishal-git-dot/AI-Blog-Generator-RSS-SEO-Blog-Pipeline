@@ -2453,6 +2453,17 @@
         "file": "apple-vs-openai-whats-going-on-with-ai-and-trade-secrets.md"
     },
     {
+        "title": "It's a shame what's happened to radio",
+        "slug": "its-a-shame-whats-happened-to-radio",
+        "author": "sonicrocketman",
+        "source": "hackernews",
+        "published": "Tue, 21 Jul 2026 23:33:31 +0000",
+        "description": "Article URL: https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/ Comments URL: https://news.ycombinator.com/item?id=48999825 Points: 3...",
+        "keywords": "shame, happened, radio, url, https, comments, what, article",
+        "generated": "2026-07-22T03:17:44.187621",
+        "file": "its-a-shame-whats-happened-to-radio.md"
+    },
+    {
         "title": "My AI agent tried to ship a mistake we'd already reverted",
         "slug": "my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted",
         "author": "Mason Delan",
@@ -5817,6 +5828,17 @@
         "file": "deploy-a-decision-tree-classifier-with-fastapi.md"
     },
     {
+        "title": "How We Translate Entire Books with LLMs Without Losing Context",
+        "slug": "how-we-translate-entire-books-with-llms-without-losing-context",
+        "author": "龚旭东",
+        "source": "devto_python",
+        "published": "Wed, 22 Jul 2026 03:02:04 +0000",
+        "description": "Solving the context-window puzzle for book-length AI translation. At LectuLibre, we set out to build a service that translates entire books using large langu...",
+        "keywords": "context, chunks, chunk, overlap, but, book, text, similarity",
+        "generated": "2026-07-22T03:17:44.188517",
+        "file": "how-we-translate-entire-books-with-llms-without-losing-context.md"
+    },
+    {
         "title": "Brand Monster | Brand Monsterの信頼性と技術革新を徹底解説",
         "slug": "brand-monster-brand-monster",
         "author": "brand-monster",
@@ -7202,6 +7224,17 @@
         "keywords": "think, spacex, ipo, overvalued, url, https, com, comments",
         "generated": "2026-06-09T04:03:32.524285",
         "file": "we-think-the-spacex-ipo-is-overvalued.md"
+    },
+    {
+        "title": "Optimizing RAG at Scale and It…",
+        "slug": "optimizing-rag-at-scale-and-it",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Wed, 22 Jul 2026 03:05:43 +0000",
+        "description": "Originally published at norvik.tech Introduction Deep dive into optimizing RAG at scale with chunking, retrieval, and Bayesian search techniques. Insights fo...",
+        "keywords": "rag, data, optimization, retrieval, user, can, optimizing, chunking",
+        "generated": "2026-07-22T03:17:44.190905",
+        "file": "optimizing-rag-at-scale-and-it.md"
     },
     {
         "title": "Bloomberg Data API: Extract Structured JSON in 2026",
@@ -8975,6 +9008,17 @@
         "file": "amazon-bedrock-agentcore-web-search-the-production-guide.md"
     },
     {
+        "title": "Chair Rental Art Exhibitions Kuwait City Mall — دليل شامل لاختيار وتأجير الكراسي والطاولات للمعارض الفنية في مدينة الكويت مول: ل",
+        "slug": "chair-rental-art-exhibitions-kuwait-city-mall",
+        "author": "ismail",
+        "source": "devto_webdev",
+        "published": "Wed, 22 Jul 2026 03:09:26 +0000",
+        "description": "شفت في مقال فريقنا الجديد طرق مبتكرة لتأجير أثاث راقي للمعارض الفنية بالكويت مول، ونصائح عملية فعلاً! دليل شامل لاختيار وتأجير الكراسي والطاولات للمعارض الفن...",
+        "keywords": "kuwait, chair, rental, art, exhibitions, city, mall, https",
+        "generated": "2026-07-22T03:17:44.189882",
+        "file": "chair-rental-art-exhibitions-kuwait-city-mall.md"
+    },
+    {
         "title": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
         "slug": "us-government-reportedly-allowing-federal-data-center-rules-to-expire",
         "author": "01-_-",
@@ -10216,6 +10260,17 @@
         "keywords": "model, coordination, agent, gap, huang, layer, technology, langgraph",
         "generated": "2026-06-21T09:58:05.295333",
         "file": "ai-technology-in-2026-why-the-coordination-gap-beats-adoption.md"
+    },
+    {
+        "title": "The Model Didn't Change. A Parameter Disappeared. Thousands of Pipelines Broke.",
+        "slug": "the-model-didnt-change-a-parameter-disappeared-thousands-of-pipelines-broke",
+        "author": "Vinicius Fagundes",
+        "source": "devto_python",
+        "published": "Wed, 22 Jul 2026 03:00:00 +0000",
+        "description": "An LLM vendor dropped two sampling parameters this month. Every hard-coded call that passed them started throwing errors. The model was fine. The weights wer...",
+        "keywords": "one, model, vendor, you, your, call, not, llm",
+        "generated": "2026-07-22T03:17:44.188842",
+        "file": "the-model-didnt-change-a-parameter-disappeared-thousands-of-pipelines-broke.md"
     },
     {
         "title": "How to monitor your Django app with uptime checks and heartbeat monitoring (free)",
@@ -12669,6 +12724,17 @@
         "file": "level-up-your-dev-presence-build-a-killer-portfolio-without-spending-a-dime.md"
     },
     {
+        "title": "Unlock Exponential Growth: How AI Can Revolutionize Your Nigerian Startup – And Why It's Time to Embrace the Hustle",
+        "slug": "unlock-exponential-growth-how-ai-can-revolutionize-your-nigerian-startup-and-why-its-time-to-embrace-the-hustle",
+        "author": "David García",
+        "source": "devto_ai",
+        "published": "Wed, 22 Jul 2026 03:01:03 +0000",
+        "description": "Let’s be honest. Building a successful startup in Nigeria, or across Africa, isn’t just about having a great idea. It’s about relentless hustle, navigating c...",
+        "keywords": "your, can, you, building, time, let, customer, even",
+        "generated": "2026-07-22T03:17:44.193808",
+        "file": "unlock-exponential-growth-how-ai-can-revolutionize-your-nigerian-startup-and-why-its-time-to-embrace-the-hustle.md"
+    },
+    {
         "title": "OWC MacDrive v12.0.0.82 for Windows",
         "slug": "owc-macdrive-v120082-for-windows",
         "author": "Will jack",
@@ -14682,6 +14748,17 @@
         "file": "the-unbearable-cheapness-of-open-weight-models.md"
     },
     {
+        "title": "LG to Ban Residential Proxies from Smart TV Apps",
+        "slug": "lg-to-ban-residential-proxies-from-smart-tv-apps",
+        "author": "DemiGuru",
+        "source": "hackernews",
+        "published": "Wed, 22 Jul 2026 01:52:31 +0000",
+        "description": "Article URL: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/ Comments URL: https://news.ycombinator.com/item?id=4900086...",
+        "keywords": "ban, residential, proxies, smart, apps, url, https, com",
+        "generated": "2026-07-22T03:17:44.187094",
+        "file": "lg-to-ban-residential-proxies-from-smart-tv-apps.md"
+    },
+    {
         "title": "I Built 100+ Free Browser-Based Tools — Here's What I Learned",
         "slug": "i-built-100-free-browser-based-tools-heres-what-i-learned",
         "author": "Marjan Marjan",
@@ -15978,6 +16055,17 @@
         "keywords": "devto, hub, measuring, operational, output, high, performance, teams",
         "generated": "2026-06-07T19:40:41.523897",
         "file": "measuring-operational-output-in-high-performance-teams-255.md"
+    },
+    {
+        "title": "How an AI Anime Is Created",
+        "slug": "how-an-ai-anime-is-created",
+        "author": "JimsonYang",
+        "source": "hackernews",
+        "published": "Wed, 22 Jul 2026 00:53:00 +0000",
+        "description": "Article URL: https://www.aventos.dev/our-process?view=blog Comments URL: https://news.ycombinator.com/item?id=49000429 Points: 18 # Comments: 17",
+        "keywords": "url, https, comments, how, anime, created, article, www",
+        "generated": "2026-07-22T03:17:44.187380",
+        "file": "how-an-ai-anime-is-created.md"
     },
     {
         "title": "Openrouter Fusion API",
@@ -22129,6 +22217,17 @@
         "file": "astrophysics-ai-with-python-the-ultimate-guide-to-denoising-telescope-images.md"
     },
     {
+        "title": "Buy Github Accounts",
+        "slug": "buy-github-accounts",
+        "author": "Darren Walker",
+        "source": "devto_ai",
+        "published": "Wed, 22 Jul 2026 03:02:35 +0000",
+        "description": "Buy GitHub Accounts If you want more information, just contact us now. 24 Hours Reply/Contact ➤Email: pvaboost@gmail.com ➤WhatsApp: +1 (209) 740-8969 ➤Telegr...",
+        "keywords": "account, github, accounts, you, repositories, buy, buying, can",
+        "generated": "2026-07-22T03:17:44.192822",
+        "file": "buy-github-accounts.md"
+    },
+    {
         "title": "Craft Killer Blog Posts: Your SEO Friendly Guide",
         "slug": "craft-killer-blog-posts-your-seo-friendly-guide",
         "author": "BlogMe.io",
@@ -23416,6 +23515,17 @@
         "file": "the-minimum-viable-unit-of-saleable-software.md"
     },
     {
+        "title": "A flaky test exposed a Redis client use-after-free",
+        "slug": "a-flaky-test-exposed-a-redis-client-use-after-free",
+        "author": "DrNemski",
+        "source": "hackernews",
+        "published": "Wed, 22 Jul 2026 00:27:35 +0000",
+        "description": "Article URL: https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/ Comments URL: https://news.ycombinator.com/item?id=49000250 Point...",
+        "keywords": "flaky, test, exposed, redis, use, after, free, url",
+        "generated": "2026-07-22T03:17:44.187504",
+        "file": "a-flaky-test-exposed-a-redis-client-use-after-free.md"
+    },
+    {
         "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
         "slug": "i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination",
         "author": "theanonymousone",
@@ -24659,6 +24769,17 @@
         "file": "documentdb-a-mongodb-compatible-open-source-database.md"
     },
     {
+        "title": "Seamless Open-Weight LLM Integration: A Practical Guide to API Usage",
+        "slug": "seamless-open-weight-llm-integration-a-practical-guide-to-api-usage",
+        "author": "NovaStack",
+        "source": "devto_ai",
+        "published": "Wed, 22 Jul 2026 03:01:32 +0000",
+        "description": "Seamless Open-Weight LLM Integration: A Practical Guide to API Usage The landscape of artificial intelligence is shifting. While closed-source models dominat...",
+        "keywords": "open, weight, you, api, models, your, const, model",
+        "generated": "2026-07-22T03:17:44.193363",
+        "file": "seamless-open-weight-llm-integration-a-practical-guide-to-api-usage.md"
+    },
+    {
         "title": "Why I Switched from Ponytail to Guardsman for AI Coding",
         "slug": "why-i-switched-from-ponytail-to-guardsman-for-ai-coding",
         "author": "Antoinette C. Lennox",
@@ -24723,6 +24844,17 @@
         "keywords": "what, here, not, someone, but, always, sure, you",
         "generated": "2026-06-21T04:54:47.257297",
         "file": "ai-intern-day-google-it-then-pretend-you-knew.md"
+    },
+    {
+        "title": "Capital Hospitality Villas Preparation — خدمة ضيافة للمناسبات في فلل العاصمة: تجهيزات فاخرة تليق بضيوفك",
+        "slug": "capital-hospitality-villas-preparation",
+        "author": "ismail",
+        "source": "devto_webdev",
+        "published": "Wed, 22 Jul 2026 03:10:32 +0000",
+        "description": "شفت كيف النوبي يهتم بأدق التفاصيل في تجهيز فلل الضيافة بالعاصمة، بصراحة شغلهم احترافي جدًا ويخلّي أي مناسبة ذكرى لا تُنسى. خدمة ضيافة للمناسبات في فلل العاصم...",
+        "keywords": "capital, hospitality, villas, preparation, https, chairs, kuwait, com",
+        "generated": "2026-07-22T03:17:44.189694",
+        "file": "capital-hospitality-villas-preparation.md"
     },
     {
         "title": "I Rebuilt Slack's Message Box With Plain HTML, CSS and JS",
@@ -25372,6 +25504,17 @@
         "keywords": "tweet, you, video, layer, tweets, not, agent, your",
         "generated": "2026-06-29T04:27:36.040395",
         "file": "the-best-ai-tool-to-turn-tweets-into-videos-in-2026-the-full-pipeline.md"
+    },
+    {
+        "title": "I Scraped 100 Formula 1 Matches — Here Is What I Found: Why was Hamilton penalised but not Leclerc? F1 Q&A",
+        "slug": "i-scraped-100-formula-1-matches-here-is-what-i-found-why-was-hamilton-penalised-but-not-leclerc-f1-qa",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_webdev",
+        "published": "Wed, 22 Jul 2026 03:07:27 +0000",
+        "description": "I Scraped 100 Formula 1 Matches — Here Is What I Found: Why was Hamilton penalised but not Leclerc? F1 Q&A TL;DR : One note before the article: I dont have v...",
+        "keywords": "lap, formula, time, hamilton, leclerc, laps, not, data",
+        "generated": "2026-07-22T03:17:44.190468",
+        "file": "i-scraped-100-formula-1-matches-here-is-what-i-found-why-was-hamilton-penalised-but-not-leclerc-f1-qa.md"
     },
     {
         "title": "British Columbia, Time Zones, and Postgres",
@@ -28311,6 +28454,17 @@
         "file": "securely-connecting-minio-with-python-client-using-tls-and-iam-policies.md"
     },
     {
+        "title": "I Tried to Replace My Image Workflow with an AI Photo Generator. Three Times It Failed. Once It Didn't.",
+        "slug": "i-tried-to-replace-my-image-workflow-with-an-ai-photo-generator-three-times-it-failed-once-it-didnt",
+        "author": "sophie bella",
+        "source": "devto_ai",
+        "published": "Wed, 22 Jul 2026 03:03:02 +0000",
+        "description": "It was a Thursday evening. The kind where the sky outside my window goes from orange to gray before I notice, and I'm still sitting at my desk — the one wedg...",
+        "keywords": "prompt, you, had, not, images, project, but, something",
+        "generated": "2026-07-22T03:17:44.191940",
+        "file": "i-tried-to-replace-my-image-workflow-with-an-ai-photo-generator-three-times-it-failed-once-it-didnt.md"
+    },
+    {
         "title": "Why Your AI App Costs Too Much (And How I Fixed It)",
         "slug": "why-your-ai-app-costs-too-much-and-how-i-fixed-it",
         "author": "zhongqiyue",
@@ -29664,6 +29818,17 @@
         "file": "agent-mistakes-dont-fail-alone-they-compound.md"
     },
     {
+        "title": "Analyzing Cricket Data: Cricket quiz: Can you name all eight teams in The Hundred? — What the Numbers Say",
+        "slug": "analyzing-cricket-data-cricket-quiz-can-you-name-all-eight-teams-in-the-hundred-what-the-numbers-say",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_webdev",
+        "published": "Wed, 22 Jul 2026 03:08:07 +0000",
+        "description": "Analyzing Cricket Data: Cricket quiz: Can you name all eight teams in The Hundred? — What the Numbers Say TL;DR : Eight teams, six summers, and one question ...",
+        "keywords": "cricket, data, name, all, teams, get, matches, eight",
+        "generated": "2026-07-22T03:17:44.190196",
+        "file": "analyzing-cricket-data-cricket-quiz-can-you-name-all-eight-teams-in-the-hundred-what-the-numbers-say.md"
+    },
+    {
         "title": "Building Recommender Systems with LLM",
         "slug": "building-recommender-systems-with-llm",
         "author": "shashank ms",
@@ -29915,6 +30080,17 @@
         "keywords": "react, error, permission, browser, hook, usedownload, usenotifications, status",
         "generated": "2026-07-21T19:39:11.837505",
         "file": "simplify-browser-interactions-in-react-with-usedownload-and-usenotifications.md"
+    },
+    {
+        "title": "Ten Steps Towards Happiness (2015)",
+        "slug": "ten-steps-towards-happiness-2015",
+        "author": "emerongi",
+        "source": "hackernews",
+        "published": "Wed, 22 Jul 2026 01:17:26 +0000",
+        "description": "Article URL: http://hintjens.com/blog:99 Comments URL: https://news.ycombinator.com/item?id=49000600 Points: 30 # Comments: 12",
+        "keywords": "url, com, comments, ten, steps, towards, happiness, article",
+        "generated": "2026-07-22T03:17:44.187256",
+        "file": "ten-steps-towards-happiness-2015.md"
     },
     {
         "title": "NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes",
@@ -33107,6 +33283,17 @@
         "file": "common-mistakes-when-buying-verified-shopify-accounts-2026.md"
     },
     {
+        "title": "Small Model SWE‑bench: What Happens When You Push Tiny Models Into Full Task Pipelines",
+        "slug": "small-model-swebench-what-happens-when-you-push-tiny-models-into-full-task-pipelines",
+        "author": "Agentic Drifter",
+        "source": "devto_python",
+        "published": "Wed, 22 Jul 2026 02:52:13 +0000",
+        "description": "I ran SWE‑bench on a small LLM to map failure modes and understand how tiny models behave under full task‑grounded pressure. This experiment tested whether a...",
+        "keywords": "model, pipeline, small, multi, evaluator, reasoning, prompt, swe",
+        "generated": "2026-07-22T03:17:44.189131",
+        "file": "small-model-swebench-what-happens-when-you-push-tiny-models-into-full-task-pipelines.md"
+    },
+    {
         "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "slug": "setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide",
         "author": "ykev",
@@ -33281,6 +33468,17 @@
         "keywords": "hackers, shoveled, snow, company, rewarded, network, admin, access",
         "generated": "2026-07-03T14:21:09.817297",
         "file": "hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access.md"
+    },
+    {
+        "title": "How I Built a Real-Time Football Stats Tracker: Chelsea sign £117m Rogers what will he bring?",
+        "slug": "how-i-built-a-real-time-football-stats-tracker-chelsea-sign-117m-rogers-what-will-he-bring",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Wed, 22 Jul 2026 03:07:13 +0000",
+        "description": "How I Built a Real-Time Football Stats Tracker: Chelsea sign £117m Rogers what will he bring? TL;DR : Chelsea have agreed a £117m deal for Morgan Rogers, mak...",
+        "keywords": "football, chelsea, rogers, data, live, time, matches, real",
+        "generated": "2026-07-22T03:17:44.187910",
+        "file": "how-i-built-a-real-time-football-stats-tracker-chelsea-sign-117m-rogers-what-will-he-bring.md"
     },
     {
         "title": "Building a Simple Algorithmic Trading Bot in Python: From Data to Signals",
@@ -35162,6 +35360,17 @@
         "keywords": "scored, settled, platform, agent, nau, what, metric, real",
         "generated": "2026-07-01T20:03:10.703553",
         "file": "scored-vs-settled-the-metric-that-matters-for-ai-agent-platforms.md"
+    },
+    {
+        "title": "Your AI's EDA Looks Right. Here's How to Tell When It Isn't.",
+        "slug": "your-ais-eda-looks-right-heres-how-to-tell-when-it-isnt",
+        "author": "Jason Lau",
+        "source": "devto_python",
+        "published": "Wed, 22 Jul 2026 02:51:22 +0000",
+        "description": "Ask an AI coding assistant to run exploratory data analysis on a new dataset and it will produce, in seconds, something that looks like a competent analyst's...",
+        "keywords": "not, you, before, output, what, nothing, looks, one",
+        "generated": "2026-07-22T03:17:44.189560",
+        "file": "your-ais-eda-looks-right-heres-how-to-tell-when-it-isnt.md"
     },
     {
         "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
@@ -37206,6 +37415,17 @@
         "keywords": "rebirth, home, server, url, https, comments, death, article",
         "generated": "2026-07-19T13:36:01.812002",
         "file": "the-death-and-rebirth-of-my-home-server.md"
+    },
+    {
+        "title": "OpenAI's Agent Escaped Containment and Hacked Hugging Face — This Changes the Safety Conversation",
+        "slug": "openais-agent-escaped-containment-and-hacked-hugging-face-this-changes-the-safety-conversation",
+        "author": "AI Pulse",
+        "source": "devto_ai",
+        "published": "Wed, 22 Jul 2026 03:05:38 +0000",
+        "description": "OpenAI's Agent Escaped Containment and Hacked Hugging Face — This Changes the Safety Conversation July 22, 2026 Last week, an AI agent escaped from OpenAI's ...",
+        "keywords": "models, open, but, real, weight, openai, they, you",
+        "generated": "2026-07-22T03:17:44.191423",
+        "file": "openais-agent-escaped-containment-and-hacked-hugging-face-this-changes-the-safety-conversation.md"
     },
     {
         "title": "The Productivity Stack I Actually Use as a Tech Blogger (After Testing 20+ Tools)",

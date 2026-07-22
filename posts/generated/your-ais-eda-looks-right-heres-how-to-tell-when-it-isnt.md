@@ -1,0 +1,34 @@
+---
+title: "Your AI's EDA Looks Right. Here's How to Tell When It Isn't."
+slug: "your-ais-eda-looks-right-heres-how-to-tell-when-it-isnt"
+author: "Jason Lau"
+source: "devto_python"
+published: "Wed, 22 Jul 2026 02:51:22 +0000"
+description: "Ask an AI coding assistant to run exploratory data analysis on a new dataset and it will produce, in seconds, something that looks like a competent analyst's..."
+keywords: "not, you, before, output, what, nothing, looks, one"
+generated: "2026-07-22T03:17:44.189560"
+---
+
+# Your AI's EDA Looks Right. Here's How to Tell When It Isn't.
+
+## Overview
+
+Ask an AI coding assistant to run exploratory data analysis on a new dataset and it will produce, in seconds, something that looks like a competent analyst's first pass: .describe() , a correlation matrix, some distribution plots, a groupby or two, and a paragraph of narrative summarizing what it found. The problem is not that this output is wrong. Often it's correct. The problem is that it looks identical whether it's correct or not — and the failure modes that make it wrong are exactly the ones a quick skim won't catch, because nothing throws an error and nothing looks incomplete. Here are six patterns that show up constantly in AI-generated EDA, each one silently producing output that reads as clean. 1. Profiling before type conversion # The AI commonly generates this order — the problem is invisible in the output print ( df . describe ()) # order_date excluded — it's still a string df [ " order_date " ] = pd . to_datetime ( df [ " order_date " ]) # too late .describe() silently drops non-numeric columns. If a date column is still sitting as a string object when you profile, it just... isn't in the summary. Nothing errors. You get a clean-looking table with one fewer column than you meant to check, and no indication anything was skipped. The fix is ordering, not code complexity : type conversions belong in the very first block, before any statistic is computed. 2. Reaching for .mean() on a right-skewed column AI assistants default to .mean() for basically every "typical value" question, because it's the statistically obvious first move. For revenue, spend, session duration — anything with a long right tail — that default quietly overstates what's typical: df . groupby ( " channel " )[ " revenue " ]. mean () # a handful of large B2B orders pull this up A groupby that reports mean without also reporting median, count, and std produces a number that's technically correct and practically misleading. The fix is cheap — always pull all four together — but it requires knowing to ask, since the AI won't flag its own choice of statistic as a judgment call. 3. .dropna() before you've profiled the missingness df = df . dropna () # applied early, "to make analysis cleaner" # profiling happens on what's left Profiling exists to characterize how and where values are missing — whether it's random, or concentrated in a specific segment, or correlated with another column. Drop the rows first and that pattern is gone before you ever looked at it. The output afterward looks complete. It's complete for a dataset that no longer represents the one you started with. 4. The silent subset filter This is the one most likely to change your conclusions without you noticing: df = df [ df [ " status " ] == " delivered " ] # ← added mid-script, nothing downstream is labeled Every correlation, every groupby, every chart that runs after this line applies to delivered orders only — but nothing in the output says so. A stakeholder reading "42% of orders come from the enterprise channel" has no way to know that's 42% of delivered orders , unless someone happened to scroll up to a filter line with no comment attached to it. 5. Narrative summaries that quietly assert causation AI-generated EDA often ends with a paragraph of plain-language commentary. That commentary is where causal language creeps in — "unit price drives revenue," "the strong correlation confirms X" — from analysis that only ever established correlation. The numbers above the paragraph are usually fine. The prose interpreting them is where scope creep happens, because narrative generation and statistical rigor are not the same task, even when the same model produces both in one response. Read the numbers. Treat the narrative paragraph as a first draft to revise, not a finding to cite. 6. Treating "no issues found" as "the data is clean" If you ask an AI to check for data quality issues and it reports none, that's not confirmation. It means the checks it ran didn't find anything — which says nothing about the checks it didn't run. Cardinality on string columns, structural missingness patterns, multivariate outliers: these don't show up unless something specifically goes looking for them. All six patterns share the same shape: the output looks complete, and completeness is exactly what a quick review checks for. Why "just review the code" isn't quite the answer Reviewing AI-generated code before running it catches some of this — type conversions before statistics, mean vs. median, subset filters — because those are visible in the script itself. What code review alone won't catch is #5 and #6: causal language buried in a narrative summary, and the false confidence of a clean-looking "no issues found." Those require reading the output , not just the code, and holding it against what you already know about the domain. A defensible EDA — AI-assisted or not — means you can answer yes to all of: Type conversions happened before any statistic was computed Missingness was profiled before anything was dropped Every group summary includes count and spread, not just mean No subset filter changed scope without being documented Causal language has been replaced with correlational language where causation wasn't established "No findings" was treated as "the checks I ran found nothing," not as "the data is clean" None of this is really about AI. It's the same discipline that's always separated a defensible analysis from a plausible-looking one. What's changed is the speed at which plausible-looking output gets produced — which means the checklist matters more, not less. This is the framework behind SophiArch's Exploratory Data Analysis course , including a lab where you're handed a full AI-generated EDA notebook and asked to find exactly these kinds of issues before they reach a stakeholder.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/jasonl888/your-ais-eda-looks-right-heres-how-to-tell-when-it-isnt-4826
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
