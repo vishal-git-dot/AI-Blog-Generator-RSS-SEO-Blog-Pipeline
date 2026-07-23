@@ -4,16 +4,16 @@ slug: "cruller-buns-zig-runtime-continued-on-zig-016"
 author: "Erenay09"
 source: "hackernews"
 published: "Thu, 23 Jul 2026 05:40:20 +0000"
-description: "Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734 Comments URL: https://news.ycombinator.com/item?id=49017344 Points: 22..."
+description: "Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734 Comments URL: https://news.ycombinator.com/item?id=49017344 Points: 11..."
 keywords: "zig, cruller, runtime, continued, url, https, comments, bun"
-generated: "2026-07-23T08:38:07.280338"
+generated: "2026-07-23T14:15:19.710795"
 ---
 
 # Cruller: Bun's Zig Runtime, Continued on Zig 0.16
 
 ## Overview
 
-Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734 Comments URL: https://news.ycombinator.com/item?id=49017344 Points: 22 # Comments: 5
+Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734 Comments URL: https://news.ycombinator.com/item?id=49017344 Points: 112 # Comments: 66
 
 ## Key Insights
 
