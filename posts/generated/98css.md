@@ -4,16 +4,16 @@ slug: "98css"
 author: "lopespm"
 source: "hackernews"
 published: "Thu, 23 Jul 2026 22:30:29 +0000"
-description: "Article URL: https://jdan.github.io/98.css/#status-bar Comments URL: https://news.ycombinator.com/item?id=49028927 Points: 281 # Comments: 58"
+description: "Article URL: https://jdan.github.io/98.css/#status-bar Comments URL: https://news.ycombinator.com/item?id=49028927 Points: 448 # Comments: 106"
 keywords: "css, url, https, comments, article, jdan, github, status"
-generated: "2026-07-24T03:18:16.299800"
+generated: "2026-07-24T08:34:24.199587"
 ---
 
 # 98.css
 
 ## Overview
 
-Article URL: https://jdan.github.io/98.css/#status-bar Comments URL: https://news.ycombinator.com/item?id=49028927 Points: 281 # Comments: 58
+Article URL: https://jdan.github.io/98.css/#status-bar Comments URL: https://news.ycombinator.com/item?id=49028927 Points: 448 # Comments: 106
 
 ## Key Insights
 

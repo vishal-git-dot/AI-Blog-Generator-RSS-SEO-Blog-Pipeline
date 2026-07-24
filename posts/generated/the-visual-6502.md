@@ -4,16 +4,16 @@ slug: "the-visual-6502"
 author: "infiniteregrets"
 source: "hackernews"
 published: "Thu, 23 Jul 2026 23:36:42 +0000"
-description: "Article URL: http://visual6502.org/JSSim/index.html Comments URL: https://news.ycombinator.com/item?id=49029538 Points: 61 # Comments: 16"
+description: "Article URL: http://visual6502.org/JSSim/index.html Comments URL: https://news.ycombinator.com/item?id=49029538 Points: 89 # Comments: 22"
 keywords: "url, comments, visual, article, http, org, jssim, index"
-generated: "2026-07-24T03:18:16.299515"
+generated: "2026-07-24T08:34:24.199486"
 ---
 
 # The Visual 6502
 
 ## Overview
 
-Article URL: http://visual6502.org/JSSim/index.html Comments URL: https://news.ycombinator.com/item?id=49029538 Points: 61 # Comments: 16
+Article URL: http://visual6502.org/JSSim/index.html Comments URL: https://news.ycombinator.com/item?id=49029538 Points: 89 # Comments: 22
 
 ## Key Insights
 

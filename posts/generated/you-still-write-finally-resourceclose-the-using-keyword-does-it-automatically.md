@@ -1,0 +1,34 @@
+---
+title: "You still write `finally { resource.close() }`. The `using` keyword does it automatically."
+slug: "you-still-write-finally-resourceclose-the-using-keyword-does-it-automatically"
+author: "Parsa Jiravand"
+source: "devto_webdev"
+published: "Fri, 24 Jul 2026 08:33:28 +0000"
+description: "You've written this pattern — or something close to it — many times: const timer = setTimeout ( flush , 5000 ); try { await doWork (); } finally { clearTimeo..."
+keywords: "using, await, you, finally, resource, symbol, function, cleanup"
+generated: "2026-07-24T08:34:24.202173"
+---
+
+# You still write `finally { resource.close() }`. The `using` keyword does it automatically.
+
+## Overview
+
+You've written this pattern — or something close to it — many times: const timer = setTimeout ( flush , 5000 ); try { await doWork (); } finally { clearTimeout ( timer ); } The cleanup is real and necessary. But it's twelve lines away from the allocation, and every time the function grows — another early return, another throw path — you have to remember to extend the finally block. Miss one and you've leaked a timer. TypeScript 5.2 (and TC39's Explicit Resource Management proposal) added a using declaration that ties cleanup directly to the variable binding. The scope exits → the resource disposes. No finally required. What using does using works like const with one difference: when the block it was declared in exits — normally, via early return, or via an exception — it calls [Symbol.dispose]() on the value automatically. class ManagedTimer { # id : ReturnType < typeof setTimeout > ; constructor ( fn : () => void , ms : number ) { this . # id = setTimeout ( fn , ms ); } [ Symbol . dispose ]() { clearTimeout ( this . # id ); } } async function doWork () { using _timer = new ManagedTimer ( flush , 5000 ); await processItems (); // clearTimeout is called here, regardless of whether // processItems() returned normally or threw } The cleanup is now written at the allocation site. Anyone reading the function sees the timer and its lifetime in the same line. No finally block to track, no hidden path that forgets to clean up. 🎮 Try it yourself ▶️ Open the interactive playground → Runs right in your browser — poke at it and watch the concept react live. Async teardown with await using If cleanup is asynchronous — closing a database connection, flushing a write buffer, calling an HTTP endpoint — you need await using instead: class DbConnection { async [ Symbol . asyncDispose ]() { await this . pool . end (); } } async function runQuery ( sql : string ) { await using conn = await openConnection (); return conn . execute ( sql ); // conn.pool.end() is awaited automatically when this returns } await using calls [Symbol.asyncDispose]() and awaits it before the surrounding async function resolves. The caller never sees a half-torn-down resource. Making your own disposables Any object with [Symbol.dispose]() (or [Symbol.asyncDispose]() ) is a disposable. That includes objects you write yourself, but also wrappers you can add to things you don't own: function managedListener < K extends keyof HTMLElementEventMap > ( target : HTMLElement , type : K , handler : ( e : HTMLElementEventMap [ K ]) => void ): Disposable { target . addEventListener ( type , handler ); return { [ Symbol . dispose ]() { target . removeEventListener ( type , handler ); }, }; } function trackHover ( el : HTMLElement ) { using _enter = managedListener ( el , ' mouseenter ' , onEnter ); using _leave = managedListener ( el , ' mouseleave ' , onLeave ); // both listeners are removed when this scope exits } Multiple using declarations in the same scope dispose in reverse order — last declared, first cleaned up — which mirrors how stack unwinding works and keeps teardown safe when resources depend on each other. DisposableStack for dynamic resource groups When the number of resources isn't known at compile time, DisposableStack (and its async counterpart AsyncDisposableStack ) lets you register them at runtime: async function processAll ( paths : string []) { await using stack = new AsyncDisposableStack (); const handles = await Promise . all ( paths . map ( p => stack . use ( openFile ( p ))) ); await transformAll ( handles ); // every file handle is closed in reverse order here } stack.use(resource) returns the resource and registers it for disposal. When the stack itself disposes, everything registered to it disposes in reverse order. You get deterministic, ordered cleanup without writing a single finally . TypeScript and browser support TypeScript added using and await using in version 5.2 (August 2023). To get the types for Symbol.dispose , Symbol.asyncDispose , DisposableStack , and AsyncDisposableStack , add "ES2026" to the lib array in your tsconfig.json : { "compilerOptions" : { "lib" : [ "DOM" , "ES2026" ], "target" : "ES2022" } } Note that lib controls which type definitions are available. The compiled output still targets whatever target is set to — TypeScript will emit try/finally for older targets, so the runtime behavior is correct even in environments that don't natively support using yet. Natively, using shipped in Chrome 134 (March 2025), Firefox 134 , and Safari 18.2 . Node.js 22 supports it behind a flag; Node.js 24 enables it by default. 🧠 Test yourself Think it clicked? Take the 6-question quiz → Instant feedback, a hint on every question, and an explanation for each answer — right or wrong. The takeaway Search your codebase for finally { blocks. The ones that exist only to release a resource — clear a timeout, remove a listener, close a connection — are candidates for using . Each one can move its cleanup from a finally block to the line where the resource is allocated, making the lifetime visible at a glance and eliminating a whole class of cleanup bugs. using doesn't replace try/catch for error handling. It replaces the finally that does nothing but clean up. That's a smaller scope, but it's the scope you write wrong the most often. Thanks for reading! Let's stay connected: ⭐ GitHub — follow me and star the projects: github.com/parsajiravand 📸 Instagram — frontend best practices, daily: @bestpractice___ 💼 LinkedIn — linkedin.com/in/parsa-jiravand ✉️ Email (work & contract inquiries): bestpractice2026@gmail.com
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/parsajiravand/you-still-write-finally-resourceclose-the-using-keyword-does-it-automatically-4fb5
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
