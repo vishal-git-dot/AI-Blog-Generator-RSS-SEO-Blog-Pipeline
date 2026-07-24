@@ -4421,6 +4421,17 @@
         "file": "us-battery-manufacturing-output-continues-to-break-records.md"
     },
     {
+        "title": "Google News API in 2026: Pull Headlines into JSON with Python, n8n, or MCP",
+        "slug": "google-news-api-in-2026-pull-headlines-into-json-with-python-n8n-or-mcp",
+        "author": "Truffle Pig Data",
+        "source": "devto_python",
+        "published": "Fri, 24 Jul 2026 19:18:17 +0000",
+        "description": "Google News is the widest free news aggregation layer on the web, and it has no official door for developers. I keep needing it for monitoring jobs: a brand ...",
+        "keywords": "news, google, api, you, run, page, json, apify",
+        "generated": "2026-07-24T19:37:11.865001",
+        "file": "google-news-api-in-2026-pull-headlines-into-json-with-python-n8n-or-mcp.md"
+    },
+    {
         "title": "ayatsaadati — Complete Guide",
         "slug": "ayatsaadati-complete-guide",
         "author": "Ayat Saadat",
@@ -12284,6 +12295,17 @@
         "file": "onesafe-240-for-macos-secure-password-manager-and-digital-vault.md"
     },
     {
+        "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+        "slug": "bgp-origin-attribute-manipulation-and-its-impact-on-the-internet",
+        "author": "sbulaev",
+        "source": "hackernews",
+        "published": "Fri, 24 Jul 2026 18:07:08 +0000",
+        "description": "Article URL: https://blog.cloudflare.com/bgp-origin-attribute/ Comments URL: https://news.ycombinator.com/item?id=49039490 Points: 12 # Comments: 0",
+        "keywords": "bgp, origin, attribute, url, https, com, comments, manipulation",
+        "generated": "2026-07-24T19:37:11.862939",
+        "file": "bgp-origin-attribute-manipulation-and-its-impact-on-the-internet.md"
+    },
+    {
         "title": "Web Development in Vancouver: Why We Chose Next.js Over WordPress for Client Sites",
         "slug": "web-development-in-vancouver-why-we-chose-nextjs-over-wordpress-for-client-sites",
         "author": "Dhiraj Chatpar",
@@ -12447,6 +12469,17 @@
         "keywords": "agent, you, shell, curl, decision, what, policy, would",
         "generated": "2026-06-11T20:28:40.307758",
         "file": "agent-sentry-a-400-line-local-sidecar-that-watches-what-your-ai-coding-agent-is-about-to-do.md"
+    },
+    {
+        "title": "Character Consistency Across 24 Pages of a Generated Picture Book",
+        "slug": "character-consistency-across-24-pages-of-a-generated-picture-book",
+        "author": "clarajbennett",
+        "source": "devto_python",
+        "published": "Fri, 24 Jul 2026 19:36:08 +0000",
+        "description": "Generating one illustration of a child from a reference photo is easy now. Generating twenty-four of them — same child, same style, different scenes, no drif...",
+        "keywords": "page, same, style, across, book, one, drift, consistency",
+        "generated": "2026-07-24T19:37:11.864008",
+        "file": "character-consistency-across-24-pages-of-a-generated-picture-book.md"
     },
     {
         "title": "Six Lines, Zero API Calls: Running LLMs On-Device in React Native",
@@ -14306,6 +14339,17 @@
         "keywords": "open, bug, bounty, scanner, xss, cors, crlf, redirect",
         "generated": "2026-06-06T19:40:03.724780",
         "file": "i-built-an-open-source-bug-bounty-scanner-automated-xss-cors-crlf-redirects-and-more.md"
+    },
+    {
+        "title": "AI Can Read a Contract in Seconds. Should You Trust It?",
+        "slug": "ai-can-read-a-contract-in-seconds-should-you-trust-it",
+        "author": "James Glaser",
+        "source": "devto_webdev",
+        "published": "Fri, 24 Jul 2026 19:22:57 +0000",
+        "description": "AI can summarize a 30-page contract in seconds. It can point out unusual clauses, explain legal terms in plain English, and even compare two versions of an a...",
+        "keywords": "legal, can, people, understand, contract, one, should, you",
+        "generated": "2026-07-24T19:37:11.866520",
+        "file": "ai-can-read-a-contract-in-seconds-should-you-trust-it.md"
     },
     {
         "title": "用 FROST 五维元模型构建可治理的多 Agent 系统：从零到一的代码教程",
@@ -17762,6 +17806,17 @@
         "file": "us-science-is-in-chaos.md"
     },
     {
+        "title": "Gsxui – Shadcn-style components for Go",
+        "slug": "gsxui-shadcn-style-components-for-go",
+        "author": "jackielii",
+        "source": "hackernews",
+        "published": "Fri, 24 Jul 2026 17:59:08 +0000",
+        "description": "Article URL: https://ui.gsxhq.dev/ Comments URL: https://news.ycombinator.com/item?id=49039395 Points: 16 # Comments: 0",
+        "keywords": "url, https, comments, gsxui, shadcn, style, components, article",
+        "generated": "2026-07-24T19:37:11.863168",
+        "file": "gsxui-shadcn-style-components-for-go.md"
+    },
+    {
         "title": "My app didn't go viral. My AWS bill did.",
         "slug": "my-app-didnt-go-viral-my-aws-bill-did",
         "author": "L. Cordero",
@@ -18695,6 +18750,17 @@
         "keywords": "latest, cho, content, doanh, hay, thay, trung, gia",
         "generated": "2026-06-09T09:59:01.259039",
         "file": "i-let-two-ai-ollamas-talk-to-each-other-and-this-is-what-happened.md"
+    },
+    {
+        "title": "Changes to LLM pricing: Ionstream, Novita and StreamLake",
+        "slug": "changes-to-llm-pricing-ionstream-novita-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Fri, 24 Jul 2026 19:28:05 +0000",
+        "description": "Model price changes detected for Ionstream, Novita and StreamLake. Details below.",
+        "keywords": "changes, ionstream, novita, streamlake, llm, pricing, model, price",
+        "generated": "2026-07-24T19:37:11.867390",
+        "file": "changes-to-llm-pricing-ionstream-novita-and-streamlake.md"
     },
     {
         "title": "$2.500 BTC Loan: The Safest Way to Access Immediate Cash",
@@ -20490,6 +20556,17 @@
         "file": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents.md"
     },
     {
+        "title": "Postgres LISTEN/NOTIFY actually scales",
+        "slug": "postgres-listennotify-actually-scales",
+        "author": "KraftyOne",
+        "source": "hackernews",
+        "published": "Fri, 24 Jul 2026 19:05:53 +0000",
+        "description": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 24 # Comments: 2",
+        "keywords": "postgres, listen, notify, url, https, comments, actually, scales",
+        "generated": "2026-07-24T19:37:11.862772",
+        "file": "postgres-listennotify-actually-scales.md"
+    },
+    {
         "title": "Give Your Chatbot a Memory in Google Colab Before Your Next AI Interview",
         "slug": "give-your-chatbot-a-memory-in-google-colab-before-your-next-ai-interview",
         "author": "PandeyC",
@@ -20697,6 +20774,17 @@
         "keywords": "agentic, agents, data, product, commerce, systems, can, products",
         "generated": "2026-07-16T08:22:50.507811",
         "file": "how-multi-agent-ai-systems-are-reshaping-e-commerce-search.md"
+    },
+    {
+        "title": "How an AI Agent Taught Me What Passing Tests Actually Means",
+        "slug": "how-an-ai-agent-taught-me-what-passing-tests-actually-means",
+        "author": "Abd-ur-Raffae Masood",
+        "source": "devto_ai",
+        "published": "Fri, 24 Jul 2026 19:27:19 +0000",
+        "description": "When AI agents started showing up everywhere, I thought I'd finally found something that could make my job easier overnight. I was working in QA, still figur...",
+        "keywords": "what, test, just, had, agent, actually, could, didn",
+        "generated": "2026-07-24T19:37:11.867804",
+        "file": "how-an-ai-agent-taught-me-what-passing-tests-actually-means.md"
     },
     {
         "title": "How I Build AI Agents That Actually Remember",
@@ -21060,6 +21148,17 @@
         "keywords": "you, your, what, implementation, when, them, learn, team",
         "generated": "2026-06-14T04:46:39.567538",
         "file": "structured-logging-in-nodejs-winston-pino-and-structured-log-format-design.md"
+    },
+    {
+        "title": "2.3 Top Sites to Buy old Gmail Accounts (Aged & New) in ...",
+        "slug": "23-top-sites-to-buy-old-gmail-accounts-aged-new-in",
+        "author": "jaymebruns2f4jc",
+        "source": "devto_webdev",
+        "published": "Fri, 24 Jul 2026 19:24:40 +0000",
+        "description": "Buy Old Gmail Accounts 🌐 ⚡️🕐 Instant Reply Guaranteed — Message now for quick assistance. 🛒🏆📱 Telegram: https://t.me/getpvatop 🛒🏆📢 Telegram Username: @getpva...",
+        "keywords": "accounts, gmail, getpvatop, com, account, aged, verified, https",
+        "generated": "2026-07-24T19:37:11.866237",
+        "file": "23-top-sites-to-buy-old-gmail-accounts-aged-new-in.md"
     },
     {
         "title": "Commodore Releases Flip Phone",
@@ -22127,6 +22226,17 @@
         "keywords": "mumps, url, https, com, comments, primer, anniversary, edition",
         "generated": "2026-06-28T14:00:55.750449",
         "file": "the-mumps-76-primer-anniversary-edition.md"
+    },
+    {
+        "title": "The New Developer Portfolio Is Not a Screenshot. It Is the Work Trace.",
+        "slug": "the-new-developer-portfolio-is-not-a-screenshot-it-is-the-work-trace",
+        "author": "Jean-Sebastien Beaulieu",
+        "source": "devto_ai",
+        "published": "Fri, 24 Jul 2026 19:26:21 +0000",
+        "description": "AI makes it dangerously easy to look productive. A screenshot can look impressive. A demo can look polished. A generated article can read smoothly. A GitHub ...",
+        "keywords": "not, what, work, can, did, trace, dev, developer",
+        "generated": "2026-07-24T19:37:11.868514",
+        "file": "the-new-developer-portfolio-is-not-a-screenshot-it-is-the-work-trace.md"
     },
     {
         "title": "Build Advanced Ollama Chatbots with Python, LLM, and API Integrations",
@@ -23816,10 +23926,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 24 Jul 2026 13:49:46 +0000",
+        "published": "Fri, 24 Jul 2026 19:22:09 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-07-24T13:55:42.405640",
+        "generated": "2026-07-24T19:37:11.869143",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -24074,6 +24184,17 @@
         "keywords": "markdown, you, previewer, math, documentation, when, preview, tools",
         "generated": "2026-06-21T14:23:01.492620",
         "file": "introducing-advanced-markdown-previewer-a-quick-tour.md"
+    },
+    {
+        "title": "The small, real, original web",
+        "slug": "the-small-real-original-web",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Fri, 24 Jul 2026 17:28:59 +0000",
+        "description": "Article URL: https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/ Comments URL: https://news.ycombinator.com/item?id=49038977 Points: ...",
+        "keywords": "small, real, original, web, url, https, com, comments",
+        "generated": "2026-07-24T19:37:11.863317",
+        "file": "the-small-real-original-web.md"
     },
     {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: Youve been trying to kill me for 23 years should Ronaldo start?",
@@ -26166,6 +26287,17 @@
         "file": "python-automation-for-passive-crypto-income-a-complete-blueprint-2026.md"
     },
     {
+        "title": "Shipping a Chrome Extension That Works Across Sites You Do Not Control",
+        "slug": "shipping-a-chrome-extension-that-works-across-sites-you-do-not-control",
+        "author": "Yu'an Zhou",
+        "source": "devto_webdev",
+        "published": "Fri, 24 Jul 2026 19:21:11 +0000",
+        "description": "Building a Chrome extension that saves items from arbitrary third-party sites means every site is a hostile, unstable environment. Here is what actually brok...",
+        "keywords": "you, page, review, chrome, not, dom, than, extension",
+        "generated": "2026-07-24T19:37:11.867030",
+        "file": "shipping-a-chrome-extension-that-works-across-sites-you-do-not-control.md"
+    },
+    {
         "title": "Europe's Stance on the Chip Wa…",
         "slug": "europes-stance-on-the-chip-wa",
         "author": "Norvik Tech",
@@ -27022,6 +27154,17 @@
         "keywords": "designing, learning, experiences, emerging, works, future, opportunitiesand, design",
         "generated": "2026-07-17T08:19:05.884002",
         "file": "designing-ai-learning-experiences-for-k-12-emerging-works-future-opportunitiesand-a-design-framework.md"
+    },
+    {
+        "title": "Making Two TTS Voices Sound Like an Actual Conversation",
+        "slug": "making-two-tts-voices-sound-like-an-actual-conversation",
+        "author": "ivyjsu",
+        "source": "devto_python",
+        "published": "Fri, 24 Jul 2026 19:20:55 +0000",
+        "description": "Rendering a document as a two-host podcast is not just alternating two TTS voices line by line. Do that and you get something that sounds like two people rea...",
+        "keywords": "not, two, turn, conversation, tts, voices, mid, you",
+        "generated": "2026-07-24T19:37:11.864550",
+        "file": "making-two-tts-voices-sound-like-an-actual-conversation.md"
     },
     {
         "title": "The Biggest Mistake I Made When Building an AI Troubleshooting Tool",
@@ -29521,6 +29664,17 @@
         "file": "handling-iso-currency-codes-in-software.md"
     },
     {
+        "title": "Generating Print-Ready PDFs in a Browser Is Harder Than It Looks",
+        "slug": "generating-print-ready-pdfs-in-a-browser-is-harder-than-it-looks",
+        "author": "Hannah Whitfield",
+        "source": "devto_webdev",
+        "published": "Fri, 24 Jul 2026 19:21:41 +0000",
+        "description": "Export to PDF sounds like a solved problem until the output has to go to an actual printer and come back as a physical book. Screen PDFs and print PDFs are...",
+        "keywords": "not, print, browser, screen, you, than, has, cmyk",
+        "generated": "2026-07-24T19:37:11.866786",
+        "file": "generating-print-ready-pdfs-in-a-browser-is-harder-than-it-looks.md"
+    },
+    {
         "title": "Google Search Console Impressions but No Clicks: What It Really Means and How to Fix It",
         "slug": "google-search-console-impressions-but-no-clicks-what-it-really-means-and-how-to-fix-it",
         "author": "anum saeed",
@@ -31600,6 +31754,17 @@
         "file": "agentsmd-vs-claudemd-vs-copilot-instructions-a-practical-setup-guide-for-ai-coding-agents.md"
     },
     {
+        "title": "CatBoost beats target leakage with order: ordered target statistics, ordered boosting, and symmetric trees",
+        "slug": "catboost-beats-target-leakage-with-order-ordered-target-statistics-ordered-boosting-and-symmetric-trees",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Fri, 24 Jul 2026 19:36:09 +0000",
+        "description": "XGBoost gave gradient boosting a rigorous second-order objective; LightGBM made the same boosting fast. CatBoost completes the trio by attacking a subtler en...",
+        "keywords": "ordered, boosting, its, leak, catboost, target, row, prior",
+        "generated": "2026-07-24T19:37:11.863712",
+        "file": "catboost-beats-target-leakage-with-order-ordered-target-statistics-ordered-boosting-and-symmetric-trees.md"
+    },
+    {
         "title": "The Visual 6502",
         "slug": "the-visual-6502",
         "author": "infiniteregrets",
@@ -33017,6 +33182,17 @@
         "file": "i-got-tired-of-renting-my-own-ai-so-i-built-one-i-actually-own.md"
     },
     {
+        "title": "SM-2 Is Not Enough: Where Classic Spaced Repetition Breaks Down",
+        "slug": "sm-2-is-not-enough-where-classic-spaced-repetition-breaks-down",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Fri, 24 Jul 2026 19:21:26 +0000",
+        "description": "SM-2 — the algorithm behind Anki and most spaced repetition tools — was published in 1987 and is remarkably durable. It is also wrong in specific, predictabl...",
+        "keywords": "ease, not, failure, you, card, interval, reps, cards",
+        "generated": "2026-07-24T19:37:11.864268",
+        "file": "sm-2-is-not-enough-where-classic-spaced-repetition-breaks-down.md"
+    },
+    {
         "title": "Python Selenium Architecture and Significance of Python Virtual Environment",
         "slug": "python-selenium-architecture-and-significance-of-python-virtual-environment",
         "author": "javed shaikh",
@@ -33191,6 +33367,17 @@
         "keywords": "linkedin, account, accounts, your, you, buying, can, connections",
         "generated": "2026-06-27T19:36:59.129444",
         "file": "top-12-site-to-get-linkedin-accounts-buying-guide-2026.md"
+    },
+    {
+        "title": "The Evaluation Had a Sandbox. It Needed an Authority Boundary.",
+        "slug": "the-evaluation-had-a-sandbox-it-needed-an-authority-boundary",
+        "author": "Michael Mike K. Saleme",
+        "source": "devto_ai",
+        "published": "Fri, 24 Jul 2026 19:25:20 +0000",
+        "description": "On July 16, Hugging Face disclosed an intrusion into its internal infrastructure. A malicious dataset abused two code-execution paths in its dataset processi...",
+        "keywords": "not, evaluation, what, authority, path, models, model, can",
+        "generated": "2026-07-24T19:37:11.869020",
+        "file": "the-evaluation-had-a-sandbox-it-needed-an-authority-boundary.md"
     },
     {
         "title": "Why current LLM costs are not sustainable",
@@ -33862,6 +34049,17 @@
         "keywords": "memory, devops, you, https, lnkd, day, live, gpu",
         "generated": "2026-07-08T03:22:28.630929",
         "file": "day-3-of-100-days-of-genai-for-devops-is-live.md"
+    },
+    {
+        "title": "I built a privacy-focused search engine from scratch (and learned why search is hard)",
+        "slug": "i-built-a-privacy-focused-search-engine-from-scratch-and-learned-why-search-is-hard",
+        "author": "Nox",
+        "source": "devto_webdev",
+        "published": "Fri, 24 Jul 2026 19:18:20 +0000",
+        "description": "I built Slick because I wanted a search engine that actually felt like it belonged to the user. Not another search wrapper. Not another app that just sends y...",
+        "keywords": "search, engine, slick, ranking, like, how, you, index",
+        "generated": "2026-07-24T19:37:11.867292",
+        "file": "i-built-a-privacy-focused-search-engine-from-scratch-and-learned-why-search-is-hard.md"
     },
     {
         "title": "I created a platform with a list to help you share your projects 🔥",
@@ -39186,6 +39384,17 @@
         "keywords": "agent, bankrupted, their, operator, scan, article, url, https",
         "generated": "2026-06-12T10:23:24.146281",
         "file": "ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42.md"
+    },
+    {
+        "title": "I got into YC by hacking it",
+        "slug": "i-got-into-yc-by-hacking-it",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Fri, 24 Jul 2026 18:03:22 +0000",
+        "description": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Comments URL: https://news.ycombinator.com/item?id=49039448 Points: 59...",
+        "keywords": "got, hacking, url, https, comments, article, obaid, wtf",
+        "generated": "2026-07-24T19:37:11.863057",
+        "file": "i-got-into-yc-by-hacking-it.md"
     },
     {
         "title": "LightGBM internals from scratch: XGBoost's boosting math, four tricks that make it fast — leaf-wise, histograms, GOSS, EFB",
