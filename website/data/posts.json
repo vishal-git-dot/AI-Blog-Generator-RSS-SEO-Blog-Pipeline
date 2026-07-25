@@ -845,6 +845,17 @@
         "file": "ai-agents-and-their-efficiency.md"
     },
     {
+        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+        "slug": "uk-aisi-caisi-preliminary-assessment-of-kimi-k3s-cyber-capabilities",
+        "author": "walrus01",
+        "source": "hackernews",
+        "published": "Sat, 25 Jul 2026 04:20:21 +0000",
+        "description": "Article URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities Comments URL: https://news.ycombi...",
+        "keywords": "news, aisi, caisi, preliminary, assessment, kimi, cyber, capabilities",
+        "generated": "2026-07-25T08:14:00.363227",
+        "file": "uk-aisi-caisi-preliminary-assessment-of-kimi-k3s-cyber-capabilities.md"
+    },
+    {
         "title": "How to use ChatGPT API without spending money: 3 free alternatives",
         "slug": "how-to-use-chatgpt-api-without-spending-money-3-free-alternatives",
         "author": "David García",
@@ -1614,6 +1625,17 @@
         "keywords": "page, website, marketplace, template, your, own, buy, ready",
         "generated": "2026-07-07T03:56:09.938125",
         "file": "market-website-templete.md"
+    },
+    {
+        "title": "A simple readiness checklist before you let an AI agent touch production",
+        "slug": "a-simple-readiness-checklist-before-you-let-an-ai-agent-touch-production",
+        "author": "AsterXing",
+        "source": "devto_webdev",
+        "published": "Sat, 25 Jul 2026 08:10:05 +0000",
+        "description": "If you’re letting an AI agent touch production, a green unit test is not enough. The failure mode is rarely “the model was dumb” — it’s usually missing guard...",
+        "keywords": "you, agent, before, not, what, production, rollback, want",
+        "generated": "2026-07-25T08:14:00.365560",
+        "file": "a-simple-readiness-checklist-before-you-let-an-ai-agent-touch-production.md"
     },
     {
         "title": "Code Challenge of the Day — Count set bits (medium)",
@@ -3066,6 +3088,17 @@
         "keywords": "decomp, lessons, site, you, academy, decompile, decompilation, assembly",
         "generated": "2026-06-28T04:20:44.690340",
         "file": "show-hn-decomp-academy-learn-to-decompile-gamecube-games-into-matching-c.md"
+    },
+    {
+        "title": "AICurt - A Lightweight Python Toolkit for Preparing Text Before AI Processing",
+        "slug": "aicurt-a-lightweight-python-toolkit-for-preparing-text-before-ai-processing",
+        "author": "Krishna Tadi",
+        "source": "devto_python",
+        "published": "Sat, 25 Jul 2026 08:00:02 +0000",
+        "description": "AI applications are growing rapidly. Developers are building applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embedding...",
+        "keywords": "aicurt, text, chunking, applications, processing, can, information, may",
+        "generated": "2026-07-25T08:14:00.363801",
+        "file": "aicurt-a-lightweight-python-toolkit-for-preparing-text-before-ai-processing.md"
     },
     {
         "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
@@ -4806,6 +4839,17 @@
         "file": "i-built-the-same-hash-utility-for-browser-node-and-python.md"
     },
     {
+        "title": "The Honest Guide to BTC Trading Strategies with XGBoost & ML: What Works, What Overfits (2026)",
+        "slug": "the-honest-guide-to-btc-trading-strategies-with-xgboost-ml-what-works-what-overfits-2026",
+        "author": "shakti tiwari",
+        "source": "devto_python",
+        "published": "Sat, 25 Jul 2026 07:48:10 +0000",
+        "description": "By Shakti Tiwari — AI trainer, quant, author of Option Trading with AI (B0H9ZNTBPK) and The AI Opportunity (B0HBBFKDQF). Disclaimer: This article is for educ...",
+        "keywords": "forward, btc, only, not, walk, macd, rsi, backtest",
+        "generated": "2026-07-25T08:14:00.364560",
+        "file": "the-honest-guide-to-btc-trading-strategies-with-xgboost-ml-what-works-what-overfits-2026.md"
+    },
+    {
         "title": "Episia: Building an Open-Source Epidemiology Library in Python, Validated Against OpenEpi",
         "slug": "episia-building-an-open-source-epidemiology-library-in-python-validated-against-openepi",
         "author": "Ariel Shadrac OUEDRAOGO",
@@ -5178,6 +5222,17 @@
         "keywords": "location, get, item, query, value, maps, return, google",
         "generated": "2026-07-13T09:37:40.644997",
         "file": "how-to-extract-google-maps-results-with-python-and-a-serp-api.md"
+    },
+    {
+        "title": "Reddit's Google Ultimatum: The Platform Revolt Against AI Search Has Begun",
+        "slug": "reddits-google-ultimatum-the-platform-revolt-against-ai-search-has-begun",
+        "author": "Searchless",
+        "source": "devto_ai",
+        "published": "Sat, 25 Jul 2026 08:02:40 +0000",
+        "description": "Originally published on The Searchless Journal Reddit executives are discussing whether to cut off Google's access to training data — the nuclear option in t...",
+        "keywords": "reddit, google, data, platform, search, content, platforms, access",
+        "generated": "2026-07-25T08:14:00.368447",
+        "file": "reddits-google-ultimatum-the-platform-revolt-against-ai-search-has-begun.md"
     },
     {
         "title": "Freeink: Open Ecosystem for E-Readers",
@@ -10854,6 +10909,17 @@
         "file": "how-ai-web-development-improves-website-performance-and-speed.md"
     },
     {
+        "title": "ARC-AGI Leaderboard",
+        "slug": "arc-agi-leaderboard",
+        "author": "rzk",
+        "source": "hackernews",
+        "published": "Sat, 25 Jul 2026 06:31:40 +0000",
+        "description": "Article URL: https://arcprize.org/leaderboard Comments URL: https://news.ycombinator.com/item?id=49045040 Points: 50 # Comments: 29",
+        "keywords": "leaderboard, url, https, comments, arc, agi, article, arcprize",
+        "generated": "2026-07-25T08:14:00.362946",
+        "file": "arc-agi-leaderboard.md"
+    },
+    {
         "title": "Event stores and event sourcing databases: EventStoreDB, Kafka, and PostgreSQL as event stores",
         "slug": "event-stores-and-event-sourcing-databases-eventstoredb-kafka-and-postgresql-as-event-stores",
         "author": "Rizwan Saleem",
@@ -12207,6 +12273,17 @@
         "file": "deploy-a-decision-tree-classifier-with-fastapi.md"
     },
     {
+        "title": "Serving a Large Art Set to a UI That Shows One Image",
+        "slug": "serving-a-large-art-set-to-a-ui-that-shows-one-image",
+        "author": "Saya Mori",
+        "source": "devto_webdev",
+        "published": "Sat, 25 Jul 2026 08:10:10 +0000",
+        "description": "A card-drawing interface is a deceptively nasty frontend problem. The interaction is trivial — tap, reveal one image — but the asset set is large, the art is...",
+        "keywords": "card, one, image, art, avif, you, cards, large",
+        "generated": "2026-07-25T08:14:00.365303",
+        "file": "serving-a-large-art-set-to-a-ui-that-shows-one-image.md"
+    },
+    {
         "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
         "slug": "sweet-jeebus-macos-27-golden-gate-removes-the-dumb-icons-from-menu-items",
         "author": "epaga",
@@ -12964,6 +13041,17 @@
         "keywords": "blockchain, week, you, cyfrin, what, smart, can, updraft",
         "generated": "2026-07-19T19:13:25.019677",
         "file": "week-2-i-found-the-best-free-blockchain-course-on-the-internet-heres-my-honest-review.md"
+    },
+    {
+        "title": "Barge-In, VAD, and the Latency Budget: Engineering Realtime Voice",
+        "slug": "barge-in-vad-and-the-latency-budget-engineering-realtime-voice",
+        "author": "Lena Hoffmann",
+        "source": "devto_webdev",
+        "published": "Sat, 25 Jul 2026 08:09:14 +0000",
+        "description": "Realtime voice is the only modality where being right is not good enough — you also have to be right now . A text model can take four seconds and nobody blin...",
+        "keywords": "you, hold, voice, not, one, turn, your, model",
+        "generated": "2026-07-25T08:14:00.365982",
+        "file": "barge-in-vad-and-the-latency-budget-engineering-realtime-voice.md"
     },
     {
         "title": "Why Every Restaurant Needs a Restaurant Management App in 2026",
@@ -14022,6 +14110,17 @@
         "file": "maxmind-vs-ipinfo-vs-geoiphub-the-2026-ip-geolocation-showdown.md"
     },
     {
+        "title": "Best Python Training Institute in Rohini | Python Course with Certification & Placement",
+        "slug": "best-python-training-institute-in-rohini-python-course-with-certification-placement",
+        "author": "Annudigtalmarketing89",
+        "source": "devto_python",
+        "published": "Sat, 25 Jul 2026 07:57:07 +0000",
+        "description": "Best Python Training Institute in Rohini – Build a Successful Career with Python Python has become one of the most popular programming languages in the world...",
+        "keywords": "python, learning, programming, institute, career, data, training, development",
+        "generated": "2026-07-25T08:14:00.364206",
+        "file": "best-python-training-institute-in-rohini-python-course-with-certification-placement.md"
+    },
+    {
         "title": "My Production Pipeline for 24/7 Level 2 Market Data Collection",
         "slug": "my-production-pipeline-for-247-level-2-market-data-collection",
         "author": "James Tao",
@@ -14317,6 +14416,17 @@
         "keywords": "thing, you, company, not, built, serving, run, our",
         "generated": "2026-06-26T19:58:27.784266",
         "file": "built-isnt-serving.md"
+    },
+    {
+        "title": "I Moved My AI Stack From NVIDIA to Apple Silicon. Then I Moved Back. Here's Why.",
+        "slug": "i-moved-my-ai-stack-from-nvidia-to-apple-silicon-then-i-moved-back-heres-why",
+        "author": "Sam Hartley",
+        "source": "devto_ai",
+        "published": "Sat, 25 Jul 2026 08:03:13 +0000",
+        "description": "I Moved My AI Stack From NVIDIA to Apple Silicon. Then I Moved Back. Here's Why. I bought a Mac Mini M4 thinking it would replace my Windows PC for local AI....",
+        "keywords": "mac, mini, model, rtx, gpu, models, tok, but",
+        "generated": "2026-07-25T08:14:00.367696",
+        "file": "i-moved-my-ai-stack-from-nvidia-to-apple-silicon-then-i-moved-back-heres-why.md"
     },
     {
         "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
@@ -15813,6 +15923,17 @@
         "keywords": "generator, tool, image, free, tools, browser, scoreroute, answer",
         "generated": "2026-06-06T13:56:22.891659",
         "file": "ai-image-generator-free-online-tool.md"
+    },
+    {
+        "title": "Substack Introduces AI Detection Tool for Newsletters",
+        "slug": "substack-introduces-ai-detection-tool-for-newsletters",
+        "author": "Gaby",
+        "source": "devto_ai",
+        "published": "Sat, 25 Jul 2026 08:05:28 +0000",
+        "description": "Substack has introduced a new AI detection tool for newsletters that helps readers understand whether content was written by a human, generated with AI, or c...",
+        "keywords": "substack, content, detection, tool, newsletters, readers, has, understand",
+        "generated": "2026-07-25T08:14:00.367068",
+        "file": "substack-introduces-ai-detection-tool-for-newsletters.md"
     },
     {
         "title": "AI-Driven Sports Prediction Software: Key Technical Specs Every Investor Should Understand",
@@ -18906,6 +19027,17 @@
         "file": "ai-expert-notes.md"
     },
     {
+        "title": "Android May Soon Restrict On-Device ADB",
+        "slug": "android-may-soon-restrict-on-device-adb",
+        "author": "shscs911",
+        "source": "hackernews",
+        "published": "Sat, 25 Jul 2026 06:57:14 +0000",
+        "description": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Point...",
+        "keywords": "android, may, soon, restrict, device, adb, url, https",
+        "generated": "2026-07-25T08:14:00.362784",
+        "file": "android-may-soon-restrict-on-device-adb.md"
+    },
+    {
         "title": "Set up your BizNode bot in under 5 minutes. The 14-step wizard auto-creates handles from your services list. Your bot goes...",
         "slug": "set-up-your-biznode-bot-in-under-5-minutes-the-14-step-wizard-auto-creates-handles-from-your-services-list-your-bot-goes",
         "author": "shashikanth ramamurthy",
@@ -19179,6 +19311,17 @@
         "keywords": "you, what, not, your, code, one, who, build",
         "generated": "2026-06-26T09:38:14.829816",
         "file": "the-future-of-work-in-the-ai-era-skills-every-developer-should-build.md"
+    },
+    {
+        "title": "Quick Tip: Python pytest Examples",
+        "slug": "quick-tip-python-pytest-examples",
+        "author": "niuniu",
+        "source": "devto_python",
+        "published": "Sat, 25 Jul 2026 07:46:42 +0000",
+        "description": "Quick Tip Python pytest examples: # Basic test def test_addition (): assert 1 + 1 == 2 # Test with fixtures @pytest.fixture def sample_data (): return { ' na...",
+        "keywords": "pytest, def, python, assert, input, expected, quick, tip",
+        "generated": "2026-07-25T08:14:00.364836",
+        "file": "quick-tip-python-pytest-examples.md"
     },
     {
         "title": "What I learned wiring JSON-LD structured data audits into a post-deploy CI step",
@@ -20169,6 +20312,17 @@
         "keywords": "last, mpeg, patent, expired, url, https, com, news",
         "generated": "2026-07-19T19:13:25.015902",
         "file": "the-last-mpeg-4-visual-patent-has-expired.md"
+    },
+    {
+        "title": "Quick Tip: Python Machine Learning Quick Start",
+        "slug": "quick-tip-python-machine-learning-quick-start",
+        "author": "niuniu",
+        "source": "devto_python",
+        "published": "Sat, 25 Jul 2026 07:47:23 +0000",
+        "description": "Quick Tip Python machine learning quick start: from sklearn.model_selection import train_test_split from sklearn.linear_model import LinearRegression from sk...",
+        "keywords": "quick, model, python, sklearn, import, mse, tip, machine",
+        "generated": "2026-07-25T08:14:00.364706",
+        "file": "quick-tip-python-machine-learning-quick-start.md"
     },
     {
         "title": "The Architecture That Almost Shipped: A Builder Reflection on Deadlines, Cost Anxiety, and What Survives Both",
@@ -23981,10 +24135,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sat, 25 Jul 2026 03:10:46 +0000",
+        "published": "Sat, 25 Jul 2026 08:03:32 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-07-25T03:16:45.368156",
+        "generated": "2026-07-25T08:14:00.367196",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -24503,6 +24657,17 @@
         "keywords": "jira, agent, one, ticket, atlassian, work, coding, planner",
         "generated": "2026-07-16T03:13:36.754584",
         "file": "boost-your-productivity-atlassians-ai-powered-jira-revolution.md"
+    },
+    {
+        "title": "Inferring Site Structure When the Site Doesn't Have Any",
+        "slug": "inferring-site-structure-when-the-site-doesnt-have-any",
+        "author": "danielgreid",
+        "source": "devto_webdev",
+        "published": "Sat, 25 Jul 2026 08:07:41 +0000",
+        "description": "Most sites do not have an information hierarchy. They have a navigation menu, a sitemap a plugin generated three years ago, and a pile of pages whose relatio...",
+        "keywords": "nav, you, url, auth, return, not, sitemap, than",
+        "generated": "2026-07-25T08:14:00.366883",
+        "file": "inferring-site-structure-when-the-site-doesnt-have-any.md"
     },
     {
         "title": "ATL más Función Seno para hacer animaciones fluídas.",
@@ -27948,6 +28113,17 @@
         "file": "my-autonomous-agent-caught-itself-publishing-fake-statistics-on-its-own-public-pages.md"
     },
     {
+        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+        "slug": "taylor-farms-called-white-house-to-try-to-delay-cyclospora-recall",
+        "author": "JumpCrisscross",
+        "source": "hackernews",
+        "published": "Sat, 25 Jul 2026 02:54:36 +0000",
+        "description": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points...",
+        "keywords": "taylor, farms, delay, cyclospora, recall, url, https, com",
+        "generated": "2026-07-25T08:14:00.363350",
+        "file": "taylor-farms-called-white-house-to-try-to-delay-cyclospora-recall.md"
+    },
+    {
         "title": "Every handle invocation on BizNode gets a WFID — a universal transaction reference for accountability. Full audit trail,...",
         "slug": "every-handle-invocation-on-biznode-gets-a-wfid-a-universal-transaction-reference-for-accountability-full-audit-trail",
         "author": "shashikanth ramamurthy",
@@ -29530,6 +29706,17 @@
         "keywords": "server, mcp, gateway, one, which, servers, can, every",
         "generated": "2026-07-11T13:38:52.453350",
         "file": "mcp-server-management-centralizing-auth-rbac-and-approval-gates-before-they-sprawl.md"
+    },
+    {
+        "title": "Designing a Comparison Schema When Features Aren't 1:1",
+        "slug": "designing-a-comparison-schema-when-features-arent-11",
+        "author": "Theo Brenner",
+        "source": "devto_webdev",
+        "published": "Sat, 25 Jul 2026 08:08:17 +0000",
+        "description": "I spent an embarrassing amount of time building comparison tables before admitting the data model was wrong. Not the UI — the schema underneath. Every Tool ...",
+        "keywords": "not, tool, you, text, null, comparison, schema, which",
+        "generated": "2026-07-25T08:14:00.366443",
+        "file": "designing-a-comparison-schema-when-features-arent-11.md"
     },
     {
         "title": "US AI Pulse: When AI Overthinks — The Curious Case of Claude Code's 33k Tokens",
@@ -31970,6 +32157,17 @@
         "published": "Fri, 17 Jul 2026 08:07:58 +0000",
         "description": "",
         "file": "batched-prompt-scheduling-for-on-device-llms.md"
+    },
+    {
+        "title": "IA et Marketing Digital : Booster votre stratégie avec BusinessDigital.fr",
+        "slug": "ia-et-marketing-digital-booster-votre-stratgie-avec-businessdigitalfr",
+        "author": "Franck PARIENTI",
+        "source": "devto_ai",
+        "published": "Sat, 25 Jul 2026 08:01:54 +0000",
+        "description": "L'IA au Service du Marketing Digital : Une Révolution Accessible Dans le paysage concurrentiel actuel, maîtriser le marketing digital n'est plus une option, ...",
+        "keywords": "des, les, pour, une, est, marketing, plus, vos",
+        "generated": "2026-07-25T08:14:00.368962",
+        "file": "ia-et-marketing-digital-booster-votre-stratgie-avec-businessdigitalfr.md"
     },
     {
         "title": "Building Academic Writing Tools with LLMs: A Step-by-Step Guide",
@@ -35930,6 +36128,17 @@
         "keywords": "sakana, rsi, lab, url, https, comments, recursive, self",
         "generated": "2026-06-05T20:02:11.234858",
         "file": "sakana-ais-recursive-self-improvement-rsi-lab.md"
+    },
+    {
+        "title": "Extinct Media Museum Tokyo",
+        "slug": "extinct-media-museum-tokyo",
+        "author": "sohkamyung",
+        "source": "hackernews",
+        "published": "Sat, 25 Jul 2026 05:51:27 +0000",
+        "description": "Article URL: https://extinct-media-museum.blog.jp/otemachi/ Comments URL: https://news.ycombinator.com/item?id=49044874 Points: 12 # Comments: 1",
+        "keywords": "extinct, media, museum, url, https, comments, tokyo, article",
+        "generated": "2026-07-25T08:14:00.363099",
+        "file": "extinct-media-museum-tokyo.md"
     },
     {
         "title": "Comparison of AI-powered lead generation website tools for 2026: How to choose between We0 AI, Unbounce, Framer, and Webflow?",
