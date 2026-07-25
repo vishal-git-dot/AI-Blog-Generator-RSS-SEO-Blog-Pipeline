@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Sat, 25 Jul 2026 06:57:14 +0000"
 description: "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Point..."
 keywords: "android, may, soon, restrict, device, adb, url, https"
-generated: "2026-07-25T08:14:00.362784"
+generated: "2026-07-25T13:46:22.464590"
 ---
 
 # Android May Soon Restrict On-Device ADB
 
 ## Overview
 
-Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Points: 50 # Comments: 16
+Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Points: 447 # Comments: 197
 
 ## Key Insights
 
