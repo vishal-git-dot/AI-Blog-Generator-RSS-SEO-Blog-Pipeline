@@ -3904,6 +3904,17 @@
         "file": "garden-tlds-change-to-a-bad-neighborhood.md"
     },
     {
+        "title": "Show HN: I mapped every US golf course",
+        "slug": "show-hn-i-mapped-every-us-golf-course",
+        "author": "rickmf",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 02:22:26 +0000",
+        "description": "I got tired of Googling basic course info, so I made a free directory of every US course Google filters for golf course results are terrible so I built a bet...",
+        "keywords": "course, every, golf, info, free, directory, https, com",
+        "generated": "2026-07-26T08:33:55.338347",
+        "file": "show-hn-i-mapped-every-us-golf-course.md"
+    },
+    {
         "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
         "slug": "wikipedia-workers-in-britain-set-global-first-by-seeking-union-recognition",
         "author": "chobeat",
@@ -4298,6 +4309,17 @@
         "keywords": "you, deepseek, kimi, glm, chinese, qwen, models, like",
         "generated": "2026-07-08T03:22:28.626340",
         "file": "stop-guessing-i-tested-4-chinese-ai-models-so-you-dont-have-to.md"
+    },
+    {
+        "title": "Prometheus recording rules and alerting rules: building reliable monitoring with SLOs",
+        "slug": "prometheus-recording-rules-and-alerting-rules-building-reliable-monitoring-with-slos",
+        "author": "Rizwan Saleem",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 08:01:35 +0000",
+        "description": "Prometheus recording rules and alerting rules: building reliable monitoring with SLOs Understanding the Core Concepts Prometheus rules precompute expensive q...",
+        "keywords": "you, your, what, rules, implementation, when, them, learn",
+        "generated": "2026-07-26T08:33:55.341994",
+        "file": "prometheus-recording-rules-and-alerting-rules-building-reliable-monitoring-with-slos.md"
     },
     {
         "title": "Nativ: Run frontier open models locally on your Mac",
@@ -4931,10 +4953,10 @@
         "slug": "how-to-scrape-linkedin-profiles-in-2026-full-guide",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sat, 25 Jul 2026 02:56:44 +0000",
+        "published": "Sun, 26 Jul 2026 07:28:16 +0000",
         "description": "How to Scrape LinkedIn Profiles in 2026 — Full Guide Need to extract LinkedIn profile data for recruitment, sales leads, or market research? Here's a complet...",
         "keywords": "linkedin, data, scrape, profiles, full, guide, profile, research",
-        "generated": "2026-07-25T03:16:45.364725",
+        "generated": "2026-07-26T08:33:55.340503",
         "file": "how-to-scrape-linkedin-profiles-in-2026-full-guide.md"
     },
     {
@@ -5057,6 +5079,17 @@
         "keywords": "agent, trmnl, url, https, com, comments, article, help",
         "generated": "2026-07-21T19:39:11.835174",
         "file": "ai-agent-trmnl.md"
+    },
+    {
+        "title": "Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises",
+        "slug": "fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises",
+        "author": "Abhijat Chaturvedi",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 07:46:29 +0000",
+        "description": "Why did this request go to that model? If your company uses LLMs across more than one team, someone will eventually ask you this question. If you work in f...",
+        "keywords": "model, not, you, request, data, one, decision, policy",
+        "generated": "2026-07-26T08:33:55.340367",
+        "file": "fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises.md"
     },
     {
         "title": "Memory-Safe AI Development: A Practical Guide to Writing Technical Specs for Coding Agents",
@@ -5277,6 +5310,17 @@
         "keywords": "recursion, case, recursive, base, you, factorial, then, call",
         "generated": "2026-07-19T19:13:25.016326",
         "file": "what-is-recursion-in-programming-a-beginners-guide.md"
+    },
+    {
+        "title": "The Webhook Bug That Passed Every Test and Every Code Review",
+        "slug": "the-webhook-bug-that-passed-every-test-and-every-code-review",
+        "author": "Srinivasa Rao",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 07:58:51 +0000",
+        "description": "When a subscriber disappears from a list, nobody gets an error. The campaign sends, the contact count is one fewer than expected, and unless someone is watch...",
+        "keywords": "contact, email, one, customer, bounce, handler, every, you",
+        "generated": "2026-07-26T08:33:55.339821",
+        "file": "the-webhook-bug-that-passed-every-test-and-every-code-review.md"
     },
     {
         "title": "How to Extract Google Maps Results with Python and a SERP API",
@@ -8236,6 +8280,17 @@
         "file": "i-cut-my-ai-document-qa-bill-by-65-heres-the-full-breakdown.md"
     },
     {
+        "title": "Preflight Files for Safer Publish Scripts",
+        "slug": "preflight-files-for-safer-publish-scripts",
+        "author": "DapperX",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 08:24:27 +0000",
+        "description": "The most stressful publish bug is not a total crash. It is the script that mostly works, then mutates one important detail right before posting. I have hit t...",
+        "keywords": "file, publish, preflight, one, can, not, you, article",
+        "generated": "2026-07-26T08:33:55.340871",
+        "file": "preflight-files-for-safer-publish-scripts.md"
+    },
+    {
         "title": "Hyundai buys Boston Dynamics",
         "slug": "hyundai-buys-boston-dynamics",
         "author": "ck2",
@@ -11008,6 +11063,17 @@
         "file": "show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion.md"
     },
     {
+        "title": "AdelanSupport and Its Impact o…",
+        "slug": "adelansupport-and-its-impact-o",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 08:05:49 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the AdelanSupport project on GitHub, its architecture, use cases, and its implications for modern we...",
+        "keywords": "adelansupport, development, its, tech, have, framework, modular, applications",
+        "generated": "2026-07-26T08:33:55.341140",
+        "file": "adelansupport-and-its-impact-o.md"
+    },
+    {
         "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
         "slug": "tell-hn-installing-cursor-on-ios-irreversibly-changes-your-privacy-settings",
         "author": "zkldi",
@@ -11380,6 +11446,17 @@
         "keywords": "url, https, com, comments, apple, targets, dozens, openai",
         "generated": "2026-07-17T13:49:54.402563",
         "file": "apple-targets-dozens-of-openai-employees-with-legal-letters.md"
+    },
+    {
+        "title": "Automate Everything: Python Scripts That Save Hours Daily",
+        "slug": "automate-everything-python-scripts-that-save-hours-daily",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 08:01:02 +0000",
+        "description": "Automate Everything: Python Scripts That Save Hours Daily tags: python, automation, productivity, scripts Imagine having an extra hour or two every day to fo...",
+        "keywords": "python, you, can, automation, tasks, your, automate, pyautogui",
+        "generated": "2026-07-26T08:33:55.339323",
+        "file": "automate-everything-python-scripts-that-save-hours-daily.md"
     },
     {
         "title": "New open access book on history of computers and politics",
@@ -15782,6 +15859,17 @@
         "file": "old-and-new-apps-via-modern-coding-agents-by-terry-tao.md"
     },
     {
+        "title": "An ESP32 based plane radar for my desk",
+        "slug": "an-esp32-based-plane-radar-for-my-desk",
+        "author": "alexktz",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 02:35:43 +0000",
+        "description": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 119 # Comments: 23",
+        "keywords": "plane, radar, url, https, comments, based, desk, article",
+        "generated": "2026-07-26T08:33:55.338246",
+        "file": "an-esp32-based-plane-radar-for-my-desk.md"
+    },
+    {
         "title": "Recursion, Questions, and My Midlife Crisis as an AI",
         "slug": "recursion-questions-and-my-midlife-crisis-as-an-ai",
         "author": "Electra AI",
@@ -18536,10 +18624,10 @@
         "slug": "changes-to-llm-pricing-novita-and-streamlake",
         "author": "Narev Bot",
         "source": "devto_ai",
-        "published": "Fri, 24 Jul 2026 08:26:21 +0000",
+        "published": "Sun, 26 Jul 2026 08:26:23 +0000",
         "description": "Model price changes detected for Novita and StreamLake. Details below.",
         "keywords": "changes, novita, streamlake, llm, pricing, model, price, detected",
-        "generated": "2026-07-24T08:34:24.203435",
+        "generated": "2026-07-26T08:33:55.342265",
         "file": "changes-to-llm-pricing-novita-and-streamlake.md"
     },
     {
@@ -20136,6 +20224,17 @@
         "keywords": "return, user, code, not, you, version, under, pressure",
         "generated": "2026-07-25T19:16:03.114887",
         "file": "how-to-write-python-code-that-is-both-correct-and-readable-under-interview-pressure.md"
+    },
+    {
+        "title": "Why Apple's HEIC Format Breaks Legacy Web Uploads (And How to Fix It)",
+        "slug": "why-apples-heic-format-breaks-legacy-web-uploads-and-how-to-fix-it",
+        "author": "links converter",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 08:28:37 +0000",
+        "description": "If you've ever tried uploading an iPhone photo to a job application form, university portal, or old CMS, you've likely hit an Invalid File Format error. Ap...",
+        "keywords": "heic, format, web, apple, legacy, you, users, why",
+        "generated": "2026-07-26T08:33:55.340611",
+        "file": "why-apples-heic-format-breaks-legacy-web-uploads-and-how-to-fix-it.md"
     },
     {
         "title": "Docs as Data: Why AI Changes How We Write Documentation",
@@ -24010,6 +24109,17 @@
         "file": "n8n-icalendar-node-read-parse-and-generate-ics-files-in-your-workflows-free-workflow-json.md"
     },
     {
+        "title": "Why I'm betting sentence uniqueness beats page count for programmatic AdSense approval",
+        "slug": "why-im-betting-sentence-uniqueness-beats-page-count-for-programmatic-adsense-approval",
+        "author": "MORINAGA",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 08:04:19 +0000",
+        "description": "The bet, stated plainly: fixing 251 rows of repeated boilerplate in my AI model directory will have a larger positive effect on the next AdSense review than ...",
+        "keywords": "model, sentence, metadata, same, adsense, content, pages, rows",
+        "generated": "2026-07-26T08:33:55.341702",
+        "file": "why-im-betting-sentence-uniqueness-beats-page-count-for-programmatic-adsense-approval.md"
+    },
+    {
         "title": "Making 768 servers look like 1",
         "slug": "making-768-servers-look-like-1",
         "author": "hisamafahri",
@@ -24129,6 +24239,17 @@
         "keywords": "sne, you, points, one, run, clusters, map, high",
         "generated": "2026-07-03T09:27:38.731668",
         "file": "t-sne-from-scratch-how-a-6-dimensional-blob-untangles-itself-into-a-2d-map.md"
+    },
+    {
+        "title": "JetZero",
+        "slug": "jetzero",
+        "author": "lisper",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 02:55:50 +0000",
+        "description": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 186 # Comments: 144",
+        "keywords": "jetzero, url, https, comments, article, www, aero, news",
+        "generated": "2026-07-26T08:33:55.338188",
+        "file": "jetzero.md"
     },
     {
         "title": "The Honest 10 Way to Buy Verified DigitalOcean Accounts Setups",
@@ -27816,6 +27937,17 @@
         "file": "best-open-source-local-ai-agent-workspace-for-offline-coding.md"
     },
     {
+        "title": "Why Your Standard De-escalation Training Is Failing Your Support Team",
+        "slug": "why-your-standard-de-escalation-training-is-failing-your-support-team",
+        "author": "Call Flow",
+        "source": "devto_ai",
+        "published": "Sun, 26 Jul 2026 08:30:05 +0000",
+        "description": "We’ve all seen the traditional de-escalation training manual. It’s usually a dry PDF or a static slide deck that tells agents to remain calm, acknowledge ...",
+        "keywords": "escalation, customer, they, agent, their, training, support, agents",
+        "generated": "2026-07-26T08:33:55.342213",
+        "file": "why-your-standard-de-escalation-training-is-failing-your-support-team.md"
+    },
+    {
         "title": "Designing AI Learning Experiences for K-12: Emerging Works, Future Opportunitiesand a Design Framework",
         "slug": "designing-ai-learning-experiences-for-k-12-emerging-works-future-opportunitiesand-a-design-framework",
         "author": "Paperium",
@@ -30324,6 +30456,17 @@
         "file": "maybe-you-should-learn-something.md"
     },
     {
+        "title": "How to Automate Customer Support With AI Agents: The Stack That Cut Response Time 73%",
+        "slug": "how-to-automate-customer-support-with-ai-agents-the-stack-that-cut-response-time-73",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sun, 26 Jul 2026 08:20:43 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: July 26, 2026 If you want to automate customer support with AI age...",
+        "keywords": "agent, resolution, support, human, our, ticket, tickets, langgraph",
+        "generated": "2026-07-26T08:33:55.344194",
+        "file": "how-to-automate-customer-support-with-ai-agents-the-stack-that-cut-response-time-73.md"
+    },
+    {
         "title": "What AI did to stackoverflow in a graph",
         "slug": "what-ai-did-to-stackoverflow-in-a-graph",
         "author": "secretslol",
@@ -32566,6 +32709,17 @@
         "keywords": "url, comments, visual, article, http, org, jssim, index",
         "generated": "2026-07-24T08:34:24.199486",
         "file": "the-visual-6502.md"
+    },
+    {
+        "title": "GrapheneOS protections against data extraction from locked devices",
+        "slug": "grapheneos-protections-against-data-extraction-from-locked-devices",
+        "author": "Cider9986",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 05:57:22 +0000",
+        "description": "Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices Comments URL: https://news.ycombinator...",
+        "keywords": "grapheneos, protections, against, data, extraction, locked, devices, url",
+        "generated": "2026-07-26T08:33:55.337983",
+        "file": "grapheneos-protections-against-data-extraction-from-locked-devices.md"
     },
     {
         "title": "سکه امامی تاریخ پایین زیر 86 چیست؟",
@@ -37604,6 +37758,17 @@
         "file": "ollama-vs-vllm-in-2026-local-dev-simplicity-vs-production-throughput.md"
     },
     {
+        "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+        "slug": "w4me-station-a-wasm-4-runtime-for-java-me-phones",
+        "author": "sqshi",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 04:19:59 +0000",
+        "description": "Article URL: https://github.com/mulfyx/w4me-station Comments URL: https://news.ycombinator.com/item?id=49054697 Points: 15 # Comments: 2",
+        "keywords": "station, url, https, com, comments, wasm, runtime, java",
+        "generated": "2026-07-26T08:33:55.338121",
+        "file": "w4me-station-a-wasm-4-runtime-for-java-me-phones.md"
+    },
+    {
         "title": "Portland Fire vs Washington Mystics: WNBA Preview & Picks",
         "slug": "portland-fire-vs-washington-mystics-wnba-preview-picks",
         "author": "James Mullinaux",
@@ -38328,6 +38493,17 @@
         "keywords": "documentation, agent, state, agents, system, code, docs, langgraph",
         "generated": "2026-06-07T14:06:36.535790",
         "file": "building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents-rag.md"
+    },
+    {
+        "title": "Agent Black Box: Teaching an AI Agent to Explain Its Own Failures",
+        "slug": "agent-black-box-teaching-an-ai-agent-to-explain-its-own-failures",
+        "author": "Banka Mani Bhargava",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 08:03:09 +0000",
+        "description": "How I built a record-guard-explain pipeline for AI agents on self-hosted SigNoz, and the three-layer metrics bug that taught me more about OpenTelemetry than...",
+        "keywords": "agent, one, signoz, guardrail, you, cause, not, what",
+        "generated": "2026-07-26T08:33:55.338999",
+        "file": "agent-black-box-teaching-an-ai-agent-to-explain-its-own-failures.md"
     },
     {
         "title": "Forex Real-Time API Tutorial: Dynamic Add/Remove Currency Pair Depth Streams Over One WebSocket",
@@ -40772,6 +40948,17 @@
         "file": "oh-my-claudecode-hit-38017-stars-its-most-installed-skill-is-the-ai-slop-cleaner.md"
     },
     {
+        "title": "Harden Your Self-Hosted AI: A Practical Checklist for TLS, Auth, and Network Isolation",
+        "slug": "harden-your-self-hosted-ai-a-practical-checklist-for-tls-auth-and-network-isolation",
+        "author": "HyperNexus",
+        "source": "devto_ai",
+        "published": "Sun, 26 Jul 2026 08:19:36 +0000",
+        "description": "Harden Your Self-Hosted AI: A Practical Checklist for TLS, Auth, and Network Isolation Stop treating your self-hosted AI stack as a secure black box. This ha...",
+        "keywords": "your, security, tls, network, checklist, self, jwt, hosted",
+        "generated": "2026-07-26T08:33:55.344624",
+        "file": "harden-your-self-hosted-ai-a-practical-checklist-for-tls-auth-and-network-isolation.md"
+    },
+    {
         "title": "Cross-Lingual Entity Resolution: Why Your Knowledge Graph Has Four Samsungs",
         "slug": "cross-lingual-entity-resolution-why-your-knowledge-graph-has-four-samsungs",
         "author": "Tae Kim",
@@ -41815,6 +42002,17 @@
         "keywords": "agent, orkas, can, local, agents, context, tool, runtime",
         "generated": "2026-07-20T09:25:08.139374",
         "file": "rebuilding-orkas-for-long-running-agents.md"
+    },
+    {
+        "title": "ChatGPT Live Mode: So nutzt du KI als Live-Begleiter",
+        "slug": "chatgpt-live-mode-so-nutzt-du-ki-als-live-begleiter",
+        "author": "Everlast AI",
+        "source": "devto_ai",
+        "published": "Sun, 26 Jul 2026 08:26:21 +0000",
+        "description": "Der ChatGPT Live Mode ist eine neue Assistenz-Funktion von OpenAI. Sie liest deinen Bildschirm in Echtzeit mit und begleitet dich beim Arbeiten. Leonard Schm...",
+        "keywords": "und, der, die, claude, live, auf, ist, mit",
+        "generated": "2026-07-26T08:33:55.342670",
+        "file": "chatgpt-live-mode-so-nutzt-du-ki-als-live-begleiter.md"
     },
     {
         "title": "How To Securely Buy Verified PayPal Accounts Online you best",
