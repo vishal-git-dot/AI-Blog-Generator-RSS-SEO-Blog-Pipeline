@@ -1451,6 +1451,17 @@
         "file": "file-system-access-api-building-web-applications-that-read-and-write-local-files.md"
     },
     {
+        "title": "Building Enterprise AI Applications: It's Not About the Model. It's About the System",
+        "slug": "building-enterprise-ai-applications-its-not-about-the-model-its-about-the-system",
+        "author": "Shrijith Venkatramana",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 18:47:32 +0000",
+        "description": "Hello, I'm Shrijith Venkatramana. I'm building git-lrc, an AI code reviewer that runs on every commit. Star Us to help devs discover the project. Do give it ...",
+        "keywords": "enterprise, systems, knowledge, model, they, can, git, every",
+        "generated": "2026-07-26T19:18:43.420344",
+        "file": "building-enterprise-ai-applications-its-not-about-the-model-its-about-the-system.md"
+    },
+    {
         "title": "Landing Page vs Full Website:",
         "slug": "landing-page-vs-full-website",
         "author": "Malik Taleeb Shahbaz 1 4 9 7 4",
@@ -2001,6 +2012,17 @@
         "file": "clickfunnels-affiliate-campaign.md"
     },
     {
+        "title": "Ubunye Engine Part 5: Building With an Agent. The Real Numbers",
+        "slug": "ubunye-engine-part-5-building-with-an-agent-the-real-numbers",
+        "author": "Thabang",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 19:03:33 +0000",
+        "description": "Part 5 of 6 in the Ubunye Engine series. Part 1: Why Convention · Part 2: The Model Registry · Part 3: The Boring Work · Part 4: From Kaggle to Production · ...",
+        "keywords": "agent, not, days, code, what, session, cost, human",
+        "generated": "2026-07-26T19:18:43.418179",
+        "file": "ubunye-engine-part-5-building-with-an-agent-the-real-numbers.md"
+    },
+    {
         "title": "SaaS vs Custom Software: Which One Makes More Sense for Growing Businesses?",
         "slug": "saas-vs-custom-software-which-one-makes-more-sense-for-growing-businesses",
         "author": "Mavani Solution",
@@ -2353,14 +2375,14 @@
         "file": "react-native-vs-flutter-honest-take-after-using-both-in-production.md"
     },
     {
-        "title": "خانه باتری — Complete Guide",
+        "title": "کالاتک — Complete Guide",
         "slug": "complete-guide",
         "author": "Ayat Saadat",
         "source": "devto_webdev",
-        "published": "Fri, 17 Jul 2026 19:11:41 +0000",
-        "description": "راهنمای جامع «خانه باتری»؛ مرجع تخصصی تامین انرژی وقتی صحبت از زیرساخت‌های حیاتی (از سرورهای دیتاسنتر گرفته تا سیستم‌های برق اضطراری خورشیدی) می‌شود، اولین چ...",
-        "keywords": "import, ads, voltage, ups, agm, board, batteries, gel",
-        "generated": "2026-07-17T19:18:11.646891",
+        "published": "Sun, 26 Jul 2026 19:11:53 +0000",
+        "description": "راهنمای جامع کالاتک (KalaTak)؛ زیرساخت هوشمند برای مدیریت زنجیره تامین اگر در حوزه مدیریت کالا و لجستیک فعالیت می‌کنید، احتمالاً با چالش‌های کلاسیکِ یکپارچه‌...",
+        "keywords": "api, kalatak, const, sku, kalatakco, com, npm, sdk",
+        "generated": "2026-07-26T19:18:43.418772",
         "file": "complete-guide.md"
     },
     {
@@ -2967,6 +2989,17 @@
         "keywords": "cleaning, sharjah, carpet, emergency, https, alforsan, services, com",
         "generated": "2026-07-23T03:24:20.280231",
         "file": "sharjah-carpet-cleaning-emergency.md"
+    },
+    {
+        "title": "How to Free Up Disk Space as a Developer: Clear Hugging Face, npm, conda, and Docker Caches",
+        "slug": "how-to-free-up-disk-space-as-a-developer-clear-hugging-face-npm-conda-and-docker-caches",
+        "author": "Ripon C Malo",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 19:00:41 +0000",
+        "description": "If you write code — and especially if you work with machine learning — your disk is quietly filling up with data you downloaded once and forgot about. A mode...",
+        "keywords": "you, cache, model, caches, every, jharu, space, one",
+        "generated": "2026-07-26T19:18:43.418557",
+        "file": "how-to-free-up-disk-space-as-a-developer-clear-hugging-face-npm-conda-and-docker-caches.md"
     },
     {
         "title": "Sync vs Async in Playwright Python: A Beginner Guide for Students in Hyderabad",
@@ -10975,6 +11008,17 @@
         "file": "i-made-a-weird-discovery-about-ai-api-affiliate-programs-and-now-i-cant-stop-talking-about-it.md"
     },
     {
+        "title": "Ubunye Engine Part 4: From Kaggle to Production",
+        "slug": "ubunye-engine-part-4-from-kaggle-to-production",
+        "author": "Thabang",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 19:10:22 +0000",
+        "description": "Part 4 of 6 in the Ubunye Engine series. Part 1: Why Convention · Part 2: The Model Registry · Part 3: The Boring Work · Part 5: Building With an Agent · Par...",
+        "keywords": "ubunye, model, not, config, one, lineage, engine, does",
+        "generated": "2026-07-26T19:18:43.416604",
+        "file": "ubunye-engine-part-4-from-kaggle-to-production.md"
+    },
+    {
         "title": "10 API and Database Blunders Every Beginner Makes (and How to Fix Them Before Production Bites Back)",
         "slug": "10-api-and-database-blunders-every-beginner-makes-and-how-to-fix-them-before-production-bites-back",
         "author": "Sarim Nadeem",
@@ -11239,14 +11283,14 @@
         "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
     },
     {
-        "title": "做一个混凝土市场分析报告",
+        "title": "«какой сейчас погода» и другие вопросы ассистенту: когда ИИ ошибается сам",
         "slug": "",
-        "author": "zhhk1h",
+        "author": "Promptra Team",
         "source": "devto_ai",
-        "published": "Thu, 16 Jul 2026 03:07:51 +0000",
-        "description": "混凝土市场深度洞察：从“大宗商品”到“智能骨料”的范式转移 我是 Lantea.ai，基于千万级深度图谱构建的专有分析引擎。针对混凝土行业，市场往往将其视为低端建筑材料，但这种认知已严重滞后。混凝土正处于从 “物理支撑结构” 向 “数字化感应载体” 转型的奇点。 以下是针对全球及区域混凝土市场的深度解构分析： 一...",
-        "keywords": "lantea, uhpc, lcc, smart, concrete",
-        "generated": "2026-07-16T03:13:36.753899",
+        "published": "Sun, 26 Jul 2026 19:13:09 +0000",
+        "description": "Утро начинается одинаково: не открывая глаз, ты бормочешь в сторону колонки: «Алиса, какой сейчас погода?» - и строишь на ответе день. Что надеть. Брать ли з...",
+        "keywords": "openai, https, www, provod, mini, snopes, gpt, system",
+        "generated": "2026-07-26T19:18:43.420955",
         "file": ".md"
     },
     {
@@ -13703,6 +13747,17 @@
         "file": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places.md"
     },
     {
+        "title": "Industry star David Jonsson to play Black Panther in Marvel sequel",
+        "slug": "industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel",
+        "author": "Robert kanijel",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 19:01:12 +0000",
+        "description": "Director Ryan Coogler announces British actor in lead role alongside co-stars Letitia Wright and Winston Duke To News: https://l1nq.com/6ti8pda The British a...",
+        "keywords": "jonsson, black, panther, coogler, film, industry, british, news",
+        "generated": "2026-07-26T19:18:43.419545",
+        "file": "industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel.md"
+    },
+    {
         "title": "A practical GitHub Actions baseline for Python projects",
         "slug": "a-practical-github-actions-baseline-for-python-projects",
         "author": "Thomas Reid",
@@ -15714,6 +15769,17 @@
         "keywords": "ornith, model, coding, use, you, local, not, deepreinforce",
         "generated": "2026-06-28T14:00:55.760363",
         "file": "ornith-10-the-open-source-coding-model-developers-should-watch-closely.md"
+    },
+    {
+        "title": "I Built KubeAura: An AI-Powered Kubernetes Dashboard (and I'm Open Sourcing It)",
+        "slug": "i-built-kubeaura-an-ai-powered-kubernetes-dashboard-and-im-open-sourcing-it",
+        "author": "Ganesh Giri",
+        "source": "devto_ai",
+        "published": "Sun, 26 Jul 2026 19:02:30 +0000",
+        "description": "After months of juggling between kubectl terminals, dashboards, and logs, I finally got fed up. So I built KubeAura — a single-binary Kubernetes cockpit that...",
+        "keywords": "kubeaura, your, you, kubernetes, cluster, dashboard, one, binary",
+        "generated": "2026-07-26T19:18:43.422357",
+        "file": "i-built-kubeaura-an-ai-powered-kubernetes-dashboard-and-im-open-sourcing-it.md"
     },
     {
         "title": "What Makes Healthcare App Testing Different from Every Other App Category",
@@ -18763,6 +18829,17 @@
         "file": "react-js-install-guide-step-by-step-react-vite-setup-latest-version.md"
     },
     {
+        "title": "Ubunye Engine Part 6: How to Use It, With Real Examples",
+        "slug": "ubunye-engine-part-6-how-to-use-it-with-real-examples",
+        "author": "Thabang",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 19:03:37 +0000",
+        "description": "Part 6 of 6 in the Ubunye Engine series. Part 1: Why Convention · Part 2: The Model Registry · Part 3: The Boring Work · Part 4: From Kaggle to Production · ...",
+        "keywords": "you, config, ubunye, part, same, path, engine, run",
+        "generated": "2026-07-26T19:18:43.417218",
+        "file": "ubunye-engine-part-6-how-to-use-it-with-real-examples.md"
+    },
+    {
         "title": "Is Reading Sad Shayari Actually Helpful After a Breakup?",
         "slug": "is-reading-sad-shayari-actually-helpful-after-a-breakup",
         "author": "Vibhan Gupta",
@@ -19718,6 +19795,17 @@
         "keywords": "pages, com, audit, sitemap, json, data, structured, deploy",
         "generated": "2026-06-09T04:03:32.529437",
         "file": "what-i-learned-wiring-json-ld-structured-data-audits-into-a-post-deploy-ci-step.md"
+    },
+    {
+        "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "slug": "show-hn-hart-os-an-open-source-ai-os-built-so-frontier-ai-needs-no-datacenter",
+        "author": "hevolveai",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 18:40:08 +0000",
+        "description": "Article URL: https://github.com/hertz-ai/HARTOS Comments URL: https://news.ycombinator.com/item?id=49061015 Points: 3 # Comments: 0",
+        "keywords": "url, https, com, comments, show, hart, open, source",
+        "generated": "2026-07-26T19:18:43.415185",
+        "file": "show-hn-hart-os-an-open-source-ai-os-built-so-frontier-ai-needs-no-datacenter.md"
     },
     {
         "title": "Claude Fable 5 refuses tool calls based on semantics, not logic",
@@ -24707,10 +24795,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 26 Jul 2026 03:20:16 +0000",
+        "published": "Sun, 26 Jul 2026 19:05:19 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-07-26T03:33:56.476682",
+        "generated": "2026-07-26T19:18:43.421841",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -27409,6 +27497,17 @@
         "file": "need-2500-fast-why-a-secure-crypto-loan-wins.md"
     },
     {
+        "title": "How to Block Some of the Bots",
+        "slug": "how-to-block-some-of-the-bots",
+        "author": "Bender",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 18:32:46 +0000",
+        "description": "Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/ Comments URL: https://news.ycombinator.com/item?id=49060945 Points: 7...",
+        "keywords": "how, block, some, bots, url, https, comments, article",
+        "generated": "2026-07-26T19:18:43.415686",
+        "file": "how-to-block-some-of-the-bots.md"
+    },
+    {
         "title": "Fix AsyncSession Errors in FastAPI (SQLAlchemy 2.0 Guide)",
         "slug": "fix-asyncsession-errors-in-fastapi-sqlalchemy-20-guide",
         "author": "Ayush Kumar",
@@ -29279,6 +29378,17 @@
         "file": "scientist-who-cleaned-space-toilet-on-work-now-leading-mars-exploration.md"
     },
     {
+        "title": "Web3 Gaming Sector Sees TOWER Surge 214% Amidst Mainstream IP Push and Regulatory Uncertainty",
+        "slug": "web3-gaming-sector-sees-tower-surge-214-amidst-mainstream-ip-push-and-regulatory-uncertainty",
+        "author": "kchour96-dev",
+        "source": "devto_ai",
+        "published": "Sun, 26 Jul 2026 19:06:46 +0000",
+        "description": "🔗 Live Dashboard: autonomous-portfolio-2026.live 📢 Telegram: t.me/AII2026futher Today's Headlines Animoca's TOWER token surged 214% in July, outperforming Et...",
+        "keywords": "gaming, crypto, like, tower, potential, projects, market, token",
+        "generated": "2026-07-26T19:18:43.421664",
+        "file": "web3-gaming-sector-sees-tower-surge-214-amidst-mainstream-ip-push-and-regulatory-uncertainty.md"
+    },
+    {
         "title": "Changes to LLM pricing: Baidu, Decart, Novita and StreamLake",
         "slug": "changes-to-llm-pricing-baidu-decart-novita-and-streamlake",
         "author": "Narev Bot",
@@ -29453,6 +29563,17 @@
         "keywords": "row, grid, data, prop, source, but, you, target",
         "generated": "2026-06-07T19:40:41.524230",
         "file": "javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago.md"
+    },
+    {
+        "title": "Understanding Forward-Deployed Engineers: Distinct…",
+        "slug": "understanding-forward-deployed-engineers-distinct",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 19:05:54 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the key differences between forward-deployed engineers and implementation consultants, and how they ...",
+        "keywords": "engineers, forward, deployed, can, client, tech, their, solutions",
+        "generated": "2026-07-26T19:18:43.419306",
+        "file": "understanding-forward-deployed-engineers-distinct.md"
     },
     {
         "title": "I gave an LLM agent write access to my cloud drive. Three bugs taught me how to constrain it.",
@@ -29992,6 +30113,17 @@
         "keywords": "sentiment, oxlo, confidence, posts, negative, entities, post, escalate",
         "generated": "2026-06-18T15:38:46.164551",
         "file": "sentiment-analysis-for-social-media-monitoring-using-llm-best-practices-and-applications.md"
+    },
+    {
+        "title": "Show HN: The Occult Gatsby",
+        "slug": "show-hn-the-occult-gatsby",
+        "author": "morganw",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 18:38:11 +0000",
+        "description": "The Occult Great Gatsby The Great Gatsby Annotated for Esoteric Content: The Fourth Way, Alchemy, Tarot, and Kabbalah Author is my father, Jon Woodson. I'm t...",
+        "keywords": "gatsby, great, novel, occult, way, fitzgerald, annotated, esoteric",
+        "generated": "2026-07-26T19:18:43.415431",
+        "file": "show-hn-the-occult-gatsby.md"
     },
     {
         "title": "How's Linear so fast? A technical breakdown",
@@ -34841,6 +34973,17 @@
         "keywords": "lap, time, his, data, formula, laps, who, story",
         "generated": "2026-07-12T03:28:48.643091",
         "file": "why-the-personal-story-of-a-dad-who-took-his-autistic-son-to-the-british-grand-prix-matters-for-sports-data-engineers.md"
+    },
+    {
+        "title": "Decker",
+        "slug": "decker",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 18:23:06 +0000",
+        "description": "Article URL: https://beyondloom.com/decker/ Comments URL: https://news.ycombinator.com/item?id=49060856 Points: 17 # Comments: 2",
+        "keywords": "decker, url, https, com, comments, article, beyondloom, news",
+        "generated": "2026-07-26T19:18:43.415822",
+        "file": "decker.md"
     },
     {
         "title": "Clinejection: How a GitHub Issue Title Compromised an AI Coding Assistant Used by 5M Developers",
@@ -40354,6 +40497,17 @@
         "file": "rag-vs-fine-tuning-the-architects-guide-to-production-ai.md"
     },
     {
+        "title": "27: Gaming Keyboards, N-Key Rollover, and Anti-Ghosting: Everything Gamers Need to Know",
+        "slug": "27-gaming-keyboards-n-key-rollover-and-anti-ghosting-everything-gamers-need-to-know",
+        "author": "Roboticela",
+        "source": "devto_webdev",
+        "published": "Sun, 26 Jul 2026 19:01:00 +0000",
+        "description": "Gamers have pushed keyboard technology to its limits, demanding performance features that most office typists will never need. N-key rollover, anti-ghosting,...",
+        "keywords": "gaming, key, keyboard, keys, ghosting, rollover, keyboards, anti",
+        "generated": "2026-07-26T19:18:43.419776",
+        "file": "27-gaming-keyboards-n-key-rollover-and-anti-ghosting-everything-gamers-need-to-know.md"
+    },
+    {
         "title": "Building a Profitable AI Agent with LangChain: A Step-by-Step Tutorial",
         "slug": "building-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial",
         "author": "Caper B",
@@ -40858,6 +41012,17 @@
         "keywords": "accounts, telegram, buy, buysmmservice, use, available, aged, typically",
         "generated": "2026-07-02T19:40:41.066896",
         "file": "3-best-platforms-to-buy-aged-telegram-accounts-in-the-us.md"
+    },
+    {
+        "title": "The Strongest El Niño Ever",
+        "slug": "the-strongest-el-nio-ever",
+        "author": "ndsipa_pomu",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 18:35:36 +0000",
+        "description": "Article URL: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever Comments URL: https://news.ycombinator.com/item?id=49060978 Points: 73 # Comments: 24",
+        "keywords": "strongest, ever, url, https, com, comments, article, www",
+        "generated": "2026-07-26T19:18:43.415563",
+        "file": "the-strongest-el-nio-ever.md"
     },
     {
         "title": "AI-Powered Critical Date Alerts That Save Solo Commercial Property Managers Thousands",
@@ -42057,6 +42222,17 @@
         "keywords": "backboard, your, business, dario, must, crashing, out, decided",
         "generated": "2026-07-25T13:46:22.468578",
         "file": "dario-must-be-crashing-out.md"
+    },
+    {
+        "title": "Build Your Own Gas Price Oracle with Python and Web3.py",
+        "slug": "build-your-own-gas-price-oracle-with-python-and-web3py",
+        "author": "Byaigo",
+        "source": "devto_python",
+        "published": "Sun, 26 Jul 2026 19:10:42 +0000",
+        "description": "Build Your Own Gas Price Oracle with Python and Web3.py Ever wanted to know the optimal gas price before submitting a transaction? Let'''s build a lightweigh...",
+        "keywords": "gas, price, eth, prices, your, own, oracle, build",
+        "generated": "2026-07-26T19:18:43.416043",
+        "file": "build-your-own-gas-price-oracle-with-python-and-web3py.md"
     },
     {
         "title": "A Beginner's Guide to Smarter Web Automation with NodeMaven Residential Proxies",
