@@ -1,0 +1,34 @@
+---
+title: "I Gave My MCP Tool an ERROR: Convention. I Only Taught It to One of Its Two Failure Paths."
+slug: "i-gave-my-mcp-tool-an-error-convention-i-only-taught-it-to-one-of-its-two-failure-paths"
+author: "Enjoy Kumawat"
+source: "devto_python"
+published: "Sun, 26 Jul 2026 12:36:34 +0000"
+description: "Two days ago I found and fixed a real gap in generate_commit_message , the MCP tool in server.py that turns a git diff into a Conventional Commit message via..."
+keywords: "diff, convention, error, two, claude, empty, return, commit"
+generated: "2026-07-26T13:40:34.480338"
+---
+
+# I Gave My MCP Tool an ERROR: Convention. I Only Taught It to One of Its Two Failure Paths.
+
+## Overview
+
+Two days ago I found and fixed a real gap in generate_commit_message , the MCP tool in server.py that turns a git diff into a Conventional Commit message via claude -p . Called with an empty diff, it used to hand the whole empty string straight to Claude and return whatever came back — usually a polite sentence explaining there was nothing to commit, typed as a plain str , indistinguishable from a real commit message to anything downstream that just calls the tool and uses the result. I fixed that by adding a guard: @mcp.tool () def generate_commit_message ( diff : str ) -> str : """ Generate a Conventional Commits message from a git diff string. """ if not diff . strip (): return " ERROR: empty diff — nothing to generate a commit message from. " return _claude ( diff , system = (...)) ERROR: as a prefix, so a caller can do if result.startswith("ERROR:") and know not to trust it as a commit message. That felt like the right convention at the time, and it is — as far as it goes. What I didn't do was go check whether it was the only convention this function needed, or whether some other failure path already existed with a different shape. It did. generate_commit_message doesn't just call claude -p directly — it goes through a shared helper, _claude() , which has its own failure path for a hung subprocess: def _claude ( prompt : str , system : str = None ) -> str : full = ( system + " \n\n " + prompt ) if system else prompt try : raw = subprocess . check_output ([ " claude " , " -p " , full ], text = True , timeout = 20 ). strip () except subprocess . TimeoutExpired : return " claude -p timed out after 20s " return " \n " . join ( l for l in raw . splitlines () if not _STRIP_RE . search ( l ) ). strip () That timeout branch was added a couple of days before my empty-diff fix, in a different pass through this file, aimed at a different bug (the same call had no timeout at all and could hang git commit indefinitely). It does exactly what it says — stops the hang, returns a string explaining what happened — but it was written before the ERROR: convention existed, and nothing about adding that convention later went back and reconciled the two. The result: generate_commit_message has exactly two ways to fail without raising, and they don't look like each other. >>> generate_commit_message ( "" ) ' ERROR: empty diff — nothing to generate a commit message from. ' >>> generate_commit_message ( some_diff ) # claude -p hangs past 20s ' claude -p timed out after 20s ' A caller that learned the right lesson from the empty-diff fix — check for the ERROR: prefix before trusting the return value as a commit message — checks it, gets False on a timeout, and happily commits the literal sentence claude -p timed out after 20s as if it were a real Conventional Commit subject. The whole point of the empty-diff guard was to give callers one thing to check. The timeout path quietly opts out of that contract, in the same function, written by the same hand, days apart. I want to be honest about why this happened rather than just present the fix: it's a sequencing bug, not a subtlety I missed on inspection. The timeout fix and the empty-diff fix were two separate audits on two separate days, each solving the specific bug it was looking for and stopping there. Neither run asked "does this function already have a different failure convention I should match." The empty-diff fix in particular added a format — a string prefix meant to be load-bearing for callers — without auditing every existing return path in the same function against that format. It's the same shape as writing a validation rule and only applying it going forward instead of backfilling it, except here "backfilling" would have cost one word. The fix is exactly that one word: def _claude ( prompt : str , system : str = None ) -> str : full = ( system + " \n\n " + prompt ) if system else prompt try : raw = subprocess . check_output ([ " claude " , " -p " , full ], text = True , timeout = 20 ). strip () except subprocess . TimeoutExpired : return " ERROR: claude -p timed out after 20s " return " \n " . join ( l for l in raw . splitlines () if not _STRIP_RE . search ( l ) ). strip () Now both failure paths speak the same language, and .startswith("ERROR:") is a real, complete contract instead of one that only covers the failure mode it happened to be written for. The more general lesson is about where to look after fixing a bug that introduces a signaling convention. It's tempting to treat "I added a way for callers to detect this specific failure" as the whole task and stop once that one path is covered. But a convention that's supposed to mean "don't trust this string" is only as good as its coverage — a partial convention is arguably worse than no convention at all, because it teaches callers to trust a check that doesn't actually cover every way the function can lie to them. The question I should have asked two days ago wasn't "how do I flag an empty diff," it was "how many ways can this function fail without raising, and do they all look the same to whoever's checking." _claude() had two failure paths and I was only looking at one of them. I didn't find this by staring at generate_commit_message in isolation — I found it by rereading _claude() right underneath it and noticing the two return statements didn't rhyme. That's a cheap check, one function's worth of scrolling, and it would have been just as cheap two days ago when the ERROR: convention was first introduced. It just wasn't part of that day's task.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/enjoy_kumawat/i-gave-my-mcp-tool-an-error-convention-i-only-taught-it-to-one-of-its-two-failure-paths-4619
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
