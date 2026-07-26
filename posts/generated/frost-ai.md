@@ -1,19 +1,19 @@
 ---
-title: "FROST周报 | 为什么智能体需要「谱系」？从生物学隐喻看AI治理新范式"
+title: "FROST 周末慢读：当你让 AI 学会「辈分」"
 slug: "frost-ai"
 author: "llimage"
 source: "devto_python"
-published: "Mon, 13 Jul 2026 03:23:22 +0000"
-description: "FROST周报 | 为什么智能体需要「谱系」？从生物学隐喻看AI治理新范式 作者按 ：本文是 FROST 开源项目的每日推广系列文章，周一深度篇。 一、一个被忽视的根本问题 当我们谈论 AI Agent 时，大多数讨论都聚焦于「能力」：能不能写代码？能不能调用工具？能不能规划任务？ 但有一个根本问题很少被触及： ..."
-keywords: "agent, frost, store, sop, https, gitee, com, python"
-generated: "2026-07-13T03:31:49.169823"
+published: "Sun, 26 Jul 2026 03:23:45 +0000"
+description: "FROST 周末慢读：当你让 AI 学会「辈分」 作者：FROST Team | 2026-07-26 | 周日慢读 你有没有想过，为什么现在的 AI Agent 总是「记性不好」？ 上周让 AI 帮你处理了一个任务，这周换个说法，它就完全不认识你了。不是它不想记住，而是传统 AI Agent 根本没有「代际传承..."
+keywords: "frost, agent, sop, self, parent, store, name, skill"
+generated: "2026-07-26T03:33:56.473416"
 ---
 
-# FROST周报 | 为什么智能体需要「谱系」？从生物学隐喻看AI治理新范式
+# FROST 周末慢读：当你让 AI 学会「辈分」
 
 ## Overview
 
-FROST周报 | 为什么智能体需要「谱系」？从生物学隐喻看AI治理新范式 作者按 ：本文是 FROST 开源项目的每日推广系列文章，周一深度篇。 一、一个被忽视的根本问题 当我们谈论 AI Agent 时，大多数讨论都聚焦于「能力」：能不能写代码？能不能调用工具？能不能规划任务？ 但有一个根本问题很少被触及： 当一个 Agent 执行了错误的决策时，谁来负责？当它消亡后，它的经验能否被传承？ 就像一个没有记忆的人，每次醒来都是白纸一张——这不叫智能体，这叫复读机。 FROST 正是为了解决这个「治理真空」而诞生的。 二、从细胞分裂到 Agent 家族 FROST 的核心哲学只有一句话： 细胞会死，但谱系会存续。Agent 会消亡，但宪法会传承。资产会永存。 这不是文学修辞，而是一套完整的技术架构。 四个原子：最小可行集合 FROST 只定义了四个原子，却能构建任意复杂度的智能体系统： 原子 职责 生物类比 Store 记忆容器，只做 save/load/delete 细胞核 Skill 纯能力单元，无状态无副作用 蛋白质 Agent 膜包裹的细胞，拥有 Store + Skills 神经细胞 SOP 有序步骤列表，可教学、校验、优化 宪法文本 from core import Store , Agent , skill_set , skill_get # 创建一个最小 Agent store = Store () agent = Agent ( " cell " , store , skills = { " set_context " : skill_set , " get_context " : skill_get }) # 执行任务 result = agent . run ( sop_steps = [ " set_context " , " get_context " ], initial_context = { " key " : " message " , " value " : " FROST is alive " } ) # result["_result"] == "FROST is alive" 关键洞察 ：Store、Skill、Agent、SOP 这四个概念彼此正交，可以自由组合。就像乐高积木，从简单到复杂，始终保持可解释性。 三、家族治理：超越扁平架构 传统的多 Agent 系统通常是扁平的：所有 Agent 平等对话，没有层级，没有记忆，没有责任边界。 FROST 引入了「家族治理模型」——一个三层递归结构： 祖辈 (Ancestor) ：定义不可违背的宪法与长期目标 父辈 (Parent) ：领域协调者，可递归委托 孙辈 (Leaf) ：执行具体原子任务，瞬态存在 四个协议保障治理闭环 ： 层级 Store 继承 ：祖先记忆只读，后代自动继承 SOP 宪法校验 ：祖辈审核后代 SOP，拒绝违规执行 编排层级限制 ： max_spawn_generation 硬编码，禁止越级 spawn 选择性持久化 ：父辈收割有价值产出，淘汰冗余 Agent 四、V5.0 五维元模型：多维治理架构 2026年7月发布的 V5.0 引入了一个重大升级—— 五维元模型 ： 维度 模块 核心职责 武器注册表 Armory 能力的元数据管理与发现 任务注册表 TaskRegistry DAG 任务编排与图谱 SOP 事件编目 EventCatalog + Strategist 态势感知与双模式事件分析 平台注册表 PlatformRegistry 外部能力的发现、调用与健康检查 规则注册表 RuleRegistry 可版本化的治理约束与合规检查 197 个测试用例 保障了每个维度的质量。 五、与现有框架的差异 维度 LangChain CrewAI FROST 状态管理 链式传递 角色记忆 层级 Store 权限边界 无 提示词软约束 代码强制只读 治理可审计 无 对话日志 结构化执行历史 架构无关 ✅ ✅ ✅ FROST 不重复造轮子。它填补的是「治理」这个空白地带： 让多智能体系统真正可控制、可追溯、可进化 。 六、快速体验 # 克隆仓库 git clone https://gitee.com/liao_liang_7514/frost.git cd frost # 运行测试 python -m pytest # 查看示例 python frost_run.py 完整文档： https://gitee.com/liao_liang_7514/frost 七、写在最后 AI Agent 的下一阶段，不是更强的模型，而是 更好的治理 。 当我们把 100 个 Agent 放在一起时，如果没有宪法、没有层级、没有记忆传承，它们要么混乱，要么重复劳动，要么在错误的方向上越走越远。 FROST 的答案是： 让智能体拥有谱系、记忆和荣誉感。 如果你也在思考 Agent 治理的问题，欢迎一起探索。 相关链接 FROST 教学框架： https://gitee.com/liao_liang_7514/frost FROST-SOP 工程平台： https://gitee.com/liao_liang_7514/frost-sop Tags : python agent ai opensource
+FROST 周末慢读：当你让 AI 学会「辈分」 作者：FROST Team | 2026-07-26 | 周日慢读 你有没有想过，为什么现在的 AI Agent 总是「记性不好」？ 上周让 AI 帮你处理了一个任务，这周换个说法，它就完全不认识你了。不是它不想记住，而是传统 AI Agent 根本没有「代际传承」的能力。 而 FROST，想让 AI 学会「辈分」。 🏠 如果 AI 也有一个家族 在 FROST 的世界里，AI Agent 不是孤立存在的。它们有一个家族： 祖辈（Elder） ：制定宪法，定义什么能做、什么不能做，一辈子只干这一件事 父辈（Parent） ：负责协调，可以把任务拆分给「孩子」去执行 孙辈（Child） ：具体执行者，用完即散，不占资源 这不是角色扮演游戏，而是一套 结构化的治理协议 。 🔑 三个核心问题 问题一：Agent 那么多，谁说了算？ 在 FROST 里， 祖辈是唯一真正「常驻」的 。其他都是动态生成的临时角色，执行完任务就解散。 这意味着什么？ ✅ 权限边界清晰——君主不管执行 ✅ 责任追溯明确——长老记录一切 ✅ 资源按需分配——不需要养一支常备军 问题二：新 Agent 上任，怎么知道该做什么？ 传统系统靠「文档」，FROST 靠 记忆传承 。 ┌─────────────────────────────────────────────┐ │ 祖辈 Store：宪法 + 核心资产 │ │ ↓ 继承 │ │ 父辈 Store：领域知识 + 执行规范 │ │ ↓ 继承 │ │ 孙辈 Store：当前任务上下文 │ └─────────────────────────────────────────────┘ 新 Agent 诞生时，自动继承家族积累的所有经验。不是重新学习，而是 站在巨人的肩膀上 。 问题三：怎么防止「熊孩子」乱来？ FROST 有三层约束： 宪法层 ： 宪法.py 定义不可违背的铁律 授权层 ：子 Agent 必须获得父辈的技能授权 代数层 ：限制了动态生成的层级深度 # FROST 的宪法协议简化示例 class SOP : def __init__ ( self , name , authorized_skills = None , parent = None ): self . name = name self . authorized_skills = authorized_skills or [] self . parent = parent def can_delegate ( self , child_sop , skill ): """ 检查授权链 """ if skill in self . authorized_skills : return True if self . parent : return self . parent . can_delegate ( child_sop , skill ) return False 🛠️ 从思想到工程：FROST-SOP FROST 是 思想 ，FROST-SOP 是 工程落地 。 如果你觉得 FROST 的理念有意思，想动手试试，FROST-SOP 就是一个完整可用的工程平台： git clone https://gitee.com/liao_liang_7514/frost-sop.git cd frost-sop python initialize.py python main.py 5 分钟跑起来 ，这就是 FROST-SOP 的设计目标——让理念不只是空中楼阁。 🌟 周日的思考 周末不想看复杂的技术文章？没关系。 记住这一个比喻就够了： FROST = 给 AI Agent 找一个「靠谱的家族」。 在这个家族里，祖辈立规矩，父辈做协调，孙辈干活。每代人都在为下一代积累经验，每代人都知道自己的边界在哪里。 这不是银发家庭的理想，也是 AI Agent 系统的理想。 📚 相关资源 项目 链接 FROST 教学框架 https://gitee.com/liao_liang_7514/frost FROST-SOP 工程平台 https://gitee.com/liao_liang_7514/frost-sop 本文是 FROST 双项目每日推广系列，周日慢读轮换主题
 
 ## Key Insights
 
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/llimage/frostzhou-bao-wei-shi-yao-zhi-neng-ti-xu-yao-pu-xi-cong-sheng-wu-xue-yin-yu-kan-aizhi-li-xin-fan-shi-2449
+https://dev.to/llimage/frost-zhou-mo-man-du-dang-ni-rang-ai-xue-hui-bei-fen--3j8e
 
 ## Conclusion
 
