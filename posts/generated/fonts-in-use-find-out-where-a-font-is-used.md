@@ -4,16 +4,16 @@ slug: "fonts-in-use-find-out-where-a-font-is-used"
 author: "open_"
 source: "hackernews"
 published: "Sun, 26 Jul 2026 23:45:09 +0000"
-description: "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 29 # Comments: 1"
+description: "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 66 # Comments: 5"
 keywords: "url, https, com, comments, fonts, use, find, out"
-generated: "2026-07-27T03:38:46.275218"
+generated: "2026-07-27T10:00:36.745649"
 ---
 
 # Fonts In Use – Find out where a font is used
 
 ## Overview
 
-Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 29 # Comments: 1
+Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 66 # Comments: 5
 
 ## Key Insights
 

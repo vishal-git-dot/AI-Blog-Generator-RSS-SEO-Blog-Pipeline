@@ -4,16 +4,16 @@ slug: "pgsimcity-how-postgresql-works"
 author: "jonbaer"
 source: "hackernews"
 published: "Mon, 27 Jul 2026 00:19:04 +0000"
-description: "Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 195 # Comments: 27"
+description: "Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 586 # Comments: 59"
 keywords: "pgsimcity, url, https, comments, how, postgresql, works, article"
-generated: "2026-07-27T03:38:46.274801"
+generated: "2026-07-27T10:00:36.745510"
 ---
 
 # PGSimCity - How PostgreSQL Works
 
 ## Overview
 
-Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 195 # Comments: 27
+Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 586 # Comments: 59
 
 ## Key Insights
 
