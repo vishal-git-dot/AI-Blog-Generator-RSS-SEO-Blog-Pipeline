@@ -3277,6 +3277,17 @@
         "file": "new-vulnerability-rogue-agent-highlights-ai-agent-security-risks-in-cloud-platforms.md"
     },
     {
+        "title": "Aged Email Accounts: Benefits, Risks, and Best Practices for Businesses",
+        "slug": "aged-email-accounts-benefits-risks-and-best-practices-for-businesses",
+        "author": "Vera M Bacon",
+        "source": "devto_ai",
+        "published": "Mon, 27 Jul 2026 03:18:21 +0000",
+        "description": "Aged Email Accounts: Benefits, Risks, and Best Practices for Businesses Introduction Email remains one of the most important communication tools for business...",
+        "keywords": "email, accounts, businesses, communication, should, security, practices, organizations",
+        "generated": "2026-07-27T03:38:46.281089",
+        "file": "aged-email-accounts-benefits-risks-and-best-practices-for-businesses.md"
+    },
+    {
         "title": "Prof. Dr. Gustavo Henrique Valente: Building a Regime-Detection Layer for Brazilian Market Data",
         "slug": "prof-dr-gustavo-henrique-valente-building-a-regime-detection-layer-for-brazilian-market-data",
         "author": "Dr. Gustavo Henrique Valente",
@@ -4212,6 +4223,17 @@
         "file": "the-last-spark.md"
     },
     {
+        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+        "slug": "scriptc-by-vercel-typescript-to-native-compiler-no-javascript-engine-in-binary",
+        "author": "maxloh",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 22:46:10 +0000",
+        "description": "Article URL: https://github.com/vercel-labs/scriptc Comments URL: https://news.ycombinator.com/item?id=49063175 Points: 39 # Comments: 16",
+        "keywords": "scriptc, vercel, url, https, com, comments, typescript, native",
+        "generated": "2026-07-27T03:38:46.275344",
+        "file": "scriptc-by-vercel-typescript-to-native-compiler-no-javascript-engine-in-binary.md"
+    },
+    {
         "title": "Dünya Kupası 2026 Maç Sonuçlarını AI ile Nasıl Tahmin Ettim?",
         "slug": "dnya-kupas-2026-ma-sonularn-ai-ile-nasl-tahmin-ettim",
         "author": "Tuğberk Akbulut",
@@ -4997,10 +5019,10 @@
         "slug": "how-to-scrape-linkedin-profiles-in-2026-full-guide",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sun, 26 Jul 2026 07:28:16 +0000",
+        "published": "Mon, 27 Jul 2026 03:11:33 +0000",
         "description": "How to Scrape LinkedIn Profiles in 2026 — Full Guide Need to extract LinkedIn profile data for recruitment, sales leads, or market research? Here's a complet...",
         "keywords": "linkedin, data, scrape, profiles, full, guide, profile, research",
-        "generated": "2026-07-26T08:33:55.340503",
+        "generated": "2026-07-27T03:38:46.276801",
         "file": "how-to-scrape-linkedin-profiles-in-2026-full-guide.md"
     },
     {
@@ -7444,6 +7466,17 @@
         "file": "language-translation-with-llms-a-guide.md"
     },
     {
+        "title": "Browser automation for AI agents, in a single 7 MB binary",
+        "slug": "browser-automation-for-ai-agents-in-a-single-7-mb-binary",
+        "author": "Shubham",
+        "source": "devto_ai",
+        "published": "Mon, 27 Jul 2026 03:29:06 +0000",
+        "description": "Kitewright gives LLM agents a real browser — navigate, screenshot, extract, PDF — without the Node.js and Playwright weight. Written in Rust, installs in one...",
+        "keywords": "kitewright, browser, mcp, agents, node, one, binary, tools",
+        "generated": "2026-07-27T03:38:46.279703",
+        "file": "browser-automation-for-ai-agents-in-a-single-7-mb-binary.md"
+    },
+    {
         "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
         "slug": "how-the-terrorist-group-boko-haram-uses-frontier-ai",
         "author": "imustachyou",
@@ -8940,6 +8973,17 @@
         "file": "12-things-you-can-do-with-a-minute-level-historical-options-data-api.md"
     },
     {
+        "title": "My LLM App Was Charging Rent-Controlled Tenants Penthouse Prices — So I Built a Router to Fix It",
+        "slug": "my-llm-app-was-charging-rent-controlled-tenants-penthouse-prices-so-i-built-a-router-to-fix-it",
+        "author": "Ayush Singh Tomar",
+        "source": "devto_python",
+        "published": "Mon, 27 Jul 2026 03:30:15 +0000",
+        "description": "Every LLM app I've built has the same expensive habit: one model, every request. What is FastAPI? and compare these five architectures in depth go to the...",
+        "keywords": "model, llm, router, what, cost, you, one, every",
+        "generated": "2026-07-27T03:38:46.275815",
+        "file": "my-llm-app-was-charging-rent-controlled-tenants-penthouse-prices-so-i-built-a-router-to-fix-it.md"
+    },
+    {
         "title": "Upload your product docs to BizNode's knowledge base. Your Telegram bot instantly answers customer questions from your own data",
         "slug": "upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-questions-from-your-own-data",
         "author": "shashikanth ramamurthy",
@@ -9279,6 +9323,17 @@
         "keywords": "google, will, pay, spacex, per, month, compute, url",
         "generated": "2026-06-06T13:56:22.889349",
         "file": "google-will-pay-spacex-920m-per-month-for-compute.md"
+    },
+    {
+        "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+        "slug": "show-hn-port-zero-how-i-learned-to-stop-worrying-and-love-port0",
+        "author": "octopoc",
+        "source": "hackernews",
+        "published": "Mon, 27 Jul 2026 00:03:48 +0000",
+        "description": "Hi HN, Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backen...",
+        "keywords": "port, you, portzero, virtual, your, https, process, local",
+        "generated": "2026-07-27T03:38:46.275080",
+        "file": "show-hn-port-zero-how-i-learned-to-stop-worrying-and-love-port0.md"
     },
     {
         "title": "Buy Understanding Skrill Accounts: Digital Payment",
@@ -10599,6 +10654,17 @@
         "keywords": "what, you, more, actually, pacific, getting, practical, winters",
         "generated": "2026-06-28T04:20:44.691993",
         "file": "what-actually-happens-during-an-el-nio-winter-a-practical-guide-for-2026-27.md"
+    },
+    {
+        "title": "Fonts In Use – Find out where a font is used",
+        "slug": "fonts-in-use-find-out-where-a-font-is-used",
+        "author": "open_",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 23:45:09 +0000",
+        "description": "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 29 # Comments: 1",
+        "keywords": "url, https, com, comments, fonts, use, find, out",
+        "generated": "2026-07-27T03:38:46.275218",
+        "file": "fonts-in-use-find-out-where-a-font-is-used.md"
     },
     {
         "title": "Mouse Polling Rate Test: Check Mouse Hz and Fix Low Readings",
@@ -12469,6 +12535,17 @@
         "keywords": "hrv, biofeedback, training, nirasynth, you, resources, clinicians, researchers",
         "generated": "2026-07-02T09:22:43.957630",
         "file": "hrv-training-biofeedback-nirasynthai-jul-2026.md"
+    },
+    {
+        "title": "Nvidia Cosmos: The World Foundation Model Reshaping Physical AI",
+        "slug": "nvidia-cosmos-the-world-foundation-model-reshaping-physical-ai",
+        "author": "shakti tiwari",
+        "source": "devto_ai",
+        "published": "Mon, 27 Jul 2026 03:21:58 +0000",
+        "description": "Nvidia Cosmos: The World Foundation Model Reshaping Physical AI By Shakti Tiwari — Nifty Option Trader, ML/Quant Builder, and local-AI practitioner. Educatio...",
+        "keywords": "world, cosmos, model, physical, models, real, nvidia, not",
+        "generated": "2026-07-27T03:38:46.280489",
+        "file": "nvidia-cosmos-the-world-foundation-model-reshaping-physical-ai.md"
     },
     {
         "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
@@ -15595,6 +15672,17 @@
         "file": "for-update-skip-locked-the-postgres-feature-that-saved-my-digital-cloakroom.md"
     },
     {
+        "title": "PGSimCity - How PostgreSQL Works",
+        "slug": "pgsimcity-how-postgresql-works",
+        "author": "jonbaer",
+        "source": "hackernews",
+        "published": "Mon, 27 Jul 2026 00:19:04 +0000",
+        "description": "Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 195 # Comments: 27",
+        "keywords": "pgsimcity, url, https, comments, how, postgresql, works, article",
+        "generated": "2026-07-27T03:38:46.274801",
+        "file": "pgsimcity-how-postgresql-works.md"
+    },
+    {
         "title": "Ships keep moving through Hormuz despite strike",
         "slug": "ships-keep-moving-through-hormuz-despite-strike",
         "author": "everybodyknows",
@@ -15670,6 +15758,17 @@
         "keywords": "agent, new, kit, auth, add, founder, change, not",
         "generated": "2026-07-18T13:26:53.515561",
         "file": "the-real-app-building-kit-for-non-technical-founders-trustworthy-ai-powered-development.md"
+    },
+    {
+        "title": "Spark Performance Deep Dive on Databricks: Shuffle Tuning, Skew Handling, and Z-Ordering with Delta Lake + Unity Catalog",
+        "slug": "spark-performance-deep-dive-on-databricks-shuffle-tuning-skew-handling-and-z-ordering-with-delta-lake-unity-catalog",
+        "author": "Jubin Soni",
+        "source": "devto_python",
+        "published": "Mon, 27 Jul 2026 03:14:33 +0000",
+        "description": "The problem with just add more workers Most Spark performance issues on Databricks aren't solved by scaling the cluster — they're caused by shuffle and ske...",
+        "keywords": "spark, table, shuffle, delta, events, tables, databricks, skew",
+        "generated": "2026-07-27T03:38:46.276589",
+        "file": "spark-performance-deep-dive-on-databricks-shuffle-tuning-skew-handling-and-z-ordering-with-delta-lake-unity-catalog.md"
     },
     {
         "title": "Best Lovable Alternatives for Teams Building Past the Prototype Stage",
@@ -19775,6 +19874,17 @@
         "file": "the-future-of-work-in-the-ai-era-skills-every-developer-should-build.md"
     },
     {
+        "title": "Multimodal Is Not a Feature Anymore. It's the New Baseline.",
+        "slug": "multimodal-is-not-a-feature-anymore-its-the-new-baseline",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Mon, 27 Jul 2026 03:31:32 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "not, you, what, agent, can, actually, when, have",
+        "generated": "2026-07-27T03:38:46.278527",
+        "file": "multimodal-is-not-a-feature-anymore-its-the-new-baseline.md"
+    },
+    {
         "title": "Quick Tip: Python pytest Examples",
         "slug": "quick-tip-python-pytest-examples",
         "author": "niuniu",
@@ -20983,6 +21093,17 @@
         "keywords": "you, returns, not, finance, building, yourself, they, risk",
         "generated": "2026-06-09T20:13:36.281448",
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
+    },
+    {
+        "title": "Buy Verified PayPal Account: A Complete Guide for Secure Online Transactions (2026)",
+        "slug": "buy-verified-paypal-account-a-complete-guide-for-secure-online-transactions-2026",
+        "author": "Vera M Bacon",
+        "source": "devto_webdev",
+        "published": "Mon, 27 Jul 2026 03:25:05 +0000",
+        "description": "Buy Verified PayPal Account: A Complete Guide for Secure Online Transactions (2026) Meta Title Buy Verified PayPal Account – Secure & Trusted PayPal Accounts...",
+        "keywords": "paypal, account, verified, accounts, online, your, payments, buy",
+        "generated": "2026-07-27T03:38:46.278930",
+        "file": "buy-verified-paypal-account-a-complete-guide-for-secure-online-transactions-2026.md"
     },
     {
         "title": "Breaking Barriers: How Python Full Stack Training in Marathahalli Sparks Career Growth for 2026",
@@ -24795,10 +24916,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 26 Jul 2026 19:05:19 +0000",
+        "published": "Mon, 27 Jul 2026 03:19:18 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-07-26T19:18:43.421841",
+        "generated": "2026-07-27T03:38:46.280641",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -25625,6 +25746,17 @@
         "keywords": "url, https, com, comments, built, browser, based, file",
         "generated": "2026-07-19T08:26:32.154327",
         "file": "i-built-a-browser-based-p2p-file-transfer-tool-using-webrtc.md"
+    },
+    {
+        "title": "为什么说FROST重新定义了AI Agent的'家族'概念？",
+        "slug": "frostai-agent",
+        "author": "llimage",
+        "source": "devto_python",
+        "published": "Mon, 27 Jul 2026 03:24:21 +0000",
+        "description": "为什么说FROST重新定义了AI Agent的家族概念？ 你有没有想过：如果AI Agent也有家族传承，会是什么样子？ 不是简单的数据存储，也不是粗暴的提示词注入。FROST（Fractal Runtime of Orchestrated Skills & Tasks）给出了一个优雅的答案——用生物学隐...",
+        "keywords": "frost, self, store, agent, sop, key, parent, return",
+        "generated": "2026-07-27T03:38:46.276043",
+        "file": "frostai-agent.md"
     },
     {
         "title": "Rocketlab acquires Iridium",
@@ -26681,6 +26813,17 @@
         "keywords": "your, you, portfolio, can, tools, free, professional, browser",
         "generated": "2026-06-14T14:17:29.352613",
         "file": "level-up-your-dev-presence-build-a-killer-portfolio-without-spending-a-dime.md"
+    },
+    {
+        "title": "Analyzing Formula 1 Data: Norris cautious despite pole as it falls apart for Hamilton — What the Numbers Say",
+        "slug": "analyzing-formula-1-data-norris-cautious-despite-pole-as-it-falls-apart-for-hamilton-what-the-numbers-say",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Mon, 27 Jul 2026 03:09:03 +0000",
+        "description": "Analyzing Formula 1 Data: Norris cautious despite pole as it falls apart for Hamilton — What the Numbers Say TL;DR : The article is written and saved to /roo...",
+        "keywords": "lap, norris, pole, time, formula, data, laps, html",
+        "generated": "2026-07-27T03:38:46.277110",
+        "file": "analyzing-formula-1-data-norris-cautious-despite-pole-as-it-falls-apart-for-hamilton-what-the-numbers-say.md"
     },
     {
         "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
@@ -33061,6 +33204,17 @@
         "file": "maximizing-llm-benefits-in-education-best-practices.md"
     },
     {
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "slug": "us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search",
+        "author": "eecc",
+        "source": "hackernews",
+        "published": "Sun, 26 Jul 2026 22:21:41 +0000",
+        "description": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "after, grapheneos, phone, url, https, com, news, comments",
+        "generated": "2026-07-27T03:38:46.275490",
+        "file": "us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search.md"
+    },
+    {
         "title": "The Lost Story of Alan Turing's Delilah Project",
         "slug": "the-lost-story-of-alan-turings-delilah-project",
         "author": "asdefghyk",
@@ -35789,6 +35943,17 @@
         "file": "ai-act-2026-ce-que-les-pme-franaises-doivent-faire-concrtement.md"
     },
     {
+        "title": "Google Voice for Business: A Complete Guide to Virtual Phone Communication in 2026",
+        "slug": "google-voice-for-business-a-complete-guide-to-virtual-phone-communication-in-2026",
+        "author": "Vera M Bacon",
+        "source": "devto_webdev",
+        "published": "Mon, 27 Jul 2026 03:21:44 +0000",
+        "description": "Google Voice for Business: A Complete Guide to Virtual Phone Communication in 2026 Introduction In today's digital world, businesses, marketers, freelancers,...",
+        "keywords": "google, voice, communication, phone, business, virtual, customer, topsmusa",
+        "generated": "2026-07-27T03:38:46.279378",
+        "file": "google-voice-for-business-a-complete-guide-to-virtual-phone-communication-in-2026.md"
+    },
+    {
         "title": "No, I swear I wrote this.",
         "slug": "no-i-swear-i-wrote-this",
         "author": "artursapek",
@@ -38196,6 +38361,17 @@
         "keywords": "authentication, you, your, google, oauth, user, clerk, keycloak",
         "generated": "2026-07-17T13:49:54.406309",
         "file": "stop-paying-for-authentication-migrate-from-clerk-google-oauth-to-open-source.md"
+    },
+    {
+        "title": "Acceptance Criteria That Actually Work: The Spec's Secret Weapon",
+        "slug": "acceptance-criteria-that-actually-work-the-specs-secret-weapon",
+        "author": "MySpec",
+        "source": "devto_webdev",
+        "published": "Mon, 27 Jul 2026 03:34:33 +0000",
+        "description": "Acceptance Criteria That Actually Work: The Spec's Secret Weapon If your feature technically “works” but still gets sent back during review, the issue usuall...",
+        "keywords": "criteria, acceptance, development, product, they, code, requirements, more",
+        "generated": "2026-07-27T03:38:46.278034",
+        "file": "acceptance-criteria-that-actually-work-the-specs-secret-weapon.md"
     },
     {
         "title": "Give a LangChain Agent a Real Inbox",
