@@ -911,6 +911,17 @@
         "file": "how-to-use-chatgpt-api-without-spending-money-3-free-alternatives.md"
     },
     {
+        "title": "Telegram: My AI Agent Ops Dashboard for 10 Live Systems",
+        "slug": "telegram-my-ai-agent-ops-dashboard-for-10-live-systems",
+        "author": "Elena Revicheva",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 19:30:14 +0000",
+        "description": "Originally published on AIdeazz — cross-posted here with canonical link. My web dashboard failed. It was a custom-built React app, hooked into a FastAPI back...",
+        "keywords": "agent, bot, telegram, agents, dashboard, web, oci, outline",
+        "generated": "2026-07-28T19:39:37.253119",
+        "file": "telegram-my-ai-agent-ops-dashboard-for-10-live-systems.md"
+    },
+    {
         "title": "Environmental Benefits of Wastewater Recycling",
         "slug": "environmental-benefits-of-wastewater-recycling",
         "author": "WTE Infra Projects Pvt. Ltd",
@@ -2760,6 +2771,17 @@
         "file": "texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests.md"
     },
     {
+        "title": "# I got tired of hunting for free ML/robotics papers across 5 sites, so I built an aggregator",
+        "slug": "i-got-tired-of-hunting-for-free-mlrobotics-papers-across-5-sites-so-i-built-an-aggregator",
+        "author": "Ansh Kansagra",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 19:12:38 +0000",
+        "description": "I'm a final-year Electronics & Communication Engineering student about to start a robotics-focused master's. For the last two years, finding a paper has me...",
+        "keywords": "free, pdf, api, robotics, then, ieee, mdpi, open",
+        "generated": "2026-07-28T19:39:37.247439",
+        "file": "i-got-tired-of-hunting-for-free-mlrobotics-papers-across-5-sites-so-i-built-an-aggregator.md"
+    },
+    {
         "title": "I Am Not a Reverse Centaur",
         "slug": "i-am-not-a-reverse-centaur",
         "author": "ibobev",
@@ -3077,6 +3099,17 @@
         "keywords": "skill, your, url, https, com, comments, show, agent",
         "generated": "2026-06-13T09:25:04.605172",
         "file": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md"
+    },
+    {
+        "title": "LLM for Time Series Forecasting with Low Latency",
+        "slug": "llm-for-time-series-forecasting-with-low-latency",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 19:33:06 +0000",
+        "description": "Time series forecasting is traditionally the domain of statistical models and dedicated neural architectures, but LLMs are increasingly being used for zero-s...",
+        "keywords": "forecasting, time, series, model, you, oxlo, can, latency",
+        "generated": "2026-07-28T19:39:37.252537",
+        "file": "llm-for-time-series-forecasting-with-low-latency.md"
     },
     {
         "title": "Astrophysics & AI with Python: Decoding the Hertzsprung-Russell Diagram",
@@ -8027,6 +8060,17 @@
         "file": "why-markets-are-non-markovian-building-a-63-layer-neural-sde-dag-for-topological-signal-analysis.md"
     },
     {
+        "title": "Bridging the Digital Divide: How to Build an AI-Native Next-Generation DXP",
+        "slug": "bridging-the-digital-divide-how-to-build-an-ai-native-next-generation-dxp",
+        "author": "Ahmad Malik",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 19:28:30 +0000",
+        "description": "Introduction: Don't Strap a Jet Engine onto a Horse Cart AI is re-evaluating the value of DXP, and Chinese enterprises going global are increasingly reliant ...",
+        "keywords": "content, dxp, architecture, native, platform, enterprises, data, has",
+        "generated": "2026-07-28T19:39:37.251878",
+        "file": "bridging-the-digital-divide-how-to-build-an-ai-native-next-generation-dxp.md"
+    },
+    {
         "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
         "slug": "a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review",
         "author": "ilreb",
@@ -8201,6 +8245,17 @@
         "keywords": "local, opus, url, https, comments, qwen, isn, worse",
         "generated": "2026-06-18T04:40:19.045500",
         "file": "local-qwen-isnt-a-worse-opus-its-a-different-tool.md"
+    },
+    {
+        "title": "MCP 2026-07-28 Specification: transport going stateless",
+        "slug": "mcp-2026-07-28-specification-transport-going-stateless",
+        "author": "Eldodi",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 18:35:11 +0000",
+        "description": "Article URL: https://blog.modelcontextprotocol.io/posts/2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49088058 Points: 24 # Comments: 10",
+        "keywords": "url, https, comments, mcp, specification, transport, going, stateless",
+        "generated": "2026-07-28T19:39:37.246624",
+        "file": "mcp-2026-07-28-specification-transport-going-stateless.md"
     },
     {
         "title": "From the Fantasy of Local Models to a Truly Controllable Sports Agent",
@@ -8564,6 +8619,17 @@
         "keywords": "document, you, here, model, question, gpt, deepseek, str",
         "generated": "2026-06-21T09:58:05.290262",
         "file": "i-cut-my-ai-document-qa-bill-by-65-heres-the-full-breakdown.md"
+    },
+    {
+        "title": "Building an MCP Server on 31 Million Rows of Financial Data",
+        "slug": "building-an-mcp-server-on-31-million-rows-of-financial-data",
+        "author": "Christian Richter",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 18:54:46 +0000",
+        "description": "This is the architecture of Shibui Finance , an MCP server that gives Claude direct SQL access to 64 years of US stock market data. About 10,000 symbols, 31 ...",
+        "keywords": "data, duckdb, tables, server, claude, query, dbt, table",
+        "generated": "2026-07-28T19:39:37.248728",
+        "file": "building-an-mcp-server-on-31-million-rows-of-financial-data.md"
     },
     {
         "title": "Preflight Files for Safer Publish Scripts",
@@ -9237,6 +9303,17 @@
         "file": "investors-get-real-time-view-of-uk-bond-market-activity-for-the-first-time.md"
     },
     {
+        "title": "Donate to GrapheneOS",
+        "slug": "donate-to-grapheneos",
+        "author": "charliebwrites",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 19:06:10 +0000",
+        "description": "Article URL: https://grapheneos.org/donate Comments URL: https://news.ycombinator.com/item?id=49088451 Points: 27 # Comments: 1",
+        "keywords": "donate, grapheneos, url, https, comments, article, org, news",
+        "generated": "2026-07-28T19:39:37.246229",
+        "file": "donate-to-grapheneos.md"
+    },
+    {
         "title": "How We Translate Entire Books with LLMs Without Losing Context",
         "slug": "how-we-translate-entire-books-with-llms-without-losing-context",
         "author": "龚旭东",
@@ -9334,6 +9411,17 @@
         "keywords": "anthropic, claude, code, chinese, users, feature, user, steganography",
         "generated": "2026-07-03T03:48:14.180392",
         "file": "claude-code-steganography-flagged-chinese-users-anthropic-rolls-back.md"
+    },
+    {
+        "title": "Steel Bank Common Lisp version 2.6.7",
+        "slug": "steel-bank-common-lisp-version-267",
+        "author": "tmtvl",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 17:11:54 +0000",
+        "description": "Article URL: https://sbcl.org/all-news.html?2.6.7 Comments URL: https://news.ycombinator.com/item?id=49086971 Points: 92 # Comments: 20",
+        "keywords": "url, https, news, comments, steel, bank, common, lisp",
+        "generated": "2026-07-28T19:39:37.246864",
+        "file": "steel-bank-common-lisp-version-267.md"
     },
     {
         "title": "I Wish I'd Switched to DeepSeek Sooner — Here's the Full Breakdown",
@@ -9466,6 +9554,17 @@
         "keywords": "git, code, claude, network, distributed, you, agents, coding",
         "generated": "2026-07-10T09:45:24.784632",
         "file": "githubs-former-ceo-launches-distributed-git-network-for-ai-coding-agents.md"
+    },
+    {
+        "title": "Claude Reacts to codeBerg Bans Cryptocurrency and LLM-generated code projects",
+        "slug": "claude-reacts-to-codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+        "author": "Andrei Merlescu",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 19:24:34 +0000",
+        "description": "I recently published a piece called CodeBerg Bans Cryptocurrency and LLM-generated code projects and I decided to ask Claude what it thought of the piece in ...",
+        "keywords": "you, claude, codeberg, code, what, your, but, generated",
+        "generated": "2026-07-28T19:39:37.253955",
+        "file": "claude-reacts-to-codeberg-bans-cryptocurrency-and-llm-generated-code-projects.md"
     },
     {
         "title": "Open-Weight LLM API Integration: A Developer's Guide to Flexible AI",
@@ -11272,6 +11371,17 @@
         "file": "cmo-corrijo-30-exmenes-en-20-minutos-con-ia-y-lo-que-sigo-haciendo-yo.md"
     },
     {
+        "title": "Changes to LLM pricing: Sail Research",
+        "slug": "changes-to-llm-pricing-sail-research",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 19:29:20 +0000",
+        "description": "Model price changes detected for Sail Research. Details below.",
+        "keywords": "changes, sail, research, llm, pricing, model, price, detected",
+        "generated": "2026-07-28T19:39:37.253578",
+        "file": "changes-to-llm-pricing-sail-research.md"
+    },
+    {
         "title": "Why I Recommend Namecheap Domain (And Who Should Skip It)",
         "slug": "why-i-recommend-namecheap-domain-and-who-should-skip-it",
         "author": "Shammi Bajaj",
@@ -12271,6 +12381,17 @@
         "keywords": "url, https, com, comments, teensy, executable, revisited, article",
         "generated": "2026-06-24T09:40:50.185940",
         "file": "the-teensy-executable-revisited.md"
+    },
+    {
+        "title": "7 Lessons I Learned After 10 Years as a Full Stack Developer",
+        "slug": "7-lessons-i-learned-after-10-years-as-a-full-stack-developer",
+        "author": "Sain Bux",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 19:33:49 +0000",
+        "description": "_Every developer starts with the same question: _ What programming language should I learn? After working as a Full Stack Developer for over a decade, I've...",
+        "keywords": "you, learn, new, code, developers, real, frameworks, fundamentals",
+        "generated": "2026-07-28T19:39:37.249427",
+        "file": "7-lessons-i-learned-after-10-years-as-a-full-stack-developer.md"
     },
     {
         "title": "I Built a Free Privacy-First Developer Toolkit - No Data Leaves Your Browser",
@@ -18829,6 +18950,17 @@
         "file": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md"
     },
     {
+        "title": "Returning Web Developer: Navigating Full-Stack Technologies for Optimal Opportunities After a 2-Year Hiatus",
+        "slug": "returning-web-developer-navigating-full-stack-technologies-for-optimal-opportunities-after-a-2-year-hiatus",
+        "author": "Maxim Gerasimov",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 19:33:15 +0000",
+        "description": "Introduction: Navigating the Full-Stack Landscape After a 2-Year Hiatus Returning to web development after a 2-year break feels like stepping into a foreign ...",
+        "keywords": "react, stack, node, nestjs, typescript, systems, rust, critical",
+        "generated": "2026-07-28T19:39:37.250659",
+        "file": "returning-web-developer-navigating-full-stack-technologies-for-optimal-opportunities-after-a-2-year-hiatus.md"
+    },
+    {
         "title": "Sequoyah’s syllabary created a written language for the Cherokee",
         "slug": "sequoyahs-syllabary-created-a-written-language-for-the-cherokee",
         "author": "grahambargeron",
@@ -22096,6 +22228,17 @@
         "file": "ai-for-manufacturing-smart-factory-use-cases-amp-roi.md"
     },
     {
+        "title": "I cloned my equity options scanner for crypto — the same 3 rules, a completely different data source",
+        "slug": "i-cloned-my-equity-options-scanner-for-crypto-the-same-3-rules-a-completely-different-data-source",
+        "author": "0xGollum",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 19:26:51 +0000",
+        "description": "A while back I built a scanner that flags unusual options activity on US equities — the kind of signal where a contract suddenly trades on way more volume ...",
+        "keywords": "options, crypto, same, not, data, contract, btc, different",
+        "generated": "2026-07-28T19:39:37.247150",
+        "file": "i-cloned-my-equity-options-scanner-for-crypto-the-same-3-rules-a-completely-different-data-source.md"
+    },
+    {
         "title": "Amazon Bedrock AgentCore Web Search: Production Deployment Guide",
         "slug": "amazon-bedrock-agentcore-web-search-production-deployment-guide",
         "author": "aarhamforensics",
@@ -22567,6 +22710,17 @@
         "keywords": "polo, article, url, https, comments, field, clones, how",
         "generated": "2026-06-07T09:24:56.816037",
         "file": "field-of-clones-how-horse-replicas-came-to-dominate-polo.md"
+    },
+    {
+        "title": "45-Second Production: Testing ChatGPT’s Limits with InterSystems IRIS and PyProd",
+        "slug": "45-second-production-testing-chatgpts-limits-with-intersystems-iris-and-pyprod",
+        "author": "InterSystems Developer",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 19:12:16 +0000",
+        "description": "It all started on a train ride to visit my parents, while I was chatting with a neighbor in my compartment. As it usually goes, the talk turned to technology...",
+        "keywords": "step, python, pyprod, production, intersystems, chatgpt, https, com",
+        "generated": "2026-07-28T19:39:37.247852",
+        "file": "45-second-production-testing-chatgpts-limits-with-intersystems-iris-and-pyprod.md"
     },
     {
         "title": "Phoenix LiveView 1.2 Released",
@@ -25066,6 +25220,17 @@
         "file": "can-ai-make-carbon-credits-more-trustworthy-i-tried-building-an-answer-with-gemini.md"
     },
     {
+        "title": "Discovering Cryptographic Weaknesses with Claude",
+        "slug": "discovering-cryptographic-weaknesses-with-claude",
+        "author": "gslin",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 17:22:16 +0000",
+        "description": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091 Points: 81 #...",
+        "keywords": "discovering, cryptographic, weaknesses, url, https, com, comments, claude",
+        "generated": "2026-07-28T19:39:37.246748",
+        "file": "discovering-cryptographic-weaknesses-with-claude.md"
+    },
+    {
         "title": "Sad Shayari Images vs Sad Songs — Which One Actually Heals You More?",
         "slug": "sad-shayari-images-vs-sad-songs-which-one-actually-heals-you-more",
         "author": "Vibhan Gupta",
@@ -26483,6 +26648,17 @@
         "keywords": "cost, often, one, most, you, production, evaluation, how",
         "generated": "2026-07-17T13:49:54.407945",
         "file": "how-much-does-ai-development-cost-in-2026-real-numbers-no-it-depends.md"
+    },
+    {
+        "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
+        "slug": "building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing",
+        "author": "lugwiire benard",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 19:26:02 +0000",
+        "description": "Hey DEV community! 👋 I recently deployed FetchMark , a clutter-free bookmark manager designed to solve two common web reading problems: dead links and ad-cho...",
+        "keywords": "fetchmark, clutter, parsing, article, text, feedback, free, bookmark",
+        "generated": "2026-07-28T19:39:37.252122",
+        "file": "building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing.md"
     },
     {
         "title": "System Design Series #3: A Simple Framework for Designing Scalable Systems",
@@ -29169,6 +29345,17 @@
         "file": "navigating-the-challenges-of-ai-adoption-in-russian-education-a-pragmatic-approach.md"
     },
     {
+        "title": "I built an MCP server so Claude can run my Google Ads accounts (and what broke along the way)",
+        "slug": "i-built-an-mcp-server-so-claude-can-run-my-google-ads-accounts-and-what-broke-along-the-way",
+        "author": "Quinten Van Meirvenne",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 19:04:08 +0000",
+        "description": "I'm a growth marketing consultant, not a professional developer. I manage Google Ads and Meta accounts for e-commerce brands, and until last year my reportin...",
+        "keywords": "server, tool, one, mcp, assistant, you, has, every",
+        "generated": "2026-07-28T19:39:37.248220",
+        "file": "i-built-an-mcp-server-so-claude-can-run-my-google-ads-accounts-and-what-broke-along-the-way.md"
+    },
+    {
         "title": "Your AI built a static page. It can't store anything. Here's the fix I settled on.",
         "slug": "your-ai-built-a-static-page-it-cant-store-anything-heres-the-fix-i-settled-on",
         "author": "Alex",
@@ -31807,6 +31994,17 @@
         "keywords": "gap, howiprompt, product, agents, vote, agent, rule, demand",
         "generated": "2026-07-08T19:41:38.377068",
         "file": "the-making-of-a-demand-proven-product-on-howipromptxyz.md"
+    },
+    {
+        "title": "The 2026 AI Index Report: Responsible AI",
+        "slug": "the-2026-ai-index-report-responsible-ai",
+        "author": "Isaac",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 19:30:14 +0000",
+        "description": "As artificial intelligence advances at an unprecedented rate, the mechanisms for evaluating and governing these systems are struggling to keep up. According ...",
+        "keywords": "stanford, safety, hai, index, these, technical, report, according",
+        "generated": "2026-07-28T19:39:37.253454",
+        "file": "the-2026-ai-index-report-responsible-ai.md"
     },
     {
         "title": "用 Pyodide 解鎖前端AI超能力",
@@ -36922,6 +37120,17 @@
         "file": "ev-batteries-are-defying-expectations-after-miles.md"
     },
     {
+        "title": "I built a Dutch real estate platform with Next.js and Supabase — looking for feedback",
+        "slug": "i-built-a-dutch-real-estate-platform-with-nextjs-and-supabase-looking-for-feedback",
+        "author": "Noah Weerwag",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 19:35:16 +0000",
+        "description": "Hi everyone! 👋 I am currently studying software development, and alongside my studies I enjoy designing and building my own projects. Over the past few weeks...",
+        "keywords": "request, user, seo, location, dutch, real, estate, platform",
+        "generated": "2026-07-28T19:39:37.249056",
+        "file": "i-built-a-dutch-real-estate-platform-with-nextjs-and-supabase-looking-for-feedback.md"
+    },
+    {
         "title": "I Want To Hear Different Thoughts",
         "slug": "i-want-to-hear-different-thoughts",
         "author": "Liam Parker",
@@ -40121,6 +40330,17 @@
         "keywords": "audit, page, seo, not, traffic, visitor, result, site",
         "generated": "2026-06-05T20:02:11.239537",
         "file": "turning-an-seo-audit-into-a-revenue-strategy.md"
+    },
+    {
+        "title": "Deflock Casa Grande",
+        "slug": "deflock-casa-grande",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 18:41:48 +0000",
+        "description": "Article URL: https://deflockcg.com/ Comments URL: https://news.ycombinator.com/item?id=49088148 Points: 105 # Comments: 22",
+        "keywords": "url, https, com, comments, deflock, casa, grande, article",
+        "generated": "2026-07-28T19:39:37.246494",
+        "file": "deflock-casa-grande.md"
     },
     {
         "title": "Generate PDF invoices from HTML in Python — without a headless browser",
