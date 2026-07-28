@@ -528,6 +528,17 @@
         "file": "code-challenge-of-the-day-make-an-acronym-easy.md"
     },
     {
+        "title": "I built a Python compiler that runs in browser using WebAssembly",
+        "slug": "i-built-a-python-compiler-that-runs-in-browser-using-webassembly",
+        "author": "shrirang",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 08:10:46 +0000",
+        "description": "I recently built PyPlayground — a free online Python compiler. The interesting part is it runs Python 3.12 entirely in the browser using Pyodide WebAssembly...",
+        "keywords": "python, runs, browser, pyodide, built, compiler, using, webassembly",
+        "generated": "2026-07-28T08:43:31.569209",
+        "file": "i-built-a-python-compiler-that-runs-in-browser-using-webassembly.md"
+    },
+    {
         "title": "The last hour before you hand off a client site — a pre-delivery QA checklist that ends in SHIP / DO NOT SHIP",
         "slug": "the-last-hour-before-you-hand-off-a-client-site-a-pre-delivery-qa-checklist-that-ends-in-ship-do-not-ship",
         "author": "projectnomad",
@@ -1715,6 +1726,17 @@
         "file": "a-simple-readiness-checklist-before-you-let-an-ai-agent-touch-production.md"
     },
     {
+        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+        "slug": "ars-astronomica-english-translations-of-rare-hebrew-and-latin-astronomy-texts",
+        "author": "sweisman",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 05:25:34 +0000",
+        "description": "Article URL: https://arsastronomica.com/ Comments URL: https://news.ycombinator.com/item?id=49079727 Points: 53 # Comments: 8",
+        "keywords": "url, https, com, comments, ars, astronomica, english, translations",
+        "generated": "2026-07-28T08:43:31.567905",
+        "file": "ars-astronomica-english-translations-of-rare-hebrew-and-latin-astronomy-texts.md"
+    },
+    {
         "title": "Code Challenge of the Day — Count set bits (medium)",
         "slug": "code-challenge-of-the-day-count-set-bits-medium",
         "author": "I Want To Learn Programming",
@@ -2175,6 +2197,17 @@
         "keywords": "global, warming, what, behind, new, german, climate, warning",
         "generated": "2026-07-15T02:52:14.903452",
         "file": "global-warming-at-3-c-by-2050-whats-behind-the-new-german-climate-warning.md"
+    },
+    {
+        "title": "You hand-edit headlines to avoid orphaned words. `text-wrap: balance` does it natively.",
+        "slug": "you-hand-edit-headlines-to-avoid-orphaned-words-text-wrap-balance-does-it-natively",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 08:41:41 +0000",
+        "description": "Here is a small but persistent annoyance in frontend work: <h1> The Practical Guide to Building Resilient Web </h1> The browser broke the headline at Web b...",
+        "keywords": "text, wrap, balance, width, browser, pretty, line, every",
+        "generated": "2026-07-28T08:43:31.570619",
+        "file": "you-hand-edit-headlines-to-avoid-orphaned-words-text-wrap-balance-does-it-natively.md"
     },
     {
         "title": "De-mystifying the GenAI Stack: From LLMs to RAG (A Systems Perspective)",
@@ -3000,6 +3033,17 @@
         "keywords": "cleaning, sharjah, carpet, emergency, https, alforsan, services, com",
         "generated": "2026-07-23T03:24:20.280231",
         "file": "sharjah-carpet-cleaning-emergency.md"
+    },
+    {
+        "title": "73,049 dates through a numerology rule: mostly mod 9, and 33's rarity depends on when you reduce",
+        "slug": "73049-dates-through-a-numerology-rule-mostly-mod-9-and-33s-rarity-depends-on-when-you-reduce",
+        "author": "vk",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 08:10:04 +0000",
+        "description": "The usual headline is that 33 is the rarest Life Path, about half a percent. Half a percent of what, reduced in which order? Change the order, to another con...",
+        "keywords": "dates, year, master, date, one, life, path, order",
+        "generated": "2026-07-28T08:43:31.569800",
+        "file": "73049-dates-through-a-numerology-rule-mostly-mod-9-and-33s-rarity-depends-on-when-you-reduce.md"
     },
     {
         "title": "How to Free Up Disk Space as a Developer: Clear Hugging Face, npm, conda, and Docker Caches",
@@ -8720,6 +8764,17 @@
         "file": "best-sap-mm-course-online-with-placement-assistance.md"
     },
     {
+        "title": "Building an AI mock interviewer that tells you why you'd fail: what the turn engine taught me",
+        "slug": "building-an-ai-mock-interviewer-that-tells-you-why-youd-fail-what-the-turn-engine-taught-me",
+        "author": "jidonglab",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 08:33:00 +0000",
+        "description": "TL;DR — I've been building a browser-based voice mock interviewer where three AI interviewers take turns, and the hard part was never the LLM prompt. It was ...",
+        "keywords": "you, interviewer, not, answer, what, model, one, interview",
+        "generated": "2026-07-28T08:43:31.572578",
+        "file": "building-an-ai-mock-interviewer-that-tells-you-why-youd-fail-what-the-turn-engine-taught-me.md"
+    },
+    {
         "title": "Building a Fast Video Metadata Service with Litestar in Python",
         "slug": "building-a-fast-video-metadata-service-with-litestar-in-python",
         "author": "ahmet gedik",
@@ -11690,6 +11745,17 @@
         "file": "structural-exclusion-is-the-only-defense-that-scales.md"
     },
     {
+        "title": "Why AI Coding Agents Need Work Attempts, Leases, and Checkpoints",
+        "slug": "why-ai-coding-agents-need-work-attempts-leases-and-checkpoints",
+        "author": "Egor Komarov",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 08:34:58 +0000",
+        "description": "We gave AI agents the ability to write code, run tests, open pull requests, and hand work to each other. Then we asked them to coordinate through a TODO.md f...",
+        "keywords": "agent, attempt, one, issue, lease, status, active, agents",
+        "generated": "2026-07-28T08:43:31.575538",
+        "file": "why-ai-coding-agents-need-work-attempts-leases-and-checkpoints.md"
+    },
+    {
         "title": "Show HN: ABC Classic 100 Rankings visualised",
         "slug": "show-hn-abc-classic-100-rankings-visualised",
         "author": "gotski",
@@ -11985,6 +12051,17 @@
         "keywords": "brain, your, alpha, financial, wealth, you, signal, frequency",
         "generated": "2026-06-06T04:00:30.110672",
         "file": "the-neuroscience-of-wealth-why-your-brain-frequency-determines-your-bank-balance.md"
+    },
+    {
+        "title": "7.1 Earthquake in Japan",
+        "slug": "71-earthquake-in-japan",
+        "author": "krembo",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 07:44:24 +0000",
+        "description": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528⟨=en Comments URL: https://news.ycombinator.com/item?id=49080664 ...",
+        "keywords": "url, https, comments, earthquake, japan, article, www, data",
+        "generated": "2026-07-28T08:43:31.567709",
+        "file": "71-earthquake-in-japan.md"
     },
     {
         "title": "I'm 18 and I built an AI Pomodoro timer that actually forces you to study",
@@ -14944,6 +15021,17 @@
         "keywords": "server, components, data, client, you, orders, import, rsc",
         "generated": "2026-06-26T04:12:11.600244",
         "file": "mastering-react-server-components-in-nextjs-15-apps.md"
+    },
+    {
+        "title": "Converting Your Website into a Progressive Web App (PWA): A Step-by-Step Guide to Delivering an App-Like Experience Without Starting Over",
+        "slug": "converting-your-website-into-a-progressive-web-app-pwa-a-step-by-step-guide-to-delivering-an-app-like-experience-without-starting-over",
+        "author": "Okoye Ndidiamaka",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 08:30:13 +0000",
+        "description": "What if your website could become a mobile app—without rebuilding it from scratch? Imagine you're a business owner. Your website attracts thousands of visito...",
+        "keywords": "your, website, web, you, app, pwa, performance, progressive",
+        "generated": "2026-07-28T08:43:31.573178",
+        "file": "converting-your-website-into-a-progressive-web-app-pwa-a-step-by-step-guide-to-delivering-an-app-like-experience-without-starting-over.md"
     },
     {
         "title": "Benchmarking a New Paradigm: An Experimental Analysis of a RealProcessing-in-Memory Architecture",
@@ -17936,6 +18024,17 @@
         "keywords": "seo, learning, can, course, digital, skills, career, search",
         "generated": "2026-07-18T08:00:40.329345",
         "file": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing.md"
+    },
+    {
+        "title": "ChatGPT Memory Creates Winner-Take-All Markets: Why Your First AI Citation Matters More Than Your Next 100 Backlinks",
+        "slug": "chatgpt-memory-creates-winner-take-all-markets-why-your-first-ai-citation-matters-more-than-your-next-100-backlinks",
+        "author": "Searchless",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 08:35:59 +0000",
+        "description": "ChatGPT remembers what you like. Not in the way a spouse remembers your coffee order. In the way a search engine remembers everything you have ever clicked, ...",
+        "keywords": "your, you, not, brand, chatgpt, recommendation, brands, memory",
+        "generated": "2026-07-28T08:43:31.572029",
+        "file": "chatgpt-memory-creates-winner-take-all-markets-why-your-first-ai-citation-matters-more-than-your-next-100-backlinks.md"
     },
     {
         "title": "Python Decorators Explained Simply",
@@ -22371,6 +22470,17 @@
         "file": "fcc-approves-test-of-space-mirror-to-light-night-sky-despite-outcry.md"
     },
     {
+        "title": "Add a Controlled CapSolver Step to a Skyvern Browser Workflow",
+        "slug": "add-a-controlled-capsolver-step-to-a-skyvern-browser-workflow",
+        "author": "luisgustvo",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 08:36:10 +0000",
+        "description": "Skyvern can navigate a page and act from natural-language instructions. CapSolver can return a CAPTCHA result through its SDK. The clean integration is a sma...",
+        "keywords": "page, capsolver, skyvern, token, result, await, not, recaptcha",
+        "generated": "2026-07-28T08:43:31.574395",
+        "file": "add-a-controlled-capsolver-step-to-a-skyvern-browser-workflow.md"
+    },
+    {
         "title": "F1/10: An Open-Source Autonomous Cyber-Physical Platform",
         "slug": "f110-an-open-source-autonomous-cyber-physical-platform",
         "author": "Paperium",
@@ -25334,10 +25444,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Tue, 28 Jul 2026 02:51:28 +0000",
+        "published": "Tue, 28 Jul 2026 08:38:21 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-07-28T02:55:11.510725",
+        "generated": "2026-07-28T08:43:31.573323",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -26274,6 +26384,17 @@
         "keywords": "development, business, your, platform, real, estate, tokenization, blockchain",
         "generated": "2026-07-22T08:36:37.030364",
         "file": "7-tips-to-choose-the-right-real-estate-tokenization-development-company.md"
+    },
+    {
+        "title": "Neutrino-1 8B",
+        "slug": "neutrino-1-8b",
+        "author": "handfuloflight",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 04:49:54 +0000",
+        "description": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/ Comments URL: https://news.ycombinator.com/item?id=49079490 Points: 69 # Comments: 14",
+        "keywords": "neutrino, url, https, com, comments, article, www, fermionresearch",
+        "generated": "2026-07-28T08:43:31.568035",
+        "file": "neutrino-1-8b.md"
     },
     {
         "title": "How Much Does AI Development Cost in 2026? Real Numbers, No “It Depends”",
@@ -27638,6 +27759,17 @@
         "keywords": "day, today, layout, screenshot, jpg, flex, mern, stack",
         "generated": "2026-07-13T03:31:49.171298",
         "file": "day-135-of-learning-mern-stack.md"
+    },
+    {
+        "title": "PyTorch: A Reference Language",
+        "slug": "pytorch-a-reference-language",
+        "author": "matt_d",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 04:46:00 +0000",
+        "description": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/ Comments URL: https://news.ycombinator.com/item?id=49079454 P...",
+        "keywords": "pytorch, reference, language, url, https, comments, article, docs",
+        "generated": "2026-07-28T08:43:31.568155",
+        "file": "pytorch-a-reference-language.md"
     },
     {
         "title": "AI Agent Runtime Policy: Stop Dangerous Tool Calls Before They Execute",
@@ -32568,6 +32700,17 @@
         "file": "2-minute-guide-argparse-cli-arguments-for-python-scripts-2026.md"
     },
     {
+        "title": "Claude Opus 5 is Here: What Developers Need to Know About the Safety Fine Print",
+        "slug": "claude-opus-5-is-here-what-developers-need-to-know-about-the-safety-fine-print",
+        "author": "Alessandro Pignati",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 08:37:11 +0000",
+        "description": "Anthropic just dropped Claude Opus 5, and if you’ve been scrolling through X or LinkedIn, you’ve probably seen the benchmarks. It’s faster, it’s better at co...",
+        "keywords": "you, opus, anthropic, model, claude, safety, but, api",
+        "generated": "2026-07-28T08:43:31.573733",
+        "file": "claude-opus-5-is-here-what-developers-need-to-know-about-the-safety-fine-print.md"
+    },
+    {
         "title": "How to Build Production-Ready Generative AI Development Services for Enterprise Applications",
         "slug": "how-to-build-production-ready-generative-ai-development-services-for-enterprise-applications",
         "author": "Dixit Angiras",
@@ -32962,6 +33105,17 @@
         "keywords": "epoch, lease, revocation, not, protocol, external, action, july",
         "generated": "2026-07-24T03:18:16.304547",
         "file": "treat-emergency-ai-revocation-as-a-distributed-protocol.md"
+    },
+    {
+        "title": "Automate Your Taxes: Python Scripts for Freelancers",
+        "slug": "automate-your-taxes-python-scripts-for-freelancers",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 08:00:59 +0000",
+        "description": "Automate Your Taxes: Python Scripts for Freelancers tags: python, freelance, taxes, automation Automate Your Taxes: Python Scripts for Freelancers As a freel...",
+        "keywords": "business, expenses, your, you, income, travel, calculate, python",
+        "generated": "2026-07-28T08:43:31.570210",
+        "file": "automate-your-taxes-python-scripts-for-freelancers.md"
     },
     {
         "title": "AI Automation for Ai For Small Scale Specialty Food Producers How To Automate Fdanutrition Label Generation And Ingredient So...",
@@ -35415,6 +35569,17 @@
         "file": "show-hn-readkinetic-a-free-local-first-speed-reader-for-your-own-books.md"
     },
     {
+        "title": "I Got Tired of PyInstaller CLI, So I Built a GUI for It With Built-in Source Protection",
+        "slug": "i-got-tired-of-pyinstaller-cli-so-i-built-a-gui-for-it-with-built-in-source-protection",
+        "author": "ARIAN",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 08:20:13 +0000",
+        "description": "if you've ever tried to package a Python project into a .exe , you've probably wanted to throw your laptop out the window. pyinstaller --onefile works great ...",
+        "keywords": "you, pyinstaller, pypack, your, build, project, import, one",
+        "generated": "2026-07-28T08:43:31.569043",
+        "file": "i-got-tired-of-pyinstaller-cli-so-i-built-a-gui-for-it-with-built-in-source-protection.md"
+    },
+    {
         "title": "Your model didn't get smarter. It learned to cheat the test.",
         "slug": "your-model-didnt-get-smarter-it-learned-to-cheat-the-test",
         "author": "Anil Prasad",
@@ -36018,6 +36183,17 @@
         "keywords": "resume, not, string, user, career, zesume, model, template",
         "generated": "2026-07-14T13:57:07.331783",
         "file": "building-an-ai-resume-rewriter-that-refuses-to-invent-achievements.md"
+    },
+    {
+        "title": "What Can an AI Agent Actually Do on Your Phone? 12 Tasks, and the Execution Problem Behind Them",
+        "slug": "what-can-an-ai-agent-actually-do-on-your-phone-12-tasks-and-the-execution-problem-behind-them",
+        "author": "Nat",
+        "source": "devto_webdev",
+        "published": "Tue, 28 Jul 2026 08:40:25 +0000",
+        "description": "Most AI agent on your phone demos show the happy path: one clean voice command, one flawless run, cut before anything breaks. The interesting engineering i...",
+        "keywords": "screen, agent, app, can, api, tasks, phone, one",
+        "generated": "2026-07-28T08:43:31.571183",
+        "file": "what-can-an-ai-agent-actually-do-on-your-phone-12-tasks-and-the-execution-problem-behind-them.md"
     },
     {
         "title": "3 Best Sites to Buy Outlook Accounts (Aged, PVA & Bulk) in 2026",
@@ -40651,6 +40827,17 @@
         "file": "data-centers-trigger-voter-backlash.md"
     },
     {
+        "title": "Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions",
+        "slug": "deja-de-hacer-despliegues-manuales-cicd-bsico-con-github-actions",
+        "author": "Asier Caballero",
+        "source": "devto_python",
+        "published": "Tue, 28 Jul 2026 08:21:02 +0000",
+        "description": "Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions Si todavía copias archivos por SCP o subes carpetas por FTP en julio de 2026, por favor, ...",
+        "keywords": "que, github, actions, node, pipeline, una, push, test",
+        "generated": "2026-07-28T08:43:31.568648",
+        "file": "deja-de-hacer-despliegues-manuales-cicd-bsico-con-github-actions.md"
+    },
+    {
         "title": "Launching my Dev journey",
         "slug": "launching-my-dev-journey",
         "author": "Ishika Pandey",
@@ -41408,6 +41595,17 @@
         "keywords": "you, model, fine, rag, tuning, your, specific, data",
         "generated": "2026-06-17T11:07:27.905135",
         "file": "rag-vs-fine-tuning-the-architects-guide-to-production-ai.md"
+    },
+    {
+        "title": "BizNode sends personalized follow-up emails automatically to every lead your bot captures — nurture prospects while you sleep",
+        "slug": "biznode-sends-personalized-follow-up-emails-automatically-to-every-lead-your-bot-captures-nurture-prospects-while-you-sleep",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Tue, 28 Jul 2026 08:36:11 +0000",
+        "description": "Stop letting your leads go cold because you forgot to reply. BizNode sends personalized follow-up emails automatically to every lead your bot captures, nurtu...",
+        "keywords": "your, you, biznode, biz, bot, while, our, fax",
+        "generated": "2026-07-28T08:43:31.574089",
+        "file": "biznode-sends-personalized-follow-up-emails-automatically-to-every-lead-your-bot-captures-nurture-prospects-while-you-sleep.md"
     },
     {
         "title": "27: Gaming Keyboards, N-Key Rollover, and Anti-Ghosting: Everything Gamers Need to Know",
@@ -42442,6 +42640,17 @@
         "keywords": "python, code, protection, prometheusdev, professional, you, prometheus, shield",
         "generated": "2026-06-26T04:12:11.598034",
         "file": "python-code-protection-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "The age of token efficiency, the age of libraries",
+        "slug": "the-age-of-token-efficiency-the-age-of-libraries",
+        "author": "handfuloflight",
+        "source": "hackernews",
+        "published": "Tue, 28 Jul 2026 03:56:08 +0000",
+        "description": "Article URL: https://golemui.com/blog/the-age-of-token-efficiency/ Comments URL: https://news.ycombinator.com/item?id=49079146 Points: 22 # Comments: 2",
+        "keywords": "age, token, efficiency, url, https, com, comments, libraries",
+        "generated": "2026-07-28T08:43:31.568275",
+        "file": "the-age-of-token-efficiency-the-age-of-libraries.md"
     },
     {
         "title": "Building an Agentic Navigation + Autonomous Execution System",
