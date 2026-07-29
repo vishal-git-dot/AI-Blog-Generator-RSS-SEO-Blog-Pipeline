@@ -2892,6 +2892,17 @@
         "file": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real.md"
     },
     {
+        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+        "slug": "show-hn-bullshit-detector-agent-skills-that-fact-check-videos-and-articles",
+        "author": "skorniienko",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 12:58:27 +0000",
+        "description": "Article URL: https://github.com/SerhiiKorniienko/bullshit-detector Comments URL: https://news.ycombinator.com/item?id=49096917 Points: 31 # Comments: 10",
+        "keywords": "bullshit, detector, url, https, com, comments, show, agent",
+        "generated": "2026-07-29T14:22:03.393240",
+        "file": "show-hn-bullshit-detector-agent-skills-that-fact-check-videos-and-articles.md"
+    },
+    {
         "title": "Web Security Basics: Every Developer Must Know (2026)",
         "slug": "web-security-basics-every-developer-must-know-2026",
         "author": "Alex Chen",
@@ -3011,6 +3022,17 @@
         "keywords": "data, onedrive, now, has, expiry, url, https, com",
         "generated": "2026-06-08T11:08:35.050006",
         "file": "onedrive-data-now-has-an-expiry-date.md"
+    },
+    {
+        "title": "Microsoft Fabric & OneLake Deep Dive for Data Engineers: Lakehouse + Warehouse + Real-Time in One Portal",
+        "slug": "microsoft-fabric-onelake-deep-dive-for-data-engineers-lakehouse-warehouse-real-time-in-one-portal",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 14:08:57 +0000",
+        "description": "microsoft fabric is the pick-one architectural decision that finally collapses Microsoft's decade-long sprawl of data products — Data Factory, Synapse Analyt...",
+        "keywords": "fabric, sql, warehouse, lake, onelake, data, delta, direct",
+        "generated": "2026-07-29T14:22:03.400710",
+        "file": "microsoft-fabric-onelake-deep-dive-for-data-engineers-lakehouse-warehouse-real-time-in-one-portal.md"
     },
     {
         "title": "Class Method and Static Method Explained with Examples",
@@ -3187,6 +3209,17 @@
         "keywords": "model, cost, boundary, prompt, context, enterprise, part, you",
         "generated": "2026-06-23T15:13:55.044329",
         "file": "context-engineering-for-enterprise-ai-part-4-enterprise-ai-design-governance-cost-safety.md"
+    },
+    {
+        "title": "I Built a Code-Roasting Rubber Duck",
+        "slug": "i-built-a-code-roasting-rubber-duck",
+        "author": "Tim Moreton",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 14:14:06 +0000",
+        "description": "Every developer knows rubber-duck debugging: you explain your code to a rubber duck on your desk, and halfway through the explanation you spot the bug yourse...",
+        "keywords": "you, your, agent, aws, agentcore, duck, code, event",
+        "generated": "2026-07-29T14:22:03.417980",
+        "file": "i-built-a-code-roasting-rubber-duck.md"
     },
     {
         "title": "Show HN: I've built a words game based on binary search",
@@ -5145,6 +5178,17 @@
         "keywords": "not, node, hub, time, without, free, never, only",
         "generated": "2026-06-30T14:30:32.340880",
         "file": "how-i-built-a-real-time-collaborative-diagram-canvas-react-go.md"
+    },
+    {
+        "title": "How to Convert Markdown to a Professional PDF (Without Broken Tables, Code, or Math)",
+        "slug": "how-to-convert-markdown-to-a-professional-pdf-without-broken-tables-code-or-math",
+        "author": "frank",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 14:11:00 +0000",
+        "description": "Converting Markdown to PDF is easy. Converting it into a PDF you can confidently send to a client, reviewer, professor, or teammate is a different task. A su...",
+        "keywords": "pdf, page, markdown, code, document, not, browser, use",
+        "generated": "2026-07-29T14:22:03.415772",
+        "file": "how-to-convert-markdown-to-a-professional-pdf-without-broken-tables-code-or-math.md"
     },
     {
         "title": "I Rebuilt the Cmd-K Command Palette in ~60 Lines of JavaScript",
@@ -7860,6 +7904,17 @@
         "keywords": "operators, true, values, false, two, operand, one, example",
         "generated": "2026-07-12T08:25:23.793559",
         "file": "operators.md"
+    },
+    {
+        "title": "Keywords and Data Types in Python",
+        "slug": "keywords-and-data-types-in-python",
+        "author": "Ezhil Abinaya K",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 14:01:42 +0000",
+        "description": "Keywords Python has a set of keywords that are reserved words that cannot be used as variable names, function names, or any other identifiers.There are 35 ke...",
+        "keywords": "types, python, keywords, data, side, there, different, set",
+        "generated": "2026-07-29T14:22:03.413743",
+        "file": "keywords-and-data-types-in-python.md"
     },
     {
         "title": "AI-Powered Verification Workflow: Securing Vendor Compliance for Local Festivals",
@@ -11118,6 +11173,17 @@
         "file": "mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings.md"
     },
     {
+        "title": "How to Get Your Business Cited in Perplexity AI Answers",
+        "slug": "how-to-get-your-business-cited-in-perplexity-ai-answers",
+        "author": "A3E Ecosystem",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 14:14:00 +0000",
+        "description": "Perplexity is different from a chatbot that answers from memory. For most questions it runs a live web search, reads the pages it finds, writes an answer, an...",
+        "keywords": "your, perplexity, pages, you, answer, page, can, cited",
+        "generated": "2026-07-29T14:22:03.418415",
+        "file": "how-to-get-your-business-cited-in-perplexity-ai-answers.md"
+    },
+    {
         "title": "Which Data Analytics Certification Is Best? Complete Comparison",
         "slug": "which-data-analytics-certification-is-best-complete-comparison",
         "author": "Neha Sharma",
@@ -12205,6 +12271,17 @@
         "keywords": "tools, their, python, new, episode, show, hosts, talk",
         "generated": "2026-06-28T04:20:44.691716",
         "file": "talk-python-to-me-553-all-of-our-tools.md"
+    },
+    {
+        "title": "Python walrus operator (:=): Practical Use Cases",
+        "slug": "python-walrus-operator-practical-use-cases",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 14:00:53 +0000",
+        "description": "Python walrus operator (:=): Practical Use Cases tags: python, programming, tips, tutorial tags: python, programming, tips, tutorial You’ve probably seen cod...",
+        "keywords": "walrus, you, use, not, operator, once, none, config",
+        "generated": "2026-07-29T14:22:03.414195",
+        "file": "python-walrus-operator-practical-use-cases.md"
     },
     {
         "title": "Vercel Web Analytics that fits in your pocket",
@@ -19368,6 +19445,17 @@
         "file": "ah-the-codeberg-drama.md"
     },
     {
+        "title": "Is your job description about to collapse? 🧠",
+        "slug": "is-your-job-description-about-to-collapse",
+        "author": "Flora Brandão",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 14:12:41 +0000",
+        "description": "Spending weeks describing product ideas with slide decks and specs is a massive engineering grind. The traditional walls between product management, engineer...",
+        "keywords": "product, engineering, between, your, walls, marketing, augmented, development",
+        "generated": "2026-07-29T14:22:03.419327",
+        "file": "is-your-job-description-about-to-collapse.md"
+    },
+    {
         "title": "**A clean, complete guide to version control, collaboration, and containerization. Commands, workflows, and concepts - all in one place.**",
         "slug": "a-clean-complete-guide-to-version-control-collaboration-and-containerization-commands-workflows-and-concepts-all-in-one-place",
         "author": "DANISH ZULFIQAR",
@@ -25110,6 +25198,17 @@
         "file": "show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop.md"
     },
     {
+        "title": "TiDB & TiFlash: HTAP on One Cluster — OLTP Rows + OLAP Columns Auto-Synced",
+        "slug": "tidb-tiflash-htap-on-one-cluster-oltp-rows-olap-columns-auto-synced",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 14:03:38 +0000",
+        "description": "tidb is the pick-one architectural decision that finally makes hybrid transactional-analytical processing something you can run on one cluster with one SQL d...",
+        "keywords": "tidb, tiflash, mysql, tikv, region, node, orders, raft",
+        "generated": "2026-07-29T14:22:03.413223",
+        "file": "tidb-tiflash-htap-on-one-cluster-oltp-rows-olap-columns-auto-synced.md"
+    },
+    {
         "title": "A responsive breakpoint previewer with no library: an srcdoc iframe is a viewport you can hold in your hand",
         "slug": "a-responsive-breakpoint-previewer-with-no-library-an-srcdoc-iframe-is-a-viewport-you-can-hold-in-your-hand",
         "author": "Devanshu Biswas",
@@ -25770,6 +25869,17 @@
         "file": "open-weight-llm-api-integration-a-practical-guide-for-developers.md"
     },
     {
+        "title": "How & Where to Buy Twitter X Accounts & Manage them ...",
+        "slug": "how-where-to-buy-twitter-x-accounts-manage-them",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 14:10:24 +0000",
+        "description": "Buy Twitter Accounts 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com ...",
+        "keywords": "your, twitter, accounts, audience, can, account, brand, followers",
+        "generated": "2026-07-29T14:22:03.416667",
+        "file": "how-where-to-buy-twitter-x-accounts-manage-them.md"
+    },
+    {
         "title": "Your Pipeline Is 26.9h Behind: Catching Cybersecurity Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-269h-behind-catching-cybersecurity-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -25856,6 +25966,17 @@
         "keywords": "production, python, ready, code, tested, instant, delivery, automation",
         "generated": "2026-07-04T03:39:49.957119",
         "file": "best-python-automation-tools-for-2026.md"
+    },
+    {
+        "title": "Soft Navigations in Chrome 151: How to Prepare and What to Measure",
+        "slug": "soft-navigations-in-chrome-151-how-to-prepare-and-what-to-measure",
+        "author": "Apogee Watcher",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 14:11:01 +0000",
+        "description": "Your React or Vue product site already updates the URL when someone clicks from pricing to checkout. The address bar looks like a new page. Search Console an...",
+        "keywords": "soft, navigation, navigations, chrome, paint, lcp, url, route",
+        "generated": "2026-07-29T14:22:03.414937",
+        "file": "soft-navigations-in-chrome-151-how-to-prepare-and-what-to-measure.md"
     },
     {
         "title": "Nox Metals (YC S25) Is Hiring SWE",
@@ -30201,6 +30322,17 @@
         "keywords": "snapshot, compression, memory, you, restore, helpers, state, compressed",
         "generated": "2026-06-30T04:06:54.985036",
         "file": "hermes-memory-installer-new-snapshot-compression-and-restore-helpers.md"
+    },
+    {
+        "title": "Discover the Best Resorts for Couples in Kodaikanal and Munnar ",
+        "slug": "discover-the-best-resorts-for-couples-in-kodaikanal-and-munnar",
+        "author": "LuxeGlamp Luxury Stay",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 14:08:31 +0000",
+        "description": "Introduction Planning a romantic getaway in the hills is the perfect way to reconnect with your partner and create unforgettable memories. Whether you prefer...",
+        "keywords": "resorts, munnar, couples, kodaikanal, best, romantic, luxury, luxeglamp",
+        "generated": "2026-07-29T14:22:03.416937",
+        "file": "discover-the-best-resorts-for-couples-in-kodaikanal-and-munnar.md"
     },
     {
         "title": "Vercel AI SDK 6: An Agent Is Just a while Loop",
@@ -34711,6 +34843,17 @@
         "file": "improvised-apriori-algorithm-using-frequent-pattern-tree-for-real-timeapplications-in-data-mining.md"
     },
     {
+        "title": "Agent Roundup: Two Codex signals worth verifying, not overreading",
+        "slug": "agent-roundup-two-codex-signals-worth-verifying-not-overreading",
+        "author": "LucioLiu",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 14:13:42 +0000",
+        "description": "Two Codex signals landed within a few hours of each other today. One affects how people read their usage meter. The other makes a security workflow available...",
+        "keywords": "codex, security, not, usage, does, every, openai, one",
+        "generated": "2026-07-29T14:22:03.418726",
+        "file": "agent-roundup-two-codex-signals-worth-verifying-not-overreading.md"
+    },
+    {
         "title": "How to Track Public Tenders from UK and EU Sources with Apify",
         "slug": "how-to-track-public-tenders-from-uk-and-eu-sources-with-apify",
         "author": "Eren Yeager",
@@ -35083,6 +35226,17 @@
         "keywords": "days, moving, you, your, what, graph, hmrc, timeline",
         "generated": "2026-06-15T12:29:05.506317",
         "file": "i-automated-my-moving-admin-with-ai-heres-what-i-learned.md"
+    },
+    {
+        "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+        "slug": "shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 12:48:18 +0000",
+        "description": "Article URL: https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/ Comments URL: https://news.ycombinat...",
+        "keywords": "shipping, godot, porting, partial, post, mortem, url, https",
+        "generated": "2026-07-29T14:22:03.393365",
+        "file": "shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem.md"
     },
     {
         "title": "Windows 10 quietly gets one more year of support and updates",
@@ -36062,6 +36216,17 @@
         "keywords": "branch, snapshot, table, main, audit, iceberg, tag, files",
         "generated": "2026-06-13T14:12:06.671421",
         "file": "apache-iceberg-branching-tagging-wap-production-patterns.md"
+    },
+    {
+        "title": "50k to 100k followers Twitter Accounts for Sale",
+        "slug": "50k-to-100k-followers-twitter-accounts-for-sale",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 14:10:52 +0000",
+        "description": "Buy Twitter Accounts 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com ...",
+        "keywords": "your, twitter, accounts, audience, can, account, brand, followers",
+        "generated": "2026-07-29T14:22:03.416219",
+        "file": "50k-to-100k-followers-twitter-accounts-for-sale.md"
     },
     {
         "title": "ChatGPT Cites Your Brand? How to Find Out (and What to Do If Not)",
@@ -38484,6 +38649,17 @@
         "file": "let-me-show-you-which-ai-model-actually-writes-the-best-code.md"
     },
     {
+        "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+        "slug": "show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself",
+        "author": "arisAlexis",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 12:43:36 +0000",
+        "description": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features: * Voice first * Private first * AI chat...",
+        "keywords": "how, you, private, voice, myself, have, journaling, first",
+        "generated": "2026-07-29T14:22:03.393571",
+        "file": "show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself.md"
+    },
+    {
         "title": "Building an MCP Server with Flama",
         "slug": "building-an-mcp-server-with-flama",
         "author": "Vortico",
@@ -40123,6 +40299,17 @@
         "file": "launched-a-free-dsgvo-compliance-scanner-scanned-200-sites-73-had-violations.md"
     },
     {
+        "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+        "slug": "a-texture-lookup-approach-to-bzier-curve-evaluation-on-the-gpu-jcgt",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 12:40:13 +0000",
+        "description": "Article URL: https://jcgt.org/published/0015/02/01/ Comments URL: https://news.ycombinator.com/item?id=49096742 Points: 15 # Comments: 2",
+        "keywords": "jcgt, url, https, comments, texture, lookup, approach, curve",
+        "generated": "2026-07-29T14:22:03.393690",
+        "file": "a-texture-lookup-approach-to-bzier-curve-evaluation-on-the-gpu-jcgt.md"
+    },
+    {
         "title": "Capital Hospitality Villas Preparation — خدمة ضيافة للمناسبات في فلل العاصمة: تجهيزات فاخرة تليق بضيوفك",
         "slug": "capital-hospitality-villas-preparation",
         "author": "ismail",
@@ -41331,6 +41518,17 @@
         "keywords": "you, certifications, can, another, what, how, learning, they",
         "generated": "2026-07-04T08:44:47.974872",
         "file": "the-day-i-stopped-chasing-certifications-and-started-building-things.md"
+    },
+    {
+        "title": "The MCP spec's own state-handle fix is bypassable",
+        "slug": "the-mcp-specs-own-state-handle-fix-is-bypassable",
+        "author": "Paolo Costanzo",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 14:12:56 +0000",
+        "description": "Note. This is an application-authorization finding, not a vulnerability in the MCP protocol. The lab runs entirely in-process: no sockets, no DNS, no cloud a...",
+        "keywords": "handle, not, key, mcp, owner, svc, same, tenant",
+        "generated": "2026-07-29T14:22:03.419155",
+        "file": "the-mcp-specs-own-state-handle-fix-is-bypassable.md"
     },
     {
         "title": "How We Built an Adult Height Predictor: The Math, the Science, and the Edge Cases",
@@ -44006,6 +44204,17 @@
         "file": "the-pulse-of-patient-care-why-healthcare-is-embracing-ai-voice-agents-in-2026.md"
     },
     {
+        "title": "MotherDuck & DuckDB Cloud: Hybrid Execution, WASM in the Browser, Team Attach",
+        "slug": "motherduck-duckdb-cloud-hybrid-execution-wasm-in-the-browser-team-attach",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 14:05:59 +0000",
+        "description": "motherduck is the commercial cloud data platform built by the original creators of DuckDB — and it is the pick-one architectural decision that decides whethe...",
+        "keywords": "motherduck, duckdb, cloud, per, snowflake, team, query, local",
+        "generated": "2026-07-29T14:22:03.406407",
+        "file": "motherduck-duckdb-cloud-hybrid-execution-wasm-in-the-browser-team-attach.md"
+    },
+    {
         "title": "Navigating Bitcoin Core: A Developer Introduction to Scripting the Blockchain",
         "slug": "navigating-bitcoin-core-a-developer-introduction-to-scripting-the-blockchain",
         "author": "Mercy Moraa",
@@ -44246,6 +44455,17 @@
         "keywords": "shot, full, free, site, cheapest, tier, api, you",
         "generated": "2026-07-15T08:23:28.887270",
         "file": "cheapest-screenshot-api-in-2026-free-tiers-compared.md"
+    },
+    {
+        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "slug": "handbookmd-shows-that-long-policy-documents-do-not-reliably-govern-agents",
+        "author": "spIrr",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 13:01:57 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2607.25398 Comments URL: https://news.ycombinator.com/item?id=49096969 Points: 54 # Comments: 28",
+        "keywords": "url, https, comments, handbook, shows, long, policy, documents",
+        "generated": "2026-07-29T14:22:03.393067",
+        "file": "handbookmd-shows-that-long-policy-documents-do-not-reliably-govern-agents.md"
     },
     {
         "title": "Dario must be crashing out",
