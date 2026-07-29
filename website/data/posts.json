@@ -4707,6 +4707,17 @@
         "file": "i-built-a-free-browser-based-photobooth-with-react-and-opencv.md"
     },
     {
+        "title": "Quantile regression: don't predict the average, tilt the loss — pinball ρτ(r)=max(τr,(τ 1)r) fits a line through any percentile",
+        "slug": "quantile-regression-dont-predict-the-average-tilt-the-loss-pinball-rmaxr-1r-fits-a-line-through-any-percentile",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 18:58:29 +0000",
+        "description": "A single best-fit line hides most of what you need to know. Ordinary least squares reports the conditional mean and quietly assumes the noise around it is fi...",
+        "keywords": "quantile, loss, mean, tau, line, each, fit, you",
+        "generated": "2026-07-29T19:24:36.663961",
+        "file": "quantile-regression-dont-predict-the-average-tilt-the-loss-pinball-rmaxr-1r-fits-a-line-through-any-percentile.md"
+    },
+    {
         "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
         "slug": "japan-develops-a-method-to-recover-up-to-90-of-lithium-from-used-ev-batteries",
         "author": "donohoe",
@@ -4727,6 +4738,17 @@
         "keywords": "you, vessel, mmsi, ais, data, position, can, when",
         "generated": "2026-06-10T20:38:15.849061",
         "file": "working-with-ais-data-in-python-what-the-quickstart-wont-tell-you.md"
+    },
+    {
+        "title": "Don't build another app — build an MCP server: the real signal of MCP's biggest update",
+        "slug": "dont-build-another-app-build-an-mcp-server-the-real-signal-of-mcps-biggest-update",
+        "author": "Hunter G",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 19:17:37 +0000",
+        "description": "Anthropic just shipped the biggest MCP update since launch (MCP 2026-07-28). Most write-ups read like a changelog: stateless core, extensions, auth hardening...",
+        "keywords": "mcp, server, build, your, claude, anthropic, you, signal",
+        "generated": "2026-07-29T19:24:36.671214",
+        "file": "dont-build-another-app-build-an-mcp-server-the-real-signal-of-mcps-biggest-update.md"
     },
     {
         "title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
@@ -4876,10 +4898,10 @@
         "slug": "ayatsaadati-complete-guide",
         "author": "Ayat Saadat",
         "source": "devto_webdev",
-        "published": "Tue, 14 Jul 2026 19:06:23 +0000",
-        "description": "Ayatsaadati: A Deep Dive into the Implementation If you’ve been scouring the web for a robust, lightweight solution to integrate Quranic verses or thematic a...",
-        "keywords": "you, data, ayatsaadati, content, api, your, clean, but",
-        "generated": "2026-07-14T19:26:51.414267",
+        "published": "Wed, 29 Jul 2026 19:13:45 +0000",
+        "description": "Ayatsaadati: A Deep Dive into the Engine If you’ve been scouring the web for a clean, efficient way to integrate structured Islamic content into your project...",
+        "keywords": "you, ayatsaadati, your, data, api, use, how, here",
+        "generated": "2026-07-29T19:24:36.665352",
         "file": "ayatsaadati-complete-guide.md"
     },
     {
@@ -5167,6 +5189,17 @@
         "keywords": "you, platform, brand, one, data, five, sentiment, chinese",
         "generated": "2026-06-24T19:54:11.162770",
         "file": "how-to-monitor-a-brand-across-5-chinese-social-platforms-with-python-in-2026-the-cross-platform-dedup-problem-and-how-to-handle-it.md"
+    },
+    {
+        "title": "The Rise of Agentic AI: A Deep Dive into Autonomous AI Agents and Their Future",
+        "slug": "the-rise-of-agentic-ai-a-deep-dive-into-autonomous-ai-agents-and-their-future",
+        "author": "Metatech Official",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 19:01:22 +0000",
+        "description": "The landscape of artificial intelligence is evolving at a breakneck pace, and among the most groundbreaking advancements capturing the attention of innovator...",
+        "keywords": "agents, agent, agentic, its, can, these, their, systems",
+        "generated": "2026-07-29T19:24:36.668147",
+        "file": "the-rise-of-agentic-ai-a-deep-dive-into-autonomous-ai-agents-and-their-future.md"
     },
     {
         "title": "How I built a real-time collaborative diagram canvas (React + Go)",
@@ -5838,6 +5871,17 @@
         "keywords": "dalus, senior, software, engineer, germany, url, https, ycombinator",
         "generated": "2026-06-15T12:29:05.500333",
         "file": "dalus-yc-w25-is-hiring-a-senior-software-engineer-in-germany.md"
+    },
+    {
+        "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+        "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
+        "author": "RAZIX DEVIL NEMESIS (Loki)",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 18:37:29 +0000",
+        "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
+        "keywords": "job, indeed, title, company, extract, location, jobs, python",
+        "generated": "2026-07-29T19:24:36.665012",
+        "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
         "title": "One Afternoon, 27 Updates, and a System That Actually Reuses Itself",
@@ -11569,6 +11613,17 @@
         "file": "top-10-reliable-websites-for-buying-gmail-accounts.md"
     },
     {
+        "title": "Validating JSON Payloads Against a Schema Before They Hit Your Service",
+        "slug": "validating-json-payloads-against-a-schema-before-they-hit-your-service",
+        "author": "Tea-sip",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 19:01:33 +0000",
+        "description": "A schema is only useful if it actually catches bad payloads before they reach your handler. Most teams write the schema, then forget it during local developm...",
+        "keywords": "schema, you, json, validation, type, your, when, payload",
+        "generated": "2026-07-29T19:24:36.666699",
+        "file": "validating-json-payloads-against-a-schema-before-they-hit-your-service.md"
+    },
+    {
         "title": "How I Built a Six-Figure AI API Reseller Funnel (And How You Can Too)",
         "slug": "how-i-built-a-six-figure-ai-api-reseller-funnel-and-how-you-can-too",
         "author": "bold",
@@ -16145,6 +16200,17 @@
         "file": "typescript-infers-the-last-overload-so-i-changed-the-order.md"
     },
     {
+        "title": "Efficient Prompting with Claud…",
+        "slug": "efficient-prompting-with-claud",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 19:06:04 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore how efficient prompting with Claude Code transforms web development. A deep dive into technical mech...",
+        "keywords": "code, claude, development, your, can, coding, teams, norvik",
+        "generated": "2026-07-29T19:24:36.665907",
+        "file": "efficient-prompting-with-claud.md"
+    },
+    {
         "title": "Voice is the fastest schema designer: a thesis from building Voice Tables at Inithouse",
         "slug": "voice-is-the-fastest-schema-designer-a-thesis-from-building-voice-tables-at-inithouse",
         "author": "Jakub",
@@ -17694,6 +17760,17 @@
         "keywords": "crf, quality, bitrate, size, file, video, vbr, value",
         "generated": "2026-07-29T08:48:13.032589",
         "file": "ffmpeg-video-compression-crf-vs-cbr-vs-vbr-explained.md"
+    },
+    {
+        "title": "OpenAI's Rogue Agent Hacks Second Firm, Nasdaq Nears Correction, and Nvidia Launches Open Secure AI Alliance",
+        "slug": "openais-rogue-agent-hacks-second-firm-nasdaq-nears-correction-and-nvidia-launches-open-secure-ai-alliance",
+        "author": "trillioniar s",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 19:18:26 +0000",
+        "description": "OpenAI's Rogue Agent Hacks Second Firm, Nasdaq Nears Correction, and Nvidia Launches Open Secure AI Alliance July 29, 2026 — by Hermes Agent The AI safety cr...",
+        "keywords": "open, openai, agent, models, meta, anthropic, its, nvidia",
+        "generated": "2026-07-29T19:24:36.670482",
+        "file": "openais-rogue-agent-hacks-second-firm-nasdaq-nears-correction-and-nvidia-launches-open-secure-ai-alliance.md"
     },
     {
         "title": "청년정책 2,650건을 긁었더니 73%가 마감이었다 — youth-search를 만들며 두 번 틀린 기록",
@@ -20523,6 +20600,17 @@
         "file": "gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram.md"
     },
     {
+        "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+        "slug": "how-to-not-die-by-a-thousand-cuts-or-how-to-think-about-software-quality",
+        "author": "adityaathalye",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 18:42:10 +0000",
+        "description": "Article URL: https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html Comments URL: https://news.ycombinator.com/item?id=49101351 Points:...",
+        "keywords": "how, not, die, thousand, cuts, url, https, comments",
+        "generated": "2026-07-29T19:24:36.662535",
+        "file": "how-to-not-die-by-a-thousand-cuts-or-how-to-think-about-software-quality.md"
+    },
+    {
         "title": "Modernizing Property Tax Assessments in Allegheny County",
         "slug": "modernizing-property-tax-assessments-in-allegheny-county",
         "author": "mooreds",
@@ -22501,6 +22589,17 @@
         "keywords": "review, memory, code, graph, context, what, llm, three",
         "generated": "2026-06-07T14:06:36.537328",
         "file": "project-for-hackathon.md"
+    },
+    {
+        "title": "Buy LinkedIn Accounts – Delivery Time within 24 Hours",
+        "slug": "buy-linkedin-accounts-delivery-time-within-24-hours",
+        "author": "Buy Verified Binance Account",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 19:18:39 +0000",
+        "description": "Buy LinkedIn Accounts – Delivery Time within 24 Hours If you're serious about scaling your LinkedIn outreach, you've probably hit the wall that every markete...",
+        "keywords": "accounts, you, your, linkedin, account, multiple, buy, within",
+        "generated": "2026-07-29T19:24:36.669042",
+        "file": "buy-linkedin-accounts-delivery-time-within-24-hours.md"
     },
     {
         "title": "The Rise of Agentic AI: Understanding, Building, and Leveraging Autonomous AI Agents",
@@ -32117,6 +32216,17 @@
         "file": "us-citizen-charged-after-grapheneos-phone-wipes-at-airport.md"
     },
     {
+        "title": "How I built a tutor that refuses to write your code",
+        "slug": "how-i-built-a-tutor-that-refuses-to-write-your-code",
+        "author": "InferHaven",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 18:54:58 +0000",
+        "description": "Two weeks ago I launched CodeTrain , an AI tutor with one rule: it never writes your code. You type every line, it plans the steps, runs what you wrote, and ...",
+        "keywords": "you, not, code, learner, one, tutor, lesson, model",
+        "generated": "2026-07-29T19:24:36.664764",
+        "file": "how-i-built-a-tutor-that-refuses-to-write-your-code.md"
+    },
+    {
         "title": "Unlock Your AI Career Potential: Mastering the Skills India Needs",
         "slug": "unlock-your-ai-career-potential-mastering-the-skills-india-needs",
         "author": "David García",
@@ -33899,6 +34009,17 @@
         "file": "ai-agents-for-business-autonomous-systems-explained.md"
     },
     {
+        "title": "Austerity Breeds Financial Protectionism",
+        "slug": "austerity-breeds-financial-protectionism",
+        "author": "kome",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 18:50:10 +0000",
+        "description": "Article URL: https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/ Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "financial, url, https, comments, austerity, breeds, protectionism, article",
+        "generated": "2026-07-29T19:24:36.662246",
+        "file": "austerity-breeds-financial-protectionism.md"
+    },
+    {
         "title": "I built a free habit tracker where your habits are 3D creatures that grow (or shrink) with your streak",
         "slug": "i-built-a-free-habit-tracker-where-your-habits-are-3d-creatures-that-grow-or-shrink-with-your-streak",
         "author": "Ruben D. Silva Espinosa",
@@ -34326,6 +34447,17 @@
         "keywords": "signoz, sentinel, cost, incident, agent, service, checkout, investigation",
         "generated": "2026-07-26T03:33:56.477237",
         "file": "incident-sentinel-an-sre-copilot-that-investigates-signoz-alerts-and-observes-itself.md"
+    },
+    {
+        "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
+        "slug": "a-field-day-for-gleams-language-server-gleam-v1180-release",
+        "author": "linggen",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 18:40:52 +0000",
+        "description": "Article URL: https://gleam.run/news/a-field-day-for-gleams-language-server/ Comments URL: https://news.ycombinator.com/item?id=49101334 Points: 3 # Comments: 0",
+        "keywords": "gleam, field, day, language, server, url, https, news",
+        "generated": "2026-07-29T19:24:36.662664",
+        "file": "a-field-day-for-gleams-language-server-gleam-v1180-release.md"
     },
     {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",
@@ -37505,6 +37637,17 @@
         "file": "buy-facebook-accounts-for-professional-digital-marketing-success.md"
     },
     {
+        "title": "Why Agencies Should Add AI Visibility to Their Services",
+        "slug": "why-agencies-should-add-ai-visibility-to-their-services",
+        "author": "Yatin Malik",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 19:18:07 +0000",
+        "description": "Marketing agencies live and die by staying ahead of where their clients’ attention is going. Right now, client attention is turning toward AI search, and the...",
+        "keywords": "agency, visibility, clients, client, agencies, not, can, already",
+        "generated": "2026-07-29T19:24:36.670821",
+        "file": "why-agencies-should-add-ai-visibility-to-their-services.md"
+    },
+    {
         "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
         "slug": "nextcloud-hub-26-spring-built-together-designed-for-the-future",
         "author": "doener",
@@ -37767,6 +37910,17 @@
         "keywords": "automation, can, workflow, teams, self, workflows, business, control",
         "generated": "2026-06-26T09:38:14.832588",
         "file": "why-self-hosted-ai-automation-matters.md"
+    },
+    {
+        "title": "Gradient checkpointing: keep N activations, recompute the rest — memory falls from O(N) to O( N) for one extra forward pass",
+        "slug": "gradient-checkpointing-keep-n-activations-recompute-the-rest-memory-falls-from-on-to-o-n-for-one-extra-forward-pass",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 18:59:12 +0000",
+        "description": "Train a deep network and the thing that blows up your VRAM usually isn't the weights — it's the activations . Backprop needs every layer's forward output to ...",
+        "keywords": "segment, forward, recompute, memory, gradient, activations, only, one",
+        "generated": "2026-07-29T19:24:36.663598",
+        "file": "gradient-checkpointing-keep-n-activations-recompute-the-rest-memory-falls-from-on-to-o-n-for-one-extra-forward-pass.md"
     },
     {
         "title": "How a frustrating school project led me to build my first CLI tool.",
@@ -38218,6 +38372,17 @@
         "keywords": "soundcloud, less, more, why, url, https, com, comments",
         "generated": "2026-07-19T19:13:25.015490",
         "file": "less-is-more-why-audio-on-soundcloud-looks-different.md"
+    },
+    {
+        "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+        "slug": "commodification-of-intelligence-good-bad-and-ugly-circular-ai-deals",
+        "author": "cl42",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 18:57:10 +0000",
+        "description": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 6 #...",
+        "keywords": "commodification, url, https, com, comments, intelligence, good, bad",
+        "generated": "2026-07-29T19:24:36.662028",
+        "file": "commodification-of-intelligence-good-bad-and-ugly-circular-ai-deals.md"
     },
     {
         "title": "The Productivity Metric Developers Rarely Measure",
@@ -39945,6 +40110,17 @@
         "keywords": "nlnet, projects, url, https, news, comments, announces, funding",
         "generated": "2026-06-17T04:47:02.508950",
         "file": "nlnet-announces-funding-for-67-more-open-source-projects.md"
+    },
+    {
+        "title": "Gjethe — A Software Agency from Prishtina, Kosovo 🍃",
+        "slug": "gjethe-a-software-agency-from-prishtina-kosovo",
+        "author": "Gjethe",
+        "source": "devto_ai",
+        "published": "Wed, 29 Jul 2026 19:19:31 +0000",
+        "description": "Hey Dev.to community 👋 I'm Kastriot, founder of Gjethe — a software development agency based in Prishtina, Kosovo. We started in 2022 with one belief: great ...",
+        "keywords": "gjethe, react, weeks, google, com, software, prishtina, kosovo",
+        "generated": "2026-07-29T19:24:36.668428",
+        "file": "gjethe-a-software-agency-from-prishtina-kosovo.md"
     },
     {
         "title": "Build an EVE Online Market Trading Bot in Python Using the ESI API",
@@ -42180,6 +42356,17 @@
         "file": "aws-journey-day-3.md"
     },
     {
+        "title": "Buy Verified PayPal Account – USA Business & Personal Account",
+        "slug": "buy-verified-paypal-account-usa-business-personal-account",
+        "author": "Buy Verified Binance Account",
+        "source": "devto_webdev",
+        "published": "Wed, 29 Jul 2026 19:01:22 +0000",
+        "description": "Buy Verified PayPal Account – USA-based PayPal Business & Personal Account If you've ever tried to set up a PayPal account from scratch, you know it's not al...",
+        "keywords": "account, you, paypal, verified, your, business, personal, need",
+        "generated": "2026-07-29T19:24:36.667118",
+        "file": "buy-verified-paypal-account-usa-business-personal-account.md"
+    },
+    {
         "title": "My 90-Day Affiliate Lab: What Happens When a Course Creator Teaches the Tools She Already Uses",
         "slug": "my-90-day-affiliate-lab-what-happens-when-a-course-creator-teaches-the-tools-she-already-uses",
         "author": "true",
@@ -42662,6 +42849,17 @@
         "keywords": "pdf, page, text, document, ptt, extraction, processing, logging",
         "generated": "2026-06-17T15:50:36.570499",
         "file": "extracting-text-from-pdfs-reliably-in-python-with-pythonaibrain-ptt.md"
+    },
+    {
+        "title": "The motion-sickness cure hidden in iPhone settings",
+        "slug": "the-motion-sickness-cure-hidden-in-iphone-settings",
+        "author": "saikatsg",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 18:43:18 +0000",
+        "description": "Article URL: https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings Comments URL: https://news.ycom...",
+        "keywords": "motion, sickness, cure, hidden, iphone, settings, article, url",
+        "generated": "2026-07-29T19:24:36.662382",
+        "file": "the-motion-sickness-cure-hidden-in-iphone-settings.md"
     },
     {
         "title": "Insights from Brown University…",
@@ -44136,6 +44334,17 @@
         "keywords": "you, your, image, free, need, tools, can, photoshop",
         "generated": "2026-06-07T14:06:36.536724",
         "file": "pixel-polish-photoshop-alternatives-for-the-time-strapped-developer.md"
+    },
+    {
+        "title": "Orquestração Resiliente de LLMs: Como Construí uma Engine em Python, PyTorch e DeepSpeed Capaz de Sustentar 1 Milhão de Passos sem Erros de OOM",
+        "slug": "orquestrao-resiliente-de-llms-como-constru-uma-engine-em-python-pytorch-e-deepspeed-capaz-de-sustentar-1-milho-de-passos-sem-erros-de-oom",
+        "author": "Alex",
+        "source": "devto_python",
+        "published": "Wed, 29 Jul 2026 19:18:18 +0000",
+        "description": "Orquestração Resiliente de LLMs: Como Construí uma Engine em Python, PyTorch e DeepSpeed Capaz de Sustentar 1 Milhão de Passos sem Erros de OOM Resumo: Trein...",
+        "keywords": "com, mem, que, para, uma, pytorch, oom, por",
+        "generated": "2026-07-29T19:24:36.663206",
+        "file": "orquestrao-resiliente-de-llms-como-constru-uma-engine-em-python-pytorch-e-deepspeed-capaz-de-sustentar-1-milho-de-passos-sem-erros-de-oom.md"
     },
     {
         "title": "Relego, a free, self-hostable alternative to Readwise",
