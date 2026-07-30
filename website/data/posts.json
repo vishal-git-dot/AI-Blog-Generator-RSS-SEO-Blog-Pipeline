@@ -363,6 +363,17 @@
         "file": "software-architecture-guide-2019.md"
     },
     {
+        "title": "The Productivity Mirage",
+        "slug": "the-productivity-mirage",
+        "author": "msephton",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 23:18:11 +0000",
+        "description": "Article URL: https://frantic.im/mirage/ Comments URL: https://news.ycombinator.com/item?id=49104335 Points: 54 # Comments: 18",
+        "keywords": "mirage, url, https, comments, productivity, article, frantic, news",
+        "generated": "2026-07-30T02:47:02.165571",
+        "file": "the-productivity-mirage.md"
+    },
+    {
         "title": "The One Tool Developers Use to Finally Launch Products Without Wasting Months",
         "slug": "the-one-tool-developers-use-to-finally-launch-products-without-wasting-months",
         "author": "Areg",
@@ -1636,6 +1647,17 @@
         "keywords": "experts, rank, moe, its, not, expert, runtime, device",
         "generated": "2026-07-17T13:49:54.404649",
         "file": "porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-experts.md"
+    },
+    {
+        "title": "SnowLens: Free Snowflake Observability — 9 Detectors, Zero Data Egress",
+        "slug": "snowlens-free-snowflake-observability-9-detectors-zero-data-egress",
+        "author": "Abin Alex",
+        "source": "devto_python",
+        "published": "Thu, 30 Jul 2026 02:40:40 +0000",
+        "description": "If you run Snowflake in production, you've probably asked yourself: which queries are burning credits? Why did costs spike last Tuesday? Are any warehouses j...",
+        "keywords": "snowflake, snowlens, sql, your, data, queries, warehouse, cost",
+        "generated": "2026-07-30T02:47:02.165974",
+        "file": "snowlens-free-snowflake-observability-9-detectors-zero-data-egress.md"
     },
     {
         "title": "Everything You Need to Know About Debt Management",
@@ -9754,6 +9776,17 @@
         "file": "claude-reacts-to-codeberg-bans-cryptocurrency-and-llm-generated-code-projects.md"
     },
     {
+        "title": "Show HN: A local merge queue for parallel Claude Code agents",
+        "slug": "show-hn-a-local-merge-queue-for-parallel-claude-code-agents",
+        "author": "funador",
+        "source": "hackernews",
+        "published": "Thu, 30 Jul 2026 00:20:16 +0000",
+        "description": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev se...",
+        "keywords": "agents, local, merge, queue, parallel, have, commits, day",
+        "generated": "2026-07-30T02:47:02.165452",
+        "file": "show-hn-a-local-merge-queue-for-parallel-claude-code-agents.md"
+    },
+    {
         "title": "Open-Weight LLM API Integration: A Developer's Guide to Flexible AI",
         "slug": "open-weight-llm-api-integration-a-developers-guide-to-flexible-ai",
         "author": "NovaStack",
@@ -12317,6 +12350,17 @@
         "file": "your-pipeline-is-292h-behind-catching-entertainment-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "FastAPI: alias efimeros para signup",
+        "slug": "fastapi-alias-efimeros-para-signup",
+        "author": "Silviu Technology",
+        "source": "devto_python",
+        "published": "Thu, 30 Jul 2026 02:24:31 +0000",
+        "description": "Cuando un flujo de signup en FastAPI falla, casi nunca falla en el POST /signup . El problema suele aparecer despues: el correo llega tarde, aterriza en una ...",
+        "keywords": "para, que, alias, signup, por, cuando, una, corrida",
+        "generated": "2026-07-30T02:47:02.167761",
+        "file": "fastapi-alias-efimeros-para-signup.md"
+    },
+    {
         "title": "Talk Python to Me: 553: All of our tools",
         "slug": "talk-python-to-me-553-all-of-our-tools",
         "author": "Clyde C",
@@ -14550,6 +14594,17 @@
         "file": "what-a-neural-net-actually-does-the-intuition-no-math.md"
     },
     {
+        "title": "Codebase Knowledge Base Series (01): Technical Landscape — Why Code Understanding Is 10x Harder Than Document Retrieval",
+        "slug": "codebase-knowledge-base-series-01-technical-landscape-why-code-understanding-is-10x-harder-than-document-retrieval",
+        "author": "WonderLab",
+        "source": "devto_ai",
+        "published": "Thu, 30 Jul 2026 02:36:52 +0000",
+        "description": "Code Is Not Documentation Document knowledge base retrieval: chunk documents, vectorize, find similar chunks when a question arrives, generate an answer. The...",
+        "keywords": "layer, code, knowledge, call, what, graph, semantic, vector",
+        "generated": "2026-07-30T02:47:02.171262",
+        "file": "codebase-knowledge-base-series-01-technical-landscape-why-code-understanding-is-10x-harder-than-document-retrieval.md"
+    },
+    {
         "title": "Response to AI slop is from Robin Williams",
         "slug": "response-to-ai-slop-is-from-robin-williams",
         "author": "herbertl",
@@ -15384,6 +15439,17 @@
         "keywords": "your, url, https, comments, need, clothes, boots, motorcycle",
         "generated": "2026-06-18T10:38:46.937775",
         "file": "i-need-your-clothes-your-boots-and-your-motorcycle.md"
+    },
+    {
+        "title": "How I Cut My API Costs by 60% With a 50-Line Python Cache",
+        "slug": "how-i-cut-my-api-costs-by-60-with-a-50-line-python-cache",
+        "author": "Sir Max",
+        "source": "devto_webdev",
+        "published": "Thu, 30 Jul 2026 02:19:21 +0000",
+        "description": "How I Cut My API Costs by 60% With a 50-Line Python Cache Last month I got a bill from an AI API provider that made me choke on my coffee. $340. For a side p...",
+        "keywords": "api, return, cache, key, time, response, ttl, def",
+        "generated": "2026-07-30T02:47:02.169913",
+        "file": "how-i-cut-my-api-costs-by-60-with-a-50-line-python-cache.md"
     },
     {
         "title": "Show HN: A durable filesystem layer for AI agents",
@@ -16816,6 +16882,17 @@
         "file": "i-built-a-context-os-that-stops-ai-agents-from-drowning-in-your-codebase.md"
     },
     {
+        "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+        "slug": "man-and-the-computer-by-john-g-kemeny-1972-book-by-the-co-creator-of-basic",
+        "author": "MilnerRoute",
+        "source": "hackernews",
+        "published": "Wed, 29 Jul 2026 22:53:44 +0000",
+        "description": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 21 # Comments: 9",
+        "keywords": "url, https, comments, man, computer, john, kemeny, book",
+        "generated": "2026-07-30T02:47:02.165689",
+        "file": "man-and-the-computer-by-john-g-kemeny-1972-book-by-the-co-creator-of-basic.md"
+    },
+    {
         "title": "Old and new apps, via modern coding agents by Terry Tao",
         "slug": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
         "author": "subset",
@@ -17045,6 +17122,17 @@
         "keywords": "https, atproto, list, relays, isn, google, very, doesn",
         "generated": "2026-07-11T19:12:02.612195",
         "file": "ask-hn-why-isnt-google-indexing-information-about-the-at-protocol.md"
+    },
+    {
+        "title": "Lost Update: When Two AI Agents Edit One File, One Silently Wins",
+        "slug": "lost-update-when-two-ai-agents-edit-one-file-one-silently-wins",
+        "author": "Alexey Spinov",
+        "source": "devto_python",
+        "published": "Thu, 30 Jul 2026 02:29:50 +0000",
+        "description": "A lost update between AI agents: two agents edit the same resource, both writes return success, and one is silently gone with nothing in the system saying a ...",
+        "keywords": "not, gate, one, version, write, you, lost, agents",
+        "generated": "2026-07-30T02:47:02.166994",
+        "file": "lost-update-when-two-ai-agents-edit-one-file-one-silently-wins.md"
     },
     {
         "title": "Building an AI Research Desk: Multi-Agent Systems in Fintech",
@@ -17870,6 +17958,17 @@
         "keywords": "albania, not, sale, resort, triggers, flamingo, revolution, url",
         "generated": "2026-06-09T15:18:05.197557",
         "file": "albania-is-not-for-sale-kushners-4b-resort-triggersflamingo-revolution.md"
+    },
+    {
+        "title": "How I Built 6 Game Wiki Sites in 30 Days with Astro",
+        "slug": "how-i-built-6-game-wiki-sites-in-30-days-with-astro",
+        "author": "shi0318",
+        "source": "devto_webdev",
+        "published": "Thu, 30 Jul 2026 02:43:47 +0000",
+        "description": "I love playing video games, but I kept running into the same problem: every time a new game drops, the existing wiki sites are slow, bloated with ads, or jus...",
+        "keywords": "https, wiki, game, sites, astro, info, guide, you",
+        "generated": "2026-07-30T02:47:02.168655",
+        "file": "how-i-built-6-game-wiki-sites-in-30-days-with-astro.md"
     },
     {
         "title": "An LLM judge is a biased instrument, not a measurement",
@@ -18772,6 +18871,17 @@
         "keywords": "swift, apple, package, developers, index, packages, more, can",
         "generated": "2026-06-23T20:12:47.953714",
         "file": "swift-package-index-joins-apple-a-new-era-for-developers.md"
+    },
+    {
+        "title": "Open Source Project of the Day (#135): CodeWiki — ACL 2026 Research-Grade Codebase Documentation with Recursive Multi-Agent Architecture",
+        "slug": "open-source-project-of-the-day-135-codewiki-acl-2026-research-grade-codebase-documentation-with-recursive-multi-agent-architecture",
+        "author": "WonderLab",
+        "source": "devto_ai",
+        "published": "Thu, 30 Jul 2026 02:35:09 +0000",
+        "description": "Introduction CodeWiki documents itself. This is article #135 in the Open Source Project of the Day series. Today's project is CodeWiki — an automated codeb...",
+        "keywords": "codewiki, documentation, module, open, agent, deepwiki, source, codebase",
+        "generated": "2026-07-30T02:47:02.171900",
+        "file": "open-source-project-of-the-day-135-codewiki-acl-2026-research-grade-codebase-documentation-with-recursive-multi-agent-architecture.md"
     },
     {
         "title": "I Shipped a Pixel-Pet SaaS for OpenAI Codex — and the Rate-Limit + Payment Setup That Made It Safe",
@@ -22470,6 +22580,17 @@
         "file": "top-10-websites-to-buy-old-yahoo-accounts-in-the-usa.md"
     },
     {
+        "title": "My AI-made 2D game animation assets",
+        "slug": "my-ai-made-2d-game-animation-assets",
+        "author": "liuxinyu",
+        "source": "devto_ai",
+        "published": "Thu, 30 Jul 2026 02:37:11 +0000",
+        "description": "Fully preserves character consistency, and the movements are highly accurate. Check out the sample images.",
+        "keywords": "made, game, animation, assets, fully, preserves, character, consistency",
+        "generated": "2026-07-30T02:47:02.170817",
+        "file": "my-ai-made-2d-game-animation-assets.md"
+    },
+    {
         "title": "Avelo Airlines San Juan Office Contact Number +1-888-738-0817",
         "slug": "avelo-airlines-san-juan-office-contact-number-1-888-738-0817",
         "author": "Martina Smith",
@@ -24448,6 +24569,17 @@
         "keywords": "gemini, computer, use, flash, url, https, models, comments",
         "generated": "2026-06-24T19:54:11.162134",
         "file": "computer-use-in-gemini-35-flash.md"
+    },
+    {
+        "title": "10 Trending Dev Tutorial Topics This Week: React 19, GPT-5 Turbo, NovaCode and More",
+        "slug": "10-trending-dev-tutorial-topics-this-week-react-19-gpt-5-turbo-novacode-and-more",
+        "author": "karleeov",
+        "source": "devto_webdev",
+        "published": "Thu, 30 Jul 2026 02:28:06 +0000",
+        "description": "Every week we scan what's new in the dev world and shortlist the tools and releases most worth learning. This roundup covers two research batches — ten topic...",
+        "keywords": "tutorial, what, why, now, angle, difficulty, react, intermediate",
+        "generated": "2026-07-30T02:47:02.169424",
+        "file": "10-trending-dev-tutorial-topics-this-week-react-19-gpt-5-turbo-novacode-and-more.md"
     },
     {
         "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
@@ -26980,6 +27112,17 @@
         "file": "introduction-to-compilers-and-language-design.md"
     },
     {
+        "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+        "slug": "flume-water-monitor-915-mhz-security-is-pretty-good",
+        "author": "credibleconure",
+        "source": "hackernews",
+        "published": "Thu, 30 Jul 2026 01:27:12 +0000",
+        "description": "Article URL: https://waveformsecurity.com/blog/flume/ Comments URL: https://news.ycombinator.com/item?id=49105136 Points: 15 # Comments: 5",
+        "keywords": "flume, url, https, com, comments, water, monitor, mhz",
+        "generated": "2026-07-30T02:47:02.165297",
+        "file": "flume-water-monitor-915-mhz-security-is-pretty-good.md"
+    },
+    {
         "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
         "slug": "my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice",
         "author": "Himanshu Kumar",
@@ -27132,6 +27275,17 @@
         "keywords": "fetchmark, clutter, parsing, article, text, feedback, free, bookmark",
         "generated": "2026-07-28T19:39:37.252122",
         "file": "building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing.md"
+    },
+    {
+        "title": "Kimi K3 API Guide: How to Access Moonshot's 2.8T Open-Weight Model (2026)",
+        "slug": "kimi-k3-api-guide-how-to-access-moonshots-28t-open-weight-model-2026",
+        "author": "TokenPAPA",
+        "source": "devto_python",
+        "published": "Thu, 30 Jul 2026 02:25:05 +0000",
+        "description": "Kimi K3 API Guide: How to Access Moonshot's 2.8T Open-Weight Model Kimi K3 is Moonshot AI's flagship 2.8-trillion-parameter model. This guide covers everythi...",
+        "keywords": "content, kimi, tokenpapa, openai, client, role, model, messages",
+        "generated": "2026-07-30T02:47:02.167405",
+        "file": "kimi-k3-api-guide-how-to-access-moonshots-28t-open-weight-model-2026.md"
     },
     {
         "title": "System Design Series #3: A Simple Framework for Designing Scalable Systems",
@@ -33074,6 +33228,17 @@
         "file": "fix-websocket-tick-data-gaps-for-crypto-market-feeds-production-python-implementation.md"
     },
     {
+        "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+        "slug": "a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency",
+        "author": "omerhj",
+        "source": "hackernews",
+        "published": "Thu, 30 Jul 2026 01:35:10 +0000",
+        "description": "Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-co...",
+        "keywords": "pharmacy, chain, vermont, implemented, efficiency, url, https, comments",
+        "generated": "2026-07-30T02:47:02.165120",
+        "file": "a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency.md"
+    },
+    {
         "title": "Live coding lost its signal. Here's how interview prep splits by company size in 2026.",
         "slug": "live-coding-lost-its-signal-heres-how-interview-prep-splits-by-company-size-in-2026",
         "author": "Frank @ Four-Leaf",
@@ -33677,6 +33842,17 @@
         "keywords": "astrophysicists, puzzle, over, new, universe, url, https, comments",
         "generated": "2026-07-04T13:45:59.766137",
         "file": "astrophysicists-puzzle-over-webbs-new-universe.md"
+    },
+    {
+        "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
+        "slug": "what-happens-during-a-production-deployment-a-behind-the-scenes-guide",
+        "author": "Manish Shivanandhan",
+        "source": "devto_ai",
+        "published": "Thu, 30 Jul 2026 02:41:34 +0000",
+        "description": "You push your code. A few minutes later, it is live for real users. Between those two moments runs a long chain of machinery: builds, artefacts, migrations, ...",
+        "keywords": "you, your, build, version, new, can, still, platform",
+        "generated": "2026-07-30T02:47:02.170509",
+        "file": "what-happens-during-a-production-deployment-a-behind-the-scenes-guide.md"
     },
     {
         "title": "Tổng Kết Thị Trường Chứng Khoán Ngày 08/07/2026",
@@ -35413,6 +35589,17 @@
         "keywords": "you, game, color, small, browser, cartoon, colors, remember",
         "generated": "2026-06-07T14:06:36.537547",
         "file": "i-built-a-small-browser-game-for-guessing-cartoon-colors.md"
+    },
+    {
+        "title": "Free Pitch Deck - Pitch Agency",
+        "slug": "free-pitch-deck-pitch-agency",
+        "author": "RAZIX DEVIL NEMESIS (Loki)",
+        "source": "devto_webdev",
+        "published": "Thu, 30 Jul 2026 02:36:35 +0000",
+        "description": "Pitch Deck AI automation agency seed round. 10 slides: problem, solution, market, team, ask. Download + Deploy Save the HTML file, open in any browser, or de...",
+        "keywords": "pitch, free, deck, agency, deploy, automation, seed, round",
+        "generated": "2026-07-30T02:47:02.168806",
+        "file": "free-pitch-deck-pitch-agency.md"
     },
     {
         "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
@@ -41014,6 +41201,17 @@
         "file": "building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents-rag.md"
     },
     {
+        "title": "Python Async/Await: A Practical Guide to Concurrent Programming",
+        "slug": "python-asyncawait-a-practical-guide-to-concurrent-programming",
+        "author": "Davis Mark",
+        "source": "devto_python",
+        "published": "Thu, 30 Jul 2026 02:21:38 +0000",
+        "description": "Modern Python applications often need to handle multiple tasks simultaneously — making API calls, reading files, querying databases, or waiting for network r...",
+        "keywords": "async, await, asyncio, def, url, time, tasks, print",
+        "generated": "2026-07-30T02:47:02.168406",
+        "file": "python-asyncawait-a-practical-guide-to-concurrent-programming.md"
+    },
+    {
         "title": "Agent Black Box: Teaching an AI Agent to Explain Its Own Failures",
         "slug": "agent-black-box-teaching-an-ai-agent-to-explain-its-own-failures",
         "author": "Banka Mani Bhargava",
@@ -41815,6 +42013,17 @@
         "keywords": "codex, resets, url, https, com, comments, article, news",
         "generated": "2026-07-19T03:25:16.525616",
         "file": "codex-resets.md"
+    },
+    {
+        "title": "Zero-cost automation: running AI agents 24/7 on a $0 budget",
+        "slug": "zero-cost-automation-running-ai-agents-247-on-a-0-budget",
+        "author": "RAZIX DEVIL NEMESIS (Loki)",
+        "source": "devto_ai",
+        "published": "Thu, 30 Jul 2026 02:37:49 +0000",
+        "description": "Zero-Cost Automation: Running AI Agents 24/7 on a $0 Budget As AI enthusiasts, we're often faced with the challenge of running our AI agents around the clock...",
+        "keywords": "automation, cost, agents, zero, your, running, budget, tools",
+        "generated": "2026-07-30T02:47:02.170686",
+        "file": "zero-cost-automation-running-ai-agents-247-on-a-0-budget.md"
     },
     {
         "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
@@ -43619,6 +43828,17 @@
         "keywords": "never, type, string, number, you, case, function, state",
         "generated": "2026-06-13T04:19:15.387602",
         "file": "mastering-typescripts-never-type-exhaustive-checks-conditional-types-and-real-patterns.md"
+    },
+    {
+        "title": "How to Generate Multiple Images With AI From a Variation Matrix",
+        "slug": "how-to-generate-multiple-images-with-ai-from-a-variation-matrix",
+        "author": "Voor AI",
+        "source": "devto_webdev",
+        "published": "Thu, 30 Jul 2026 02:34:36 +0000",
+        "description": "Generating multiple images reliably is a data-contract problem before it is a prompting problem. Define the invariant visual system once, express only allowe...",
+        "keywords": "system, item, accent, object, canvas, background, not, generate",
+        "generated": "2026-07-30T02:47:02.169072",
+        "file": "how-to-generate-multiple-images-with-ai-from-a-variation-matrix.md"
     },
     {
         "title": "The AI IPO Wave Is Here — and None of These Companies Make Money",
