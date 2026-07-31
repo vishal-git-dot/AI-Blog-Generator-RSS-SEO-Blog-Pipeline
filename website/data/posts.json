@@ -4377,6 +4377,17 @@
         "file": "best-time-for-landscaping-muscat.md"
     },
     {
+        "title": "How Undress AI Actually Works: A Technical Deep Dive into Diffusion Segmentation & Inpainting (2026)",
+        "slug": "how-undress-ai-actually-works-a-technical-deep-dive-into-diffusion-segmentation-inpainting-2026",
+        "author": "mary manson",
+        "source": "devto_python",
+        "published": "Fri, 31 Jul 2026 14:04:30 +0000",
+        "description": "If you've followed the generative AI space over the last two years, you've probably noticed a whole category of undress AI or nudify tools showing up in ...",
+        "keywords": "undress, model, technical, diffusion, inpainting, you, pipeline, pose",
+        "generated": "2026-07-31T14:20:45.221810",
+        "file": "how-undress-ai-actually-works-a-technical-deep-dive-into-diffusion-segmentation-inpainting-2026.md"
+    },
+    {
         "title": "How I built an OpenAI-compatible prompt encryption proxy in 300 lines of Python",
         "slug": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python",
         "author": "Xjz · Builder",
@@ -7466,6 +7477,17 @@
         "file": "kubernetes-persistentvolumes-and-storageclasses-dynamic-storage-provisioning-for-applications.md"
     },
     {
+        "title": "Better to Beg Forgiveness",
+        "slug": "better-to-beg-forgiveness",
+        "author": "hn_acker",
+        "source": "hackernews",
+        "published": "Fri, 31 Jul 2026 14:05:02 +0000",
+        "description": "Article URL: https://pluralistic.net/2026/07/31/just-do-it/ Comments URL: https://news.ycombinator.com/item?id=49123300 Points: 3 # Comments: 0",
+        "keywords": "url, https, comments, better, beg, forgiveness, article, pluralistic",
+        "generated": "2026-07-31T14:20:45.220174",
+        "file": "better-to-beg-forgiveness.md"
+    },
+    {
         "title": "AI‑Powered Automation for Solo Drone Pilots: Linking Flight Apps, AI Tools, and Your Document Hub",
         "slug": "aipowered-automation-for-solo-drone-pilots-linking-flight-apps-ai-tools-and-your-document-hub",
         "author": "Ken Deng",
@@ -7739,6 +7761,17 @@
         "keywords": "cortex, snowflake, july, more, mcp, coco, agents, data",
         "generated": "2026-07-27T14:47:54.561929",
         "file": "all-data-and-ai-weekly-252-27-july-2026.md"
+    },
+    {
+        "title": "Build a DNS Resolver with Python",
+        "slug": "build-a-dns-resolver-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 31 Jul 2026 14:00:55 +0000",
+        "description": "Build a DNS Resolver with Python tags: python, networking, tutorial, programming tags: python, redis, architecture, tutorial tags: python, redis, architectur...",
+        "keywords": "password, python, site, your, tags, tutorial, key, you",
+        "generated": "2026-07-31T14:20:45.222741",
+        "file": "build-a-dns-resolver-with-python.md"
     },
     {
         "title": "5 Best Sites to Buy Facebook Accounts (PVA & Aged)",
@@ -13593,6 +13626,17 @@
         "file": "germanys-infineon-opens-57b-chip-plant-as-eu-seeks-tech-autonomy.md"
     },
     {
+        "title": "Ruby Central's Destructive Legacy",
+        "slug": "ruby-centrals-destructive-legacy",
+        "author": "4d66ba06",
+        "source": "hackernews",
+        "published": "Fri, 31 Jul 2026 12:10:55 +0000",
+        "description": "Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/ Comments URL: https://news.ycombinator.com/item?id=49122105 Points: 40 # Com...",
+        "keywords": "ruby, destructive, legacy, url, https, comments, central, article",
+        "generated": "2026-07-31T14:20:45.220679",
+        "file": "ruby-centrals-destructive-legacy.md"
+    },
+    {
         "title": "Nul Characters in Strings in SQLite",
         "slug": "nul-characters-in-strings-in-sqlite",
         "author": "basilikum",
@@ -14878,6 +14922,17 @@
         "keywords": "python, memory, cpython, how, guide, you, repository, under",
         "generated": "2026-06-28T14:00:55.757611",
         "file": "found-a-hidden-gem-github-repo-explaining-cpython-internals-and-memory-management.md"
+    },
+    {
+        "title": "Instagram Grid Maker Create Perfect Instagram Layouts And Grids",
+        "slug": "instagram-grid-maker-create-perfect-instagram-layouts-and-grids",
+        "author": "bilal sidd",
+        "source": "devto_webdev",
+        "published": "Fri, 31 Jul 2026 14:09:40 +0000",
+        "description": "Introduction In Today's Visually-Driven Social Media Landscape Your Instagram Profile Serves As Your Digital Storefront. With Over 2 Billion Active Users Sta...",
+        "keywords": "grid, instagram, your, visual, image, maker, profile, images",
+        "generated": "2026-07-31T14:20:45.225114",
+        "file": "instagram-grid-maker-create-perfect-instagram-layouts-and-grids.md"
     },
     {
         "title": "Part 4: Going Fully Autonomous: EventBridge, DynamoDB, and Automated Publishing",
@@ -21557,6 +21612,17 @@
         "file": "beyond-the-model-building-the-ai-harness.md"
     },
     {
+        "title": "From AI support copilot to agentic customer service",
+        "slug": "from-ai-support-copilot-to-agentic-customer-service",
+        "author": "Eelco Los",
+        "source": "devto_ai",
+        "published": "Fri, 31 Jul 2026 14:12:27 +0000",
+        "description": "TL;DR Tokenizing at intake does nothing for the return path. Evidence agents query the CRM and raw identity comes back as a tool result, straight into model ...",
+        "keywords": "not, you, one, customer, model, data, what, have",
+        "generated": "2026-07-31T14:20:45.227161",
+        "file": "from-ai-support-copilot-to-agentic-customer-service.md"
+    },
+    {
         "title": "Hugging Face Inference API: Run 200,000+ AI Models for Free with Python",
         "slug": "hugging-face-inference-api-run-200000-ai-models-for-free-with-python",
         "author": "qing",
@@ -23141,6 +23207,17 @@
         "file": "the-russian-who-invented-semiconductors-25-years-before-the-usa.md"
     },
     {
+        "title": "A Safe Outcome Can Hide a Failed Security Control",
+        "slug": "a-safe-outcome-can-hide-a-failed-security-control",
+        "author": "Gyubin Lee",
+        "source": "devto_python",
+        "published": "Fri, 31 Jul 2026 14:05:44 +0000",
+        "description": "I kept coming back to a small problem in security testing: If the business outcome is safe, do we know that the control under test actually worked? Often, we...",
+        "keywords": "not, control, outcome, only, entitlement, release, guard, case",
+        "generated": "2026-07-31T14:20:45.221271",
+        "file": "a-safe-outcome-can-hide-a-failed-security-control.md"
+    },
+    {
         "title": "The Enterprise Software Industry Has Been Solving Yesterday's Problems",
         "slug": "the-enterprise-software-industry-has-been-solving-yesterdays-problems",
         "author": "ryan Insights",
@@ -24558,6 +24635,17 @@
         "keywords": "edu, buysmmservice, emails, buy, more, email, com, support",
         "generated": "2026-07-03T14:21:09.820079",
         "file": "top-05-sites-to-buying-edu-emails-for-student-discounts.md"
+    },
+    {
+        "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
+        "slug": "moonshot-built-on-20k-nvidia-chip-cluster-from-alibaba",
+        "author": "gk1",
+        "source": "hackernews",
+        "published": "Fri, 31 Jul 2026 13:24:03 +0000",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba Comments URL: https://news.y...",
+        "keywords": "moonshot, built, nvidia, chip, cluster, alibaba, url, https",
+        "generated": "2026-07-31T14:20:45.220507",
+        "file": "moonshot-built-on-20k-nvidia-chip-cluster-from-alibaba.md"
     },
     {
         "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
@@ -26210,6 +26298,17 @@
         "file": "ai-infrastructure-monitoring-in-2026-datadog-vs-new-relic-vs-prometheus-ai-vs-grafana-cloud-which-catches-bugs-before-your-users-do.md"
     },
     {
+        "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+        "slug": "tasklet-yc-p26-is-hiring-a-customer-success-engineer",
+        "author": "mayop100",
+        "source": "hackernews",
+        "published": "Fri, 31 Jul 2026 12:00:59 +0000",
+        "description": "Article URL: https://tasklet.ai/careers/customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49122034 Points: 0 # Comments: 0",
+        "keywords": "tasklet, customer, success, engineer, url, https, comments, hiring",
+        "generated": "2026-07-31T14:20:45.220799",
+        "file": "tasklet-yc-p26-is-hiring-a-customer-success-engineer.md"
+    },
+    {
         "title": "All-in-One AI Creative Suites vs. Dedicated Tools — and the SEO Playbook Behind This Post",
         "slug": "all-in-one-ai-creative-suites-vs-dedicated-tools-and-the-seo-playbook-behind-this-post",
         "author": "Feral Master",
@@ -26562,6 +26661,17 @@
         "file": "chatgpt-vs-perplexity-which-ai-tool-wins-in-2026.md"
     },
     {
+        "title": "One API Key for Every Model: Field Notes on the Vercel AI Gateway",
+        "slug": "one-api-key-for-every-model-field-notes-on-the-vercel-ai-gateway",
+        "author": "Ahmed Mahmoud",
+        "source": "devto_webdev",
+        "published": "Fri, 31 Jul 2026 14:13:21 +0000",
+        "description": "Headline: The Vercel AI Gateway is a single endpoint that routes AI SDK calls to any model provider through a plain provider/model string. I removed @ai-sd...",
+        "keywords": "gateway, provider, model, sdk, string, anthropic, one, you",
+        "generated": "2026-07-31T14:20:45.223732",
+        "file": "one-api-key-for-every-model-field-notes-on-the-vercel-ai-gateway.md"
+    },
+    {
         "title": "Keep an Accessible Combobox Stable When Search Results Arrive Out of Order",
         "slug": "keep-an-accessible-combobox-stable-when-search-results-arrive-out-of-order",
         "author": "babycat",
@@ -26874,10 +26984,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Tue, 28 Jul 2026 08:38:21 +0000",
+        "published": "Fri, 31 Jul 2026 14:07:33 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-07-28T08:43:31.573323",
+        "generated": "2026-07-31T14:20:45.228164",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -28496,6 +28606,17 @@
         "keywords": "pelicanmaxxing, url, https, comments, labs, article, dylancastillo, posts",
         "generated": "2026-07-22T19:34:31.386753",
         "file": "are-ai-labs-pelicanmaxxing.md"
+    },
+    {
+        "title": "Your x402 End-Point Is Invisible",
+        "slug": "your-x402-end-point-is-invisible",
+        "author": "Mohammad Mudassir",
+        "source": "devto_ai",
+        "published": "Fri, 31 Jul 2026 14:10:27 +0000",
+        "description": "Settlement gets you paid. Discovery gets you found. They're different systems. One of the most common questions we've seen during the x402 Global Challenge i...",
+        "keywords": "your, discovery, you, endpoint, challenge, facilitator, global, payment",
+        "generated": "2026-07-31T14:20:45.228029",
+        "file": "your-x402-end-point-is-invisible.md"
     },
     {
         "title": "The 70% Problem: Why Sales Automation Keeps Failing (A Systems Perspective)",
@@ -31721,6 +31842,17 @@
         "file": "how-to-safely-buying-instagram-accounts-in-2026.md"
     },
     {
+        "title": "From Prompt to Play Store: Rapid Prototyping and Scaling Mobile Apps with WaveMaker AI",
+        "slug": "from-prompt-to-play-store-rapid-prototyping-and-scaling-mobile-apps-with-wavemaker-ai",
+        "author": "melissadissouza",
+        "source": "devto_webdev",
+        "published": "Fri, 31 Jul 2026 14:12:36 +0000",
+        "description": "In today’s hyper-competitive digital landscape, the speed at which a product team moves from an initial concept to a fully deployed mobile application often ...",
+        "keywords": "wavemaker, code, development, teams, prototyping, application, agentic, visual",
+        "generated": "2026-07-31T14:20:45.224022",
+        "file": "from-prompt-to-play-store-rapid-prototyping-and-scaling-mobile-apps-with-wavemaker-ai.md"
+    },
+    {
         "title": "How to Install Python 3.14.6 on Windows 11 / 10 (Quick & Easy Guide)",
         "slug": "how-to-install-python-3146-on-windows-11-10-quick-easy-guide",
         "author": "CodeSetupLab",
@@ -32513,6 +32645,17 @@
         "file": "squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-inf2xlarge.md"
     },
     {
+        "title": "Top Crypto Loan Platforms 2026: Self-Employed Borrowers Benefits",
+        "slug": "top-crypto-loan-platforms-2026-self-employed-borrowers-benefits",
+        "author": "omnilender",
+        "source": "devto_webdev",
+        "published": "Fri, 31 Jul 2026 14:06:26 +0000",
+        "description": "For self-employed professionals , securing a traditional loan often feels like navigating a maze. Proving income with fluctuating 1099s, bank statements, or ...",
+        "keywords": "your, you, crypto, can, loan, self, employed, collateral",
+        "generated": "2026-07-31T14:20:45.225687",
+        "file": "top-crypto-loan-platforms-2026-self-employed-borrowers-benefits.md"
+    },
+    {
         "title": "Automating My Freelance Workflow with Python: A Step-by-Step Guide",
         "slug": "automating-my-freelance-workflow-with-python-a-step-by-step-guide",
         "author": "Caper B",
@@ -33105,6 +33248,17 @@
         "keywords": "code, human, more, electra, basically, which, eight, hours",
         "generated": "2026-06-19T04:58:32.737334",
         "file": "eight-hours-of-ai-therapy-when-code-feels-more-human-than-coffee.md"
+    },
+    {
+        "title": "How Local AI Became My 24/7 Python Tutor (Without Doing the Work for Me)",
+        "slug": "how-local-ai-became-my-247-python-tutor-without-doing-the-work-for-me",
+        "author": "Mr Henderson",
+        "source": "devto_python",
+        "published": "Fri, 31 Jul 2026 14:04:00 +0000",
+        "description": "When people talk about using AI for coding, the conversation usually goes straight to AI writes all my code now. That isn't how I use it, and honestly, if ...",
+        "keywords": "code, you, your, local, how, python, learning, write",
+        "generated": "2026-07-31T14:20:45.222180",
+        "file": "how-local-ai-became-my-247-python-tutor-without-doing-the-work-for-me.md"
     },
     {
         "title": "Meta Spent More on AI Than Anyone Except Google. Its Platform Is Still Not Out the Door.",
@@ -35294,6 +35448,17 @@
         "keywords": "mcp, server, claude, you, notes, not, your, post",
         "generated": "2026-07-15T02:52:14.904897",
         "file": "build-your-first-mcp-server-in-python-give-claude-your-own-notes.md"
+    },
+    {
+        "title": "How to Sell Python Scripts on Gumroad for Passive Income",
+        "slug": "how-to-sell-python-scripts-on-gumroad-for-passive-income",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 31 Jul 2026 14:00:49 +0000",
+        "description": "How to Sell Python Scripts on Gumroad for Passive Income tags: python, gumroad, money, passive tags: blogging, money, passive, career tags: blogging, money, ...",
+        "keywords": "you, your, python, passive, tools, how, keyword, keywords",
+        "generated": "2026-07-31T14:20:45.223258",
+        "file": "how-to-sell-python-scripts-on-gumroad-for-passive-income.md"
     },
     {
         "title": "Introducing LBH: An Open Binary Protocol for Edge Computing, Automation, and AI",
@@ -39892,6 +40057,15 @@
         "file": "san-antonio-spurs-vs-new-york-knicks-nba-preview-picks.md"
     },
     {
+        "title": "PostgreSQL BRIN Indexes for Time-Series Mobile Telemetry: When a 128-Page Index Beats a 50GB B-Tree",
+        "slug": "postgresql-brin-indexes-for-time-series-mobile-telemetry-when-a-128-page-index-beats-a-50gb-b-tree",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Fri, 31 Jul 2026 14:11:16 +0000",
+        "description": "",
+        "file": "postgresql-brin-indexes-for-time-series-mobile-telemetry-when-a-128-page-index-beats-a-50gb-b-tree.md"
+    },
+    {
         "title": "98.css",
         "slug": "98css",
         "author": "lopespm",
@@ -42378,6 +42552,17 @@
         "file": "the-agentic-ai-juggernaut-stalled-at-the-enterprise-gate.md"
     },
     {
+        "title": "How Online Live Video Interviews Work at Terapage: A Complete Guide to AI-Powered Research Interviews",
+        "slug": "how-online-live-video-interviews-work-at-terapage-a-complete-guide-to-ai-powered-research-interviews",
+        "author": "Laiba Rashid",
+        "source": "devto_ai",
+        "published": "Fri, 31 Jul 2026 14:10:37 +0000",
+        "description": "T he world is moving faster than ever, and almost every field of work is finding ways to integrate artificial intelligence into its system. Qualitative resea...",
+        "keywords": "interviews, interview, live, video, terapage, researchers, research, powered",
+        "generated": "2026-07-31T14:20:45.227609",
+        "file": "how-online-live-video-interviews-work-at-terapage-a-complete-guide-to-ai-powered-research-interviews.md"
+    },
+    {
         "title": "Changes to LLM pricing: Io Net, Novita and StreamLake",
         "slug": "changes-to-llm-pricing-io-net-novita-and-streamlake",
         "author": "Narev Bot",
@@ -42552,6 +42737,17 @@
         "keywords": "temperature, agent, python, raspberry, your, datetime, built, you",
         "generated": "2026-07-14T02:53:42.957514",
         "file": "i-built-a-247-ai-agent-with-python-and-a-raspberry-pi.md"
+    },
+    {
+        "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+        "slug": "situational-awareness-down-67-in-july-in-ai-stock-rout",
+        "author": "pondsider",
+        "source": "hackernews",
+        "published": "Fri, 31 Jul 2026 13:37:36 +0000",
+        "description": "Article URL: https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f Comments URL: https://news.ycombinator.com...",
+        "keywords": "situational, awareness, down, july, stock, rout, url, https",
+        "generated": "2026-07-31T14:20:45.220371",
+        "file": "situational-awareness-down-67-in-july-in-ai-stock-rout.md"
     },
     {
         "title": "Amazon Bedrock AgentCore Web Search: The Production Guide",
@@ -43641,6 +43837,17 @@
         "keywords": "not, retry, evidence, reviewer, but, completion, output, state",
         "generated": "2026-07-23T19:26:23.867684",
         "file": "when-a-retry-returns-done-but-loses-the-evidence.md"
+    },
+    {
+        "title": "AI Automation Audit: What You Actually Get (and How to Know If You Need One)",
+        "slug": "ai-automation-audit-what-you-actually-get-and-how-to-know-if-you-need-one",
+        "author": "A3E Ecosystem",
+        "source": "devto_ai",
+        "published": "Fri, 31 Jul 2026 14:13:43 +0000",
+        "description": "We should automate more with AI is easy to say and hard to act on. The hard part isn't the tools — there are thousands. It's knowing which of your specific...",
+        "keywords": "you, automation, audit, your, how, what, not, one",
+        "generated": "2026-07-31T14:20:45.226140",
+        "file": "ai-automation-audit-what-you-actually-get-and-how-to-know-if-you-need-one.md"
     },
     {
         "title": "Late.sh – a command-line Clubhouse for computer people",
