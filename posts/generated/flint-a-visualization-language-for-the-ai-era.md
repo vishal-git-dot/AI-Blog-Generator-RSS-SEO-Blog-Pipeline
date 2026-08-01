@@ -4,16 +4,16 @@ slug: "flint-a-visualization-language-for-the-ai-era"
 author: "vinhnx"
 source: "hackernews"
 published: "Sat, 01 Aug 2026 02:45:09 +0000"
-description: "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 6 # Comments: 0"
+description: "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 97 # Comments: 31"
 keywords: "flint, url, https, comments, visualization, language, era, article"
-generated: "2026-08-01T03:28:58.768060"
+generated: "2026-08-01T08:27:56.501386"
 ---
 
 # Flint: A Visualization Language for the AI Era
 
 ## Overview
 
-Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 6 # Comments: 0
+Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 97 # Comments: 31
 
 ## Key Insights
 
