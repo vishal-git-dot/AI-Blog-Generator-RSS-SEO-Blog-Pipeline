@@ -1,0 +1,34 @@
+---
+title: "Parsing SEC EDGAR's Form 4 feed: the edge cases nobody warns you about"
+slug: "parsing-sec-edgars-form-4-feed-the-edge-cases-nobody-warns-you-about"
+author: "itsRaxzey"
+source: "devto_python"
+published: "Sat, 01 Aug 2026 18:46:14 +0000"
+description: "Every US public-company insider trade is public data. When an executive buys or sells their own stock, they have two business days to file a Form 4 with the ..."
+keywords: "you, filing, form, data, edgar, feed, every, they"
+generated: "2026-08-01T19:17:12.568551"
+---
+
+# Parsing SEC EDGAR's Form 4 feed: the edge cases nobody warns you about
+
+## Overview
+
+Every US public-company insider trade is public data. When an executive buys or sells their own stock, they have two business days to file a Form 4 with the SEC, and it lands on EDGAR — free, no login, no API key. I spent the last month building a pipeline that ingests every one of them in near-real-time, and the gap between "the data is public" and "the data is usable" turned out to be the entire project. Here's the field guide I wish I'd had. 1. The feed's form-type filter is a lie (it's a prefix match) EDGAR's current-filings feed takes a type parameter: https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=4&output=atom You'd expect type=4 to return Form 4s. It returns everything that starts with 4 — including 424B2 prospectuses and 425 merger communications, which have nothing to do with insider trading. You must re-filter on the exact form type parsed from each entry's title. This isn't documented anywhere I could find; you discover it when a bond prospectus shows up in your insider-trades table. 2. Every filing appears twice The same filing is listed once under the reporting owner's CIK and once under the issuer's CIK — same accession number, different index URLs. If you dedupe on URL, you store everything twice. The accession number ( 0001628280-26-049369 ) is the real identity of a filing; treat it as your primary key and make inserts idempotent: INSERT OR IGNORE INTO filings ( accession , ...) VALUES ( ? , ...) 3. Not every XML in the filing folder is the filing A Form 4 filing folder contains several files, and the tempting move — "grab the .xml" — breaks quietly, because filing-fee exhibit XMLs live in the same folder. Validate the root element ( <ownershipDocument> ) before parsing, not the file extension. 4. Some Form 4s contain no transactions at all Holdings-only filings exist: no transaction table, no holdings table, just remarks and a signature. They're legal, they're rare, and they will null-pointer your parser at 2am. Multi-owner filings also exist — one filing reporting for three retirement-plan trustees simultaneously — so "the reporting owner" is actually a list. Amendments (form type 4/A ) reference the original filing and carry an amendment date. If you don't handle them, your dataset double-counts corrected transactions. 5. The interesting data hides in footnotes Share counts and prices carry footnote references ( <footnoteId id="F1"/> ), and the footnote text often changes the meaning of the number — "price is a weighted average of executions between $18.11 and $18.29" — so a parser that drops footnotes is destroying information. Keep them attached to the fields they annotate. 6. Decide your philosophy: values as filed, or values as "fixed" The biggest design decision in the whole pipeline: numbers in filings are typed by humans at law firms. They contain typos, weird formats, and occasionally nonsense. You can either coerce everything to floats (and silently corrupt the record when coercion guesses wrong) or deliver strings exactly as filed and let consumers coerce at their edge. I chose strings-as-filed, and it's the choice I'd defend hardest: this is federal filing data . If an insider fat-fingers a share count, you should see what the SEC saw — plus two invariants that make the schema livable: every documented field is always present, and null always means "not stated in the filing." 7. HTML entities are everywhere Issuer names arrive HTML-escaped in some feed views and not others: Organon &amp; Co. in one place, Organon & Co. in another. Normalize with html.unescape() on ingest or enjoy duplicate-company bugs forever. (The related 8-K feed also HTML-escapes apostrophes in item captions, which breaks caption-matching — same fix.) 8. The 403 that isn't a throttle The nastiest production incident so far: EDGAR serves 403 Forbidden — not 404 — for daily-index files that were never published (weekends, holidays). A 403 is also exactly what EDGAR's rate limiter serves when you're being throttled. My backfill hit a Sunday index file, interpreted the 403 as throttling, and politely retried the same URL on a backoff loop for 17 hours. The fix is a canary request: on a 403 for an index file, immediately fetch a URL you know exists. If the canary returns 200, you're not throttled — the index is genuinely absent, and that day can be checkpointed as empty. 9. Be polite — it's cheap and it's the rules EDGAR's fair-access guidance asks for a declared User-Agent with contact info and a cap of 10 req/s. I run a process-wide rate limiter pinned to 2 req/s with exponential backoff on 403/429 — one enforcement point that every request goes through, so adding a new worker can't accidentally exceed the budget. The entire pipeline — feed polling, two years of backfill, ~90,000 Form 4s and ~30,000 8-Ks so far — runs comfortably inside that on a €5 VPS with SQLite in WAL mode. The punchline None of these problems is hard in isolation. The product is surviving all of them at once , continuously, unattended — which is why "the data is free" and "the data is usable" are separated by a parser with a regression corpus of real filings: the amendments, the holdings-only ones, the multi-owner ones, the footnote-heavy ones. I packaged all of this as FilingPulse — normalized Form 4 + 8-K JSON over REST and HMAC-signed webhooks, free tier with the full schema (2,500 req/mo, email signup, no card). If you'd rather build your own pipeline, honestly: take the edge-case list above, it's yours. That's the part I couldn't Google a month ago. Standard disclaimer that matters in this domain: this is data infrastructure. Nothing here is investment advice — the API reports what was filed, nothing more.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/itsraxzey/parsing-sec-edgars-form-4-feed-the-edge-cases-nobody-warns-you-about-1gm0
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

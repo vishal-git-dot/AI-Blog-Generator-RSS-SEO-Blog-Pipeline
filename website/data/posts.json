@@ -2577,10 +2577,10 @@
         "slug": "complete-guide",
         "author": "Ayat Saadat",
         "source": "devto_webdev",
-        "published": "Sun, 26 Jul 2026 19:11:53 +0000",
-        "description": "راهنمای جامع کالاتک (KalaTak)؛ زیرساخت هوشمند برای مدیریت زنجیره تامین اگر در حوزه مدیریت کالا و لجستیک فعالیت می‌کنید، احتمالاً با چالش‌های کلاسیکِ یکپارچه‌...",
-        "keywords": "api, kalatak, const, sku, kalatakco, com, npm, sdk",
-        "generated": "2026-07-26T19:18:43.418772",
+        "published": "Sat, 01 Aug 2026 19:10:15 +0000",
+        "description": "راهنمای جامع کالاتک (KalaTak) در دنیای پرشتاب توسعه نرم‌افزار و زیرساخت‌های دیجیتال، گاهی اوقات ابزارهایی ظهور می‌کنند که پیچیدگی‌های مدیریت منابع و ارتباطات...",
+        "keywords": "kalatak, client, kalatakco, com, install, cli, sdk, const",
+        "generated": "2026-08-01T19:17:12.569259",
         "file": "complete-guide.md"
     },
     {
@@ -6082,6 +6082,28 @@
         "file": "the-founder-of-craigslist-has-given-away-half-a-billion-dollars.md"
     },
     {
+        "title": "How to Build an Automated Automated SEO Keyword Rank Auditor with Python",
+        "slug": "how-to-build-an-automated-automated-seo-keyword-rank-auditor-with-python",
+        "author": "Robel Tessema",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 18:52:24 +0000",
+        "description": "Alright, let's talk about SEO keyword tracking. If you've spent any significant time in the SEO trenches, you know the drill: open Google, type a keyword, sc...",
+        "keywords": "keyword, results, search, google, print, rank, you, not",
+        "generated": "2026-08-01T19:17:12.567932",
+        "file": "how-to-build-an-automated-automated-seo-keyword-rank-auditor-with-python.md"
+    },
+    {
+        "title": "NetBSD 11.0 Released",
+        "slug": "netbsd-110-released",
+        "author": "jaypatelani",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 17:56:41 +0000",
+        "description": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released Comments URL: https://news.ycombinator.com/item?id=49136736 Points: 64 # Comments: 10",
+        "keywords": "netbsd, url, https, comments, released, article, blog, org",
+        "generated": "2026-08-01T19:17:12.566633",
+        "file": "netbsd-110-released.md"
+    },
+    {
         "title": "Redfin vs Zillow Data: Which is Better for Real Estate Market Research?",
         "slug": "redfin-vs-zillow-data-which-is-better-for-real-estate-market-research",
         "author": "NexGenData",
@@ -6119,10 +6141,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sat, 01 Aug 2026 07:19:58 +0000",
+        "published": "Sat, 01 Aug 2026 18:56:23 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-01T08:27:56.503322",
+        "generated": "2026-08-01T19:17:12.566939",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -8621,6 +8643,17 @@
         "file": "a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review.md"
     },
     {
+        "title": "# Job Offer & Task Scams: How to Spot a Fake Recruiter Before You Pay",
+        "slug": "job-offer-task-scams-how-to-spot-a-fake-recruiter-before-you-pay",
+        "author": "FaceSift",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 19:06:38 +0000",
+        "description": "Published: August 1, 2026 · 11 min read Job scams have moved off obviously sketchy classifieds sites and onto LinkedIn, WhatsApp, and Telegram — platforms pe...",
+        "keywords": "you, your, check, recruiter, job, pay, offer, scams",
+        "generated": "2026-08-01T19:17:12.572218",
+        "file": "job-offer-task-scams-how-to-spot-a-fake-recruiter-before-you-pay.md"
+    },
+    {
         "title": "Global Account Store: Buy Verified PayPal Accounts for International Money Transfers from smmgetusa.com",
         "slug": "global-account-store-buy-verified-paypal-accounts-for-international-money-transfers-from-smmgetusacom",
         "author": "Clifton K. Witten",
@@ -9092,6 +9125,17 @@
         "keywords": "score, github, bde, open, source, multi, factor, stock",
         "generated": "2026-07-10T09:45:24.780415",
         "file": "bde-score-open-source-multi-factor-stock-analysis-tool-covering-us-hk-a-share-markets.md"
+    },
+    {
+        "title": "Architecting Autonomous Security: Engineering Closed-Loop Mitigation with Project Perception and MAI-Cyber-1-Flash",
+        "slug": "architecting-autonomous-security-engineering-closed-loop-mitigation-with-project-perception-and-mai-cyber-1-flash",
+        "author": "Shuvo",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 19:15:01 +0000",
+        "description": "The Paradigm Shift: From Human-Triage to Machine-Speed Mitigation For years, the cybersecurity industry has operated under a fundamental imbalance: attacks m...",
+        "keywords": "agent, security, alert, model, mitigation, self, autonomous, your",
+        "generated": "2026-08-01T19:17:12.570786",
+        "file": "architecting-autonomous-security-engineering-closed-loop-mitigation-with-project-perception-and-mai-cyber-1-flash.md"
     },
     {
         "title": "I Built a 2000-Page Digital Museum With AI Agents",
@@ -13263,6 +13307,17 @@
         "file": "i-built-a-free-privacy-first-developer-toolkit-no-data-leaves-your-browser.md"
     },
     {
+        "title": "A directory of people who love RSS",
+        "slug": "a-directory-of-people-who-love-rss",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 16:52:41 +0000",
+        "description": "Article URL: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/ Comments URL: https://news.ycombinator.com/item?id=49136063 Points: 114 # Comments: 63",
+        "keywords": "rss, url, https, comments, directory, people, who, love",
+        "generated": "2026-08-01T19:17:12.566706",
+        "file": "a-directory-of-people-who-love-rss.md"
+    },
+    {
         "title": "How to Choose domain name and hosting bundle (Beginner's Guide)",
         "slug": "how-to-choose-domain-name-and-hosting-bundle-beginners-guide",
         "author": "Shammi Bajaj",
@@ -15210,6 +15265,17 @@
         "file": "instagram-grid-maker-create-perfect-instagram-layouts-and-grids.md"
     },
     {
+        "title": "I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.",
+        "slug": "i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not",
+        "author": "Lunetrax",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 19:09:49 +0000",
+        "description": "When you ask an AI for WordPress code, is what it hands back safe to ship? I had a hunch. I expected to catch it red-handed. I did not. My first plan was the...",
+        "keywords": "not, what, runs, one, eight, wordpress, code, url",
+        "generated": "2026-08-01T19:17:12.571696",
+        "file": "i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not.md"
+    },
+    {
         "title": "Part 4: Going Fully Autonomous: EventBridge, DynamoDB, and Automated Publishing",
         "slug": "part-4-going-fully-autonomous-eventbridge-dynamodb-and-automated-publishing",
         "author": "Ashley Armstrong",
@@ -16299,6 +16365,17 @@
         "file": "unlock-your-potential-ai-powered-remote-work-digital-skills-for-pakistani-freelancers.md"
     },
     {
+        "title": "Tell HN: I hate your fuzzy search",
+        "slug": "tell-hn-i-hate-your-fuzzy-search",
+        "author": "tehwebguy",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 18:25:00 +0000",
+        "description": "Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find. When I ran a site that ...",
+        "keywords": "search, fuzzy, site, exact, match, comments, tell, hate",
+        "generated": "2026-08-01T19:17:12.566549",
+        "file": "tell-hn-i-hate-your-fuzzy-search.md"
+    },
+    {
         "title": "I Got Tired of Cryptic Python Error Messages — So I Built a VS Code Extension That Fixes Them Automatically",
         "slug": "i-got-tired-of-cryptic-python-error-messages-so-i-built-a-vs-code-extension-that-fixes-them-automatically",
         "author": "Usama",
@@ -17287,6 +17364,17 @@
         "keywords": "our, more, claude, chatgpt, technology, not, these, like",
         "generated": "2026-06-29T15:56:39.169539",
         "file": "ai-revolution-2026-claude-surpasses-chatgpt-ibm-breaks-1nm-barrier-and-what-it-means-for-your-business.md"
+    },
+    {
+        "title": "A great tool CoverForge(an ai cover letter generator) discussed by Mia Keller",
+        "slug": "a-great-tool-coverforgean-ai-cover-letter-generator-discussed-by-mia-keller",
+        "author": "Ayan Memon",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 19:16:44 +0000",
+        "description": "Stop Writing Cover Letters From Scratch: How I Automated the Most Annoying Part of Job Hunting Mia Keller Mia Keller Mia Keller Follow Aug 1 Stop Writing Cov...",
+        "keywords": "mia, keller, cover, stop, writing, letters, scratch, how",
+        "generated": "2026-08-01T19:17:12.568652",
+        "file": "a-great-tool-coverforgean-ai-cover-letter-generator-discussed-by-mia-keller.md"
     },
     {
         "title": "Node SDK 1.3: Run SEO Audits, Track Trends, and Get Slack Alerts from Any Node Project",
@@ -19366,6 +19454,17 @@
         "keywords": "not, where, reasoning, answer, leak, then, measured, exactly",
         "generated": "2026-07-06T10:49:20.342506",
         "file": "i-built-a-leak-scanner-then-measured-exactly-where-it-fails-heres-both.md"
+    },
+    {
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "slug": "postmortem-for-kernel-soundness-bug-14576",
+        "author": "juhopitk",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 18:32:20 +0000",
+        "description": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=4913706...",
+        "keywords": "postmortem, kernel, soundness, bug, url, https, comments, article",
+        "generated": "2026-08-01T19:17:12.566265",
+        "file": "postmortem-for-kernel-soundness-bug-14576.md"
     },
     {
         "title": "MCP Payment Extensions in June 2026 — x402 v2, L402, and What Actually Works",
@@ -25506,6 +25605,17 @@
         "file": "arc-ai-i-built-an-autonomous-ai-agent-workspace-using-mern-stack-rag-memory-live-web-research-whatsapp-automation-and-more.md"
     },
     {
+        "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+        "slug": "oil-companies-report-sky-high-profits-thanks-to-wartime-crude-prices",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 18:28:06 +0000",
+        "description": "Article URL: https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026 Comments URL: https://news.ycombinator.com/item?id=49137024 Points: 13 # C...",
+        "keywords": "oil, url, https, comments, companies, report, sky, high",
+        "generated": "2026-08-01T19:17:12.566431",
+        "file": "oil-companies-report-sky-high-profits-thanks-to-wartime-crude-prices.md"
+    },
+    {
         "title": "How to Use HuggingChat for Entity Seo Optimization in 2026",
         "slug": "how-to-use-huggingchat-for-entity-seo-optimization-in-2026",
         "author": "leosociall-seointent",
@@ -26846,6 +26956,17 @@
         "keywords": "url, https, comments, european, sentiments, towards, hit, all",
         "generated": "2026-06-10T10:13:09.113878",
         "file": "european-sentiments-towards-the-us-hit-an-all-time-low.md"
+    },
+    {
+        "title": "What Is a CPE Calculator? A Complete Guide for Accounting Professionals",
+        "slug": "what-is-a-cpe-calculator-a-complete-guide-for-accounting-professionals",
+        "author": "Adan Shoukat",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 19:09:53 +0000",
+        "description": "So, Continuing Professional Education , or CPE, is something a lot of accounting and finance people have to do. If you’re a CPA, auditor, financial analyst, ...",
+        "keywords": "you, calculator, cpe, can, credits, your, professionals, continuing",
+        "generated": "2026-08-01T19:17:12.569643",
+        "file": "what-is-a-cpe-calculator-a-complete-guide-for-accounting-professionals.md"
     },
     {
         "title": "AI Infrastructure Monitoring in 2026: DataDog vs New Relic vs Prometheus AI vs Grafana Cloud — Which Catches Bugs Before Your Users Do?",
@@ -30839,6 +30960,17 @@
         "keywords": "workboy, url, https, comments, gameboy, article, tcrf, net",
         "generated": "2026-06-13T19:44:24.805614",
         "file": "gameboy-workboy.md"
+    },
+    {
+        "title": "Transforming Mobile Apps with AI Automation",
+        "slug": "transforming-mobile-apps-with-ai-automation",
+        "author": "Ravi Roy",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 19:10:26 +0000",
+        "description": "How AI Automation Tools Are Transforming Mobile App Development The mobile app development landscape is evolving rapidly thanks to AI automation tools. These...",
+        "keywords": "automation, app, mobile, development, tools, like, your, user",
+        "generated": "2026-08-01T19:17:12.571185",
+        "file": "transforming-mobile-apps-with-ai-automation.md"
     },
     {
         "title": "A flaky test exposed a Redis client use-after-free",
@@ -35263,6 +35395,17 @@
         "file": "5-self-hosted-monitoring-tools-worth-running-on-your-own-hardware-in-2026.md"
     },
     {
+        "title": "Free Landing Page - Landing Chatbot",
+        "slug": "free-landing-page-landing-chatbot",
+        "author": "RAZIX DEVIL NEMESIS (Loki)",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 19:06:41 +0000",
+        "description": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Download + Deploy Save the HTML file, open in any browser, or deploy free on Netlify/...",
+        "keywords": "landing, free, page, chatbot, deploy, enterprise, platform, professional",
+        "generated": "2026-08-01T19:17:12.571795",
+        "file": "free-landing-page-landing-chatbot.md"
+    },
+    {
         "title": "AI agent runs amok in Fedora and elsewhere",
         "slug": "ai-agent-runs-amok-in-fedora-and-elsewhere",
         "author": "tanelpoder",
@@ -37274,6 +37417,17 @@
         "file": "i-built-a-small-browser-game-for-guessing-cartoon-colors.md"
     },
     {
+        "title": "Model Context Protocol (MCP) Explained: The Complete Beginner's Guide (2026)",
+        "slug": "model-context-protocol-mcp-explained-the-complete-beginners-guide-2026",
+        "author": "Khayyam Shah",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 18:57:00 +0000",
+        "description": "Discover what the Model Context Protocol (MCP) is, how it works, and why it's becoming the standard for connecting AI models to external tools, APIs, databas...",
+        "keywords": "mcp, model, context, protocol, explained, beginner, guide, complete",
+        "generated": "2026-08-01T19:17:12.566794",
+        "file": "model-context-protocol-mcp-explained-the-complete-beginners-guide-2026.md"
+    },
+    {
         "title": "Free Pitch Deck - Pitch Agency",
         "slug": "free-pitch-deck-pitch-agency",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
@@ -37822,6 +37976,17 @@
         "keywords": "how, you, agent, training, they, your, data, new",
         "generated": "2026-07-21T08:36:53.668041",
         "file": "why-your-sales-and-support-training-is-failing-and-how-ai-bridges-the-gap.md"
+    },
+    {
+        "title": "Parsing SEC EDGAR's Form 4 feed: the edge cases nobody warns you about",
+        "slug": "parsing-sec-edgars-form-4-feed-the-edge-cases-nobody-warns-you-about",
+        "author": "itsRaxzey",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 18:46:14 +0000",
+        "description": "Every US public-company insider trade is public data. When an executive buys or sells their own stock, they have two business days to file a Form 4 with the ...",
+        "keywords": "you, filing, form, data, edgar, feed, every, they",
+        "generated": "2026-08-01T19:17:12.568551",
+        "file": "parsing-sec-edgars-form-4-feed-the-edge-cases-nobody-warns-you-about.md"
     },
     {
         "title": "Web vs Mobile App Development: Which Should Startups Build First?",
@@ -40506,6 +40671,17 @@
         "keywords": "backlash, only, getting, started, url, https, com, comments",
         "generated": "2026-06-26T14:36:05.285065",
         "file": "the-ai-backlash-is-only-getting-started.md"
+    },
+    {
+        "title": "How to Cut AI Coding Agent API Bills by Up to 90% Without Breaking Your Code",
+        "slug": "how-to-cut-ai-coding-agent-api-bills-by-up-to-90-without-breaking-your-code",
+        "author": "Abby",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 18:47:11 +0000",
+        "description": "Have you noticed that as your AI coding session progresses, your API bill explodes - and the model starts hallucinating or ignoring code you wrote 10 minutes...",
+        "keywords": "your, code, you, entroly, api, model, context, test",
+        "generated": "2026-08-01T19:17:12.568161",
+        "file": "how-to-cut-ai-coding-agent-api-bills-by-up-to-90-without-breaking-your-code.md"
     },
     {
         "title": "The Philosophy of a Tool: Why AI Will Never Take Over and Hidden Guardrails Are Literal Evil",
@@ -43210,6 +43386,17 @@
         "keywords": "deployment, applications, platform, northflank, developers, platforms, infrastructure, more",
         "generated": "2026-07-09T03:49:54.086578",
         "file": "i-tested-8-northflank-alternatives-here-are-the-6-id-actually-recommend.md"
+    },
+    {
+        "title": "How I Built a React App Using Only My Android Phone (No Laptop!)",
+        "slug": "how-i-built-a-react-app-using-only-my-android-phone-no-laptop",
+        "author": "Arshad Ansari",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 19:08:31 +0000",
+        "description": "Everyone assumes you need a laptop to code. I don't have one. I built a full React app using only my Android phone — and deployed it live on the internet. He...",
+        "keywords": "app, you, github, built, react, laptop, python, android",
+        "generated": "2026-08-01T19:17:12.569802",
+        "file": "how-i-built-a-react-app-using-only-my-android-phone-no-laptop.md"
     },
     {
         "title": "Fetching Instagram Data at Scale in Python: From One Request to Async",
@@ -46400,6 +46587,17 @@
         "keywords": "human, loop, tired, url, https, comments, article, pydantic",
         "generated": "2026-07-17T03:16:27.686463",
         "file": "the-human-in-the-loop-is-tired.md"
+    },
+    {
+        "title": "React Mastery Series – Day 15: React Performance Optimization – Understanding useCallback and React.memo",
+        "slug": "react-mastery-series-day-15-react-performance-optimization-understanding-usecallback-and-reactmemo",
+        "author": "Siva Samanthapudi",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 19:12:02 +0000",
+        "description": "Welcome back to the React Mastery Series ! In the previous article, we explored useRef and useMemo Hooks and learned how React helps developers optimize appl...",
+        "keywords": "react, child, usecallback, function, render, memo, const, parent",
+        "generated": "2026-08-01T19:17:12.569055",
+        "file": "react-mastery-series-day-15-react-performance-optimization-understanding-usecallback-and-reactmemo.md"
     },
     {
         "title": "Investigating three real-world incidents in our cybersecurity evaluations",
