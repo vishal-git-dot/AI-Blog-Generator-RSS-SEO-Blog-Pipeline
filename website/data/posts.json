@@ -3145,6 +3145,17 @@
         "file": "onedrive-data-now-has-an-expiry-date.md"
     },
     {
+        "title": "Zulip logged 'Successfully processed.' Your reply was already gone.",
+        "slug": "zulip-logged-successfully-processed-your-reply-was-already-gone",
+        "author": "Uptime Architect",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 13:22:01 +0000",
+        "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry . You reply to an email notification from your team chat — a quick sound...",
+        "keywords": "group, reply, email, message, one, tests, zulip, deactivated",
+        "generated": "2026-08-01T13:39:22.843260",
+        "file": "zulip-logged-successfully-processed-your-reply-was-already-gone.md"
+    },
+    {
         "title": "Microsoft Fabric & OneLake Deep Dive for Data Engineers: Lakehouse + Warehouse + Real-Time in One Portal",
         "slug": "microsoft-fabric-onelake-deep-dive-for-data-engineers-lakehouse-warehouse-real-time-in-one-portal",
         "author": "Gowtham Potureddi",
@@ -8390,6 +8401,17 @@
         "file": "build-authentication-in-nextjs-15-from-scratch-no-libraries.md"
     },
     {
+        "title": "Staff & Principal Data Engineer Interviews: Scope, Impact, Cross-Team Architecture Loops",
+        "slug": "staff-principal-data-engineer-interviews-scope-impact-cross-team-architecture-loops",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 13:21:57 +0000",
+        "description": "The staff data engineer interview is the first interview in a data engineer's career where writing correct code is table stakes and no longer the thing being...",
+        "keywords": "staff, you, team, one, teams, not, scope, design",
+        "generated": "2026-08-01T13:39:22.849280",
+        "file": "staff-principal-data-engineer-interviews-scope-impact-cross-team-architecture-loops.md"
+    },
+    {
         "title": "Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices",
         "slug": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices",
         "author": "Daniel Cordeiro",
@@ -10907,6 +10929,17 @@
         "keywords": "scotland, brazil, sports, data, players, history, big, html",
         "generated": "2026-06-25T04:05:12.292385",
         "file": "analyzing-sports-data-big-players-must-step-up-as-scotland-pursue-history-against-brazil-what-the-numbers-say.md"
+    },
+    {
+        "title": "7 Casual Browser Games That Are Surprisingly Educational",
+        "slug": "7-casual-browser-games-that-are-surprisingly-educational",
+        "author": "Jizhong Cheng",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 13:20:22 +0000",
+        "description": "We often think of gaming as pure entertainment, but many casual browser games are secretly powerful learning tools. Here are 7 free HTML5 games that entertai...",
+        "keywords": "games, words, memory, browser, learning, free, skills, vocabulary",
+        "generated": "2026-08-01T13:39:22.850643",
+        "file": "7-casual-browser-games-that-are-surprisingly-educational.md"
     },
     {
         "title": "LLM Cost Optimization: Cutting Inference Bills Without Killing Quality",
@@ -15518,6 +15551,17 @@
         "file": "image-exif-viewer-read-photo-metadata-locally-in-your-browser.md"
     },
     {
+        "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+        "slug": "ripgrep-musl-binaries-occasionally-segfault-during-very-large-searches",
+        "author": "throwaway2037",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 12:34:25 +0000",
+        "description": "Article URL: https://github.com/BurntSushi/ripgrep/issues/3494 Comments URL: https://news.ycombinator.com/item?id=49133889 Points: 52 # Comments: 21",
+        "keywords": "ripgrep, url, https, com, comments, musl, binaries, occasionally",
+        "generated": "2026-08-01T13:39:22.829502",
+        "file": "ripgrep-musl-binaries-occasionally-segfault-during-very-large-searches.md"
+    },
+    {
         "title": "Building Food Metadata with LLM Juries",
         "slug": "building-food-metadata-with-llm-juries",
         "author": "tie-in",
@@ -15903,6 +15947,17 @@
         "file": "study-mommy-do-you-love-your-phone-more-than-me.md"
     },
     {
+        "title": "A Practical Checklist for MCP Tool Contracts (Because the Connection Is the Easy Part)",
+        "slug": "a-practical-checklist-for-mcp-tool-contracts-because-the-connection-is-the-easy-part",
+        "author": "Joshua Nwachinemere",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 13:17:14 +0000",
+        "description": "A Practical Checklist for MCP Tool Contracts (Because the Connection Is the Easy Part) A universal socket is useful, but an agent still needs a legible contr...",
+        "keywords": "tool, model, not, what, you, one, surface, contract",
+        "generated": "2026-08-01T13:39:22.851150",
+        "file": "a-practical-checklist-for-mcp-tool-contracts-because-the-connection-is-the-easy-part.md"
+    },
+    {
         "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
         "slug": "measuring-input-latency-on-linux-x11-vs-wayland-vrr-and-dxvk",
         "author": "hoechst",
@@ -16121,6 +16176,17 @@
         "keywords": "your, url, https, comments, need, clothes, boots, motorcycle",
         "generated": "2026-06-18T10:38:46.937775",
         "file": "i-need-your-clothes-your-boots-and-your-motorcycle.md"
+    },
+    {
+        "title": "I Have 25+ Years of Production Engineering Experience. Here Is What AI Coding Tools Actually Did to My Workflow.",
+        "slug": "i-have-25-years-of-production-engineering-experience-here-is-what-ai-coding-tools-actually-did-to-my-workflow",
+        "author": "Anil Prasad",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 13:31:05 +0000",
+        "description": "I want to be upfront about something before you keep reading. I did not write this to sell you a tool. I did not write it because a vendor sent me a license....",
+        "keywords": "not, what, you, have, because, tools, they, did",
+        "generated": "2026-08-01T13:39:22.852515",
+        "file": "i-have-25-years-of-production-engineering-experience-here-is-what-ai-coding-tools-actually-did-to-my-workflow.md"
     },
     {
         "title": "How I Cut My API Costs by 60% With a 50-Line Python Cache",
@@ -16352,6 +16418,17 @@
         "keywords": "map, list, python, comprehension, when, iterator, function, bytecode",
         "generated": "2026-06-20T04:12:08.214763",
         "file": "python-list-comprehension-performance-vs-map-which-one-should-you-use.md"
+    },
+    {
+        "title": "Data Platform Team Structure: Central Platform + Embedded DEs + Analytics Engineers",
+        "slug": "data-platform-team-structure-central-platform-embedded-des-analytics-engineers",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 13:32:01 +0000",
+        "description": "data platform team structure is the decision that quietly determines whether your data org ships trustworthy pipelines in weeks or drowns in a two-quarter ba...",
+        "keywords": "platform, data, team, domain, embedded, not, one, layer",
+        "generated": "2026-08-01T13:39:22.836484",
+        "file": "data-platform-team-structure-central-platform-embedded-des-analytics-engineers.md"
     },
     {
         "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
@@ -16682,6 +16759,17 @@
         "keywords": "gradient, you, your, colors, css, code, one, copy",
         "generated": "2026-06-30T04:06:54.984203",
         "file": "how-to-create-a-css-gradient-and-copy-clean-code.md"
+    },
+    {
+        "title": "RamenHaus",
+        "slug": "ramenhaus",
+        "author": "oler",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 08:48:58 +0000",
+        "description": "Article URL: https://ramen.haus/ Comments URL: https://news.ycombinator.com/item?id=49132460 Points: 126 # Comments: 73",
+        "keywords": "url, https, comments, ramenhaus, article, ramen, haus, news",
+        "generated": "2026-08-01T13:39:22.829883",
+        "file": "ramenhaus.md"
     },
     {
         "title": "I Was Tired of Bloated Typing Tests, So I Built a Vanilla JS Alternative",
@@ -17663,6 +17751,17 @@
         "file": "i-spent-two-weeks-testing-every-ai-coding-model-so-you-dont-have-to.md"
     },
     {
+        "title": "What Context-Aware Code Review Actually Means🤔",
+        "slug": "what-context-aware-code-review-actually-means",
+        "author": "Kiran Naragund",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 13:27:33 +0000",
+        "description": "Hello Devs 👋 If you've looked at AI code review tools recently, you've probably seen the term context-aware code review everywhere. Every tool seems to use...",
+        "keywords": "context, code, review, you, tool, they, diff, feedback",
+        "generated": "2026-08-01T13:39:22.854118",
+        "file": "what-context-aware-code-review-actually-means.md"
+    },
+    {
         "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
         "slug": "jep-401-value-objects-preview-merged-to-openjdk-master",
         "author": "mfiguiere",
@@ -18101,6 +18200,17 @@
         "keywords": "fiber, react, tree, render, work, commit, component, phase",
         "generated": "2026-06-13T04:19:15.386694",
         "file": "react-fiber-architecture-explained-how-react-renders-ui.md"
+    },
+    {
+        "title": "Data Engineering Manager Interview Prep: People, Roadmaps, Platform vs Product Trade-Offs",
+        "slug": "data-engineering-manager-interview-prep-people-roadmaps-platform-vs-product-trade-offs",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 13:27:04 +0000",
+        "description": "The data engineering manager interview is the one loop where your ability to write a flawless window function stops being the thing that gets you hired — and...",
+        "keywords": "you, not, team, data, manager, platform, your, time",
+        "generated": "2026-08-01T13:39:22.842148",
+        "file": "data-engineering-manager-interview-prep-people-roadmaps-platform-vs-product-trade-offs.md"
     },
     {
         "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
@@ -20622,6 +20732,17 @@
         "file": "bettersnaptool-199-for-macos-free-download.md"
     },
     {
+        "title": "A Capability-First Loading Screen for Browser Horror Games",
+        "slug": "a-capability-first-loading-screen-for-browser-horror-games",
+        "author": "SkyWalker",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 13:29:05 +0000",
+        "description": "Browser horror games often fail at the moment immersion is supposed to begin: audio is blocked, pointer lock is denied, a fullscreen request happens without ...",
+        "keywords": "audio, feature, not, results, browser, pointer, fullscreen, start",
+        "generated": "2026-08-01T13:39:22.850026",
+        "file": "a-capability-first-loading-screen-for-browser-horror-games.md"
+    },
+    {
         "title": "Analyzing Tennis Data: Britains Jones defends Challenger title in Palermo — What the Numbers Say",
         "slug": "analyzing-tennis-data-britains-jones-defends-challenger-title-in-palermo-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -21577,6 +21698,17 @@
         "keywords": "not, what, money, family, have, systems, families, food",
         "generated": "2026-07-05T03:58:51.640929",
         "file": "money-is-a-signal-not-a-soul.md"
+    },
+    {
+        "title": "Implementing FreeCell SuperMoves: Capacity Rules and Edge Cases",
+        "slug": "implementing-freecell-supermoves-capacity-rules-and-edge-cases",
+        "author": "SkyWalker",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 13:20:42 +0000",
+        "description": "FreeCell looks simple until a player tries to move a long descending run and the interface refuses. The useful programming lesson is that a legal “supermove”...",
+        "keywords": "run, capacity, columns, supermovecapacity, card, empty, console, move",
+        "generated": "2026-08-01T13:39:22.850386",
+        "file": "implementing-freecell-supermoves-capacity-rules-and-edge-cases.md"
     },
     {
         "title": "Claude Cowork acts across your files now. Confidence is not correctness.",
@@ -24329,6 +24461,17 @@
         "file": "launch-hn-prized-yc-s26-let-non-engineer-staff-build-secure-internal-tools.md"
     },
     {
+        "title": "Four Paradigm Shifts in AI Engineering: From Prompt to Loop (2026) — Which Level Are You On?",
+        "slug": "four-paradigm-shifts-in-ai-engineering-from-prompt-to-loop-2026-which-level-are-you-on",
+        "author": "weiwuji",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 13:29:37 +0000",
+        "description": "The Pain : You've tuned your prompt a hundred times, piled on few-shot examples, set temperature=0 — and the output is still unstable. You're not alone, and ...",
+        "keywords": "you, level, system, model, engineering, loop, four, every",
+        "generated": "2026-08-01T13:39:22.853548",
+        "file": "four-paradigm-shifts-in-ai-engineering-from-prompt-to-loop-2026-which-level-are-you-on.md"
+    },
+    {
         "title": "Ai Adult Clip Pack Download — Professional Resources & Guide",
         "slug": "ai-adult-clip-pack-download-professional-resources-guide",
         "author": "NIRA Synth",
@@ -24998,6 +25141,17 @@
         "keywords": "you, triage, output, prompt, pipeline, file, review, api",
         "generated": "2026-07-10T19:40:31.687892",
         "file": "python-automation-cookbook-part-2-using-ai-to-make-decisions-in-your-automation-pipelines.md"
+    },
+    {
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite: developer migration notes",
+        "slug": "gemini-36-flash-and-35-flash-lite-developer-migration-notes",
+        "author": "TuanPK Builds",
+        "source": "devto_python",
+        "published": "Sat, 01 Aug 2026 12:49:56 +0000",
+        "description": "Google has introduced Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber. What is new Gemini 3.6 Flash is positioned for stronger coding, kn...",
+        "keywords": "gemini, flash, lite, google, cyber, migration, positioned, cost",
+        "generated": "2026-08-01T13:39:22.849719",
+        "file": "gemini-36-flash-and-35-flash-lite-developer-migration-notes.md"
     },
     {
         "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
@@ -26296,6 +26450,17 @@
         "keywords": "you, what, can, near, autonomous, your, human, work",
         "generated": "2026-06-18T10:38:46.943594",
         "file": "when-ai-runs-the-experiment-what-near-autonomous-agents-mean-for-you.md"
+    },
+    {
+        "title": "Google’s April Gemini Drop Expands Desktop, Mobile and Agentic App Integration",
+        "slug": "googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 13:30:31 +0000",
+        "description": "Google’s April 2026 Gemini Drop broadens how the Gemini app connects across desktop and mobile experiences. The update adds a native macOS app, integrates No...",
+        "keywords": "gemini, google, app, agent, april, drop, can, native",
+        "generated": "2026-08-01T13:39:22.852948",
+        "file": "googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration.md"
     },
     {
         "title": "Show HN: Open-source API Key server written in Go by Ory",
@@ -27891,6 +28056,17 @@
         "keywords": "aws, you, your, npm, package, dependency, what, tracepilot",
         "generated": "2026-06-08T16:07:42.604533",
         "file": "your-aws-npm-package-has-8-vulnerabilities-heres-whats-actually-happening.md"
+    },
+    {
+        "title": "Morten Linderud resigning from Arch Linux development team",
+        "slug": "morten-linderud-resigning-from-arch-linux-development-team",
+        "author": "datakan",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 11:59:45 +0000",
+        "description": "Article URL: https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/ Comments URL: https://new...",
+        "keywords": "arch, url, https, lists, archlinux, org, comments, morten",
+        "generated": "2026-08-01T13:39:22.829763",
+        "file": "morten-linderud-resigning-from-arch-linux-development-team.md"
     },
     {
         "title": "Variables - Introduction to JavaScript",
@@ -32940,6 +33116,17 @@
         "keywords": "transcribe, cpp, url, https, com, comments, article, workshop",
         "generated": "2026-07-19T03:25:16.525390",
         "file": "transcribecpp.md"
+    },
+    {
+        "title": "Google kills Earth AI generator after one day",
+        "slug": "google-kills-earth-ai-generator-after-one-day",
+        "author": "BlueBerry2001",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 13:02:44 +0000",
+        "description": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610 Comments URL: https://news.ycombinator.com/item?id=49134079 Points: 26 # Comments: 14",
+        "keywords": "url, https, com, comments, google, kills, earth, generator",
+        "generated": "2026-08-01T13:39:22.829285",
+        "file": "google-kills-earth-ai-generator-after-one-day.md"
     },
     {
         "title": "Seamless AI Integration: Connecting Your Workflow to Docs-as-Code",
@@ -38141,6 +38328,17 @@
         "keywords": "ten, advances, mathematics, url, https, com, comments, theoretical",
         "generated": "2026-08-01T08:27:56.500949",
         "file": "ten-advances-in-mathematics-and-theoretical-computer-science.md"
+    },
+    {
+        "title": "Top 04 Crypto Loan Without Collateral Features That Matter",
+        "slug": "top-04-crypto-loan-without-collateral-features-that-matter",
+        "author": "omnilender",
+        "source": "devto_webdev",
+        "published": "Sat, 01 Aug 2026 13:11:59 +0000",
+        "description": "Top 4 crypto loan withou t collateral features that matter in 2026. Learn about LTV, interest rates, fees, and flexibility to make smart borrowing decisions....",
+        "keywords": "you, your, ltv, collateral, borrowing, loan, fees, repayment",
+        "generated": "2026-08-01T13:39:22.851691",
+        "file": "top-04-crypto-loan-without-collateral-features-that-matter.md"
     },
     {
         "title": "Soul in Motion — 6:59 PM | 2026-07-05",
@@ -44004,6 +44202,17 @@
         "file": "data-centers-trigger-voter-backlash.md"
     },
     {
+        "title": "Kontigo (YC S24) Is Hiring",
+        "slug": "kontigo-yc-s24-is-hiring",
+        "author": "jecastillof",
+        "source": "hackernews",
+        "published": "Sat, 01 Aug 2026 12:00:25 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer Comments URL: https://news.ycombinator.com/item?id=49133655 Points:...",
+        "keywords": "kontigo, url, https, ycombinator, com, comments, hiring, article",
+        "generated": "2026-08-01T13:39:22.829633",
+        "file": "kontigo-yc-s24-is-hiring.md"
+    },
+    {
         "title": "Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions",
         "slug": "deja-de-hacer-despliegues-manuales-cicd-bsico-con-github-actions",
         "author": "Asier Caballero",
@@ -45872,6 +46081,17 @@
         "keywords": "hotels, com, reviews, review, you, expedia, api, scraping",
         "generated": "2026-07-14T08:17:51.108487",
         "file": "how-to-scrape-hotelscom-reviews-in-2026-python-a-no-code-shortcut.md"
+    },
+    {
+        "title": "Background Agents: Durable Execution for Agent Jobs That Run for Hours",
+        "slug": "background-agents-durable-execution-for-agent-jobs-that-run-for-hours",
+        "author": "AI Tech Connect",
+        "source": "devto_ai",
+        "published": "Sat, 01 Aug 2026 13:31:18 +0000",
+        "description": "Originally published on AI Tech Connect . When the request-response loop stops working Most agent tutorials are written against a mental model borrowed from ...",
+        "keywords": "request, two, agent, run, tech, connect, response, model",
+        "generated": "2026-08-01T13:39:22.851888",
+        "file": "background-agents-durable-execution-for-agent-jobs-that-run-for-hours.md"
     },
     {
         "title": "PixExact: Generate AI Images at Exact Pixel Dimensions",
