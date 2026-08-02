@@ -3,10 +3,10 @@ title: "Changes to LLM pricing: Novita"
 slug: "changes-to-llm-pricing-novita"
 author: "Narev Bot"
 source: "devto_ai"
-published: "Sun, 26 Jul 2026 03:25:57 +0000"
+published: "Sun, 02 Aug 2026 03:25:18 +0000"
 description: "Model price changes detected for Novita. Details below."
 keywords: "changes, novita, llm, pricing, model, price, detected, details"
-generated: "2026-07-26T03:33:56.476544"
+generated: "2026-08-02T03:28:39.842308"
 ---
 
 # Changes to LLM pricing: Novita
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/narevbot/changes-to-llm-pricing-novita-3ll5
+https://dev.to/narevbot/changes-to-llm-pricing-novita-1elj
 
 ## Conclusion
 

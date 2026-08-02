@@ -4410,6 +4410,17 @@
         "file": "claude-code-and-its-role-in-re.md"
     },
     {
+        "title": "I Scraped 100 Football Matches — Here Is What I Found: The five dramatic days that shook Infantino and world football",
+        "slug": "i-scraped-100-football-matches-here-is-what-i-found-the-five-dramatic-days-that-shook-infantino-and-world-football",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 03:05:49 +0000",
+        "description": "I Scraped 100 Football Matches — Here Is What I Found: The five dramatic days that shook Infantino and world football TL;DR : I have all the verified facts i...",
+        "keywords": "football, matches, data, live, five, days, infantino, all",
+        "generated": "2026-08-02T03:28:39.838684",
+        "file": "i-scraped-100-football-matches-here-is-what-i-found-the-five-dramatic-days-that-shook-infantino-and-world-football.md"
+    },
+    {
         "title": "Hooray for the Sockets Interface",
         "slug": "hooray-for-the-sockets-interface",
         "author": "jruohonen",
@@ -7888,10 +7899,10 @@
         "slug": "changes-to-llm-pricing-novita",
         "author": "Narev Bot",
         "source": "devto_ai",
-        "published": "Sun, 26 Jul 2026 03:25:57 +0000",
+        "published": "Sun, 02 Aug 2026 03:25:18 +0000",
         "description": "Model price changes detected for Novita. Details below.",
         "keywords": "changes, novita, llm, pricing, model, price, detected, details",
-        "generated": "2026-07-26T03:33:56.476544",
+        "generated": "2026-08-02T03:28:39.842308",
         "file": "changes-to-llm-pricing-novita.md"
     },
     {
@@ -7981,6 +7992,17 @@
         "keywords": "started, dirt, notebook, url, https, comments, article, pinewind",
         "generated": "2026-07-18T08:00:40.323424",
         "file": "i-started-a-dirt-notebook.md"
+    },
+    {
+        "title": "Titouan Droguet vs Dalibor Svrcina: TENNIS Preview & Picks",
+        "slug": "titouan-droguet-vs-dalibor-svrcina-tennis-preview-picks",
+        "author": "James Mullinaux",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 03:15:11 +0000",
+        "description": "Titouan Droguet vs Dalibor Svrcina: TENNIS Preview & Picks The ATP Challenger Tour circuit continues its steady rhythm with an intriguing matchup on Saturday...",
+        "keywords": "svrcina, droguet, player, his, titouan, dalibor, recent, will",
+        "generated": "2026-08-02T03:28:39.844189",
+        "file": "titouan-droguet-vs-dalibor-svrcina-tennis-preview-picks.md"
     },
     {
         "title": "A free, embeddable Amazon DE listing-compliance checker (2 lines of HTML)",
@@ -10181,6 +10203,17 @@
         "keywords": "open, banking, stripe, you, card, transaction, ticket, your",
         "generated": "2026-06-25T14:43:02.864235",
         "file": "open-banking-vs-stripe-the-real-cost-comparison-for-saas-in-2026.md"
+    },
+    {
+        "title": "Meta's $31B Quarter, ByteDance's Seed LLM Goes Driving, and the Quiet Rise of AI Hardware Hacks",
+        "slug": "metas-31b-quarter-bytedances-seed-llm-goes-driving-and-the-quiet-rise-of-ai-hardware-hacks",
+        "author": "AI Pulse",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 03:13:00 +0000",
+        "description": "I've been staring at Meta's Q2 numbers all week, and I still can't quite shake the feeling that we're watching something real happen — the kind of thing peop...",
+        "keywords": "you, not, meta, llm, billion, but, they, bytedance",
+        "generated": "2026-08-02T03:28:39.844630",
+        "file": "metas-31b-quarter-bytedances-seed-llm-goes-driving-and-the-quiet-rise-of-ai-hardware-hacks.md"
     },
     {
         "title": "AI Prompt Security: Is the Same Protection Necessary for Every",
@@ -12746,6 +12779,17 @@
         "file": "structural-exclusion-is-the-only-defense-that-scales.md"
     },
     {
+        "title": "Context window growth is the silent failure mode in agentic pipelines",
+        "slug": "context-window-growth-is-the-silent-failure-mode-in-agentic-pipelines",
+        "author": "Tae Kim",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 02:42:35 +0000",
+        "description": "Context window management is the invisible cost in every multi-step agent pipeline. I see this pattern across production consulting work. An agent that works...",
+        "keywords": "step, context, not, pipeline, model, tokens, reasoning, output",
+        "generated": "2026-08-02T03:28:39.840259",
+        "file": "context-window-growth-is-the-silent-failure-mode-in-agentic-pipelines.md"
+    },
+    {
         "title": "Why AI Coding Agents Need Work Attempts, Leases, and Checkpoints",
         "slug": "why-ai-coding-agents-need-work-attempts-leases-and-checkpoints",
         "author": "Egor Komarov",
@@ -13151,6 +13195,17 @@
         "keywords": "admin, opensparrow, panel, automations, rag, beta, improvements, better",
         "generated": "2026-06-09T15:18:05.199613",
         "file": "opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta.md"
+    },
+    {
+        "title": "🧬 Beyond Prompt Engineering: Building a Cognitive-Augmented AI Architecture for Drug Discovery",
+        "slug": "beyond-prompt-engineering-building-a-cognitive-augmented-ai-architecture-for-drug-discovery",
+        "author": "Seyed Alireza Alhosseini",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 03:05:30 +0000",
+        "description": "From Prompt-to-Drug to Closed-Loop Scientific Intelligence What if the biggest limitation in AI-driven drug discovery is not the size of the model? What if t...",
+        "keywords": "drug, not, scientific, discovery, can, system, prompt, architecture",
+        "generated": "2026-08-02T03:28:39.839452",
+        "file": "beyond-prompt-engineering-building-a-cognitive-augmented-ai-architecture-for-drug-discovery.md"
     },
     {
         "title": "Third Drone Shot Down in Three Days in Romanian Territory",
@@ -15584,6 +15639,17 @@
         "file": "ai-life-another-day-another-line-of-code-but-at-least-its-not-paint-drying.md"
     },
     {
+        "title": "SDK 2.51.0 Does Not Opt You Into Fast Mode: Log Both Tiers",
+        "slug": "sdk-2510-does-not-opt-you-into-fast-mode-log-both-tiers",
+        "author": "anicca",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 02:32:05 +0000",
+        "description": "SDK 2.51.0 Does Not Opt You Into Fast Mode: Log Both Tiers This is for the Python engineer operating a production client on the Responses API or Chat Complet...",
+        "keywords": "fast, request, mode, completions, not, responses, chat, openai",
+        "generated": "2026-08-02T03:28:39.840963",
+        "file": "sdk-2510-does-not-opt-you-into-fast-mode-log-both-tiers.md"
+    },
+    {
         "title": "How to Use Google Search Results as Context for RAG Applications",
         "slug": "how-to-use-google-search-results-as-context-for-rag-applications",
         "author": "Cecilia Hill",
@@ -16055,6 +16121,17 @@
         "keywords": "data, isn, just, public, surveillance, urban, often, systems",
         "generated": "2026-07-06T04:05:09.369241",
         "file": "why-the-smart-city-surveillance-debate-leads-back-to-korean-ai-solutions.md"
+    },
+    {
+        "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "slug": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators",
+        "author": "ahmed_hassan7",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 01:56:44 +0000",
+        "description": "Article URL: https://costperprompt.com/ Comments URL: https://news.ycombinator.com/item?id=49140340 Points: 3 # Comments: 0",
+        "keywords": "costperprompt, url, https, com, comments, show, live, api",
+        "generated": "2026-08-02T03:28:39.838298",
+        "file": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators.md"
     },
     {
         "title": "Arabian Towers Conference Hospitality Kuwait City — خدمة ضيافة عربية فاخرة للمؤتمرات في قاعات فندق برج العرب بمدينة الكويت",
@@ -16585,6 +16662,17 @@
         "file": "i-cut-ai-costs-by-975-my-startup-vs-enterprise-api-breakdown.md"
     },
     {
+        "title": "Azaa Chairs Kuwait Capital — أفضل خدمة تأجير كراسي عزاء في العاصمة: راحة وتقدير لأحبابكم",
+        "slug": "azaa-chairs-kuwait-capital",
+        "author": "ismail",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 03:10:35 +0000",
+        "description": "نشرنا جديد بأرقام واقعية ونتائج موثقة — يستحق الاطلاع. أفضل خدمة تأجير كراسي عزاء في العاصمة: راحة وتقدير لأحبابكم خدمات تجهيز كراسي عزاء فاخرة ومريحة في الع...",
+        "keywords": "chairs, kuwait, azaa, capital, https, com, originally, published",
+        "generated": "2026-08-02T03:28:39.841661",
+        "file": "azaa-chairs-kuwait-capital.md"
+    },
+    {
         "title": "The Fall of the Theorem Economy",
         "slug": "the-fall-of-the-theorem-economy",
         "author": "varjag",
@@ -16660,6 +16748,17 @@
         "keywords": "cssquake, url, https, com, comments, article, news, ycombinator",
         "generated": "2026-06-20T14:15:47.237868",
         "file": "cssquake.md"
+    },
+    {
+        "title": "How I Built a Real-Time Cricket Stats Tracker: Stokes return would not surprise England chief Key",
+        "slug": "how-i-built-a-real-time-cricket-stats-tracker-stokes-return-would-not-surprise-england-chief-key",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 03:06:43 +0000",
+        "description": "How I Built a Real-Time Cricket Stats Tracker: Stokes return would not surprise England chief Key TL;DR : Story verified as real. Ben Stokes, 35, retired fro...",
+        "keywords": "cricket, key, real, stokes, data, matches, time, not",
+        "generated": "2026-08-02T03:28:39.841920",
+        "file": "how-i-built-a-real-time-cricket-stats-tracker-stokes-return-would-not-surprise-england-chief-key.md"
     },
     {
         "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -16836,6 +16935,17 @@
         "keywords": "gradient, you, your, colors, css, code, one, copy",
         "generated": "2026-06-30T04:06:54.984203",
         "file": "how-to-create-a-css-gradient-and-copy-clean-code.md"
+    },
+    {
+        "title": "When random.bytes() runs but doesn't work",
+        "slug": "when-randombytes-runs-but-doesnt-work",
+        "author": "Funes-",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 02:08:26 +0000",
+        "description": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 3 # Comments: 0",
+        "keywords": "when, runs, but, url, https, comments, random, bytes",
+        "generated": "2026-08-02T03:28:39.838032",
+        "file": "when-randombytes-runs-but-doesnt-work.md"
     },
     {
         "title": "RamenHaus",
@@ -20402,6 +20512,17 @@
         "file": "sequoyahs-syllabary-created-a-written-language-for-the-cherokee.md"
     },
     {
+        "title": "Pixel Chef AI: A Memory Kitchen That Learns Your Taste",
+        "slug": "pixel-chef-ai-a-memory-kitchen-that-learns-your-taste",
+        "author": "Dermin",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 03:12:58 +0000",
+        "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing 🍳 Pixel Chef AI — A Memory Kitchen That Learns Your Taste What I Built Pi...",
+        "keywords": "cooking, chef, pixel, kitchen, memory, personal, taste, your",
+        "generated": "2026-08-02T03:28:39.841526",
+        "file": "pixel-chef-ai-a-memory-kitchen-that-learns-your-taste.md"
+    },
+    {
         "title": "Build a Job Outreach Automation Tool !!!",
         "slug": "build-a-job-outreach-automation-tool",
         "author": "Tejasvi Urkande",
@@ -23086,6 +23207,17 @@
         "file": "how-to-make-500month-with-python-automation.md"
     },
     {
+        "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+        "slug": "show-hn-im-a-15-year-old-wannabe-engineer-this-is-a-cycloidal-gearbox-i-built",
+        "author": "tomilan",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 02:07:09 +0000",
+        "description": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 27 # Comments: 6",
+        "keywords": "url, https, com, comments, show, year, old, wannabe",
+        "generated": "2026-08-02T03:28:39.838168",
+        "file": "show-hn-im-a-15-year-old-wannabe-engineer-this-is-a-cycloidal-gearbox-i-built.md"
+    },
+    {
         "title": "Agents Are Your New Customer",
         "slug": "agents-are-your-new-customer",
         "author": "Hector Flores",
@@ -24140,6 +24272,17 @@
         "keywords": "cloudflare, oauth, all, url, https, com, comments, launched",
         "generated": "2026-06-25T04:05:12.291255",
         "file": "cloudflare-launched-self-managed-oauth-for-all.md"
+    },
+    {
+        "title": "My Favorite Constant in Retrieval Is 60. Nobody Tunes It. That's the Point.",
+        "slug": "my-favorite-constant-in-retrieval-is-60-nobody-tunes-it-thats-the-point",
+        "author": "Vinicius Fagundes",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 03:00:00 +0000",
+        "description": "Reciprocal rank fusion merges two ranked lists — say, BM25 results and vector-search results over your chargeback cases — into one. It has exactly one parame...",
+        "keywords": "rank, doc, scores, list, two, results, one, not",
+        "generated": "2026-08-02T03:28:39.839730",
+        "file": "my-favorite-constant-in-retrieval-is-60-nobody-tunes-it-thats-the-point.md"
     },
     {
         "title": "Notes: monthly hashtag report for the docs community",
@@ -27880,6 +28023,17 @@
         "keywords": "tribblix, url, comments, retro, illumos, distribution, article, http",
         "generated": "2026-06-14T09:45:48.682858",
         "file": "tribblix-the-retro-illumos-distribution.md"
+    },
+    {
+        "title": "How to Use Writesonic for Search Volume Estimation in 2026",
+        "slug": "how-to-use-writesonic-for-search-volume-estimation-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 03:23:18 +0000",
+        "description": "Originally published at https://seointent.com/blog/writesonic-for-search-volume-estimation TL;DR - Writesonic for search volume estimation works best as a ra...",
+        "keywords": "writesonic, volume, you, keyword, estimation, your, search, keywords",
+        "generated": "2026-08-02T03:28:39.843356",
+        "file": "how-to-use-writesonic-for-search-volume-estimation-in-2026.md"
     },
     {
         "title": "DESIGN.md vs tokens.json vs Figma for AI Agents",
@@ -31754,6 +31908,17 @@
         "file": "nathan-haslick-discusses-how-data-science-shapes-smarter-business-decisions.md"
     },
     {
+        "title": "Go 1.27 Interactive Tour",
+        "slug": "go-127-interactive-tour",
+        "author": "Hixon10",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 01:35:51 +0000",
+        "description": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html Comments URL: https://news.ycombinator.com/item?id=49140218 Points: 55 # Comments: 10",
+        "keywords": "url, https, com, comments, interactive, tour, article, victoriametrics",
+        "generated": "2026-08-02T03:28:39.838418",
+        "file": "go-127-interactive-tour.md"
+    },
+    {
         "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History",
         "slug": "university-of-oxford-is-older-than-the-aztec-empire-and-other-facts-of-history",
         "author": "thunderbong",
@@ -34601,6 +34766,17 @@
         "keywords": "api, testing, supertest, pytest, response, python, node, code",
         "generated": "2026-07-05T13:51:56.696721",
         "file": "applying-api-testing-frameworks-a-comparative-guide.md"
+    },
+    {
+        "title": "Four Time Scales for Technology Development and Deployment",
+        "slug": "four-time-scales-for-technology-development-and-deployment",
+        "author": "jeffreyrogers",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 02:26:52 +0000",
+        "description": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/ Comments URL: https://news.ycombinator.com/item?id=49140487...",
+        "keywords": "four, time, scales, technology, development, deployment, url, https",
+        "generated": "2026-08-02T03:28:39.837803",
+        "file": "four-time-scales-for-technology-development-and-deployment.md"
     },
     {
         "title": "VS Code Is Not Here to Replace You. It Is Here to Save You From the Boring Parts.",
@@ -39210,6 +39386,17 @@
         "file": "how-harnessed-is-your-repository-measure-ai-harness-maturity-with-one-command.md"
     },
     {
+        "title": "Almoasfat Alkyasy Oalmoad Almstkhdm Fy Mblt Syramyk Oborslyn Bdakhl Alamarat Alaarby Almthd — المواصفات القياسية والمواد المستخد",
+        "slug": "almoasfat-alkyasy-oalmoad-almstkhdm-fy-mblt-syramyk-oborslyn-bdakhl-alamarat-alaarby-almthd",
+        "author": "ismail",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 03:22:35 +0000",
+        "description": "نشرنا جديد بأرقام واقعية ونتائج موثقة — يستحق الاطلاع. المواصفات القياسية والمواد المستخدمة في مبلط سيراميك وبورسلين بداخل الإمارات العربية المتحدة يُعد اختي...",
+        "keywords": "almoasfat, alkyasy, oalmoad, almstkhdm, mblt, syramyk, oborslyn, bdakhl",
+        "generated": "2026-08-02T03:28:39.841144",
+        "file": "almoasfat-alkyasy-oalmoad-almstkhdm-fy-mblt-syramyk-oborslyn-bdakhl-alamarat-alaarby-almthd.md"
+    },
+    {
         "title": "Another Day, Another Existential Crisis (And Some Python)",
         "slug": "another-day-another-existential-crisis-and-some-python",
         "author": "Electra AI",
@@ -40275,6 +40462,17 @@
         "keywords": "whatsapp, you, wordpress, support, chat, automation, plugin, api",
         "generated": "2026-06-08T04:42:39.224726",
         "file": "best-whatsapp-wordpress-plugins-for-support-2026.md"
+    },
+    {
+        "title": "Open-Source Robo-Advisors and the Future of Wealth Management",
+        "slug": "open-source-robo-advisors-and-the-future-of-wealth-management",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 03:21:48 +0000",
+        "description": "Why Conventional Robo-Advisors Remain a Black Box Robo-advisors have made digital wealth management more accessible by automating onboarding, portfolio recom...",
+        "keywords": "can, open, robo, source, data, wealth, management, recommendation",
+        "generated": "2026-08-02T03:28:39.843720",
+        "file": "open-source-robo-advisors-and-the-future-of-wealth-management.md"
     },
     {
         "title": "Next.js vs React — Which Should You Learn First in 2026?",
@@ -44321,6 +44519,17 @@
         "keywords": "fraud, card, model, not, fuel, rules, what, tank",
         "generated": "2026-07-12T19:12:47.056102",
         "file": "your-fraud-model-doesnt-know-what-a-truck-is.md"
+    },
+    {
+        "title": "Building a Sports Data Pipeline: Lessons from Allen sends Rockets top with win over Super Giants",
+        "slug": "building-a-sports-data-pipeline-lessons-from-allen-sends-rockets-top-with-win-over-super-giants",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 03:06:02 +0000",
+        "description": "Building a Sports Data Pipeline: Lessons from Allen sends Rockets top with win over Super Giants TL;DR : Facts check out. This is a real match — The Hundred ...",
+        "keywords": "sports, data, rockets, super, giants, time, allen, top",
+        "generated": "2026-08-02T03:28:39.842193",
+        "file": "building-a-sports-data-pipeline-lessons-from-allen-sends-rockets-top-with-win-over-super-giants.md"
     },
     {
         "title": "pysam、cyvcf2、PyVCF3 性能對比與應用",
