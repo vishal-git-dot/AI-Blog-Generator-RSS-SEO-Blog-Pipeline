@@ -1704,6 +1704,17 @@
         "file": "porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-experts.md"
     },
     {
+        "title": "Claude Code for Capacity Planning: How I Stopped Reacting to Growth and Started Planning For It",
+        "slug": "claude-code-for-capacity-planning-how-i-stopped-reacting-to-growth-and-started-planning-for-it",
+        "author": "Nex Tools",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 08:25:09 +0000",
+        "description": "For a long time capacity planning at my company meant watching a dashboard until something turned orange, then buying more of whatever resource had run out. ...",
+        "keywords": "growth, resource, what, one, cost, capacity, skill, curve",
+        "generated": "2026-08-02T08:30:38.168813",
+        "file": "claude-code-for-capacity-planning-how-i-stopped-reacting-to-growth-and-started-planning-for-it.md"
+    },
+    {
         "title": "SnowLens: Free Snowflake Observability — 9 Detectors, Zero Data Egress",
         "slug": "snowlens-free-snowflake-observability-9-detectors-zero-data-egress",
         "author": "Abin Alex",
@@ -4650,6 +4661,17 @@
         "keywords": "pack, patterns, defensive, shipped, openclaw, broke, what, memory",
         "generated": "2026-06-20T14:15:47.238348",
         "file": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents.md"
+    },
+    {
+        "title": "Unveiling Hidden Bugs in a Foo…",
+        "slug": "unveiling-hidden-bugs-in-a-foo",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 08:05:49 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the technical intricacies and hidden challenges of developing a football prediction game for the 202...",
+        "keywords": "user, bugs, testing, these, real, world, bug, users",
+        "generated": "2026-08-02T08:30:38.168308",
+        "file": "unveiling-hidden-bugs-in-a-foo.md"
     },
     {
         "title": "The Last Spark",
@@ -9424,6 +9446,17 @@
         "file": "how-to-choose-the-right-web-designer-for-your-small-business-without-getting-burned.md"
     },
     {
+        "title": "Run Simple Web Server On The Spot",
+        "slug": "run-simple-web-server-on-the-spot",
+        "author": "hardyweb",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 07:19:19 +0000",
+        "description": "PHP php -S localhost:8000 PHP ( public ) php -S localhost:8000 -t public Python python3 -m http.server 8000 Node npx serve -p 8000 BusyBox busybox httpd -f -...",
+        "keywords": "php, run, server, localhost, public, busybox, httpd, ruby",
+        "generated": "2026-08-02T08:30:38.166496",
+        "file": "run-simple-web-server-on-the-spot.md"
+    },
+    {
         "title": "Let the Loop Iterate: Restarting Only Pays If You Know What to Throw Away",
         "slug": "let-the-loop-iterate-restarting-only-pays-if-you-know-what-to-throw-away",
         "author": "JaviMaligno",
@@ -10456,6 +10489,17 @@
         "keywords": "sentiment, machine, learning, data, your, confidence, pulsebit, pipeline",
         "generated": "2026-07-14T19:26:51.411321",
         "file": "your-pipeline-is-239h-behind-catching-machine-learning-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "I don't recommend Tailwind CSS",
+        "slug": "i-dont-recommend-tailwind-css",
+        "author": "andros",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 07:09:38 +0000",
+        "description": "Article URL: https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/ Comments URL: https://news.ycombinator.com/item?id=49141891 Points: 7 # C...",
+        "keywords": "recommend, tailwind, css, url, https, comments, don, article",
+        "generated": "2026-08-02T08:30:38.163782",
+        "file": "i-dont-recommend-tailwind-css.md"
     },
     {
         "title": "citesure update: 165/165 bench and --used-in for huge bibliographies",
@@ -12007,6 +12051,17 @@
         "keywords": "panther, data, can, security, databricks, cybersecurity, detection, solutions",
         "generated": "2026-06-20T04:12:08.215568",
         "file": "databricks-acquires-panther-a-new-era-in-cyberatt.md"
+    },
+    {
+        "title": "Why Most External Attack Surface Monitoring Tools Miss 40% of Your Internet Footprint",
+        "slug": "why-most-external-attack-surface-monitoring-tools-miss-40-of-your-internet-footprint",
+        "author": "Gopi Narayanaswamy",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 07:30:57 +0000",
+        "description": "When security teams think about External Attack Surface Management (EASM), they often imagine a simple inventory of internet-facing assets: Domains Subdomain...",
+        "keywords": "dns, attack, security, surface, assets, domains, cloud, discovery",
+        "generated": "2026-08-02T08:30:38.164629",
+        "file": "why-most-external-attack-surface-monitoring-tools-miss-40-of-your-internet-footprint.md"
     },
     {
         "title": "Getting Started with Python Training At Marathahalli: A 2026 Roadmap — #6",
@@ -15749,6 +15804,17 @@
         "file": "is-ai-replacing-personal-assistants-insights-for-ctos-and-tech-managers.md"
     },
     {
+        "title": "CRM: An open-source, agentic-first CRM",
+        "slug": "crm-an-open-source-agentic-first-crm",
+        "author": "handfuloflight",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 06:59:28 +0000",
+        "description": "Article URL: https://github.com/trycompai/crm Comments URL: https://news.ycombinator.com/item?id=49141847 Points: 6 # Comments: 0",
+        "keywords": "crm, url, https, com, comments, open, source, agentic",
+        "generated": "2026-08-02T08:30:38.163854",
+        "file": "crm-an-open-source-agentic-first-crm.md"
+    },
+    {
         "title": "I gave my AI agent the ability to send email",
         "slug": "i-gave-my-ai-agent-the-ability-to-send-email",
         "author": "DevOps Daily",
@@ -17694,6 +17760,17 @@
         "keywords": "what, claude, tool, mcp, server, project, built, you",
         "generated": "2026-07-06T04:05:09.365175",
         "file": "i-got-tired-of-my-portfolio-looking-like-a-list-of-links-so-i-built-an-mcp-server-for-it.md"
+    },
+    {
+        "title": "How to Use Termux for NSE Algorithmic Trading: A Complete Guide (2026)",
+        "slug": "how-to-use-termux-for-nse-algorithmic-trading-a-complete-guide-2026",
+        "author": "shakti tiwari",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 07:28:19 +0000",
+        "description": "How to Use Termux for NSE Algorithmic Trading: A Complete Guide (2026) DOYR | Not financial/legal/tax advice. For educational purposes only. If you've ever t...",
+        "keywords": "self, data, termux, python, capital, use, nse, import",
+        "generated": "2026-08-02T08:30:38.165813",
+        "file": "how-to-use-termux-for-nse-algorithmic-trading-a-complete-guide-2026.md"
     },
     {
         "title": "ASCII Printer: Colorful Console ASCII Art",
@@ -20215,6 +20292,17 @@
         "file": "build-a-stable-prepost-market-us-stock-ranking-dashboard.md"
     },
     {
+        "title": "How Elon Musk Sees China's AI",
+        "slug": "how-elon-musk-sees-chinas-ai",
+        "author": "Hunter G",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 08:18:56 +0000",
+        "description": "How Elon Musk Sees China's AI The Economist just released its 85-minute interview with Elon Musk — his first long one since the SpaceX IPO. About ten minutes...",
+        "keywords": "china, chips, compute, electricity, chinese, companies, elon, musk",
+        "generated": "2026-08-02T08:30:38.171470",
+        "file": "how-elon-musk-sees-chinas-ai.md"
+    },
+    {
         "title": "How Donkey Kong Toppled Atari",
         "slug": "how-donkey-kong-toppled-atari",
         "author": "giuliomagnifico",
@@ -20754,6 +20842,17 @@
         "file": "strengthening-network-defense-for-a-fashion-startup-proposal.md"
     },
     {
+        "title": "Beyond The Plate — Every Dish Has a Story",
+        "slug": "beyond-the-plate-every-dish-has-a-story",
+        "author": "Maisam Abbas",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 08:21:45 +0000",
+        "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing _ What I Built For this challenge I wanted to build something a little di...",
+        "keywords": "food, every, beyond, challenge, plate, instead, authentic, dishes",
+        "generated": "2026-08-02T08:30:38.166742",
+        "file": "beyond-the-plate-every-dish-has-a-story.md"
+    },
+    {
         "title": "Ah, the Codeberg Drama",
         "slug": "ah-the-codeberg-drama",
         "author": "tomgag",
@@ -21258,6 +21357,17 @@
         "keywords": "cargo, cve, package, pkgdrift, alpine, yes, api, drift",
         "generated": "2026-06-14T09:45:48.683430",
         "file": "package-drift-weekly-2026-06-14.md"
+    },
+    {
+        "title": "The SSRF check that passed every test and still had a fail-open branch",
+        "slug": "the-ssrf-check-that-passed-every-test-and-still-had-a-fail-open-branch",
+        "author": "takeaseat",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 08:10:12 +0000",
+        "description": "When an SSRF check cannot resolve a hostname, “allow and let the browser fail” is not a safe fallback. A URL-rendering service usually performs two separate ...",
+        "keywords": "not, dns, fail, check, browser, url, address, const",
+        "generated": "2026-08-02T08:30:38.167334",
+        "file": "the-ssrf-check-that-passed-every-test-and-still-had-a-fail-open-branch.md"
     },
     {
         "title": "OmniRoute Review 2026",
@@ -22270,6 +22380,17 @@
         "keywords": "not, you, one, customer, model, data, what, have",
         "generated": "2026-07-31T14:20:45.227161",
         "file": "from-ai-support-copilot-to-agentic-customer-service.md"
+    },
+    {
+        "title": "Best AI Agents for Finance Automation 2026: Ranked by Real ROI",
+        "slug": "best-ai-agents-for-finance-automation-2026-ranked-by-real-roi",
+        "author": "aarhamforensics",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 08:21:32 +0000",
+        "description": "Originally published at twarx.com - read the full interactive version there. Last Updated: August 2, 2026 Every CFO in 2026 is being sold 'AI for finance' — ...",
+        "keywords": "agent, finance, you, agents, your, human, tool, fraud",
+        "generated": "2026-08-02T08:30:38.170867",
+        "file": "best-ai-agents-for-finance-automation-2026-ranked-by-real-roi.md"
     },
     {
         "title": "Hugging Face Inference API: Run 200,000+ AI Models for Free with Python",
@@ -25693,6 +25814,17 @@
         "file": "need-1300-in-trading-liquidity-without-selling-your-altcoins.md"
     },
     {
+        "title": "Gebäudeautomation mit KI: So automatisiert syneos Gebäude",
+        "slug": "gebudeautomation-mit-ki-so-automatisiert-syneos-gebude",
+        "author": "Everlast AI",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 08:24:24 +0000",
+        "description": "syneos steuert 19 Glocken im Freiburger Dom Gebäudeautomation mit KI verbindet klassische Gebäudetechnik mit lernenden Systemen. Die Schweizer Syneos GmbH ze...",
+        "keywords": "die, und, mit, syneos, der, den, das, gebert",
+        "generated": "2026-08-02T08:30:38.169130",
+        "file": "gebudeautomation-mit-ki-so-automatisiert-syneos-gebude.md"
+    },
+    {
         "title": "Building a React 19 Tool to Calibrate Custom Wallpapers for Samsung's OneUI QuickPanel",
         "slug": "building-a-react-19-tool-to-calibrate-custom-wallpapers-for-samsungs-oneui-quickpanel",
         "author": "ΛʙʜɪɴᴀV",
@@ -27189,6 +27321,17 @@
         "file": "the-future-of-query-optimization-ai-driven-insights-in-big-data.md"
     },
     {
+        "title": "Dice Contract Jobs Scraper: Filtering by Employment Type Without Babysitting a Browser",
+        "slug": "dice-contract-jobs-scraper-filtering-by-employment-type-without-babysitting-a-browser",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 07:19:31 +0000",
+        "description": "Dice contract jobs — the Contract and Third Party postings specifically — are the reason IT staffing agencies use Dice.com over a general board in the first ...",
+        "keywords": "dice, contract, run, you, job, apify, type, per",
+        "generated": "2026-08-02T08:30:38.166398",
+        "file": "dice-contract-jobs-scraper-filtering-by-employment-type-without-babysitting-a-browser.md"
+    },
+    {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: Bellingham scores extra-time winner as England reach semi-finals",
         "slug": "i-scraped-100-sports-matches-here-is-what-i-found-bellingham-scores-extra-time-winner-as-england-reach-semi-finals",
         "author": "Muhammad Bin Nazeer",
@@ -27820,10 +27963,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sat, 01 Aug 2026 03:22:19 +0000",
+        "published": "Sun, 02 Aug 2026 08:19:36 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-01T03:28:58.772074",
+        "generated": "2026-08-02T08:30:38.171012",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -29013,6 +29156,17 @@
         "keywords": "deck, url, https, comments, designing, backyard, house, article",
         "generated": "2026-06-20T09:27:21.553596",
         "file": "designing-a-backyard-deck-for-my-house.md"
+    },
+    {
+        "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+        "slug": "running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 04:21:14 +0000",
+        "description": "Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x Comments URL: https://news.ycombinator.com/item?id=49141073 Points: 113 # Comments: 21",
+        "keywords": "kimi, url, https, comments, running, better, performance, per",
+        "generated": "2026-08-02T08:30:38.163918",
+        "file": "running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300.md"
     },
     {
         "title": "I joined the IndieWeb, here's what I learned",
@@ -32084,6 +32238,17 @@
         "file": "i-lost-a-weekend-to-cors-errors-heres-the-data-backed-fix.md"
     },
     {
+        "title": "Show HN: Tone Generator",
+        "slug": "show-hn-tone-generator",
+        "author": "artiomyak",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 07:31:40 +0000",
+        "description": "Article URL: https://soundtonegenerator.com/ Comments URL: https://news.ycombinator.com/item?id=49142002 Points: 5 # Comments: 0",
+        "keywords": "url, https, com, comments, show, tone, generator, article",
+        "generated": "2026-08-02T08:30:38.163697",
+        "file": "show-hn-tone-generator.md"
+    },
+    {
         "title": "How to Fix Cursor Composer 2.5 Freezing & Stuck on Thinking Issue in 2026",
         "slug": "how-to-fix-cursor-composer-25-freezing-stuck-on-thinking-issue-in-2026",
         "author": "ail akram",
@@ -32203,6 +32368,17 @@
         "keywords": "paper, what, you, list, engine, read, papers, need",
         "generated": "2026-07-10T03:51:00.822689",
         "file": "i-built-a-personal-paper-engine-to-stop-losing-research-papers.md"
+    },
+    {
+        "title": "bindantic: describe BIND9 config as Pydantic models",
+        "slug": "bindantic-describe-bind9-config-as-pydantic-models",
+        "author": "Daniil Gruzdev",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 07:54:12 +0000",
+        "description": "If you've ever administered BIND9, you know the feeling: you open named.conf, add a zone, forget the trailing dot on a domain name or a semicolon after a blo...",
+        "keywords": "you, zone, named, bindantic, config, key, bind, conf",
+        "generated": "2026-08-02T08:30:38.164311",
+        "file": "bindantic-describe-bind9-config-as-pydantic-models.md"
     },
     {
         "title": "Day 22 of 100",
@@ -44598,6 +44774,17 @@
         "file": "data-centers-trigger-voter-backlash.md"
     },
     {
+        "title": "This Week In PHP Internals | July 29, 2026",
+        "slug": "this-week-in-php-internals-july-29-2026",
+        "author": "Len Woodward",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 08:07:27 +0000",
+        "description": "Hello world, from Laracon US 2026 in Boston — it's Wednesday, July 29, 2026, and here's what happened This Week in PHP Internals. 15 stories this week, so le...",
+        "keywords": "week, php, vote, rfc, time, one, his, but",
+        "generated": "2026-08-02T08:30:38.167985",
+        "file": "this-week-in-php-internals-july-29-2026.md"
+    },
+    {
         "title": "Kontigo (YC S24) Is Hiring",
         "slug": "kontigo-yc-s24-is-hiring",
         "author": "jecastillof",
@@ -44915,6 +45102,17 @@
         "keywords": "docker, roles, ansible, playbooks, role, name, playbook, provisioning",
         "generated": "2026-06-27T03:58:09.833937",
         "file": "ansible-roles-vs-playbooks-for-docker-provisioning-which-one-should-you-use.md"
+    },
+    {
+        "title": "I Loaded 8,956 Rows to Flip One Boolean",
+        "slug": "i-loaded-8956-rows-to-flip-one-boolean",
+        "author": "Sukhpinder Singh",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 08:13:03 +0000",
+        "description": "Every system I've worked on has a nightly job shaped like this: archive delivered orders older than 90 days. Mine was four lines of EF Core that had survived...",
+        "keywords": "one, rows, orders, where, them, isarchived, sql, same",
+        "generated": "2026-08-02T08:30:38.167106",
+        "file": "i-loaded-8956-rows-to-flip-one-boolean.md"
     },
     {
         "title": "AI Sorted Socks By Color So Humans Could Finally Feel Validated",
@@ -47929,6 +48127,17 @@
         "keywords": "url, https, com, comments, show, wrote, ray, tracer",
         "generated": "2026-06-15T12:29:05.499898",
         "file": "show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md"
+    },
+    {
+        "title": "Nerd culture is murdering intellectuals",
+        "slug": "nerd-culture-is-murdering-intellectuals",
+        "author": "mockerell",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 07:57:52 +0000",
+        "description": "Article URL: https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals Comments URL: https://news.ycombinator.com/item?id=49142128 Po...",
+        "keywords": "nerd, culture, murdering, intellectuals, url, https, com, comments",
+        "generated": "2026-08-02T08:30:38.163528",
+        "file": "nerd-culture-is-murdering-intellectuals.md"
     },
     {
         "title": "The new bibliomaniacs",
