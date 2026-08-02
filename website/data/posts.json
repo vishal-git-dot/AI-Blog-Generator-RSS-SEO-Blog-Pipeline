@@ -812,6 +812,17 @@
         "file": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm.md"
     },
     {
+        "title": "What “Client-Side” Privacy Actually Means for Developer Tools",
+        "slug": "what-client-side-privacy-actually-means-for-developer-tools",
+        "author": "Khem Raj Rai",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 13:29:06 +0000",
+        "description": "When a developer pastes a JWT, API request, or private JSON document into a utility, “client-side” sounds reassuring. But it is important to understand exact...",
+        "keywords": "browser, tool, privacy, client, side, data, not, what",
+        "generated": "2026-08-02T13:39:46.251640",
+        "file": "what-client-side-privacy-actually-means-for-developer-tools.md"
+    },
+    {
         "title": "How I replaced 3 SaaS tools with a 50-line Python script",
         "slug": "how-i-replaced-3-saas-tools-with-a-50-line-python-script",
         "author": "David García",
@@ -1944,6 +1955,17 @@
         "keywords": "phone, agent, repo, okeke, chukwudubem, gemma, project, log",
         "generated": "2026-06-09T15:18:05.198373",
         "file": "day-2-of-building-an-ai-agent-that-controls-a-phone-repo-is-live-first-script-is-working-gemma-4-adb-python-no-cloud-no-api-keys-just-a-phone-that-understands-commands-and-executes-them-githubcomdexter2344phone-agent.md"
+    },
+    {
+        "title": "I built an open-source OSINT tool that runs 55 modules with zero API keys",
+        "slug": "i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys",
+        "author": "FlowThingy",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 12:59:46 +0000",
+        "description": "Been learning web security for a while and kept jumping between different tools for every recon task so I just built my own. It's a Python script with a term...",
+        "keywords": "out, built, runs, api, keys, security, while, secret",
+        "generated": "2026-08-02T13:39:46.250129",
+        "file": "i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys.md"
     },
     {
         "title": "I built a smoke detector for AI agent wallets",
@@ -4344,6 +4366,17 @@
         "file": "mastering-python-classes-with-dataclasses-tutorial-for-clean-code.md"
     },
     {
+        "title": "“Save” and “Update” Are Not the Same — How a Former Okonomiyaki Chef Removed Confusing UI from a Flask App",
+        "slug": "save-and-update-are-not-the-same-how-a-former-okonomiyaki-chef-removed-confusing-ui-from-a-flask-app",
+        "author": "tosane932",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 13:27:53 +0000",
+        "description": "Introduction Hello from Japan! 🇯🇵 This article was originally published in Japanese on Qiita and has been translated and adapted for DEV Community. I have no...",
+        "keywords": "page, sales, product, quantity, color, input, dashboard, registered",
+        "generated": "2026-08-02T13:39:46.248467",
+        "file": "save-and-update-are-not-the-same-how-a-former-okonomiyaki-chef-removed-confusing-ui-from-a-flask-app.md"
+    },
+    {
         "title": ".garden TLD's change to a bad neighborhood",
         "slug": "garden-tlds-change-to-a-bad-neighborhood",
         "author": "speckx",
@@ -4991,6 +5024,17 @@
         "keywords": "japan, lithium, used, batteries, url, https, com, comments",
         "generated": "2026-07-14T08:17:51.106110",
         "file": "japan-develops-a-method-to-recover-up-to-90-of-lithium-from-used-ev-batteries.md"
+    },
+    {
+        "title": "Unlocking Text Analysis with LLMs",
+        "slug": "unlocking-text-analysis-with-llms",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 13:32:21 +0000",
+        "description": "Text analysis pipelines once required chaining specialized NLP libraries, custom training loops, and brittle regex. Large language models collapsed that stac...",
+        "keywords": "text, analysis, training, loops, cost, model, based, word",
+        "generated": "2026-08-02T13:39:46.252818",
+        "file": "unlocking-text-analysis-with-llms.md"
     },
     {
         "title": "Working with AIS Data in Python: What the Quickstart Won't Tell You",
@@ -6174,10 +6218,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sat, 01 Aug 2026 18:56:23 +0000",
+        "published": "Sun, 02 Aug 2026 12:41:35 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-01T19:17:12.566939",
+        "generated": "2026-08-02T13:39:46.250316",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -6905,6 +6949,17 @@
         "keywords": "not, project, because, days, then, what, fast, why",
         "generated": "2026-06-30T14:30:32.341708",
         "file": "we-rejected-a-project-because-the-client-wanted-it-done-in-3-days-heres-why.md"
+    },
+    {
+        "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+        "slug": "great-question-yc-w21-is-hiring-senior-demand-gen-manager",
+        "author": "nedwin",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 12:01:00 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "great, question, senior, demand, manager, url, https, ycombinator",
+        "generated": "2026-08-02T13:39:46.247282",
+        "file": "great-question-yc-w21-is-hiring-senior-demand-gen-manager.md"
     },
     {
         "title": "Common Mistakes New Data Engineers Make (And How to Avoid Them)",
@@ -13219,6 +13274,17 @@
         "file": "im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study.md"
     },
     {
+        "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "slug": "an-internal-openai-astra-model-solved-10-major-open-math-and-cs-problems",
+        "author": "wa5ina",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 12:01:37 +0000",
+        "description": "Article URL: https://twitter.com/polynoamial/status/2083467194663571701 Comments URL: https://news.ycombinator.com/item?id=49143688 Points: 35 # Comments: 23",
+        "keywords": "url, https, com, comments, internal, openai, astra, model",
+        "generated": "2026-08-02T13:39:46.247155",
+        "file": "an-internal-openai-astra-model-solved-10-major-open-math-and-cs-problems.md"
+    },
+    {
         "title": "2 AI Tools That Actually Make Money — Built on a Raspberry Pi",
         "slug": "2-ai-tools-that-actually-make-money-built-on-a-raspberry-pi",
         "author": "ULNIT",
@@ -15221,6 +15287,17 @@
         "file": "developer.md"
     },
     {
+        "title": "I Built a Practice App Because Every Duolingo for Music Kept Failing Me",
+        "slug": "i-built-a-practice-app-because-every-duolingo-for-music-kept-failing-me",
+        "author": "Diven Rastdus",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 13:34:22 +0000",
+        "description": "I've lost track of how many Duolingo for piano apps I've downloaded and deleted. Simply Piano, Yousician, a few others I don't remember the names of. Every...",
+        "keywords": "you, practice, what, piano, string, instrument, nodes, app",
+        "generated": "2026-08-02T13:39:46.250766",
+        "file": "i-built-a-practice-app-because-every-duolingo-for-music-kept-failing-me.md"
+    },
+    {
         "title": "Compare Options Before You Buy Verified DigitalOcean Hostings Account Boom",
         "slug": "compare-options-before-you-buy-verified-digitalocean-hostings-account-boom",
         "author": "Zorina Robles",
@@ -16607,6 +16684,17 @@
         "file": "built-isnt-serving.md"
     },
     {
+        "title": "The most intelligent way to learn engineering, but it's a set of puzzles.",
+        "slug": "the-most-intelligent-way-to-learn-engineering-but-its-a-set-of-puzzles",
+        "author": "dima853",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 13:28:28 +0000",
+        "description": "18y.o. 822 LeetCode problems solved. 430+ day streak. Decided to build my second project — helps you learn different topics in a format that's actually conve...",
+        "keywords": "you, interview, puzzles, what, puzzle, learn, leetcode, problems",
+        "generated": "2026-08-02T13:39:46.251845",
+        "file": "the-most-intelligent-way-to-learn-engineering-but-its-a-set-of-puzzles.md"
+    },
+    {
         "title": "I Moved My AI Stack From NVIDIA to Apple Silicon. Then I Moved Back. Here's Why.",
         "slug": "i-moved-my-ai-stack-from-nvidia-to-apple-silicon-then-i-moved-back-heres-why",
         "author": "Sam Hartley",
@@ -17047,6 +17135,17 @@
         "file": "how-to-start-a-ruby-meetup.md"
     },
     {
+        "title": "Has the New Cocaine Arrived?",
+        "slug": "has-the-new-cocaine-arrived",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 13:05:06 +0000",
+        "description": "Article URL: https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived Comments URL: https://news.ycombinator.com/item?id=49144273 Points: 15 # Comm...",
+        "keywords": "has, new, cocaine, arrived, url, https, com, comments",
+        "generated": "2026-08-02T13:39:46.246861",
+        "file": "has-the-new-cocaine-arrived.md"
+    },
+    {
         "title": "Using Symfony Forms as Controller Arguments with #[MapRequestToForm]",
         "slug": "using-symfony-forms-as-controller-arguments-with-maprequesttoform",
         "author": "AzYouness",
@@ -17276,6 +17375,17 @@
         "keywords": "hand, sign, thumb, tip, you, its, browser, your",
         "generated": "2026-06-15T21:11:31.715509",
         "file": "i-built-a-webcam-sign-language-reader-in-the-browser-no-cloud.md"
+    },
+    {
+        "title": "Smart 10 Crypto Loan Without Collateral Checks for Safety",
+        "slug": "smart-10-crypto-loan-without-collateral-checks-for-safety",
+        "author": "Moyra Browne",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 13:27:07 +0000",
+        "description": "Explore Now • Instant Support • Trusted Service Learn how to secure personal loans with confidence. Discover insider tips on boosting approval odds, comparin...",
+        "keywords": "your, you, credit, financial, can, lenders, loan, rates",
+        "generated": "2026-08-02T13:39:46.249058",
+        "file": "smart-10-crypto-loan-without-collateral-checks-for-safety.md"
     },
     {
         "title": "TypeScript Infers the Last Overload... So I Changed the Order",
@@ -19467,6 +19577,17 @@
         "file": "when-ai-invents-libraries-detecting-hallucinated-imports.md"
     },
     {
+        "title": "Twenty Years of RISC OS Open",
+        "slug": "twenty-years-of-risc-os-open",
+        "author": "AlexeyBrin",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 12:36:07 +0000",
+        "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Poi...",
+        "keywords": "twenty, years, risc, open, url, https, news, comments",
+        "generated": "2026-08-02T13:39:46.247025",
+        "file": "twenty-years-of-risc-os-open.md"
+    },
+    {
         "title": "Why Your Production RAG System Slowly Gets Worse",
         "slug": "why-your-production-rag-system-slowly-gets-worse",
         "author": "Lei Ye",
@@ -19764,6 +19885,17 @@
         "file": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing.md"
     },
     {
+        "title": "How YouTube Thumbnail URLs Work: A Simple Guide",
+        "slug": "how-youtube-thumbnail-urls-work-a-simple-guide",
+        "author": "Alexlv Cheng",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 13:33:23 +0000",
+        "description": "Have you ever needed a YouTube thumbnail but could not find the correct image URL? You may want it for a website preview, a content dashboard, or a small dev...",
+        "keywords": "jpg, youtube, thumbnail, image, you, url, video, com",
+        "generated": "2026-08-02T13:39:46.251381",
+        "file": "how-youtube-thumbnail-urls-work-a-simple-guide.md"
+    },
+    {
         "title": "ChatGPT Memory Creates Winner-Take-All Markets: Why Your First AI Citation Matters More Than Your Next 100 Backlinks",
         "slug": "chatgpt-memory-creates-winner-take-all-markets-why-your-first-ai-citation-matters-more-than-your-next-100-backlinks",
         "author": "Searchless",
@@ -19872,6 +20004,17 @@
         "keywords": "knowledge, signaling, signals, neuroweb, signal, verification, confidence, curation",
         "generated": "2026-07-15T19:19:36.621219",
         "file": "neuroweb-h1-2026-roadmap-advances-knowledge-signaling-for-decentralized-ai-curation.md"
+    },
+    {
+        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+        "slug": "meshdiff-visually-compare-two-stl-versions-in-the-browser-client-side",
+        "author": "projscope",
+        "source": "hackernews",
+        "published": "Sun, 02 Aug 2026 11:34:41 +0000",
+        "description": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 66 # Comments: 8",
+        "keywords": "meshdiff, url, https, com, comments, visually, compare, two",
+        "generated": "2026-08-02T13:39:46.247404",
+        "file": "meshdiff-visually-compare-two-stl-versions-in-the-browser-client-side.md"
     },
     {
         "title": "I Replaced Manual Meeting Notes with AI — Here's the Workflow That Actually Saved Me Hours Every Week",
@@ -27963,10 +28106,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 02 Aug 2026 08:19:36 +0000",
+        "published": "Sun, 02 Aug 2026 13:30:09 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-02T08:30:38.171012",
+        "generated": "2026-08-02T13:39:46.252949",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -29873,6 +30016,17 @@
         "file": "how-i-slashed-ai-api-costs-60-as-a-cloud-architect.md"
     },
     {
+        "title": "📝 Ending Product Sales Without Breaking Sales History — Implementing Soft Deletes and Reducing Gemini API Usage in Flask",
+        "slug": "ending-product-sales-without-breaking-sales-history-implementing-soft-deletes-and-reducing-gemini-api-usage-in-flask",
+        "author": "tosane932",
+        "source": "devto_python",
+        "published": "Sun, 02 Aug 2026 13:05:26 +0000",
+        "description": "🍞 Introduction Hello from Japan! 🇯🇵 This article was originally published in Japanese on Qiita and has been translated and adapted for DEV Community. I am a ...",
+        "keywords": "product, sales, api, name, products, flask, when, not",
+        "generated": "2026-08-02T13:39:46.249931",
+        "file": "ending-product-sales-without-breaking-sales-history-implementing-soft-deletes-and-reducing-gemini-api-usage-in-flask.md"
+    },
+    {
         "title": "Stop Guessing: Real Data Comparing GPT-4o and Gemini Pro",
         "slug": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro",
         "author": "Alex Chen",
@@ -30553,6 +30707,17 @@
         "keywords": "codex, tui, security, gemini, extension, src, cli, code",
         "generated": "2026-06-13T04:19:15.388386",
         "file": "geminicli-security-extensions-review-codex.md"
+    },
+    {
+        "title": "Building Secure Software in the Age of AI Coding Assistants",
+        "slug": "building-secure-software-in-the-age-of-ai-coding-assistants",
+        "author": "Gopi Narayanaswamy",
+        "source": "devto_webdev",
+        "published": "Sun, 02 Aug 2026 13:23:34 +0000",
+        "description": "AI can generate code in seconds. It can't own your security posture. Introduction Over the last two years, AI coding assistants have fundamentally changed so...",
+        "keywords": "code, security, secure, software, can, your, development, generated",
+        "generated": "2026-08-02T13:39:46.252139",
+        "file": "building-secure-software-in-the-age-of-ai-coding-assistants.md"
     },
     {
         "title": "The Developer AI Shortcut: 510 Prompts for Python, Web Scraping and DevOps",
@@ -32506,10 +32671,10 @@
         "slug": "every-handle-invocation-on-biznode-gets-a-wfid-a-universal-transaction-reference-for-accountability-full-audit-trail",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Fri, 26 Jun 2026 19:40:18 +0000",
-        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
-        "keywords": "biznode, https, biz, smartpdf, business, every, handle, invocation",
-        "generated": "2026-06-26T19:58:27.784842",
+        "published": "Sun, 02 Aug 2026 13:34:47 +0000",
+        "description": "Title: Unlocking Accountability with BizNode: The Power of WFIDs in Autonomous Business Operations In the rapidly evolving landscape of AI-driven business so...",
+        "keywords": "your, biznode, business, you, data, accountability, local, https",
+        "generated": "2026-08-02T13:39:46.252412",
         "file": "every-handle-invocation-on-biznode-gets-a-wfid-a-universal-transaction-reference-for-accountability-full-audit-trail.md"
     },
     {
@@ -35690,6 +35855,17 @@
         "keywords": "net, salary, gross, europe, tools, gap, italy, germany",
         "generated": "2026-07-05T13:51:56.698153",
         "file": "net-salary-in-europe-2026-the-gross-to-net-gap-in-italy-germany-france-and-spain.md"
+    },
+    {
+        "title": "Building RealityOS: a deterministic world with an AI reality-show surface",
+        "slug": "building-realityos-a-deterministic-world-with-an-ai-reality-show-surface",
+        "author": "Harish Kotra (he/him)",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 13:28:36 +0000",
+        "description": "AI agents are compelling when they look like they have a world, not when a screen is filled with chat bubbles. RealityOS is an experiment in that distinction...",
+        "keywords": "state, viewer, not, simulator, world, next, events, contestants",
+        "generated": "2026-08-02T13:39:46.253360",
+        "file": "building-realityos-a-deterministic-world-with-an-ai-reality-show-surface.md"
     },
     {
         "title": "เมื่อ AI เขียนโค้ดให้หมด Fundamentals ยังสำคัญอยู่ไหม?",
@@ -43980,6 +44156,17 @@
         "keywords": "sentiment, food, english, pulsebit, spike, momentum, language, how",
         "generated": "2026-06-23T15:13:55.042555",
         "file": "your-pipeline-is-200h-behind-catching-food-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "The Rise of AI: How Artificial Intelligence Is Changing Our Future",
+        "slug": "the-rise-of-ai-how-artificial-intelligence-is-changing-our-future",
+        "author": "Sunu Nath",
+        "source": "devto_ai",
+        "published": "Sun, 02 Aug 2026 13:33:09 +0000",
+        "description": "Artificial Intelligence (AI) is transforming the way we work, learn, and create. From generating images and writing content to helping developers build softw...",
+        "keywords": "artificial, intelligence, work, content, developers, faster, tools, you",
+        "generated": "2026-08-02T13:39:46.252608",
+        "file": "the-rise-of-ai-how-artificial-intelligence-is-changing-our-future.md"
     },
     {
         "title": "Autonomous Agents Need More Than Wallets: The Missing Trust Layer for Machine Economies",
