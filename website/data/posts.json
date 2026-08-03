@@ -1957,6 +1957,17 @@
         "file": "architecture-description-languages-pdf.md"
     },
     {
+        "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+        "slug": "the-billable-usage-api-programmatic-cost-visibility-for-cloudflare",
+        "author": "ashleypeacock",
+        "source": "hackernews",
+        "published": "Mon, 03 Aug 2026 17:18:06 +0000",
+        "description": "Article URL: https://blog.cloudflare.com/billable-usage-api/ Comments URL: https://news.ycombinator.com/item?id=49158714 Points: 21 # Comments: 3",
+        "keywords": "billable, usage, api, cloudflare, url, https, com, comments",
+        "generated": "2026-08-03T19:44:41.763914",
+        "file": "the-billable-usage-api-programmatic-cost-visibility-for-cloudflare.md"
+    },
+    {
         "title": "Market website templete",
         "slug": "market-website-templete",
         "author": "OZEEM",
@@ -2263,6 +2274,17 @@
         "keywords": "training, full, stack, python, marathahalli, developers, can, skills",
         "generated": "2026-07-19T08:26:32.156212",
         "file": "why-aspiring-developers-are-flocking-to-python-full-stack-training-in-marathahalli-for-cutting-edge-skills.md"
+    },
+    {
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "slug": "celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years",
+        "author": "roryirvine",
+        "source": "hackernews",
+        "published": "Mon, 03 Aug 2026 17:02:10 +0000",
+        "description": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-...",
+        "keywords": "years, kermit, celebrating, first, new, release, url, https",
+        "generated": "2026-08-03T19:44:41.764092",
+        "file": "celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years.md"
     },
     {
         "title": "How llm-d Prefix-Cache Routing Made Qwen 7B on EKS 2.3x Faster",
@@ -5400,6 +5422,17 @@
         "file": "how-i-built-a-free-acs-citation-generator-for-chemistry-papers.md"
     },
     {
+        "title": "ZX Spectrum System Tour: Sound",
+        "slug": "zx-spectrum-system-tour-sound",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Mon, 03 Aug 2026 18:32:06 +0000",
+        "description": "Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/ Comments URL: https://news.ycombinator.com/item?id=49159676 Poin...",
+        "keywords": "spectrum, system, tour, sound, url, https, com, comments",
+        "generated": "2026-08-03T19:44:41.763777",
+        "file": "zx-spectrum-system-tour-sound.md"
+    },
+    {
         "title": "My First Portfolio Website",
         "slug": "my-first-portfolio-website",
         "author": "EMMY FOREX & TECH LTD",
@@ -6817,6 +6850,17 @@
         "keywords": "api, one, models, you, use, claude, gemini, deepseek",
         "generated": "2026-06-26T09:38:14.828790",
         "file": "i-got-tired-of-managing-separate-apis-for-gpt-claude-gemini-deepseek-and-qwen.md"
+    },
+    {
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "slug": "smaller-faster-safer-running-kimi-and-glm-at-scale",
+        "author": "ascorbic",
+        "source": "hackernews",
+        "published": "Mon, 03 Aug 2026 17:08:46 +0000",
+        "description": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/ Comments URL: https://news.ycombinator.com/item?id=49158581 Points: 33 # Comments: 4",
+        "keywords": "smaller, faster, safer, url, https, com, comments, running",
+        "generated": "2026-08-03T19:44:41.764006",
+        "file": "smaller-faster-safer-running-kimi-and-glm-at-scale.md"
     },
     {
         "title": "From Dirt to Inference: Why I Am Starting at the Family Table",
@@ -8751,6 +8795,17 @@
         "keywords": "sentiment, finance, pulsebit, english, you, your, momentum, cluster",
         "generated": "2026-07-25T13:46:22.465588",
         "file": "your-pipeline-is-257h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Stop Optimizing the Wrong Things: Practical Database Optimization Techniques Every Backend Developer Should Know",
+        "slug": "stop-optimizing-the-wrong-things-practical-database-optimization-techniques-every-backend-developer-should-know",
+        "author": "Ali Haider",
+        "source": "devto_webdev",
+        "published": "Mon, 03 Aug 2026 19:30:08 +0000",
+        "description": "We've all been there. An API that used to respond in milliseconds suddenly becomes slower as the database grows. The application logic hasn't changed much, b...",
+        "keywords": "database, your, every, query, application, you, updated, optimization",
+        "generated": "2026-08-03T19:44:41.767743",
+        "file": "stop-optimizing-the-wrong-things-practical-database-optimization-techniques-every-backend-developer-should-know.md"
     },
     {
         "title": "How to Scrape TikTok Comments with Python: A Step-by-Step Tutorial",
@@ -11503,6 +11558,17 @@
         "file": "herdr-agent-multiplexer-that-lives-in-your-terminal.md"
     },
     {
+        "title": "An editable range can change without changing Word text",
+        "slug": "an-editable-range-can-change-without-changing-word-text",
+        "author": "SybilGambleyyu",
+        "source": "devto_python",
+        "published": "Mon, 03 Aug 2026 19:19:59 +0000",
+        "description": "An editable range can change without changing Word text A Word document can store an editable-range marker around text and associate that marker with an indi...",
+        "keywords": "marker, editor, text, word, range, can, stored, one",
+        "generated": "2026-08-03T19:44:41.765683",
+        "file": "an-editable-range-can-change-without-changing-word-text.md"
+    },
+    {
         "title": "60% Fable cost cut by converting code to images and having the model OCR it",
         "slug": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it",
         "author": "dimitropoulos",
@@ -13032,6 +13098,17 @@
         "file": "technische-architektur-und-local-seo-fr-automotive-plattformen.md"
     },
     {
+        "title": "I Built an MCP Server So AI Assistants Can Process PDFs Directly",
+        "slug": "i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly",
+        "author": "Peter Ndumia",
+        "source": "devto_ai",
+        "published": "Mon, 03 Aug 2026 19:35:24 +0000",
+        "description": "I run PDFHaul, a free browser and mobile PDF toolkit, as a solo founder. A few months ago I kept running into the same friction point: every time I wanted an...",
+        "keywords": "server, pdf, mcp, than, pdfhaul, assistant, tool, run",
+        "generated": "2026-08-03T19:44:41.768699",
+        "file": "i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly.md"
+    },
+    {
         "title": "Spark Tungsten & Whole-Stage Codegen: Memory Layout, Codegen Stages, Off-Heap",
         "slug": "spark-tungsten-whole-stage-codegen-memory-layout-codegen-stages-off-heap",
         "author": "Gowtham Potureddi",
@@ -13107,6 +13184,17 @@
         "keywords": "python, data, libraries, development, its, tech, community, like",
         "generated": "2026-07-21T19:39:11.836353",
         "file": "in-depth-analysis-pythons-dominance-in-ai-develo.md"
+    },
+    {
+        "title": "Building and Testing PickUp, a Vibe-Coded Platform for Casual Sports Games",
+        "slug": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games",
+        "author": "Nuh",
+        "source": "devto_webdev",
+        "published": "Mon, 03 Aug 2026 19:27:54 +0000",
+        "description": "Disclaimer: I am an intern at Perfai, however I built this app with a genuine purpose attempting to solve an issue that I face when it comes to sports. Now o...",
+        "keywords": "sports, pickup, can, games, their, application, group, platform",
+        "generated": "2026-08-03T19:44:41.768040",
+        "file": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games.md"
     },
     {
         "title": "Setting Up DORA Metrics in GitHub Actions Without Buying Anything",
@@ -14009,6 +14097,17 @@
         "keywords": "your, model, you, data, not, real, train, just",
         "generated": "2026-07-26T03:33:56.474615",
         "file": "your-ml-model-died-in-production-heres-why.md"
+    },
+    {
+        "title": "claude бесплатная. как проверить одну запись памяти после июльского обновления",
+        "slug": "claude",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Mon, 03 Aug 2026 19:35:32 +0000",
+        "description": "10 июля Claude изменил представление памяти: вместо ежедневной сводки появились отдельные категоризированные записи. Для тех, кому интересна claude бесплатна...",
+        "keywords": "reflect, claude, provod, free, pro, gpt, google, max",
+        "generated": "2026-08-03T19:44:41.768446",
+        "file": "claude.md"
     },
     {
         "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
@@ -17535,10 +17634,10 @@
         "slug": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Wed, 15 Jul 2026 08:18:57 +0000",
-        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
-        "keywords": "biznode, business, can, agents, https, your, you, biz",
-        "generated": "2026-07-15T08:23:28.892778",
+        "published": "Mon, 03 Aug 2026 19:34:55 +0000",
+        "description": "Title: Unlocking the Power of Autonomous Business Management with BizNode In today's fast-paced digital landscape, businesses are constantly seeking ways to ...",
+        "keywords": "biznode, your, business, cloud, operator, operations, you, can",
+        "generated": "2026-08-03T19:44:41.768925",
         "file": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247.md"
     },
     {
@@ -20292,6 +20391,17 @@
         "file": "chatgpt-memory-creates-winner-take-all-markets-why-your-first-ai-citation-matters-more-than-your-next-100-backlinks.md"
     },
     {
+        "title": "Market-Implied Probability Calibration for a Polymarket Trading bot",
+        "slug": "market-implied-probability-calibration-for-a-polymarket-trading-bot",
+        "author": "Benjamin-Cup",
+        "source": "devto_python",
+        "published": "Mon, 03 Aug 2026 19:15:21 +0000",
+        "description": "Building a robust Polymarket Trading bot requires more than raw order-book data or simple momentum signals. Market prices on Polymarket already function as i...",
+        "keywords": "polymarket, bot, trading, market, calibration, edge, markets, self",
+        "generated": "2026-08-03T19:44:41.766264",
+        "file": "market-implied-probability-calibration-for-a-polymarket-trading-bot.md"
+    },
+    {
         "title": "Python Decorators Explained Simply",
         "slug": "python-decorators-explained-simply",
         "author": "qing",
@@ -21161,6 +21271,17 @@
         "file": "build-a-job-outreach-automation-tool.md"
     },
     {
+        "title": "The schema defined 2 foreign key pairs. The API reported 4.",
+        "slug": "the-schema-defined-2-foreign-key-pairs-the-api-reported-4",
+        "author": "anp0429",
+        "source": "devto_ai",
+        "published": "Mon, 03 Aug 2026 19:38:26 +0000",
+        "description": "I hit this in supabase/mcp a few weeks back, it's merged now ( PR #317 ), and the shape of the bug is worth writing down because it's exactly the kind of thi...",
+        "keywords": "column, order, what, foreign, columns, them, one, fix",
+        "generated": "2026-08-03T19:44:41.768261",
+        "file": "the-schema-defined-2-foreign-key-pairs-the-api-reported-4.md"
+    },
+    {
         "title": "Where I would prep for a Meta interview in 2026",
         "slug": "where-i-would-prep-for-a-meta-interview-in-2026",
         "author": "Stack Overflowed",
@@ -21797,6 +21918,17 @@
         "keywords": "shayari, can, you, people, feelings, they, reading, some",
         "generated": "2026-07-24T08:34:24.203354",
         "file": "is-reading-sad-shayari-actually-helpful-after-a-breakup.md"
+    },
+    {
+        "title": "I built a shared wall that can't be spammed, by removing the text box",
+        "slug": "i-built-a-shared-wall-that-cant-be-spammed-by-removing-the-text-box",
+        "author": "Dhardingsea Developer",
+        "source": "devto_webdev",
+        "published": "Mon, 03 Aug 2026 19:38:06 +0000",
+        "description": "Why the Positivity Wall has no text field, no accounts and no likes — and what subtraction has to do with building alongside AI. https://dhseadev.online/2026...",
+        "keywords": "you, more, what, has, one, stamp, can, text",
+        "generated": "2026-08-03T19:44:41.767033",
+        "file": "i-built-a-shared-wall-that-cant-be-spammed-by-removing-the-text-box.md"
     },
     {
         "title": "I Benchmarked 9 Multimodal AI APIs — The Pricing Data Surprised Me",
@@ -24186,6 +24318,17 @@
         "file": "learn-quantitative-finance-with-python-from-scratch.md"
     },
     {
+        "title": "Building a Search Engine for 4 Languages, 2 Alphabets, and 107 Messy Color Names (Elasticsearch + pgvector + CIEDE2000)",
+        "slug": "building-a-search-engine-for-4-languages-2-alphabets-and-107-messy-color-names-elasticsearch-pgvector-ciede2000",
+        "author": "Sahib Alizada",
+        "source": "devto_python",
+        "published": "Mon, 03 Aug 2026 19:30:25 +0000",
+        "description": "Real production queries from my fashion marketplace in Azerbaijan: гара йупка # black skirt — Azerbaijani words, Cyrillic script pembe yubka # pink skirt...",
+        "keywords": "one, color, same, search, every, text, category, filter",
+        "generated": "2026-08-03T19:44:41.765460",
+        "file": "building-a-search-engine-for-4-languages-2-alphabets-and-107-messy-color-names-elasticsearch-pgvector-ciede2000.md"
+    },
+    {
         "title": "Buy Verified PayPal Account: A Complete Guide for Secure Online Transactions (2026)",
         "slug": "buy-verified-paypal-account-a-complete-guide-for-secure-online-transactions-2026",
         "author": "Vera M Bacon",
@@ -24217,6 +24360,17 @@
         "keywords": "you, username, instagram, data, get, requests, headers, profile",
         "generated": "2026-06-07T14:06:36.535134",
         "file": "get-any-instagram-profile-data-in-10-lines-of-python.md"
+    },
+    {
+        "title": "Use Task Runners for Common Coding Tasks",
+        "slug": "use-task-runners-for-common-coding-tasks",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Mon, 03 Aug 2026 16:51:51 +0000",
+        "description": "Article URL: https://hamvocke.com/blog/task-runners/ Comments URL: https://news.ycombinator.com/item?id=49158287 Points: 26 # Comments: 5",
+        "keywords": "task, runners, url, https, com, comments, use, common",
+        "generated": "2026-08-03T19:44:41.764170",
+        "file": "use-task-runners-for-common-coding-tasks.md"
     },
     {
         "title": "SEO Is No Longer Enough: A Developer's Guide to SXO, CRO, GEO, AEO & AI Overviews",
@@ -25460,6 +25614,17 @@
         "keywords": "aml, not, outsourcing, review, compliance, how, team, work",
         "generated": "2026-06-19T15:31:48.966919",
         "file": "aml-outsourcing-is-not-just-compliance-overflow.md"
+    },
+    {
+        "title": "Tabs as a layer, not a rewrite: pointers instead of copies, one live form, and persistence split between the browser and the server.",
+        "slug": "tabs-as-a-layer-not-a-rewrite-pointers-instead-of-copies-one-live-form-and-persistence-split-between-the-browser-and-the-server",
+        "author": "SixSet",
+        "source": "devto_webdev",
+        "published": "Mon, 03 Aug 2026 19:40:01 +0000",
+        "description": "The last few weeks in devset CE were about tidying up foundations: a refreshed landing page with a walkthrough, ESLint 10, security bumps. This commit is dif...",
+        "keywords": "tab, tabs, request, state, one, only, not, form",
+        "generated": "2026-08-03T19:44:41.766753",
+        "file": "tabs-as-a-layer-not-a-rewrite-pointers-instead-of-copies-one-live-form-and-persistence-split-between-the-browser-and-the-server.md"
     },
     {
         "title": "How We Eliminated Temperature Jitter in Multi-Shot Virtual Character Rendering",
@@ -31974,6 +32139,17 @@
         "file": "a-flaky-test-exposed-a-redis-client-use-after-free.md"
     },
     {
+        "title": "Changes to LLM pricing: Decart and Novita",
+        "slug": "changes-to-llm-pricing-decart-and-novita",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Mon, 03 Aug 2026 19:30:25 +0000",
+        "description": "Model price changes detected for Decart and Novita. Details below.",
+        "keywords": "changes, decart, novita, llm, pricing, model, price, detected",
+        "generated": "2026-08-03T19:44:41.769035",
+        "file": "changes-to-llm-pricing-decart-and-novita.md"
+    },
+    {
         "title": "Building Real-Time AI Translation Assistance with FastAPI, Claude, and Server-Sent Events",
         "slug": "building-real-time-ai-translation-assistance-with-fastapi-claude-and-server-sent-events",
         "author": "龚旭东",
@@ -32896,6 +33072,17 @@
         "keywords": "your, you, task, automation, tasks, not, week, then",
         "generated": "2026-07-21T14:05:44.045036",
         "file": "which-tasks-are-actually-worth-automating-take-the-minimum-not-the-average.md"
+    },
+    {
+        "title": "I got offered a Web3 job on LinkedIn. The codebase was built to rob me.",
+        "slug": "i-got-offered-a-web3-job-on-linkedin-the-codebase-was-built-to-rob-me",
+        "author": "pycanis",
+        "source": "devto_webdev",
+        "published": "Mon, 03 Aug 2026 19:31:04 +0000",
+        "description": "A stranger messaged me on LinkedIn about a job in the Web3 space. Friendly, low pressure, said it sounded like a good fit. To show me what the team was build...",
+        "keywords": "you, not, run, code, project, your, repo, file",
+        "generated": "2026-08-03T19:44:41.767492",
+        "file": "i-got-offered-a-web3-job-on-linkedin-the-codebase-was-built-to-rob-me.md"
     },
     {
         "title": "PwC Report: AI Making Medical Bills Higher",
@@ -37617,6 +37804,17 @@
         "file": "kubernetes-deployment-strategies-rolling-blue-green-canary-and-beyond.md"
     },
     {
+        "title": "Do Not Trust the Green Checkmark",
+        "slug": "do-not-trust-the-green-checkmark",
+        "author": "Onur Kesim",
+        "source": "devto_python",
+        "published": "Mon, 03 Aug 2026 19:33:05 +0000",
+        "description": "Most people trust a green checkmark in a CI pipeline. If every job is marked as successful, we usually believe that everything worked correctly. I was doing ...",
+        "keywords": "test, error, green, results, tests, data, pipeline, continue",
+        "generated": "2026-08-03T19:44:41.764737",
+        "file": "do-not-trust-the-green-checkmark.md"
+    },
+    {
         "title": "Travel Locally, Where You Are",
         "slug": "travel-locally-where-you-are",
         "author": "zazuke",
@@ -39494,6 +39692,17 @@
         "keywords": "agent, verification, ocr, task, balance, financial, read, double",
         "generated": "2026-07-18T19:11:40.225147",
         "file": "project-log-17-my-agent-misreads-bank-balances-heres-how-im-fixing-it.md"
+    },
+    {
+        "title": "How I gave a self-hosted AI agent long-term memory, without a vector database",
+        "slug": "how-i-gave-a-self-hosted-ai-agent-long-term-memory-without-a-vector-database",
+        "author": "HemantAcharya",
+        "source": "devto_python",
+        "published": "Mon, 03 Aug 2026 19:33:09 +0000",
+        "description": "TL;DR: I added long-term memory to a self-hosted AI agent. The memory lives on the user's own server — no cloud, no vector database. Embeddings are stored as...",
+        "keywords": "memory, database, user, one, vector, own, memories, never",
+        "generated": "2026-08-03T19:44:41.764503",
+        "file": "how-i-gave-a-self-hosted-ai-agent-long-term-memory-without-a-vector-database.md"
     },
     {
         "title": "I got tired of renting my own AI, so I built one I actually own",
