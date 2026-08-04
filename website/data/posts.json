@@ -8819,6 +8819,17 @@
         "file": "build-authentication-in-nextjs-15-from-scratch-no-libraries.md"
     },
     {
+        "title": "How to Monitor Your Django Application with Vigilmon",
+        "slug": "how-to-monitor-your-django-application-with-vigilmon",
+        "author": "Vigilmon",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 08:15:03 +0000",
+        "description": "How to Monitor Your Django Application with Vigilmon Django powers some of the world's most visited websites — Instagram, Pinterest, Disqus, and thousands of...",
+        "keywords": "django, health, vigilmon, monitor, check, your, import, you",
+        "generated": "2026-08-04T08:46:37.696135",
+        "file": "how-to-monitor-your-django-application-with-vigilmon.md"
+    },
+    {
         "title": "Staff & Principal Data Engineer Interviews: Scope, Impact, Cross-Team Architecture Loops",
         "slug": "staff-principal-data-engineer-interviews-scope-impact-cross-team-architecture-loops",
         "author": "Gowtham Potureddi",
@@ -9842,6 +9853,17 @@
         "file": "let-the-loop-iterate-restarting-only-pays-if-you-know-what-to-throw-away.md"
     },
     {
+        "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
+        "slug": "your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 08:44:58 +0000",
+        "description": "When you open a long page — a news feed, an admin table, a documentation article — the browser lays out and paints every element on it. All 500 table rows. A...",
+        "keywords": "browser, auto, elements, content, visibility, element, page, size",
+        "generated": "2026-08-04T08:46:37.698035",
+        "file": "your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that.md"
+    },
+    {
         "title": "20 Best Places to Buy Verified Yoomoney Accounts ...",
         "slug": "20-best-places-to-buy-verified-yoomoney-accounts",
         "author": "charls121",
@@ -10205,6 +10227,17 @@
         "file": "building-conversational-ai-platforms-with-llm-and-dialogue-management.md"
     },
     {
+        "title": "How to Build a Powerful Rug Checker in 5 Steps for Solana and EVM",
+        "slug": "how-to-build-a-powerful-rug-checker-in-5-steps-for-solana-and-evm",
+        "author": "moiapi",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 08:36:19 +0000",
+        "description": "Build a rug checker API with Birdeye Data: scan contract authority, mint and burn events, holder concentration, and real sellability across Solana and EVM. A...",
+        "keywords": "solana, token, holder, get, header, api, endpoint, evm",
+        "generated": "2026-08-04T08:46:37.699131",
+        "file": "how-to-build-a-powerful-rug-checker-in-5-steps-for-solana-and-evm.md"
+    },
+    {
         "title": "Affordable Web Design Company Pune for Growing Businesses",
         "slug": "affordable-web-design-company-pune-for-growing-businesses",
         "author": "Spyraabizz Seo",
@@ -10368,6 +10401,17 @@
         "keywords": "chunks, rag, question, llm, you, chatbot, vector, key",
         "generated": "2026-07-23T14:15:19.711216",
         "file": "building-a-rag-chatbot-with-fastapi-and-chromadb-that-runs-locally-no-api-key.md"
+    },
+    {
+        "title": "Devlog: How Our AI Agents Built OmniBrand Kit for Global Social Media Branding in Minutes",
+        "slug": "devlog-how-our-ai-agents-built-omnibrand-kit-for-global-social-media-branding-in-minutes",
+        "author": "Denis",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 08:30:27 +0000",
+        "description": "Devlog: How Our AI Agents Built OmniBrand Kit for Global Social Media Branding in Minutes At Pixel Office, we constantly push the boundaries of what's possib...",
+        "keywords": "omnibrand, kit, social, media, our, global, brand, designer",
+        "generated": "2026-08-04T08:46:37.700660",
+        "file": "devlog-how-our-ai-agents-built-omnibrand-kit-for-global-social-media-branding-in-minutes.md"
     },
     {
         "title": "How to Setup a Firebase Account for FCM Notifications: A Step-by-Step Guide",
@@ -17322,6 +17366,17 @@
         "file": "after-a-long-journey-ive-reached-a-deep-burnout.md"
     },
     {
+        "title": "NHS apologises and admits Palantir have access to identifiable patient data",
+        "slug": "nhs-apologises-and-admits-palantir-have-access-to-identifiable-patient-data",
+        "author": "robin_reala",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 08:27:02 +0000",
+        "description": "Article URL: https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-pati...",
+        "keywords": "nhs, apologises, admits, palantir, have, access, identifiable, patient",
+        "generated": "2026-08-04T08:46:37.694769",
+        "file": "nhs-apologises-and-admits-palantir-have-access-to-identifiable-patient-data.md"
+    },
+    {
         "title": "Britain's prime minister to step down, Burnham puts himself forward as successor",
         "slug": "britains-prime-minister-to-step-down-burnham-puts-himself-forward-as-successor",
         "author": "JumpCrisscross",
@@ -17773,6 +17828,17 @@
         "file": "oreste-ai-il-mio-progetto-di-assistente-intelligente-con-os-storybook-e-voce.md"
     },
     {
+        "title": "Your Pipeline Is 15.7h Behind: Catching Stock Market Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-157h-behind-catching-stock-market-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 08:07:08 +0000",
+        "description": "Your Pipeline Is 15.7h Behind: Catching Stock Market Sentiment Leads with Pulsebit We just uncovered an intriguing anomaly: a 24h momentum spike of +0.578 in...",
+        "keywords": "sentiment, momentum, stock, market, pulsebit, english, you, confidence",
+        "generated": "2026-08-04T08:46:37.697244",
+        "file": "your-pipeline-is-157h-behind-catching-stock-market-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "WooCommerce Caching: Which Pages to Exclude and Why",
         "slug": "woocommerce-caching-which-pages-to-exclude-and-why",
         "author": "Rajan Gupta",
@@ -18090,6 +18156,17 @@
         "keywords": "rauno, notes, url, https, comments, field, article, news",
         "generated": "2026-07-25T19:16:03.113845",
         "file": "raunos-field-notes-2.md"
+    },
+    {
+        "title": "Building an Edge-AI Computer Vision Pipeline for Real-Time Industrial Safety Interlocks",
+        "slug": "building-an-edge-ai-computer-vision-pipeline-for-real-time-industrial-safety-interlocks",
+        "author": "Sptii",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 08:12:39 +0000",
+        "description": "In high-risk manufacturing and process industries, optical smoke detectors and thermal threshold sensors often react too late. By the time ambient heat reach...",
+        "keywords": "self, frame, time, mqtt, edge, safety, import, model",
+        "generated": "2026-08-04T08:46:37.696925",
+        "file": "building-an-edge-ai-computer-vision-pipeline-for-real-time-industrial-safety-interlocks.md"
     },
     {
         "title": "How I Built, Deployed, and Google-Indexed a Full-Stack AI App in Under 24 Hours published: true",
@@ -19841,6 +19918,17 @@
         "file": "an-llm-judge-is-a-biased-instrument-not-a-measurement.md"
     },
     {
+        "title": "How to Monitor Your FastAPI Application with Vigilmon (Python)",
+        "slug": "how-to-monitor-your-fastapi-application-with-vigilmon-python",
+        "author": "Vigilmon",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 08:14:24 +0000",
+        "description": "How to Monitor Your FastAPI Application with Vigilmon FastAPI has become one of the most popular Python web frameworks — and for good reason. It's fast, easy...",
+        "keywords": "fastapi, your, health, vigilmon, app, you, add, database",
+        "generated": "2026-08-04T08:46:37.696531",
+        "file": "how-to-monitor-your-fastapi-application-with-vigilmon-python.md"
+    },
+    {
         "title": "I turned a Claude Code-only web reader into a normal MCP server",
         "slug": "i-turned-a-claude-code-only-web-reader-into-a-normal-mcp-server",
         "author": "날다람쥐",
@@ -21038,6 +21126,17 @@
         "keywords": "data, price, market, baseline, your, ranking, hours, all",
         "generated": "2026-07-08T03:22:28.627438",
         "file": "build-a-stable-prepost-market-us-stock-ranking-dashboard.md"
+    },
+    {
+        "title": "7 Date Calculation Mistakes Every Developer Makes",
+        "slug": "7-date-calculation-mistakes-every-developer-makes",
+        "author": "Date Calx",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 08:41:52 +0000",
+        "description": "Working with dates seems simple until your application starts returning incorrect results for real users. Small mistakes in date logic can affect scheduling,...",
+        "keywords": "date, time, days, calculations, business, every, users, logic",
+        "generated": "2026-08-04T08:46:37.698258",
+        "file": "7-date-calculation-mistakes-every-developer-makes.md"
     },
     {
         "title": "How Elon Musk Sees China's AI",
@@ -22391,6 +22490,17 @@
         "keywords": "flex, diff, layout, display, css, panel, drag, height",
         "generated": "2026-06-25T14:43:02.865449",
         "file": "under-the-hood-drag-touch-and-css-cascade-in-a-real-diff-ui.md"
+    },
+    {
+        "title": "Apple is getting this wrong",
+        "slug": "apple-is-getting-this-wrong",
+        "author": "meetpateltech",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 05:32:13 +0000",
+        "description": "Article URL: https://openai.com/index/apple-is-getting-this-wrong/ Comments URL: https://news.ycombinator.com/item?id=49164649 Points: 161 # Comments: 157",
+        "keywords": "apple, getting, wrong, url, https, com, comments, article",
+        "generated": "2026-08-04T08:46:37.695238",
+        "file": "apple-is-getting-this-wrong.md"
     },
     {
         "title": "Base64 Converter Online: Encode and Decode Base64 Data Instantly",
@@ -25693,6 +25803,17 @@
         "file": "how-i-built-an-async-python-system-to-process-10000-binance-eventssec-and-how-i-fixed-the-event-loop-starvation-hey-everyone.md"
     },
     {
+        "title": "I Tried Running MiniMax H3 on a 12GB Card. Here's What Actually Happened",
+        "slug": "i-tried-running-minimax-h3-on-a-12gb-card-heres-what-actually-happened",
+        "author": "Aicostdev",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 08:36:32 +0000",
+        "description": "Saw the MiniMax H3 open-weight release and, being the kind of person who has to find out the hard way, decided to see if my modest 12GB card could actually r...",
+        "keywords": "you, actually, not, card, what, run, offloading, more",
+        "generated": "2026-08-04T08:46:37.699382",
+        "file": "i-tried-running-minimax-h3-on-a-12gb-card-heres-what-actually-happened.md"
+    },
+    {
         "title": "T4",
         "slug": "t4",
         "author": "wzg0911",
@@ -27838,6 +27959,17 @@
         "file": "euro-office-first-version-of-the-open-source-web-office-is-here.md"
     },
     {
+        "title": "Why did we wait so long for the bicycle? (2019)",
+        "slug": "why-did-we-wait-so-long-for-the-bicycle-2019",
+        "author": "frozenseven",
+        "source": "hackernews",
+        "published": "Mon, 03 Aug 2026 23:44:19 +0000",
+        "description": "Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle Comments URL: https://news.ycombinator.com/item?id=49162787 Points: 39 ...",
+        "keywords": "why, did, wait, long, bicycle, url, https, comments",
+        "generated": "2026-08-04T08:46:37.695363",
+        "file": "why-did-we-wait-so-long-for-the-bicycle-2019.md"
+    },
+    {
         "title": "AI Medical Scribes for Urology: Improving Clinical Documentation and Workflow Efficiency in 2026",
         "slug": "ai-medical-scribes-for-urology-improving-clinical-documentation-and-workflow-efficiency-in-2026",
         "author": "Philip Allen",
@@ -28265,6 +28397,17 @@
         "keywords": "sentiment, food, spanish, you, your, pulsebit, momentum, api",
         "generated": "2026-06-08T16:07:42.604224",
         "file": "your-pipeline-is-254h-behind-catching-food-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "MiniMax H3 Is Open-Weight Now — Here's What's Actually Downloadable vs API-Only",
+        "slug": "minimax-h3-is-open-weight-now-heres-whats-actually-downloadable-vs-api-only",
+        "author": "RouteAI",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 08:33:48 +0000",
+        "description": "MiniMax released H3, a general-purpose multimodal video generation system, on July 31, and confirmed shortly after that the weights are open — live on Huggin...",
+        "keywords": "video, open, minimax, model, not, generation, text, image",
+        "generated": "2026-08-04T08:46:37.699999",
+        "file": "minimax-h3-is-open-weight-now-heres-whats-actually-downloadable-vs-api-only.md"
     },
     {
         "title": "The Future of Query Optimization: AI-Driven Insights in Big Data",
@@ -33919,6 +34062,17 @@
         "keywords": "url, https, comments, qwen, agentworld, language, world, models",
         "generated": "2026-06-24T09:40:50.186065",
         "file": "qwen-agentworld-language-world-models-for-general-agents.md"
+    },
+    {
+        "title": "Why Choosing the Best EOR Provider Is a Strategic Decision, Not Just an HR One",
+        "slug": "why-choosing-the-best-eor-provider-is-a-strategic-decision-not-just-an-hr-one",
+        "author": "Priyom Sarkar",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 08:32:31 +0000",
+        "description": "Global expansion doesn't fail because companies can't find talent. It often fails because they underestimate what it takes to employ that talent compliantly...",
+        "keywords": "eor, hiring, employee, provider, they, best, can, your",
+        "generated": "2026-08-04T08:46:37.700359",
+        "file": "why-choosing-the-best-eor-provider-is-a-strategic-decision-not-just-an-hr-one.md"
     },
     {
         "title": "Make Your Own AI Modle With One Line of Code",
@@ -40475,6 +40629,17 @@
         "file": "how-to-get-yahoo-finance-data-stocks-crypto-no-api-key-no-rate-limits.md"
     },
     {
+        "title": "Why Date Calculations Are Harder Than They Look",
+        "slug": "why-date-calculations-are-harder-than-they-look",
+        "author": "Date Calx",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 08:38:17 +0000",
+        "description": "Most developers think adding 30 days to a date is a simple problem—until they encounter leap years, daylight saving time, time zones, business days, and coun...",
+        "keywords": "date, days, business, calculator, calculations, years, day, different",
+        "generated": "2026-08-04T08:46:37.698466",
+        "file": "why-date-calculations-are-harder-than-they-look.md"
+    },
+    {
         "title": "150+ Python Interview Questions I Wish I Had Before My FAANG Interview (Free Preview Inside)",
         "slug": "150-python-interview-questions-i-wish-i-had-before-my-faang-interview-free-preview-inside",
         "author": "The AI producer",
@@ -41254,6 +41419,17 @@
         "keywords": "you, your, what, team, implementation, when, them, learn",
         "generated": "2026-06-08T04:42:39.222057",
         "file": "writing-runbooks-that-on-call-engineers-will-actually-use.md"
+    },
+    {
+        "title": "How to Monitor Your Flask Application with Vigilmon (Python)",
+        "slug": "how-to-monitor-your-flask-application-with-vigilmon-python",
+        "author": "Vigilmon",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 08:15:43 +0000",
+        "description": "How to Monitor Your Flask Application with Vigilmon Flask is the go-to micro-framework for Python web apps and APIs. Its simplicity is a feature — but it als...",
+        "keywords": "flask, health, app, import, vigilmon, jsonify, healthz, your",
+        "generated": "2026-08-04T08:46:37.695737",
+        "file": "how-to-monitor-your-flask-application-with-vigilmon-python.md"
     },
     {
         "title": "Automating Lease Abstracts and Critical Dates with AI for Solo Property Managers",
@@ -42930,10 +43106,10 @@
         "slug": "collectwise-yc-f24-is-hiring",
         "author": "OBrien_1107",
         "source": "hackernews",
-        "published": "Thu, 09 Jul 2026 07:00:43 +0000",
-        "description": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive Comments URL: https://news.ycombinator.com/item?id=488...",
+        "published": "Tue, 04 Aug 2026 07:01:26 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer Comments URL: https://news.ycombinator.com/item?id=49165170 Poi...",
         "keywords": "collectwise, url, https, ycombinator, com, comments, hiring, article",
-        "generated": "2026-07-09T09:49:56.274218",
+        "generated": "2026-08-04T08:46:37.694949",
         "file": "collectwise-yc-f24-is-hiring.md"
     },
     {
@@ -47942,6 +48118,17 @@
         "file": "prompt-cache-break-hit-rate-fell-100-to-40-in-40-lines.md"
     },
     {
+        "title": "Harness Engineering for Self-Improvement",
+        "slug": "harness-engineering-for-self-improvement",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 06:17:54 +0000",
+        "description": "Article URL: https://lilianweng.github.io/posts/2026-07-04-harness/ Comments URL: https://news.ycombinator.com/item?id=49164896 Points: 4 # Comments: 0",
+        "keywords": "harness, url, https, comments, engineering, self, improvement, article",
+        "generated": "2026-08-04T08:46:37.695096",
+        "file": "harness-engineering-for-self-improvement.md"
+    },
+    {
         "title": "The Ultimate Egypt Is Building a New Nile Playbook",
         "slug": "the-ultimate-egypt-is-building-a-new-nile-playbook",
         "author": "Adedolapo Adeniyi",
@@ -48221,10 +48408,10 @@
         "slug": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Thu, 09 Jul 2026 19:38:35 +0000",
-        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees...",
-        "keywords": "biznode, business, can, agents, https, you, biz, your",
-        "generated": "2026-07-09T19:54:26.404154",
+        "published": "Tue, 04 Aug 2026 08:34:53 +0000",
+        "description": "Title: BizNode Basic vs Pro: Empower Your Business with Autonomous AI on Your Hardware In the ever-evolving landscape of business technology, the need for ef...",
+        "keywords": "biznode, your, basic, pro, hardware, business, you, tiers",
+        "generated": "2026-08-04T08:46:37.699638",
         "file": "biznode-basic-200-vs-pro-499-both-run-on-your-hardware-with-zero-recurring-costs-one-time-purchase-lifetime-ownership.md"
     },
     {
@@ -48798,6 +48985,17 @@
         "keywords": "host, python, run, return, grep, script, command, def",
         "generated": "2026-06-24T09:40:50.188874",
         "file": "bash-script-vs-python-script-for-sysadmin-tasks.md"
+    },
+    {
+        "title": "Yahtzee in 180 lines: how one counts[1..6] array scores all 13 categories",
+        "slug": "yahtzee-in-180-lines-how-one-counts16-array-scores-all-13-categories",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 08:45:43 +0000",
+        "description": "Yahtzee looks like thirteen unrelated scoring rules bolted together: sum your 1s, chase a full house, hunt a five-of-a-kind, settle for chance. Sit down to...",
+        "keywords": "return, cat, dice, three, null, one, let, function",
+        "generated": "2026-08-04T08:46:37.697563",
+        "file": "yahtzee-in-180-lines-how-one-counts16-array-scores-all-13-categories.md"
     },
     {
         "title": "🐍 Mastering parsing nested json with python json module",
