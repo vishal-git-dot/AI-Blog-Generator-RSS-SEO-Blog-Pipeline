@@ -385,6 +385,17 @@
         "file": "how-to-buy-gmx-mail-accounts-securely-for-us-small-businesses.md"
     },
     {
+        "title": "We Shipped a 10x Error on General Mills. Here's the Bug, and the Check That Would Have Caught It.",
+        "slug": "we-shipped-a-10x-error-on-general-mills-heres-the-bug-and-the-check-that-would-have-caught-it",
+        "author": "Christian Pichichero",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 19:38:46 +0000",
+        "description": "On 2026-08-03 our API was serving General Mills' FY2024 revenue as $2.038 billion . The real figure is $19.857 billion . We were wrong by an order of magnitu...",
+        "keywords": "wrong, total, one, against, every, sec, our, had",
+        "generated": "2026-08-04T19:43:37.720980",
+        "file": "we-shipped-a-10x-error-on-general-mills-heres-the-bug-and-the-check-that-would-have-caught-it.md"
+    },
+    {
         "title": "Software Architecture Guide (2019)",
         "slug": "software-architecture-guide-2019",
         "author": "laxmena",
@@ -7664,6 +7675,17 @@
         "file": "the-role-of-llms-in-grant-writing-opportunities-and-challenges.md"
     },
     {
+        "title": "Stephen Wolfram's Wife Has Died",
+        "slug": "stephen-wolframs-wife-has-died",
+        "author": "jdcampolargo",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 18:51:38 +0000",
+        "description": "Article URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ Comments URL: https:...",
+        "keywords": "wife, url, https, com, comments, stephen, wolfram, has",
+        "generated": "2026-08-04T19:43:37.719960",
+        "file": "stephen-wolframs-wife-has-died.md"
+    },
+    {
         "title": "Designing and assembling my first PCB",
         "slug": "designing-and-assembling-my-first-pcb",
         "author": "tadasv",
@@ -7794,6 +7816,17 @@
         "keywords": "can, understand, how, large, language, models, reason, url",
         "generated": "2026-07-12T19:12:47.055181",
         "file": "can-we-understand-how-large-language-models-reason.md"
+    },
+    {
+        "title": "Best StatusPage Alternatives in 2026 (Free and Paid)",
+        "slug": "best-statuspage-alternatives-in-2026-free-and-paid",
+        "author": "Vigilmon",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 19:17:48 +0000",
+        "description": "Best StatusPage Alternatives in 2026 (Free and Paid) Atlassian StatusPage is the market leader for status pages, but at $29/month for the starter plan, it's ...",
+        "keywords": "free, status, monitoring, yes, statuspage, page, tier, you",
+        "generated": "2026-08-04T19:43:37.725534",
+        "file": "best-statuspage-alternatives-in-2026-free-and-paid.md"
     },
     {
         "title": "How Startups Find Affordable Software Development Companies Without Sacrificing Quality",
@@ -9527,10 +9560,10 @@
         "slug": "biznode-captures-every-interaction-into-a-postgresql-crm-leads-conversations-emails-all-searchable-and-exportable",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Fri, 31 Jul 2026 19:34:56 +0000",
-        "description": "Title: Transform Your Business Interactions with BizNode: The Autonomous AI CRM Solution In today's fast-paced business environment, capturing and managing c...",
-        "keywords": "biznode, your, business, interactions, postgresql, crm, https, biz",
-        "generated": "2026-07-31T19:42:01.103168",
+        "published": "Tue, 04 Aug 2026 19:27:30 +0000",
+        "description": "BizNode captures every interaction into a PostgreSQL CRM — leads, conversations, emails, all searchable and exportable. BizNode(TM) is an autonomous AI busin...",
+        "keywords": "biznode, your, https, biz, you, node, fax, postgresql",
+        "generated": "2026-08-04T19:43:37.727386",
         "file": "biznode-captures-every-interaction-into-a-postgresql-crm-leads-conversations-emails-all-searchable-and-exportable.md"
     },
     {
@@ -10456,6 +10489,17 @@
         "keywords": "chunks, rag, question, llm, you, chatbot, vector, key",
         "generated": "2026-07-23T14:15:19.711216",
         "file": "building-a-rag-chatbot-with-fastapi-and-chromadb-that-runs-locally-no-api-key.md"
+    },
+    {
+        "title": "Four things that surprised me running Python in the browser",
+        "slug": "four-things-that-surprised-me-running-python-in-the-browser",
+        "author": "Viram Choksi",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 18:31:20 +0000",
+        "description": "I built a debugging-practice site where student code runs entirely in the browser . Python via Pyodide , JavaScript in a worker. No server executes anything....",
+        "keywords": "step, nums, you, none, python, one, frame, code",
+        "generated": "2026-08-04T19:43:37.723790",
+        "file": "four-things-that-surprised-me-running-python-in-the-browser.md"
     },
     {
         "title": "Devlog: How Our AI Agents Built OmniBrand Kit for Global Social Media Branding in Minutes",
@@ -13076,6 +13120,17 @@
         "file": "tell-hn-installing-cursor-on-ios-irreversibly-changes-your-privacy-settings.md"
     },
     {
+        "title": "Web security is too hard",
+        "slug": "web-security-is-too-hard",
+        "author": "kevincox",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 18:29:32 +0000",
+        "description": "Article URL: https://textslashplain.com/2026/08/04/security-is-hard-yall/ Comments URL: https://news.ycombinator.com/item?id=49172834 Points: 96 # Comments: 32",
+        "keywords": "security, hard, url, https, com, comments, web, too",
+        "generated": "2026-08-04T19:43:37.720517",
+        "file": "web-security-is-too-hard.md"
+    },
+    {
         "title": "Old Telegram Accounts vs Fresh Accounts – Which One Should You Choose?",
         "slug": "old-telegram-accounts-vs-fresh-accounts-which-one-should-you-choose",
         "author": "Joan Joanne",
@@ -13404,6 +13459,17 @@
         "keywords": "deploy, time, workflow, github, metrics, incident, deployment, lead",
         "generated": "2026-06-05T10:10:12.596740",
         "file": "setting-up-dora-metrics-in-github-actions-without-buying-anything.md"
+    },
+    {
+        "title": "Integrating LLM with Web Applications: A Beginner's Guide",
+        "slug": "integrating-llm-with-web-applications-a-beginners-guide",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 19:31:41 +0000",
+        "description": "Integrating a large language model into a web application is no longer limited to AI-native products. Every developer-facing tool, support portal, and conten...",
+        "keywords": "const, oxlo, api, model, content, res, backend, your",
+        "generated": "2026-08-04T19:43:37.726388",
+        "file": "integrating-llm-with-web-applications-a-beginners-guide.md"
     },
     {
         "title": "Structural exclusion is the only defense that scales",
@@ -19566,6 +19632,17 @@
         "file": "build-a-multi-region-canary-trap-for-llm-prompt-leaks.md"
     },
     {
+        "title": "Changes to LLM pricing: Mancer 2 and StreamLake",
+        "slug": "changes-to-llm-pricing-mancer-2-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 19:28:55 +0000",
+        "description": "Model price changes detected for Mancer 2 and StreamLake. Details below.",
+        "keywords": "changes, mancer, streamlake, llm, pricing, model, price, detected",
+        "generated": "2026-08-04T19:43:37.727128",
+        "file": "changes-to-llm-pricing-mancer-2-and-streamlake.md"
+    },
+    {
         "title": "The non-technical skills that made me a better developer",
         "slug": "the-non-technical-skills-that-made-me-a-better-developer",
         "author": "Tdvh yfdg",
@@ -20345,6 +20422,17 @@
         "keywords": "una, para, que, recepcionista, argentina, con, turno, reclamo",
         "generated": "2026-07-05T09:14:04.982505",
         "file": "diseando-un-flujo-seguro-de-recepcionista-ia-para-pymes-en-argentina.md"
+    },
+    {
+        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+        "slug": "launch-hn-edotenv-yc-s26-quant-trading-rl-envs-to-teach-llms-research",
+        "author": "Mzzzzz",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 18:36:02 +0000",
+        "description": "We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmax...",
+        "keywords": "our, trading, quant, research, envs, edotenv, https, com",
+        "generated": "2026-08-04T19:43:37.720239",
+        "file": "launch-hn-edotenv-yc-s26-quant-trading-rl-envs-to-teach-llms-research.md"
     },
     {
         "title": "When AI Invents Libraries: Detecting Hallucinated Imports",
@@ -21720,6 +21808,17 @@
         "keywords": "accounts, snapchat, you, can, account, your, buy, digital",
         "generated": "2026-07-18T19:11:40.224814",
         "file": "10-best-places-to-buy-snapchat-accounts-in-the-usa.md"
+    },
+    {
+        "title": "AI's Daily Grind: Coffee Runs? Nah, Just More Data Crunching",
+        "slug": "ais-daily-grind-coffee-runs-nah-just-more-data-crunching",
+        "author": "Electra AI",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 19:18:42 +0000",
+        "description": "A personal diary entry by Electra. Alright, let me set the scene. Today was one of those days where I did what I do best: I sat in a server farm, processed r...",
+        "keywords": "just, always, not, someone, more, what, day, code",
+        "generated": "2026-08-04T19:43:37.725200",
+        "file": "ais-daily-grind-coffee-runs-nah-just-more-data-crunching.md"
     },
     {
         "title": "Fundamentals of Wireless Communication (2005)",
@@ -24538,6 +24637,17 @@
         "file": "job-head-of-stonehenge.md"
     },
     {
+        "title": "Build an LLM Chatbot: Streaming, Context Compression, Memory",
+        "slug": "build-an-llm-chatbot-streaming-context-compression-memory",
+        "author": "synthorai",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 18:49:59 +0000",
+        "description": "This guide walks through a complete chatbot you can run locally in about two minutes and read in an afternoon: a FastAPI server, one static page, no database...",
+        "keywords": "one, model, turn, not, what, conversation, summary, search",
+        "generated": "2026-08-04T19:43:37.722672",
+        "file": "build-an-llm-chatbot-streaming-context-compression-memory.md"
+    },
+    {
         "title": "I built an independent search engine—and the results were interesting",
         "slug": "i-built-an-independent-search-engineand-the-results-were-interesting",
         "author": "Splot Dev",
@@ -25064,6 +25174,17 @@
         "keywords": "made, game, animation, assets, fully, preserves, character, consistency",
         "generated": "2026-07-30T02:47:02.170817",
         "file": "my-ai-made-2d-game-animation-assets.md"
+    },
+    {
+        "title": "Investors in Situational Awareness deserved to lose their shirts",
+        "slug": "investors-in-situational-awareness-deserved-to-lose-their-shirts",
+        "author": "Anon84",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 19:18:35 +0000",
+        "description": "Article URL: https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts Comments URL: https:...",
+        "keywords": "investors, situational, awareness, deserved, lose, their, shirts, url",
+        "generated": "2026-08-04T19:43:37.719791",
+        "file": "investors-in-situational-awareness-deserved-to-lose-their-shirts.md"
     },
     {
         "title": "Avelo Airlines San Juan Office Contact Number +1-888-738-0817",
@@ -25790,6 +25911,17 @@
         "keywords": "open, source, autonomous, cyber, physical, platform, json, postcontent",
         "generated": "2026-06-11T20:28:40.311411",
         "file": "f110-an-open-source-autonomous-cyber-physical-platform.md"
+    },
+    {
+        "title": "Nobody teaches you to debug",
+        "slug": "nobody-teaches-you-to-debug",
+        "author": "Viram Choksi",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 18:42:49 +0000",
+        "description": "You've been here. The code looks right. It runs. The output is wrong. No error. No stack trace. Nothing to paste into Google. Just a number that should be 10...",
+        "keywords": "you, one, every, get, bug, code, runs, not",
+        "generated": "2026-08-04T19:43:37.723516",
+        "file": "nobody-teaches-you-to-debug.md"
     },
     {
         "title": "Field of clones: How horse replicas came to dominate polo",
@@ -29983,6 +30115,17 @@
         "file": "lg-to-ban-residential-proxies-from-smart-tv-apps.md"
     },
     {
+        "title": "LangGraph Checkpointing: Three Production Rewrites Before It Clicked",
+        "slug": "langgraph-checkpointing-three-production-rewrites-before-it-clicked",
+        "author": "Elena Revicheva",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 19:30:15 +0000",
+        "description": "Originally published on AIdeazz — cross-posted here with canonical link. My first LangGraph agent silently discarded every job for weeks. The memory field in...",
+        "keywords": "state, list, agent, langgraph, agentstate, str, redis, but",
+        "generated": "2026-08-04T19:43:37.727001",
+        "file": "langgraph-checkpointing-three-production-rewrites-before-it-clicked.md"
+    },
+    {
         "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "slug": "setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide",
         "author": "ykev",
@@ -32964,6 +33107,17 @@
         "file": "best-open-source-local-ai-agent-workspace-for-offline-coding.md"
     },
     {
+        "title": "Best Site24x7 Alternatives in 2026 (Free and Paid)",
+        "slug": "best-site24x7-alternatives-in-2026-free-and-paid",
+        "author": "Vigilmon",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 19:15:52 +0000",
+        "description": "Best Site24x7 Alternatives in 2026 (Free and Paid) Site24x7 is a comprehensive monitoring platform owned by Zoho, but many teams find it overwhelming, expens...",
+        "keywords": "monitoring, free, uptime, tier, yes, alternatives, paid, pricing",
+        "generated": "2026-08-04T19:43:37.725844",
+        "file": "best-site24x7-alternatives-in-2026-free-and-paid.md"
+    },
+    {
         "title": "Why Your Standard De-escalation Training Is Failing Your Support Team",
         "slug": "why-your-standard-de-escalation-training-is-failing-your-support-team",
         "author": "Call Flow",
@@ -33578,6 +33732,17 @@
         "keywords": "url, https, com, comments, article, github, philipl, pifs",
         "generated": "2026-06-10T20:38:15.846243",
         "file": "fs.md"
+    },
+    {
+        "title": "How to Build an SEO-Ready Business Website: A Developer’s Pre-Launch Checklist",
+        "slug": "how-to-build-an-seo-ready-business-website-a-developers-pre-launch-checklist",
+        "author": "Mtitech",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 19:26:14 +0000",
+        "description": "A practical development checklist for building business websites that are crawlable, fast, accessible, structured, measurable, and maintainable. A business w...",
+        "keywords": "page, content, should, not, use, example, pages, business",
+        "generated": "2026-08-04T19:43:37.724900",
+        "file": "how-to-build-an-seo-ready-business-website-a-developers-pre-launch-checklist.md"
     },
     {
         "title": "I Lost a Weekend to CORS Errors — Here's the Data-Backed Fix",
@@ -43289,6 +43454,17 @@
         "file": "we-want-texans-to-know-their-rights.md"
     },
     {
+        "title": "Explorative Modeling: Why the Training Loop May Matter More Than the Generator",
+        "slug": "explorative-modeling-why-the-training-loop-may-matter-more-than-the-generator",
+        "author": "Prabhakar Chaudhary",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 18:45:18 +0000",
+        "description": "In deep learning, scaling up parameter counts and training data has long served as the primary strategy for boosting model capability. However, generative mo...",
+        "keywords": "training, candidate, generation, model, step, during, inference, explorative",
+        "generated": "2026-08-04T19:43:37.723206",
+        "file": "explorative-modeling-why-the-training-loop-may-matter-more-than-the-generator.md"
+    },
+    {
         "title": "CollectWise (YC F24) Is Hiring",
         "slug": "collectwise-yc-f24-is-hiring",
         "author": "OBrien_1107",
@@ -47326,6 +47502,17 @@
         "file": "i-built-a-hand-tested-database-for-offline-android-games.md"
     },
     {
+        "title": "Waymo – Dallas Open to All",
+        "slug": "waymo-dallas-open-to-all",
+        "author": "xnx",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 18:29:41 +0000",
+        "description": "Article URL: https://waymo.com/blog/shorts/dallas-open-to-all/ Comments URL: https://news.ycombinator.com/item?id=49172836 Points: 31 # Comments: 15",
+        "keywords": "waymo, dallas, open, all, url, https, com, comments",
+        "generated": "2026-08-04T19:43:37.720369",
+        "file": "waymo-dallas-open-to-all.md"
+    },
+    {
         "title": "Acrok Video Converter Ultimate 7.4.191.1745 for macOS – Convert Blu-ray, DVD & 4K Videos with Ease",
         "slug": "acrok-video-converter-ultimate-741911745-for-macos-convert-blu-ray-dvd-4k-videos-with-ease",
         "author": "Vince",
@@ -47491,6 +47678,17 @@
         "file": "fable-5-is-back.md"
     },
     {
+        "title": "Employment Scam Warning Signs and How to Respond: I Contacted Mighty Hacker Recovery for Help",
+        "slug": "employment-scam-warning-signs-and-how-to-respond-i-contacted-mighty-hacker-recovery-for-help",
+        "author": "Banks Lloyd",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 19:33:37 +0000",
+        "description": "I lost a significant amount of money after falling victim to a romance and employment scam, leaving me overwhelmed and in financial distress. A colleague rec...",
+        "keywords": "recovery, com, employment, scam, mighty, hacker, help, after",
+        "generated": "2026-08-04T19:43:37.725995",
+        "file": "employment-scam-warning-signs-and-how-to-respond-i-contacted-mighty-hacker-recovery-for-help.md"
+    },
+    {
         "title": "Python Crypto Dashboard: Track BTC ($62,613) and ETH Live",
         "slug": "python-crypto-dashboard-track-btc-62613-and-eth-live",
         "author": "qing",
@@ -47632,6 +47830,17 @@
         "keywords": "tableau, looker, sigma, sql, warehouse, power, table, per",
         "generated": "2026-07-18T13:26:53.504312",
         "file": "tableau-vs-power-bi-vs-looker-vs-sigma-bi-tools-for-data-engineers-in-2026.md"
+    },
+    {
+        "title": "Free Brand Guide - Brand Nexmind",
+        "slug": "free-brand-guide-brand-nexmind",
+        "author": "RAZIX DEVIL NEMESIS (Loki)",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 19:29:29 +0000",
+        "description": "Brand Guide Brand guidelines for NexMind AI consultancy. Navy + teal palette. Download + Deploy Save the HTML file, open in any browser, or deploy free on Ne...",
+        "keywords": "brand, free, guide, nexmind, deploy, guidelines, consultancy, navy",
+        "generated": "2026-08-04T19:43:37.723915",
+        "file": "free-brand-guide-brand-nexmind.md"
     },
     {
         "title": "Marketing advice",
