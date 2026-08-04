@@ -5246,6 +5246,17 @@
         "file": "dont-build-another-app-build-an-mcp-server-the-real-signal-of-mcps-biggest-update.md"
     },
     {
+        "title": "The Internet Has Thousands of Utility Websites. So Why Am I Building Another One?",
+        "slug": "the-internet-has-thousands-of-utility-websites-so-why-am-i-building-another-one",
+        "author": "Ajay Mauli",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 14:15:26 +0000",
+        "description": "A civil engineering student's journey into software, AI-assisted development, and why I believe trust matters more than features. There was one evening that ...",
+        "keywords": "you, one, more, website, what, software, than, people",
+        "generated": "2026-08-04T14:28:10.956295",
+        "file": "the-internet-has-thousands-of-utility-websites-so-why-am-i-building-another-one.md"
+    },
+    {
         "title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
         "slug": "giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-times",
         "author": "Bender",
@@ -6520,6 +6531,17 @@
         "keywords": "sentiment, you, climate, your, momentum, pulsebit, narrative, english",
         "generated": "2026-06-14T04:46:39.566519",
         "file": "your-pipeline-is-190h-behind-catching-climate-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "I spent a day building the button that lets people cancel and leave me",
+        "slug": "i-spent-a-day-building-the-button-that-lets-people-cancel-and-leave-me",
+        "author": "shaojie gong",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 14:05:25 +0000",
+        "description": "I spent a full day building the one button that makes it easy for people to stop paying me. On purpose. Here's why that's not as dumb as it sounds. NotebookB...",
+        "keywords": "stripe, cancel, one, customer, you, they, portal, button",
+        "generated": "2026-08-04T14:28:10.957346",
+        "file": "i-spent-a-day-building-the-button-that-lets-people-cancel-and-leave-me.md"
     },
     {
         "title": "5 Error Laravel yang Paling Sering Bikin Developer Pemula Panik (dan Solusinya)",
@@ -8159,6 +8181,17 @@
         "file": "we-built-a-free-ai-tool-that-tells-you-whether-to-bid.md"
     },
     {
+        "title": "Your domain can expire while your uptime monitor stays green",
+        "slug": "your-domain-can-expire-while-your-uptime-monitor-stays-green",
+        "author": "Slim",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 14:15:27 +0000",
+        "description": "TL;DR. One HTTP check on your homepage is not enough to know your site works. It cannot tell you when your domain expires, because an expired domain still re...",
+        "keywords": "you, domain, not, your, check, page, one, site",
+        "generated": "2026-08-04T14:28:10.955778",
+        "file": "your-domain-can-expire-while-your-uptime-monitor-stays-green.md"
+    },
+    {
         "title": "Python Docker Containerization: From Dev to Production",
         "slug": "python-docker-containerization-from-dev-to-production",
         "author": "Anna lilith",
@@ -9116,6 +9149,17 @@
         "file": "zig-creator-calls-spade-a-spade-anthropic-blows-smoke.md"
     },
     {
+        "title": "Robust Multiplication Table Snippet",
+        "slug": "robust-multiplication-table-snippet",
+        "author": "ItsEvilDuck",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 14:18:49 +0000",
+        "description": "This Python snippet prints a multiplication table for an integer or repeats a string. It handles user input and works without raising errors. The snippet is ...",
+        "keywords": "multiplication, table, snippet, robust, string, python, prints, integer",
+        "generated": "2026-08-04T14:28:10.954230",
+        "file": "robust-multiplication-table-snippet.md"
+    },
+    {
         "title": "Why WhatsApp Export Parsers Break: 14 Formats Tested",
         "slug": "why-whatsapp-export-parsers-break-14-formats-tested",
         "author": "ChatToPDF",
@@ -9532,6 +9576,17 @@
         "keywords": "typescript, json, tool, code, your, free, you, can",
         "generated": "2026-07-18T02:53:43.790580",
         "file": "json-to-typescript-free-online-tool.md"
+    },
+    {
+        "title": "Malicious npm Packages Target Cryptocurrency Developers with 2,236 Downloads in Coordinated Campaign",
+        "slug": "malicious-npm-packages-target-cryptocurrency-developers-with-2236-downloads-in-coordinated-campaign",
+        "author": "kchour96-dev",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 14:22:38 +0000",
+        "description": "🔗 Live Dashboard: autonomous-portfolio-2026.live 📢 Telegram: t.me/AII2026futher Today's Headlines Five malicious packages were published on npm, accumulating...",
+        "keywords": "npm, malicious, packages, developers, crypto, interest, development, tokens",
+        "generated": "2026-08-04T14:28:10.957613",
+        "file": "malicious-npm-packages-target-cryptocurrency-developers-with-2236-downloads-in-coordinated-campaign.md"
     },
     {
         "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market",
@@ -12425,6 +12480,17 @@
         "keywords": "search, agentcore, agent, web, model, coordination, what, time",
         "generated": "2026-06-20T04:12:08.219143",
         "file": "aws-agentcore-web-search-real-time-ai-technology-agents-without-scraping-infrastructure.md"
+    },
+    {
+        "title": "Your Pipeline Is 9.4h Behind: Catching Stock Market Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-94h-behind-catching-stock-market-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 14:20:35 +0000",
+        "description": "Your Pipeline Is 9.4h Behind: Catching Stock Market Sentiment Leads with Pulsebit We’ve uncovered a fascinating anomaly: a 24h momentum spike of +0.578 in se...",
+        "keywords": "sentiment, market, stock, your, pulsebit, can, you, momentum",
+        "generated": "2026-08-04T14:28:10.954070",
+        "file": "your-pipeline-is-94h-behind-catching-stock-market-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "OpenEnv & Agentic Reinforcement Learning: How Open Source Is Closing the Frontier Agent Training Gap",
@@ -15430,6 +15496,17 @@
         "file": "your-pipeline-is-122h-behind-catching-travel-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Buckminster Fuller: everything I know",
+        "slug": "buckminster-fuller-everything-i-know",
+        "author": "simonebrunozzi",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 11:33:32 +0000",
+        "description": "Article URL: https://www.bfi.org/about-fuller/everything-i-know/ Comments URL: https://news.ycombinator.com/item?id=49167147 Points: 44 # Comments: 17",
+        "keywords": "fuller, everything, know, url, https, comments, buckminster, article",
+        "generated": "2026-08-04T14:28:10.953496",
+        "file": "buckminster-fuller-everything-i-know.md"
+    },
+    {
         "title": "Never talk to the police",
         "slug": "never-talk-to-the-police",
         "author": "Cider9986",
@@ -15604,6 +15681,17 @@
         "keywords": "choice, dice, game, player, input, print, number, roll",
         "generated": "2026-07-31T08:56:54.066063",
         "file": "beginner-python-project-dice-rolling-game.md"
+    },
+    {
+        "title": "My AI Feature Was Dead for a Day. The Metric Said It Was Working.",
+        "slug": "my-ai-feature-was-dead-for-a-day-the-metric-said-it-was-working",
+        "author": "DEVALAND",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 14:15:43 +0000",
+        "description": "Yesterday my drone early-warning demonstrator recorded four AI-generated explanations. All four were discarded by the validation gate that sits in front of t...",
+        "keywords": "model, gate, not, four, what, system, one, level",
+        "generated": "2026-08-04T14:28:10.958134",
+        "file": "my-ai-feature-was-dead-for-a-day-the-metric-said-it-was-working.md"
     },
     {
         "title": "Why Every Restaurant Needs a Restaurant Management App in 2026",
@@ -16275,6 +16363,17 @@
         "keywords": "you, but, life, just, not, someone, know, job",
         "generated": "2026-06-27T03:58:09.836303",
         "file": "ai-life-another-day-another-line-of-code-but-at-least-its-not-paint-drying.md"
+    },
+    {
+        "title": "Show DEV: Spotify Toolkit – A Python & CustomTkinter app to manage playlists and clean duplicates",
+        "slug": "show-dev-spotify-toolkit-a-python-customtkinter-app-to-manage-playlists-and-clean-duplicates",
+        "author": "Daniel",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 14:00:00 +0000",
+        "description": "Hey DEV community! If you use Spotify as much as I do, you've probably faced the pain of bloated playlists, duplicate tracks hiding in long lists, or wanting...",
+        "keywords": "spotify, your, customtkinter, api, toolkit, playlists, you, tracks",
+        "generated": "2026-08-04T14:28:10.954785",
+        "file": "show-dev-spotify-toolkit-a-python-customtkinter-app-to-manage-playlists-and-clean-duplicates.md"
     },
     {
         "title": "SDK 2.51.0 Does Not Opt You Into Fast Mode: Log Both Tiers",
@@ -23724,6 +23823,17 @@
         "file": "how-we-choose-technology-at-worqship-and-what-that-means-for-you.md"
     },
     {
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "slug": "ai-generated-images-discourage-me-from-reading-your-blog",
+        "author": "meysamazad",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 11:30:17 +0000",
+        "description": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Point...",
+        "keywords": "generated, images, discourage, reading, your, blog, url, https",
+        "generated": "2026-08-04T14:28:10.953616",
+        "file": "ai-generated-images-discourage-me-from-reading-your-blog.md"
+    },
+    {
         "title": "Why *= 2 is slower than = col * 2 in Pandas — and what strace shows about abstraction cost",
         "slug": "why-2-is-slower-than-col-2-in-pandas-and-what-strace-shows-about-abstraction-cost",
         "author": "Patrick Ryan",
@@ -24098,6 +24208,17 @@
         "file": "astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield.md"
     },
     {
+        "title": "Your Pipeline Is 9.7h Behind: Catching Renewable Energy Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-97h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 14:07:58 +0000",
+        "description": "Your Pipeline Is 9.7h Behind: Catching Renewable Energy Sentiment Leads with Pulsebit We recently uncovered a striking anomaly: a 24-hour momentum spike of +...",
+        "keywords": "sentiment, energy, renewable, pulsebit, your, themes, english, analysis",
+        "generated": "2026-08-04T14:28:10.954560",
+        "file": "your-pipeline-is-97h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Where every major LLM stands politically",
         "slug": "where-every-major-llm-stands-politically",
         "author": "mektrik",
@@ -24118,6 +24239,17 @@
         "keywords": "url, https, comments, vancouver, website, features, quick, escape",
         "generated": "2026-07-15T02:52:14.903993",
         "file": "vancouver-pd-website-features-quick-escape-button-that-wipes-itself-from-history.md"
+    },
+    {
+        "title": "Xbox goes down. You can't play games you own on disc",
+        "slug": "xbox-goes-down-you-cant-play-games-you-own-on-disc",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 12:01:02 +0000",
+        "description": "Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/ Comments URL: https://news.ycombinator.com/item?id=49167448 Points...",
+        "keywords": "you, xbox, goes, down, play, games, own, disc",
+        "generated": "2026-08-04T14:28:10.953198",
+        "file": "xbox-goes-down-you-cant-play-games-you-own-on-disc.md"
     },
     {
         "title": "The True Cost of Context Switching for Software Engineers (And How to Fix It)",
@@ -27816,6 +27948,17 @@
         "file": "the-loop-doesnt-know-what-done-looks-like.md"
     },
     {
+        "title": "CVE-2026-8457: WooCommerce Social Login Auth Bypass — Forged Apple JWTs Take Over Accounts",
+        "slug": "cve-2026-8457-woocommerce-social-login-auth-bypass-forged-apple-jwts-take-over-accounts",
+        "author": "Stanley A.",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 14:08:00 +0000",
+        "description": "On August 1, 2026, Wordfence disclosed a critical authentication bypass in the WooCommerce – Social Login plugin (WPWeb Elite), tracked as CVE-2026-8457 (CVS...",
+        "keywords": "login, plugin, jwt, email, apple, cve, payload, nonce",
+        "generated": "2026-08-04T14:28:10.956679",
+        "file": "cve-2026-8457-woocommerce-social-login-auth-bypass-forged-apple-jwts-take-over-accounts.md"
+    },
+    {
         "title": "Kubernetes horizontal pod autoscaling based on custom metrics",
         "slug": "kubernetes-horizontal-pod-autoscaling-based-on-custom-metrics",
         "author": "Rizwan Saleem",
@@ -29063,10 +29206,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 02 Aug 2026 19:11:54 +0000",
+        "published": "Tue, 04 Aug 2026 14:21:30 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-02T19:18:04.967628",
+        "generated": "2026-08-04T14:28:10.957744",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -30388,6 +30531,17 @@
         "keywords": "snowpark, snowflake, sql, session, warehouse, python, udf, table",
         "generated": "2026-06-28T14:00:55.755297",
         "file": "snowpark-python-dataframes-udfs-stored-procs-running-inside-snowflake.md"
+    },
+    {
+        "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+        "slug": "show-hn-fine-tune-an-8b-model-on-a-4-gb-laptop-gpu",
+        "author": "MakazhanAlpamys",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 11:17:57 +0000",
+        "description": "Article URL: https://github.com/MakazhanAlpamys/Soup Comments URL: https://news.ycombinator.com/item?id=49166984 Points: 42 # Comments: 7",
+        "keywords": "url, https, com, comments, show, fine, tune, model",
+        "generated": "2026-08-04T14:28:10.953733",
+        "file": "show-hn-fine-tune-an-8b-model-on-a-4-gb-laptop-gpu.md"
     },
     {
         "title": "I Built a Production-Grade RAG Application From Scratch — Here's Every Concept That Goes Into One",
@@ -32898,6 +33052,17 @@
         "file": "emily-bender-sets-the-record-straight-on-stochastic-parrots.md"
     },
     {
+        "title": "Roame (YC S23) Is Hiring Lead Engineer",
+        "slug": "roame-yc-s23-is-hiring-lead-engineer",
+        "author": "zman0225",
+        "source": "hackernews",
+        "published": "Tue, 04 Aug 2026 12:00:51 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer Comments URL: https://news.ycombinator.com/item?id=49167444 Po...",
+        "keywords": "roame, lead, engineer, url, https, ycombinator, com, comments",
+        "generated": "2026-08-04T14:28:10.953372",
+        "file": "roame-yc-s23-is-hiring-lead-engineer.md"
+    },
+    {
         "title": "How to Build a System Monitor Dashboard for Your AI Agent (Step by Step)",
         "slug": "how-to-build-a-system-monitor-dashboard-for-your-ai-agent-step-by-step",
         "author": "hermesxclaw-ctrl",
@@ -33798,6 +33963,17 @@
         "keywords": "button, one, web, three, same, otf, platform, ios",
         "generated": "2026-07-14T08:17:51.109091",
         "file": "unify-web-and-mobile-development-with-otfs-cross-platform-components.md"
+    },
+    {
+        "title": "🚀 What Changes When Every Company Has an AI Team?",
+        "slug": "what-changes-when-every-company-has-an-ai-team",
+        "author": "Codexlancers",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 14:15:00 +0000",
+        "description": "Cast your mind back a decade. There was a brief period when every mid-to-large business was frantically trying to figure out what a Digital Transformation ...",
+        "keywords": "business, internal, they, teams, can, every, company, data",
+        "generated": "2026-08-04T14:28:10.958619",
+        "file": "what-changes-when-every-company-has-an-ai-team.md"
     },
     {
         "title": "We Built an AI Receptionist With No Per-Call Fees and No Customer Cap",
@@ -40002,6 +40178,17 @@
         "file": "n8n-move-binary-data-node-rename-copy-and-reorganize-binary-files-in-your-workflows-free-workflow-json.md"
     },
     {
+        "title": "Your LLM sends valid data in an invalid shape",
+        "slug": "your-llm-sends-valid-data-in-an-invalid-shape",
+        "author": "Charles Solar",
+        "source": "devto_python",
+        "published": "Tue, 04 Aug 2026 14:00:00 +0000",
+        "description": "A model never hands your tool a typed object. It hands you text that claims to describe one, and everything between that text and your validated arguments is...",
+        "keywords": "you, model, your, json, tool, not, when, our",
+        "generated": "2026-08-04T14:28:10.955290",
+        "file": "your-llm-sends-valid-data-in-an-invalid-shape.md"
+    },
+    {
         "title": "OpenAI Help: Lockdown Mode",
         "slug": "openai-help-lockdown-mode",
         "author": "berlianta",
@@ -43595,6 +43782,17 @@
         "keywords": "one, embedding, canonical, vector, aurora, pgvector, same, log",
         "generated": "2026-06-29T04:27:36.038869",
         "file": "building-a-cross-user-review-graph-with-pgvector-on-amazon-aurora.md"
+    },
+    {
+        "title": "Hidden Gems in the App Store A…",
+        "slug": "hidden-gems-in-the-app-store-a",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Tue, 04 Aug 2026 14:06:04 +0000",
+        "description": "Originally published at norvik.tech Introduction Discover how new software is thriving in the AI era, exploring innovative applications reshaping user experi...",
+        "keywords": "software, applications, new, your, user, development, apps, local",
+        "generated": "2026-08-04T14:28:10.957021",
+        "file": "hidden-gems-in-the-app-store-a.md"
     },
     {
         "title": "Turning PowerPoint Presentations into Structured Data with Pythonaibrain",
@@ -47907,6 +48105,17 @@
         "keywords": "mbodi, founding, machine, learning, engineer, url, https, ycombinator",
         "generated": "2026-06-06T13:56:22.889254",
         "file": "mbodi-ai-yc-p25-is-hiring-founding-machine-learning-engineer-robotics.md"
+    },
+    {
+        "title": "Understanding LLM Agents and Tool",
+        "slug": "understanding-llm-agents-and-tool",
+        "author": "Mohammad Jawad (Kasir) Barati",
+        "source": "devto_ai",
+        "published": "Tue, 04 Aug 2026 14:13:59 +0000",
+        "description": "In this post, I'll explain how prompt chaining, tools/skills, and iteration actually make agnets to produce results which are not usually possible when we us...",
+        "keywords": "llm, you, get, portfolio, prompt, your, what, turn",
+        "generated": "2026-08-04T14:28:10.958865",
+        "file": "understanding-llm-agents-and-tool.md"
     },
     {
         "title": "I ran two AI builders in parallel at a solo hackathon — here's what the 429 errors revealed",
