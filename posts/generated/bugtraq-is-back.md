@@ -1,19 +1,19 @@
 ---
-title: "Bugtraq Is Back"
+title: "Bugtraq is back"
 slug: "bugtraq-is-back"
 author: "bashtoni"
 source: "hackernews"
 published: "Wed, 05 Aug 2026 00:05:49 +0000"
 description: "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.yc..."
 keywords: "com, bugtraq, url, https, securityfocus, comments, back, article"
-generated: "2026-08-05T02:54:38.754040"
+generated: "2026-08-05T08:43:38.996207"
 ---
 
-# Bugtraq Is Back
+# Bugtraq is back
 
 ## Overview
 
-Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 21 # Comments: 3
+Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 39 # Comments: 9
 
 ## Key Insights
 

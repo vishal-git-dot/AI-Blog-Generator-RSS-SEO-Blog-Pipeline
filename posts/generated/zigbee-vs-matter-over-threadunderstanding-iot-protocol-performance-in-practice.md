@@ -4,16 +4,16 @@ slug: "zigbee-vs-matter-over-threadunderstanding-iot-protocol-performance-in-pra
 author: "teleforce"
 source: "hackernews"
 published: "Wed, 05 Aug 2026 00:10:37 +0000"
-description: "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 24 # Comments: 18"
+description: "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 82 # Comments: 65"
 keywords: "url, https, comments, zigbee, matter, over, thread, understanding"
-generated: "2026-08-05T02:54:38.753911"
+generated: "2026-08-05T08:43:38.996055"
 ---
 
 # Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
 
 ## Overview
 
-Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 24 # Comments: 18
+Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 82 # Comments: 65
 
 ## Key Insights
 

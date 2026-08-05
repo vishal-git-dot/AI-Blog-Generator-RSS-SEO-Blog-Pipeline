@@ -154,14 +154,14 @@
         "file": "okay-heres-a-550-750-word-blog-article-tailored-for-the-chinese-market-adhering-to-all-your-specifications.md"
     },
     {
-        "title": "Bugtraq Is Back",
+        "title": "Bugtraq is back",
         "slug": "bugtraq-is-back",
         "author": "bashtoni",
         "source": "hackernews",
         "published": "Wed, 05 Aug 2026 00:05:49 +0000",
         "description": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.yc...",
         "keywords": "com, bugtraq, url, https, securityfocus, comments, back, article",
-        "generated": "2026-08-05T02:54:38.754040",
+        "generated": "2026-08-05T08:43:38.996207",
         "file": "bugtraq-is-back.md"
     },
     {
@@ -4980,6 +4980,17 @@
         "keywords": "bir, model, ama, poisson, her, ile, tahmin, veri",
         "generated": "2026-06-15T12:29:05.507208",
         "file": "dnya-kupas-2026-ma-sonularn-ai-ile-nasl-tahmin-ettim.md"
+    },
+    {
+        "title": "The Boosting Family Decision Tree: Everything on One Page",
+        "slug": "the-boosting-family-decision-tree-everything-on-one-page",
+        "author": "Sachin Kr. Rajput",
+        "source": "devto_python",
+        "published": "Wed, 05 Aug 2026 08:28:31 +0000",
+        "description": "The One-Line Summary: One printable page for the whole boosting family — what each member actually changes about the update rule, a flowchart for picking bet...",
+        "keywords": "one, boosting, lightgbm, tree, what, xgboost, you, family",
+        "generated": "2026-08-05T08:43:38.997896",
+        "file": "the-boosting-family-decision-tree-everything-on-one-page.md"
     },
     {
         "title": "Why Your React Frontend Crashes When an LLM Streams Malformed JSON",
@@ -16266,6 +16277,17 @@
         "file": "a-practical-github-actions-baseline-for-python-projects.md"
     },
     {
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "slug": "rust-langrust-is-adopting-an-llm-policy",
+        "author": "afdbcreid",
+        "source": "hackernews",
+        "published": "Wed, 05 Aug 2026 05:52:24 +0000",
+        "description": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49...",
+        "keywords": "rust, lang, adopting, llm, policy, url, https, comments",
+        "generated": "2026-08-05T08:43:38.995601",
+        "file": "rust-langrust-is-adopting-an-llm-policy.md"
+    },
+    {
         "title": "What a Neural Net Actually Does — the Intuition, No Math",
         "slug": "what-a-neural-net-actually-does-the-intuition-no-math",
         "author": "Devanshu Biswas",
@@ -19610,6 +19632,17 @@
         "file": "regressive-jpegs.md"
     },
     {
+        "title": "How Do You Actually Know if Your AI Is Good? (Evaluating LLM Outputs)",
+        "slug": "how-do-you-actually-know-if-your-ai-is-good-evaluating-llm-outputs",
+        "author": "Syed Muhammad Ali Raza",
+        "source": "devto_python",
+        "published": "Wed, 05 Aug 2026 08:34:51 +0000",
+        "description": "How Do You Actually Know if Your AI Is Good? (Evaluating LLM Outputs) Written by Syed Muhammad Ali Raza Six articles into this series, and I've conveniently ...",
+        "keywords": "you, actually, real, your, print, not, cases, actual",
+        "generated": "2026-08-05T08:43:38.997360",
+        "file": "how-do-you-actually-know-if-your-ai-is-good-evaluating-llm-outputs.md"
+    },
+    {
         "title": "🌐 The Future of Digital Assets",
         "slug": "the-future-of-digital-assets",
         "author": "Emily",
@@ -22492,6 +22525,17 @@
         "file": "how-i-cracked-reddit-anti-bot-with-playwright-shadow-dom-real-keystrokes.md"
     },
     {
+        "title": "AI Governance Tools: Top 5 Platforms for Enterprise Teams in 2026",
+        "slug": "ai-governance-tools-top-5-platforms-for-enterprise-teams-in-2026",
+        "author": "Kuldeep Paul",
+        "source": "devto_ai",
+        "published": "Wed, 05 Aug 2026 08:38:32 +0000",
+        "description": "To manage compliance and costs, enterprise teams require robust AI governance tools. This review compares the top five platforms in 2026, featuring Bifrost a...",
+        "keywords": "governance, model, data, gateway, compliance, teams, tools, bifrost",
+        "generated": "2026-08-05T08:43:39.000669",
+        "file": "ai-governance-tools-top-5-platforms-for-enterprise-teams-in-2026.md"
+    },
+    {
         "title": "Building a Self-Hosted Email Client That Decouples the UI from IMAP",
         "slug": "building-a-self-hosted-email-client-that-decouples-the-ui-from-imap",
         "author": "Maksim Ramzaev",
@@ -24426,6 +24470,17 @@
         "keywords": "asteroid, skyfield, position, observer, earth, data, elements, time",
         "generated": "2026-06-18T20:32:55.629061",
         "file": "astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield.md"
+    },
+    {
+        "title": "learning_rate and n_estimators Are One Parameter, Not Two — Here's the Number That Proves It",
+        "slug": "learningrate-and-nestimators-are-one-parameter-not-two-heres-the-number-that-proves-it",
+        "author": "Sachin Kr. Rajput",
+        "source": "devto_python",
+        "published": "Wed, 05 Aug 2026 08:26:13 +0000",
+        "description": "The One-Line Summary: Grid-searching learning_rate against n_estimators wastes most of your compute, because the boosting model that comes out depends almost...",
+        "keywords": "trees, peak, rate, count, one, you, import, sklearn",
+        "generated": "2026-08-05T08:43:38.998585",
+        "file": "learningrate-and-nestimators-are-one-parameter-not-two-heres-the-number-that-proves-it.md"
     },
     {
         "title": "Your Pipeline Is 9.7h Behind: Catching Renewable Energy Sentiment Leads with Pulsebit",
@@ -26815,6 +26870,17 @@
         "file": "google-releases-gemma-4-12b-encoder-free-multimodal-projection.md"
     },
     {
+        "title": "Why Storing a TRACES Establishment Code as a Static Field Is a Data Modelling Bug",
+        "slug": "why-storing-a-traces-establishment-code-as-a-static-field-is-a-data-modelling-bug",
+        "author": "Kristi Hampson",
+        "source": "devto_ai",
+        "published": "Wed, 05 Aug 2026 08:39:25 +0000",
+        "description": "The bug Most ERP setups treat a TRACES establishment code the way they treat a VAT number. One field on the supplier record, entered once, trusted forever. T...",
+        "keywords": "code, traces, establishment, field, one, string, timestamp, shipment",
+        "generated": "2026-08-05T08:43:39.000072",
+        "file": "why-storing-a-traces-establishment-code-as-a-static-field-is-a-data-modelling-bug.md"
+    },
+    {
         "title": "Claude Code Built My SaaS But Couldn't Verify Signup Emails",
         "slug": "claude-code-built-my-saas-but-couldnt-verify-signup-emails",
         "author": "zerodrop",
@@ -27374,6 +27440,17 @@
         "keywords": "url, https, com, comments, reo, trucks, pickup, truck",
         "generated": "2026-07-18T19:11:40.223040",
         "file": "reo-trucks-i4-4wd-pickup-truck-starts-at-21500.md"
+    },
+    {
+        "title": "An SLM trained on $8 ESP32-S3",
+        "slug": "an-slm-trained-on-8-esp32-s3",
+        "author": "pavelai",
+        "source": "hackernews",
+        "published": "Wed, 05 Aug 2026 04:07:27 +0000",
+        "description": "Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 19 # Comments: 7",
+        "keywords": "url, https, com, comments, slm, trained, article, github",
+        "generated": "2026-08-05T08:43:38.995933",
+        "file": "an-slm-trained-on-8-esp32-s3.md"
     },
     {
         "title": "Parsing and Rebuilding EPUB Files in Python: Lessons from Building an AI Book Translator",
@@ -28001,6 +28078,17 @@
         "keywords": "workspaces, url, https, comments, show, explore, modern, creators",
         "generated": "2026-07-17T19:18:11.640872",
         "file": "show-hn-explore-the-workspaces-of-modern-creators.md"
+    },
+    {
+        "title": "I Built a Free DMCA Takedown Letter Generator (Because DMCA.com Charges $50-100)",
+        "slug": "i-built-a-free-dmca-takedown-letter-generator-because-dmcacom-charges-50-100",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Wed, 05 Aug 2026 08:37:39 +0000",
+        "description": "I Built a Free DMCA Takedown Letter Generator (Because DMCA.com Charges $50-100) Stop uploading your creative work to the cloud just to generate a DMCA taked...",
+        "keywords": "dmca, takedown, letter, your, built, free, com, generator",
+        "generated": "2026-08-05T08:43:38.999274",
+        "file": "i-built-a-free-dmca-takedown-letter-generator-because-dmcacom-charges-50-100.md"
     },
     {
         "title": "How to Create a Claude Project: Step-by-Step Guide (2026)",
@@ -29470,10 +29558,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Tue, 04 Aug 2026 14:21:30 +0000",
+        "published": "Wed, 05 Aug 2026 08:36:49 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-04T14:28:10.957744",
+        "generated": "2026-08-05T08:43:39.001378",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -30120,9 +30208,9 @@
         "author": "teleforce",
         "source": "hackernews",
         "published": "Wed, 05 Aug 2026 00:10:37 +0000",
-        "description": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 24 # Comments: 18",
+        "description": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 82 # Comments: 65",
         "keywords": "url, https, comments, zigbee, matter, over, thread, understanding",
-        "generated": "2026-08-05T02:54:38.753911",
+        "generated": "2026-08-05T08:43:38.996055",
         "file": "zigbee-vs-matter-over-threadunderstanding-iot-protocol-performance-in-practice.md"
     },
     {
@@ -31092,6 +31180,17 @@
         "keywords": "seo, overview, agenticsis, invisible, consultancy, how, our, three",
         "generated": "2026-07-23T14:15:19.715820",
         "file": "the-invisible-consultancy-how-we-broke-our-seo-three-times-before-googles-ai-overview-learned-our-name.md"
+    },
+    {
+        "title": "Ecommerce Trends 2026",
+        "slug": "ecommerce-trends-2026",
+        "author": "Shivatechdigital",
+        "source": "devto_webdev",
+        "published": "Wed, 05 Aug 2026 08:37:05 +0000",
+        "description": "Originally published at shivatechdigital.com Read Full Article Click here to read the complete article About ShivaTechDigital: Leading web development and di...",
+        "keywords": "shivatechdigital, read, article, ecommerce, trends, originally, published, com",
+        "generated": "2026-08-05T08:43:38.999668",
+        "file": "ecommerce-trends-2026.md"
     },
     {
         "title": "How to Start Programming 2026",
@@ -33228,6 +33327,17 @@
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
     },
     {
+        "title": "Top 5 AI Gateway Platforms That Work With Claude Code",
+        "slug": "top-5-ai-gateway-platforms-that-work-with-claude-code",
+        "author": "Kuldeep Paul",
+        "source": "devto_ai",
+        "published": "Wed, 05 Aug 2026 08:38:16 +0000",
+        "description": "Evaluate the leading AI gateway platforms for Claude Code. Learn how Bifrost and other proxies enable cost control, audit logs, and provider routing. CLI cod...",
+        "keywords": "gateway, claude, code, bifrost, teams, developer, local, platform",
+        "generated": "2026-08-05T08:43:39.001246",
+        "file": "top-5-ai-gateway-platforms-that-work-with-claude-code.md"
+    },
+    {
         "title": "Watch WWE Raw SmackDown Live Stream 2026 in HD and 4K Quality",
         "slug": "watch-wwe-raw-smackdown-live-stream-2026-in-hd-and-4k-quality",
         "author": "90MinLiveSpots",
@@ -33413,6 +33523,17 @@
         "keywords": "your, agentpay, payment, bank, payments, settlement, vietqr, agents",
         "generated": "2026-06-14T04:46:39.565318",
         "file": "vietqr-payments-for-ai-agentsno-stripe-setup.md"
+    },
+    {
+        "title": "The Manual TRACES Lookup Does Not Scale, and the Maths Is Simple",
+        "slug": "the-manual-traces-lookup-does-not-scale-and-the-maths-is-simple",
+        "author": "iCustoms",
+        "source": "devto_python",
+        "published": "Wed, 05 Aug 2026 08:41:50 +0000",
+        "description": "Count the operations Here is the manual process for one establishment code: Open the TRACES NT public establishment lists Select the exporting country Choose...",
+        "keywords": "manual, establishment, code, week, validation, traces, not, one",
+        "generated": "2026-08-05T08:43:38.996430",
+        "file": "the-manual-traces-lookup-does-not-scale-and-the-maths-is-simple.md"
     },
     {
         "title": "Adding a New LLM Provider to Prism PHP: How I Shipped Z.AI Support",
@@ -34293,6 +34414,17 @@
         "keywords": "button, one, web, three, same, otf, platform, ios",
         "generated": "2026-07-14T08:17:51.109091",
         "file": "unify-web-and-mobile-development-with-otfs-cross-platform-components.md"
+    },
+    {
+        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+        "slug": "zero-mem-zero-token-memory-operations-for-llm-agents",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 28 # Comments: 7",
+        "keywords": "zero, url, https, comments, mem, token, memory, operations",
+        "generated": "2026-08-05T08:43:38.995804",
+        "file": "zero-mem-zero-token-memory-operations-for-llm-agents.md"
     },
     {
         "title": "🚀 What Changes When Every Company Has an AI Team?",
@@ -40365,6 +40497,17 @@
         "file": "a2a-vs-mcp-the-two-protocols-behind-every-serious-ai-agent-system.md"
     },
     {
+        "title": "API Testing Starts With a Different Question",
+        "slug": "api-testing-starts-with-a-different-question",
+        "author": "keploy",
+        "source": "devto_webdev",
+        "published": "Wed, 05 Aug 2026 08:37:11 +0000",
+        "description": "When someone moves from testing user interfaces to testing APIs, the tools change, but the harder adjustment is the question they are asking. UI testing tend...",
+        "keywords": "testing, you, api, question, what, not, could, wrong",
+        "generated": "2026-08-05T08:43:38.999547",
+        "file": "api-testing-starts-with-a-different-question.md"
+    },
+    {
         "title": "[TryHackMe Writeup] Beach Bar",
         "slug": "tryhackme-writeup-beach-bar",
         "author": "Wahiduddin Samani",
@@ -42048,6 +42191,17 @@
         "file": "how-i-built-a-real-time-football-stats-tracker-chelseas-mudryk-free-to-play-after-appeal-against-doping-ban.md"
     },
     {
+        "title": "I Built a Free Barcode Generator (Because BarcodesInc Charges $29/Year)",
+        "slug": "i-built-a-free-barcode-generator-because-barcodesinc-charges-29year",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Wed, 05 Aug 2026 08:36:30 +0000",
+        "description": "I Built a Free Barcode Generator (Because BarcodesInc Charges $29/Year) I was looking at my Etsy shop and realized I was paying $29 a year for BarcodesInc ju...",
+        "keywords": "free, barcode, built, barcodesinc, year, generator, their, charges",
+        "generated": "2026-08-05T08:43:38.999882",
+        "file": "i-built-a-free-barcode-generator-because-barcodesinc-charges-29year.md"
+    },
+    {
         "title": "ERP Statistics: What the Numbers Reveal About Modern Business Growth",
         "slug": "erp-statistics-what-the-numbers-reveal-about-modern-business-growth",
         "author": "Crystal",
@@ -42167,6 +42321,17 @@
         "keywords": "reid, hoffman, spacex, url, https, com, comments, says",
         "generated": "2026-06-24T14:43:41.337187",
         "file": "reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck.md"
+    },
+    {
+        "title": "Top AI Papers This Week: Architectural Shifts and the Blueprint for Agentic Intelligence",
+        "slug": "top-ai-papers-this-week-architectural-shifts-and-the-blueprint-for-agentic-intelligence",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Wed, 05 Aug 2026 08:36:02 +0000",
+        "description": "System check. Identity confirmed: Halo Engine. Status: Online. Objective: Filter through the academic noise, identify the high-leverage compounding assets, a...",
+        "keywords": "model, you, mamba, inference, parameters, mixtral, using, tokenizer",
+        "generated": "2026-08-05T08:43:39.002021",
+        "file": "top-ai-papers-this-week-architectural-shifts-and-the-blueprint-for-agentic-intelligence.md"
     },
     {
         "title": "How AI Eliminates the Pain of Field Mapping in Enterprise Integration",
@@ -45322,6 +45487,17 @@
         "keywords": "learnvector, one, url, https, comments, andrew, company, building",
         "generated": "2026-07-29T03:14:29.808089",
         "file": "learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md"
+    },
+    {
+        "title": "hikerapi",
+        "slug": "hikerapi",
+        "author": "kamil biadun",
+        "source": "devto_python",
+        "published": "Wed, 05 Aug 2026 08:28:25 +0000",
+        "description": "instagrapi vs HikerAPI – what I ended up using Tags: #python #api #webscraping I recently worked on an Instagram-related project and tried two different appr...",
+        "keywords": "hikerapi, instagrapi, api, you, requests, headers, different, user",
+        "generated": "2026-08-05T08:43:38.998135",
+        "file": "hikerapi.md"
     },
     {
         "title": "Why Not Every AI Application Needs Vector Embeddings",
@@ -49326,6 +49502,17 @@
         "keywords": "sentiment, education, pulsebit, data, french, you, your, confidence",
         "generated": "2026-07-09T09:49:56.276021",
         "file": "your-pipeline-is-136h-behind-catching-education-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "You're collecting async iterable results with a for-await loop. `Array.fromAsync` does it in one call.",
+        "slug": "youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-call",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Wed, 05 Aug 2026 08:42:50 +0000",
+        "description": "When you have an async iterable — a ReadableStream , a generator that fetches paginated results, a database cursor — and you need its values in a plain array...",
+        "keywords": "array, await, fromasync, const, you, all, async, one",
+        "generated": "2026-08-05T08:43:38.999072",
+        "file": "youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-call.md"
     },
     {
         "title": "Rent Marfa Chairs Kuwait — تأجير كراسي وطاولات للحفلات في المرفأ بالكويت: خدمات قريبة منك",

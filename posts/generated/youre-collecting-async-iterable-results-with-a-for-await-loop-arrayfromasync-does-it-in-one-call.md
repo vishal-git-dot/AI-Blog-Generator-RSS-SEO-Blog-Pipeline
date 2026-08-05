@@ -1,0 +1,34 @@
+---
+title: "You're collecting async iterable results with a for-await loop. `Array.fromAsync` does it in one call."
+slug: "youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-call"
+author: "Parsa Jiravand"
+source: "devto_webdev"
+published: "Wed, 05 Aug 2026 08:42:50 +0000"
+description: "When you have an async iterable — a ReadableStream , a generator that fetches paginated results, a database cursor — and you need its values in a plain array..."
+keywords: "array, await, fromasync, const, you, all, async, one"
+generated: "2026-08-05T08:43:38.999072"
+---
+
+# You're collecting async iterable results with a for-await loop. `Array.fromAsync` does it in one call.
+
+## Overview
+
+When you have an async iterable — a ReadableStream , a generator that fetches paginated results, a database cursor — and you need its values in a plain array, you reach for a loop. const results = []; for await ( const item of asyncSource ) { results . push ( item ); } That works. But it's four lines of ceremony for "give me an array of everything this produces." Array.fromAsync is the one-liner that's been missing. The spread workaround doesn't work If you've tried [...asyncIterable] , you know it throws. Spread syntax works with synchronous iterables only. The await Promise.all([...asyncIterable]) trick fails too — the spread happens before await , which means JavaScript tries to spread a synchronous iterator that doesn't exist on the async source. // ❌ TypeError: asyncSource is not iterable const results = [... asyncSource ]; // ❌ Also fails — spread is sync, runs before await const results = await Promise . all ([... asyncSource ]); The for-await loop is the correct fallback. But it's exactly the kind of boilerplate a standard library should absorb. Array.fromAsync in one call const results = await Array . fromAsync ( asyncSource ); That's it. It pulls one value from the source, awaits it, stores it, then pulls the next — returning a fully-populated plain array when the source is exhausted. Like Array.from() , it accepts a mapping function as the second argument: const doubled = await Array . fromAsync ( asyncNumbers , n => n * 2 ); The mapper runs after each value has been awaited. You can return a promise from the mapper too — Array.fromAsync awaits that as well before moving on. What sources it accepts Array.fromAsync accepts three kinds of input: Async iterables — anything with a [Symbol.asyncIterator]() method. This is the main use case: generators, streams, cursors, any API that produces values lazily over time. async function * paginate ( cursor ) { while ( cursor . hasMore ) { const page = await cursor . fetch (); yield * page . items ; cursor . advance (); } } const allItems = await Array . fromAsync ( paginate ( cursor )); Sync iterables with an async mapper — this replaces the common await Promise.all(array.map(async fn)) pattern, with one key difference explained below. const users = await Array . fromAsync ([ 1 , 2 , 3 ], async id => { const res = await fetch ( `/api/users/ ${ id } ` ); return res . json (); }); Array-like objects — objects with numeric indices and a length property, same as Array.from . Sequential, not concurrent This is the most important thing to understand about Array.fromAsync : it processes values one at a time, in order. It awaits each value fully before pulling the next. This is different from Promise.all , which fires all promises concurrently and waits for all of them together. // ✅ Use Promise.all when you want all fetches to run in parallel const [ a , b , c ] = await Promise . all ([ fetchA (), fetchB (), fetchC ()]); // ✅ Use Array.fromAsync when the source is lazy — values produced one at a time const results = await Array . fromAsync ( asyncGenerator ()); When you pass a sync array with an async mapper, Array.fromAsync fetches item 1, awaits the result, stores it, then fetches item 2. There's no parallelism inside the pipeline. If you're mapping over a known array and want concurrent fetches, Promise.all is still the right tool. The sequential behavior is intentional for lazy sources: a generator or stream doesn't know what to produce next until you ask — you can't fan out requests that haven't been decided yet. A practical pattern: async generator pipeline Async generators are where Array.fromAsync earns its place. Consider a paginated API client: async function * fetchPages ( url ) { let next = url ; while ( next ) { const res = await fetch ( next ); const data = await res . json (); yield * data . items ; next = data . nextPage ?? null ; } } // Before: manual loop const all = []; for await ( const item of fetchPages ( ' /api/items ' )) { all . push ( item ); } // After: one call const all = await Array . fromAsync ( fetchPages ( ' /api/items ' )); Same result. The generator drives pagination and Array.fromAsync collects everything, stopping when the generator returns. Browser support Array.fromAsync is Baseline 2024 : Chrome 121 (January 2024), Firefox 119 (October 2023), Safari 17.4 (March 2024), Node.js 22. For older targets, core-js 3.38+ includes a polyfill, and the manual for-await loop is always a valid fallback. 🎮 Try it yourself ▶️ Open the interactive playground → Runs right in your browser — poke at it and watch the concept react live. 🧠 Test yourself Think it clicked? Take the 8-question quiz → Instant feedback, a hint on every question, and an explanation for each answer — right or wrong. The takeaway Search your codebase for for await ... push patterns that end with the array being returned or used. Each one is a direct candidate for await Array.fromAsync(source) . When you're mapping an async function over a sync array and want sequential execution, Array.fromAsync(array, asyncMapper) replaces the manual loop. When you want concurrent execution over a known array, stick with await Promise.all(array.map(asyncMapper)) . The distinction is sequential vs parallel — know which you need before reaching for either. Thanks for reading! Let's stay connected: ⭐ GitHub — follow me and star the projects: github.com/parsajiravand 💬 Discord — join the frontend best-practices community: discord.gg/d9KRhuAwQ 📸 Instagram — frontend best practices, daily: @bestpractice___ 💼 LinkedIn — linkedin.com/in/parsa-jiravand ✉️ Email (work & contract inquiries): bestpractice2026@gmail.com
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/parsajiravand/youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-405e
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
