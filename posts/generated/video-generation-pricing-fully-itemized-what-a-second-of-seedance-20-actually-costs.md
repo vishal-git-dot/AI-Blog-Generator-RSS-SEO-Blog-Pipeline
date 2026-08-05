@@ -1,0 +1,34 @@
+---
+title: "Video generation pricing, fully itemized: what a second of Seedance 2.0 actually costs"
+slug: "video-generation-pricing-fully-itemized-what-a-second-of-seedance-20-actually-costs"
+author: "Lee"
+source: "devto_ai"
+published: "Wed, 05 Aug 2026 02:40:34 +0000"
+description: "Most video-generation pricing pages give you a "from $X" and stop there. You find out what a job really costs after you have already run it. This post is the..."
+keywords: "second, you, not, seedance, your, per, reference, model"
+generated: "2026-08-05T02:54:38.758649"
+---
+
+# Video generation pricing, fully itemized: what a second of Seedance 2.0 actually costs
+
+## Overview
+
+Most video-generation pricing pages give you a "from $X" and stop there. You find out what a job really costs after you have already run it. This post is the opposite. Every rate we charge for video, itemized, plus the two billing rules that decide what lands on your invoice. We cut all of it by 15-21% this week, ahead of the Seedance 2.5 API launching on August 7. What changed Seedance 2.5 ships on the 7th and we will have it up the same day. Seedance 2.0 is not going anywhere and is not losing features, but with 2.5 arriving it belongs at a lower price. So we moved it now instead of waiting. To be clear about what does not exist yet: 2.5 is unreleased. Nobody has API access to it today, us included. The full video rate card Priced per second of output, in USD. The second column applies when your request includes a reference video. Model Resolution Text / image input With reference video Seedance 2.0 480p $0.072 $0.044 720p $0.154 $0.094 1080p $0.383 $0.233 4K $0.780 $0.480 Seedance 2.0 Fast 480p $0.059 $0.034 720p $0.124 $0.075 Seedance 2.0 Mini 480p $0.036 $0.023 720p $0.077 $0.047 Mini moved the furthest. Its 480p reference tier is $0.023 per second, so a five-second clip runs about eleven cents. The two rules that decide your bill Billing is per second, not per clip. A four-second test costs four seconds. There is no five-second minimum quietly rounding your experiments up, which matters when you are burning through prompt variations to find one that works. Reference mode bills your input clip plus your output. Send a ten-second reference and generate five seconds, and you are charged for fifteen. This is the same basis the model itself uses to meter the job, so the estimate you compute up front is the number you pay. It also means the cheaper per-second rate in that second column is not free money: a long reference clip can cost more in total than a short text-to-video job at the higher rate. Probe your source length before you quote a price to your own users. Failed generations refund automatically. You do not pay for a job the model could not finish. Calling it Media generation is asynchronous. You POST a job, get an id back immediately, then poll. curl https://reapi.ai/api/v1/videos/generations \ -H "Authorization: Bearer rk_live_xxx" \ -H "Content-Type: application/json" \ -d '{ "model": "doubao-seedance-2.0-face", "prompt": "A kitten yawning at the camera, cinematic warm tones", "resolution": "720p", "size": "16:9", "duration": 5 }' That returns { "id": "task_...", "status": "processing" } . Then poll until the status goes terminal: async function waitForVideo ( taskId , key ) { while ( true ) { const res = await fetch ( `https://reapi.ai/api/v1/tasks/ ${ taskId } ` , { headers : { Authorization : `Bearer ${ key } ` }, }); const task = await res . json (); if ( task . status === " completed " ) return task . output . video_urls ; if ( task . status === " failed " ) throw new Error ( task . error . message ); await new Promise (( r ) => setTimeout ( r , 2000 )); } } Poll every one to two seconds. The account limit is five requests per second and polling counts against it, so a tight loop across many concurrent jobs will start collecting 429s. The same shape covers images and audio: swap videos for images or audio in the path, poll the identical /tasks/{id} endpoint. One key works across all of them, LLM endpoints included. Reference images and real faces Seedance has a consumer build that rejects real human faces on sight. That is not the build behind this API. Reference images containing real people work, up to nine of them per request. Safety checking is a parameter you control. nsfw_checker defaults to true , and direct API callers can send false , at any resolution up to 4K. Relaxed is not unlimited, and it would be dishonest to imply otherwise. The model still refuses named real celebrities, third-party IP, and illegal content. That refusal lives in the model and applies to every host running it, including us. It is not a setting anyone can turn off. Images and LLMs moved too Per image, in USD: Model 1K 2K 4K Nano Banana 2 Lite $0.015 Nano Banana 2 $0.028 $0.043 $0.064 Nano Banana Pro $0.033 $0.033 $0.035 Seedream 5.0 Pro $0.032 $0.063 GPT Image 2 $0.030 $0.050 $0.080 Nano Banana 2 Lite came down 25 percent, Seedream 5.0 Pro at 2K came down 30 percent. Per million tokens, input and output: Model Input Output GPT-5.6 Luna $0.80 $4.80 GPT-5.6 Terra $2.00 $12.00 GPT-5.6 Sol $4.00 $24.00 Claude Opus 5 $2.40 $12.00 Kimi K3 $2.50 $12.00 GLM-5.2 $0.90 $3.00 DeepSeek V4 Flash $0.14 $0.28 DeepSeek V4 Pro $1.74 $3.48 DeepSeek cache hits bill at $0.0028 for Flash and $0.0145 for Pro. Those decimal places are correct. The GPT-5.6 tiers run 20 percent under the published rate on both input and output, so an existing cost model just multiplies by 0.8. Claude Opus 5 comes in under half. What I would want to know before signing up Signup credits are $0.10. That is around three 1K images and does not cover a single five-second 720p clip. It is enough to prove your integration works end to end and nowhere near enough to evaluate output quality. Evaluating quality costs money, and I would rather write that here than let you discover it after the free credits run out. Fast and Mini cap at 720p. Only Seedance 2.0 itself reaches 4K. Individual clips run 4 to 15 seconds; chain them with return_last_frame when you need something longer. Credits are $0.001 each, they do not expire, and there is no subscription or monthly minimum underneath any of this. Full parameter reference: reapi.ai/models/seedance-2-0 reapi.ai I will post again on the 7th when 2.5 is live.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/lee_315dd1e13420e63e2b813/video-generation-pricing-fully-itemized-what-a-second-of-seedance-20-actually-costs-370i
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
