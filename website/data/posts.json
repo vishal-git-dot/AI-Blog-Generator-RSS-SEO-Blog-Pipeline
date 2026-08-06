@@ -2034,6 +2034,17 @@
         "file": "architecture-description-languages-pdf.md"
     },
     {
+        "title": "NDIS Google Ads: Proven PPC Strategies for More NDIS Leads",
+        "slug": "ndis-google-ads-proven-ppc-strategies-for-more-ndis-leads",
+        "author": "NDIS Website Design",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 08:41:23 +0000",
+        "description": "In today's competitive disability support industry, simply having a website isn't enough to attract new participants. With more providers entering the market...",
+        "keywords": "ads, google, support, ndis, services, providers, advertising, your",
+        "generated": "2026-08-06T08:45:23.997373",
+        "file": "ndis-google-ads-proven-ppc-strategies-for-more-ndis-leads.md"
+    },
+    {
         "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
         "slug": "the-billable-usage-api-programmatic-cost-visibility-for-cloudflare",
         "author": "ashleypeacock",
@@ -3209,6 +3220,17 @@
         "keywords": "not, reverse, centaur, url, https, com, comments, article",
         "generated": "2026-06-12T20:19:14.994853",
         "file": "i-am-not-a-reverse-centaur.md"
+    },
+    {
+        "title": "Let's all meet up in the Y2K",
+        "slug": "lets-all-meet-up-in-the-y2k",
+        "author": "msephton",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 06:43:38 +0000",
+        "description": "Article URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/ Comments URL: https://news.ycombinator.com/item?id=49193314 Points: 24 #...",
+        "keywords": "all, meet, url, https, com, comments, let, article",
+        "generated": "2026-08-06T08:45:23.993006",
+        "file": "lets-all-meet-up-in-the-y2k.md"
     },
     {
         "title": "Rent Floor Seating Apartments Hawally — تأجير جلسات أرضية عصرية في شقق حولي المطلة: استغلال أمثل للمساحات",
@@ -6137,6 +6159,17 @@
         "file": "the-window-to-build-ai-expertise-is-closing-faster-than-anyone-expected.md"
     },
     {
+        "title": "67% of Sales are lost before the lead even picks up the call.",
+        "slug": "67-of-sales-are-lost-before-the-lead-even-picks-up-the-call",
+        "author": "Lohit Kapoor",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 08:40:13 +0000",
+        "description": "Your best rep just spent three hours on a follow-up call, a custom deck and a demo. The prospect was enthusiastic, asked great questions and said they would ...",
+        "keywords": "your, sales, you, not, lost, leads, lead, pipeline",
+        "generated": "2026-08-06T08:45:23.998022",
+        "file": "67-of-sales-are-lost-before-the-lead-even-picks-up-the-call.md"
+    },
+    {
         "title": "AI Agent – TRMNL",
         "slug": "ai-agent-trmnl",
         "author": "joeyespo",
@@ -6872,6 +6905,17 @@
         "keywords": "your, tools, web, most, utilities, what, spent, weeks",
         "generated": "2026-06-23T20:12:47.952938",
         "file": "why-i-spent-weeks-building-a-140-free-privacy-first-web-tools-hub-and-how-it-runs-100-in-your-browser.md"
+    },
+    {
+        "title": "You use `obj.hasOwnProperty(key)` to check property ownership. It can silently fail. `Object.hasOwn()` is the safe replacement.",
+        "slug": "you-use-objhasownpropertykey-to-check-property-ownership-it-can-silently-fail-objecthasown-is-the-safe-replacement",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 08:44:20 +0000",
+        "description": "Every JavaScript codebase has this pattern somewhere: if ( obj . hasOwnProperty ( key )) { // ... } It's idiomatic, it's readable, and most of the time it wo...",
+        "keywords": "object, hasownproperty, hasown, you, prototype, obj, key, can",
+        "generated": "2026-08-06T08:45:23.996286",
+        "file": "you-use-objhasownpropertykey-to-check-property-ownership-it-can-silently-fail-objecthasown-is-the-safe-replacement.md"
     },
     {
         "title": "From Rust CLI bug-hunting to a massive Portfolio overhaul",
@@ -18565,6 +18609,17 @@
         "file": "ai-didnt-invent-code-drift-it-made-it-harder-to-ignore.md"
     },
     {
+        "title": "Five ways your generated Excel file breaks on someone else's machine",
+        "slug": "five-ways-your-generated-excel-file-breaks-on-someone-elses-machine",
+        "author": "marcosgcuenta1",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 08:30:36 +0000",
+        "description": "openpyxl writes formulas as strings. It never evaluates them. Your generated workbook can be syntactically perfect, pass every test you wrote, and be full of...",
+        "keywords": "excel, file, you, value, not, cell, text, them",
+        "generated": "2026-08-06T08:45:23.994257",
+        "file": "five-ways-your-generated-excel-file-breaks-on-someone-elses-machine.md"
+    },
+    {
         "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
         "slug": "show-hn-tikz-editor-wysiwyg-editor-for-figures-in-latex",
         "author": "DominikPeters",
@@ -18860,6 +18915,17 @@
         "keywords": "url, https, com, comments, generate, parametric, manufacturable, models",
         "generated": "2026-07-06T10:49:20.341935",
         "file": "generate-parametric-manufacturable-3d-models-in-seconds.md"
+    },
+    {
+        "title": "Кнопка «Скачать» в Suno работает. Вопрос — для кого и насколько долго",
+        "slug": "suno",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 08:38:50 +0000",
+        "description": "Suno официально отдаёт mp3 бесплатно, а wav и права на монетизацию продаёт по подписке — но именно бесплатная часть этой схемы стала предметом спора в 2026 г...",
+        "keywords": "suno, com, warner, download, help, music, wav, pro",
+        "generated": "2026-08-06T08:45:23.999093",
+        "file": "suno.md"
     },
     {
         "title": "The Real App-Building Kit for Non-Technical Founders: Trustworthy AI-Powered Development",
@@ -19509,6 +19575,17 @@
         "keywords": "https, atproto, list, relays, isn, google, very, doesn",
         "generated": "2026-07-11T19:12:02.612195",
         "file": "ask-hn-why-isnt-google-indexing-information-about-the-at-protocol.md"
+    },
+    {
+        "title": "What I love about Django",
+        "slug": "what-i-love-about-django",
+        "author": "j4mie",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 07:34:06 +0000",
+        "description": "Article URL: https://buttondown.com/blog/what-i-love-about-django Comments URL: https://news.ycombinator.com/item?id=49193673 Points: 30 # Comments: 6",
+        "keywords": "what, love, django, url, https, com, comments, article",
+        "generated": "2026-08-06T08:45:23.992825",
+        "file": "what-i-love-about-django.md"
     },
     {
         "title": "Lost Update: When Two AI Agents Edit One File, One Silently Wins",
@@ -23944,6 +24021,17 @@
         "file": "from-server-lurker-to-side-income-how-my-discord-became-my-affiliate-marketing-lab.md"
     },
     {
+        "title": "Crime Pays but Botany Doesn't",
+        "slug": "crime-pays-but-botany-doesnt",
+        "author": "DarkContinent",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 04:46:35 +0000",
+        "description": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 142 # Comments: 56",
+        "keywords": "url, https, com, comments, crime, pays, but, botany",
+        "generated": "2026-08-06T08:45:23.993120",
+        "file": "crime-pays-but-botany-doesnt.md"
+    },
+    {
         "title": "Beyond the Model: Building the AI Harness",
         "slug": "beyond-the-model-building-the-ai-harness",
         "author": "Abdul Aziz",
@@ -24701,6 +24789,17 @@
         "keywords": "github, your, website, pages, you, html, deividas, strole",
         "generated": "2026-06-20T19:45:32.624292",
         "file": "how-to-host-your-website-on-github-pages-for-free.md"
+    },
+    {
+        "title": "Australian DTC Brands Tackling Rising Meta Ads Costs",
+        "slug": "australian-dtc-brands-tackling-rising-meta-ads-costs",
+        "author": "Vaishnavi Rajput",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 08:42:13 +0000",
+        "description": "Australian DTC brands are facing rising Meta Ads costs due to increased competition, privacy updates, and higher customer acquisition expenses. This guide ex...",
+        "keywords": "costs, australian, dtc, meta, advertising, brands, rising, ads",
+        "generated": "2026-08-06T08:45:23.996902",
+        "file": "australian-dtc-brands-tackling-rising-meta-ads-costs.md"
     },
     {
         "title": "An entire Herculaneum scroll has been read for the first time",
@@ -27519,6 +27618,17 @@
         "file": "why-developers-are-moving-away-from-aws-to-simpler-platforms.md"
     },
     {
+        "title": "Container queries can check more than size — style queries let components read custom property values",
+        "slug": "container-queries-can-check-more-than-size-style-queries-let-components-read-custom-property-values",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 08:44:19 +0000",
+        "description": "When a component needs to know its context — is it inside a dark sidebar? a compact layout? a danger banner? — the usual answer is JavaScript. You pass a pro...",
+        "keywords": "container, style, size, alert, queries, severity, you, component",
+        "generated": "2026-08-06T08:45:23.996748",
+        "file": "container-queries-can-check-more-than-size-style-queries-let-components-read-custom-property-values.md"
+    },
+    {
         "title": "Integrating AI: The Key to SaaS Success",
         "slug": "integrating-ai-the-key-to-saas-success",
         "author": "Ravi Roy",
@@ -28817,6 +28927,17 @@
         "file": "ai-medical-scribes-for-urology-improving-clinical-documentation-and-workflow-efficiency-in-2026.md"
     },
     {
+        "title": "Paysagiste à Issoire : 7 idées d’aménagement pour un jardin qui s’épanouit en Auvergne",
+        "slug": "paysagiste-issoire-7-ides-damnagement-pour-un-jardin-qui-spanouit-en-auvergne",
+        "author": "achat Boo",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 08:41:54 +0000",
+        "description": "Voici l'article de blog complet et optimisé SEO pour le métier de paysagiste à Issoire, rédigé en texte brut et sans aucun formatage. Transformer son jardin ...",
+        "keywords": "les, des, est, une, pour, issoire, paysagiste, qui",
+        "generated": "2026-08-06T08:45:23.993789",
+        "file": "paysagiste-issoire-7-ides-damnagement-pour-un-jardin-qui-spanouit-en-auvergne.md"
+    },
+    {
         "title": "US Stock Real-Time API: Single WebSocket Dynamic Subscription to Fix Disconnection & Redundant Calculation",
         "slug": "us-stock-real-time-api-single-websocket-dynamic-subscription-to-fix-disconnection-redundant-calculation",
         "author": "kelos",
@@ -29899,10 +30020,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 06 Aug 2026 03:07:08 +0000",
-        "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
-        "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-06T03:12:22.488451",
+        "published": "Thu, 06 Aug 2026 08:41:47 +0000",
+        "description": "Global Trade Dynamics Q3 2026 — Geopolitical & Macroeconomic Analysis Published August 06, 2026 by Nexus Intelligence Executive Summary This analysis synthes...",
+        "keywords": "geopolitical, intelligence, macroeconomic, analysis, crypto, data, predictions, risk",
+        "generated": "2026-08-06T08:45:23.997712",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -31125,6 +31246,17 @@
         "keywords": "github, kimi, available, copilot, url, https, comments, code",
         "generated": "2026-07-02T09:22:43.951862",
         "file": "kimi-k27-code-is-generally-available-in-github-copilot.md"
+    },
+    {
+        "title": "LuisCore — inference-scale runtime substrate for multi-step inference",
+        "slug": "luiscore-inference-scale-runtime-substrate-for-multi-step-inference",
+        "author": "luisprimecore",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 08:41:57 +0000",
+        "description": "Sharing a short note: LuisCore is a inference-scale runtime substrate for multi-step inference: an open agent corpus + ontology, plus infrastructure for mult...",
+        "keywords": "luiscore, https, zenodo, com, inference, doi, multi, agent",
+        "generated": "2026-08-06T08:45:23.997549",
+        "file": "luiscore-inference-scale-runtime-substrate-for-multi-step-inference.md"
     },
     {
         "title": "Turning a wedding story into a custom song with real vocals: the Magical Song pipeline",
@@ -32687,6 +32819,17 @@
         "keywords": "codex, project, game, assembly, code, min, experiment, gameplay",
         "generated": "2026-07-18T13:26:53.517812",
         "file": "can-codex-build-an-entire-x86-assembly-game-autonomously-a-real-world-experiment.md"
+    },
+    {
+        "title": "Your Pipeline Is 27.4h Behind: Catching Music Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-274h-behind-catching-music-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 08:20:10 +0000",
+        "description": "Your model just missed a 24-hour momentum spike of +0.218 centered around music sentiment. This isn’t just a blip; it shows a significant shift in how people...",
+        "keywords": "sentiment, music, you, your, pulsebit, data, pipeline, can",
+        "generated": "2026-08-06T08:45:23.995112",
+        "file": "your-pipeline-is-274h-behind-catching-music-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "PyTorch Broadcasting Explained: The 3 Rules (and the Silent Bug That Bites Everyone)",
@@ -37386,6 +37529,17 @@
         "file": "the-old-school-way-of-keeping-the-summer-heat-out-of-your-home.md"
     },
     {
+        "title": "“Every small business should run itself” | Lassie with a16z",
+        "slug": "every-small-business-should-run-itself-lassie-with-a16z",
+        "author": "jackma",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 08:39:34 +0000",
+        "description": "Episode At a Glance Podcast: a16z show Episode: “Every small business should run itself” | Lassie with a16z Guests: Steijn Pelle, Frédéric Renken Hosts: Alex...",
+        "keywords": "small, lassie, timestamp, they, speaker, work, can, software",
+        "generated": "2026-08-06T08:45:23.998613",
+        "file": "every-small-business-should-run-itself-lassie-with-a16z.md"
+    },
+    {
         "title": "Your Face Is Forever. Your Boss's Insurance Isn't.",
         "slug": "your-face-is-forever-your-bosss-insurance-isnt",
         "author": "CaraComp",
@@ -38746,7 +38900,7 @@
         "published": "Thu, 06 Aug 2026 02:15:14 +0000",
         "description": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news...",
         "keywords": "nashville, eminent, domain, data, center, article, url, https",
-        "generated": "2026-08-06T03:12:22.479780",
+        "generated": "2026-08-06T08:45:23.993342",
         "file": "nashville-uses-eminent-domain-to-block-data-center-near-zoo.md"
     },
     {
@@ -39188,6 +39342,17 @@
         "keywords": "discord, bot, server, message, channel, node, workflow, your",
         "generated": "2026-07-04T13:45:59.770649",
         "file": "n8n-discord-node-send-messages-manage-channels-and-build-bots-in-your-workflows-free-workflow-json.md"
+    },
+    {
+        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+        "slug": "show-hn-wallfacer-a-terminal-session-manager-for-claude-code-and-more",
+        "author": "pradiptasarma",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 03:52:56 +0000",
+        "description": "Article URL: https://github.com/pradipta/wallfacer Comments URL: https://news.ycombinator.com/item?id=49192219 Points: 19 # Comments: 10",
+        "keywords": "wallfacer, url, https, com, comments, show, terminal, session",
+        "generated": "2026-08-06T08:45:23.993231",
+        "file": "show-hn-wallfacer-a-terminal-session-manager-for-claude-code-and-more.md"
     },
     {
         "title": "Developing Future Technology Experts Through a Data Science Course in Bangalore",
@@ -40297,6 +40462,17 @@
         "keywords": "api, agent, interactions, agents, you, google, gemini, managed",
         "generated": "2026-06-26T19:58:27.783969",
         "file": "interactions-api-gemini-models-agents-complete-2026-guide.md"
+    },
+    {
+        "title": "Google Local AI: Get Local Pack Data as JSON for Agents, Lead Gen, and Rank Tracking",
+        "slug": "google-local-ai-get-local-pack-data-as-json-for-agents-lead-gen-and-rank-tracking",
+        "author": "Truffle Pig Data",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 08:10:24 +0000",
+        "description": "The local pack, that map-plus-three-businesses block at the top of Google Search , decides who gets the phone call for plumber near me in every city on ear...",
+        "keywords": "local, google, api, pack, you, run, city, apify",
+        "generated": "2026-08-06T08:45:23.995658",
+        "file": "google-local-ai-get-local-pack-data-as-json-for-agents-lead-gen-and-rank-tracking.md"
     },
     {
         "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
@@ -48690,6 +48866,17 @@
         "file": "om.md"
     },
     {
+        "title": "I Built a Free Freelancer Invoice Generator (Because FreshBooks Charges $15-30/Month)",
+        "slug": "i-built-a-free-freelancer-invoice-generator-because-freshbooks-charges-15-30month",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 08:45:14 +0000",
+        "description": "I Built a Free Freelancer Invoice Generator (Because FreshBooks Charges $15-30/Month) Stop paying $15-30/month just to generate invoices. I was tired of Fres...",
+        "keywords": "invoice, free, generator, built, freelancer, freshbooks, month, subscription",
+        "generated": "2026-08-06T08:45:23.995854",
+        "file": "i-built-a-free-freelancer-invoice-generator-because-freshbooks-charges-15-30month.md"
+    },
+    {
         "title": "PricePulse API: Free Real-Time Price Tracking for Developers (100 req/day)",
         "slug": "pricepulse-api-free-real-time-price-tracking-for-developers-100-reqday",
         "author": "rock2089",
@@ -50272,6 +50459,17 @@
         "keywords": "cookware, url, https, com, comments, tested, nonstick, coatings",
         "generated": "2026-07-27T14:47:54.556957",
         "file": "we-tested-nonstick-cookware-coatings-dont-need-to-look-worn-to-shed-particles.md"
+    },
+    {
+        "title": "[TryHackMe Writeup] The Hollow Shell",
+        "slug": "tryhackme-writeup-the-hollow-shell",
+        "author": "Wahiduddin Samani",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 08:27:10 +0000",
+        "description": "The Hollow Shell (Hacker Holidays · Byte Lotus) — How to Solve Target: http://<MACHINE_IP>:5000 (web on port 5000) Category: Web · Medium · 90 pts Answer for...",
+        "keywords": "socket, shell, upload, zip, flag, comment, import, time",
+        "generated": "2026-08-06T08:45:23.994775",
+        "file": "tryhackme-writeup-the-hollow-shell.md"
     },
     {
         "title": "Well-Known Top 1 Best Cryptocurrency Recovery Company",
