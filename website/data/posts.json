@@ -1186,6 +1186,17 @@
         "file": "everything-you-need-to-know-about-buying-verified-shopify-accounts.md"
     },
     {
+        "title": "Build a Custom Static Site Generator with Python",
+        "slug": "build-a-custom-static-site-generator-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 14:00:56 +0000",
+        "description": "Build a Custom Static Site Generator with Python tags: python, webdev, tools, tutorial tags: python, tools, tutorial, beginners tags: python, tools, tutorial...",
+        "keywords": "you, your, code, python, tools, data, script, input",
+        "generated": "2026-08-06T14:24:40.416811",
+        "file": "build-a-custom-static-site-generator-with-python.md"
+    },
+    {
         "title": "TOSSCONF 26 II",
         "slug": "tossconf-26-ii",
         "author": "RADHAKRISHNAN S",
@@ -5092,6 +5103,17 @@
         "file": "dnya-kupas-2026-ma-sonularn-ai-ile-nasl-tahmin-ettim.md"
     },
     {
+        "title": "Guardrails in TypeScript: Input Validation, Output Filters, Refusal Paths",
+        "slug": "guardrails-in-typescript-input-validation-output-filters-refusal-paths",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 14:14:30 +0000",
+        "description": "Book: AI That Ships The series: AI in TypeScript — 5 books, from your first LLM call to agents in production — all five here My project: Hermes IDE | GitHub ...",
+        "keywords": "value, const, return, refusal, res, stage, req, out",
+        "generated": "2026-08-06T14:24:40.421059",
+        "file": "guardrails-in-typescript-input-validation-output-filters-refusal-paths.md"
+    },
+    {
         "title": "The Boosting Family Decision Tree: Everything on One Page",
         "slug": "the-boosting-family-decision-tree-everything-on-one-page",
         "author": "Sachin Kr. Rajput",
@@ -5123,6 +5145,17 @@
         "keywords": "url, https, comments, what, know, microplastics, inside, article",
         "generated": "2026-07-08T19:41:38.372851",
         "file": "what-do-we-know-about-the-microplastics-inside-us.md"
+    },
+    {
+        "title": "Harvesting Skills with their Why: a Claude Code plugin for knowledge that survives the session",
+        "slug": "harvesting-skills-with-their-why-a-claude-code-plugin-for-knowledge-that-survives-the-session",
+        "author": "Kengo Asamizu",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 14:12:39 +0000",
+        "description": "Agentic coding tools like Claude Code and Codex have a mechanism called Skills — a way to teach the agent your project's coding rules and the quirks of the l...",
+        "keywords": "skill, you, skdd, agent, harvest, skills, why, claude",
+        "generated": "2026-08-06T14:24:40.422081",
+        "file": "harvesting-skills-with-their-why-a-claude-code-plugin-for-knowledge-that-survives-the-session.md"
     },
     {
         "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
@@ -5761,6 +5794,17 @@
         "keywords": "context, agent, messages, engineering, task, model, tool, return",
         "generated": "2026-06-12T04:40:33.065918",
         "file": "context-engineering-for-ai-agents-the-2026-practitioners-deep-dive.md"
+    },
+    {
+        "title": "This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊",
+        "slug": "this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing",
+        "author": "Ekong Ikpe",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 14:08:13 +0000",
+        "description": "What I Built Gnoke Books works like an actual printed magazine on a table — you grab the corner of the page and flip it over. This issue features Port Harcou...",
+        "keywords": "like, had, gnoke, books, works, page, just, build",
+        "generated": "2026-08-06T14:24:40.418782",
+        "file": "this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing.md"
     },
     {
         "title": "Goodhart's Law Is a Math Problem - And We Can Prove It With 10 Lines of Python",
@@ -6619,6 +6663,17 @@
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
         "generated": "2026-08-03T14:51:29.673509",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
+    },
+    {
+        "title": "Your Pipeline Is 23.6h Behind: Catching Education Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-236h-behind-catching-education-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 14:08:04 +0000",
+        "description": "Your Pipeline Is 23.6h Behind: Catching Education Sentiment Leads with Pulsebit We recently observed a striking anomaly: a 24h momentum spike of -0.353 in se...",
+        "keywords": "sentiment, your, education, pulsebit, pipeline, you, english, can",
+        "generated": "2026-08-06T14:24:40.416182",
+        "file": "your-pipeline-is-236h-behind-catching-education-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "One Afternoon, 27 Updates, and a System That Actually Reuses Itself",
@@ -7750,6 +7805,17 @@
         "keywords": "url, https, comments, orca, bench, how, ready, language",
         "generated": "2026-07-31T19:42:01.097769",
         "file": "orca-bench-how-ready-are-language-model-agents-for-oncall.md"
+    },
+    {
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "slug": "humans-missed-1-in-3-threats-approving-ai-agent-commands-across-40k-game-runs",
+        "author": "Wirbelwind",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 11:58:07 +0000",
+        "description": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/ Comments URL: https://news.ycombinator.com/item?id=49195468 Points: 57 # Comments: 30",
+        "keywords": "agent, url, https, comments, humans, missed, threats, approving",
+        "generated": "2026-08-06T14:24:40.409624",
+        "file": "humans-missed-1-in-3-threats-approving-ai-agent-commands-across-40k-game-runs.md"
     },
     {
         "title": "The Model Didn't Change. A Parameter Disappeared. Thousands of Pipelines Broke.",
@@ -9290,6 +9356,17 @@
         "keywords": "neural, pattern, can, textures, comments, show, high, res",
         "generated": "2026-06-17T11:07:27.898655",
         "file": "show-hn-high-res-neural-cellular-automata.md"
+    },
+    {
+        "title": "US beef prices have soared but farmers aren't making more money",
+        "slug": "us-beef-prices-have-soared-but-farmers-arent-making-more-money",
+        "author": "tartoran",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 13:38:22 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/cdrv0k0j662o Comments URL: https://news.ycombinator.com/item?id=49196510 Points: 8 # Comments: 0",
+        "keywords": "url, https, com, news, comments, beef, prices, have",
+        "generated": "2026-08-06T14:24:40.409372",
+        "file": "us-beef-prices-have-soared-but-farmers-arent-making-more-money.md"
     },
     {
         "title": "Meeting Recording With Real-Time Text Output",
@@ -11041,6 +11118,17 @@
         "file": "llms-in-environmental-science-applications-and-opportunities.md"
     },
     {
+        "title": "What LinkShift caches for 5 minutes, and why",
+        "slug": "what-linkshift-caches-for-5-minutes-and-why",
+        "author": "Piotr Zielinski",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 14:10:52 +0000",
+        "description": "I built LinkShift to help people avoid breaking links during migration. One thing that matters a lot in a redirect system is cache behavior. In the codebase,...",
+        "keywords": "map, minutes, cache, linkshift, people, matters, redirect, behavior",
+        "generated": "2026-08-06T14:24:40.418532",
+        "file": "what-linkshift-caches-for-5-minutes-and-why.md"
+    },
+    {
         "title": "Open Banking vs Stripe: The Real Cost Comparison for SaaS in 2026",
         "slug": "open-banking-vs-stripe-the-real-cost-comparison-for-saas-in-2026",
         "author": "chnby",
@@ -11556,6 +11644,17 @@
         "keywords": "layer, lambda, function, python, zip, venv, aws, layers",
         "generated": "2026-07-03T03:48:14.177935",
         "file": "how-to-package-python-lambda-with-virtualenv-layers.md"
+    },
+    {
+        "title": "Wan AI 3.0 API Tutorial: Use Alibaba Wan 3.0 on AIHubMix",
+        "slug": "wan-ai-30-api-tutorial-use-alibaba-wan-30-on-aihubmix",
+        "author": "AIHubMix",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 14:17:00 +0000",
+        "description": "Alibaba's Wan AI has moved from teasers to a public beta. Wan 3.0 can generate videos up to 30 seconds in a single run, render more expressive characters, an...",
+        "keywords": "video, wan, aihubmix, second, model, alibaba, use, shot",
+        "generated": "2026-08-06T14:24:40.410426",
+        "file": "wan-ai-30-api-tutorial-use-alibaba-wan-30-on-aihubmix.md"
     },
     {
         "title": "How I Built a Python Workflow for JobLossAnalyzer",
@@ -15936,6 +16035,17 @@
         "file": "the-moment-ai-stops-predicting-and-starts-choosing.md"
     },
     {
+        "title": "JSON Mode vs Structured Output vs Zod Parsing: Which Guarantees Shape",
+        "slug": "json-mode-vs-structured-output-vs-zod-parsing-which-guarantees-shape",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 14:16:38 +0000",
+        "description": "Book: AI That Answers The series: AI in TypeScript — 5 books, from your first LLM call to agents in production — all five here My project: Hermes IDE | GitHu...",
+        "keywords": "type, json, your, not, you, shape, schema, output",
+        "generated": "2026-08-06T14:24:40.420549",
+        "file": "json-mode-vs-structured-output-vs-zod-parsing-which-guarantees-shape.md"
+    },
+    {
         "title": "The Private Capture of Public Genius",
         "slug": "the-private-capture-of-public-genius",
         "author": "martialg",
@@ -18090,6 +18200,17 @@
         "keywords": "feature, store, you, join, label, one, time, asof",
         "generated": "2026-06-10T04:15:10.537653",
         "file": "i-built-a-feature-store-in-pure-python-to-finally-understand-the-point-in-time-join.md"
+    },
+    {
+        "title": "Telephones Caught in Between",
+        "slug": "telephones-caught-in-between",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 12:36:50 +0000",
+        "description": "Article URL: https://computer.rip/2026-08-02-telephone-leasing.html Comments URL: https://news.ycombinator.com/item?id=49195819 Points: 7 # Comments: 0",
+        "keywords": "url, https, comments, telephones, caught, between, article, computer",
+        "generated": "2026-08-06T14:24:40.409501",
+        "file": "telephones-caught-in-between.md"
     },
     {
         "title": "The intracies of modern camera lens repair (2024)",
@@ -22083,6 +22204,17 @@
         "keywords": "automation, update, july, daily, new, tips, tools, featured",
         "generated": "2026-07-01T20:03:10.703303",
         "file": "ai-automation-update-july-02.md"
+    },
+    {
+        "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+        "slug": "show-hn-demake-one-source-project-compiles-to-any-retro-game-console-rom",
+        "author": "gste",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 11:28:00 +0000",
+        "description": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can't follow exact hardware constraints of pixels and c...",
+        "keywords": "retro, can, any, game, console, you, work, comments",
+        "generated": "2026-08-06T14:24:40.409779",
+        "file": "show-hn-demake-one-source-project-compiles-to-any-retro-game-console-rom.md"
     },
     {
         "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
@@ -26463,6 +26595,17 @@
         "file": "how-i-built-a-local-tool-that-maps-any-codebase-in-55-seconds-no-cloud-no-uploads.md"
     },
     {
+        "title": "Buy Google Reviews Online In 2026- 5 Best Places",
+        "slug": "buy-google-reviews-online-in-2026-5-best-places",
+        "author": "Alex",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 14:18:38 +0000",
+        "description": "Improve Your Review Score ◈{{🦋🦋}}◈➤Fast Reply 24/7 | Instant Support 🚀 ◈{{🦋🦋}}◈➤Telegram: @progmbofficial ◈{{🦋🦋}}◈➤WhatsApp: +1 (920) 212-9737 ◈{{🦋🦋}}◈➤Teleg...",
+        "keywords": "reviews, google, maps, your, buy, you, can, business",
+        "generated": "2026-08-06T14:24:40.419479",
+        "file": "buy-google-reviews-online-in-2026-5-best-places.md"
+    },
+    {
         "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
         "slug": "fcc-approves-test-of-space-mirror-to-light-night-sky-despite-outcry",
         "author": "reaperducer",
@@ -26659,6 +26802,17 @@
         "keywords": "data, python, event, loop, real, asyncio, redis, built",
         "generated": "2026-07-08T19:41:38.373840",
         "file": "how-i-built-an-async-python-system-to-process-10000-binance-eventssec-and-how-i-fixed-the-event-loop-starvation-hey-everyone.md"
+    },
+    {
+        "title": "I added a real-time chat to my blog, people used it to attack me",
+        "slug": "i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me",
+        "author": "andros",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 13:53:16 +0000",
+        "description": "Article URL: https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/ Comments URL: https://news.ycombinator.com/...",
+        "keywords": "blog, added, real, time, chat, people, used, attack",
+        "generated": "2026-08-06T14:24:40.409209",
+        "file": "i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me.md"
     },
     {
         "title": "I Tried Running MiniMax H3 on a 12GB Card. Here's What Actually Happened",
@@ -27935,6 +28089,17 @@
         "keywords": "json, model, check, fence, not, output, you, against",
         "generated": "2026-07-23T14:15:19.715344",
         "file": "checkisvalidjson-failed-on-correct-json-when-the-model-wrapped-it-in-a-markdown-fence.md"
+    },
+    {
+        "title": "How to Make Your App Look Good When You’re Not a Designer",
+        "slug": "how-to-make-your-app-look-good-when-youre-not-a-designer",
+        "author": "João Forja 💭",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 14:12:41 +0000",
+        "description": "I know what my app needs to do, but I don't know what it should look like. When we build a new app, we often know exactly what it needs to do. We know what i...",
+        "keywords": "design, system, product, application, not, can, when, interface",
+        "generated": "2026-08-06T14:24:40.418138",
+        "file": "how-to-make-your-app-look-good-when-youre-not-a-designer.md"
     },
     {
         "title": "Hackers shoveled snow for company, were rewarded with network admin access",
@@ -34812,6 +34977,17 @@
         "file": "your-pipeline-is-130h-behind-catching-travel-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Avro vs Protobuf vs JSON Schema: Serialization & Schema Evolution for Streaming",
+        "slug": "avro-vs-protobuf-vs-json-schema-serialization-schema-evolution-for-streaming",
+        "author": "Gowtham Potureddi",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 14:13:02 +0000",
+        "description": "avro vs protobuf is the pick-one decision that quietly decides whether your Kafka topics stay readable for years or turn into an undeployable minefield the f...",
+        "keywords": "schema, field, json, avro, name, bytes, old, registry",
+        "generated": "2026-08-06T14:24:40.415744",
+        "file": "avro-vs-protobuf-vs-json-schema-serialization-schema-evolution-for-streaming.md"
+    },
+    {
         "title": "The Fall and Rise of Screwworm",
         "slug": "the-fall-and-rise-of-screwworm",
         "author": "crescit_eundo",
@@ -35580,6 +35756,17 @@
         "keywords": "wordstar, url, https, com, comments, writer, word, processor",
         "generated": "2026-06-27T08:43:42.522435",
         "file": "wordstar-a-writers-word-processor-1996.md"
+    },
+    {
+        "title": "Building a Contact Form in Django 6",
+        "slug": "building-a-contact-form-in-django-6",
+        "author": "Arslon Erkinov",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 14:03:44 +0000",
+        "description": "Today I completed another important milestone for my Django project. I implemented a fully working Contact Form that allows visitors to send messages directl...",
+        "keywords": "contact, django, form, today, completed, project, messages, email",
+        "generated": "2026-08-06T14:24:40.416368",
+        "file": "building-a-contact-form-in-django-6.md"
     },
     {
         "title": "Give Your Codebase a Constitution",
@@ -45258,6 +45445,17 @@
         "file": "data-scientist-vs-ml-engineer-salary-india-which-pays-more.md"
     },
     {
+        "title": "Citations That Survive a TypeScript Refactor",
+        "slug": "citations-that-survive-a-typescript-refactor",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 14:18:32 +0000",
+        "description": "Book: AI That Reads The series: AI in TypeScript — 5 books, from your first LLM call to agents in production — all five here My project: Hermes IDE | GitHub ...",
+        "keywords": "chunk, ref, const, you, text, return, doc, citation",
+        "generated": "2026-08-06T14:24:40.420029",
+        "file": "citations-that-survive-a-typescript-refactor.md"
+    },
+    {
         "title": "Your Pipeline Is 12.2h Behind: Catching Stock Market Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-122h-behind-catching-stock-market-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -46444,6 +46642,15 @@
         "keywords": "data, football, japan, celtic, live, ipswich, forward, maeda",
         "generated": "2026-07-26T03:33:56.475146",
         "file": "building-a-football-data-pipeline-lessons-from-ipswich-sign-japan-forward-maeda-from-celtic.md"
+    },
+    {
+        "title": "Continuous Batching and KV-Cache Eviction in Mobile LLM Runtimes: Serving Multiple Requests Without OOM on Android",
+        "slug": "continuous-batching-and-kv-cache-eviction-in-mobile-llm-runtimes-serving-multiple-requests-without-oom-on-android",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 14:12:53 +0000",
+        "description": "",
+        "file": "continuous-batching-and-kv-cache-eviction-in-mobile-llm-runtimes-serving-multiple-requests-without-oom-on-android.md"
     },
     {
         "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
@@ -50855,6 +51062,17 @@
         "keywords": "backboard, your, business, dario, must, crashing, out, decided",
         "generated": "2026-07-25T13:46:22.468578",
         "file": "dario-must-be-crashing-out.md"
+    },
+    {
+        "title": "Why Premium Mobile Detailing Is Worth It",
+        "slug": "why-premium-mobile-detailing-is-worth-it",
+        "author": "surfsidemobiledetailing",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 14:11:07 +0000",
+        "description": "Experience showroom-quality care without leaving your home. Professional mobile detailing combines expert paint correction, ceramic coating, and deep interio...",
+        "keywords": "your, detailing, mobile, premium, ceramic, coating, why, worth",
+        "generated": "2026-08-06T14:24:40.418350",
+        "file": "why-premium-mobile-detailing-is-worth-it.md"
     },
     {
         "title": "Build Your Own Gas Price Oracle with Python and Web3.py",
