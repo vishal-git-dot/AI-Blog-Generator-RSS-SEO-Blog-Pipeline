@@ -856,6 +856,17 @@
         "file": "mobile-app-monetization-benchmarks-2026-paywalls-trials-pricing-ai-apps.md"
     },
     {
+        "title": "Free WAF Performance Test: Does It Actually Slow Down Your Site?",
+        "slug": "free-waf-performance-test-does-it-actually-slow-down-your-site",
+        "author": "Lia",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 02:39:30 +0000",
+        "description": "What I Tested Factor Setup Server 2 vCPU, 2 GB RAM VPS Stack Nginx -> SafeLine (Docker) -> Node.js app Tool Apache Bench, wrk, curl timing Baseline Direct to...",
+        "keywords": "safeline, waf, ram, your, what, usage, per, you",
+        "generated": "2026-08-06T03:12:22.485498",
+        "file": "free-waf-performance-test-does-it-actually-slow-down-your-site.md"
+    },
+    {
         "title": "39 Platforms to Bridge Ethereum Using Verified Connections",
         "slug": "39-platforms-to-bridge-ethereum-using-verified-connections",
         "author": "Angil Bray",
@@ -4124,6 +4135,17 @@
         "file": "how-i-built-a-stripe-monitoring-tool-in-my-browser-with-zero-backend.md"
     },
     {
+        "title": "How Multi-Level Marketing Software Development Services Improve Financial Transparency",
+        "slug": "how-multi-level-marketing-software-development-services-improve-financial-transparency",
+        "author": "Skylark Infotech",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 03:11:14 +0000",
+        "description": "Financial transparency is one of the most critical factors in building trust and ensuring long-term success in the multi-level marketing (MLM) industry. Dist...",
+        "keywords": "financial, software, transparency, business, distributors, mlm, commission, payment",
+        "generated": "2026-08-06T03:12:22.486574",
+        "file": "how-multi-level-marketing-software-development-services-improve-financial-transparency.md"
+    },
+    {
         "title": "An MCP Context Contract for Android Automation Drafts",
         "slug": "an-mcp-context-contract-for-android-automation-drafts",
         "author": "LaiCai Screen Mirroring",
@@ -4496,6 +4518,17 @@
         "keywords": "capture, you, audio, not, windows, your, translation, own",
         "generated": "2026-06-25T04:05:12.293723",
         "file": "translating-windows-system-audio-in-real-time-driverless-with-no-virtual-cable.md"
+    },
+    {
+        "title": "One-Key Node.js Chat Completions for Summarization: Model Switching and Cost",
+        "slug": "one-key-nodejs-chat-completions-for-summarization-model-switching-and-cost",
+        "author": "tony chen",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 03:07:19 +0000",
+        "description": "TL;DR A one-key Node.js summarization API should put a small, tested model adapter behind the application, then switch models through configuration rather th...",
+        "keywords": "model, one, cost, document, usage, str, application, documents",
+        "generated": "2026-08-06T03:12:22.488290",
+        "file": "one-key-nodejs-chat-completions-for-summarization-model-switching-and-cost.md"
     },
     {
         "title": "Obscura: Rust Headless Browser for AI Agents â 14,000 Stars â 30MB Memory, 85ms Load â Setup Guide 2026",
@@ -8786,6 +8819,17 @@
         "file": "how-the-terrorist-group-boko-haram-uses-frontier-ai.md"
     },
     {
+        "title": "[Remote] Physics Expert (Condensed Matter / Quantum Information) ($80 - $160/hour)",
+        "slug": "remote-physics-expert-condensed-matter-quantum-information-80-160hour",
+        "author": "Thom B",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 03:01:02 +0000",
+        "description": "Physics Expert (Condensed Matter / Quantum Information) 🌍 100% Remote Position | Micro1 Global Network 💰 Pay Rate: $80 - $160/hour Job Description Required s...",
+        "keywords": "quantum, islands, physics, matter, saint, expert, condensed, information",
+        "generated": "2026-08-06T03:12:22.483733",
+        "file": "remote-physics-expert-condensed-matter-quantum-information-80-160hour.md"
+    },
+    {
         "title": "How I Built a Crypto Airdrop Farming System With Zero Investment (June 2026)",
         "slug": "how-i-built-a-crypto-airdrop-farming-system-with-zero-investment-june-2026",
         "author": "叶稼辰",
@@ -8883,6 +8927,17 @@
         "keywords": "types, python, keywords, data, side, there, different, set",
         "generated": "2026-07-29T14:22:03.413743",
         "file": "keywords-and-data-types-in-python.md"
+    },
+    {
+        "title": "Why Weekend Price Gaps Break Your Forex Tick Backtests (And How I Fix It)",
+        "slug": "why-weekend-price-gaps-break-your-forex-tick-backtests-and-how-i-fix-it",
+        "author": "didi yang",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 03:01:34 +0000",
+        "description": "Real-World Scenario: The Monday Backtest Anomaly Every Quant Dev Hits During my daily work building and testing forex quantitative strategies, I ran into a t...",
+        "keywords": "data, market, tick, price, trading, weekend, strategy, gap",
+        "generated": "2026-08-06T03:12:22.481108",
+        "file": "why-weekend-price-gaps-break-your-forex-tick-backtests-and-how-i-fix-it.md"
     },
     {
         "title": "AI-Powered Verification Workflow: Securing Vendor Compliance for Local Festivals",
@@ -13527,6 +13582,17 @@
         "file": "open-source-ai-must-win.md"
     },
     {
+        "title": "I read the r/openclaw thread on weird AI automations and the best one wasn’t even flashy",
+        "slug": "i-read-the-ropenclaw-thread-on-weird-ai-automations-and-the-best-one-wasnt-even-flashy",
+        "author": "Lars Winstand",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 02:34:22 +0000",
+        "description": "A few days ago I was digging through r/openclaw to find out how people are actually using AI automations once the demo videos stop. I landed on this thread: ...",
+        "keywords": "not, one, you, thread, automations, automation, webhook, they",
+        "generated": "2026-08-06T03:12:22.482886",
+        "file": "i-read-the-ropenclaw-thread-on-weird-ai-automations-and-the-best-one-wasnt-even-flashy.md"
+    },
+    {
         "title": "The Price of Happiness",
         "slug": "the-price-of-happiness",
         "author": "andyjohnson0",
@@ -15120,6 +15186,17 @@
         "keywords": "insecure, code, completions, vulnerability, url, https, comments, pycharm",
         "generated": "2026-06-11T04:27:42.954774",
         "file": "are-insecure-code-completions-in-pycharm-a-vulnerability.md"
+    },
+    {
+        "title": "I'll be stepping back from leading product for X",
+        "slug": "ill-be-stepping-back-from-leading-product-for-x",
+        "author": "DearAll",
+        "source": "hackernews",
+        "published": "Wed, 05 Aug 2026 21:15:40 +0000",
+        "description": "https://xcancel.com/nikitabier/status/2085105586966827343/ Comments URL: https://news.ycombinator.com/item?id=49189113 Points: 78 # Comments: 117",
+        "keywords": "https, com, comments, stepping, back, leading, product, xcancel",
+        "generated": "2026-08-06T03:12:22.480522",
+        "file": "ill-be-stepping-back-from-leading-product-for-x.md"
     },
     {
         "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
@@ -17300,6 +17377,17 @@
         "file": "my-production-pipeline-for-247-level-2-market-data-collection.md"
     },
     {
+        "title": "The title cards in Blade Runner are amazing",
+        "slug": "the-title-cards-in-blade-runner-are-amazing",
+        "author": "ExMachina73",
+        "source": "hackernews",
+        "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+        "description": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 169 # Comments: 72",
+        "keywords": "title, cards, blade, runner, url, https, com, comments",
+        "generated": "2026-08-06T03:12:22.480197",
+        "file": "the-title-cards-in-blade-runner-are-amazing.md"
+    },
+    {
         "title": "LinkedIn Posts API: Measure Post Engagement as Structured JSON (2026 Guide)",
         "slug": "linkedin-posts-api-measure-post-engagement-as-structured-json-2026-guide",
         "author": "Truffle Pig Data",
@@ -19069,6 +19157,17 @@
         "keywords": "you, didn, not, code, what, building, alone, work",
         "generated": "2026-06-10T15:51:30.360249",
         "file": "what-i-learned-building-a-saas-alone-for-3-months.md"
+    },
+    {
+        "title": "How to Use MiniMax H3: ComfyUI Setup for Local and Cloud Generation",
+        "slug": "how-to-use-minimax-h3-comfyui-setup-for-local-and-cloud-generation",
+        "author": "GridPort",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 03:09:48 +0000",
+        "description": "On August 3, 2026, MiniMax H3 was released with open weights, and ComfyUI shipped native support for it on the same day. It's a next-generation model that ha...",
+        "keywords": "minimax, video, comfyui, generation, model, use, her, text",
+        "generated": "2026-08-06T03:12:22.487402",
+        "file": "how-to-use-minimax-h3-comfyui-setup-for-local-and-cloud-generation.md"
     },
     {
         "title": "Your Pipeline Is 16.5h Behind: Catching World Sentiment Leads with Pulsebit",
@@ -23438,6 +23537,17 @@
         "file": "programmers-will-document-for-claude-but-not-for-each-other.md"
     },
     {
+        "title": "Why F1 Is the Wrong Objective for Entity Resolution Thresholds in Corporate Data",
+        "slug": "why-f1-is-the-wrong-objective-for-entity-resolution-thresholds-in-corporate-data",
+        "author": "Tae Kim",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 02:35:36 +0000",
+        "description": "Most entity resolution pipelines are tuned to maximize F1. For corporate data, that is the wrong objective. F1 treats false positives and false negatives as ...",
+        "keywords": "self, merge, false, auto, entity, review, corporate, positive",
+        "generated": "2026-08-06T03:12:22.481835",
+        "file": "why-f1-is-the-wrong-objective-for-entity-resolution-thresholds-in-corporate-data.md"
+    },
+    {
         "title": "Port React Compiler to Rust",
         "slug": "port-react-compiler-to-rust",
         "author": "boudra",
@@ -23843,6 +23953,17 @@
         "keywords": "model, harness, should, engineering, building, more, system, like",
         "generated": "2026-07-25T13:46:22.468767",
         "file": "beyond-the-model-building-the-ai-harness.md"
+    },
+    {
+        "title": "What Are Companies Getting for All That A.I. Spending? &#8211; The New",
+        "slug": "what-are-companies-getting-for-all-that-ai-spending-8211-the-new",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 02:55:07 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores What Are Companies Getting for All That A.I. Spe...",
+        "keywords": "progressino, your, before, platform, you, evaluating, similar, initiatives",
+        "generated": "2026-08-06T03:12:22.484745",
+        "file": "what-are-companies-getting-for-all-that-ai-spending-8211-the-new.md"
     },
     {
         "title": "From AI support copilot to agentic customer service",
@@ -29778,10 +29899,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Wed, 05 Aug 2026 19:28:43 +0000",
+        "published": "Thu, 06 Aug 2026 03:07:08 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-05T19:42:57.579466",
+        "generated": "2026-08-06T03:12:22.488451",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -31567,6 +31688,17 @@
         "file": "show-hn-noisegate-a-differential-privacy-gateway-for-untrusted-ai-agents.md"
     },
     {
+        "title": "Batch Text Analysis with an LLM CLI: 500 Reviews, One For Loop, a Few Cents",
+        "slug": "batch-text-analysis-with-an-llm-cli-500-reviews-one-for-loop-a-few-cents",
+        "author": "张洲诚（Zack.ZHANG）",
+        "source": "devto_ai",
+        "published": "Thu, 06 Aug 2026 03:11:21 +0000",
+        "description": "I tried to get an AI to label 500 Etsy reviews by pasting them into a chat tab, twenty at a time. By batch three, the model had quietly invented a new catego...",
+        "keywords": "output, reviews, batch, text, model, json, you, free",
+        "generated": "2026-08-06T03:12:22.485897",
+        "file": "batch-text-analysis-with-an-llm-cli-500-reviews-one-for-loop-a-few-cents.md"
+    },
+    {
         "title": "An Al writes my trading code. Three gates decide if it ever runs.",
         "slug": "an-al-writes-my-trading-code-three-gates-decide-if-it-ever-runs",
         "author": "Inalpha",
@@ -32407,10 +32539,10 @@
         "slug": "build-a-profit-generating-ai-agent-with-langchain-a-step-by-step-tutorial",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Wed, 15 Jul 2026 07:53:40 +0000",
-        "description": "Build a Profit-Generating AI Agent with LangChain: A Step-by-Step Tutorial LangChain is a powerful framework for building AI-powered applications, and in thi...",
-        "keywords": "agent, content, self, langchain, can, step, our, generate",
-        "generated": "2026-07-15T08:23:28.885420",
+        "published": "Thu, 06 Aug 2026 02:20:43 +0000",
+        "description": "Build a Profit-Generating AI Agent with LangChain: A Step-by-Step Tutorial LangChain is a powerful framework for building AI agents that can interact with th...",
+        "keywords": "agent, affiliate, langchain, llama, content, step, create, article",
+        "generated": "2026-08-06T03:12:22.483208",
         "file": "build-a-profit-generating-ai-agent-with-langchain-a-step-by-step-tutorial.md"
     },
     {
@@ -33116,6 +33248,17 @@
         "keywords": "building, atproto, url, https, com, comments, article, lukekanies",
         "generated": "2026-07-23T19:26:23.863510",
         "file": "building-on-atproto.md"
+    },
+    {
+        "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+        "slug": "nvidias-vera-whitepaper-has-a-thread-loose",
+        "author": "pella",
+        "source": "hackernews",
+        "published": "Wed, 05 Aug 2026 21:24:45 +0000",
+        "description": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread Comments URL: https://news.ycombinator.com/item?id=49189234 Points: 95 # Comme...",
+        "keywords": "vera, whitepaper, has, thread, url, https, com, comments",
+        "generated": "2026-08-06T03:12:22.480364",
+        "file": "nvidias-vera-whitepaper-has-a-thread-loose.md"
     },
     {
         "title": "A General Goal-Conditioned Minecraft Model",
@@ -38596,6 +38739,17 @@
         "file": "1700-free-online-courses-from-top-universities.md"
     },
     {
+        "title": "Nashville uses eminent domain to block data center near zoo",
+        "slug": "nashville-uses-eminent-domain-to-block-data-center-near-zoo",
+        "author": "mapping365",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 02:15:14 +0000",
+        "description": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project Comments URL: https://news...",
+        "keywords": "nashville, eminent, domain, data, center, article, url, https",
+        "generated": "2026-08-06T03:12:22.479780",
+        "file": "nashville-uses-eminent-domain-to-block-data-center-near-zoo.md"
+    },
+    {
         "title": "Seo Fll Fakhr Gmyra 2 2 2 2 2 — خدمات SEO متخصصة للفلل الفاخرة في جميرا: زيادة الظهور للعملاء المميزين",
         "slug": "seo-fll-fakhr-gmyra-2-2-2-2-2-seo",
         "author": "ismail",
@@ -39386,6 +39540,17 @@
         "keywords": "agent, llm, what, call, you, result, tool, not",
         "generated": "2026-06-19T19:55:28.876700",
         "file": "ai-agent-vs-llm-why-just-calling-the-openai-api-doesnt-give-you-an-agent-and-what-does.md"
+    },
+    {
+        "title": "Why I Built a Python Catch-up for Experienced Engineers",
+        "slug": "why-i-built-a-python-catch-up-for-experienced-engineers",
+        "author": "fulldump",
+        "source": "devto_python",
+        "published": "Thu, 06 Aug 2026 02:44:52 +0000",
+        "description": "I returned to Python and found that most learning material either started from zero or explained individual advanced features without connecting them to prod...",
+        "keywords": "python, built, why, catch, experienced, engineers, returned, found",
+        "generated": "2026-08-06T03:12:22.481277",
+        "file": "why-i-built-a-python-catch-up-for-experienced-engineers.md"
     },
     {
         "title": "Batched Prompt Scheduling for On-Device LLMs",
@@ -41936,6 +42101,17 @@
         "keywords": "data, your, machine, learning, model, not, quality, better",
         "generated": "2026-07-22T14:08:21.367436",
         "file": "what-if-i-told-you-that-your-machine-learning-model-is-probably-not-your-biggest-problem.md"
+    },
+    {
+        "title": "[Remote] Physics Expert (Condensed Matter / Magnetic Materials) ($80 - $160/hour)",
+        "slug": "remote-physics-expert-condensed-matter-magnetic-materials-80-160hour",
+        "author": "Thom B",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 03:00:59 +0000",
+        "description": "Physics Expert (Condensed Matter / Magnetic Materials) 🌍 100% Remote Position | Micro1 Global Network 💰 Pay Rate: $80 - $160/hour Job Description Required sk...",
+        "keywords": "magnetic, islands, physics, matter, condensed, saint, expert, materials",
+        "generated": "2026-08-06T03:12:22.484341",
+        "file": "remote-physics-expert-condensed-matter-magnetic-materials-80-160hour.md"
     },
     {
         "title": "Reinforcement Learning with Verifiable Rewards: Why AI is Learning to Grade Its Own Homework",
@@ -44565,6 +44741,17 @@
         "file": "gsc-gap-analysis-from-15-queries-to-automated-publishing.md"
     },
     {
+        "title": "LLMs won't break symmetric crypto",
+        "slug": "llms-wont-break-symmetric-crypto",
+        "author": "rowbin",
+        "source": "hackernews",
+        "published": "Thu, 06 Aug 2026 01:39:06 +0000",
+        "description": "Article URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto Comments URL: https://news.ycombinator.com/item?id=49191365 Points: 40 # Comments: 27",
+        "keywords": "llms, break, symmetric, crypto, url, https, comments, won",
+        "generated": "2026-08-06T03:12:22.480002",
+        "file": "llms-wont-break-symmetric-crypto.md"
+    },
+    {
         "title": "The Wholesale Plagiarism of Obscure Sorrows",
         "slug": "the-wholesale-plagiarism-of-obscure-sorrows",
         "author": "ridesisapis",
@@ -46818,6 +47005,17 @@
         "keywords": "language, python, high, level, programming, what, development, intro",
         "generated": "2026-07-26T13:40:34.479346",
         "file": "python-intro.md"
+    },
+    {
+        "title": "Leveraging Reddit for AI Job Search Success",
+        "slug": "leveraging-reddit-for-ai-job-search-success",
+        "author": "Elyasians(elyasians.com)",
+        "source": "devto_webdev",
+        "published": "Thu, 06 Aug 2026 02:48:45 +0000",
+        "description": "As I embarked on my journey to find a new job in the AI sector, I was met with a daunting reality: the job market is incredibly competitive. With the Bureau ...",
+        "keywords": "job, resume, your, ats, search, you, can, cover",
+        "generated": "2026-08-06T03:12:22.485199",
+        "file": "leveraging-reddit-for-ai-job-search-success.md"
     },
     {
         "title": "How Shoppable Videos Increase Conversion Rates in E-commerce",
