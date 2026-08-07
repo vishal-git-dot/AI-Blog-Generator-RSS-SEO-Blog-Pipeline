@@ -1902,6 +1902,17 @@
         "file": "porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-experts.md"
     },
     {
+        "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
+        "slug": "ice-will-release-body-cam-video-only-when-seen-in-the-agencys-best-interests",
+        "author": "geox",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 18:15:33 +0000",
+        "description": "Article URL: https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57 Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "ice, body, article, url, https, com, comments, will",
+        "generated": "2026-08-07T19:04:02.691636",
+        "file": "ice-will-release-body-cam-video-only-when-seen-in-the-agencys-best-interests.md"
+    },
+    {
         "title": "Claude Code for Capacity Planning: How I Stopped Reacting to Growth and Started Planning For It",
         "slug": "claude-code-for-capacity-planning-how-i-stopped-reacting-to-growth-and-started-planning-for-it",
         "author": "Nex Tools",
@@ -6247,6 +6258,17 @@
         "file": "introducing-py-auto-migrate-database-migration-made-simple.md"
     },
     {
+        "title": "Dev.to Technical Engineering Community (Published Live) (Published Live) - Technical Guide",
+        "slug": "devto-technical-engineering-community-published-live-published-live-technical-guide",
+        "author": "Ravendra CHAUDHARY",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 18:40:51 +0000",
+        "description": "Hi Editors, We have published a detailed architectural breakdown of Engineering High-Performance on Chaudhary Tech Blog ( https://www.chaudharytechblog.co.in...",
+        "keywords": "published, engineering, live, dev, technical, community, high, performance",
+        "generated": "2026-08-07T19:04:02.695670",
+        "file": "devto-technical-engineering-community-published-live-published-live-technical-guide.md"
+    },
+    {
         "title": "Mahdi Shamlou | Structural Design Patterns 2026: Facade, Flyweight, Proxy — Production Examples",
         "slug": "mahdi-shamlou-structural-design-patterns-2026-facade-flyweight-proxy-production-examples",
         "author": "Mahdi SHamlou | مهدی شاملو",
@@ -7378,6 +7400,17 @@
         "keywords": "stack, phase, data, write, log, behind, canadian, healthcare",
         "generated": "2026-07-22T14:08:21.362998",
         "file": "the-tech-stack-behind-a-canadian-healthcare-saas-chartpilot-phase-2.md"
+    },
+    {
+        "title": "DeepSeek V4 Flash 0731",
+        "slug": "deepseek-v4-flash-0731",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 17:56:20 +0000",
+        "description": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 79 # Comments: 48",
+        "keywords": "deepseek, flash, url, https, comments, article, arcprize, org",
+        "generated": "2026-08-07T19:04:02.692035",
+        "file": "deepseek-v4-flash-0731.md"
     },
     {
         "title": "The Adversarial Resilience Score: A New Metric for AI-Generated Code",
@@ -11250,6 +11283,17 @@
         "file": "lessons-from-building-a-qr-paired-browser-handoff-tool.md"
     },
     {
+        "title": "Assembly Hall of Shame",
+        "slug": "assembly-hall-of-shame",
+        "author": "piotrgrabowski",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 18:01:30 +0000",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 24 # Comments: 8",
+        "keywords": "hall, shame, url, https, com, comments, assembly, article",
+        "generated": "2026-08-07T19:04:02.691791",
+        "file": "assembly-hall-of-shame.md"
+    },
+    {
         "title": "LLMs in Environmental Science: Applications and Opportunities",
         "slug": "llms-in-environmental-science-applications-and-opportunities",
         "author": "shashank ms",
@@ -11292,6 +11336,17 @@
         "keywords": "you, not, meta, llm, billion, but, they, bytedance",
         "generated": "2026-08-02T03:28:39.844630",
         "file": "metas-31b-quarter-bytedances-seed-llm-goes-driving-and-the-quiet-rise-of-ai-hardware-hacks.md"
+    },
+    {
+        "title": "Sharpness-Aware Minimization: Train for the Worst Loss in a Neighborhood, Not a Single Point",
+        "slug": "sharpness-aware-minimization-train-for-the-worst-loss-in-a-neighborhood-not-a-single-point",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 18:51:29 +0000",
+        "description": "Ordinary training minimizes the loss L(w) at a single point in weight space, so it happily dives into the deepest hole it finds — often a sharp, narrow minim...",
+        "keywords": "loss, gradient, worst, point, rho, sharpness, sgd, sam",
+        "generated": "2026-08-07T19:04:02.692855",
+        "file": "sharpness-aware-minimization-train-for-the-worst-loss-in-a-neighborhood-not-a-single-point.md"
     },
     {
         "title": "AI Prompt Security: Is the Same Protection Necessary for Every",
@@ -12568,6 +12623,17 @@
         "keywords": "day, early, not, same, what, healthcare, software, most",
         "generated": "2026-06-15T05:01:58.097610",
         "file": "what-production-ready-actually-means-for-healthcare-software.md"
+    },
+    {
+        "title": "The End of No Code",
+        "slug": "the-end-of-no-code",
+        "author": "indigodaddy",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 17:59:19 +0000",
+        "description": "Article URL: https://blog.exe.dev/the-end-of-no-code Comments URL: https://news.ycombinator.com/item?id=49214065 Points: 15 # Comments: 3",
+        "keywords": "end, code, url, https, comments, article, blog, exe",
+        "generated": "2026-08-07T19:04:02.691918",
+        "file": "the-end-of-no-code.md"
     },
     {
         "title": "Better Images of AI",
@@ -14537,6 +14603,17 @@
         "keywords": "drug, not, scientific, discovery, can, system, prompt, architecture",
         "generated": "2026-08-02T03:28:39.839452",
         "file": "beyond-prompt-engineering-building-a-cognitive-augmented-ai-architecture-for-drug-discovery.md"
+    },
+    {
+        "title": "Measure pass-all-k, not accuracy: a reliability harness in 60 lines",
+        "slug": "measure-pass-all-k-not-accuracy-a-reliability-harness-in-60-lines",
+        "author": "Anil Prasad",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 18:44:17 +0000",
+        "description": "Run this against whatever you already have. `from collections import Counter def pass_all_k(run, tasks, k=8): run(task, variant) -> bool. Returns (pass_al...",
+        "keywords": "run, task, you, not, tasks, variant, reliability, results",
+        "generated": "2026-08-07T19:04:02.694582",
+        "file": "measure-pass-all-k-not-accuracy-a-reliability-harness-in-60-lines.md"
     },
     {
         "title": "Third Drone Shot Down in Three Days in Romanian Territory",
@@ -18147,6 +18224,17 @@
         "file": "ai-is-changing-hybrid-project-management.md"
     },
     {
+        "title": "Qwen-Max & Wan 2.1 Synergy: Engineering Sub-Second AI Persona Synthesis with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS via Caddy",
+        "slug": "qwen-max-wan-21-synergy-engineering-sub-second-ai-persona-synthesis-with-likeness-lock-v24-on-shadowsocialios-zero-idle-ram-ecs-via-caddy",
+        "author": "Biffer Rowley",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 18:51:04 +0000",
+        "description": "Qwen-Max & Wan 2.1 Integration: Engineering Sub-Second AI Persona Synthesis with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS via Caddy The chal...",
+        "keywords": "our, synthesis, likeness, shadowsocial, second, persona, lock, ecs",
+        "generated": "2026-08-07T19:04:02.698667",
+        "file": "qwen-max-wan-21-synergy-engineering-sub-second-ai-persona-synthesis-with-likeness-lock-v24-on-shadowsocialios-zero-idle-ram-ecs-via-caddy.md"
+    },
+    {
         "title": "How We Built an Autonomous Lead Research Pipeline with AI Agents",
         "slug": "how-we-built-an-autonomous-lead-research-pipeline-with-ai-agents",
         "author": "Dhiraj Chatpar",
@@ -18728,6 +18816,17 @@
         "keywords": "key, merge, source, target, prototype, object, you, pollution",
         "generated": "2026-07-10T09:45:24.782024",
         "file": "why-cursor-keeps-writing-prototype-pollution-into-your-merge-code.md"
+    },
+    {
+        "title": "The Future of Digital Business: Strategies Every Modern Brand Should Know",
+        "slug": "the-future-of-digital-business-strategies-every-modern-brand-should-know",
+        "author": "Aqua GreensUSA",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 18:52:54 +0000",
+        "description": "The way businesses compete online is changing quickly. A strong website, social media presence, and digital advertising are still important, but they are no ...",
+        "keywords": "can, customer, should, business, digital, customers, businesses, more",
+        "generated": "2026-08-07T19:04:02.698131",
+        "file": "the-future-of-digital-business-strategies-every-modern-brand-should-know.md"
     },
     {
         "title": "BizNode runs entirely on your machine — no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7",
@@ -21698,6 +21797,17 @@
         "keywords": "baremetal, ram, dumper, url, https, com, comments, bare",
         "generated": "2026-07-04T19:22:30.074478",
         "file": "baremetal-ram-dumper-bare-metal-x86-tool-for-cold-boot-attack-experiments.md"
+    },
+    {
+        "title": "How to Use Frase for Content Rewriting in 2026",
+        "slug": "how-to-use-frase-for-content-rewriting-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 18:55:03 +0000",
+        "description": "Originally published at https://seointent.com/blog/frase-for-content-rewriting TL;DR - Frase for content rewriting works best when you pair its SERP research...",
+        "keywords": "frase, you, content, rewriting, your, rewrite, seo, what",
+        "generated": "2026-08-07T19:04:02.697532",
+        "file": "how-to-use-frase-for-content-rewriting-in-2026.md"
     },
     {
         "title": "Tensor Is the Might",
@@ -24802,6 +24912,17 @@
         "file": "building-open-source-education-infrastructure-for-african-history-and-the-african-diaspora.md"
     },
     {
+        "title": "Local Outlier Factor: Why a Global Distance Cutoff Fails and a Local Density Ratio Wins",
+        "slug": "local-outlier-factor-why-a-global-distance-cutoff-fails-and-a-local-density-ratio-wins",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 18:50:46 +0000",
+        "description": "Every distance-based outlier detector before LOF asks one global question: how far is this point from the bulk? That question breaks the instant your data ...",
+        "keywords": "distance, point, lrd, local, density, cluster, global, its",
+        "generated": "2026-08-07T19:04:02.694167",
+        "file": "local-outlier-factor-why-a-global-distance-cutoff-fails-and-a-local-density-ratio-wins.md"
+    },
+    {
         "title": "Building a Sports Data Pipeline: Lessons from World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with",
         "slug": "building-a-sports-data-pipeline-lessons-from-world-cup-2026-spain-v-belgium-reaction-kane-confirms-playing-golf-with",
         "author": "Muhammad Bin Nazeer",
@@ -25108,6 +25229,17 @@
         "keywords": "bending, spoons, que, los, evernote, meetup, con, precios",
         "generated": "2026-07-09T19:54:26.402708",
         "file": "adis-a-las-apps-baratas-bending-spoons-compr-aol-vimeo-y-evernote-ahora-vale-25000m.md"
+    },
+    {
+        "title": "Hybrid Search: Fuse BM25 and Dense Vectors With Reciprocal Rank Fusion (No Shared Scale)",
+        "slug": "hybrid-search-fuse-bm25-and-dense-vectors-with-reciprocal-rank-fusion-no-shared-scale",
+        "author": "Devanshu Biswas",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 18:52:11 +0000",
+        "description": "Modern retrieval has two great tools that are each half-blind. Lexical search (BM25) matches actual words: unbeatable on exact keywords, product codes, error...",
+        "keywords": "doc, score, dense, rank, each, but, code, both",
+        "generated": "2026-08-07T19:04:02.698462",
+        "file": "hybrid-search-fuse-bm25-and-dense-vectors-with-reciprocal-rank-fusion-no-shared-scale.md"
     },
     {
         "title": "Netstrings (1997)",
@@ -26318,6 +26450,17 @@
         "keywords": "per, agent, you, cost, customer, your, customers, seat",
         "generated": "2026-07-05T19:25:51.382730",
         "file": "why-per-seat-pricing-breaks-ai-agent-saas-and-what-works-instead.md"
+    },
+    {
+        "title": "O Guia Definitivo de Python!",
+        "slug": "o-guia-definitivo-de-python",
+        "author": "Juan Menezes",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 18:50:53 +0000",
+        "description": "O Guia Definitivo do Python: Por Que Esta É a Melhor Linguagem para Quem Está Começando no mercado de tecnologia expande em ritmo acelerado. Com essa expansã...",
+        "keywords": "python, que, para, uma, como, linguagem, com, por",
+        "generated": "2026-08-07T19:04:02.693779",
+        "file": "o-guia-definitivo-de-python.md"
     },
     {
         "title": "The Russian who invented semiconductors 25 years before the USA",
@@ -28850,6 +28993,17 @@
         "file": "my-api-broke-every-january-1st-the-timezone-bug-that-slipped-past-code-review.md"
     },
     {
+        "title": "Two errors, one error code, and an hour in the wrong editor : What i learnt building WP-Supabase Sync",
+        "slug": "two-errors-one-error-code-and-an-hour-in-the-wrong-editor-what-i-learnt-building-wp-supabase-sync",
+        "author": "Claudio Ibe",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 18:38:46 +0000",
+        "description": "If you write to Supabase from anything, sooner or later Postgres hands you SQLSTATE 42501 . It means one of two things: permission denied for table wp_conten...",
+        "keywords": "supabase, key, you, one, not, your, postgres, table",
+        "generated": "2026-08-07T19:04:02.696154",
+        "file": "two-errors-one-error-code-and-an-hour-in-the-wrong-editor-what-i-learnt-building-wp-supabase-sync.md"
+    },
+    {
         "title": "5 AI tools that generated $50k for creators in 2026 — steal this strategy",
         "slug": "5-ai-tools-that-generated-50k-for-creators-in-2026-steal-this-strategy",
         "author": "Already Here LLC",
@@ -29653,6 +29807,17 @@
         "file": "a-puppy-vaccine-schedule-tool-for-first-time-dog-owners.md"
     },
     {
+        "title": "Structural JSON Diff From Scratch: Compare Meaning, Not Lines, and Emit an RFC 6902 Patch",
+        "slug": "structural-json-diff-from-scratch-compare-meaning-not-lines-and-emit-an-rfc-6902-patch",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 18:50:03 +0000",
+        "description": "A plain text diff treats JSON as lines of characters, so it lies about JSON. Reformat a file, reorder two keys, or add a trailing comma and it screams that e...",
+        "keywords": "path, return, node, changed, one, kind, json, typeof",
+        "generated": "2026-08-07T19:04:02.694898",
+        "file": "structural-json-diff-from-scratch-compare-meaning-not-lines-and-emit-an-rfc-6902-patch.md"
+    },
+    {
         "title": "How to Scrape Shopify Store — Free No-Code Guide (2026)",
         "slug": "how-to-scrape-shopify-store-free-no-code-guide-2026",
         "author": "Logiover",
@@ -30058,6 +30223,17 @@
         "keywords": "carbonsense, gemini, environmental, make, carbon, information, insights, more",
         "generated": "2026-07-12T08:25:23.794187",
         "file": "can-ai-make-carbon-credits-more-trustworthy-i-tried-building-an-answer-with-gemini.md"
+    },
+    {
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "slug": "oracle-bans-ai-generated-code-from-openjdk",
+        "author": "delduca",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 17:36:30 +0000",
+        "description": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments ...",
+        "keywords": "oracle, code, bans, generated, openjdk, url, https, news",
+        "generated": "2026-08-07T19:04:02.692186",
+        "file": "oracle-bans-ai-generated-code-from-openjdk.md"
     },
     {
         "title": "Discovering Cryptographic Weaknesses with Claude",
@@ -33162,6 +33338,17 @@
         "file": "muay-thai-timer-what-we-learned-building-random-tactical-timer.md"
     },
     {
+        "title": "Multi-Provider AI Strategy: Dynamic Routing Cuts Lock-In Risk",
+        "slug": "multi-provider-ai-strategy-dynamic-routing-cuts-lock-in-risk",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 18:58:46 +0000",
+        "description": "Why Multi-Provider AI Matters Building an application around one model provider can simplify an initial launch, but that convenience creates long-term archit...",
+        "keywords": "routing, provider, model, can, application, dynamic, multi, change",
+        "generated": "2026-08-07T19:04:02.696506",
+        "file": "multi-provider-ai-strategy-dynamic-routing-cuts-lock-in-risk.md"
+    },
+    {
         "title": "Array Methods in JS - Part 2",
         "slug": "array-methods-in-js-part-2",
         "author": "Annapoorani Kadhiravan",
@@ -34854,6 +35041,17 @@
         "keywords": "month, resolution, you, spring, january, new, retention, dataset",
         "generated": "2026-07-02T19:40:41.064336",
         "file": "does-the-month-you-start-predict-whether-you-keep-a-habit-11m-piano-learners-say-yes.md"
+    },
+    {
+        "title": "How Fruit Ninja Works: Projectile Arcs and One Line of Geometry Slice Every Fruit",
+        "slug": "how-fruit-ninja-works-projectile-arcs-and-one-line-of-geometry-slice-every-fruit",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 18:47:56 +0000",
+        "description": "Fruit Ninja looks like it needs a sprite atlas and a physics engine. It doesn't. Strip it down and the whole game is two ideas stacked together: fruit are pr...",
+        "keywords": "fruit, const, segment, one, line, bomb, distance, point",
+        "generated": "2026-08-07T19:04:02.695536",
+        "file": "how-fruit-ninja-works-projectile-arcs-and-one-line-of-geometry-slice-every-fruit.md"
     },
     {
         "title": "OpenJDK Interim Policy on Generative AI",
@@ -47632,6 +47830,17 @@
         "file": "ramadan-mosque-chair-rental-kuwait.md"
     },
     {
+        "title": "The iOS Toggle Switch Is a Hidden Checkbox: Two CSS Rules and Zero JavaScript",
+        "slug": "the-ios-toggle-switch-is-a-hidden-checkbox-two-css-rules-and-zero-javascript",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 18:48:38 +0000",
+        "description": "Most toggle switch components are a <div> wearing a costume — and they pay for it forever, hand-rebuilding focus, keyboard support, form submission, and ac...",
+        "keywords": "checked, input, track, thumb, switch, checkbox, toggle, css",
+        "generated": "2026-08-07T19:04:02.695225",
+        "file": "the-ios-toggle-switch-is-a-hidden-checkbox-two-css-rules-and-zero-javascript.md"
+    },
+    {
         "title": "crustc: entirety of `rustc`, translated to C",
         "slug": "crustc-entirety-of-rustc-translated-to-c",
         "author": "Philpax",
@@ -50248,6 +50457,17 @@
         "keywords": "amiga, ten, years, ahead, its, time, url, https",
         "generated": "2026-07-23T08:38:07.280539",
         "file": "amiga-1000-ten-years-ahead-of-its-time.md"
+    },
+    {
+        "title": "Multi-Agent Debate: Personas Argue, a Critic Probes, and Confidence Falls Out of Consensus",
+        "slug": "multi-agent-debate-personas-argue-a-critic-probes-and-confidence-falls-out-of-consensus",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 18:53:36 +0000",
+        "description": "Ask one model the same question three times and you get three paraphrases and a confident tone — whether or not the answer is actually contested. A multi-age...",
+        "keywords": "not, confidence, answer, debate, three, stance, model, question",
+        "generated": "2026-08-07T19:04:02.692544",
+        "file": "multi-agent-debate-personas-argue-a-critic-probes-and-confidence-falls-out-of-consensus.md"
     },
     {
         "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
