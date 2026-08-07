@@ -4,16 +4,16 @@ slug: "framework-discloses-data-breach-via-metabase-0-day"
 author: "RobinHirst11"
 source: "hackernews"
 published: "Fri, 07 Aug 2026 05:17:57 +0000"
-description: "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 43 # C..."
+description: "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 113 # ..."
 keywords: "framework, data, breach, url, https, comments, discloses, via"
-generated: "2026-08-07T07:23:56.533521"
+generated: "2026-08-07T13:15:09.528862"
 ---
 
 # Framework discloses data breach via Metabase 0-day
 
 ## Overview
 
-Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 43 # Comments: 7
+Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 113 # Comments: 39
 
 ## Key Insights
 

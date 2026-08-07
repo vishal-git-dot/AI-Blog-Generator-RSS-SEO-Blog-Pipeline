@@ -1,0 +1,34 @@
+---
+title: "I ported croniter to Rust and got 228/228. That number proved nothing"
+slug: "i-ported-croniter-to-rust-and-got-228228-that-number-proved-nothing"
+author: "Avinash Gehi"
+source: "devto_python"
+published: "Fri, 07 Aug 2026 13:08:34 +0000"
+description: "A port that compiles and passes its tests isn't evidence the port is correct. It's evidence that whoever wrote the port also controlled the tests. Generating..."
+keywords: "one, port, tests, croniter, suite, rust, run, not"
+generated: "2026-08-07T13:15:09.529344"
+---
+
+# I ported croniter to Rust and got 228/228. That number proved nothing
+
+## Overview
+
+A port that compiles and passes its tests isn't evidence the port is correct. It's evidence that whoever wrote the port also controlled the tests. Generating a port is nearly free now. Proving it holds up is the part almost nobody does. So here's what I actually did to try to falsify my own croniter → Rust port, and where it fell short. 1. Run the original tests, hash-pinned Not a translated suite. The actual upstream files, SHA-256 fingerprinted before a line of Rust existed, wired to Rust through a PyO3 bridge. git log -- tests/original/ shows one commit: the vendoring. Then the step I'd argue is mandatory: build the bridge against a deliberately wrong stub first and confirm the tests fail. 222 failed, 6 passed That's success — it proves the suite is importing and judging Rust before any correct logic exists to muddy the signal. And note the 6: my stub returned False from is_valid , which satisfies every test asserting an expression is invalid. Even my broken baseline had false positives. 2. Sabotage your own green suite 228/228 has two explanations and you can't tell them apart from the green: the port is right, or the suite can't fail. So I broke it on purpose — two single-token changes in two unrelated files: consts.rs hour range (0,23) -> (0,22) -> 32 failed, 196 passed expand.rs wrap length +1 -> +2 -> 2 failed, 226 passed reverted -> 228 passed Ten minutes, and it's the difference between a measurement and a decoration. I did the same to the benchmark checksum. 3. Make the library contradict itself The technique I'd steal from this project. croniter exposes three APIs answering overlapping questions — get_next , get_prev , match — and they must agree. If get_next(start) returns N , nothing strictly between may match , and N must match . A violation means the library contradicts itself and one answer is wrong under any reading of cron semantics. That's an oracle with no external reference. No second implementation, no spec, no human. The library grades itself. My first one was worthless. It checked one property, on naive datetimes only, never called get_prev . 19,440 cases, zero findings — and I briefly read zero as correctness. It was evidence the question was too easy. An invariant that can't fail isn't an oracle. The rewrite checked five properties, called get_prev , and biased half its start times to within four hours of a real DST transition — including Australia/Lord_Howe, the only zone on Earth with a 30-minute shift. It found two real bugs in croniter, both now filed upstream ( #258 , #259 ): tz = zoneinfo . ZoneInfo ( " Australia/Lord_Howe " ) start = datetime ( 2019 , 10 , 6 , 1 , 43 , tzinfo = tz ) croniter ( " 0 * * * * " , start ). get_next ( datetime ) # 03:00+11:00 croniter ( " 0 * * * * " , nxt ). get_prev ( datetime ) # 02:30+11:00 <- AFTER start croniter . match ( " 0 * * * * " , < 02 : 30 + 11 : 00 > ) # True match returns True for a minute-0 schedule at minute 30 . In a normal 1-hour zone the same code path lands on 03:00, which is valid — so the bug is invisible everywhere except the 30-minute shift. Which is exactly why the generator was pointed there. The second: croniter_range 's stop test is v < stop , and CPython ignores tzinfo when both operands share it. Across a DST transition it compares wall-clock instead of elapsed time — returning 1 result where 6 exist, or results outside the interval you asked for. Silent, no exception. My port reproduces both deliberately. A port's job is to behave like the thing it ports, including where that's wrong. 4. The bug 228 passing tests could not find Differential fuzzing: same probe under two interpreters, comparing values and exception types . Adding timezone-aware inputs surfaced 221 divergences in 164,500 — all one cause, and it was a type, not a value. croniter raises a bare ValueError ; my port raised CroniterError . CroniterError subclasses ValueError . Every except ValueError caught it. The suite was green at 228/228 before and after. It could not have found this, no matter how long I ran it. That's the whole argument for differential fuzzing in one paragraph. Zero value divergences, though — the date math was right, only a label was wrong. Final run: 160,500 inputs, 0 divergences. 5. What I'd take back The first oracle cost a day and taught nothing. I should have asked "what input would falsify this?" before running it for an hour. Triage cost more than the hunt. One harness gave 927 raw findings; 750 were documented behaviour. An earlier one gave 1,408 findings that were entirely my own bug in the checker. The fuzzer tests the bridge, not the shipped binary. Both sides run under Python, so core is validated as called through PyO3 . The artifact judges receive is one layer removed from the evidence. 228/228 hid a hole in the deliverable. Every timezone test supplies a tzinfo , so they all went through the bridge — while the standalone binary couldn't do DST at all. A suite measures the path the tests take. Mine bypassed a third of the product and reported full marks. I wrote an unverified claim into my own README (a Docker build that had never run). Caught it late, marked it unverified rather than deleting it. The number nobody prints: the suite runs in 1.54s against Python and ~1.8s against my 25x-faster Rust. Every call crosses FFI. Both facts are true at once. Numbers 228/228 on unmodified tests · 160,500 fuzz inputs, 0 divergences · 2 upstream bugs filed · 0 unsafe (compiler-enforced) · 25.3x mean, 26.1x p99, 3.2x smaller RSS · 0 test files modified. Every figure was observed on one machine and written down after the run. The one claim I couldn't verify is marked as unverified in the repo rather than dropped. Repo: github.com/Avi36005/Portmortem-Team-Kryptonite
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/avinash_gehi30/i-ported-croniter-to-rust-and-got-228228-that-number-proved-nothing-3lgd
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

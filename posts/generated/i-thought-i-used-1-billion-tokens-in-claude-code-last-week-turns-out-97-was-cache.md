@@ -1,0 +1,34 @@
+---
+title: "I Thought I Used 1 Billion Tokens in Claude Code Last Week. Turns Out 97% Was Cache."
+slug: "i-thought-i-used-1-billion-tokens-in-claude-code-last-week-turns-out-97-was-cache"
+author: "flipslidersand"
+source: "devto_ai"
+published: "Fri, 07 Aug 2026 13:10:28 +0000"
+description: "Last week, I pulled my Claude Code usage logs and saw this number: 1.36 billion tokens in a single week. My first reaction was somewhere between impressed an..."
+keywords: "claude, tokens, code, cache, context, input, output, turns"
+generated: "2026-08-07T13:15:09.531917"
+---
+
+# I Thought I Used 1 Billion Tokens in Claude Code Last Week. Turns Out 97% Was Cache.
+
+## Overview
+
+Last week, I pulled my Claude Code usage logs and saw this number: 1.36 billion tokens in a single week. My first reaction was somewhere between impressed and alarmed. Then I looked at the breakdown. The Breakdown Type Tokens Share input 0.1M 0.0% cache_create 30.2M 2.2% cache_read 1,326.5M 97.4% output 5.9M 0.4% Total 1,362.7M 100% 97.4% of that 1.36B was cache_read . Only about 30.2M tokens were newly written to the cache, and Claude generated another 5.9M output tokens. So while the headline number was 1.36B tokens, only about 36M were new cache writes or generated output. The raw total was roughly 38× larger than that number. What Is cache_read? Anthropic's API has a feature called Prompt Caching, and Claude Code makes heavy use of it. During a coding session, Claude repeatedly references the same large body of context: Your CLAUDE.md project instructions Files it has already read Tool definitions and results Conversation history Context accumulated during the session Instead of processing all of that as fresh input on every request, reusable parts can be cached. Subsequent requests can then read from that cache. That's what shows up as cache_read . The cost difference matters: cache reads are priced at roughly one-tenth the cost of regular input tokens. For an agent like Claude Code, which repeatedly works against a large shared context, that makes caching extremely important. 13,972 Turns in One Week Here's another number that caught my attention. During the same week: 13,972 model turns . That's roughly 2,000 turns per day. To be clear, this does not mean I typed 2,000 prompts every day. Claude Code operates as an agent. A task can involve repeated cycles of: Reading files Running commands Inspecting results Editing code Running tests Deciding what to do next One request from me can therefore result in many model calls behind the scenes. So 13,972 turns says less about how much I typed and more about how I use Claude Code: not as a chat interface, but as a persistent development agent. About 97,500 Tokens per Turn If you divide 1,362.7M tokens by 13,972 turns, you get roughly 97,500 tokens per turn . That sounds enormous. But again, the important part is the composition. 97.4% of the total was cache_read . Claude wasn't receiving 97,500 completely new tokens every turn. It was repeatedly working against a large existing context, most of which could be reused from cache. That makes the number much easier to understand. The Input-to-Output Ratio: 230:1 There's another ratio I found interesting. Total input-side tokens (input + cache_create + cache_read): about 1,356M. Output was only 5.9M. So the ratio is roughly 230:1 . Claude reads about 230 tokens for every token it writes. And that actually matches what Claude Code feels like in practice. It can read a large codebase, conversation history, tool output, project instructions, and test results — then respond by changing three lines of code or deciding which command to run next. It's less like a writer producing large amounts of text and more like an engineer who reads a huge amount of material before making a relatively small change. The output alone doesn't show how much context went into that decision. Is a High cache_read Ratio Good? From a cost-efficiency perspective, yes. If Claude can reuse cached context instead of repeatedly paying the full input cost for the same tokens, the workload becomes significantly cheaper. A 97% cache_read ratio means Claude Code is getting a lot of reuse out of context it has already processed. If I saw the opposite — very little cache_read and a large amount of regular input or repeated cache creation — I'd start looking at things like: Whether the cache is being reused effectively Whether sessions are being restarted too frequently Whether the context changes too much between requests But there's an important distinction: cache efficiency ≠ inference quality Cheaply re-reading a huge context does not necessarily mean Claude is reasoning over that context perfectly. Very long sessions can still produce drift: forgotten constraints, inconsistent naming, or decisions that contradict something established earlier. I've seen exactly that happen after long Claude Code sessions. So there are really two separate questions: How efficiently is the context being reused? How well is the model still reasoning over that context? My logs suggest the answer to the first question is: extremely efficiently. The second is more complicated. A Note on the Max Plan I'm using Claude Code through Claude's Max plan, so these token counts do not translate directly into a pay-per-token API bill. Still, the breakdown tells us something useful about how the workload behaves. The key point is: A total token count does not tell you how expensive or computationally "new" the workload was. A billion regular input tokens and a billion cache-read tokens are very different workloads from a pricing perspective. For API users, the distinction matters even more because regular input, cache writes, cache reads, and output are priced differently. Looking only at the total can give a very misleading picture. Summary One week of Claude Code usage: Total tokens: 1.36B cache_read: 1.33B (97.4%) cache_create: 30.2M Output: 5.9M New cache writes + output: ~36M Model turns: 13,972 Average tokens per turn: ~97,500 Input-to-output ratio: ~230:1 At first, 1.36 billion tokens sounded absurd. Then I realized that almost all of it was Claude repeatedly reusing the same large context across thousands of agentic steps. So the number that actually surprised me wasn't the token count. It was this: 13,972 turns in one week. I'm still thinking about that one.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/flipslidersand/i-thought-i-used-1-billion-tokens-in-claude-code-last-week-turns-out-97-was-cache-1m2i
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

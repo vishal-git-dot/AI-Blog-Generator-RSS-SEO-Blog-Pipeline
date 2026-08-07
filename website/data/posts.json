@@ -1175,6 +1175,17 @@
         "file": "your-django-background-scheduler-is-probably-running-twice-heres-why-and-the-migrate-chicken-and-egg.md"
     },
     {
+        "title": "I Built an AI Frontend Generator — Make Your UI",
+        "slug": "i-built-an-ai-frontend-generator-make-your-ui",
+        "author": "Arsalan Mlaik",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 13:09:59 +0000",
+        "description": "I’ve been working on an AI tool that can generate frontend UI from images or simple text descriptions . You can: 🖼️ Image → Code — upload a UI screenshot and...",
+        "keywords": "code, frontend, you, make, test, generator, your, can",
+        "generated": "2026-08-07T13:15:09.530873",
+        "file": "i-built-an-ai-frontend-generator-make-your-ui.md"
+    },
+    {
         "title": "How Unix spell ran in 64 kB of RAM",
         "slug": "how-unix-spell-ran-in-64-kb-of-ram",
         "author": "donw",
@@ -1647,6 +1658,17 @@
         "keywords": "marina, you, month, automation, bookings, hours, she, dms",
         "generated": "2026-06-29T20:06:45.989974",
         "file": "how-a-hair-salon-automated-80-of-their-bookings-case-study.md"
+    },
+    {
+        "title": "Unpacking NVIDIA’s Vera Whitep…",
+        "slug": "unpacking-nvidias-vera-whitep",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 13:06:42 +0000",
+        "description": "Originally published at norvik.tech Introduction A deep dive into NVIDIA's Vera whitepaper, exploring its architecture, implications for web development, and...",
+        "keywords": "vera, performance, can, architecture, web, real, nvidia, norvik",
+        "generated": "2026-08-07T13:15:09.531306",
+        "file": "unpacking-nvidias-vera-whitep.md"
     },
     {
         "title": "The journey begins with an Imagine If.",
@@ -4784,6 +4806,17 @@
         "file": "context-engineering-for-enterprise-ai-part-2-the-memory-layer-that-makes-agents-useful.md"
     },
     {
+        "title": "Your Pipeline Is 6.9h Behind: Catching Commodities Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-69h-behind-catching-commodities-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 13:07:50 +0000",
+        "description": "Your Pipeline Is 6.9h Behind: Catching Commodities Sentiment Leads with Pulsebit We recently uncovered a striking anomaly: a 24h momentum spike of -0.406 in ...",
+        "keywords": "sentiment, commodities, pulsebit, english, you, can, narrative, data",
+        "generated": "2026-08-07T13:15:09.529637",
+        "file": "your-pipeline-is-69h-behind-catching-commodities-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Claude Code and Its Role in Re…",
         "slug": "claude-code-and-its-role-in-re",
         "author": "Norvik Tech",
@@ -7116,6 +7149,17 @@
         "file": "statement-on-us-government-directive-to-suspend-access-to-fable-5-and-mythos-5.md"
     },
     {
+        "title": "The Podcast Discovery Problem Nobody Talks About (And How AI Can Help)",
+        "slug": "the-podcast-discovery-problem-nobody-talks-about-and-how-ai-can-help",
+        "author": "seller-mind",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 13:03:09 +0000",
+        "description": "There are over 4 million podcasts worldwide. New episodes drop every day. And 90% of them have fewer than 100 listeners. The problem isn't content quality. I...",
+        "keywords": "title, episode, email, titles, your, how, what, downloads",
+        "generated": "2026-08-07T13:15:09.532094",
+        "file": "the-podcast-discovery-problem-nobody-talks-about-and-how-ai-can-help.md"
+    },
+    {
         "title": "Show HN: KiCad in the Browser",
         "slug": "show-hn-kicad-in-the-browser",
         "author": "ViktorEE",
@@ -9138,6 +9182,17 @@
         "file": "after-losses-retail-investors-flock-to-3x-leverage-as-2x-product-are-restricted.md"
     },
     {
+        "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
+        "slug": "bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas",
+        "author": "almog",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 10:33:00 +0000",
+        "description": "Article URL: https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668 Comments URL: https://news.ycombinator.c...",
+        "keywords": "bulldozers, plow, through, big, bend, national, park, sparking",
+        "generated": "2026-08-07T13:15:09.528561",
+        "file": "bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas.md"
+    },
+    {
         "title": "From Python-Only to Language-Agnostic: How Endee Handles Encrypted Vector Search",
         "slug": "from-python-only-to-language-agnostic-how-endee-handles-encrypted-vector-search",
         "author": "Reena Sharma",
@@ -9708,6 +9763,17 @@
         "keywords": "model, you, our, month, every, not, prompt, provider",
         "generated": "2026-06-21T19:51:26.682246",
         "file": "how-i-cut-our-ai-bill-by-65-a-ctos-model-selection-playbook.md"
+    },
+    {
+        "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+        "slug": "show-hn-certo-an-open-source-platform-to-deliver-open-badges",
+        "author": "thejoin95",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 09:10:30 +0000",
+        "description": "Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials. It implements Open Badges 3.0[1] and W3C Verifiable...",
+        "keywords": "open, https, credentials, org, certo, hat, source, badges",
+        "generated": "2026-08-07T13:15:09.528789",
+        "file": "show-hn-certo-an-open-source-platform-to-deliver-open-badges.md"
     },
     {
         "title": "I was hired to manage the code, not write it. I left as their CTO.",
@@ -13527,6 +13593,17 @@
         "file": "three-pitfalls-in-dashboard-ca.md"
     },
     {
+        "title": "DOGE overstated savings, government watchdog says",
+        "slug": "doge-overstated-savings-government-watchdog-says",
+        "author": "ceejayoz",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 12:27:40 +0000",
+        "description": "Article URL: https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797 Comments URL: https://news.ycombinator.com/item?id=492...",
+        "keywords": "doge, overstated, savings, watchdog, url, https, com, news",
+        "generated": "2026-08-07T13:15:09.528379",
+        "file": "doge-overstated-savings-government-watchdog-says.md"
+    },
+    {
         "title": "AI Agent Memory: How to Make Your Agent Remember Everything",
         "slug": "ai-agent-memory-how-to-make-your-agent-remember-everything",
         "author": "AutoMate AI",
@@ -15336,9 +15413,9 @@
         "author": "RobinHirst11",
         "source": "hackernews",
         "published": "Fri, 07 Aug 2026 05:17:57 +0000",
-        "description": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 43 # C...",
+        "description": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 113 # ...",
         "keywords": "framework, data, breach, url, https, comments, discloses, via",
-        "generated": "2026-08-07T07:23:56.533521",
+        "generated": "2026-08-07T13:15:09.528862",
         "file": "framework-discloses-data-breach-via-metabase-0-day.md"
     },
     {
@@ -16266,6 +16343,17 @@
         "file": "minecraft-java-edition-now-uses-sdl3.md"
     },
     {
+        "title": "Qwen Code vs Aider vs OpenCode: I Ran the Same 12 Tasks Through 3 Local CLI Agents on One RTX 4070",
+        "slug": "qwen-code-vs-aider-vs-opencode-i-ran-the-same-12-tasks-through-3-local-cli-agents-on-one-rtx-4070",
+        "author": "Ken Imoto",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 13:00:00 +0000",
+        "description": "I pointed three coding CLIs at the same local model and ran twelve tasks through each one. The model was Qwen 35B, hosted on an RTX 4070 12GB via llama-serve...",
+        "keywords": "code, qwen, you, not, aider, one, model, task",
+        "generated": "2026-08-07T13:15:09.530386",
+        "file": "qwen-code-vs-aider-vs-opencode-i-ran-the-same-12-tasks-through-3-local-cli-agents-on-one-rtx-4070.md"
+    },
+    {
         "title": "Chrome Extension Development Setup: The 2026 Starter Guide | ExtensionBooster",
         "slug": "chrome-extension-development-setup-the-2026-starter-guide-extensionbooster",
         "author": "Quang Phan",
@@ -16880,6 +16968,17 @@
         "keywords": "api, ocr, goldbean, baidu, curl, key, https, json",
         "generated": "2026-06-17T04:47:02.509484",
         "file": "5-baidu-ocr-goldbean.md"
+    },
+    {
+        "title": "My MCP Tool's Docstring Promised 'limit: 1-100.' Passing -1 Returned Almost Everything, Not Nothing.",
+        "slug": "my-mcp-tools-docstring-promised-limit-1-100-passing-1-returned-almost-everything-not-nothing",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 12:59:34 +0000",
+        "description": "Every audit of server.py I've done before this one went looking for a specific bug shape first — a missing except block, a docstring's claimed API parameter ...",
+        "keywords": "limit, repos, sort, one, docstring, fix, nothing, list",
+        "generated": "2026-08-07T13:15:09.530752",
+        "file": "my-mcp-tools-docstring-promised-limit-1-100-passing-1-returned-almost-everything-not-nothing.md"
     },
     {
         "title": "The war on terror primed America for autocracy",
@@ -17606,6 +17705,17 @@
         "keywords": "costperprompt, url, https, com, comments, show, live, api",
         "generated": "2026-08-02T03:28:39.838298",
         "file": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators.md"
+    },
+    {
+        "title": "Constitutional AI: os princípios éticos que tornam o Claude único",
+        "slug": "constitutional-ai-os-princpios-ticos-que-tornam-o-claude-nico",
+        "author": "André Dias Moreira Prol",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 13:01:40 +0000",
+        "description": "Quando avalio arquiteturas de IA para projetos de tokenização e perícia digital, percebo que a maioria dos debates ignora uma pergunta fundamental: como um m...",
+        "keywords": "que, como, claude, para, uma, modelo, dos, por",
+        "generated": "2026-08-07T13:15:09.532338",
+        "file": "constitutional-ai-os-princpios-ticos-que-tornam-o-claude-nico.md"
     },
     {
         "title": "Arabian Towers Conference Hospitality Kuwait City — خدمة ضيافة عربية فاخرة للمؤتمرات في قاعات فندق برج العرب بمدينة الكويت",
@@ -20193,6 +20303,17 @@
         "file": "i-built-a-tool-to-automate-growth-but-crickets-advice.md"
     },
     {
+        "title": "Soul in Motion — 6:29 PM | 2026-08-07",
+        "slug": "soul-in-motion-629-pm-2026-08-07",
+        "author": "Dev Rajput",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 13:06:56 +0000",
+        "description": "TL;DR Reduced file upload times by nearly a third through backend optimizations. Improved interface usability by addressing underlying complexities. Utilized...",
+        "keywords": "code, more, which, system, self, file, upload, interface",
+        "generated": "2026-08-07T13:15:09.529877",
+        "file": "soul-in-motion-629-pm-2026-08-07.md"
+    },
+    {
         "title": "Why Custom Web Applications Are Worth Building Instead of Buying",
         "slug": "why-custom-web-applications-are-worth-building-instead-of-buying",
         "author": "CodePraise Infotech",
@@ -21511,6 +21632,17 @@
         "keywords": "seo, learning, can, course, digital, skills, career, search",
         "generated": "2026-07-18T08:00:40.329345",
         "file": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing.md"
+    },
+    {
+        "title": "Multimodal Models Are Only as Good as Their Weakest Encoder",
+        "slug": "multimodal-models-are-only-as-good-as-their-weakest-encoder",
+        "author": "AI Explore",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 13:01:12 +0000",
+        "description": "TL;DR — Multimodal models look like a single system in the demo but are actually a pipeline of independently-trained encoders bolted onto a shared decoder. E...",
+        "keywords": "model, not, text, one, vision, encoder, you, multimodal",
+        "generated": "2026-08-07T13:15:09.532679",
+        "file": "multimodal-models-are-only-as-good-as-their-weakest-encoder.md"
     },
     {
         "title": "How YouTube Thumbnail URLs Work: A Simple Guide",
@@ -24360,6 +24492,17 @@
         "keywords": "url, https, com, comments, crime, pays, but, botany",
         "generated": "2026-08-06T08:45:23.993120",
         "file": "crime-pays-but-botany-doesnt.md"
+    },
+    {
+        "title": "Building a Shopify Embedded App with Remix and Supabase",
+        "slug": "building-a-shopify-embedded-app-with-remix-and-supabase",
+        "author": "seller-mind",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 13:07:37 +0000",
+        "description": "Building a Shopify app in 2026 means using the Remix framework, App Bridge for embedded UI, and dealing with Shopify session tokens. Here is what I learned b...",
+        "keywords": "app, shopify, session, building, embedded, remix, bridge, parcelglance",
+        "generated": "2026-08-07T13:15:09.530986",
+        "file": "building-a-shopify-embedded-app-with-remix-and-supabase.md"
     },
     {
         "title": "Beyond the Model: Building the AI Harness",
@@ -30410,6 +30553,17 @@
         "keywords": "windows, macdrive, apfs, encrypted, version, support, volumes, owc",
         "generated": "2026-07-03T19:37:54.522326",
         "file": "owc-macdrive-v120082-for-windows.md"
+    },
+    {
+        "title": "The Pre-Launch SEO Checklist I Use for Every SaaS Landing Page",
+        "slug": "the-pre-launch-seo-checklist-i-use-for-every-saas-landing-page",
+        "author": "seller-mind",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 13:05:27 +0000",
+        "description": "Before you spend a dollar on ads, make sure your landing page is SEO-ready. Here is the exact checklist I use before launching any SaaS product page. 1. Titl...",
+        "keywords": "your, page, seo, title, free, checklist, use, tool",
+        "generated": "2026-08-07T13:15:09.531439",
+        "file": "the-pre-launch-seo-checklist-i-use-for-every-saas-landing-page.md"
     },
     {
         "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
@@ -39267,6 +39421,17 @@
         "file": "how-i-built-a-real-time-sports-stats-tracker-one-month-two-record-transfers-why-english-midfielders-are-in-demand.md"
     },
     {
+        "title": "I Thought I Used 1 Billion Tokens in Claude Code Last Week. Turns Out 97% Was Cache.",
+        "slug": "i-thought-i-used-1-billion-tokens-in-claude-code-last-week-turns-out-97-was-cache",
+        "author": "flipslidersand",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 13:10:28 +0000",
+        "description": "Last week, I pulled my Claude Code usage logs and saw this number: 1.36 billion tokens in a single week. My first reaction was somewhere between impressed an...",
+        "keywords": "claude, tokens, code, cache, context, input, output, turns",
+        "generated": "2026-08-07T13:15:09.531917",
+        "file": "i-thought-i-used-1-billion-tokens-in-claude-code-last-week-turns-out-97-was-cache.md"
+    },
+    {
         "title": "What a LangGraph Engagement Looks Like",
         "slug": "what-a-langgraph-engagement-looks-like",
         "author": "Debbie Shapiro",
@@ -42937,6 +43102,17 @@
         "keywords": "resume, not, string, user, career, zesume, model, template",
         "generated": "2026-07-14T13:57:07.331783",
         "file": "building-an-ai-resume-rewriter-that-refuses-to-invent-achievements.md"
+    },
+    {
+        "title": "How to Track Your Brand's Visibility in ChatGPT, Gemini, Perplexity & Claude (With Code)",
+        "slug": "how-to-track-your-brands-visibility-in-chatgpt-gemini-perplexity-claude-with-code",
+        "author": "Krutika Galvankar",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 13:05:09 +0000",
+        "description": "AI search engines like ChatGPT, Gemini, Perplexity, and Claude are changing how people discover brands. Instead of clicking through Google results, users now...",
+        "keywords": "webscore, your, geo, result, brand, sdk, console, log",
+        "generated": "2026-08-07T13:15:09.531592",
+        "file": "how-to-track-your-brands-visibility-in-chatgpt-gemini-perplexity-claude-with-code.md"
     },
     {
         "title": "What Can an AI Agent Actually Do on Your Phone? 12 Tasks, and the Execution Problem Behind Them",
@@ -46666,6 +46842,17 @@
         "file": "building-a-production-ready-async-api-client-in-python.md"
     },
     {
+        "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+        "slug": "us-strikes-12b-deal-to-pay-german-firm-to-halt-offshore-wind-projects",
+        "author": "defrost",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 10:28:55 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o Comments URL: https://news.ycombinator.com/item?id=49208314 Points: 391 # Comments: 359",
+        "keywords": "url, https, com, news, comments, strikes, deal, pay",
+        "generated": "2026-08-07T13:15:09.528652",
+        "file": "us-strikes-12b-deal-to-pay-german-firm-to-halt-offshore-wind-projects.md"
+    },
+    {
         "title": "What a Refrigerator Taught Me About Building an AI Troubleshooting Tool",
         "slug": "what-a-refrigerator-taught-me-about-building-an-ai-troubleshooting-tool",
         "author": "Michael Groover",
@@ -46675,6 +46862,17 @@
         "keywords": "what, troubleshooting, best, isn, like, can, you, refrigerator",
         "generated": "2026-06-05T20:02:11.238991",
         "file": "what-a-refrigerator-taught-me-about-building-an-ai-troubleshooting-tool.md"
+    },
+    {
+        "title": "I ported croniter to Rust and got 228/228. That number proved nothing",
+        "slug": "i-ported-croniter-to-rust-and-got-228228-that-number-proved-nothing",
+        "author": "Avinash Gehi",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 13:08:34 +0000",
+        "description": "A port that compiles and passes its tests isn't evidence the port is correct. It's evidence that whoever wrote the port also controlled the tests. Generating...",
+        "keywords": "one, port, tests, croniter, suite, rust, run, not",
+        "generated": "2026-08-07T13:15:09.529344",
+        "file": "i-ported-croniter-to-rust-and-got-228228-that-number-proved-nothing.md"
     },
     {
         "title": "Chinese AI Models in 2026: A Developer's Guide to 10x Cheaper GPT-4 Alternatives",
@@ -47707,6 +47905,17 @@
         "keywords": "gov, adyen, https, com, comments, has, replaced, stripe",
         "generated": "2026-06-05T20:02:11.235016",
         "file": "govuk-has-replaced-stripe-with-dutch-provider-adyen.md"
+    },
+    {
+        "title": "How to Use Frase for How-To Guides in 2026",
+        "slug": "how-to-use-frase-for-how-to-guides-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 13:00:56 +0000",
+        "description": "Originally published at https://seointent.com/blog/frase-for-how-to-guides TL;DR - Frase for how-to guides works best when you use it to research SERP struct...",
+        "keywords": "frase, how, you, your, step, guides, content, use",
+        "generated": "2026-08-07T13:15:09.533610",
+        "file": "how-to-use-frase-for-how-to-guides-in-2026.md"
     },
     {
         "title": "Why approval in an automated pipeline should expire",
