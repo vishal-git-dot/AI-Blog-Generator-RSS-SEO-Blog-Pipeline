@@ -517,6 +517,17 @@
         "file": "the-hardest-part-of-a-pre-release-game-tracker-isnt-the-ui-its-the-provenance-field.md"
     },
     {
+        "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+        "slug": "new-orleans-is-testing-carbynes-ai-powered-emergency-call-triage-software",
+        "author": "champagnepapi",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+        "description": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-i...",
+        "keywords": "new, orleans, url, https, com, news, comments, testing",
+        "generated": "2026-08-07T07:23:56.533697",
+        "file": "new-orleans-is-testing-carbynes-ai-powered-emergency-call-triage-software.md"
+    },
+    {
         "title": "Blogger Triumphs Over Photographer in Copyright Clash",
         "slug": "blogger-triumphs-over-photographer-in-copyright-clash",
         "author": "Ryan M",
@@ -5026,6 +5037,17 @@
         "file": "monitorear-agentes-de-ia-con-cloudwatch.md"
     },
     {
+        "title": "How KV Cache Prefetch Cuts Storage Latency",
+        "slug": "how-kv-cache-prefetch-cuts-storage-latency",
+        "author": "Mingxin Technology",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 07:15:22 +0000",
+        "description": "KV Cache data prefetch is currently one of the most effective means of reducing storage latency in large-model inference: measured on the Mingxin FX100 under...",
+        "keywords": "prefetch, storage, cache, measured, model, latency, mingxin, data",
+        "generated": "2026-08-07T07:23:56.538904",
+        "file": "how-kv-cache-prefetch-cuts-storage-latency.md"
+    },
+    {
         "title": "Building agents without harness engineering",
         "slug": "building-agents-without-harness-engineering",
         "author": "rajit",
@@ -6038,6 +6060,17 @@
         "file": "artless-technology.md"
     },
     {
+        "title": "iContext: Cómo ahorré $20 a la semana en tokens de ChatGPT debuggeando 391 archivos",
+        "slug": "icontext-cmo-ahorr-20-a-la-semana-en-tokens-de-chatgpt-debuggeando-391-archivos",
+        "author": "A&L digital",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 06:35:31 +0000",
+        "description": "El problema: perder dinero y tiempo con IA ¿Cuántas veces has pegado 5,000 líneas de código en ChatGPT esperando una solución y la IA: Alucina imports que no...",
+        "keywords": "icontext, archivos, src, que, tokens, con, proyecto, contexto",
+        "generated": "2026-08-07T07:23:56.535322",
+        "file": "icontext-cmo-ahorr-20-a-la-semana-en-tokens-de-chatgpt-debuggeando-391-archivos.md"
+    },
+    {
         "title": "[Part 42/50] Building Side-Hustle Radar: 3,000+ Char Tech & Behavioral Architecture Breakdown",
         "slug": "part-4250-building-side-hustle-radar-3000-char-tech-behavioral-architecture-breakdown",
         "author": "CHOBH1024",
@@ -6680,10 +6713,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Mon, 03 Aug 2026 14:11:00 +0000",
+        "published": "Fri, 07 Aug 2026 06:40:30 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-03T14:51:29.673509",
+        "generated": "2026-08-07T07:23:56.534996",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -7915,6 +7948,17 @@
         "keywords": "provider, prompt, circuit, your, fallback, api, llm, breaker",
         "generated": "2026-07-30T14:15:57.945083",
         "file": "how-to-detect-and-handle-api-outages-gracefully-in-ai-powered-apps.md"
+    },
+    {
+        "title": "I Built a Free 0/1 Knapsack Solver API (with a New Heuristic)",
+        "slug": "i-built-a-free-01-knapsack-solver-api-with-a-new-heuristic",
+        "author": "1111001001111",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 06:48:27 +0000",
+        "description": "Hi everyone 👋 Over the past few months I’ve been working on a small optimization engine for the classic 0/1 Knapsack Problem . It’s now live and completely f...",
+        "keywords": "auto, api, free, knapsack, requests, per, new, heuristic",
+        "generated": "2026-08-07T07:23:56.534521",
+        "file": "i-built-a-free-01-knapsack-solver-api-with-a-new-heuristic.md"
     },
     {
         "title": "Verizon is About to Break our Watches",
@@ -12009,6 +12053,17 @@
         "file": "japanese-symbols-that-speak-without-words.md"
     },
     {
+        "title": "I built a 100% client-side image & PDF toolkit — no uploads, no server",
+        "slug": "i-built-a-100-client-side-image-pdf-toolkit-no-uploads-no-server",
+        "author": "ZephyrTran",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 07:05:15 +0000",
+        "description": "I kept reaching for online tools to compress an image, convert a PDF, or grab audio from a video — and every one of them uploads your file to a server. For a...",
+        "keywords": "image, pdf, client, side, uploads, server, tools, audio",
+        "generated": "2026-08-07T07:23:56.537225",
+        "file": "i-built-a-100-client-side-image-pdf-toolkit-no-uploads-no-server.md"
+    },
+    {
         "title": "Analyzing Sports Data: Big players must step up as Scotland pursue history against Brazil — What the Numbers Say",
         "slug": "analyzing-sports-data-big-players-must-step-up-as-scotland-pursue-history-against-brazil-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -12106,6 +12161,17 @@
         "keywords": "digital, ownership, app, new, store, https, apps, com",
         "generated": "2026-07-30T08:36:12.118211",
         "file": "understanding-digital-ownership.md"
+    },
+    {
+        "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+        "slug": "meta-ordered-to-pay-942m-to-address-harm-to-kids-from-social-media",
+        "author": "boplicity",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 00:06:28 +0000",
+        "description": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 Comments URL: https://news.ycombinat...",
+        "keywords": "meta, ordered, pay, address, harm, kids, social, media",
+        "generated": "2026-08-07T07:23:56.533785",
+        "file": "meta-ordered-to-pay-942m-to-address-harm-to-kids-from-social-media.md"
     },
     {
         "title": "LangChain cost audit: what ConversationBufferMemory actually costs you at scale",
@@ -12535,6 +12601,17 @@
         "keywords": "your, you, persona, mode, run, interactive, npx, code",
         "generated": "2026-07-08T19:41:38.375918",
         "file": "do-you-want-ai-run-on-your-commands-in-your-app.md"
+    },
+    {
+        "title": "NHTSA Investigation of Tesla S…",
+        "slug": "nhtsa-investigation-of-tesla-s",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 07:06:16 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of the NHTSA's investigation into Tesla's suspension failures. A deep dive into tec...",
+        "keywords": "suspension, can, failures, safety, nhtsa, these, vehicle, control",
+        "generated": "2026-08-07T07:23:56.537076",
+        "file": "nhtsa-investigation-of-tesla-s.md"
     },
     {
         "title": "How I Automated My Morning Routine With Python (Full Code)",
@@ -15254,6 +15331,17 @@
         "file": "china-ai-vs-us-ai-a-freelance-devs-honest-bill-by-bill-comparison.md"
     },
     {
+        "title": "Framework discloses data breach via Metabase 0-day",
+        "slug": "framework-discloses-data-breach-via-metabase-0-day",
+        "author": "RobinHirst11",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+        "description": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points: 43 # C...",
+        "keywords": "framework, data, breach, url, https, comments, discloses, via",
+        "generated": "2026-08-07T07:23:56.533521",
+        "file": "framework-discloses-data-breach-via-metabase-0-day.md"
+    },
+    {
         "title": "PDF Parsing Is the Hidden Bottleneck in Your RAG Pipeline",
         "slug": "pdf-parsing-is-the-hidden-bottleneck-in-your-rag-pipeline",
         "author": "Chanyeong Yun",
@@ -17133,6 +17221,17 @@
         "keywords": "server, mcp, can, servers, not, code, how, production",
         "generated": "2026-06-08T04:42:39.223262",
         "file": "we-tried-to-independently-verify-all-22561-mcp-servers-only-18-could-be-checked.md"
+    },
+    {
+        "title": "Advanced SAP MM Training with Live Projects & Guaranteed Placement Support",
+        "slug": "advanced-sap-mm-training-with-live-projects-guaranteed-placement-support",
+        "author": "GTR Academy",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 07:18:34 +0000",
+        "description": "Do you want a recession-proof and well-paid career as a supply chain manager? In today’s digital era, companies in different fields, such as manufacturing, r...",
+        "keywords": "sap, advanced, you, training, management, procurement, live, support",
+        "generated": "2026-08-07T07:23:56.536730",
+        "file": "advanced-sap-mm-training-with-live-projects-guaranteed-placement-support.md"
     },
     {
         "title": "Show Dev: TSAuditor, a data quality auditing library for time-series tabular data",
@@ -19190,6 +19289,17 @@
         "keywords": "uuids, tool, generate, one, copy, uuid, you, bulk",
         "generated": "2026-06-09T09:59:01.260138",
         "file": "generate-uuids-in-bulk-instantly-with-this-free-tool.md"
+    },
+    {
+        "title": "Storage Selection Strategy for Inference in Domestic AI Computing Centers",
+        "slug": "storage-selection-strategy-for-inference-in-domestic-ai-computing-centers",
+        "author": "Mingxin Technology",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 07:15:23 +0000",
+        "description": "Domestic AI Computing Center Inference Storage Selection: The Core Is Matching KV Cache Access Patterns For inference storage selection in domestic AI comput...",
+        "keywords": "storage, inference, selection, cache, measured, mingxin, pcie, performance",
+        "generated": "2026-08-07T07:23:56.538453",
+        "file": "storage-selection-strategy-for-inference-in-domestic-ai-computing-centers.md"
     },
     {
         "title": "The B2B Buyer Persona Questions Product Teams Should Actually Ask",
@@ -23911,6 +24021,17 @@
         "file": "why-ai-projects-fail-before-they-even-begin.md"
     },
     {
+        "title": "Inside the AI Hedge Fund Stack: Building Intelligent Research Infrastructure for Modern Finance",
+        "slug": "inside-the-ai-hedge-fund-stack-building-intelligent-research-infrastructure-for-modern-finance",
+        "author": "My Neo Group",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 07:20:28 +0000",
+        "description": "Modern hedge funds are evolving beyond traditional quantitative models by integrating Agentic AI into every stage of the investment lifecycle. In this techni...",
+        "keywords": "https, neo, hedge, research, fund, stack, intelligent, investment",
+        "generated": "2026-08-07T07:23:56.535601",
+        "file": "inside-the-ai-hedge-fund-stack-building-intelligent-research-infrastructure-for-modern-finance.md"
+    },
+    {
         "title": "I Have Thoughts on the iPhone Air",
         "slug": "i-have-thoughts-on-the-iphone-air",
         "author": "janandonly",
@@ -23951,7 +24072,7 @@
         "published": "Thu, 06 Aug 2026 21:52:16 +0000",
         "description": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Poi...",
         "keywords": "welcoming, nepalese, government, have, been, pwned, url, https",
-        "generated": "2026-08-07T00:06:40.413596",
+        "generated": "2026-08-07T07:23:56.534301",
         "file": "welcoming-the-nepalese-government-to-have-i-been-pwned.md"
     },
     {
@@ -24272,6 +24393,17 @@
         "keywords": "not, you, one, customer, model, data, what, have",
         "generated": "2026-07-31T14:20:45.227161",
         "file": "from-ai-support-copilot-to-agentic-customer-service.md"
+    },
+    {
+        "title": "Claude Code Now Runs Subagents in the Background by Default — What Actually Changed",
+        "slug": "claude-code-now-runs-subagents-in-the-background-by-default-what-actually-changed",
+        "author": "Alvarito1983",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 07:15:58 +0000",
+        "description": "Original article in Spanish on El Rack: Claude Code ya no espera a que le mires: subagentes en segundo plano por defecto I run Claude Code daily as my main d...",
+        "keywords": "claude, code, subagents, default, run, sessions, opus, context",
+        "generated": "2026-08-07T07:23:56.538034",
+        "file": "claude-code-now-runs-subagents-in-the-background-by-default-what-actually-changed.md"
     },
     {
         "title": "Best AI Agents for Finance Automation 2026: Ranked by Real ROI",
@@ -25372,6 +25504,17 @@
         "keywords": "modal, auto, endpoints, url, https, com, comments, optimized",
         "generated": "2026-06-23T20:12:47.951007",
         "file": "modal-auto-endpoints-optimized-inference-you-own.md"
+    },
+    {
+        "title": "Какой Claude лучше в 2026: почему Opus 5 обошёл Fable 5 в роли дефолта, а не наоборот",
+        "slug": "claude-2026-opus-5-fable-5",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Fri, 07 Aug 2026 07:16:42 +0000",
+        "description": "Четыре модели в одном переключателе — и четыре разных сценария того, как быстро закончится недельный лимит подписки. Откройте официальную таблицу моделей Ant...",
+        "keywords": "fable, opus, anthropic, claude, sonnet, haiku, api, artificial",
+        "generated": "2026-08-07T07:23:56.537729",
+        "file": "claude-2026-opus-5-fable-5.md"
     },
     {
         "title": "In-Depth Analysis: The Challenges of EU Age Verifi…",
@@ -30284,10 +30427,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 06 Aug 2026 23:52:55 +0000",
+        "published": "Fri, 07 Aug 2026 07:17:18 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-07T00:06:40.417901",
+        "generated": "2026-08-07T07:23:56.537324",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -33378,7 +33521,7 @@
         "published": "Thu, 06 Aug 2026 22:50:09 +0000",
         "description": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship quantum computers...",
         "keywords": "their, spin, own, quantum, ibm, state, subspace, one",
-        "generated": "2026-08-07T00:06:40.413414",
+        "generated": "2026-08-07T07:23:56.534088",
         "file": "spin-audit-of-sqdqsci-quantum-chemistry-benchmarks-on-ironsulfur-clusters.md"
     },
     {
@@ -37991,6 +38134,17 @@
         "file": "your-git-history-is-more-valuable-than-you-think.md"
     },
     {
+        "title": "iContext – Dale a tu IA el mapa de tu código",
+        "slug": "icontext-dale-a-tu-ia-el-mapa-de-tu-cdigo",
+        "author": "A&L digital",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 06:31:51 +0000",
+        "description": "¿Cansado de pegar 5,000 líneas de código en ChatGPT? iContext escanea tu repositorio y le da a la IA el contexto exacto que necesita. Características Lenguaj...",
+        "keywords": "icontext, sin, github, lang, dale, mapa, cansado, pegar",
+        "generated": "2026-08-07T07:23:56.535470",
+        "file": "icontext-dale-a-tu-ia-el-mapa-de-tu-cdigo.md"
+    },
+    {
         "title": "Gelişmiş Veri İşleme (Python)",
         "slug": "gelimi-veri-ileme-python",
         "author": "Vebende Akademi",
@@ -41991,6 +42145,17 @@
         "keywords": "where, find, colors, your, screen, show, you, url",
         "generated": "2026-06-20T09:27:21.553849",
         "file": "where-to-find-the-colors-your-screen-cant-show-you.md"
+    },
+    {
+        "title": "7 Habits of Developers Who Never Have to Optimize Later",
+        "slug": "7-habits-of-developers-who-never-have-to-optimize-later",
+        "author": "Muhammad Usman",
+        "source": "devto_webdev",
+        "published": "Fri, 07 Aug 2026 07:19:47 +0000",
+        "description": "Open DevTools right now. Go to the Network tab, find the throttling dropdown, and set it to Slow 3G. Now reload something you built. Watch the blank white sc...",
+        "keywords": "you, what, performance, dialog, one, script, before, image",
+        "generated": "2026-08-07T07:23:56.536263",
+        "file": "7-habits-of-developers-who-never-have-to-optimize-later.md"
     },
     {
         "title": "Focus Timer with a Virtual Pet: When Visible Progress Helps",
@@ -46587,6 +46752,17 @@
         "keywords": "learnvector, one, url, https, comments, andrew, company, building",
         "generated": "2026-07-29T03:14:29.808089",
         "file": "learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md"
+    },
+    {
+        "title": "Building a Multi-Agent AI for Company LinkedIn Pages - Part 9: Building the Writing Critic Agent",
+        "slug": "building-a-multi-agent-ai-for-company-linkedin-pages-part-9-building-the-writing-critic-agent",
+        "author": "Manav",
+        "source": "devto_python",
+        "published": "Fri, 07 Aug 2026 06:45:34 +0000",
+        "description": "Our system can now understand a topic, gather research, find supporting examples, identify weak assumptions, structure everything into a content brief, gener...",
+        "keywords": "drafts, agent, linkedin, json, writing, hooks, critic, draft",
+        "generated": "2026-08-07T07:23:56.534840",
+        "file": "building-a-multi-agent-ai-for-company-linkedin-pages-part-9-building-the-writing-critic-agent.md"
     },
     {
         "title": "hikerapi",

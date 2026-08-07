@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Thu, 06 Aug 2026 21:52:16 +0000"
 description: "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Poi..."
 keywords: "welcoming, nepalese, government, have, been, pwned, url, https"
-generated: "2026-08-07T00:06:40.413596"
+generated: "2026-08-07T07:23:56.534301"
 ---
 
 # Welcoming the Nepalese Government to Have I Been Pwned
 
 ## Overview
 
-Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 51 # Comments: 12
+Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 136 # Comments: 21
 
 ## Key Insights
 
