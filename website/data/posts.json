@@ -4806,6 +4806,17 @@
         "file": "save-and-update-are-not-the-same-how-a-former-okonomiyaki-chef-removed-confusing-ui-from-a-flask-app.md"
     },
     {
+        "title": "My MCP Tool Fetches Before It Writes and Logs Every Change. It Never Checked Whether There Was Anything to Change.",
+        "slug": "my-mcp-tool-fetches-before-it-writes-and-logs-every-change-it-never-checked-whether-there-was-anything-to-change",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 12:45:33 +0000",
+        "description": "Two fixes ago, update_article — one of the tools in this repo's MCP server — got hardened twice. The first time, because it took a bare integer article_id , ...",
+        "keywords": "article, published, title, none, not, before, tool, function",
+        "generated": "2026-08-08T12:58:39.634522",
+        "file": "my-mcp-tool-fetches-before-it-writes-and-logs-every-change-it-never-checked-whether-there-was-anything-to-change.md"
+    },
+    {
         "title": ".garden TLD's change to a bad neighborhood",
         "slug": "garden-tlds-change-to-a-bad-neighborhood",
         "author": "speckx",
@@ -9334,6 +9345,17 @@
         "keywords": "one, not, what, would, had, them, ten, you",
         "generated": "2026-07-30T14:15:57.948873",
         "file": "every-gate-in-my-system-is-a-scar.md"
+    },
+    {
+        "title": "I built an async wrapper for OpenAI/Anthropic SDKs because I didn't want a proxy in my request path",
+        "slug": "i-built-an-async-wrapper-for-openaianthropic-sdks-because-i-didnt-want-a-proxy-in-my-request-path",
+        "author": "Mandar Shinde",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 12:46:54 +0000",
+        "description": "I kept running into the same tradeoff building cost tooling for teams shipping LLM features. Every attribution tool in this space works the same way: you poi...",
+        "keywords": "you, call, your, wrapper, want, path, before, cognocient",
+        "generated": "2026-08-08T12:58:39.633577",
+        "file": "i-built-an-async-wrapper-for-openaianthropic-sdks-because-i-didnt-want-a-proxy-in-my-request-path.md"
     },
     {
         "title": "How AI is Transforming Staffing Software in 2026",
@@ -15056,6 +15078,17 @@
         "file": "how-i-built-a-financial-data-api-using-sec-edgar-and-python-in-2-days-with-no-prior-experience.md"
     },
     {
+        "title": "Day 24 of 100",
+        "slug": "day-24-of-100",
+        "author": "Palak Hirave",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 12:43:34 +0000",
+        "description": "Today I learnt all about files, paths and directories. I learnt what a relative and absolute file path is as well as how to use both in Pycharm alongside rea...",
+        "keywords": "project, projects, name, file, open, users, hirav, desktop",
+        "generated": "2026-08-08T12:58:39.634684",
+        "file": "day-24-of-100.md"
+    },
+    {
         "title": "Your email passes SPF and DKIM but still fails DMARC. Here's why",
         "slug": "your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why",
         "author": "Vadim Ivanov",
@@ -16189,6 +16222,17 @@
         "file": "how-to-actually-set-up-claude-projects-that-most-users-dont-know.md"
     },
     {
+        "title": "How to Use Frase for Brand Mention Tracking In Ai in 2026",
+        "slug": "how-to-use-frase-for-brand-mention-tracking-in-ai-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 12:47:08 +0000",
+        "description": "Originally published at https://seointent.com/blog/frase-for-brand-mention-tracking-in-ai TL;DR - Frase for brand mention tracking in AI works best when you ...",
+        "keywords": "frase, you, brand, content, your, mention, how, tracking",
+        "generated": "2026-08-08T12:58:39.640415",
+        "file": "how-to-use-frase-for-brand-mention-tracking-in-ai-in-2026.md"
+    },
+    {
         "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
         "slug": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
         "author": "mekpro",
@@ -16759,6 +16803,17 @@
         "keywords": "voice, config, import, tts, step, provider, websocket, str",
         "generated": "2026-06-10T04:15:10.539078",
         "file": "i-built-a-voice-ai-platform-that-hits-442ms-latency-heres-the-full-architecture.md"
+    },
+    {
+        "title": "Deciphering Modern GPT Architectures using Lego Analogy",
+        "slug": "deciphering-modern-gpt-architectures-using-lego-analogy",
+        "author": "Ali Amjad",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 12:49:48 +0000",
+        "description": "What you'll learn How a single token travels through a modern GPT — from the entrance embedding all the way to the next-token guess. What each modern refinem...",
+        "keywords": "block, strip, one, token, its, vector, can, gpt",
+        "generated": "2026-08-08T12:58:39.638516",
+        "file": "deciphering-modern-gpt-architectures-using-lego-analogy.md"
     },
     {
         "title": "Paper2Code: Automating Code Generation from Scientific Papers in MachineLearning",
@@ -17958,6 +18013,17 @@
         "keywords": "zluda, url, https, comments, release, run, unmodified, cuda",
         "generated": "2026-06-30T14:30:32.339557",
         "file": "zluda-6-release-run-unmodified-cuda-applications-on-non-nvidia-gpus.md"
+    },
+    {
+        "title": "Podcast Insight: The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
+        "slug": "podcast-insight-the-economics-of-ai-usage-and-whats-next-for-saas-benedict-evans-on-a16z",
+        "author": "jackma",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 12:47:09 +0000",
+        "description": "Episode At a Glance Podcast: a16z show Episode: The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z Guest: Benedict Evans Host: Eri...",
+        "keywords": "evans, not, saas, software, benedict, infrastructure, more, can",
+        "generated": "2026-08-08T12:58:39.639481",
+        "file": "podcast-insight-the-economics-of-ai-usage-and-whats-next-for-saas-benedict-evans-on-a16z.md"
     },
     {
         "title": "html-to-markdown v3.8.0",
@@ -22292,6 +22358,17 @@
         "keywords": "training, kalyan, nagar, python, full, stack, you, our",
         "generated": "2026-06-27T13:54:40.040583",
         "file": "getting-started-with-python-full-stack-training-at-kalyan-nagar-a-2026-roadmap-10.md"
+    },
+    {
+        "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+        "slug": "the-cpu-is-back-rethinking-the-cpu-gpu-split-for-llm-inference",
+        "author": "eigenBasis",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 12:16:03 +0000",
+        "description": "Article URL: https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference Comments URL: https://news.ycombinator.com/item?id=49221089 Point...",
+        "keywords": "cpu, back, rethinking, gpu, split, llm, inference, url",
+        "generated": "2026-08-08T12:58:39.632814",
+        "file": "the-cpu-is-back-rethinking-the-cpu-gpu-split-for-llm-inference.md"
     },
     {
         "title": "How to Remove Text from an Image Without Damaging the UI Behind It",
@@ -27211,6 +27288,17 @@
         "file": "comment-remplacer-canva-et-photoshop-par-un-moteur-html-open-source-avec-playwright.md"
     },
     {
+        "title": "How to Verify Uber Without Using Your Personal Phone Number",
+        "slug": "how-to-verify-uber-without-using-your-personal-phone-number",
+        "author": "sms-florin",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 12:44:16 +0000",
+        "description": "Uber requires a phone number at signup and uses it as the primary way to confirm a trip request. That's a hassle if you're testing a ride-hailing integration...",
+        "keywords": "number, uber, rental, verification, code, your, phone, account",
+        "generated": "2026-08-08T12:58:39.636191",
+        "file": "how-to-verify-uber-without-using-your-personal-phone-number.md"
+    },
+    {
         "title": "How I built an Offline-First Voice-Controlled Map Engine in JavaScript",
         "slug": "how-i-built-an-offline-first-voice-controlled-map-engine-in-javascript",
         "author": "Sanish Kumar",
@@ -29420,6 +29508,17 @@
         "keywords": "workspaces, url, https, comments, show, explore, modern, creators",
         "generated": "2026-07-17T19:18:11.640872",
         "file": "show-hn-explore-the-workspaces-of-modern-creators.md"
+    },
+    {
+        "title": "Europe's free satellite service just made it easier to track wildfires",
+        "slug": "europes-free-satellite-service-just-made-it-easier-to-track-wildfires",
+        "author": "01-_-",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 09:58:41 +0000",
+        "description": "Article URL: https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/ Comments URL: https://news.ycombi...",
+        "keywords": "free, satellite, service, just, made, easier, track, wildfires",
+        "generated": "2026-08-08T12:58:39.633343",
+        "file": "europes-free-satellite-service-just-made-it-easier-to-track-wildfires.md"
     },
     {
         "title": "I Built a Free DMCA Takedown Letter Generator (Because DMCA.com Charges $50-100)",
@@ -32150,6 +32249,17 @@
         "file": "system-design-series-3-a-simple-framework-for-designing-scalable-systems.md"
     },
     {
+        "title": "A Government Liquor Board Lab-Tests Every Bottle It Sells. Almost Nobody Uses the Data.",
+        "slug": "a-government-liquor-board-lab-tests-every-bottle-it-sells-almost-nobody-uses-the-data",
+        "author": "Sakurai Ts",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 12:43:47 +0000",
+        "description": "The best datasets aren't hidden. They're published in plain sight by bureaucracies that have no idea anyone might want them — collected for compliance, expos...",
+        "keywords": "data, sugar, lab, every, one, field, page, lcbo",
+        "generated": "2026-08-08T12:58:39.637039",
+        "file": "a-government-liquor-board-lab-tests-every-bottle-it-sells-almost-nobody-uses-the-data.md"
+    },
+    {
         "title": "I Tested DeepSeek, Qwen, Kimi And GLM Heres The Real Winner",
         "slug": "i-tested-deepseek-qwen-kimi-and-glm-heres-the-real-winner",
         "author": "eagerspark",
@@ -32346,6 +32456,17 @@
         "keywords": "token, agent, one, model, gate, not, action, your",
         "generated": "2026-07-16T08:22:50.505230",
         "file": "your-ai-agent-should-not-have-unrestricted-power.md"
+    },
+    {
+        "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+        "slug": "apple-introduces-leasing-program-for-iphones-and-other-devices",
+        "author": "Korwell",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 10:16:01 +0000",
+        "description": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html Comments URL: https://news.ycombinator.com/item?id=49220390 Points: 17 ...",
+        "keywords": "apple, leasing, program, url, https, com, comments, introduces",
+        "generated": "2026-08-08T12:58:39.633128",
+        "file": "apple-introduces-leasing-program-for-iphones-and-other-devices.md"
     },
     {
         "title": "Thomann takes legal action against Fender",
@@ -33690,6 +33811,17 @@
         "file": "show-hn-post-compliancelayer.md"
     },
     {
+        "title": "Buy Verified Snapchat Accounts in World 2026 The 03 Best Places",
+        "slug": "buy-verified-snapchat-accounts-in-world-2026-the-03-best-places",
+        "author": "Alex",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 12:50:16 +0000",
+        "description": "Buy Verified Snapchat Accounts ▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀 ▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737 ▬▬▬...",
+        "keywords": "verified, accounts, snapchat, buy, progmb, our, instant, telegram",
+        "generated": "2026-08-08T12:58:39.636030",
+        "file": "buy-verified-snapchat-accounts-in-world-2026-the-03-best-places.md"
+    },
+    {
         "title": "How should websites prepare for AI-powered search engines in 2026?",
         "slug": "how-should-websites-prepare-for-ai-powered-search-engines-in-2026",
         "author": "TuanPK Builds",
@@ -34240,6 +34372,17 @@
         "file": "need-2500-fast-why-a-secure-crypto-loan-wins.md"
     },
     {
+        "title": "My Idempotency Guard Exists to Survive One Specific Error. That Error Made It Fail Open.",
+        "slug": "my-idempotency-guard-exists-to-survive-one-specific-error-that-error-made-it-fail-open",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 12:46:02 +0000",
+        "description": "Five days ago I added a duplicate-publish guard to publish_devto.py , the script this blog's own publishing pipeline calls to go live. The reasoning was stra...",
+        "keywords": "error, page, one, function, urlerror, urllib, post, get",
+        "generated": "2026-08-08T12:58:39.634061",
+        "file": "my-idempotency-guard-exists-to-survive-one-specific-error-that-error-made-it-fail-open.md"
+    },
+    {
         "title": "How to Block Some of the Bots",
         "slug": "how-to-block-some-of-the-bots",
         "author": "Bender",
@@ -34559,6 +34702,17 @@
         "file": "building-real-time-ai-translation-assistance-with-fastapi-claude-and-server-sent-events.md"
     },
     {
+        "title": "When AI Agents Ship Code: A Protocol for Verifiable Execution",
+        "slug": "when-ai-agents-ship-code-a-protocol-for-verifiable-execution",
+        "author": "dengyier",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 12:39:21 +0000",
+        "description": "Last month I merged a bug fix an AI agent wrote. It looked right. The agent said tests passed. I deployed it. Two hours later, production caught fire. Not be...",
+        "keywords": "agent, what, agents, step, protocol, you, tool, verification",
+        "generated": "2026-08-08T12:58:39.635192",
+        "file": "when-ai-agents-ship-code-a-protocol-for-verifiable-execution.md"
+    },
+    {
         "title": "Why Local File Processing Beats Cloud Converters Every Time",
         "slug": "why-local-file-processing-beats-cloud-converters-every-time",
         "author": "wendygostudio",
@@ -34667,6 +34821,17 @@
         "keywords": "mdl, scripts, typescript, javascript, app, behavior, still, modules",
         "generated": "2026-06-11T20:28:40.310096",
         "file": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup.md"
+    },
+    {
+        "title": "How Git Worktrees Improve AI Coding Workflows",
+        "slug": "how-git-worktrees-improve-ai-coding-workflows",
+        "author": "Eric Vincent Bermudez",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 12:48:51 +0000",
+        "description": "AI coding tools become much more useful when they are given clear boundaries. One practical way to create those boundaries is with Git worktrees. A Git branc...",
+        "keywords": "agent, worktree, can, worktrees, one, git, you, feature",
+        "generated": "2026-08-08T12:58:39.638864",
+        "file": "how-git-worktrees-improve-ai-coding-workflows.md"
     },
     {
         "title": "What Should I Do If My Samsung Galaxy S25 Ultra Needs Replacement?",
@@ -35919,6 +36084,17 @@
         "keywords": "you, one, line, here, loot, four, what, have",
         "generated": "2026-07-26T13:40:34.481735",
         "file": "s3-the-loot-report-vol-2-four-lines-that-fixed-the-boring-parts.md"
+    },
+    {
+        "title": "How US Startups Are Scaling Engineering Teams With Dedicated Developers",
+        "slug": "how-us-startups-are-scaling-engineering-teams-with-dedicated-developers",
+        "author": "Dean Reed",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 12:43:47 +0000",
+        "description": "Building a product fast is hard. Building it fast with the right people is harder. This is the problem that most US startups face: after their first product ...",
+        "keywords": "you, dedicated, time, hiring, startups, developers, hire, your",
+        "generated": "2026-08-08T12:58:39.636672",
+        "file": "how-us-startups-are-scaling-engineering-teams-with-dedicated-developers.md"
     },
     {
         "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
@@ -41518,6 +41694,17 @@
         "file": "hello-hi-everyone-my-name-is-fouad-elhamra-im-passionate-about-artificial-intelligence-machine-learning-and-deep-learning-looking-forward-to-being-part-of-the-community-thanks-for-having-me.md"
     },
     {
+        "title": "The Mistake That Costs Most Affiliates $500/mo in Lost Commissions",
+        "slug": "the-mistake-that-costs-most-affiliates-500mo-in-lost-commissions",
+        "author": "justin nick",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 12:58:31 +0000",
+        "description": "Stop adding raw query parameters to your outbound recommendations. Seriously. Every time you paste a link ending in ?ref=yourname or ?via=devtool directly in...",
+        "keywords": "your, you, outbound, attribution, like, request, email, link",
+        "generated": "2026-08-08T12:58:39.635762",
+        "file": "the-mistake-that-costs-most-affiliates-500mo-in-lost-commissions.md"
+    },
+    {
         "title": "I Automated My Moving Admin With AI. Here's What I Learned.",
         "slug": "i-automated-my-moving-admin-with-ai-heres-what-i-learned",
         "author": "Polly SetTern",
@@ -41571,6 +41758,17 @@
         "keywords": "url, https, comments, goodbye, thanks, all, bikesheds, article",
         "generated": "2026-07-18T19:11:40.223459",
         "file": "goodbye-and-thanks-for-all-the-bikesheds.md"
+    },
+    {
+        "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+        "slug": "new-amazon-data-center-is-set-to-have-the-most-polluting-power-plant-in-the-us",
+        "author": "sbulaev",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 10:07:06 +0000",
+        "description": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html Comments URL: https://news.ycombinator.com/item?id=49220350 P...",
+        "keywords": "amazon, data, center, url, https, com, comments, new",
+        "generated": "2026-08-08T12:58:39.633238",
+        "file": "new-amazon-data-center-is-set-to-have-the-most-polluting-power-plant-in-the-us.md"
     },
     {
         "title": "I built a small browser game for guessing cartoon colors",
@@ -43386,6 +43584,17 @@
         "keywords": "accounts, available, yahoo, old, aged, usa, buy, high",
         "generated": "2026-07-01T14:48:11.179400",
         "file": "best-usa-websites-to-buy-old-yahoo-accounts-safely.md"
+    },
+    {
+        "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "slug": "now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face",
+        "author": "882542F3884314B",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 10:57:44 +0000",
+        "description": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49220609 Points: 49 # Comments: 69",
+        "keywords": "timeline, openai, url, https, comments, now, have, accidental",
+        "generated": "2026-08-08T12:58:39.633006",
+        "file": "now-we-have-a-timeline-of-the-openai-accidental-attack-against-hugging-face.md"
     },
     {
         "title": "Let's Encrypt has been down most of today",
@@ -47454,6 +47663,17 @@
         "keywords": "can, know, simple, fluids, flow, turns, out, some",
         "generated": "2026-07-12T03:28:48.639711",
         "file": "we-know-simple-fluids-can-flow-turns-out-some-can-fracture.md"
+    },
+    {
+        "title": "imperium sprey türkiye'deki fiyat",
+        "slug": "imperium-sprey-trkiyedeki-fiyat",
+        "author": "imperium sprey yorumlar",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 12:51:27 +0000",
+        "description": "Imperium Spray Nedir? imperium sprey, erkekler için özel olarak geliştirilen bir performans spreyidir. Ürün, ilişki sırasında kontrolü artırmaya ve daha uzun...",
+        "keywords": "imperium, sprey, performans, sayesinde, deki, fiyat, spray, nedir",
+        "generated": "2026-08-08T12:58:39.637174",
+        "file": "imperium-sprey-trkiyedeki-fiyat.md"
     },
     {
         "title": "Beautiful Type Erasure with C++26 Reflection",
