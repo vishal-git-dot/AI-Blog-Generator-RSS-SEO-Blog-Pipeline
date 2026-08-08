@@ -4,16 +4,16 @@ slug: "us-department-of-energy-launches-the-genesis-open-models-initiative"
 author: "moelf"
 source: "hackernews"
 published: "Fri, 07 Aug 2026 22:24:27 +0000"
-description: "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 91 # Comments: 38"
+description: "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 192 # Comments: 64"
 keywords: "url, https, comments, department, energy, launches, genesis, open"
-generated: "2026-08-08T01:58:44.662198"
+generated: "2026-08-08T07:01:37.214687"
 ---
 
 # U.S. Department of Energy Launches the Genesis Open Models Initiative
 
 ## Overview
 
-Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 91 # Comments: 38
+Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 192 # Comments: 64
 
 ## Key Insights
 

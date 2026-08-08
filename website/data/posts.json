@@ -5165,7 +5165,7 @@
         "published": "Fri, 07 Aug 2026 21:19:57 +0000",
         "description": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-atta...",
         "keywords": "water, system, controllers, belong, internet, says, nsa, chief",
-        "generated": "2026-08-08T01:58:44.662333",
+        "generated": "2026-08-08T07:01:37.214823",
         "file": "water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief.md"
     },
     {
@@ -6401,6 +6401,17 @@
         "file": "ai-agent-trmnl.md"
     },
     {
+        "title": "Scraping Ethically: A Practical Guide to Respectful Web Crawling",
+        "slug": "scraping-ethically-a-practical-guide-to-respectful-web-crawling",
+        "author": "Aimigo",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 07:00:16 +0000",
+        "description": "Scraping Ethically: A Practical Guide to Respectful Web Crawling The single most important thing to understand about web scraping is this: ethical crawling i...",
+        "keywords": "you, data, scraping, use, crawling, not, practical, legal",
+        "generated": "2026-08-08T07:01:37.215226",
+        "file": "scraping-ethically-a-practical-guide-to-respectful-web-crawling.md"
+    },
+    {
         "title": "Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises",
         "slug": "fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises",
         "author": "Abhijat Chaturvedi",
@@ -6834,10 +6845,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Fri, 07 Aug 2026 06:40:30 +0000",
+        "published": "Sat, 08 Aug 2026 06:03:32 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-07T07:23:56.534996",
+        "generated": "2026-08-08T07:01:37.215972",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -8157,6 +8168,17 @@
         "keywords": "wife, url, https, com, comments, stephen, wolfram, has",
         "generated": "2026-08-04T19:43:37.719960",
         "file": "stephen-wolframs-wife-has-died.md"
+    },
+    {
+        "title": "Instrument a Meeting-AI Pilot With a Human-Correction Log",
+        "slug": "instrument-a-meeting-ai-pilot-with-a-human-correction-log",
+        "author": "TuanPK Builds",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 06:02:48 +0000",
+        "description": "A fast summary is not the same as a low-friction workflow. A small test you can repeat Run two tools on the same real meeting process. Count every correction...",
+        "keywords": "meeting, correction, log, not, same, workflow, instrument, pilot",
+        "generated": "2026-08-08T07:01:37.216140",
+        "file": "instrument-a-meeting-ai-pilot-with-a-human-correction-log.md"
     },
     {
         "title": "Designing and assembling my first PCB",
@@ -11008,6 +11030,17 @@
         "file": "show-hn-talefyi-we-deserve-a-home-for-fiction.md"
     },
     {
+        "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+        "slug": "nasa-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+        "author": "wglb",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+        "description": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Commen...",
+        "keywords": "year, voyager, nasa, keep, its, old, probe, running",
+        "generated": "2026-08-08T07:01:37.214417",
+        "file": "nasa-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year.md"
+    },
+    {
         "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
         "slug": "original-apollo-11-guidance-computer-source-code-for-command-and-lunar-modules",
         "author": "noteness",
@@ -12603,6 +12636,17 @@
         "file": "grok-cli-uploaded-the-whole-home-directory-to-gcs.md"
     },
     {
+        "title": "The image loads and stays invisible: the opacity: 0 is on the wrapper, not the image",
+        "slug": "the-image-loads-and-stays-invisible-the-opacity-0-is-on-the-wrapper-not-the-image",
+        "author": "Artur Smirnov",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 06:57:03 +0000",
+        "description": "Someone posted this on a support forum and got no answers for a week: The featured image is displayed correctly on desktop browsers and iPad (Chrome and Safa...",
+        "keywords": "image, one, not, opacity, same, element, every, bad",
+        "generated": "2026-08-08T07:01:37.217667",
+        "file": "the-image-loads-and-stays-invisible-the-opacity-0-is-on-the-wrapper-not-the-image.md"
+    },
+    {
         "title": "Dev containers: reproducible development environments for your team",
         "slug": "dev-containers-reproducible-development-environments-for-your-team",
         "author": "Rizwan Saleem",
@@ -12942,6 +12986,17 @@
         "keywords": "mania, eviscerating, global, decision, making, url, https, blog",
         "generated": "2026-07-19T08:26:32.154576",
         "file": "ai-mania-is-eviscerating-global-decision-making.md"
+    },
+    {
+        "title": "How to Deploy Llama 3.3 70B with vLLM + Quantization + Batching on a $8/Month DigitalOcean GPU Droplet: Production API at 1/160th Claude Opus Cost",
+        "slug": "how-to-deploy-llama-33-70b-with-vllm-quantization-batching-on-a-8month-digitalocean-gpu-droplet-production-api-at-1160th-claude-opus-cost",
+        "author": "RamosAI",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 06:56:11 +0000",
+        "description": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Deploy Llama 3.3 70B with vLLM...",
+        "keywords": "vllm, llama, gptq, request, engine, get, install, text",
+        "generated": "2026-08-08T07:01:37.218409",
+        "file": "how-to-deploy-llama-33-70b-with-vllm-quantization-batching-on-a-8month-digitalocean-gpu-droplet-production-api-at-1160th-claude-opus-cost.md"
     },
     {
         "title": "AI Document Verification: How It Improves Accuracy and Fraud Prevention",
@@ -17276,6 +17331,17 @@
         "keywords": "you, batch, your, one, backfill, job, rows, verdict",
         "generated": "2026-07-30T14:15:57.945730",
         "file": "how-to-batch-moderate-existing-posts-and-comments-with-an-llm-classification-api.md"
+    },
+    {
+        "title": "Your store weighs 1.7 MB and still takes 18 seconds: the number that matters is 364 requests",
+        "slug": "your-store-weighs-17-mb-and-still-takes-18-seconds-the-number-that-matters-is-364-requests",
+        "author": "Artur Smirnov",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 06:55:02 +0000",
+        "description": "Page weight is the number everyone checks, and it is the reason this store has been slow for months without anyone finding out why. I measured a Shopify stor...",
+        "keywords": "not, page, you, requests, one, seconds, weight, load",
+        "generated": "2026-08-08T07:01:37.218953",
+        "file": "your-store-weighs-17-mb-and-still-takes-18-seconds-the-number-that-matters-is-364-requests.md"
     },
     {
         "title": "Building relationships with customers through support didn't turn out as hoped",
@@ -26287,6 +26353,17 @@
         "file": "how-i-built-a-real-time-sports-stats-tracker-france-cruise-into-semi-finals-could-this-be-the-best-les-bleus-ever.md"
     },
     {
+        "title": "Claude Code Hooks: The $50k Context-Switch Tax",
+        "slug": "claude-code-hooks-the-50k-context-switch-tax",
+        "author": "Dr Hernani Costa",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 06:57:38 +0000",
+        "description": "Every developer context-switch costs your team 23 minutes of productivity recovery. For a 15-person engineering team manually triggering linters, polling Jir...",
+        "keywords": "claude, code, mcp, team, hooks, file, server, your",
+        "generated": "2026-08-08T07:01:37.220154",
+        "file": "claude-code-hooks-the-50k-context-switch-tax.md"
+    },
+    {
         "title": "Historical Investing Portfolio Crash Simulator 📉🚨",
         "slug": "historical-investing-portfolio-crash-simulator",
         "author": "Jose",
@@ -28276,6 +28353,17 @@
         "keywords": "job, you, location, role, api, what, self, roles",
         "generated": "2026-06-23T09:53:37.257105",
         "file": "build-a-job-market-intelligence-tool-with-serp-api.md"
+    },
+    {
+        "title": "Show DEV: A small prepaid test balance for OpenAI-compatible clients",
+        "slug": "show-dev-a-small-prepaid-test-balance-for-openai-compatible-clients",
+        "author": "geiwoaichide",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 06:57:28 +0000",
+        "description": "When testing Codex-style tools, bots, and OpenAI-compatible SDKs, I prefer not to connect a primary billing account to every experiment. I built a small prep...",
+        "keywords": "openai, api, gpt, compatible, codex, key, ggsel, small",
+        "generated": "2026-08-08T07:01:37.220374",
+        "file": "show-dev-a-small-prepaid-test-balance-for-openai-compatible-clients.md"
     },
     {
         "title": "Synthesis is harder than analysis",
@@ -30659,9 +30747,9 @@
         "author": "Meleagris",
         "source": "hackernews",
         "published": "Sat, 08 Aug 2026 01:12:45 +0000",
-        "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 24 #...",
+        "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 255 ...",
         "keywords": "nixpkgs, core, team, has, disbanded, url, https, comments",
-        "generated": "2026-08-08T01:58:44.662036",
+        "generated": "2026-08-08T07:01:37.214538",
         "file": "the-nixpkgs-core-team-has-disbanded.md"
     },
     {
@@ -31257,6 +31345,17 @@
         "keywords": "memory, knowledge, direction, now, importance, you, hybrid, tier",
         "generated": "2026-07-06T04:05:09.370126",
         "file": "knowledge-and-memory-management-direction-1-3-finalization-record.md"
+    },
+    {
+        "title": "Debugging the Probiotic Market: A Strain-Level Evaluation Framework for Adult Supplements",
+        "slug": "debugging-the-probiotic-market-a-strain-level-evaluation-framework-for-adult-supplements",
+        "author": "Growth Collective",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 06:58:41 +0000",
+        "description": "Probiotic labels are like undocumented code—most users read the front-of-package claims and assume everything works as advertised. But just as two libraries ...",
+        "keywords": "strain, probiotic, product, can, you, cfu, transparency, documentation",
+        "generated": "2026-08-08T07:01:37.219601",
+        "file": "debugging-the-probiotic-market-a-strain-level-evaluation-framework-for-adult-supplements.md"
     },
     {
         "title": "Medallion Architecture in Databricks: A Complete Implementation Guide",
@@ -34669,6 +34768,15 @@
         "file": "what-is-a-cron-job-how-to-use-it-basic-information-and-application-scenarios.md"
     },
     {
+        "title": "ComplianceWeave vs Vanta, Drata, Secureframe: Which Compliance Automation Tool Should You Use?",
+        "slug": "complianceweave-vs-vanta-drata-secureframe-which-compliance-automation-tool-should-you-use",
+        "author": "Ahmed Moussa",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 06:45:00 +0000",
+        "description": "",
+        "file": "complianceweave-vs-vanta-drata-secureframe-which-compliance-automation-tool-should-you-use.md"
+    },
+    {
         "title": "Stop Flying Blind: How to Build a Production-Grade Telemetry Layer for Self-Improving AI Agents",
         "slug": "stop-flying-blind-how-to-build-a-production-grade-telemetry-layer-for-self-improving-ai-agents",
         "author": "Programming Central",
@@ -36165,6 +36273,17 @@
         "file": "we-open-sourced-a-foundation-model-for-four-days-nobody-could-load-it.md"
     },
     {
+        "title": "Building an accessible Nigerian restaurant landing page with vanilla JavaScript and hand-drawn SVG",
+        "slug": "building-an-accessible-nigerian-restaurant-landing-page-with-vanilla-javascript-and-hand-drawn-svg",
+        "author": "Benjamin Fadina",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 06:59:16 +0000",
+        "description": "This is a submission for Frontend Challenge - Comfort Food Edition, Perfect Landing What I Built Iya Bashirat Restaurant is a landing page for a fictional Ni...",
+        "keywords": "not, hand, real, page, every, focus, does, whatsapp",
+        "generated": "2026-08-08T07:01:37.217128",
+        "file": "building-an-accessible-nigerian-restaurant-landing-page-with-vanilla-javascript-and-hand-drawn-svg.md"
+    },
+    {
         "title": "I built a link preview API on Cloudflare Workers — and learned KV is not a counter",
         "slug": "i-built-a-link-preview-api-on-cloudflare-workers-and-learned-kv-is-not-a-counter",
         "author": "Davis",
@@ -36658,6 +36777,17 @@
         "keywords": "model, agent, one, drive, your, you, not, own",
         "generated": "2026-07-07T09:51:54.399348",
         "file": "i-gave-an-llm-agent-write-access-to-my-cloud-drive-three-bugs-taught-me-how-to-constrain-it.md"
+    },
+    {
+        "title": "How can I automate invoicing in my business process?",
+        "slug": "how-can-i-automate-invoicing-in-my-business-process",
+        "author": "RoboZilla",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 06:56:02 +0000",
+        "description": "How can I automate invoicing in my business process? RoboZilla provides cybersecurity, automation and AI lead generation for small and mid-sized businesses. ...",
+        "keywords": "robozilla, business, how, can, automate, invoicing, process, cybersecurity",
+        "generated": "2026-08-08T07:01:37.220499",
+        "file": "how-can-i-automate-invoicing-in-my-business-process.md"
     },
     {
         "title": "TerraFirma's $115M Funding and…",
@@ -41883,6 +42013,17 @@
         "file": "a-full-body-mri-earns-you-a-year-of-smoking.md"
     },
     {
+        "title": "Build a Distributed Lock with Redis and Python",
+        "slug": "build-a-distributed-lock-with-redis-and-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 06:00:54 +0000",
+        "description": "Build a Distributed Lock with Redis and Python tags: python, redis, distributed, tutorial tags: python, networking, devops, tutorial tags: python, networking...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-08T07:01:37.216747",
+        "file": "build-a-distributed-lock-with-redis-and-python.md"
+    },
+    {
         "title": "KDP Niche Spotlight: Self Help Anxiety (Demand 82/100, Competition 60/100)",
         "slug": "kdp-niche-spotlight-self-help-anxiety-demand-82100-competition-60100",
         "author": "Jay",
@@ -43839,6 +43980,17 @@
         "keywords": "utf, file, using, encoding, languages, can, store, read",
         "generated": "2026-06-06T13:56:22.891066",
         "file": "why-use-utf-8-in-file-handling.md"
+    },
+    {
+        "title": "x402 designs out the intermediaries that produce your tax records",
+        "slug": "x402-designs-out-the-intermediaries-that-produce-your-tax-records",
+        "author": "Rodrigo Puliceno",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 06:54:46 +0000",
+        "description": "x402 lets software pay for things over HTTP. An agent calls a paid API, a fraction of a cent in USDC settles on-chain, the agent gets its data. No accounts, ...",
+        "keywords": "tax, not, payment, when, protocol, what, one, than",
+        "generated": "2026-08-08T07:01:37.220873",
+        "file": "x402-designs-out-the-intermediaries-that-produce-your-tax-records.md"
     },
     {
         "title": "How to Plan Odoo Implementation Services for Scalable ERP Architecture",
@@ -46341,9 +46493,9 @@
         "author": "moelf",
         "source": "hackernews",
         "published": "Fri, 07 Aug 2026 22:24:27 +0000",
-        "description": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 91 # Comments: 38",
+        "description": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 192 # Comments: 64",
         "keywords": "url, https, comments, department, energy, launches, genesis, open",
-        "generated": "2026-08-08T01:58:44.662198",
+        "generated": "2026-08-08T07:01:37.214687",
         "file": "us-department-of-energy-launches-the-genesis-open-models-initiative.md"
     },
     {
@@ -49139,6 +49291,17 @@
         "file": "scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints.md"
     },
     {
+        "title": "NTP Time Synchronization for Cold Storage Monitoring Systems",
+        "slug": "ntp-time-synchronization-for-cold-storage-monitoring-systems",
+        "author": "Phuc Bach",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 06:53:03 +0000",
+        "description": "Cold storage monitoring systems typically focus on one primary question: What is the temperature right now? But in a distributed monitoring architecture, ano...",
+        "keywords": "temperature, time, monitoring, ntp, scada, can, storage, network",
+        "generated": "2026-08-08T07:01:37.219287",
+        "file": "ntp-time-synchronization-for-cold-storage-monitoring-systems.md"
+    },
+    {
         "title": "The Meeting That Became a Nervous System",
         "slug": "the-meeting-that-became-a-nervous-system",
         "author": "Masato　Kato",
@@ -49280,6 +49443,17 @@
         "keywords": "you, your, what, implementation, when, them, learn, team",
         "generated": "2026-06-13T14:12:06.673224",
         "file": "cap-theorem-and-pacelc-understanding-consistency-availability-and-partition-tolerance-tradeoffs.md"
+    },
+    {
+        "title": "Mythos social engineering AISI INC-2026-07-28-01",
+        "slug": "mythos-social-engineering-aisi-inc-2026-07-28-01",
+        "author": "dnnehgf",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 03:41:56 +0000",
+        "description": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218...",
+        "keywords": "url, https, web, com, comments, mythos, social, engineering",
+        "generated": "2026-08-08T07:01:37.214220",
+        "file": "mythos-social-engineering-aisi-inc-2026-07-28-01.md"
     },
     {
         "title": "Encryption at rest and in transit: what every developer needs to know",

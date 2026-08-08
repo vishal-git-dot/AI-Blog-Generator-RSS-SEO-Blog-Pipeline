@@ -4,16 +4,16 @@ slug: "the-nixpkgs-core-team-has-disbanded"
 author: "Meleagris"
 source: "hackernews"
 published: "Sat, 08 Aug 2026 01:12:45 +0000"
-description: "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 24 #..."
+description: "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 255 ..."
 keywords: "nixpkgs, core, team, has, disbanded, url, https, comments"
-generated: "2026-08-08T01:58:44.662036"
+generated: "2026-08-08T07:01:37.214538"
 ---
 
 # The Nixpkgs core team has disbanded
 
 ## Overview
 
-Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 24 # Comments: 3
+Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 255 # Comments: 114
 
 ## Key Insights
 
