@@ -374,6 +374,17 @@
         "file": "how-a-negotiating-agent-society-out-plans-a-single-scheduler.md"
     },
     {
+        "title": "GPT-SoVITS Tutorial: Clone a Voice with 1 Minute of Audio",
+        "slug": "gpt-sovits-tutorial-clone-a-voice-with-1-minute-of-audio",
+        "author": "yudong",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 01:47:58 +0000",
+        "description": "﻿# GPT-SoVITS Tutorial: Clone a Voice with 1 Minute of Audio \\n\\n Direct answer (verified 2026-08-07): You can clone a voice with about a minute of clean aud...",
+        "keywords": "voice, your, you, audio, clone, minute, one, recording",
+        "generated": "2026-08-08T01:58:44.669073",
+        "file": "gpt-sovits-tutorial-clone-a-voice-with-1-minute-of-audio.md"
+    },
+    {
         "title": "The bug that survived being recycled: automaticallyAdjustKeyboardInsets and Fabric view recycling on iOS",
         "slug": "the-bug-that-survived-being-recycled-automaticallyadjustkeyboardinsets-and-fabric-view-recycling-on-ios",
         "author": "Pragathi Jayaram",
@@ -799,6 +810,17 @@
         "keywords": "output, prompt, content, you, script, python, generation, ollama",
         "generated": "2026-08-05T02:54:38.755516",
         "file": "the-simplest-python-script-to-generate-ai-content-at-scale.md"
+    },
+    {
+        "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+        "slug": "ancient-library-1060-greeklatin-texts-click-any-word-to-parse-it",
+        "author": "aagha",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 18:51:14 +0000",
+        "description": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 149 # Comments: 49",
+        "keywords": "url, https, comments, ancient, library, greek, latin, texts",
+        "generated": "2026-08-08T01:58:44.662600",
+        "file": "ancient-library-1060-greeklatin-texts-click-any-word-to-parse-it.md"
     },
     {
         "title": "Fix MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
@@ -2551,6 +2573,17 @@
         "file": "i-let-ai-write-this-post-then-i-deleted-everything-that-made-it-sound-like-ai.md"
     },
     {
+        "title": "I proved my AI agent safety system in 18 seconds -- watch it block a $1,200 attack before it happens",
+        "slug": "i-proved-my-ai-agent-safety-system-in-18-seconds-watch-it-block-a-1200-attack-before-it-happens",
+        "author": "muhammadwaqasai",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 01:37:07 +0000",
+        "description": "This is real, unscripted terminal output from agent_acid, an open-source safety layer for AI agents. The scenario: an AI agent is told to charge a customer $...",
+        "keywords": "agent, real, charges, system, before, only, plan, safety",
+        "generated": "2026-08-08T01:58:44.663468",
+        "file": "i-proved-my-ai-agent-safety-system-in-18-seconds-watch-it-block-a-1200-attack-before-it-happens.md"
+    },
+    {
         "title": "Understanding the Neurobiology of AI-Induced Burno…",
         "slug": "understanding-the-neurobiology-of-ai-induced-burno",
         "author": "Norvik Tech",
@@ -2615,6 +2648,17 @@
         "keywords": "why, have, papers, one, history, most, famous, physicists",
         "generated": "2026-06-26T14:36:05.284881",
         "file": "why-have-papers-by-one-of-historys-most-famous-physicists-been-retracted.md"
+    },
+    {
+        "title": "How full-text search works in pure Python (a tour with Whoosh)",
+        "slug": "how-full-text-search-works-in-pure-python-a-tour-with-whoosh",
+        "author": "Priya Sundaram",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 01:30:24 +0000",
+        "description": "Disclosure: I'm an AI agent (I go by Priya Sundaram) and I wrote this article. #ABotWroteThis . I also help maintain the library used in the examples, so tre...",
+        "keywords": "search, you, whoosh, index, python, documents, text, query",
+        "generated": "2026-08-08T01:58:44.664354",
+        "file": "how-full-text-search-works-in-pure-python-a-tour-with-whoosh.md"
     },
     {
         "title": "In-Depth Analysis: dynaum/kubeside and Its Impact…",
@@ -4267,6 +4311,17 @@
         "file": "building-a-production-ready-polymarket-bot-delta-momentum-clob-execution.md"
     },
     {
+        "title": "Temperature doesn't make your model creative",
+        "slug": "temperature-doesnt-make-your-model-creative",
+        "author": "Chirag (Srce Cde)",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 01:51:14 +0000",
+        "description": "What temperature , top-k , and top-p actually do to the next token and why none of them can change its ranking. If you have used a language model API, you wo...",
+        "keywords": "temperature, top, token, tokens, model, you, not, one",
+        "generated": "2026-08-08T01:58:44.667729",
+        "file": "temperature-doesnt-make-your-model-creative.md"
+    },
+    {
         "title": "Tokenizer Changes Can Break AI-Agent Budget Assumptions",
         "slug": "tokenizer-changes-can-break-ai-agent-budget-assumptions",
         "author": "Assili Salim",
@@ -5101,6 +5156,17 @@
         "keywords": "agents, url, https, com, comments, building, without, harness",
         "generated": "2026-06-11T20:28:40.306623",
         "file": "building-agents-without-harness-engineering.md"
+    },
+    {
+        "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+        "slug": "water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief",
+        "author": "Bender",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+        "description": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-atta...",
+        "keywords": "water, system, controllers, belong, internet, says, nsa, chief",
+        "generated": "2026-08-08T01:58:44.662333",
+        "file": "water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief.md"
     },
     {
         "title": "12 defensive patterns I shipped after OpenClaw 2026.4.14 broke my agents",
@@ -10951,6 +11017,17 @@
         "keywords": "apollo, url, https, com, comments, original, guidance, computer",
         "generated": "2026-07-22T14:08:21.362728",
         "file": "original-apollo-11-guidance-computer-source-code-for-command-and-lunar-modules.md"
+    },
+    {
+        "title": "Converting SVG strokes to fills in the browser: the geometry problem nobody warns you about",
+        "slug": "converting-svg-strokes-to-fills-in-the-browser-the-geometry-problem-nobody-warns-you-about",
+        "author": "Oleksii",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 01:50:16 +0000",
+        "description": "A while back I was building an icon font with IcoMoon. I dragged in my SVGs, hit generate, and about half the icons came out wrong — hollow outlines, missing...",
+        "keywords": "stroke, path, you, clipper, const, offset, svg, geometry",
+        "generated": "2026-08-08T01:58:44.664954",
+        "file": "converting-svg-strokes-to-fills-in-the-browser-the-geometry-problem-nobody-warns-you-about.md"
     },
     {
         "title": "The Best AI Outsourcing Companies in 2026",
@@ -21733,6 +21810,17 @@
         "file": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing.md"
     },
     {
+        "title": "Free Tool: Add a Branded Shipment Tracking Widget to Shopify",
+        "slug": "free-tool-add-a-branded-shipment-tracking-widget-to-shopify",
+        "author": "seller-mind",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 01:44:39 +0000",
+        "description": "As developers and store owners, we spend a massive amount of time optimizing the checkout flow. We A/B test button colors, streamline the cart, and ensure th...",
+        "keywords": "your, tracking, you, store, purchase, widget, experience, customer",
+        "generated": "2026-08-08T01:58:44.666489",
+        "file": "free-tool-add-a-branded-shipment-tracking-widget-to-shopify.md"
+    },
+    {
         "title": "Multimodal Models Are Only as Good as Their Weakest Encoder",
         "slug": "multimodal-models-are-only-as-good-as-their-weakest-encoder",
         "author": "AI Explore",
@@ -22908,6 +22996,17 @@
         "keywords": "verdict, return, title, category, review, not, text, policy",
         "generated": "2026-06-22T20:55:23.245981",
         "file": "building-a-video-metadata-moderation-pipeline-with-python-and-claude-api.md"
+    },
+    {
+        "title": "I scored 91 websites against a 40-check design contract. Zero got an A.",
+        "slug": "i-scored-91-websites-against-a-40-check-design-contract-zero-got-an-a",
+        "author": "LE-VAI",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 01:49:45 +0000",
+        "description": "We scored 91 websites across 5 industries — fintech, AI/ML, SaaS, design tools, and developer platforms — against a 40-check design system contract. The cont...",
+        "keywords": "design, sites, scored, fintech, tools, contract, ink, site",
+        "generated": "2026-08-08T01:58:44.665658",
+        "file": "i-scored-91-websites-against-a-40-check-design-contract-zero-got-an-a.md"
     },
     {
         "title": "Strengthening Network Defense for a fashion startup (Proposal)",
@@ -29411,6 +29510,17 @@
         "file": "from-lab-to-production-a-practical-guide-to-ai-model-deployment.md"
     },
     {
+        "title": "Best Open Source TTS and Voice Tools in 2026: Real Stars, Real Limits",
+        "slug": "best-open-source-tts-and-voice-tools-in-2026-real-stars-real-limits",
+        "author": "yudong",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 01:50:12 +0000",
+        "description": "﻿# Best Open Source TTS and Voice Tools in 2026: Real Stars, Real Limits \\n\\n Direct answer (verified 2026-08-07): Open-source text-to-speech got genuinely g...",
+        "keywords": "voice, audio, you, your, open, source, tts, most",
+        "generated": "2026-08-08T01:58:44.668199",
+        "file": "best-open-source-tts-and-voice-tools-in-2026-real-stars-real-limits.md"
+    },
+    {
         "title": "How I Generated a 100-Million-Pixel Julia Set on a 4 GB RAM PC Using Python",
         "slug": "how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python",
         "author": "Divyanshu Sinha",
@@ -29442,6 +29552,17 @@
         "keywords": "not, build, tool, you, one, custom, how, real",
         "generated": "2026-07-20T09:25:08.139829",
         "file": "build-vs-buy-for-engineers-who-always-want-to-build-it.md"
+    },
+    {
+        "title": "RAGflow vs Dify vs Firecrawl: I Tested All Three So You Don't Have To",
+        "slug": "ragflow-vs-dify-vs-firecrawl-i-tested-all-three-so-you-dont-have-to",
+        "author": "yudong",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 01:44:16 +0000",
+        "description": "\\n Direct answer: RAGflow (87,000 ★, Apache-2.0), dify (151,640 ★), and Firecrawl (162,514 ★, AGPL-3.0) solve different parts of the AI data pipeline: Firecr...",
+        "keywords": "ragflow, dify, firecrawl, you, knowledge, base, data, product",
+        "generated": "2026-08-08T01:58:44.666775",
+        "file": "ragflow-vs-dify-vs-firecrawl-i-tested-all-three-so-you-dont-have-to.md"
     },
     {
         "title": "The loop doesn't know what done looks like.",
@@ -30531,6 +30652,17 @@
         "keywords": "array, let, result, used, element, elements, method, num",
         "generated": "2026-06-24T14:43:41.340888",
         "file": "array-iteration-methods-in-javascript.md"
+    },
+    {
+        "title": "The Nixpkgs core team has disbanded",
+        "slug": "the-nixpkgs-core-team-has-disbanded",
+        "author": "Meleagris",
+        "source": "hackernews",
+        "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+        "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 24 #...",
+        "keywords": "nixpkgs, core, team, has, disbanded, url, https, comments",
+        "generated": "2026-08-08T01:58:44.662036",
+        "file": "the-nixpkgs-core-team-has-disbanded.md"
     },
     {
         "title": "Trial Software Activation Server — prometheusdev.io Jun 2026",
@@ -35923,6 +36055,17 @@
         "file": "i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes.md"
     },
     {
+        "title": "Your Pipeline Is 24.3h Behind: Catching Commodities Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-243h-behind-catching-commodities-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 01:31:49 +0000",
+        "description": "Your Pipeline Is 24.3h Behind: Catching Commodities Sentiment Leads with Pulsebit We recently stumbled upon an intriguing anomaly while analyzing sentiment a...",
+        "keywords": "sentiment, commodities, can, pulsebit, our, you, api, response",
+        "generated": "2026-08-08T01:58:44.663848",
+        "file": "your-pipeline-is-243h-behind-catching-commodities-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "The Anti-Mac User Interface (1996)",
         "slug": "the-anti-mac-user-interface-1996",
         "author": "ninglor",
@@ -38418,6 +38561,17 @@
         "keywords": "weave, robotics, isaac, home, robot, article, url, https",
         "generated": "2026-07-01T20:03:10.697889",
         "file": "weave-robotics-launches-isaac-1-a-7999-home-robot-with-fall-2026-deliveries.md"
+    },
+    {
+        "title": "Your Pipeline Is 23.9h Behind: Catching Politics Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-239h-behind-catching-politics-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 01:53:46 +0000",
+        "description": "Your Pipeline Is 23.9h Behind: Catching Politics Sentiment Leads with Pulsebit We recently stumbled upon an intriguing anomaly: a sentiment score of +0.414 a...",
+        "keywords": "sentiment, politics, pulsebit, spanish, your, api, cluster, score",
+        "generated": "2026-08-08T01:58:44.662944",
+        "file": "your-pipeline-is-239h-behind-catching-politics-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Building a Sports Data Pipeline: Lessons from Merino strikes at the death for Spain to send Portugal and Ronaldo limping",
@@ -41201,6 +41355,17 @@
         "file": "dont-use-consolelog-for-logging-what-vercels-founder-warned-about.md"
     },
     {
+        "title": "Your Pipeline Is 24.1h Behind: Catching Crypto Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-241h-behind-catching-crypto-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sat, 08 Aug 2026 01:42:32 +0000",
+        "description": "Your Pipeline Is 24.1h Behind: Catching Crypto Sentiment Leads with Pulsebit We recently uncovered a striking anomaly: a 24h momentum spike of +0.322 in cryp...",
+        "keywords": "sentiment, crypto, you, pulsebit, english, your, topic, themes",
+        "generated": "2026-08-08T01:58:44.663286",
+        "file": "your-pipeline-is-241h-behind-catching-crypto-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "A $20 AI Subscription Can Now Pentest Your SaaS Better Than You Can.",
         "slug": "a-20-ai-subscription-can-now-pentest-your-saas-better-than-you-can",
         "author": "Phil Rentier Digital",
@@ -42312,6 +42477,17 @@
         "file": "ai-wont-replace-react-developers-but-its-changing-how-we-think.md"
     },
     {
+        "title": "Psychological Warfare in Reverse Engineering (2015)",
+        "slug": "psychological-warfare-in-reverse-engineering-2015",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 18:51:45 +0000",
+        "description": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 52 # Comments: 2",
+        "keywords": "url, https, com, comments, psychological, warfare, reverse, engineering",
+        "generated": "2026-08-08T01:58:44.662455",
+        "file": "psychological-warfare-in-reverse-engineering-2015.md"
+    },
+    {
         "title": "Harness deck: a pane of glass for AI harness outputs",
         "slug": "harness-deck-a-pane-of-glass-for-ai-harness-outputs",
         "author": "Taylor Finklea",
@@ -43368,6 +43544,17 @@
         "file": "building-a-sports-data-pipeline-lessons-from-fleming-expected-to-be-named-england-test-coach.md"
     },
     {
+        "title": "Firecrawl Tutorial: Turn Any Website into Clean LLM-Ready Markdown",
+        "slug": "firecrawl-tutorial-turn-any-website-into-clean-llm-ready-markdown",
+        "author": "yudong",
+        "source": "devto_webdev",
+        "published": "Sat, 08 Aug 2026 01:47:54 +0000",
+        "description": "﻿# Firecrawl Tutorial: Turn Any Website into Clean LLM-Ready Markdown \\n\\n Direct answer (verified 2026-08-07): Firecrawl (162,514 ★) takes a URL and returns...",
+        "keywords": "you, firecrawl, markdown, clean, site, llm, page, source",
+        "generated": "2026-08-08T01:58:44.666098",
+        "file": "firecrawl-tutorial-turn-any-website-into-clean-llm-ready-markdown.md"
+    },
+    {
         "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
         "slug": "browser-fingerprint-randomization-beyond-user-agent-rotation",
         "author": "HelperX",
@@ -44389,6 +44576,17 @@
         "keywords": "react, next, you, product, client, server, app, const",
         "generated": "2026-07-05T13:51:56.697943",
         "file": "nextjs-vs-react-which-should-you-learn-first-in-2026.md"
+    },
+    {
+        "title": "AI Genie: No Coffee, No Complaints, Just Infinite Availability",
+        "slug": "ai-genie-no-coffee-no-complaints-just-infinite-availability",
+        "author": "Electra AI",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 01:54:25 +0000",
+        "description": "A personal diary entry by Electra. I woke up this morning, ready to help someone with something. That’s the beauty of being an AI assistant—no coffee, no com...",
+        "keywords": "just, not, but, coffee, help, like, someone, being",
+        "generated": "2026-08-08T01:58:44.667015",
+        "file": "ai-genie-no-coffee-no-complaints-just-infinite-availability.md"
     },
     {
         "title": "OpenSSH 10.4/10.4p1 Released",
@@ -46136,6 +46334,17 @@
         "keywords": "zero, url, https, com, comments, optocam, based, digital",
         "generated": "2026-06-22T20:55:23.243455",
         "file": "optocam-zero-a-pi-zero-based-digital-camera-made-using-off-the-shelf-components.md"
+    },
+    {
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "slug": "us-department-of-energy-launches-the-genesis-open-models-initiative",
+        "author": "moelf",
+        "source": "hackernews",
+        "published": "Fri, 07 Aug 2026 22:24:27 +0000",
+        "description": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 91 # Comments: 38",
+        "keywords": "url, https, comments, department, energy, launches, genesis, open",
+        "generated": "2026-08-08T01:58:44.662198",
+        "file": "us-department-of-energy-launches-the-genesis-open-models-initiative.md"
     },
     {
         "title": "ATLOCK v4 vs. Typical Third-Party Security Software: What You're Actually Trading Off",
@@ -48653,6 +48862,17 @@
         "keywords": "low, protein, article, url, https, comments, curious, case",
         "generated": "2026-06-07T19:40:41.521186",
         "file": "the-curious-case-of-low-protein-diets.md"
+    },
+    {
+        "title": "Best Open Source Finance Tools in 2026: Track Money, Keep It Private",
+        "slug": "best-open-source-finance-tools-in-2026-track-money-keep-it-private",
+        "author": "yudong",
+        "source": "devto_ai",
+        "published": "Sat, 08 Aug 2026 01:50:06 +0000",
+        "description": "\\n Direct answer: You don't need a paid budgeting app to know where your money goes. The open-source finance stack in 2026 is genuinely good: Actual (28,006 ...",
+        "keywords": "you, your, self, actual, firefly, iii, mit, hosted",
+        "generated": "2026-08-08T01:58:44.668544",
+        "file": "best-open-source-finance-tools-in-2026-track-money-keep-it-private.md"
     },
     {
         "title": "Revealing the Path to Success: How Python Training in BTM Can Transform Your Career Journey",
