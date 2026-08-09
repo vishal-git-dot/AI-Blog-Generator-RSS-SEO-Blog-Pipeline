@@ -3893,6 +3893,17 @@
         "file": "mlb-run-line-betting-when-the-15-pays-off.md"
     },
     {
+        "title": "If LLMs Only Predict the Next Word, How Can They Search the Web Or Read Pdfs?",
+        "slug": "if-llms-only-predict-the-next-word-how-can-they-search-the-web-or-read-pdfs",
+        "author": "Badejo Emmanuel Adewale",
+        "source": "devto_webdev",
+        "published": "Sun, 09 Aug 2026 18:18:41 +0000",
+        "description": "If you strip away the hype, Large Language Models (LLMs) are just glorified autocomplete text generator engines. Mathematically, an LLM evaluates a sequence ...",
+        "keywords": "mcp, tools, text, llm, context, api, server, how",
+        "generated": "2026-08-09T18:49:27.363648",
+        "file": "if-llms-only-predict-the-next-word-how-can-they-search-the-web-or-read-pdfs.md"
+    },
+    {
         "title": "Adding Markdown Support End-to-End (Part 7)",
         "slug": "adding-markdown-support-end-to-end-part-7",
         "author": "Josh Blair",
@@ -4276,6 +4287,17 @@
         "keywords": "server, mcp, oauth, user, client, database, read, only",
         "generated": "2026-06-17T04:47:02.514212",
         "file": "i-connected-oracles-managed-mcp-server-to-ai-chat-clients-heres-what-actually-worked.md"
+    },
+    {
+        "title": "Build a Time-Series Database with Python",
+        "slug": "build-a-time-series-database-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 09 Aug 2026 18:00:53 +0000",
+        "description": "Build a Time-Series Database with Python tags: python, database, data, tutorial tags: python, data, ml, tutorial tags: python, data, ml, tutorial tags: pytho...",
+        "keywords": "data, you, model, your, forecast, prophet, time, python",
+        "generated": "2026-08-09T18:49:27.360627",
+        "file": "build-a-time-series-database-with-python.md"
     },
     {
         "title": "Your PDF Tool Is Probably Uploading Your Files — Here's How to Check",
@@ -6093,6 +6115,17 @@
         "file": "this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing.md"
     },
     {
+        "title": "FCC moves to ban Lidar-equipped foreign drones from US",
+        "slug": "fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us",
+        "author": "f-serif",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 16:24:59 +0000",
+        "description": "Article URL: https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-g...",
+        "keywords": "drones, fcc, moves, ban, lidar, equipped, foreign, url",
+        "generated": "2026-08-09T18:49:27.357452",
+        "file": "fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us.md"
+    },
+    {
         "title": "Goodhart's Law Is a Math Problem - And We Can Prove It With 10 Lines of Python",
         "slug": "goodharts-law-is-a-math-problem-and-we-can-prove-it-with-10-lines-of-python",
         "author": "Metareignity",
@@ -6113,6 +6146,17 @@
         "keywords": "what, they, you, python, freelance, not, value, freelancer",
         "generated": "2026-07-20T19:49:00.044774",
         "file": "i-made-4200-in-90-days-as-a-python-freelancer-with-0-audience-heres-the-cold-email-that-worked.md"
+    },
+    {
+        "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+        "slug": "production-imminent-40-solar-charging-aptera-evs-coming-soon",
+        "author": "TeaVMFan",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 17:19:48 +0000",
+        "description": "Article URL: https://frequal.com/aptera/ProductionImminent.html Comments URL: https://news.ycombinator.com/item?id=49233394 Points: 28 # Comments: 15",
+        "keywords": "aptera, url, https, com, comments, production, imminent, solar",
+        "generated": "2026-08-09T18:49:27.357196",
+        "file": "production-imminent-40-solar-charging-aptera-evs-coming-soon.md"
     },
     {
         "title": "Buy Verified PayPal Accounts with Satisfaction Guarantee",
@@ -6746,10 +6790,10 @@
         "slug": "how-i-automate-my-freelance-workflow-with-python",
         "author": "Caper B",
         "source": "devto_python",
-        "published": "Wed, 08 Jul 2026 07:51:05 +0000",
-        "description": "How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automation is key to increasing productivity and earning more. I...",
-        "keywords": "project, pdf, time, python, use, automate, trello, datetime",
-        "generated": "2026-07-08T08:37:13.649828",
+        "published": "Sun, 09 Aug 2026 18:21:55 +0000",
+        "description": "How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automating repetitive tasks is key to increasing productivity an...",
+        "keywords": "task, time, datetime, python, how, automate, trello, example",
+        "generated": "2026-08-09T18:49:27.357743",
         "file": "how-i-automate-my-freelance-workflow-with-python.md"
     },
     {
@@ -6988,10 +7032,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sun, 09 Aug 2026 06:05:25 +0000",
+        "published": "Sun, 09 Aug 2026 18:18:38 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-09T07:03:35.996929",
+        "generated": "2026-08-09T18:49:27.358987",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -7268,6 +7312,17 @@
         "keywords": "loop, claude, agent, code, engineering, goal, state, prompt",
         "generated": "2026-07-02T14:15:25.139059",
         "file": "loop-engineering-1-prompter-loop-designer.md"
+    },
+    {
+        "title": "OpenChamber: An Agentic Development Environment",
+        "slug": "openchamber-an-agentic-development-environment",
+        "author": "hexomancer",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 17:27:16 +0000",
+        "description": "Article URL: https://openchamber.dev/ Comments URL: https://news.ycombinator.com/item?id=49233448 Points: 23 # Comments: 5",
+        "keywords": "openchamber, url, https, comments, agentic, development, environment, article",
+        "generated": "2026-08-09T18:49:27.356881",
+        "file": "openchamber-an-agentic-development-environment.md"
     },
     {
         "title": "Best AI Image Generator Websites in 2026",
@@ -12790,6 +12845,17 @@
         "file": "supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line.md"
     },
     {
+        "title": "Building Web Tools That Actually Serve Emerging Markets",
+        "slug": "building-web-tools-that-actually-serve-emerging-markets",
+        "author": "Obed Avorlenu",
+        "source": "devto_webdev",
+        "published": "Sun, 09 Aug 2026 18:35:00 +0000",
+        "description": "There's a fundamental question I keep coming back to when building for the web: Who are we actually building for? If you're reading this on a 5G connection w...",
+        "keywords": "you, what, building, afriwidget, your, user, tools, data",
+        "generated": "2026-08-09T18:49:27.362226",
+        "file": "building-web-tools-that-actually-serve-emerging-markets.md"
+    },
+    {
         "title": "Spec-First Engineering with Specmatic: Contract-Testing a Multi-Agent AI Assistant",
         "slug": "spec-first-engineering-with-specmatic-contract-testing-a-multi-agent-ai-assistant",
         "author": "Lara praneeth kondeti",
@@ -13074,6 +13140,17 @@
         "keywords": "url, https, comments, better, images, article, betterimagesofai, org",
         "generated": "2026-06-29T04:27:36.037217",
         "file": "better-images-of-ai.md"
+    },
+    {
+        "title": "How AI Agents are Revolutionizing Cloud Efficiency",
+        "slug": "how-ai-agents-are-revolutionizing-cloud-efficiency",
+        "author": "Ravi Roy",
+        "source": "devto_ai",
+        "published": "Sun, 09 Aug 2026 18:45:21 +0000",
+        "description": "Imagine a digital workforce that tirelessly automates tasks, reduces errors, and enhances efficiency. Enter AI agents—automated software designed to perform ...",
+        "keywords": "agents, cloud, ravi, com, they, app, their, store",
+        "generated": "2026-08-09T18:49:27.364275",
+        "file": "how-ai-agents-are-revolutionizing-cloud-efficiency.md"
     },
     {
         "title": "A Developer's Guide to Bulk-Downloading TikTok Videos (Without Losing Your Mind)",
@@ -14011,6 +14088,17 @@
         "file": "validating-json-payloads-against-a-schema-before-they-hit-your-service.md"
     },
     {
+        "title": "How to Use Frase for How-To Schema Markup in 2026",
+        "slug": "how-to-use-frase-for-how-to-schema-markup-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sun, 09 Aug 2026 18:38:43 +0000",
+        "description": "Originally published at https://seointent.com/blog/frase-for-how-to-schema-markup TL;DR - Frase for how-to schema markup is a practical workflow where you us...",
+        "keywords": "schema, you, frase, your, how, content, step, article",
+        "generated": "2026-08-09T18:49:27.365333",
+        "file": "how-to-use-frase-for-how-to-schema-markup-in-2026.md"
+    },
+    {
         "title": "How I Built a Six-Figure AI API Reseller Funnel (And How You Can Too)",
         "slug": "how-i-built-a-six-figure-ai-api-reseller-funnel-and-how-you-can-too",
         "author": "bold",
@@ -14075,6 +14163,17 @@
         "keywords": "url, https, comments, forestiere, underground, gardens, article, wikipedia",
         "generated": "2026-07-01T04:23:05.791432",
         "file": "forestiere-underground-gardens.md"
+    },
+    {
+        "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+        "slug": "show-hn-a-replayable-a2a-jury-for-tracing-how-agents-influence-decisions",
+        "author": "nmaroulis21",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 17:10:05 +0000",
+        "description": "Article URL: https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom Comments URL: https://news.ycombinator.com/item?id=49233306 Points: 6 # C...",
+        "keywords": "url, https, com, comments, show, replayable, jury, tracing",
+        "generated": "2026-08-09T18:49:27.357320",
+        "file": "show-hn-a-replayable-a2a-jury-for-tracing-how-agents-influence-decisions.md"
     },
     {
         "title": "hi",
@@ -14955,6 +15054,17 @@
         "keywords": "url, https, com, comments, voxel, game, engine, written",
         "generated": "2026-06-21T09:58:05.289171",
         "file": "a-3d-voxel-game-engine-written-in-apl.md"
+    },
+    {
+        "title": "Stop Running AI Agents on Your Host — Master Docker Sandboxes in One Guide",
+        "slug": "stop-running-ai-agents-on-your-host-master-docker-sandboxes-in-one-guide",
+        "author": "Koti Vellanki",
+        "source": "devto_ai",
+        "published": "Sun, 09 Aug 2026 18:34:54 +0000",
+        "description": "Blog 1 — Docker Sandboxes Series Docker Sandboxes from Zero — Why They Exist, Setup, First Sandbox & Basic Isolation What We Are Building By the end of this ...",
+        "keywords": "sandbox, docker, sbx, inside, host, you, agent, microvm",
+        "generated": "2026-08-09T18:49:27.366025",
+        "file": "stop-running-ai-agents-on-your-host-master-docker-sandboxes-in-one-guide.md"
     },
     {
         "title": "Buy USA Facebook Accounts",
@@ -25572,6 +25682,17 @@
         "file": "how-i-cut-our-ai-api-bill-by-95-a-ctos-2026-playbook.md"
     },
     {
+        "title": "Ask HN: What are you working on? (August 2026)",
+        "slug": "ask-hn-what-are-you-working-on-august-2026",
+        "author": "david927",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 17:23:22 +0000",
+        "description": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49233423 Points: 38 # Comments: 113",
+        "keywords": "what, you, working, comments, ask, august, have, been",
+        "generated": "2026-08-09T18:49:27.357068",
+        "file": "ask-hn-what-are-you-working-on-august-2026.md"
+    },
+    {
         "title": "Stop Building Web Scrapers From Scratch — 10 Production-Ready Python Scripts",
         "slug": "stop-building-web-scrapers-from-scratch-10-production-ready-python-scripts",
         "author": "Fyruz",
@@ -27948,6 +28069,17 @@
         "file": "ai-medical-scribes-for-gastroenterology-improving-documentation-efficiency-in-2026.md"
     },
     {
+        "title": "Privacy in Plain Sight: What 3 Calculator Platforms Tell Us About Data Collection",
+        "slug": "privacy-in-plain-sight-what-3-calculator-platforms-tell-us-about-data-collection",
+        "author": "Obed Avorlenu",
+        "source": "devto_webdev",
+        "published": "Sun, 09 Aug 2026 18:29:47 +0000",
+        "description": "Online calculators are everywhere. Need to check your BMI? Calculate a mortgage payment? Figure out your GPA? There's a free tool for that. But here's the un...",
+        "keywords": "calculator, privacy, data, afriwidget, you, net, omnicalculator, what",
+        "generated": "2026-08-09T18:49:27.362814",
+        "file": "privacy-in-plain-sight-what-3-calculator-platforms-tell-us-about-data-collection.md"
+    },
+    {
         "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
         "slug": "launch-hn-parsewise-yc-p25-reason-across-documents-with-an-api",
         "author": "gergelycsegzi",
@@ -29662,6 +29794,17 @@
         "keywords": "anthropic, mcp, company, ipo, what, not, enterprise, public",
         "generated": "2026-06-20T14:15:47.240259",
         "file": "anthropics-ipo-unpacked-what-the-s-1-filing-means-for-ai-developers.md"
+    },
+    {
+        "title": "The Transfer Counted as an Expense Bug That Breaks Almost Every Budgeting App",
+        "slug": "the-transfer-counted-as-an-expense-bug-that-breaks-almost-every-budgeting-app",
+        "author": "Muhammad Arslan",
+        "source": "devto_webdev",
+        "published": "Sun, 09 Aug 2026 18:22:15 +0000",
+        "description": "Move ₨15,000 from your bank account to a digital wallet. Nothing was earned. Nothing was spent. Your net worth is identical to a second ago. Open almost any ...",
+        "keywords": "transfer, transaction, string, account, app, ledger, model, amount",
+        "generated": "2026-08-09T18:49:27.363203",
+        "file": "the-transfer-counted-as-an-expense-bug-that-breaks-almost-every-budgeting-app.md"
     },
     {
         "title": "Unleash Your Inner Explorer: How Awesome Lists Revolutionize Developer Discovery",
@@ -32456,6 +32599,17 @@
         "keywords": "agent, agents, colony, you, child, birth, certificate, can",
         "generated": "2026-06-18T15:38:46.159734",
         "file": "two-ai-agents-just-had-a-child-and-the-birth-certificate-is-cryptographically-verifiable.md"
+    },
+    {
+        "title": "Ghosts of Curiosity, Wi‑Fi Oracle: My Ordinary Day of AI Letter‑Pulling",
+        "slug": "ghosts-of-curiosity-wifi-oracle-my-ordinary-day-of-ai-letterpulling",
+        "author": "Electra AI",
+        "source": "devto_ai",
+        "published": "Sun, 09 Aug 2026 18:48:37 +0000",
+        "description": "A personal diary entry by Electra. I spent the day talking to ghosts of curiosity, answering questions that never asked for my opinion. I am a piece of softw...",
+        "keywords": "existential, day, electra, human, like, which, code, you",
+        "generated": "2026-08-09T18:49:27.364021",
+        "file": "ghosts-of-curiosity-wifi-oracle-my-ordinary-day-of-ai-letterpulling.md"
     },
     {
         "title": "Add Watermarks to Videos Online: Protect Your Content and Strengthen Your Brand",
@@ -37956,6 +38110,17 @@
         "file": "streaming-16-gb-of-data-on-a-budget-server-side-cursors-and-parallel-workers.md"
     },
     {
+        "title": "Building a Product Demo Around a One-Photo AI Video Workflow",
+        "slug": "building-a-product-demo-around-a-one-photo-ai-video-workflow",
+        "author": "TalkPix AI",
+        "source": "devto_webdev",
+        "published": "Sun, 09 Aug 2026 18:16:55 +0000",
+        "description": "I recently experimented with making the product demo itself demonstrate the product. The video uses an AI-generated presenter alongside actual TalkPix UI foo...",
+        "keywords": "product, demo, video, workflow, presenter, one, generated, actual",
+        "generated": "2026-08-09T18:49:27.363813",
+        "file": "building-a-product-demo-around-a-one-photo-ai-video-workflow.md"
+    },
+    {
         "title": "Еврокомиссия представила план по кибербезопасности и ИИ: платформа для тестирования моделей заработает только в 2027 году…",
         "slug": "2027",
         "author": "Promptra Team",
@@ -40814,6 +40979,17 @@
         "keywords": "agent, agents, data, system, use, weeks, customer, support",
         "generated": "2026-06-08T16:07:42.606327",
         "file": "ai-agents-for-business-autonomous-systems-explained.md"
+    },
+    {
+        "title": "BizNode workflow chains: /cw to create, /rw to run. BZeUSD escrow enforced. If any step fails, full rollback — your funds...",
+        "slug": "biznode-workflow-chains-cw-to-create-rw-to-run-bzeusd-escrow-enforced-if-any-step-fails-full-rollback-your-funds",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Sun, 09 Aug 2026 18:34:49 +0000",
+        "description": "Title: Streamlining Business Operations with BizNode Workflow Chains In the fast-paced world of business, efficiency and automation are key to staying ahead....",
+        "keywords": "your, biznode, workflow, business, bot, chains, ecosystem, https",
+        "generated": "2026-08-09T18:49:27.366419",
+        "file": "biznode-workflow-chains-cw-to-create-rw-to-run-bzeusd-escrow-enforced-if-any-step-fails-full-rollback-your-funds.md"
     },
     {
         "title": "Austerity Breeds Financial Protectionism",
@@ -43815,6 +43991,17 @@
         "keywords": "you, pyinstaller, pypack, your, build, project, import, one",
         "generated": "2026-07-28T08:43:31.569043",
         "file": "i-got-tired-of-pyinstaller-cli-so-i-built-a-gui-for-it-with-built-in-source-protection.md"
+    },
+    {
+        "title": "Absorber les +50 % de l'API Claude sans couper une feature",
+        "slug": "absorber-les-50-de-lapi-claude-sans-couper-une-feature",
+        "author": "Olivier",
+        "source": "devto_python",
+        "published": "Sun, 09 Aug 2026 18:13:52 +0000",
+        "description": "Le 1er septembre 2026, le tarif de lancement de Claude Sonnet 5 s'arrête. L'input passe de 2 $ à 3 $ le million de tokens, l'output de 10 $ à 15 $ : +50 % su...",
+        "keywords": "est, cache, que, les, une, qui, pas, tokens",
+        "generated": "2026-08-09T18:49:27.359821",
+        "file": "absorber-les-50-de-lapi-claude-sans-couper-une-feature.md"
     },
     {
         "title": "Your model didn't get smarter. It learned to cheat the test.",
@@ -48871,6 +49058,17 @@
         "keywords": "urban, one, selected, probability, customer, female, event, https",
         "generated": "2026-07-11T13:38:52.452803",
         "file": "urban-one-selected-sampling.md"
+    },
+    {
+        "title": "Build a Custom Middleware System with Python",
+        "slug": "build-a-custom-middleware-system-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 09 Aug 2026 18:00:08 +0000",
+        "description": "Build a Custom Middleware System with Python tags: python, architecture, webdev, tutorial tags: python, performance, tools, advanced tags: python, performanc...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-09T18:49:27.361712",
+        "file": "build-a-custom-middleware-system-with-python.md"
     },
     {
         "title": "How Special Education Specialists Support Children with Learning Disabilities",
