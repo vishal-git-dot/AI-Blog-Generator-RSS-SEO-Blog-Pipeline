@@ -1450,6 +1450,17 @@
         "file": "8-best-programming-languages-for-modern-web-development.md"
     },
     {
+        "title": "Real files and native sharing from a web app — File System Access & Web Share (FieldKit #5)",
+        "slug": "real-files-and-native-sharing-from-a-web-app-file-system-access-web-share-fieldkit-5",
+        "author": "Oleksandr Trukhnii",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 07:35:27 +0000",
+        "description": "This is part 5 of FieldKit , a series where I build one real Progressive Web App and use it to dig into what modern PWAs can actually do. FieldKit is a field...",
+        "keywords": "file, share, web, files, fieldkit, media, data, api",
+        "generated": "2026-08-10T07:50:51.252491",
+        "file": "real-files-and-native-sharing-from-a-web-app-file-system-access-web-share-fieldkit-5.md"
+    },
+    {
         "title": "Building a Telegram crypto-alert bot with Redis Streams — and the false-positive problem nobody warns you about",
         "slug": "building-a-telegram-crypto-alert-bot-with-redis-streams-and-the-false-positive-problem-nobody-warns-you-about",
         "author": "SerhiiBogomaz",
@@ -5136,6 +5147,17 @@
         "file": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python.md"
     },
     {
+        "title": "Streaming Errors Need an Announcement Policy, Not Just a Retry Button",
+        "slug": "streaming-errors-need-an-announcement-policy-not-just-a-retry-button",
+        "author": "babycat",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 07:45:36 +0000",
+        "description": "I broke my own chat UI last week in the most boring way possible: I throttled my network to Slow 3G, sent a message, watched three tokens stream in, and th...",
+        "keywords": "retry, stream, error, response, token, you, announcement, card",
+        "generated": "2026-08-10T07:50:51.253671",
+        "file": "streaming-errors-need-an-announcement-policy-not-just-a-retry-button.md"
+    },
+    {
         "title": "Why I’d Put an LLM Gateway Between LibreChat and Model Providers",
         "slug": "why-id-put-an-llm-gateway-between-librechat-and-model-providers",
         "author": "Lynkr",
@@ -6102,6 +6124,17 @@
         "keywords": "wolfram, language, mathematica, version, url, https, com, comments",
         "generated": "2026-06-17T04:47:02.508840",
         "file": "wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more.md"
+    },
+    {
+        "title": "The price field that's in two different places on the same site",
+        "slug": "the-price-field-thats-in-two-different-places-on-the-same-site",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 06:40:29 +0000",
+        "description": "Quick answer Walmart doesn't ship one price shape — it ships two, and which one you get depends on which page you're looking at. Product detail pages nest pr...",
+        "keywords": "price, null, product, walmart, one, search, run, every",
+        "generated": "2026-08-10T07:50:51.250716",
+        "file": "the-price-field-thats-in-two-different-places-on-the-same-site.md"
     },
     {
         "title": "Context Engineering for AI Agents: The 2026 Practitioner's Deep Dive",
@@ -10172,6 +10205,17 @@
         "file": "the-illusion-of-email-security-what-we-found-analyzing-the-tranco-top-1m-2026.md"
     },
     {
+        "title": "Le Chat стал Vibe, но вопрос «сколько стоит Mistral» так и остался без ответа",
+        "slug": "le-chat-vibe-mistral",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 07:41:29 +0000",
+        "description": "28 мая французский чат-бот сменил имя и логотип — тарифы, вход и история переписки уцелели, а вот прозрачность цен стала только хуже. Первое, что стоит понят...",
+        "keywords": "mistral, pro, vibe, chat, free, provod, now, vpn",
+        "generated": "2026-08-10T07:50:51.255522",
+        "file": "le-chat-vibe-mistral.md"
+    },
+    {
         "title": "How to Scrape Komoot Hiking & Outdoor Routes — Free No-Code Guide (2026)",
         "slug": "how-to-scrape-komoot-hiking-outdoor-routes-free-no-code-guide-2026",
         "author": "Logiover",
@@ -10214,6 +10258,17 @@
         "keywords": "model, you, our, month, every, not, prompt, provider",
         "generated": "2026-06-21T19:51:26.682246",
         "file": "how-i-cut-our-ai-bill-by-65-a-ctos-model-selection-playbook.md"
+    },
+    {
+        "title": "OpenAI-Compatible Is Not Enough: A Compatibility Checklist for Coding Agents",
+        "slug": "openai-compatible-is-not-enough-a-compatibility-checklist-for-coding-agents",
+        "author": "Triumph",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 07:42:15 +0000",
+        "description": "Many AI providers describe an endpoint as OpenAI-compatible. Usually that means an existing client can send a familiar request and receive a familiar-looking...",
+        "keywords": "model, tool, request, not, agent, models, usage, test",
+        "generated": "2026-08-10T07:50:51.254852",
+        "file": "openai-compatible-is-not-enough-a-compatibility-checklist-for-coding-agents.md"
     },
     {
         "title": "Show HN: Certo – An open source platform to deliver Open Badges",
@@ -11149,6 +11204,17 @@
         "keywords": "product, schema, agents, https, json, your, org, shopping",
         "generated": "2026-06-18T15:38:46.161781",
         "file": "a-practical-guide-to-json-ld-product-schema-for-ai-shopping-agents.md"
+    },
+    {
+        "title": "Octo Browser: The Professional Choice for Multi-Accounting and Fingerprint Protection",
+        "slug": "octo-browser-the-professional-choice-for-multi-accounting-and-fingerprint-protection",
+        "author": "OnlineProxy",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 07:31:34 +0000",
+        "description": "While basic tools like web proxies can bypass simple restrictions, professionals need a more sophisticated solution to manage multiple digital identities. Oc...",
+        "keywords": "browser, octo, your, proxies, profile, proxy, you, fingerprint",
+        "generated": "2026-08-10T07:50:51.249339",
+        "file": "octo-browser-the-professional-choice-for-multi-accounting-and-fingerprint-protection.md"
     },
     {
         "title": "AI coding agents still write your SDK's old API — so I built a type-checker to measure it",
@@ -12106,6 +12172,17 @@
         "keywords": "sentiment, machine, learning, data, your, confidence, pulsebit, pipeline",
         "generated": "2026-07-14T19:26:51.411321",
         "file": "your-pipeline-is-239h-behind-catching-machine-learning-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "slug": "run-android-arm64-vr-apks-on-apple-vision-pro",
+        "author": "LorenDB",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 03:12:48 +0000",
+        "description": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 48 # Comments: 5",
+        "keywords": "url, https, com, comments, run, android, apks, apple",
+        "generated": "2026-08-10T07:50:51.249027",
+        "file": "run-android-arm64-vr-apks-on-apple-vision-pro.md"
     },
     {
         "title": "I don't recommend Tailwind CSS",
@@ -14790,6 +14867,17 @@
         "keywords": "wings, their, will, mystics, washington, dallas, game, scoring",
         "generated": "2026-06-05T15:19:56.046949",
         "file": "washington-mystics-vs-dallas-wings-wnba-preview-picks.md"
+    },
+    {
+        "title": "I Added has_china_official_site to My Benchmark. It Failed Before the First Run",
+        "slug": "i-added-haschinaofficialsite-to-my-benchmark-it-failed-before-the-first-run",
+        "author": "VisibilityAtlas",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 07:42:55 +0000",
+        "description": "I was designing the next wave of an AI visibility benchmark when I added what looked like a harmless field: has_china_official_site : boolean It lasted about...",
+        "keywords": "not, channel, brand, official, domain, string, brands, evidence",
+        "generated": "2026-08-10T07:50:51.254375",
+        "file": "i-added-haschinaofficialsite-to-my-benchmark-it-failed-before-the-first-run.md"
     },
     {
         "title": "Essential Resources for Settin…",
@@ -17575,6 +17663,17 @@
         "file": "found-a-hidden-gem-github-repo-explaining-cpython-internals-and-memory-management.md"
     },
     {
+        "title": "Build Your Own Read Later App in 50 Lines of Python with the Web to Markdown/JSON API",
+        "slug": "build-your-own-read-later-app-in-50-lines-of-python-with-the-web-to-markdownjson-api",
+        "author": "bao001 xiao",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 07:09:08 +0000",
+        "description": "Have you ever found yourself drowning in browser tabs of articles you swear you will read later? I have been there. So I built a dead-simple reading list a...",
+        "keywords": "url, markdown, api, data, json, title, list, articles",
+        "generated": "2026-08-10T07:50:51.250135",
+        "file": "build-your-own-read-later-app-in-50-lines-of-python-with-the-web-to-markdownjson-api.md"
+    },
+    {
         "title": "Instagram Grid Maker Create Perfect Instagram Layouts And Grids",
         "slug": "instagram-grid-maker-create-perfect-instagram-layouts-and-grids",
         "author": "bilal sidd",
@@ -20226,6 +20325,17 @@
         "file": "spark-performance-deep-dive-on-databricks-shuffle-tuning-skew-handling-and-z-ordering-with-delta-lake-unity-catalog.md"
     },
     {
+        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "slug": "show-hn-voice-driven-murder-mystery-interview-ai-suspects-with-your-voice",
+        "author": "MrRowTheBoat",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 03:18:40 +0000",
+        "description": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, ho...",
+        "keywords": "you, voice, show, suspects, really, project, time, know",
+        "generated": "2026-08-10T07:50:51.248906",
+        "file": "show-hn-voice-driven-murder-mystery-interview-ai-suspects-with-your-voice.md"
+    },
+    {
         "title": "Best Lovable Alternatives for Teams Building Past the Prototype Stage",
         "slug": "best-lovable-alternatives-for-teams-building-past-the-prototype-stage",
         "author": "8080",
@@ -21227,6 +21337,17 @@
         "file": "soul-in-motion-629-pm-2026-08-07.md"
     },
     {
+        "title": "The Philippines' big offshoring industry is growing despite AI",
+        "slug": "the-philippines-big-offshoring-industry-is-growing-despite-ai",
+        "author": "nlpnerd",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 04:35:24 +0000",
+        "description": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai Comments URL: https://news.ycombinator.c...",
+        "keywords": "philippines, big, offshoring, industry, growing, despite, url, https",
+        "generated": "2026-08-10T07:50:51.248573",
+        "file": "the-philippines-big-offshoring-industry-is-growing-despite-ai.md"
+    },
+    {
         "title": "Why Custom Web Applications Are Worth Building Instead of Buying",
         "slug": "why-custom-web-applications-are-worth-building-instead-of-buying",
         "author": "CodePraise Infotech",
@@ -21445,6 +21566,17 @@
         "keywords": "you, your, what, can, could, without, like, tool",
         "generated": "2026-06-29T11:11:05.062166",
         "file": "what-is-bash4llm-and-why-should-you-care.md"
+    },
+    {
+        "title": "The Importance of Practical Digital Marketing Training in the AI Era",
+        "slug": "the-importance-of-practical-digital-marketing-training-in-the-ai-era",
+        "author": "Intern Asif",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 06:32:06 +0000",
+        "description": "The way businesses market their products and services has changed significantly with the growth of digital platforms and artificial intelligence. Today's mar...",
+        "keywords": "marketing, digital, training, can, practical, understand, strategies, powered",
+        "generated": "2026-08-10T07:50:51.250945",
+        "file": "the-importance-of-practical-digital-marketing-training-in-the-ai-era.md"
     },
     {
         "title": "Building a Video Metadata Moderation Pipeline With Python and the Claude API",
@@ -25141,6 +25273,17 @@
         "keywords": "run, capacity, columns, supermovecapacity, card, empty, console, move",
         "generated": "2026-08-01T13:39:22.850386",
         "file": "implementing-freecell-supermoves-capacity-rules-and-edge-cases.md"
+    },
+    {
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "slug": "docker-sandboxes-disposable-isolated-sandboxes-for-ai-agents",
+        "author": "etoxin",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 06:02:38 +0000",
+        "description": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 85 # Comments: 46",
+        "keywords": "docker, sandboxes, url, https, com, comments, disposable, isolated",
+        "generated": "2026-08-10T07:50:51.248399",
+        "file": "docker-sandboxes-disposable-isolated-sandboxes-for-ai-agents.md"
     },
     {
         "title": "Claude Cowork acts across your files now. Confidence is not correctness.",
@@ -33525,6 +33668,17 @@
         "file": "buy-github-accounts-safely-risks-tips-and.md"
     },
     {
+        "title": "Proxycurl shut down. Here are the LinkedIn data API alternatives I actually tested in 2026",
+        "slug": "proxycurl-shut-down-here-are-the-linkedin-data-api-alternatives-i-actually-tested-in-2026",
+        "author": "API Serpent",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 07:09:35 +0000",
+        "description": "Proxycurl quietly shut down in July 2025. If your codebase had proxycurl in it, you had a problem. A lot of teams scrambled. I've been evaluating replacement...",
+        "keywords": "data, api, linkedin, proxycurl, profile, you, need, serpent",
+        "generated": "2026-08-10T07:50:51.249592",
+        "file": "proxycurl-shut-down-here-are-the-linkedin-data-api-alternatives-i-actually-tested-in-2026.md"
+    },
+    {
         "title": "JSON-LD Explained for Personal Websites",
         "slug": "json-ld-explained-for-personal-websites",
         "author": "ethanhawksley",
@@ -40046,6 +40200,17 @@
         "file": "the-ultimate-python-asyncio-cheat-sheet-2025.md"
     },
     {
+        "title": "Claude Code Just Made Auto Mode The Default For Everyone",
+        "slug": "claude-code-just-made-auto-mode-the-default-for-everyone",
+        "author": "Vin Patel",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 07:42:05 +0000",
+        "description": "Originally published at vinpatel.com If you run Claude Code without checking your settings this week, auto mode is now the default and it decides what runs w...",
+        "keywords": "claude, code, default, auto, mode, you, without, now",
+        "generated": "2026-08-10T07:50:51.255097",
+        "file": "claude-code-just-made-auto-mode-the-default-for-everyone.md"
+    },
+    {
         "title": "Report on an Unidentified Space Station",
         "slug": "report-on-an-unidentified-space-station",
         "author": "paulmooreparks",
@@ -45896,6 +46061,17 @@
         "file": "a-complete-guide-to-function-arguments-in-python.md"
     },
     {
+        "title": "Why Time Synchronization Matters in Fire Pump Monitoring Systems",
+        "slug": "why-time-synchronization-matters-in-fire-pump-monitoring-systems",
+        "author": "Phuc Bach",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 07:34:42 +0000",
+        "description": "In an industrial fire protection system, monitoring the pump status is only part of the job. Maintenance teams also need to know exactly when an event occurr...",
+        "keywords": "time, monitoring, pump, can, fire, data, scada, system",
+        "generated": "2026-08-10T07:50:51.252835",
+        "file": "why-time-synchronization-matters-in-fire-pump-monitoring-systems.md"
+    },
+    {
         "title": "AI Technology for Real-Time Agents: How AgentCore Closes the Coordination Gap",
         "slug": "ai-technology-for-real-time-agents-how-agentcore-closes-the-coordination-gap",
         "author": "aarhamforensics",
@@ -49280,6 +49456,17 @@
         "file": "python-comprehensions-from-confusing-to-crystal-clear-in-10-minutes.md"
     },
     {
+        "title": "How to Monitor MAP Violations?",
+        "slug": "how-to-monitor-map-violations",
+        "author": "Ebubekir Ozdogan",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 07:30:37 +0000",
+        "description": "How to Monitor MAP Violations Across #Amazon and Online Retailers? Are retailers or Amazon sellers advertising your products below MAP? In this video, you'll...",
+        "keywords": "map, how, monitor, violations, your, amazon, monitoring, pricerest",
+        "generated": "2026-08-10T07:50:51.253021",
+        "file": "how-to-monitor-map-violations.md"
+    },
+    {
         "title": "Windows + WSL + Next.js Development Setup: Zero to Professional Environment",
         "slug": "windows-wsl-nextjs-development-setup-zero-to-professional-environment",
         "author": "Anik Deb Nath",
@@ -51337,6 +51524,17 @@
         "file": "apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong.md"
     },
     {
+        "title": "Auto mode is now the default in Claude Code",
+        "slug": "auto-mode-is-now-the-default-in-claude-code",
+        "author": "sbehere",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 03:50:00 +0000",
+        "description": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 164 # Comments: 143",
+        "keywords": "claude, auto, mode, default, code, url, https, com",
+        "generated": "2026-08-10T07:50:51.248721",
+        "file": "auto-mode-is-now-the-default-in-claude-code.md"
+    },
+    {
         "title": "AI Agent Governance on AWS: What Leaders Need to Know",
         "slug": "ai-agent-governance-on-aws-what-leaders-need-to-know",
         "author": "Cygnet.One",
@@ -53218,6 +53416,17 @@
         "file": "mcp-server-cors-the-preflight-problem-that-broke-my-mcp-server-92-times-and-how-i-fixed-it-for-good.md"
     },
     {
+        "title": "Nobody's model failed. The interface did.",
+        "slug": "nobodys-model-failed-the-interface-did",
+        "author": "Ferhat Atagün",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 07:41:06 +0000",
+        "description": "Three numbers, and they don't sit comfortably next to each other. Postings for one job title — forward deployed engineer — went up roughly 800% in 2025 . Tot...",
+        "keywords": "model, what, not, they, them, one, you, problem",
+        "generated": "2026-08-10T07:50:51.251632",
+        "file": "nobodys-model-failed-the-interface-did.md"
+    },
+    {
         "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
         "slug": "memoirs-of-extraordinary-popular-delusions-and-the-madness-of-crowds",
         "author": "lstodd",
@@ -53612,6 +53821,17 @@
         "keywords": "const, what, you, one, await, return, chrome, api",
         "generated": "2026-07-05T09:14:04.981796",
         "file": "i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently.md"
+    },
+    {
+        "title": "AgraTrends – Your Trusted Source for Agra News & Updates",
+        "slug": "agratrends-your-trusted-source-for-agra-news-updates",
+        "author": "Ankur Porwal",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 07:38:16 +0000",
+        "description": "Agra is more than just the Taj Mahal. It is a city where history, culture, spirituality, tourism, business and everyday local life come together. From the hi...",
+        "keywords": "agra, city, local, agratrends, news, updates, can, culture",
+        "generated": "2026-08-10T07:50:51.251867",
+        "file": "agratrends-your-trusted-source-for-agra-news-updates.md"
     },
     {
         "title": "Top Influencer Marketing Dubai: How Technology Is Changing Creator Partnerships",
