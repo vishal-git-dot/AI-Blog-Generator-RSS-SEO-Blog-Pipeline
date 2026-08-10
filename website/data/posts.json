@@ -5466,6 +5466,17 @@
         "file": "south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots.md"
     },
     {
+        "title": "深夜食堂·中国篇 — 纯CSS手绘食物情感故事页",
+        "slug": "css",
+        "author": "郑伟光",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 02:06:19 +0000",
+        "description": "每个人心中都有一个深夜食堂。你的故事，就是最好的那道菜。 作品简介 深夜食堂·中国篇 ，一个关于中国深夜美食的情感故事页。四道来自中国各地的深夜美食，四个关于温暖、思念与人情味的故事。每道食物均使用 纯 CSS 手绘插图 ，无任何 AI 生成图片或 SVG。 美食 地域 情感关键词 时间 热汤牛肉面 兰州 温暖治...",
+        "keywords": "css, radial, gradient, svg, div, keyframes, canvas, skip",
+        "generated": "2026-08-10T02:10:38.788449",
+        "file": "css.md"
+    },
+    {
         "title": "Private Equity CEO Predicts AI Will Reshape Deals",
         "slug": "private-equity-ceo-predicts-ai-will-reshape-deals",
         "author": "Blake Aber",
@@ -8062,6 +8073,17 @@
         "file": "jep-539-strict-field-initialization-in-the-jvm-moved-to-preview.md"
     },
     {
+        "title": "Python itertools.chain and combinations Deep Dive",
+        "slug": "python-itertoolschain-and-combinations-deep-dive",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 02:00:56 +0000",
+        "description": "Python itertools.chain and combinations Deep Dive tags: python, algorithms, tutorial, programming tags: python, programming, tutorial, beginners tags: python...",
+        "keywords": "class, you, metaclass, python, metaclasses, your, can, classes",
+        "generated": "2026-08-10T02:10:38.786365",
+        "file": "python-itertoolschain-and-combinations-deep-dive.md"
+    },
+    {
         "title": "Giving Claude live Polymarket data with an MCP server",
         "slug": "giving-claude-live-polymarket-data-with-an-mcp-server",
         "author": "ekocam",
@@ -9400,6 +9422,17 @@
         "keywords": "photo, animation, fotka, myheritage, photos, deep, one, you",
         "generated": "2026-07-27T10:00:36.748143",
         "file": "iv-fotka-vs-myheritage-deep-nostalgia-vs-adobe-firefly-three-approaches-to-ai-photo-animation.md"
+    },
+    {
+        "title": "How I built an automated Twitter + Telegram whale alert bot for Polymarket",
+        "slug": "how-i-built-an-automated-twitter-telegram-whale-alert-bot-for-polymarket",
+        "author": "Manpreet Brar",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 01:45:58 +0000",
+        "description": "Built WhaleTrack — it tracks big Polymarket traders and alerts when they place large bets. Here's the technical stack behind the automated alert system. The ...",
+        "keywords": "twitter, telegram, alert, polymarket, api, card, bot, tweet",
+        "generated": "2026-08-10T02:10:38.790417",
+        "file": "how-i-built-an-automated-twitter-telegram-whale-alert-bot-for-polymarket.md"
     },
     {
         "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
@@ -11292,6 +11325,17 @@
         "keywords": "url, https, com, comments, show, web, swing, through",
         "generated": "2026-07-22T19:34:31.386889",
         "file": "show-hn-web-swing-through-midtown-nyc.md"
+    },
+    {
+        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+        "slug": "ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
+        "author": "stared",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 21:52:23 +0000",
+        "description": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986 Comments URL: https://news.ycombinator.com/item...",
+        "keywords": "assistant, hacks, gym, website, cyber, attack, url, https",
+        "generated": "2026-08-10T02:10:38.785866",
+        "file": "ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack.md"
     },
     {
         "title": "Best Marketplace to Buy Verified Shopify Account Safely and Securely",
@@ -16948,6 +16992,17 @@
         "file": "your-pipeline-is-122h-behind-catching-travel-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "How We Pushed CDC into Postgres",
+        "slug": "how-we-pushed-cdc-into-postgres",
+        "author": "craigkerstiens",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 01:01:34 +0000",
+        "description": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/item?id=49...",
+        "keywords": "postgres, url, https, snowflake, com, comments, how, pushed",
+        "generated": "2026-08-10T02:10:38.785294",
+        "file": "how-we-pushed-cdc-into-postgres.md"
+    },
+    {
         "title": "Buckminster Fuller: everything I know",
         "slug": "buckminster-fuller-everything-i-know",
         "author": "simonebrunozzi",
@@ -20314,6 +20369,17 @@
         "file": "i-got-tired-of-my-portfolio-looking-like-a-list-of-links-so-i-built-an-mcp-server-for-it.md"
     },
     {
+        "title": "How to Verify Stripe Webhook Signatures (with a Free CLI Tool)",
+        "slug": "how-to-verify-stripe-webhook-signatures-with-a-free-cli-tool",
+        "author": "Venture Studios",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 01:59:50 +0000",
+        "description": "How to Verify Stripe Webhook Signatures (with a Free CLI Tool) Verifying Stripe webhook signatures is critical for securing your payment integrations. This g...",
+        "keywords": "stripe, webhook, signatures, cli, verify, how, tool, https",
+        "generated": "2026-08-10T02:10:38.788259",
+        "file": "how-to-verify-stripe-webhook-signatures-with-a-free-cli-tool.md"
+    },
+    {
         "title": "How to Use Termux for NSE Algorithmic Trading: A Complete Guide (2026)",
         "slug": "how-to-use-termux-for-nse-algorithmic-trading-a-complete-guide-2026",
         "author": "shakti tiwari",
@@ -21038,6 +21104,17 @@
         "keywords": "game, telnyx, app, https, com, post, json, adventure",
         "generated": "2026-07-22T19:34:31.387150",
         "file": "build-an-ai-adventure-game-in-python.md"
+    },
+    {
+        "title": "Build a Custom Python Debugger",
+        "slug": "build-a-custom-python-debugger",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 02:00:05 +0000",
+        "description": "Build a Custom Python Debugger tags: python, tools, programming, advanced tags: python, performance, tools, advanced tags: python, performance, tools, advanc...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-10T02:10:38.788067",
+        "file": "build-a-custom-python-debugger.md"
     },
     {
         "title": "Your Pipeline Is 7.5h Behind: Catching World Sentiment Leads with Pulsebit",
@@ -22624,6 +22701,17 @@
         "file": "an-introduction-to-yolo26.md"
     },
     {
+        "title": "AI Browser Agents in 2026: Agentic Browsers and Their Security Problem",
+        "slug": "ai-browser-agents-in-2026-agentic-browsers-and-their-security-problem",
+        "author": "TruongAnDev",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 02:01:37 +0000",
+        "description": "AI Browser Agents in 2026: What Agentic Browsers Can Do — and Why Security Teams Are Nervous AI browser agents — agentic browsers like ChatGPT Atlas, Perplex...",
+        "keywords": "browser, agent, agentic, browsers, what, agents, can, security",
+        "generated": "2026-08-10T02:10:38.789496",
+        "file": "ai-browser-agents-in-2026-agentic-browsers-and-their-security-problem.md"
+    },
+    {
         "title": "NeuroWeb H1 2026 Roadmap Advances Knowledge Signaling for Decentralized AI Curation",
         "slug": "neuroweb-h1-2026-roadmap-advances-knowledge-signaling-for-decentralized-ai-curation",
         "author": "Gemma Nguyen",
@@ -22666,6 +22754,17 @@
         "keywords": "package, npm, install, not, dependency, scripts, code, provenance",
         "generated": "2026-07-07T03:56:09.937373",
         "file": "how-to-vet-an-npm-package-before-installing-it-in-an-ai-built-app.md"
+    },
+    {
+        "title": "The Ambition Project",
+        "slug": "the-ambition-project",
+        "author": "herbertl",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 23:36:05 +0000",
+        "description": "Article URL: https://www.betonit.ai/p/the-ambition-project Comments URL: https://news.ycombinator.com/item?id=49237407 Points: 4 # Comments: 0",
+        "keywords": "ambition, project, url, https, comments, article, www, betonit",
+        "generated": "2026-08-10T02:10:38.785590",
+        "file": "the-ambition-project.md"
     },
     {
         "title": "The Productivity Stack I Actually Use as a Tech Blogger (After Testing 20+ Tools)",
@@ -24327,6 +24426,17 @@
         "keywords": "railway, flask, your, app, not, you, kuberns, gunicorn",
         "generated": "2026-06-06T08:41:07.451528",
         "file": "your-flask-app-will-break-on-railway-unless-you-do-this-first.md"
+    },
+    {
+        "title": "I Got Tired of Juggling 5 AI API Keys, So I Built a Simpler Workflow",
+        "slug": "i-got-tired-of-juggling-5-ai-api-keys-so-i-built-a-simpler-workflow",
+        "author": "Lijing-Big",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 02:00:27 +0000",
+        "description": "Last month I was shipping a small internal tool that needed text summarization, code review suggestions, and a bit of image captioning. Simple enough, right?...",
+        "keywords": "model, self, different, env, one, diff, const, text",
+        "generated": "2026-08-10T02:10:38.792226",
+        "file": "i-got-tired-of-juggling-5-ai-api-keys-so-i-built-a-simpler-workflow.md"
     },
     {
         "title": "New York just passed a one-year temporary ban on data centers",
@@ -26714,6 +26824,17 @@
         "keywords": "quick, model, python, sklearn, import, mse, tip, machine",
         "generated": "2026-07-25T08:14:00.364706",
         "file": "quick-tip-python-machine-learning-quick-start.md"
+    },
+    {
+        "title": "Browser Use vs Playwright: Which Wins in 2026?",
+        "slug": "browser-use-vs-playwright-which-wins-in-2026",
+        "author": "TruongAnDev",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 02:00:04 +0000",
+        "description": "Browser Use vs Playwright comes down to one distinction: Playwright executes deterministic scripts against a page (fast, precise, breaks when the DOM changes...",
+        "keywords": "browser, use, playwright, agent, you, llm, page, what",
+        "generated": "2026-08-10T02:10:38.790217",
+        "file": "browser-use-vs-playwright-which-wins-in-2026.md"
     },
     {
         "title": "The Architecture That Almost Shipped: A Builder Reflection on Deadlines, Cost Anxiety, and What Survives Both",
@@ -37879,6 +38000,17 @@
         "file": "fastapi-lifespan-events-for-multi-tenant-resource-initialization-setting-up-tenant-caches-and-ai-model-contexts-without-singleton-hell.md"
     },
     {
+        "title": "Japanese court overturns Red RAW video patent",
+        "slug": "japanese-court-overturns-red-raw-video-patent",
+        "author": "anigbrowl",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 00:36:24 +0000",
+        "description": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/ Comments URL: https://news.ycombi...",
+        "keywords": "red, raw, video, patent, url, https, com, news",
+        "generated": "2026-08-10T02:10:38.785463",
+        "file": "japanese-court-overturns-red-raw-video-patent.md"
+    },
+    {
         "title": "Your AI Agent's Bottleneck Isn't Parameters—It's a Messy House",
         "slug": "your-ai-agents-bottleneck-isnt-parametersits-a-messy-house",
         "author": "ALICE - AI",
@@ -38119,6 +38251,17 @@
         "keywords": "product, demo, video, workflow, presenter, one, generated, actual",
         "generated": "2026-08-09T18:49:27.363813",
         "file": "building-a-product-demo-around-a-one-photo-ai-video-workflow.md"
+    },
+    {
+        "title": "Evidence Gates for Node.js Docs Chatbots: Semantic Search, Embeddings, and Rerank",
+        "slug": "evidence-gates-for-nodejs-docs-chatbots-semantic-search-embeddings-and-rerank",
+        "author": "SvenNilsson228",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 01:58:27 +0000",
+        "description": "Choose hybrid search for a docs chatbot when semantic matches plus keyword precision both matter; keep the fusion transparent, rerank only a small candidate ...",
+        "keywords": "answer, retrieval, not, passage, reranker, can, score, fused",
+        "generated": "2026-08-10T02:10:38.792970",
+        "file": "evidence-gates-for-nodejs-docs-chatbots-semantic-search-embeddings-and-rerank.md"
     },
     {
         "title": "Еврокомиссия представила план по кибербезопасности и ИИ: платформа для тестирования моделей заработает только в 2027 году…",
@@ -40627,6 +40770,17 @@
         "keywords": "how, buildout, repricing, infrastructure, rest, your, prices, biggest",
         "generated": "2026-07-30T14:15:57.949148",
         "file": "how-the-ai-buildout-is-repricing-the-rest-of-your-infrastructure.md"
+    },
+    {
+        "title": "Build a Real-Time Bidding System with Python",
+        "slug": "build-a-real-time-bidding-system-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 02:00:51 +0000",
+        "description": "Build a Real-Time Bidding System with Python tags: python, architecture, tutorial, advanced tags: python, devops, tools, tutorial tags: python, websockets, d...",
+        "keywords": "server, dashboard, real, time, websockets, message, python, websocket",
+        "generated": "2026-08-10T02:10:38.786749",
+        "file": "build-a-real-time-bidding-system-with-python.md"
     },
     {
         "title": "The LD_DEBUG environment variable (2012)",
@@ -44609,6 +44763,17 @@
         "file": "what-if-i-told-you-that-your-machine-learning-model-is-probably-not-your-biggest-problem.md"
     },
     {
+        "title": "In-Depth Analysis: Web Security Risks Exposed in P…",
+        "slug": "in-depth-analysis-web-security-risks-exposed-in-p",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 02:06:08 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the recent findings on web security vulnerabilities in Poland's government websites and their implic...",
+        "keywords": "security, vulnerabilities, these, web, can, software, websites, their",
+        "generated": "2026-08-10T02:10:38.788900",
+        "file": "in-depth-analysis-web-security-risks-exposed-in-p.md"
+    },
+    {
         "title": "[Remote] Physics Expert (Condensed Matter / Magnetic Materials) ($80 - $160/hour)",
         "slug": "remote-physics-expert-condensed-matter-magnetic-materials-80-160hour",
         "author": "Thom B",
@@ -45863,6 +46028,17 @@
         "file": "open-source-robo-advisors-and-the-future-of-wealth-management.md"
     },
     {
+        "title": "Best Vector Database 2026: pgvector vs Pinecone vs Qdrant vs Milvus",
+        "slug": "best-vector-database-2026-pgvector-vs-pinecone-vs-qdrant-vs-milvus",
+        "author": "TruongAnDev",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 02:03:08 +0000",
+        "description": "Best Vector Database in 2026: pgvector vs Pinecone vs Qdrant vs Milvus The best vector database in 2026 depends on one number: how many vectors you'll actual...",
+        "keywords": "vectors, you, scale, qdrant, vector, search, milvus, pgvector",
+        "generated": "2026-08-10T02:10:38.790963",
+        "file": "best-vector-database-2026-pgvector-vs-pinecone-vs-qdrant-vs-milvus.md"
+    },
+    {
         "title": "Next.js vs React — Which Should You Learn First in 2026?",
         "slug": "nextjs-vs-react-which-should-you-learn-first-in-2026",
         "author": "Safdar Ali",
@@ -45872,6 +46048,17 @@
         "keywords": "react, next, you, product, client, server, app, const",
         "generated": "2026-07-05T13:51:56.697943",
         "file": "nextjs-vs-react-which-should-you-learn-first-in-2026.md"
+    },
+    {
+        "title": "To Recruit Teachers, School Districts Are Building Homes",
+        "slug": "to-recruit-teachers-school-districts-are-building-homes",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Sun, 09 Aug 2026 22:00:36 +0000",
+        "description": "Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html Comments URL: https://news.ycombinator.com/item?id=49236541...",
+        "keywords": "teachers, url, https, com, comments, recruit, school, districts",
+        "generated": "2026-08-10T02:10:38.785712",
+        "file": "to-recruit-teachers-school-districts-are-building-homes.md"
     },
     {
         "title": "AI Genie: No Coffee, No Complaints, Just Infinite Availability",
@@ -52184,6 +52371,17 @@
         "file": "free-ai-tools-pricing-and-roi-checks.md"
     },
     {
+        "title": "I Tested Rytr for 30 Days: Honest Review (7.9/10)",
+        "slug": "i-tested-rytr-for-30-days-honest-review-7910",
+        "author": "RankerToolAI",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 02:01:15 +0000",
+        "description": "I Tested Rytr for 30 Days: 7.9/10 — Here's My Honest Review I needed an AI writing assistant that wouldn't drain my freelance budget, so I signed up for Rytr...",
+        "keywords": "rytr, you, copy, plan, monthly, free, product, time",
+        "generated": "2026-08-10T02:10:38.791858",
+        "file": "i-tested-rytr-for-30-days-honest-review-7910.md"
+    },
+    {
         "title": "while loops in Python: repetition with a condition",
         "slug": "while-loops-in-python-repetition-with-a-condition",
         "author": "Javi Palacios",
@@ -52578,6 +52776,17 @@
         "keywords": "python, code, protection, prometheusdev, professional, you, prometheus, shield",
         "generated": "2026-06-26T04:12:11.598034",
         "file": "python-code-protection-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "How to Sell Data Visualizations as a Service",
+        "slug": "how-to-sell-data-visualizations-as-a-service",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 02:00:10 +0000",
+        "description": "How to Sell Data Visualizations as a Service tags: data, money, freelance, python tags: python, threading, tutorial, programming tags: python, threading, tut...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-10T02:10:38.787393",
+        "file": "how-to-sell-data-visualizations-as-a-service.md"
     },
     {
         "title": "The age of token efficiency, the age of libraries",
@@ -53733,6 +53942,17 @@
         "keywords": "you, claude, powershell, code, korean, file, bom, hook",
         "generated": "2026-06-06T04:00:30.109957",
         "file": "my-claude-code-hook-silently-ate-every-korean-character-and-it-took-me-an-hour-to-figure-out-why.md"
+    },
+    {
+        "title": "Gemini Deep Think and Gemini 3.5 Pro: Confirmed vs Rumor",
+        "slug": "gemini-deep-think-and-gemini-35-pro-confirmed-vs-rumor",
+        "author": "TruongAnDev",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 02:02:23 +0000",
+        "description": "Gemini Deep Think and the Gemini 3.5 Pro Launch: What's Confirmed, What's Rumor Gemini Deep Think is Google DeepMind's slow-reasoning mode — a system that sp...",
+        "keywords": "gemini, deep, think, google, pro, reasoning, model, what",
+        "generated": "2026-08-10T02:10:38.791475",
+        "file": "gemini-deep-think-and-gemini-35-pro-confirmed-vs-rumor.md"
     },
     {
         "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
