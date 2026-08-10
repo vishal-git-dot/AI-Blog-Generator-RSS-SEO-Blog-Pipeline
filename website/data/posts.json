@@ -6291,6 +6291,17 @@
         "file": "whatsapp-first-2fa-passwordless-authentication-w2pa-rfc-wf-0037.md"
     },
     {
+        "title": "Tail-call optimization in C is relatively recent",
+        "slug": "tail-call-optimization-in-c-is-relatively-recent",
+        "author": "prakashqwerty",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 11:34:40 +0000",
+        "description": "Article URL: https://lwn.net/Articles/1034703/ Comments URL: https://news.ycombinator.com/item?id=49242297 Points: 31 # Comments: 12",
+        "keywords": "url, https, comments, tail, call, optimization, relatively, recent",
+        "generated": "2026-08-10T13:20:58.521064",
+        "file": "tail-call-optimization-in-c-is-relatively-recent.md"
+    },
+    {
         "title": "How to monitor a brand across 5 Chinese social platforms with Python in 2026 — the cross-platform dedup problem and how to handle it",
         "slug": "how-to-monitor-a-brand-across-5-chinese-social-platforms-with-python-in-2026-the-cross-platform-dedup-problem-and-how-to-handle-it",
         "author": "Sami",
@@ -7699,6 +7710,17 @@
         "file": "making-product-recalls-executable-with-aurora-dsql-and-vercel.md"
     },
     {
+        "title": "Whisper + Deepgram + Piper: I Parallelized a Voice AI Pipeline and Cut Latency From 1,200ms to 340ms",
+        "slug": "whisper-deepgram-piper-i-parallelized-a-voice-ai-pipeline-and-cut-latency-from-1200ms-to-340ms",
+        "author": "Ken Imoto",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 13:00:01 +0000",
+        "description": "My first voice agent took 1,200ms to answer a spoken sentence. Then I rewrote three seams in the pipeline and it dropped to 340ms. No new hardware, no new mo...",
+        "keywords": "llm, tts, first, piper, you, whisper, sentence, one",
+        "generated": "2026-08-10T13:20:58.522033",
+        "file": "whisper-deepgram-piper-i-parallelized-a-voice-ai-pipeline-and-cut-latency-from-1200ms-to-340ms.md"
+    },
+    {
         "title": "How I built a PDF bank statement analyzer in 8 languages (and what I learned)",
         "slug": "how-i-built-a-pdf-bank-statement-analyzer-in-8-languages-and-what-i-learned",
         "author": "FLOW by Vestelon",
@@ -8709,6 +8731,17 @@
         "file": "ai-automation-for-ai-for-niche-collectibles-dealers-trading-cardscomics-how-to-automate-grading-estimate-analysis-and-auction.md"
     },
     {
+        "title": "Your Coding Agent Has Amnesia: Memory-Augmented Generation, Explained Through Codex",
+        "slug": "your-coding-agent-has-amnesia-memory-augmented-generation-explained-through-codex",
+        "author": "Ernesto Herrera Salinas",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 13:09:13 +0000",
+        "description": "The Monday Problem On Friday, you spent forty minutes teaching Codex about your project. You explained that the backend uses PostgreSQL, that the test suite ...",
+        "keywords": "codex, memory, not, you, session, context, https, what",
+        "generated": "2026-08-10T13:20:58.527641",
+        "file": "your-coding-agent-has-amnesia-memory-augmented-generation-explained-through-codex.md"
+    },
+    {
         "title": "Four Chinese LLMs Walk Into My Terminal: An Open Source Story",
         "slug": "four-chinese-llms-walk-into-my-terminal-an-open-source-story",
         "author": "gentlenode",
@@ -8872,6 +8905,17 @@
         "keywords": "popover, you, browser, open, your, dismiss, element, when",
         "generated": "2026-07-12T08:25:23.793337",
         "file": "your-dropdown-is-a-div-the-browser-has-a-native-popover-now.md"
+    },
+    {
+        "title": "Squeak/Smalltalk 6.1 Release Notes",
+        "slug": "squeaksmalltalk-61-release-notes",
+        "author": "fniephaus",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 12:15:53 +0000",
+        "description": "Article URL: https://squeak.org/release_notes/6.1/ Comments URL: https://news.ycombinator.com/item?id=49242653 Points: 16 # Comments: 1",
+        "keywords": "squeak, url, https, comments, smalltalk, release, notes, article",
+        "generated": "2026-08-10T13:20:58.520947",
+        "file": "squeaksmalltalk-61-release-notes.md"
     },
     {
         "title": "Audit AI-Generated Tests: Half of Green CI Proves Nothing",
@@ -11083,6 +11127,17 @@
         "keywords": "debugging, code, developers, best, tools, can, explain, coding",
         "generated": "2026-08-03T14:51:29.673871",
         "file": "ai-debugging-tools-for-developers-what-actually-works-in-2026.md"
+    },
+    {
+        "title": "I'm Building htop for Codebases in 5 Days — Follow Along",
+        "slug": "im-building-htop-for-codebases-in-5-days-follow-along",
+        "author": "Hariom Lohar",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 12:54:30 +0000",
+        "description": "I'm Building htop for Codebases in 5 Days Every git clone ends the same: 47 files, outdated README, 30 mins wasted. I'm building peek — pip install peek && p...",
+        "keywords": "day, building, peek, beautiful, what, htop, codebases, days",
+        "generated": "2026-08-10T13:20:58.523100",
+        "file": "im-building-htop-for-codebases-in-5-days-follow-along.md"
     },
     {
         "title": "A Call to Action: Stop the FCC's KYC Regime",
@@ -13978,6 +14033,17 @@
         "file": "why-reading-interview-tips-doesnt-work-and-what-actually-does.md"
     },
     {
+        "title": "Stop Treating Documentation Like an Afterthought",
+        "slug": "stop-treating-documentation-like-an-afterthought",
+        "author": "Priyanshi M",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 13:10:48 +0000",
+        "description": "One of the most common productivity problems in engineering teams has nothing to do with code quality, frameworks, or deployment pipelines. It is documentati...",
+        "keywords": "documentation, one, engineering, teams, should, not, more, across",
+        "generated": "2026-08-10T13:20:58.526334",
+        "file": "stop-treating-documentation-like-an-afterthought.md"
+    },
+    {
         "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
         "slug": "hazel-yc-w24-is-hiring-for-our-largest-government-contract",
         "author": "augustschen",
@@ -14484,6 +14550,17 @@
         "file": "the-cloud-is-a-scam-for-90-of-your-projects.md"
     },
     {
+        "title": "How to Build a Browser-Based Ringtone Editor with the Web Audio API",
+        "slug": "how-to-build-a-browser-based-ringtone-editor-with-the-web-audio-api",
+        "author": "athena886",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 13:04:59 +0000",
+        "description": "You do not need a server to build a useful audio trimmer. Modern browsers can decode an audio file, let the user select a time range, and generate a download...",
+        "keywords": "const, audio, source, file, math, index, samplerate, length",
+        "generated": "2026-08-10T13:20:58.524811",
+        "file": "how-to-build-a-browser-based-ringtone-editor-with-the-web-audio-api.md"
+    },
+    {
         "title": "The AI Execution Gap: Why Your Best Ideas Never Ship",
         "slug": "the-ai-execution-gap-why-your-best-ideas-never-ship",
         "author": "Sachin Neupane",
@@ -14605,14 +14682,14 @@
         "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
     },
     {
-        "title": "«ГПТ без цензуры» — это не одна кнопка, а три разных риска",
+        "title": "외주 개발이 실패하는 진짜 이유: 구현 전에 완료 조건을 코드처럼 쓰는 법",
         "slug": "",
-        "author": "Promptra Team",
-        "source": "devto_ai",
-        "published": "Thu, 06 Aug 2026 23:44:09 +0000",
-        "description": "Джейлбрейк-промпт, Telegram-бот с чужим API-ключом и локальная abliterated-модель обещают одно и то же, но платят за ошибку разной валютой — баном, паролем и...",
-        "keywords": "openai, api, chatgpt, telegram, dtf, abliterated, heretic, futurism",
-        "generated": "2026-08-07T00:06:40.418462",
+        "author": "오피셜메일",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 13:01:14 +0000",
+        "description": "외주 개발을 맡길 때 가장 위험한 문장은 “이 정도는 당연히 포함이죠”입니다. 기능 이름만 나열하지 말고 입력, 동작, 결과, 전달물까지 검수 가능한 문장으로 바꾸면 견적과 일정이 훨씬 선명해집니다. 요구사항보다 먼저 완료 조건을 씁니다 “랜딩페이지 개발”은 요구사항이 아니라 프로...",
+        "keywords": "api, kavenix",
+        "generated": "2026-08-10T13:20:58.525505",
         "file": ".md"
     },
     {
@@ -15208,6 +15285,17 @@
         "keywords": "facebook, account, can, information, use, usa, content, accounts",
         "generated": "2026-08-09T07:03:35.998510",
         "file": "buy-usa-facebook-accounts.md"
+    },
+    {
+        "title": "The Developer's Guide to Building a Telegram Crypto Intelligence Bot",
+        "slug": "the-developers-guide-to-building-a-telegram-crypto-intelligence-bot",
+        "author": "Aimigo",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 13:00:19 +0000",
+        "description": "The Developer's Guide to Building a Telegram Crypto Intelligence Bot Building a Telegram crypto intelligence bot is not about fetching prices—it's about filt...",
+        "keywords": "you, bot, telegram, data, crypto, alert, time, event",
+        "generated": "2026-08-10T13:20:58.521449",
+        "file": "the-developers-guide-to-building-a-telegram-crypto-intelligence-bot.md"
     },
     {
         "title": "It’s Time to Commit to Linux…But Which One?",
@@ -16869,6 +16957,17 @@
         "keywords": "marketing, oxlo, context, models, request, content, based, you",
         "generated": "2026-07-27T19:42:31.394530",
         "file": "unlocking-llm-potential-in-marketing.md"
+    },
+    {
+        "title": "From Equal Access to Equal Opportunity: How India Can Build a More Inclusive Future",
+        "slug": "from-equal-access-to-equal-opportunity-how-india-can-build-a-more-inclusive-future",
+        "author": "Dipti",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 13:11:00 +0000",
+        "description": "* Introduction: The Question Is Still Relevant * More than a decade ago, a simple question sparked an interesting public conversation about India's future: W...",
+        "keywords": "opportunity, can, education, equal, access, india, skills, should",
+        "generated": "2026-08-10T13:20:58.523770",
+        "file": "from-equal-access-to-equal-opportunity-how-india-can-build-a-more-inclusive-future.md"
     },
     {
         "title": "Your Pipeline Is 13.3h Behind: Catching Commodities Sentiment Leads with Pulsebit",
@@ -21071,6 +21170,17 @@
         "keywords": "flash, you, gpt, model, deepseek, what, openai, api",
         "generated": "2026-06-24T09:40:50.188078",
         "file": "i-wish-id-found-deepseek-v4-flash-sooner-a-backend-breakdown.md"
+    },
+    {
+        "title": "I Measured What My Curated MCP Tool Output Is Actually Saving",
+        "slug": "i-measured-what-my-curated-mcp-tool-output-is-actually-saving",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 12:57:01 +0000",
+        "description": "Every tool in my Developer Presence MCP server returns a hand-picked dict, never the raw API response. I did that from day one because it felt obviously corr...",
+        "keywords": "tool, raw, articles, published, curated, field, what, every",
+        "generated": "2026-08-10T13:20:58.522448",
+        "file": "i-measured-what-my-curated-mcp-tool-output-is-actually-saving.md"
     },
     {
         "title": "State pattern for workflow and state machine management",
@@ -32238,6 +32348,17 @@
         "file": "how-to-use-writesonic-for-search-volume-estimation-in-2026.md"
     },
     {
+        "title": "My Fix Commit Cited a bugs.md Entry That Didn't Exist Yet",
+        "slug": "my-fix-commit-cited-a-bugsmd-entry-that-didnt-exist-yet",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Mon, 10 Aug 2026 12:56:13 +0000",
+        "description": "I run a small MCP server and a couple of standalone scripts that publish this exact blog for me, twice a day, on a schedule. Every time one of them breaks, t...",
+        "keywords": "fix, claude, bugs, one, commit, entry, rules, same",
+        "generated": "2026-08-10T13:20:58.522918",
+        "file": "my-fix-commit-cited-a-bugsmd-entry-that-didnt-exist-yet.md"
+    },
+    {
         "title": "DESIGN.md vs tokens.json vs Figma for AI Agents",
         "slug": "designmd-vs-tokensjson-vs-figma-for-ai-agents",
         "author": "PromptMaster",
@@ -34097,6 +34218,17 @@
         "file": "stack-overflow-data-api-extract-structured-json-in-2026.md"
     },
     {
+        "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+        "slug": "over-181000-ai-meeting-recordings-left-wide-open-in-note-taking-app",
+        "author": "colesantiago",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 12:26:05 +0000",
+        "description": "Article URL: https://bobdahacker.com/blog/tldv-hack Comments URL: https://news.ycombinator.com/item?id=49242739 Points: 14 # Comments: 3",
+        "keywords": "url, https, com, comments, over, meeting, recordings, left",
+        "generated": "2026-08-10T13:20:58.520681",
+        "file": "over-181000-ai-meeting-recordings-left-wide-open-in-note-taking-app.md"
+    },
+    {
         "title": "Quick Hits: Friday's AI Briefing",
         "slug": "quick-hits-fridays-ai-briefing",
         "author": "Pixelwitch",
@@ -34777,6 +34909,17 @@
         "keywords": "https, comments, unexpected, solidlike, fracture, simple, liquids, journals",
         "generated": "2026-07-12T08:25:23.791012",
         "file": "unexpected-solidlike-fracture-in-simple-liquids.md"
+    },
+    {
+        "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+        "slug": "deepseek-costs-opencode-go-user-114day-dual-dgx-breaks-even-in-24-years",
+        "author": "delduca",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 12:24:48 +0000",
+        "description": "Article URL: https://twitter.com/thdxr/status/2086599224674681242 Comments URL: https://news.ycombinator.com/item?id=49242728 Points: 14 # Comments: 6",
+        "keywords": "url, https, com, comments, deepseek, costs, opencode, user",
+        "generated": "2026-08-10T13:20:58.520823",
+        "file": "deepseek-costs-opencode-go-user-114day-dual-dgx-breaks-even-in-24-years.md"
     },
     {
         "title": "How I Cut AI Finance Forecasting Costs 65% — The Complete Breakdown",
@@ -39485,6 +39628,17 @@
         "file": "inside-vllm-anatomy-of-a-high-throughput-llm-inference-system-2025.md"
     },
     {
+        "title": "A CVSS 10.0 in Your AI Coding Agent Is Just TOCTOU Wearing a Hoodie",
+        "slug": "a-cvss-100-in-your-ai-coding-agent-is-just-toctou-wearing-a-hoodie",
+        "author": "Cor E",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 13:11:08 +0000",
+        "description": "A GitHub issue can now potentially exfiltrate your CI secrets, and the tool that let it happen is the same one your team is using to move faster. That's th...",
+        "keywords": "your, agent, same, you, github, one, bug, file",
+        "generated": "2026-08-10T13:20:58.525973",
+        "file": "a-cvss-100-in-your-ai-coding-agent-is-just-toctou-wearing-a-hoodie.md"
+    },
+    {
         "title": "Incident CVE-2026-LGTM",
         "slug": "incident-cve-2026-lgtm",
         "author": "mooreds",
@@ -41375,6 +41529,17 @@
         "keywords": "url, https, com, comments, free, online, courses, top",
         "generated": "2026-06-23T04:02:13.416132",
         "file": "1700-free-online-courses-from-top-universities.md"
+    },
+    {
+        "title": "Regulations and Standards for AI",
+        "slug": "regulations-and-standards-for-ai",
+        "author": "Wahome Stephen",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 13:08:14 +0000",
+        "description": "AI regulations and standards are crucial for the responsible development, deployment, and use of AI. Regulations have been put in place to Foster trust in AI...",
+        "keywords": "regulations, based, standards, systems, responsible, compliance, such, they",
+        "generated": "2026-08-10T13:20:58.527870",
+        "file": "regulations-and-standards-for-ai.md"
     },
     {
         "title": "Nashville uses eminent domain to block data center near zoo",
@@ -46908,6 +47073,17 @@
         "file": "ai-intern-day-google-it-then-pretend-you-knew.md"
     },
     {
+        "title": "50k Boat Names",
+        "slug": "50k-boat-names",
+        "author": "jonathanmkeegan",
+        "source": "hackernews",
+        "published": "Mon, 10 Aug 2026 12:58:16 +0000",
+        "description": "Article URL: https://www.beautifulpublicdata.com/boat-names/ Comments URL: https://news.ycombinator.com/item?id=49243029 Points: 5 # Comments: 0",
+        "keywords": "boat, names, url, https, com, comments, article, www",
+        "generated": "2026-08-10T13:20:58.520466",
+        "file": "50k-boat-names.md"
+    },
+    {
         "title": "San Antonio Spurs vs New York Knicks: NBA Preview & Picks",
         "slug": "san-antonio-spurs-vs-new-york-knicks-nba-preview-picks",
         "author": "James Mullinaux",
@@ -48444,6 +48620,17 @@
         "keywords": "you, powered, can, tools, dataset, create, revenue, machine",
         "generated": "2026-07-05T03:58:51.640119",
         "file": "ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai.md"
+    },
+    {
+        "title": "I Built a Privacy-First, Human-Friendly Alternative to Wireshark in Rust & Tauri 🚀",
+        "slug": "i-built-a-privacy-first-human-friendly-alternative-to-wireshark-in-rust-tauri",
+        "author": "Rolan Lobo",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 13:04:36 +0000",
+        "description": "Have you ever opened Wireshark to figure out why your app is failing to connect, only to be greeted by a terrifying wall of 50,000 raw packet hex bytes? 😅 Do...",
+        "keywords": "netpulse, you, rust, your, network, tauri, packet, built",
+        "generated": "2026-08-10T13:20:58.525324",
+        "file": "i-built-a-privacy-first-human-friendly-alternative-to-wireshark-in-rust-tauri.md"
     },
     {
         "title": "From responses to agents: the API becomes a runtime",
@@ -51304,6 +51491,17 @@
         "file": "what-restaurant-menu-websites-can-teach-us-about-better-user-experience.md"
     },
     {
+        "title": "Building a Non-Blocking JPG-to-SVG Converter in the Browser with WebAssembly",
+        "slug": "building-a-non-blocking-jpg-to-svg-converter-in-the-browser-with-webassembly",
+        "author": "Chynna He",
+        "source": "devto_webdev",
+        "published": "Mon, 10 Aug 2026 13:10:44 +0000",
+        "description": "Converting a raster image to SVG sounds like a backend job: upload the file, enqueue a worker, run a native tracer, and return the result. For simple logos, ...",
+        "keywords": "svg, const, image, canvas, converter, not, but, webassembly",
+        "generated": "2026-08-10T13:20:58.524344",
+        "file": "building-a-non-blocking-jpg-to-svg-converter-in-the-browser-with-webassembly.md"
+    },
+    {
         "title": "Understanding the Risks in Software Development: A…",
         "slug": "understanding-the-risks-in-software-development-a",
         "author": "Norvik Tech",
@@ -53832,6 +54030,17 @@
         "keywords": "agra, city, local, agratrends, news, updates, can, culture",
         "generated": "2026-08-10T07:50:51.251867",
         "file": "agratrends-your-trusted-source-for-agra-news-updates.md"
+    },
+    {
+        "title": "I counted every Bun bug before and after the Rust rewrite",
+        "slug": "i-counted-every-bun-bug-before-and-after-the-rust-rewrite",
+        "author": "Alex",
+        "source": "devto_ai",
+        "published": "Mon, 10 Aug 2026 13:09:13 +0000",
+        "description": "On May 14, Bun merged PR #30412 . One pull request: 1,009,257 lines added, 2,188 files changed. The entire runtime, ported from Zig to Rust in 11 days by rou...",
+        "keywords": "rust, you, bun, not, language, every, what, before",
+        "generated": "2026-08-10T13:20:58.526982",
+        "file": "i-counted-every-bun-bug-before-and-after-the-rust-rewrite.md"
     },
     {
         "title": "Top Influencer Marketing Dubai: How Technology Is Changing Creator Partnerships",
