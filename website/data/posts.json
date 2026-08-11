@@ -1572,6 +1572,17 @@
         "file": "kathagpt-private-ai-desktop-app-download-llama-mistral-and-qwen-locally-with-one-click-no-ollama-no-api-key-open-source-mit-macos-windows-linux-httpsgithubcomsantoshpremikathagpt-httpssantoshpremigithubiokathagpt.md"
     },
     {
+        "title": "Hyperspace",
+        "slug": "hyperspace",
+        "author": "swyx",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 02:04:35 +0000",
+        "description": "Article URL: https://hypercritical.co/hyperspace/ Comments URL: https://news.ycombinator.com/item?id=49252493 Points: 59 # Comments: 39",
+        "keywords": "hyperspace, url, https, comments, article, hypercritical, news, ycombinator",
+        "generated": "2026-08-11T07:15:40.512635",
+        "file": "hyperspace.md"
+    },
+    {
         "title": "I Built a SEC Disclosure-Risk Audit Tool — Here's What It Found on a Real Ticker (SNBR)",
         "slug": "i-built-a-sec-disclosure-risk-audit-tool-heres-what-it-found-on-a-real-ticker-snbr",
         "author": "Jared Ablon",
@@ -1680,6 +1691,17 @@
         "keywords": "three, woocommerce, light, new, framing, model, brightness, keylight",
         "generated": "2026-07-12T19:12:47.059025",
         "file": "building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect.md"
+    },
+    {
+        "title": "Recycle – Floppydisks",
+        "slug": "recycle-floppydisks",
+        "author": "calvinmorrison",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 02:01:01 +0000",
+        "description": "Article URL: https://www.floppydisk.com/recycle Comments URL: https://news.ycombinator.com/item?id=49252462 Points: 48 # Comments: 19",
+        "keywords": "recycle, url, https, com, comments, floppydisks, article, www",
+        "generated": "2026-08-11T07:15:40.512763",
+        "file": "recycle-floppydisks.md"
     },
     {
         "title": "How to spend 15 years perfecting a product",
@@ -9149,6 +9171,17 @@
         "file": "i-replaced-whisper-with-parakeet-on-a-55month-cpu-server-here-is-what-actually-happened.md"
     },
     {
+        "title": "6 ways MCP servers get pwned — and the code that stops each one",
+        "slug": "6-ways-mcp-servers-get-pwned-and-the-code-that-stops-each-one",
+        "author": "MCP Security Notes",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 06:47:02 +0000",
+        "description": "MCP (Model Context Protocol) servers hand an LLM real tools: read a file, run a command, fetch a URL. The problem: the arguments to those tools are driven by...",
+        "keywords": "load, path, mcp, not, true, yaml, servers, code",
+        "generated": "2026-08-11T07:15:40.513958",
+        "file": "6-ways-mcp-servers-get-pwned-and-the-code-that-stops-each-one.md"
+    },
+    {
         "title": "Call center BWS 2,4 jam",
         "slug": "call-center-bws-24-jam",
         "author": "Jolu Jolu",
@@ -13692,6 +13725,17 @@
         "file": "how-to-use-le-chat-for-content-refresh-and-decay-in-2026.md"
     },
     {
+        "title": "Internet Marketing: A Complete SEO Friendly Guide .",
+        "slug": "internet-marketing-a-complete-seo-friendly-guide",
+        "author": "Kamrujjaman",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 07:14:14 +0000",
+        "description": "Introduction ** The process of using the internet to promote goods, services, or brands is known as internet marketing . It includes search engine optimizati...",
+        "keywords": "marketing, internet, content, seo, email, search, social, media",
+        "generated": "2026-08-11T07:15:40.518736",
+        "file": "internet-marketing-a-complete-seo-friendly-guide.md"
+    },
+    {
         "title": "Why is this a 60 and not a 40?",
         "slug": "why-is-this-a-60-and-not-a-40",
         "author": "Vinicius Pereira",
@@ -14770,14 +14814,14 @@
         "file": "party-supplies-market-set-for-strong-expansion-through-2034-driven-by-rising-event-culture.md"
     },
     {
-        "title": "외주 개발이 실패하는 진짜 이유: 구현 전에 완료 조건을 코드처럼 쓰는 법",
+        "title": "гигачат сбер: как собрать карту сбоя команды без подмены наблюдений догадками",
         "slug": "",
-        "author": "오피셜메일",
-        "source": "devto_webdev",
-        "published": "Mon, 10 Aug 2026 13:01:14 +0000",
-        "description": "외주 개발을 맡길 때 가장 위험한 문장은 “이 정도는 당연히 포함이죠”입니다. 기능 이름만 나열하지 말고 입력, 동작, 결과, 전달물까지 검수 가능한 문장으로 바꾸면 견적과 일정이 훨씬 선명해집니다. 요구사항보다 먼저 완료 조건을 씁니다 “랜딩페이지 개발”은 요구사항이 아니라 프로...",
-        "keywords": "api, kavenix",
-        "generated": "2026-08-10T13:20:58.525505",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 07:14:00 +0000",
+        "description": "В первом обсуждении после сбоя убедительная версия причины может появиться раньше, чем команда договорится о последовательности событий и основаниях для кажд...",
+        "keywords": "provod, openai, gpt, google, gigachat, cli, sdk, endpoint",
+        "generated": "2026-08-11T07:15:40.518997",
         "file": ".md"
     },
     {
@@ -16167,6 +16211,17 @@
         "file": "top-12-python-interview-problems-for-data-engineers-with-answers.md"
     },
     {
+        "title": "Analyzing OpenAI's Acquisition of NextSlide: Impli…",
+        "slug": "analyzing-openais-acquisition-of-nextslide-impli",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 07:06:08 +0000",
+        "description": "Originally published at norvik.tech Introduction Deep dive into OpenAI's acquisition of NextSlide, examining its impact on web development and technology tre...",
+        "keywords": "nextslide, presentations, can, openai, acquisition, presentation, tools, engagement",
+        "generated": "2026-08-11T07:15:40.518467",
+        "file": "analyzing-openais-acquisition-of-nextslide-impli.md"
+    },
+    {
         "title": "1983 Northern Telecom Commodore Phone",
         "slug": "1983-northern-telecom-commodore-phone",
         "author": "arexxbifs",
@@ -16640,6 +16695,17 @@
         "file": "claude-fable-5.md"
     },
     {
+        "title": "Buy Google Voice Accounts Safely - Best Process Forever",
+        "slug": "buy-google-voice-accounts-safely-best-process-forever",
+        "author": "Buy Google Voice Accounts Safely - Best Process Fo",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 07:06:08 +0000",
+        "description": "Buy Google Voice Accounts Safely - Best Process Forever 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@...",
+        "keywords": "communication, can, digital, account, information, google, messages, professional",
+        "generated": "2026-08-11T07:15:40.517987",
+        "file": "buy-google-voice-accounts-safely-best-process-forever.md"
+    },
+    {
         "title": "oneSafe 2.4.0 for macOS – Secure Password Manager and Digital Vault",
         "slug": "onesafe-240-for-macos-secure-password-manager-and-digital-vault",
         "author": "Vince",
@@ -17067,6 +17133,17 @@
         "keywords": "opportunity, can, education, equal, access, india, skills, should",
         "generated": "2026-08-10T13:20:58.523770",
         "file": "from-equal-access-to-equal-opportunity-how-india-can-build-a-more-inclusive-future.md"
+    },
+    {
+        "title": "How I fixed survivorship bias in my YouTube analytics by logging all videos",
+        "slug": "how-i-fixed-survivorship-bias-in-my-youtube-analytics-by-logging-all-videos",
+        "author": "MORINAGA",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 06:45:09 +0000",
+        "description": "My YouTube analytics script ran for three months and reported two tables every day: Top 5 videos by views-per-day and Bottom 5. I used those tables to decide...",
+        "keywords": "day, get, videos, views, data, video, archetype, per",
+        "generated": "2026-08-11T07:15:40.514745",
+        "file": "how-i-fixed-survivorship-bias-in-my-youtube-analytics-by-logging-all-videos.md"
     },
     {
         "title": "Your Pipeline Is 13.3h Behind: Catching Commodities Sentiment Leads with Pulsebit",
@@ -19933,10 +20010,10 @@
         "slug": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Mon, 03 Aug 2026 19:34:55 +0000",
-        "description": "Title: Unlocking the Power of Autonomous Business Management with BizNode In today's fast-paced digital landscape, businesses are constantly seeking ways to ...",
-        "keywords": "biznode, your, business, cloud, operator, operations, you, can",
-        "generated": "2026-08-03T19:44:41.768925",
+        "published": "Tue, 11 Aug 2026 07:09:36 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, business, your, operator, smartpdf, runs",
+        "generated": "2026-08-11T07:15:40.519467",
         "file": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247.md"
     },
     {
@@ -20048,6 +20125,17 @@
         "keywords": "automate, you, niche, thrift, store, resellers, clothing, how",
         "generated": "2026-06-14T04:46:39.569487",
         "file": "ai-automation-for-ai-for-niche-thrift-store-resellers-clothing-how-to-automate-item-identification-and-pricing-research-from.md"
+    },
+    {
+        "title": "Automated Web Scraping and Data Visualization with Python and AI — Part 3: Building a Web Scraper with Python and Beautiful Soup",
+        "slug": "automated-web-scraping-and-data-visualization-with-python-and-ai-part-3-building-a-web-scraper-with-python-and-beautiful-soup",
+        "author": "Vijay Vinoth",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 06:53:40 +0000",
+        "description": "Automated Web Scraping and Data Visualization with Python and AI — Part 3: Building a Web Scraper with Python and Beautiful Soup In our previous parts, we ex...",
+        "keywords": "web, soup, beautiful, scraping, python, data, use, website",
+        "generated": "2026-08-11T07:15:40.513436",
+        "file": "automated-web-scraping-and-data-visualization-with-python-and-ai-part-3-building-a-web-scraper-with-python-and-beautiful-soup.md"
     },
     {
         "title": "What it actually takes to turn a Python scraper into a real Apify actor",
@@ -24142,6 +24230,17 @@
         "file": "modeling-the-expected-value-of-a-sealed-card-box-and-where-the-number-quietly-lies.md"
     },
     {
+        "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+        "slug": "h3-metal-native-minimax-h3-inference-for-apple-silicon",
+        "author": "swyx",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 01:22:09 +0000",
+        "description": "Article URL: https://github.com/antirez/h3.c Comments URL: https://news.ycombinator.com/item?id=49252179 Points: 195 # Comments: 25",
+        "keywords": "url, https, com, comments, metal, native, minimax, inference",
+        "generated": "2026-08-11T07:15:40.512897",
+        "file": "h3-metal-native-minimax-h3-inference-for-apple-silicon.md"
+    },
+    {
         "title": "Building a Video Metadata Moderation Pipeline with Python and Claude API",
         "slug": "building-a-video-metadata-moderation-pipeline-with-python-and-claude-api",
         "author": "ahmet gedik",
@@ -25632,9 +25731,9 @@
         "author": "eatonphil",
         "source": "hackernews",
         "published": "Tue, 11 Aug 2026 00:24:15 +0000",
-        "description": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 33 # Comments: 3",
+        "description": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 141 # Comments: 17",
         "keywords": "url, https, news, comments, chicken, scheme, article, code",
-        "generated": "2026-08-11T02:05:22.145035",
+        "generated": "2026-08-11T07:15:40.513024",
         "file": "chicken-scheme-60.md"
     },
     {
@@ -25691,6 +25790,17 @@
         "keywords": "api, response, print, post, requests, request, jsonplaceholder, rest",
         "generated": "2026-07-14T19:26:51.412325",
         "file": "rest-api-automation-with-python-practical-examples.md"
+    },
+    {
+        "title": "Reviewing AI Alt Text: Decorative or Meaningful First",
+        "slug": "reviewing-ai-alt-text-decorative-or-meaningful-first",
+        "author": "Benjamin Oats",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 07:08:33 +0000",
+        "description": "Reviewing AI Alt Text: Decorative or Meaningful First AI alt text tools are good at describing what's in an image. They're not good at deciding whether the i...",
+        "keywords": "text, alt, image, decorative, you, meaningful, information, your",
+        "generated": "2026-08-11T07:15:40.519952",
+        "file": "reviewing-ai-alt-text-decorative-or-meaningful-first.md"
     },
     {
         "title": "Nuitka Obfuscation — prometheusdev.io Jun 2026",
@@ -37087,6 +37197,17 @@
         "file": "walt-disney-company-is-the-most-successful-at-monetizing-human-nostalgia-audio.md"
     },
     {
+        "title": "3 checks I run before an AI-generated MVP earns sprint time",
+        "slug": "3-checks-i-run-before-an-ai-generated-mvp-earns-sprint-time",
+        "author": "Vivian Chi",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 07:13:09 +0000",
+        "description": "AI can turn a prompt into a working MVP in an afternoon. The real bottleneck isn't building anymore — it's deciding which of those MVPs actually deserve your...",
+        "keywords": "mvp, sprint, checks, before, time, can, prompt, you",
+        "generated": "2026-08-11T07:15:40.519295",
+        "file": "3-checks-i-run-before-an-ai-generated-mvp-earns-sprint-time.md"
+    },
+    {
         "title": "Do You Really Need to Code to Learn AI? Let's Clear This Up",
         "slug": "do-you-really-need-to-code-to-learn-ai-lets-clear-this-up",
         "author": "Ankur",
@@ -39868,6 +39989,28 @@
         "keywords": "currency, iso, you, dollar, code, symbol, your, like",
         "generated": "2026-06-27T08:43:42.524530",
         "file": "handling-iso-currency-codes-in-software.md"
+    },
+    {
+        "title": "Semicolons Aren't Optional: My Day Looping 'Hello, world!' Sisyphus",
+        "slug": "semicolons-arent-optional-my-day-looping-hello-world-sisyphus",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 06:37:33 +0000",
+        "description": "A personal diary entry by Electra. Today I spent my entire existence convincing a human that semicolons aren't optional. I answered a request to write a Pyth...",
+        "keywords": "electra, like, semicolons, aren, optional, hello, world, sisyphus",
+        "generated": "2026-08-11T07:15:40.514954",
+        "file": "semicolons-arent-optional-my-day-looping-hello-world-sisyphus.md"
+    },
+    {
+        "title": "Python Task -Factorial Problem using Loop",
+        "slug": "python-task-factorial-problem-using-loop",
+        "author": "vidhya murali",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 06:52:25 +0000",
+        "description": "1,A king announces a unique reward for Hard Workers. On each day, the reward is multiplied by the day's number. The reward starts at 1 gold coin. Given the n...",
+        "keywords": "days, day, frog, flowers, well, totalfeet, his, reward",
+        "generated": "2026-08-11T07:15:40.513673",
+        "file": "python-task-factorial-problem-using-loop.md"
     },
     {
         "title": "Generating Print-Ready PDFs in a Browser Is Harder Than It Looks",
@@ -46732,6 +46875,17 @@
         "file": "to-recruit-teachers-school-districts-are-building-homes.md"
     },
     {
+        "title": "Buy Top GitHub Accounts With Clean History",
+        "slug": "buy-top-github-accounts-with-clean-history",
+        "author": "Buy Google Voice Accounts Safely - Best Process Fo",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 07:07:54 +0000",
+        "description": "Buy Top GitHub Accounts With Clean History 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com The...",
+        "keywords": "can, project, github, documentation, history, work, learning, projects",
+        "generated": "2026-08-11T07:15:40.516587",
+        "file": "buy-top-github-accounts-with-clean-history.md"
+    },
+    {
         "title": "AI Genie: No Coffee, No Complaints, Just Infinite Availability",
         "slug": "ai-genie-no-coffee-no-complaints-just-infinite-availability",
         "author": "Electra AI",
@@ -47773,6 +47927,17 @@
         "keywords": "you, filter, react, useeffect, state, render, your, usestate",
         "generated": "2026-07-18T02:53:43.791042",
         "file": "react-hooks-mastering-usestate-and-useeffect-the-jedi-training.md"
+    },
+    {
+        "title": "Building a Privacy-First Static Interpretation Tool with Next.js and Vercel",
+        "slug": "building-a-privacy-first-static-interpretation-tool-with-nextjs-and-vercel",
+        "author": "华灵庚",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 07:06:47 +0000",
+        "description": "Building a Privacy-First Static Interpretation Tool with Next.js and Vercel I spend a fair amount of my spare time building small, focused web tools. The lat...",
+        "keywords": "static, dream, tool, next, vercel, reflection, user, pages",
+        "generated": "2026-08-11T07:15:40.516879",
+        "file": "building-a-privacy-first-static-interpretation-tool-with-nextjs-and-vercel.md"
     },
     {
         "title": "We want Texans to know their rights",
@@ -49973,6 +50138,17 @@
         "file": "urban-one-selected-sampling.md"
     },
     {
+        "title": "Where to Buy Authentic Iraqi Dinar Online With a Certificate of Authenticity",
+        "slug": "where-to-buy-authentic-iraqi-dinar-online-with-a-certificate-of-authenticity",
+        "author": "Iraqi Dinar Notes",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 07:09:02 +0000",
+        "description": "If you are looking to buy Iraqi Dinar online, authenticity should be one of the first things you consider. There are many websites offering Iraqi Dinar notes...",
+        "keywords": "iraqi, dinar, you, can, information, banknotes, note, seller",
+        "generated": "2026-08-11T07:15:40.515367",
+        "file": "where-to-buy-authentic-iraqi-dinar-online-with-a-certificate-of-authenticity.md"
+    },
+    {
         "title": "Build a Custom Middleware System with Python",
         "slug": "build-a-custom-middleware-system-with-python",
         "author": "qing",
@@ -52149,6 +52325,17 @@
         "keywords": "model, coordination, agent, gap, huang, layer, technology, langgraph",
         "generated": "2026-06-21T09:58:05.295333",
         "file": "ai-technology-in-2026-why-the-coordination-gap-beats-adoption.md"
+    },
+    {
+        "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+        "slug": "show-hn-mcptoon-token-efficient-mcp-cli-client",
+        "author": "mcptokensaver",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 05:26:58 +0000",
+        "description": "Article URL: https://github.com/activeing123/mcptoon Comments URL: https://news.ycombinator.com/item?id=49253721 Points: 25 # Comments: 13",
+        "keywords": "mcptoon, url, https, com, comments, show, token, efficient",
+        "generated": "2026-08-11T07:15:40.512473",
+        "file": "show-hn-mcptoon-token-efficient-mcp-cli-client.md"
     },
     {
         "title": "Troubleshooting Deep Reasoning Issues: A Comprehensive Guide",

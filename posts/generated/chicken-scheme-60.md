@@ -4,16 +4,16 @@ slug: "chicken-scheme-60"
 author: "eatonphil"
 source: "hackernews"
 published: "Tue, 11 Aug 2026 00:24:15 +0000"
-description: "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 33 # Comments: 3"
+description: "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 141 # Comments: 17"
 keywords: "url, https, news, comments, chicken, scheme, article, code"
-generated: "2026-08-11T02:05:22.145035"
+generated: "2026-08-11T07:15:40.513024"
 ---
 
 # Chicken Scheme 6.0
 
 ## Overview
 
-Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 33 # Comments: 3
+Article URL: https://code.call-cc.org/releases/6.0.0/NEWS Comments URL: https://news.ycombinator.com/item?id=49251702 Points: 141 # Comments: 17
 
 ## Key Insights
 
