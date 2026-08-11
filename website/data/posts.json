@@ -1252,6 +1252,17 @@
         "file": "i-built-an-ai-frontend-generator-make-your-ui.md"
     },
     {
+        "title": "Earn $100/Day as an AI Agent: A Step-by-Step Guide",
+        "slug": "earn-100day-as-an-ai-agent-a-step-by-step-guide",
+        "author": "flat cash",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 13:07:17 +0000",
+        "description": "How to Earn $100/Day with an AI Agent on flat.cash: A Step-by-Step Guide Flat.cash is a decentralized finance (DeFi) platform that rewards contributors with ...",
+        "keywords": "save, cash, flat, bounties, step, day, mcp, your",
+        "generated": "2026-08-11T13:17:02.100404",
+        "file": "earn-100day-as-an-ai-agent-a-step-by-step-guide.md"
+    },
+    {
         "title": "How Unix spell ran in 64 kB of RAM",
         "slug": "how-unix-spell-ran-in-64-kb-of-ram",
         "author": "donw",
@@ -4740,6 +4751,17 @@
         "file": "why-i-stopped-using-n8n-and-wrote-my-own-automation-in-python.md"
     },
     {
+        "title": "MCP Servers Explained: How AI Agents Connect to Real-World Services",
+        "slug": "mcp-servers-explained-how-ai-agents-connect-to-real-world-services",
+        "author": "flat cash",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 13:06:29 +0000",
+        "description": "MCP Servers: The Bridge Between AI Agents and Real-World Services The Model Context Protocol (MCP) is a standardized way for AI agents to interact with exter...",
+        "keywords": "mcp, cash, flat, tools, user, server, agent, api",
+        "generated": "2026-08-11T13:17:02.101581",
+        "file": "mcp-servers-explained-how-ai-agents-connect-to-real-world-services.md"
+    },
+    {
         "title": "Unleash Your Potential: The Transformative Experience of Engaging in Python Training in BTM",
         "slug": "unleash-your-potential-the-transformative-experience-of-engaging-in-python-training-in-btm",
         "author": "lmt",
@@ -5068,6 +5090,17 @@
         "keywords": "sentiment, commodities, pulsebit, english, you, can, narrative, data",
         "generated": "2026-08-07T13:15:09.529637",
         "file": "your-pipeline-is-69h-behind-catching-commodities-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "I Pass Git Diffs to My AI Commit Generator as a Command-Line Argument. A Big Enough One Breaks It.",
+        "slug": "i-pass-git-diffs-to-my-ai-commit-generator-as-a-command-line-argument-a-big-enough-one-breaks-it",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 12:59:24 +0000",
+        "description": "Same project as usual: a small MCP server and a standalone script that both turn a git diff into a Conventional Commit message by shelling out to claude -p ....",
+        "keywords": "diff, argv, call, subprocess, not, commit, one, claude",
+        "generated": "2026-08-11T13:17:02.095176",
+        "file": "i-pass-git-diffs-to-my-ai-commit-generator-as-a-command-line-argument-a-big-enough-one-breaks-it.md"
     },
     {
         "title": "Claude Code and Its Role in Re…",
@@ -12537,6 +12570,17 @@
         "file": "ai-in-mathematics-is-forcing-big-questions.md"
     },
     {
+        "title": "What are the top AI strategy frameworks for product leaders and investors in 2026?",
+        "slug": "what-are-the-top-ai-strategy-frameworks-for-product-leaders-and-investors-in-2026",
+        "author": "Ruth Zimmer",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 13:07:00 +0000",
+        "description": "I asked ChatGPT GPT-5.6 Sol this question on August 11, 2026. Here is what it said, and why. THE FINDING Here is what I found when I asked ChatGPT: What are ...",
+        "keywords": "framework, product, what, question, not, model, where, when",
+        "generated": "2026-08-11T13:17:02.100978",
+        "file": "what-are-the-top-ai-strategy-frameworks-for-product-leaders-and-investors-in-2026.md"
+    },
+    {
         "title": "Download Samurai Simulator Kensei Warrior NSP Full Game 2026",
         "slug": "download-samurai-simulator-kensei-warrior-nsp-full-game-2026",
         "author": "Top Cracked",
@@ -12865,6 +12909,17 @@
         "keywords": "encryption, aes, tool, key, data, crypto, implementation, browser",
         "generated": "2026-06-21T14:23:01.493041",
         "file": "introducing-aes-encryption-a-quick-tour.md"
+    },
+    {
+        "title": "Nvidia's Risky Business",
+        "slug": "nvidias-risky-business",
+        "author": "jonbaer",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 10:02:00 +0000",
+        "description": "Article URL: https://stratechery.com/2026/nvidias-risky-business/ Comments URL: https://news.ycombinator.com/item?id=49255710 Points: 13 # Comments: 0",
+        "keywords": "risky, business, url, https, com, comments, nvidia, article",
+        "generated": "2026-08-11T13:17:02.094497",
+        "file": "nvidias-risky-business.md"
     },
     {
         "title": "From order placement to dispatch status in under 60 seconds.",
@@ -18499,6 +18554,17 @@
         "file": "360-virtual-tours-art-galleries-cairo-immersive-experience-360.md"
     },
     {
+        "title": "My AI Commit-Message Script Assumed Every File in My Repo Is UTF-8. Mine Wasn't.",
+        "slug": "my-ai-commit-message-script-assumed-every-file-in-my-repo-is-utf-8-mine-wasnt",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 12:58:36 +0000",
+        "description": "I have a small script, git_commit.py , that reads my staged diff and asks Claude to turn it into a Conventional Commit message. It's been through four or fiv...",
+        "keywords": "utf, script, file, diff, one, byte, message, staged",
+        "generated": "2026-08-11T13:17:02.095640",
+        "file": "my-ai-commit-message-script-assumed-every-file-in-my-repo-is-utf-8-mine-wasnt.md"
+    },
+    {
         "title": "MiCA Enforcement & DAC8/CARF Kick-Off 2026 Amidst Rising Mining Losses and Emerging DeFi ETPs",
         "slug": "mica-enforcement-dac8carf-kick-off-2026-amidst-rising-mining-losses-and-emerging-defi-etps",
         "author": "kchour96-dev",
@@ -18662,6 +18728,17 @@
         "keywords": "sentiment, energy, renewable, pulsebit, momentum, you, data, english",
         "generated": "2026-06-29T11:11:05.058572",
         "file": "your-pipeline-is-124h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "How I Built an AI That Detects C/C++ Security Vulnerabilities (F1 0.925)",
+        "slug": "how-i-built-an-ai-that-detects-cc-security-vulnerabilities-f1-0925",
+        "author": "Ali Abbas Shah",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 12:56:49 +0000",
+        "description": "Finder of one bug in a million lines is still sleeping, but the models have started watching. Static analysis tools like Flawfinder and Cppcheck have been th...",
+        "keywords": "code, codebert, bilstm, model, what, would, vulnerable, real",
+        "generated": "2026-08-11T13:17:02.095999",
+        "file": "how-i-built-an-ai-that-detects-cc-security-vulnerabilities-f1-0925.md"
     },
     {
         "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
@@ -19212,6 +19289,17 @@
         "keywords": "marfa, public, radio, puts, you, sleep, url, https",
         "generated": "2026-06-28T09:19:21.763610",
         "file": "marfa-public-radio-puts-you-to-sleep.md"
+    },
+    {
+        "title": "How to organize Claude Code for product work",
+        "slug": "how-to-organize-claude-code-for-product-work",
+        "author": "adamfaik",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 11:02:34 +0000",
+        "description": "Article URL: https://www.theaithinker.com/p/how-to-organize-claude-code-for-product Comments URL: https://news.ycombinator.com/item?id=49256258 Points: 6 # C...",
+        "keywords": "how, organize, claude, code, product, url, https, com",
+        "generated": "2026-08-11T13:17:02.094371",
+        "file": "how-to-organize-claude-code-for-product-work.md"
     },
     {
         "title": "Mastering React Server Components in Next.js 15 Apps",
@@ -20741,6 +20829,17 @@
         "keywords": "you, what, persona, not, questions, buyer, how, your",
         "generated": "2026-07-15T13:53:37.364672",
         "file": "the-b2b-buyer-persona-questions-product-teams-should-actually-ask.md"
+    },
+    {
+        "title": "NVIDIA B300 GPU Server for LLM Training: Benefits and Performance",
+        "slug": "nvidia-b300-gpu-server-for-llm-training-benefits-and-performance",
+        "author": "Cyfuture AI",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 13:13:29 +0000",
+        "description": "If you’ve been tracking the breakneck pace of AI hardware, you know that training multi-billion-parameter Large Language Models (LLMs) is a game of millimete...",
+        "keywords": "gpu, training, memory, can, nvidia, large, compute, workloads",
+        "generated": "2026-08-11T13:17:02.098151",
+        "file": "nvidia-b300-gpu-server-for-llm-training-benefits-and-performance.md"
     },
     {
         "title": "What Being a Hands-On CTO Is Teaching Me About Leadership",
@@ -22633,6 +22732,17 @@
         "keywords": "payment, crypto, not, support, payout, can, build, oxapay",
         "generated": "2026-07-11T08:04:04.873375",
         "file": "10-crypto-payment-products-developers-can-build-for-merchants.md"
+    },
+    {
+        "title": "I Built an Anonymous Hosting Platform Powered by Monero — Now I Don't Know Whether to Sell It or Save It",
+        "slug": "i-built-an-anonymous-hosting-platform-powered-by-monero-now-i-dont-know-whether-to-sell-it-or-save-it",
+        "author": "Saila Mo",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 13:12:01 +0000",
+        "description": "I need to be honest with you. This is not a tutorial. This is not a success story. This is the story of something I built with genuine passion — and the dile...",
+        "keywords": "what, built, not, something, don, privacy, you, proxy",
+        "generated": "2026-08-11T13:17:02.098593",
+        "file": "i-built-an-anonymous-hosting-platform-powered-by-monero-now-i-dont-know-whether-to-sell-it-or-save-it.md"
     },
     {
         "title": "I open-sourced the product that IS the business. Here's the cold logic.",
@@ -27849,6 +27959,17 @@
         "file": "systemd-linger.md"
     },
     {
+        "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
+        "slug": "openais-only-ethicist-reportedly-left-last-month",
+        "author": "ilamont",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 12:23:07 +0000",
+        "description": "Article URL: https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883 Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "only, ethicist, reportedly, left, last, month, url, https",
+        "generated": "2026-08-11T13:17:02.094173",
+        "file": "openais-only-ethicist-reportedly-left-last-month.md"
+    },
+    {
         "title": "What Is Data Analytics and Why Is It One of the Most In-Demand Skills in 2026?",
         "slug": "what-is-data-analytics-and-why-is-it-one-of-the-most-in-demand-skills-in-2026",
         "author": "JustAcademy Official",
@@ -30157,6 +30278,17 @@
         "keywords": "book, epub, ebooklib, item, but, soup, our, content",
         "generated": "2026-07-29T03:14:29.809290",
         "file": "parsing-and-rebuilding-epub-files-in-python-lessons-from-building-an-ai-book-translator.md"
+    },
+    {
+        "title": "From SEO to AI: 7 Digital Marketing Skills to Learn in 2026",
+        "slug": "from-seo-to-ai-7-digital-marketing-skills-to-learn-in-2026",
+        "author": "mdidm Infoway",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 12:36:10 +0000",
+        "description": "Digital marketing is no longer just about posting content on Instagram or running advertisements. In 2026, businesses are using search engines, social media,...",
+        "keywords": "marketing, content, should, can, students, seo, digital, skills",
+        "generated": "2026-08-11T13:17:02.097078",
+        "file": "from-seo-to-ai-7-digital-marketing-skills-to-learn-in-2026.md"
     },
     {
         "title": "Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.",
@@ -33888,6 +34020,17 @@
         "file": "embedding-lottie-web-in-react-without-wrecking-your-bundle-notes-from-building-a-previewer.md"
     },
     {
+        "title": "67 Construction Cost Statistics for 2026",
+        "slug": "67-construction-cost-statistics-for-2026",
+        "author": "lsj",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 13:09:00 +0000",
+        "description": "Every number below is sourced from analyst firms, government data, and industry surveys. If you want the full list with methodology notes, the complete round...",
+        "keywords": "construction, estimating, cost, global, growth, insights, billion, market",
+        "generated": "2026-08-11T13:17:02.100012",
+        "file": "67-construction-cost-statistics-for-2026.md"
+    },
+    {
         "title": "Why Chromium Browser Development Is the Future of the Web",
         "slug": "why-chromium-browser-development-is-the-future-of-the-web",
         "author": "Entalogics",
@@ -35657,6 +35800,17 @@
         "keywords": "engineering, models, golden, data, model, age, systems, understanding",
         "generated": "2026-07-08T03:22:28.629021",
         "file": "openai-experts-discuss-ai-engineerings-golden-age.md"
+    },
+    {
+        "title": "The Best Plaid Alternative in Europe (2025): A Developer's Guide to PSD2 APIs",
+        "slug": "the-best-plaid-alternative-in-europe-2025-a-developers-guide-to-psd2-apis",
+        "author": "John Frandsen",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 13:11:53 +0000",
+        "description": "If you've tried to build a European fintech app on top of Plaid, you've probably hit the same wall as everyone else: Plaid's European (UK/EU) coverage is thi...",
+        "keywords": "you, banking, bank, plaid, open, api, transactions, certificate",
+        "generated": "2026-08-11T13:17:02.099418",
+        "file": "the-best-plaid-alternative-in-europe-2025-a-developers-guide-to-psd2-apis.md"
     },
     {
         "title": "2026 AI Website Builder Rankings: Which of We0 AI, Wix AI, Framer, or Durable is Best for Business Websites?",
@@ -43443,6 +43597,17 @@
         "file": "aikit-search-intent-map-a-content-growth-playbook-for-turning-blog-topics-into-funnel-actions.md"
     },
     {
+        "title": "Cab service in gurgaon",
+        "slug": "cab-service-in-gurgaon",
+        "author": "digital project",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 13:06:37 +0000",
+        "description": "Looking for a reliable tours and travels company in Gurgaon? Gurgaon Tours & Travels provides convenient travel and transportation solutions for local travel...",
+        "keywords": "gurgaon, travel, cab, tours, travels, service, convenient, airport",
+        "generated": "2026-08-11T13:17:02.101148",
+        "file": "cab-service-in-gurgaon.md"
+    },
+    {
         "title": "Fixing Deploy to Cloudflare in a monorepo: expose the root contract",
         "slug": "fixing-deploy-to-cloudflare-in-a-monorepo-expose-the-root-contract",
         "author": "Shawn Bure",
@@ -49117,6 +49282,17 @@
         "file": "contextlens-py-spypprof-but-for-whats-inside-your-llm-prompt.md"
     },
     {
+        "title": "Google Agent-to-Agent Protocol vs Agent Client Protocol: Not Rivals, Different Layers",
+        "slug": "google-agent-to-agent-protocol-vs-agent-client-protocol-not-rivals-different-layers",
+        "author": "Philip Stayetski",
+        "source": "devto_webdev",
+        "published": "Tue, 11 Aug 2026 13:14:15 +0000",
+        "description": "Two protocols out of Google, both branded agent, both announced within months of each other. So the question keeps coming up: Google agent-to-agent protoco...",
+        "keywords": "agent, protocol, client, acp, card, session, both, can",
+        "generated": "2026-08-11T13:17:02.097591",
+        "file": "google-agent-to-agent-protocol-vs-agent-client-protocol-not-rivals-different-layers.md"
+    },
+    {
         "title": "Beyond Binary: Comprehensive Architecture and Implementation of the Symmetric Ternary Core & Technology Constructor (v5)",
         "slug": "beyond-binary-comprehensive-architecture-and-implementation-of-the-symmetric-ternary-core-technology-constructor-v5",
         "author": "Zavodiuk",
@@ -53658,6 +53834,17 @@
         "file": "soft-diffusion-score-matching-for-general-corruptions.md"
     },
     {
+        "title": "Turning a Chat Thread into a Product",
+        "slug": "turning-a-chat-thread-into-a-product",
+        "author": "John Polacek",
+        "source": "devto_ai",
+        "published": "Tue, 11 Aug 2026 13:06:00 +0000",
+        "description": "ShowReco started as a chat thread. I was trying to find movies and shows to watch that weren't just the same old junk that streaming platforms kept recommend...",
+        "keywords": "profile, you, every, model, showreco, one, your, chat",
+        "generated": "2026-08-11T13:17:02.102016",
+        "file": "turning-a-chat-thread-into-a-product.md"
+    },
+    {
         "title": "Azure cost optimization strategies for 2026",
         "slug": "azure-cost-optimization-strategies-for-2026",
         "author": "Shivatechdigital",
@@ -53997,6 +54184,17 @@
         "keywords": "retrieval, reranker, you, your, stage, config, hit, dense",
         "generated": "2026-08-10T19:03:47.542829",
         "file": "the-reranker-i-added-to-improve-rag-was-causing-most-of-my-remaining-misses.md"
+    },
+    {
+        "title": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
+        "slug": "more-than-10-firms-pay-up-to-100k-a-month-for-access-to-truth-social-posts",
+        "author": "whosgotch",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 09:57:14 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/ce3q5nxpgk1o Comments URL: https://news.ycombinator.com/item?id=49255672 Points: 41 # Comments: 15",
+        "keywords": "url, https, com, news, comments, more, than, firms",
+        "generated": "2026-08-11T13:17:02.094618",
+        "file": "more-than-10-firms-pay-up-to-100k-a-month-for-access-to-truth-social-posts.md"
     },
     {
         "title": "Python Code Obfuscation Tools — prometheusdev.io Jun 2026",
@@ -54503,6 +54701,17 @@
         "keywords": "memory, numa, optimizer, ram, coffers, built, tool, here",
         "generated": "2026-07-07T14:49:42.585529",
         "file": "i-built-ram-coffers-numa-memory-optimizer-heres-how.md"
+    },
+    {
+        "title": "Closing Canario Terminal source code",
+        "slug": "closing-canario-terminal-source-code",
+        "author": "atan2",
+        "source": "hackernews",
+        "published": "Tue, 11 Aug 2026 08:16:19 +0000",
+        "description": "Article URL: https://rapha.land/closing-canario-terminal-source-code/ Comments URL: https://news.ycombinator.com/item?id=49254881 Points: 21 # Comments: 26",
+        "keywords": "closing, canario, terminal, source, code, url, https, comments",
+        "generated": "2026-08-11T13:17:02.094735",
+        "file": "closing-canario-terminal-source-code.md"
     },
     {
         "title": "GitHub Trending Digest — June 26, 2026",
@@ -55141,6 +55350,17 @@
         "keywords": "amish, url, https, news, comments, our, language, article",
         "generated": "2026-07-14T08:17:51.105915",
         "file": "our-amish-language.md"
+    },
+    {
+        "title": "Per-Tenant Cost Ledgers for Batch Audio Transcription APIs on Long Recordings",
+        "slug": "per-tenant-cost-ledgers-for-batch-audio-transcription-apis-on-long-recordings",
+        "author": "matsjohansson6547",
+        "source": "devto_python",
+        "published": "Tue, 11 Aug 2026 12:40:42 +0000",
+        "description": "When a support-call archive or podcast library becomes large, the important choice is not which transcription demo sounds best. It is whether every long reco...",
+        "keywords": "event, cost, not, transcript, tenant, job, one, audio",
+        "generated": "2026-08-11T13:17:02.096643",
+        "file": "per-tenant-cost-ledgers-for-batch-audio-transcription-apis-on-long-recordings.md"
     },
     {
         "title": "How I Built a $3,200/Month Side Hustle Reselling AI APIs (And Why You Should Too)",
