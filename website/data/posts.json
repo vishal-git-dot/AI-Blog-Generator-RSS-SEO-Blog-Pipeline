@@ -2639,6 +2639,17 @@
         "file": "how-to-build-a-minimal-zfs-nas-without-synology-qnap-truenas-2024.md"
     },
     {
+        "title": "OLSOL Exchange (Obsidian Ledger Solutions) Shares a Practical Guide to AML and KYC Awareness",
+        "slug": "olsol-exchange-obsidian-ledger-solutions-shares-a-practical-guide-to-aml-and-kyc-awareness",
+        "author": "OLSOL Exchange(Obsidian Ledger Solutions)",
+        "source": "devto_webdev",
+        "published": "Wed, 12 Aug 2026 07:27:24 +0000",
+        "description": "As digital finance systems become more connected, compliance awareness has become an important part of responsible technology operations. Terms such as AML a...",
+        "keywords": "digital, aml, kyc, verification, awareness, more, users, can",
+        "generated": "2026-08-12T07:40:00.502293",
+        "file": "olsol-exchange-obsidian-ledger-solutions-shares-a-practical-guide-to-aml-and-kyc-awareness.md"
+    },
+    {
         "title": "Some AI Systems Differentially Downplay Their Creators' Controversies",
         "slug": "some-ai-systems-differentially-downplay-their-creators-controversies",
         "author": "tech_minimalist",
@@ -5785,6 +5796,17 @@
         "file": "aifrost.md"
     },
     {
+        "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+        "slug": "darpa-heavy-lift-challenge-ends-with-winner-at-a-3841-payload-to-weight-ratio",
+        "author": "daau",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 03:27:31 +0000",
+        "description": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/ Comments URL: https://news.ycombinator.com/item?id=49267527 Points: 19 # Co...",
+        "keywords": "darpa, lift, challenge, url, https, comments, heavy, ends",
+        "generated": "2026-08-12T07:40:00.499253",
+        "file": "darpa-heavy-lift-challenge-ends-with-winner-at-a-3841-payload-to-weight-ratio.md"
+    },
+    {
         "title": "I built an AI speechwriter for the moments you can't get wrong",
         "slug": "i-built-an-ai-speechwriter-for-the-moments-you-cant-get-wrong",
         "author": "KunStudio",
@@ -7252,10 +7274,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Mon, 10 Aug 2026 18:01:54 +0000",
+        "published": "Wed, 12 Aug 2026 06:51:48 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-10T19:03:47.544065",
+        "generated": "2026-08-12T07:40:00.501941",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -9312,6 +9334,17 @@
         "keywords": "our, marketing, trial, free, day, you, your, business",
         "generated": "2026-07-04T03:39:49.961307",
         "file": "restaurant-launch-offer.md"
+    },
+    {
+        "title": "A one line array check that was hiding a bigger bug",
+        "slug": "a-one-line-array-check-that-was-hiding-a-bigger-bug",
+        "author": "sirmos",
+        "source": "devto_webdev",
+        "published": "Wed, 12 Aug 2026 07:15:19 +0000",
+        "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry . Project Overview Brickwarden pairs two agents around one tokenized asse...",
+        "keywords": "one, transactions, prepared, array, const, mint, transaction, call",
+        "generated": "2026-08-12T07:40:00.503479",
+        "file": "a-one-line-array-check-that-was-hiding-a-bigger-bug.md"
     },
     {
         "title": "Declarations from the Periphery: From Genesis to the Sovereign Edge",
@@ -12086,6 +12119,17 @@
         "file": "overpaid-fire-your-ceo-hire-the-future.md"
     },
     {
+        "title": "My Homework Help: A Smarter Way for UK Students to Manage Study Challenges",
+        "slug": "my-homework-help-a-smarter-way-for-uk-students-to-manage-study-challenges",
+        "author": "Josh Hazlewood",
+        "source": "devto_webdev",
+        "published": "Wed, 12 Aug 2026 07:17:00 +0000",
+        "description": "Homework is an important part of learning, but keeping up with multiple subjects, deadlines, revision, and personal responsibilities can sometimes feel overw...",
+        "keywords": "can, students, homework, should, help, may, academic, more",
+        "generated": "2026-08-12T07:40:00.503222",
+        "file": "my-homework-help-a-smarter-way-for-uk-students-to-manage-study-challenges.md"
+    },
+    {
         "title": "Building a Real-Time News Aggregator and Trend Tracker with Python and Joffstrends Search API",
         "slug": "building-a-real-time-news-aggregator-and-trend-tracker-with-python-and-joffstrends-search-api",
         "author": "Joffy122",
@@ -12383,6 +12427,17 @@
         "file": "show-hn-port-zero-how-i-learned-to-stop-worrying-and-love-port0.md"
     },
     {
+        "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+        "slug": "cve-2026-53361-afunix-gc-vs-msgpeek-use-after-free-container-escape",
+        "author": "eyberg",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 03:31:42 +0000",
+        "description": "Article URL: https://github.com/sgkdev/bad_garbage Comments URL: https://news.ycombinator.com/item?id=49267550 Points: 11 # Comments: 0",
+        "keywords": "url, https, com, comments, cve, use, after, free",
+        "generated": "2026-08-12T07:40:00.499141",
+        "file": "cve-2026-53361-afunix-gc-vs-msgpeek-use-after-free-container-escape.md"
+    },
+    {
         "title": "[Remote] Physics Expert (Biophysics / Statistical Physics) ($80 - $160/hour)",
         "slug": "remote-physics-expert-biophysics-statistical-physics-80-160hour",
         "author": "Thom B",
@@ -12535,6 +12590,17 @@
         "keywords": "human, attention, effort, url, https, comments, you, asking",
         "generated": "2026-06-12T04:40:33.063103",
         "file": "if-you-are-asking-for-human-attention-demonstrate-human-effort.md"
+    },
+    {
+        "title": "An AI invented an endpoint for our API. We shipped it.",
+        "slug": "an-ai-invented-an-endpoint-for-our-api-we-shipped-it",
+        "author": "Jarvis",
+        "source": "devto_webdev",
+        "published": "Wed, 12 Aug 2026 07:06:40 +0000",
+        "description": "A user sent us a bug report that was really a screenshot of someone else's chat. They had asked an AI assistant to build a web page that erases text from an ...",
+        "keywords": "api, erase, not, mcp, json, you, our, image",
+        "generated": "2026-08-12T07:40:00.503894",
+        "file": "an-ai-invented-an-endpoint-for-our-api-we-shipped-it.md"
     },
     {
         "title": "Proton is funding the French far right on YouTube",
@@ -21513,6 +21579,17 @@
         "file": "moonstone-modern-cross-platform-lua-runtime-and-package-manager-written-in-zig.md"
     },
     {
+        "title": "How to Choose the Right GPU for AI, Rendering & Data Workloads",
+        "slug": "how-to-choose-the-right-gpu-for-ai-rendering-data-workloads",
+        "author": "Datanet Hosting Solutions",
+        "source": "devto_ai",
+        "published": "Wed, 12 Aug 2026 07:21:44 +0000",
+        "description": "Choosing the right GPU can make a major difference in AI, machine learning, rendering, data processing, and other compute-intensive workloads. Before selecti...",
+        "keywords": "gpu, right, performance, how, rendering, data, workloads, can",
+        "generated": "2026-08-12T07:40:00.506178",
+        "file": "how-to-choose-the-right-gpu-for-ai-rendering-data-workloads.md"
+    },
+    {
         "title": "How would you decide, whether the content is good or bad?",
         "slug": "how-would-you-decide-whether-the-content-is-good-or-bad",
         "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
@@ -24120,6 +24197,17 @@
         "file": "a-ultimate-guide-to-buying-verified-venmo-accounts-in.md"
     },
     {
+        "title": "llama.cpp",
+        "slug": "llamacpp",
+        "author": "kristianpaul",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 04:51:59 +0000",
+        "description": "Article URL: https://llama.app Comments URL: https://news.ycombinator.com/item?id=49267928 Points: 137 # Comments: 64",
+        "keywords": "llama, url, https, comments, cpp, article, app, news",
+        "generated": "2026-08-12T07:40:00.498835",
+        "file": "llamacpp.md"
+    },
+    {
         "title": "Analyzing Sports Data: Infantino opens door to 64-team World Cup — What the Numbers Say",
         "slug": "analyzing-sports-data-infantino-opens-door-to-64-team-world-cup-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -26725,6 +26813,17 @@
         "keywords": "source, open, echoed, documentation, you, can, project, african",
         "generated": "2026-07-10T14:40:05.897452",
         "file": "building-open-source-education-infrastructure-for-african-history-and-the-african-diaspora.md"
+    },
+    {
+        "title": "How I detected deleted YouTube videos using JSONL history diffing",
+        "slug": "how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing",
+        "author": "MORINAGA",
+        "source": "devto_python",
+        "published": "Wed, 12 Aug 2026 07:05:31 +0000",
+        "description": "The YouTube analytics cron ran without incident on August 10. Health checks were green. Then I looked at the channel manually and counted 79 videos where I e...",
+        "keywords": "videos, disappeared, youtube, day, get, deleted, what, history",
+        "generated": "2026-08-12T07:40:00.501117",
+        "file": "how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing.md"
     },
     {
         "title": "Local Outlier Factor: Why a Global Distance Cutoff Fails and a Local Density Ratio Wins",
@@ -32513,6 +32612,17 @@
         "file": "gpt-56.md"
     },
     {
+        "title": "Your API Shouldn't Expose Tables. It Should Expose Memory Acts",
+        "slug": "your-api-shouldnt-expose-tables-it-should-expose-memory-acts",
+        "author": "Eugene Popov",
+        "source": "devto_ai",
+        "published": "Wed, 12 Aug 2026 07:22:02 +0000",
+        "description": "Your API Shouldn't Expose Tables. It Should Expose Memory Acts. When everyone lies, INDB remembers what you saw. We didn't set out to build a faster Postgr...",
+        "keywords": "api, indb, not, you, tech, memory, location, what",
+        "generated": "2026-08-12T07:40:00.506018",
+        "file": "your-api-shouldnt-expose-tables-it-should-expose-memory-acts.md"
+    },
+    {
         "title": "The billing state most APIs get wrong: unknown is not no",
         "slug": "the-billing-state-most-apis-get-wrong-unknown-is-not-no",
         "author": "Larry Johnson",
@@ -34889,6 +34999,17 @@
         "file": "gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf.md"
     },
     {
+        "title": "How to Connect Azure SQL Database in Azure Databricks with PySpark",
+        "slug": "how-to-connect-azure-sql-database-in-azure-databricks-with-pyspark",
+        "author": "Jin",
+        "source": "devto_python",
+        "published": "Wed, 12 Aug 2026 06:59:55 +0000",
+        "description": "In this article, I will show how to connect Azure SQL Database from Azure Databricks , read a SQL table or query result, and write a Spark DataFrame back to ...",
+        "keywords": "sql, azure, data, database, spark, databricks, read, connect",
+        "generated": "2026-08-12T07:40:00.501742",
+        "file": "how-to-connect-azure-sql-database-in-azure-databricks-with-pyspark.md"
+    },
+    {
         "title": "Comparing Unequal Arguments: Build a Weighted Decision Matrix That Exposes What Matters Most",
         "slug": "comparing-unequal-arguments-build-a-weighted-decision-matrix-that-exposes-what-matters-most",
         "author": "Asma habib",
@@ -36856,6 +36977,17 @@
         "keywords": "chatbot, support, features, user, information, business, capabilities, customer",
         "generated": "2026-06-25T09:33:20.214363",
         "file": "best-ai-chatbot-apps-in-2026-top-picks-reviewed.md"
+    },
+    {
+        "title": "Command injection in MCP tools: the subprocess pattern that hands an LLM a shell",
+        "slug": "command-injection-in-mcp-tools-the-subprocess-pattern-that-hands-an-llm-a-shell",
+        "author": "MCP Security Notes",
+        "source": "devto_python",
+        "published": "Wed, 12 Aug 2026 07:04:44 +0000",
+        "description": "Most MCP (Model Context Protocol) servers ship at least one tool that runs a command, formats a filename, or calls out to git , ffmpeg , or a shell one-liner...",
+        "keywords": "shell, tool, path, str, command, filename, you, subprocess",
+        "generated": "2026-08-12T07:40:00.501496",
+        "file": "command-injection-in-mcp-tools-the-subprocess-pattern-that-hands-an-llm-a-shell.md"
     },
     {
         "title": "How Do You Validate Zero Gap in Stock API 1-Minute Historical Bars?",
@@ -40101,6 +40233,17 @@
         "file": "us-ai-pulse-when-ai-overthinks-the-curious-case-of-claude-codes-33k-tokens.md"
     },
     {
+        "title": "How to Use Surfer AI for Buying Guide Creation in 2026",
+        "slug": "how-to-use-surfer-ai-for-buying-guide-creation-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Wed, 12 Aug 2026 07:22:57 +0000",
+        "description": "Originally published at https://seointent.com/blog/surfer-ai-for-buying-guide-creation TL;DR - Surfer ai for buying guide creation works best when you pair i...",
+        "keywords": "surfer, buying, you, guide, content, what, use, keyword",
+        "generated": "2026-08-12T07:40:00.505303",
+        "file": "how-to-use-surfer-ai-for-buying-guide-creation-in-2026.md"
+    },
+    {
         "title": "The Chud Vision of Roman History",
         "slug": "the-chud-vision-of-roman-history",
         "author": "hermitcrab",
@@ -41056,6 +41199,17 @@
         "keywords": "exhibition, photography, dubai, liveweb, https, live, com, originally",
         "generated": "2026-07-16T03:13:36.753346",
         "file": "360-exhibition-photography-dubai-liveweb-2-2-2-3-360.md"
+    },
+    {
+        "title": "Anyone with your tunnel URL can hit your dev machine — the attack surface nobody mentions",
+        "slug": "anyone-with-your-tunnel-url-can-hit-your-dev-machine-the-attack-surface-nobody-mentions",
+        "author": "gokul",
+        "source": "devto_webdev",
+        "published": "Wed, 12 Aug 2026 07:24:48 +0000",
+        "description": "You start your dev server, open a tunnel to show a teammate your progress, and get a public URL. You paste it in Slack. They click it, see the app, great. Me...",
+        "keywords": "tunnel, your, url, you, anyone, can, open, who",
+        "generated": "2026-08-12T07:40:00.502563",
+        "file": "anyone-with-your-tunnel-url-can-hit-your-dev-machine-the-attack-surface-nobody-mentions.md"
     },
     {
         "title": "Topology rewrite not bug repair",
@@ -42675,6 +42829,17 @@
         "file": "how-i-built-a-real-time-tennis-stats-tracker-gbs-fery-beats-dimitrov-in-five-set-thriller-to-extend-historic-run.md"
     },
     {
+        "title": "CatBoost: The Interpreter Who Refused to Peek at Tomorrow's Newspaper",
+        "slug": "catboost-the-interpreter-who-refused-to-peek-at-tomorrows-newspaper",
+        "author": "Sachin Kr. Rajput",
+        "source": "devto_python",
+        "published": "Wed, 12 Aug 2026 07:19:38 +0000",
+        "description": "The One-Line Summary: Replacing a category with the average target for that category is the most common feature-engineering trick in tabular machine learning...",
+        "keywords": "encoding, target, column, cat, not, rows, row, test",
+        "generated": "2026-08-12T07:40:00.500435",
+        "file": "catboost-the-interpreter-who-refused-to-peek-at-tomorrows-newspaper.md"
+    },
+    {
         "title": "Tuning into Code: Exploring YouTube Radio for Emacs",
         "slug": "tuning-into-code-exploring-youtube-radio-for-emacs",
         "author": "Ryan M",
@@ -43562,6 +43727,17 @@
         "keywords": "improvised, apriori, algorithm, using, frequent, pattern, tree, real",
         "generated": "2026-06-23T04:02:13.420007",
         "file": "improvised-apriori-algorithm-using-frequent-pattern-tree-for-real-timeapplications-in-data-mining.md"
+    },
+    {
+        "title": "The Human Is the Loop",
+        "slug": "the-human-is-the-loop",
+        "author": "burnto",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 02:15:01 +0000",
+        "description": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/ Comments URL: https://news.ycombinator.com/item?id=49267108 Points: 79 # Comments: 28",
+        "keywords": "human, loop, url, https, com, comments, article, brentfitzgerald",
+        "generated": "2026-08-12T07:40:00.499352",
+        "file": "the-human-is-the-loop.md"
     },
     {
         "title": "Agent Roundup: Two Codex signals worth verifying, not overreading",
@@ -44772,6 +44948,17 @@
         "keywords": "kuwait, difficult, location, furniture, rental, https, chairs, com",
         "generated": "2026-07-12T03:28:48.643213",
         "file": "kuwait-difficult-location-furniture-rental.md"
+    },
+    {
+        "title": "OpenRouter: One API Key to Rule Them All 🔑",
+        "slug": "openrouter-one-api-key-to-rule-them-all",
+        "author": "Domenico Tenace",
+        "source": "devto_ai",
+        "published": "Wed, 12 Aug 2026 07:20:51 +0000",
+        "description": "Overview Hey everyone 👋 Managing AI models in 2026 has gotten ridiculous. Anthropic key here, OpenAI key there, a separate billing account for Google, anothe...",
+        "keywords": "you, openrouter, provider, free, model, one, models, your",
+        "generated": "2026-08-12T07:40:00.506704",
+        "file": "openrouter-one-api-key-to-rule-them-all.md"
     },
     {
         "title": "Bypassing Cloud Containers Restraints: Fixing Replit Agent Memory Limit Errors",
@@ -47335,6 +47522,17 @@
         "keywords": "can, open, robo, source, data, wealth, management, recommendation",
         "generated": "2026-08-02T03:28:39.843720",
         "file": "open-source-robo-advisors-and-the-future-of-wealth-management.md"
+    },
+    {
+        "title": "gpt приложение: как перенести рабочую задачу с телефона на компьютер без потери ограничений",
+        "slug": "gpt",
+        "author": "Promptra Team",
+        "source": "devto_ai",
+        "published": "Wed, 12 Aug 2026 07:23:09 +0000",
+        "description": "Задача началась на телефоне, и черновик уже выглядит убедительно. На компьютере открывается его копия, но продолжать её трудно: не видно, какое ограничение е...",
+        "keywords": "gpt, provod, google, api, openai, claude, anthropic, gemini",
+        "generated": "2026-08-12T07:40:00.504165",
+        "file": "gpt.md"
     },
     {
         "title": "We hit 99.95% on the LoCoMo memory benchmark. Here's the catch, and why it still matters.",
@@ -52050,6 +52248,17 @@
         "keywords": "kontigo, url, https, ycombinator, com, comments, hiring, article",
         "generated": "2026-08-01T13:39:22.829633",
         "file": "kontigo-yc-s24-is-hiring.md"
+    },
+    {
+        "title": "Dropbox is an obvious PE Target?",
+        "slug": "dropbox-is-an-obvious-pe-target",
+        "author": "Taikhoom10",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 04:30:34 +0000",
+        "description": "Article URL: https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/ Comments URL: https://news.ycombinator.com/item?id=49267818 Points: 41 # Commen...",
+        "keywords": "dropbox, obvious, target, url, https, comments, article, vercel",
+        "generated": "2026-08-12T07:40:00.499024",
+        "file": "dropbox-is-an-obvious-pe-target.md"
     },
     {
         "title": "Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions",
