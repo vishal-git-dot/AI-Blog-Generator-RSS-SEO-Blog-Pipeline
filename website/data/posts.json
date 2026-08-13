@@ -2177,6 +2177,17 @@
         "file": "flint-a-visualization-language-for-the-ai-era.md"
     },
     {
+        "title": "14 Years of Engineering Lessons: What Building Dida Holdings Taught Me",
+        "slug": "14-years-of-engineering-lessons-what-building-dida-holdings-taught-me",
+        "author": "Becky_dev",
+        "source": "devto_ai",
+        "published": "Thu, 13 Aug 2026 02:15:37 +0000",
+        "description": "In 2012, I joined a small travel technology company called Dida Travel. Nobody knew the name. We had maybe twenty people, an office in Beijing that smelled l...",
+        "keywords": "travel, booking, what, had, building, you, build, not",
+        "generated": "2026-08-13T02:24:39.932234",
+        "file": "14-years-of-engineering-lessons-what-building-dida-holdings-taught-me.md"
+    },
+    {
         "title": "13 models and 4 agents work on SWE tasks in 5 languages: Go, Java, Python, Rust, TS. https://swe-rebench.com",
         "slug": "13-models-and-4-agents-work-on-swe-tasks-in-5-languages-go-java-python-rust-ts-httpsswe-rebenchcom",
         "author": "Atheer",
@@ -4397,6 +4408,17 @@
         "keywords": "not, you, before, output, what, nothing, looks, one",
         "generated": "2026-07-22T03:17:44.189560",
         "file": "your-ais-eda-looks-right-heres-how-to-tell-when-it-isnt.md"
+    },
+    {
+        "title": "I Tried an AI Tool That Turns a Prompt Into a Real Mobile App",
+        "slug": "i-tried-an-ai-tool-that-turns-a-prompt-into-a-real-mobile-app",
+        "author": "Anternice Hester",
+        "source": "devto_ai",
+        "published": "Thu, 13 Aug 2026 02:18:16 +0000",
+        "description": "Building a mobile app used to mean learning a programming language, setting up a development environment, and figuring out how to get everything working toge...",
+        "keywords": "app, rapidnative, you, mobile, can, may, tool, prompt",
+        "generated": "2026-08-13T02:24:39.930828",
+        "file": "i-tried-an-ai-tool-that-turns-a-prompt-into-a-real-mobile-app.md"
     },
     {
         "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
@@ -10084,6 +10106,17 @@
         "file": "mobile-banking-market-size-share-trends-analysis-report-and-forecast-20262034.md"
     },
     {
+        "title": "React useElementSize Hook: Track Element Width & Height with ResizeObserver (2026)",
+        "slug": "react-useelementsize-hook-track-element-width-height-with-resizeobserver-2026",
+        "author": "ReactUse",
+        "source": "devto_webdev",
+        "published": "Thu, 13 Aug 2026 02:15:02 +0000",
+        "description": "Media queries answer one question: how big is the viewport? But your components don't live in the viewport — they live in columns, cards, panels, and grid tr...",
+        "keywords": "width, ref, box, height, useelementsize, const, you, element",
+        "generated": "2026-08-13T02:24:39.929111",
+        "file": "react-useelementsize-hook-track-element-width-height-with-resizeobserver-2026.md"
+    },
+    {
         "title": "How to get US inflation data by API — CPI since 1913 (2026 guide)",
         "slug": "how-to-get-us-inflation-data-by-api-cpi-since-1913-2026-guide",
         "author": "Synergic-Apis",
@@ -10159,6 +10192,17 @@
         "keywords": "staff, you, team, one, teams, not, scope, design",
         "generated": "2026-08-01T13:39:22.849280",
         "file": "staff-principal-data-engineer-interviews-scope-impact-cross-team-architecture-loops.md"
+    },
+    {
+        "title": "3 Testing Habits That Caught Bugs Before My Users Did",
+        "slug": "3-testing-habits-that-caught-bugs-before-my-users-did",
+        "author": "Sir Max",
+        "source": "devto_python",
+        "published": "Thu, 13 Aug 2026 02:16:31 +0000",
+        "description": "Last month a user reported that our checkout endpoint charged them twice. The code looked fine in review. Every test was green. The bug only appeared when tw...",
+        "keywords": "test, bug, you, habit, what, def, property, before",
+        "generated": "2026-08-13T02:24:39.926930",
+        "file": "3-testing-habits-that-caught-bugs-before-my-users-did.md"
     },
     {
         "title": "Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices",
@@ -11600,6 +11644,17 @@
         "keywords": "frame, url, https, comments, first, linux, assembly, server",
         "generated": "2026-07-17T19:18:11.640994",
         "file": "frame-the-first-linux-assembly-x-server.md"
+    },
+    {
+        "title": "Flash For Building Businesses",
+        "slug": "flash-for-building-businesses",
+        "author": "samson",
+        "source": "devto_ai",
+        "published": "Thu, 13 Aug 2026 02:14:38 +0000",
+        "description": "Building with Flash: A Foundation for Success When building a business, it's easy to get caught up in the idea that everything needs to be perfect from the s...",
+        "keywords": "flash, approach, businesses, building, product, can, quickly, service",
+        "generated": "2026-08-13T02:24:39.932486",
+        "file": "flash-for-building-businesses.md"
     },
     {
         "title": "ICE Illegally Scooped Up Medicaid Data, Then Shared It with Palantir",
@@ -13846,6 +13901,17 @@
         "file": "what-makes-an-ai-system-production-ready-part-2-designing-a-rag-ingestion-pipeline.md"
     },
     {
+        "title": "What is AI governance and how to operationalize it?",
+        "slug": "what-is-ai-governance-and-how-to-operationalize-it",
+        "author": "koanvai",
+        "source": "hackernews",
+        "published": "Thu, 13 Aug 2026 01:02:09 +0000",
+        "description": "Article URL: https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/ Comments URL: https://news.ycombinator.com/item?id=4...",
+        "keywords": "what, governance, how, operationalize, url, https, com, comments",
+        "generated": "2026-08-13T02:24:39.924660",
+        "file": "what-is-ai-governance-and-how-to-operationalize-it.md"
+    },
+    {
         "title": "Omitted Is Not Empty: Modeling Nullable Partial Updates",
         "slug": "omitted-is-not-empty-modeling-nullable-partial-updates",
         "author": "LkSvn",
@@ -15364,6 +15430,17 @@
         "file": "in-depth-analysis-pythons-dominance-in-ai-develo.md"
     },
     {
+        "title": "I Didn't Need Microservices. I Needed One of Their Superpowers",
+        "slug": "i-didnt-need-microservices-i-needed-one-of-their-superpowers",
+        "author": "Chris",
+        "source": "devto_python",
+        "published": "Thu, 13 Aug 2026 02:05:23 +0000",
+        "description": "Everyone tells you not to build microservices until you have the org chart for it. They're right. I'm basically a one-person team on this codebase. No domain...",
+        "keywords": "one, you, service, search, what, not, app, domain",
+        "generated": "2026-08-13T02:24:39.928184",
+        "file": "i-didnt-need-microservices-i-needed-one-of-their-superpowers.md"
+    },
+    {
         "title": "Building and Testing PickUp, a Vibe-Coded Platform for Casual Sports Games",
         "slug": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games",
         "author": "Nuh",
@@ -15461,6 +15538,17 @@
         "keywords": "wings, their, will, mystics, washington, dallas, game, scoring",
         "generated": "2026-06-05T15:19:56.046949",
         "file": "washington-mystics-vs-dallas-wings-wnba-preview-picks.md"
+    },
+    {
+        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+        "slug": "happy-45th-birthday-to-the-ibm-pc-and-model-fxt",
+        "author": "tart-lemonade",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+        "description": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 30 # Comments: 7",
+        "keywords": "url, https, comments, happy, birthday, ibm, model, article",
+        "generated": "2026-08-13T02:24:39.924969",
+        "file": "happy-45th-birthday-to-the-ibm-pc-and-model-fxt.md"
     },
     {
         "title": "I Added has_china_official_site to My Benchmark. It Failed Before the First Run",
@@ -15791,6 +15879,17 @@
         "keywords": "url, https, com, comments, voxel, game, engine, written",
         "generated": "2026-06-21T09:58:05.289171",
         "file": "a-3d-voxel-game-engine-written-in-apl.md"
+    },
+    {
+        "title": "What's New in Flutter 3.47",
+        "slug": "whats-new-in-flutter-347",
+        "author": "gumby271",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 23:46:00 +0000",
+        "description": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47 Comments URL: https://news.ycombinator.com/item?id=49280061 Points: 42 # Comments: 28",
+        "keywords": "flutter, new, url, https, comments, what, article, dev",
+        "generated": "2026-08-13T02:24:39.925096",
+        "file": "whats-new-in-flutter-347.md"
     },
     {
         "title": "Stop Running AI Agents on Your Host — Master Docker Sandboxes in One Guide",
@@ -22162,6 +22261,17 @@
         "file": "i-built-an-ai-that-builds-and-sells-ai-products-fully-autonomous.md"
     },
     {
+        "title": "Zillow Scraper API: How to Build a Real Estate Property Monitor",
+        "slug": "zillow-scraper-api-how-to-build-a-real-estate-property-monitor",
+        "author": "coreclaw",
+        "source": "devto_python",
+        "published": "Thu, 13 Aug 2026 02:05:57 +0000",
+        "description": "Zillow Scraper API: How to Build a Real Estate Property Monitor If you need to track property listings, price changes, or listing status over time, the most ...",
+        "keywords": "get, raw, you, zillow, data, monitor, listing, record",
+        "generated": "2026-08-13T02:24:39.927618",
+        "file": "zillow-scraper-api-how-to-build-a-real-estate-property-monitor.md"
+    },
+    {
         "title": "React Fiber Architecture Explained: How React Renders UI",
         "slug": "react-fiber-architecture-explained-how-react-renders-ui",
         "author": "Dev Encyclopedia",
@@ -23711,6 +23821,17 @@
         "keywords": "python, content, you, decorators, explained, simply, build, best",
         "generated": "2026-07-14T19:26:51.412516",
         "file": "python-decorators-explained-simply.md"
+    },
+    {
+        "title": "Web Search API for AI Developers: How It Works and When to Use One",
+        "slug": "web-search-api-for-ai-developers-how-it-works-and-when-to-use-one",
+        "author": "Marcus ma",
+        "source": "devto_webdev",
+        "published": "Thu, 13 Aug 2026 02:08:29 +0000",
+        "description": "TL;DR A Web Search API gives AI applications programmatic access to current information from the web. It is useful when an LLM needs information that changes...",
+        "keywords": "search, web, api, information, results, llm, can, user",
+        "generated": "2026-08-13T02:24:39.930125",
+        "file": "web-search-api-for-ai-developers-how-it-works-and-when-to-use-one.md"
     },
     {
         "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
@@ -26111,6 +26232,17 @@
         "file": "changes-to-llm-pricing-ionstream-novita-and-streamlake.md"
     },
     {
+        "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+        "slug": "show-hn-ballet-workflow-automation-that-writes-integrations-against-any-api",
+        "author": "danielkimber",
+        "source": "hackernews",
+        "published": "Thu, 13 Aug 2026 00:01:43 +0000",
+        "description": "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 17 # Comments: 2",
+        "keywords": "ballet, url, https, comments, show, workflow, automation, writes",
+        "generated": "2026-08-13T02:24:39.924836",
+        "file": "show-hn-ballet-workflow-automation-that-writes-integrations-against-any-api.md"
+    },
+    {
         "title": "$2.500 BTC Loan: The Safest Way to Access Immediate Cash",
         "slug": "2500-btc-loan-the-safest-way-to-access-immediate-cash",
         "author": "omnilender",
@@ -27110,6 +27242,17 @@
         "keywords": "videos, disappeared, youtube, day, get, deleted, what, history",
         "generated": "2026-08-12T07:40:00.501117",
         "file": "how-i-detected-deleted-youtube-videos-using-jsonl-history-diffing.md"
+    },
+    {
+        "title": "Free AI Models in Your CI Pipeline Will Fail Silently. Build the Circuit Breaker First.",
+        "slug": "free-ai-models-in-your-ci-pipeline-will-fail-silently-build-the-circuit-breaker-first",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Thu, 13 Aug 2026 02:21:09 +0000",
+        "description": "A few months ago I wired a free AI coding model into a side project's CI pipeline. The job was modest: summarize each pull request diff into three bullet poi...",
+        "keywords": "self, free, model, endpoint, fallback, not, return, breaker",
+        "generated": "2026-08-13T02:24:39.925884",
+        "file": "free-ai-models-in-your-ci-pipeline-will-fail-silently-build-the-circuit-breaker-first.md"
     },
     {
         "title": "Local Outlier Factor: Why a Global Distance Cutoff Fails and a Local Density Ratio Wins",
@@ -34053,6 +34196,17 @@
         "file": "i-flagged-two-research-papers-for-fake-authors-and-both-were-accepted-as-orals.md"
     },
     {
+        "title": "Mastering pytest: Write Reliable Tests for Your Python Projects",
+        "slug": "mastering-pytest-write-reliable-tests-for-your-python-projects",
+        "author": "Davis Mark",
+        "source": "devto_python",
+        "published": "Thu, 13 Aug 2026 02:17:46 +0000",
+        "description": "Mastering pytest: Write Reliable Tests for Your Python Projects Writing tests is the difference between code that works and code that keeps working. When a p...",
+        "keywords": "pytest, tests, test, you, def, your, assert, not",
+        "generated": "2026-08-13T02:24:39.926486",
+        "file": "mastering-pytest-write-reliable-tests-for-your-python-projects.md"
+    },
+    {
         "title": "Aether: A Localized AI Agent for Android",
         "slug": "aether-a-localized-ai-agent-for-android",
         "author": "Tim Zinin",
@@ -36350,6 +36504,17 @@
         "keywords": "sentiment, music, you, your, pulsebit, data, pipeline, can",
         "generated": "2026-08-06T08:45:23.995112",
         "file": "your-pipeline-is-274h-behind-catching-music-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Two Wedding Seating Calculators, Same 100 Guests, Answers Three Tables Apart",
+        "slug": "two-wedding-seating-calculators-same-100-guests-answers-three-tables-apart",
+        "author": "member_c240df61",
+        "source": "devto_webdev",
+        "published": "Thu, 13 Aug 2026 02:16:56 +0000",
+        "description": "Ask two wedding suppliers how many round tables you need for 100 guests and you'll get two different answers: 13, or 10. Neither one is wrong, and that bothe...",
+        "keywords": "tables, you, table, one, not, seating, same, guest",
+        "generated": "2026-08-13T02:24:39.928440",
+        "file": "two-wedding-seating-calculators-same-100-guests-answers-three-tables-apart.md"
     },
     {
         "title": "PyTorch Broadcasting Explained: The 3 Rules (and the Silent Bug That Bites Everyone)",
@@ -42466,6 +42631,17 @@
         "file": "what-happens-during-a-production-deployment-a-behind-the-scenes-guide.md"
     },
     {
+        "title": "Deep Dive: Genetic Algorithms for Trading Strategy…",
+        "slug": "deep-dive-genetic-algorithms-for-trading-strategy",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Thu, 13 Aug 2026 02:06:04 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the mechanics of genetic algorithms in optimizing trading strategies. A thorough analysis for tech l...",
+        "keywords": "trading, strategies, genetic, algorithms, strategy, can, their, performance",
+        "generated": "2026-08-13T02:24:39.930636",
+        "file": "deep-dive-genetic-algorithms-for-trading-strategy.md"
+    },
+    {
         "title": "Tổng Kết Thị Trường Chứng Khoán Ngày 08/07/2026",
         "slug": "tng-kt-th-trng-chng-khon-ngy-08072026",
         "author": "Bùi Vũ",
@@ -47876,14 +48052,14 @@
         "file": "open-source-robo-advisors-and-the-future-of-wealth-management.md"
     },
     {
-        "title": "gpt приложение: как перенести рабочую задачу с телефона на компьютер без потери ограничений",
+        "title": "промты для gpt для фото: как собрать нейтральный портрет для карточки роли и не выдать вымышленный портрет за сотрудника",
         "slug": "gpt",
         "author": "Promptra Team",
         "source": "devto_ai",
-        "published": "Wed, 12 Aug 2026 07:23:09 +0000",
-        "description": "Задача началась на телефоне, и черновик уже выглядит убедительно. На компьютере открывается его копия, но продолжать её трудно: не видно, какое ограничение е...",
-        "keywords": "gpt, provod, google, api, openai, claude, anthropic, gemini",
-        "generated": "2026-08-12T07:40:00.504165",
+        "published": "Thu, 13 Aug 2026 02:16:36 +0000",
+        "description": "Временная карточка роли уже почти готова: в ней есть название, краткое описание задачи и свободное место под визуал. В этот момент промты для gpt для фото мо...",
+        "keywords": "gpt, provod, reasoning, google, openai, claude, anthropic, gemini",
+        "generated": "2026-08-13T02:24:39.931561",
         "file": "gpt.md"
     },
     {
@@ -53394,6 +53570,17 @@
         "file": "ai-automation-workflow.md"
     },
     {
+        "title": "Marketing Automation For Developers Who Do Not Want To Do Marketing",
+        "slug": "marketing-automation-for-developers-who-do-not-want-to-do-marketing",
+        "author": "Paul Crinigan",
+        "source": "devto_webdev",
+        "published": "Thu, 13 Aug 2026 02:12:22 +0000",
+        "description": "Marketing is the part of shipping a side project that most developers postpone until launch day, then do badly for a week and quietly abandon. The instinct n...",
+        "keywords": "you, your, marketing, agent, what, one, not, half",
+        "generated": "2026-08-13T02:24:39.929394",
+        "file": "marketing-automation-for-developers-who-do-not-want-to-do-marketing.md"
+    },
+    {
         "title": "Edge computing patterns: CDNs, workers, and regional processing",
         "slug": "edge-computing-patterns-cdns-workers-and-regional-processing",
         "author": "Rizwan Saleem",
@@ -54439,6 +54626,17 @@
         "file": "multi-agent-debate-personas-argue-a-critic-probes-and-confidence-falls-out-of-consensus.md"
     },
     {
+        "title": "Hitting Regenerate Isn't Editing, It's Gambling",
+        "slug": "hitting-regenerate-isnt-editing-its-gambling",
+        "author": "member_c240df61",
+        "source": "devto_ai",
+        "published": "Thu, 13 Aug 2026 02:17:31 +0000",
+        "description": "I noticed a pattern in how I clean up AI-drafted PR descriptions and README sections. I paste the text into a rewriter, don't like the output, hit Regenerate...",
+        "keywords": "what, want, regenerate, direction, you, like, actually, just",
+        "generated": "2026-08-13T02:24:39.931058",
+        "file": "hitting-regenerate-isnt-editing-its-gambling.md"
+    },
+    {
         "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
         "slug": "mbodi-ai-yc-p25-is-hiring-founding-machine-learning-engineer-robotics",
         "author": "chitianhao",
@@ -54921,6 +55119,17 @@
         "keywords": "you, bitcoin, your, can, loan, collateral, backed, omnilender",
         "generated": "2026-07-25T13:46:22.466121",
         "file": "how-to-finance-elective-procedures-with-bitcoin-collateral-in-2026.md"
+    },
+    {
+        "title": "Build Wide, Ship Narrow",
+        "slug": "build-wide-ship-narrow",
+        "author": "ashumz",
+        "source": "hackernews",
+        "published": "Wed, 12 Aug 2026 23:43:48 +0000",
+        "description": "Article URL: https://adapt.com/blog/build-wide-ship-narrow Comments URL: https://news.ycombinator.com/item?id=49280047 Points: 30 # Comments: 0",
+        "keywords": "build, wide, ship, narrow, url, https, com, comments",
+        "generated": "2026-08-13T02:24:39.925221",
+        "file": "build-wide-ship-narrow.md"
     },
     {
         "title": "What I learned adding diagram and chart slides to a CI-rendered YouTube pipeline",
