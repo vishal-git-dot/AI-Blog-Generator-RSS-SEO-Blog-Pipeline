@@ -4,16 +4,16 @@ slug: "happy-45th-birthday-to-the-ibm-pc-and-model-fxt"
 author: "tart-lemonade"
 source: "hackernews"
 published: "Wed, 12 Aug 2026 23:50:33 +0000"
-description: "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 30 # Comments: 7"
+description: "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 75 # Comments: 20"
 keywords: "url, https, comments, happy, birthday, ibm, model, article"
-generated: "2026-08-13T02:24:39.924969"
+generated: "2026-08-13T07:41:34.962061"
 ---
 
 # Happy 45th Birthday to the IBM PC and Model F/XT
 
 ## Overview
 
-Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 30 # Comments: 7
+Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 75 # Comments: 20
 
 ## Key Insights
 

@@ -4,16 +4,16 @@ slug: "show-hn-ballet-workflow-automation-that-writes-integrations-against-any-a
 author: "danielkimber"
 source: "hackernews"
 published: "Thu, 13 Aug 2026 00:01:43 +0000"
-description: "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 17 # Comments: 2"
+description: "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 29 # Comments: 8"
 keywords: "ballet, url, https, comments, show, workflow, automation, writes"
-generated: "2026-08-13T02:24:39.924836"
+generated: "2026-08-13T07:41:34.961892"
 ---
 
 # Show HN: Ballet – Workflow automation that writes integrations against any API
 
 ## Overview
 
-Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 17 # Comments: 2
+Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 29 # Comments: 8
 
 ## Key Insights
 
