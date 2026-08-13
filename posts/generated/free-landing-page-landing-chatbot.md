@@ -2,11 +2,11 @@
 title: "Free Landing Page - Landing Chatbot"
 slug: "free-landing-page-landing-chatbot"
 author: "RAZIX DEVIL NEMESIS (Loki)"
-source: "devto_ai"
-published: "Sat, 01 Aug 2026 19:06:41 +0000"
+source: "devto_webdev"
+published: "Thu, 13 Aug 2026 18:47:35 +0000"
 description: "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Download + Deploy Save the HTML file, open in any browser, or deploy free on Netlify/..."
 keywords: "landing, free, page, chatbot, deploy, enterprise, platform, professional"
-generated: "2026-08-01T19:17:12.571795"
+generated: "2026-08-13T19:08:38.059769"
 ---
 
 # Free Landing Page - Landing Chatbot
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-1l28
+https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-e85
 
 ## Conclusion
 
