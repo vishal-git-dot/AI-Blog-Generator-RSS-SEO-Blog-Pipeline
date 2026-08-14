@@ -6492,10 +6492,10 @@
         "slug": "im-sorry-but-i-cant-help-with-that",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 14 Aug 2026 02:04:39 +0000",
+        "published": "Fri, 14 Aug 2026 18:45:25 +0000",
         "description": "",
         "keywords": "sorry, but, can, help",
-        "generated": "2026-08-14T02:22:40.711620",
+        "generated": "2026-08-14T19:00:48.693122",
         "file": "im-sorry-but-i-cant-help-with-that.md"
     },
     {
@@ -9093,6 +9093,17 @@
         "keywords": "not, tool, you, text, null, comparison, schema, which",
         "generated": "2026-07-25T08:14:00.366443",
         "file": "designing-a-comparison-schema-when-features-arent-11.md"
+    },
+    {
+        "title": "Python Data Model - Part 2: Protocols and Special Methods",
+        "slug": "python-data-model-part-2-protocols-and-special-methods",
+        "author": "Bruno Teixeira Lopes",
+        "source": "devto_python",
+        "published": "Fri, 14 Aug 2026 18:54:19 +0000",
+        "description": "🌐 Leia a versão em português deste artigo aqui . 1. From Part One to Language Protocols In Part 1 , we established the foundation of Python's data model: obj...",
+        "keywords": "python, not, foundation, software, self, vector, object, obj",
+        "generated": "2026-08-14T19:00:48.685016",
+        "file": "python-data-model-part-2-protocols-and-special-methods.md"
     },
     {
         "title": "D2C Headless Strategy for 2026 Indian Brand Growth",
@@ -12450,6 +12461,17 @@
         "file": "context-engineering-for-enterprise-ai-part-4-enterprise-ai-design-governance-cost-safety.md"
     },
     {
+        "title": "I built a RAG assistant, then found out my architecture change made it worse",
+        "slug": "i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse",
+        "author": "Youssef Elsafty",
+        "source": "devto_python",
+        "published": "Fri, 14 Aug 2026 18:50:02 +0000",
+        "description": "I built a RAG assistant, then found out my architecture change made it worse, and I'm glad it happened I recently built a hybrid RAG (retrieval-augmented gen...",
+        "keywords": "hybrid, answer, context, precision, vector, retrieval, document, query",
+        "generated": "2026-08-14T19:00:48.685544",
+        "file": "i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse.md"
+    },
+    {
         "title": "I Tested Rytr for 30 Days: Honest Review (7.9/10)",
         "slug": "i-tested-rytr-for-30-days-honest-review-7910",
         "author": "RankerToolAI",
@@ -14164,6 +14186,17 @@
         "keywords": "sentiment, defence, your, pulsebit, you, pipeline, english, can",
         "generated": "2026-06-15T12:29:05.502587",
         "file": "your-pipeline-is-283h-behind-catching-defence-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Fixed dt spike at tutorial card dismiss.",
+        "slug": "fixed-dt-spike-at-tutorial-card-dismiss",
+        "author": "Weird Codes",
+        "source": "devto_webdev",
+        "published": "Fri, 14 Aug 2026 18:44:00 +0000",
+        "description": "Devlog: Performance Fix - Tutorial Card Dismiss Commit SHA: 9e00951468a361cd1127092072208ac6b63e947d Author: pj90 (weirdcodesofficial) Date: 2026-08-14 18:21...",
+        "keywords": "tutorial, card, lasttime, spike, time, dismiss, when, game",
+        "generated": "2026-08-14T19:00:48.691001",
+        "file": "fixed-dt-spike-at-tutorial-card-dismiss.md"
     },
     {
         "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
@@ -17981,6 +18014,17 @@
         "keywords": "trading, verification, account, platform, kyc, deriv, can, financial",
         "generated": "2026-08-08T18:45:17.905902",
         "file": "kyc-verified-deriv-accounts-best-online-trading-platform.md"
+    },
+    {
+        "title": "Mastering Data Analysis with Pandas: Surviving the Titanic Dataset",
+        "slug": "mastering-data-analysis-with-pandas-surviving-the-titanic-dataset",
+        "author": "Piyush",
+        "source": "devto_python",
+        "published": "Fri, 14 Aug 2026 18:46:55 +0000",
+        "description": "Author: Piyush | Topic: Python, Data Science, Pandas Have you ever looked at a messy spreadsheet and thought, There has to be a better way to make sense of ...",
+        "keywords": "age, pclass, output, click, view, survived, sex, mean",
+        "generated": "2026-08-14T19:00:48.688610",
+        "file": "mastering-data-analysis-with-pandas-surviving-the-titanic-dataset.md"
     },
     {
         "title": "The $4,800/month API Lock-in I'd Undo: A Fractional CTO's Audit Checklist",
@@ -24665,6 +24709,17 @@
         "file": "unveiling-hidden-bugs-in-a-foo.md"
     },
     {
+        "title": "SharePoint CVE-2026-55040 Exploitation Intensifies Post-PoC Release as Crypto Sentiment Dips to 1/10",
+        "slug": "sharepoint-cve-2026-55040-exploitation-intensifies-post-poc-release-as-crypto-sentiment-dips-to-110",
+        "author": "kchour96-dev",
+        "source": "devto_ai",
+        "published": "Fri, 14 Aug 2026 18:43:57 +0000",
+        "description": "🔗 Live Dashboard: autonomous-portfolio-2026.live 📢 Telegram: t.me/AII2026futher Today's Headlines SharePoint CVE-2026-55040, a critical authentication bypass...",
+        "keywords": "sharepoint, cve, crypto, sentiment, critical, market, authentication, like",
+        "generated": "2026-08-14T19:00:48.694167",
+        "file": "sharepoint-cve-2026-55040-exploitation-intensifies-post-poc-release-as-crypto-sentiment-dips-to-110.md"
+    },
+    {
         "title": "Why I Stopped Arguing with People",
         "slug": "why-i-stopped-arguing-with-people",
         "author": "backlit4034",
@@ -24707,6 +24762,17 @@
         "keywords": "words, count, alerts, you, three, tier, lease, alert",
         "generated": "2026-07-04T19:22:30.080065",
         "file": "ai-powered-critical-date-alerts-that-save-solo-commercial-property-managers-thousands.md"
+    },
+    {
+        "title": "Show HN: Embed a real Linux terminal on your website",
+        "slug": "show-hn-embed-a-real-linux-terminal-on-your-website",
+        "author": "raboukhalil",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 18:51:27 +0000",
+        "description": "Article URL: https://sandbox.bio/training/embed Comments URL: https://news.ycombinator.com/item?id=49303027 Points: 4 # Comments: 0",
+        "keywords": "embed, url, https, comments, show, real, linux, terminal",
+        "generated": "2026-08-14T19:00:48.682463",
+        "file": "show-hn-embed-a-real-linux-terminal-on-your-website.md"
     },
     {
         "title": "I Built a VS Code Extension That Tells You Every Node.js Package's Go Equivalent",
@@ -28436,6 +28502,17 @@
         "file": "react-mastery-series-day-15-react-performance-optimization-understanding-usecallback-and-reactmemo.md"
     },
     {
+        "title": "14 Years of Enterprise ASP.NET, Part 4: Azure, Observability & AI in Real Systems",
+        "slug": "14-years-of-enterprise-aspnet-part-4-azure-observability-ai-in-real-systems",
+        "author": "kirandeepjassal-crypto",
+        "source": "devto_ai",
+        "published": "Fri, 14 Aug 2026 18:40:21 +0000",
+        "description": "Originally published at prepstack.co.in Part 4 of 4 — 14 Years of Enterprise ASP.NET (finale). Where the system actually runs: choosing Azure architecture by...",
+        "keywords": "you, net, part, enterprise, azure, system, grounded, context",
+        "generated": "2026-08-14T19:00:48.694534",
+        "file": "14-years-of-enterprise-aspnet-part-4-azure-observability-ai-in-real-systems.md"
+    },
+    {
         "title": "The Endowment",
         "slug": "the-endowment",
         "author": "thesythesis.ai",
@@ -29028,6 +29105,17 @@
         "keywords": "why, programming, captivating, yet, agonizing, url, https, news",
         "generated": "2026-07-24T13:55:42.401535",
         "file": "why-is-programming-so-captivating-yet-so-agonizing.md"
+    },
+    {
+        "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "slug": "show-hn-luacad-parametric-cad-scripted-in-lua",
+        "author": "adius",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 16:43:22 +0000",
+        "description": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a deskt...",
+        "keywords": "openscad, luacad, https, com, lua, language, all, github",
+        "generated": "2026-08-14T19:00:48.683058",
+        "file": "show-hn-luacad-parametric-cad-scripted-in-lua.md"
     },
     {
         "title": "After-Hours Call Answering Service: The 2026 Playbook for AI Receptionists: intake workflow for missed calls",
@@ -32997,6 +33085,17 @@
         "keywords": "not, virus, python, project, virues, fake, visual, effects",
         "generated": "2026-06-19T04:58:32.737118",
         "file": "not-virues-entertainment-purpose-only.md"
+    },
+    {
+        "title": "5 Important Tips to Buy Verified Zelle Accounts More Safely",
+        "slug": "5-important-tips-to-buy-verified-zelle-accounts-more-safely",
+        "author": "Amber Pierce",
+        "source": "devto_webdev",
+        "published": "Fri, 14 Aug 2026 18:46:26 +0000",
+        "description": "Zelle has become one of the most widely used peer-to-peer payment systems in the United States, integrated directly into the mobile banking apps of more than...",
+        "keywords": "zelle, you, your, bank, account, money, financial, send",
+        "generated": "2026-08-14T19:00:48.690766",
+        "file": "5-important-tips-to-buy-verified-zelle-accounts-more-safely.md"
     },
     {
         "title": "The Fall and Rise of Screwworm",
@@ -41689,6 +41788,17 @@
         "file": "tenda-firmware-multiple-versions-contains-hidden-authentication-backdoor.md"
     },
     {
+        "title": "Where to Buy Verified Zelle Accounts Online: A Complete Safety Guide",
+        "slug": "where-to-buy-verified-zelle-accounts-online-a-complete-safety-guide",
+        "author": "Amber Pierce",
+        "source": "devto_webdev",
+        "published": "Fri, 14 Aug 2026 18:37:52 +0000",
+        "description": "n the rapidly evolving landscape of digital payments, Zelle has become one of the most widely used peer-to-peer payment systems in the United States. Integra...",
+        "keywords": "zelle, your, you, bank, account, money, send, payment",
+        "generated": "2026-08-14T19:00:48.691844",
+        "file": "where-to-buy-verified-zelle-accounts-online-a-complete-safety-guide.md"
+    },
+    {
         "title": "Titouan Droguet vs Dalibor Svrcina: TENNIS Preview & Picks",
         "slug": "titouan-droguet-vs-dalibor-svrcina-tennis-preview-picks",
         "author": "James Mullinaux",
@@ -43535,6 +43645,17 @@
         "keywords": "five, tech, giants, hidden, debts, soar, opaque, funding",
         "generated": "2026-07-21T08:36:53.662024",
         "file": "five-us-tech-giants-hidden-debts-soar-to-165t-on-opaque-ai-funding.md"
+    },
+    {
+        "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+        "slug": "count-binface-receives-over-a-quarter-of-votes-in-clacton-by-election",
+        "author": "tcp_handshaker",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 16:45:49 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 224 # Comments: 135",
+        "keywords": "url, https, com, news, comments, count, binface, receives",
+        "generated": "2026-08-14T19:00:48.682818",
+        "file": "count-binface-receives-over-a-quarter-of-votes-in-clacton-by-election.md"
     },
     {
         "title": "The Mistake That Costs Most Affiliates $500/mo in Lost Commissions",
@@ -45649,14 +45770,14 @@
         "file": "artificial-intelligence-breakthroughs-latest-research-and-technological-advances.md"
     },
     {
-        "title": "𝐒𝐮𝐩𝐞𝐫𝐩𝐨𝐰𝐞𝐫𝐬 𝐏𝐥𝐮𝐠𝐢𝐧 𝐟𝐨𝐫 𝐂𝐥𝐚𝐮𝐝𝐞 𝐂𝐨𝐝𝐞: 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐚𝐧𝐝 𝐕𝐞𝐫𝐢𝐟𝐲",
+        "title": "جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود",
         "slug": "",
-        "author": "Ranjan Kumar",
-        "source": "devto_ai",
-        "published": "Wed, 12 Aug 2026 13:20:05 +0000",
-        "description": "You installed the Superpowers plugin. But which skills actually fired? And what did it cost you in tokens? Most AI engineers assume a plugin works because it...",
-        "keywords": "you, superpowers, plugin, skills, claude, cost, hook, code",
-        "generated": "2026-08-12T13:21:03.896021",
+        "author": "kouana",
+        "source": "devto_webdev",
+        "published": "Fri, 14 Aug 2026 18:50:55 +0000",
+        "description": "مرتين خلال أسابيع صار موقعنا يبدو سليمًا تمامًا ولا يستجيب للضغط. الصفحة تُحمَّل، والتصميم في مكانه، والكونسول نظيف، والزوار لا يستطيعون فتح أي رابط. في المر...",
+        "keywords": "inert, pointer, events, document, const, none, null, true",
+        "generated": "2026-08-14T19:00:48.689851",
         "file": ".md"
     },
     {
@@ -46549,6 +46670,17 @@
         "keywords": "agent, bankrupted, their, operator, scan, article, url, https",
         "generated": "2026-06-12T10:23:24.146281",
         "file": "ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42.md"
+    },
+    {
+        "title": "Modelo de Dados Python - Parte 2: Protocolos e métodos especiais",
+        "slug": "modelo-de-dados-python-parte-2-protocolos-e-mtodos-especiais",
+        "author": "Bruno Teixeira Lopes",
+        "source": "devto_python",
+        "published": "Fri, 14 Aug 2026 18:47:41 +0000",
+        "description": "🌐 Read this article in English here . 1. Da primeira parte aos protocolos da linguagem Na Parte 1 , construímos a base do modelo de dados do Python: objetos ...",
+        "keywords": "python, que, uma, software, foundation, self, para, por",
+        "generated": "2026-08-14T19:00:48.687088",
+        "file": "modelo-de-dados-python-parte-2-protocolos-e-mtodos-especiais.md"
     },
     {
         "title": "Analyzing Sports Data: Russell proud of resilience after string of problems — What the Numbers Say",
@@ -48335,10 +48467,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 14 Aug 2026 13:04:58 +0000",
+        "published": "Fri, 14 Aug 2026 18:44:20 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-14T13:17:35.139969",
+        "generated": "2026-08-14T19:00:48.693780",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -48967,6 +49099,17 @@
         "keywords": "prompt, repetition, questions, paper, model, reasoning, one, attention",
         "generated": "2026-07-07T14:49:42.585327",
         "file": "the-paper-reported-jumps-like-21-to-97-my-replication-got-2.md"
+    },
+    {
+        "title": "Maximizing the value of your Claude Code sessions",
+        "slug": "maximizing-the-value-of-your-claude-code-sessions",
+        "author": "twapi",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 16:15:21 +0000",
+        "description": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 60...",
+        "keywords": "claude, maximizing, value, your, code, sessions, url, https",
+        "generated": "2026-08-14T19:00:48.683187",
+        "file": "maximizing-the-value-of-your-claude-code-sessions.md"
     },
     {
         "title": "Changes to LLM pricing: Parasail and SiliconFlow",
@@ -51962,6 +52105,17 @@
         "file": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms.md"
     },
     {
+        "title": "Hybrid search over rubric docs: keyword, embeddings, then a rerank pass",
+        "slug": "hybrid-search-over-rubric-docs-keyword-embeddings-then-a-rerank-pass",
+        "author": "SullivanReed1247",
+        "source": "devto_python",
+        "published": "Fri, 14 Aug 2026 18:23:52 +0000",
+        "description": "Use keyword search and embeddings together, fuse the two ranked lists, and rerank what survives before any of it reaches the chat model. For a docs chatbot t...",
+        "keywords": "you, rerank, one, rubric, query, your, two, model",
+        "generated": "2026-08-14T19:00:48.689555",
+        "file": "hybrid-search-over-rubric-docs-keyword-embeddings-then-a-rerank-pass.md"
+    },
+    {
         "title": "Preview Env Email Checks With One Run ID",
         "slug": "preview-env-email-checks-with-one-run-id",
         "author": "DapperX",
@@ -51982,6 +52136,17 @@
         "keywords": "fraud, card, model, not, fuel, rules, what, tank",
         "generated": "2026-07-12T19:12:47.056102",
         "file": "your-fraud-model-doesnt-know-what-a-truck-is.md"
+    },
+    {
+        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+        "slug": "a-contract-grade-verifier-for-llm-generated-gpu-kernels",
+        "author": "Jimmc414",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 16:57:14 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2608.12700 Comments URL: https://news.ycombinator.com/item?id=49301417 Points: 11 # Comments: 0",
+        "keywords": "url, https, comments, contract, grade, verifier, llm, generated",
+        "generated": "2026-08-14T19:00:48.682674",
+        "file": "a-contract-grade-verifier-for-llm-generated-gpu-kernels.md"
     },
     {
         "title": "Unlocking Your Career Path: The Transformative Impact of Python Training in BTM on Aspiring Tech Professionals",
@@ -56153,6 +56318,17 @@
         "file": "what-every-ai-agent-builder-needs-to-know-about-state-coordination.md"
     },
     {
+        "title": "Buy Verified Zelle Accounts in 2026: Essential Tips and Considerations",
+        "slug": "buy-verified-zelle-accounts-in-2026-essential-tips-and-considerations",
+        "author": "Amber Pierce",
+        "source": "devto_webdev",
+        "published": "Fri, 14 Aug 2026 18:36:34 +0000",
+        "description": "Zelle has become a dominant force in the digital payment ecosystem, integrated directly into the mobile banking apps of more than 2,200 financial institution...",
+        "keywords": "zelle, account, bank, accounts, financial, you, money, your",
+        "generated": "2026-08-14T19:00:48.692957",
+        "file": "buy-verified-zelle-accounts-in-2026-essential-tips-and-considerations.md"
+    },
+    {
         "title": "Samsung Galaxy S22 Ultra Screen Repair in Melbourne and Greensborough",
         "slug": "samsung-galaxy-s22-ultra-screen-repair-in-melbourne-and-greensborough",
         "author": "cityphones",
@@ -57152,6 +57328,17 @@
         "keywords": "binary, data, json, property, node, move, rename, source",
         "generated": "2026-07-03T03:48:14.180110",
         "file": "n8n-move-binary-data-node-rename-copy-and-reorganize-binary-files-in-your-workflows-free-workflow-json.md"
+    },
+    {
+        "title": "Building Kisan Mitra: How I Built an Ultra-Fast Voice AI for Indian Farmers in 10 Days",
+        "slug": "building-kisan-mitra-how-i-built-an-ultra-fast-voice-ai-for-indian-farmers-in-10-days",
+        "author": "Nikhil Sharma",
+        "source": "devto_ai",
+        "published": "Fri, 14 Aug 2026 18:44:36 +0000",
+        "description": "From zero to a full-stack, multilingual agricultural voice agent with caller memory, real-time mandi tools, outbound price alert calls, human escalation, and...",
+        "keywords": "voice, indian, agent, kisan, mitra, murf, out, real",
+        "generated": "2026-08-14T19:00:48.693576",
+        "file": "building-kisan-mitra-how-i-built-an-ultra-fast-voice-ai-for-indian-farmers-in-10-days.md"
     },
     {
         "title": "Pac-Man, but you're the ghost",

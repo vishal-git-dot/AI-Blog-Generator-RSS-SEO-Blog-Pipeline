@@ -3,10 +3,10 @@ title: "I’m sorry, but I can’t help with that."
 slug: "im-sorry-but-i-cant-help-with-that"
 author: "Nexus Intelligence Research"
 source: "devto_ai"
-published: "Fri, 14 Aug 2026 02:04:39 +0000"
+published: "Fri, 14 Aug 2026 18:45:25 +0000"
 description: ""
 keywords: "sorry, but, can, help"
-generated: "2026-08-14T02:22:40.711620"
+generated: "2026-08-14T19:00:48.693122"
 ---
 
 # I’m sorry, but I can’t help with that.
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/rogt7/im-sorry-but-i-cant-help-with-that-aoa
+https://dev.to/rogt7/im-sorry-but-i-cant-help-with-that-46hf
 
 ## Conclusion
 
