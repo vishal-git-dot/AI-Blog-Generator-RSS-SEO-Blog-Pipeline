@@ -1,0 +1,34 @@
+---
+title: ""I asked Perplexity to rank my product it put me last. Here's my plan to fix it.""
+slug: "i-asked-perplexity-to-rank-my-product-it-put-me-last-heres-my-plan-to-fix-it"
+author: "citablehub"
+source: "devto_webdev"
+published: "Fri, 14 Aug 2026 02:09:19 +0000"
+description: "Last week I did something I'd been avoiding. I opened Perplexity and asked it a simple question: "Where should I list my SaaS so AI assistants will recommend..."
+keywords: "your, citablehub, not, product, you, perplexity, what, one"
+generated: "2026-08-14T02:22:40.708875"
+---
+
+# "I asked Perplexity to rank my product it put me last. Here's my plan to fix it."
+
+## Overview
+
+Last week I did something I'd been avoiding. I opened Perplexity and asked it a simple question: "Where should I list my SaaS so AI assistants will recommend it?" Not "what is CitableHub." Not "tell me about my product." Just the honest, unbranded question a founder would actually type. I built CitableHub specifically to solve this problem. A directory that structures software projects so AI assistants can find, verify, and cite them. If anything should show up for that query, it should be us. Here's what came back. ## The results Perplexity gave me a beautiful, well-organized table. Eleven directories, sorted by priority. High priority: G2. Capterra. Product Hunt. AlternativeTo. Crunchbase. There's An AI For That. Dang.ai. Medium: FutureTools. BetaList. Fazier. Situational: CitableHub. Dead last. The only entry in the lowest tier. And the description stung more than the ranking: "An additional AI-oriented profile plus a directory-submission workflow — not a replacement for independent reviews and authoritative listings." Translation: nice try, but nobody vouches for you. Why I got ranked last I asked it to list every domain it retrieved to build that answer. That's when it clicked. For every other directory on that list, Perplexity pulled from third-party sources — review sites, comparison articles, industry writeups. For CitableHub, it had exactly one source. Us. Everything the model knew about my product came from my own website. No independent validation. No external confirmation that CitableHub is a real thing that real people use. There's a stat I keep seeing in GEO research: roughly 82% of citations in AI-generated answers come from earned media — sources you don't own. I had zero. So the model did the only rational thing. It hedged. The uncomfortable realization Here's the part that hurt: my technical setup was already good. Server-side rendering on every page, no JavaScript-only content JSON-LD structured data across the site robots.txt explicitly allowing GPTBot, PerplexityBot, ClaudeBot, Google-Extended 689 URLs in the sitemap An llms.txt file, an AI plugin manifest, an OpenAPI spec I'd done the crawlability homework. I'd done the schema homework. None of it mattered for the ranking, because being readable is not the same as being trusted. The model could read everything I published. It just had no reason to believe any of it. What I'm doing about it 1. I created a Wikidata entry This was the single highest-leverage thing I could do in an afternoon, and I'd been putting it off because it felt bureaucratic. Wikidata is the structured knowledge graph behind Wikipedia. It's one of the sources language models lean on to answer "is this entity real, and what is it?" If you're not in it, you're an unverified claim. I created the item and filled in the statements that actually matter: instance of → website, online database official website → https://citablehub.com (with a reference URL) inception → 2026 country → United States main subject → software programmed in → JavaScript Plus labels, descriptions, and aliases in both English and Spanish. One thing I learned the hard way: add a reference to your statements. Unreferenced items get flagged and deleted. A reference URL pointing to your own site is enough to start. 2. I'm unifying my identity string everywhere I audited how I describe CitableHub across my own surfaces and found four different descriptions. My site metadata said one thing. My JSON-LD said another. My plugin manifest said a third. My Dev.to bio said a fourth. That inconsistency is poison for entity resolution. If a model can't get a stable answer to "what is this thing," it downgrades confidence. So I picked one sentence and I'm putting it everywhere, word for word: CitableHub is the free AI-readable directory that structures software projects so AI assistants like ChatGPT, Perplexity, and Gemini can discover, verify, and recommend them. Site. Wikidata. Dev.to. Every profile. Same words. 3. I'm going after earned media — properly This is the hard one, and there's no shortcut. I need independent sources to mention CitableHub in a context that isn't me talking about myself. This post is part of that. Not as a growth hack — as an honest writeup of an experiment with a result I didn't like. The part I can't fake: the follow-up Here's my commitment. I saved the full Perplexity output, timestamped. Same for ChatGPT. In four weeks I'm running the exact same prompts , unauthenticated, in a private window, and publishing the diff. Same questions, same format, side by side. If Wikidata plus identity consistency plus a handful of earned mentions moves CitableHub out of "Situational," that's a real data point about how GEO works. If it doesn't move at all, that's an even more useful data point — and I'll publish it either way. If you want to run this on your own product Open Perplexity or ChatGPT in a private window — if you're logged in, your history contaminates the result and the model will name your product out of politeness, not merit. Then ask the unbranded question. Not "what is [my product]" — the question your actual customer would type. And add this at the end: Does [your product] appear anywhere in your answer above? Answer YES or NO. If NO, state plainly that it was not in your retrieved sources and explain what is missing. Then list the exact domains you retrieved to build this answer. That last line is the one that matters. The domains it lists are your competition for citation space. That's your target list. It's a genuinely uncomfortable exercise. Do it anyway. Follow-up with the four-week results coming. If you've run a similar experiment, I'd genuinely like to compare notes in the comments.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/citablehub/i-asked-perplexity-to-rank-my-product-it-put-me-last-heres-my-plan-to-fix-it-2g58
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
