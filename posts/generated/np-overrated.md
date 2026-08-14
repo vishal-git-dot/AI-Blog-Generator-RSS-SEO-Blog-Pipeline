@@ -4,16 +4,16 @@ slug: "np-overrated"
 author: "theanonymousone"
 source: "hackernews"
 published: "Thu, 13 Aug 2026 20:14:17 +0000"
-description: "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 154 # Comments: 95"
+description: "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 197 # Comments: 129"
 keywords: "url, https, comments, overrated, article, gruhn, blog, news"
-generated: "2026-08-14T02:22:40.704367"
+generated: "2026-08-14T07:39:24.494032"
 ---
 
 # NP-overrated
 
 ## Overview
 
-Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 154 # Comments: 95
+Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 197 # Comments: 129
 
 ## Key Insights
 
