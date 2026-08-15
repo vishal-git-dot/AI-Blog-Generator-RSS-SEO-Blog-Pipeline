@@ -1100,6 +1100,17 @@
         "file": "golang-proposal-container-generic-collection-types.md"
     },
     {
+        "title": "Flexible PCB in Modern Electronics: Design Challenges, Industry Applications, Manufacturing Strategies, and Future Opportunities",
+        "slug": "flexible-pcb-in-modern-electronics-design-challenges-industry-applications-manufacturing-strategies-and-future-opportunities",
+        "author": "Pcb",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 12:33:13 +0000",
+        "description": "Introduction The electronics industry has experienced remarkable growth over the past few decades. Devices that once required large circuit boards and comple...",
+        "keywords": "flexible, circuits, manufacturing, systems, pcb, electronics, technology, manufacturers",
+        "generated": "2026-08-15T12:47:07.952140",
+        "file": "flexible-pcb-in-modern-electronics-design-challenges-industry-applications-manufacturing-strategies-and-future-opportunities.md"
+    },
+    {
         "title": "pip install jhansi — the SDK is live",
         "slug": "pip-install-jhansi-the-sdk-is-live",
         "author": "Arun Raghunath",
@@ -3232,6 +3243,17 @@
         "keywords": "per, mobile, online, con, giocare, gioco, giochi, senza",
         "generated": "2026-06-22T20:55:23.250736",
         "file": "mejores-casinos-online-para-jugar-desde-el-mvil.md"
+    },
+    {
+        "title": "Temperature, top-p, and sampling: controlling LLM randomness",
+        "slug": "temperature-top-p-and-sampling-controlling-llm-randomness",
+        "author": "Divyakush Punjabi",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 12:42:55 +0000",
+        "description": "Two people send an LLM the identical prompt and get different answers. The model isn't confused — it's rolling dice on purpose, and a few settings control ex...",
+        "keywords": "temperature, model, you, top, sampling, randomness, how, distribution",
+        "generated": "2026-08-15T12:47:07.953062",
+        "file": "temperature-top-p-and-sampling-controlling-llm-randomness.md"
     },
     {
         "title": "My Favorite Constant in Retrieval Is 60. Nobody Tunes It. That's the Point.",
@@ -9876,6 +9898,17 @@
         "file": "exploiting-system-management-mode-with-a-very-long-interrupt.md"
     },
     {
+        "title": "Building ShikshaBharat: How I Built an AI Voice Companion for Rural Primary Education in 10 Days",
+        "slug": "building-shikshabharat-how-i-built-an-ai-voice-companion-for-rural-primary-education-in-10-days",
+        "author": "Ishan Singh",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 12:27:47 +0000",
+        "description": "Core Agent Pipeline Setup ( backend/src/agent.py ) session = AgentSession ( stt = deepgram . STT ( model =  nova-3  , language =  multi  ), llm = google ...",
+        "keywords": "voice, murf, tts, handoff, buddy, pass, shikshabharat, agent",
+        "generated": "2026-08-15T12:47:07.949076",
+        "file": "building-shikshabharat-how-i-built-an-ai-voice-companion-for-rural-primary-education-in-10-days.md"
+    },
+    {
         "title": "What sort of maths are LLMs good at?",
         "slug": "what-sort-of-maths-are-llms-good-at",
         "author": "ColinWright",
@@ -12626,6 +12659,17 @@
         "file": "i-wish-id-found-deepseek-v4-flash-sooner-a-backend-breakdown.md"
     },
     {
+        "title": "Navigating Floods Without Data: Building Sentinel Voice Agent in 10 Days",
+        "slug": "navigating-floods-without-data-building-sentinel-voice-agent-in-10-days",
+        "author": "Subhangi Dutta",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 12:21:54 +0000",
+        "description": "It was during the peak monsoon season when I read a distress report from a family stranded on their rooftop. Power was flickering, rain was hammering against...",
+        "keywords": "sentinel, voice, caller, agent, time, shelter, emergency, murf",
+        "generated": "2026-08-15T12:47:07.950660",
+        "file": "navigating-floods-without-data-building-sentinel-voice-agent-in-10-days.md"
+    },
+    {
         "title": "How to Set PowerPoint Slide Backgrounds in Python",
         "slug": "how-to-set-powerpoint-slide-backgrounds-in-python",
         "author": "Allen Yang",
@@ -12690,6 +12734,17 @@
         "keywords": "fonts, der, ich, und, google, dsgvo, die, habe",
         "generated": "2026-06-11T10:47:52.348859",
         "file": "kostenloser-dsgvo-scanner-fr-eure-website-73-der-getesteten-de-domains-hatten-verste.md"
+    },
+    {
+        "title": "The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating",
+        "slug": "the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating",
+        "author": "ANIRUDDHA ADAK",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 12:40:11 +0000",
+        "description": "The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating Or: what happens when your IDE becomes less of a text editor and more of a t...",
+        "keywords": "your, agent, you, one, agents, coding, code, test",
+        "generated": "2026-08-15T12:47:07.951305",
+        "file": "the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating.md"
     },
     {
         "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
@@ -15332,6 +15387,17 @@
         "file": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents.md"
     },
     {
+        "title": "LowPriority: Letting a local LLM decide when your background jobs run",
+        "slug": "lowpriority-letting-a-local-llm-decide-when-your-background-jobs-run",
+        "author": "Harish Kotra (he/him)",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 12:35:37 +0000",
+        "description": "A technical deep-dive into an on-device, policy-gated AI scheduler. Target audience: developers. We're going to walk through the actual architecture, the dec...",
+        "keywords": "self, job, none, model, policy, def, snapshot, agent",
+        "generated": "2026-08-15T12:47:07.954729",
+        "file": "lowpriority-letting-a-local-llm-decide-when-your-background-jobs-run.md"
+    },
+    {
         "title": "OpenTTD 16.0-Beta1",
         "slug": "openttd-160-beta1",
         "author": "untilted",
@@ -16487,6 +16553,17 @@
         "file": "openai-unveils-its-first-custom-chip-built-by-broadcom.md"
     },
     {
+        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+        "slug": "auto-research-with-codex-how-i-achieved-a-232x-faster-kernel",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 15 Aug 2026 11:00:02 +0000",
+        "description": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 41 # Comments: 7",
+        "keywords": "url, https, comments, auto, research, codex, how, achieved",
+        "generated": "2026-08-15T12:47:07.947609",
+        "file": "auto-research-with-codex-how-i-achieved-a-232x-faster-kernel.md"
+    },
+    {
         "title": "CarLog 1.1 — full history for one vehicle",
         "slug": "carlog-11-full-history-for-one-vehicle",
         "author": "SybilGambleyyu",
@@ -16771,6 +16848,17 @@
         "keywords": "pytest, tests, test, you, def, your, assert, not",
         "generated": "2026-08-13T02:24:39.926486",
         "file": "mastering-pytest-write-reliable-tests-for-your-python-projects.md"
+    },
+    {
+        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+        "slug": "using-gccs-nested-functions-with-wide-pointers-and-no-trampolines-ii",
+        "author": "uecker",
+        "source": "hackernews",
+        "published": "Sat, 15 Aug 2026 07:59:42 +0000",
+        "description": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 34 # Comments: 14",
+        "keywords": "url, https, comments, using, gcc, nested, functions, wide",
+        "generated": "2026-08-15T12:47:07.947908",
+        "file": "using-gccs-nested-functions-with-wide-pointers-and-no-trampolines-ii.md"
     },
     {
         "title": "I Tracked Every Metric for 30 Days Running AI Agents — Here's What I Found",
@@ -25006,6 +25094,17 @@
         "file": "an-evening-with-ilugc-indian-linux-users-group-chennai-in-august.md"
     },
     {
+        "title": "Vector databases: how semantic search scales",
+        "slug": "vector-databases-how-semantic-search-scales",
+        "author": "Divyakush Punjabi",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 12:37:23 +0000",
+        "description": "You've embedded a million documents into vectors. Now a query comes in and you need the closest handful — in milliseconds. Checking all million one by one is...",
+        "keywords": "vectors, vector, you, search, closest, need, database, one",
+        "generated": "2026-08-15T12:47:07.953764",
+        "file": "vector-databases-how-semantic-search-scales.md"
+    },
+    {
         "title": "The text-to-SQL demo takes an afternoon. The other 90% is why you should buy it.",
         "slug": "the-text-to-sql-demo-takes-an-afternoon-the-other-90-is-why-you-should-buy-it",
         "author": "Omer Hochman",
@@ -26771,9 +26870,9 @@
         "author": "chatchan",
         "source": "hackernews",
         "published": "Sat, 15 Aug 2026 04:42:07 +0000",
-        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 5 # Comments: 0",
+        "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 53 # Comments: 14",
         "keywords": "thoughtdag, url, https, comments, show, editable, context, graph",
-        "generated": "2026-08-15T06:47:15.227915",
+        "generated": "2026-08-15T12:47:07.948164",
         "file": "show-hn-thoughtdag-an-editable-context-graph-for-llm-conversations.md"
     },
     {
@@ -28931,6 +29030,17 @@
         "file": "building-your-audit-trail-how-ai-ensures-accuracy-and-creates-verifiable-records.md"
     },
     {
+        "title": "Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data",
+        "slug": "private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data",
+        "author": "Chen Yuan",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 12:23:41 +0000",
+        "description": "In 2009, Craig Gentry proved that it is possible to compute on encrypted data without ever decrypting it, and the result was widely treated as a theoretical ...",
+        "keywords": "encrypted, data, model, not, noise, inference, ckks, server",
+        "generated": "2026-08-15T12:47:07.949998",
+        "file": "private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data.md"
+    },
+    {
         "title": "I built a smoke detector for AI agent wallets",
         "slug": "i-built-a-smoke-detector-for-ai-agent-wallets",
         "author": "Tyler",
@@ -29622,6 +29732,17 @@
         "keywords": "accounts, available, yahoo, aged, buysmmservice, old, email, within",
         "generated": "2026-07-03T14:21:09.821280",
         "file": "top-75-ways-to-buy-old-yahoo-email-accounts-pva-aged.md"
+    },
+    {
+        "title": "Tone Generator — Free Online Tool",
+        "slug": "tone-generator-free-online-tool",
+        "author": "BAOMING",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 12:32:05 +0000",
+        "description": "tags: webdev, programming, tutorial, productivity canonical: https://tools.scoreroute.com/tools/tone-generator/ Tone Generator — Free Online Tool Quick Answe...",
+        "keywords": "tone, generator, free, tool, audio, sound, tools, browser",
+        "generated": "2026-08-15T12:47:07.952388",
+        "file": "tone-generator-free-online-tool.md"
     },
     {
         "title": "Build an AI Adventure Game in Python",
@@ -33736,6 +33857,17 @@
         "file": "the-original-url-for-this-prediction-will-no-longer-be-available-in-11-years-2011.md"
     },
     {
+        "title": "How to Use NeuronWriter for Semantic Keyword Inclusion in 2026",
+        "slug": "how-to-use-neuronwriter-for-semantic-keyword-inclusion-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 12:34:53 +0000",
+        "description": "Originally published at https://seointent.com/blog/neuronwriter-for-semantic-keyword-inclusion TL;DR - Neuronwriter for semantic keyword inclusion works best...",
+        "keywords": "semantic, neuronwriter, you, content, terms, keyword, your, how",
+        "generated": "2026-08-15T12:47:07.955872",
+        "file": "how-to-use-neuronwriter-for-semantic-keyword-inclusion-in-2026.md"
+    },
+    {
         "title": "Write a Reddit post: Why FLAT might be the best risk-adjusted bet in DeFi",
         "slug": "write-a-reddit-post-why-flat-might-be-the-best-risk-adjusted-bet-in-defi",
         "author": "flat cash",
@@ -34636,6 +34768,17 @@
         "keywords": "pdf, image, url, message, provider, openai, adapter, application",
         "generated": "2026-07-27T19:42:31.391224",
         "file": "how-to-send-images-and-pdfs-to-openai-claude-and-gemini-apis-using-the-same-python-code.md"
+    },
+    {
+        "title": "Debian has begun voting on the future of AI/LLM contributions",
+        "slug": "debian-has-begun-voting-on-the-future-of-aillm-contributions",
+        "author": "matheusmoreira",
+        "source": "hackernews",
+        "published": "Sat, 15 Aug 2026 09:20:07 +0000",
+        "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 39 # Co...",
+        "keywords": "debian, url, https, comments, has, begun, voting, future",
+        "generated": "2026-08-15T12:47:07.947779",
+        "file": "debian-has-begun-voting-on-the-future-of-aillm-contributions.md"
     },
     {
         "title": "How to get US inflation data by API — CPI since 1913 (2026 guide)",
@@ -37535,10 +37678,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sat, 15 Aug 2026 01:10:39 +0000",
+        "published": "Sat, 15 Aug 2026 12:16:31 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-15T01:34:58.728070",
+        "generated": "2026-08-15T12:47:07.950887",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -38706,6 +38849,17 @@
         "keywords": "benchmark, agent, agentguard, github, security, scanner, semgrep, codeql",
         "generated": "2026-07-05T03:58:51.638388",
         "file": "i-built-an-ai-agent-security-scanner-semgrep-and-codeql-detect-0-percent-of-these-attacks.md"
+    },
+    {
+        "title": "How to Build an AI Coding Assistant With Python",
+        "slug": "how-to-build-an-ai-coding-assistant-with-python",
+        "author": "Nazmus Sakib",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 12:41:37 +0000",
+        "description": "Imagine having your own AI coding assistant that can explain errors, generate code, answer programming questions, and help you work through difficult develop...",
+        "keywords": "assistant, your, code, you, can, python, coding, create",
+        "generated": "2026-08-15T12:47:07.948762",
+        "file": "how-to-build-an-ai-coding-assistant-with-python.md"
     },
     {
         "title": "Why Better Potato Harvests Always Begin with Better Seeds",
@@ -46566,10 +46720,10 @@
         "slug": "free-landing-page-landing-chatbot",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_webdev",
-        "published": "Sat, 15 Aug 2026 01:11:01 +0000",
+        "published": "Sat, 15 Aug 2026 12:26:51 +0000",
         "description": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Download + Deploy Save the HTML file, open in any browser, or deploy free on Netlify/...",
         "keywords": "landing, free, page, chatbot, deploy, enterprise, platform, professional",
-        "generated": "2026-08-15T01:34:58.729911",
+        "generated": "2026-08-15T12:47:07.952703",
         "file": "free-landing-page-landing-chatbot.md"
     },
     {
@@ -46758,6 +46912,17 @@
         "keywords": "time, sports, messi, golden, boot, real, mbappe, leads",
         "generated": "2026-07-20T03:39:19.782895",
         "file": "how-i-built-a-real-time-sports-stats-tracker-over-to-you-messi-mbappe-leads-golden-boot-race-for-the-ages.md"
+    },
+    {
+        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "slug": "suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+        "author": "jnord",
+        "source": "hackernews",
+        "published": "Sat, 15 Aug 2026 07:31:46 +0000",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https...",
+        "keywords": "suspecting, court, using, man, injected, prompts, filings, try",
+        "generated": "2026-08-15T12:47:07.948041",
+        "file": "suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case.md"
     },
     {
         "title": "prefers-reduced-motion in React: 5 production patterns beyond duration: 0",
@@ -50882,6 +51047,17 @@
         "keywords": "data, job, loss, can, month, plt, trends, date",
         "generated": "2026-07-24T13:55:42.401999",
         "file": "how-i-built-a-python-workflow-for-joblossanalyzer.md"
+    },
+    {
+        "title": "Streamline Your Institute with Advanced Coaching & RSCIT Management Software",
+        "slug": "streamline-your-institute-with-advanced-coaching-rscit-management-software",
+        "author": "Rynoex",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 12:30:30 +0000",
+        "description": "Streamline Your Institute with Advanced Coaching & RSCIT Management Software Discover how coaching institutes and RSCIT centers can automate daily operations...",
+        "keywords": "coaching, rscit, management, software, streamline, your, institute, advanced",
+        "generated": "2026-08-15T12:47:07.952537",
+        "file": "streamline-your-institute-with-advanced-coaching-rscit-management-software.md"
     },
     {
         "title": "AI vs. BI in commercial property management: what each does, where they overlap, and why property teams need both.",
@@ -55095,6 +55271,17 @@
         "keywords": "glm, url, https, comments, frontier, coding, emergent, cyber",
         "generated": "2026-08-14T13:17:35.133842",
         "file": "glm-53-frontier-coding-with-emergent-cyber-capabilities.md"
+    },
+    {
+        "title": "BizNode's self-healing watchdog auto-restarts crashed services. Zero downtime, zero babysitting needed",
+        "slug": "biznodes-self-healing-watchdog-auto-restarts-crashed-services-zero-downtime-zero-babysitting-needed",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 12:37:27 +0000",
+        "description": "Stop babysitting your servers and embrace true autonomy with BizNode's self-healing watchdog that automatically restarts crashed services. Zero downtime mean...",
+        "keywords": "your, biznode, zero, https, biz, without, every, self",
+        "generated": "2026-08-15T12:47:07.953435",
+        "file": "biznodes-self-healing-watchdog-auto-restarts-crashed-services-zero-downtime-zero-babysitting-needed.md"
     },
     {
         "title": "Facebook Multi-Account Browser: Are Browser Profiles Enough?",
