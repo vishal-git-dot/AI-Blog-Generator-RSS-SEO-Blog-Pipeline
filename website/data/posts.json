@@ -1386,6 +1386,17 @@
         "file": "system-design-series-3-a-simple-framework-for-designing-scalable-systems.md"
     },
     {
+        "title": "Grok 4.6 vs 4.5: Migrate Long-Running Agents by Accepted-Task Cost",
+        "slug": "grok-46-vs-45-migrate-long-running-agents-by-accepted-task-cost",
+        "author": "Ahab",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 01:18:52 +0000",
+        "description": "Grok 4.6 vs 4.5: migrate long-running agents by accepted-task economics Quick answer SpaceXAI released grok-4.6 on August 12, 2026 as its new flagship for co...",
+        "keywords": "grok, task, input, output, model, long, spacexai, not",
+        "generated": "2026-08-15T01:34:58.732386",
+        "file": "grok-46-vs-45-migrate-long-running-agents-by-accepted-task-cost.md"
+    },
+    {
         "title": "A full body MRI earns you a year of smoking",
         "slug": "a-full-body-mri-earns-you-a-year-of-smoking",
         "author": "ibobev",
@@ -7412,6 +7423,17 @@
         "file": "serving-cheap-when-two-models-agree-a-measured-cost-lever.md"
     },
     {
+        "title": "Changes to LLM pricing: GMICloud",
+        "slug": "changes-to-llm-pricing-gmicloud",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 01:18:08 +0000",
+        "description": "Model price changes detected for GMICloud. Details below.",
+        "keywords": "changes, gmicloud, llm, pricing, model, price, detected, details",
+        "generated": "2026-08-15T01:34:58.732485",
+        "file": "changes-to-llm-pricing-gmicloud.md"
+    },
+    {
         "title": "Top AI tools and tips",
         "slug": "top-ai-tools-and-tips",
         "author": "NIRA Synth",
@@ -10316,6 +10338,17 @@
         "file": "ai-automation-workflow.md"
     },
     {
+        "title": "Stop sending me huge PRs; a rant",
+        "slug": "stop-sending-me-huge-prs-a-rant",
+        "author": "trezm",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 22:48:15 +0000",
+        "description": "Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va Comments URL: https://news.ycombinator.com/item?id=49305558 Points: 55 # Comments: 35",
+        "keywords": "url, https, comments, stop, sending, huge, prs, rant",
+        "generated": "2026-08-15T01:34:58.727513",
+        "file": "stop-sending-me-huge-prs-a-rant.md"
+    },
+    {
         "title": "I Built Vidoro — A Browser-First Toolkit for Video Compression and Media Conversion",
         "slug": "i-built-vidoro-a-browser-first-toolkit-for-video-compression-and-media-conversion",
         "author": "高赫阳",
@@ -13108,6 +13141,17 @@
         "keywords": "software, build, what, built, dev, studio, not, two",
         "generated": "2026-07-10T09:45:24.782942",
         "file": "we-were-tired-of-watching-bad-software-get-shipped-anyway-so-we-built-ma-dev-studio.md"
+    },
+    {
+        "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+        "slug": "jane-street-suffers-15b-hit-after-meltdown-at-situational-awareness",
+        "author": "bobstax",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 23:40:37 +0000",
+        "description": "Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697 Comments URL: https://news.ycombinator.com/item?id=49305927 Points: 77 # Comment...",
+        "keywords": "url, https, com, comments, jane, street, suffers, hit",
+        "generated": "2026-08-15T01:34:58.727231",
+        "file": "jane-street-suffers-15b-hit-after-meltdown-at-situational-awareness.md"
     },
     {
         "title": "Learn Configuration Precedence With Empty, Missing, and Invalid Values",
@@ -17136,6 +17180,17 @@
         "file": "buy-old-verified-paypal-accounts-100-phone-ssn-verified.md"
     },
     {
+        "title": "eigendrum",
+        "slug": "eigendrum",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 22:15:12 +0000",
+        "description": "Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 23 # Comments: 2",
+        "keywords": "eigendrum, url, https, com, comments, article, circle, news",
+        "generated": "2026-08-15T01:34:58.727702",
+        "file": "eigendrum.md"
+    },
+    {
         "title": "Some AI Systems Differentially Downplay Their Creators' Controversies",
         "slug": "some-ai-systems-differentially-downplay-their-creators-controversies",
         "author": "tech_minimalist",
@@ -21063,6 +21118,17 @@
         "file": "claude-design-system-prompt.md"
     },
     {
+        "title": "LinkedIn Scraper API: How to Enrich B2B Leads Without Manual Research",
+        "slug": "linkedin-scraper-api-how-to-enrich-b2b-leads-without-manual-research",
+        "author": "coreclaw",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 01:04:04 +0000",
+        "description": "LinkedIn Scraper API: How to Enrich B2B Leads Without Manual Research A LinkedIn scraper API lets you turn public professional profiles and company pages int...",
+        "keywords": "data, linkedin, api, public, you, your, json, company",
+        "generated": "2026-08-15T01:34:58.729420",
+        "file": "linkedin-scraper-api-how-to-enrich-b2b-leads-without-manual-research.md"
+    },
+    {
         "title": "crustc: entirety of `rustc`, translated to C",
         "slug": "crustc-entirety-of-rustc-translated-to-c",
         "author": "Philpax",
@@ -22414,6 +22480,17 @@
         "keywords": "albania, not, sale, resort, triggers, flamingo, revolution, url",
         "generated": "2026-06-09T15:18:05.197557",
         "file": "albania-is-not-for-sale-kushners-4b-resort-triggersflamingo-revolution.md"
+    },
+    {
+        "title": "LIMIT 20 is not a sampling strategy",
+        "slug": "limit-20-is-not-a-sampling-strategy",
+        "author": "Mads Hansen",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 01:21:47 +0000",
+        "description": "“Show me twenty examples” sounds harmless. The generated SQL adds LIMIT 20 without a stable order. The database returns whichever rows happen to arrive first...",
+        "keywords": "sampling, limit, use, not, stable, sample, cases, examples",
+        "generated": "2026-08-15T01:34:58.731741",
+        "file": "limit-20-is-not-a-sampling-strategy.md"
     },
     {
         "title": "Your AI Agent Needs a Memory: Using Memory Sidecar for Persistent Context Across Sessions",
@@ -32966,6 +33043,17 @@
         "file": "eu-exempts-apple-watch-and-airpods-from-battery-removal-requirements.md"
     },
     {
+        "title": "I couldn't find a tool that lets agents verify what they're buying. So I built it.",
+        "slug": "i-couldnt-find-a-tool-that-lets-agents-verify-what-theyre-buying-so-i-built-it",
+        "author": "FieldmodeLLC",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 01:12:39 +0000",
+        "description": "I built ScrapeCheck because as someone who has been in the crypto industry for over 9 years, I know how important it is for information to be public, like th...",
+        "keywords": "one, what, page, scrapecheck, you, agent, check, agents",
+        "generated": "2026-08-15T01:34:58.729758",
+        "file": "i-couldnt-find-a-tool-that-lets-agents-verify-what-theyre-buying-so-i-built-it.md"
+    },
+    {
         "title": "Cookie Banner Stripper: Clean HTML for Scrapers",
         "slug": "cookie-banner-stripper-clean-html-for-scrapers",
         "author": "ItsEvilDuck",
@@ -33118,6 +33206,17 @@
         "keywords": "nebius, endpoint, job, one, create, storage, account, serverless",
         "generated": "2026-06-24T19:54:11.168580",
         "file": "building-a-grounded-llm-planner-for-swim-trainings-on-nebius-serverless.md"
+    },
+    {
+        "title": "RISC-V: They should have known better",
+        "slug": "risc-v-they-should-have-known-better",
+        "author": "kaycebasques",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 22:38:34 +0000",
+        "description": "Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV Comments URL: https://news.ycombinator.com/item?id=49305492 Points: 112 # Comments: 64",
+        "keywords": "url, https, comments, risc, they, should, have, known",
+        "generated": "2026-08-15T01:34:58.727612",
+        "file": "risc-v-they-should-have-known-better.md"
     },
     {
         "title": "Nox Metals (YC S25) Is Hiring SWE",
@@ -35221,6 +35320,17 @@
         "file": "agent-sentry-a-400-line-local-sidecar-that-watches-what-your-ai-coding-agent-is-about-to-do.md"
     },
     {
+        "title": "Three correct database queries can produce one contradictory AI answer",
+        "slug": "three-correct-database-queries-can-produce-one-contradictory-ai-answer",
+        "author": "Mads Hansen",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 01:21:36 +0000",
+        "description": "An AI assistant asks the database three reasonable questions: how many incidents are open? which services are affected? which incidents are oldest? While tho...",
+        "keywords": "one, transaction, snapshot, database, can, not, three, correct",
+        "generated": "2026-08-15T01:34:58.731917",
+        "file": "three-correct-database-queries-can-produce-one-contradictory-ai-answer.md"
+    },
+    {
         "title": "MCP Explained, the Protocol That Stopped Me From Writing the Same Integration Twenty Times",
         "slug": "mcp-explained-the-protocol-that-stopped-me-from-writing-the-same-integration-twenty-times",
         "author": "Syed Muhammad Ali Raza",
@@ -37315,10 +37425,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Thu, 13 Aug 2026 18:37:17 +0000",
+        "published": "Sat, 15 Aug 2026 01:10:39 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-13T19:08:38.057884",
+        "generated": "2026-08-15T01:34:58.728070",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -45935,6 +46045,17 @@
         "file": "unlock-lightning-fast-performance-the-ultimate-amd-strix-halo-rdma-cluster-setup-guide-for-maximum-speed-and-efficiency.md"
     },
     {
+        "title": "Regression Testing LLM Memory Storage with pytest & Redis to Prevent Multi-turn Context Loss",
+        "slug": "regression-testing-llm-memory-storage-with-pytest-redis-to-prevent-multi-turn-context-loss",
+        "author": "BAOFUFAN",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 01:05:51 +0000",
+        "description": "The original article body was not provided. Please paste the full Chinese article content so I can translate it into natural English for the Dev.to community.",
+        "keywords": "article, regression, testing, llm, memory, storage, pytest, redis",
+        "generated": "2026-08-15T01:34:58.728661",
+        "file": "regression-testing-llm-memory-storage-with-pytest-redis-to-prevent-multi-turn-context-loss.md"
+    },
+    {
         "title": "Federal judge blocks H1B visa $100K fee",
         "slug": "federal-judge-blocks-h1b-visa-100k-fee",
         "author": "naturalmovement",
@@ -46298,14 +46419,25 @@
         "file": "need-1300-in-trading-liquidity-without-selling-your-altcoins.md"
     },
     {
+        "title": "**SuiteDash Review: Streamline All Your Business Operations – My Detailed Hands-On Experience**",
+        "slug": "suitedash-review-streamline-all-your-business-operations-my-detailed-hands-on-experience",
+        "author": "Al Beruni",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 01:05:25 +0000",
+        "description": "As a freelance digital marketer and small business consultant based in Rajshahi, Bangladesh, I constantly juggle multiple tools for client communication, pro...",
+        "keywords": "suitedash, portals, client, project, tools, invoicing, white, more",
+        "generated": "2026-08-15T01:34:58.731184",
+        "file": "suitedash-review-streamline-all-your-business-operations-my-detailed-hands-on-experience.md"
+    },
+    {
         "title": "Free Landing Page - Landing Chatbot",
         "slug": "free-landing-page-landing-chatbot",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_webdev",
-        "published": "Thu, 13 Aug 2026 18:47:35 +0000",
+        "published": "Sat, 15 Aug 2026 01:11:01 +0000",
         "description": "Landing Page Enterprise AI chatbot platform. Professional, ROI-focused. Download + Deploy Save the HTML file, open in any browser, or deploy free on Netlify/...",
         "keywords": "landing, free, page, chatbot, deploy, enterprise, platform, professional",
-        "generated": "2026-08-13T19:08:38.059769",
+        "generated": "2026-08-15T01:34:58.729911",
         "file": "free-landing-page-landing-chatbot.md"
     },
     {
@@ -48067,6 +48199,17 @@
         "file": "why-storing-a-traces-establishment-code-as-a-static-field-is-a-data-modelling-bug.md"
     },
     {
+        "title": "Kinetic Publishing's Upcoming…",
+        "slug": "kinetic-publishings-upcoming",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 01:06:04 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore Kinetic Publishing's five new games and their impact on tech development in the gaming industry. In-...",
+        "keywords": "development, game, kinetic, player, indie, feedback, games, agile",
+        "generated": "2026-08-15T01:34:58.730673",
+        "file": "kinetic-publishings-upcoming.md"
+    },
+    {
         "title": "The title cards in Blade Runner are amazing",
         "slug": "the-title-cards-in-blade-runner-are-amazing",
         "author": "ExMachina73",
@@ -48956,6 +49099,17 @@
         "keywords": "letter, job, description, cover, posting, you, real, your",
         "generated": "2026-07-05T03:58:51.639340",
         "file": "i-built-a-cover-letter-generator-that-mirrors-the-actual-job-posting.md"
+    },
+    {
+        "title": "The free plan wasn't actually no registration required — fixing a landing page claim that contradicted itself",
+        "slug": "the-free-plan-wasnt-actually-no-registration-required-fixing-a-landing-page-claim-that-contradicted-itself",
+        "author": "Susumu Takahashi",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 01:06:21 +0000",
+        "description": "Background An external marketing review flagged what looked like a contradiction in our landing page's FAQ. Checking it against the actual code confirmed the...",
+        "keywords": "free, registration, required, email, page, plan, landing, what",
+        "generated": "2026-08-15T01:34:58.728518",
+        "file": "the-free-plan-wasnt-actually-no-registration-required-fixing-a-landing-page-claim-that-contradicted-itself.md"
     },
     {
         "title": "FROST 深度：为什么 AI Agent 需要「家族谱系」？",
@@ -52380,6 +52534,17 @@
         "file": "monitorear-agentes-de-ia-con-cloudwatch.md"
     },
     {
+        "title": "Reading a GitHub Copilot Release Roundup Without Overclaiming",
+        "slug": "reading-a-github-copilot-release-roundup-without-overclaiming",
+        "author": "TuanPK Builds",
+        "source": "devto_python",
+        "published": "Sat, 15 Aug 2026 01:13:44 +0000",
+        "description": "Reading a GitHub Copilot Release Roundup Without Overclaiming GitHub has published an official Copilot weekly releases roundup for August 10. That makes the ...",
+        "keywords": "github, copilot, release, roundup, without, official, changelog, reading",
+        "generated": "2026-08-15T01:34:58.727873",
+        "file": "reading-a-github-copilot-release-roundup-without-overclaiming.md"
+    },
+    {
         "title": "Cómo corrijo 30 exámenes en 20 minutos con IA (y lo que sigo haciendo yo)",
         "slug": "cmo-corrijo-30-exmenes-en-20-minutos-con-ia-y-lo-que-sigo-haciendo-yo",
         "author": "David García",
@@ -52510,6 +52675,17 @@
         "keywords": "tools, python, code, obfuscation, you, developers, ctos, tech",
         "generated": "2026-06-16T05:04:00.736863",
         "file": "python-code-obfuscation-tools-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "The case for overhauling American science",
+        "slug": "the-case-for-overhauling-american-science",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Fri, 14 Aug 2026 23:11:34 +0000",
+        "description": "Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "case, overhauling, american, science, url, https, com, comments",
+        "generated": "2026-08-15T01:34:58.727401",
+        "file": "the-case-for-overhauling-american-science.md"
     },
     {
         "title": "How to edit a DOCX on a Chromebook (without installing Word)",
@@ -53148,6 +53324,17 @@
         "keywords": "fire, smoke, detection, systems, system, manufacturing, safety, cctv",
         "generated": "2026-07-14T08:17:51.112941",
         "file": "how-ai-fire-and-smoke-detection-systems-protect-manufacturing-facilities.md"
+    },
+    {
+        "title": "A URL Can Be the Starting Point for Your Next Web Page Revision",
+        "slug": "a-url-can-be-the-starting-point-for-your-next-web-page-revision",
+        "author": "HtmlDrag",
+        "source": "devto_ai",
+        "published": "Sat, 15 Aug 2026 01:32:09 +0000",
+        "description": "A useful webpage can be right in front of you while the original HTML file is nowhere to be found. That does not automatically mean the page needs to be rebu...",
+        "keywords": "page, url, copy, can, you, html, not, working",
+        "generated": "2026-08-15T01:34:58.731565",
+        "file": "a-url-can-be-the-starting-point-for-your-next-web-page-revision.md"
     },
     {
         "title": "Incident Sentinel: An SRE Copilot That Investigates SigNoz Alerts — and Observes Itself",
@@ -54138,6 +54325,17 @@
         "keywords": "source, robot, first, model, has, arxiv, its, rmb",
         "generated": "2026-08-03T14:51:29.676456",
         "file": "futurex-physical-ai-daily-issue-78-0804.md"
+    },
+    {
+        "title": "Firefox Is Now the Last Major Browser Standing for Ad Blocking — Here's Why That Matters",
+        "slug": "firefox-is-now-the-last-major-browser-standing-for-ad-blocking-heres-why-that-matters",
+        "author": "Charles",
+        "source": "devto_webdev",
+        "published": "Sat, 15 Aug 2026 01:06:25 +0000",
+        "description": "Firefox Is Now the Last Major Browser Standing for Ad Blocking — Here's Why That Matters If you care about ad blocking, your options just narrowed to one bro...",
+        "keywords": "browser, ublock, origin, firefox, you, blocking, api, extension",
+        "generated": "2026-08-15T01:34:58.730277",
+        "file": "firefox-is-now-the-last-major-browser-standing-for-ad-blocking-heres-why-that-matters.md"
     },
     {
         "title": "Why SQLite FTS5's default tokenizer drops your Japanese substrings (and the one-line fix)",
