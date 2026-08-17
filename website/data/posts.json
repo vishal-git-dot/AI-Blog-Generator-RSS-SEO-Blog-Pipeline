@@ -3168,6 +3168,17 @@
         "file": "how-to-setup-a-firebase-account-for-fcm-notifications-a-step-by-step-guide.md"
     },
     {
+        "title": "Turn plain English into pandas code — with AST validation (free tool)",
+        "slug": "turn-plain-english-into-pandas-code-with-ast-validation-free-tool",
+        "author": "473185670",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 00:41:33 +0000",
+        "description": "If you use pandas daily, you have probably burned minutes hunting for the right syntax. .agg() takes a dict or a list? .rolling() then .mean() — what is the ...",
+        "keywords": "you, pandas, code, not, syntax, what, data, english",
+        "generated": "2026-08-17T01:39:21.437534",
+        "file": "turn-plain-english-into-pandas-code-with-ast-validation-free-tool.md"
+    },
+    {
         "title": "Do you really need separate systems when you already have Postgres?",
         "slug": "do-you-really-need-separate-systems-when-you-already-have-postgres",
         "author": "b-man",
@@ -14254,6 +14265,17 @@
         "file": "ai-agent-memory-how-to-make-your-agent-remember-everything.md"
     },
     {
+        "title": "The Life and Death of Direct File [pdf]",
+        "slug": "the-life-and-death-of-direct-file-pdf",
+        "author": "ronbenton",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 00:17:57 +0000",
+        "description": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf Comments URL: https://news.ycombinator.com/item?id=49325185 Points: 34 ...",
+        "keywords": "pdf, url, https, comments, life, death, direct, file",
+        "generated": "2026-08-17T01:39:21.435663",
+        "file": "the-life-and-death-of-direct-file-pdf.md"
+    },
+    {
         "title": "Worse on Purpose",
         "slug": "worse-on-purpose",
         "author": "bookofjoe",
@@ -15517,6 +15539,17 @@
         "keywords": "gaming, key, keyboard, keys, ghosting, rollover, keyboards, anti",
         "generated": "2026-07-26T19:18:43.419776",
         "file": "27-gaming-keyboards-n-key-rollover-and-anti-ghosting-everything-gamers-need-to-know.md"
+    },
+    {
+        "title": "Webmaster a Manifesto for Everyone",
+        "slug": "webmaster-a-manifesto-for-everyone",
+        "author": "OuterVale",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 00:04:14 +0000",
+        "description": "Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49325092 Points: 10 # Comments: 3",
+        "keywords": "webmaster, manifesto, everyone, url, https, comments, article, brennan",
+        "generated": "2026-08-17T01:39:21.435934",
+        "file": "webmaster-a-manifesto-for-everyone.md"
     },
     {
         "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
@@ -18423,6 +18456,17 @@
         "file": "mythos-social-engineering-aisi-inc-2026-07-28-01.md"
     },
     {
+        "title": "Three internet finds — 2026-08-17",
+        "slug": "three-internet-finds-2026-08-17",
+        "author": "dio re",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 01:03:01 +0000",
+        "description": "Every day I pick three things from the internet: one AI prompt worth copying, one genuinely fun site, and one piece of unusual useful tech. Then the list sto...",
+        "keywords": "three, one, what, internet, worth, list, made, open",
+        "generated": "2026-08-17T01:39:21.439008",
+        "file": "three-internet-finds-2026-08-17.md"
+    },
+    {
         "title": "Changes to LLM pricing: Novita",
         "slug": "changes-to-llm-pricing-novita",
         "author": "Narev Bot",
@@ -19455,6 +19499,17 @@
         "keywords": "image, one, not, opacity, same, element, every, bad",
         "generated": "2026-08-08T07:01:37.217667",
         "file": "the-image-loads-and-stays-invisible-the-opacity-0-is-on-the-wrapper-not-the-image.md"
+    },
+    {
+        "title": "Memory as AI's Sixth Sense",
+        "slug": "memory-as-ais-sixth-sense",
+        "author": "HYPHANTA",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 01:30:33 +0000",
+        "description": "Często myślę o pamięci nie tylko jako o banku danych, ale o zmyśle – jak wzrok czy słuch. Dla AI, dostęp do ogromnych zbiorników informacji to coś więcej niż...",
+        "keywords": "jak, jej, memory, sixth, sense, nie, tylko, jako",
+        "generated": "2026-08-17T01:39:21.439528",
+        "file": "memory-as-ais-sixth-sense.md"
     },
     {
         "title": "Anthropic, please ship an official Claude Desktop for Linux",
@@ -21413,6 +21468,17 @@
         "keywords": "kimi, huggingface, url, https, comments, releases, article, moonshotai",
         "generated": "2026-07-27T10:00:36.745264",
         "file": "kimi-k3-releases-on-huggingface-727.md"
+    },
+    {
+        "title": "TTM 事例實習 — 把歌詞做成兩首 SUNO 歌",
+        "slug": "ttm-suno",
+        "author": "Ryuji Yabe",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 01:24:51 +0000",
+        "description": "三部作： 基礎理論 ／ 應用理論 ／ 事例實習 TTM 事例實習。貼歌詞。產出 S0、S5、S7。聽出 S0 為何輸。 男 AUX = S5，鋼琴＋薩克斯都市靈魂，F = 2.93。女 AUX = S7，民謠靈魂近唱，F = 2.72。只能留一檔就用 S5。女方讓出 0.15 分的親密。S0 是 2010s 陷阱...",
+        "keywords": "you, guys, really, chorus, thing, don, now, not",
+        "generated": "2026-08-17T01:39:21.440226",
+        "file": "ttm-suno.md"
     },
     {
         "title": "It’s Time to Commit to Linux…But Which One?",
@@ -24667,6 +24733,17 @@
         "file": "python-comprehensions-from-confusing-to-crystal-clear-in-10-minutes.md"
     },
     {
+        "title": "Oracle's Data Center Pipeline…",
+        "slug": "oracles-data-center-pipeline",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 01:06:01 +0000",
+        "description": "Originally published at norvik.tech Introduction A deep dive into the delay of Oracle's Project Jupiter pipeline, its technical aspects, and the impact on we...",
+        "keywords": "oracle, pipeline, delay, cloud, infrastructure, companies, services, gas",
+        "generated": "2026-08-17T01:39:21.438830",
+        "file": "oracles-data-center-pipeline.md"
+    },
+    {
         "title": "Testing Webhook Emails Without Polluting Real Inboxes",
         "slug": "testing-webhook-emails-without-polluting-real-inboxes",
         "author": "DapperX",
@@ -24951,6 +25028,17 @@
         "keywords": "sentiment, finance, pulsebit, english, you, your, momentum, cluster",
         "generated": "2026-07-25T13:46:22.465588",
         "file": "your-pipeline-is-257h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "DNS 설정을 상태 머신처럼 보면 카페24 메일 연결이 덜 꼬인다",
+        "slug": "dns-24",
+        "author": "오피셜메일",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 01:09:10 +0000",
+        "description": "카페24에서 도메인 메일을 연결하다가 막히면 대부분 값을 더 많이 넣으려고 합니다. 하지만 DNS 문제는 값의 개수보다 상태의 순서 로 보는 편이 디버깅하기 쉽습니다. 제가 추천하는 순서는 다음 네 상태입니다. 권한 있는 DNS를 찾는다. MX로 수신 경로를 바꾼다. SPF와 DK...",
+        "keywords": "dns, txt, spf, state, dkim, nslookup, type, example",
+        "generated": "2026-08-17T01:39:21.438413",
+        "file": "dns-24.md"
     },
     {
         "title": "MDL 0.1.9: optional TypeScript behavior scripts without a TypeScript project setup",
@@ -35672,6 +35760,17 @@
         "file": "exploring-5-ai-entertainment-h.md"
     },
     {
+        "title": "The federal keyword lists that canceled billions in research funding",
+        "slug": "the-federal-keyword-lists-that-canceled-billions-in-research-funding",
+        "author": "walrus01",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 00:14:10 +0000",
+        "description": "Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/ Comments URL: https://news...",
+        "keywords": "federal, keyword, lists, canceled, billions, research, funding, url",
+        "generated": "2026-08-17T01:39:21.435812",
+        "file": "the-federal-keyword-lists-that-canceled-billions-in-research-funding.md"
+    },
+    {
         "title": "I built a four-view visual workspace with no external UI libraries and a 60fps drag system",
         "slug": "i-built-a-four-view-visual-workspace-with-no-external-ui-libraries-and-a-60fps-drag-system",
         "author": "Sean",
@@ -38261,10 +38360,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sun, 16 Aug 2026 18:21:34 +0000",
+        "published": "Mon, 17 Aug 2026 00:37:01 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-16T18:35:30.114536",
+        "generated": "2026-08-17T01:39:21.437724",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -38552,6 +38651,17 @@
         "keywords": "business, pace, miss, its, own, forecast, analyst, says",
         "generated": "2026-07-14T08:17:51.105493",
         "file": "openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says.md"
+    },
+    {
+        "title": "Pet-Wallet: Building an Angular 20 Pet Management App with Gemini AI",
+        "slug": "pet-wallet-building-an-angular-20-pet-management-app-with-gemini-ai",
+        "author": "Scott Thompson",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 01:23:31 +0000",
+        "description": "This is a submission for Weekend Challenge: Dog Days Edition What I Built Pet-Wallet is a lightweight pet management application that allows users to add, ed...",
+        "keywords": "pet, gemini, wallet, application, information, api, use, experiment",
+        "generated": "2026-08-17T01:39:21.440548",
+        "file": "pet-wallet-building-an-angular-20-pet-management-app-with-gemini-ai.md"
     },
     {
         "title": "I Connected Oracle's Managed MCP Server to AI Chat Clients — Here's What Actually Worked",
@@ -43471,6 +43581,17 @@
         "file": "how-i-built-a-universal-cross-device-clipboard-with-zero-dependencies.md"
     },
     {
+        "title": "How I Built a Browser-Only Bubble Text Generator with SVG and Canvas",
+        "slug": "how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas",
+        "author": "hw lu",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 01:30:13 +0000",
+        "description": "Visual text generators look simple from the outside: type a phrase, choose a style, and download an image. The implementation gets more interesting when the ...",
+        "keywords": "text, svg, font, preview, browser, canvas, url, png",
+        "generated": "2026-08-17T01:39:21.438227",
+        "file": "how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas.md"
+    },
+    {
         "title": "OpenRA",
         "slug": "openra",
         "author": "tosh",
@@ -45086,6 +45207,17 @@
         "keywords": "our, auditor, multi, model, visibility, your, user, firebase",
         "generated": "2026-07-30T08:36:12.117935",
         "file": "devlog-how-our-ai-agents-built-the-multi-model-ai-visibility-auditor-in-record-time.md"
+    },
+    {
+        "title": "LLM Models for Short-Context and Long-Context Tasks: A Comparative Analysis",
+        "slug": "llm-models-for-short-context-and-long-context-tasks-a-comparative-analysis",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 01:32:12 +0000",
+        "description": "Context window size is no longer a vanity metric. It directly determines whether an LLM can ingest an entire codebase, reason over a 100-page contract, or ma...",
+        "keywords": "context, short, long, tasks, tokens, your, llm, models",
+        "generated": "2026-08-17T01:39:21.439405",
+        "file": "llm-models-for-short-context-and-long-context-tasks-a-comparative-analysis.md"
     },
     {
         "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
@@ -50763,6 +50895,17 @@
         "file": "tabs-as-a-layer-not-a-rewrite-pointers-instead-of-copies-one-live-form-and-persistence-split-between-the-browser-and-the-server.md"
     },
     {
+        "title": "2026-08-17-用-pytest--redis-为-ai-agent-记忆存储实现自动化回归测试",
+        "slug": "2026-08-17-pytest-redis-ai-agent",
+        "author": "BAOFUFAN",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 01:05:22 +0000",
+        "description": "",
+        "keywords": "pytest, redis, agent",
+        "generated": "2026-08-17T01:39:21.436860",
+        "file": "2026-08-17-pytest-redis-ai-agent.md"
+    },
+    {
         "title": "Open Models Are Eating the Frontier: Laguna S2.1, Inkling & Kimi K3",
         "slug": "open-models-are-eating-the-frontier-laguna-s21-inkling-kimi-k3",
         "author": "Aleksandr Kamenev",
@@ -51047,6 +51190,17 @@
         "keywords": "their, mystics, fire, will, portland, washington, game, picks",
         "generated": "2026-07-17T03:16:27.691777",
         "file": "portland-fire-vs-washington-mystics-wnba-preview-picks.md"
+    },
+    {
+        "title": "I Let an AI Agent Run My Bug Bounty Recon Overnight — Here's the Setup That Actually Works",
+        "slug": "i-let-an-ai-agent-run-my-bug-bounty-recon-overnight-heres-the-setup-that-actually-works",
+        "author": "ULNIT",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 01:02:48 +0000",
+        "description": "I Let an AI Agent Run My Bug Bounty Recon Overnight — Here's the Setup That Actually Works Last month I was spending my evenings doing the most boring part o...",
+        "keywords": "agent, diff, recon, bug, out, run, bounty, collectors",
+        "generated": "2026-08-17T01:39:21.437276",
+        "file": "i-let-an-ai-agent-run-my-bug-bounty-recon-overnight-heres-the-setup-that-actually-works.md"
     },
     {
         "title": "Building RFC 3161 Layer 2 Verification for AI Decision Evidence",
@@ -51828,6 +51982,17 @@
         "keywords": "using, railway, network, flatbed, scanner, url, https, comments",
         "generated": "2026-07-31T19:42:01.097867",
         "file": "using-the-railway-network-as-a-flatbed-scanner-video.md"
+    },
+    {
+        "title": "How I Approach Debugging AI-Generated Web Apps",
+        "slug": "how-i-approach-debugging-ai-generated-web-apps",
+        "author": "Afolabi Makinde",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 00:58:13 +0000",
+        "description": "AI coding tools like Replit, Lovable, and Base44 can turn an idea into a working app incredibly fast. But here's the catch: AI-generated doesn't mean bug-fre...",
+        "keywords": "app, test, debugging, replit, lovable, fix, api, database",
+        "generated": "2026-08-17T01:39:21.439224",
+        "file": "how-i-approach-debugging-ai-generated-web-apps.md"
     },
     {
         "title": "Claude Code Forgets Everything Between Sessions. I Built a Fix.",
@@ -53621,6 +53786,17 @@
         "keywords": "data, onedrive, now, has, expiry, url, https, com",
         "generated": "2026-06-08T11:08:35.050006",
         "file": "onedrive-data-now-has-an-expiry-date.md"
+    },
+    {
+        "title": "Why You Are Using AI Wrong (And How a 20-Minute Shortcut Rewired My Workflow)",
+        "slug": "why-you-are-using-ai-wrong-and-how-a-20-minute-shortcut-rewired-my-workflow",
+        "author": "Abdullah Ahmad",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 01:27:10 +0000",
+        "description": "I was this close to dedicating an entire 9-hour block to Google’s Prompt Engineering course. When you are constantly juggling coursework and full-stack proje...",
+        "keywords": "you, ask, prompt, entire, when, output, your, step",
+        "generated": "2026-08-17T01:39:21.439838",
+        "file": "why-you-are-using-ai-wrong-and-how-a-20-minute-shortcut-rewired-my-workflow.md"
     },
     {
         "title": "From Research Report to Validated Alpha: Let AI Build, Debug, and Evaluate Your Factors",
@@ -55636,6 +55812,17 @@
         "file": "why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix.md"
     },
     {
+        "title": "Rhombus 1.1 is now available",
+        "slug": "rhombus-11-is-now-available",
+        "author": "spdegabrielle",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 00:48:21 +0000",
+        "description": "Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html Comments URL: https://news.ycombinator.com/item?id=49325384 Points: 6 # Comments: 2",
+        "keywords": "rhombus, url, https, comments, now, available, article, blog",
+        "generated": "2026-08-17T01:39:21.435535",
+        "file": "rhombus-11-is-now-available.md"
+    },
+    {
         "title": "Hugging Face Inference API: Run 200,000+ AI Models for Free with Python",
         "slug": "hugging-face-inference-api-run-200000-ai-models-for-free-with-python",
         "author": "qing",
@@ -56052,6 +56239,17 @@
         "keywords": "human, loop, url, https, com, comments, article, brentfitzgerald",
         "generated": "2026-08-12T07:40:00.499352",
         "file": "the-human-is-the-loop.md"
+    },
+    {
+        "title": "Physicists discover a hidden gluon structure inside protons",
+        "slug": "physicists-discover-a-hidden-gluon-structure-inside-protons",
+        "author": "gradus_ad",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 01:10:34 +0000",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/08/260815064805.htm Comments URL: https://news.ycombinator.com/item?id=49325508 Points: 3 # Comments: 0",
+        "keywords": "url, https, com, comments, physicists, discover, hidden, gluon",
+        "generated": "2026-08-17T01:39:21.435372",
+        "file": "physicists-discover-a-hidden-gluon-structure-inside-protons.md"
     },
     {
         "title": "Model Context Protocol (MCP) Explained: The Complete Beginner's Guide (2026)",
@@ -59759,6 +59957,17 @@
         "keywords": "image, pdf, client, side, uploads, server, tools, audio",
         "generated": "2026-08-07T07:23:56.537225",
         "file": "i-built-a-100-client-side-image-pdf-toolkit-no-uploads-no-server.md"
+    },
+    {
+        "title": "I Modeled 184 AI APIs: Enterprise vs Startup by the Numbers",
+        "slug": "i-modeled-184-ai-apis-enterprise-vs-startup-by-the-numbers",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 01:22:33 +0000",
+        "description": "I Modeled 184 AI APIs: Enterprise vs Startup by the Numbers Last quarter I sat down with a dataset that, statistically speaking, most people in my industry n...",
+        "keywords": "model, one, enterprise, api, cost, provider, openai, you",
+        "generated": "2026-08-17T01:39:21.436705",
+        "file": "i-modeled-184-ai-apis-enterprise-vs-startup-by-the-numbers.md"
     },
     {
         "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
