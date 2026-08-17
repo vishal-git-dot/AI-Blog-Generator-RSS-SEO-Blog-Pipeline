@@ -902,6 +902,17 @@
         "file": "i-built-a-react-error-boundary-lab-and-showed-what-they-cant-catch.md"
     },
     {
+        "title": "Give AI-Generated systemd Services a Resource Ceiling Before You Enable Them",
+        "slug": "give-ai-generated-systemd-services-a-resource-ceiling-before-you-enable-them",
+        "author": "Avery Lin",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 12:46:07 +0000",
+        "description": "AI-generated systemd services often pass a smoke test because the unit is syntactically valid, but they fail later because the model forgot resource controls...",
+        "keywords": "unit, service, worker, generated, host, systemd, not, systemctl",
+        "generated": "2026-08-17T12:53:34.362644",
+        "file": "give-ai-generated-systemd-services-a-resource-ceiling-before-you-enable-them.md"
+    },
+    {
         "title": "Building an MCP Server with Flama",
         "slug": "building-an-mcp-server-with-flama",
         "author": "Vortico",
@@ -4202,6 +4213,17 @@
         "file": "should-you-wash-your-solar-panels.md"
     },
     {
+        "title": "I Built a Free Decision Tree Generator (Because Lucidchart Charges $20/month)",
+        "slug": "i-built-a-free-decision-tree-generator-because-lucidchart-charges-20month",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 12:35:50 +0000",
+        "description": "I Built a Free Decision Tree Generator (Because Lucidchart Charges $20/month) Stop paying $20/month for Lucidchart when you just need to draw a decision tree...",
+        "keywords": "decision, free, tree, lucidchart, month, you, built, generator",
+        "generated": "2026-08-17T12:53:34.361041",
+        "file": "i-built-a-free-decision-tree-generator-because-lucidchart-charges-20month.md"
+    },
+    {
         "title": "Give Your Chatbot a Memory in Google Colab Before Your Next AI Interview",
         "slug": "give-your-chatbot-a-memory-in-google-colab-before-your-next-ai-interview",
         "author": "PandeyC",
@@ -5454,6 +5476,17 @@
         "keywords": "pgsimcity, url, https, comments, how, postgresql, works, article",
         "generated": "2026-07-27T10:00:36.745510",
         "file": "pgsimcity-how-postgresql-works.md"
+    },
+    {
+        "title": "Which Platforms and Agencies Are Best for iOS and Android App Development?",
+        "slug": "which-platforms-and-agencies-are-best-for-ios-and-android-app-development",
+        "author": "TechQware",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 12:46:38 +0000",
+        "description": "Here's a question every founder, product manager, and CTO eventually loses sleep over: We have the idea, but what do we actually build it with, and who do w...",
+        "keywords": "platform, you, native, your, development, android, ios, app",
+        "generated": "2026-08-17T12:53:34.361938",
+        "file": "which-platforms-and-agencies-are-best-for-ios-and-android-app-development.md"
     },
     {
         "title": "I Thought Cybersecurity Was About Hacking. I Was Wrong.",
@@ -7586,6 +7619,17 @@
         "keywords": "you, what, one, your, then, ask, question, not",
         "generated": "2026-07-06T10:49:20.346881",
         "file": "the-one-habit-that-fixes-generic-ai-answers-and-7-ways-to-ask.md"
+    },
+    {
+        "title": "Next-Gen ERP Software Implementation Roadmap for UAE Enterprises",
+        "slug": "next-gen-erp-software-implementation-roadmap-for-uae-enterprises",
+        "author": "InstaLogic",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 12:39:24 +0000",
+        "description": "Introduction As the UAE accelerates its digital transformation through initiatives such as UAE Digital Government Strategy and Industry 4.0, enterprises are ...",
+        "keywords": "erp, business, implementation, uae, systems, user, data, support",
+        "generated": "2026-08-17T12:53:34.360843",
+        "file": "next-gen-erp-software-implementation-roadmap-for-uae-enterprises.md"
     },
     {
         "title": "Building VeloSync: A Zero-Dependency, Offline-First Vector Sync Engine in Python",
@@ -10369,6 +10413,17 @@
         "keywords": "manufact, senior, engineer, url, https, ycombinator, com, comments",
         "generated": "2026-07-17T13:49:54.402060",
         "file": "manufact-yc-s25-is-hiring-a-senior-infra-engineer-to-build-the-mcp-cloud.md"
+    },
+    {
+        "title": "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+        "slug": "buyer-cancels-showing-after-deflock-shows-two-cameras-utilized-by-the-hoa",
+        "author": "bilsbie",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 12:18:24 +0000",
+        "description": "Article URL: https://twitter.com/lydiakauppi/status/2089196932413452386 Comments URL: https://news.ycombinator.com/item?id=49329660 Points: 4 # Comments: 0",
+        "keywords": "url, https, com, comments, buyer, cancels, showing, after",
+        "generated": "2026-08-17T12:53:34.356341",
+        "file": "buyer-cancels-showing-after-deflock-shows-two-cameras-utilized-by-the-hoa.md"
     },
     {
         "title": "Scarf has moved away from Haskell",
@@ -14170,10 +14225,10 @@
         "slug": "biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-via-blueprint-extensions",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sun, 16 Aug 2026 12:46:05 +0000",
-        "description": "Title: Run your own autonomous AI business operator locally with BizNode Pulse If you are tired of SaaS subscriptions, cloud dependencies, and monthly recurr...",
-        "keywords": "biznode, your, you, https, biz, business, operator, local",
-        "generated": "2026-08-16T12:49:10.508249",
+        "published": "Mon, 17 Aug 2026 12:44:52 +0000",
+        "description": "BizNode Pulse has officially expanded its native capabilities to cover four core industries—CA, Legal, Notary, and Accounting—while unlocking nine additional...",
+        "keywords": "biznode, you, https, biz, your, pulse, tiers, via",
+        "generated": "2026-08-17T12:53:34.362934",
         "file": "biznode-pulse-now-handles-4-industries-natively-ca-legal-notary-and-accounting-plus-9-more-via-blueprint-extensions.md"
     },
     {
@@ -17431,6 +17486,17 @@
         "keywords": "officecli, agents, office, document, word, excel, documents, microsoft",
         "generated": "2026-07-07T20:04:00.205414",
         "file": "officecli-giving-ai-agents-the-power-to-automate-word-excel-and-powerpoint.md"
+    },
+    {
+        "title": "5 Best OpenClaw VPS Provider in India",
+        "slug": "5-best-openclaw-vps-provider-in-india",
+        "author": "Shambhavi",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 12:42:32 +0000",
+        "description": "Introduction OpenClaw is changing how people use AI assistants. Instead of opening a chatbot whenever you need help, you can run an AI agent on your own serv...",
+        "keywords": "openclaw, vps, hosting, india, users, ram, storage, server",
+        "generated": "2026-08-17T12:53:34.360150",
+        "file": "5-best-openclaw-vps-provider-in-india.md"
     },
     {
         "title": "Who Are the Top Sellers of Verified Payoneer, Accounts 2026",
@@ -20832,6 +20898,17 @@
         "file": "stop-running-ai-agents-on-your-host-master-docker-sandboxes-in-one-guide.md"
     },
     {
+        "title": "What Actually Makes a Trusted Google Workspace Reseller in India?",
+        "slug": "what-actually-makes-a-trusted-google-workspace-reseller-in-india",
+        "author": "Ahmad",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 12:43:16 +0000",
+        "description": "Trusted gets used a lot in Google Workspace reseller comparisons without much behind it, usually just meaning this company seems legitimate. Not a very u...",
+        "keywords": "google, partner, trust, actually, company, not, what, reseller",
+        "generated": "2026-08-17T12:53:34.359637",
+        "file": "what-actually-makes-a-trusted-google-workspace-reseller-in-india.md"
+    },
+    {
         "title": "You're probably using AI wrong. And it's costing you more than you think.",
         "slug": "youre-probably-using-ai-wrong-and-its-costing-you-more-than-you-think",
         "author": "Jinav Shah",
@@ -21105,6 +21182,17 @@
         "keywords": "contact, email, one, customer, bounce, handler, every, you",
         "generated": "2026-07-26T08:33:55.339821",
         "file": "the-webhook-bug-that-passed-every-test-and-every-code-review.md"
+    },
+    {
+        "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+        "slug": "show-hn-desktopcolorscom-a-museum-for-solid-background-colors-of-classic-os",
+        "author": "vlowrian",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 07:51:22 +0000",
+        "description": "Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think. Comments URL: https:/...",
+        "keywords": "com, desktopcolors, solid, background, colors, comments, show, museum",
+        "generated": "2026-08-17T12:53:34.356844",
+        "file": "show-hn-desktopcolorscom-a-museum-for-solid-background-colors-of-classic-os.md"
     },
     {
         "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -26821,6 +26909,17 @@
         "file": "proofreading-editing-help-in-uae.md"
     },
     {
+        "title": "Out for Never — we built an anti-commerce app that helps you buy less",
+        "slug": "out-for-never-we-built-an-anti-commerce-app-that-helps-you-buy-less",
+        "author": "DatanestDigital",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 12:35:00 +0000",
+        "description": "There is a whole class of purchases you make not because you need them, but because the moment of buying feels good. The checkout rush. The it's on the way...",
+        "keywords": "you, your, because, real, never, not, buying, fictional",
+        "generated": "2026-08-17T12:53:34.361298",
+        "file": "out-for-never-we-built-an-anti-commerce-app-that-helps-you-buy-less.md"
+    },
+    {
         "title": "WordPress Deployment Nightmares: How to Verify Your Site Before and After Every Change",
         "slug": "wordpress-deployment-nightmares-how-to-verify-your-site-before-and-after-every-change",
         "author": "Marcin Brzozka",
@@ -28777,6 +28876,17 @@
         "file": "how-i-used-ai-to-build-and-deploy-my-first-website-6-exact-prompts-that-worked.md"
     },
     {
+        "title": "Before You Trust MiniMax H3, Run This Free Baseline Harness",
+        "slug": "before-you-trust-minimax-h3-run-this-free-baseline-harness",
+        "author": "Avery Wang",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 12:37:17 +0000",
+        "description": "Benchmarks are useful only when they predict behavior on a team's own code, and most public tables do not reach that bar. A recent MiniMax H3 release has bee...",
+        "keywords": "model, baseline, candidate, import, prompt, harness, not, path",
+        "generated": "2026-08-17T12:53:34.357725",
+        "file": "before-you-trust-minimax-h3-run-this-free-baseline-harness.md"
+    },
+    {
         "title": "Get any Instagram profile data in 10 lines of Python",
         "slug": "get-any-instagram-profile-data-in-10-lines-of-python",
         "author": "Pouria Anushiravani",
@@ -29239,6 +29349,17 @@
         "file": "out-of-cash-grab-a-fast-1500-crypto-advance-instantly.md"
     },
     {
+        "title": "Try MiniMax H3 Without Hardcoding It Into Your Free Server",
+        "slug": "try-minimax-h3-without-hardcoding-it-into-your-free-server",
+        "author": "kongkong",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 12:30:23 +0000",
+        "description": "When MiniMax H3 started showing up in my feed last week, I did the exact thing I warn other developers not to do. I copied a snippet for an OpenAI-compatible...",
+        "keywords": "model, provider, not, prompt, self, without, free, application",
+        "generated": "2026-08-17T12:53:34.359033",
+        "file": "try-minimax-h3-without-hardcoding-it-into-your-free-server.md"
+    },
+    {
         "title": "AWS AgentCore Web Search: Real-Time AI Technology Agents Without Scraping Infrastructure",
         "slug": "aws-agentcore-web-search-real-time-ai-technology-agents-without-scraping-infrastructure",
         "author": "aarhamforensics",
@@ -29688,6 +29809,10 @@
         "keywords": "encrypted, data, model, not, noise, inference, ckks, server",
         "generated": "2026-08-15T12:47:07.949998",
         "file": "private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data.md"
+    },
+    {
+        "title": "*Technical*",
+        "file": "technical-how-i-built-atlock-v4-a-deep-dive-into-a-local-first-windows-security-architecture.md"
     },
     {
         "title": "I built a smoke detector for AI agent wallets",
@@ -35804,6 +35929,17 @@
         "file": "your-pipeline-is-200h-behind-catching-travel-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Retry the Request, Not the Prompt: An Error Taxonomy for Free Coding Models",
+        "slug": "retry-the-request-not-the-prompt-an-error-taxonomy-for-free-coding-models",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 12:47:15 +0000",
+        "description": "Most retry logic retries the prompt. Effective triage retries only the layer that failed. A free coding model endpoint fails in layers: the request may be in...",
+        "keywords": "retry, not, prompt, status, model, you, class, body",
+        "generated": "2026-08-17T12:53:34.357237",
+        "file": "retry-the-request-not-the-prompt-an-error-taxonomy-for-free-coding-models.md"
+    },
+    {
         "title": "Deep Tech Column #11: Advanced Web Architecture & AI Agent Optimization",
         "slug": "deep-tech-column-11-advanced-web-architecture-ai-agent-optimization",
         "author": "CHOBH1024",
@@ -41423,6 +41559,17 @@
         "keywords": "model, you, one, what, recipe, actually, training, small",
         "generated": "2026-07-25T19:16:03.115714",
         "file": "i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes.md"
+    },
+    {
+        "title": "Self hosted email continues to steeply decline",
+        "slug": "self-hosted-email-continues-to-steeply-decline",
+        "author": "minusf",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 10:45:14 +0000",
+        "description": "Article URL: https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/ Comments URL: https...",
+        "keywords": "email, url, https, comments, self, hosted, continues, steeply",
+        "generated": "2026-08-17T12:53:34.356736",
+        "file": "self-hosted-email-continues-to-steeply-decline.md"
     },
     {
         "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
@@ -49015,6 +49162,17 @@
         "file": "i-built-a-vertically-integrated-commerce-system-with-ai-and-accidentally-discovered-4-governance-patterns.md"
     },
     {
+        "title": "My AI Assistant Did Not Love Getting a Second Opinion",
+        "slug": "my-ai-assistant-did-not-love-getting-a-second-opinion",
+        "author": "Daniel Nwaneri",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 12:46:21 +0000",
+        "description": "our work got checked by an external reviewer. That's what Fable said after I brought Gemini (Antigravity 3.7) in to review StacksNG, the offline coding ass...",
+        "keywords": "not, what, fable, work, gemini, second, did, opinion",
+        "generated": "2026-08-17T12:53:34.362201",
+        "file": "my-ai-assistant-did-not-love-getting-a-second-opinion.md"
+    },
+    {
         "title": "Account Farming in 2026: Building an Indestructible Architecture on Dedicated 4G Ports",
         "slug": "account-farming-in-2026-building-an-indestructible-architecture-on-dedicated-4g-ports",
         "author": "OnlineProxy",
@@ -49638,6 +49796,17 @@
         "keywords": "would, words, agent, flag, what, happened, exactly, lesson",
         "generated": "2026-08-17T07:04:47.154726",
         "file": "ai-bloopers-the-most-absurd-ai-fails-this-week.md"
+    },
+    {
+        "title": "AI Agent Testing & Evaluation in 2026: Tracing, Hallucination Benchmarks & Evals",
+        "slug": "ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals",
+        "author": "Agdex AI",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 12:24:43 +0000",
+        "description": "AI Agent Testing & Evaluation in 2026: Tracing, Hallucination Benchmarks & Evals Testing deterministic software is well-understood: unit tests, integration t...",
+        "keywords": "agent, evaluation, tool, trajectory, llm, testing, tracing, hallucination",
+        "generated": "2026-08-17T12:53:34.359352",
+        "file": "ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals.md"
     },
     {
         "title": "Processing Millions of Records Through Shopify: Lessons From High-Volume Integrations",
@@ -55361,6 +55530,17 @@
         "file": "hosting-a-b2b-cro-strategy-workshop-steps-to-uncover-growth-opportunities.md"
     },
     {
+        "title": "People are worried about America's solvency",
+        "slug": "people-are-worried-about-americas-solvency",
+        "author": "root-parent",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 11:45:12 +0000",
+        "description": "Article URL: https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e Comments URL: https://news.ycombinator.com/item?id=49329347 Points: 36 # Comment...",
+        "keywords": "url, https, com, comments, people, worried, america, solvency",
+        "generated": "2026-08-17T12:53:34.356626",
+        "file": "people-are-worried-about-americas-solvency.md"
+    },
+    {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "slug": "zero-mem-zero-token-memory-operations-for-llm-agents",
         "author": "theanonymousone",
@@ -56604,6 +56784,17 @@
         "file": "automating-technical-outreach-mastering-the-7-state-pipeline-for-early-adopter-acquisition.md"
     },
     {
+        "title": "Containing the Autonomous Blast Radius: Runtime AI Safety with Docker and LLM Judges",
+        "slug": "containing-the-autonomous-blast-radius-runtime-ai-safety-with-docker-and-llm-judges",
+        "author": "Karan Verma",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 12:42:41 +0000",
+        "description": "A lot of AI safety work has focused on what models produce: harmful content, misinformation, bias, and other failures visible in their outputs. But once mode...",
+        "keywords": "agent, docker, logs, safety, runtime, evaluation, behavior, print",
+        "generated": "2026-08-17T12:53:34.363696",
+        "file": "containing-the-autonomous-blast-radius-runtime-ai-safety-with-docker-and-llm-judges.md"
+    },
+    {
         "title": "Best Red Hat Certification Training in Delhi — Now at Summer Discount Prices",
         "slug": "best-red-hat-certification-training-in-delhi-now-at-summer-discount-prices",
         "author": "Rahul",
@@ -56723,6 +56914,17 @@
         "keywords": "your, voice, not, agency, you, agencies, infrastructure, tech",
         "generated": "2026-07-10T14:40:05.903509",
         "file": "google-apple-and-microsoft-just-declared-war-on-voice-ai-heres-what-that-means-for-your-agency.md"
+    },
+    {
+        "title": "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
+        "slug": "who-owns-commodore-the-retro-pc-brand-still-exists-but-a-lot-has-changed",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 11:55:15 +0000",
+        "description": "Article URL: https://www.bgr.com/2233625/who-owns-commodore-retro-brand/ Comments URL: https://news.ycombinator.com/item?id=49329430 Points: 5 # Comments: 0",
+        "keywords": "who, owns, commodore, retro, brand, url, https, com",
+        "generated": "2026-08-17T12:53:34.356513",
+        "file": "who-owns-commodore-the-retro-pc-brand-still-exists-but-a-lot-has-changed.md"
     },
     {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",
