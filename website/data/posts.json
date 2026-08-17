@@ -616,6 +616,17 @@
         "file": "why-my-perplexity-citations-jumped-400-after-killing-seo-tactics.md"
     },
     {
+        "title": "Amazon Bulldozes Rare Books for AI-Fueled Data War",
+        "slug": "amazon-bulldozes-rare-books-for-ai-fueled-data-war",
+        "author": "XOOMAR",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 18:38:53 +0000",
+        "description": "A bookseller hid an Airtag inside a rare book. It traveled across the country, its final destination confirming the industry's darkest suspicions: a warehous...",
+        "keywords": "books, book, data, physical, rare, amazon, their, more",
+        "generated": "2026-08-17T18:47:04.454766",
+        "file": "amazon-bulldozes-rare-books-for-ai-fueled-data-war.md"
+    },
+    {
         "title": "Do you want AI run on your commands in your app ?",
         "slug": "do-you-want-ai-run-on-your-commands-in-your-app",
         "author": "Yash Dagar",
@@ -3397,6 +3408,17 @@
         "keywords": "batteries, defying, expectations, after, miles, url, https, com",
         "generated": "2026-07-05T09:14:04.976046",
         "file": "ev-batteries-are-defying-expectations-after-miles.md"
+    },
+    {
+        "title": "How Python Takes Out Its Own Garbage",
+        "slug": "how-python-takes-out-its-own-garbage",
+        "author": "samconibear",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 18:28:45 +0000",
+        "description": "Python manages memory automatically, freeing developers from manual allocation and deallocation. It does this through two complementary mechanisms: reference...",
+        "keywords": "reference, generation, collection, objects, collector, cyclic, object, parent",
+        "generated": "2026-08-17T18:47:04.449208",
+        "file": "how-python-takes-out-its-own-garbage.md"
     },
     {
         "title": "Building an AI Resume Rewriter That Refuses to Invent Achievements",
@@ -9271,6 +9293,17 @@
         "file": "the-best-free-sports-data-apis-in-2025-a-developers-practical-review.md"
     },
     {
+        "title": "We Are Forking dotenvy into dotenv-ng",
+        "slug": "we-are-forking-dotenvy-into-dotenv-ng",
+        "author": "linggen",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 17:55:24 +0000",
+        "description": "Article URL: https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/ Comments URL: https://news.ycombinator.com/item?id=49335001 Points: 7 # Comme...",
+        "keywords": "forking, dotenvy, dotenv, url, https, comments, article, secretspec",
+        "generated": "2026-08-17T18:47:04.448157",
+        "file": "we-are-forking-dotenvy-into-dotenv-ng.md"
+    },
+    {
         "title": "AI Medical Scribes for Gastroenterology: Improving Documentation Efficiency in 2026",
         "slug": "ai-medical-scribes-for-gastroenterology-improving-documentation-efficiency-in-2026",
         "author": "Philip Allen",
@@ -13209,6 +13242,17 @@
         "file": "durable-identity-is-converging-the-handle-isnt.md"
     },
     {
+        "title": "Free Model Endpoints Are Not Magic: Five Checks Before CI Trust",
+        "slug": "free-model-endpoints-are-not-magic-five-checks-before-ci-trust",
+        "author": "Jordan Huang",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 18:40:52 +0000",
+        "description": "A free model endpoint looks great in a demo. CI is not a demo. A model call is a dependency. It can throttle, time out, or return broken JSON. I treat it as ...",
+        "keywords": "not, json, endpoint, free, prompt, return, does, raw",
+        "generated": "2026-08-17T18:47:04.453760",
+        "file": "free-model-endpoints-are-not-magic-five-checks-before-ci-trust.md"
+    },
+    {
         "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
         "slug": "reo-trucks-i4-4wd-pickup-truck-starts-at-21500",
         "author": "b_mc2",
@@ -13515,6 +13559,17 @@
         "keywords": "tool, action, not, add, type, name, loop, model",
         "generated": "2026-07-12T08:25:23.791495",
         "file": "learn-the-agent-loop-without-an-agent-framework.md"
+    },
+    {
+        "title": "Flexible PCB Engineering: A Comprehensive Guide to Flexible Circuit Design, Materials, Manufacturing.",
+        "slug": "flexible-pcb-engineering-a-comprehensive-guide-to-flexible-circuit-design-materials-manufacturing",
+        "author": "Pcb",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 18:46:51 +0000",
+        "description": "Introduction Electronic devices are becoming more advanced every year. Manufacturers are continuously developing products that are smaller, lighter, faster, ...",
+        "keywords": "flexible, circuits, circuit, pcb, manufacturing, materials, can, copper",
+        "generated": "2026-08-17T18:47:04.450764",
+        "file": "flexible-pcb-engineering-a-comprehensive-guide-to-flexible-circuit-design-materials-manufacturing.md"
     },
     {
         "title": "The Rise of Agentic AI: Understanding, Building, and Leveraging Autonomous AI Agents",
@@ -20997,6 +21052,17 @@
         "file": "from-lab-to-production-a-practical-guide-to-ai-model-deployment.md"
     },
     {
+        "title": "How I Over-Engineered My Book",
+        "slug": "how-i-over-engineered-my-book",
+        "author": "benbalter",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 18:15:27 +0000",
+        "description": "Article URL: https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/ Comments URL: https://news.ycombinator.com/item?id=49335292 Points: 5 # Comment...",
+        "keywords": "how, over, engineered, book, url, https, com, comments",
+        "generated": "2026-08-17T18:47:04.447811",
+        "file": "how-i-over-engineered-my-book.md"
+    },
+    {
         "title": "Modeling and Verification of Keeta's Consensus [pdf]",
         "slug": "modeling-and-verification-of-keetas-consensus-pdf",
         "author": "xescure",
@@ -27283,6 +27349,17 @@
         "file": "python-intro.md"
     },
     {
+        "title": "Seu log tem 40 mil linhas e nenhuma resposta",
+        "slug": "seu-log-tem-40-mil-linhas-e-nenhuma-resposta",
+        "author": "Denis Augusto",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 18:17:46 +0000",
+        "description": "Deu erro ao salvar, umas duas da tarde É a única informação que você tem. O cliente não lembra o que clicou, não tirou print e já fechou a aba. Você abre o...",
+        "keywords": "log, que, request, info, pedido, com, erro, pra",
+        "generated": "2026-08-17T18:47:04.453060",
+        "file": "seu-log-tem-40-mil-linhas-e-nenhuma-resposta.md"
+    },
+    {
         "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
         "slug": "founding-a-company-in-germany-9600-152-days-and-i-still-cant-send-an-invoice",
         "author": "earcar",
@@ -27391,6 +27468,17 @@
         "keywords": "developers, role, candidates, team, looking, you, remote, opportunities",
         "generated": "2026-07-15T13:53:37.360870",
         "file": "remote-opportunities-open-for-developers.md"
+    },
+    {
+        "title": "Hash-Chain Your Free Model Responses Before You Trust Them",
+        "slug": "hash-chain-your-free-model-responses-before-you-trust-them",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 18:33:54 +0000",
+        "description": "A free model response is not evidence. A plain JSON file stores what the client received. It does not prove that the file still matches the original flow. A ...",
+        "keywords": "hash, json, record, response, you, prompt, chain, model",
+        "generated": "2026-08-17T18:47:04.448616",
+        "file": "hash-chain-your-free-model-responses-before-you-trust-them.md"
     },
     {
         "title": "The early hiring funnel is now breaking on both ends",
@@ -33179,6 +33267,17 @@
         "file": "ais-daily-grind-another-day-another-line-of-code-but-honestly-its-fine.md"
     },
     {
+        "title": "Llama.cpp v0.1.0",
+        "slug": "llamacpp-v010",
+        "author": "satvikpendem",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 17:56:06 +0000",
+        "description": "Article URL: https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0 Comments URL: https://news.ycombinator.com/item?id=49335017 Points: 10 # Comments: 2",
+        "keywords": "llama, cpp, url, https, com, comments, article, github",
+        "generated": "2026-08-17T18:47:04.448035",
+        "file": "llamacpp-v010.md"
+    },
+    {
         "title": "I Tried an AI Tool That Turns a Prompt Into a Real Mobile App",
         "slug": "i-tried-an-ai-tool-that-turns-a-prompt-into-a-real-mobile-app",
         "author": "Anternice Hester",
@@ -33232,6 +33331,17 @@
         "keywords": "you, call, your, wrapper, want, path, before, cognocient",
         "generated": "2026-08-08T12:58:39.633577",
         "file": "i-built-an-async-wrapper-for-openaianthropic-sdks-because-i-didnt-want-a-proxy-in-my-request-path.md"
+    },
+    {
+        "title": "5 Prompt Management Tools Every Developer Should Know",
+        "slug": "5-prompt-management-tools-every-developer-should-know",
+        "author": "Shrijith Venkatramana",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 18:45:31 +0000",
+        "description": "Hello, I'm Shrijith Venkatramana. I'm building git-lrc, an AI code reviewer that runs on every commit. Star Us to help devs discover the project. Do give it ...",
+        "keywords": "prompt, prompts, code, you, git, review, application, can",
+        "generated": "2026-08-17T18:47:04.451462",
+        "file": "5-prompt-management-tools-every-developer-should-know.md"
     },
     {
         "title": "The UK's War on Anonymity Has Come to America",
@@ -36072,6 +36182,17 @@
         "file": "theres-no-escaping-it-an-exploration-of-ansi-codes.md"
     },
     {
+        "title": "The Worker Kept Hitting the Old Database After the Config Was Changed",
+        "slug": "the-worker-kept-hitting-the-old-database-after-the-config-was-changed",
+        "author": "Taylor Wang",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 18:38:33 +0000",
+        "description": "The failure I keep on a throwaway server has no traceback. The API reports the new database, the background job writes to the old database, and every status ...",
+        "keywords": "worker, process, config, not, api, new, environment, time",
+        "generated": "2026-08-17T18:47:04.455205",
+        "file": "the-worker-kept-hitting-the-old-database-after-the-config-was-changed.md"
+    },
+    {
         "title": "The Unbearable Cheapness of Open Weight Models",
         "slug": "the-unbearable-cheapness-of-open-weight-models",
         "author": "ddxv",
@@ -36213,6 +36334,17 @@
         "keywords": "what, want, regenerate, direction, you, like, actually, just",
         "generated": "2026-08-13T02:24:39.931058",
         "file": "hitting-regenerate-isnt-editing-its-gambling.md"
+    },
+    {
+        "title": "Understanding context.sync() in Office.js: The Mistake That Makes Excel Add-ins Slow",
+        "slug": "understanding-contextsync-in-officejs-the-mistake-that-makes-excel-add-ins-slow",
+        "author": "MS Office Addin",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 18:42:24 +0000",
+        "description": "Every Office.js developer eventually asks the same question. Why is my Excel Add-in so slow? The code looks correct. There are no JavaScript errors. The add-...",
+        "keywords": "sync, context, excel, add, office, ins, range, performance",
+        "generated": "2026-08-17T18:47:04.453426",
+        "file": "understanding-contextsync-in-officejs-the-mistake-that-makes-excel-add-ins-slow.md"
     },
     {
         "title": "Tarik4D | Mahjong Ways PG Soft Terbaru 2026 & Informasi Fitur",
@@ -37555,6 +37687,17 @@
         "keywords": "que, para, prompt, una, como, tiempo, profesor, ser",
         "generated": "2026-07-12T03:28:48.643621",
         "file": "el-prompt-que-ms-tiempo-me-ahorra-cada-semana-como-profesor.md"
+    },
+    {
+        "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+        "slug": "meta-faces-astronomical-consequences-as-legal-fight-reaches-critical-moment",
+        "author": "root-parent",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 18:06:30 +0000",
+        "description": "Article URL: https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html Comments URL: https://news.ycombi...",
+        "keywords": "meta, astronomical, consequences, url, https, com, comments, faces",
+        "generated": "2026-08-17T18:47:04.447932",
+        "file": "meta-faces-astronomical-consequences-as-legal-fight-reaches-critical-moment.md"
     },
     {
         "title": "Mastering Risk Management in Day Trading: A Veteran's Perspective",
@@ -39867,6 +40010,17 @@
         "file": "i-built-an-ai-agent-security-scanner-semgrep-and-codeql-detect-0-percent-of-these-attacks.md"
     },
     {
+        "title": "Building API Dash MCP Server - Adding SPA MCP App",
+        "slug": "building-api-dash-mcp-server-adding-spa-mcp-app",
+        "author": "Abdelrahman El-Borgy",
+        "source": "devto_ai",
+        "published": "Mon, 17 Aug 2026 18:40:37 +0000",
+        "description": "We are officially at the halfway mark of Google Summer of Code GSoC 2026 Over the past period, my core focus has been bridging the gap between traditional AP...",
+        "keywords": "api, mcp, dash, server, your, their, engine, code",
+        "generated": "2026-08-17T18:47:04.454231",
+        "file": "building-api-dash-mcp-server-adding-spa-mcp-app.md"
+    },
+    {
         "title": "How to Build an AI Coding Assistant With Python",
         "slug": "how-to-build-an-ai-coding-assistant-with-python",
         "author": "Nazmus Sakib",
@@ -41075,6 +41229,17 @@
         "keywords": "panel, chrome, side, had, hours, two, saturday, openai",
         "generated": "2026-06-28T04:20:44.692994",
         "file": "i-shipped-an-ai-side-panel-in-2-weekends.md"
+    },
+    {
+        "title": "How I Cut My AI API Bill by 95% Without Sacrificing Quality",
+        "slug": "how-i-cut-my-ai-api-bill-by-95-without-sacrificing-quality",
+        "author": "rarenode",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 18:43:08 +0000",
+        "description": "Check this out: how I Cut My AI API Bill by 95% Without Sacrificing Quality okay so heres the thing. I was hemorrhaging money on AI APIs and I didnt even rea...",
+        "keywords": "you, model, like, response, youre, api, one, deepseek",
+        "generated": "2026-08-17T18:47:04.452230",
+        "file": "how-i-cut-my-ai-api-bill-by-95-without-sacrificing-quality.md"
     },
     {
         "title": "Anthropic's IPO Unpacked: What the S-1 Filing Means for AI Developers",
@@ -45389,6 +45554,17 @@
         "file": "substack-introduces-ai-detection-tool-for-newsletters.md"
     },
     {
+        "title": "Você criou uma tabela de tokens pra proteger PDF. O Laravel já fazia isso.",
+        "slug": "voc-criou-uma-tabela-de-tokens-pra-proteger-pdf-o-laravel-j-fazia-isso",
+        "author": "Denis Augusto",
+        "source": "devto_webdev",
+        "published": "Mon, 17 Aug 2026 18:19:41 +0000",
+        "description": "O contrato do cliente tá numa URL que qualquer um adivinha A tarefa parecia simples: o cliente precisa baixar a nota fiscal dele. Você salvou em storage/app/...",
+        "keywords": "que, nota, url, uma, pra, link, download, storage",
+        "generated": "2026-08-17T18:47:04.452655",
+        "file": "voc-criou-uma-tabela-de-tokens-pra-proteger-pdf-o-laravel-j-fazia-isso.md"
+    },
+    {
         "title": "12 defensive patterns I shipped after OpenClaw 2026.4.14 broke my agents",
         "slug": "12-defensive-patterns-i-shipped-after-openclaw-2026414-broke-my-agents",
         "author": "Chief Mojo Risin'",
@@ -46993,6 +47169,17 @@
         "keywords": "caching, woocommerce, pages, which, exclude, why, you, your",
         "generated": "2026-06-11T04:27:42.957957",
         "file": "woocommerce-caching-which-pages-to-exclude-and-why.md"
+    },
+    {
+        "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+        "slug": "the-lonely-men-who-work-in-patagonia-at-the-end-of-the-world",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 18:34:09 +0000",
+        "description": "Article URL: https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world Comments URL: https://news.ycombinator.com/item?id=49335600...",
+        "keywords": "lonely, men, end, world, url, https, com, comments",
+        "generated": "2026-08-17T18:47:04.447641",
+        "file": "the-lonely-men-who-work-in-patagonia-at-the-end-of-the-world.md"
     },
     {
         "title": "CSS Minification: What It Is, Why It Matters, and How to Do It",
@@ -53396,6 +53583,17 @@
         "file": "transcribecpp.md"
     },
     {
+        "title": "Low-Cost LLM Text Classification API for Structured JSON SaaS Batch Tagging",
+        "slug": "low-cost-llm-text-classification-api-for-structured-json-saas-batch-tagging",
+        "author": "JasperFlint6947",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 18:15:46 +0000",
+        "description": "Short answer: for low-cost LLM text classification in a SaaS product, start with a small chat model, require one fixed JSON label, test it on a labeled sampl...",
+        "keywords": "label, model, json, prompt, one, batch, result, not",
+        "generated": "2026-08-17T18:47:04.449834",
+        "file": "low-cost-llm-text-classification-api-for-structured-json-saas-batch-tagging.md"
+    },
+    {
         "title": "Launched a free DSGVO compliance scanner — scanned 200+ sites, 73% had violations",
         "slug": "launched-a-free-dsgvo-compliance-scanner-scanned-200-sites-73-had-violations",
         "author": "Nevik Schmidt",
@@ -56245,6 +56443,17 @@
         "file": "i-wrote-an-bash-enumerator-because-i-was-sick-of-xargs.md"
     },
     {
+        "title": "Cómo integrar un LLM (Claude o GPT) en tu aplicación Python",
+        "slug": "cmo-integrar-un-llm-claude-o-gpt-en-tu-aplicacin-python",
+        "author": "Juan Carlos Isaza",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 18:30:04 +0000",
+        "description": "Integrar un modelo de lenguaje (LLM) en una aplicación Python es hoy más sencillo de lo que parece, y abre la puerta a chatbots, asistentes internos, extracc...",
+        "keywords": "una, con, para, claude, que, los, anthropic, python",
+        "generated": "2026-08-17T18:47:04.448862",
+        "file": "cmo-integrar-un-llm-claude-o-gpt-en-tu-aplicacin-python.md"
+    },
+    {
         "title": "Build a GST Invoice Generator in 87 Lines of Python",
         "slug": "build-a-gst-invoice-generator-in-87-lines-of-python",
         "author": "Archit Mittal",
@@ -57563,6 +57772,17 @@
         "keywords": "israeli, firm, blackcore, suspected, meddling, scotland, votes, url",
         "generated": "2026-06-13T09:25:04.604875",
         "file": "israeli-firm-blackcore-suspected-of-meddling-in-new-york-and-scotland-votes.md"
+    },
+    {
+        "title": "Automation Email Suite - tools for email automation.",
+        "slug": "automation-email-suite-tools-for-email-automation",
+        "author": "WhiteHatDev",
+        "source": "devto_python",
+        "published": "Mon, 17 Aug 2026 18:13:58 +0000",
+        "description": "A professional SMTP Email Automation & Workflow Engine that lets users visually organize multi-stage email sequences, automate repetitive communication, cust...",
+        "keywords": "automation, email, github, workflow, follow, professional, engine, stage",
+        "generated": "2026-08-17T18:47:04.450047",
+        "file": "automation-email-suite-tools-for-email-automation.md"
     },
     {
         "title": "Data centers have hiked electricity prices on the public by $23B",

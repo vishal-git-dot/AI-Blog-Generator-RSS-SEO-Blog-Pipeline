@@ -1,0 +1,34 @@
+---
+title: "Seu log tem 40 mil linhas e nenhuma resposta"
+slug: "seu-log-tem-40-mil-linhas-e-nenhuma-resposta"
+author: "Denis Augusto"
+source: "devto_webdev"
+published: "Mon, 17 Aug 2026 18:17:46 +0000"
+description: ""Deu erro ao salvar, umas duas da tarde" É a única informação que você tem. O cliente não lembra o que clicou, não tirou print e já fechou a aba. Você abre o..."
+keywords: "log, que, request, info, pedido, com, erro, pra"
+generated: "2026-08-17T18:47:04.453060"
+---
+
+# Seu log tem 40 mil linhas e nenhuma resposta
+
+## Overview
+
+"Deu erro ao salvar, umas duas da tarde" É a única informação que você tem. O cliente não lembra o que clicou, não tirou print e já fechou a aba. Você abre o laravel.log . Quarenta mil linhas no dia. Faz um grep por "erro". Aparecem 1.200 ocorrências, e a maioria é isso: [2026-08-14 14:03:11] production.INFO: entrou [2026-08-14 14:03:11] production.INFO: erro aqui [2026-08-14 14:03:12] production.INFO: passou [2026-08-14 14:03:12] production.ERROR: Erro ao salvar Erro ao salvar o quê ? De qual usuário? Qual pedido? Qual valor? Aquele entrou da linha de cima é do mesmo request ou de outro cliente que estava usando o sistema no mesmo segundo? Você tem log. Você não tem informação. São coisas diferentes. O problema não é a falta de log. É o excesso de log inútil. public function emitir ( Pedido $pedido ) { Log :: info ( 'entrou no emitir' ); try { $nota = $this -> sefaz -> emitir ( $pedido ); Log :: info ( 'emitiu' ); } catch ( Throwable $e ) { // parabéns, você registrou que algo deu errado em algum lugar 🎉 Log :: error ( 'Erro ao emitir nota' ); return back () -> withErrors ( 'Falha na emissão' ); } } Repara no que esse catch jogou no lixo: a mensagem da exceção, o stack trace, o ID do pedido, o CNPJ, o retorno da SEFAZ. Tudo estava ali, na mão, e foi substituído por uma frase genérica. E os Log::info('entrou') espalhados? Aquilo foi debug que virou permanente. Hoje eles só servem pra empurrar as linhas úteis pra fora da tela. Duas perguntas que todo log precisa responder Um log serve pra duas plateias: você, com sono, às 3h da manhã — e uma máquina , filtrando milhões de linhas. As duas querem a mesma coisa: O que aconteceu , numa mensagem que não muda nunca. Com quem aconteceu , em dados separados da mensagem. Essa separação é o pulo do gato. Repare na diferença: // ❌ mensagem única pra cada pedido. impossível agrupar ou contar. Log :: error ( "Falha ao emitir nota do pedido { $pedido -> id } do cliente { $cliente -> nome } " ); // ✅ mensagem estável + contexto estruturado Log :: error ( 'Falha ao emitir nota fiscal' , [ 'pedido_id' => $pedido -> id , 'cliente_id' => $cliente -> id , 'valor' => $pedido -> total , 'sefaz_code' => $e -> getCode (), 'exception' => $e , ]); A primeira versão gera 4.000 mensagens diferentes. Você nunca vai conseguir dizer "esse erro aconteceu 312 vezes hoje". A segunda gera uma mensagem com 312 contextos diferentes. Dá pra contar, agrupar, filtrar por cliente e montar alerta. E passar a exceção inteira em 'exception' => $e traz o stack trace de graça. O trace_id: o fio que costura o request Agora a parte que muda sua vida de verdade. Mesmo com bom contexto, seu log é um monte de linhas intercaladas de 200 usuários simultâneos. O que falta é saber quais linhas pertencem à mesma requisição . Um middleware resolve: class AdicionarContexto { public function handle ( Request $request , Closure $next ): Response { Context :: add ( 'trace_id' , Str :: uuid () -> toString ()); Context :: add ( 'url' , $request -> url ()); Context :: add ( 'user_id' , $request -> user () ?-> id ); return $next ( $request ); } } A partir daí, todo log escrito naquele request carrega esses dados automaticamente: [ 2026-08-14 14 : 03 : 11 ] production.ERROR: Falha ao emitir nota fiscal { "pedido_id" : 1042 , "sefaz_code" : 539 } { "trace_id" : "e04e1a11-e75c-4db3-b5b5" , "url" : "https://app.com/pedidos/1042/emitir" , "user_id" : 88 } Um grep e04e1a11 e você tem a história completa daquele request, em ordem, sem nada de ninguém mais no meio. E tem um bônus enorme: o contexto atravessa a fila. Job despachado dentro daquele request leva o trace_id junto e continua logando com ele. Você consegue seguir o rastro do clique do usuário até o job que rodou três minutos depois em outro processo. Devolva o ID no header também ( $response->headers->set('X-Trace-Id', ...) ) e mostre na tela de erro. O cliente passa a te mandar o código em vez de "deu erro às duas da tarde". Níveis existem, use-os Isso é o que faz seu log ficar pequeno de novo. Meu critério, sem cerimônia: debug — investigação. Não vai pra produção ( LOG_LEVEL=info corta). info — fato de negócio relevante: "pedido pago", "nota emitida". warning — deu ruim mas contornamos: API lenta, retry funcionou. error — o usuário foi prejudicado. Isso deveria virar alerta. critical — o sistema está fora. Se tudo no seu projeto é info , você não tem níveis — tem um echo com data. A pegadinha que dá multa Essa não é sobre organização, é sobre risco: // 💀 nunca Log :: info ( 'Request recebido' , $request -> all ()); Aí vai senha, token, número de cartão, CPF — em texto puro, num arquivo que a equipe toda lê, que vai pro backup e talvez pro Datadog. É incidente de segurança e é LGPD. Logue IDs, não conteúdo. Se precisar do payload, filtre antes com $request->except(['password', 'card_number', 'cpf']) . Bônus: JSON e o próximo passo Se você já joga log em Loki, CloudWatch ou Datadog, troque o formatter do canal por JsonFormatter . Cada linha vira um objeto pesquisável e aquele grep heroico dá lugar a uma query de verdade. E se precisar carregar algo no contexto sem que apareça nos logs (um ID interno pra correlacionar com outro sistema), existe Context::addHidden() . Antes de você fechar a aba Log bom não é log detalhado. É log que responde uma pergunta. Da próxima vez que você escrever um Log:: , faça o teste rápido: daqui a seis meses, de madrugada, essa linha me diz o que fazer? Se a resposta é "eu ia precisar abrir o código pra entender", falta contexto. Custa cinco segundos escrever um array em vez de uma string. Você recupera esse tempo no primeiro incidente. Me conta: qual a mensagem de log mais inútil que você já achou em produção? Eu tenho Log::info('aqui') , Log::info('aqui2') e — meu favorito — um Log::error('nao era pra chegar aqui') sem nenhum contexto, num sistema com 300 usuários. Chegou. 😅
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
