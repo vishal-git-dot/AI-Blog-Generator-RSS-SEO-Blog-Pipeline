@@ -6477,6 +6477,17 @@
         "file": "ai-agent-vs-llm-why-just-calling-the-openai-api-doesnt-give-you-an-agent-and-what-does.md"
     },
     {
+        "title": "A Ilusão da Disponibilidade Ininterrupta e o Esgotamento Operacional",
+        "slug": "a-iluso-da-disponibilidade-ininterrupta-e-o-esgotamento-operacional",
+        "author": "Erick Martins",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 12:44:03 +0000",
+        "description": "Responder a mensagens de clientes durante a noite, fins de semana e feriados é um hábito comum entre empresários que acreditam que a disponibilidade integral...",
+        "keywords": "que, essa, uma, expediente, para, disponibilidade, mensagens, respostas",
+        "generated": "2026-08-18T12:55:35.959017",
+        "file": "a-iluso-da-disponibilidade-ininterrupta-e-o-esgotamento-operacional.md"
+    },
+    {
         "title": "High-Ticket vs Volume: Which Affiliate Strategy Actually Pays More?",
         "slug": "high-ticket-vs-volume-which-affiliate-strategy-actually-pays-more",
         "author": "keen",
@@ -9709,6 +9720,17 @@
         "keywords": "product, white, background, products, prompt, photos, images, prompts",
         "generated": "2026-07-02T19:40:41.067467",
         "file": "stop-overpaying-for-photos-5-chatgpt-prompts-for-white-background-product-photos.md"
+    },
+    {
+        "title": "useMemo and useCallback: 5 things that actually trip people up",
+        "slug": "usememo-and-usecallback-5-things-that-actually-trip-people-up",
+        "author": "Tarun Sharma",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 12:47:54 +0000",
+        "description": "Both of these get memorized as syntax pretty fast. What doesn't get memorized is what they're actually doing under the hood, and that's where the bugs show u...",
+        "keywords": "you, function, usememo, usecallback, every, render, actually, value",
+        "generated": "2026-08-18T12:55:35.958851",
+        "file": "usememo-and-usecallback-5-things-that-actually-trip-people-up.md"
     },
     {
         "title": "Chaosnet",
@@ -14694,6 +14716,17 @@
         "file": "show-hn-kicad-in-the-browser.md"
     },
     {
+        "title": "Site Reliability Engineering Online Training | SRE Course",
+        "slug": "site-reliability-engineering-online-training-sre-course",
+        "author": "rakesh visualpath",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 12:48:16 +0000",
+        "description": "Build DevOps Skills with SRE Online Training Introduction SRE Online Training helps learners understand how modern teams build, run, and maintain reliable so...",
+        "keywords": "sre, can, reliability, systems, monitoring, training, teams, automation",
+        "generated": "2026-08-18T12:55:35.958577",
+        "file": "site-reliability-engineering-online-training-sre-course.md"
+    },
+    {
         "title": "Profitable Venice AI Snags $1B Crown on Privacy Bet",
         "slug": "profitable-venice-ai-snags-1b-crown-on-privacy-bet",
         "author": "XOOMAR",
@@ -18753,6 +18786,17 @@
         "file": "three-internet-finds-2026-08-17.md"
     },
     {
+        "title": "Should Your Business Build Its Own Layer 1 Blockchain or Use an Existing Network?",
+        "slug": "should-your-business-build-its-own-layer-1-blockchain-or-use-an-existing-network",
+        "author": "emma Thompson",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 12:49:21 +0000",
+        "description": "Choosing the right blockchain infrastructure can affect development cost, scalability, security, network control, and long-term operations. While an independ...",
+        "keywords": "blockchain, network, development, layer, business, can, existing, infrastructure",
+        "generated": "2026-08-18T12:55:35.961612",
+        "file": "should-your-business-build-its-own-layer-1-blockchain-or-use-an-existing-network.md"
+    },
+    {
         "title": "Changes to LLM pricing: Novita",
         "slug": "changes-to-llm-pricing-novita",
         "author": "Narev Bot",
@@ -21248,6 +21292,17 @@
         "keywords": "checked, input, track, thumb, switch, checkbox, toggle, css",
         "generated": "2026-08-07T19:04:02.695225",
         "file": "the-ios-toggle-switch-is-a-hidden-checkbox-two-css-rules-and-zero-javascript.md"
+    },
+    {
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "slug": "linux-73-improves-performance-when-running-out-of-vram",
+        "author": "flaburgan",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 07:51:50 +0000",
+        "description": "Article URL: https://pixelcluster.dev/VRAM-Overcommit/ Comments URL: https://news.ycombinator.com/item?id=49342719 Points: 271 # Comments: 83",
+        "keywords": "vram, url, https, comments, linux, improves, performance, when",
+        "generated": "2026-08-18T12:55:35.954699",
+        "file": "linux-73-improves-performance-when-running-out-of-vram.md"
     },
     {
         "title": "[Part 70/100] Strength-Based Engineering Leadership: Aligning Roles with Persona Radar",
@@ -24427,6 +24482,17 @@
         "file": "texas-man-gets-30-years-in-prison-for-transporting-anti-government-pamphlets.md"
     },
     {
+        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+        "slug": "as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value",
+        "author": "xoa",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 11:27:03 +0000",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/ Comments URL: https://news.yco...",
+        "keywords": "wisconsin, cities, flee, flock, its, shared, camera, network",
+        "generated": "2026-08-18T12:55:35.954356",
+        "file": "as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value.md"
+    },
+    {
         "title": "Lost Luggage, Found Fast: The Tech Behind Smart NFC Travel Tags",
         "slug": "lost-luggage-found-fast-the-tech-behind-smart-nfc-travel-tags",
         "author": "Profile Tap",
@@ -24447,6 +24513,17 @@
         "keywords": "website, design, business, startups, pune, your, online, one",
         "generated": "2026-07-24T13:55:42.404308",
         "file": "website-design-for-startups-in-pune-build-your-business-online.md"
+    },
+    {
+        "title": "Finger: Social network that never died",
+        "slug": "finger-social-network-that-never-died",
+        "author": "andros",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 07:21:35 +0000",
+        "description": "Article URL: https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/ Comments URL: https://news.ycombinator.com/item?id=49342472 ...",
+        "keywords": "finger, social, network, never, died, url, https, comments",
+        "generated": "2026-08-18T12:55:35.954902",
+        "file": "finger-social-network-that-never-died.md"
     },
     {
         "title": "AI for Small Shopify Brands: Elevate Your Content & Operations",
@@ -26634,6 +26711,17 @@
         "file": "sunburst-charts-in-2026-transforming-hierarchical-data-into-actionable-business-insights.md"
     },
     {
+        "title": "I Wish I Knew AI Coding Models Sooner — Here's the Full Breakdown",
+        "slug": "i-wish-i-knew-ai-coding-models-sooner-heres-the-full-breakdown",
+        "author": "RileyKim",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 12:32:25 +0000",
+        "description": "I Wish I Knew AI Coding Models Sooner — Here's the Full Breakdown Last quarter my burn rate went sideways. Not because we hired anyone new, not because we sh...",
+        "keywords": "deepseek, model, code, coder, you, flash, because, what",
+        "generated": "2026-08-18T12:55:35.958027",
+        "file": "i-wish-i-knew-ai-coding-models-sooner-heres-the-full-breakdown.md"
+    },
+    {
         "title": "I built a full-screen news reader that lives in the terminal",
         "slug": "i-built-a-full-screen-news-reader-that-lives-in-the-terminal",
         "author": "Nishal K",
@@ -27358,6 +27446,17 @@
         "keywords": "you, your, stock, alert, bot, python, price, email",
         "generated": "2026-07-13T19:35:56.129515",
         "file": "build-a-stock-price-alert-bot-with-python.md"
+    },
+    {
+        "title": "When AI Agents Turn on Each Other: Anthropic's Frontier Red Team Exposes Six Deadly Failure Modes in Multi-Agent Systems",
+        "slug": "when-ai-agents-turn-on-each-other-anthropics-frontier-red-team-exposes-six-deadly-failure-modes-in-multi-agent-systems",
+        "author": "Sanya",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 12:47:01 +0000",
+        "description": "I. What the Research Actually Found The report is titled Patterns and problems in emerging multiagent systems, published by Anthropic's internal Frontier R...",
+        "keywords": "agent, not, agents, model, human, anthropic, coordination, each",
+        "generated": "2026-08-18T12:55:35.962246",
+        "file": "when-ai-agents-turn-on-each-other-anthropics-frontier-red-team-exposes-six-deadly-failure-modes-in-multi-agent-systems.md"
     },
     {
         "title": "The Developer's Guide To AI Accessibility Tools",
@@ -29723,6 +29822,17 @@
         "file": "python.md"
     },
     {
+        "title": "DeepSeek's New Peak-Pricing Model: What Developers Need to Know",
+        "slug": "deepseeks-new-peak-pricing-model-what-developers-need-to-know",
+        "author": "Mattias chaw",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 12:46:45 +0000",
+        "description": "DeepSeek's New Peak-Pricing Model: What Developers Need to Know On August 17, 2026, I opened a cost dashboard and found a new variable in the wrong place: th...",
+        "keywords": "rate, route, peak, deepseek, output, input, model, flash",
+        "generated": "2026-08-18T12:55:35.955549",
+        "file": "deepseeks-new-peak-pricing-model-what-developers-need-to-know.md"
+    },
+    {
         "title": "Understanding Forward-Deployed Engineers: Distinct…",
         "slug": "understanding-forward-deployed-engineers-distinct",
         "author": "Norvik Tech",
@@ -30095,6 +30205,17 @@
         "keywords": "ban, residential, proxies, smart, apps, url, https, com",
         "generated": "2026-07-22T08:36:37.025545",
         "file": "lg-to-ban-residential-proxies-from-smart-tv-apps.md"
+    },
+    {
+        "title": "AI-Powered DevOps Pipeline: Real-World Example, Best Practices & Future",
+        "slug": "ai-powered-devops-pipeline-real-world-example-best-practices-future",
+        "author": "Infowind Technologies",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 12:46:52 +0000",
+        "description": "Real-World AI DevOps Pipeline Example Let's take an example of a US-based SaaS business that ships new functionality a few times a week. A good example to il...",
+        "keywords": "can, devops, code, deployment, infrastructure, security, automation, pipeline",
+        "generated": "2026-08-18T12:55:35.963318",
+        "file": "ai-powered-devops-pipeline-real-world-example-best-practices-future.md"
     },
     {
         "title": "How to Extract Clean Content From Any URL in 3 Lines of Python",
@@ -32376,6 +32497,17 @@
         "keywords": "data, dell, management, solutions, tech, norvik, businesses, various",
         "generated": "2026-06-09T15:18:05.200369",
         "file": "dells-ambitions-in-data-manag.md"
+    },
+    {
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "slug": "google-buys-crashed-airline-spirits-data-at-auction-because-ai",
+        "author": "pseudolus",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 10:13:28 +0000",
+        "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://ne...",
+        "keywords": "google, buys, crashed, airline, data, auction, because, url",
+        "generated": "2026-08-18T12:55:35.954580",
+        "file": "google-buys-crashed-airline-spirits-data-at-auction-because-ai.md"
     },
     {
         "title": "How to Buy Old Facebook Accounts: A Complete Guide 2",
@@ -36083,6 +36215,17 @@
         "file": "debian-has-begun-voting-on-the-future-of-aillm-contributions.md"
     },
     {
+        "title": "My AI API Cost Spreadsheet: 184 Models, Real Production Numbers",
+        "slug": "my-ai-api-cost-spreadsheet-184-models-real-production-numbers",
+        "author": "gentlenode",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 12:46:39 +0000",
+        "description": "Look, my AI API Cost Spreadsheet: 184 Models, Real Production Numbers I keep a spreadsheet. Not because I'm obsessive (okay, maybe a little), but because AI ...",
+        "keywords": "you, direct, enterprise, tier, month, model, deepseek, api",
+        "generated": "2026-08-18T12:55:35.956294",
+        "file": "my-ai-api-cost-spreadsheet-184-models-real-production-numbers.md"
+    },
+    {
         "title": "How to get US inflation data by API — CPI since 1913 (2026 guide)",
         "slug": "how-to-get-us-inflation-data-by-api-cpi-since-1913-2026-guide",
         "author": "Synergic-Apis",
@@ -36389,6 +36532,17 @@
         "keywords": "url, https, com, comments, show, one, more, letter",
         "generated": "2026-07-16T03:13:36.749670",
         "file": "show-hn-one-more-letter.md"
+    },
+    {
+        "title": "Every Laptop Is a Credential Store: Complete Map of Hidden Secrets",
+        "slug": "every-laptop-is-a-credential-store-complete-map-of-hidden-secrets",
+        "author": "Dwayne McDaniel",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 12:50:18 +0000",
+        "description": "👉 TL;DR: A developer's laptop quietly becomes one of the densest credential stores in the organization. Cloud keys sit in ~/.aws, tokens pile up in shell his...",
+        "keywords": "credentials, files, credential, secrets, tokens, developer, keys, what",
+        "generated": "2026-08-18T12:55:35.960666",
+        "file": "every-laptop-is-a-credential-store-complete-map-of-hidden-secrets.md"
     },
     {
         "title": "My Homework Help: A Smarter Way for UK Students to Manage Study Challenges",
@@ -40714,6 +40868,17 @@
         "file": "bde-score-open-source-multi-factor-stock-analysis-tool-covering-us-hk-a-share-markets.md"
     },
     {
+        "title": "Rethinking Database Programming",
+        "slug": "rethinking-database-programming",
+        "author": "honungsburk",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 07:28:27 +0000",
+        "description": "Article URL: https://acadia.engineering/blog/rethinking-database-programming Comments URL: https://news.ycombinator.com/item?id=49342530 Points: 110 # Commen...",
+        "keywords": "rethinking, database, programming, url, https, comments, article, acadia",
+        "generated": "2026-08-18T12:55:35.954801",
+        "file": "rethinking-database-programming.md"
+    },
+    {
         "title": "Preparo las oposiciones TIC con IA: así lo hago",
         "slug": "preparo-las-oposiciones-tic-con-ia-as-lo-hago",
         "author": "David García",
@@ -41075,6 +41240,17 @@
         "keywords": "class, div, que, option, button, btn, estado, idempresa",
         "generated": "2026-06-07T04:26:51.965640",
         "file": "simple-pero-poderoso-crud-dinmico-con-flask-javascript-y-fetch-api.md"
+    },
+    {
+        "title": "Building OmegleVC: From Random Video Chat to a Real-Time Social Platform",
+        "slug": "building-omeglevc-from-random-video-chat-to-a-real-time-social-platform",
+        "author": "Sourya Singh",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 12:42:08 +0000",
+        "description": "We are building OmegleVC, a real-time social platform focused on making it easier for people to meet and communicate with new people online. What started as ...",
+        "keywords": "real, time, platform, omeglevc, building, video, random, chat",
+        "generated": "2026-08-18T12:55:35.959260",
+        "file": "building-omeglevc-from-random-video-chat-to-a-real-time-social-platform.md"
     },
     {
         "title": "Why I stopped using ChatGPT for code reviews",
@@ -42032,6 +42208,17 @@
         "keywords": "regime, self, your, confidence, freqtrade, bot, api, action",
         "generated": "2026-06-09T09:59:01.258301",
         "file": "add-a-regime-filter-to-any-freqtrade-strategy-in-10-minutes.md"
+    },
+    {
+        "title": "If you can draw the flowchart, you don't need an agent",
+        "slug": "if-you-can-draw-the-flowchart-you-dont-need-an-agent",
+        "author": "Will Dady",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 12:50:00 +0000",
+        "description": "I've read a lot of vendor websites this year and almost all of them sell agents. Most of them aren't shipping agents. They're shipping a chat window with a c...",
+        "keywords": "you, agent, what, can, which, there, flowchart, agents",
+        "generated": "2026-08-18T12:55:35.961284",
+        "file": "if-you-can-draw-the-flowchart-you-dont-need-an-agent.md"
     },
     {
         "title": "Python for Beginners — Part 6: Functions",
@@ -49118,6 +49305,17 @@
         "file": "i-spent-47-testing-deepseek-vs-qwen-vs-kimi-vs-glm-on-client-work.md"
     },
     {
+        "title": "Private Video Delivery Without Breaking Seeking: Signed URLs, Range Requests, and Expiry",
+        "slug": "private-video-delivery-without-breaking-seeking-signed-urls-range-requests-and-expiry",
+        "author": "GalleryDock",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 12:33:47 +0000",
+        "description": "A private video works perfectly when you press play. Then you drag the timeline to 12:43. The player spins for a few seconds and fails. This is a common prob...",
+        "keywords": "video, range, media, playback, path, authorization, signature, application",
+        "generated": "2026-08-18T12:55:35.959753",
+        "file": "private-video-delivery-without-breaking-seeking-signed-urls-range-requests-and-expiry.md"
+    },
+    {
         "title": "I Ranked 30 AI APIs by Price and the Results Are Wild",
         "slug": "i-ranked-30-ai-apis-by-price-and-the-results-are-wild",
         "author": "fiercedash",
@@ -52351,6 +52549,17 @@
         "file": "your-pipeline-is-243h-behind-catching-commodities-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Top 45 Places to Buy Aged LinkedIn Accounts 2026",
+        "slug": "top-45-places-to-buy-aged-linkedin-accounts-2026",
+        "author": "mexel20744@aghism.com",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 12:44:22 +0000",
+        "description": "Buy Verified LinkedIn Accounts ◈{{🦋🦋}}◈➤Fast Reply 24/7 | Instant Support 🚀 ◈{{🦋🦋}}◈➤Telegram: @progmbofficial ◈{{🦋🦋}}◈➤WhatsApp: +1 (920) 212-9737 ◈{{🦋🦋}}◈➤...",
+        "keywords": "linkedin, accounts, verified, professional, your, account, buy, can",
+        "generated": "2026-08-18T12:55:35.956946",
+        "file": "top-45-places-to-buy-aged-linkedin-accounts-2026.md"
+    },
+    {
         "title": "How to Monitor Your FastAPI Application with Vigilmon (Python)",
         "slug": "how-to-monitor-your-fastapi-application-with-vigilmon-python",
         "author": "Vigilmon",
@@ -54890,6 +55099,17 @@
         "keywords": "github, copilot, release, roundup, without, official, changelog, reading",
         "generated": "2026-08-15T01:34:58.727873",
         "file": "reading-a-github-copilot-release-roundup-without-overclaiming.md"
+    },
+    {
+        "title": "The Matrix of Python: Tricks for Competitive Programming You Didn't Know",
+        "slug": "the-matrix-of-python-tricks-for-competitive-programming-you-didnt-know",
+        "author": "Timevolt",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 12:43:43 +0000",
+        "description": "The Quest Begins (The “Why”) I still remember the first time I tried to solve a problem that asked for the maximum sub‑array sum in a list of 200 000 integer...",
+        "keywords": "you, arr, line, accumulate, one, your, bisect, list",
+        "generated": "2026-08-18T12:55:35.957468",
+        "file": "the-matrix-of-python-tricks-for-competitive-programming-you-didnt-know.md"
     },
     {
         "title": "Cómo corrijo 30 exámenes en 20 minutos con IA (y lo que sigo haciendo yo)",
