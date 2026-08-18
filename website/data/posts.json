@@ -451,6 +451,17 @@
         "file": "designing-emoji-for-the-way-we-communicate-today.md"
     },
     {
+        "title": "15 Free Client-Side Accessibility Tools That Never Upload Your Code",
+        "slug": "15-free-client-side-accessibility-tools-that-never-upload-your-code",
+        "author": "cadguide.tools",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 01:32:57 +0000",
+        "description": "As web developers preparing for the European Accessibility Act (EAA) and WCAG 2.2 requirements, ensuring our web applications are fully accessible has become...",
+        "keywords": "accessibility, web, your, wcag, text, client, code, color",
+        "generated": "2026-08-18T01:34:47.477300",
+        "file": "15-free-client-side-accessibility-tools-that-never-upload-your-code.md"
+    },
+    {
         "title": "Self-contained highly-portable Python distributions",
         "slug": "self-contained-highly-portable-python-distributions",
         "author": "jcbhmr",
@@ -5665,6 +5676,17 @@
         "file": "linux-on-the-sega-32x-who-needs-hardware-synchronization-primitives-anyway.md"
     },
     {
+        "title": "Changes to LLM pricing: Alibaba, Baidu, Novita and StreamLake",
+        "slug": "changes-to-llm-pricing-alibaba-baidu-novita-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 01:20:34 +0000",
+        "description": "Model price changes detected for Alibaba, Baidu, Novita and StreamLake. Details below.",
+        "keywords": "changes, alibaba, baidu, novita, streamlake, llm, pricing, model",
+        "generated": "2026-08-18T01:34:47.478549",
+        "file": "changes-to-llm-pricing-alibaba-baidu-novita-and-streamlake.md"
+    },
+    {
         "title": "I'm 16. I have never built hardware. So I published the parts I got wrong.",
         "slug": "im-16-i-have-never-built-hardware-so-i-published-the-parts-i-got-wrong",
         "author": "Vyldor",
@@ -8688,6 +8710,17 @@
         "file": "building-a-privacy-first-static-interpretation-tool-with-nextjs-and-vercel.md"
     },
     {
+        "title": "Opinion: AI Should Fill systemd Templates Instead of Writing Units",
+        "slug": "opinion-ai-should-fill-systemd-templates-instead-of-writing-units",
+        "author": "Avery Lin",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 01:24:08 +0000",
+        "description": "The useful line for AI in systemd management is not the line between a correct unit and an incorrect unit. It is the line between a boundary that has already...",
+        "keywords": "template, unit, model, not, service, systemd, file, should",
+        "generated": "2026-08-18T01:34:47.478172",
+        "file": "opinion-ai-should-fill-systemd-templates-instead-of-writing-units.md"
+    },
+    {
         "title": "10x PRs, 1x Reviewers: The Code-Quality Bottleneck",
         "slug": "10x-prs-1x-reviewers-the-code-quality-bottleneck",
         "author": "Max Quimby",
@@ -9601,6 +9634,17 @@
         "file": "cross-lingual-entity-resolution-why-your-knowledge-graph-has-four-samsungs.md"
     },
     {
+        "title": "Top 9 Reputable and Established Cryptocurrency Recovery Companies: Consult, ZEUS CRYPTO RECOVERY SERVICES",
+        "slug": "top-9-reputable-and-established-cryptocurrency-recovery-companies-consult-zeus-crypto-recovery-services",
+        "author": "Freddie Oscar",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 01:08:05 +0000",
+        "description": "Zeus Crypto Recovery Services specializes in recovering lost or stolen cryptocurrency using advanced blockchain analysis and wallet restoration techniques. Z...",
+        "keywords": "recovery, zeus, crypto, services, lost, wallets, cryptocurrency, blockchain",
+        "generated": "2026-08-18T01:34:47.477653",
+        "file": "top-9-reputable-and-established-cryptocurrency-recovery-companies-consult-zeus-crypto-recovery-services.md"
+    },
+    {
         "title": "Forget the $5,000 Bootcamp: The Definitive, Open-Source AI & Data Engineering Syllabus for 2026",
         "slug": "forget-the-5000-bootcamp-the-definitive-open-source-ai-data-engineering-syllabus-for-2026",
         "author": "Shweta Mishra",
@@ -10347,6 +10391,17 @@
         "keywords": "gpu, training, memory, can, nvidia, large, compute, workloads",
         "generated": "2026-08-11T13:17:02.098151",
         "file": "nvidia-b300-gpu-server-for-llm-training-benefits-and-performance.md"
+    },
+    {
+        "title": "How Bluesky draws its logo on screenshots",
+        "slug": "how-bluesky-draws-its-logo-on-screenshots",
+        "author": "gavide",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 22:20:40 +0000",
+        "description": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 202 # Comments: 144",
+        "keywords": "bluesky, screenshots, url, https, comments, how, draws, its",
+        "generated": "2026-08-18T01:34:47.475321",
+        "file": "how-bluesky-draws-its-logo-on-screenshots.md"
     },
     {
         "title": "The New SDLC for Project Managers: Vibe Coding vs Agentic Engineering",
@@ -12415,6 +12470,17 @@
         "keywords": "lines, content, extraction, self, json, text, client, model",
         "generated": "2026-06-27T13:54:40.043897",
         "file": "using-llms-in-biology-a-guide.md"
+    },
+    {
+        "title": "A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun",
+        "slug": "a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun",
+        "author": "Jordan Huang",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 01:30:03 +0000",
+        "description": "A single wrong severity label can push a bad dependency upgrade into production. An advisory said moderate. The package in our tree was critical. The model...",
+        "keywords": "model, not, advisory, test, package, action, expected, severity",
+        "generated": "2026-08-18T01:34:47.475606",
+        "file": "a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun.md"
     },
     {
         "title": "How to Track Public Tenders from UK and EU Sources with Apify",
@@ -17477,6 +17543,17 @@
         "file": "agent-frost.md"
     },
     {
+        "title": "An ambiguity gate for AI coding agents: measure the request before writing code",
+        "slug": "an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code",
+        "author": "Q00",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 01:27:41 +0000",
+        "description": "Every AI coding agent I have used will happily start writing code from a one-line request. Build a task management CLI leaves the data model, storage, prio...",
+        "keywords": "gate, you, request, spec, not, ambiguity, agent, one",
+        "generated": "2026-08-18T01:34:47.477505",
+        "file": "an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code.md"
+    },
+    {
         "title": "OpenAI IPO Preparations: Shazeer and Ball Join Ahead of Stock Debut",
         "slug": "openai-ipo-preparations-shazeer-and-ball-join-ahead-of-stock-debut",
         "author": "Grant Klimaytys",
@@ -19774,6 +19851,17 @@
         "keywords": "never, type, string, number, you, case, function, state",
         "generated": "2026-06-13T04:19:15.387602",
         "file": "mastering-typescripts-never-type-exhaustive-checks-conditional-types-and-real-patterns.md"
+    },
+    {
+        "title": "Pomodoro Timer — Free Online Tool",
+        "slug": "pomodoro-timer-free-online-tool",
+        "author": "BAOMING",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 01:07:43 +0000",
+        "description": "Pomodoro Timer — Free Online Tool Open Pomodoro Timer and get what you need instantly. Free. No signup. No download. Everything stays in your browser. Boost ...",
+        "keywords": "your, timer, you, pomodoro, can, tool, free, productivity",
+        "generated": "2026-08-18T01:34:47.477819",
+        "file": "pomodoro-timer-free-online-tool.md"
     },
     {
         "title": "A CSV quality report should not echo the data it rejects",
@@ -23164,6 +23252,17 @@
         "file": "how-to-make-500month-with-python-automation.md"
     },
     {
+        "title": "What is DeepSeek-Harness? A Complete Introduction",
+        "slug": "what-is-deepseek-harness-a-complete-introduction",
+        "author": "Justin3go",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 01:22:03 +0000",
+        "description": "DeepSeek-Harness, commonly shortened to dsh , is an open-source agent harness built by DeepSeek AI. Its defining idea is everything is a plugin: the CLI, t...",
+        "keywords": "dsh, plugin, deepseek, plugins, harness, ctx, tools, you",
+        "generated": "2026-08-18T01:34:47.478483",
+        "file": "what-is-deepseek-harness-a-complete-introduction.md"
+    },
+    {
         "title": "Decrypting View State Messages",
         "slug": "decrypting-view-state-messages",
         "author": "speckx",
@@ -23241,6 +23340,17 @@
         "file": "sp-downgrades-oracle-to-bbb-only-one-notch-above-junk-level.md"
     },
     {
+        "title": "PM Carney announces largest clean energy investment in North American history",
+        "slug": "pm-carney-announces-largest-clean-energy-investment-in-north-american-history",
+        "author": "garbawarb",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 00:25:26 +0000",
+        "description": "Article URL: https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north Comments URL: https:...",
+        "keywords": "news, carney, announces, largest, clean, energy, investment, north",
+        "generated": "2026-08-18T01:34:47.474909",
+        "file": "pm-carney-announces-largest-clean-energy-investment-in-north-american-history.md"
+    },
+    {
         "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
         "slug": "frameworks-10g-ethernet-module-exposes-usb-cs-complexity",
         "author": "Alupis",
@@ -23250,6 +23360,17 @@
         "keywords": "framework, ethernet, module, usb, complexity, url, https, com",
         "generated": "2026-06-26T04:12:11.596413",
         "file": "frameworks-10g-ethernet-module-exposes-usb-cs-complexity.md"
+    },
+    {
+        "title": "Repair Cafe – Fix Your Broken Items",
+        "slug": "repair-cafe-fix-your-broken-items",
+        "author": "rglover",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 23:28:28 +0000",
+        "description": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 7 # Comments: 2",
+        "keywords": "url, https, comments, repair, cafe, fix, your, broken",
+        "generated": "2026-08-18T01:34:47.475102",
+        "file": "repair-cafe-fix-your-broken-items.md"
     },
     {
         "title": "Dōjō 道場 — karate made me do it.",
@@ -24262,6 +24383,17 @@
         "file": "website-design-for-startups-in-pune-build-your-business-online.md"
     },
     {
+        "title": "AI for Small Shopify Brands: Elevate Your Content & Operations",
+        "slug": "ai-for-small-shopify-brands-elevate-your-content-operations",
+        "author": "EShopSet",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 01:17:27 +0000",
+        "description": "Have you ever scrolled through online discussions, finding yourself nodding in agreement as fellow Shopify merchants share challenges that resonate deeply wi...",
+        "keywords": "content, small, shopify, brands, your, you, elevate, operations",
+        "generated": "2026-08-18T01:34:47.478630",
+        "file": "ai-for-small-shopify-brands-elevate-your-content-operations.md"
+    },
+    {
         "title": "Harness Engineering - Part 6: The Filesystem & Environment",
         "slug": "harness-engineering-part-6-the-filesystem-environment",
         "author": "Fikayo Adepoju",
@@ -24929,6 +25061,17 @@
         "keywords": "web, progressive, apps, react, app, step, guide, build",
         "generated": "2026-07-17T03:16:27.689056",
         "file": "build-progressive-web-apps-with-react-step-by-step-guide-2026.md"
+    },
+    {
+        "title": "Reading an IP Address Like a Security Analyst: A Field Guide",
+        "slug": "reading-an-ip-address-like-a-security-analyst-a-field-guide",
+        "author": "cris240493",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 01:18:16 +0000",
+        "description": "Every device on the internet is reachable through an IP address. Behind each address hides a story: a country, an organization, a network operator, and somet...",
+        "keywords": "address, residential, hosting, score, result, guide, threat, you",
+        "generated": "2026-08-18T01:34:47.476865",
+        "file": "reading-an-ip-address-like-a-security-analyst-a-field-guide.md"
     },
     {
         "title": "ICE Illegally Scooped Up Medicaid Data, Then Shared It with Palantir",
@@ -26478,6 +26621,17 @@
         "keywords": "url, https, comments, max, new, bar, coding, cowork",
         "generated": "2026-08-03T03:30:39.797988",
         "file": "qwen38-max-a-new-bar-for-coding-and-cowork.md"
+    },
+    {
+        "title": "Scalenut vs Longshot AI for Blog Writing: Which AI Content Tool Wins in 2026?",
+        "slug": "scalenut-vs-longshot-ai-for-blog-writing-which-ai-content-tool-wins-in-2026",
+        "author": "Han Jeongho",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 01:17:05 +0000",
+        "description": "Look, I've been watching the AI content tool space long enough to know most of the hype is complete garbage. But after actually testing both Scalenut and Lon...",
+        "keywords": "you, scalenut, longshot, writing, but, your, seo, blog",
+        "generated": "2026-08-18T01:34:47.479616",
+        "file": "scalenut-vs-longshot-ai-for-blog-writing-which-ai-content-tool-wins-in-2026.md"
     },
     {
         "title": "From Rust CLI bug-hunting to a massive Portfolio overhaul",
@@ -28588,6 +28742,17 @@
         "keywords": "article, you, need, cro, consultant, signs, your, performance",
         "generated": "2026-08-16T18:35:30.117084",
         "file": "do-you-need-a-b2b-cro-consultant-signs-your-performance-is-lagging.md"
+    },
+    {
+        "title": "DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect's Take",
+        "slug": "deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take",
+        "author": "bolddeck",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 01:29:48 +0000",
+        "description": "DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect's Take I've been running LLM workloads in production for the better part of three years now, and the past ...",
+        "keywords": "glm, kimi, model, deepseek, you, chinese, qwen, when",
+        "generated": "2026-08-18T01:34:47.476290",
+        "file": "deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take.md"
     },
     {
         "title": "IN999 Password Reset Guide",
@@ -34983,6 +35148,17 @@
         "file": "you-dont-need-another-agent-you-need-a-linter.md"
     },
     {
+        "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
+        "slug": "flock-cameras-havent-improved-atlantas-crime-clearance-rates",
+        "author": "jimt1234",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 22:48:25 +0000",
+        "description": "Article URL: https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/ Comments URL: https://news.ycombinator.com/item?id=49338732 Poi...",
+        "keywords": "flock, cameras, atlanta, clearance, rates, url, https, com",
+        "generated": "2026-08-18T01:34:47.475258",
+        "file": "flock-cameras-havent-improved-atlantas-crime-clearance-rates.md"
+    },
+    {
         "title": "ИИ-бот в Telegram для видео: считаем цену ролика и цену риска",
         "slug": "telegram",
         "author": "Promptra Team",
@@ -40195,6 +40371,17 @@
         "keywords": "security, cyber, threat, source, philippines, philippine, attacks, data",
         "generated": "2026-07-25T03:16:45.367942",
         "file": "philippine-cyber-threats-doubled-in-h1-2026-as-ai-powered-attacks-reshape-the-battlefield.md"
+    },
+    {
+        "title": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业",
+        "slug": "ai3",
+        "author": "guojunzzc",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 01:06:58 +0000",
+        "description": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 - 专业深度内容，系统学习方法论与实战指南 分类 : 生活方式 原文链接 : AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 本文由 https://s...",
+        "keywords": "https, shuzishuniu, com",
+        "generated": "2026-08-18T01:34:47.476931",
+        "file": "ai3.md"
     },
     {
         "title": "Rent Floor Seating Apartments Hawally — تأجير جلسات أرضية عصرية في شقق حولي المطلة: استغلال أمثل للمساحات",
@@ -50579,6 +50766,17 @@
         "file": "running-claude-code-and-codex-together-instead-of-choosing-one.md"
     },
     {
+        "title": "Shadow-Test Free Model Endpoint Changes Before You Rely on Them",
+        "slug": "shadow-test-free-model-endpoint-changes-before-you-rely-on-them",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 01:25:50 +0000",
+        "description": "Most endpoint regressions stay invisible until a client breaks. A free model endpoint may change its timeout, envelope, or empty-response behavior without no...",
+        "keywords": "endpoint, prompt, conn, baseline, raw, prompts, candidate, json",
+        "generated": "2026-08-18T01:34:47.476677",
+        "file": "shadow-test-free-model-endpoint-changes-before-you-rely-on-them.md"
+    },
+    {
         "title": "Why Statistics is Important in Data Science",
         "slug": "why-statistics-is-important-in-data-science",
         "author": "jayson kibet",
@@ -54650,6 +54848,17 @@
         "file": "how-to-edit-a-docx-on-a-chromebook-without-installing-word.md"
     },
     {
+        "title": "We Audited 52 of the World's Top Websites for WCAG 2.2 — Here Is What Failed",
+        "slug": "we-audited-52-of-the-worlds-top-websites-for-wcag-22-here-is-what-failed",
+        "author": "cadguide.tools",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 01:32:58 +0000",
+        "description": "Web accessibility is often treated as an afterthought, even by the world's largest digital products. With the European Accessibility Act (EAA) deadline rapid...",
+        "keywords": "wcag, accessibility, websites, contrast, text, audited, world, top",
+        "generated": "2026-08-18T01:34:47.477120",
+        "file": "we-audited-52-of-the-worlds-top-websites-for-wcag-22-here-is-what-failed.md"
+    },
+    {
         "title": "My MCP Tool Fetches Before It Writes and Logs Every Change. It Never Checked Whether There Was Anything to Change.",
         "slug": "my-mcp-tool-fetches-before-it-writes-and-logs-every-change-it-never-checked-whether-there-was-anything-to-change",
         "author": "Enjoy Kumawat",
@@ -56848,6 +57057,17 @@
         "keywords": "url, https, com, comments, physicists, discover, hidden, gluon",
         "generated": "2026-08-17T01:39:21.435372",
         "file": "physicists-discover-a-hidden-gluon-structure-inside-protons.md"
+    },
+    {
+        "title": "Puppy PPE",
+        "slug": "puppy-ppe",
+        "author": "ChadNauseam",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 23:10:06 +0000",
+        "description": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde Comments URL: https://news.ycombinator.com/item?id=49338953 Points: 15 # Comments: 3",
+        "keywords": "ppe, url, com, comments, puppy, article, http, amosdudley",
+        "generated": "2026-08-18T01:34:47.475185",
+        "file": "puppy-ppe.md"
     },
     {
         "title": "Model Context Protocol (MCP) Explained: The Complete Beginner's Guide (2026)",
