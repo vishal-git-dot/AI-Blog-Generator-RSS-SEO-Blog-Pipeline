@@ -10398,9 +10398,9 @@
         "author": "gavide",
         "source": "hackernews",
         "published": "Mon, 17 Aug 2026 22:20:40 +0000",
-        "description": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 202 # Comments: 144",
+        "description": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 402 # Comments: 273",
         "keywords": "bluesky, screenshots, url, https, comments, how, draws, its",
-        "generated": "2026-08-18T01:34:47.475321",
+        "generated": "2026-08-18T06:52:25.236687",
         "file": "how-bluesky-draws-its-logo-on-screenshots.md"
     },
     {
@@ -16245,6 +16245,17 @@
         "file": "soft-navigations-in-chrome-151-how-to-prepare-and-what-to-measure.md"
     },
     {
+        "title": "Anthropic's Watermarking Controversy: Who Owns Your AI-Edited Words",
+        "slug": "anthropics-watermarking-controversy-who-owns-your-ai-edited-words",
+        "author": "jamilxt",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 06:38:45 +0000",
+        "description": "You typed it. Claude rewrote it. Then it watermarked its version and shipped it to your reader without telling either of you. Last week, Anthropic's text adu...",
+        "keywords": "anthropic, claude, watermark, watermarking, not, you, text, your",
+        "generated": "2026-08-18T06:52:25.244363",
+        "file": "anthropics-watermarking-controversy-who-owns-your-ai-edited-words.md"
+    },
+    {
         "title": "Cara bayar kredione lewat m-banking bca",
         "slug": "cara-bayar-kredione-lewat-m-banking-bca",
         "author": "Jolu Jolu",
@@ -18764,6 +18775,17 @@
         "file": "marketing-mastery-from-beginner-to-pro-part-4.md"
     },
     {
+        "title": "Reducing SaaS Sprawl: A Technical Approach to Building Connected Enterprise Systems",
+        "slug": "reducing-saas-sprawl-a-technical-approach-to-building-connected-enterprise-systems",
+        "author": "Axix Technologies LLC USA",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 06:36:39 +0000",
+        "description": "Enterprise software environments rarely become complex because of one bad technology decision. They become complex because organizations continuously add sol...",
+        "keywords": "can, another, system, saas, integration, data, enterprise, application",
+        "generated": "2026-08-18T06:52:25.245475",
+        "file": "reducing-saas-sprawl-a-technical-approach-to-building-connected-enterprise-systems.md"
+    },
+    {
         "title": "Streamlining Healthcare Code: Reengineering a $600 Billion Architecture Problem",
         "slug": "streamlining-healthcare-code-reengineering-a-600-billion-architecture-problem",
         "author": "Janaki",
@@ -18861,6 +18883,17 @@
         "keywords": "product, you, played, dashboards, but, without, have, users",
         "generated": "2026-07-21T19:39:11.840294",
         "file": "dashboards-that-save-you-from-burnout-and-despair-or-how-i-keep-building-my-online-game.md"
+    },
+    {
+        "title": "Your Hashed User IDs Are Still Personal Data Under GDPR",
+        "slug": "your-hashed-user-ids-are-still-personal-data-under-gdpr",
+        "author": "Mehwish Malik",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 06:36:44 +0000",
+        "description": "Plenty of engineering teams believe that hashing an email or swapping a real user ID for a random token takes a table out of GDPR scope . It does not, and th...",
+        "keywords": "data, personal, not, your, gdpr, still, table, does",
+        "generated": "2026-08-18T06:52:25.243212",
+        "file": "your-hashed-user-ids-are-still-personal-data-under-gdpr.md"
     },
     {
         "title": "Free HEIC to JPG and Live Photo Tools That Run in the Browser",
@@ -19147,6 +19180,17 @@
         "keywords": "sports, prediction, software, data, performance, technical, should, analytics",
         "generated": "2026-06-29T11:11:05.059672",
         "file": "ai-driven-sports-prediction-software-key-technical-specs-every-investor-should-understand.md"
+    },
+    {
+        "title": "How to Generate Unlimited Emails: Scaling Mass Registration Without Blocks or Captchas",
+        "slug": "how-to-generate-unlimited-emails-scaling-mass-registration-without-blocks-or-captchas",
+        "author": "OnlineProxy",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 06:40:34 +0000",
+        "description": "The digital landscape is currently defined by a paradox of access. While platforms demand an ever-increasing volume of personal identifiers—primarily email a...",
+        "keywords": "you, your, email, registration, use, all, they, proxies",
+        "generated": "2026-08-18T06:52:25.242992",
+        "file": "how-to-generate-unlimited-emails-scaling-mass-registration-without-blocks-or-captchas.md"
     },
     {
         "title": "Use GPT, Claude, and Gemini with the OpenAI SDK - one base_url, any language",
@@ -22020,6 +22064,17 @@
         "file": "crustc-entirety-of-rustc-translated-to-c.md"
     },
     {
+        "title": "Tenant Billing Software: How to Automate Energy Billing for Multi-Tenant Buildings",
+        "slug": "tenant-billing-software-how-to-automate-energy-billing-for-multi-tenant-buildings",
+        "author": "Ensmart Office",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 06:41:45 +0000",
+        "description": "Managing energy billing in a multi-tenant building can become surprisingly complicated. Different tenants may have different tariff structures, multiple ener...",
+        "keywords": "billing, tenant, can, energy, consumption, software, meter, data",
+        "generated": "2026-08-18T06:52:25.243727",
+        "file": "tenant-billing-software-how-to-automate-energy-billing-for-multi-tenant-buildings.md"
+    },
+    {
         "title": "BizNode's semantic memory (Qdrant) makes your bot smarter over time — it remembers past conversations and answers...",
         "slug": "biznodes-semantic-memory-qdrant-makes-your-bot-smarter-over-time-it-remembers-past-conversations-and-answers",
         "author": "shashikanth ramamurthy",
@@ -23367,9 +23422,9 @@
         "author": "rglover",
         "source": "hackernews",
         "published": "Mon, 17 Aug 2026 23:28:28 +0000",
-        "description": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 7 # Comments: 2",
+        "description": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 81 # Comments: 11",
         "keywords": "url, https, comments, repair, cafe, fix, your, broken",
-        "generated": "2026-08-18T01:34:47.475102",
+        "generated": "2026-08-18T06:52:25.236534",
         "file": "repair-cafe-fix-your-broken-items.md"
     },
     {
@@ -24216,6 +24271,17 @@
         "keywords": "agent, file, you, claude, rule, line, one, instruction",
         "generated": "2026-07-13T14:46:38.579170",
         "file": "how-i-write-claudemd-files-that-keep-my-ai-agent-on-track-5-hard-won-rules.md"
+    },
+    {
+        "title": "Your API Error Is HTML: Keep the Real Failure Behind an Agent's First Call",
+        "slug": "your-api-error-is-html-keep-the-real-failure-behind-an-agents-first-call",
+        "author": "vectronodeAPI",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 06:02:17 +0000",
+        "description": "An AI Agent can fail before a model sees the prompt. A proxy, wrong route, expired session, or upstream gateway may return HTML or plain text instead of the ...",
+        "keywords": "json, response, role, data, not, content, models, model",
+        "generated": "2026-08-18T06:52:25.238852",
+        "file": "your-api-error-is-html-keep-the-real-failure-behind-an-agents-first-call.md"
     },
     {
         "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
@@ -25501,6 +25567,17 @@
         "keywords": "agent, you, not, tool, workflow, monitoring, context, whether",
         "generated": "2026-06-19T10:46:49.271601",
         "file": "how-to-monitor-ai-agent-behavior-in-production-tools-metrics-and-what-to-alert-on.md"
+    },
+    {
+        "title": "How to Compress a GIF Without Losing Quality (2026 Guide)",
+        "slug": "how-to-compress-a-gif-without-losing-quality-2026-guide",
+        "author": "GavinGeng",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 06:42:58 +0000",
+        "description": "Let's be honest about why you're here. You have a 4MB animated GIF that's slowing down a product page, bouncing back from an email attachment limit, or getti...",
+        "keywords": "you, gif, colors, your, frame, frames, size, resize",
+        "generated": "2026-08-18T06:52:25.241022",
+        "file": "how-to-compress-a-gif-without-losing-quality-2026-guide.md"
     },
     {
         "title": "Halal Crypto Trading in Jordan: Clear Rules Before You Trade",
@@ -28579,6 +28656,17 @@
         "file": "the-return-of-google-data-studio-what-the-2026-rebrand-and-ai-upgrades-mean-for-analytics.md"
     },
     {
+        "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
+        "slug": "i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned",
+        "author": "Ranjeet Kumar Jena",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 06:43:22 +0000",
+        "description": "Introduction I kept running into the same problem across projects: pages that were, structurally, documents — a blog post, a portfolio, a product page — ship...",
+        "keywords": "stoneware, bun, framework, islands, not, build, page, you",
+        "generated": "2026-08-18T06:52:25.240385",
+        "file": "i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned.md"
+    },
+    {
         "title": "Landing Page vs Full Website:",
         "slug": "landing-page-vs-full-website",
         "author": "Malik Taleeb Shahbaz 1 4 9 7 4",
@@ -30695,6 +30783,17 @@
         "file": "ask-hn-add-flag-for-ai-generated-articles.md"
     },
     {
+        "title": "scScript for Linux",
+        "slug": "scscript-for-linux",
+        "author": "OptionOfT",
+        "source": "hackernews",
+        "published": "Mon, 17 Aug 2026 22:18:05 +0000",
+        "description": "Article URL: https://scapplications.com/ Comments URL: https://news.ycombinator.com/item?id=49338428 Points: 30 # Comments: 10",
+        "keywords": "url, https, com, comments, scscript, linux, article, scapplications",
+        "generated": "2026-08-18T06:52:25.236818",
+        "file": "scscript-for-linux.md"
+    },
+    {
         "title": "How to Exist",
         "slug": "how-to-exist",
         "author": "walterbell",
@@ -32136,6 +32235,17 @@
         "file": "python-os-and-shutil-file-operations-masterclass.md"
     },
     {
+        "title": "Why AI Agents Need Human Approval for High-Risk Actions",
+        "slug": "why-ai-agents-need-human-approval-for-high-risk-actions",
+        "author": "biz tech pulse hub",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 06:36:00 +0000",
+        "description": "`AI agents can now do much more than generate text. They can access databases, call APIs, create records, trigger workflows, and interact with business syste...",
+        "keywords": "approval, can, agent, human, automation, risk, actions, should",
+        "generated": "2026-08-18T06:52:25.245709",
+        "file": "why-ai-agents-need-human-approval-for-high-risk-actions.md"
+    },
+    {
         "title": "From ML Tooling to Analytical Governance: Recent Updates to KMDS",
         "slug": "from-ml-tooling-to-analytical-governance-recent-updates-to-kmds",
         "author": "Rajiv Sambasivan",
@@ -32519,6 +32629,17 @@
         "keywords": "security, your, sharepoint, what, access, you, compliance, audit",
         "generated": "2026-06-18T20:32:55.635791",
         "file": "how-to-build-a-nis2-compliant-automation-stack-without-buying-new-software.md"
+    },
+    {
+        "title": "The Benchmarkpocalypse",
+        "slug": "the-benchmarkpocalypse",
+        "author": "cyndunlop",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 02:11:02 +0000",
+        "description": "Article URL: https://danluu.com/benchpocalypse/ Comments URL: https://news.ycombinator.com/item?id=49340299 Points: 61 # Comments: 8",
+        "keywords": "url, https, com, comments, benchmarkpocalypse, article, danluu, benchpocalypse",
+        "generated": "2026-08-18T06:52:25.236402",
+        "file": "the-benchmarkpocalypse.md"
     },
     {
         "title": "AI Agent vs Automation App: Why 'It Taps Like You Do' Matters",
@@ -33540,6 +33661,17 @@
         "keywords": "kuwait, art, exhibition, hospitality, city, mall, https, chairs",
         "generated": "2026-07-24T03:18:16.302752",
         "file": "art-exhibition-hospitality-kuwait-city-mall.md"
+    },
+    {
+        "title": "Top 10 NationBuilder To WordPress Migration Companies",
+        "slug": "top-10-nationbuilder-to-wordpress-migration-companies",
+        "author": "Oliver Pitts",
+        "source": "devto_webdev",
+        "published": "Tue, 18 Aug 2026 06:41:06 +0000",
+        "description": "You've got a NationBuilder system but you're stuck with expensive enterprise constraints and vendor lock-in. Time to migrate to WordPress. Let's talk about w...",
+        "keywords": "they, wordpress, nationbuilder, campaign, email, handle, data, migration",
+        "generated": "2026-08-18T06:52:25.242389",
+        "file": "top-10-nationbuilder-to-wordpress-migration-companies.md"
     },
     {
         "title": "Frame – the first Linux Assembly X server",
@@ -36292,6 +36424,17 @@
         "file": "how-to-sequence-your-own-dna-at-home.md"
     },
     {
+        "title": "How to Benchmark Complex AI Pipelines Without PII: Designing a 200+ Synthetic Scenario Test Suite",
+        "slug": "how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite",
+        "author": "sharma-sugurthi",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 06:30:00 +0000",
+        "description": "Testing production AI applications in high-stakes domains, such as health insurance, legal tech, or financial services, presents a severe engineering dilemma...",
+        "keywords": "synthetic, test, across, model, scenario, testing, production, combinatorial",
+        "generated": "2026-08-18T06:52:25.237192",
+        "file": "how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite.md"
+    },
+    {
         "title": "How I Built a Gmail Automation Chrome Extension Using JavaScript and Flask",
         "slug": "how-i-built-a-gmail-automation-chrome-extension-using-javascript-and-flask",
         "author": "Tiny Task Pro",
@@ -38646,6 +38789,17 @@
         "file": "the-energetic-costs-of-cellular-computation-2012.md"
     },
     {
+        "title": "I wrote a scraper for a government agency's announcements — and learned why boring tools win",
+        "slug": "i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win",
+        "author": "Prime Sieve",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 06:02:08 +0000",
+        "description": "I wrote a scraper for a government agency's announcements — and learned why boring tools win Every morning at 6 AM, a small Python script on one VPS checks t...",
+        "keywords": "one, you, scraper, file, cron, when, agency, announcements",
+        "generated": "2026-08-18T06:52:25.239163",
+        "file": "i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win.md"
+    },
+    {
         "title": "Linear Algebra Done Right – Sheldon Axler",
         "slug": "linear-algebra-done-right-sheldon-axler",
         "author": "the-mitr",
@@ -40184,6 +40338,17 @@
         "keywords": "benchmark, agent, agentguard, github, security, scanner, semgrep, codeql",
         "generated": "2026-07-05T03:58:51.638388",
         "file": "i-built-an-ai-agent-security-scanner-semgrep-and-codeql-detect-0-percent-of-these-attacks.md"
+    },
+    {
+        "title": "AI Agent Security in 2026: Defending Against Prompt Injection in Production (From My New Book)",
+        "slug": "ai-agent-security-in-2026-defending-against-prompt-injection-in-production-from-my-new-book",
+        "author": "AI Builders",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 06:14:12 +0000",
+        "description": "AI Agent Security in 2026: Defending Against Prompt Injection in Production A jailbroken chatbot costs you an embarrassing reply. A prompt-injected agent cos...",
+        "keywords": "tool, model, agent, str, return, tools, not, data",
+        "generated": "2026-08-18T06:52:25.238268",
+        "file": "ai-agent-security-in-2026-defending-against-prompt-injection-in-production-from-my-new-book.md"
     },
     {
         "title": "Building API Dash MCP Server - Adding SPA MCP App",
@@ -45510,6 +45675,17 @@
         "file": "oxygenators-market-set-for-strong-growth-through-2034-driven-by-rising-cardiovascular-surgeries.md"
     },
     {
+        "title": "The AI-First Data Analyst: A Practical Workflow for 2027",
+        "slug": "the-ai-first-data-analyst-a-practical-workflow-for-2027",
+        "author": "Zestminds Academy",
+        "source": "devto_ai",
+        "published": "Tue, 18 Aug 2026 06:36:58 +0000",
+        "description": "AI can generate SQL, recommend charts, explain Python errors and summarize datasets within seconds. Does that mean companies will stop hiring Data Analysts? ...",
+        "keywords": "data, can, analysts, may, business, analyst, will, should",
+        "generated": "2026-08-18T06:52:25.244897",
+        "file": "the-ai-first-data-analyst-a-practical-workflow-for-2027.md"
+    },
+    {
         "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
         "slug": "slater-low-memory-graphdb-designed-for-read-heavy-graphs",
         "author": "rickkjp",
@@ -50634,6 +50810,17 @@
         "file": "frost.md"
     },
     {
+        "title": "Build a Social Media Monitor with Python",
+        "slug": "build-a-social-media-monitor-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Tue, 18 Aug 2026 06:00:57 +0000",
+        "description": "Build a Social Media Monitor with Python tags: python, socialmedia, automation, tools tags: python, socialmedia, automation, tools tags: python, socialmedia,...",
+        "keywords": "your, sentiment, reddit, you, python, monitor, post, import",
+        "generated": "2026-08-18T06:52:25.239668",
+        "file": "build-a-social-media-monitor-with-python.md"
+    },
+    {
         "title": "The 2026 AI Index Report: Responsible AI",
         "slug": "the-2026-ai-index-report-responsible-ai",
         "author": "Isaac",
@@ -51237,6 +51424,17 @@
         "keywords": "accounts, snapchat, you, can, account, your, buy, digital",
         "generated": "2026-07-18T19:11:40.224814",
         "file": "10-best-places-to-buy-snapchat-accounts-in-the-usa.md"
+    },
+    {
+        "title": "Expert Witness to ChatGPT: Show how 3M is 0 percent at fault",
+        "slug": "expert-witness-to-chatgpt-show-how-3m-is-0-percent-at-fault",
+        "author": "kristjansson",
+        "source": "hackernews",
+        "published": "Tue, 18 Aug 2026 03:44:41 +0000",
+        "description": "Article URL: https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/ Com...",
+        "keywords": "expert, witness, chatgpt, show, how, fault, url, https",
+        "generated": "2026-08-18T06:52:25.236215",
+        "file": "expert-witness-to-chatgpt-show-how-3m-is-0-percent-at-fault.md"
     },
     {
         "title": "Claude Code Built My SaaS But Couldn't Verify Signup Emails",

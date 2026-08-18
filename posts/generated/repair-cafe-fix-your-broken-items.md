@@ -4,16 +4,16 @@ slug: "repair-cafe-fix-your-broken-items"
 author: "rglover"
 source: "hackernews"
 published: "Mon, 17 Aug 2026 23:28:28 +0000"
-description: "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 7 # Comments: 2"
+description: "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 81 # Comments: 11"
 keywords: "url, https, comments, repair, cafe, fix, your, broken"
-generated: "2026-08-18T01:34:47.475102"
+generated: "2026-08-18T06:52:25.236534"
 ---
 
 # Repair Cafe – Fix Your Broken Items
 
 ## Overview
 
-Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 7 # Comments: 2
+Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 81 # Comments: 11
 
 ## Key Insights
 

@@ -4,16 +4,16 @@ slug: "how-bluesky-draws-its-logo-on-screenshots"
 author: "gavide"
 source: "hackernews"
 published: "Mon, 17 Aug 2026 22:20:40 +0000"
-description: "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 202 # Comments: 144"
+description: "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 402 # Comments: 273"
 keywords: "bluesky, screenshots, url, https, comments, how, draws, its"
-generated: "2026-08-18T01:34:47.475321"
+generated: "2026-08-18T06:52:25.236687"
 ---
 
 # How Bluesky draws its logo on screenshots
 
 ## Overview
 
-Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 202 # Comments: 144
+Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 402 # Comments: 273
 
 ## Key Insights
 
