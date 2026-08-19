@@ -1,0 +1,34 @@
+---
+title: "Fault Tolerance Is the Layer Most AI Agent Stacks Are Missing"
+slug: "fault-tolerance-is-the-layer-most-ai-agent-stacks-are-missing"
+author: "Paul Crinigan"
+source: "devto_ai"
+published: "Wed, 19 Aug 2026 18:27:20 +0000"
+description: "An AI agent that works in a demo and one that works in production are different pieces of software. The demo runs on clean inputs against a healthy API. Prod..."
+keywords: "agent, one, than, most, what, when, agents, every"
+generated: "2026-08-19T18:41:33.267037"
+---
+
+# Fault Tolerance Is the Layer Most AI Agent Stacks Are Missing
+
+## Overview
+
+An AI agent that works in a demo and one that works in production are different pieces of software. The demo runs on clean inputs against a healthy API. Production runs at 3am on a Saturday when the provider is returning 503s, the connection pool is exhausted, and the agent is 37 steps into a 47 step workflow that has already spent real money. Most of the effort in agent engineering goes into making failures less likely. The teams whose systems survive spend that effort somewhere else, on what happens after a failure that was always going to happen anyway. Why Agents Fail Differently Than Ordinary Software Traditional software fails in familiar ways: a server dies, a query times out, a disk fills. Agents inherit all of that and add their own catalogue on top. Model API failures are the most common. Rate limits, capacity issues, deprecated models, and plain network interruptions all sever the link between an agent and its reasoning engine. An agent wired to a single provider with no fallback turns a provider outage into a total outage. Infinite loops are the most expensive. An agent calls a tool, gets an error, retries with identical parameters, gets the same error, and repeats until the credits are gone. A single malformed task can run up thousands of dollars in hours with nothing to stop it. Context window exhaustion is the quietest. Once the token limit is hit, the agent either crashes, silently truncates something it needed, or starts producing incoherent output. Long-running agents are the most exposed, because every step adds to the burden. State corruption is the nastiest. If the agent sends the email and crashes before recording that it sent it, the restart sends it twice. If it charges the card and crashes before updating the order, the customer pays twice. Partial state is hard to detect and harder to repair, which is exactly why agents crash in ways that are difficult to reproduce afterward. The Patterns That Do the Most Work None of the fixes are new, and none of them come from AI. They come from distributed systems, where every major cloud platform and payment processor has been using them for years. Circuit breakers watch the error rate of a downstream dependency and stop sending requests once it crosses a threshold. When an LLM API starts failing, the breaker trips open and the agent stops burning resources on calls that will not succeed. After a cooldown it lets a few test requests through, and either resumes normal traffic or stays open. Retry strategy is a design decision, not a default. Immediate retry handles a network glitch. Exponential backoff handles a rate limited API. Jittered backoff stops a fleet of agents from retrying in lockstep and hammering a service that is already struggling. The judgement call is knowing when to retry and when to fail fast, because retrying a permanent error is worse than not retrying at all. State checkpointing saves progress at defined points so a crash costs one step rather than fifty. The engineering work is in deciding what counts as essential state, meaning task progress, intermediate results and resource locks, versus what is ephemeral and cheaper to recompute than to store. Graceful degradation keeps a reduced version of the service alive. If the primary model is down, fall back to a smaller one and accept lower quality output. If the vector database is unreachable, fall back to keyword search. A worse answer beats no answer. Bulkhead isolation stops a failure spreading sideways. The email component crashing should never take down the data analysis component, which is a matter of process isolation, separate thread pools, or independent services depending on how the system is built. Supervision Trees, Borrowed From Telecom The most useful pattern of the set is the oldest. In a supervision tree , every process has a parent that monitors it and restarts it when it dies. A root supervisor manages subsystems, each subsystem supervisor manages workers, and failures propagate upward only as far as they need to while recovery cascades back down. The restart strategy is where the real design sits. One-for-one restarts only the failed child and leaves its siblings running. One-for-all restarts the whole group, which is what you want when the children share state that is now inconsistent. Picking wrong in either direction is a bug: too narrow and you resume with corrupted state, too broad and one flaky tool call resets forty steps of finished work. This came out of Erlang and its OTP framework, built at Ericsson in the 1980s for telecom switches that reached nine nines of availability. Their insight was that preventing every bug is impossible, so the system should be built to crash and recover in pieces instead. Agent orchestration has more failure points than a telecom switch, which makes the argument stronger rather than weaker. What To Build First If you are retrofitting an existing agent, the order that pays back fastest is roughly this. Put a circuit breaker on every external call, because that is the one that stops a runaway loop from becoming a bill. Add checkpointing to any workflow longer than a handful of steps, because that is what turns a crash from a disaster into an inconvenience. Make every side effect idempotent, so a restart cannot double-send or double-charge. Then wrap the whole thing in supervision, and pick your restart strategies deliberately rather than by default. The full set of patterns, including the monitoring side and what to actually alert on, is written up at fault-tolerant AI agents . None of this makes an agent smarter. It makes the difference between a system that demos well and one that is still running next month.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/paulcrinigan/fault-tolerance-is-the-layer-most-ai-agent-stacks-are-missing-2al
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
