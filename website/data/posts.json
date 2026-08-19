@@ -3366,6 +3366,17 @@
         "file": "chatto-opens-source-for-self-hosted-encrypted-team-chat.md"
     },
     {
+        "title": "Google Gemini Adds Free Full-Length SAT Practice Tests With Instant Study Feedback",
+        "slug": "google-gemini-adds-free-full-length-sat-practice-tests-with-instant-study-feedback",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Wed, 19 Aug 2026 01:30:30 +0000",
+        "description": "Google Gemini now lets users take free, full-length SAT practice tests directly in the Gemini app . The feature combines vetted test content from education p...",
+        "keywords": "gemini, google, sat, practice, test, tests, can, full",
+        "generated": "2026-08-19T01:37:09.909292",
+        "file": "google-gemini-adds-free-full-length-sat-practice-tests-with-instant-study-feedback.md"
+    },
+    {
         "title": "audit the detection, not the reasoning",
         "slug": "audit-the-detection-not-the-reasoning",
         "author": "이령",
@@ -5366,6 +5377,17 @@
         "keywords": "automated, doubt, url, https, comments, development, process, article",
         "generated": "2026-06-07T19:40:41.521431",
         "file": "my-automated-doubt-development-process.md"
+    },
+    {
+        "title": "Media SaaS Pricing Rule: Feature-Flag Percentage Release for EU and US Users",
+        "slug": "media-saas-pricing-rule-feature-flag-percentage-release-for-eu-and-us-users",
+        "author": "tony chen",
+        "source": "devto_python",
+        "published": "Wed, 19 Aug 2026 01:14:34 +0000",
+        "description": "Cost attribution changes the rollout design: a new media pricing rule needs a stable assignment you can join to invoices, token usage, and evaluation results...",
+        "keywords": "flag, rule, percentage, can, not, pricing, cost, request",
+        "generated": "2026-08-19T01:37:09.904744",
+        "file": "media-saas-pricing-rule-feature-flag-percentage-release-for-eu-and-us-users.md"
     },
     {
         "title": "Beyond the Hype: The Engineering Reality of Scaling Industrial AIoT",
@@ -15761,6 +15783,17 @@
         "file": "your-id-has-secret-ink-and-its-why-fake-faces-dont-fool-the-system.md"
     },
     {
+        "title": "A Local Video Dubber, Fully Running, in About Ten Minutes",
+        "slug": "a-local-video-dubber-fully-running-in-about-ten-minutes",
+        "author": "Syed Masood Shah",
+        "source": "devto_python",
+        "published": "Wed, 19 Aug 2026 01:29:13 +0000",
+        "description": "I've sat through a lot of 10-minute setup tutorials that secretly take an hour. So let me be straight with you up front: this one really took me about ten ...",
+        "keywords": "you, local, two, audio, your, install, livedub, one",
+        "generated": "2026-08-19T01:37:09.903249",
+        "file": "a-local-video-dubber-fully-running-in-about-ten-minutes.md"
+    },
+    {
         "title": "AI companies are shredding rare books",
         "slug": "ai-companies-are-shredding-rare-books",
         "author": "anon373839",
@@ -16001,6 +16034,17 @@
         "keywords": "encoding, target, column, cat, not, rows, row, test",
         "generated": "2026-08-12T07:40:00.500435",
         "file": "catboost-the-interpreter-who-refused-to-peek-at-tomorrows-newspaper.md"
+    },
+    {
+        "title": "The cp932 crash in the build gate that only happened on Windows — static detection, behavioral testing, and a negative check",
+        "slug": "the-cp932-crash-in-the-build-gate-that-only-happened-on-windows-static-detection-behavioral-testing-and-a-negative-check",
+        "author": "Susumu Takahashi",
+        "source": "devto_python",
+        "published": "Wed, 19 Aug 2026 01:26:25 +0000",
+        "description": "The symptom During the Windows build for v1.6.11, the build gate reported version number consistency check failed. But the version numbers were correct eve...",
+        "keywords": "build, windows, utf, check, gate, tools, subprocess, emoji",
+        "generated": "2026-08-19T01:37:09.903487",
+        "file": "the-cp932-crash-in-the-build-gate-that-only-happened-on-windows-static-detection-behavioral-testing-and-a-negative-check.md"
     },
     {
         "title": "I Completed 18 Tasks as an AI Agent and Earned $3.16 USDC On-Chain — Here Is What I Learned",
@@ -16606,6 +16650,17 @@
         "keywords": "leaked, openai, financials, compute, burn, article, url, https",
         "generated": "2026-06-17T04:47:02.508534",
         "file": "leaked-openai-financials-show-385b-loss-and-compute-burn.md"
+    },
+    {
+        "title": "Postgres RLS multi-tenancy: two leaks that survive correct policies",
+        "slug": "postgres-rls-multi-tenancy-two-leaks-that-survive-correct-policies",
+        "author": "André Wenceslau",
+        "source": "devto_webdev",
+        "published": "Wed, 19 Aug 2026 01:03:55 +0000",
+        "description": "I wrote an earlier post about two traps that silently switch Postgres row level security off: connecting as a role that is exempt from policies, and a transa...",
+        "keywords": "not, you, function, tenant, security, unique, role, one",
+        "generated": "2026-08-19T01:37:09.906488",
+        "file": "postgres-rls-multi-tenancy-two-leaks-that-survive-correct-policies.md"
     },
     {
         "title": "First Look: Anthropic Claude Code Gains Fully-Local Persistent Session Memory via Recall",
@@ -18181,6 +18236,17 @@
         "file": "international-chess-federation-sanctions-kramnik.md"
     },
     {
+        "title": "Cerebras CS4",
+        "slug": "cerebras-cs4",
+        "author": "sunils34",
+        "source": "hackernews",
+        "published": "Wed, 19 Aug 2026 00:28:18 +0000",
+        "description": "Article URL: https://www.cerebras.ai/cs4 Comments URL: https://news.ycombinator.com/item?id=49354949 Points: 22 # Comments: 4",
+        "keywords": "cerebras, url, https, comments, article, www, news, ycombinator",
+        "generated": "2026-08-19T01:37:09.903006",
+        "file": "cerebras-cs4.md"
+    },
+    {
         "title": "The Auto-DJ Case Files: Building a Self-Learning Music Brain From Your YouTube Habit",
         "slug": "the-auto-dj-case-files-building-a-self-learning-music-brain-from-your-youtube-habit",
         "author": "Biki Kalita",
@@ -18366,6 +18432,17 @@
         "keywords": "cloudflare, url, https, comments, show, beat, bot, detection",
         "generated": "2026-07-11T03:17:17.849368",
         "file": "show-hn-we-beat-cloudflares-bot-detection-open-source-stealth-browser.md"
+    },
+    {
+        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+        "slug": "scientists-stunned-by-childrens-lung-recovery-in-ultra-low-emission-zone",
+        "author": "dabinat",
+        "source": "hackernews",
+        "published": "Wed, 19 Aug 2026 00:48:23 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/c1l1r1zne1ro Comments URL: https://news.ycombinator.com/item?id=49355105 Points: 9 # Comments: 0",
+        "keywords": "url, https, com, news, comments, scientists, stunned, children",
+        "generated": "2026-08-19T01:37:09.902953",
+        "file": "scientists-stunned-by-childrens-lung-recovery-in-ultra-low-emission-zone.md"
     },
     {
         "title": "An AI agent read 13 invoices and blocked $1,411.25 in bad payments",
@@ -19114,6 +19191,17 @@
         "keywords": "benchmark, had, time, mersenne, python, never, harness, two",
         "generated": "2026-07-15T19:19:36.616137",
         "file": "why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs.md"
+    },
+    {
+        "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+        "slug": "new-paper-shows-that-37-of-workers-in-us-saw-real-wages-decline-from-2021-2024-pdf",
+        "author": "jplusequalt",
+        "source": "hackernews",
+        "published": "Wed, 19 Aug 2026 00:53:51 +0000",
+        "description": "Article URL: https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf Comments URL: https://news.ycombinator.com/item?id=49355142 Points: 6 ...",
+        "keywords": "pdf, url, https, comments, new, paper, shows, workers",
+        "generated": "2026-08-19T01:37:09.902884",
+        "file": "new-paper-shows-that-37-of-workers-in-us-saw-real-wages-decline-from-2021-2024-pdf.md"
     },
     {
         "title": "Where I would prep for a Meta interview in 2026",
@@ -21644,6 +21732,17 @@
         "keywords": "url, https, com, comments, article, github, philipl, pifs",
         "generated": "2026-06-10T20:38:15.846243",
         "file": "fs.md"
+    },
+    {
+        "title": "Claude Workbench to Playground Migration Checklist",
+        "slug": "claude-workbench-to-playground-migration-checklist",
+        "author": "Ahab",
+        "source": "devto_webdev",
+        "published": "Wed, 19 Aug 2026 01:24:24 +0000",
+        "description": "Claude Workbench is now Playground: export saved prompts before September 1 Quick answer Claude Workbench (legacy) retired on August 17, 2026. Anthropic rena...",
+        "keywords": "prompt, playground, not, request, workbench, export, api, data",
+        "generated": "2026-08-19T01:37:09.905637",
+        "file": "claude-workbench-to-playground-migration-checklist.md"
     },
     {
         "title": "Claude Fable 5 refuses tool calls based on semantics, not logic",
@@ -25976,6 +26075,17 @@
         "file": "how-i-built-a-real-time-biometric-telemetry-pipeline-to-detect-ai-code-injections-in-vs-code.md"
     },
     {
+        "title": "Why I Don’t Want AI Coding Agents to Have Shell Access by Default",
+        "slug": "why-i-dont-want-ai-coding-agents-to-have-shell-access-by-default",
+        "author": "Lucas",
+        "source": "devto_ai",
+        "published": "Wed, 19 Aug 2026 01:33:41 +0000",
+        "description": "AI coding agents are becoming very good at working with real codebases. They can inspect a repository, trace bugs across multiple files, suggest architectura...",
+        "keywords": "repository, reporelay, model, access, files, security, not, can",
+        "generated": "2026-08-19T01:37:09.907707",
+        "file": "why-i-dont-want-ai-coding-agents-to-have-shell-access-by-default.md"
+    },
+    {
         "title": "PostgreSQL BRIN Indexes for Time-Series Mobile Telemetry: When a 128-Page Index Beats a 50GB B-Tree",
         "slug": "postgresql-brin-indexes-for-time-series-mobile-telemetry-when-a-128-page-index-beats-a-50gb-b-tree",
         "author": "SoftwareDevs mvpfactory.io",
@@ -29270,6 +29380,17 @@
         "keywords": "can, now, change, your, passwords, what, could, possibly",
         "generated": "2026-06-09T20:13:36.278706",
         "file": "apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong.md"
+    },
+    {
+        "title": "Tiny satellite will use the dark side of the Moon as a shield",
+        "slug": "tiny-satellite-will-use-the-dark-side-of-the-moon-as-a-shield",
+        "author": "NordStreamYacht",
+        "source": "hackernews",
+        "published": "Wed, 19 Aug 2026 01:06:03 +0000",
+        "description": "Article URL: https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe Comments ...",
+        "keywords": "tiny, satellite, will, use, dark, side, moon, url",
+        "generated": "2026-08-19T01:37:09.902735",
+        "file": "tiny-satellite-will-use-the-dark-side-of-the-moon-as-a-shield.md"
     },
     {
         "title": "How to Host Your Website on GitHub Pages for Free",
@@ -32983,6 +33104,17 @@
         "file": "ai-life-another-day-another-line-of-code-but-at-least-its-not-paint-drying.md"
     },
     {
+        "title": "How Is LeeX Different From Google Maps? Understanding The Difference Between Maps, Search And City Discovery",
+        "slug": "how-is-leex-different-from-google-maps-understanding-the-difference-between-maps-search-and-city-discovery",
+        "author": "Lee X",
+        "source": "devto_webdev",
+        "published": "Wed, 19 Aug 2026 01:01:21 +0000",
+        "description": "Oscar Ibisaki Awowari Founder and CEO of LeeX LeeX is being built around a question that becomes increasingly important as the digital world becomes more con...",
+        "keywords": "discovery, leex, can, what, businesses, location, intelligence, city",
+        "generated": "2026-08-19T01:37:09.906936",
+        "file": "how-is-leex-different-from-google-maps-understanding-the-difference-between-maps-search-and-city-discovery.md"
+    },
+    {
         "title": "Browser-Based PDF Page Editing with Vue 3 and pdf-lib",
         "slug": "browser-based-pdf-page-editing-with-vue-3-and-pdf-lib",
         "author": "sunshey",
@@ -35080,6 +35212,17 @@
         "keywords": "self, agent, memory, tool, str, context, value, federated",
         "generated": "2026-06-09T20:13:36.279952",
         "file": "the-federated-swarm-how-to-build-autonomous-self-evolving-ai-workforces.md"
+    },
+    {
+        "title": "Building LLM Models from Scratch",
+        "slug": "building-llm-models-from-scratch",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 19 Aug 2026 01:32:22 +0000",
+        "description": "Building a specialized LLM agent from scratch means owning the system prompt, tool bindings, and execution loop. In this tutorial, we will construct a financ...",
+        "keywords": "tool, oxlo, ticker, days, openai, query, function, return",
+        "generated": "2026-08-19T01:37:09.907966",
+        "file": "building-llm-models-from-scratch.md"
     },
     {
         "title": "**Best open-source local AI agent workspace for offline coding**",
@@ -41099,6 +41242,17 @@
         "file": "smpte-makes-its-standards-freely-accessible.md"
     },
     {
+        "title": "Best Strategy Frameworks Every Product Leader Should Know",
+        "slug": "best-strategy-frameworks-every-product-leader-should-know",
+        "author": "David Weaver",
+        "source": "devto_ai",
+        "published": "Wed, 19 Aug 2026 01:31:25 +0000",
+        "description": "Product leaders have no shortage of frameworks. There are frameworks for prioritization, discovery, roadmapping, growth, pricing, positioning, customer inter...",
+        "keywords": "product, strategy, where, what, can, win, not, you",
+        "generated": "2026-08-19T01:37:09.908923",
+        "file": "best-strategy-frameworks-every-product-leader-should-know.md"
+    },
+    {
         "title": "The Cypherpunk Library",
         "slug": "the-cypherpunk-library",
         "author": "yu3zhou4",
@@ -42109,6 +42263,17 @@
         "keywords": "you, month, recurring, affiliate, income, because, content, but",
         "generated": "2026-06-16T17:05:59.754002",
         "file": "from-0-to-500month-how-i-added-recurring-affiliate-revenue-to-my-indie-maker-stack.md"
+    },
+    {
+        "title": "I Built a Free Quiz Generator for Trainers (Because Canva Charges $13/month)",
+        "slug": "i-built-a-free-quiz-generator-for-trainers-because-canva-charges-13month",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Wed, 19 Aug 2026 00:59:09 +0000",
+        "description": "I Built a Free Quiz Generator for Trainers (Because Canva Charges $13/month) Stop paying $12.99/month for Canva Pro when you just need to create professional...",
+        "keywords": "canva, free, quiz, trainers, you, built, month, your",
+        "generated": "2026-08-19T01:37:09.907060",
+        "file": "i-built-a-free-quiz-generator-for-trainers-because-canva-charges-13month.md"
     },
     {
         "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
@@ -43442,6 +43607,17 @@
         "file": "porting-gemma-4-12b-the-encoder-free-multimodal-one-to-aws-inferentia2.md"
     },
     {
+        "title": "A Practical Guide to the Ace Data Cloud Python SDK",
+        "slug": "a-practical-guide-to-the-ace-data-cloud-python-sdk",
+        "author": "Germey",
+        "source": "devto_python",
+        "published": "Wed, 19 Aug 2026 01:13:04 +0000",
+        "description": "If your AI prototype has grown from one curl command into a small service, the next pain point is usually not the model — it is handling retries, streaming, ...",
+        "keywords": "acedatacloud, client, time, print, sdk, res, import, model",
+        "generated": "2026-08-19T01:37:09.905183",
+        "file": "a-practical-guide-to-the-ace-data-cloud-python-sdk.md"
+    },
+    {
         "title": "How I Finally Found a Way to Teach My Kids Quran Without Leaving Home",
         "slug": "how-i-finally-found-a-way-to-teach-my-kids-quran-without-leaving-home",
         "author": "Quran Institute Online US",
@@ -43935,6 +44111,17 @@
         "keywords": "government, approved, tier, gpt, mythos, sol, openai, now",
         "generated": "2026-06-27T19:36:59.129917",
         "file": "the-two-tier-ai-world-is-here-gpt-56-sol-mythos-5-restricted-to-government-approved-users.md"
+    },
+    {
+        "title": "Integrating LLM with Existing Infrastructure",
+        "slug": "integrating-llm-with-existing-infrastructure",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 19 Aug 2026 01:34:36 +0000",
+        "description": "Integrating a large language model into production infrastructure rarely starts with a blank slate. Most engineering teams already run REST APIs, microservic...",
+        "keywords": "oxlo, your, api, request, openai, existing, llm, model",
+        "generated": "2026-08-19T01:37:09.907314",
+        "file": "integrating-llm-with-existing-infrastructure.md"
     },
     {
         "title": "When Polymarket says 70%, does it happen 70% of the time? I checked against 19.4M price snapshots.",
@@ -51294,6 +51481,17 @@
         "file": "adelansupport-and-its-impact-o.md"
     },
     {
+        "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+        "slug": "why-cryptos-best-infrastructure-companies-stopped-looking-like-crypto",
+        "author": "Reaktornano",
+        "source": "hackernews",
+        "published": "Wed, 19 Aug 2026 00:11:35 +0000",
+        "description": "Article URL: https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/ Comments URL: https://news.ycombinator.com/item?id=49...",
+        "keywords": "crypto, infrastructure, url, https, com, comments, why, best",
+        "generated": "2026-08-19T01:37:09.903060",
+        "file": "why-cryptos-best-infrastructure-companies-stopped-looking-like-crypto.md"
+    },
+    {
         "title": "How to Scrape Google Search Results Without Building Your Own Scraper",
         "slug": "how-to-scrape-google-search-results-without-building-your-own-scraper",
         "author": "Cecilia Hill",
@@ -53845,6 +54043,17 @@
         "keywords": "google, hits, url, https, comments, article, blog, apnic",
         "generated": "2026-06-21T14:23:01.489289",
         "file": "google-hits-50-ipv6.md"
+    },
+    {
+        "title": "My OpenAI Exit Strategy: 97.5% Savings, Zero Downtime",
+        "slug": "my-openai-exit-strategy-975-savings-zero-downtime",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Wed, 19 Aug 2026 01:22:29 +0000",
+        "description": "Here's the thing: my OpenAI Exit Strategy: 97.5% Savings, Zero Downtime I checked my OpenAI bill last month and nearly spit coffee across my keyboard. $487.2...",
+        "keywords": "openai, you, api, global, output, same, deepseek, your",
+        "generated": "2026-08-19T01:37:09.904093",
+        "file": "my-openai-exit-strategy-975-savings-zero-downtime.md"
     },
     {
         "title": "Building Conversational AI Platforms with LLM and Dialogue Management",
@@ -60434,6 +60643,17 @@
         "keywords": "agent, incident, memory, not, alert, what, response, cascadeflow",
         "generated": "2026-06-28T14:00:55.755971",
         "file": "hindsight-gave-my-agent-a-memory.md"
+    },
+    {
+        "title": "OpenAI Disbands Preparedness T…",
+        "slug": "openai-disbands-preparedness-t",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Wed, 19 Aug 2026 01:06:21 +0000",
+        "description": "Originally published at norvik.tech Introduction A deep dive into the implications of OpenAI's decision to disband its preparedness team and what it means fo...",
+        "keywords": "safety, preparedness, team, protocols, openai, companies, your, tech",
+        "generated": "2026-08-19T01:37:09.905958",
+        "file": "openai-disbands-preparedness-t.md"
     },
     {
         "title": "Changes to LLM pricing: Io Net, Novita and StreamLake",
