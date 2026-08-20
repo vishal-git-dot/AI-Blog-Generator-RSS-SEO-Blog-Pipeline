@@ -4,16 +4,16 @@ slug: "feature-request-support-agentsmd"
 author: "fg137"
 source: "hackernews"
 published: "Wed, 19 Aug 2026 21:19:50 +0000"
-description: "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 128 # Comments: 75"
+description: "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 204 # Comments: 115"
 keywords: "url, https, com, comments, feature, request, support, agents"
-generated: "2026-08-20T01:35:46.535134"
+generated: "2026-08-20T06:54:01.610519"
 ---
 
 # Feature Request: Support AGENTS.md
 
 ## Overview
 
-Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 128 # Comments: 75
+Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 204 # Comments: 115
 
 ## Key Insights
 

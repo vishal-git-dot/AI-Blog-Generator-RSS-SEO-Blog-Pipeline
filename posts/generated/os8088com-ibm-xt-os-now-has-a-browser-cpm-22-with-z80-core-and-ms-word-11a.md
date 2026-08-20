@@ -4,16 +4,16 @@ slug: "os8088com-ibm-xt-os-now-has-a-browser-cpm-22-with-z80-core-and-ms-word-11
 author: "jggonz"
 source: "hackernews"
 published: "Wed, 19 Aug 2026 21:11:31 +0000"
-description: "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 40 # Comments: 25"
+description: "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 76 # Comments: 37"
 keywords: "com, url, https, comments, ibm, now, has, browser"
-generated: "2026-08-20T01:35:46.535231"
+generated: "2026-08-20T06:54:01.610658"
 ---
 
 # Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
 
 ## Overview
 
-Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 40 # Comments: 25
+Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 76 # Comments: 37
 
 ## Key Insights
 
