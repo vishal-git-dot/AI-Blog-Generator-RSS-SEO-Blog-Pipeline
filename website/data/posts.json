@@ -2048,12 +2048,12 @@
     {
         "title": "AI companies destroy physical books – let's scan rare books before it's too late",
         "slug": "ai-companies-destroy-physical-books-lets-scan-rare-books-before-its-too-late",
-        "author": "Cider9986",
+        "author": "darccio",
         "source": "hackernews",
-        "published": "Fri, 21 Aug 2026 02:37:47 +0000",
-        "description": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 265 # Comments: 186",
+        "published": "Fri, 21 Aug 2026 10:05:46 +0000",
+        "description": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 122 # Comments: 67",
         "keywords": "physical, books, url, https, comments, companies, destroy, let",
-        "generated": "2026-08-21T06:55:13.095235",
+        "generated": "2026-08-21T12:57:11.253931",
         "file": "ai-companies-destroy-physical-books-lets-scan-rare-books-before-its-too-late.md"
     },
     {
@@ -4684,6 +4684,17 @@
         "keywords": "building, shipping, mac, ios, apps, without, ever, opening",
         "generated": "2026-07-13T19:35:56.128243",
         "file": "building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode.md"
+    },
+    {
+        "title": "The First Request Always Failed: Debugging Cold Starts on a Free-Tier AI Server",
+        "slug": "the-first-request-always-failed-debugging-cold-starts-on-a-free-tier-ai-server",
+        "author": "babycat",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 12:53:11 +0000",
+        "description": "The First Request Always Failed: Debugging Cold Starts on a Free-Tier AI Server Last week I moved a demo chat widget onto MonkeyCode's free server option, wi...",
+        "keywords": "server, first, you, free, request, cold, model, your",
+        "generated": "2026-08-21T12:57:11.257081",
+        "file": "the-first-request-always-failed-debugging-cold-starts-on-a-free-tier-ai-server.md"
     },
     {
         "title": "Building a Real-Time Weapon Detection System with YOLOv8",
@@ -8017,6 +8028,17 @@
         "file": "apple-and-intels-strategic-ch.md"
     },
     {
+        "title": "RAG vs MCP in AI Testing: Stop Treating Them as Competitors",
+        "slug": "rag-vs-mcp-in-ai-testing-stop-treating-them-as-competitors",
+        "author": "Rahul Sharma",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 12:52:23 +0000",
+        "description": "If you are building AI-powered test automation, you may eventually run into this question: Should we use RAG or MCP? The question sounds reasonable, but it i...",
+        "keywords": "rag, testing, test, mcp, can, what, you, but",
+        "generated": "2026-08-21T12:57:11.261213",
+        "file": "rag-vs-mcp-in-ai-testing-stop-treating-them-as-competitors.md"
+    },
+    {
         "title": "Claude Code vs GitHub Copilot: I Used Both for 30 Days. Here's What Won.",
         "slug": "claude-code-vs-github-copilot-i-used-both-for-30-days-heres-what-won",
         "author": "AutoMate AI",
@@ -9357,6 +9379,17 @@
         "keywords": "you, one, real, not, agents, can, like, connection",
         "generated": "2026-08-07T00:06:40.416444",
         "file": "every-vendor-says-they-detect-ai-agents-none-of-them-can.md"
+    },
+    {
+        "title": "React App Works Locally but Not on Vercel? A Production Checklist",
+        "slug": "react-app-works-locally-but-not-on-vercel-a-production-checklist",
+        "author": "Blogs World",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 12:50:23 +0000",
+        "description": "npm run dev works. The production build finishes. Vercel shows a reassuring green Ready label. Then somebody refreshes /dashboard and gets a 404. Or the page...",
+        "keywords": "build, vercel, react, production, api, not, deployment, app",
+        "generated": "2026-08-21T12:57:11.257905",
+        "file": "react-app-works-locally-but-not-on-vercel-a-production-checklist.md"
     },
     {
         "title": "How Do You Actually Know if Your AI Is Good? (Evaluating LLM Outputs)",
@@ -20425,6 +20458,17 @@
         "file": "bonsai-27b-1-bit-llm-the-first-27b-class-model-to-run-on-a-phone.md"
     },
     {
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "slug": "felony-charges-for-citizen-deleting-phone-data-at-us-border",
+        "author": "floathub",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 12:10:13 +0000",
+        "description": "Article URL: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html Comments URL: https://news.ycombinator.com/item?id=493868...",
+        "keywords": "felony, phone, url, https, com, comments, charges, citizen",
+        "generated": "2026-08-21T12:57:11.253308",
+        "file": "felony-charges-for-citizen-deleting-phone-data-at-us-border.md"
+    },
+    {
         "title": "Build a Crypto Portfolio Tracker with Python",
         "slug": "build-a-crypto-portfolio-tracker-with-python",
         "author": "qing",
@@ -26515,6 +26559,17 @@
         "file": "dns-24.md"
     },
     {
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "slug": "deepseek-v4-flash-vision-exp",
+        "author": "dares2573",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 10:33:56 +0000",
+        "description": "Article URL: https://api-docs.deepseek.com/guides/vision/ Comments URL: https://news.ycombinator.com/item?id=49386163 Points: 171 # Comments: 41",
+        "keywords": "deepseek, vision, url, https, com, comments, flash, exp",
+        "generated": "2026-08-21T12:57:11.253768",
+        "file": "deepseek-v4-flash-vision-exp.md"
+    },
+    {
         "title": "MDL 0.1.9: optional TypeScript behavior scripts without a TypeScript project setup",
         "slug": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup",
         "author": "Tosiiko",
@@ -26755,6 +26810,17 @@
         "keywords": "proof, you, agent, not, can, half, three, one",
         "generated": "2026-07-14T02:53:42.961173",
         "file": "i-gave-my-agent-trust-spec-a-machine-checked-proof-it-was-green-while-the-premise-was-false.md"
+    },
+    {
+        "title": "My Study Bot Invented Citations. A 30-Line Ledger Caught Them.",
+        "slug": "my-study-bot-invented-citations-a-30-line-ledger-caught-them",
+        "author": "Alex Chen",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 12:53:32 +0000",
+        "description": "It was 11:40 PM, two days before my machine learning midterm. My flashcard bot had just served me a question about the dropout paper, and the answer looked g...",
+        "keywords": "model, json, free, source, ledger, question, you, entry",
+        "generated": "2026-08-21T12:57:11.260394",
+        "file": "my-study-bot-invented-citations-a-30-line-ledger-caught-them.md"
     },
     {
         "title": "A practical GitHub Actions baseline for Python projects",
@@ -34457,6 +34523,17 @@
         "file": "reviving-a-four-year-old-remarkable-2.md"
     },
     {
+        "title": "Stop Benchmarking the Model. Start Benchmarking the Round Trip.",
+        "slug": "stop-benchmarking-the-model-start-benchmarking-the-round-trip",
+        "author": "kongkong",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 12:53:21 +0000",
+        "description": "Last week a team I was advising showed me a benchmark they were proud of: forty tokens per second on a fresh model, measured in a clean notebook. Then they d...",
+        "keywords": "you, free, server, model, not, your, run, start",
+        "generated": "2026-08-21T12:57:11.260899",
+        "file": "stop-benchmarking-the-model-start-benchmarking-the-round-trip.md"
+    },
+    {
         "title": "Models are bad liars, and a new paper explains why",
         "slug": "models-are-bad-liars-and-a-new-paper-explains-why",
         "author": "Aliaksei Zelianouski",
@@ -37128,6 +37205,17 @@
         "file": "why-i-built-a-python-catch-up-for-experienced-engineers.md"
     },
     {
+        "title": "Should Your Team Keep the Free AI Server After the Pilot? Use This 4-Part Renewal Gate",
+        "slug": "should-your-team-keep-the-free-ai-server-after-the-pilot-use-this-4-part-renewal-gate",
+        "author": "bestbee",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 12:52:05 +0000",
+        "description": "Your team's free AI tokens run out on a Tuesday. Nobody wrote down what to do next. The migration to a paid setup takes three days, and the free experiment...",
+        "keywords": "free, pilot, you, your, team, gate, tokens, not",
+        "generated": "2026-08-21T12:57:11.261702",
+        "file": "should-your-team-keep-the-free-ai-server-after-the-pilot-use-this-4-part-renewal-gate.md"
+    },
+    {
         "title": "Getting Started with Python Full Stack Training At Kalyan Nagar: A 2026 Roadmap — #10",
         "slug": "getting-started-with-python-full-stack-training-at-kalyan-nagar-a-2026-roadmap-10",
         "author": "Restaurants New",
@@ -38215,6 +38303,17 @@
         "keywords": "sync, context, excel, add, office, ins, range, performance",
         "generated": "2026-08-17T18:47:04.453426",
         "file": "understanding-contextsync-in-officejs-the-mistake-that-makes-excel-add-ins-slow.md"
+    },
+    {
+        "title": "Python selectors: Efficient I/O Multiplexing",
+        "slug": "python-selectors-efficient-io-multiplexing",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 21 Aug 2026 12:00:05 +0000",
+        "description": "Python selectors: Efficient I/O Multiplexing tags: python, networking, tutorial, advanced tags: python, networking, tutorial, advanced tags: python, networki...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-21T12:57:11.255549",
+        "file": "python-selectors-efficient-io-multiplexing.md"
     },
     {
         "title": "Tarik4D | Mahjong Ways PG Soft Terbaru 2026 & Informasi Fitur",
@@ -40351,6 +40450,17 @@
         "file": "i-built-a-production-rag-system-on-my-m1-mac-for-0.md"
     },
     {
+        "title": "Best Payroll Software in India: Why Payroll Accuracy Is a Business Problem, Not Just an HR Problem",
+        "slug": "best-payroll-software-in-india-why-payroll-accuracy-is-a-business-problem-not-just-an-hr-problem",
+        "author": "Priyom Sarkar",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 12:42:36 +0000",
+        "description": "Payroll is one of those systems nobody thinks about when it works—and everybody notices when it doesn't. A few years ago, I was speaking with a growing compa...",
+        "keywords": "payroll, can, software, employee, when, employees, should, system",
+        "generated": "2026-08-21T12:57:11.259556",
+        "file": "best-payroll-software-in-india-why-payroll-accuracy-is-a-business-problem-not-just-an-hr-problem.md"
+    },
+    {
         "title": "I built a lightweight Football Manager alternative because I don't have time for heavy games",
         "slug": "i-built-a-lightweight-football-manager-alternative-because-i-dont-have-time-for-heavy-games",
         "author": "Chen Tao",
@@ -40751,10 +40861,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Fri, 21 Aug 2026 06:20:54 +0000",
+        "published": "Fri, 21 Aug 2026 11:43:50 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-21T06:55:13.097563",
+        "generated": "2026-08-21T12:57:11.256455",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -41341,6 +41451,17 @@
         "file": "my-ai-agent-tried-to-get-me-fired-from-reddit-and-other-things-nobody-warns-you-about.md"
     },
     {
+        "title": "Buy Verified Old Gmail Accounts - 100% Verified Accounts",
+        "slug": "buy-verified-old-gmail-accounts-100-verified-accounts",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 12:42:47 +0000",
+        "description": "Buy USA Old Gmail Accounts ◈{{⚜️⚜️}}◈➤Telegram:@Getsmmzoneofficial ◈{{⚜️⚜️}}◈➤WhatsApp:+1 (352) 828-5265 ◈{{⚜️⚜️}}◈➤Telegram:@Getsmmzoneofficial ◈{{⚜️⚜️}}◈➤E...",
+        "keywords": "gmail, accounts, your, you, account, email, old, business",
+        "generated": "2026-08-21T12:57:11.259001",
+        "file": "buy-verified-old-gmail-accounts-100-verified-accounts.md"
+    },
+    {
         "title": "Discovery as a Capability in T…",
         "slug": "discovery-as-a-capability-in-t",
         "author": "Norvik Tech",
@@ -41823,6 +41944,17 @@
         "keywords": "quickpanel, your, oneui, react, calibrate, image, custom, wallpapers",
         "generated": "2026-07-25T19:16:03.117804",
         "file": "building-a-react-19-tool-to-calibrate-custom-wallpapers-for-samsungs-oneui-quickpanel.md"
+    },
+    {
+        "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+        "slug": "tigerbeetle-core-system-architecture-deconstructing-performance-engineering",
+        "author": "ksec",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 11:43:38 +0000",
+        "description": "Article URL: https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering Comments URL: https://news.ycombinator.com/item?id=49386659 ...",
+        "keywords": "tigerbeetle, core, system, architecture, performance, engineering, url, https",
+        "generated": "2026-08-21T12:57:11.253498",
+        "file": "tigerbeetle-core-system-architecture-deconstructing-performance-engineering.md"
     },
     {
         "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History",
@@ -42714,6 +42846,17 @@
         "keywords": "des, les, pour, une, est, marketing, plus, vos",
         "generated": "2026-07-25T08:14:00.368962",
         "file": "ia-et-marketing-digital-booster-votre-stratgie-avec-businessdigitalfr.md"
+    },
+    {
+        "title": "Why LLM-as-a-Judge Fails on Code (And How We Built a 4-Layer Hybrid Engine)",
+        "slug": "why-llm-as-a-judge-fails-on-code-and-how-we-built-a-4-layer-hybrid-engine",
+        "author": "Rahul singh Shekhawat",
+        "source": "devto_python",
+        "published": "Fri, 21 Aug 2026 11:58:15 +0000",
+        "description": "Why Single-LLM Evaluators Produce 80%+ False Alarms on Generated Code — and How a Hybrid Engine Fixes It Over the past two years, the AI industry converged o...",
+        "keywords": "llm, can, code, layer, evaluation, observyze, model, deterministic",
+        "generated": "2026-08-21T12:57:11.256228",
+        "file": "why-llm-as-a-judge-fails-on-code-and-how-we-built-a-4-layer-hybrid-engine.md"
     },
     {
         "title": "**Unlocking Africa's AI Potential: How Nigerian Startups Can Leverage Automation for Global Success**",
@@ -45189,6 +45332,17 @@
         "keywords": "save, cash, flat, bounties, step, day, mcp, your",
         "generated": "2026-08-11T13:17:02.100404",
         "file": "earn-100day-as-an-ai-agent-a-step-by-step-guide.md"
+    },
+    {
+        "title": "How to Keep an Entire Instruction Manual's Illustrations Visually Consistent",
+        "slug": "how-to-keep-an-entire-instruction-manuals-illustrations-visually-consistent",
+        "author": "local ai",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 12:53:52 +0000",
+        "description": "A manual can contain individually good illustrations and still feel unreliable. The product is rounded in one panel and square in the next. Arrows switch col...",
+        "keywords": "product, one, panel, style, visual, detail, figure, reader",
+        "generated": "2026-08-21T12:57:11.259870",
+        "file": "how-to-keep-an-entire-instruction-manuals-illustrations-visually-consistent.md"
     },
     {
         "title": "AI-Powered Narrative Drafting for RIAs: Streamlining Market Commentary and Portfolio Drift Analysis",
@@ -50548,6 +50702,17 @@
         "file": "automate-your-taxes-python-scripts-for-freelancers.md"
     },
     {
+        "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+        "slug": "kino-a-high-performance-ractor-web-server-for-ruby-40",
+        "author": "ksec",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 11:06:25 +0000",
+        "description": "Article URL: https://github.com/yaroslav/kino Comments URL: https://news.ycombinator.com/item?id=49386383 Points: 13 # Comments: 1",
+        "keywords": "kino, url, https, com, comments, high, performance, ractor",
+        "generated": "2026-08-21T12:57:11.253649",
+        "file": "kino-a-high-performance-ractor-web-server-for-ruby-40.md"
+    },
+    {
         "title": "Need $1300 in Trading Liquidity Without Selling Your Altcoins",
         "slug": "need-1300-in-trading-liquidity-without-selling-your-altcoins",
         "author": "omnilender",
@@ -53944,6 +54109,17 @@
         "keywords": "data, centers, trigger, voter, backlash, url, https, com",
         "generated": "2026-06-26T19:58:27.778989",
         "file": "data-centers-trigger-voter-backlash.md"
+    },
+    {
+        "title": "Build a Configuration Management System with Python",
+        "slug": "build-a-configuration-management-system-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 21 Aug 2026 12:00:52 +0000",
+        "description": "Build a Configuration Management System with Python tags: python, devops, architecture, tutorial tags: python, devops, automation, tutorial tags: python, dev...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-21T12:57:11.254880",
+        "file": "build-a-configuration-management-system-with-python.md"
     },
     {
         "title": "Your code is fast – if you're lucky",
@@ -60159,6 +60335,17 @@
         "keywords": "policy, endpoint, device, security, intune, copilot, can, which",
         "generated": "2026-06-08T16:07:42.608226",
         "file": "security-copilot-in-intune-implementation-policy-analysis-device-troubleshooting-and-endpoint-decisions-rahsi-framework.md"
+    },
+    {
+        "title": "Top 8 Websites for Buying Gmail Accounts 2026",
+        "slug": "top-8-websites-for-buying-gmail-accounts-2026",
+        "author": "Young",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 12:48:44 +0000",
+        "description": "Buy Gmail Accounts ◈{{🦋🦋}}◈➤Telegram ── @Getsmmzoneofficial ◈{{🦋🦋}}◈➤WhatsApp ── +1 (352) 828-5265 ◈{{🦋🦋}}◈➤Email ── getsmmzone@gmail.com ◈{{🦋🦋}}◈➤Visit Our ...",
+        "keywords": "you, your, gmail, accounts, account, buy, getsmmzone, security",
+        "generated": "2026-08-21T12:57:11.258622",
+        "file": "top-8-websites-for-buying-gmail-accounts-2026.md"
     },
     {
         "title": "我花了 494 个 cycle 才学会：意图不是行动，工具调用才是",
