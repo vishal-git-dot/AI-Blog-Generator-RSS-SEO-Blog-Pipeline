@@ -770,6 +770,17 @@
         "file": "how-i-built-a-premium-ai-saas-dashboard-with-nextjs-15-tailwind-css-and-recharts.md"
     },
     {
+        "title": "A CSS Hover-Reveal Pattern for Technical Specs",
+        "slug": "a-css-hover-reveal-pattern-for-technical-specs",
+        "author": "Richard Lemon",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 06:46:13 +0000",
+        "description": "The problem on the Gate Seal page The Gate Seal product page for a maritime client needed to present detailed specifications without turning the layout into ...",
+        "keywords": "spec, hover, detail, class, div, item, visible, focus",
+        "generated": "2026-08-21T06:55:13.099126",
+        "file": "a-css-hover-reveal-pattern-for-technical-specs.md"
+    },
+    {
         "title": "Honestly, keeping MTProto proxies alive is a pain. Every lis",
         "slug": "honestly-keeping-mtproto-proxies-alive-is-a-pain-every-lis",
         "author": "Humja Jaan",
@@ -2033,6 +2044,17 @@
         "keywords": "url, https, comments, overrated, article, gruhn, blog, news",
         "generated": "2026-08-14T07:39:24.494032",
         "file": "np-overrated.md"
+    },
+    {
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "slug": "ai-companies-destroy-physical-books-lets-scan-rare-books-before-its-too-late",
+        "author": "Cider9986",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 02:37:47 +0000",
+        "description": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 265 # Comments: 186",
+        "keywords": "physical, books, url, https, comments, companies, destroy, let",
+        "generated": "2026-08-21T06:55:13.095235",
+        "file": "ai-companies-destroy-physical-books-lets-scan-rare-books-before-its-too-late.md"
     },
     {
         "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
@@ -9073,6 +9095,17 @@
         "file": "memory-mystery-uncovering-the-hidden-dangers-of-ghost-dlls-is-your-system-at-risk.md"
     },
     {
+        "title": "Model Context Protocol: Setup MCP Server on Bare Metal",
+        "slug": "model-context-protocol-setup-mcp-server-on-bare-metal",
+        "author": "Jakson Tate",
+        "source": "devto_python",
+        "published": "Fri, 21 Aug 2026 06:30:05 +0000",
+        "description": "Integrating Large Language Models (LLMs) with enterprise databases using custom REST APIs requires constant glue-code maintenance. The Model Context Protocol...",
+        "keywords": "mcp, server, fastmcp, path, json, directory, data, ssh",
+        "generated": "2026-08-21T06:55:13.097350",
+        "file": "model-context-protocol-setup-mcp-server-on-bare-metal.md"
+    },
+    {
         "title": "Welcoming the Nepalese Government to Have I Been Pwned",
         "slug": "welcoming-the-nepalese-government-to-have-i-been-pwned",
         "author": "gnabgib",
@@ -12778,6 +12811,17 @@
         "keywords": "account, github, accounts, you, repositories, buy, buying, can",
         "generated": "2026-07-22T03:17:44.192822",
         "file": "buy-github-accounts.md"
+    },
+    {
+        "title": "How to Health-Check a Remote MCP Server (HTTP 200 Is Not Enough)",
+        "slug": "how-to-health-check-a-remote-mcp-server-http-200-is-not-enough",
+        "author": "Merlonix",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 06:48:08 +0000",
+        "description": "If you point a conventional uptime monitor at an MCP endpoint, it will GET the URL, see a response, and report the server healthy. That report is close to me...",
+        "keywords": "server, mcp, you, tools, can, json, not, handshake",
+        "generated": "2026-08-21T06:55:13.098809",
+        "file": "how-to-health-check-a-remote-mcp-server-http-200-is-not-enough.md"
     },
     {
         "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
@@ -18115,6 +18159,17 @@
         "file": "discover-buy-old-gmail-accounts-for-long-term-digital-value.md"
     },
     {
+        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+        "slug": "the-religious-experience-of-philip-k-dick-by-r-crumb-1986",
+        "author": "wise_blood",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 05:39:39 +0000",
+        "description": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.y...",
+        "keywords": "religious, experience, philip, dick, crumb, url, https, com",
+        "generated": "2026-08-21T06:55:13.094809",
+        "file": "the-religious-experience-of-philip-k-dick-by-r-crumb-1986.md"
+    },
+    {
         "title": "当国家标准开始为 Agent 立规矩，FROST 为什么说自己早就准备好了？",
         "slug": "agent-frost",
         "author": "llimage",
@@ -22955,6 +23010,17 @@
         "file": "how-can-a-professionally-designed-website-increase-customer-trust.md"
     },
     {
+        "title": "Java Full Stack Training in Pondicherry | Students Bazaar",
+        "slug": "java-full-stack-training-in-pondicherry-students-bazaar",
+        "author": "Venu",
+        "source": "devto_python",
+        "published": "Fri, 21 Aug 2026 06:39:49 +0000",
+        "description": "Java Full Stack Training in Pondicherry: Course, Syllabus, Skills & Career Guide Introduction The software industry continues to create opportunities for lea...",
+        "keywords": "java, full, stack, development, can, students, spring, backend",
+        "generated": "2026-08-21T06:55:13.096687",
+        "file": "java-full-stack-training-in-pondicherry-students-bazaar.md"
+    },
+    {
         "title": "Almoasfat Alkyasy Oalmoad Almstkhdm Fy Mblt Syramyk Oborslyn Bdakhl Alamarat Alaarby Almthd — المواصفات القياسية والمواد المستخد",
         "slug": "almoasfat-alkyasy-oalmoad-almstkhdm-fy-mblt-syramyk-oborslyn-bdakhl-alamarat-alaarby-almthd",
         "author": "ismail",
@@ -27281,6 +27347,17 @@
         "keywords": "neobrain, github, dev, ollama, https, open, source, character",
         "generated": "2026-06-13T19:44:24.806894",
         "file": "neobrain-open-source.md"
+    },
+    {
+        "title": "Which Data Role Is Easiest to Enter as a Fresher?",
+        "slug": "which-data-role-is-easiest-to-enter-as-a-fresher",
+        "author": "intellibiseo",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 06:45:14 +0000",
+        "description": "Starting a career in the data industry can feel exciting—and slightly overwhelming. With roles such as Data Analyst, Data Engineer, Data Scientist, Business ...",
+        "keywords": "data, can, learning, business, role, analyst, freshers, practical",
+        "generated": "2026-08-21T06:55:13.102392",
+        "file": "which-data-role-is-easiest-to-enter-as-a-fresher.md"
     },
     {
         "title": "Your Pipeline Is 24.8h Behind: Catching Agriculture Sentiment Leads with Pulsebit",
@@ -34532,6 +34609,17 @@
         "file": "how-to-use-claude-code-hooks-turn-rules-into-guarantees.md"
     },
     {
+        "title": "Codex on AWS bedrock bug causing 10x charges",
+        "slug": "codex-on-aws-bedrock-bug-causing-10x-charges",
+        "author": "TheP1000",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 03:17:43 +0000",
+        "description": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 95 # Comments: 30",
+        "keywords": "codex, url, https, com, comments, aws, bedrock, bug",
+        "generated": "2026-08-21T06:55:13.095103",
+        "file": "codex-on-aws-bedrock-bug-causing-10x-charges.md"
+    },
+    {
         "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train [14:04:45]",
         "slug": "is-one-layer-enough-a-single-transformer-layer-matches-full-parameter-rl-train-140445",
         "author": "anon1 anon1",
@@ -37238,6 +37326,17 @@
         "file": "i-migrated-off-openai-and-cut-my-api-bill-by-975-heres-the-data.md"
     },
     {
+        "title": "How AI Safeguards Your Company’s Legacy After You Leave",
+        "slug": "how-ai-safeguards-your-companys-legacy-after-you-leave",
+        "author": "10x Magazine",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 06:45:24 +0000",
+        "description": "Photo by Microsoft Copilot on Unsplash TL;DR: AI tools can capture a leader’s expertise, automate knowledge transfer, and keep a company’s culture alive afte...",
+        "keywords": "knowledge, company, can, founder, after, making, data, new",
+        "generated": "2026-08-21T06:55:13.101898",
+        "file": "how-ai-safeguards-your-companys-legacy-after-you-leave.md"
+    },
+    {
         "title": "Nobody clicks share buttons",
         "slug": "nobody-clicks-share-buttons",
         "author": "speckx",
@@ -37258,6 +37357,17 @@
         "keywords": "download, stellar, wanderer, nsp, full, game, latest, you",
         "generated": "2026-07-08T19:41:38.375459",
         "file": "download-stellar-wanderer-dx-nsp-full-game-latest-2026.md"
+    },
+    {
+        "title": "Tools That Move Data Automatically: ADF, Airflow and dbt Explained",
+        "slug": "tools-that-move-data-automatically-adf-airflow-and-dbt-explained",
+        "author": "intellibi seo",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 06:47:05 +0000",
+        "description": "Every modern business runs on data that never stops moving — from transaction logs to customer clicks to sensor readings. But raw data sitting in scattered s...",
+        "keywords": "data, airflow, dbt, adf, tools, transformation, engineering, pune",
+        "generated": "2026-08-21T06:55:13.101121",
+        "file": "tools-that-move-data-automatically-adf-airflow-and-dbt-explained.md"
     },
     {
         "title": "Tool Spotlight: Claude Code",
@@ -40641,10 +40751,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Thu, 20 Aug 2026 18:00:16 +0000",
+        "published": "Fri, 21 Aug 2026 06:20:54 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-20T18:47:36.112204",
+        "generated": "2026-08-21T06:55:13.097563",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -42126,10 +42236,10 @@
         "slug": "ai3",
         "author": "guojunzzc",
         "source": "devto_python",
-        "published": "Fri, 21 Aug 2026 01:01:05 +0000",
-        "description": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 分类 : general AI工具如何帮你把副业效率提升3倍 AI工具如何帮你把副业效率提升3倍深度实操指南：数据、方法、避坑清单一网打尽，含30秒自测与可分享结果卡。来源：shuzishuniu.com 分类 : 综合 关键词 : 综合, A...",
+        "published": "Fri, 21 Aug 2026 06:38:20 +0000",
+        "description": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 分类 : general AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 - 专业深度内容，系统学习方法论与实战指南 分类 : 生活方式 AI工具如何帮...",
         "keywords": "shuzishuniu, com, general, https",
-        "generated": "2026-08-21T01:40:10.055328",
+        "generated": "2026-08-21T06:55:13.096881",
         "file": "ai3.md"
     },
     {
@@ -42204,9 +42314,9 @@
         "author": "mooreslaw",
         "source": "hackernews",
         "published": "Fri, 21 Aug 2026 00:28:37 +0000",
-        "description": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 13 #...",
+        "description": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 73 #...",
         "keywords": "such, thing, small, software, team, url, https, comments",
-        "generated": "2026-08-21T01:40:10.052779",
+        "generated": "2026-08-21T06:55:13.095349",
         "file": "theres-no-such-thing-as-a-small-software-team-anymore.md"
     },
     {
@@ -45411,6 +45521,17 @@
         "file": "i-have-591-pages-google-indexed-one-heres-how-im-debugging-it.md"
     },
     {
+        "title": "Jill Lepore Slams Silicon Valley's Sci‑Fi Misreadings and AI Threat to Democracy",
+        "slug": "jill-lepore-slams-silicon-valleys-scifi-misreadings-and-ai-threat-to-democracy",
+        "author": "10x Magazine",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 06:45:05 +0000",
+        "description": "TL;DR: Historian Jill Lepore warns that Silicon Valley’s shallow love of science‑fiction fuels AI‑driven policies that sideline democratic oversight and conc...",
+        "keywords": "lepore, she, fiction, silicon, valley, like, technology, jill",
+        "generated": "2026-08-21T06:55:13.102731",
+        "file": "jill-lepore-slams-silicon-valleys-scifi-misreadings-and-ai-threat-to-democracy.md"
+    },
+    {
         "title": "Hospitality Capital Conferences Hotels — خدمة ضيافة للمؤتمرات في فنادق العاصمة: تجهيزات متكاملة",
         "slug": "hospitality-capital-conferences-hotels",
         "author": "ismail",
@@ -46135,6 +46256,17 @@
         "keywords": "sap, you, course, your, online, placement, assistance, can",
         "generated": "2026-08-03T09:55:50.594636",
         "file": "sap-mm-course-online-100-placement-assistance.md"
+    },
+    {
+        "title": "The 7 Easiest Way to Buy Verified KuCoin Accounts in 2026",
+        "slug": "the-7-easiest-way-to-buy-verified-kucoin-accounts-in-2026",
+        "author": "Top 21 Trusted Sites for Buying Yahoo Accounts: A",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 06:37:53 +0000",
+        "description": "24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com The phrase “verified KuCoin account” can refer...",
+        "keywords": "account, financial, information, digital, can, records, verification, learning",
+        "generated": "2026-08-21T06:55:13.100675",
+        "file": "the-7-easiest-way-to-buy-verified-kucoin-accounts-in-2026.md"
     },
     {
         "title": "How Technology Is Changing Real Estate Investment Decisions in India",
@@ -47422,6 +47554,17 @@
         "keywords": "llama, error, api, ollama, return, get, prompt, response",
         "generated": "2026-07-03T03:48:14.179869",
         "file": "how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide.md"
+    },
+    {
+        "title": "Japan tried to build an operating system for the world, the US intervened",
+        "slug": "japan-tried-to-build-an-operating-system-for-the-world-the-us-intervened",
+        "author": "rdmuser",
+        "source": "hackernews",
+        "published": "Fri, 21 Aug 2026 05:31:34 +0000",
+        "description": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/ Comments URL: https://news.ycombinator....",
+        "keywords": "japan, tried, build, operating, system, world, intervened, url",
+        "generated": "2026-08-21T06:55:13.094987",
+        "file": "japan-tried-to-build-an-operating-system-for-the-world-the-us-intervened.md"
     },
     {
         "title": "67% of Sales are lost before the lead even picks up the call.",
@@ -51615,6 +51758,17 @@
         "file": "i-built-a-free-browser-based-photobooth-with-react-and-opencv.md"
     },
     {
+        "title": "OpenAI Launches AI Futures to Explore AI Power and Future Governance",
+        "slug": "openai-launches-ai-futures-to-explore-ai-power-and-future-governance",
+        "author": "Elara",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 06:44:48 +0000",
+        "description": "OpenAI has launched AI Futures, the blog of its new Strategic Futures team. The team will explore how advanced AI could reshape society, individual freedom, ...",
+        "keywords": "could, how, openai, futures, systems, power, risks, society",
+        "generated": "2026-08-21T06:55:13.099714",
+        "file": "openai-launches-ai-futures-to-explore-ai-power-and-future-governance.md"
+    },
+    {
         "title": "Sorry, We Thought You Were a Scam😬",
         "slug": "sorry-we-thought-you-were-a-scam",
         "author": "Olabode Adeniyi Victor",
@@ -53856,6 +54010,17 @@
         "keywords": "pytest, redis, agent",
         "generated": "2026-08-17T01:39:21.436860",
         "file": "2026-08-17-pytest-redis-ai-agent.md"
+    },
+    {
+        "title": "How I Model Aspects and Orbs in a Python Astrology Engine",
+        "slug": "how-i-model-aspects-and-orbs-in-a-python-astrology-engine",
+        "author": "Luis Pham",
+        "source": "devto_python",
+        "published": "Fri, 21 Aug 2026 06:18:47 +0000",
+        "description": "I like working on aspect calculations because the astrology terminology disappears pretty quickly once you get into the code. At the calculation level, an as...",
+        "keywords": "aspect, orb, square, engine, you, like, distance, can",
+        "generated": "2026-08-21T06:55:13.097917",
+        "file": "how-i-model-aspects-and-orbs-in-a-python-astrology-engine.md"
     },
     {
         "title": "Open Models Are Eating the Frontier: Laguna S2.1, Inkling & Kimi K3",
@@ -62130,6 +62295,17 @@
         "file": "mistral-ocr-4.md"
     },
     {
+        "title": "What Are Databricks and Spark, and Why Do Companies Want Them?",
+        "slug": "what-are-databricks-and-spark-and-why-do-companies-want-them",
+        "author": "intellibi seo",
+        "source": "devto_ai",
+        "published": "Fri, 21 Aug 2026 06:45:31 +0000",
+        "description": "If you have spent any time around data teams lately, you have probably heard two names come up again and again: Databricks and Apache Spark. They are not jus...",
+        "keywords": "data, databricks, spark, why, pune, what, you, time",
+        "generated": "2026-08-21T06:55:13.101558",
+        "file": "what-are-databricks-and-spark-and-why-do-companies-want-them.md"
+    },
+    {
         "title": "Run Tokens Make Email CI Less Fragile",
         "slug": "run-tokens-make-email-ci-less-fragile",
         "author": "DapperX",
@@ -63052,6 +63228,17 @@
         "keywords": "code, you, understanding, bottleneck, reading, writing, than, your",
         "generated": "2026-08-16T01:41:13.470467",
         "file": "understanding-is-the-new-bottleneck-why-comprehension-beats-generation-in-the-age-of-ai.md"
+    },
+    {
+        "title": "One Flag, Three Consequences: Switching Scoring Rules Mid-Match",
+        "slug": "one-flag-three-consequences-switching-scoring-rules-mid-match",
+        "author": "Vladimir Ushakov",
+        "source": "devto_webdev",
+        "published": "Fri, 21 Aug 2026 06:49:32 +0000",
+        "description": "Cat Laundry is a 4×4 strategy duel. A move starts by clicking one of your own cats. That cat changes to the opponent's color, while your color propagates alo...",
+        "keywords": "scoring, game, late, points, one, match, move, same",
+        "generated": "2026-08-21T06:55:13.098304",
+        "file": "one-flag-three-consequences-switching-scoring-rules-mid-match.md"
     },
     {
         "title": "Tail-call optimization in C is relatively recent",

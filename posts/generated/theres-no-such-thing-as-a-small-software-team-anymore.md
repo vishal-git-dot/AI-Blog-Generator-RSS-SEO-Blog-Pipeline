@@ -4,16 +4,16 @@ slug: "theres-no-such-thing-as-a-small-software-team-anymore"
 author: "mooreslaw"
 source: "hackernews"
 published: "Fri, 21 Aug 2026 00:28:37 +0000"
-description: "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 13 #..."
+description: "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 73 #..."
 keywords: "such, thing, small, software, team, url, https, comments"
-generated: "2026-08-21T01:40:10.052779"
+generated: "2026-08-21T06:55:13.095349"
 ---
 
 # There's no such thing as a small software team anymore
 
 ## Overview
 
-Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 13 # Comments: 11
+Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 73 # Comments: 117
 
 ## Key Insights
 
