@@ -1,0 +1,34 @@
+---
+title: "Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery."
+slug: "your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery"
+author: "Parsa Jiravand"
+source: "devto_webdev"
+published: "Sat, 22 Aug 2026 06:47:20 +0000"
+description: "When a user closes a tab, your analytics flush typically looks like a fetch call inside a beforeunload handler. It works in testing and silently fails in pro..."
+keywords: "sendbeacon, fetch, beforeunload, json, browser, body, navigator, you"
+generated: "2026-08-22T06:48:31.769712"
+---
+
+# Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery.
+
+## Overview
+
+When a user closes a tab, your analytics flush typically looks like a fetch call inside a beforeunload handler. It works in testing and silently fails in production. The browser's unload policy cancels in-flight requests before they complete, and a fetch fired in beforeunload races directly against that. navigator.sendBeacon was designed for exactly this moment. The API navigator . sendBeacon ( ' /analytics ' , JSON . stringify ({ event : ' page_exit ' , duration : 4200 })); One call, one guarantee: the browser queues the request and delivers it even if the page unloads before the network round-trip completes. The return value is a boolean — true if the request was successfully queued, false if the browser declined it (typically because the payload exceeds the size limit). You don't receive a response body; sendBeacon is fire-and-forget. It always sends a POST . No custom headers — the request goes out with minimal headers by default. Why fetch fails on page unload The beforeunload event fires synchronously when the page is about to be discarded. Async operations started inside it have no delivery guarantee: // Looks correct. In practice, this often never arrives. window . addEventListener ( ' beforeunload ' , () => { fetch ( ' /analytics ' , { method : ' POST ' , body : JSON . stringify ({ event : ' page_exit ' }), }); }); The fetch starts, but the browser tears down the page context while it is in-flight. Some browsers cancel the request immediately; others may complete it if the connection is already established, but you cannot rely on that. The keepalive: true fetch option tells the browser to outlive the page context, but it caps the total keepalive payload at 64 KB across all active requests and has had reliability issues in older Safari. sendBeacon has none of these caveats — it was purpose-built for this pattern. What you can send sendBeacon accepts a BodyInit payload, the same types fetch accepts for body : A string A Blob FormData URLSearchParams For JSON payloads, wrap the string in a Blob with the correct content type so the request's Content-Type header is set properly: function sendAnalytics ( payload ) { const body = new Blob ( [ JSON . stringify ( payload )], { type : ' application/json ' } ); navigator . sendBeacon ( ' /analytics ' , body ); } Without the Blob wrapper, sendBeacon sends the JSON string with a text/plain content type. Your server may parse it regardless — but the explicit content type is more correct and avoids surprises with strict backends. Use visibilitychange, not beforeunload beforeunload has a second problem beyond delivery: on mobile browsers — particularly iOS Safari — it doesn't fire reliably when the user switches apps, locks their phone, or is backgrounded by the OS. Events collected during a mobile session can disappear without a trace. The correct trigger for flush-on-exit logic is visibilitychange : const eventQueue = []; function track ( event ) { eventQueue . push ({ ... event , ts : Date . now () }); } function flush () { if ( eventQueue . length === 0 ) return ; const body = new Blob ( [ JSON . stringify ( eventQueue )], { type : ' application/json ' } ); const queued = navigator . sendBeacon ( ' /analytics/batch ' , body ); if ( queued ) eventQueue . length = 0 ; } document . addEventListener ( ' visibilitychange ' , () => { if ( document . visibilityState === ' hidden ' ) flush (); }); visibilitychange to 'hidden' fires when the tab loses focus, when the user navigates away, when they switch apps on mobile, and when the browser is backgrounded — which covers every case beforeunload misses. Events collected in memory are batched into one sendBeacon call instead of one request per event, which is both cheaper and less likely to exceed the size limit. One note: visibilitychange to 'hidden' does not mean the page is gone. The user may tab back in. If your flush logic clears the queue on a successful sendBeacon , you will start a new batch cleanly on the next interaction. That is the right behavior. Browser support sendBeacon is Baseline 2022 : Chrome 39 (2014), Firefox 31 (2014), Safari 11.1 (2018). It has been universally available for years. The feature detection is simple if you need it: if ( navigator . sendBeacon ) { navigator . sendBeacon ( url , body ); } else { fetch ( url , { method : ' POST ' , body , keepalive : true }); } In practice, if you are targeting any currently-supported browser, the else branch never runs. 🎮 Try it yourself ▶️ Open the interactive playground → Runs right in your browser — poke at it and watch the concept react live. 🧠 Test yourself Think it clicked? Take the 9-question quiz → Instant feedback, a hint on every question, and an explanation for each answer — right or wrong. The takeaway Search your codebase for fetch or XMLHttpRequest calls inside beforeunload or unload handlers. They may complete reliably in a Chrome dev session and silently drop data in production — especially on mobile. Replace them with navigator.sendBeacon , send JSON as a Blob with application/json to preserve the content type, and trigger the flush from visibilitychange rather than beforeunload to cover mobile users. You will stop losing events you have been quietly counting on. Thanks for reading! Let's stay connected: ⭐ GitHub — follow me and star the projects: github.com/parsajiravand 💬 Discord — join the frontend best-practices community: discord.gg/d9KRhuAwQ 📸 Instagram — frontend best practices, daily: @bestpractice___ 💼 LinkedIn — linkedin.com/in/parsa-jiravand ✉️ Email (work & contract inquiries): bestpractice2026@gmail.com
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/parsajiravand/your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery-17pn
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

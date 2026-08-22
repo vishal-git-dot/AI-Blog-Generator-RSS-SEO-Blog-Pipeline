@@ -11883,9 +11883,9 @@
         "author": "adletbalzhanov",
         "source": "hackernews",
         "published": "Fri, 21 Aug 2026 23:53:03 +0000",
-        "description": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 11 # Comments: 6",
+        "description": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 38 # Comments: 8",
         "keywords": "comments, url, https, com, good, parts, article, danluu",
-        "generated": "2026-08-22T01:34:35.134687",
+        "generated": "2026-08-22T06:48:31.765313",
         "file": "hn-the-good-parts-2016.md"
     },
     {
@@ -15783,6 +15783,17 @@
         "file": "spark-tungsten-whole-stage-codegen-memory-layout-codegen-stages-off-heap.md"
     },
     {
+        "title": "Web Scraping with Python and Residential Proxies: A Complete 2026 Guide",
+        "slug": "web-scraping-with-python-and-residential-proxies-a-complete-2026-guide",
+        "author": "Greta",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 06:11:22 +0000",
+        "description": "Web scraping in 2026 is a cat-and-mouse game. Sites detect datacenter IPs in milliseconds, rate-limit by fingerprint, and serve CAPTCHAs before your parser e...",
+        "keywords": "requests, you, your, residential, user, http, session, geo",
+        "generated": "2026-08-22T06:48:31.769277",
+        "file": "web-scraping-with-python-and-residential-proxies-a-complete-2026-guide.md"
+    },
+    {
         "title": "Benchmarking a New Paradigm: An Experimental Analysis of a RealProcessing-in-Memory Architecture",
         "slug": "benchmarking-a-new-paradigm-an-experimental-analysis-of-a-realprocessing-in-memory-architecture",
         "author": "Paperium",
@@ -18531,6 +18542,17 @@
         "keywords": "security, netra, code, ast, analysis, how, vulnerabilities, injection",
         "generated": "2026-06-14T14:17:29.350705",
         "file": "netra-security.md"
+    },
+    {
+        "title": "Your fetch in beforeunload is silently killed. navigator.sendBeacon guarantees delivery.",
+        "slug": "your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 06:47:20 +0000",
+        "description": "When a user closes a tab, your analytics flush typically looks like a fetch call inside a beforeunload handler. It works in testing and silently fails in pro...",
+        "keywords": "sendbeacon, fetch, beforeunload, json, browser, body, navigator, you",
+        "generated": "2026-08-22T06:48:31.769712",
+        "file": "your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery.md"
     },
     {
         "title": "Context Engineering for AI Agents: The 2026 Practitioner's Deep Dive",
@@ -22548,6 +22570,17 @@
         "file": "claude-fable-5-refuses-tool-calls-based-on-semantics-not-logic.md"
     },
     {
+        "title": "AI Companies Are Destroying Physical Books — And Locking the Knowledge Inside Corporate Servers",
+        "slug": "ai-companies-are-destroying-physical-books-and-locking-the-knowledge-inside-corporate-servers",
+        "author": "Sanjay Singh",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 06:33:36 +0000",
+        "description": "There is a phrase that keeps appearing in descriptions of Anthropic's Project Panama: don't want anyone to know about this. That tells you most of what y...",
+        "keywords": "physical, books, not, what, scanning, archive, digital, public",
+        "generated": "2026-08-22T06:48:31.776456",
+        "file": "ai-companies-are-destroying-physical-books-and-locking-the-knowledge-inside-corporate-servers.md"
+    },
+    {
         "title": "AI Tool That Turns Tweets Into Viral Videos: The 2025 Operator Playbook",
         "slug": "ai-tool-that-turns-tweets-into-viral-videos-the-2025-operator-playbook",
         "author": "aarhamforensics",
@@ -25406,6 +25439,17 @@
         "file": "how-i-write-claudemd-files-that-keep-my-ai-agent-on-track-5-hard-won-rules.md"
     },
     {
+        "title": "There's no reason for software to be slow anymore",
+        "slug": "theres-no-reason-for-software-to-be-slow-anymore",
+        "author": "Jach",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 01:06:17 +0000",
+        "description": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 300 # Comments: 211",
+        "keywords": "url, https, com, comments, there, reason, software, slow",
+        "generated": "2026-08-22T06:48:31.765065",
+        "file": "theres-no-reason-for-software-to-be-slow-anymore.md"
+    },
+    {
         "title": "Your API Error Is HTML: Keep the Real Failure Behind an Agent's First Call",
         "slug": "your-api-error-is-html-keep-the-real-failure-behind-an-agents-first-call",
         "author": "vectronodeAPI",
@@ -26711,6 +26755,17 @@
         "keywords": "sentiment, finance, pulsebit, english, you, your, momentum, cluster",
         "generated": "2026-07-25T13:46:22.465588",
         "file": "your-pipeline-is-257h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Your TTS shortlist is three shortlists, and they barely intersect",
+        "slug": "your-tts-shortlist-is-three-shortlists-and-they-barely-intersect",
+        "author": "AI Alleyway",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 06:40:20 +0000",
+        "description": "Every best text-to-speech API list I have read is ranked. Number one, number two, number three, with a verdict at the bottom. That shape cannot express the...",
+        "keywords": "you, tts, not, none, google, websocket, provider, your",
+        "generated": "2026-08-22T06:48:31.766411",
+        "file": "your-tts-shortlist-is-three-shortlists-and-they-barely-intersect.md"
     },
     {
         "title": "DNS 설정을 상태 머신처럼 보면 카페24 메일 연결이 덜 꼬인다",
@@ -28636,6 +28691,17 @@
         "file": "grok-ios-remote-grok-build-from-your-iphone-over-acp.md"
     },
     {
+        "title": "How to Use MarketMuse for Featured Snippet Optimization in 2026",
+        "slug": "how-to-use-marketmuse-for-featured-snippet-optimization-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 06:37:37 +0000",
+        "description": "Originally published at https://seointent.com/blog/marketmuse-for-featured-snippet-optimization TL;DR - Marketmuse for featured snippet optimization gives yo...",
+        "keywords": "marketmuse, snippet, you, your, content, featured, topic, optimization",
+        "generated": "2026-08-22T06:48:31.774630",
+        "file": "how-to-use-marketmuse-for-featured-snippet-optimization-in-2026.md"
+    },
+    {
         "title": "Aether: A Localized AI Agent for Android",
         "slug": "aether-a-localized-ai-agent-for-android",
         "author": "Tim Zinin",
@@ -28887,6 +28953,17 @@
         "keywords": "verification, business, shopify, digital, information, payments, account, store",
         "generated": "2026-07-14T19:26:51.418918",
         "file": "everything-you-need-to-know-about-buying-verified-shopify-accounts.md"
+    },
+    {
+        "title": "How I Built a Multi-Tenant B2B SaaS Boilerplate in Record Time with Drytis AI",
+        "slug": "how-i-built-a-multi-tenant-b2b-saas-boilerplate-in-record-time-with-drytis-ai",
+        "author": "Shridhar G V",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 06:33:37 +0000",
+        "description": "Building a production-ready Multi-Tenant B2B SaaS application usually takes weeks of setup: configuring database-isolated schemas, handling authentication fl...",
+        "keywords": "tenant, drytis, saas, live, built, multi, database, phase",
+        "generated": "2026-08-22T06:48:31.775293",
+        "file": "how-i-built-a-multi-tenant-b2b-saas-boilerplate-in-record-time-with-drytis-ai.md"
     },
     {
         "title": "Run Ling 3.0 Flash Locally: 124B of Knowledge on a 96 GB Machine",
@@ -31718,6 +31795,17 @@
         "file": "meet-nub-the-all-in-one-javascript-toolkit.md"
     },
     {
+        "title": "Diagnosing Intermittent Wi-Fi with Timestamps, Pings, and Router Logs",
+        "slug": "diagnosing-intermittent-wi-fi-with-timestamps-pings-and-router-logs",
+        "author": "Sharik Wani",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 06:38:05 +0000",
+        "description": "Intermittent failures need observability A connection that fails continuously is often easier to isolate than one that drops for thirty seconds twice a day. ...",
+        "keywords": "router, one, gateway, logs, events, not, device, time",
+        "generated": "2026-08-22T06:48:31.773582",
+        "file": "diagnosing-intermittent-wi-fi-with-timestamps-pings-and-router-logs.md"
+    },
+    {
         "title": "Lago (YC S21) Is Hiring for Our GTM Team",
         "slug": "lago-yc-s21-is-hiring-for-our-gtm-team",
         "author": "AnhTho_FR",
@@ -32420,6 +32508,17 @@
         "keywords": "game, telnyx, app, https, com, post, json, adventure",
         "generated": "2026-07-22T19:34:31.387150",
         "file": "build-an-ai-adventure-game-in-python.md"
+    },
+    {
+        "title": "I Built a Tiny AI Agent From Scratch — Every Line Tested Before It Touched a Real API",
+        "slug": "i-built-a-tiny-ai-agent-from-scratch-every-line-tested-before-it-touched-a-real-api",
+        "author": "Pushpum Vats",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 06:30:27 +0000",
+        "description": "What an agent actually is, stripped of the hype Every few weeks there's a new framework promising to make agentic AI easy. Most of them are wrappers arou...",
+        "keywords": "tool, text, block, claude, type, api, you, loop",
+        "generated": "2026-08-22T06:48:31.768192",
+        "file": "i-built-a-tiny-ai-agent-from-scratch-every-line-tested-before-it-touched-a-real-api.md"
     },
     {
         "title": "Comment remplacer Canva et Photoshop par un moteur HTML open source avec Playwright",
@@ -35478,6 +35577,17 @@
         "file": "factorial-of-a-given-number.md"
     },
     {
+        "title": "Pexli: Engineering the Next Generation of Layer-1 Infrastructure",
+        "slug": "pexli-engineering-the-next-generation-of-layer-1-infrastructure",
+        "author": "Pexli",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 06:46:32 +0000",
+        "description": "The current state of Layer-1 blockchain infrastructure is fundamentally broken. We have reached the limits of single-threaded execution engines, and the indu...",
+        "keywords": "pexli, layer, state, quantum, infrastructure, execution, parallel, blockchain",
+        "generated": "2026-08-22T06:48:31.769986",
+        "file": "pexli-engineering-the-next-generation-of-layer-1-infrastructure.md"
+    },
+    {
         "title": "SEO Training Course in Rampur: A Complete Beginner’s Guide to Building a Career in Digital Marketing",
         "slug": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing",
         "author": "Rampur Digital Academy",
@@ -35498,6 +35608,17 @@
         "keywords": "software, your, custom, you, development, business, api, dots",
         "generated": "2026-07-01T04:23:05.794708",
         "file": "why-custom-software-development-is-the-smart-choice-for-growing-businesses.md"
+    },
+    {
+        "title": "5 Best Place to Buy Verified Payoneer Accounts Securely",
+        "slug": "5-best-place-to-buy-verified-payoneer-accounts-securely",
+        "author": "Why to Buy Verified Poloniex Accounts Matter for C",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 06:44:41 +0000",
+        "description": "5 Best Place to Buy Verified Payoneer Accounts Securely 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@...",
+        "keywords": "information, payment, can, account, records, digital, payoneer, how",
+        "generated": "2026-08-22T06:48:31.771162",
+        "file": "5-best-place-to-buy-verified-payoneer-accounts-securely.md"
     },
     {
         "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
@@ -37740,7 +37861,7 @@
         "published": "Fri, 21 Aug 2026 23:09:06 +0000",
         "description": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my k...",
         "keywords": "you, knowledge, agents, have, will, but, want, built",
-        "generated": "2026-08-22T01:34:35.135110",
+        "generated": "2026-08-22T06:48:31.765742",
         "file": "show-hn-ozbrain-a-shared-brain-for-knowledge-between-agents-and-your-team.md"
     },
     {
@@ -37841,6 +37962,17 @@
         "keywords": "python, code, protection, prometheusdev, professional, you, prometheus, shield",
         "generated": "2026-06-26T04:12:11.598034",
         "file": "python-code-protection-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "How Models Choose Words, Why They Hallucinate, and What's Inside a Mixture of Experts (LLM Internals, Part Four)",
+        "slug": "how-models-choose-words-why-they-hallucinate-and-whats-inside-a-mixture-of-experts-llm-internals-part-four",
+        "author": "Syed Muhammad Ali Raza",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 06:33:00 +0000",
+        "description": "How Models Choose Words, Why They Hallucinate, and What's Inside a Mixture of Experts Written by Syed Muhammad Ali Raza Three articles into this arc and we'v...",
+        "keywords": "probabilities, model, genuinely, actually, top, one, token, print",
+        "generated": "2026-08-22T06:48:31.767301",
+        "file": "how-models-choose-words-why-they-hallucinate-and-whats-inside-a-mixture-of-experts-llm-internals-part-four.md"
     },
     {
         "title": "Agent Trajectory and Convergence: Why the Path Matters in AI Agent Evals",
@@ -40725,6 +40857,17 @@
         "file": "ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news.md"
     },
     {
+        "title": "From Sandbox to Review Queue: My GSoC 2026 Project with OWASP OWTF",
+        "slug": "from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf",
+        "author": "Piyush Gupta",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 06:24:06 +0000",
+        "description": "When I started GSoC in May, my plan was to build a runtime sandbox for community plugins. By week two my mentor had talked me out of it, and I ended up spend...",
+        "keywords": "owtf, plugin, not, review, code, community, what, model",
+        "generated": "2026-08-22T06:48:31.768728",
+        "file": "from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf.md"
+    },
+    {
         "title": "Measuring Operational Output in High-Performance Teams (787)",
         "slug": "measuring-operational-output-in-high-performance-teams-787",
         "author": "mara Banks",
@@ -43539,6 +43682,17 @@
         "keywords": "you, what, not, agent, can, actually, when, have",
         "generated": "2026-07-03T03:48:14.179248",
         "file": "fine-tuning-is-mostly-theater-heres-what-works-instead.md"
+    },
+    {
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "slug": "initial-focus-for-our-partnership-with-motorola-is-a-regular-non-folding-device",
+        "author": "Cider9986",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 01:02:09 +0000",
+        "description": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 89 # Comments: 29",
+        "keywords": "url, https, grapheneos, comments, initial, focus, our, partnership",
+        "generated": "2026-08-22T06:48:31.765195",
+        "file": "initial-focus-for-our-partnership-with-motorola-is-a-regular-non-folding-device.md"
     },
     {
         "title": "MiCA Enforcement & DAC8/CARF Kick-Off 2026 Amidst Rising Mining Losses and Emerging DeFi ETPs",
@@ -49085,6 +49239,17 @@
         "file": "ramadan-mosque-chair-rental-kuwait.md"
     },
     {
+        "title": "Your Postgres Can Do That",
+        "slug": "your-postgres-can-do-that",
+        "author": "Info Inlet",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 06:41:48 +0000",
+        "description": "Here is the architecture diagram for a product with roughly zero users: Postgres ← the actual data Redis ← cache, and also the queue, and also rate limits SQ...",
+        "keywords": "you, not, search, jobs, one, where, your, null",
+        "generated": "2026-08-22T06:48:31.773267",
+        "file": "your-postgres-can-do-that.md"
+    },
+    {
         "title": "Angular State Management in 2026 — NgRx, Signals, NGXS, Akita Compared (with Bundle + LOC Numbers)",
         "slug": "angular-state-management-in-2026-ngrx-signals-ngxs-akita-compared-with-bundle-loc-numbers",
         "author": "kirandeepjassal-crypto",
@@ -50832,6 +50997,17 @@
         "keywords": "charts, frame, chart, month, desktop, mobile, frameui, data",
         "generated": "2026-07-04T13:45:59.770957",
         "file": "i-added-charts-to-frameui-100.md"
+    },
+    {
+        "title": "GPT 5.6 Sol 20% price reduction",
+        "slug": "gpt-56-sol-20-price-reduction",
+        "author": "izakfr",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 04:33:06 +0000",
+        "description": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 38 # Comments: 20",
+        "keywords": "gpt, sol, url, https, com, comments, price, reduction",
+        "generated": "2026-08-22T06:48:31.764908",
+        "file": "gpt-56-sol-20-price-reduction.md"
     },
     {
         "title": "Build a Custom Python Debugger",
@@ -60403,6 +60579,17 @@
         "file": "facebook-multi-account-browser-are-browser-profiles-enough.md"
     },
     {
+        "title": "How AI Tools Can Enhance Developer Trust in Code Security",
+        "slug": "how-ai-tools-can-enhance-developer-trust-in-code-security",
+        "author": "Themez World",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 06:34:35 +0000",
+        "description": "The AI Coding Dilemma: Trust and Security Challenges In the rapidly evolving landscape of software development, the integration of AI coding tools has spurre...",
+        "keywords": "regex, developers, your, security, tools, can, trust, code",
+        "generated": "2026-08-22T06:48:31.774964",
+        "file": "how-ai-tools-can-enhance-developer-trust-in-code-security.md"
+    },
+    {
         "title": "I Can Finally Delete My max-height: 9999px Animation Hack",
         "slug": "i-can-finally-delete-my-max-height-9999px-animation-hack",
         "author": "Parsa Jiravand",
@@ -63712,6 +63899,17 @@
         "keywords": "biznode, https, biz, business, your, operator, smartpdf, runs",
         "generated": "2026-08-11T07:15:40.519467",
         "file": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247.md"
+    },
+    {
+        "title": "Why to Buy Verified Poloniex Accounts Matter for Crypto ...",
+        "slug": "why-to-buy-verified-poloniex-accounts-matter-for-crypto",
+        "author": "Why to Buy Verified Poloniex Accounts Matter for C",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 06:43:15 +0000",
+        "description": "Why to Buy Verified Poloniex Accounts Matter for Crypto ... 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasv...",
+        "keywords": "information, account, can, verification, identity, service, digital, kyc",
+        "generated": "2026-08-22T06:48:31.772448",
+        "file": "why-to-buy-verified-poloniex-accounts-matter-for-crypto.md"
     },
     {
         "title": "Detect PDF Tampering Programmatically: Developer Guide",
