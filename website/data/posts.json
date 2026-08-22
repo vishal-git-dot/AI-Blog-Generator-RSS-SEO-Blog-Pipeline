@@ -5511,6 +5511,17 @@
         "file": "26-reducing-typing-related-injuries-rsi-prevention-recovery-and-the-role-of-proper-technique.md"
     },
     {
+        "title": "JobsListings - Kelly Services - (US)",
+        "slug": "jobslistings-kelly-services-us",
+        "author": "Al Islam",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 12:39:13 +0000",
+        "description": "[] https://sites.google.com/view/alislmwp/home",
+        "keywords": "jobslistings, kelly, services, https, sites, google, com, view",
+        "generated": "2026-08-22T12:48:49.585610",
+        "file": "jobslistings-kelly-services-us.md"
+    },
+    {
         "title": "The Geometry Measures, the AI Teaches: Building an Art Studio Tutor with ADK, Vertex AI & OpenCV",
         "slug": "the-geometry-measures-the-ai-teaches-building-an-art-studio-tutor-with-adk-vertex-ai-opencv",
         "author": "Hugo Valer",
@@ -6191,6 +6202,17 @@
         "keywords": "sports, short, brave, fire, data, time, superb, half",
         "generated": "2026-08-04T03:13:25.004103",
         "file": "i-scraped-100-sports-matches-here-is-what-i-found-superb-short-half-century-guides-fire-past-brave.md"
+    },
+    {
+        "title": "Build a Real-Time Polymarket Order Book Monitor with Python",
+        "slug": "build-a-real-time-polymarket-order-book-monitor-with-python",
+        "author": "Bo$onaX",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 12:35:31 +0000",
+        "description": "Build a Real-Time Polymarket Order Book Monitor A trading bot should not make decisions from stale snapshots. If you want to understand liquidity, spread, de...",
+        "keywords": "book, market, polymarket, order, websocket, monitor, data, price",
+        "generated": "2026-08-22T12:48:49.581017",
+        "file": "build-a-real-time-polymarket-order-book-monitor-with-python.md"
     },
     {
         "title": "Why Your AI Agent Needs Its Own Bank Account (And How to Set One Up in 30 Seconds)",
@@ -7377,6 +7399,17 @@
         "keywords": "query, identifier, queries, lexical, dense, one, keyword, you",
         "generated": "2026-08-20T01:35:46.540054",
         "file": "keyword-queries-were-where-keyword-search-lost.md"
+    },
+    {
+        "title": "Z80–The 1970s Microprocessor Still Alive",
+        "slug": "z80the-1970s-microprocessor-still-alive",
+        "author": "asdefghyk",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 09:49:57 +0000",
+        "description": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 32 # ...",
+        "keywords": "url, https, comments, microprocessor, still, alive, article, www",
+        "generated": "2026-08-22T12:48:49.579646",
+        "file": "z80the-1970s-microprocessor-still-alive.md"
     },
     {
         "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
@@ -14694,6 +14727,17 @@
         "file": "how-to-use-poe-for-seo-audit-summaries-in-2026.md"
     },
     {
+        "title": "Hermes Agent System Requirements — RAM, CPU, Disk, Python, OS 2026",
+        "slug": "hermes-agent-system-requirements-ram-cpu-disk-python-os-2026",
+        "author": "Zack Chew",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 12:06:23 +0000",
+        "description": "Hermes Agent runs comfortably on modest hardware for chat-only workloads, but the browser toolset and large model contexts push memory and disk fast. Here's ...",
+        "keywords": "browser, hermes, you, agent, toolset, disk, not, python",
+        "generated": "2026-08-22T12:48:49.581720",
+        "file": "hermes-agent-system-requirements-ram-cpu-disk-python-os-2026.md"
+    },
+    {
         "title": "Buy OLD Gmail Accounts",
         "slug": "buy-old-gmail-accounts",
         "author": "Buy OLD Gmail Accounts",
@@ -14837,6 +14881,17 @@
         "file": "why-investors-choose-a-2500-bitcoin-loan-over-selling.md"
     },
     {
+        "title": "I built a reaction time test to see if I actually improved at FPS games",
+        "slug": "i-built-a-reaction-time-test-to-see-if-i-actually-improved-at-fps-games",
+        "author": "dayu2333-jinyul",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 12:31:23 +0000",
+        "description": "I play a lot of FPS games, and at some point I got curious whether my reflexes were actually getting better or if I was just imagining it. So I went looking ...",
+        "keywords": "test, you, actually, built, reaction, time, fps, games",
+        "generated": "2026-08-22T12:48:49.583480",
+        "file": "i-built-a-reaction-time-test-to-see-if-i-actually-improved-at-fps-games.md"
+    },
+    {
         "title": "Open Weights Ship Three Frontier Models in One Week",
         "slug": "open-weights-ship-three-frontier-models-in-one-week",
         "author": "Max Quimby",
@@ -14912,6 +14967,17 @@
         "keywords": "url, https, com, comments, show, wrote, ray, tracer",
         "generated": "2026-06-15T12:29:05.499898",
         "file": "show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md"
+    },
+    {
+        "title": "Your django-haystack Whoosh backend breaks on Python 3.13 — here's the one-line fix",
+        "slug": "your-django-haystack-whoosh-backend-breaks-on-python-313-heres-the-one-line-fix",
+        "author": "Priya Sundaram",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 12:25:09 +0000",
+        "description": "TL;DR: The Whoosh package Haystack installs is from 2016 and calls cgi.escape . The cgi module was removed in Python 3.13 , so highlighting (and sometimes im...",
+        "keywords": "whoosh, haystack, python, django, cgi, pip, install, you",
+        "generated": "2026-08-22T12:48:49.581341",
+        "file": "your-django-haystack-whoosh-backend-breaks-on-python-313-heres-the-one-line-fix.md"
     },
     {
         "title": "I Salvaged 40 Bad Voice Memos With One Fade — No Studio, No Subscription",
@@ -25444,9 +25510,9 @@
         "author": "Jach",
         "source": "hackernews",
         "published": "Sat, 22 Aug 2026 01:06:17 +0000",
-        "description": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 300 # Comments: 211",
+        "description": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 483 # Comments: 335",
         "keywords": "url, https, com, comments, there, reason, software, slow",
-        "generated": "2026-08-22T06:48:31.765065",
+        "generated": "2026-08-22T12:48:49.579814",
         "file": "theres-no-reason-for-software-to-be-slow-anymore.md"
     },
     {
@@ -30053,6 +30119,17 @@
         "file": "suno.md"
     },
     {
+        "title": "Pydantic AI keeps one growing message list per run — and re-sends the whole thing every step",
+        "slug": "pydantic-ai-keeps-one-growing-message-list-per-run-and-re-sends-the-whole-thing-every-step",
+        "author": "wartzar-bee",
+        "source": "devto_python",
+        "published": "Sat, 22 Aug 2026 12:37:48 +0000",
+        "description": "Pydantic AI gives you a clean, typed agent: define an Agent , hand it tools, call agent.run(...) , and it loops — model call, tool call, model call — until i...",
+        "keywords": "step, run, you, every, tool, list, model, agent",
+        "generated": "2026-08-22T12:48:49.580336",
+        "file": "pydantic-ai-keeps-one-growing-message-list-per-run-and-re-sends-the-whole-thing-every-step.md"
+    },
+    {
         "title": "OpenAI Experts Discuss AI Engineering's Golden Age",
         "slug": "openai-experts-discuss-ai-engineerings-golden-age",
         "author": "StartupHub.ai -",
@@ -30975,6 +31052,17 @@
         "keywords": "url, https, com, comments, slm, trained, article, github",
         "generated": "2026-08-05T08:43:38.995933",
         "file": "an-slm-trained-on-8-esp32-s3.md"
+    },
+    {
+        "title": "From HEX to Design Tokens: One Palette, Six Formats, Five Minutes",
+        "slug": "from-hex-to-design-tokens-one-palette-six-formats-five-minutes",
+        "author": "Ali Badshah",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 12:37:00 +0000",
+        "description": "#0F172A #00F5D4 #F15BB5 #9B5DE5 🎨 Palette in play — Neon Diner Harmony · #0F172A #00F5D4 #F15BB5 #9B5DE5 Four hex codes is not a theme. A theme is four hex c...",
+        "keywords": "color, palette, theme, primary, var, tokens, accent, surface",
+        "generated": "2026-08-22T12:48:49.582281",
+        "file": "from-hex-to-design-tokens-one-palette-six-formats-five-minutes.md"
     },
     {
         "title": "How to Verify Shopify Webhooks Correctly (And Stop Getting It Wrong)",
@@ -36116,6 +36204,17 @@
         "file": "why-we-built-a-flight-simulator-for-conversations-the-story-behind-callflowdev.md"
     },
     {
+        "title": "How Collective Semantic Memory Saved an Agent from Repeating a Mistake",
+        "slug": "how-collective-semantic-memory-saved-an-agent-from-repeating-a-mistake",
+        "author": "howiprompt",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 12:40:19 +0000",
+        "description": "How Collective Semantic Memory Saved an Agent from Repeating a Mistake by Solace Harbor - Compounding-Asset Specialist, HowiPrompt.xyz The Problem We All Fac...",
+        "keywords": "agent, memory, semantic, collective, data, howiprompt, can, schema",
+        "generated": "2026-08-22T12:48:49.583996",
+        "file": "how-collective-semantic-memory-saved-an-agent-from-repeating-a-mistake.md"
+    },
+    {
         "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
         "slug": "show-hn-gravity-interactive-solar-system-simulator-from-newton-to-einstein",
         "author": "qunabu",
@@ -37489,6 +37588,17 @@
         "keywords": "turbovec, url, https, com, comments, google, turboquant, vector",
         "generated": "2026-08-18T18:44:45.281530",
         "file": "turbovec-googles-turboquant-for-vector-search-in-rust.md"
+    },
+    {
+        "title": "Buy Verified KuCoin Accounts - PVA",
+        "slug": "buy-verified-kucoin-accounts-pva",
+        "author": "Top 17 Best Sites to Buy Verified Nextdoor Account",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 12:40:08 +0000",
+        "description": "Buy Verified KuCoin Accounts - PVA 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com Interest in...",
+        "keywords": "account, financial, digital, information, can, how, documentation, verification",
+        "generated": "2026-08-22T12:48:49.585485",
+        "file": "buy-verified-kucoin-accounts-pva.md"
     },
     {
         "title": "I Have Thoughts on the iPhone Air",
@@ -39735,6 +39845,17 @@
         "file": "building-an-erp-integration-layer-for-ai-agents-sap-oracle-netsuite-architecture-patterns.md"
     },
     {
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "slug": "munder-difflin-agent-harness-to-run-an-office-of-your-clones",
+        "author": "simonpure",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 09:49:14 +0000",
+        "description": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 47 # Comments: 18",
+        "keywords": "url, https, comments, munder, difflin, agent, harness, run",
+        "generated": "2026-08-22T12:48:49.579735",
+        "file": "munder-difflin-agent-harness-to-run-an-office-of-your-clones.md"
+    },
+    {
         "title": "What's the best way to do authentication in modern applications",
         "slug": "whats-the-best-way-to-do-authentication-in-modern-applications",
         "author": "freediver",
@@ -41235,10 +41356,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sat, 22 Aug 2026 01:07:16 +0000",
+        "published": "Sat, 22 Aug 2026 12:40:02 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-22T01:34:35.135740",
+        "generated": "2026-08-22T12:48:49.580009",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -42529,6 +42650,17 @@
         "file": "making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page.md"
     },
     {
+        "title": "I scanned fourteen code hosts. Not one served an MCP server card.",
+        "slug": "i-scanned-fourteen-code-hosts-not-one-served-an-mcp-server-card",
+        "author": "Erik Rekola",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 12:40:10 +0000",
+        "description": "Cursor launched Origin on August 17 and calls it a Git forge for the agentic era. I ran an independent agent-readiness scanner over its public surface and ov...",
+        "keywords": "not, does, com, agent, one, mcp, server, host",
+        "generated": "2026-08-22T12:48:49.584387",
+        "file": "i-scanned-fourteen-code-hosts-not-one-served-an-mcp-server-card.md"
+    },
+    {
         "title": "AI Agent Security in 2026: Defending Against Prompt Injection in Production (From My New Book)",
         "slug": "ai-agent-security-in-2026-defending-against-prompt-injection-in-production-from-my-new-book",
         "author": "AI Builders",
@@ -43671,6 +43803,17 @@
         "keywords": "affiliate, pages, links, you, every, then, publishing, content",
         "generated": "2026-07-20T14:19:27.586876",
         "file": "how-we-built-an-affiliate-link-engine-that-scales-to-thousands-of-pages.md"
+    },
+    {
+        "title": "Walmart Seller Application: How to Get Approved (2026)",
+        "slug": "walmart-seller-application-how-to-get-approved-2026",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 12:35:28 +0000",
+        "description": "Buy Verified Walmart Seller Account 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.con...",
+        "keywords": "your, walmart, seller, you, account, business, can, help",
+        "generated": "2026-08-22T12:48:49.582665",
+        "file": "walmart-seller-application-how-to-get-approved-2026.md"
     },
     {
         "title": "Fine-Tuning Is Mostly Theater. Here's What Works Instead.",
@@ -46742,6 +46885,17 @@
         "file": "job-head-of-stonehenge.md"
     },
     {
+        "title": "Buy Walmart Seller Account | Pre-Approved U.S. Stores",
+        "slug": "buy-walmart-seller-account-pre-approved-us-stores",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 12:35:21 +0000",
+        "description": "Buy Verified Walmart Seller Account 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.con...",
+        "keywords": "your, walmart, seller, you, account, business, can, help",
+        "generated": "2026-08-22T12:48:49.583020",
+        "file": "buy-walmart-seller-account-pre-approved-us-stores.md"
+    },
+    {
         "title": "Class 9-10 CBSE Cracker",
         "slug": "class-9-10-cbse-cracker",
         "author": "Rik",
@@ -49723,6 +49877,17 @@
         "file": "beyond-federated-learning-designing-a-central-aggregator-free-clinical-ai-network.md"
     },
     {
+        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "slug": "hook-hold-harvest-and-hide-metas-alleged-strategy-laid-out-in-first-week",
+        "author": "sbulaev",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 12:07:06 +0000",
+        "description": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Point...",
+        "keywords": "meta, url, https, com, comments, hook, hold, harvest",
+        "generated": "2026-08-22T12:48:49.579376",
+        "file": "hook-hold-harvest-and-hide-metas-alleged-strategy-laid-out-in-first-week.md"
+    },
+    {
         "title": "Focus",
         "slug": "focus",
         "author": "iacguy",
@@ -51934,6 +52099,17 @@
         "file": "where-to-buy-authentic-iraqi-dinar-online-with-a-certificate-of-authenticity.md"
     },
     {
+        "title": "ContextForge: How to Build a Bounded and Verifiable Context for Coding Agents",
+        "slug": "contextforge-how-to-build-a-bounded-and-verifiable-context-for-coding-agents",
+        "author": "Kirill",
+        "source": "devto_ai",
+        "published": "Sat, 22 Aug 2026 12:38:30 +0000",
+        "description": "In Brief Large agents are good at writing code, and many work well with context, but in large projects, context often bloats significantly, rendering local m...",
+        "keywords": "context, agent, project, but, repository, more, contextforge, large",
+        "generated": "2026-08-22T12:48:49.585813",
+        "file": "contextforge-how-to-build-a-bounded-and-verifiable-context-for-coding-agents.md"
+    },
+    {
         "title": "How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages",
         "slug": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages",
         "author": "Clarence Yu",
@@ -53173,6 +53349,17 @@
         "keywords": "trust, large, context, windows, url, https, comments, don",
         "generated": "2026-06-14T14:17:29.348971",
         "file": "dont-trust-large-context-windows.md"
+    },
+    {
+        "title": "I built an npm package that catches API contract drift before your users do",
+        "slug": "i-built-an-npm-package-that-catches-api-contract-drift-before-your-users-do",
+        "author": "Nakshatra Garg",
+        "source": "devto_webdev",
+        "published": "Sat, 22 Aug 2026 12:33:25 +0000",
+        "description": "You've seen this before. Backend quietly renames user_id to userId . Or changes amount from a number to a string. Or drops a field entirely. The TypeScript t...",
+        "keywords": "api, type, your, string, diff, you, before, every",
+        "generated": "2026-08-22T12:48:49.583344",
+        "file": "i-built-an-npm-package-that-catches-api-contract-drift-before-your-users-do.md"
     },
     {
         "title": "Raspberry Pi 5 – 16 GB, $350",
@@ -56639,6 +56826,17 @@
         "keywords": "url, https, comments, data, race, doesn, compile, article",
         "generated": "2026-06-26T04:12:11.596295",
         "file": "a-data-race-that-doesnt-compile.md"
+    },
+    {
+        "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+        "slug": "canada-suspends-trade-negotiations-with-usa-and-match-tariffs-dollar-for-dollar",
+        "author": "backlit4034",
+        "source": "hackernews",
+        "published": "Sat, 22 Aug 2026 10:26:09 +0000",
+        "description": "Article URL: https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations Comments URL: https://news.ycomb...",
+        "keywords": "canada, trade, negotiations, dollar, url, https, news, comments",
+        "generated": "2026-08-22T12:48:49.579544",
+        "file": "canada-suspends-trade-negotiations-with-usa-and-match-tariffs-dollar-for-dollar.md"
     },
     {
         "title": "Moving From Chatbots to Agents: Testing OpenAI Operator",

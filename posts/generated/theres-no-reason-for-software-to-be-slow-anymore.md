@@ -4,16 +4,16 @@ slug: "theres-no-reason-for-software-to-be-slow-anymore"
 author: "Jach"
 source: "hackernews"
 published: "Sat, 22 Aug 2026 01:06:17 +0000"
-description: "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 300 # Comments: 211"
+description: "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 483 # Comments: 335"
 keywords: "url, https, com, comments, there, reason, software, slow"
-generated: "2026-08-22T06:48:31.765065"
+generated: "2026-08-22T12:48:49.579814"
 ---
 
 # There's no reason for software to be slow anymore
 
 ## Overview
 
-Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 300 # Comments: 211
+Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 483 # Comments: 335
 
 ## Key Insights
 
