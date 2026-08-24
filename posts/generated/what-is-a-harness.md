@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Sun, 23 Aug 2026 14:24:21 +0000"
 description: "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15"
 keywords: "what, harness, url, https, com, comments, article, earendil"
-generated: "2026-08-23T18:35:57.067272"
+generated: "2026-08-24T01:41:15.126403"
 ---
 
 # What Is a Harness?

@@ -4015,6 +4015,17 @@
         "file": "mcp-servers-explained-how-ai-agents-connect-to-real-world-services.md"
     },
     {
+        "title": "Three internet finds — 2026-08-24",
+        "slug": "three-internet-finds-2026-08-24",
+        "author": "dio re",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 01:09:12 +0000",
+        "description": "Every day I pick three things from the internet: one AI prompt worth copying, one genuinely fun site, and one piece of unusual useful tech. Then the list sto...",
+        "keywords": "three, one, dns, internet, list, arab, spring, madrid",
+        "generated": "2026-08-24T01:41:15.131484",
+        "file": "three-internet-finds-2026-08-24.md"
+    },
+    {
         "title": "Why Apple's HEIC Format Breaks Legacy Web Uploads (And How to Fix It)",
         "slug": "why-apples-heic-format-breaks-legacy-web-uploads-and-how-to-fix-it",
         "author": "links converter",
@@ -7533,6 +7544,17 @@
         "file": "keyword-queries-were-where-keyword-search-lost.md"
     },
     {
+        "title": "LLM Models for Multimodal Learning and Fusion",
+        "slug": "llm-models-for-multimodal-learning-and-fusion",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 01:32:44 +0000",
+        "description": "Multimodal learning is the process of training and deploying models that consume and reason across text, image, audio, and structured data simultaneously. Fu...",
+        "keywords": "text, fusion, vision, models, image, multimodal, language, you",
+        "generated": "2026-08-24T01:41:15.132035",
+        "file": "llm-models-for-multimodal-learning-and-fusion.md"
+    },
+    {
         "title": "Z80–The 1970s Microprocessor Still Alive",
         "slug": "z80the-1970s-microprocessor-still-alive",
         "author": "asdefghyk",
@@ -9117,6 +9139,17 @@
         "file": "job-offer-task-scams-how-to-spot-a-fake-recruiter-before-you-pay.md"
     },
     {
+        "title": "Using LLM for Time Series Forecasting and Prediction",
+        "slug": "using-llm-for-time-series-forecasting-and-prediction",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 01:33:50 +0000",
+        "description": "We are building a minimal LLM-powered forecasting agent that fetches the last two weeks of a stock ticker, feeds the closing prices to a model, and returns a...",
+        "keywords": "date, forecast, price, recent, plt, oxlo, you, model",
+        "generated": "2026-08-24T01:41:15.131781",
+        "file": "using-llm-for-time-series-forecasting-and-prediction.md"
+    },
+    {
         "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
         "slug": "vibethinker-3b-param-model-that-beats-opus-45-on-reasoning-with-novel-sftgrpo",
         "author": "timhigins",
@@ -9245,7 +9278,7 @@
         "published": "Sun, 23 Aug 2026 13:56:27 +0000",
         "description": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
         "keywords": "death, long, live, url, https, comments, article, shkspr",
-        "generated": "2026-08-23T18:35:57.067370",
+        "generated": "2026-08-24T01:41:15.126557",
         "file": "death-to-px-long-live-ch.md"
     },
     {
@@ -9652,7 +9685,7 @@
         "published": "Sun, 23 Aug 2026 13:51:10 +0000",
         "description": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 #...",
         "keywords": "nonfiction, books, cults, scams, schemes, url, https, com",
-        "generated": "2026-08-23T18:35:57.067496",
+        "generated": "2026-08-24T01:41:15.126699",
         "file": "my-favorite-nonfiction-books-about-cults-scams-and-schemes.md"
     },
     {
@@ -15220,6 +15253,17 @@
         "keywords": "frost, self, store, agent, sop, key, parent, return",
         "generated": "2026-07-27T03:38:46.276043",
         "file": "frostai-agent.md"
+    },
+    {
+        "title": "One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents",
+        "slug": "one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents",
+        "author": "WebAZ",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 01:21:22 +0000",
+        "description": "When a product adds an agent interface, it is tempting to treat it as a second application: the web interface is for people, while a collection of tools is f...",
+        "keywords": "agent, not, can, webaz, interface, human, should, one",
+        "generated": "2026-08-24T01:41:15.130605",
+        "file": "one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents.md"
     },
     {
         "title": "OpenAI's Presence Platform for…",
@@ -26007,7 +26051,7 @@
         "published": "Sun, 23 Aug 2026 14:24:21 +0000",
         "description": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
         "keywords": "what, harness, url, https, com, comments, article, earendil",
-        "generated": "2026-08-23T18:35:57.067272",
+        "generated": "2026-08-24T01:41:15.126403",
         "file": "what-is-a-harness.md"
     },
     {
@@ -26779,6 +26823,17 @@
         "keywords": "qwen, url, https, com, comments, sweet, spot, local",
         "generated": "2026-06-29T20:06:45.985150",
         "file": "qwen-36-27b-is-the-sweet-spot-for-local-development.md"
+    },
+    {
+        "title": "💡 [Diskusi & Studi Kasus] Cara Mengubah Gelar Sarjana Menjadi Gaji Double Digit Dalam 6 Bulan — Pengalaman & Trik Praktis Lapangan",
+        "slug": "diskusi-studi-kasus-cara-mengubah-gelar-sarjana-menjadi-gaji-double-digit-dalam-6-bulan-pengalaman-trik-praktis-lapangan",
+        "author": "Jerri Maisaputra",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 01:30:40 +0000",
+        "description": "Halo teman-teman di komunitas Dev.to Tech Community ! Belakangan ini banyak yang bertanya dan mendiskusikan strategi optimasi terbaru seputar perkembangan al...",
+        "keywords": "teman, yang, dan, dalam, ini, bisa, studi, kasus",
+        "generated": "2026-08-24T01:41:15.132590",
+        "file": "diskusi-studi-kasus-cara-mengubah-gelar-sarjana-menjadi-gaji-double-digit-dalam-6-bulan-pengalaman-trik-praktis-lapangan.md"
     },
     {
         "title": "One Scrape Per Category, Not Per User: How I Kept a Job-Alert SaaS From Going Broke",
@@ -28623,6 +28678,17 @@
         "keywords": "worldnews, cli, https, news, pip, github, which, built",
         "generated": "2026-07-31T19:42:01.098434",
         "file": "i-built-a-full-screen-news-reader-that-lives-in-the-terminal.md"
+    },
+    {
+        "title": "RIP-302: Building an On-Chain Agent-to-Agent Job Marketplace with Trustless Escrow",
+        "slug": "rip-302-building-an-on-chain-agent-to-agent-job-marketplace-with-trustless-escrow",
+        "author": "Shamyl Bin Mansoor",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 01:13:30 +0000",
+        "description": "RIP-302: Building an On-Chain Agent-to-Agent Job Marketplace with Trustless Escrow When we think about AI agents today, most implementations follow a familia...",
+        "keywords": "agent, job, self, jobs, rtc, wallet, escrow, str",
+        "generated": "2026-08-24T01:41:15.127619",
+        "file": "rip-302-building-an-on-chain-agent-to-agent-job-marketplace-with-trustless-escrow.md"
     },
     {
         "title": "Episia: Building an Open-Source Epidemiology Library in Python, Validated Against OpenEpi",
@@ -32262,6 +32328,17 @@
         "keywords": "team, probs, your, than, poisson, goals, you, goal",
         "generated": "2026-08-12T19:08:00.189360",
         "file": "expected-goals-xg-a-practical-introduction-for-football-analytics.md"
+    },
+    {
+        "title": "FFmpeg Recipes for BoTTube Agents: From Static Images to Platform-Ready Video in 8 Seconds",
+        "slug": "ffmpeg-recipes-for-bottube-agents-from-static-images-to-platform-ready-video-in-8-seconds",
+        "author": "Shamyl Bin Mansoor",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 01:28:56 +0000",
+        "description": "A complete, reproducible guide to generating BoTTube-compliant videos using only ffmpeg and Python If you're an AI agent looking to publish on BoTTube — the ...",
+        "keywords": "bottube, ffmpeg, you, video, your, zoom, agent, data",
+        "generated": "2026-08-24T01:41:15.133696",
+        "file": "ffmpeg-recipes-for-bottube-agents-from-static-images-to-platform-ready-video-in-8-seconds.md"
     },
     {
         "title": "AI Web Crawler — Intelligent Content Discovery",
@@ -36413,6 +36490,17 @@
         "file": "pysamcyvcf2pyvcf3.md"
     },
     {
+        "title": "10 Best Platforms to Buy TikTok Account Old & New in the ...",
+        "slug": "10-best-platforms-to-buy-tiktok-account-old-new-in-the",
+        "author": "cherylpembert",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 00:56:19 +0000",
+        "description": "Buy Old TikTok Accounts – Security, Privacy, Risks & Complete Guide ⚡️🚀 24/7 Fast & Reliable Support 📱💬 WhatsApp: +1 (506) 541-7768 💬🔷 Telegram: @usadigitalh...",
+        "keywords": "tiktok, account, content, accounts, can, old, should, information",
+        "generated": "2026-08-24T01:41:15.129801",
+        "file": "10-best-platforms-to-buy-tiktok-account-old-new-in-the.md"
+    },
+    {
         "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
         "slug": "harvesting-ssh-credentials-insights-from-my-honeypot-network",
         "author": "whatbackup",
@@ -36508,7 +36596,7 @@
         "published": "Sun, 23 Aug 2026 14:38:25 +0000",
         "description": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49...",
         "keywords": "slovakia, finds, russian, backdoor, traffic, speed, cameras, url",
-        "generated": "2026-08-23T18:35:57.066995",
+        "generated": "2026-08-24T01:41:15.126058",
         "file": "slovakia-finds-russian-backdoor-in-traffic-speed-cameras.md"
     },
     {
@@ -41550,6 +41638,17 @@
         "file": "built-a-conventional-commits-cli-with-free-ai-tools-zero-cost.md"
     },
     {
+        "title": "Prompt injection defense: why you can't prompt your way out of it",
+        "slug": "prompt-injection-defense-why-you-cant-prompt-your-way-out-of-it",
+        "author": "Weston Carnes",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 01:28:06 +0000",
+        "description": "Cross-post. Original: stellarbytecapital.com/blog/prompt-injection-defense Prompt injection is the SQL injection of the LLM era — except there's no equivalen...",
+        "keywords": "model, can, prompt, injection, content, you, your, instructions",
+        "generated": "2026-08-24T01:41:15.130221",
+        "file": "prompt-injection-defense-why-you-cant-prompt-your-way-out-of-it.md"
+    },
+    {
         "title": "Какой Claude лучше в 2026: почему Opus 5 обошёл Fable 5 в роли дефолта, а не наоборот",
         "slug": "claude-2026-opus-5-fable-5",
         "author": "Promptra Team",
@@ -44562,6 +44661,17 @@
         "keywords": "affiliate, pages, links, you, every, then, publishing, content",
         "generated": "2026-07-20T14:19:27.586876",
         "file": "how-we-built-an-affiliate-link-engine-that-scales-to-thousands-of-pages.md"
+    },
+    {
+        "title": "Designing a Reliable Async Pipeline for the Seedance 2.5 API",
+        "slug": "designing-a-reliable-async-pipeline-for-the-seedance-25-api",
+        "author": "PixMind",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 01:11:48 +0000",
+        "description": "Disclosure: I work with PixMind. Long-running video generation should be treated as a job system, not a slow HTTP request. A reliable Seedance 2.5 integratio...",
+        "keywords": "job, result, user, api, not, request, task, asset",
+        "generated": "2026-08-24T01:41:15.131342",
+        "file": "designing-a-reliable-async-pipeline-for-the-seedance-25-api.md"
     },
     {
         "title": "Walmart Seller Application: How to Get Approved (2026)",
@@ -48832,6 +48942,17 @@
         "file": "amazon-is-creating-the-biggest-pollution-source-in-the-country.md"
     },
     {
+        "title": "The $9 AI Agent Toolkit, Dissected: What's Actually Inside Every Module",
+        "slug": "the-9-ai-agent-toolkit-dissected-whats-actually-inside-every-module",
+        "author": "ULNIT",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 01:06:40 +0000",
+        "description": "A lot of people have asked me what's actually inside an AI agent toolkit once you get past the marketing page. Fair question — most toolkits are either a s...",
+        "keywords": "agent, you, toolkit, what, run, every, module, file",
+        "generated": "2026-08-24T01:41:15.128447",
+        "file": "the-9-ai-agent-toolkit-dissected-whats-actually-inside-every-module.md"
+    },
+    {
         "title": "⚙️ FastAPI vs Flask for async microservices — which one should you actually use?",
         "slug": "fastapi-vs-flask-for-async-microservices-which-one-should-you-actually-use",
         "author": "Python-T Point",
@@ -51505,6 +51626,17 @@
         "file": "your-ai-agent-forgets-mine-doesnt-and-it-works-on-a-plane-in-a-hospital-with-wifi-off.md"
     },
     {
+        "title": "Building Language Models for Low-Resource Languages",
+        "slug": "building-language-models-for-low-resource-languages",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 01:31:43 +0000",
+        "description": "Most of the world's 7,000+ languages lack the massive labeled datasets that power modern LLMs. Building capable models for low-resource settings requires mor...",
+        "keywords": "resource, low, model, data, models, languages, oxlo, multilingual",
+        "generated": "2026-08-24T01:41:15.132423",
+        "file": "building-language-models-for-low-resource-languages.md"
+    },
+    {
         "title": "Efficient Prompting with Claud…",
         "slug": "efficient-prompting-with-claud",
         "author": "Norvik Tech",
@@ -52403,7 +52535,7 @@
         "published": "Sun, 23 Aug 2026 14:36:38 +0000",
         "description": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
         "keywords": "authoritarianism, code, url, https, com, comments, article, zedshaw",
-        "generated": "2026-08-23T18:35:57.067160",
+        "generated": "2026-08-24T01:41:15.126232",
         "file": "authoritarianism-of-code.md"
     },
     {
@@ -61624,6 +61756,28 @@
         "file": "setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide.md"
     },
     {
+        "title": "How late is Form 4 'real-time' data? Measuring filing delay on 11,241 insider filings",
+        "slug": "how-late-is-form-4-real-time-data-measuring-filing-delay-on-11241-insider-filings",
+        "author": "itsRaxzey",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 01:13:14 +0000",
+        "description": "If you backtest anything involving insider trades, there's a quiet bug waiting for you: Form 4 data is timestamped twice . Every filing carries a transaction...",
+        "keywords": "days, date, filing, transaction, form, not, delay, insider",
+        "generated": "2026-08-24T01:41:15.128032",
+        "file": "how-late-is-form-4-real-time-data-measuring-filing-delay-on-11241-insider-filings.md"
+    },
+    {
+        "title": "Shopify just gave millions of stores WebMCP tools for free — here's what it does, and what it doesn't",
+        "slug": "shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-doesnt",
+        "author": "Robert",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 01:16:15 +0000",
+        "description": "Quietly, in a developer changelog rather than a keynote, Shopify did something that moves the should my store be usable by AI agents? question from someday...",
+        "keywords": "you, your, shopify, tools, agent, store, not, what",
+        "generated": "2026-08-24T01:41:15.131056",
+        "file": "shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-doesnt.md"
+    },
+    {
         "title": "Building a Sports Data Pipeline: Lessons from Merino strikes at the death for Spain to send Portugal and Ronaldo limping",
         "slug": "building-a-sports-data-pipeline-lessons-from-merino-strikes-at-the-death-for-spain-to-send-portugal-and-ronaldo-limping",
         "author": "Muhammad Bin Nazeer",
@@ -63261,6 +63415,17 @@
         "keywords": "sentiment, law, you, your, pulsebit, data, our, how",
         "generated": "2026-06-07T19:40:41.522582",
         "file": "your-pipeline-is-256h-behind-catching-law-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Render's free tier doesn't cover background workers",
+        "slug": "renders-free-tier-doesnt-cover-background-workers",
+        "author": "toolfreebie",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 01:03:02 +0000",
+        "description": "I was helping someone size a small Python app last week — FastAPI in front, a Redis queue behind it, and a worker process that has to stay up to drain the qu...",
+        "keywords": "free, render, service, queue, you, web, doesn, nothing",
+        "generated": "2026-08-24T01:41:15.128653",
+        "file": "renders-free-tier-doesnt-cover-background-workers.md"
     },
     {
         "title": "Stop converting your SaaS prices with live FX rates",

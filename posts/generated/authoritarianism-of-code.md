@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Sun, 23 Aug 2026 14:36:38 +0000"
 description: "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3"
 keywords: "authoritarianism, code, url, https, com, comments, article, zedshaw"
-generated: "2026-08-23T18:35:57.067160"
+generated: "2026-08-24T01:41:15.126232"
 ---
 
 # Authoritarianism of Code
