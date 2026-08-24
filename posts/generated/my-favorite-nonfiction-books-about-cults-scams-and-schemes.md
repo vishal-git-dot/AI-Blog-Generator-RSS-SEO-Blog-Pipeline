@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Sun, 23 Aug 2026 13:51:10 +0000"
 description: "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 #..."
 keywords: "nonfiction, books, cults, scams, schemes, url, https, com"
-generated: "2026-08-24T01:41:15.126699"
+generated: "2026-08-24T07:07:50.321651"
 ---
 
 # My favorite nonfiction books about cults, scams, and schemes
