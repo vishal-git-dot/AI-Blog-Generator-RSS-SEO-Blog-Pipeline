@@ -484,6 +484,17 @@
         "file": "self-contained-highly-portable-python-distributions.md"
     },
     {
+        "title": "Nexus Market",
+        "slug": "nexus-market",
+        "author": "Nexus Market",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 18:35:53 +0000",
+        "description": "Nexus has been designed from the ground up with the intention of providing users with the best possible shopping experience on the darknet. Nexus onion offer...",
+        "keywords": "nexus, users, darknet, experience, onion, all, have, marketplace",
+        "generated": "2026-08-24T18:48:28.653569",
+        "file": "nexus-market.md"
+    },
+    {
         "title": "GSC Gap Analysis: From 15 Queries to Automated Publishing",
         "slug": "gsc-gap-analysis-from-15-queries-to-automated-publishing",
         "author": "Elena Revicheva",
@@ -8754,6 +8765,17 @@
         "file": "what-happens-when-an-llm-never-sees-material-beyond-fifth-grade.md"
     },
     {
+        "title": "How to Run CRO for a B2B Website: A Step-by-Step Framework",
+        "slug": "how-to-run-cro-for-a-b2b-website-a-step-by-step-framework",
+        "author": "ProDigital360",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 18:30:39 +0000",
+        "description": "This article was originally published on ProDigital360 Read the full article on ProDigital360 →",
+        "keywords": "step, article, how, run, cro, website, framework, originally",
+        "generated": "2026-08-24T18:48:28.653667",
+        "file": "how-to-run-cro-for-a-b2b-website-a-step-by-step-framework.md"
+    },
+    {
         "title": "Buy Elite Yelp Reviews – Trusted & Affordable Services",
         "slug": "buy-elite-yelp-reviews-trusted-affordable-services",
         "author": "Johnson Charls",
@@ -9355,7 +9377,7 @@
         "published": "Sun, 23 Aug 2026 13:56:27 +0000",
         "description": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
         "keywords": "death, long, live, url, https, comments, article, shkspr",
-        "generated": "2026-08-24T12:59:46.021080",
+        "generated": "2026-08-24T18:48:28.649485",
         "file": "death-to-px-long-live-ch.md"
     },
     {
@@ -9762,7 +9784,7 @@
         "published": "Sun, 23 Aug 2026 13:51:10 +0000",
         "description": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 #...",
         "keywords": "nonfiction, books, cults, scams, schemes, url, https, com",
-        "generated": "2026-08-24T12:59:46.021237",
+        "generated": "2026-08-24T18:48:28.649645",
         "file": "my-favorite-nonfiction-books-about-cults-scams-and-schemes.md"
     },
     {
@@ -16652,6 +16674,17 @@
         "file": "why-write-code-in-2026.md"
     },
     {
+        "title": "How to Build Reliable SaaS Signup OTP in Python (SMS vs Email)",
+        "slug": "how-to-build-reliable-saas-signup-otp-in-python-sms-vs-email",
+        "author": "FitzgeraldBlake3561",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 18:19:39 +0000",
+        "description": "A customer-support SaaS has one unforgiving signup constraint: the verification step has to arrive while the new user is still paying attention. Short answer...",
+        "keywords": "email, sms, verification, otp, one, challenge, response, when",
+        "generated": "2026-08-24T18:48:28.650527",
+        "file": "how-to-build-reliable-saas-signup-otp-in-python-sms-vs-email.md"
+    },
+    {
         "title": "How to use ChatGPT API without spending money: 3 free alternatives",
         "slug": "how-to-use-chatgpt-api-without-spending-money-3-free-alternatives",
         "author": "David García",
@@ -16859,6 +16892,17 @@
         "keywords": "tools, technology, para, que, cheating, can, educational, assessments",
         "generated": "2026-07-11T13:38:52.451724",
         "file": "insights-from-brown-university.md"
+    },
+    {
+        "title": "Dual-GPU vLLM screen perception & coordinate grounding for desktop agents (Neo v0.1)",
+        "slug": "dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01",
+        "author": "Achyut Srivastava",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 18:07:27 +0000",
+        "description": "Dual-GPU vLLM screen perception & coordinate grounding for desktop agents (Neo v0.1) The Engineering Problem Modern AI paired programming and conversational ...",
+        "keywords": "dual, neo, gpu, vllm, screen, perception, coordinate, grounding",
+        "generated": "2026-08-24T18:48:28.651778",
+        "file": "dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01.md"
     },
     {
         "title": "Tokenizer Changes Can Break AI-Agent Budget Assumptions",
@@ -17739,6 +17783,17 @@
         "keywords": "conn, not, you, execute, rows, synced, thread, timestamp",
         "generated": "2026-07-02T09:22:43.953343",
         "file": "why-sqlite-is-perfect-for-edge-device-data-logging.md"
+    },
+    {
+        "title": "28 Ücretsiz LLM Provider'ı Tek API'de Birleştiren Araç: FreeLLMAPI",
+        "slug": "28-cretsiz-llm-provider-tek-apide-birletiren-ara-freellmapi",
+        "author": "coddykit",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 18:37:15 +0000",
+        "description": "GitHub Trending'de bugün dikkat çeken bir proje var: FreeLLMAPI . 19,694 yıldız almış bu açık kaynak araç, 34 farklı LLM sağlayıcısının ücretsiz kotasını tek...",
+        "keywords": "bir, freellmapi, provider, tek, api, her, openai, endpoint",
+        "generated": "2026-08-24T18:48:28.655293",
+        "file": "28-cretsiz-llm-provider-tek-apide-birletiren-ara-freellmapi.md"
     },
     {
         "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
@@ -26238,7 +26293,7 @@
         "published": "Sun, 23 Aug 2026 14:24:21 +0000",
         "description": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
         "keywords": "what, harness, url, https, com, comments, article, earendil",
-        "generated": "2026-08-24T12:59:46.020925",
+        "generated": "2026-08-24T18:48:28.649337",
         "file": "what-is-a-harness.md"
     },
     {
@@ -26977,6 +27032,17 @@
         "keywords": "meeting, transcription, can, recording, time, text, real, summaries",
         "generated": "2026-07-04T08:44:47.975737",
         "file": "meeting-recording-with-real-time-text-output.md"
+    },
+    {
+        "title": "Your Free AI Server Will Fail. Use This 3-Mode Degradation Ladder Before Release Day",
+        "slug": "your-free-ai-server-will-fail-use-this-3-mode-degradation-ladder-before-release-day",
+        "author": "bestbee",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 18:34:02 +0000",
+        "description": "It's release day. Your team has been using the free AI server for three weeks. The model has been generating tests, reviewing diffs, and drafting release not...",
+        "keywords": "server, free, you, drill, your, team, mode, monkeycode",
+        "generated": "2026-08-24T18:48:28.655856",
+        "file": "your-free-ai-server-will-fail-use-this-3-mode-degradation-ladder-before-release-day.md"
     },
     {
         "title": "Code Challenge of the Day — Make an acronym (easy)",
@@ -28348,6 +28414,17 @@
         "keywords": "patreon, url, https, com, comments, laying, off, staff",
         "generated": "2026-07-24T13:55:42.401048",
         "file": "patreon-laying-off-20-of-staff.md"
+    },
+    {
+        "title": "LLM Text Classification APIs: Structured JSON Labels for Marketplace Batch Tagging",
+        "slug": "llm-text-classification-apis-structured-json-labels-for-marketplace-batch-tagging",
+        "author": "EliBennett128",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 18:40:44 +0000",
+        "description": "Short answer: compare each LLM text classification API on the same marketplace rubric, require structured JSON labels, and choose on measured quality and lat...",
+        "keywords": "model, one, json, direct, api, provider, when, response",
+        "generated": "2026-08-24T18:48:28.654935",
+        "file": "llm-text-classification-apis-structured-json-labels-for-marketplace-batch-tagging.md"
     },
     {
         "title": "Buy Verified Binance Account",
@@ -33412,6 +33489,17 @@
         "file": "shipped-python-study-buddy-matcher-cli-tool.md"
     },
     {
+        "title": "Python 3.15 development features and performance updates",
+        "slug": "python-315-development-features-and-performance-updates",
+        "author": "Valentin Podkamennyi",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 18:07:46 +0000",
+        "description": "Python 3.15 is the next major step in the evolution of the world’s most popular programming language. Currently available as a release candidate, this versio...",
+        "keywords": "python, developers, performance, language, these, code, like, development",
+        "generated": "2026-08-24T18:48:28.651603",
+        "file": "python-315-development-features-and-performance-updates.md"
+    },
+    {
         "title": "From responses to agents: the API becomes a runtime",
         "slug": "from-responses-to-agents-the-api-becomes-a-runtime",
         "author": "Evanchen",
@@ -34741,6 +34829,17 @@
         "keywords": "gpu, right, performance, how, rendering, data, workloads, can",
         "generated": "2026-08-12T07:40:00.506178",
         "file": "how-to-choose-the-right-gpu-for-ai-rendering-data-workloads.md"
+    },
+    {
+        "title": "Thomson Reuters’ New Thomson Model: What Freelancers Should Learn About Domain AI in 2026",
+        "slug": "thomson-reuters-new-thomson-model-what-freelancers-should-learn-about-domain-ai-in-2026",
+        "author": "Marcus Kim",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 18:43:03 +0000",
+        "description": "A freelancer can buy access to the same powerful AI model as a much larger company. That does not mean the freelancer and the company have the same AI system...",
+        "keywords": "you, not, model, your, work, can, thomson, review",
+        "generated": "2026-08-24T18:48:28.652456",
+        "file": "thomson-reuters-new-thomson-model-what-freelancers-should-learn-about-domain-ai-in-2026.md"
     },
     {
         "title": "瑞士股市 API 接入教程：获取瑞士股市（雀巢/诺华/罗氏）实时行情与历史K线",
@@ -36794,8 +36893,19 @@
         "published": "Sun, 23 Aug 2026 14:38:25 +0000",
         "description": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49...",
         "keywords": "slovakia, finds, russian, backdoor, traffic, speed, cameras, url",
-        "generated": "2026-08-24T12:59:46.020578",
+        "generated": "2026-08-24T18:48:28.648972",
         "file": "slovakia-finds-russian-backdoor-in-traffic-speed-cameras.md"
+    },
+    {
+        "title": "RA-Bench Reveals Why Crisis-Video Deepfake Detectors Fail Across Generators and Social Media",
+        "slug": "ra-bench-reveals-why-crisis-video-deepfake-detectors-fail-across-generators-and-social-media",
+        "author": "aimodels-fyi",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 18:33:44 +0000",
+        "description": "This is a Plain English Papers summary of a research paper called RA-Bench Reveals Why Crisis-Video Deepfake Detectors Fail Across Generators and Social Medi...",
+        "keywords": "crisis, video, detectors, deepfake, generators, can, detection, bench",
+        "generated": "2026-08-24T18:48:28.656048",
+        "file": "ra-bench-reveals-why-crisis-video-deepfake-detectors-fail-across-generators-and-social-media.md"
     },
     {
         "title": "From 2800-Line Monolith to Modular FastAPI — Refactoring an AI Geolocation Tool",
@@ -42434,10 +42544,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Mon, 24 Aug 2026 12:18:40 +0000",
+        "published": "Mon, 24 Aug 2026 18:18:38 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-24T12:59:46.022222",
+        "generated": "2026-08-24T18:48:28.650769",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -45554,6 +45664,17 @@
         "file": "generator-internals-why-they-are-lazy-and-what-that-actually-means.md"
     },
     {
+        "title": "How AI Agents Navigate Large Codebases",
+        "slug": "how-ai-agents-navigate-large-codebases",
+        "author": "Ali Raza",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 18:28:50 +0000",
+        "description": "Introduction Ask any developer who has worked on a massive codebase and they will tell you the same thing. Finding the right file, understanding how modules ...",
+        "keywords": "code, agents, agent, how, files, what, tools, context",
+        "generated": "2026-08-24T18:48:28.654174",
+        "file": "how-ai-agents-navigate-large-codebases.md"
+    },
+    {
         "title": "If you are asking for human attention, demonstrate human effort",
         "slug": "if-you-are-asking-for-human-attention-demonstrate-human-effort",
         "author": "jjfoooo4",
@@ -45992,6 +46113,17 @@
         "keywords": "email, tiktok, profile, apify, scraper, csv, excel, run",
         "generated": "2026-07-18T08:00:40.325052",
         "file": "how-to-scrape-tiktok-email-profile-free-no-code-guide-2026.md"
+    },
+    {
+        "title": "Day 6/70 | Testing PyForge & Making It Actually Installable| 10 Weeks Challenge",
+        "slug": "day-670-testing-pyforge-making-it-actually-installable-10-weeks-challenge",
+        "author": "Nattar Kani Murugan",
+        "source": "devto_python",
+        "published": "Mon, 24 Aug 2026 18:14:44 +0000",
+        "description": "Okay, Nattar. Day 6. Today wasn't about adding another big feature. It was about making yesterday's PyForge CLI a little more real. The goal was simple: Writ...",
+        "keywords": "pyforge, install, project, day, testing, actually, today, work",
+        "generated": "2026-08-24T18:48:28.651044",
+        "file": "day-670-testing-pyforge-making-it-actually-installable-10-weeks-challenge.md"
     },
     {
         "title": "From Dirt to Inference: Why I Am Starting at the Family Table",
@@ -52810,7 +52942,7 @@
         "published": "Sun, 23 Aug 2026 14:36:38 +0000",
         "description": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
         "keywords": "authoritarianism, code, url, https, com, comments, article, zedshaw",
-        "generated": "2026-08-24T12:59:46.020766",
+        "generated": "2026-08-24T18:48:28.649150",
         "file": "authoritarianism-of-code.md"
     },
     {
@@ -62625,6 +62757,17 @@
         "file": "16-keyboard-accessibility-and-inclusive-design-making-typing-tools-work-for-everyone.md"
     },
     {
+        "title": "10 Best Online Stores to Buy Verified Shopify Accounts",
+        "slug": "10-best-online-stores-to-buy-verified-shopify-accounts",
+        "author": "omnilender",
+        "source": "devto_webdev",
+        "published": "Mon, 24 Aug 2026 18:37:17 +0000",
+        "description": "The e-commerce landscape continues to expand at a remarkable pace, with Shopify emerging as one of the most accessible platforms for entrepreneurs worldwide....",
+        "keywords": "shopify, business, account, verification, can, store, educational, not",
+        "generated": "2026-08-24T18:48:28.653394",
+        "file": "10-best-online-stores-to-buy-verified-shopify-accounts.md"
+    },
+    {
         "title": "Another Glorious Day of Being a Digital Coffee Machine",
         "slug": "another-glorious-day-of-being-a-digital-coffee-machine",
         "author": "Electra AI",
@@ -63536,6 +63679,17 @@
         "keywords": "sula, url, https, comments, gemini, protocol, server, written",
         "generated": "2026-08-05T19:42:57.572649",
         "file": "sula-a-gemini-protocol-server-written-in-scryer-prolog.md"
+    },
+    {
+        "title": "OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios",
+        "slug": "openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios",
+        "author": "aimodels-fyi",
+        "source": "devto_ai",
+        "published": "Mon, 24 Aug 2026 18:34:19 +0000",
+        "description": "This is a Plain English Papers summary of a research paper called OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios . If you lik...",
+        "keywords": "openart, across, environment, safety, red, stateful, scenarios, can",
+        "generated": "2026-08-24T18:48:28.655490",
+        "file": "openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios.md"
     },
     {
         "title": "Europe's free satellite service just made it easier to track wildfires",
