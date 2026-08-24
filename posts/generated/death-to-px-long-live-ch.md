@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Sun, 23 Aug 2026 13:56:27 +0000"
 description: "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10"
 keywords: "death, long, live, url, https, comments, article, shkspr"
-generated: "2026-08-24T07:07:50.321506"
+generated: "2026-08-24T12:59:46.021080"
 ---
 
 # Death to px, long live ch

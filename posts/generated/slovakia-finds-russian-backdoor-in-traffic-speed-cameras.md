@@ -6,7 +6,7 @@ source: "hackernews"
 published: "Sun, 23 Aug 2026 14:38:25 +0000"
 description: "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49..."
 keywords: "slovakia, finds, russian, backdoor, traffic, speed, cameras, url"
-generated: "2026-08-24T07:07:50.321020"
+generated: "2026-08-24T12:59:46.020578"
 ---
 
 # Slovakia finds Russian backdoor in traffic speed cameras
