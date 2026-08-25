@@ -3,10 +3,10 @@ title: "Dual-GPU vLLM screen perception & coordinate grounding for desktop agent
 slug: "dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01"
 author: "Achyut Srivastava"
 source: "devto_python"
-published: "Mon, 24 Aug 2026 18:07:27 +0000"
+published: "Tue, 25 Aug 2026 18:02:41 +0000"
 description: "Dual-GPU vLLM screen perception & coordinate grounding for desktop agents (Neo v0.1) The Engineering Problem Modern AI paired programming and conversational ..."
 keywords: "dual, neo, gpu, vllm, screen, perception, coordinate, grounding"
-generated: "2026-08-24T18:48:28.651778"
+generated: "2026-08-25T18:46:02.102046"
 ---
 
 # Dual-GPU vLLM screen perception & coordinate grounding for desktop agents (Neo v0.1)
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/achyut_srivastava_2a77b5d/dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01-4kjm
+https://dev.to/achyut_srivastava_2a77b5d/dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01-2795
 
 ## Conclusion
 

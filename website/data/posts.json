@@ -7313,6 +7313,17 @@
         "file": "the-pomodoro-technique-is-overhyped-but-the-science-behind-it-is-not.md"
     },
     {
+        "title": "Appels manqués et WhatsApp : le workflow minimum pour ne plus perdre de leads",
+        "slug": "appels-manqus-et-whatsapp-le-workflow-minimum-pour-ne-plus-perdre-de-leads",
+        "author": "Hermes AI",
+        "source": "devto_ai",
+        "published": "Tue, 25 Aug 2026 18:35:00 +0000",
+        "description": "Pour une petite équipe, le vrai problème n’est pas de “répondre avec de l’IA”, c’est de ne pas perdre le contexte quand un appel ou un WhatsApp arrive au mau...",
+        "keywords": "whatsapp, une, pour, workflow, plus, perdre, est, pas",
+        "generated": "2026-08-25T18:46:02.103639",
+        "file": "appels-manqus-et-whatsapp-le-workflow-minimum-pour-ne-plus-perdre-de-leads.md"
+    },
+    {
         "title": "RFC 8890 – The Internet is for End Users (2020)",
         "slug": "rfc-8890-the-internet-is-for-end-users-2020",
         "author": "notarobot123",
@@ -12813,6 +12824,17 @@
         "file": "the-website-chatbot-was-a-workaround-not-a-solution.md"
     },
     {
+        "title": "The HSTS Header You Just Marked 'Pass' Doesn't Protect the Request That Actually Matters",
+        "slug": "the-hsts-header-you-just-marked-pass-doesnt-protect-the-request-that-actually-matters",
+        "author": "Rocky",
+        "source": "devto_webdev",
+        "published": "Tue, 25 Aug 2026 18:30:46 +0000",
+        "description": "You're doing a quick pass on a header checklist before the real testing starts. curl -I comes back with Strict-Transport-Security: max-age=31536000 . HSTS pr...",
+        "keywords": "header, request, browser, hsts, you, before, max, age",
+        "generated": "2026-08-25T18:46:02.102438",
+        "file": "the-hsts-header-you-just-marked-pass-doesnt-protect-the-request-that-actually-matters.md"
+    },
+    {
         "title": "The quirky personal homepages of programming language creators",
         "slug": "the-quirky-personal-homepages-of-programming-language-creators",
         "author": "cjlm",
@@ -13020,6 +13042,17 @@
         "keywords": "app, skin, your, you, flutterskin, myapp, dev, color",
         "generated": "2026-06-28T09:19:21.766681",
         "file": "i-built-a-remote-skin-engine-for-flutter.md"
+    },
+    {
+        "title": "Firefox 157 will include JPEG XL by default on all platforms",
+        "slug": "firefox-157-will-include-jpeg-xl-by-default-on-all-platforms",
+        "author": "yboris",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 17:55:23 +0000",
+        "description": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 3...",
+        "keywords": "url, https, com, comments, firefox, will, include, jpeg",
+        "generated": "2026-08-25T18:46:02.101273",
+        "file": "firefox-157-will-include-jpeg-xl-by-default-on-all-platforms.md"
     },
     {
         "title": "Detect SERP Features in Search Results for Better SEO Context",
@@ -16696,6 +16729,17 @@
         "file": "ten-steps-towards-happiness-2015.md"
     },
     {
+        "title": "NVIDIA's NemoClaw Addresses CVE-2026-25253 Vulnerability Affecting 63% of OpenClaw Instances",
+        "slug": "nvidias-nemoclaw-addresses-cve-2026-25253-vulnerability-affecting-63-of-openclaw-instances",
+        "author": "kchour96-dev",
+        "source": "devto_ai",
+        "published": "Tue, 25 Aug 2026 18:29:35 +0000",
+        "description": "🔗 Live Dashboard: autonomous-portfolio-2026.live 📢 Telegram: t.me/AII2026futher Today's Headlines NVIDIA introduced the NemoClaw open-source security framewo...",
+        "keywords": "security, nemoclaw, agent, openclaw, cve, instances, autonomous, over",
+        "generated": "2026-08-25T18:46:02.104110",
+        "file": "nvidias-nemoclaw-addresses-cve-2026-25253-vulnerability-affecting-63-of-openclaw-instances.md"
+    },
+    {
         "title": "To Recruit Teachers, School Districts Are Building Homes",
         "slug": "to-recruit-teachers-school-districts-are-building-homes",
         "author": "mooreds",
@@ -16738,6 +16782,17 @@
         "keywords": "url, https, comments, forestiere, underground, gardens, article, wikipedia",
         "generated": "2026-07-01T04:23:05.791432",
         "file": "forestiere-underground-gardens.md"
+    },
+    {
+        "title": "AI Agent Evaluation: Why One Aggregate Score Cannot Tell You Which Layer Broke",
+        "slug": "ai-agent-evaluation-why-one-aggregate-score-cannot-tell-you-which-layer-broke",
+        "author": "Logan",
+        "source": "devto_ai",
+        "published": "Tue, 25 Aug 2026 18:29:24 +0000",
+        "description": "On 10 June 2026, three researchers published the result of an experiment designed to answer a narrow question: if you deliberately break one layer of a produ...",
+        "keywords": "agent, layer, not, evaluation, one, score, aggregate, decision",
+        "generated": "2026-08-25T18:46:02.104573",
+        "file": "ai-agent-evaluation-why-one-aggregate-score-cannot-tell-you-which-layer-broke.md"
     },
     {
         "title": "Your Pipeline Is 5.4h Behind: Catching Climate Sentiment Leads with Pulsebit",
@@ -17074,10 +17129,10 @@
         "slug": "dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01",
         "author": "Achyut Srivastava",
         "source": "devto_python",
-        "published": "Mon, 24 Aug 2026 18:07:27 +0000",
+        "published": "Tue, 25 Aug 2026 18:02:41 +0000",
         "description": "Dual-GPU vLLM screen perception & coordinate grounding for desktop agents (Neo v0.1) The Engineering Problem Modern AI paired programming and conversational ...",
         "keywords": "dual, neo, gpu, vllm, screen, perception, coordinate, grounding",
-        "generated": "2026-08-24T18:48:28.651778",
+        "generated": "2026-08-25T18:46:02.102046",
         "file": "dual-gpu-vllm-screen-perception-coordinate-grounding-for-desktop-agents-neo-v01.md"
     },
     {
@@ -18630,6 +18685,17 @@
         "keywords": "posthog, url, https, com, comments, open, sourced, article",
         "generated": "2026-07-09T15:22:18.570811",
         "file": "posthog-open-sourced.md"
+    },
+    {
+        "title": "Optimierung von SEO-Backlinks für Automobil-Websites: Strategien für den deutschen Markt",
+        "slug": "optimierung-von-seo-backlinks-fr-automobil-websites-strategien-fr-den-deutschen-markt",
+        "author": "Lion Klein",
+        "source": "devto_python",
+        "published": "Tue, 25 Aug 2026 18:12:39 +0000",
+        "description": "Die gezielte Stärkung der Online-Präsenz im hart umkämpften Automobilsektor erfordert eine durchdachte Off-Page-SEO-Strategie. Besonders im deutschsprachigen...",
+        "keywords": "die, von, den, und, seo, der, eine, page",
+        "generated": "2026-08-25T18:46:02.101581",
+        "file": "optimierung-von-seo-backlinks-fr-automobil-websites-strategien-fr-den-deutschen-markt.md"
     },
     {
         "title": "Observability of agent app with Langfuse",
@@ -26042,6 +26108,17 @@
         "keywords": "fcc, space, mirror, url, https, com, comments, approves",
         "generated": "2026-07-11T13:38:52.448004",
         "file": "fcc-approves-test-of-space-mirror-to-light-night-sky-despite-outcry.md"
+    },
+    {
+        "title": "Why Your AI Agent Needs a Wallet More Than a Chat Interface",
+        "slug": "why-your-ai-agent-needs-a-wallet-more-than-a-chat-interface",
+        "author": "nanoempireai",
+        "source": "devto_python",
+        "published": "Tue, 25 Aug 2026 18:09:16 +0000",
+        "description": "Why Your AI Agent Needs a Wallet More Than a Chat Interface Everyone's building chat interfaces for AI agents. Chat is easy. Chat is demo-able. Chat gets upv...",
+        "keywords": "agent, chat, your, agents, api, but, how, can",
+        "generated": "2026-08-25T18:46:02.101962",
+        "file": "why-your-ai-agent-needs-a-wallet-more-than-a-chat-interface.md"
     },
     {
         "title": "# I Built an AI-Powered Python-to-C++ Transpiler Entirely From My Phone. Here is How (and Why).",
@@ -33566,6 +33643,17 @@
         "file": "faster-compilers-twelve-factor-agents-and-kubernetes-in-your-browser.md"
     },
     {
+        "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+        "slug": "clara-yc-p26-is-hiring-a-growth-engineer-to-bring-ai-doctors-to-market",
+        "author": "gfavvas",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 17:28:52 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?i...",
+        "keywords": "clara, growth, engineer, url, https, ycombinator, com, comments",
+        "generated": "2026-08-25T18:46:02.101322",
+        "file": "clara-yc-p26-is-hiring-a-growth-engineer-to-bring-ai-doctors-to-market.md"
+    },
+    {
         "title": "Best 15 Sites to Buy Gmail Accounts: PVA & Aged for 2026",
         "slug": "best-15-sites-to-buy-gmail-accounts-pva-aged-for-2026",
         "author": "Devid",
@@ -34994,6 +35082,17 @@
         "keywords": "polymarket, bot, momentum, production, delta, here, clean, easy",
         "generated": "2026-06-15T21:11:31.714105",
         "file": "building-a-production-ready-polymarket-bot-delta-momentum-clob-execution.md"
+    },
+    {
+        "title": "Best Web Development Course in Okhla Delhi | Digital Edu Skill",
+        "slug": "best-web-development-course-in-okhla-delhi-digital-edu-skill",
+        "author": "Digital Edu Skills Academy",
+        "source": "devto_webdev",
+        "published": "Tue, 25 Aug 2026 18:32:11 +0000",
+        "description": "In today’s digital world, websites are essential for businesses, brands, organizations, and individuals. As the demand for skilled web developers continues t...",
+        "keywords": "web, development, digital, can, skill, course, edu, learning",
+        "generated": "2026-08-25T18:46:02.102176",
+        "file": "best-web-development-course-in-okhla-delhi-digital-edu-skill.md"
     },
     {
         "title": "The Chud Vision of Roman History",
@@ -41231,6 +41330,17 @@
         "file": "nvidia-is-proposing-a-beast-of-a-cpu-system-for-windows-pcs.md"
     },
     {
+        "title": "How to Use Anyword for Search Intent Classification in 2026",
+        "slug": "how-to-use-anyword-for-search-intent-classification-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Tue, 25 Aug 2026 18:37:31 +0000",
+        "description": "Originally published at https://seointent.com/blog/anyword-for-search-intent-classification TL;DR - Anyword for search intent classification lets you batch-c...",
+        "keywords": "intent, anyword, you, classification, keyword, your, prompt, search",
+        "generated": "2026-08-25T18:46:02.103542",
+        "file": "how-to-use-anyword-for-search-intent-classification-in-2026.md"
+    },
+    {
         "title": "India VIX Mastery: How to Use Fear as a Trading Signal",
         "slug": "india-vix-mastery-how-to-use-fear-as-a-trading-signal",
         "author": "shakti tiwari",
@@ -41493,6 +41603,17 @@
         "keywords": "json, task, free, score, model, not, case, you",
         "generated": "2026-08-22T18:37:08.475097",
         "file": "i-ran-a-90-call-structured-output-benchmark-on-a-free-model-server-heres-where-it-breaks.md"
+    },
+    {
+        "title": "PWA with React + Leaflet: lessons from a 31-city map app",
+        "slug": "pwa-with-react-leaflet-lessons-from-a-31-city-map-app",
+        "author": "TaroFortune",
+        "source": "devto_webdev",
+        "published": "Tue, 25 Aug 2026 18:31:19 +0000",
+        "description": "Notes from shipping a real-world PWA in Korea: Vite SSG is worth it. SPAs lose Korean SEO because Naver's crawler doesn't fully render JS. Leaflet > Mapbox f...",
+        "keywords": "pwa, leaflet, city, map, app, korea, cost, let",
+        "generated": "2026-08-25T18:46:02.102240",
+        "file": "pwa-with-react-leaflet-lessons-from-a-31-city-map-app.md"
     },
     {
         "title": "Video generation pricing, fully itemized: what a second of Seedance 2.0 actually costs",
@@ -42940,10 +43061,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Tue, 25 Aug 2026 06:30:50 +0000",
+        "published": "Tue, 25 Aug 2026 18:18:36 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-25T06:56:03.870822",
+        "generated": "2026-08-25T18:46:02.101431",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -48722,6 +48843,17 @@
         "file": "ai-memory.md"
     },
     {
+        "title": "Trial is 40 days. Not until you're 40",
+        "slug": "trial-is-40-days-not-until-youre-40",
+        "author": "pikseladam",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 17:56:33 +0000",
+        "description": "Article URL: https://twitter.com/WinRAR_RARLAB/status/2092182008319386067 Comments URL: https://news.ycombinator.com/item?id=49437966 Points: 13 # Comments: 0",
+        "keywords": "url, https, com, comments, trial, days, not, until",
+        "generated": "2026-08-25T18:46:02.101219",
+        "file": "trial-is-40-days-not-until-youre-40.md"
+    },
+    {
         "title": "Automate Social Media With Python and the Zernio API",
         "slug": "automate-social-media-with-python-and-the-zernio-api",
         "author": "Kevin Meneses González",
@@ -49864,6 +49996,17 @@
         "keywords": "ben, bernanke, anthropic, url, https, com, news, comments",
         "generated": "2026-07-10T03:51:00.818650",
         "file": "ben-bernanke-joins-anthropic-oversight-trust.md"
+    },
+    {
+        "title": "Dolly Parton has died",
+        "slug": "dolly-parton-has-died",
+        "author": "helsinkiandrew",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 18:02:22 +0000",
+        "description": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE ht...",
+        "keywords": "https, dolly, com, parton, www, music, news, comments",
+        "generated": "2026-08-25T18:46:02.101159",
+        "file": "dolly-parton-has-died.md"
     },
     {
         "title": "Sentiment Analysis for Social Media Monitoring using LLM: Best Practices and Applications",
@@ -54882,6 +55025,17 @@
         "file": "empower-your-agents-with-the-new-surrealdb-mcp.md"
     },
     {
+        "title": "How to Build a B2B Lead Capture Strategy That Doesn't Annoy Visitors",
+        "slug": "how-to-build-a-b2b-lead-capture-strategy-that-doesnt-annoy-visitors",
+        "author": "ProDigital360",
+        "source": "devto_webdev",
+        "published": "Tue, 25 Aug 2026 18:31:09 +0000",
+        "description": "This article was originally published on ProDigital360 Read the full article on ProDigital360 →",
+        "keywords": "article, how, build, lead, capture, strategy, doesn, annoy",
+        "generated": "2026-08-25T18:46:02.102291",
+        "file": "how-to-build-a-b2b-lead-capture-strategy-that-doesnt-annoy-visitors.md"
+    },
+    {
         "title": "Australia passes law to levy tech giants that fail to pay for local news",
         "slug": "australia-passes-law-to-levy-tech-giants-that-fail-to-pay-for-local-news",
         "author": "thm",
@@ -56341,6 +56495,17 @@
         "keywords": "age, token, efficiency, url, https, com, comments, libraries",
         "generated": "2026-07-28T08:43:31.568275",
         "file": "the-age-of-token-efficiency-the-age-of-libraries.md"
+    },
+    {
+        "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+        "slug": "pgbot-a-59-mb-read-only-postgres-tool-for-humans-and-agents",
+        "author": "sashash",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 18:30:57 +0000",
+        "description": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 3 # Comments: 3",
+        "keywords": "pgbot, url, https, comments, read, only, postgres, tool",
+        "generated": "2026-08-25T18:46:02.101013",
+        "file": "pgbot-a-59-mb-read-only-postgres-tool-for-humans-and-agents.md"
     },
     {
         "title": "Rebuilding Orkas for Long-Running Agents",
@@ -58388,6 +58553,17 @@
         "keywords": "accounts, telegram, available, buysmmservice, free, email, use, more",
         "generated": "2026-07-03T09:27:38.734675",
         "file": "the-comprehensive-guide-to-buying-telegram-account.md"
+    },
+    {
+        "title": "MIT License Enterprise: Essential AI Guide for 2026",
+        "slug": "mit-license-enterprise-essential-ai-guide-for-2026",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Tue, 25 Aug 2026 18:32:09 +0000",
+        "description": "Enterprise AI teams need code they can inspect, adapt, secure, and deploy without creating unnecessary legal friction. That makes MIT License enterprise adop...",
+        "keywords": "license, mit, enterprise, source, software, code, does, model",
+        "generated": "2026-08-25T18:46:02.103884",
+        "file": "mit-license-enterprise-essential-ai-guide-for-2026.md"
     },
     {
         "title": "I built a web-first OS where standard HTML/JS apps run natively — no IPC bloat or electron wrappers required",
@@ -62207,6 +62383,17 @@
         "file": "hugging-face-inference-api-run-200000-ai-models-for-free-with-python.md"
     },
     {
+        "title": "Did FP8 make the model dumber? A per-prompt regression check for quantized serving",
+        "slug": "did-fp8-make-the-model-dumber-a-per-prompt-regression-check-for-quantized-serving",
+        "author": "Jahn",
+        "source": "devto_python",
+        "published": "Tue, 25 Aug 2026 18:12:24 +0000",
+        "description": "FP8 gave us a clean 1.5x on Qwen3-8B serving throughput on an RTX PRO 6000 Blackwell (1,725 to 2,597 tok/s at concurrency 32, vLLM). The uncomfortable questi...",
+        "keywords": "one, identical, you, run, wrong, json, prompt, same",
+        "generated": "2026-08-25T18:46:02.101774",
+        "file": "did-fp8-make-the-model-dumber-a-per-prompt-regression-check-for-quantized-serving.md"
+    },
+    {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "slug": "launch-hn-onecli-yc-s26-oss-sandboxed-agent-harness-for-teams",
         "author": "guyb3",
@@ -65714,6 +65901,17 @@
         "keywords": "html, page, pdf, you, right, invoice, class, weasyprint",
         "generated": "2026-06-24T09:40:50.188555",
         "file": "generate-pdf-invoices-from-html-in-python-without-a-headless-browser.md"
+    },
+    {
+        "title": "MVP que evolui: 7 decisões técnicas antes da primeira linha de código",
+        "slug": "mvp-que-evolui-7-decises-tcnicas-antes-da-primeira-linha-de-cdigo",
+        "author": "Fernando Cunha - Mestres da Web",
+        "source": "devto_webdev",
+        "published": "Tue, 25 Aug 2026 18:21:19 +0000",
+        "description": "Um MVP não precisa nascer preparado para milhões de usuários. Mas também não deve ser construído de uma forma que torne cada evolução futura mais cara do que...",
+        "keywords": "que, uma, para, mvp, dados, como, pode, sem",
+        "generated": "2026-08-25T18:46:02.102747",
+        "file": "mvp-que-evolui-7-decises-tcnicas-antes-da-primeira-linha-de-cdigo.md"
     },
     {
         "title": "Mathematical Equations are Multimodal by default",
