@@ -418,6 +418,17 @@
         "file": "historical-memory-prices-1960-2026.md"
     },
     {
+        "title": "Self-Hosting A Model Is Easy, Self-Hosting An Agent Is Not",
+        "slug": "self-hosting-a-model-is-easy-self-hosting-an-agent-is-not",
+        "author": "Paul Crinigan",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 01:26:10 +0000",
+        "description": "Running a model on your own hardware is a solved problem. Ollama, LM Studio, llama.cpp, pick one and you have weights answering on localhost in an afternoon....",
+        "keywords": "you, agent, one, your, model, tool, agents, not",
+        "generated": "2026-08-26T01:41:06.770448",
+        "file": "self-hosting-a-model-is-easy-self-hosting-an-agent-is-not.md"
+    },
+    {
         "title": "Sync vs Async in Playwright Python: A Beginner Guide for Students in Hyderabad",
         "slug": "sync-vs-async-in-playwright-python-a-beginner-guide-for-students-in-hyderabad",
         "author": "shravan kumar",
@@ -2165,6 +2176,17 @@
         "keywords": "you, what, one, code, before, model, skipped, fix",
         "generated": "2026-06-14T19:44:48.279256",
         "file": "i-stopped-telling-chatgpt-to-fix-it-heres-the-4-part-prompt-i-use-instead.md"
+    },
+    {
+        "title": "Stop expecting one model to grind through everything. A 27B lineup matched a giant 60x its size — and spent a fraction of the tokens doing it.",
+        "slug": "stop-expecting-one-model-to-grind-through-everything-a-27b-lineup-matched-a-giant-60x-its-size-and-spent-a-fraction-of-the-tokens-doing-it",
+        "author": "NovaStack",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 01:27:34 +0000",
+        "description": "01 | A moment most engineering teams have lived through It’s 11pm, the night before a release. You’re staring at an eight-year-old codebase and an issue that...",
+        "keywords": "model, models, one, three, fusion, moa, same, only",
+        "generated": "2026-08-26T01:41:06.769097",
+        "file": "stop-expecting-one-model-to-grind-through-everything-a-27b-lineup-matched-a-giant-60x-its-size-and-spent-a-fraction-of-the-tokens-doing-it.md"
     },
     {
         "title": "Event stores and event sourcing databases: EventStoreDB, Kafka, and PostgreSQL as event stores",
@@ -6939,6 +6961,17 @@
         "file": "building-production-grade-agentic-ai-systems-a-senior-architects-blueprint-for-scalability-latency-and-trust.md"
     },
     {
+        "title": "The fuss with React hooks exporting global values",
+        "slug": "the-fuss-with-react-hooks-exporting-global-values",
+        "author": "Muhammad Bin Zafar",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 01:29:24 +0000",
+        "description": "TLDR: it doesn't work. You can't ever have a React hook that exports memoized global values. EVER. This is my finding here. I had forgotten the JavaScript es...",
+        "keywords": "values, global, hook, javascript, react, right, object, usecartitems",
+        "generated": "2026-08-26T01:41:06.768261",
+        "file": "the-fuss-with-react-hooks-exporting-global-values.md"
+    },
+    {
         "title": "Citations That Survive a TypeScript Refactor",
         "slug": "citations-that-survive-a-typescript-refactor",
         "author": "Gabriel Anhaia",
@@ -7102,6 +7135,17 @@
         "keywords": "prefer, strict, tables, sqlite, url, https, com, comments",
         "generated": "2026-07-11T19:12:02.612336",
         "file": "prefer-strict-tables-in-sqlite.md"
+    },
+    {
+        "title": "Beating TLS Fingerprinting in Python: A Hands-On Guide",
+        "slug": "beating-tls-fingerprinting-in-python-a-hands-on-guide",
+        "author": "Greta",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 01:07:02 +0000",
+        "description": "Beating TLS Fingerprinting in Python: A Hands-On Guide Here's a scenario that has confused every scraper developer at least once: headers are perfect, cookie...",
+        "keywords": "tls, requests, browser, fingerprint, your, you, https, com",
+        "generated": "2026-08-26T01:41:06.767225",
+        "file": "beating-tls-fingerprinting-in-python-a-hands-on-guide.md"
     },
     {
         "title": "OpenChamber: An Agentic Development Environment",
@@ -7621,6 +7665,17 @@
         "file": "saas-vs-custom-software-which-one-makes-more-sense-for-growing-businesses.md"
     },
     {
+        "title": "Building OmniGIF: A Client-Side GIF Toolkit with WebAssembly (No Server Uploads)",
+        "slug": "building-omnigif-a-client-side-gif-toolkit-with-webassembly-no-server-uploads",
+        "author": "Calvin",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 01:30:38 +0000",
+        "description": "Most online GIF tools send your file to a remote server. I built OmniGIF to prove that's unnecessary — modern browsers can decode, encode, and transform GIFs...",
+        "keywords": "gif, omnigif, tools, wasm, apng, client, side, server",
+        "generated": "2026-08-26T01:41:06.767685",
+        "file": "building-omnigif-a-client-side-gif-toolkit-with-webassembly-no-server-uploads.md"
+    },
+    {
         "title": "Naughty Challenges by Inithouse vs physical spicy decks: a free 18+ card game for couples and friend groups",
         "slug": "naughty-challenges-by-inithouse-vs-physical-spicy-decks-a-free-18-card-game-for-couples-and-friend-groups",
         "author": "Jakub",
@@ -7773,6 +7828,17 @@
         "keywords": "government, reportedly, allowing, federal, data, center, rules, expire",
         "generated": "2026-06-15T21:11:31.713081",
         "file": "us-government-reportedly-allowing-federal-data-center-rules-to-expire.md"
+    },
+    {
+        "title": "Python's pre-declared constants are kinda weird",
+        "slug": "pythons-pre-declared-constants-are-kinda-weird",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 21:39:02 +0000",
+        "description": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 140 # Comments: 111",
+        "keywords": "url, https, comments, python, pre, declared, constants, kinda",
+        "generated": "2026-08-26T01:41:06.765464",
+        "file": "pythons-pre-declared-constants-are-kinda-weird.md"
     },
     {
         "title": "Learning Python by Building a Discord Bot",
@@ -11524,6 +11590,17 @@
         "keywords": "panther, data, can, security, databricks, cybersecurity, detection, solutions",
         "generated": "2026-06-20T04:12:08.215568",
         "file": "databricks-acquires-panther-a-new-era-in-cyberatt.md"
+    },
+    {
+        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+        "slug": "show-hn-texbrain-a-latex-editor-that-runs-pdftex-in-the-browser-via-wasm",
+        "author": "swimmingbrain",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 22:08:50 +0000",
+        "description": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I w...",
+        "keywords": "you, file, tex, have, work, then, editor, pdftex",
+        "generated": "2026-08-26T01:41:06.765338",
+        "file": "show-hn-texbrain-a-latex-editor-that-runs-pdftex-in-the-browser-via-wasm.md"
     },
     {
         "title": "llms.txt Implementation: The Part Nobody Measures",
@@ -18588,6 +18665,17 @@
         "file": "the-war-on-terror-primed-america-for-autocracy.md"
     },
     {
+        "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+        "slug": "when-strlower-is-a-security-vulnerability-in-python-seth-larson",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 20:49:03 +0000",
+        "description": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 58 # Comm...",
+        "keywords": "when, str, lower, security, vulnerability, url, https, comments",
+        "generated": "2026-08-26T01:41:06.765592",
+        "file": "when-strlower-is-a-security-vulnerability-in-python-seth-larson.md"
+    },
+    {
         "title": "Flint: A Visualization Language for the AI Era",
         "slug": "flint-a-visualization-language-for-the-ai-era",
         "author": "vinhnx",
@@ -19655,6 +19743,17 @@
         "file": "some-ai-systems-differentially-downplay-their-creators-controversies.md"
     },
     {
+        "title": "What Done Actually Means: A Day Inside the Ticket-to-Ship Loop",
+        "slug": "what-done-actually-means-a-day-inside-the-ticket-to-ship-loop",
+        "author": "MUNEEB-UR-REHMAN BAIG",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 01:29:35 +0000",
+        "description": "Ticket #142 says: Add user name who prepared the document to the PDF report. Five words short of what the client actually meant, and you find that out thre...",
+        "keywords": "what, not, one, code, review, ticket, plan, you",
+        "generated": "2026-08-26T01:41:06.769500",
+        "file": "what-done-actually-means-a-day-inside-the-ticket-to-ship-loop.md"
+    },
+    {
         "title": "CarPlay Is Additive",
         "slug": "carplay-is-additive",
         "author": "sprawl_",
@@ -20049,6 +20148,17 @@
         "keywords": "flaky, test, exposed, redis, use, after, free, url",
         "generated": "2026-07-22T03:17:44.187504",
         "file": "a-flaky-test-exposed-a-redis-client-use-after-free.md"
+    },
+    {
+        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+        "slug": "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Tue, 25 Aug 2026 22:40:07 +0000",
+        "description": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 25 # Comments: 4",
+        "keywords": "maiao, github, url, https, com, comments, gerrit, style",
+        "generated": "2026-08-26T01:41:06.765067",
+        "file": "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others.md"
     },
     {
         "title": "Building and Deploying a Remote MCP Server: Lessons from Connecting an Expense Tracker to Claude Desktop",
@@ -23866,6 +23976,17 @@
         "keywords": "craigslist, url, https, comments, founder, has, given, away",
         "generated": "2026-06-18T20:32:55.628157",
         "file": "the-founder-of-craigslist-has-given-away-half-a-billion-dollars.md"
+    },
+    {
+        "title": "Your Pipeline Is 18.1h Behind: Catching Sports Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-181h-behind-catching-sports-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 01:27:59 +0000",
+        "description": "Your Pipeline Is 18.1h Behind: Catching Sports Sentiment Leads with Pulsebit We just uncovered a fascinating anomaly: a 24h momentum spike of +0.444 in sport...",
+        "keywords": "sentiment, sports, pulsebit, english, articles, you, can, your",
+        "generated": "2026-08-26T01:41:06.766212",
+        "file": "your-pipeline-is-181h-behind-catching-sports-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "OpenSearch Serverless NextGen, uv audit, and Why Schema Constraints Break Small Models",
@@ -34589,6 +34710,17 @@
         "file": "your-ci-is-probably-pinging-indexnow-wrong.md"
     },
     {
+        "title": "Automate Cerebras Contract Tracking with Python",
+        "slug": "automate-cerebras-contract-tracking-with-python",
+        "author": "IntelliTools",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 01:18:23 +0000",
+        "description": "If you're manually tracking Cerebras contracts and production schedules, you're wasting hours on a task that can be fully automated. This is where Cerebras C...",
+        "keywords": "contract, status, contracts, report, write, cerebras, fulfilled, you",
+        "generated": "2026-08-26T01:41:06.766791",
+        "file": "automate-cerebras-contract-tracking-with-python.md"
+    },
+    {
         "title": "The Evaluation Had a Sandbox. It Needed an Authority Boundary.",
         "slug": "the-evaluation-had-a-sandbox-it-needed-an-authority-boundary",
         "author": "Michael Mike K. Saleme",
@@ -36444,6 +36576,17 @@
         "keywords": "english, midfielders, time, sports, record, two, transfers, real",
         "generated": "2026-07-24T03:18:16.302066",
         "file": "how-i-built-a-real-time-sports-stats-tracker-one-month-two-record-transfers-why-english-midfielders-are-in-demand.md"
+    },
+    {
+        "title": "service sector jobs",
+        "slug": "service-sector-jobs",
+        "author": "Bang Nguyen huyen",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 01:26:02 +0000",
+        "description": "I believe the Indian government needs to take the employment issue more seriously. India boasts one of the world's largest young populations, often described...",
+        "keywords": "jobs, more, india, young, service, sector, government, employment",
+        "generated": "2026-08-26T01:41:06.770588",
+        "file": "service-sector-jobs.md"
     },
     {
         "title": "I Built an Adversarial Eval Framework and Attacked 5 LLMs — Every Single One Failed",
@@ -42694,6 +42837,17 @@
         "file": "how-to-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib.md"
     },
     {
+        "title": "Buy Running CBSE School in Gurgaon",
+        "slug": "buy-running-cbse-school-in-gurgaon",
+        "author": "seo work",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 01:33:23 +0000",
+        "description": "Looking to invest in a running CBSE secondary school in Gurgaon? The Hotel Properties offers opportunities to explore suitable educational properties and run...",
+        "keywords": "school, running, gurgaon, cbse, properties, thehotelproperties, com, buy",
+        "generated": "2026-08-26T01:41:06.767375",
+        "file": "buy-running-cbse-school-in-gurgaon.md"
+    },
+    {
         "title": "Measuring Operational Output in High-Performance Teams (787)",
         "slug": "measuring-operational-output-in-high-performance-teams-787",
         "author": "mara Banks",
@@ -43061,10 +43215,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Tue, 25 Aug 2026 18:18:36 +0000",
+        "published": "Wed, 26 Aug 2026 01:22:46 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-25T18:46:02.101431",
+        "generated": "2026-08-26T01:41:06.766429",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -52847,14 +53001,14 @@
         "file": "artificial-intelligence-breakthroughs-latest-research-and-technological-advances.md"
     },
     {
-        "title": "编程入门靠谱吗？这篇说透了 | 数字枢纽",
+        "title": "财经知识类短视频怎么做？一套新手能直接上手的完整制作流程",
         "slug": "",
-        "author": "guojunzzc",
+        "author": "道道量化",
         "source": "devto_python",
-        "published": "Tue, 25 Aug 2026 12:52:15 +0000",
-        "description": "编程入门靠谱吗？这篇说透了 | 数字枢纽 📂 教育 📝 3052 字 🤖 AI 8/10 📅 2026/8/20 编程入门靠谱吗？这篇说透了 背景介绍 ## 背景介绍 在当今快速变化的环境中，编程入门靠谱吗已经成为一个不可忽视的重要话题。无论你是新手还是有经验的从业者，理解编程入门靠谱吗的核心概念都是迈向成功的第...",
-        "keywords": "understand, practice, reflect, optimize, https, shuzishuniu, com",
-        "generated": "2026-08-25T12:56:12.655128",
+        "published": "Wed, 26 Aug 2026 01:35:10 +0000",
+        "description": "现在很多财经类短视频，都是「背景视频 + 动态图表 + 字幕配音」的组合——把抽象的量化交易、AI交易系统概念，用看得见的方式讲清楚。这篇不空讲理论，把整套制作方法拆成工具选择和完整流程两部分，从脚本、素材、图表、配音到合成，新手按着做也能在 1-2 小时出一条像样的视频。作者：道道。 先说说我为什么对这类视频特...",
+        "keywords": "pexels, python, pixabay, matplotlib, plotly, premiere, pro, kdenlive",
+        "generated": "2026-08-26T01:41:06.765793",
         "file": ".md"
     },
     {
@@ -57158,6 +57312,17 @@
         "file": "cloudflare-cfclearance-why-it-expires-and-how-to-stop-the-re-challenge-loop.md"
     },
     {
+        "title": "I fixed a pattern that was matching the wrong thing, and my fix had the same bug. Then I found there were two copies of it",
+        "slug": "i-fixed-a-pattern-that-was-matching-the-wrong-thing-and-my-fix-had-the-same-bug-then-i-found-there-were-two-copies-of-it",
+        "author": "Blueticks",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 01:30:22 +0000",
+        "description": "I have a small tool that decides whether a website sells a product of its own. The question matters to me because I write to editors about a measurement I pu...",
+        "keywords": "had, site, same, two, not, one, pattern, link",
+        "generated": "2026-08-26T01:41:06.768046",
+        "file": "i-fixed-a-pattern-that-was-matching-the-wrong-thing-and-my-fix-had-the-same-bug-then-i-found-there-were-two-copies-of-it.md"
+    },
+    {
         "title": "Building TraceroAI: A Better Way to Debug RAG Applications",
         "slug": "building-traceroai-a-better-way-to-debug-rag-applications",
         "author": "Chinmai Sd",
@@ -60579,6 +60744,17 @@
         "file": "introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model.md"
     },
     {
+        "title": "Queryable Executables",
+        "slug": "queryable-executables",
+        "author": "rguiscard",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 00:20:49 +0000",
+        "description": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 5 # Comments: 1",
+        "keywords": "queryable, executables, url, https, com, comments, article, fzakaria",
+        "generated": "2026-08-26T01:41:06.764890",
+        "file": "queryable-executables.md"
+    },
+    {
         "title": "How to Choose High-Quality Telegram Accounts Without Risk",
         "slug": "how-to-choose-high-quality-telegram-accounts-without-risk",
         "author": "Joan Joanne",
@@ -61380,6 +61556,17 @@
         "keywords": "dopamine, fracking, url, https, comments, article, igerman, blog",
         "generated": "2026-06-08T04:42:39.217294",
         "file": "dopamine-fracking.md"
+    },
+    {
+        "title": "ChatGPT Event-Triggered Tasks: Gmail, Slack, GitHub Checklist",
+        "slug": "chatgpt-event-triggered-tasks-gmail-slack-github-checklist",
+        "author": "Ahab",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 01:23:10 +0000",
+        "description": "Originally published on IndieSeek . ChatGPT event-triggered scheduled tasks: connect Gmail, Slack, and GitHub without duplicate work Quick answer On August 2...",
+        "keywords": "event, task, one, not, repository, slack, run, github",
+        "generated": "2026-08-26T01:41:06.771200",
+        "file": "chatgpt-event-triggered-tasks-gmail-slack-github-checklist.md"
     },
     {
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
@@ -64295,6 +64482,17 @@
         "keywords": "you, people, what, problem, validation, just, build, building",
         "generated": "2026-06-06T13:56:22.891428",
         "file": "how-i-validated-my-micro-saas-idea-in-48-hours-without-writing-a-single-line-of-code.md"
+    },
+    {
+        "title": "Copilot's Code Review Cannot Block Your Merge. It Says So in the Docs.",
+        "slug": "copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs",
+        "author": "ugliai",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 01:26:55 +0000",
+        "description": "GitHub's own documentation is unambiguous about this: Copilot always submits a Comment review — never Approve, never Request changes. It does not count towar...",
+        "keywords": "review, not, copilot, code, merge, github, coderabbit, one",
+        "generated": "2026-08-26T01:41:06.770159",
+        "file": "copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs.md"
     },
     {
         "title": "n8n vs Make vs Zapier for Business Automation: The 2026 Cost, AI, and Sovereignty Guide",
