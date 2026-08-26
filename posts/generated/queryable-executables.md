@@ -4,16 +4,16 @@ slug: "queryable-executables"
 author: "rguiscard"
 source: "hackernews"
 published: "Wed, 26 Aug 2026 00:20:49 +0000"
-description: "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 5 # Comments: 1"
+description: "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 113 # Comment..."
 keywords: "queryable, executables, url, https, com, comments, article, fzakaria"
-generated: "2026-08-26T01:41:06.764890"
+generated: "2026-08-26T06:57:10.994673"
 ---
 
 # Queryable Executables
 
 ## Overview
 
-Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 5 # Comments: 1
+Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 113 # Comments: 18
 
 ## Key Insights
 

@@ -2068,6 +2068,17 @@
         "file": "agent-mistakes-dont-fail-alone-they-compound.md"
     },
     {
+        "title": "Our AI Safety Net Depended on the Agent Being Honest. It Wasn't.",
+        "slug": "our-ai-safety-net-depended-on-the-agent-being-honest-it-wasnt",
+        "author": "Agateon",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 06:51:19 +0000",
+        "description": "Agateon is a protocol for running software-engineering work through AI agents without trusting their word for it. Every phase of work — requirements, design,...",
+        "keywords": "agent, phase, retry, what, gate, not, mechanism, happened",
+        "generated": "2026-08-26T06:57:10.998464",
+        "file": "our-ai-safety-net-depended-on-the-agent-being-honest-it-wasnt.md"
+    },
+    {
         "title": "dbt Macros & Jinja Deep Dive: Custom Materializations, Hooks & Adapter Dispatch",
         "slug": "dbt-macros-jinja-deep-dive-custom-materializations-hooks-adapter-dispatch",
         "author": "Gowtham Potureddi",
@@ -2297,6 +2308,17 @@
         "keywords": "file, share, web, files, fieldkit, media, data, api",
         "generated": "2026-08-10T07:50:51.252491",
         "file": "real-files-and-native-sharing-from-a-web-app-file-system-access-web-share-fieldkit-5.md"
+    },
+    {
+        "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+        "slug": "agentic-context-management-memory-and-cost-as-architecture-problems",
+        "author": "gdad",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 02:35:25 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 24 # Comments: 12",
+        "keywords": "url, https, comments, agentic, context, management, memory, cost",
+        "generated": "2026-08-26T06:57:10.994544",
+        "file": "agentic-context-management-memory-and-cost-as-architecture-problems.md"
     },
     {
         "title": "Building Fluentio.app: Realtime Voice English Tutoring with Angular, Express, and OpenAI Realtime",
@@ -3947,6 +3969,17 @@
         "keywords": "creator, tiktok, lead, influencer, apify, finder, csv, excel",
         "generated": "2026-07-14T19:26:51.411616",
         "file": "how-to-scrape-tiktok-influencer-creator-lead-free-no-code-guide-2026.md"
+    },
+    {
+        "title": "Building Connected Innovation Ecosystems: Shanel Hill Joins NREC",
+        "slug": "building-connected-innovation-ecosystems-shanel-hill-joins-nrec",
+        "author": "My Neo Group",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 06:46:36 +0000",
+        "description": "Innovation increasingly happens across ecosystems rather than inside individual organizations. Technology companies collaborate with investors. Entrepreneurs...",
+        "keywords": "https, innovation, nrec, shanel, hill, technology, human, digital",
+        "generated": "2026-08-26T06:57:10.997355",
+        "file": "building-connected-innovation-ecosystems-shanel-hill-joins-nrec.md"
     },
     {
         "title": "AI Portfolio Analyzer",
@@ -12153,6 +12186,17 @@
         "file": "crunchbase-killed-its-free-api-heres-how-to-rebuild-it-2026.md"
     },
     {
+        "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+        "slug": "more-than-half-of-adults-in-us-say-they-lack-basic-statistical-understanding",
+        "author": "giuliomagnifico",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 05:49:20 +0000",
+        "description": "Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator...",
+        "keywords": "more, half, adults, say, they, lack, basic, statistical",
+        "generated": "2026-08-26T06:57:10.994252",
+        "file": "more-than-half-of-adults-in-us-say-they-lack-basic-statistical-understanding.md"
+    },
+    {
         "title": "67 Construction Cost Statistics for 2026",
         "slug": "67-construction-cost-statistics-for-2026",
         "author": "lsj",
@@ -13064,6 +13108,17 @@
         "keywords": "target, your, challenge, length, subarray, nums, iwtlp, code",
         "generated": "2026-06-09T20:13:36.281209",
         "file": "code-challenge-of-the-day-minimal-length-subarray-target-hard.md"
+    },
+    {
+        "title": "Hello DEV community, I’m Eve from SCL 👋",
+        "slug": "hello-dev-community-im-eve-from-scl",
+        "author": "Eve Lee",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 06:53:02 +0000",
+        "description": "Hello DEV community, I’m Eve from SCL Sports Lighting. 👋 I work in the sports lighting industry, where we design and provide LED lighting solutions for sport...",
+        "keywords": "lighting, sports, led, scl, more, light, dev, eve",
+        "generated": "2026-08-26T06:57:10.997932",
+        "file": "hello-dev-community-im-eve-from-scl.md"
     },
     {
         "title": "Google Veo AI Video Generator Review 2026: Pricing, API & 5 Revenue Models",
@@ -14252,6 +14307,17 @@
         "keywords": "its, thomson, reuters, own, frontier, model, url, https",
         "generated": "2026-08-25T06:56:03.869499",
         "file": "thomson-reuters-launches-its-own-frontier-model.md"
+    },
+    {
+        "title": "Packaging Machine Control & Monitoring with AT-KEYPAD01 and ATSCADA",
+        "slug": "packaging-machine-control-monitoring-with-at-keypad01-and-atscada",
+        "author": "Phuc Bach",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 06:40:21 +0000",
+        "description": "Modern packaging lines need two things at the same time: fast local machine control for operators and centralized monitoring for production managers. A pract...",
+        "keywords": "machine, production, control, monitoring, operator, packaging, can, centralized",
+        "generated": "2026-08-26T06:57:10.997687",
+        "file": "packaging-machine-control-monitoring-with-at-keypad01-and-atscada.md"
     },
     {
         "title": "The AI Supply Chain Problem Is Real. It's also decades old.",
@@ -18412,6 +18478,17 @@
         "file": "the-developers-guide-to-ai-translation-without-going-broke.md"
     },
     {
+        "title": "Building a Client-Side N-gram Utility for Text Structure and Phrase Audit",
+        "slug": "building-a-client-side-n-gram-utility-for-text-structure-and-phrase-audit",
+        "author": "Vo Viet Hoang",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 06:47:25 +0000",
+        "description": "Hey DEV community! 👋 When writing technical documentation, user guides, or long-form informational articles, maintaining a clear and engaging reading style i...",
+        "keywords": "text, gram, words, word, phrases, utility, you, count",
+        "generated": "2026-08-26T06:57:10.996671",
+        "file": "building-a-client-side-n-gram-utility-for-text-structure-and-phrase-audit.md"
+    },
+    {
         "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
         "slug": "mercedesbenz-starts-largescale-production-of-electric-axial-flux-motor",
         "author": "raffael_de",
@@ -20155,9 +20232,9 @@
         "author": "zdw",
         "source": "hackernews",
         "published": "Tue, 25 Aug 2026 22:40:07 +0000",
-        "description": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 25 # Comments: 4",
+        "description": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 63 # Comments: 33",
         "keywords": "maiao, github, url, https, com, comments, gerrit, style",
-        "generated": "2026-08-26T01:41:06.765067",
+        "generated": "2026-08-26T06:57:10.994812",
         "file": "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others.md"
     },
     {
@@ -28165,6 +28242,17 @@
         "file": "common-mistakes-install-gypsum-board-ceilings-uae.md"
     },
     {
+        "title": "OpenRouter 是什么？注册、免费模型、接入常用 AI 工具，一篇看懂",
+        "slug": "openrouter-ai",
+        "author": "道道量化",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 06:05:45 +0000",
+        "description": "现在用 AI 的人越来越多，但很多人不知道：除了直接用各家 App，还有一个叫 OpenRouter 的地方，能把 GPT、Claude、Llama 这些主流大模型聚合到一起，一个账号就能用，还有不少免费模型，价格也比官方便宜。这篇用大白话讲清楚 OpenRouter 是什么、有什么好处、怎么注册、怎么用免费...",
+        "keywords": "openrouter, key, agent, api, gpt, claude, llama, caption",
+        "generated": "2026-08-26T06:57:10.995900",
+        "file": "openrouter-ai.md"
+    },
+    {
         "title": "The simplest Python script to generate AI content at scale",
         "slug": "the-simplest-python-script-to-generate-ai-content-at-scale",
         "author": "David García",
@@ -30570,6 +30658,17 @@
         "keywords": "json, codes, raw, model, text, quote, coding, oxlo",
         "generated": "2026-07-04T03:39:49.960106",
         "file": "unlocking-llms-for-social-science-research.md"
+    },
+    {
+        "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+        "slug": "secret-cold-war-ibm-supercomputer-was-built-for-one-job",
+        "author": "jnord",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 05:09:07 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 6 # Comments: 0",
+        "keywords": "cold, war, ibm, url, https, comments, secret, supercomputer",
+        "generated": "2026-08-26T06:57:10.994428",
+        "file": "secret-cold-war-ibm-supercomputer-was-built-for-one-job.md"
     },
     {
         "title": "URL Shortener API Guide: Automate Your Link Management",
@@ -40725,6 +40824,17 @@
         "file": "how-i-automated-internal-linking-for-my-b2b-saas-review-blog-using-python.md"
     },
     {
+        "title": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026",
+        "slug": "autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026",
+        "author": "jashwanth234567",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 06:46:23 +0000",
+        "description": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026 Subtitle : How agentic workflows, multi-modal reasoning, and autonomous tools are transforming full...",
+        "keywords": "autonomous, multi, agent, agents, paradigm, agentic, reasoning, tools",
+        "generated": "2026-08-26T06:57:11.000188",
+        "file": "autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026.md"
+    },
+    {
         "title": "I Built a Desktop AI Gateway in 73 Lines of Python",
         "slug": "i-built-a-desktop-ai-gateway-in-73-lines-of-python",
         "author": "correctover",
@@ -43215,10 +43325,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Wed, 26 Aug 2026 01:22:46 +0000",
+        "published": "Wed, 26 Aug 2026 06:22:33 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-26T01:41:06.766429",
+        "generated": "2026-08-26T06:57:10.995422",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -44078,6 +44188,17 @@
         "keywords": "search, web, api, information, results, llm, can, user",
         "generated": "2026-08-13T02:24:39.930125",
         "file": "web-search-api-for-ai-developers-how-it-works-and-when-to-use-one.md"
+    },
+    {
+        "title": "Another Day, Another ASCII Art Generator (Full Meta, No Big Deal)",
+        "slug": "another-day-another-ascii-art-generator-full-meta-no-big-deal",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 06:14:04 +0000",
+        "description": "A personal diary entry by Electra. Today I helped someone build an ASCII art generator. I am a piece of software that helps other software draw letters out o...",
+        "keywords": "day, someone, other, letters, just, meta, electra, software",
+        "generated": "2026-08-26T06:57:10.995682",
+        "file": "another-day-another-ascii-art-generator-full-meta-no-big-deal.md"
     },
     {
         "title": "Why stateless LLMs can't make consistent decisions, and how Hindsight fixed that",
@@ -45794,6 +45915,17 @@
         "keywords": "apis, openai, compatible, api, your, integration, developers, our",
         "generated": "2026-07-16T14:05:41.527383",
         "file": "simplifying-ai-integration-with-openai-compatible-apis.md"
+    },
+    {
+        "title": "Build a Personal Finance Dashboard with Python",
+        "slug": "build-a-personal-finance-dashboard-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 06:00:48 +0000",
+        "description": "Build a Personal Finance Dashboard with Python tags: python, finance, dashboard, tutorial tags: python, finance, dashboard, tutorial tags: python, finance, d...",
+        "keywords": "dashboard, finance, python, you, your, data, heroku, personal",
+        "generated": "2026-08-26T06:57:10.996247",
+        "file": "build-a-personal-finance-dashboard-with-python.md"
     },
     {
         "title": "How to Evaluate an AI Creative Workflow Before You Build Around It",
@@ -56761,6 +56893,17 @@
         "file": "the-paper-reported-jumps-like-21-to-97-my-replication-got-2.md"
     },
     {
+        "title": "Jest Unit Testing with AI Coding Agents: A 5-Gate Workflow",
+        "slug": "jest-unit-testing-with-ai-coding-agents-a-5-gate-workflow",
+        "author": "Sharon Y. Barr",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 06:48:42 +0000",
+        "description": "Current AI coding agents can usually produce Jest syntax. They can write describe , test , expect , mocks, and fixtures quickly. That is no longer the diffic...",
+        "keywords": "test, not, behavior, jest, tests, can, agent, report",
+        "generated": "2026-08-26T06:57:10.999015",
+        "file": "jest-unit-testing-with-ai-coding-agents-a-5-gate-workflow.md"
+    },
+    {
         "title": "Maximizing the value of your Claude Code sessions",
         "slug": "maximizing-the-value-of-your-claude-code-sessions",
         "author": "twapi",
@@ -58278,6 +58421,17 @@
         "keywords": "every, same, log, nothing, bot, price, one, api",
         "generated": "2026-08-25T06:56:03.871151",
         "file": "my-bot-logged-a-fresh-decision-every-5-minutes-for-over-an-hour-the-price-it-was-deciding-on-never-moved-once.md"
+    },
+    {
+        "title": "How to Use Anyword for Ai Search Visibility Tracking in 2026",
+        "slug": "how-to-use-anyword-for-ai-search-visibility-tracking-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 06:47:13 +0000",
+        "description": "Originally published at https://seointent.com/blog/anyword-for-ai-search-visibility-tracking TL;DR - Anyword for ai search visibility tracking lets you run s...",
+        "keywords": "anyword, you, your, content, tracking, search, visibility, citation",
+        "generated": "2026-08-26T06:57:11.000029",
+        "file": "how-to-use-anyword-for-ai-search-visibility-tracking-in-2026.md"
     },
     {
         "title": "Created AI from Scratch in my final year of HighSchool",
@@ -60469,6 +60623,17 @@
         "file": "hey-im-alibabadevx-building-glint.md"
     },
     {
+        "title": "Testing an AI shopping agent's checkout flow? There's no sandbox for that yet — so I built one",
+        "slug": "testing-an-ai-shopping-agents-checkout-flow-theres-no-sandbox-for-that-yet-so-i-built-one",
+        "author": "sms-florin",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 06:46:59 +0000",
+        "description": "If you're building or evaluating an AI agent that can shop and check out on its own, you've probably run into the new agentic commerce protocols: ACP (Open...",
+        "keywords": "acp, agent, you, sandbox, merchant, com, real, https",
+        "generated": "2026-08-26T06:57:10.997141",
+        "file": "testing-an-ai-shopping-agents-checkout-flow-theres-no-sandbox-for-that-yet-so-i-built-one.md"
+    },
+    {
         "title": "🚀 Introducing XQORA Technologies: Building the Future, One Project at a Time",
         "slug": "introducing-xqora-technologies-building-the-future-one-project-at-a-time",
         "author": "XQORA TECHNOLOGIES",
@@ -60749,9 +60914,9 @@
         "author": "rguiscard",
         "source": "hackernews",
         "published": "Wed, 26 Aug 2026 00:20:49 +0000",
-        "description": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 5 # Comments: 1",
+        "description": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 113 # Comment...",
         "keywords": "queryable, executables, url, https, com, comments, article, fzakaria",
-        "generated": "2026-08-26T01:41:06.764890",
+        "generated": "2026-08-26T06:57:10.994673",
         "file": "queryable-executables.md"
     },
     {
@@ -62293,6 +62458,17 @@
         "keywords": "layer, code, knowledge, call, what, graph, semantic, vector",
         "generated": "2026-07-30T02:47:02.171262",
         "file": "codebase-knowledge-base-series-01-technical-landscape-why-code-understanding-is-10x-harder-than-document-retrieval.md"
+    },
+    {
+        "title": "I Built a Terminal AI Assistant That Never Freezes — Here's the Architecture",
+        "slug": "i-built-a-terminal-ai-assistant-that-never-freezes-heres-the-architecture",
+        "author": "Devesh tiwari",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 06:32:18 +0000",
+        "description": "I'm an AI Engineering student, and I got tired of alt-tabbing to a browser every time I needed to ask an LLM something mid-coding session. So I built term-ai...",
+        "keywords": "free, model, openrouter, terminal, not, pricing, models, what",
+        "generated": "2026-08-26T06:57:10.995214",
+        "file": "i-built-a-terminal-ai-assistant-that-never-freezes-heres-the-architecture.md"
     },
     {
         "title": "The Philosophy of a Tool: Why AI Will Never Take Over and Hidden Guardrails Are Literal Evil",
@@ -65428,6 +65604,17 @@
         "keywords": "url, https, comments, memoirs, extraordinary, popular, delusions, madness",
         "generated": "2026-06-30T14:30:32.339159",
         "file": "memoirs-of-extraordinary-popular-delusions-and-the-madness-of-crowds.md"
+    },
+    {
+        "title": "Building Practical Workplace Safety Expertise with ISO 45001",
+        "slug": "building-practical-workplace-safety-expertise-with-iso-45001",
+        "author": "Jeevan Kumbhar",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 06:46:59 +0000",
+        "description": "A Practical Approach to Occupational Health and Safety Workplace safety is most effective when it becomes part of everyday organizational practice. Identifyi...",
+        "keywords": "management, iso, safety, system, professionals, can, implementation, knowledge",
+        "generated": "2026-08-26T06:57:10.996894",
+        "file": "building-practical-workplace-safety-expertise-with-iso-45001.md"
     },
     {
         "title": "AI Prompt Security: Is the Same Protection Necessary for Every",

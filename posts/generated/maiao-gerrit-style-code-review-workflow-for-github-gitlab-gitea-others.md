@@ -4,16 +4,16 @@ slug: "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others"
 author: "zdw"
 source: "hackernews"
 published: "Tue, 25 Aug 2026 22:40:07 +0000"
-description: "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 25 # Comments: 4"
+description: "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 63 # Comments: 33"
 keywords: "maiao, github, url, https, com, comments, gerrit, style"
-generated: "2026-08-26T01:41:06.765067"
+generated: "2026-08-26T06:57:10.994812"
 ---
 
 # Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
 
 ## Overview
 
-Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 25 # Comments: 4
+Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 63 # Comments: 33
 
 ## Key Insights
 
