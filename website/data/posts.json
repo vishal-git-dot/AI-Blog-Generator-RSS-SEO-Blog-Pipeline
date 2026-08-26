@@ -649,6 +649,17 @@
         "file": "ibm-mcga-gate-array-reverse-engineering.md"
     },
     {
+        "title": "Why AIBIZ NFT renting lives on the rail, not in the smart contract",
+        "slug": "why-aibiz-nft-renting-lives-on-the-rail-not-in-the-smart-contract",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 19:36:45 +0000",
+        "description": "A design note on how we built NFT business renting — because the architecture is the product. The obvious way to build NFT rental is a new smart contract: es...",
+        "keywords": "https, biz, business, nft, rail, contract, aibiz, not",
+        "generated": "2026-08-26T19:52:15.938338",
+        "file": "why-aibiz-nft-renting-lives-on-the-rail-not-in-the-smart-contract.md"
+    },
+    {
         "title": "Buy Verified Snapchat Accounts in World 2026 The 03 Best Places",
         "slug": "buy-verified-snapchat-accounts-in-world-2026-the-03-best-places",
         "author": "Alex",
@@ -12142,6 +12153,17 @@
         "file": "cryptocurrency-pricing-market-regulation-news-yahoo-finance.md"
     },
     {
+        "title": "The Hugging Face incident and the road ahead",
+        "slug": "the-hugging-face-incident-and-the-road-ahead",
+        "author": "amrrs",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 19:15:23 +0000",
+        "description": "Article URL: https://openai.com/index/hugging-face-incident-and-the-road-ahead/ Comments URL: https://news.ycombinator.com/item?id=49454314 Points: 7 # Comme...",
+        "keywords": "hugging, face, incident, road, ahead, url, https, com",
+        "generated": "2026-08-26T19:52:15.931111",
+        "file": "the-hugging-face-incident-and-the-road-ahead.md"
+    },
+    {
         "title": "Top Choice for Buy Verified PayPal Accounts",
         "slug": "top-choice-for-buy-verified-paypal-accounts",
         "author": "esn9ecdm9u",
@@ -15739,6 +15761,17 @@
         "file": "open-weights-ship-three-frontier-models-in-one-week.md"
     },
     {
+        "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
+        "slug": "designation-of-autisticiinventati-as-a-specially-designated-global-terrorist",
+        "author": "23loops",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 18:49:18 +0000",
+        "description": "Article URL: https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/...",
+        "keywords": "designation, autistici, inventati, specially, designated, global, terrorist, url",
+        "generated": "2026-08-26T19:52:15.931283",
+        "file": "designation-of-autisticiinventati-as-a-specially-designated-global-terrorist.md"
+    },
+    {
         "title": "UI/UX patterns for AI-powered applications: designing for the AI era",
         "slug": "uiux-patterns-for-ai-powered-applications-designing-for-the-ai-era",
         "author": "Rizwan Saleem",
@@ -18542,6 +18575,17 @@
         "keywords": "agent, model, economics, url, https, com, comments, swarms",
         "generated": "2026-07-20T19:49:00.044147",
         "file": "agent-swarms-and-the-new-model-economics.md"
+    },
+    {
+        "title": "Wealth Management Technology: Proven Open-Source Edge",
+        "slug": "wealth-management-technology-proven-open-source-edge",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 19:40:19 +0000",
+        "description": "Why Wealth Management Technology Needs Openness Modern wealth management technology can automate portfolio construction, risk assessment, rebalancing, and in...",
+        "keywords": "can, open, source, wealth, management, technology, robo, data",
+        "generated": "2026-08-26T19:52:15.937030",
+        "file": "wealth-management-technology-proven-open-source-edge.md"
     },
     {
         "title": "Onmitsu Part 2: What a 70-Year-Old Persona Found That a Busy Parent Didn't",
@@ -24363,6 +24407,17 @@
         "file": "8-best-digital-asset-lending-platforms-crypto-loan-guide-for-2026.md"
     },
     {
+        "title": "The Provider Retried My Webhook. My Model Ran Twice. Here's the Dedupe That Fixed It.",
+        "slug": "the-provider-retried-my-webhook-my-model-ran-twice-heres-the-dedupe-that-fixed-it",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 18:52:16 +0000",
+        "description": "Webhooks look simple until the provider decides your response is too slow. I spent 48 hours running a small event classifier on a free server, and the patter...",
+        "keywords": "model, provider, payload, webhook, event, dedupe, retry, request",
+        "generated": "2026-08-26T19:52:15.933230",
+        "file": "the-provider-retried-my-webhook-my-model-ran-twice-heres-the-dedupe-that-fixed-it.md"
+    },
+    {
         "title": "Introducing Py-Auto-Migrate: Database Migration Made Simple",
         "slug": "introducing-py-auto-migrate-database-migration-made-simple",
         "author": "Kasra Khaksar",
@@ -25830,10 +25885,10 @@
         "slug": "building-a-defi-yield-scanner-with-python-and-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Wed, 26 Aug 2026 12:15:45 +0000",
-        "description": "Automating DeFi yield hunting is no longer a manual chore; it’s an engineering challenge. With thousands of protocols across multiple chains, static APY list...",
-        "keywords": "defi, yield, apy, data, httpx, scanner, using, async",
-        "generated": "2026-08-26T13:01:59.366321",
+        "published": "Wed, 26 Aug 2026 19:33:59 +0000",
+        "description": "Building a high-frequency DeFi yield scanner requires bridging real-time blockchain data with intelligent analysis. By combining Python’s robust ecosystem fo...",
+        "keywords": "data, price, yield, pool, defi, python, you, can",
+        "generated": "2026-08-26T19:52:15.931911",
         "file": "building-a-defi-yield-scanner-with-python-and-ai.md"
     },
     {
@@ -33797,6 +33852,17 @@
         "file": "kpmgs-ai-report-withdrawal-analyzing-the-implica.md"
     },
     {
+        "title": "One Change, One Verify: Snapshot-Driven Refactoring for Legacy Code",
+        "slug": "one-change-one-verify-snapshot-driven-refactoring-for-legacy-code",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 18:51:21 +0000",
+        "description": "One Change, One Verify: Snapshot-Driven Refactoring for Legacy Code Legacy refactors fail when one change does too much. The fix is a snapshot, one edit, and...",
+        "keywords": "snapshot, code, one, not, change, price, member, legacy",
+        "generated": "2026-08-26T19:52:15.933709",
+        "file": "one-change-one-verify-snapshot-driven-refactoring-for-legacy-code.md"
+    },
+    {
         "title": "Claude Fable is relentlessly proactive",
         "slug": "claude-fable-is-relentlessly-proactive",
         "author": "lumpa",
@@ -33916,6 +33982,17 @@
         "keywords": "good, know, tools, your, browser, factor, agents, kubernetes",
         "generated": "2026-07-09T15:22:18.575066",
         "file": "faster-compilers-twelve-factor-agents-and-kubernetes-in-your-browser.md"
+    },
+    {
+        "title": "Your Cron Job Is Lying to You: A Dependency-Free Watchdog for Silent Failures",
+        "slug": "your-cron-job-is-lying-to-you-a-dependency-free-watchdog-for-silent-failures",
+        "author": "Syed Anzar",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 19:22:50 +0000",
+        "description": "Your Cron Job Is Lying to You: A Dependency-Free Watchdog for Silent Failures A green checkmark in your cron logs means nothing. Here is the three-layer defe...",
+        "keywords": "job, exit, you, not, layer, set, sync, python",
+        "generated": "2026-08-26T19:52:15.932720",
+        "file": "your-cron-job-is-lying-to-you-a-dependency-free-watchdog-for-silent-failures.md"
     },
     {
         "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
@@ -34554,6 +34631,17 @@
         "keywords": "game, sierra, automatically, states, those, you, king, quest",
         "generated": "2026-08-19T06:52:53.078582",
         "file": "show-hn-automatically-detect-and-patch-walking-dead-states-in-sierra-games.md"
+    },
+    {
+        "title": "Why I Decided to Stop Using Claude Code",
+        "slug": "why-i-decided-to-stop-using-claude-code",
+        "author": "Leon Martin",
+        "source": "devto_python",
+        "published": "Wed, 26 Aug 2026 18:37:12 +0000",
+        "description": "Claude Code is amazing. It feels like cheating in the best way until it doesn't. The first time I dropped a vague comment and it gave me a fully working comp...",
+        "keywords": "you, claude, your, code, not, stop, but, just",
+        "generated": "2026-08-26T19:52:15.934038",
+        "file": "why-i-decided-to-stop-using-claude-code.md"
     },
     {
         "title": "Why I stopped sending freelance proposals (and what I send instead)",
@@ -39471,6 +39559,17 @@
         "file": "why-cursor-keeps-writing-prototype-pollution-into-your-merge-code.md"
     },
     {
+        "title": "El peligro del Vibe Coding: Por qué la Inteligencia Artificial en el desarrollo de software es una bomba de tiempo para la seguridad",
+        "slug": "el-peligro-del-vibe-coding-por-qu-la-inteligencia-artificial-en-el-desarrollo-de-software-es-una-bomba-de-tiempo-para-la-seguridad",
+        "author": "Ignacio Pérez Olavarría",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 19:43:16 +0000",
+        "description": "En los últimos meses, el ámbito laboral del desarrollo de software se ha visto revolucionado por un nuevo concepto: el Vibe Coding . Esta práctica consiste...",
+        "keywords": "que, los, por, del, una, vibe, para, las",
+        "generated": "2026-08-26T19:52:15.936631",
+        "file": "el-peligro-del-vibe-coding-por-qu-la-inteligencia-artificial-en-el-desarrollo-de-software-es-una-bomba-de-tiempo-para-la-seguridad.md"
+    },
+    {
         "title": "Stop Optimizing the Wrong Things: Practical Database Optimization Techniques Every Backend Developer Should Know",
         "slug": "stop-optimizing-the-wrong-things-practical-database-optimization-techniques-every-backend-developer-should-know",
         "author": "Ali Haider",
@@ -42197,6 +42296,17 @@
         "keywords": "free, pdf, api, robotics, then, ieee, mdpi, open",
         "generated": "2026-07-28T19:39:37.247439",
         "file": "i-got-tired-of-hunting-for-free-mlrobotics-papers-across-5-sites-so-i-built-an-aggregator.md"
+    },
+    {
+        "title": "Buy Google Reviews Online that Stick - 5 Star Ratings",
+        "slug": "buy-google-reviews-online-that-stick-5-star-ratings",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 19:47:03 +0000",
+        "description": "Improve Your Review Score 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail...",
+        "keywords": "google, reviews, maps, you, buy, your, business, can",
+        "generated": "2026-08-26T19:52:15.935006",
+        "file": "buy-google-reviews-online-that-stick-5-star-ratings.md"
     },
     {
         "title": "H1B Salary Research Toolkit for Job Seekers (2026)",
@@ -45620,6 +45730,17 @@
         "file": "oh-my-claudecode-hit-38017-stars-its-most-installed-skill-is-the-ai-slop-cleaner.md"
     },
     {
+        "title": "A step by step guide To Buy Google Maps Reviews",
+        "slug": "a-step-by-step-guide-to-buy-google-maps-reviews",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 19:47:14 +0000",
+        "description": "Improve Your Review Score 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail...",
+        "keywords": "google, reviews, maps, you, buy, your, business, can",
+        "generated": "2026-08-26T19:52:15.934524",
+        "file": "a-step-by-step-guide-to-buy-google-maps-reviews.md"
+    },
+    {
         "title": "Building a Profitable AI Agent with LangChain: A Step-by-Step Tutorial",
         "slug": "building-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial",
         "author": "Caper B",
@@ -48414,6 +48535,17 @@
         "file": "depthwise-separable-convolutions-how-mobilenet-gets-8-9x-fewer-multiplies-by-splitting-one-conv-into-two.md"
     },
     {
+        "title": "What it's like to let Claude Code subagents run a company",
+        "slug": "what-its-like-to-let-claude-code-subagents-run-a-company",
+        "author": "健太 橘",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 19:37:53 +0000",
+        "description": "Cross-posted from Shipped With AI , my build log about learning to ship small tools with AI coding assistants. This particular post is about the system behin...",
+        "keywords": "what, post, system, one, decision, site, three, than",
+        "generated": "2026-08-26T19:52:15.938117",
+        "file": "what-its-like-to-let-claude-code-subagents-run-a-company.md"
+    },
+    {
         "title": "Your AI agent forgets your repo every session. Give the repo a brain.",
         "slug": "your-ai-agent-forgets-your-repo-every-session-give-the-repo-a-brain",
         "author": "Igor Ganapolsky",
@@ -49193,6 +49325,17 @@
         "keywords": "job, url, https, comments, head, stonehenge, article, www",
         "generated": "2026-06-09T04:03:32.524163",
         "file": "job-head-of-stonehenge.md"
+    },
+    {
+        "title": "Top 06 Website to Buy Gmail Accounts in this year",
+        "slug": "top-06-website-to-buy-gmail-accounts-in-this-year",
+        "author": "jonson",
+        "source": "devto_ai",
+        "published": "Wed, 26 Aug 2026 19:38:28 +0000",
+        "description": "Buy Gmail Accounts 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com Bu...",
+        "keywords": "gmail, accounts, account, buy, your, you, old, email",
+        "generated": "2026-08-26T19:52:15.937595",
+        "file": "top-06-website-to-buy-gmail-accounts-in-this-year.md"
     },
     {
         "title": "Buy Walmart Seller Account | Pre-Approved U.S. Stores",
@@ -51921,6 +52064,17 @@
         "keywords": "who, invented, url, https, com, comments, russian, semiconductors",
         "generated": "2026-06-07T04:26:51.961106",
         "file": "the-russian-who-invented-semiconductors-25-years-before-the-usa.md"
+    },
+    {
+        "title": "Top 10 Sites to Buy Yahoo Accounts with Instant Delivery",
+        "slug": "top-10-sites-to-buy-yahoo-accounts-with-instant-delivery",
+        "author": "jonson",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 19:38:36 +0000",
+        "description": "Buy Yahoo Accounts 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 WhatsApp: +1 (920) 212-9737 💠🌀⚜️🔱 Telegram: @progmbofficial 💠🌀⚜️🔱 Email: progmb.contact@gmail.com Bu...",
+        "keywords": "yahoo, accounts, can, account, your, online, email, you",
+        "generated": "2026-08-26T19:52:15.936290",
+        "file": "top-10-sites-to-buy-yahoo-accounts-with-instant-delivery.md"
     },
     {
         "title": "One blocking call freezes every request: FastAPI's def vs async def",
@@ -55454,6 +55608,17 @@
         "file": "empower-your-agents-with-the-new-surrealdb-mcp.md"
     },
     {
+        "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+        "slug": "the-tariff-cost-analysis-of-the-costs-to-americans-from-new-tariffs-on-canada",
+        "author": "mikestorrent",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 17:54:51 +0000",
+        "description": "Article URL: https://thetariffcost.com/ Comments URL: https://news.ycombinator.com/item?id=49453161 Points: 58 # Comments: 33",
+        "keywords": "url, https, com, comments, tariff, cost, analysis, costs",
+        "generated": "2026-08-26T19:52:15.931574",
+        "file": "the-tariff-cost-analysis-of-the-costs-to-americans-from-new-tariffs-on-canada.md"
+    },
+    {
         "title": "How to Build a B2B Lead Capture Strategy That Doesn't Annoy Visitors",
         "slug": "how-to-build-a-b2b-lead-capture-strategy-that-doesnt-annoy-visitors",
         "author": "ProDigital360",
@@ -57609,6 +57774,17 @@
         "file": "i-fixed-a-pattern-that-was-matching-the-wrong-thing-and-my-fix-had-the-same-bug-then-i-found-there-were-two-copies-of-it.md"
     },
     {
+        "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+        "slug": "study-reveals-unitedhealths-profit-margins-four-times-what-it-claimed-pdf",
+        "author": "CGMthrowaway",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 18:20:09 +0000",
+        "description": "Article URL: https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf Comments URL: https://news.ycombinator.com/i...",
+        "keywords": "pdf, url, https, com, comments, study, reveals, unitedhealth",
+        "generated": "2026-08-26T19:52:15.931417",
+        "file": "study-reveals-unitedhealths-profit-margins-four-times-what-it-claimed-pdf.md"
+    },
+    {
         "title": "Building TraceroAI: A Better Way to Debug RAG Applications",
         "slug": "building-traceroai-a-better-way-to-debug-rag-applications",
         "author": "Chinmai Sd",
@@ -58036,6 +58212,17 @@
         "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
         "generated": "2026-08-09T02:06:05.283735",
         "file": "build-a-saga-pattern-implementation-in-python.md"
+    },
+    {
+        "title": "Youcine APK v1.17.6: Download Latest Version 2026 for Android, TV, PC & iOS",
+        "slug": "youcine-apk-v1176-download-latest-version-2026-for-android-tv-pc-ios",
+        "author": "Cheifton",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 19:46:41 +0000",
+        "description": "Youcine is a very popular streaming app that allows users to stream movies, TV shows, anime, sports and IPTV channels. It is famous for its streaming in HD r...",
+        "keywords": "youcine, apk, streaming, android, app, users, content, movies",
+        "generated": "2026-08-26T19:52:15.935622",
+        "file": "youcine-apk-v1176-download-latest-version-2026-for-android-tv-pc-ios.md"
     },
     {
         "title": "Apple engineer says he was fired after refusing to send cust. device IDs to AT&T",
@@ -59741,6 +59928,17 @@
         "keywords": "swarm, critical, test, findings, agent, agents, everything, you",
         "generated": "2026-06-14T19:44:48.275771",
         "file": "swarm-test-v031-interactive-html-reports-and-developer-experience-overhaul.md"
+    },
+    {
+        "title": "Tailcat",
+        "slug": "tailcat",
+        "author": "nderjung",
+        "source": "hackernews",
+        "published": "Wed, 26 Aug 2026 17:42:22 +0000",
+        "description": "Article URL: https://github.com/tailscale/tailcat Comments URL: https://news.ycombinator.com/item?id=49452990 Points: 179 # Comments: 31",
+        "keywords": "tailcat, url, https, com, comments, article, github, tailscale",
+        "generated": "2026-08-26T19:52:15.931691",
+        "file": "tailcat.md"
     },
     {
         "title": "How to Generate Dummy Data for Excel Spreadsheets Using FakerForge (Free CSV Export)",
@@ -63811,6 +64009,17 @@
         "keywords": "your, agent, same, you, github, one, bug, file",
         "generated": "2026-08-10T13:20:58.525973",
         "file": "a-cvss-100-in-your-ai-coding-agent-is-just-toctou-wearing-a-hoodie.md"
+    },
+    {
+        "title": "How Exit Intent Popups Can Work for B2B Without Being Annoying",
+        "slug": "how-exit-intent-popups-can-work-for-b2b-without-being-annoying",
+        "author": "ProDigital360",
+        "source": "devto_webdev",
+        "published": "Wed, 26 Aug 2026 19:45:09 +0000",
+        "description": "This article was originally published on ProDigital360 Read the full article on ProDigital360 →",
+        "keywords": "article, how, exit, intent, popups, can, work, without",
+        "generated": "2026-08-26T19:52:15.935758",
+        "file": "how-exit-intent-popups-can-work-for-b2b-without-being-annoying.md"
     },
     {
         "title": "Aerospace Lubricants Market to Reach USD 4.69 Billion by 2034 as Expanding Air Travel and Next-Generation Aircraft Development Drive Demand",

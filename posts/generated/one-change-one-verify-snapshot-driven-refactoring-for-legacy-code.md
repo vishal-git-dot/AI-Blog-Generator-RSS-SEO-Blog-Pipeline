@@ -1,0 +1,34 @@
+---
+title: "One Change, One Verify: Snapshot-Driven Refactoring for Legacy Code"
+slug: "one-change-one-verify-snapshot-driven-refactoring-for-legacy-code"
+author: "Dakota Huang"
+source: "devto_python"
+published: "Wed, 26 Aug 2026 18:51:21 +0000"
+description: "One Change, One Verify: Snapshot-Driven Refactoring for Legacy Code Legacy refactors fail when one change does too much. The fix is a snapshot, one edit, and..."
+keywords: "snapshot, code, one, not, change, price, member, legacy"
+generated: "2026-08-26T19:52:15.933709"
+---
+
+# One Change, One Verify: Snapshot-Driven Refactoring for Legacy Code
+
+## Overview
+
+One Change, One Verify: Snapshot-Driven Refactoring for Legacy Code Legacy refactors fail when one change does too much. The fix is a snapshot, one edit, and a verify run. This recipe makes the smallest safe change measurable. Disclosure: This article was prepared as part of MonkeyCode's product outreach. The failure mode Most legacy refactors bundle five changes into one pull request. Renames, extractions, and logic tweaks mix together. When a test fails, nobody knows which edit broke it. Characterization tests solve the detection problem. They lock in current behavior before you touch anything. But a full characterization suite takes days. You do not need days for a small refactor. You need a snapshot. A snapshot is a small, recorded corpus of inputs and outputs. It is not a specification. It is a net that catches accidental drift. Step 1: Snapshot current behavior Pick one legacy function. Do not refactor it yet. Build a small corpus that covers normal values, zero, negatives, and boundary thresholds. Here is a legacy function with hidden behavior: # legacy.py def apply_discount ( price , code , member = False ): total = price if code == " SAVE10 " : total = price * 0.9 elif code == " SAVE20 " and member : total = price * 0.8 if total > 100 : total -= 5 return round ( total , 2 ) The total > 100 adjustment is easy to miss. A snapshot records it as fact, not as intent. # snapshot.py import json from legacy import apply_discount cases = [ { " price " : 50 , " code " : None , " member " : False }, { " price " : 120 , " code " : " SAVE10 " , " member " : False }, { " price " : 120 , " code " : " SAVE20 " , " member " : True }, { " price " : 120 , " code " : " SAVE20 " , " member " : False }, { " price " : 0 , " code " : " SAVE10 " , " member " : True }, { " price " : - 10 , " code " : None , " member " : False }, ] snapshot = [] for c in cases : snapshot . append ({ ** c , " expected " : apply_discount ( c [ " price " ], c [ " code " ], c [ " member " ])}) with open ( " snapshot.json " , " w " ) as f : json . dump ( snapshot , f , indent = 2 ) print ( f " snapshotted { len ( snapshot ) } cases " ) Run it once. Commit snapshot.json before any refactor. The commit order matters: snapshot first, edit second, verify third. Step 2: Rank the change before you make it Not all edits carry the same risk. Score your intended change before writing code. Change Risk Snapshot value Rename a local variable Low Low Extract a pure helper Low–medium High Reorder conditions Medium High Change rounding or types High Critical Add caching or state High Critical The smallest safe change is the lowest-risk edit that still moves the code toward your goal. Extraction usually wins. It preserves behavior and creates a seam for future tests. Step 3: Make one edit Extract the discount-rate logic. Change nothing else. # legacy.py def _discount_rate ( code , member ): if code == " SAVE10 " : return 0.9 if code == " SAVE20 " and member : return 0.8 return 1.0 def apply_discount ( price , code , member = False ): total = price * _discount_rate ( code , member ) if total > 100 : total -= 5 return round ( total , 2 ) One edit. One purpose. The behavior should be identical. Step 4: Verify against the snapshot Run the verify script. It compares every recorded case against current output. # verify.py import json from legacy import apply_discount with open ( " snapshot.json " ) as f : snapshot = json . load ( f ) failures = 0 for case in snapshot : actual = apply_discount ( case [ " price " ], case [ " code " ], case [ " member " ]) ok = actual == case [ " expected " ] failures += 0 if ok else 1 print ( f " { ' PASS ' if ok else ' FAIL ' } { case } -> { actual } " ) print ( f " { len ( snapshot ) - failures } / { len ( snapshot ) } passed " ) exit ( 1 if failures else 0 ) Zero failures means the change is behavior-preserving. One failure means your edit moved a boundary. Inspect the failing case before deciding whether the new behavior is intended. Where a free model fits Generating the initial corpus is the boring part. A free model can propose edge cases from the function signature. I use MonkeyCode's free model access for exactly this step: it drafts candidate inputs, and I review them against the code. Free model access is a starting point, not a verdict. The model has not seen your callers or your domain rules. The verify cycle also benefits from an isolated environment. MonkeyCode's free server option runs the snapshot and verify scripts without touching my local repo state. That keeps the experiment separate from real work. I treat the server as a scratch sandbox, not as a production runner. The recipe itself does not require it; a local virtualenv works fine. Limitations Characterization tests lock in bugs. If the original function has wrong behavior, the snapshot preserves it. That is the point: behavior preservation is a separate concern from bug fixing. Fix the bug in a second, explicitly labeled change. This recipe does not cover performance refactors. A snapshot checks output, not speed. Use a benchmark for that. It also fails on functions with heavy side effects. If the legacy code writes files or calls external services, snapshot the side effects too, or isolate them behind a seam first. Who should not use this Do not use this recipe if you are changing public contracts. Renaming a function or altering its signature is an API break. Snapshot tests will not save you from downstream callers. Do not use it as a substitute for real tests. The snapshot is a net, not a specification. Add explicit unit tests once the refactor lands. The rule One change. One verify. Zero drift. That is the smallest safe change. Pick one legacy function this week. Snapshot it. Make one edit. Measure the drift.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/hackrs_6393/one-change-one-verify-snapshot-driven-refactoring-for-legacy-code-141h
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
