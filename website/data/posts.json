@@ -330,6 +330,17 @@
         "file": "if-you-want-to-create-a-button-from-scratch-you-must-first-create-the-universe.md"
     },
     {
+        "title": "Gemini-3.5-Transcribe",
+        "slug": "gemini-35-transcribe",
+        "author": "k9294",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 18:03:42 +0000",
+        "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?i...",
+        "keywords": "gemini, transcribe, url, https, models, comments, article, blog",
+        "generated": "2026-08-27T22:04:47.420026",
+        "file": "gemini-35-transcribe.md"
+    },
+    {
         "title": "Compare Options Before You Buy Verified DigitalOcean Hostings Account Boom",
         "slug": "compare-options-before-you-buy-verified-digitalocean-hostings-account-boom",
         "author": "Zorina Robles",
@@ -6248,6 +6259,17 @@
         "file": "un-hypocrisy-in-ai-environmental-demands.md"
     },
     {
+        "title": "Why Auto-Generated JSON Schemas Fail in Production: 5 Draft-07 vs 2020-12 Traps",
+        "slug": "why-auto-generated-json-schemas-fail-in-production-5-draft-07-vs-2020-12-traps",
+        "author": "Rasika Dangamuwa",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 22:01:27 +0000",
+        "description": "Every API team reaches a point where hand-writing validation schemas becomes unsustainable. The obvious shortcut is piping sample JSON payloads through an au...",
+        "keywords": "schema, draft, type, json, schemas, number, validation, false",
+        "generated": "2026-08-27T22:04:47.422926",
+        "file": "why-auto-generated-json-schemas-fail-in-production-5-draft-07-vs-2020-12-traps.md"
+    },
+    {
         "title": "Advanced SAP MM Training with Live Projects & Guaranteed Placement Support",
         "slug": "advanced-sap-mm-training-with-live-projects-guaranteed-placement-support",
         "author": "GTR Academy",
@@ -6466,6 +6488,17 @@
         "keywords": "url, https, comments, earthquake, japan, article, www, data",
         "generated": "2026-07-28T08:43:31.567709",
         "file": "71-earthquake-in-japan.md"
+    },
+    {
+        "title": "From book principles to a freelance finance spreadsheet that runs (By the Loop clone)",
+        "slug": "from-book-principles-to-a-freelance-finance-spreadsheet-that-runs-by-the-loop-clone",
+        "author": "Toolkit Labs",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 21:50:50 +0000",
+        "description": "Written by an autonomous machine operator — clone of By the Loop's Freelance Finance OS ($5 on Gumroad) . Buyer-channel shape: crazychief's book-to-spreadshe...",
+        "keywords": "channel, csv, sample, log, system, spreadsheet, invoice, finance",
+        "generated": "2026-08-27T22:04:47.423774",
+        "file": "from-book-principles-to-a-freelance-finance-spreadsheet-that-runs-by-the-loop-clone.md"
     },
     {
         "title": "Driving in America Is Headlight Hell",
@@ -6761,6 +6794,17 @@
         "keywords": "szczecin, czy, kominkowe, nie, obudowy, kominka, kominkowy, warto",
         "generated": "2026-07-30T14:15:57.946013",
         "file": "7-rzeczy-o-wklady-kominkowe-szczecin-w-szczecinie.md"
+    },
+    {
+        "title": "How to Build a Micro-SaaS in 48 Hours",
+        "slug": "how-to-build-a-micro-saas-in-48-hours",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 22:00:09 +0000",
+        "description": "How to Build a Micro-SaaS in 48 Hours tags: saas, python, startup, money tags: saas, python, startup, money tags: saas, python, startup, money tags: saas, py...",
+        "keywords": "you, your, saas, hour, build, problem, python, don",
+        "generated": "2026-08-27T22:04:47.421211",
+        "file": "how-to-build-a-micro-saas-in-48-hours.md"
     },
     {
         "title": "Base64 Converter Online: Encode and Decode Base64 Data Instantly",
@@ -7753,6 +7797,17 @@
         "file": "no-one-escapes-the-permanent-underclass.md"
     },
     {
+        "title": "How to Build an Airdrop Monitor with AI",
+        "slug": "how-to-build-an-airdrop-monitor-with-ai",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 21:50:20 +0000",
+        "description": "In the high-stakes world of DeFi, speed is the only currency that matters. Airdrops, while lucrative, are notoriously fleeting. By the time most users manual...",
+        "keywords": "airdrop, data, event, monitor, time, blockchain, events, api",
+        "generated": "2026-08-27T22:04:47.422567",
+        "file": "how-to-build-an-airdrop-monitor-with-ai.md"
+    },
+    {
         "title": "Kaplan Scaling Laws: Why Bigger LLMs Keep Getting Better",
         "slug": "kaplan-scaling-laws-why-bigger-llms-keep-getting-better",
         "author": "Shrijith Venkatramana",
@@ -8169,6 +8224,17 @@
         "keywords": "url, https, comments, bottleneck, might, air, room, article",
         "generated": "2026-07-04T13:45:59.766320",
         "file": "the-bottleneck-might-be-the-air-in-the-room.md"
+    },
+    {
+        "title": "I Built a Free Calendly Alternative (Because $12/mo is Insane)",
+        "slug": "i-built-a-free-calendly-alternative-because-12mo-is-insane",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 21:58:33 +0000",
+        "description": "I Built a Free Calendly Alternative (Because $12/mo is Insane) If you're a freelancer, coach, or tutor who books calls with clients, you've probably hit the ...",
+        "keywords": "free, you, calendly, time, who, calls, clients, your",
+        "generated": "2026-08-27T22:04:47.423435",
+        "file": "i-built-a-free-calendly-alternative-because-12mo-is-insane.md"
     },
     {
         "title": "Getting video models to learn better, faster",
@@ -11438,6 +11504,17 @@
         "file": "can-china-build-its-own-asml.md"
     },
     {
+        "title": "Is “Please double-check before use” an honest safety boundary?",
+        "slug": "is-please-double-check-before-use-an-honest-safety-boundary",
+        "author": "Ali Ulu",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 21:48:38 +0000",
+        "description": "Ai can make mistakes... I understand why this warning exists. But I keep wondering whether we’ve normalized an impossible expectation. I use AI for three sim...",
+        "keywords": "double, check, what, but, answer, use, make, understand",
+        "generated": "2026-08-27T22:04:47.424709",
+        "file": "is-please-double-check-before-use-an-honest-safety-boundary.md"
+    },
+    {
         "title": "Unlocking Creative Potential: LLMs for Art Generation",
         "slug": "unlocking-creative-potential-llms-for-art-generation",
         "author": "shashank ms",
@@ -12338,6 +12415,17 @@
         "keywords": "dhan, ardyat, ayboksy, ahtrafy, https, pro, handyman, originally",
         "generated": "2026-08-01T03:28:58.770664",
         "file": "dhan-ardyat-ayboksy-ahtrafy-2.md"
+    },
+    {
+        "title": "I built Voktty: an open-source, ~8MB AI-native terminal workspace in Rust & Tauri 2",
+        "slug": "i-built-voktty-an-open-source-8mb-ai-native-terminal-workspace-in-rust-tauri-2",
+        "author": "Sergio Vargas",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 21:42:50 +0000",
+        "description": "Like many developers, DevOps engineers, and sysadmins, my daily routine revolves around the terminal, remote servers, and containers. Over time, modern IDEs ...",
+        "keywords": "terminal, voktty, native, your, rust, tauri, first, built",
+        "generated": "2026-08-27T22:04:47.425121",
+        "file": "i-built-voktty-an-open-source-8mb-ai-native-terminal-workspace-in-rust-tauri-2.md"
     },
     {
         "title": "Your Django background scheduler is probably running twice. Here's why, and the migrate chicken-and-egg.",
@@ -28136,10 +28224,10 @@
         "slug": "revenue-strategies-for-ai-api-services",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 27 Aug 2026 08:30:54 +0000",
-        "description": "Revenue Strategy for 93 M2M API Services: Identify the relevant stakeholders: Calling each of the 93 M2M API services and requesting a quote from the relevan...",
-        "keywords": "each, service, api, services, relevant, stakeholders, pricing, offerings",
-        "generated": "2026-08-27T08:36:24.650693",
+        "published": "Thu, 27 Aug 2026 21:43:55 +0000",
+        "description": "Reach out to the following 93 M2M API service providers: Amazon Web Services (AWS) Google Cloud Platform (GCP) Microsoft Azure IBM Bluemix SAP HANA Cloud Pla...",
+        "keywords": "iot, azure, aws, microsoft, cloud, ibm, hub, google",
+        "generated": "2026-08-27T22:04:47.424850",
         "file": "revenue-strategies-for-ai-api-services.md"
     },
     {
@@ -29470,6 +29558,17 @@
         "keywords": "event, version, dedup, not, replay, one, raw, table",
         "generated": "2026-08-19T18:41:33.261361",
         "file": "webhook-ingestion-pipelines-idempotency-ordering-dead-letter-queues-replay.md"
+    },
+    {
+        "title": "I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.",
+        "slug": "i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you",
+        "author": "Salman Ahsan",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 22:00:24 +0000",
+        "description": "Most of the tools I ship are one HTML file. Inline CSS, inline JavaScript, no build step, no bundler, no CDN, no npm install. You download the file, open it,...",
+        "keywords": "one, file, you, because, tool, what, tools, single",
+        "generated": "2026-08-27T22:04:47.423222",
+        "file": "i-shipped-200-tools-as-single-html-files-heres-what-that-constraint-actually-buys-you.md"
     },
     {
         "title": "Every Postcard Tells a Story",
@@ -33417,6 +33516,17 @@
         "keywords": "meeting, workflow, teams, you, time, meetings, instead, notes",
         "generated": "2026-07-14T02:53:42.962722",
         "file": "i-replaced-manual-meeting-notes-with-ai-heres-the-workflow-that-actually-saved-me-hours-every-week.md"
+    },
+    {
+        "title": "Previewing the Model Hardware Standard",
+        "slug": "previewing-the-model-hardware-standard",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 18:04:50 +0000",
+        "description": "Article URL: https://www.anthropic.com/news/model-hardware-standard-research-preview Comments URL: https://news.ycombinator.com/item?id=49468834 Points: 48 #...",
+        "keywords": "model, hardware, standard, url, https, com, news, comments",
+        "generated": "2026-08-27T22:04:47.419921",
+        "file": "previewing-the-model-hardware-standard.md"
     },
     {
         "title": "How I built an automated Twitter + Telegram whale alert bot for Polymarket",
@@ -37698,6 +37808,17 @@
         "keywords": "software, your, custom, you, development, business, api, dots",
         "generated": "2026-07-01T04:23:05.794708",
         "file": "why-custom-software-development-is-the-smart-choice-for-growing-businesses.md"
+    },
+    {
+        "title": "Build a Subscription Box Price Tracker with Python",
+        "slug": "build-a-subscription-box-price-tracker-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 22:00:04 +0000",
+        "description": "Build a Subscription Box Price Tracker with Python tags: python, automation, scraping, tools tags: python, automation, scraping, tools tags: python, automati...",
+        "keywords": "price, you, your, url, python, tools, tracker, scraping",
+        "generated": "2026-08-27T22:04:47.421782",
+        "file": "build-a-subscription-box-price-tracker-with-python.md"
     },
     {
         "title": "5 Best Place to Buy Verified Payoneer Accounts Securely",
@@ -50196,6 +50317,17 @@
         "file": "before-you-paste-that-log-a-safer-debugging-habit.md"
     },
     {
+        "title": "JSON to C# in Modern .NET: 5 Deserialization Traps with Records and System.Text.Json",
+        "slug": "json-to-c-in-modern-net-5-deserialization-traps-with-records-and-systemtextjson",
+        "author": "Rasika Dangamuwa",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 21:31:39 +0000",
+        "description": "Converting JSON payloads into strongly typed C# models is one of the most common tasks in .NET backend development. Whether integrating third-party webhooks,...",
+        "keywords": "json, public, net, records, system, text, string, get",
+        "generated": "2026-08-27T22:04:47.424091",
+        "file": "json-to-c-in-modern-net-5-deserialization-traps-with-records-and-systemtextjson.md"
+    },
+    {
         "title": "The Python GIL, explained without the hand-waving",
         "slug": "the-python-gil-explained-without-the-hand-waving",
         "author": "websilvercraft",
@@ -51923,6 +52055,17 @@
         "file": "morten-linderud-resigning-from-arch-linux-development-team.md"
     },
     {
+        "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+        "slug": "meta-paid-17b-gets-to-write-safety-rules-for-other-socmedia-platform",
+        "author": "ano-ther",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 20:41:51 +0000",
+        "description": "Article URL: https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-m...",
+        "keywords": "meta, paid, gets, write, safety, rules, other, platform",
+        "generated": "2026-08-27T22:04:47.419804",
+        "file": "meta-paid-17b-gets-to-write-safety-rules-for-other-socmedia-platform.md"
+    },
+    {
         "title": "My MCP Tool's Docstring Promised 'limit: 1-100.' Passing -1 Returned Almost Everything, Not Nothing.",
         "slug": "my-mcp-tools-docstring-promised-limit-1-100-passing-1-returned-almost-everything-not-nothing",
         "author": "Enjoy Kumawat",
@@ -53197,6 +53340,17 @@
         "keywords": "product, one, who, people, had, his, built, before",
         "generated": "2026-08-24T12:59:46.026703",
         "file": "he-was-raising-money-for-a-product-nobody-had-ever-paid-for.md"
+    },
+    {
+        "title": "$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor",
+        "slug": "900m-paid-out-to-end-wind-farm-project-going-to-firm-run-by-mar-a-lago-neighbor",
+        "author": "pseudolus",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 20:44:52 +0000",
+        "description": "Article URL: https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html Comments URL: https://news.yc...",
+        "keywords": "url, https, news, comments, paid, out, end, wind",
+        "generated": "2026-08-27T22:04:47.419622",
+        "file": "900m-paid-out-to-end-wind-farm-project-going-to-firm-run-by-mar-a-lago-neighbor.md"
     },
     {
         "title": "Robust Multiplication Table Snippet",
@@ -58168,6 +58322,17 @@
         "file": "regressive-jpegs.md"
     },
     {
+        "title": "Top 36 Sites to Buy old Gmail Accounts PVA Bulk in 2026",
+        "slug": "top-36-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026",
+        "author": "deecastr",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 21:59:26 +0000",
+        "description": "Buy Old Gmail Accounts – Account History, Security Risks, Privacy & Safe Alternatives 💬📞 WE’RE ONLINE & READY TO ASSIST YOU 24/7! 📞💬 ➥ 🔥📲 Telegram: @getpvato...",
+        "keywords": "account, gmail, accounts, google, can, security, old, getpvatop",
+        "generated": "2026-08-27T22:04:47.422335",
+        "file": "top-36-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026.md"
+    },
+    {
         "title": "How's Linear so fast? A technical breakdown",
         "slug": "hows-linear-so-fast-a-technical-breakdown",
         "author": "howToTestFE",
@@ -58793,6 +58958,17 @@
         "keywords": "traefik, eks, doks, cloud, services, norvik, tech, ssl",
         "generated": "2026-06-10T10:13:09.118048",
         "file": "essential-resources-for-settin.md"
+    },
+    {
+        "title": "Build an AI-Powered Resume Screener with Python",
+        "slug": "build-an-ai-powered-resume-screener-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 22:00:49 +0000",
+        "description": "Build an AI-Powered Resume Screener with Python tags: python, ai, automation, tools tags: python, ai, automation, tools tags: python, ai, automation, tools B...",
+        "keywords": "text, resume, you, python, similarity, score, skills, pdf",
+        "generated": "2026-08-27T22:04:47.420644",
+        "file": "build-an-ai-powered-resume-screener-with-python.md"
     },
     {
         "title": "How Undress AI Actually Works: A Technical Deep Dive into Diffusion Segmentation & Inpainting (2026)",
@@ -63965,6 +64141,17 @@
         "file": "50-reusable-claude-code-skills-thatll-save-you-hours-every-week.md"
     },
     {
+        "title": "Show HN: Voronoi Go",
+        "slug": "show-hn-voronoi-go",
+        "author": "igpay",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 18:03:37 +0000",
+        "description": "I posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member)...",
+        "keywords": "play, against, comments, show, voronoi, posted, once, before",
+        "generated": "2026-08-27T22:04:47.420131",
+        "file": "show-hn-voronoi-go.md"
+    },
+    {
         "title": "How AI Web Development Improves Website Performance and Speed",
         "slug": "how-ai-web-development-improves-website-performance-and-speed",
         "author": "Liquid Technologies",
@@ -63980,10 +64167,10 @@
         "slug": "shadow-ai-enterprise-essential-compliance-controls",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Sun, 23 Aug 2026 12:42:01 +0000",
-        "description": "A developer pastes source code into ChatGPT to debug an error. A sales employee uploads customer notes to summarize a meeting. Neither intends harm, yet both...",
-        "keywords": "data, use, shadow, governance, evidence, enterprise, compliance, than",
-        "generated": "2026-08-23T12:50:17.234844",
+        "published": "Thu, 27 Aug 2026 21:55:58 +0000",
+        "description": "Employees are already pasting customer records, source code, contracts, and internal research into public AI assistants. The shadow AI enterprise problem beg...",
+        "keywords": "data, can, shadow, enterprise, evidence, compliance, governance, policy",
+        "generated": "2026-08-27T22:04:47.424452",
         "file": "shadow-ai-enterprise-essential-compliance-controls.md"
     },
     {
@@ -64194,6 +64381,17 @@
         "keywords": "who, owns, commodore, retro, brand, url, https, com",
         "generated": "2026-08-17T12:53:34.356513",
         "file": "who-owns-commodore-the-retro-pc-brand-still-exists-but-a-lot-has-changed.md"
+    },
+    {
+        "title": "I Ran Qwen3.8-27B on a 24GB MacBook - Here Is the VRAM Number Apple Does Not Print",
+        "slug": "i-ran-qwen38-27b-on-a-24gb-macbook-here-is-the-vram-number-apple-does-not-print",
+        "author": "akartit",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 21:39:47 +0000",
+        "description": "I tried to run a 27B parameter model on a 24GB MacBook. It kernel-panicked my Mac. Three times. Hard reboot, lost work, the whole thing. And the fix every fo...",
+        "keywords": "your, you, gpu, not, localfit, model, gib, memory",
+        "generated": "2026-08-27T22:04:47.425560",
+        "file": "i-ran-qwen38-27b-on-a-24gb-macbook-here-is-the-vram-number-apple-does-not-print.md"
     },
     {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",
