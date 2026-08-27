@@ -704,6 +704,17 @@
         "file": "do-you-want-ai-run-on-your-commands-in-your-app.md"
     },
     {
+        "title": "One API. Every AI",
+        "slug": "one-api-every-ai",
+        "author": "Sprelay API",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 08:28:53 +0000",
+        "description": "Explore More : Sprelay Token",
+        "keywords": "one, api, every, explore, more, sprelay, token",
+        "generated": "2026-08-27T08:36:24.648258",
+        "file": "one-api-every-ai.md"
+    },
+    {
         "title": "The iPad was on Tailscale: a WebRTC debugging story",
         "slug": "the-ipad-was-on-tailscale-a-webrtc-debugging-story",
         "author": "syllogistic",
@@ -2101,6 +2112,17 @@
         "file": "dbt-macros-jinja-deep-dive-custom-materializations-hooks-adapter-dispatch.md"
     },
     {
+        "title": "The GB to NI Customs Workflow, System by System",
+        "slug": "the-gb-to-ni-customs-workflow-system-by-system",
+        "author": "iCustoms",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 08:32:10 +0000",
+        "description": "Here is a clean trace of a standard GB to NI road movement across the four HMRC systems. Step 1: Trader submits movement information A single entry captures ...",
+        "keywords": "step, movement, goods, customs, data, reference, declaration, workflow",
+        "generated": "2026-08-27T08:36:24.649399",
+        "file": "the-gb-to-ni-customs-workflow-system-by-system.md"
+    },
+    {
         "title": "Experience Niagara Limo Service with Professional Chauffeurs Today",
         "slug": "experience-niagara-limo-service-with-professional-chauffeurs-today",
         "author": "Niagara Limo",
@@ -2990,6 +3012,17 @@
         "keywords": "voice, agent, samar, can, information, multilingual, banking, user",
         "generated": "2026-08-15T06:47:15.231874",
         "file": "building-samar-my-10-day-voice-ai-agent-journey-with-murf-falcon.md"
+    },
+    {
+        "title": "revalidatePath Might Not Be Invalidating What You Think It Is",
+        "slug": "revalidatepath-might-not-be-invalidating-what-you-think-it-is",
+        "author": "Anas Sheikh",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 08:25:42 +0000",
+        "description": "If you've ever called revalidatePath after a mutation, watched the data still show up stale on the page, and fixed it by just also calling revalidatePath on ...",
+        "keywords": "revalidatepath, blog, path, you, not, data, actual, post",
+        "generated": "2026-08-27T08:36:24.648572",
+        "file": "revalidatepath-might-not-be-invalidating-what-you-think-it-is.md"
     },
     {
         "title": "Redfin vs Zillow Data: Which is Better for Real Estate Market Research?",
@@ -4653,6 +4686,17 @@
         "file": "give-your-chatbot-a-memory-in-google-colab-before-your-next-ai-interview.md"
     },
     {
+        "title": "How to Use Vector Databases for AI Applications",
+        "slug": "how-to-use-vector-databases-for-ai-applications",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 08:00:57 +0000",
+        "description": "How to Use Vector Databases for AI Applications tags: ai, database, python, tutorial tags: ai, database, python, tutorial tags: ai, database, python, tutoria...",
+        "keywords": "vector, your, you, database, model, embeddings, search, query",
+        "generated": "2026-08-27T08:36:24.647275",
+        "file": "how-to-use-vector-databases-for-ai-applications.md"
+    },
+    {
         "title": "Slightly reducing the sloppiness of AI generated front end",
         "slug": "slightly-reducing-the-sloppiness-of-ai-generated-front-end",
         "author": "FergusArgyll",
@@ -5014,6 +5058,17 @@
         "keywords": "local, kycpva, verification, digital, neighborhood, residential, platforms, platform",
         "generated": "2026-07-22T19:34:31.390032",
         "file": "buy-aged-nextdoor-accounts-verified-profile-neighborhood-access.md"
+    },
+    {
+        "title": "The agent posted successfully. To the wrong account.",
+        "slug": "the-agent-posted-successfully-to-the-wrong-account",
+        "author": "Eugeniya Ivanova",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 08:31:54 +0000",
+        "description": "Back in July I wrote about what it takes to wire an AI agent into social platforms : six OAuth flows, three-step media uploads, tokens expiring on their own ...",
+        "keywords": "wrong, one, what, you, agent, tool, call, server",
+        "generated": "2026-08-27T08:36:24.648156",
+        "file": "the-agent-posted-successfully-to-the-wrong-account.md"
     },
     {
         "title": "Advertise in ChatGPT",
@@ -5509,6 +5564,17 @@
         "keywords": "python, ytm, user, terminal, api, music, state, while",
         "generated": "2026-07-24T08:34:24.201481",
         "file": "building-go-ytm-the-journey-of-a-terminal-youtube-music-player.md"
+    },
+    {
+        "title": "Key-space C3: the Bloom filter that closes referent gameability — tested",
+        "slug": "key-space-c3-the-bloom-filter-that-closes-referent-gameability-tested",
+        "author": "zxpmail",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 08:31:15 +0000",
+        "description": "Key-space C3: the Bloom filter that closes referent gameability — tested Agent Determinism Illusions (Part 12) 2026-08-27 Part 11 identified a structural gap...",
+        "keywords": "space, key, user, write, wrong, resolution, not, inv",
+        "generated": "2026-08-27T08:36:24.650369",
+        "file": "key-space-c3-the-bloom-filter-that-closes-referent-gameability-tested.md"
     },
     {
         "title": "n8n Zendesk Node: Automate Tickets, Users, and Support Workflows (Free Workflow JSON)",
@@ -8105,6 +8171,17 @@
         "file": "the-bottleneck-might-be-the-air-in-the-room.md"
     },
     {
+        "title": "Getting video models to learn better, faster",
+        "slug": "getting-video-models-to-learn-better-faster",
+        "author": "schopra909",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 01:53:34 +0000",
+        "description": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video Comments URL: https://news.ycombinator.com/item?id=49458502 Points: 25 # Comments: 9",
+        "keywords": "video, url, https, comments, getting, models, learn, better",
+        "generated": "2026-08-27T08:36:24.644938",
+        "file": "getting-video-models-to-learn-better-faster.md"
+    },
+    {
         "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
         "slug": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
         "author": "raffael_de",
@@ -10347,6 +10424,17 @@
         "keywords": "mouse, rate, test, not, browser, polling, tier, check",
         "generated": "2026-06-16T17:05:59.750659",
         "file": "mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings.md"
+    },
+    {
+        "title": "Cómo una pyme de Madrid redujo sus horas administrativas un 40% con Python",
+        "slug": "cmo-una-pyme-de-madrid-redujo-sus-horas-administrativas-un-40-con-python",
+        "author": "David García",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 08:32:00 +0000",
+        "description": "Cómo una Pyme de Madrid Redujo sus Horas Administrativas un 40% con Python Dev.to | David García Muñoz-Hita (ITelnet Consulting) Introducción: La mayoría de ...",
+        "keywords": "horas, con, para, una, python, sus, los, que",
+        "generated": "2026-08-27T08:36:24.649681",
+        "file": "cmo-una-pyme-de-madrid-redujo-sus-horas-administrativas-un-40-con-python.md"
     },
     {
         "title": "The Best Free Sports Data APIs in 2025: A Developer's Practical Review",
@@ -13517,6 +13605,17 @@
         "file": "intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later.md"
     },
     {
+        "title": "Laion Big Video Dataset",
+        "slug": "laion-big-video-dataset",
+        "author": "ks2048",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 01:50:26 +0000",
+        "description": "Article URL: https://projects.laion.ai/bvd/ Comments URL: https://news.ycombinator.com/item?id=49458478 Points: 57 # Comments: 16",
+        "keywords": "laion, url, https, comments, big, video, dataset, article",
+        "generated": "2026-08-27T08:36:24.645055",
+        "file": "laion-big-video-dataset.md"
+    },
+    {
         "title": "Building Environmental Science Tools with LLMs: A Tutorial",
         "slug": "building-environmental-science-tools-with-llms-a-tutorial",
         "author": "shashank ms",
@@ -14318,6 +14417,17 @@
         "keywords": "oxlo, model, environmental, token, type, models, per, can",
         "generated": "2026-06-27T13:54:40.043514",
         "file": "llms-in-environmental-science-applications-and-opportunities.md"
+    },
+    {
+        "title": "Build a Voice Assistant with Python and Whisper",
+        "slug": "build-a-voice-assistant-with-python-and-whisper",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 08:00:50 +0000",
+        "description": "Build a Voice Assistant with Python and Whisper tags: python, ai, audio, tutorial tags: python, ai, audio, tutorial tags: python, ai, audio, tutorial tags: p...",
+        "keywords": "you, whisper, your, audio, text, python, assistant, voice",
+        "generated": "2026-08-27T08:36:24.647761",
+        "file": "build-a-voice-assistant-with-python-and-whisper.md"
     },
     {
         "title": "So I kept hitting dead proxy lists for Telegram -- all those",
@@ -16507,6 +16617,17 @@
         "keywords": "water, system, controllers, belong, internet, says, nsa, chief",
         "generated": "2026-08-08T07:01:37.214823",
         "file": "water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief.md"
+    },
+    {
+        "title": "Clip Architect: Topic-to-Video, Running on Your PC",
+        "slug": "clip-architect-topic-to-video-running-on-your-pc",
+        "author": "DiFlowrin",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 08:24:19 +0000",
+        "description": "Ai un subiect. O propoziție, poate două. Ce nu ai e scriptul, imaginile, o voce care să le citească, subtitrări puse exact acolo unde trebuie, și un MP4 gata...",
+        "keywords": "pentru, care, din, sau, architect, mai, clip, windows",
+        "generated": "2026-08-27T08:36:24.646733",
+        "file": "clip-architect-topic-to-video-running-on-your-pc.md"
     },
     {
         "title": "Drone carrying explosive device causes disruption at major German airport",
@@ -22508,10 +22629,10 @@
         "slug": "i-built-a-247-ai-agent-with-python-and-a-raspberry-pi",
         "author": "David García",
         "source": "devto_python",
-        "published": "Tue, 14 Jul 2026 02:37:23 +0000",
-        "description": "```html Ever felt like you spend half your day on repetitive tasks? I get it. That's what drove me to build a 24/7 AI agent – not to replace you, but to offl...",
-        "keywords": "temperature, agent, python, raspberry, your, datetime, built, you",
-        "generated": "2026-07-14T02:53:42.957514",
+        "published": "Thu, 27 Aug 2026 08:27:29 +0000",
+        "description": "```html Let’s be honest. We've all been there: a tiny, nagging task that needs doing, but we just don’t have the time or inclination to deal with it. I was, ...",
+        "keywords": "email, mail, your, messages, inbox, new, spreadsheet, body",
+        "generated": "2026-08-27T08:36:24.645931",
         "file": "i-built-a-247-ai-agent-with-python-and-a-raspberry-pi.md"
     },
     {
@@ -28011,6 +28132,17 @@
         "file": "5-ai-tools-that-generated-50k-for-creators-in-2026-steal-this-strategy.md"
     },
     {
+        "title": "Revenue Strategies for AI API Services",
+        "slug": "revenue-strategies-for-ai-api-services",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 08:30:54 +0000",
+        "description": "Revenue Strategy for 93 M2M API Services: Identify the relevant stakeholders: Calling each of the 93 M2M API services and requesting a quote from the relevan...",
+        "keywords": "each, service, api, services, relevant, stakeholders, pricing, offerings",
+        "generated": "2026-08-27T08:36:24.650693",
+        "file": "revenue-strategies-for-ai-api-services.md"
+    },
+    {
         "title": "Screen Repair Service of Samsung A90 Mobile Phone",
         "slug": "screen-repair-service-of-samsung-a90-mobile-phone",
         "author": "cityphones",
@@ -33452,6 +33584,17 @@
         "file": "lg-to-ban-residential-proxies-from-smart-tv-apps.md"
     },
     {
+        "title": "trewqwqwqw",
+        "slug": "trewqwqwqw",
+        "author": "yuyunaisih",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 08:22:39 +0000",
+        "description": "https://dot.cards/quytuvuotgiau https://dot.cards/quytuvuotgiauviet https://dot.cards/insidious6fullviet https://dot.cards/insidious6fulllau https://dot.card...",
+        "keywords": "https, avely, com, dot, cards, www, profile, nghi",
+        "generated": "2026-08-27T08:36:24.648782",
+        "file": "trewqwqwqw.md"
+    },
+    {
         "title": "AI-Powered DevOps Pipeline: Real-World Example, Best Practices & Future",
         "slug": "ai-powered-devops-pipeline-real-world-example-best-practices-future",
         "author": "Infowind Technologies",
@@ -36028,6 +36171,17 @@
         "keywords": "development, fast, year, move, break, things, custom, agent",
         "generated": "2026-06-22T12:15:23.447076",
         "file": "why-move-fast-break-things-is-killing-your-custom-ai-agent-development-before-year-2.md"
+    },
+    {
+        "title": "TSS, ICS2, GVMS and NCTS: A Technical Overview",
+        "slug": "tss-ics2-gvms-and-ncts-a-technical-overview",
+        "author": "Kristi Hampson",
+        "source": "devto_ai",
+        "published": "Thu, 27 Aug 2026 08:30:55 +0000",
+        "description": "TSS, CDS, ICS2, GVMS and NCTS are best understood as a small distributed system with a shared input layer and four specialised backends. The pipeline The tra...",
+        "keywords": "tss, gvms, receives, ncts, cds, system, shared, pipeline",
+        "generated": "2026-08-27T08:36:24.650559",
+        "file": "tss-ics2-gvms-and-ncts-a-technical-overview.md"
     },
     {
         "title": "Best 3 Sites to Buy Verified Chime Accounts with Guarantee",
@@ -50713,6 +50867,17 @@
         "file": "i-built-a-small-browser-game-for-guessing-cartoon-colors.md"
     },
     {
+        "title": "Your Pipeline Is 18.4h Behind: Catching Artificial Intelligence Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-184h-behind-catching-artificial-intelligence-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Thu, 27 Aug 2026 08:28:15 +0000",
+        "description": "Your Pipeline Is 18.4h Behind: Catching Artificial Intelligence Sentiment Leads with Pulsebit We recently discovered a notable anomaly: a 24-hour momentum sp...",
+        "keywords": "sentiment, artificial, intelligence, your, pulsebit, you, momentum, french",
+        "generated": "2026-08-27T08:36:24.645623",
+        "file": "your-pipeline-is-184h-behind-catching-artificial-intelligence-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Microsoft Fabric & OneLake Deep Dive for Data Engineers: Lakehouse + Warehouse + Real-Time in One Portal",
         "slug": "microsoft-fabric-onelake-deep-dive-for-data-engineers-lakehouse-warehouse-real-time-in-one-portal",
         "author": "Gowtham Potureddi",
@@ -57433,6 +57598,15 @@
         "file": "the-window-to-build-ai-expertise-is-closing-faster-than-anyone-expected.md"
     },
     {
+        "title": "Wiring CoreML's Async Prediction API to SwiftUI for Real-Time On-Device Classification",
+        "slug": "wiring-coremls-async-prediction-api-to-swiftui-for-real-time-on-device-classification",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Thu, 27 Aug 2026 08:20:41 +0000",
+        "description": "",
+        "file": "wiring-coremls-async-prediction-api-to-swiftui-for-real-time-on-device-classification.md"
+    },
+    {
         "title": "Ten thousand payments, zero invoices: the AI-agent reconciliation problem",
         "slug": "ten-thousand-payments-zero-invoices-the-ai-agent-reconciliation-problem",
         "author": "bluetieroperations-create",
@@ -60018,6 +60192,17 @@
         "file": "i-built-an-ai-speechwriter-for-the-moments-you-cant-get-wrong.md"
     },
     {
+        "title": "Kusama Yayoi has died",
+        "slug": "kusama-yayoi-has-died",
+        "author": "phantomathkg",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 02:21:18 +0000",
+        "description": "https://archive.ph/axjMF https://yayoi-kusama.jp/en/news4518/ Comments URL: https://news.ycombinator.com/item?id=49458709 Points: 159 # Comments: 13",
+        "keywords": "https, kusama, yayoi, comments, has, died, archive, axjmf",
+        "generated": "2026-08-27T08:36:24.644744",
+        "file": "kusama-yayoi-has-died.md"
+    },
+    {
         "title": "Regulations and Standards for AI",
         "slug": "regulations-and-standards-for-ai",
         "author": "Wahome Stephen",
@@ -60830,6 +61015,17 @@
         "keywords": "call, bws, center, kcp, madiyun, anda, dapat, menghubungi",
         "generated": "2026-08-01T03:28:58.771747",
         "file": "call-center-bws-kcp-madiyun.md"
+    },
+    {
+        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+        "slug": "ceo-fired-developers-to-make-room-for-ai-developers-create-open-source-ai-ceo",
+        "author": "GrumpySciGuy",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 01:46:22 +0000",
+        "description": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 534 # Comments: 345",
+        "keywords": "ceo, developers, url, https, com, comments, fired, make",
+        "generated": "2026-08-27T08:36:24.645160",
+        "file": "ceo-fired-developers-to-make-room-for-ai-developers-create-open-source-ai-ceo.md"
     },
     {
         "title": "Top 21~Website To Buy USA Facebook Accounts for Business",
@@ -62744,6 +62940,17 @@
         "keywords": "your, you, not, brand, chatgpt, recommendation, brands, memory",
         "generated": "2026-07-28T08:43:31.572029",
         "file": "chatgpt-memory-creates-winner-take-all-markets-why-your-first-ai-citation-matters-more-than-your-next-100-backlinks.md"
+    },
+    {
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "slug": "nvidia-agrees-to-acquire-hugging-face-for-13b",
+        "author": "mfiguiere",
+        "source": "hackernews",
+        "published": "Thu, 27 Aug 2026 01:12:55 +0000",
+        "description": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in... Comments URL: htt...",
+        "keywords": "https, com, nvidia, agrees, hugging, face, comments, acquire",
+        "generated": "2026-08-27T08:36:24.645265",
+        "file": "nvidia-agrees-to-acquire-hugging-face-for-13b.md"
     },
     {
         "title": "The B2B Buyer Persona Questions Product Teams Should Actually Ask",
