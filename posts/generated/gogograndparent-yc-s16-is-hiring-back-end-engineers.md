@@ -1,19 +1,19 @@
 ---
-title: "GoGoGrandparent (YC S16) is hiring Back end Engineers"
+title: "GoGoGrandparent (YC S16) is hiring back end engineers"
 slug: "gogograndparent-yc-s16-is-hiring-back-end-engineers"
 author: "davidchl"
 source: "hackernews"
-published: "Tue, 09 Jun 2026 03:34:00 +0000"
-description: "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=48456015 ..."
+published: "Fri, 28 Aug 2026 03:35:15 +0000"
+description: "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=49474060 ..."
 keywords: "gogograndparent, url, https, ycombinator, com, comments, hiring, back"
-generated: "2026-06-09T04:03:32.524031"
+generated: "2026-08-28T10:48:56.454013"
 ---
 
-# GoGoGrandparent (YC S16) is hiring Back end Engineers
+# GoGoGrandparent (YC S16) is hiring back end engineers
 
 ## Overview
 
-Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=48456015 Points: 0 # Comments: 0
+Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=49474060 Points: 0 # Comments: 0
 
 ## Key Insights
 

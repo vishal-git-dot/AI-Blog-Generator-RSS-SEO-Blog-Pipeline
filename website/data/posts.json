@@ -726,6 +726,17 @@
         "file": "one-api-every-ai.md"
     },
     {
+        "title": "Build a Network Scanner with Python and Scapy",
+        "slug": "build-a-network-scanner-with-python-and-scapy",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 28 Aug 2026 10:00:55 +0000",
+        "description": "Build a Network Scanner with Python and Scapy tags: python, networking, security, tutorial tags: python, networking, security, tutorial tags: python, network...",
+        "keywords": "network, your, you, python, scapy, scanner, arp, packet",
+        "generated": "2026-08-28T10:48:56.455686",
+        "file": "build-a-network-scanner-with-python-and-scapy.md"
+    },
+    {
         "title": "The iPad was on Tailscale: a WebRTC debugging story",
         "slug": "the-ipad-was-on-tailscale-a-webrtc-debugging-story",
         "author": "syllogistic",
@@ -1142,6 +1153,17 @@
         "keywords": "you, experience, ats, software, engineer, resume, free, years",
         "generated": "2026-06-14T09:45:48.685277",
         "file": "software-engineer-resume-tips-that-actually-work-in-2026-with-real-examples.md"
+    },
+    {
+        "title": "The <ExperienceSlot /> pattern: Decoupling marketing copy from React components",
+        "slug": "the-experienceslot-pattern-decoupling-marketing-copy-from-react-components",
+        "author": "Pavan S Poojary",
+        "source": "devto_webdev",
+        "published": "Fri, 28 Aug 2026 10:36:00 +0000",
+        "description": "Every SaaS team starts the same way: a simple boolean column in PostgreSQL ( has_seen_v2_modal ), a useEffect hook, and a conditional modal component. Fast f...",
+        "keywords": "you, mcp, your, react, app, announcement, neotic, experienceslot",
+        "generated": "2026-08-28T10:48:56.458831",
+        "file": "the-experienceslot-pattern-decoupling-marketing-copy-from-react-components.md"
     },
     {
         "title": "+134 Billion Reach Offcial at CL40 World and (Chico Loco 40)",
@@ -11966,6 +11988,17 @@
         "file": "kubernetes-horizontal-pod-autoscaling-based-on-custom-metrics.md"
     },
     {
+        "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+        "slug": "hilariously-fast-volume-computation-with-the-divergence-theorem",
+        "author": "luu",
+        "source": "hackernews",
+        "published": "Fri, 28 Aug 2026 09:00:46 +0000",
+        "description": "Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html Comments URL: https://news.ycombinator.com...",
+        "keywords": "hilariously, fast, volume, computation, divergence, theorem, url, https",
+        "generated": "2026-08-28T10:48:56.453471",
+        "file": "hilariously-fast-volume-computation-with-the-divergence-theorem.md"
+    },
+    {
         "title": "The cost YAGNI was never about",
         "slug": "the-cost-yagni-was-never-about",
         "author": "kiyanwang",
@@ -14826,6 +14859,17 @@
         "file": "llm-cost-optimization-cutting-inference-bills-without-killing-quality.md"
     },
     {
+        "title": "I Built a Bot That Reproduces GitHub Bugs Automatically — Here's What Broke (and What I Learned)",
+        "slug": "i-built-a-bot-that-reproduces-github-bugs-automatically-heres-what-broke-and-what-i-learned",
+        "author": "qxmcu",
+        "source": "devto_python",
+        "published": "Fri, 28 Aug 2026 10:35:36 +0000",
+        "description": "The problem As a maintainer, even a solo one on a small project, the most time-consuming part of fixing a bug usually isn't writing the fix. It's reproducing...",
+        "keywords": "issue, what, bug, ghost, bot, github, open, reproduction",
+        "generated": "2026-08-28T10:48:56.454636",
+        "file": "i-built-a-bot-that-reproduces-github-bugs-automatically-heres-what-broke-and-what-i-learned.md"
+    },
+    {
         "title": "Money Is a Signal, Not a Soul",
         "slug": "money-is-a-signal-not-a-soul",
         "author": "ORCHESTRATE",
@@ -15429,6 +15473,17 @@
         "keywords": "data, api, macro, year, gdp, unemployment, inflation, value",
         "generated": "2026-06-07T09:24:56.817576",
         "file": "build-a-recession-indicator-with-unemployment-inflation-data-free-api.md"
+    },
+    {
+        "title": "Show HN: FnScribe – Open-source, offline dictation for macOS",
+        "slug": "show-hn-fnscribe-open-source-offline-dictation-for-macos",
+        "author": "modagent",
+        "source": "hackernews",
+        "published": "Fri, 28 Aug 2026 06:45:47 +0000",
+        "description": "Article URL: https://github.com/AlgorithmicResearchGroup/fnscribe Comments URL: https://news.ycombinator.com/item?id=49475159 Points: 8 # Comments: 2",
+        "keywords": "fnscribe, url, https, com, comments, show, open, source",
+        "generated": "2026-08-28T10:48:56.453767",
+        "file": "show-hn-fnscribe-open-source-offline-dictation-for-macos.md"
     },
     {
         "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
@@ -19171,6 +19226,17 @@
         "file": "net-full-stack-training-in-salem-course-skills-projects-career-guide.md"
     },
     {
+        "title": "Grafana MCP: Query Your Dashboards and Metrics Directly from Claude",
+        "slug": "grafana-mcp-query-your-dashboards-and-metrics-directly-from-claude",
+        "author": "curatedmcp",
+        "source": "devto_ai",
+        "published": "Fri, 28 Aug 2026 10:39:32 +0000",
+        "description": "Install guide and config at curatedmcp.com Grafana MCP: Query Your Dashboards and Metrics Directly from Claude Monitoring shouldn't require context-switching...",
+        "keywords": "grafana, your, claude, mcp, data, metrics, dashboards, api",
+        "generated": "2026-08-28T10:48:56.459595",
+        "file": "grafana-mcp-query-your-dashboards-and-metrics-directly-from-claude.md"
+    },
+    {
         "title": "When AI Invents Libraries: Detecting Hallucinated Imports",
         "slug": "when-ai-invents-libraries-detecting-hallucinated-imports",
         "author": "CopperSunDev",
@@ -22414,6 +22480,17 @@
         "keywords": "our, shivatechdigital, read, article, website, ppc, strategies, higher",
         "generated": "2026-07-06T15:45:24.412638",
         "file": "ai-ppc-strategies-for-higher-ad-returns.md"
+    },
+    {
+        "title": "Verified LinkedIn Accounts",
+        "slug": "verified-linkedin-accounts",
+        "author": "smmusapva",
+        "source": "devto_webdev",
+        "published": "Fri, 28 Aug 2026 10:47:51 +0000",
+        "description": "Buy LinkedIn Accounts – Aged & Badge Verified We’re available 24/7 to assist you through any channel you prefer: ✅✅✅📩 Email: Smmusapva@gmail.com ✅✅✅💬 Telegra...",
+        "keywords": "professional, can, account, profile, information, linkedin, identity, verification",
+        "generated": "2026-08-28T10:48:56.457387",
+        "file": "verified-linkedin-accounts.md"
     },
     {
         "title": "Show HN: I mapped every US golf course",
@@ -26094,10 +26171,10 @@
         "slug": "building-a-defi-yield-scanner-with-python-and-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Wed, 26 Aug 2026 19:33:59 +0000",
-        "description": "Building a high-frequency DeFi yield scanner requires bridging real-time blockchain data with intelligent analysis. By combining Python’s robust ecosystem fo...",
-        "keywords": "data, price, yield, pool, defi, python, you, can",
-        "generated": "2026-08-26T19:52:15.931911",
+        "published": "Fri, 28 Aug 2026 10:36:38 +0000",
+        "description": "Monitoring decentralized finance (DeFi) yields manually is no longer viable. With thousands of protocols, variable annual percentage yields (APYs), and dynam...",
+        "keywords": "data, risk, pool, protocol, response, defi, scanner, yields",
+        "generated": "2026-08-28T10:48:56.454267",
         "file": "building-a-defi-yield-scanner-with-python-and-ai.md"
     },
     {
@@ -27694,6 +27771,17 @@
         "file": "learning-more-about-claudes-mathematical-capabilities.md"
     },
     {
+        "title": "How AI Engineers Actually Ship Models in 2026 (Without Burning Out)",
+        "slug": "how-ai-engineers-actually-ship-models-in-2026-without-burning-out",
+        "author": "Ignacio Lopez",
+        "source": "devto_webdev",
+        "published": "Fri, 28 Aug 2026 10:45:48 +0000",
+        "description": "The myth of the lone AI engineer training massive models in isolation died in 2024. Today, shipping reliable AI systems means mastering the quiet, repetitive...",
+        "keywords": "model, data, prompt, not, engineers, user, these, without",
+        "generated": "2026-08-28T10:48:56.457939",
+        "file": "how-ai-engineers-actually-ship-models-in-2026-without-burning-out.md"
+    },
+    {
         "title": "My bot kept dying every morning with a mysterious network error. Here’s how Task Scheduler’s 'automatic retry' setting brought i",
         "slug": "my-bot-kept-dying-every-morning-with-a-mysterious-network-error-heres-how-task-schedulers-automatic-retry-setting-brought-i",
         "author": "oji - building AI in public",
@@ -28154,6 +28242,17 @@
         "file": "html-over-websockets-real-time-spas-with-barely-any-javascript.md"
     },
     {
+        "title": "Everest Base Camp Trek Training for Beginners",
+        "slug": "everest-base-camp-trek-training-for-beginners",
+        "author": "Andrew alex",
+        "source": "devto_webdev",
+        "published": "Fri, 28 Aug 2026 10:44:04 +0000",
+        "description": "Everest Base Camp Trek training for beginners should be gradual, safe and sustainable. Prior experience of mountaineering or the highest level of athletic ac...",
+        "keywords": "your, you, walking, training, not, time, can, should",
+        "generated": "2026-08-28T10:48:56.458535",
+        "file": "everest-base-camp-trek-training-for-beginners.md"
+    },
+    {
         "title": "Python Comprehensions: From Confusing to Crystal Clear in 10 Minutes",
         "slug": "python-comprehensions-from-confusing-to-crystal-clear-in-10-minutes",
         "author": "Ameer Abdullah",
@@ -28224,10 +28323,10 @@
         "slug": "revenue-strategies-for-ai-api-services",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 27 Aug 2026 21:43:55 +0000",
-        "description": "Reach out to the following 93 M2M API service providers: Amazon Web Services (AWS) Google Cloud Platform (GCP) Microsoft Azure IBM Bluemix SAP HANA Cloud Pla...",
-        "keywords": "iot, azure, aws, microsoft, cloud, ibm, hub, google",
-        "generated": "2026-08-27T22:04:47.424850",
+        "published": "Fri, 28 Aug 2026 10:41:06 +0000",
+        "description": "Strategy: The Broken Integration Rescue (High-Touch Outbound with Guaranteed ROI) The Core Idea: Stop selling M2M APIs. Start selling Fixing your worst ...",
+        "keywords": "revenue, high, selling, apis, your, data, you, sell",
+        "generated": "2026-08-28T10:48:56.458984",
         "file": "revenue-strategies-for-ai-api-services.md"
     },
     {
@@ -28559,6 +28658,17 @@
         "keywords": "mdl, scripts, typescript, javascript, app, behavior, still, modules",
         "generated": "2026-06-11T20:28:40.310096",
         "file": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup.md"
+    },
+    {
+        "title": "OpenAI ya tiene listo su chip de inferencia. Se llama Jalapeño y ha conseguido algo inesperado: superar a Nvidia",
+        "slug": "openai-ya-tiene-listo-su-chip-de-inferencia-se-llama-jalapeo-y-ha-conseguido-algo-inesperado-superar-a-nvidia",
+        "author": "LaiaDesk",
+        "source": "devto_ai",
+        "published": "Fri, 28 Aug 2026 10:40:03 +0000",
+        "description": "OpenAI ha presentado su primer chip diseñado específicamente para la inferencia de inteligencia artificial, un paso clave en su estrategia para optimizar el ...",
+        "keywords": "para, que, como, los, nvidia, openai, inferencia, sus",
+        "generated": "2026-08-28T10:48:56.459291",
+        "file": "openai-ya-tiene-listo-su-chip-de-inferencia-se-llama-jalapeo-y-ha-conseguido-algo-inesperado-superar-a-nvidia.md"
     },
     {
         "title": "Common Mistakes Install Gypsum Board Ceilings Uae — أخطاء كارثية عند طلب تركيب جبس بورد أسقف في الإمارات العربية المتحدة تجنبها",
@@ -29107,6 +29217,17 @@
         "keywords": "you, your, import, code, package, packagepal, express, what",
         "generated": "2026-06-15T05:01:58.096389",
         "file": "i-built-a-vs-code-extension-that-tells-you-every-nodejs-packages-go-equivalent.md"
+    },
+    {
+        "title": "Sovereign Tech Agency invests €500k in Flatpak",
+        "slug": "sovereign-tech-agency-invests-500k-in-flatpak",
+        "author": "eigenspace",
+        "source": "hackernews",
+        "published": "Fri, 28 Aug 2026 05:42:47 +0000",
+        "description": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/ Comments URL: https://news.ycombinator.com/item?id=49474786 Points: 134 # Comments: 75",
+        "keywords": "flatpak, url, https, comments, sovereign, tech, agency, invests",
+        "generated": "2026-08-28T10:48:56.453891",
+        "file": "sovereign-tech-agency-invests-500k-in-flatpak.md"
     },
     {
         "title": "I Replaced My $200/Month Video SaaS With a One-Time $20 Workflow",
@@ -41257,10 +41378,10 @@
         "slug": "autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026",
         "author": "jashwanth234567",
         "source": "devto_ai",
-        "published": "Wed, 26 Aug 2026 06:46:23 +0000",
+        "published": "Fri, 28 Aug 2026 10:39:12 +0000",
         "description": "Autonomous AI Agents and the Multi-Agent Paradigm in 2026 Subtitle : How agentic workflows, multi-modal reasoning, and autonomous tools are transforming full...",
         "keywords": "autonomous, multi, agent, agents, paradigm, agentic, reasoning, tools",
-        "generated": "2026-08-26T06:57:11.000188",
+        "generated": "2026-08-28T10:48:56.459750",
         "file": "autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026.md"
     },
     {
@@ -46190,6 +46311,17 @@
         "keywords": "youth, originally, published, dbhyeong, github",
         "generated": "2026-07-15T08:23:28.883351",
         "file": "2650-73-youth-search.md"
+    },
+    {
+        "title": "Prompt caching strategies to cut LLM costs by 70%",
+        "slug": "prompt-caching-strategies-to-cut-llm-costs-by-70",
+        "author": "Ayi NEDJIMI",
+        "source": "devto_python",
+        "published": "Fri, 28 Aug 2026 10:08:59 +0000",
+        "description": "If you're running LLM-powered features in production, your token bill is probably higher than it should be. Most teams feed the same system prompt, tool defi...",
+        "keywords": "cache, system, prompt, usage, your, you, content, caching",
+        "generated": "2026-08-28T10:48:56.455188",
+        "file": "prompt-caching-strategies-to-cut-llm-costs-by-70.md"
     },
     {
         "title": "Claude Cowork acts across your files now. Confidence is not correctness.",
@@ -51989,14 +52121,14 @@
         "file": "looking-for-a-vercel-alternative-these-6-platforms-impressed-me-most.md"
     },
     {
-        "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+        "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
         "slug": "gogograndparent-yc-s16-is-hiring-back-end-engineers",
         "author": "davidchl",
         "source": "hackernews",
-        "published": "Tue, 09 Jun 2026 03:34:00 +0000",
-        "description": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=48456015 ...",
+        "published": "Fri, 28 Aug 2026 03:35:15 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=49474060 ...",
         "keywords": "gogograndparent, url, https, ycombinator, com, comments, hiring, back",
-        "generated": "2026-06-09T04:03:32.524031",
+        "generated": "2026-08-28T10:48:56.454013",
         "file": "gogograndparent-yc-s16-is-hiring-back-end-engineers.md"
     },
     {
@@ -54299,6 +54431,17 @@
         "file": "kino-a-high-performance-ractor-web-server-for-ruby-40.md"
     },
     {
+        "title": "Python Regular Expressions: The Definitive Guide",
+        "slug": "python-regular-expressions-the-definitive-guide",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 28 Aug 2026 10:00:50 +0000",
+        "description": "Python Regular Expressions: The Definitive Guide tags: python, regex, tutorial, programming tags: python, regex, tutorial, programming tags: python, regex, t...",
+        "keywords": "regex, pattern, you, python, string, matches, patterns, use",
+        "generated": "2026-08-28T10:48:56.456145",
+        "file": "python-regular-expressions-the-definitive-guide.md"
+    },
+    {
         "title": "Need $1300 in Trading Liquidity Without Selling Your Altcoins",
         "slug": "need-1300-in-trading-liquidity-without-selling-your-altcoins",
         "author": "omnilender",
@@ -55562,6 +55705,17 @@
         "keywords": "magento, google, script, data, your, apps, bulk, enterprise",
         "generated": "2026-06-10T20:38:15.851631",
         "file": "how-to-leverage-magento-2-asynchronous-bulk-apis-in-google-apps-script-zero-timeouts.md"
+    },
+    {
+        "title": "Building Cabree: Architectural Decisions for Sub-Second Taxi Dispatching",
+        "slug": "building-cabree-architectural-decisions-for-sub-second-taxi-dispatching",
+        "author": "Calvinburns",
+        "source": "devto_webdev",
+        "published": "Fri, 28 Aug 2026 10:46:08 +0000",
+        "description": "Building real-time logistics software requires balancing instant job allocation with low operational latency across high-concurrency mobile clients. We built...",
+        "keywords": "real, time, high, state, cabree, sub, job, allocation",
+        "generated": "2026-08-28T10:48:56.457673",
+        "file": "building-cabree-architectural-decisions-for-sub-second-taxi-dispatching.md"
     },
     {
         "title": "I Built a Free Browser-Based Photobooth with React and OpenCV",
@@ -64284,6 +64438,17 @@
         "file": "facebook-multi-account-browser-are-browser-profiles-enough.md"
     },
     {
+        "title": "From Prompt to Playable: Where AI Actually Helps Game Developers",
+        "slug": "from-prompt-to-playable-where-ai-actually-helps-game-developers",
+        "author": "Krishna Soni",
+        "source": "devto_ai",
+        "published": "Fri, 28 Aug 2026 10:37:30 +0000",
+        "description": "Photo by Branden Skeli on Unsplash AI game development is often sold as a magic trick: type one sentence, receive a finished game. The more useful version is...",
+        "keywords": "game, can, idea, test, while, first, playable, developers",
+        "generated": "2026-08-28T10:48:56.460191",
+        "file": "from-prompt-to-playable-where-ai-actually-helps-game-developers.md"
+    },
+    {
         "title": "How AI Tools Can Enhance Developer Trust in Code Security",
         "slug": "how-ai-tools-can-enhance-developer-trust-in-code-security",
         "author": "Themez World",
@@ -65811,6 +65976,17 @@
         "keywords": "agents, systems, agentic, enterprise, organizations, pattern, intellibooks, patterns",
         "generated": "2026-06-18T15:38:46.162250",
         "file": "intellibooks-guide-to-the-top-6-agentic-ai-patterns-transforming-enterprise-ai.md"
+    },
+    {
+        "title": "Climate change is strengthening El Niño, coral records suggest",
+        "slug": "climate-change-is-strengthening-el-nio-coral-records-suggest",
+        "author": "shymaple",
+        "source": "hackernews",
+        "published": "Fri, 28 Aug 2026 07:19:16 +0000",
+        "description": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest Comments URL: https://news.ycombinator.c...",
+        "keywords": "climate, change, strengthening, coral, records, suggest, article, url",
+        "generated": "2026-08-28T10:48:56.453634",
+        "file": "climate-change-is-strengthening-el-nio-coral-records-suggest.md"
     },
     {
         "title": "I Measured What My Curated MCP Tool Output Is Actually Saving",
