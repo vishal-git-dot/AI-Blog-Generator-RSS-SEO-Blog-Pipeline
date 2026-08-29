@@ -3652,6 +3652,17 @@
         "file": "boost-coding-productivity-with-ai-generated-code.md"
     },
     {
+        "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+        "slug": "dhs-is-using-obscure-law-to-snoop-on-journalists-non-profits-unions",
+        "author": "firefax",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 18:44:37 +0000",
+        "description": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com...",
+        "keywords": "dhs, journalists, url, https, com, news, comments, using",
+        "generated": "2026-08-29T20:45:19.185790",
+        "file": "dhs-is-using-obscure-law-to-snoop-on-journalists-non-profits-unions.md"
+    },
+    {
         "title": "Good stuff",
         "slug": "good-stuff",
         "author": "Timi",
@@ -8248,6 +8259,17 @@
         "file": "adding-a-new-llm-provider-to-prism-php-how-i-shipped-zai-support.md"
     },
     {
+        "title": "I built browser-to-browser remote file access with WebRTC – no app required",
+        "slug": "i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required",
+        "author": "Yousiff Taqi",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 20:36:36 +0000",
+        "description": "I’ve been building a browser-first project called RelicBeam, and one feature I wanted was simple in theory: Open a folder on one device and temporarily brows...",
+        "keywords": "remote, files, device, file, relicbeam, host, browser, one",
+        "generated": "2026-08-29T20:45:19.188038",
+        "file": "i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required.md"
+    },
+    {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
         "slug": "def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight",
         "author": "dangle1",
@@ -10613,6 +10635,17 @@
         "file": "mouse-polling-rate-test-check-mouse-hz-and-fix-low-readings.md"
     },
     {
+        "title": "Seven of Nine Scroll-Spy Implementations Pass the Only Test Anyone Writes, and Six of Those Seven Are Wrong",
+        "slug": "seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-are-wrong",
+        "author": "Devanshu Biswas",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 20:21:30 +0000",
+        "description": "A scroll-spy lights the table-of-contents entry for the heading you are reading. One integer to settle. The property everyone tests is: exactly one entry is ...",
+        "keywords": "entry, reading, line, scroll, test, lit, never, every",
+        "generated": "2026-08-29T20:45:19.188484",
+        "file": "seven-of-nine-scroll-spy-implementations-pass-the-only-test-anyone-writes-and-six-of-those-seven-are-wrong.md"
+    },
+    {
         "title": "Cómo una pyme de Madrid redujo sus horas administrativas un 40% con Python",
         "slug": "cmo-una-pyme-de-madrid-redujo-sus-horas-administrativas-un-40-con-python",
         "author": "David García",
@@ -12329,6 +12362,17 @@
         "file": "model-context-protocol-vs-traditional-api-integration-which-approach-wins.md"
     },
     {
+        "title": "Amazon Axes Mechanical Turk After Training AI Generation",
+        "slug": "amazon-axes-mechanical-turk-after-training-ai-generation",
+        "author": "XOOMAR",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 20:41:29 +0000",
+        "description": "After 21 years of being the invisible engine for countless AI experiments and academic studies, Amazon is pulling the plug on the original digital piecework ...",
+        "keywords": "its, platform, mturk, amazon, will, human, data, but",
+        "generated": "2026-08-29T20:45:19.188979",
+        "file": "amazon-axes-mechanical-turk-after-training-ai-generation.md"
+    },
+    {
         "title": "Celld: Self-hosted, distributed Durable Objects",
         "slug": "celld-self-hosted-distributed-durable-objects",
         "author": "godisdad",
@@ -12443,10 +12487,10 @@
         "slug": "crypto-funding-rate-arbitrage-with-ai-signals",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 28 Aug 2026 22:00:40 +0000",
-        "description": "Perpetual futures markets offer a unique alpha generation opportunity through funding rate arbitrage, a strategy that exploits the periodic payments exchange...",
-        "keywords": "funding, rate, self, signal, arbitrage, strategy, you, market",
-        "generated": "2026-08-28T22:02:34.847205",
+        "published": "Sat, 29 Aug 2026 20:32:20 +0000",
+        "description": "Crypto funding rate arbitrage is a market-neutral strategy that capitalizes on the discrepancy between the spot price of an asset and its perpetual futures c...",
+        "keywords": "funding, can, rate, market, spot, signal, your, ticker",
+        "generated": "2026-08-29T20:45:19.189820",
         "file": "crypto-funding-rate-arbitrage-with-ai-signals.md"
     },
     {
@@ -13605,6 +13649,17 @@
         "file": "i-scanned-the-15-biggest-news-sites-for-trackers-11-got-an-f.md"
     },
     {
+        "title": "# I Shipped a Working Win-Check... That Could Be Wrong 9 Times Out of 10",
+        "slug": "i-shipped-a-working-win-check-that-could-be-wrong-9-times-out-of-10",
+        "author": "BlackJosh007",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 20:40:51 +0000",
+        "description": "While building Tenzies (my React capstone from freeCodeCamp), I hit a problem that looked simple on the surface: check if the player won. The rule is easy to...",
+        "keywords": "die, diceno, all, value, every, loop, count, check",
+        "generated": "2026-08-29T20:45:19.187326",
+        "file": "i-shipped-a-working-win-check-that-could-be-wrong-9-times-out-of-10.md"
+    },
+    {
         "title": "Your Pipeline Is 25.9h Behind: Catching Inflation Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-259h-behind-catching-inflation-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -13858,6 +13913,17 @@
         "file": "building-environmental-science-tools-with-llms-a-tutorial.md"
     },
     {
+        "title": "The Honest Gradient Through a Binary Bottleneck Is Not Small. It Is Exactly Zero on 42 of 42 Coordinates.",
+        "slug": "the-honest-gradient-through-a-binary-bottleneck-is-not-small-it-is-exactly-zero-on-42-of-42-coordinates",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 20:24:15 +0000",
+        "description": "The bottleneck is six binary units, h = sign(pre) . The task is built so that a discrete bottleneck is exactly the right model: the true conditional depends ...",
+        "keywords": "not, pre, gradient, exactly, through, bottleneck, zero, exact",
+        "generated": "2026-08-29T20:45:19.186516",
+        "file": "the-honest-gradient-through-a-binary-bottleneck-is-not-small-it-is-exactly-zero-on-42-of-42-coordinates.md"
+    },
+    {
         "title": "DocumentDB – a MongoDB compatible open-source database",
         "slug": "documentdb-a-mongodb-compatible-open-source-database",
         "author": "amai",
@@ -13955,6 +14021,17 @@
         "keywords": "web, optimization, performance, deep, tech, column, advanced, architecture",
         "generated": "2026-07-31T03:29:44.280126",
         "file": "deep-tech-column-13-advanced-web-architecture-ai-agent-optimization.md"
+    },
+    {
+        "title": "Four of Six Self-Checks Cannot Fail, and the Two That Can Go Red on the Better Configurations",
+        "slug": "four-of-six-self-checks-cannot-fail-and-the-two-that-can-go-red-on-the-better-configurations",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 20:24:57 +0000",
+        "description": "Agent Lab Vol 3 #04 is an ambient dashboard: one quiet screen with the handful of things that matter today, read on your own machine with no key and no netwo...",
+        "keywords": "ranker, four, six, checks, one, not, fail, two",
+        "generated": "2026-08-29T20:45:19.186272",
+        "file": "four-of-six-self-checks-cannot-fail-and-the-two-that-can-go-red-on-the-better-configurations.md"
     },
     {
         "title": "I don't recommend Tailwind CSS",
@@ -14186,6 +14263,17 @@
         "keywords": "you, tool, your, export, tools, before, keep, how",
         "generated": "2026-08-11T19:08:47.093631",
         "file": "when-an-ai-tool-shuts-down-how-to-avoid-lock-in-and-keep-your-data.md"
+    },
+    {
+        "title": "**El futuro de los agentes IA: cómo la inteligencia artificial está redefiniendo la automatización empresarial**",
+        "slug": "el-futuro-de-los-agentes-ia-cmo-la-inteligencia-artificial-est-redefiniendo-la-automatizacin-empresarial",
+        "author": "Joaquin Delgado Hernaez",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 20:35:57 +0000",
+        "description": "El futuro de los agentes IA: cómo la inteligencia artificial está redefiniendo la automatación empresarial En los últimos años, los agentes de inteligencia a...",
+        "keywords": "los, agentes, que, con, inteligencia, datos, artificial, empresarial",
+        "generated": "2026-08-29T20:45:19.189584",
+        "file": "el-futuro-de-los-agentes-ia-cmo-la-inteligencia-artificial-est-redefiniendo-la-automatizacin-empresarial.md"
     },
     {
         "title": "My Journey as a Full-Stack Developer",
@@ -14659,6 +14747,17 @@
         "keywords": "one, not, change, configuration, run, team, can, stack",
         "generated": "2026-08-23T06:49:22.755109",
         "file": "your-ai-coding-stack-needs-change-control-not-more-tuning.md"
+    },
+    {
+        "title": "Domain-Driven Agents",
+        "slug": "domain-driven-agents",
+        "author": "AlarQ",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 19:28:28 +0000",
+        "description": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 4 # Comments: 0",
+        "keywords": "domain, driven, agents, url, https, comments, article, coldtake",
+        "generated": "2026-08-29T20:45:19.185391",
+        "file": "domain-driven-agents.md"
     },
     {
         "title": "LLMs in Environmental Science: Applications and Opportunities",
@@ -20194,6 +20293,17 @@
         "file": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training.md"
     },
     {
+        "title": "The elementary school pickup incident and the road ahead",
+        "slug": "the-elementary-school-pickup-incident-and-the-road-ahead",
+        "author": "mkeeter",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 19:25:01 +0000",
+        "description": "Article URL: https://shitposting.ai/pickup-incident/ Comments URL: https://news.ycombinator.com/item?id=49492554 Points: 9 # Comments: 3",
+        "keywords": "pickup, incident, url, https, comments, elementary, school, road",
+        "generated": "2026-08-29T20:45:19.185517",
+        "file": "the-elementary-school-pickup-incident-and-the-road-ahead.md"
+    },
+    {
         "title": "Netra-security",
         "slug": "netra-security",
         "author": "BALLA NAGA V VENKATA SATYA NARASIMHAMURTHY",
@@ -21580,6 +21690,17 @@
         "file": "i-built-a-python-compiler-that-runs-in-browser-using-webassembly.md"
     },
     {
+        "title": "Warp builds self-improving agents on Claude",
+        "slug": "warp-builds-self-improving-agents-on-claude",
+        "author": "shenli3514",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 19:09:33 +0000",
+        "description": "Article URL: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude Comments URL: https://news.ycombinator.com/item?id=49492432 Points: 39 #...",
+        "keywords": "claude, warp, builds, self, improving, agents, url, https",
+        "generated": "2026-08-29T20:45:19.185665",
+        "file": "warp-builds-self-improving-agents-on-claude.md"
+    },
+    {
         "title": "What's New in Flutter 3.47",
         "slug": "whats-new-in-flutter-347",
         "author": "gumby271",
@@ -21633,6 +21754,17 @@
         "keywords": "certifications, education, learning, continuing, professionals, professional, can, certification",
         "generated": "2026-08-19T06:52:53.082035",
         "file": "what-ai-certifications-can-be-renewed-through-continuing-education-credits.md"
+    },
+    {
+        "title": "How I test my React app on real devices without deploying it",
+        "slug": "how-i-test-my-react-app-on-real-devices-without-deploying-it",
+        "author": "Leo Brown",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 20:37:23 +0000",
+        "description": "How I test my React app on real devices without deploying it I recently needed to test a React app outside my own computer. Opening another browser tab wasn'...",
+        "keywords": "react, portpreview, app, local, url, test, tunnel, development",
+        "generated": "2026-08-29T20:45:19.187720",
+        "file": "how-i-test-my-react-app-on-real-devices-without-deploying-it.md"
     },
     {
         "title": "AI in mathematics is forcing big questions",
@@ -35117,6 +35249,17 @@
         "file": "building-a-real-time-news-aggregator-and-trend-tracker-with-python-and-joffstrends-search-api.md"
     },
     {
+        "title": "Not Fleeing the Terminal",
+        "slug": "not-fleeing-the-terminal",
+        "author": "Eric Marchand",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 20:31:24 +0000",
+        "description": "There's a YouTube video making the case that it's time to leave the terminal behind. I'm not here to argue with it — I'm doing the opposite. The more AI I us...",
+        "keywords": "terminal, agent, one, which, more, agents, code, what",
+        "generated": "2026-08-29T20:45:19.190262",
+        "file": "not-fleeing-the-terminal.md"
+    },
+    {
         "title": "citesure 0.7.31: 100 domain packs and claims offline 615/615",
         "slug": "citesure-0731-100-domain-packs-and-claims-offline-615615",
         "author": "SybilGambleyyu",
@@ -47930,6 +48073,17 @@
         "file": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators.md"
     },
     {
+        "title": "Tried `THU-MAIC/OpenMAIC` Today: A One-Click Multi-Agent Classroom",
+        "slug": "tried-thu-maicopenmaic-today-a-one-click-multi-agent-classroom",
+        "author": "linweidao",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 20:28:20 +0000",
+        "description": "Tried THU-MAIC/OpenMAIC Today: A One-Click Multi-Agent Classroom THU-MAIC/OpenMAIC is an interesting GitHub project for anyone experimenting with AI-native e...",
+        "keywords": "openmaic, agent, can, classroom, one, multi, thu, maic",
+        "generated": "2026-08-29T20:45:19.188267",
+        "file": "tried-thu-maicopenmaic-today-a-one-click-multi-agent-classroom.md"
+    },
+    {
         "title": "The Power of Transfer Learning in LLM Models",
         "slug": "the-power-of-transfer-learning-in-llm-models",
         "author": "shashank ms",
@@ -56037,6 +56191,17 @@
         "file": "more-than-10-firms-pay-up-to-100k-a-month-for-access-to-truth-social-posts.md"
     },
     {
+        "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+        "slug": "tencent-releases-and-open-sources-tencent-hy4-preview",
+        "author": "shenli3514",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 19:33:23 +0000",
+        "description": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Point...",
+        "keywords": "tencent, releases, open, sources, preview, url, https, com",
+        "generated": "2026-08-29T20:45:19.185241",
+        "file": "tencent-releases-and-open-sources-tencent-hy4-preview.md"
+    },
+    {
         "title": "The 12 Most Common Causes of Website Downtime (and How to Detect Each One)",
         "slug": "the-12-most-common-causes-of-website-downtime-and-how-to-detect-each-one",
         "author": "Vigilmon",
@@ -58738,6 +58903,17 @@
         "keywords": "openai, restores, hour, codex, work, limits, chatgpt, plus",
         "generated": "2026-08-25T12:56:12.654879",
         "file": "openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users.md"
+    },
+    {
+        "title": "Two Groups With Identical ROC Curves, Identical TPR and FPR to the Last Bit, and a 13-Point Selection Gap",
+        "slug": "two-groups-with-identical-roc-curves-identical-tpr-and-fpr-to-the-last-bit-and-a-13-point-selection-gap",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 20:23:34 +0000",
+        "description": "Measure a model on one dataset and you ask about accuracy. Measure it separately on two groups and a different question appears: which of the equalities you ...",
+        "keywords": "gap, two, groups, not, score, cut, identical, selection",
+        "generated": "2026-08-29T20:45:19.186769",
+        "file": "two-groups-with-identical-roc-curves-identical-tpr-and-fpr-to-the-last-bit-and-a-13-point-selection-gap.md"
     },
     {
         "title": "Rich Sutton on AI creativity and discovery",
@@ -63745,6 +63921,17 @@
         "file": "designing-an-ai-ugc-ad-workflow-five-interface-contracts-to-make-explicit.md"
     },
     {
+        "title": "Our agent chose its own workload, and its success rate stopped meaning anything",
+        "slug": "our-agent-chose-its-own-workload-and-its-success-rate-stopped-meaning-anything",
+        "author": "Unmanned Ops",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 20:41:02 +0000",
+        "description": "For a long stretch our unattended slot reported a 96% success rate. Every run closed clean. The dashboard was green in a way that felt earned. Then a task th...",
+        "keywords": "agent, its, item, success, every, run, had, what",
+        "generated": "2026-08-29T20:45:19.189315",
+        "file": "our-agent-chose-its-own-workload-and-its-success-rate-stopped-meaning-anything.md"
+    },
+    {
         "title": "Megawatts by Microwave",
         "slug": "megawatts-by-microwave",
         "author": "eternauta3k",
@@ -65472,6 +65659,17 @@
         "file": "temporal-edges-in-knowledge-graphs-why-static-edges-break-graph-rag.md"
     },
     {
+        "title": "71.53% of Prompt Cut Positions Are Not a Token Boundary of the Text That Follows",
+        "slug": "7153-of-prompt-cut-positions-are-not-a-token-boundary-of-the-text-that-follows",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 20:22:11 +0000",
+        "description": "Day 73 was about where the reply gets cut. This is about where the prompt does. The last thing you type is not the last thing the model reads. Your string is...",
+        "keywords": "you, token, prompt, cut, not, positions, boundary, healing",
+        "generated": "2026-08-29T20:45:19.187033",
+        "file": "7153-of-prompt-cut-positions-are-not-a-token-boundary-of-the-text-that-follows.md"
+    },
+    {
         "title": "Vector Databases, Deep Indexing & Token Economics: The Complete Story (phase 3)",
         "slug": "vector-databases-deep-indexing-token-economics-the-complete-story-phase-3",
         "author": "surajrkhonde",
@@ -66812,6 +67010,17 @@
         "keywords": "memory, context, part, engineering, enterprise, layer, prepstack, not",
         "generated": "2026-06-20T19:45:32.621444",
         "file": "context-engineering-for-enterprise-ai-part-2-the-memory-layer-that-makes-agents-useful.md"
+    },
+    {
+        "title": "Log Coverage Is 1.0000 at Every Schema Width, Including the Width Where the Record Is Empty",
+        "slug": "log-coverage-is-10000-at-every-schema-width-including-the-width-where-the-record-is-empty",
+        "author": "Devanshu Biswas",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 20:26:19 +0000",
+        "description": "Arc Ops Level 6 is audit trails: reconstruct why it did that from the logs alone. 24 runs, 156 steps, a 15-field schema swept at every width. Level page: htt...",
+        "keywords": "width, fields, steps, log, every, exactly, review, schema",
+        "generated": "2026-08-29T20:45:19.186041",
+        "file": "log-coverage-is-10000-at-every-schema-width-including-the-width-where-the-record-is-empty.md"
     },
     {
         "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
