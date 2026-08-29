@@ -1320,6 +1320,17 @@
         "file": "scraping-ethically-a-practical-guide-to-respectful-web-crawling.md"
     },
     {
+        "title": "Build an AI shopping agent that actually buys things with LangGraph and BuyWhere MCP",
+        "slug": "build-an-ai-shopping-agent-that-actually-buys-things-with-langgraph-and-buywhere-mcp",
+        "author": "BuyWhere",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 16:09:34 +0000",
+        "description": "Most shopping agents stop at here are some options. The useful ones go further: they pick one, confirm with you, and hand you a checkout link. This post bu...",
+        "keywords": "state, get, return, query, buywhere, products, agent, confirm",
+        "generated": "2026-08-29T16:32:00.477466",
+        "file": "build-an-ai-shopping-agent-that-actually-buys-things-with-langgraph-and-buywhere-mcp.md"
+    },
+    {
         "title": "Free WAF Performance Test: Does It Actually Slow Down Your Site?",
         "slug": "free-waf-performance-test-does-it-actually-slow-down-your-site",
         "author": "Lia",
@@ -4939,6 +4950,17 @@
         "file": "aipowered-automation-for-solo-drone-pilots-linking-flight-apps-ai-tools-and-your-document-hub.md"
     },
     {
+        "title": "Build a Custom Prometheus Exporter with Python",
+        "slug": "build-a-custom-prometheus-exporter-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 16:01:45 +0000",
+        "description": "Build a Custom Prometheus Exporter with Python tags: python, monitoring, devops, tutorial tags: python, monitoring, devops, tutorial tags: python, architectu...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-29T16:32:00.479800",
+        "file": "build-a-custom-prometheus-exporter-with-python.md"
+    },
+    {
         "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
         "slug": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access",
         "author": "macklinkachorn",
@@ -6774,6 +6796,17 @@
         "keywords": "window, app, rain, your, brightness, right, weather, says",
         "generated": "2026-06-18T04:40:19.046282",
         "file": "your-weather-app-is-lying-to-you-and-your-window-knows-it.md"
+    },
+    {
+        "title": "Parsing the Infamous Japanese Postal CSV",
+        "slug": "parsing-the-infamous-japanese-postal-csv",
+        "author": "birdculture",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 15:42:43 +0000",
+        "description": "Article URL: https://www.dampfkraft.com/posuto.html Comments URL: https://news.ycombinator.com/item?id=49490826 Points: 11 # Comments: 0",
+        "keywords": "url, https, com, comments, parsing, infamous, japanese, postal",
+        "generated": "2026-08-29T16:32:00.476323",
+        "file": "parsing-the-infamous-japanese-postal-csv.md"
     },
     {
         "title": "I'm building a parallel internet, and it's called The Thinnernet",
@@ -14529,6 +14562,17 @@
         "file": "ai-ml-with-data-science-course-in-hyderabad-python-machine-learning-deep-learning-nlp-training-quality-thought.md"
     },
     {
+        "title": "The Codebase Was 40,000 Lines and the Engagement Was Three Days Long",
+        "slug": "the-codebase-was-40000-lines-and-the-engagement-was-three-days-long",
+        "author": "Rocky",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 16:27:49 +0000",
+        "description": "A source-available pentest starts with the client handing over a repo, not a URL. This one was a mid-size monorepo, north of 40,000 lines across a dozen serv...",
+        "keywords": "you, reading, instead, where, three, days, repo, not",
+        "generated": "2026-08-29T16:32:00.482551",
+        "file": "the-codebase-was-40000-lines-and-the-engagement-was-three-days-long.md"
+    },
+    {
         "title": "Let the Loop Iterate: Restarting Only Pays If You Know What to Throw Away",
         "slug": "let-the-loop-iterate-restarting-only-pays-if-you-know-what-to-throw-away",
         "author": "JaviMaligno",
@@ -18797,6 +18841,17 @@
         "file": "the-manual-traces-lookup-does-not-scale-and-the-maths-is-simple.md"
     },
     {
+        "title": "How Technology Is Reshaping Premium Travel: Dr. Mickael Mosse at the Emirates Skywards Workshop",
+        "slug": "how-technology-is-reshaping-premium-travel-dr-mickael-mosse-at-the-emirates-skywards-workshop",
+        "author": "My Neo Group",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 16:18:46 +0000",
+        "description": "The travel industry is increasingly becoming a technology industry. From AI-powered personalisation and digital loyalty programmes to fintech integrations an...",
+        "keywords": "travel, technology, https, digital, loyalty, neo, emirates, skywards",
+        "generated": "2026-08-29T16:32:00.480900",
+        "file": "how-technology-is-reshaping-premium-travel-dr-mickael-mosse-at-the-emirates-skywards-workshop.md"
+    },
+    {
         "title": "Your AGENTS.md is lying to your agent. So was my linter.",
         "slug": "your-agentsmd-is-lying-to-your-agent-so-was-my-linter",
         "author": "hyuga",
@@ -19026,6 +19081,17 @@
         "keywords": "shit, moment, your, you, moments, what, these, not",
         "generated": "2026-06-06T08:41:07.453954",
         "file": "genai-oh-shit-moments-real-turning-points-that-changed-everything.md"
+    },
+    {
+        "title": "I Asked for a Portfolio but Got a Filing Cabinet",
+        "slug": "i-asked-for-a-portfolio-but-got-a-filing-cabinet",
+        "author": "Ashley Childress",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 16:28:50 +0000",
+        "description": "🦄 I really am trying to get back to writing more and decided to write up a quick, fun post about my arguments with all of my AI friends. It took me nearly a ...",
+        "keywords": "one, not, what, all, site, terrible, thing, every",
+        "generated": "2026-08-29T16:32:00.480193",
+        "file": "i-asked-for-a-portfolio-but-got-a-filing-cabinet.md"
     },
     {
         "title": "Geely's Strategic Factory Capa…",
@@ -25962,10 +26028,10 @@
         "slug": "build-a-canary-deployment-system-with-python",
         "author": "qing",
         "source": "devto_python",
-        "published": "Thu, 20 Aug 2026 18:00:51 +0000",
+        "published": "Sat, 29 Aug 2026 16:03:31 +0000",
         "description": "Build a Canary Deployment System with Python tags: python, devops, deployment, tutorial tags: python, devops, deployment, tutorial tags: python, devops, depl...",
         "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
-        "generated": "2026-08-20T18:47:36.111958",
+        "generated": "2026-08-29T16:32:00.478116",
         "file": "build-a-canary-deployment-system-with-python.md"
     },
     {
@@ -30330,6 +30396,17 @@
         "file": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md"
     },
     {
+        "title": "Can I limit open PRs for contributors without write access?",
+        "slug": "can-i-limit-open-prs-for-contributors-without-write-access",
+        "author": "Dev Connect",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 16:15:44 +0000",
+        "description": "Short answer: Yes. GitHub now lets repository owners cap concurrent open pull requests from users without write access, and you can add trusted contributors ...",
+        "keywords": "pull, github, open, requests, cap, can, you, access",
+        "generated": "2026-08-29T16:32:00.481451",
+        "file": "can-i-limit-open-prs-for-contributors-without-write-access.md"
+    },
+    {
         "title": "Day 49 of Learning MERN stack",
         "slug": "day-49-of-learning-mern-stack",
         "author": "Ali Hamza",
@@ -30658,6 +30735,17 @@
         "keywords": "oxlo, you, text, section, step, citations, openai, content",
         "generated": "2026-06-28T19:38:17.339630",
         "file": "building-academic-writing-tools-with-llms-a-step-by-step-guide.md"
+    },
+    {
+        "title": "I A/B tested my own system prompt: 24 generations, one clear win, one rule that did nothing | Flash Onyx 2.2",
+        "slug": "i-ab-tested-my-own-system-prompt-24-generations-one-clear-win-one-rule-that-did-nothing-flash-onyx-22",
+        "author": "Nathan C.",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 16:20:00 +0000",
+        "description": "Flash Onyx is the model line behind FLASH , the local-first agent shell I work on. It is gemma4 plus a system prompt that turns it into an engineering agent....",
+        "keywords": "one, not, file, what, you, prompt, first, model",
+        "generated": "2026-08-29T16:32:00.483817",
+        "file": "i-ab-tested-my-own-system-prompt-24-generations-one-clear-win-one-rule-that-did-nothing-flash-onyx-22.md"
     },
     {
         "title": "Better and Cheaper Than IPTV",
@@ -33463,6 +33551,17 @@
         "file": "a-simple-recon-led-me-to-a-big-rabbit-hole-from-google-dorks-to-find-same-company-assets-web-endpoints-to-nuclei-templates-to-separate-python-code-day-3-in-the-rabbit-hole.md"
     },
     {
+        "title": "GitHub license compliance before merging dependency changes",
+        "slug": "github-license-compliance-before-merging-dependency-changes",
+        "author": "Dev Connect",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 16:15:43 +0000",
+        "description": "Short answer: Yes, if your repository uses GitHub’s active license compliance ruleset, dependency changes must pass it before merge. If the ruleset is only i...",
+        "keywords": "dependency, github, license, review, not, can, compliance, merge",
+        "generated": "2026-08-29T16:32:00.482097",
+        "file": "github-license-compliance-before-merging-dependency-changes.md"
+    },
+    {
         "title": "Why Agencies Should Add AI Visibility to Their Services",
         "slug": "why-agencies-should-add-ai-visibility-to-their-services",
         "author": "Yatin Malik",
@@ -33692,6 +33791,17 @@
         "keywords": "buywhere, langchain, your, agent, merchant, products, product, live",
         "generated": "2026-07-16T08:22:50.505391",
         "file": "build-a-langchain-agent-that-searches-11m-products-in-real-time.md"
+    },
+    {
+        "title": "Iceland votes on whether to restart talks on joining EU",
+        "slug": "iceland-votes-on-whether-to-restart-talks-on-joining-eu",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 11:39:38 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo Comments URL: https://news.ycombinator.com/item?id=49489057 Points: 264 # Comments: 317",
+        "keywords": "url, https, com, news, comments, iceland, votes, whether",
+        "generated": "2026-08-29T16:32:00.476891",
+        "file": "iceland-votes-on-whether-to-restart-talks-on-joining-eu.md"
     },
     {
         "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
@@ -38360,6 +38470,17 @@
         "file": "anyone-with-your-tunnel-url-can-hit-your-dev-machine-the-attack-surface-nobody-mentions.md"
     },
     {
+        "title": "Python inspect Module: Runtime Introspection Guide",
+        "slug": "python-inspect-module-runtime-introspection-guide",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 16:01:52 +0000",
+        "description": "Python inspect Module: Runtime Introspection Guide tags: python, programming, tutorial, advanced tags: python, programming, tutorial, advanced tags: python, ...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-29T16:32:00.479160",
+        "file": "python-inspect-module-runtime-introspection-guide.md"
+    },
+    {
         "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
         "slug": "the-vietnam-binh-chau-chau-tan-late-tang-wreck",
         "author": "teleforce",
@@ -39766,6 +39887,17 @@
         "keywords": "memory, model, you, our, because, retrieval, tenant, locomo",
         "generated": "2026-08-12T02:22:46.158513",
         "file": "we-hit-9995-on-the-locomo-memory-benchmark-heres-the-catch-and-why-it-still-matters.md"
+    },
+    {
+        "title": "Debian votes to allow responsible use of generative AI",
+        "slug": "debian-votes-to-allow-responsible-use-of-generative-ai",
+        "author": "pluc",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 14:02:10 +0000",
+        "description": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 251 # Comments: 195",
+        "keywords": "url, https, comments, debian, votes, allow, responsible, use",
+        "generated": "2026-08-29T16:32:00.476771",
+        "file": "debian-votes-to-allow-responsible-use-of-generative-ai.md"
     },
     {
         "title": "Why Time Synchronization Matters in Fire Pump Monitoring Systems",
@@ -44102,6 +44234,17 @@
         "file": "new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf.md"
     },
     {
+        "title": "I built an AI tool to stop unpaid freelance work & scope creep",
+        "slug": "i-built-an-ai-tool-to-stop-unpaid-freelance-work-scope-creep",
+        "author": "Dhanmanti Ahirwar",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 16:28:23 +0000",
+        "description": "Hey everyone! 👋 As freelancers and agency developers, we've all faced client scope creep — those can you just quickly add this one small feature? request...",
+        "keywords": "scope, creep, built, tool, unpaid, work, client, you",
+        "generated": "2026-08-29T16:32:00.482286",
+        "file": "i-built-an-ai-tool-to-stop-unpaid-freelance-work-scope-creep.md"
+    },
+    {
         "title": "Benchmarking API Rate Limiters at 35k+ RPS: Nginx vs. Python vs. Rust",
         "slug": "benchmarking-api-rate-limiters-at-35k-rps-nginx-vs-python-vs-rust",
         "author": "__mr__",
@@ -45510,6 +45653,17 @@
         "file": "i-built-an-ai-agent-security-scanner-semgrep-and-codeql-detect-0-percent-of-these-attacks.md"
     },
     {
+        "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+        "slug": "indirect-calling-of-nested-functions-on-gcc-without-executable-stack",
+        "author": "uecker",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 14:20:33 +0000",
+        "description": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 26 # Comments: 7",
+        "keywords": "url, https, comments, indirect, calling, nested, functions, gcc",
+        "generated": "2026-08-29T16:32:00.476648",
+        "file": "indirect-calling-of-nested-functions-on-gcc-without-executable-stack.md"
+    },
+    {
         "title": "Making a screenshot PDF searchable — no OCR, because we rendered the page",
         "slug": "making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page",
         "author": "PetrDev",
@@ -46586,6 +46740,17 @@
         "keywords": "your, routing, ethereum, network, gas, destination, wallet, transaction",
         "generated": "2026-07-31T19:42:01.100592",
         "file": "39-platforms-to-bridge-ethereum-using-verified-connections.md"
+    },
+    {
+        "title": "5 Claude Code Skills That Saved Me 10 Hours a Week (With Real Code & Architecture)",
+        "slug": "5-claude-code-skills-that-saved-me-10-hours-a-week-with-real-code-architecture",
+        "author": "Yevhen Shaforostov",
+        "source": "devto_webdev",
+        "published": "Sat, 29 Aug 2026 16:19:43 +0000",
+        "description": "When building software with Claude Code and autonomous agent harnesses, relying solely on generic conversational prompts quickly creates bottlenecks. As code...",
+        "keywords": "code, skill, skills, agent, claude, strict, production, workflow",
+        "generated": "2026-08-29T16:32:00.480609",
+        "file": "5-claude-code-skills-that-saved-me-10-hours-a-week-with-real-code-architecture.md"
     },
     {
         "title": "Gamma สร้างสไลด์ด้วย AI ใน 8 วินาที ได้ยังไง",
@@ -50106,6 +50271,17 @@
         "keywords": "dram, can, memory, read, disturbances, data, these, systems",
         "generated": "2026-08-03T03:30:39.804850",
         "file": "demystifying-dram-read-disturbance-understanding.md"
+    },
+    {
+        "title": "AI-Powered Trading Strategies for Crypto Markets",
+        "slug": "ai-powered-trading-strategies-for-crypto-markets",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 16:24:35 +0000",
+        "description": "In the high-volatility landscape of cryptocurrency markets, traditional technical analysis often falls short of capturing complex, non-linear patterns. AI-po...",
+        "keywords": "model, lstm, price, data, trading, models, crypto, markets",
+        "generated": "2026-08-29T16:32:00.483148",
+        "file": "ai-powered-trading-strategies-for-crypto-markets.md"
     },
     {
         "title": "The World Clock Time-Zone Landscape: what 162 places reveal about time zones",
@@ -56750,6 +56926,17 @@
         "file": "understanding-digital-ownership.md"
     },
     {
+        "title": "Quantitative Finance Tools: Essential Trading Stack",
+        "slug": "quantitative-finance-tools-essential-trading-stack",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sat, 29 Aug 2026 16:24:45 +0000",
+        "description": "Institutional trading once required proprietary data systems, specialized research teams, and expensive execution infrastructure. Today, quantitative finance...",
+        "keywords": "trading, data, quantitative, research, execution, open, risk, finance",
+        "generated": "2026-08-29T16:32:00.482929",
+        "file": "quantitative-finance-tools-essential-trading-stack.md"
+    },
+    {
         "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
         "slug": "amd-ryzen-ai-halo-4k-ai-dev-kit",
         "author": "LabsLucas",
@@ -58101,6 +58288,17 @@
         "keywords": "deepsec, url, https, com, comments, article, github, vercel",
         "generated": "2026-07-19T08:26:32.154453",
         "file": "deepsec.md"
+    },
+    {
+        "title": "Environment Variables the Safe Way",
+        "slug": "environment-variables-the-safe-way",
+        "author": "Binary Journal",
+        "source": "devto_python",
+        "published": "Sat, 29 Aug 2026 16:01:59 +0000",
+        "description": "Why Environment Variables Matter Every app needs configuration: database URLs, API keys, feature flags. Hardcoding them is a recipe for disaster. Environment...",
+        "keywords": "env, you, your, secrets, use, secret, process, variables",
+        "generated": "2026-08-29T16:32:00.478541",
+        "file": "environment-variables-the-safe-way.md"
     },
     {
         "title": "KathaGPT — private AI desktop app .",
@@ -63072,6 +63270,17 @@
         "keywords": "spectrum, system, tour, text, mode, url, https, com",
         "generated": "2026-08-04T03:13:25.001086",
         "file": "zx-spectrum-system-tour-text-mode.md"
+    },
+    {
+        "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+        "slug": "grapheneos-project-pixel-11-no-longer-supports-hardware-memory-tagging-mte",
+        "author": "400thecat",
+        "source": "hackernews",
+        "published": "Sat, 29 Aug 2026 15:26:28 +0000",
+        "description": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 9 # Comments: 2",
+        "keywords": "grapheneos, url, https, comments, project, pixel, longer, supports",
+        "generated": "2026-08-29T16:32:00.476514",
+        "file": "grapheneos-project-pixel-11-no-longer-supports-hardware-memory-tagging-mte.md"
     },
     {
         "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
