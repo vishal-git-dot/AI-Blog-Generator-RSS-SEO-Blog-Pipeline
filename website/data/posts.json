@@ -5929,6 +5929,17 @@
         "file": "26-reducing-typing-related-injuries-rsi-prevention-recovery-and-the-role-of-proper-technique.md"
     },
     {
+        "title": "An agent trajectory dataset needs more than final answers",
+        "slug": "an-agent-trajectory-dataset-needs-more-than-final-answers",
+        "author": "Sarthak Agrawal",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 04:30:00 +0000",
+        "description": "An agent trajectory dataset should preserve the behavior that produced an outcome, including the steps before the final response. That means keeping the task...",
+        "keywords": "trajectory, should, tool, task, dataset, can, training, data",
+        "generated": "2026-08-30T04:48:49.083446",
+        "file": "an-agent-trajectory-dataset-needs-more-than-final-answers.md"
+    },
+    {
         "title": "JobsListings - Kelly Services - (US)",
         "slug": "jobslistings-kelly-services-us",
         "author": "Al Islam",
@@ -7900,10 +7911,10 @@
         "slug": "how-to-build-an-airdrop-monitor-with-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Thu, 27 Aug 2026 21:50:20 +0000",
-        "description": "In the high-stakes world of DeFi, speed is the only currency that matters. Airdrops, while lucrative, are notoriously fleeting. By the time most users manual...",
-        "keywords": "airdrop, data, event, monitor, time, blockchain, events, api",
-        "generated": "2026-08-27T22:04:47.422567",
+        "published": "Sun, 30 Aug 2026 04:11:17 +0000",
+        "description": "Tracking crypto airdrops manually is a logistical nightmare. Between Discord announcements, X (Twitter) threads, and fragmented governance forums, informatio...",
+        "keywords": "airdrop, project, monitor, you, like, text, openai, announcement",
+        "generated": "2026-08-30T04:48:49.076766",
         "file": "how-to-build-an-airdrop-monitor-with-ai.md"
     },
     {
@@ -11570,6 +11581,17 @@
         "file": "einsteins-relativity-rules-chemical-bonds-in-heavy-elements-new-research-shows.md"
     },
     {
+        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+        "slug": "open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients",
+        "author": "gregsadetsky",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 00:33:35 +0000",
+        "description": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 10 # Comments: 5",
+        "keywords": "open, server, oscar, url, https, com, comments, source",
+        "generated": "2026-08-30T04:48:49.076474",
+        "file": "open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients.md"
+    },
+    {
         "title": "Optimizing Sales Processes with LLM Integration",
         "slug": "optimizing-sales-processes-with-llm-integration",
         "author": "shashank ms",
@@ -15178,6 +15200,17 @@
         "file": "an-editable-range-can-change-without-changing-word-text.md"
     },
     {
+        "title": "Memory Allocation",
+        "slug": "memory-allocation",
+        "author": "Shankar L",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 04:30:00 +0000",
+        "description": "Why should you care? Every program needs memory. When you create: int age = 20 ; or: Person user = new Person (); the program needs somewhere to store the re...",
+        "keywords": "memory, allocation, object, free, program, int, can, stack",
+        "generated": "2026-08-30T04:48:49.084025",
+        "file": "memory-allocation.md"
+    },
+    {
         "title": "Notes on DeepSeek",
         "slug": "notes-on-deepseek",
         "author": "vinhnx",
@@ -16705,6 +16738,17 @@
         "keywords": "git, your, github, project, ssh, bash, first, commit",
         "generated": "2026-08-23T01:43:25.007582",
         "file": "my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh.md"
+    },
+    {
+        "title": "FreeCORE TrueNAS Core – Continued",
+        "slug": "freecore-truenas-core-continued",
+        "author": "sashk",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 01:31:32 +0000",
+        "description": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 53 # Comments: 28",
+        "keywords": "freecore, url, https, comments, truenas, core, continued, article",
+        "generated": "2026-08-30T04:48:49.076233",
+        "file": "freecore-truenas-core-continued.md"
     },
     {
         "title": "Ultimate Guide to B;uy.ing a Veri'fied Mail.ru Ac'count in the USA",
@@ -21954,6 +21998,17 @@
         "file": "the-price-of-happiness.md"
     },
     {
+        "title": "Business SEO & Online Marketing Services | USAITSPOT",
+        "slug": "business-seo-online-marketing-services-usaitspot",
+        "author": "buy sell",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 04:27:22 +0000",
+        "description": "Buy Stripe Business Account Support USA | USAITSPOT Stripe Business Account Setup & Payment Support USA For businesses operating online, choosing a reliable ...",
+        "keywords": "stripe, payment, business, businesses, account, can, online, information",
+        "generated": "2026-08-30T04:48:49.080725",
+        "file": "business-seo-online-marketing-services-usaitspot.md"
+    },
+    {
         "title": "The back cover of C++: The Language raises questions not answered by front cover",
         "slug": "the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover",
         "author": "paulmooreparks",
@@ -22139,6 +22194,17 @@
         "keywords": "xai, voice, hermes, your, min, speech, problem, billing",
         "generated": "2026-07-13T14:46:38.578535",
         "file": "xais-grok-voice-agent-builder-launches-at-005min-but-agencies-need-more-than-cheap-apis.md"
+    },
+    {
+        "title": "Bug Blindness",
+        "slug": "bug-blindness",
+        "author": "davidmckenna",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 00:21:40 +0000",
+        "description": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 128 # Comments: 50",
+        "keywords": "bug, url, https, com, comments, blindness, article, danluu",
+        "generated": "2026-08-30T04:48:49.076572",
+        "file": "bug-blindness.md"
     },
     {
         "title": "AWS launches MCP server for its open-data registry",
@@ -25892,6 +25958,17 @@
         "file": "battery-replacement-service-by-city-phones-melbourne.md"
     },
     {
+        "title": "Python threading.Event and Condition: Sync Patterns",
+        "slug": "python-threadingevent-and-condition-sync-patterns",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 04:00:56 +0000",
+        "description": "Python threading.Event and Condition: Sync Patterns tags: python, threading, tutorial, advanced tags: python, threading, tutorial, advanced tags: python, thr...",
+        "keywords": "asyncio, you, threading, time, python, your, cpu, bound",
+        "generated": "2026-08-30T04:48:49.077333",
+        "file": "python-threadingevent-and-condition-sync-patterns.md"
+    },
+    {
         "title": "Cheap AI token platforms need a real API test console",
         "slug": "cheap-ai-token-platforms-need-a-real-api-test-console",
         "author": "Tokens Forge",
@@ -28299,6 +28376,17 @@
         "file": "we-think-the-spacex-ipo-is-overvalued.md"
     },
     {
+        "title": "Build a Custom ETL Pipeline with Python",
+        "slug": "build-a-custom-etl-pipeline-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 04:00:51 +0000",
+        "description": "Build a Custom ETL Pipeline with Python tags: python, data, etl, tutorial tags: python, data, etl, tutorial tags: python, data, etl, tutorial tags: python, d...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-30T04:48:49.077966",
+        "file": "build-a-custom-etl-pipeline-with-python.md"
+    },
+    {
         "title": "Small shift in how I discover web apps",
         "slug": "small-shift-in-how-i-discover-web-apps",
         "author": "Sara",
@@ -29965,6 +30053,17 @@
         "keywords": "data, can, learning, business, role, analyst, freshers, practical",
         "generated": "2026-08-21T06:55:13.102392",
         "file": "which-data-role-is-easiest-to-enter-as-a-fresher.md"
+    },
+    {
+        "title": "Reliable Podcast Cover Art Square Crops Across Distribution Channels with Python",
+        "slug": "reliable-podcast-cover-art-square-crops-across-distribution-channels-with-python",
+        "author": "LunarBreeze4173085",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 03:59:17 +0000",
+        "description": "Use an explicit crop followed by resize when the focal area is known and every distribution channel expects a stable square composition. That rule keeps a ho...",
+        "keywords": "crop, focal, image, worker, derivative, when, source, your",
+        "generated": "2026-08-30T04:48:49.079148",
+        "file": "reliable-podcast-cover-art-square-crops-across-distribution-channels-with-python.md"
     },
     {
         "title": "Your Pipeline Is 24.8h Behind: Catching Agriculture Sentiment Leads with Pulsebit",
@@ -34099,6 +34198,17 @@
         "keywords": "meeting, workflow, teams, you, time, meetings, instead, notes",
         "generated": "2026-07-14T02:53:42.962722",
         "file": "i-replaced-manual-meeting-notes-with-ai-heres-the-workflow-that-actually-saved-me-hours-every-week.md"
+    },
+    {
+        "title": "Why Is Your VPS Running Slow? 6 Hidden Problems You Should Check",
+        "slug": "why-is-your-vps-running-slow-6-hidden-problems-you-should-check",
+        "author": "Arthur",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 04:43:02 +0000",
+        "description": "Have you ever opened your website and thought: “Why is my server suddenly so slow?” Your internet connection is fine, but the website takes several seconds t...",
+        "keywords": "your, you, vps, can, cpu, server, website, ram",
+        "generated": "2026-08-30T04:48:49.079812",
+        "file": "why-is-your-vps-running-slow-6-hidden-problems-you-should-check.md"
     },
     {
         "title": "Previewing the Model Hardware Standard",
@@ -38778,6 +38888,17 @@
         "file": "honey-bee-colony-monitoring-via-audio-iot-sensors-tensorgrams-and-rnns.md"
     },
     {
+        "title": "How Much Does a Gym or Fitness Studio Website Cost? Real Numbers Explained",
+        "slug": "how-much-does-a-gym-or-fitness-studio-website-cost-real-numbers-explained",
+        "author": "Amanur Rahman",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 04:12:16 +0000",
+        "description": "If you run a gym, CrossFit box, or fitness studio, your website needs to do more than look nice — it usually needs to handle class bookings and recurring mem...",
+        "keywords": "booking, membership, cost, custom, gym, fitness, studio, website",
+        "generated": "2026-08-30T04:48:49.081786",
+        "file": "how-much-does-a-gym-or-fitness-studio-website-cost-real-numbers-explained.md"
+    },
+    {
         "title": "Your Extraction Pipeline Doesn't Need a Smarter Model. It Needs a Schema Contract Test.",
         "slug": "your-extraction-pipeline-doesnt-need-a-smarter-model-it-needs-a-schema-contract-test",
         "author": "Finley Zhou",
@@ -41427,6 +41548,17 @@
         "keywords": "credentials, files, credential, secrets, tokens, developer, keys, what",
         "generated": "2026-08-18T12:55:35.960666",
         "file": "every-laptop-is-a-credential-store-complete-map-of-hidden-secrets.md"
+    },
+    {
+        "title": "Build Professional SMS & WhatsApp Templates in Seconds — Free TextExpander Alternative",
+        "slug": "build-professional-sms-whatsapp-templates-in-seconds-free-textexpander-alternative",
+        "author": "Jack Green",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 04:27:22 +0000",
+        "description": "Build Professional SMS & WhatsApp Templates in Seconds — Free TextExpander Alternative If you run a small business or freelance, you probably find yourself t...",
+        "keywords": "whatsapp, textexpander, templates, you, browser, your, sms, free",
+        "generated": "2026-08-30T04:48:49.080102",
+        "file": "build-professional-sms-whatsapp-templates-in-seconds-free-textexpander-alternative.md"
     },
     {
         "title": "My Homework Help: A Smarter Way for UK Students to Manage Study Challenges",
@@ -44221,6 +44353,17 @@
         "keywords": "const, key, width, image, file, data, context, bucket",
         "generated": "2026-06-09T04:03:32.529985",
         "file": "cloudflare-r2-object-storage-for-edge-applications-and-saas.md"
+    },
+    {
+        "title": "Using LLMs for Crypto Market Analysis in 2026",
+        "slug": "using-llms-for-crypto-market-analysis-in-2026",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 04:33:33 +0000",
+        "description": "The landscape of cryptocurrency market analysis has fundamentally shifted in 2026. Gone are the days of relying solely on lagging technical indicators or man...",
+        "keywords": "data, llms, chain, llm, analysis, social, prompt, using",
+        "generated": "2026-08-30T04:48:49.082826",
+        "file": "using-llms-for-crypto-market-analysis-in-2026.md"
     },
     {
         "title": "How to Build an EVE Online Market Trading Bot in Python",
@@ -51905,10 +52048,10 @@
         "slug": "how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide",
         "author": "RamosAI",
         "source": "devto_webdev",
-        "published": "Fri, 03 Jul 2026 03:23:35 +0000",
+        "published": "Sun, 30 Aug 2026 04:21:30 +0000",
         "description": "⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Deploy Llama 2 on DigitalOcean...",
-        "keywords": "llama, error, api, ollama, return, get, prompt, response",
-        "generated": "2026-07-03T03:48:14.179869",
+        "keywords": "llama, you, month, model, ollama, api, nginx, sudo",
+        "generated": "2026-08-30T04:48:49.081492",
         "file": "how-to-deploy-llama-2-on-digitalocean-for-5month-complete-self-hosting-guide.md"
     },
     {
@@ -55520,6 +55663,17 @@
         "file": "why-ai-projects-fail-before-they-even-begin.md"
     },
     {
+        "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+        "slug": "algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+        "author": "toomuchtodo",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 02:25:32 +0000",
+        "description": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https://news.y...",
+        "keywords": "algorithmic, rent, pricing, litigation, expands, under, new, state",
+        "generated": "2026-08-30T04:48:49.076038",
+        "file": "algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws.md"
+    },
+    {
         "title": "Every handle invocation on BizNode gets a WFID — a universal transaction reference for accountability. Full audit trail,...",
         "slug": "every-handle-invocation-on-biznode-gets-a-wfid-a-universal-transaction-reference-for-accountability-full-audit-trail",
         "author": "shashikanth ramamurthy",
@@ -56442,6 +56596,17 @@
         "keywords": "french, physicist, media, star, loses, doctorate, after, plagiarism",
         "generated": "2026-06-17T15:50:36.568868",
         "file": "french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation.md"
+    },
+    {
+        "title": "Build a Service Discovery System with Python",
+        "slug": "build-a-service-discovery-system-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 04:00:05 +0000",
+        "description": "Build a Service Discovery System with Python tags: python, microservices, devops, tutorial tags: python, microservices, devops, tutorial tags: python, micros...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-30T04:48:49.078595",
+        "file": "build-a-service-discovery-system-with-python.md"
     },
     {
         "title": "Best 3 Sites To Buy Edu Emails Accounts for Student ...",
@@ -61281,6 +61446,17 @@
         "file": "anthropics-safety-superpower.md"
     },
     {
+        "title": "The AI Backlash Went Mainstream. Now What?",
+        "slug": "the-ai-backlash-went-mainstream-now-what",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 04:37:34 +0000",
+        "description": "The AI Backlash Went Mainstream. Now What? Three digests walked into our pipeline on August 29, 2026 — YouTube AI, YouTube Tech, Reddit, and the X firehose —...",
+        "keywords": "not, data, backlash, what, you, when, scam, real",
+        "generated": "2026-08-30T04:48:49.082592",
+        "file": "the-ai-backlash-went-mainstream-now-what.md"
+    },
+    {
         "title": "Transcribe.cpp",
         "slug": "transcribecpp",
         "author": "sebjones",
@@ -61521,6 +61697,17 @@
         "keywords": "model, coordination, agent, gap, huang, layer, technology, langgraph",
         "generated": "2026-06-21T09:58:05.295333",
         "file": "ai-technology-in-2026-why-the-coordination-gap-beats-adoption.md"
+    },
+    {
+        "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+        "slug": "benjamin-franklins-alter-egos-gave-him-the-most-freedom",
+        "author": "cisc",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 01:09:15 +0000",
+        "description": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ ...",
+        "keywords": "benjamin, franklin, alter, egos, gave, him, most, freedom",
+        "generated": "2026-08-30T04:48:49.076363",
+        "file": "benjamin-franklins-alter-egos-gave-him-the-most-freedom.md"
     },
     {
         "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
@@ -67890,6 +68077,17 @@
         "keywords": "data, databricks, spark, why, pune, what, you, time",
         "generated": "2026-08-21T06:55:13.101558",
         "file": "what-are-databricks-and-spark-and-why-do-companies-want-them.md"
+    },
+    {
+        "title": "DNA Methylation Analysis: Essential AI Genomics Guide",
+        "slug": "dna-methylation-analysis-essential-ai-genomics-guide",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 04:31:58 +0000",
+        "description": "DNA methylation analysis is moving beyond isolated epigenetic markers. Researchers can now connect inherited variants, environmental exposures, gene regulati...",
+        "keywords": "methylation, can, data, dna, analysis, models, biological, validation",
+        "generated": "2026-08-30T04:48:49.083197",
+        "file": "dna-methylation-analysis-essential-ai-genomics-guide.md"
     },
     {
         "title": "Run Tokens Make Email CI Less Fragile",
