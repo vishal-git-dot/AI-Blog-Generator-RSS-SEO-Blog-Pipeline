@@ -1,0 +1,34 @@
+---
+title: "Your LLM Returns Invalid JSON? Repair It with Free Models on a Free Server"
+slug: "your-llm-returns-invalid-json-repair-it-with-free-models-on-a-free-server"
+author: "Finley Zhu"
+source: "devto_python"
+published: "Sun, 30 Aug 2026 11:32:09 +0000"
+description: "Your LLM promises JSON. It returns a markdown fence, a trailing comma, and a truncated array. The parser crashes. Users see a blank screen. Fixing this with ..."
+keywords: "json, repair, model, free, you, your, return, server"
+generated: "2026-08-30T11:39:35.926702"
+---
+
+# Your LLM Returns Invalid JSON? Repair It with Free Models on a Free Server
+
+## Overview
+
+Your LLM promises JSON. It returns a markdown fence, a trailing comma, and a truncated array. The parser crashes. Users see a blank screen. Fixing this with a paid pipeline feels like overkill when you are still prototyping. You can build a tiny JSON-repair service on free infrastructure. MonkeyCode currently provides free models with a 10M token allowance and a free server option, which is enough for a small repair endpoint. Disclosure: This article was prepared as part of MonkeyCode's product outreach. This post shows a concrete, reproducible workflow: extract, validate, repair, and deploy — all on free tiers. The Failure Pattern Malformed JSON has a few recurring shapes: The model wraps JSON in ```json code fences. The model adds a trailing comma after the last array item. The model truncates the response at a token limit. The model inserts markdown comments or prose inside the object. Each failure is easy to fix manually. Doing it for every API response is exhausting. That is where a small repair routine helps. Design: Three Stages Keep the pipeline boring. Each stage is a pure function: Extract : pull the JSON-looking blob out of the response. Validate : try json.loads . If it works, return immediately. Repair : ask a free model to fix the exact validation error. You only pay for the repair call when validation fails. Most of the time, extraction alone is enough. A Minimal Repair Server Here is a complete FastAPI app that implements the pipeline. It calls the MonkeyCode chat endpoint only when the JSON is invalid. import json import os import re import fastapi import requests app = fastapi . FastAPI () ENDPOINT = os . environ [ " MONKEYCODE_ENDPOINT " ] API_KEY = os . environ [ " MONKEYCODE_API_KEY " ] MODEL = os . environ [ " MONKEYCODE_MODEL " ] @app.post ( " /repair " ) def repair_json ( raw : str ): payload = extract_json ( raw ) try : parsed = json . loads ( payload ) return { " ok " : True , " data " : parsed } except json . JSONDecodeError as e : fixed = ask_model_to_repair ( payload , str ( e )) return { " ok " : False , " data " : json . loads ( fixed )} def extract_json ( text ): match = re . search ( r " ``` (?:json)?\s*([\s\S]*?) ``` " , text ) if match : return match . group ( 1 ) start = text . find ( ' { ' ) end = text . rfind ( ' } ' ) if start != - 1 and end != - 1 : return text [ start : end + 1 ] return text def ask_model_to_repair ( broken , error ): system = ( " You are a JSON repair assistant. " " Return only valid JSON. Do not explain. " ) user = ( " Fix this JSON. The parser said: " + error + " \n\n " + broken ) resp = requests . post ( ENDPOINT , headers = { " Authorization " : f " Bearer { API_KEY } " }, json = { " model " : MODEL , " messages " : [ { " role " : " system " , " content " : system }, { " role " : " user " , " content " : user }, ], " temperature " : 0.0 , }, timeout = 30 , ) resp . raise_for_status () return resp . json ()[ " choices " ][ 0 ][ " message " ][ " content " ] The endpoint schema follows the common chat-completions style. Check your MonkeyCode dashboard for the exact field names. This code is illustrative, not a vendored SDK. Decision Table for Repair Strategies Not every error deserves a model call. Use this logic before spending any tokens: Error type Local fix first Call free model? Code fence Strip via regex Never Trailing comma Remove with regex Never Truncated string Ask model to complete Yes Missing brace Ask model to reconstruct Yes Markdown prose inside object Ask model to extract Yes Add a simple rule: only call the repair model after the cheap regex fixes fail. That keeps your token usage close to zero. Deploying on the Free Server MonkeyCode's free server is shared infrastructure. Keep your job light. A single FastAPI process with one route is fine. Copy your files and run with a minimal Python setup: pip install fastapi uvicorn requests uvicorn main:app --host 0.0.0.0 --port 8080 Then test locally: curl -s -X POST localhost:8080/repair \ -H "Content-Type: application/json" \ -d '{"raw": "``` json\\n{\"a\":1,}\\n ```"}' If your integration path is a batch job instead of an API, use a cron entry on the same server: */30 * * * * cd /home/repair && python3 batch_repair.py What Can Go Wrong Free models have limits. A burst of 10,000 repair requests will hit quotas. Keep retries short and back off politely. The repair model can also fail. Wrap json.loads(fixed) in a try block and return a clear error when repair fails twice. Never loop for more than two attempts. And remember: sending logs to any remote model is data-sharing. Strip secrets and personal identifiers before calling the endpoint. Who Should Skip This Say no if you already use strict function calling or output schemas. Structured outputs from qualified providers often fix this class of bugs. Say no if you need deterministic JSON under regulatory audit. A probabilistic repair step is hard to certify. Say no if you are building a high-volume production pipeline. A dedicated JSON validator and a human fallback will serve you better. This workflow earns its keep in prototypes, hackathons, and internal tools where free tokens solve a real annoyance. The Practical Takeaway Invalid JSON is not a model failure. It is a production hygiene problem. You can handle it with affordable tooling instead of throwing money at a more expensive model. Start with extraction and local regex fixes. Add a free model repair step only for the hard cases. Deploy on a free server. Monitor the failure rate. That is a complete loop you can build in an afternoon. If you want to see how MonkeyCode's free models handle real malformed output, grab a free account and point this script at your own prompts. Your current parser deserves a second chance.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/gitgo_1900/your-llm-returns-invalid-json-repair-it-with-free-models-on-a-free-server-33ne
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

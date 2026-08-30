@@ -2618,6 +2618,17 @@
         "file": "five-fastapi-security-patterns-ai-coders-get-wrong.md"
     },
     {
+        "title": "Spark: Sparklines in your shell",
+        "slug": "spark-sparklines-in-your-shell",
+        "author": "hskimse",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 10:02:16 +0000",
+        "description": "Article URL: https://git.zx2c4.com/spark/about/ Comments URL: https://news.ycombinator.com/item?id=49497265 Points: 16 # Comments: 2",
+        "keywords": "spark, url, https, com, comments, sparklines, your, shell",
+        "generated": "2026-08-30T11:39:35.925542",
+        "file": "spark-sparklines-in-your-shell.md"
+    },
+    {
         "title": "AI Güvenlik Protokolleri Üzerine Yeni Yaklaşımlar",
         "slug": "ai-gvenlik-protokolleri-zerine-yeni-yaklamlar",
         "author": "Cansu Dut",
@@ -11559,6 +11570,17 @@
         "file": "openai-o3-model-explained-the-next-frontier-in-ai-reasoning.md"
     },
     {
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "slug": "fair-work-commission-condemns-plain-wrong-ai-legal-advice",
+        "author": "martyvis",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 10:20:11 +0000",
+        "description": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?i...",
+        "keywords": "fair, work, commission, condemns, legal, advice, url, https",
+        "generated": "2026-08-30T11:39:35.925415",
+        "file": "fair-work-commission-condemns-plain-wrong-ai-legal-advice.md"
+    },
+    {
         "title": "Medical students are using popular research tool to pump out misleading studies",
         "slug": "medical-students-are-using-popular-research-tool-to-pump-out-misleading-studies",
         "author": "rndsignals",
@@ -13449,6 +13471,17 @@
         "keywords": "not, bridge, software, what, can, one, its, looks",
         "generated": "2026-06-29T15:56:39.170524",
         "file": "the-bridge-looked-fine-too.md"
+    },
+    {
+        "title": "You are in the cockpit now. Nobody gave you instruments.",
+        "slug": "you-are-in-the-cockpit-now-nobody-gave-you-instruments",
+        "author": "hyuga",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 11:36:38 +0000",
+        "description": "I noticed recently that I have stopped typing. The agent writes the code. What I do is look at what comes back and press y . Dozens of times a day. And — you...",
+        "keywords": "you, not, one, what, does, limiter, when, has",
+        "generated": "2026-08-30T11:39:35.929251",
+        "file": "you-are-in-the-cockpit-now-nobody-gave-you-instruments.md"
     },
     {
         "title": "How Pulse matches you with the right provider — semantic AI search vs keyword lookup. BizNode Pulse uses embedding-based...",
@@ -19611,6 +19644,17 @@
         "file": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games.md"
     },
     {
+        "title": "Golden Sets Are the Unit Tests Your LLM Feature Never Had",
+        "slug": "golden-sets-are-the-unit-tests-your-llm-feature-never-had",
+        "author": "Dakota Ma",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 11:32:36 +0000",
+        "description": "Most LLM regressions do not throw exceptions; they quietly change the shape of a JSON response or move a confidence score by four percent. A passing test sui...",
+        "keywords": "output, case, json, expected, you, return, system, golden",
+        "generated": "2026-08-30T11:39:35.926455",
+        "file": "golden-sets-are-the-unit-tests-your-llm-feature-never-had.md"
+    },
+    {
         "title": "The Python Feature That Instantly Felt Magical to Me... List Comprehensions",
         "slug": "the-python-feature-that-instantly-felt-magical-to-me-list-comprehensions",
         "author": "Samiksha Srivastav",
@@ -21831,6 +21875,17 @@
         "keywords": "benchmark, had, time, mersenne, python, never, harness, two",
         "generated": "2026-07-15T19:19:36.616137",
         "file": "why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs.md"
+    },
+    {
+        "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+        "slug": "show-hn-bolnee-chat-self-hosted-chatbot-integration-in-your-business-website",
+        "author": "AniketWathore",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 09:56:05 +0000",
+        "description": "Article URL: https://github.com/AniketWathore/bolnee-chat Comments URL: https://news.ycombinator.com/item?id=49497227 Points: 3 # Comments: 0",
+        "keywords": "bolnee, chat, url, https, com, comments, show, self",
+        "generated": "2026-08-30T11:39:35.925655",
+        "file": "show-hn-bolnee-chat-self-hosted-chatbot-integration-in-your-business-website.md"
     },
     {
         "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
@@ -24350,6 +24405,17 @@
         "keywords": "aiot, developers, software, real, can, applications, intelligence, connected",
         "generated": "2026-07-15T19:19:36.617087",
         "file": "aiot-the-next-frontier-for-software-developers.md"
+    },
+    {
+        "title": "Everyone Should Build Their Own Network Stack",
+        "slug": "everyone-should-build-their-own-network-stack",
+        "author": "uneven9434",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 09:52:15 +0000",
+        "description": "Article URL: https://blog.lyc8503.net/en/post/dn42-2-dnet/ Comments URL: https://news.ycombinator.com/item?id=49497200 Points: 13 # Comments: 5",
+        "keywords": "url, https, comments, everyone, should, build, their, own",
+        "generated": "2026-08-30T11:39:35.925709",
+        "file": "everyone-should-build-their-own-network-stack.md"
     },
     {
         "title": "Parsing SEC EDGAR's Form 4 feed: the edge cases nobody warns you about",
@@ -27639,6 +27705,17 @@
         "file": "theres-no-reason-for-software-to-be-slow-anymore.md"
     },
     {
+        "title": "Can You Trust an LLM to Fix a Broken Locator? I Measured It.",
+        "slug": "can-you-trust-an-llm-to-fix-a-broken-locator-i-measured-it",
+        "author": "Mustafa Sercan Sak",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 11:37:50 +0000",
+        "description": "A measured study of multi-provider LLM consensus as a locator-healing signal — and why Automation Sandbox keeps the LLM out of the decision. Originally publi...",
+        "keywords": "element, not, deleted, llm, provider, agreement, every, does",
+        "generated": "2026-08-30T11:39:35.928849",
+        "file": "can-you-trust-an-llm-to-fix-a-broken-locator-i-measured-it.md"
+    },
+    {
         "title": "What Is a Harness?",
         "slug": "what-is-a-harness",
         "author": "tosh",
@@ -27923,6 +28000,17 @@
         "keywords": "isn, every, what, questions, wrong, people, better, part",
         "generated": "2026-07-17T19:18:11.646233",
         "file": "the-hidden-cost-of-i-think-i-know-whats-wrong.md"
+    },
+    {
+        "title": "Retry Budgets Are Real: Pairing Lessons from a Free LLM Endpoint",
+        "slug": "retry-budgets-are-real-pairing-lessons-from-a-free-llm-endpoint",
+        "author": "Avery Li",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 11:29:50 +0000",
+        "description": "A retry loop without a budget is a quota leak waiting to happen. In a two-hour pairing session, a senior engineer forced a closer look at that assumption, an...",
+        "keywords": "attempts, budget, retry, ledger, retries, free, self, not",
+        "generated": "2026-08-30T11:39:35.926978",
+        "file": "retry-budgets-are-real-pairing-lessons-from-a-free-llm-endpoint.md"
     },
     {
         "title": "From Equal Access to Equal Opportunity: How India Can Build a More Inclusive Future",
@@ -28946,6 +29034,17 @@
         "file": "the-shape-of-things-to-come.md"
     },
     {
+        "title": "I Let a Free Model Prune My Feature Flags for 48 Hours. It Found More Than I Did.",
+        "slug": "i-let-a-free-model-prune-my-feature-flags-for-48-hours-it-found-more-than-i-did",
+        "author": "Taylor Wang",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 11:35:58 +0000",
+        "description": "Feature flags are the duct tape of modern deployments. They let you ship dark, roll back instantly, and run gradual rollouts. But every flag you forget to re...",
+        "keywords": "model, free, flags, prune, flag, review, output, not",
+        "generated": "2026-08-30T11:39:35.928396",
+        "file": "i-let-a-free-model-prune-my-feature-flags-for-48-hours-it-found-more-than-i-did.md"
+    },
+    {
         "title": "Deep Dive: Alert Zero and Its Role in AI-Powered S…",
         "slug": "deep-dive-alert-zero-and-its-role-in-ai-powered-s",
         "author": "Norvik Tech",
@@ -29824,6 +29923,17 @@
         "file": "a-sick-people.md"
     },
     {
+        "title": "the autonomous stack that runs real business processes 24/7 while i watch the board climb",
+        "slug": "the-autonomous-stack-that-runs-real-business-processes-247-while-i-watch-the-board-climb",
+        "author": "hailports",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 11:35:55 +0000",
+        "description": "day 135 of running real business processes end-to-end on an autonomous AI stack — owner-gated where it matters, with one armed switch and a live board i watc...",
+        "keywords": "processes, board, runs, real, business, one, whole, its",
+        "generated": "2026-08-30T11:39:35.929340",
+        "file": "the-autonomous-stack-that-runs-real-business-processes-247-while-i-watch-the-board-climb.md"
+    },
+    {
         "title": "30 Next.js Interview Questions and Answers (2026)",
         "slug": "30-nextjs-interview-questions-and-answers-2026",
         "author": "Dev Encyclopedia",
@@ -29943,6 +30053,17 @@
         "keywords": "agent, one, signoz, guardrail, you, cause, not, what",
         "generated": "2026-07-26T08:33:55.338999",
         "file": "agent-black-box-teaching-an-ai-agent-to-explain-its-own-failures.md"
+    },
+    {
+        "title": "How to Set Up a Repeatable Harness for Comparing AI Coding Assistants on Your Own Repo",
+        "slug": "how-to-set-up-a-repeatable-harness-for-comparing-ai-coding-assistants-on-your-own-repo",
+        "author": "137Foundry",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 11:37:03 +0000",
+        "description": "Comparing AI coding assistants without a shared harness produces noise, not data. If one tool gets a cleaner branch, better prompts, or a longer session than...",
+        "keywords": "assistant, you, harness, your, tool, ticket, one, comparison",
+        "generated": "2026-08-30T11:39:35.927828",
+        "file": "how-to-set-up-a-repeatable-harness-for-comparing-ai-coding-assistants-on-your-own-repo.md"
     },
     {
         "title": "Changes to LLM pricing: Ambient",
@@ -34046,6 +34167,17 @@
         "file": "credit-card-rewards-became-a-92b-wealth-transfer.md"
     },
     {
+        "title": "Token Budgets as Ownership Controls: A Free-Tier Docs Drafting Service",
+        "slug": "token-budgets-as-ownership-controls-a-free-tier-docs-drafting-service",
+        "author": "Avery Lin",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 11:35:43 +0000",
+        "description": "Free AI infrastructure makes generated documentation cheap, but cheap text accumulates into unowned liabilities far faster than review capacity does. The pra...",
+        "keywords": "ownership, section, free, owner, monkeycode, budget, token, human",
+        "generated": "2026-08-30T11:39:35.929575",
+        "file": "token-budgets-as-ownership-controls-a-free-tier-docs-drafting-service.md"
+    },
+    {
         "title": "Databricks Defaults to Chinese Model GLM 5.2, Matches Opus at $1.28/Task",
         "slug": "databricks-defaults-to-chinese-model-glm-52-matches-opus-at-128task",
         "author": "gentic news",
@@ -37361,6 +37493,17 @@
         "file": "no-more-than-100-000-faint-satellites-should-orbit-earth.md"
     },
     {
+        "title": "A 15-minute security pass for code your AI wrote",
+        "slug": "a-15-minute-security-pass-for-code-your-ai-wrote",
+        "author": "ShipSafeScan",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 11:37:04 +0000",
+        "description": "When you're vibe-coding a side project, working and safe to ship feel like the same thing. They aren't. LLM-generated code is really good at making the h...",
+        "keywords": "you, grep, api, your, env, key, audit, can",
+        "generated": "2026-08-30T11:39:35.927544",
+        "file": "a-15-minute-security-pass-for-code-your-ai-wrote.md"
+    },
+    {
         "title": "Analyzing Tennis Data: Britains Jones defends Challenger title in Palermo — What the Numbers Say",
         "slug": "analyzing-tennis-data-britains-jones-defends-challenger-title-in-palermo-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -38635,6 +38778,17 @@
         "file": "pysamcyvcf2pyvcf3.md"
     },
     {
+        "title": "Your Free Model Quota Is a Bank Account. Build a Budget Proxy on a Free Server",
+        "slug": "your-free-model-quota-is-a-bank-account-build-a-budget-proxy-on-a-free-server",
+        "author": "Jordan Huang",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 11:37:16 +0000",
+        "description": "Your team got a free model API key last month. Everyone loved it. Then, one morning, every call started returning 429 . No warning. No dashboard. No idea whi...",
+        "keywords": "your, proxy, you, free, json, usage, model, spent",
+        "generated": "2026-08-30T11:39:35.926011",
+        "file": "your-free-model-quota-is-a-bank-account-build-a-budget-proxy-on-a-free-server.md"
+    },
+    {
         "title": "10 Best Platforms to Buy TikTok Account Old & New in the ...",
         "slug": "10-best-platforms-to-buy-tiktok-account-old-new-in-the",
         "author": "cherylpembert",
@@ -39238,6 +39392,17 @@
         "keywords": "their, spin, own, quantum, ibm, state, subspace, one",
         "generated": "2026-08-07T07:23:56.534088",
         "file": "spin-audit-of-sqdqsci-quantum-chemistry-benchmarks-on-ironsulfur-clusters.md"
+    },
+    {
+        "title": "Free Tokens, Free Server, and a Property Test That Refuses to Be Gamed",
+        "slug": "free-tokens-free-server-and-a-property-test-that-refuses-to-be-gamed",
+        "author": "Finley Zhou",
+        "source": "devto_ai",
+        "published": "Sun, 30 Aug 2026 11:35:28 +0000",
+        "description": "Unit tests tell you what the author expected. Property tests tell you what the universe thinks. If an AI-generated patch only passes the first, it is not rea...",
+        "keywords": "free, seed, you, not, server, property, test, patch",
+        "generated": "2026-08-30T11:39:35.929881",
+        "file": "free-tokens-free-server-and-a-property-test-that-refuses-to-be-gamed.md"
     },
     {
         "title": "The AI backlash is only getting started",
@@ -41627,6 +41792,17 @@
         "file": "exploring-5-ai-entertainment-h.md"
     },
     {
+        "title": "Your LLM Returns Invalid JSON? Repair It with Free Models on a Free Server",
+        "slug": "your-llm-returns-invalid-json-repair-it-with-free-models-on-a-free-server",
+        "author": "Finley Zhu",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 11:32:09 +0000",
+        "description": "Your LLM promises JSON. It returns a markdown fence, a trailing comma, and a truncated array. The parser crashes. Users see a blank screen. Fixing this with ...",
+        "keywords": "json, repair, model, free, you, your, return, server",
+        "generated": "2026-08-30T11:39:35.926702",
+        "file": "your-llm-returns-invalid-json-repair-it-with-free-models-on-a-free-server.md"
+    },
+    {
         "title": "The federal keyword lists that canceled billions in research funding",
         "slug": "the-federal-keyword-lists-that-canceled-billions-in-research-funding",
         "author": "walrus01",
@@ -42219,6 +42395,17 @@
         "keywords": "you, image, file, photo, signature, size, one, resizer",
         "generated": "2026-07-08T03:22:28.627864",
         "file": "7-free-online-image-tools-every-student-and-job-seeker-should-bookmark.md"
+    },
+    {
+        "title": "Why Review Time Is the Real Cost Metric for AI Coding Assistants, Not Generation Speed",
+        "slug": "why-review-time-is-the-real-cost-metric-for-ai-coding-assistants-not-generation-speed",
+        "author": "137Foundry",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 11:37:05 +0000",
+        "description": "Every AI coding assistant demo emphasizes the same number: how fast it produced a diff. Ninety seconds for a feature, thirty seconds for a bug fix, a full te...",
+        "keywords": "review, time, your, you, generation, how, team, than",
+        "generated": "2026-08-30T11:39:35.927250",
+        "file": "why-review-time-is-the-real-cost-metric-for-ai-coding-assistants-not-generation-speed.md"
     },
     {
         "title": "Everything You Need to Know About Onchain Attribution",
@@ -50843,6 +51030,17 @@
         "keywords": "amd, stiffs, researcher, bug, bounty, url, https, com",
         "generated": "2026-06-13T04:19:15.383517",
         "file": "amd-stiffs-researcher-10k-bug-bounty.md"
+    },
+    {
+        "title": "Delete Your padding-bottom Aspect-Ratio Hack",
+        "slug": "delete-your-padding-bottom-aspect-ratio-hack",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Sun, 30 Aug 2026 11:36:39 +0000",
+        "description": "Somewhere in your codebase there's a CSS rule that looks like this, and you've probably typed it from memory without thinking about why it's shaped like that...",
+        "keywords": "you, ratio, padding, aspect, width, box, one, image",
+        "generated": "2026-08-30T11:39:35.928132",
+        "file": "delete-your-padding-bottom-aspect-ratio-hack.md"
     },
     {
         "title": "LLMs do not merely reflect the bias of their training, they police it",
@@ -60841,6 +61039,17 @@
         "file": "building-conversational-ai-platforms-with-llm-and-dialogue-management.md"
     },
     {
+        "title": "Nvidia's AI advantage is moving beyond the GPU",
+        "slug": "nvidias-ai-advantage-is-moving-beyond-the-gpu",
+        "author": "01-_-",
+        "source": "hackernews",
+        "published": "Sun, 30 Aug 2026 09:57:06 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/ Comments URL: https://news.ycombinator.com/item?id=49497235 Poi...",
+        "keywords": "advantage, moving, beyond, gpu, url, https, com, comments",
+        "generated": "2026-08-30T11:39:35.925601",
+        "file": "nvidias-ai-advantage-is-moving-beyond-the-gpu.md"
+    },
+    {
         "title": "Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises",
         "slug": "fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises",
         "author": "Abhijat Chaturvedi",
@@ -61686,6 +61895,17 @@
         "keywords": "https, com, comments, john, carmack, fabrice, bellard, xcancel",
         "generated": "2026-06-16T11:22:59.963238",
         "file": "john-carmack-on-fabrice-bellard.md"
+    },
+    {
+        "title": "Characterization Tests Need a Home: Run Them on a Free Server",
+        "slug": "characterization-tests-need-a-home-run-them-on-a-free-server",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Sun, 30 Aug 2026 11:35:15 +0000",
+        "description": "Characterization tests turn messy code into a refactor target. They record current behavior before you change anything. Then you can refactor with confidence...",
+        "keywords": "you, code, free, base, json, server, harness, run",
+        "generated": "2026-08-30T11:39:35.926225",
+        "file": "characterization-tests-need-a-home-run-them-on-a-free-server.md"
     },
     {
         "title": "AI Technology in 2026: Why the Coordination Gap Beats Adoption",
