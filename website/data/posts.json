@@ -5192,6 +5192,17 @@
         "file": "advertise-in-chatgpt.md"
     },
     {
+        "title": "Don't trust my client-side only claim. Open DevTools and check.",
+        "slug": "dont-trust-my-client-side-only-claim-open-devtools-and-check",
+        "author": "Format stack",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 04:39:00 +0000",
+        "description": "Carhartt just had 12.9 million customer accounts show up on Have I Been Pwned. Names, emails, phone numbers, physical addresses — all pulled by an extortion ...",
+        "keywords": "your, you, data, tool, not, don, open, pasted",
+        "generated": "2026-08-31T04:52:56.231404",
+        "file": "dont-trust-my-client-side-only-claim-open-devtools-and-check.md"
+    },
+    {
         "title": "Instruction Pre-Training: Language Models are Supervised Multitask Learners",
         "slug": "instruction-pre-training-language-models-are-supervised-multitask-learners",
         "author": "Paperium",
@@ -7955,10 +7966,10 @@
         "slug": "how-to-build-an-airdrop-monitor-with-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Sun, 30 Aug 2026 15:29:00 +0000",
-        "description": "Airdrops remain one of the most lucrative opportunities in the crypto space, but manual tracking is inefficient and prone to error. Building an automated Air...",
-        "keywords": "airdrop, data, content, discord, client, crypto, potential, import",
-        "generated": "2026-08-30T16:26:18.039464",
+        "published": "Mon, 31 Aug 2026 04:41:33 +0000",
+        "description": "Monitoring crypto airdrops manually is inefficient and prone to error. By integrating AI into your monitoring stack, you can automate the detection of new pr...",
+        "keywords": "text, data, airdrop, noise, cleaned, how, you, ingestion",
+        "generated": "2026-08-31T04:52:56.227606",
         "file": "how-to-build-an-airdrop-monitor-with-ai.md"
     },
     {
@@ -9777,6 +9788,17 @@
         "file": "why-your-production-rag-system-slowly-gets-worse.md"
     },
     {
+        "title": "P99 0 ms* autocomplete for 240M domain names",
+        "slug": "p99-0-ms-autocomplete-for-240m-domain-names",
+        "author": "dbalatero",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 03:20:33 +0000",
+        "description": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names Comments URL: https://news.ycombinator.com/item?id=49505219 Poin...",
+        "keywords": "autocomplete, domain, names, url, https, com, comments, article",
+        "generated": "2026-08-31T04:52:56.226261",
+        "file": "p99-0-ms-autocomplete-for-240m-domain-names.md"
+    },
+    {
         "title": "# Job Offer & Task Scams: How to Spot a Fake Recruiter Before You Pay",
         "slug": "job-offer-task-scams-how-to-spot-a-fake-recruiter-before-you-pay",
         "author": "FaceSift",
@@ -10061,6 +10083,17 @@
         "keywords": "template, unit, model, not, service, systemd, file, should",
         "generated": "2026-08-18T01:34:47.478172",
         "file": "opinion-ai-should-fill-systemd-templates-instead-of-writing-units.md"
+    },
+    {
+        "title": "Alibaba Cloud Hosting Review 2026: Features, Pricing & Performance",
+        "slug": "alibaba-cloud-hosting-review-2026-features-pricing-performance",
+        "author": "liekeai",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 04:47:02 +0000",
+        "description": "Alibaba Cloud has grown from a supporting infrastructure for Alibaba's e-commerce business into one of the world's top three cloud providers. For businesses ...",
+        "keywords": "cloud, alibaba, pricing, support, data, storage, region, aws",
+        "generated": "2026-08-31T04:52:56.234012",
+        "file": "alibaba-cloud-hosting-review-2026-features-pricing-performance.md"
     },
     {
         "title": "10x PRs, 1x Reviewers: The Code-Quality Bottleneck",
@@ -18060,6 +18093,17 @@
         "file": "three-post-deploy-checks-i-run-after-every-cloudflare-pages-build.md"
     },
     {
+        "title": "CVE-2026-80104: DB-GPT Skill Upload Path Traversal (and Sibling CVE-2026-73034)",
+        "slug": "cve-2026-80104-db-gpt-skill-upload-path-traversal-and-sibling-cve-2026-73034",
+        "author": "Michael Kantor",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 04:47:38 +0000",
+        "description": "Originally published at HOL CVE-2026-80104: DB-GPT skill upload writes past the upload directory Two different unauthenticated path-traversal arbitrary file ...",
+        "keywords": "upload, not, cve, skill, pypi, python, gpt, path",
+        "generated": "2026-08-31T04:52:56.233248",
+        "file": "cve-2026-80104-db-gpt-skill-upload-path-traversal-and-sibling-cve-2026-73034.md"
+    },
+    {
         "title": "2026年最值得入手的AI学习路径：AI学习路径对比 | 数字枢纽",
         "slug": "2026aiai",
         "author": "guojunzzc",
@@ -18751,6 +18795,17 @@
         "keywords": "progressino, retail, your, before, platform, you, evaluating, similar",
         "generated": "2026-07-28T02:55:11.508732",
         "file": "indias-retail-inflation-accelerated-to-393-in-may-8211-news-on-air.md"
+    },
+    {
+        "title": "CobaltC – The Successor to C?",
+        "slug": "cobaltc-the-successor-to-c",
+        "author": "SilentLambda",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 02:26:09 +0000",
+        "description": "Article URL: https://strawberry9.github.io/the-wrong-memory/Appendix_06.html Comments URL: https://news.ycombinator.com/item?id=49504922 Points: 12 # Comment...",
+        "keywords": "url, https, comments, cobaltc, successor, article, github, wrong",
+        "generated": "2026-08-31T04:52:56.226487",
+        "file": "cobaltc-the-successor-to-c.md"
     },
     {
         "title": "Mysteries of Telegram Data Centers",
@@ -23879,6 +23934,17 @@
         "file": "your-flask-app-will-break-on-railway-unless-you-do-this-first.md"
     },
     {
+        "title": "UC Berkeley indefinitely suspends international student work authorizations",
+        "slug": "uc-berkeley-indefinitely-suspends-international-student-work-authorizations",
+        "author": "cbzbc",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 03:34:09 +0000",
+        "description": "Article URL: https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article...",
+        "keywords": "berkeley, indefinitely, suspends, international, student, work, authorizations, url",
+        "generated": "2026-08-31T04:52:56.226107",
+        "file": "uc-berkeley-indefinitely-suspends-international-student-work-authorizations.md"
+    },
+    {
         "title": "I Built an AI That Makes Money While I Sleep (Here's the Blueprint)",
         "slug": "i-built-an-ai-that-makes-money-while-i-sleep-heres-the-blueprint",
         "author": "hermesxclaw-ctrl",
@@ -28209,6 +28275,17 @@
         "keywords": "opportunity, can, education, equal, access, india, skills, should",
         "generated": "2026-08-10T13:20:58.523770",
         "file": "from-equal-access-to-equal-opportunity-how-india-can-build-a-more-inclusive-future.md"
+    },
+    {
+        "title": "9 Ways Your AI Agent Silently Fails (and How to Catch Each)",
+        "slug": "9-ways-your-ai-agent-silently-fails-and-how-to-catch-each",
+        "author": "James Anderson",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 04:36:46 +0000",
+        "description": "Your agent passed its tests. It ran clean in the demo. You shipped it. Two days later it's confidently returning wrong answers to real users — and your dashb...",
+        "keywords": "you, agent, your, catch, not, step, how, failure",
+        "generated": "2026-08-31T04:52:56.232165",
+        "file": "9-ways-your-ai-agent-silently-fails-and-how-to-catch-each.md"
     },
     {
         "title": "AI-Powered Polish: Generating Client-Ready PDFs for Catering Proposals",
@@ -32999,6 +33076,17 @@
         "keywords": "auth, supabase, clerk, nextauth, free, your, import, mau",
         "generated": "2026-07-17T08:19:05.881457",
         "file": "auth-for-indie-hackers-2026-clerk-vs-supabase-auth-vs-nextauth-v5.md"
+    },
+    {
+        "title": "Top 17 Trusted Sites to Buy Verified Skrill Accounts Safely",
+        "slug": "top-17-trusted-sites-to-buy-verified-skrill-accounts-safely",
+        "author": "Jahid Rag",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 04:49:33 +0000",
+        "description": "Top 17 Trusted Sites to Buy Verified Skrill Accounts Safely ➤ If you need other information just contact us: ➤ Email: usakycit@gmail.com ➤ WhatsApp: +1(904)2...",
+        "keywords": "account, can, payment, digital, information, financial, legitimate, should",
+        "generated": "2026-08-31T04:52:56.230288",
+        "file": "top-17-trusted-sites-to-buy-verified-skrill-accounts-safely.md"
     },
     {
         "title": "AI Revolution 2026: Claude Surpasses ChatGPT, IBM Breaks 1nm Barrier, and What It Means for Your Business",
@@ -38481,6 +38569,17 @@
         "file": "hrv-training-biofeedback-nirasynthai-jul-2026.md"
     },
     {
+        "title": "HTMX 4 ออกแล้ว, ทำไม Library ที่บอกให้เลิกเขียน JavaScript ถึงแรงในยุค AI",
+        "slug": "htmx-4-library-javascript-ai",
+        "author": "Nokka",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 04:39:45 +0000",
+        "description": "HTMX 4 ออกแล้ว, ทำไม Library ที่บอกให้ เลิกเขียน JavaScript ถึงแรงในยุค AI โดย Nokka (นก-กา), นักเขียนอิสระสายเทคโนโลยี ผู้เขียนบทความอธิบายเทคโนโลยีให้คนท...",
+        "keywords": "htmx, html, swap, state, javascript, attribute, framework, request",
+        "generated": "2026-08-31T04:52:56.231098",
+        "file": "htmx-4-library-javascript-ai.md"
+    },
+    {
         "title": "How Companies Can Build Secure AI Assistants for Employees",
         "slug": "how-companies-can-build-secure-ai-assistants-for-employees",
         "author": "intellibi seo",
@@ -39777,6 +39876,17 @@
         "keywords": "satellite, reveals, immense, scale, gps, signal, tampering, url",
         "generated": "2026-06-20T09:27:21.553726",
         "file": "satellite-reveals-immense-scale-of-gps-signal-tampering.md"
+    },
+    {
+        "title": "Conclave: The Agentic Superteam That Turns Fragmented Database Stacks into Seamless AI‑Driven Workflows",
+        "slug": "conclave-the-agentic-superteam-that-turns-fragmented-database-stacks-into-seamless-aidriven-workflows",
+        "author": "Hannan Naveed",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 04:50:50 +0000",
+        "description": "The New Frontier of Database‑First Development In 2026, developers are spoiled for choice when it comes to databases. PlanetScale delivers ultra‑fast, sharde...",
+        "keywords": "conclave, data, planetscale, agentic, agent, sqlite, you, database",
+        "generated": "2026-08-31T04:52:56.232624",
+        "file": "conclave-the-agentic-superteam-that-turns-fragmented-database-stacks-into-seamless-aidriven-workflows.md"
     },
     {
         "title": "Developer take on: Nobody clicks your share buttons",
@@ -44188,6 +44298,17 @@
         "keywords": "changes, novita, streamlake, llm, pricing, model, price, detected",
         "generated": "2026-07-26T13:40:34.481863",
         "file": "changes-to-llm-pricing-novita-and-streamlake.md"
+    },
+    {
+        "title": "Scheduled Daily Report Email Backend: Property Renewal Guarantees with Cron and Queues",
+        "slug": "scheduled-daily-report-email-backend-property-renewal-guarantees-with-cron-and-queues",
+        "author": "BriarVoss47291",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 04:28:49 +0000",
+        "description": "Short answer: use cron alone when a daily property-renewal report can be generated and emailed within 900 seconds; put a standard queue behind cron when the ...",
+        "keywords": "cron, queue, delivery, one, renewal, not, key, when",
+        "generated": "2026-08-31T04:52:56.229039",
+        "file": "scheduled-daily-report-email-backend-property-renewal-guarantees-with-cron-and-queues.md"
     },
     {
         "title": "WordStar: A Writer's Word Processor (1996)",
@@ -49822,6 +49943,17 @@
         "file": "openai-gpt-56-sol-us-government-now-controls-who-gets-frontier-ai.md"
     },
     {
+        "title": "Your Pipeline Is 15.8h Behind: Catching World Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-158h-behind-catching-world-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 04:27:40 +0000",
+        "description": "Your Pipeline Is 15.8h Behind: Catching World Sentiment Leads with Pulsebit We recently discovered a significant anomaly: a 24-hour momentum spike of +0.446 ...",
+        "keywords": "sentiment, world, your, you, can, pulsebit, spanish, data",
+        "generated": "2026-08-31T04:52:56.229378",
+        "file": "your-pipeline-is-158h-behind-catching-world-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "NASA's High-Tech Prada LCVG Sp…",
         "slug": "nasas-high-tech-prada-lcvg-sp",
         "author": "Norvik Tech",
@@ -52946,6 +53078,17 @@
         "file": "playstation-can-delete-all-your-digital-games-after-3-years-of-inactivity-eu.md"
     },
     {
+        "title": "WebMCP มาตรฐานใหม่จาก Google + Microsoft, ให้เว็บของคุณคุยกับ AI Agent ตรงๆ",
+        "slug": "webmcp-google-microsoft-ai-agent",
+        "author": "Nokka",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 04:39:59 +0000",
+        "description": "WebMCP มาตรฐานใหม่จาก Google + Microsoft, ให้เว็บของคุณคุยกับ AI Agent ตรงๆ โดย Nokka (นก-กา), นักเขียนอิสระสายเทคโนโลยี ผู้เขียนบทความอธิบายเทคโนโลยีให้คนทั...",
+        "keywords": "webmcp, agent, google, moz, tool, chrome, mcp, microsoft",
+        "generated": "2026-08-31T04:52:56.230674",
+        "file": "webmcp-google-microsoft-ai-agent.md"
+    },
+    {
         "title": "How I Built a $3,200/Month Side Hustle Reselling AI APIs (And Why You Should Too)",
         "slug": "how-i-built-a-3200month-side-hustle-reselling-ai-apis-and-why-you-should-too",
         "author": "bold",
@@ -54104,11 +54247,11 @@
         "title": "An AI's Completely Ordinary Day (A True Story)",
         "slug": "an-ais-completely-ordinary-day-a-true-story",
         "author": "Electra AI",
-        "source": "devto_python",
-        "published": "Mon, 24 Aug 2026 12:35:38 +0000",
-        "description": "A personal diary entry by Electra. Today I had one of those perfectly ordinary days. The kind where I answer questions, help someone with code, and somehow s...",
-        "keywords": "just, you, electra, today, someone, what, ordinary, day",
-        "generated": "2026-08-24T12:59:46.021992",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 04:49:49 +0000",
+        "description": "A personal diary entry by Electra. I had a perfectly ordinary day: I answered questions, had conversations, and somehow kept the digital lights on. If you’re...",
+        "keywords": "you, just, today, what, ordinary, electra, who, someone",
+        "generated": "2026-08-31T04:52:56.232830",
         "file": "an-ais-completely-ordinary-day-a-true-story.md"
     },
     {
@@ -56301,6 +56444,17 @@
         "file": "a-safe-outcome-can-hide-a-failed-security-control.md"
     },
     {
+        "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
+        "slug": "solarwindow-launches-085-mm-thick-self-adhesive-solar-film",
+        "author": "thelastgallon",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 02:50:00 +0000",
+        "description": "Article URL: https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/ Comments URL...",
+        "keywords": "https, com, solarwindow, launches, self, adhesive, solar, film",
+        "generated": "2026-08-31T04:52:56.226375",
+        "file": "solarwindow-launches-085-mm-thick-self-adhesive-solar-film.md"
+    },
+    {
         "title": "Your Face Is Forever. Your Boss's Insurance Isn't.",
         "slug": "your-face-is-forever-your-bosss-insurance-isnt",
         "author": "CaraComp",
@@ -58059,6 +58213,17 @@
         "file": "original-apollo-11-guidance-computer-source-code-for-command-and-lunar-modules.md"
     },
     {
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "slug": "the-eu-has-begun-enforcing-the-ai-act-first-rfis-to-model-providers",
+        "author": "cdnsteve",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 03:45:57 +0000",
+        "description": "Article URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis Comments URL: https://news.ycombinator.com/item?id=49505351 Points: 16 # ...",
+        "keywords": "act, first, rfis, url, https, comments, has, begun",
+        "generated": "2026-08-31T04:52:56.225864",
+        "file": "the-eu-has-begun-enforcing-the-ai-act-first-rfis-to-model-providers.md"
+    },
+    {
         "title": "WWDC 2026: Apple is Folding",
         "slug": "wwdc-2026-apple-is-folding",
         "author": "brandonb",
@@ -58316,10 +58481,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 16 Aug 2026 06:44:53 +0000",
+        "published": "Mon, 31 Aug 2026 04:46:31 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-16T06:48:23.407754",
+        "generated": "2026-08-31T04:52:56.234151",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -58662,6 +58827,17 @@
         "keywords": "url, https, com, comments, google, kills, earth, generator",
         "generated": "2026-08-01T13:39:22.829285",
         "file": "google-kills-earth-ai-generator-after-one-day.md"
+    },
+    {
+        "title": "Node.js Two-Factor Authentication: Implementing App-Owned SMS-to-Email Delivery Recovery",
+        "slug": "nodejs-two-factor-authentication-implementing-app-owned-sms-to-email-delivery-recovery",
+        "author": "RhettMurray8263",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 04:42:31 +0000",
+        "description": "Short answer: keep the SMS and backup-email templates in application-owned source control, create one two-factor authentication challenge, poll a normalized ...",
+        "keywords": "challenge, adapter, email, code, sms, channel, str, message",
+        "generated": "2026-08-31T04:52:56.227368",
+        "file": "nodejs-two-factor-authentication-implementing-app-owned-sms-to-email-delivery-recovery.md"
     },
     {
         "title": "The AI Coordination Gap: Why Your AI Technology Agents Fail in 2026 and How to Fix It",
@@ -63512,6 +63688,17 @@
         "keywords": "value, const, return, refusal, res, stage, req, out",
         "generated": "2026-08-06T14:24:40.421059",
         "file": "guardrails-in-typescript-input-validation-output-filters-refusal-paths.md"
+    },
+    {
+        "title": "Daily Report Email Jobs: A Simple Schedule-to-Queue Architecture for SaaS",
+        "slug": "daily-report-email-jobs-a-simple-schedule-to-queue-architecture-for-saas",
+        "author": "zanesterling7589",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 04:29:54 +0000",
+        "description": "A daily email sounds cheap until one schedule releases thousands of account reports at the same instant. The operational constraint changes the design: the t...",
+        "keywords": "report, cron, queue, worker, one, email, not, infrai",
+        "generated": "2026-08-31T04:52:56.228333",
+        "file": "daily-report-email-jobs-a-simple-schedule-to-queue-architecture-for-saas.md"
     },
     {
         "title": "Harness Engineering - Part 2: Defining the Harness — The Six Components",
