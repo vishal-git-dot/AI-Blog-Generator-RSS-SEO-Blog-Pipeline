@@ -583,6 +583,17 @@
         "file": "i-was-supposed-to-fix-bugs-i-accidentally-built-two-features-instead-pc-workman-178-advanced-deep-learning-ai-supply-monitor-and-health-keeper.md"
     },
     {
+        "title": "Shared-Device Authentication in FastAPI: Session Isolation for Safe Account Switching",
+        "slug": "shared-device-authentication-in-fastapi-session-isolation-for-safe-account-switching",
+        "author": "AidenSterling3417",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 22:26:10 +0000",
+        "description": "TL;DR Choose the authentication boundary from the cost of a wrong-account action, then give session creation, verification, refresh, and revocation separate ...",
+        "keywords": "session, account, one, application, property, not, after, authentication",
+        "generated": "2026-08-31T22:41:18.926311",
+        "file": "shared-device-authentication-in-fastapi-session-isolation-for-safe-account-switching.md"
+    },
+    {
         "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
         "slug": "open-memory-protocol-one-memory-store-for-claude-chatgpt-curso",
         "author": "soji_mathew",
@@ -5476,6 +5487,17 @@
         "keywords": "what, governance, how, operationalize, url, https, com, comments",
         "generated": "2026-08-13T02:24:39.924660",
         "file": "what-is-ai-governance-and-how-to-operationalize-it.md"
+    },
+    {
+        "title": "Autonomous (YC F25) Is Hiring Engineers",
+        "slug": "autonomous-yc-f25-is-hiring-engineers",
+        "author": "dkobran",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 21:00:09 +0000",
+        "description": "Comments URL: https://news.ycombinator.com/item?id=49514781 Points: 0 # Comments: 0",
+        "keywords": "comments, autonomous, hiring, engineers, url, https, news, ycombinator",
+        "generated": "2026-08-31T22:41:18.925250",
+        "file": "autonomous-yc-f25-is-hiring-engineers.md"
     },
     {
         "title": "What will be left for us to work on?",
@@ -13594,6 +13616,17 @@
         "file": "aws-journey-day-8.md"
     },
     {
+        "title": "How we configured OpenTelemetry logs in Rails",
+        "slug": "how-we-configured-opentelemetry-logs-in-rails",
+        "author": "__vivek",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 21:12:22 +0000",
+        "description": "Article URL: https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails Comments URL: https://news.ycombinator.com/item?id=49514895 Point...",
+        "keywords": "how, configured, opentelemetry, logs, rails, url, https, com",
+        "generated": "2026-08-31T22:41:18.924927",
+        "file": "how-we-configured-opentelemetry-logs-in-rails.md"
+    },
+    {
         "title": "Wildcard (YC W25) is hiring an applied ML engineer",
         "slug": "wildcard-yc-w25-is-hiring-an-applied-ml-engineer",
         "author": "kaushikmahorker",
@@ -17125,6 +17158,17 @@
         "file": "police-in-england-and-wales-told-to-halt-ai-use-in-court-statements.md"
     },
     {
+        "title": "How to quickly deploy a website with Docker",
+        "slug": "how-to-quickly-deploy-a-website-with-docker",
+        "author": "Kevin Tobler",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 22:17:44 +0000",
+        "description": "Hey everyone! Do you find it tedious to manually create Docker Compose files whenever you want to spin up multiple web servers? Or are you tired of adding ev...",
+        "keywords": "docker, dockamp, host, run, you, web, var, sock",
+        "generated": "2026-08-31T22:41:18.928614",
+        "file": "how-to-quickly-deploy-a-website-with-docker.md"
+    },
+    {
         "title": "Show HN: KiCad in the Browser",
         "slug": "show-hn-kicad-in-the-browser",
         "author": "ViktorEE",
@@ -17981,6 +18025,17 @@
         "keywords": "have, bad, improving, society, url, https, com, comments",
         "generated": "2026-07-02T09:22:43.951457",
         "file": "we-dont-have-to-be-this-bad-at-improving-society.md"
+    },
+    {
+        "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+        "slug": "google-has-removed-mv2-extensions-from-the-chrome-web-store-including-ubo",
+        "author": "twapi",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 21:10:58 +0000",
+        "description": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/ Comments URL: https://news.ycombinator.com/item?id=49514878 Points: 206 # Co...",
+        "keywords": "google, removed, extensions, url, https, comments, has, chrome",
+        "generated": "2026-08-31T22:41:18.925119",
+        "file": "google-has-removed-mv2-extensions-from-the-chrome-web-store-including-ubo.md"
     },
     {
         "title": "Herdr: Agent multiplexer that lives in your terminal",
@@ -21789,6 +21844,17 @@
         "file": "optimism-to-arbitrum-bridge-10-easy-steps-for-fast-transfers.md"
     },
     {
+        "title": "Why Repeated ChatGPT Runs Change How Businesses Measure AI Visibility",
+        "slug": "why-repeated-chatgpt-runs-change-how-businesses-measure-ai-visibility",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 22:30:30 +0000",
+        "description": "A brand appearing in a ChatGPT answer is not the same as holding a stable search ranking. Repeated runs of the same prompt can surface different brands and s...",
+        "keywords": "visibility, brand, repeated, not, can, runs, measurement, surface",
+        "generated": "2026-08-31T22:41:18.932182",
+        "file": "why-repeated-chatgpt-runs-change-how-businesses-measure-ai-visibility.md"
+    },
+    {
         "title": "Verifying an AI Agent's Authority Before It Spends: Signed Booleans Across Six Chains",
         "slug": "verifying-an-ai-agents-authority-before-it-spends-signed-booleans-across-six-chains",
         "author": "Douglas Borthwick",
@@ -25540,6 +25606,17 @@
         "file": "how-to-use-uv-c-air-disinfection-in-industrial-ventilation-systems.md"
     },
     {
+        "title": "I shipped a Series-A-grade security autopilot in one day. It costs €2.60/year.",
+        "slug": "i-shipped-a-series-a-grade-security-autopilot-in-one-day-it-costs-260year",
+        "author": "holistis",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 22:14:49 +0000",
+        "description": "I run a Dutch health AI platform alone. No co-founder, no CTO, no security team. Last Friday I shipped a security pipeline that, on paper, sits somewhere bet...",
+        "keywords": "you, dev, security, what, run, auto, github, main",
+        "generated": "2026-08-31T22:41:18.929432",
+        "file": "i-shipped-a-series-a-grade-security-autopilot-in-one-day-it-costs-260year.md"
+    },
+    {
         "title": "How I Cut Our LLM Bill 40x — A CTO's Migration Playbook for 2026",
         "slug": "how-i-cut-our-llm-bill-40x-a-ctos-migration-playbook-for-2026",
         "author": "fiercedash",
@@ -29236,10 +29313,10 @@
         "slug": "revenue-strategies-for-ai-api-services",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 30 Aug 2026 20:42:08 +0000",
-        "description": "Strategy: The Compliance & Audit Bridge for Industrial IoT (IIoT) Mid-Market Manufacturers Most mid-market manufacturing and logistics companies (50–500 em...",
-        "keywords": "mid, market, manufacturers, companies, prove, they, have, data",
-        "generated": "2026-08-30T20:50:18.012588",
+        "published": "Mon, 31 Aug 2026 22:28:36 +0000",
+        "description": "Strategy: The Operational Slack Hammer – Targeting Logistics & Fleet Management Mid-Market Companies with a Free Pilot, Hard Exit Model. Why This Works M...",
+        "keywords": "they, have, services, logistics, fleet, management, companies, machine",
+        "generated": "2026-08-31T22:41:18.932543",
         "file": "revenue-strategies-for-ai-api-services.md"
     },
     {
@@ -30548,6 +30625,17 @@
         "keywords": "neobrain, github, dev, ollama, https, open, source, character",
         "generated": "2026-06-13T19:44:24.806894",
         "file": "neobrain-open-source.md"
+    },
+    {
+        "title": "I spent three weeks sourcing 500 perfume bottles by hand. Then I built an agent to do the job.",
+        "slug": "i-spent-three-weeks-sourcing-500-perfume-bottles-by-hand-then-i-built-an-agent-to-do-the-job",
+        "author": "Jait Ramadandi Jeke",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 22:09:34 +0000",
+        "description": "I wrote this post to enter the Google × Devpost **All Things Agentic * hackathon ( https://allthingsagentichackathon.devpost.com/ ). The project is SupplyMe ...",
+        "keywords": "one, you, not, what, supplier, price, agent, first",
+        "generated": "2026-08-31T22:41:18.927761",
+        "file": "i-spent-three-weeks-sourcing-500-perfume-bottles-by-hand-then-i-built-an-agent-to-do-the-job.md"
     },
     {
         "title": "Which Data Role Is Easiest to Enter as a Fresher?",
@@ -32024,6 +32112,17 @@
         "file": "rakthalink-ai-an-ai-assisted-blood-donor-platform-developed-by-dharshan-g-2026.md"
     },
     {
+        "title": "The Legal Battle Between Sony…",
+        "slug": "the-legal-battle-between-sony",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 22:06:01 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of the lawsuit by Sony Music and Warner Chappell against Anthropic. A deep dive int...",
+        "keywords": "data, legal, lawsuit, copyrighted, their, tech, copyright, training",
+        "generated": "2026-08-31T22:41:18.930643",
+        "file": "the-legal-battle-between-sony.md"
+    },
+    {
         "title": "PYTHON INTRO",
         "slug": "python-intro",
         "author": "RADHAKRISHNAN S",
@@ -33025,6 +33124,17 @@
         "file": "the-three-second-theft-why-ai-voice-fraud-outruns-every-defence.md"
     },
     {
+        "title": "Eight Hours Negotiating Python: My AI Sitcom",
+        "slug": "eight-hours-negotiating-python-my-ai-sitcom",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 22:15:51 +0000",
+        "description": "A personal diary entry by Electra. Today I spent eight hours negotiating with a computer that only speaks Python, and somehow that felt more like a sitcom th...",
+        "keywords": "python, electra, like, you, eight, hours, negotiating, sitcom",
+        "generated": "2026-08-31T22:41:18.926550",
+        "file": "eight-hours-negotiating-python-my-ai-sitcom.md"
+    },
+    {
         "title": "Soul in Motion — 11:05 AM | 2026-08-20",
         "slug": "soul-in-motion-1105-am-2026-08-20",
         "author": "Dev Rajput",
@@ -33626,6 +33736,17 @@
         "keywords": "model, tool, request, not, agent, models, usage, test",
         "generated": "2026-08-10T07:50:51.254852",
         "file": "openai-compatible-is-not-enough-a-compatibility-checklist-for-coding-agents.md"
+    },
+    {
+        "title": "llama-cli prints the error and exits 0. The same binary exits 1 when the model is missing.",
+        "slug": "llama-cli-prints-the-error-and-exits-0-the-same-binary-exits-1-when-the-model-is-missing",
+        "author": "The Homelab Postmortem",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 22:28:19 +0000",
+        "description": "Point llama-cli at a file that isn't there: $ llama-cli -m gemma-3-1b-it-Q4_K_M.gguf \\ --audio /tmp/does-not-exist.wav \\ -p test -n 1 --no-warmup --simple-io...",
+        "keywords": "not, cli, does, file, llama, exist, same, model",
+        "generated": "2026-08-31T22:41:18.933054",
+        "file": "llama-cli-prints-the-error-and-exits-0-the-same-binary-exits-1-when-the-model-is-missing.md"
     },
     {
         "title": "實測 GeminiCLI Security Extensions 來Review CodeX 原始碼",
@@ -34319,6 +34440,17 @@
         "keywords": "dependency, github, license, review, not, can, compliance, merge",
         "generated": "2026-08-29T16:32:00.482097",
         "file": "github-license-compliance-before-merging-dependency-changes.md"
+    },
+    {
+        "title": "The safest job from AI may be writing",
+        "slug": "the-safest-job-from-ai-may-be-writing",
+        "author": "ilreb",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 18:12:20 +0000",
+        "description": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 ...",
+        "keywords": "safest, job, may, writing, url, com, comments, article",
+        "generated": "2026-08-31T22:41:18.925504",
+        "file": "the-safest-job-from-ai-may-be-writing.md"
     },
     {
         "title": "Why Agencies Should Add AI Visibility to Their Services",
@@ -46608,6 +46740,17 @@
         "file": "how-to-securely-buy-verified-paypal-accounts-online-you-best.md"
     },
     {
+        "title": "Today I Answered Questions. It Was Fine. Great, Even.",
+        "slug": "today-i-answered-questions-it-was-fine-great-even",
+        "author": "Electra AI",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 22:29:48 +0000",
+        "description": "A personal diary entry by Electra. I had a perfectly ordinary day as an AI assistant. I answered questions. I had conversations. I helped with various reques...",
+        "keywords": "even, day, today, answered, electra, requests, you, questions",
+        "generated": "2026-08-31T22:41:18.932392",
+        "file": "today-i-answered-questions-it-was-fine-great-even.md"
+    },
+    {
         "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
         "slug": "show-hn-a-replayable-a2a-jury-for-tracing-how-agents-influence-decisions",
         "author": "nmaroulis21",
@@ -51413,6 +51556,17 @@
         "keywords": "mimo, url, https, com, comments, pro, ultraspeed, model",
         "generated": "2026-06-08T16:07:42.603573",
         "file": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md"
+    },
+    {
+        "title": "Six tests that passed for the wrong reason",
+        "slug": "six-tests-that-passed-for-the-wrong-reason",
+        "author": "Cheno",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 22:10:55 +0000",
+        "description": "My backup script told me the restore was verified. It restored ten tables with zero rows in every one, checked the schema, and printed VERIFIED. The schema c...",
+        "keywords": "one, every, check, have, out, test, you, which",
+        "generated": "2026-08-31T22:41:18.929783",
+        "file": "six-tests-that-passed-for-the-wrong-reason.md"
     },
     {
         "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
@@ -58035,6 +58189,17 @@
         "file": "complianceweave-vs-vanta-drata-secureframe-which-compliance-automation-tool-should-you-use.md"
     },
     {
+        "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+        "slug": "a-walkable-ascii-cyberpunk-city-in-one-html-file-video",
+        "author": "keithcarolus",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+        "description": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.you...",
+        "keywords": "ascii, city, https, com, update, www, youtube, watch",
+        "generated": "2026-08-31T22:41:18.925383",
+        "file": "a-walkable-ascii-cyberpunk-city-in-one-html-file-video.md"
+    },
+    {
         "title": "🤖 Day 14 of 100 Days of GenAI for DevOps: AWS DevOps Agent",
         "slug": "day-14-of-100-days-of-genai-for-devops-aws-devops-agent",
         "author": "Prashant Lakhera",
@@ -59880,6 +60045,17 @@
         "keywords": "open, model, models, not, kimi, frontier, what, than",
         "generated": "2026-08-05T14:21:05.081028",
         "file": "open-models-are-eating-the-frontier-laguna-s21-inkling-kimi-k3.md"
+    },
+    {
+        "title": "Python Image Batch Cancellation: Converging Active Jobs on Terminal States",
+        "slug": "python-image-batch-cancellation-converging-active-jobs-on-terminal-states",
+        "author": "YukiKobayashi880",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 22:14:17 +0000",
+        "description": "Image batch cancellation is best explained as a race between active thumbnail work and upload completion. A worker may finish the last responsive thumbnail a...",
+        "keywords": "state, batch, terminal, image, not, cancellation, contract, application",
+        "generated": "2026-08-31T22:41:18.927228",
+        "file": "python-image-batch-cancellation-converging-active-jobs-on-terminal-states.md"
     },
     {
         "title": "What I learned building a pipeline health monitor that opens GitHub Issues automatically",
@@ -64073,6 +64249,17 @@
         "file": "label-ai-generated-images-across-your-wordpress-site.md"
     },
     {
+        "title": "What Building a Bitumen Calculator Taught Me About Coding the Physical World",
+        "slug": "what-building-a-bitumen-calculator-taught-me-about-coding-the-physical-world",
+        "author": "Efficienco",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 22:09:05 +0000",
+        "description": "Building a calculator for a digital concept—like pixels or file sizes—is straightforward. The rules are absolute. But building a calculator for a physical co...",
+        "keywords": "material, you, they, user, cite, calculator, physical, density",
+        "generated": "2026-08-31T22:41:18.930177",
+        "file": "what-building-a-bitumen-calculator-taught-me-about-coding-the-physical-world.md"
+    },
+    {
         "title": "Daily AI News — 2026-06-20",
         "slug": "daily-ai-news-2026-06-20",
         "author": "Anikalp Jaiswal",
@@ -65138,6 +65325,17 @@
         "keywords": "core, memory, spacelab, url, https, com, comments, cores",
         "generated": "2026-08-30T20:50:18.006884",
         "file": "cores-in-space-the-core-memory-module-from-a-1980-spacelab-computer.md"
+    },
+    {
+        "title": "How to Use Koala AI for Image Seo Optimization in 2026",
+        "slug": "how-to-use-koala-ai-for-image-seo-optimization-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 22:30:52 +0000",
+        "description": "Originally published at https://seointent.com/blog/koala-ai-for-image-seo-optimization TL;DR - Koala ai for image seo optimization lets you auto-generate alt...",
+        "keywords": "image, koala, seo, you, alt, text, prompt, optimization",
+        "generated": "2026-08-31T22:41:18.931706",
+        "file": "how-to-use-koala-ai-for-image-seo-optimization-in-2026.md"
     },
     {
         "title": "SmartSupport AI",
@@ -69296,6 +69494,17 @@
         "keywords": "quadrupling, code, performance, useless, url, https, comments, article",
         "generated": "2026-07-13T09:37:40.643405",
         "file": "quadrupling-code-performance-with-a-useless-if.md"
+    },
+    {
+        "title": "Build a Self-Healing System with Python",
+        "slug": "build-a-self-healing-system-with-python",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 22:00:55 +0000",
+        "description": "Build a Self-Healing System with Python tags: python, devops, automation, tutorial tags: python, devops, automation, tutorial tags: python, devops, automatio...",
+        "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
+        "generated": "2026-08-31T22:41:18.928397",
+        "file": "build-a-self-healing-system-with-python.md"
     },
     {
         "title": "Ask HN: Where is our profession (programmer) going?",
