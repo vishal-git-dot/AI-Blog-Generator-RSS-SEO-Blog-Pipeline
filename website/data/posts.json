@@ -726,6 +726,17 @@
         "file": "one-api-every-ai.md"
     },
     {
+        "title": "Pin a Pricing Snapshot Before an AI Agent Run",
+        "slug": "pin-a-pricing-snapshot-before-an-ai-agent-run",
+        "author": "Mattias chaw",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 13:14:05 +0000",
+        "description": "Pin a Pricing Snapshot Before an AI Agent Run Long-running AI agents do not fail like normal API calls. A chat completion either returns or it does not. An a...",
+        "keywords": "not, run, model, pricing, snapshot, agent, text, route",
+        "generated": "2026-08-31T13:15:26.832632",
+        "file": "pin-a-pricing-snapshot-before-an-ai-agent-run.md"
+    },
+    {
         "title": "Build a Network Scanner with Python and Scapy",
         "slug": "build-a-network-scanner-with-python-and-scapy",
         "author": "qing",
@@ -2209,6 +2220,17 @@
         "keywords": "python, zip, optional, strict, parameter, you, lists, til",
         "generated": "2026-06-28T04:20:44.691027",
         "file": "til-pythons-zip-can-accept-an-optional-strict-parameter.md"
+    },
+    {
+        "title": "I built a free browser-based image & utility toolkit — here's what I learned",
+        "slug": "i-built-a-free-browser-based-image-utility-toolkit-heres-what-i-learned",
+        "author": "toolzip",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 13:12:04 +0000",
+        "description": "Why I Built ToolZip A few months ago, I needed to compress some images for a client project. I searched for a free online tool, found one, uploaded my files ...",
+        "keywords": "toolzip, files, true, what, tools, generator, api, ean",
+        "generated": "2026-08-31T13:15:26.830392",
+        "file": "i-built-a-free-browser-based-image-utility-toolkit-heres-what-i-learned.md"
     },
     {
         "title": "ATL más Función Seno para hacer animaciones fluídas.",
@@ -4213,6 +4235,17 @@
         "file": "networking-and-the-internet-from-first-principles.md"
     },
     {
+        "title": "Your AI Skills Have the Same Problem as Your CLAUDE.md. Here's the Data.",
+        "slug": "your-ai-skills-have-the-same-problem-as-your-claudemd-heres-the-data",
+        "author": "James Coombs",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 13:13:43 +0000",
+        "description": "James Coombs is a design engineer who ran a 42-run controlled study to test whether a discipline skill he wrote, and used for months, caught anything a plain...",
+        "keywords": "skill, one, agent, not, claude, control, whether, already",
+        "generated": "2026-08-31T13:15:26.833158",
+        "file": "your-ai-skills-have-the-same-problem-as-your-claudemd-heres-the-data.md"
+    },
+    {
         "title": "Why My AI Kept Giving Me Invalid JSON (And How I Fixed It)",
         "slug": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it",
         "author": "zhongqiyue",
@@ -5377,6 +5410,17 @@
         "keywords": "frase, you, brand, content, your, mention, how, tracking",
         "generated": "2026-08-08T12:58:39.640415",
         "file": "how-to-use-frase-for-brand-mention-tracking-in-ai-in-2026.md"
+    },
+    {
+        "title": "How to Trace Cookies and Tokens Across HTTP Requests with Reqvexa",
+        "slug": "how-to-trace-cookies-and-tokens-across-http-requests-with-reqvexa",
+        "author": "Kareem Hesham",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 12:50:20 +0000",
+        "description": "An open-source Python HAR analyzer that reconstructs the state dependencies behind a target API request. Browser DevTools can show you every request a page m...",
+        "keywords": "reqvexa, request, not, response, value, har, traffic, values",
+        "generated": "2026-08-31T13:15:26.827055",
+        "file": "how-to-trace-cookies-and-tokens-across-http-requests-with-reqvexa.md"
     },
     {
         "title": "AI-Driven Test Automation Is Not a Testing Strategy, It's a Decision Shift",
@@ -10019,6 +10063,17 @@
         "file": "best-everyday-carry-phone-accessories.md"
     },
     {
+        "title": "When a UV-C Ventilation Section Is Installed Incorrectly",
+        "slug": "when-a-uv-c-ventilation-section-is-installed-incorrectly",
+        "author": "member_677e0a68",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 13:13:41 +0000",
+        "description": "A UV-C section can be correctly built and still perform poorly if it is selected only by lamp power and duct dimensions. In food production, this often happe...",
+        "keywords": "section, air, lamp, airflow, not, distribution, maintenance, ventilation",
+        "generated": "2026-08-31T13:15:26.833420",
+        "file": "when-a-uv-c-ventilation-section-is-installed-incorrectly.md"
+    },
+    {
         "title": "My First Portfolio Website",
         "slug": "my-first-portfolio-website",
         "author": "EMMY FOREX & TECH LTD",
@@ -13330,6 +13385,17 @@
         "file": "w4me-station-a-wasm-4-runtime-for-java-me-phones.md"
     },
     {
+        "title": "dbt Was Not Designed for Multi-Tenant SaaS. Here's How I Made It Work.",
+        "slug": "dbt-was-not-designed-for-multi-tenant-saas-heres-how-i-made-it-work",
+        "author": "Evgenii Timofeev",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 12:48:32 +0000",
+        "description": "dbt wants a project directory on disk. One dbt_project.yml . One profiles.yml . Files in models/ . This works great for a single team. It doesn't work at all...",
+        "keywords": "dbt, tenant, yml, per, sql, models, directory, every",
+        "generated": "2026-08-31T13:15:26.827546",
+        "file": "dbt-was-not-designed-for-multi-tenant-saas-heres-how-i-made-it-work.md"
+    },
+    {
         "title": "Egg consumption inversely correlated with Alzheimer's",
         "slug": "egg-consumption-inversely-correlated-with-alzheimers",
         "author": "natbennett",
@@ -14362,6 +14428,17 @@
         "keywords": "you, graph, function, just, what, agent, code, relational",
         "generated": "2026-07-03T14:21:09.819362",
         "file": "ai-agents-kept-get-in-the-loop-of-hallucination-so-i-resolved-it.md"
+    },
+    {
+        "title": "dlt and dbt Silently Filled My Disk. Here's the Cleanup System I Had to Build.",
+        "slug": "dlt-and-dbt-silently-filled-my-disk-heres-the-cleanup-system-i-had-to-build",
+        "author": "Evgenii Timofeev",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 12:53:35 +0000",
+        "description": "After running pipelines for a few days in production, disk usage was climbing steadily. Turns out both dlt and dbt leave temporary files everywhere, and neit...",
+        "keywords": "run, dbt, dlt, disk, cleanup, tenant, files, runs",
+        "generated": "2026-08-31T13:15:26.826525",
+        "file": "dlt-and-dbt-silently-filled-my-disk-heres-the-cleanup-system-i-had-to-build.md"
     },
     {
         "title": "Building an AI Agent with17 Brain Regions: The MeshCtx Architecture",
@@ -18311,6 +18388,17 @@
         "keywords": "you, bitcoin, your, can, loan, collateral, backed, omnilender",
         "generated": "2026-07-25T13:46:22.466121",
         "file": "how-to-finance-elective-procedures-with-bitcoin-collateral-in-2026.md"
+    },
+    {
+        "title": "Debounce and Throttle in JavaScript: The Complete Guide",
+        "slug": "debounce-and-throttle-in-javascript-the-complete-guide",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 13:12:13 +0000",
+        "description": "Type javascript into an unthrottled search box and watch the network tab: an HTTP request for j , another for ja , another for jav , ten in total, nine of ...",
+        "keywords": "debounce, throttle, function, call, cancel, timeoutid, you, trailing",
+        "generated": "2026-08-31T13:15:26.829963",
+        "file": "debounce-and-throttle-in-javascript-the-complete-guide.md"
     },
     {
         "title": "27: Gaming Keyboards, N-Key Rollover, and Anti-Ghosting: Everything Gamers Need to Know",
@@ -25507,6 +25595,17 @@
         "file": "crustc-entirety-of-rustc-translated-to-c.md"
     },
     {
+        "title": "A Deep Dive Into What are the best hotel automation/guest room control system providers in 2026?",
+        "slug": "a-deep-dive-into-what-are-the-best-hotel-automationguest-room-control-system-providers-in-2026",
+        "author": "JELON Smart Hotel",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 13:12:59 +0000",
+        "description": "Having worked in hospitality tech consulting for the past 15 years, I've evaluated dozens of guest room control system (GRCS) providers across Asia, Europe, ...",
+        "keywords": "room, hotel, control, jelong, guest, energy, smart, automation",
+        "generated": "2026-08-31T13:15:26.833853",
+        "file": "a-deep-dive-into-what-are-the-best-hotel-automationguest-room-control-system-providers-in-2026.md"
+    },
+    {
         "title": "Tenant Billing Software: How to Automate Energy Billing for Multi-Tenant Buildings",
         "slug": "tenant-billing-software-how-to-automate-energy-billing-for-multi-tenant-buildings",
         "author": "Ensmart Office",
@@ -27573,6 +27672,17 @@
         "file": "cheapest-ai-apis-2026-a-cloud-architects-field-notes.md"
     },
     {
+        "title": "Build Your First Scikit-learn Pipeline",
+        "slug": "build-your-first-scikit-learn-pipeline",
+        "author": "EricMWaimiri",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 12:55:50 +0000",
+        "description": "If you're new to scikit-learn, Pipelines can sound like an advanced topic to save for later. They're not. In this tutorial, we'll build one from scratch us...",
+        "keywords": "pipeline, step, you, one, import, sklearn, titanic, columns",
+        "generated": "2026-08-31T13:15:26.826168",
+        "file": "build-your-first-scikit-learn-pipeline.md"
+    },
+    {
         "title": "I Built a Privacy-First Health Record MCP Server That Runs Entirely on Your Machine",
         "slug": "i-built-a-privacy-first-health-record-mcp-server-that-runs-entirely-on-your-machine",
         "author": "Priyanshu Goel",
@@ -28066,6 +28176,17 @@
         "keywords": "elpis, context, agent, runtime, model, file, user, tui",
         "generated": "2026-07-15T19:19:36.616904",
         "file": "project-elpis-why-ai-coding-agents-need-a-system-layer.md"
+    },
+    {
+        "title": "Only10 Vol.26.07 | 10 AI Projects Worth Watching This Week",
+        "slug": "only10-vol2607-10-ai-projects-worth-watching-this-week",
+        "author": "aiomniu",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 13:12:31 +0000",
+        "description": "Every day, countless new AI projects launch worldwide. Each week, we scan the latest projects and use the CRP framework to surface the 10 that truly deserve ...",
+        "keywords": "source, agent, advisor, devil, historian, budget, steward, founder",
+        "generated": "2026-08-31T13:15:26.828816",
+        "file": "only10-vol2607-10-ai-projects-worth-watching-this-week.md"
     },
     {
         "title": "How to Use Frase for Content Rewriting in 2026",
@@ -32057,6 +32178,17 @@
         "file": "remote-opportunities-open-for-developers.md"
     },
     {
+        "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+        "slug": "what-i-learned-about-ai-trust-from-reconciling-over-100b-transactions",
+        "author": "Cellz",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 11:34:28 +0000",
+        "description": "Article URL: https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling Comments URL: https://news.ycombinator.com/item?id=49508443 Po...",
+        "keywords": "what, learned, trust, reconciling, url, https, com, comments",
+        "generated": "2026-08-31T13:15:26.825602",
+        "file": "what-i-learned-about-ai-trust-from-reconciling-over-100b-transactions.md"
+    },
+    {
         "title": "Hash-Chain Your Free Model Responses Before You Trust Them",
         "slug": "hash-chain-your-free-model-responses-before-you-trust-them",
         "author": "Dakota Huang",
@@ -35027,6 +35159,15 @@
         "keywords": "shayari, can, you, people, feelings, they, reading, some",
         "generated": "2026-07-24T08:34:24.203354",
         "file": "is-reading-sad-shayari-actually-helpful-after-a-breakup.md"
+    },
+    {
+        "title": "Wiring Android's CameraX to a Quantized Vision-Language Model",
+        "slug": "wiring-androids-camerax-to-a-quantized-vision-language-model",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 13:11:44 +0000",
+        "description": "",
+        "file": "wiring-androids-camerax-to-a-quantized-vision-language-model.md"
     },
     {
         "title": "How to Reduce Hallucinations in AI Chatbots",
@@ -38666,6 +38807,17 @@
         "keywords": "you, same, what, model, tokens, one, models, per",
         "generated": "2026-06-13T14:12:06.674143",
         "file": "i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide.md"
+    },
+    {
+        "title": "The 402 challenge is already the price tag — stop copying it into your discovery manifest",
+        "slug": "the-402-challenge-is-already-the-price-tag-stop-copying-it-into-your-discovery-manifest",
+        "author": "minia2a",
+        "source": "devto_ai",
+        "published": "Mon, 31 Aug 2026 13:14:13 +0000",
+        "description": "If you're building a discovery layer for pay-per-call APIs — a registry where agents look up what can I call and what does it cost — there's a decision you...",
+        "keywords": "you, manifest, policy, discovery, challenge, spec, your, what",
+        "generated": "2026-08-31T13:15:26.831913",
+        "file": "the-402-challenge-is-already-the-price-tag-stop-copying-it-into-your-discovery-manifest.md"
     },
     {
         "title": "Show HN: Mojibake – A low-level Unicode library written in C",
@@ -42494,6 +42646,17 @@
         "keywords": "got, hacking, url, https, comments, article, obaid, wtf",
         "generated": "2026-07-24T19:37:11.863057",
         "file": "i-got-into-yc-by-hacking-it.md"
+    },
+    {
+        "title": "The British state has lost the argument",
+        "slug": "the-british-state-has-lost-the-argument",
+        "author": "hackandthink",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 12:13:18 +0000",
+        "description": "Article URL: https://jonathancook.substack.com/p/the-british-state-has-lost-the-argument Comments URL: https://news.ycombinator.com/item?id=49508715 Points: ...",
+        "keywords": "british, state, has, lost, argument, url, https, com",
+        "generated": "2026-08-31T13:15:26.825261",
+        "file": "the-british-state-has-lost-the-argument.md"
     },
     {
         "title": "I Shipped a Pixel-Pet SaaS for OpenAI Codex — and the Rate-Limit + Payment Setup That Made It Safe",
@@ -51428,6 +51591,17 @@
         "file": "percentage-calculator-6-modes-for-every-percent-math-problem.md"
     },
     {
+        "title": "Stock Screener Automation: How a Trader Replaced ₹47K/Month Advisory with a Python Script",
+        "slug": "stock-screener-automation-how-a-trader-replaced-47kmonth-advisory-with-a-python-script",
+        "author": "Archit Mittal",
+        "source": "devto_python",
+        "published": "Mon, 31 Aug 2026 12:45:05 +0000",
+        "description": "₹47,000 every month. That's what my friend Rohit was paying a fund advisory service to tell him which stocks matched his criteria. Six filters — RSI below 40...",
+        "keywords": "you, script, screening, time, data, filters, api, advisory",
+        "generated": "2026-08-31T13:15:26.828203",
+        "file": "stock-screener-automation-how-a-trader-replaced-47kmonth-advisory-with-a-python-script.md"
+    },
+    {
         "title": "Facebook is paying people overseas promoting Alberta separatism",
         "slug": "facebook-is-paying-people-overseas-promoting-alberta-separatism",
         "author": "vrganj",
@@ -54682,6 +54856,17 @@
         "keywords": "openai, anthropic, open, url, https, com, comments, unite",
         "generated": "2026-07-23T14:15:19.710548",
         "file": "openai-and-anthropic-unite-against-open-weight-ai-risks-to-their-bottom-line.md"
+    },
+    {
+        "title": "Agent Memory as a File Format",
+        "slug": "agent-memory-as-a-file-format",
+        "author": "ingve",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 11:17:25 +0000",
+        "description": "Article URL: https://calpaterson.com/memoryfields.html Comments URL: https://news.ycombinator.com/item?id=49508317 Points: 29 # Comments: 22",
+        "keywords": "url, https, com, comments, agent, memory, file, format",
+        "generated": "2026-08-31T13:15:26.825814",
+        "file": "agent-memory-as-a-file-format.md"
     },
     {
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
@@ -61391,6 +61576,17 @@
         "file": "ekhemm.md"
     },
     {
+        "title": "You Don't Need a WebSocket for That Live Feed",
+        "slug": "you-dont-need-a-websocket-for-that-live-feed",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Mon, 31 Aug 2026 13:11:42 +0000",
+        "description": "You need a live notification badge. The count in the corner should tick up the moment something happens on the server — no refresh, no polling every three se...",
+        "keywords": "you, browser, data, server, socket, event, one, your",
+        "generated": "2026-08-31T13:15:26.831501",
+        "file": "you-dont-need-a-websocket-for-that-live-feed.md"
+    },
+    {
         "title": "Tracing a powerful GNSS interference source over Europe",
         "slug": "tracing-a-powerful-gnss-interference-source-over-europe",
         "author": "mimorigasaka",
@@ -64757,6 +64953,17 @@
         "file": "if-you-ship-on-vercel-the-code-is-yours-to-read.md"
     },
     {
+        "title": "I Think the Military Commissary's Freezers Were Hacked",
+        "slug": "i-think-the-military-commissarys-freezers-were-hacked",
+        "author": "jcurbo",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 11:45:48 +0000",
+        "description": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points...",
+        "keywords": "think, commissary, hacked, url, https, com, comments, military",
+        "generated": "2026-08-31T13:15:26.825457",
+        "file": "i-think-the-military-commissarys-freezers-were-hacked.md"
+    },
+    {
         "title": "CieldX Wallet App: The Best Crypto Wallet for Secure Recovery",
         "slug": "cieldx-wallet-app-the-best-crypto-wallet-for-secure-recovery",
         "author": "Coins Everything",
@@ -66614,6 +66821,17 @@
         "keywords": "accounts, account, facebook, itpvapro, com, usa, activity, security",
         "generated": "2026-07-02T19:40:41.066709",
         "file": "buy-usa-facebook-accounts-what-you-should-know.md"
+    },
+    {
+        "title": "The Universe as a Minified Bundle",
+        "slug": "the-universe-as-a-minified-bundle",
+        "author": "cs1996",
+        "source": "hackernews",
+        "published": "Mon, 31 Aug 2026 11:24:30 +0000",
+        "description": "Article URL: https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/ Comments URL: https://news.ycombinator.com/item?id=49508367 Points...",
+        "keywords": "universe, minified, bundle, url, https, comments, article, andrewarrow",
+        "generated": "2026-08-31T13:15:26.825710",
+        "file": "the-universe-as-a-minified-bundle.md"
     },
     {
         "title": "World Train Map – 1247 train routes around the world",
