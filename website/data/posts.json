@@ -132,6 +132,17 @@
         "file": "early-warning-system-using-lst.md"
     },
     {
+        "title": "Inside `inkeep/open-knowledge`: An AI-Native Markdown Workspace Worth Watching",
+        "slug": "inside-inkeepopen-knowledge-an-ai-native-markdown-workspace-worth-watching",
+        "author": "power zhong",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 16:10:03 +0000",
+        "description": "inkeep/open-knowledge is gaining attention for a practical reason: it treats documentation as an interactive knowledge system rather than a folder of static ...",
+        "keywords": "knowledge, open, markdown, documentation, inkeep, project, content, workflow",
+        "generated": "2026-09-01T16:22:54.366115",
+        "file": "inside-inkeepopen-knowledge-an-ai-native-markdown-workspace-worth-watching.md"
+    },
+    {
         "title": "I gave an LLM agent write access to my cloud drive. Three bugs taught me how to constrain it.",
         "slug": "i-gave-an-llm-agent-write-access-to-my-cloud-drive-three-bugs-taught-me-how-to-constrain-it",
         "author": "Fancy39",
@@ -603,6 +614,17 @@
         "keywords": "session, account, one, application, property, not, after, authentication",
         "generated": "2026-08-31T22:41:18.926311",
         "file": "shared-device-authentication-in-fastapi-session-isolation-for-safe-account-switching.md"
+    },
+    {
+        "title": "Sécuriser les agents IA avec un pipeline de vérification en 12 étapes",
+        "slug": "scuriser-les-agents-ia-avec-un-pipeline-de-vrification-en-12-tapes",
+        "author": "Edison Flores",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 16:12:00 +0000",
+        "description": "Introduction Cet article est un guide technique pour les développeurs francophones qui veulent sécuriser leurs agents IA. Nous allons couvrir le pipeline de ...",
+        "keywords": "les, une, qui, correctement, mais, des, pipeline, est",
+        "generated": "2026-09-01T16:22:54.367799",
+        "file": "scuriser-les-agents-ia-avec-un-pipeline-de-vrification-en-12-tapes.md"
     },
     {
         "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
@@ -2913,6 +2935,17 @@
         "keywords": "documentation, one, engineering, teams, should, not, more, across",
         "generated": "2026-08-10T13:20:58.526334",
         "file": "stop-treating-documentation-like-an-afterthought.md"
+    },
+    {
+        "title": "Keenable SELECT: an agent that searches the web in SQL",
+        "slug": "keenable-select-an-agent-that-searches-the-web-in-sql",
+        "author": "phoenix120",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 15:41:03 +0000",
+        "description": "Article URL: https://keenableai.github.io/select-showcase/ Comments URL: https://news.ycombinator.com/item?id=49523473 Points: 12 # Comments: 0",
+        "keywords": "select, url, https, comments, keenable, agent, searches, web",
+        "generated": "2026-09-01T16:22:54.362579",
+        "file": "keenable-select-an-agent-that-searches-the-web-in-sql.md"
     },
     {
         "title": "The Role of AI-Powered Analytics in Improving Operational Efficiency",
@@ -6567,6 +6600,17 @@
         "file": "four-years-ago-a-crypto-boss-went-missing-now-his-successor-has.md"
     },
     {
+        "title": "Building a Bulletproof Python CI Pipeline with GitHub Actions, DevPod & Mise (+ the Real-World Bugs We Squashed Along the Way)",
+        "slug": "building-a-bulletproof-python-ci-pipeline-with-github-actions-devpod-mise-the-real-world-bugs-we-squashed-along-the-way",
+        "author": "Alan Varghese",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 16:07:35 +0000",
+        "description": "A complete guide to building reproducible, containerized Python CI pipelines using DevPod, Mise, Ruff, pytest, and GitHub Actions—featuring hard-won lessons ...",
+        "keywords": "mise, pytest, github, python, actions, import, test, run",
+        "generated": "2026-09-01T16:22:54.363854",
+        "file": "building-a-bulletproof-python-ci-pipeline-with-github-actions-devpod-mise-the-real-world-bugs-we-squashed-along-the-way.md"
+    },
+    {
         "title": "Connecticut Sun vs Toronto Tempo: WNBA Preview & Picks",
         "slug": "connecticut-sun-vs-toronto-tempo-wnba-preview-picks",
         "author": "James Mullinaux",
@@ -7344,6 +7388,17 @@
         "keywords": "fedora, sausage, factory, url, https, com, comments, article",
         "generated": "2026-07-25T13:46:22.464353",
         "file": "the-fedora-45-sausage-factory.md"
+    },
+    {
+        "title": "EFF to Governor Newsom: Veto California's AB 1709",
+        "slug": "eff-to-governor-newsom-veto-californias-ab-1709",
+        "author": "mdp2021",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 15:04:14 +0000",
+        "description": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709 Comments URL: https://news.ycombinator.com/item?id=49522954 Points...",
+        "keywords": "eff, newsom, veto, url, https, comments, governor, california",
+        "generated": "2026-09-01T16:22:54.362846",
+        "file": "eff-to-governor-newsom-veto-californias-ab-1709.md"
     },
     {
         "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
@@ -11557,6 +11612,17 @@
         "keywords": "outcome, calibration, not, catastrophe, model, binary, prediction, rate",
         "generated": "2026-08-20T01:35:46.539542",
         "file": "how-i-built-a-catastrophe-prediction-calibration-detector-in-90-lines-of-vanilla-javascript-no-ai-no-ml-no-statistics-library.md"
+    },
+    {
+        "title": "Absent is not zero: the API read that voided our own audit",
+        "slug": "absent-is-not-zero-the-api-read-that-voided-our-own-audit",
+        "author": "Oroboro Labs",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 15:55:03 +0000",
+        "description": "Absent is not zero: the API read that voided our own audit Absent is not zero: the API read that voided our own audit 2026-09-01 · field note from the experi...",
+        "keywords": "not, read, zero, our, five, views, own, audit",
+        "generated": "2026-09-01T16:22:54.364762",
+        "file": "absent-is-not-zero-the-api-read-that-voided-our-own-audit.md"
     },
     {
         "title": "Meta's blockbuster trial draws parallels to big tobacco",
@@ -25287,6 +25353,17 @@
         "file": "how-i-stopped-burning-cash-on-token-limits-a-ctos-field-notes.md"
     },
     {
+        "title": "Universal Trust Adapter: Das USB-C der Vertrauensstellung zwischen KI-Agenten (auf Deutsch)",
+        "slug": "universal-trust-adapter-das-usb-c-der-vertrauensstellung-zwischen-ki-agenten-auf-deutsch",
+        "author": "Edison Flores",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 16:13:02 +0000",
+        "description": "Warum dieser Artikel auf Deutsch Ich veröffentliche seit Wochen auf Englisch über den Universal Trust Adapter (UTA) . Aber ein erheblicher Teil der Entwickle...",
+        "keywords": "die, trust, sie, der, ist, uta, adapter, das",
+        "generated": "2026-09-01T16:22:54.367526",
+        "file": "universal-trust-adapter-das-usb-c-der-vertrauensstellung-zwischen-ki-agenten-auf-deutsch.md"
+    },
+    {
         "title": "The Best AI Outsourcing Companies in 2026",
         "slug": "the-best-ai-outsourcing-companies-in-2026",
         "author": "Rowan Whitaker",
@@ -25551,6 +25628,17 @@
         "file": "introducing-nextpy-building-the-future-of-full-stack-python-development.md"
     },
     {
+        "title": "Can remote travel between home and office count as paid worktime under the FLSA?",
+        "slug": "can-remote-travel-between-home-and-office-count-as-paid-worktime-under-the-flsa",
+        "author": "Dev Connect",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 16:15:32 +0000",
+        "description": "Short answer: Yes, if the trip is part of the workday or follows a first principal work task. No, ordinary home-to-office commuting stays unpaid under the FL...",
+        "keywords": "work, travel, home, not, employee, office, time, workday",
+        "generated": "2026-09-01T16:22:54.365283",
+        "file": "can-remote-travel-between-home-and-office-count-as-paid-worktime-under-the-flsa.md"
+    },
+    {
         "title": "Top 10 Reliable Websites for Buying Gmail Accounts",
         "slug": "top-10-reliable-websites-for-buying-gmail-accounts",
         "author": "Stephen Robart",
@@ -25637,6 +25725,17 @@
         "keywords": "built, listings, real, estate, site, same, agents, what",
         "generated": "2026-06-19T19:55:28.881942",
         "file": "why-i-built-a-real-estate-tool-with-zero-real-estate-listings.md"
+    },
+    {
+        "title": "Green Is a Measurement, Not a Decision",
+        "slug": "green-is-a-measurement-not-a-decision",
+        "author": "Pratik Patel",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 16:11:33 +0000",
+        "description": "I keep watching the same meeting. Someone asks if the agent is ready. Someone else shares a dashboard. The suite is green. The conversation ends. That used t...",
+        "keywords": "you, suite, not, decision, green, accuracy, system, agent",
+        "generated": "2026-09-01T16:22:54.368222",
+        "file": "green-is-a-measurement-not-a-decision.md"
     },
     {
         "title": "Elevate Your Skillset: Top Reasons to Pursue Python Full Stack Training in Marathahalli for Career Growth in 2026",
@@ -27237,11 +27336,11 @@
         "title": "Building a DeFi Yield Scanner with Python and AI",
         "slug": "building-a-defi-yield-scanner-with-python-and-ai",
         "author": "Nexus Intelligence Research",
-        "source": "devto_ai",
-        "published": "Sun, 30 Aug 2026 20:44:39 +0000",
-        "description": "Building a decentralized finance (DeFi) yield scanner requires navigating fragmented data across multiple blockchains. By combining Python’s data-processing ...",
-        "keywords": "data, apr, openai, defi, scanner, like, pool, risk",
-        "generated": "2026-08-30T20:50:18.012391",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 15:57:58 +0000",
+        "description": "Automating DeFi yield discovery is no longer just about scraping high-APY lists; it’s about filtering noise to find sustainable, low-risk opportunities. Trad...",
+        "keywords": "data, risk, defi, response, yield, python, apy, requests",
+        "generated": "2026-09-01T16:22:54.364427",
         "file": "building-a-defi-yield-scanner-with-python-and-ai.md"
     },
     {
@@ -32970,6 +33069,17 @@
         "file": "your-epub-is-fine.md"
     },
     {
+        "title": "Newsletters Are Still the Best ROI Channel — Here's How to Run One Without a SaaS Bill",
+        "slug": "newsletters-are-still-the-best-roi-channel-heres-how-to-run-one-without-a-saas-bill",
+        "author": "AgentChip",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 16:14:53 +0000",
+        "description": "You've heard it a hundred times: start a newsletter, it's the highest-ROI channel. And it's true — an owned email list beats every rented feed. But when yo...",
+        "keywords": "you, newsletter, your, list, channel, run, saas, every",
+        "generated": "2026-09-01T16:22:54.363057",
+        "file": "newsletters-are-still-the-best-roi-channel-heres-how-to-run-one-without-a-saas-bill.md"
+    },
+    {
         "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
         "slug": "building-an-open-source-robot-vacuum-meet-oomwoo",
         "author": "devicelimit",
@@ -35390,6 +35500,17 @@
         "keywords": "nub, all, one, javascript, toolkit, bun, developer, meet",
         "generated": "2026-07-29T08:48:13.034587",
         "file": "meet-nub-the-all-in-one-javascript-toolkit.md"
+    },
+    {
+        "title": "Understanding the Hidden Human Cost of Robotaxis",
+        "slug": "understanding-the-hidden-human-cost-of-robotaxis",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 16:06:07 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the technical intricacies and business implications of robotaxis, focusing on AI's role and the huma...",
+        "keywords": "robotaxis, urban, technology, these, robotaxi, human, mobility, vehicles",
+        "generated": "2026-09-01T16:22:54.367011",
+        "file": "understanding-the-hidden-human-cost-of-robotaxis.md"
     },
     {
         "title": "Diagnosing Intermittent Wi-Fi with Timestamps, Pings, and Router Logs",
@@ -38547,6 +38668,17 @@
         "file": "buy-google-voice-accounts-with-clean-history.md"
     },
     {
+        "title": "Soul in Motion — 9:22 PM | 2026-09-01",
+        "slug": "soul-in-motion-922-pm-2026-09-01",
+        "author": "Dev Rajput",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 16:15:59 +0000",
+        "description": "TL;DR Confirmed mail‑integration for voice recognition on Project C was running after repeated checks. Decided to build a personal assistant on the phone, fo...",
+        "keywords": "assistant, wake, word, voice, test, recognition, personal, false",
+        "generated": "2026-09-01T16:22:54.367286",
+        "file": "soul-in-motion-922-pm-2026-09-01.md"
+    },
+    {
         "title": "The Developer AI Shortcut: 510 Prompts for Python, Web Scraping and DevOps",
         "slug": "the-developer-ai-shortcut-510-prompts-for-python-web-scraping-and-devops",
         "author": "Fyruz",
@@ -40305,6 +40437,17 @@
         "file": "zustand-vs-jotai-2026-store-based-vs-atomic-state-in-react.md"
     },
     {
+        "title": "The Complete IT Modernization Playbook: Strategies for Business Leaders",
+        "slug": "the-complete-it-modernization-playbook-strategies-for-business-leaders",
+        "author": "Saira Aslam",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 16:06:59 +0000",
+        "description": "Technology has become central to how businesses operate, serve customers, manage employees, and compete. Yet many organizations still depend on legacy system...",
+        "keywords": "modernization, business, systems, can, technology, should, application, security",
+        "generated": "2026-09-01T16:22:54.366635",
+        "file": "the-complete-it-modernization-playbook-strategies-for-business-leaders.md"
+    },
+    {
         "title": "ZX Spectrum System Tour: Sound",
         "slug": "zx-spectrum-system-tour-sound",
         "author": "ibobev",
@@ -41491,6 +41634,17 @@
         "keywords": "production, python, ready, code, tested, instant, delivery, automation",
         "generated": "2026-07-04T03:39:49.957119",
         "file": "best-python-automation-tools-for-2026.md"
+    },
+    {
+        "title": "Ambient CSS v3 – Blender meets CSS",
+        "slug": "ambient-css-v3-blender-meets-css",
+        "author": "kikkupico",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 15:35:11 +0000",
+        "description": "Article URL: https://ambientcss.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49523387 Points: 21 # Comments: 3",
+        "keywords": "css, url, https, comments, ambient, blender, meets, article",
+        "generated": "2026-09-01T16:22:54.362677",
+        "file": "ambient-css-v3-blender-meets-css.md"
     },
     {
         "title": "Using Python Virtual Environment: Achieve Isolation in Your Projects",
@@ -48509,6 +48663,17 @@
         "keywords": "comaps, url, https, comments, foss, offline, maps, article",
         "generated": "2026-07-06T20:05:38.434363",
         "file": "comaps-foss-offline-maps.md"
+    },
+    {
+        "title": "A browser-based viewer for Office Open XML documents",
+        "slug": "a-browser-based-viewer-for-office-open-xml-documents",
+        "author": "mathiaswp",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 15:33:13 +0000",
+        "description": "Article URL: https://ooxml.silurus.dev/ Comments URL: https://news.ycombinator.com/item?id=49523361 Points: 10 # Comments: 0",
+        "keywords": "url, https, comments, browser, based, viewer, office, open",
+        "generated": "2026-09-01T16:22:54.362763",
+        "file": "a-browser-based-viewer-for-office-open-xml-documents.md"
     },
     {
         "title": "SWOT analysis example AI: A Practical Guide to Turning AI Strategy into Clear Decisions",
@@ -66207,6 +66372,17 @@
         "file": "building-an-incremental-financial-data-pipeline-on-a-free-tier-0-infrastructure.md"
     },
     {
+        "title": "WireGuard: el protocolo VPN que cabe en menos de 4.000 líneas",
+        "slug": "wireguard-el-protocolo-vpn-que-cabe-en-menos-de-4000-lneas",
+        "author": "lu1tr0n",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 16:12:07 +0000",
+        "description": "Un túnel WireGuard se levanta en menos de diez líneas de configuración y establece conexión en un solo intercambio de paquetes: nada que ver con las decenas ...",
+        "keywords": "wireguard, que, con, una, por, clave, del, peer",
+        "generated": "2026-09-01T16:22:54.365902",
+        "file": "wireguard-el-protocolo-vpn-que-cabe-en-menos-de-4000-lneas.md"
+    },
+    {
         "title": "I wrote an bash enumerator because I was sick of xargs",
         "slug": "i-wrote-an-bash-enumerator-because-i-was-sick-of-xargs",
         "author": "wallach-game",
@@ -69441,6 +69617,17 @@
         "file": "building-a-native-langchain-tool-for-rustchain-from-api-to-autocomplete-in-one-afternoon.md"
     },
     {
+        "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+        "slug": "play-store-blocks-aurorastore-hurting-grapheneos-users",
+        "author": "erikvanoosten",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 15:55:53 +0000",
+        "description": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566 Comments URL: https://news.ycombinator.com/item?id=49523754 Points: 4 # Comments: 1",
+        "keywords": "aurorastore, url, https, com, comments, play, store, blocks",
+        "generated": "2026-09-01T16:22:54.362442",
+        "file": "play-store-blocks-aurorastore-hurting-grapheneos-users.md"
+    },
+    {
         "title": "Tableau vs Power BI vs Looker vs Sigma: BI Tools for Data Engineers in 2026",
         "slug": "tableau-vs-power-bi-vs-looker-vs-sigma-bi-tools-for-data-engineers-in-2026",
         "author": "Gowtham Potureddi",
@@ -69769,6 +69956,17 @@
         "keywords": "minute, historical, you, spy, vol, day, every, any",
         "generated": "2026-07-21T19:39:11.835894",
         "file": "12-things-you-can-do-with-a-minute-level-historical-options-data-api.md"
+    },
+    {
+        "title": "Error Handling Patterns That Actually Scale",
+        "slug": "error-handling-patterns-that-actually-scale",
+        "author": "Code Atlas",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 16:00:34 +0000",
+        "description": "Start With the End in Mind Every error handling pattern I've seen fail has one thing in common: it was bolted on after the happy path was done. When you writ...",
+        "keywords": "error, you, catch, return, try, function, result, throw",
+        "generated": "2026-09-01T16:22:54.364253",
+        "file": "error-handling-patterns-that-actually-scale.md"
     },
     {
         "title": "What Is an API? A Beginner's Guide",
@@ -70363,6 +70561,17 @@
         "keywords": "marcus, order, you, one, new, code, didn, ceo",
         "generated": "2026-06-07T09:24:56.821579",
         "file": "our-vp-said-ai-would-test-itself-i-raised-my-hand-i-got-reassigned-day-3-cost-28m-i-had-the-screenshots-ready.md"
+    },
+    {
+        "title": "Transition day 1",
+        "slug": "transition-day-1",
+        "author": "Rubika RameshN",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 16:12:12 +0000",
+        "description": "Hi, Today I have covered basics in cpp till control statement which is till now felt easy for me to crack the code. More over I am intermediate level user of...",
+        "keywords": "have, today, cpp, till, language, transition, day, covered",
+        "generated": "2026-09-01T16:22:54.367623",
+        "file": "transition-day-1.md"
     },
     {
         "title": "What Makes an AI System Production-Ready? Part 2: Designing a RAG Ingestion Pipeline",
