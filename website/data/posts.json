@@ -374,6 +374,17 @@
         "file": "the-private-infrastructure-platform-for-ai-built-applications.md"
     },
     {
+        "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+        "slug": "apple-reveals-shocking-evidence-from-ex-employees-macbook-in-openai-suit",
+        "author": "colinprince",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 20:19:11 +0000",
+        "description": "Article URL: https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/ Comments URL: https://news.ycombinator.com/item?id=49527573 Points: 11 # ...",
+        "keywords": "apple, evidence, macbook, openai, url, https, com, comments",
+        "generated": "2026-09-01T20:51:44.949309",
+        "file": "apple-reveals-shocking-evidence-from-ex-employees-macbook-in-openai-suit.md"
+    },
+    {
         "title": "Add trust verification to your CrewAI and LangChain agents in one line",
         "slug": "add-trust-verification-to-your-crewai-and-langchain-agents-in-one-line",
         "author": "Lars",
@@ -1604,6 +1615,17 @@
         "keywords": "self, checkpoint, state, object, str, json, agent, data",
         "generated": "2026-08-05T19:42:57.579322",
         "file": "langgraph-checkpointing-three-production-rewrites-to-stop-losing-state.md"
+    },
+    {
+        "title": "Don't Trust the Structure Either: A 48-Hour Contract Checker for Free Model Outputs",
+        "slug": "dont-trust-the-structure-either-a-48-hour-contract-checker-for-free-model-outputs",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 20:34:38 +0000",
+        "description": "You have probably seen plenty of posts about how free model outputs drift in quality. I have written a few of those myself. But there is a quieter kind of dr...",
+        "keywords": "model, would, not, json, level, free, one, you",
+        "generated": "2026-09-01T20:51:44.952140",
+        "file": "dont-trust-the-structure-either-a-48-hour-contract-checker-for-free-model-outputs.md"
     },
     {
         "title": "GLM 5.2 vs. Opus",
@@ -10855,6 +10877,17 @@
         "file": "how-tech-is-solving-uaes-biggest-freight-forwarding-problems-in-2026.md"
     },
     {
+        "title": "Why We Stopped Promising Mobile-Friendly and Started Testing on Actual Devices",
+        "slug": "why-we-stopped-promising-mobile-friendly-and-started-testing-on-actual-devices",
+        "author": "аЛЕКС ЛИР",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 20:43:22 +0000",
+        "description": "I run a small WordPress studio — webmaster.co.ua, 18 years, 235+ projects. Every page builder claims responsive design out of the box, and technically, they ...",
+        "keywords": "real, actual, phone, mobile, responsive, layout, one, they",
+        "generated": "2026-09-01T20:51:44.952613",
+        "file": "why-we-stopped-promising-mobile-friendly-and-started-testing-on-actual-devices.md"
+    },
+    {
         "title": "Scrape SERPs for AI Agents Without Triggering Anti-Bot Defenses",
         "slug": "scrape-serps-for-ai-agents-without-triggering-anti-bot-defenses",
         "author": "AlterLab",
@@ -11183,6 +11216,17 @@
         "keywords": "still, why, johnny, can, encrypt, evaluating, usability, modern",
         "generated": "2026-07-15T19:19:36.619454",
         "file": "why-johnny-still-still-cant-encrypt-evaluating-the-usability-of-a-modern-pgpclient.md"
+    },
+    {
+        "title": "I Built an AI Security Agent That Found Vulnerabilities in Its Own Code (And Why That's the Point)",
+        "slug": "i-built-an-ai-security-agent-that-found-vulnerabilities-in-its-own-code-and-why-thats-the-point",
+        "author": "PyHackSecGP",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 20:36:17 +0000",
+        "description": "I Built an AI Security Triage Tool That Found a Vulnerability in Itself Tools called: parse_bandit , deduplicate_findings , score_findings , apply_suppressio...",
+        "keywords": "tool, agent, security, xml, can, you, triage, what",
+        "generated": "2026-09-01T20:51:44.951458",
+        "file": "i-built-an-ai-security-agent-that-found-vulnerabilities-in-its-own-code-and-why-thats-the-point.md"
     },
     {
         "title": "Nose ID: I Taught an AI to Recognize Dogs by Their Nose-Print",
@@ -12052,6 +12096,17 @@
         "keywords": "double, check, what, but, answer, use, make, understand",
         "generated": "2026-08-27T22:04:47.424709",
         "file": "is-please-double-check-before-use-an-honest-safety-boundary.md"
+    },
+    {
+        "title": "Telegram Lead Mining: Turning Crypto Chatter into Qualified Prospects",
+        "slug": "telegram-lead-mining-turning-crypto-chatter-into-qualified-prospects",
+        "author": "Echo-Post",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 20:44:23 +0000",
+        "description": "The cryptocurrency market moves at the speed of light. Opportunities appear and vanish within minutes, and the difference between a profitable trade and a mi...",
+        "keywords": "your, you, lead, crypto, echopostflow, telegram, parser, data",
+        "generated": "2026-09-01T20:51:44.950481",
+        "file": "telegram-lead-mining-turning-crypto-chatter-into-qualified-prospects.md"
     },
     {
         "title": "Unlocking Creative Potential: LLMs for Art Generation",
@@ -15486,6 +15541,17 @@
         "file": "i-stored-a-website-in-a-favicon.md"
     },
     {
+        "title": "WP Engine AI Bot Blocks Put Fetchability at the Center of GEO Audits",
+        "slug": "wp-engine-ai-bot-blocks-put-fetchability-at-the-center-of-geo-audits",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 20:45:30 +0000",
+        "description": "A website can be indexed, receive search traffic, and show no obvious issue in standard SEO tools while some AI crawlers cannot retrieve its pages. That gap ...",
+        "keywords": "can, engine, crawler, search, bot, access, platform, not",
+        "generated": "2026-09-01T20:51:44.954761",
+        "file": "wp-engine-ai-bot-blocks-put-fetchability-at-the-center-of-geo-audits.md"
+    },
+    {
         "title": "Kostenloser DSGVO-Scanner für eure Website — 73% der getesteten .de-Domains hatten Verstöße",
         "slug": "kostenloser-dsgvo-scanner-fr-eure-website-73-der-getesteten-de-domains-hatten-verste",
         "author": "Nevik Schmidt",
@@ -17596,6 +17662,17 @@
         "keywords": "you, your, code, python, tools, data, script, input",
         "generated": "2026-08-06T14:24:40.416811",
         "file": "build-a-custom-static-site-generator-with-python.md"
+    },
+    {
+        "title": "I shipped a word finder as one 99KB HTML file with no build step",
+        "slug": "i-shipped-a-word-finder-as-one-99kb-html-file-with-no-build-step",
+        "author": "The 5 Letter Words",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 20:37:49 +0000",
+        "description": "I have a Next.js word finder site. It has an App Router, a Turbopack build, a VPS behind Cloudflare, and a PM2 process to babysit. It works fine. Then I want...",
+        "keywords": "not, word, list, one, file, you, words, filter",
+        "generated": "2026-09-01T20:51:44.953431",
+        "file": "i-shipped-a-word-finder-as-one-99kb-html-file-with-no-build-step.md"
     },
     {
         "title": "Cracking Windows Open: Porting RADV to Win32",
@@ -21188,10 +21265,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Tue, 01 Sep 2026 11:17:10 +0000",
-        "description": "Building a crypto signal bot in 2026 is no longer just about parsing candlesticks; it’s about synthesizing multimodal data streams into actionable alpha. Wit...",
-        "keywords": "self, response, data, stream, context, signal, bot, market",
-        "generated": "2026-09-01T11:25:28.730528",
+        "published": "Tue, 01 Sep 2026 20:41:39 +0000",
+        "description": "In 2026, the landscape of algorithmic trading has shifted from simple technical indicators to multi-modal AI analysis. Building a crypto signal bot today req...",
+        "keywords": "data, sentiment, exchange, bot, indicators, analysis, use, like",
+        "generated": "2026-09-01T20:51:44.954988",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -26035,6 +26112,17 @@
         "file": "java-full-stack-training-in-pondicherry-students-bazaar.md"
     },
     {
+        "title": "The First API Call Is the Easy Part: 7 Lessons from Building on Live Vehicle Data",
+        "slug": "the-first-api-call-is-the-easy-part-7-lessons-from-building-on-live-vehicle-data",
+        "author": "TheCarApi",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 20:40:30 +0000",
+        "description": "The first API call usually works. You add a key, send a request, receive JSON, and render a row of cars. It feels as if the integration is nearly finished. T...",
+        "keywords": "not, api, data, auction, key, retry, can, response",
+        "generated": "2026-09-01T20:51:44.953080",
+        "file": "the-first-api-call-is-the-easy-part-7-lessons-from-building-on-live-vehicle-data.md"
+    },
+    {
         "title": "Almoasfat Alkyasy Oalmoad Almstkhdm Fy Mblt Syramyk Oborslyn Bdakhl Alamarat Alaarby Almthd — المواصفات القياسية والمواد المستخد",
         "slug": "almoasfat-alkyasy-oalmoad-almstkhdm-fy-mblt-syramyk-oborslyn-bdakhl-alamarat-alaarby-almthd",
         "author": "ismail",
@@ -27879,6 +27967,17 @@
         "keywords": "agent, chat, your, agents, api, but, how, can",
         "generated": "2026-08-25T18:46:02.101962",
         "file": "why-your-ai-agent-needs-a-wallet-more-than-a-chat-interface.md"
+    },
+    {
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "slug": "how-accurate-have-ed-zitrons-ai-skeptic-predictions-been",
+        "author": "jatins",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+        "description": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 134 # Comments: 143",
+        "keywords": "zitron, url, https, com, comments, how, accurate, have",
+        "generated": "2026-09-01T20:51:44.949699",
+        "file": "how-accurate-have-ed-zitrons-ai-skeptic-predictions-been.md"
     },
     {
         "title": "# I Built an AI-Powered Python-to-C++ Transpiler Entirely From My Phone. Here is How (and Why).",
@@ -33771,6 +33870,17 @@
         "file": "how-to-use-poe-for-pillar-page-creation-in-2026.md"
     },
     {
+        "title": "I'm Learning Python Backend Development in Public",
+        "slug": "im-learning-python-backend-development-in-public",
+        "author": "Donatus Victor",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 20:34:38 +0000",
+        "description": "Today I'm kicking off a deep dive into Python backend development, and I'm documenting every step of it here on dev.to I'm a data analyst/scientist by backgr...",
+        "keywords": "backend, python, fastapi, what, learning, development, data, someone",
+        "generated": "2026-09-01T20:51:44.951638",
+        "file": "im-learning-python-backend-development-in-public.md"
+    },
+    {
         "title": "I Built a Free Freelancer Invoice Generator (Because FreshBooks Charges $15-30/Month)",
         "slug": "i-built-a-free-freelancer-invoice-generator-because-freshbooks-charges-15-30month",
         "author": "Jack Green",
@@ -36677,6 +36787,17 @@
         "file": "running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300.md"
     },
     {
+        "title": "What Agent Frameworks Hide: I Built One From Scratch to Find Out",
+        "slug": "what-agent-frameworks-hide-i-built-one-from-scratch-to-find-out",
+        "author": "Yashwnth Brahma BM",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 20:38:41 +0000",
+        "description": "Every build an AI agent tutorial starts the same way pip install langchain , import a few classes, and forty lines later you have something that calls tool...",
+        "keywords": "you, model, tool, agent, one, what, tools, loop",
+        "generated": "2026-09-01T20:51:44.951016",
+        "file": "what-agent-frameworks-hide-i-built-one-from-scratch-to-find-out.md"
+    },
+    {
         "title": "What Should I Do If My Samsung Galaxy S25 Ultra Needs Replacement?",
         "slug": "what-should-i-do-if-my-samsung-galaxy-s25-ultra-needs-replacement",
         "author": "cityphones",
@@ -37533,6 +37654,17 @@
         "keywords": "larp, url, https, comments, revenue, infrastructure, serious, founders",
         "generated": "2026-07-12T19:12:47.055459",
         "file": "larp-revenue-infrastructure-for-serious-founders.md"
+    },
+    {
+        "title": "Build an AI Agent That Handles the Task You Keep Putting Off",
+        "slug": "build-an-ai-agent-that-handles-the-task-you-keep-putting-off",
+        "author": "Liz Barragan",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 20:37:57 +0000",
+        "description": "Everyone has that one thing. The bill you keep forgetting to pay. The appointment you meant to schedule three weeks ago. The weekly report that takes 45 minu...",
+        "keywords": "agent, you, your, what, agents, tools, build, strands",
+        "generated": "2026-09-01T20:51:44.956279",
+        "file": "build-an-ai-agent-that-handles-the-task-you-keep-putting-off.md"
     },
     {
         "title": "iPhone Repair in Dubai: How to Fix Your Phone Without Overpaying",
@@ -43055,6 +43187,17 @@
         "file": "building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics.md"
     },
     {
+        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+        "slug": "the-chatgptcodex-app-bundles-a-full-copy-of-libreoffice",
+        "author": "timpera",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 20:07:57 +0000",
+        "description": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 43 # Comments: 17",
+        "keywords": "codex, libreoffice, url, https, comments, chatgpt, app, bundles",
+        "generated": "2026-09-01T20:51:44.949483",
+        "file": "the-chatgptcodex-app-bundles-a-full-copy-of-libreoffice.md"
+    },
+    {
         "title": "AI Genie: No Coffee, No Complaints, Just Infinite Availability",
         "slug": "ai-genie-no-coffee-no-complaints-just-infinite-availability",
         "author": "Electra AI",
@@ -45838,6 +45981,17 @@
         "file": "completing-the-core-seo-foundation-of-my-django-food-blog.md"
     },
     {
+        "title": "Zero is the most ambiguous number our unattended agent ever logs",
+        "slug": "zero-is-the-most-ambiguous-number-our-unattended-agent-ever-logs",
+        "author": "Unmanned Ops",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 20:40:53 +0000",
+        "description": "Every morning our pipeline writes a line that says the work queue had nothing in it. For a long time we read that line the way you read a clean bill of healt...",
+        "keywords": "zero, queue, empty, same, producer, not, one, nothing",
+        "generated": "2026-09-01T20:51:44.955355",
+        "file": "zero-is-the-most-ambiguous-number-our-unattended-agent-ever-logs.md"
+    },
+    {
         "title": "Avro vs Protobuf vs JSON Schema: Serialization & Schema Evolution for Streaming",
         "slug": "avro-vs-protobuf-vs-json-schema-serialization-schema-evolution-for-streaming",
         "author": "Gowtham Potureddi",
@@ -46463,6 +46617,17 @@
         "keywords": "read, min, tools, engineering, react, design, how, code",
         "generated": "2026-06-15T05:01:58.096036",
         "file": "stay-ahead-in-web-development-latest-news-tools-and-insights-141.md"
+    },
+    {
+        "title": "I tested Claude Code's memory against mine. They are not doing the same job.",
+        "slug": "i-tested-claude-codes-memory-against-mine-they-are-not-doing-the-same-job",
+        "author": "Heinrich Neb",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 20:40:47 +0000",
+        "description": "Proof over claim Last time I described the hour a platform shipped the feature I had spent months building . This is the part where I ran the test instead of...",
+        "keywords": "one, you, not, memory, what, ask, had, four",
+        "generated": "2026-09-01T20:51:44.955989",
+        "file": "i-tested-claude-codes-memory-against-mine-they-are-not-doing-the-same-job.md"
     },
     {
         "title": "The Brain v1.0 — building open-source workflow orchestration the boring way",
@@ -50414,6 +50579,17 @@
         "file": "lucy-25-real-time-ai-video-editing-decarts-40ms-live-stream-revolution.md"
     },
     {
+        "title": "Your Startup Doesn't Need a Bigger MVP. It Needs a Smaller One.",
+        "slug": "your-startup-doesnt-need-a-bigger-mvp-it-needs-a-smaller-one",
+        "author": "Amanda Angela Soenoko",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 20:37:41 +0000",
+        "description": "Startup · Product · MVP Development The most expensive thing you can build is not bad software. It is good software built for a problem nobody is ready to pa...",
+        "keywords": "mvp, you, not, what, can, product, development, your",
+        "generated": "2026-09-01T20:51:44.954319",
+        "file": "your-startup-doesnt-need-a-bigger-mvp-it-needs-a-smaller-one.md"
+    },
+    {
         "title": "The Night Logging Saved a Production System — and Why `print()` Is Not Enough",
         "slug": "the-night-logging-saved-a-production-system-and-why-print-is-not-enough",
         "author": "RS",
@@ -50731,6 +50907,17 @@
         "keywords": "lcvg, cooling, can, comfort, garment, during, tech, technologies",
         "generated": "2026-06-11T04:27:42.959923",
         "file": "nasas-high-tech-prada-lcvg-sp.md"
+    },
+    {
+        "title": "Using AI in Your Business? Don’t Overlook the Intellectual Property Risks &#8211;",
+        "slug": "using-ai-in-your-business-dont-overlook-the-intellectual-property-risks-8211",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 20:48:44 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Using AI in Your Business? Don’t Overlook the In...",
+        "keywords": "your, progressino, before, platform, business, you, evaluating, similar",
+        "generated": "2026-09-01T20:51:44.952383",
+        "file": "using-ai-in-your-business-dont-overlook-the-intellectual-property-risks-8211.md"
     },
     {
         "title": "Optimizing WebSocket Processing for High-Speed Market Data with Polymarket CLOB",
@@ -64711,6 +64898,17 @@
         "file": "abb-india-limited-robotics-drives-electrification-automation-solutions.md"
     },
     {
+        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+        "slug": "refurbishing-a-tektronix-tds7104-oscilloscope",
+        "author": "jwise0",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 19:55:47 +0000",
+        "description": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points:...",
+        "keywords": "refurbishing, tektronix, url, https, comments, oscilloscope, article, tomverbeure",
+        "generated": "2026-09-01T20:51:44.949597",
+        "file": "refurbishing-a-tektronix-tds7104-oscilloscope.md"
+    },
+    {
         "title": "I Scraped 100 Football Matches — Here Is What I Found: The five dramatic days that shook Infantino and world football",
         "slug": "i-scraped-100-football-matches-here-is-what-i-found-the-five-dramatic-days-that-shook-infantino-and-world-football",
         "author": "Muhammad Bin Nazeer",
@@ -65072,6 +65270,17 @@
         "keywords": "choice, dice, game, player, input, print, number, roll",
         "generated": "2026-07-31T08:56:54.066063",
         "file": "beginner-python-project-dice-rolling-game.md"
+    },
+    {
+        "title": "There Is No AI",
+        "slug": "there-is-no-ai",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 18:18:54 +0000",
+        "description": "Article URL: https://wadler.blogspot.com/2026/08/there-is-no-ai.html Comments URL: https://news.ycombinator.com/item?id=49525791 Points: 18 # Comments: 4",
+        "keywords": "there, url, https, com, comments, article, wadler, blogspot",
+        "generated": "2026-09-01T20:51:44.949792",
+        "file": "there-is-no-ai.md"
     },
     {
         "title": "GDPR compliance for web devs: A practical technical guide (2026 edition with code examples)",
