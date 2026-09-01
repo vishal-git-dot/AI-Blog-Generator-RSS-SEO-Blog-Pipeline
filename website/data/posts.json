@@ -506,6 +506,17 @@
         "file": "self-contained-highly-portable-python-distributions.md"
     },
     {
+        "title": "How We Built a Zero-Dependency RFC 822 Forensic Email Header Parser in Vanilla JavaScript",
+        "slug": "how-we-built-a-zero-dependency-rfc-822-forensic-email-header-parser-in-vanilla-javascript",
+        "author": "Prism Migration",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 11:14:25 +0000",
+        "description": "When building client-side forensic utilities for sysadmins and security analysts, the biggest architectural constraint is privacy: email headers containing s...",
+        "keywords": "rfc, email, headers, com, mail, how, zero, dependency",
+        "generated": "2026-09-01T11:25:28.730034",
+        "file": "how-we-built-a-zero-dependency-rfc-822-forensic-email-header-parser-in-vanilla-javascript.md"
+    },
+    {
         "title": "Nexus Market",
         "slug": "nexus-market",
         "author": "Nexus Market",
@@ -3969,6 +3980,17 @@
         "keywords": "they, you, specific, agent, needs, custom, generic, sales",
         "generated": "2026-06-06T08:41:07.452980",
         "file": "why-generic-sales-repos-are-failing-your-team-and-how-we-fixed-simulation.md"
+    },
+    {
+        "title": "Tradewinggs",
+        "slug": "tradewinggs",
+        "author": "tradewinggs",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 11:20:23 +0000",
+        "description": "At Tradewinggs, we unlock your brand's potential through innovative digital marketing solutions. Our offerings encompass AI-driven SEO to enhance visibility,...",
+        "keywords": "marketing, digital, tradewinggs, our, your, brand, growth, through",
+        "generated": "2026-09-01T11:25:28.729404",
+        "file": "tradewinggs.md"
     },
     {
         "title": "How to Learn Programming from Scratch in 2026",
@@ -8380,6 +8402,17 @@
         "file": "how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict.md"
     },
     {
+        "title": "Building a Sub-20ms Event Telemetry & RFID Access Control Engine for Mega-Conferences",
+        "slug": "building-a-sub-20ms-event-telemetry-rfid-access-control-engine-for-mega-conferences",
+        "author": "stampiq",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 11:16:48 +0000",
+        "description": "When 20,000+ delegates enter a high-density exhibition hall, standard cloud-based authentication architectures collapse. Cellular towers saturate, venue Wi-F...",
+        "keywords": "local, edge, redis, cloud, telemetry, rfid, access, leap",
+        "generated": "2026-09-01T11:25:28.728574",
+        "file": "building-a-sub-20ms-event-telemetry-rfid-access-control-engine-for-mega-conferences.md"
+    },
+    {
         "title": "Godot will no longer accept AI-authored code contributions",
         "slug": "godot-will-no-longer-accept-ai-authored-code-contributions",
         "author": "pjmlp",
@@ -9280,6 +9313,17 @@
         "keywords": "one, transactions, prepared, array, const, mint, transaction, call",
         "generated": "2026-08-12T07:40:00.503479",
         "file": "a-one-line-array-check-that-was-hiding-a-bigger-bug.md"
+    },
+    {
+        "title": "Bulk Image Downloader from Excel with Product Name (Anti-CAPTCHA + Auto-ZIP)",
+        "slug": "bulk-image-downloader-from-excel-with-product-name-anti-captcha-auto-zip",
+        "author": "Hari Om Patel",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 11:18:46 +0000",
+        "description": "If you've ever tried building an E-commerce catalog, digital canteen menu, or an AI training dataset, you probably know the pain: you have a list of hundreds...",
+        "keywords": "image, downloader, zip, product, excel, you, names, images",
+        "generated": "2026-09-01T11:25:28.728229",
+        "file": "bulk-image-downloader-from-excel-with-product-name-anti-captcha-auto-zip.md"
     },
     {
         "title": "Soul in Motion — 6:59 PM | 2026-07-05",
@@ -18533,6 +18577,17 @@
         "file": "27-gaming-keyboards-n-key-rollover-and-anti-ghosting-everything-gamers-need-to-know.md"
     },
     {
+        "title": "What Does a Handyman Charge to Install a Toilet?",
+        "slug": "what-does-a-handyman-charge-to-install-a-toilet",
+        "author": "maddy alex",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 11:19:35 +0000",
+        "description": "Your toilet is wobbling, leaking at the base, or just old enough that you've decided it's time for a new one. Now you're standing in the plumbing aisle wonde...",
+        "keywords": "toilet, you, what, your, can, handyman, install, old",
+        "generated": "2026-09-01T11:25:28.729771",
+        "file": "what-does-a-handyman-charge-to-install-a-toilet.md"
+    },
+    {
         "title": "Webmaster a Manifesto for Everyone",
         "slug": "webmaster-a-manifesto-for-everyone",
         "author": "OuterVale",
@@ -21061,6 +21116,17 @@
         "keywords": "product, what, than, distribution, you, more, times, day",
         "generated": "2026-06-08T11:08:35.052932",
         "file": "i-posted-50-times-a-day-to-launch-my-saas-heres-what-actually-worked.md"
+    },
+    {
+        "title": "Building a Crypto Signal Bot with AI APIs - 2026 Guide",
+        "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 11:17:10 +0000",
+        "description": "Building a crypto signal bot in 2026 is no longer just about parsing candlesticks; it’s about synthesizing multimodal data streams into actionable alpha. Wit...",
+        "keywords": "self, response, data, stream, context, signal, bot, market",
+        "generated": "2026-09-01T11:25:28.730528",
+        "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
         "title": "Deflock Casa Grande",
@@ -25672,6 +25738,17 @@
         "file": "the-security-check-that-couldnt-fail.md"
     },
     {
+        "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+        "slug": "nasa-fill-in-a-name-and-you-can-have-an-exclusive-coordinate-in-the-universe",
+        "author": "BearBest",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 09:46:39 +0000",
+        "description": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ Comments URL: https://news.ycombinator.com/item?id=49519902 Points: 15 # C...",
+        "keywords": "nasa, url, https, comments, fill, name, you, can",
+        "generated": "2026-09-01T11:25:28.726736",
+        "file": "nasa-fill-in-a-name-and-you-can-have-an-exclusive-coordinate-in-the-universe.md"
+    },
+    {
         "title": "How to Use UV-C Air Disinfection in Industrial Ventilation Systems",
         "slug": "how-to-use-uv-c-air-disinfection-in-industrial-ventilation-systems",
         "author": "member_677e0a68",
@@ -27738,6 +27815,17 @@
         "file": "update-production-ready-fastapi-backend-suite-with-advanced-rag-architecture-seo-automation-8000.md"
     },
     {
+        "title": "How to Write an About Page That Builds Trust",
+        "slug": "how-to-write-an-about-page-that-builds-trust",
+        "author": "Olumide Kingsley",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 11:13:09 +0000",
+        "description": "Visitors who land on an About page are already interested, they clicked there on purpose to learn whether they can trust you. That makes it one of the highes...",
+        "keywords": "you, page, visitor, what, actually, generic, your, they",
+        "generated": "2026-09-01T11:25:28.730279",
+        "file": "how-to-write-an-about-page-that-builds-trust.md"
+    },
+    {
         "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
         "slug": "amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus",
         "author": "lompad",
@@ -29606,14 +29694,14 @@
         "file": "we-killed-the-900ms-silence-timer-and-made-the-phone-stack-agent-first.md"
     },
     {
-        "title": "别再踩坑！AI编程助手选购",
+        "title": "别再踩坑！AI学习路径效果",
         "slug": "ai",
         "author": "guojunzzc",
         "source": "devto_python",
-        "published": "Tue, 01 Sep 2026 04:11:36 +0000",
-        "description": "别再踩坑！AI编程助手选购 别再踩坑！AI编程助手选购 - 专业深度内容，系统学习方法论与实战指南 分类 : 技术科技 原文链接 : 别再踩坑！AI编程助手选购 本文由 https://shuzishuniu.com 原创发布，转载请注明出处。",
-        "keywords": "https, shuzishuniu, com",
-        "generated": "2026-09-01T04:32:01.150192",
+        "published": "Tue, 01 Sep 2026 11:12:42 +0000",
+        "description": "别再踩坑！AI学习路径效果 背景介绍 在当今快速变化的环境中，AI学习路径效果已经成为一个不可忽视的重要话题。无论你是新手还是有经验的从业者，理解AI学习路径效果的核心概念都是迈向成功的第一步。 本文将从多个维度深入解析AI学习路径效果，帮助你建立完整的知识框架，并掌握实际应用的方法。 本文结构 核心概念解。 分...",
+        "keywords": "education, https, shuzishuniu, com",
+        "generated": "2026-09-01T11:25:28.728694",
         "file": "ai.md"
     },
     {
@@ -32981,6 +33069,17 @@
         "file": "harnessing-your-potential-how-python-training-in-btm-transforms-aspiring-coders-into-job-ready-professionals.md"
     },
     {
+        "title": "The Same 11 Prompts, Three Copies, 48 Hours: A Free Model Regression Battery",
+        "slug": "the-same-11-prompts-three-copies-48-hours-a-free-model-regression-battery",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 11:04:34 +0000",
+        "description": "The same model read the same prompt three times in one hour and proposed three different action plans, each one delivered with the same tone of confidence. T...",
+        "keywords": "model, not, same, prompt, prompts, three, one, output",
+        "generated": "2026-09-01T11:25:28.729171",
+        "file": "the-same-11-prompts-three-copies-48-hours-a-free-model-regression-battery.md"
+    },
+    {
         "title": "Fix Python Memory Leaks in Production – Debugging, Profiling, and Prevention",
         "slug": "fix-python-memory-leaks-in-production-debugging-profiling-and-prevention",
         "author": "Deep Fix",
@@ -33188,6 +33287,17 @@
         "keywords": "development, solutions, web, technology, businesses, artless, software, website",
         "generated": "2026-07-20T14:19:27.585775",
         "file": "artless-technology.md"
+    },
+    {
+        "title": "Making LLM Agents Reliable on Edge Hardware: Lessons from Shipping NeoMind 0.9.20",
+        "slug": "making-llm-agents-reliable-on-edge-hardware-lessons-from-shipping-neomind-0920",
+        "author": "Ming",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 11:12:06 +0000",
+        "description": "Everyone has a demo where the LLM agent works. Few people have an agent that keeps working when the MQTT broker times out mid-tool-call, when the local model...",
+        "keywords": "agent, model, loop, now, execution, one, failure, tool",
+        "generated": "2026-09-01T11:25:28.732412",
+        "file": "making-llm-agents-reliable-on-edge-hardware-lessons-from-shipping-neomind-0920.md"
     },
     {
         "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
@@ -36378,6 +36488,17 @@
         "keywords": "what, they, you, not, freelance, price, value, freelancers",
         "generated": "2026-07-20T19:49:00.045302",
         "file": "why-i-stopped-sending-freelance-proposals-and-what-i-send-instead.md"
+    },
+    {
+        "title": "Lake Ontario (Lake America)",
+        "slug": "lake-ontario-lake-america",
+        "author": "rdmuser",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 10:56:03 +0000",
+        "description": "Article URL: https://community.openstreetmap.org/t/lake-ontario-lake-america/146975 Comments URL: https://news.ycombinator.com/item?id=49520270 Points: 6 # C...",
+        "keywords": "lake, ontario, america, url, https, comments, article, community",
+        "generated": "2026-09-01T11:25:28.726345",
+        "file": "lake-ontario-lake-america.md"
     },
     {
         "title": "GoyGram — one Python runtime for both Telegram Bot API and MTProto, with a Rust core and OpSec-first sessions",
@@ -40305,6 +40426,17 @@
         "file": "how-long-horizon-ai-tasks-break-short-horizon-safety-assumptions.md"
     },
     {
+        "title": "AI APIs for Crypto Trading Signals - Complete Guide",
+        "slug": "ai-apis-for-crypto-trading-signals-complete-guide",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 11:11:38 +0000",
+        "description": "Using AI APIs for Crypto Trading Signals By *[Your Name] – September 2026 What Are Trading Signals? A trading signal is a concise recommendation that tells y...",
+        "keywords": "signals, trading, call, crypto, your, signal, you, can",
+        "generated": "2026-09-01T11:25:28.732703",
+        "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
+    },
+    {
         "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
         "slug": "vpns-are-lawful-technical-tools-says-eu-court-in-landmark-copyright-ruling",
         "author": "speckx",
@@ -40567,6 +40699,17 @@
         "keywords": "gradient, you, your, colors, css, code, one, copy",
         "generated": "2026-06-30T04:06:54.984203",
         "file": "how-to-create-a-css-gradient-and-copy-clean-code.md"
+    },
+    {
+        "title": "Building a Lightweight Financial News Sentiment Analyzer with Python and SerpApi",
+        "slug": "building-a-lightweight-financial-news-sentiment-analyzer-with-python-and-serpapi",
+        "author": "Ssebina CHARLES",
+        "source": "devto_python",
+        "published": "Tue, 01 Sep 2026 11:21:08 +0000",
+        "description": "Building a Lightweight Financial News Sentiment Analyzer with Python and SerpApi Tags: python api finance sentimentanalysis beginners Description: Learn how ...",
+        "keywords": "news, financial, sentiment, serpapi, python, source, project, bullish",
+        "generated": "2026-09-01T11:25:28.727904",
+        "file": "building-a-lightweight-financial-news-sentiment-analyzer-with-python-and-serpapi.md"
     },
     {
         "title": "Google loses fight over record $4.7B EU antitrust fine",
@@ -41535,6 +41678,17 @@
         "keywords": "database, your, every, query, application, you, updated, optimization",
         "generated": "2026-08-03T19:44:41.767743",
         "file": "stop-optimizing-the-wrong-things-practical-database-optimization-techniques-every-backend-developer-should-know.md"
+    },
+    {
+        "title": "Top 10 GitHub Repos: AI Videos, Gorgeous Diagrams, Token Savings and More",
+        "slug": "top-10-github-repos-ai-videos-gorgeous-diagrams-token-savings-and-more",
+        "author": "Hamza",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 11:16:46 +0000",
+        "description": "Originally published at https://tekmag.thsite.top/top-10-github-repos-ai-videos-gorgeous-diagrams-token-savings-and-more/ GitHub trending repositories reveal...",
+        "keywords": "repository, stars, github, project, agent, api, local, apis",
+        "generated": "2026-09-01T11:25:28.731832",
+        "file": "top-10-github-repos-ai-videos-gorgeous-diagrams-token-savings-and-more.md"
     },
     {
         "title": "I Built a Free Barcode Generator (Because BarcodesInc Charges $29/Year)",
@@ -49842,6 +49996,17 @@
         "file": "revolutionary-breakthrough-play-half-life-2-fully-in-your-browser-no-downloads-no-hassle.md"
     },
     {
+        "title": "AI Agent Security Checklist: OAuth for Multi-Tenant SaaS",
+        "slug": "ai-agent-security-checklist-oauth-for-multi-tenant-saas",
+        "author": "Dhruv Joshi",
+        "source": "devto_ai",
+        "published": "Tue, 01 Sep 2026 11:11:26 +0000",
+        "description": "Operant AI launched a “Semantic Firewall” built to block risky agent actions in real time. That timing exposes an uncomfortable truth: if your AI security st...",
+        "keywords": "tenant, agent, tool, oauth, resource, security, authorization, token",
+        "generated": "2026-09-01T11:25:28.733233",
+        "file": "ai-agent-security-checklist-oauth-for-multi-tenant-saas.md"
+    },
+    {
         "title": "Unify Web and Mobile Development with OTF's Cross-Platform Components",
         "slug": "unify-web-and-mobile-development-with-otfs-cross-platform-components",
         "author": "Dave Kurian",
@@ -50302,6 +50467,17 @@
         "keywords": "radar, url, https, com, comments, built, mmwave, material",
         "generated": "2026-06-30T20:05:30.543612",
         "file": "i-built-a-mmwave-material-classification-radar.md"
+    },
+    {
+        "title": "BIAWAKWIN : A Interesting On line Gambling Practical experience",
+        "slug": "biawakwin-a-interesting-on-line-gambling-practical-experience",
+        "author": "yufyoferzu2123",
+        "source": "devto_webdev",
+        "published": "Tue, 01 Sep 2026 11:17:53 +0000",
+        "description": "BIAWAKWIN is an internet based gambling program focused on providing consumers together with a convenient and engaging a digital entertainment experience. Wi...",
+        "keywords": "biawakwin, gambling, experience, consumers, entertainment, interesting, line, practical",
+        "generated": "2026-09-01T11:25:28.729884",
+        "file": "biawakwin-a-interesting-on-line-gambling-practical-experience.md"
     },
     {
         "title": "Why “Done For You” Audio Actually Slows Serious Creators Down",
@@ -52271,6 +52447,17 @@
         "keywords": "software, hpe, virtualization, initiative, free, can, businesses, vmware",
         "generated": "2026-06-20T09:27:21.557090",
         "file": "in-depth-analysis-hpes-free-software-initiative.md"
+    },
+    {
+        "title": "44% on ARC-AGI-1 in 67 cents",
+        "slug": "44-on-arc-agi-1-in-67-cents",
+        "author": "porridgeraisin",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 09:52:45 +0000",
+        "description": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 57 # Comments: 15",
+        "keywords": "arc, url, https, comments, agi, cents, article, mvakde",
+        "generated": "2026-09-01T11:25:28.726629",
+        "file": "44-on-arc-agi-1-in-67-cents.md"
     },
     {
         "title": "Should you stop cracking your knuckles?",
@@ -65228,6 +65415,17 @@
         "file": "citefid-010-verificar-la-fidelidad-de-citas-en-wikis-okf-con-nli-auc-07029-sobre-cdigo.md"
     },
     {
+        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+        "slug": "ankidroid-google-play-no-longer-allowing-open-collective-donation-link",
+        "author": "hexa555",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 10:11:02 +0000",
+        "description": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 134 # Comments: 13",
+        "keywords": "ankidroid, url, https, com, comments, google, play, longer",
+        "generated": "2026-09-01T11:25:28.726517",
+        "file": "ankidroid-google-play-no-longer-allowing-open-collective-donation-link.md"
+    },
+    {
         "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
         "slug": "show-hn-nixos-dgx-spark-nix-and-nixos-on-the-dgx-spark",
         "author": "graham33",
@@ -67025,10 +67223,10 @@
         "slug": "collectwise-yc-f24-is-hiring",
         "author": "OBrien_1107",
         "source": "hackernews",
-        "published": "Tue, 04 Aug 2026 07:01:26 +0000",
-        "description": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer Comments URL: https://news.ycombinator.com/item?id=49165170 Poi...",
+        "published": "Tue, 01 Sep 2026 07:01:49 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer Comments URL: https://news.ycombinator.com/ite...",
         "keywords": "collectwise, url, https, ycombinator, com, comments, hiring, article",
-        "generated": "2026-08-04T08:46:37.694949",
+        "generated": "2026-09-01T11:25:28.726833",
         "file": "collectwise-yc-f24-is-hiring.md"
     },
     {
