@@ -2501,6 +2501,17 @@
         "file": "i-scanned-the-15-biggest-news-sites-for-trackers-11-got-an-f.md"
     },
     {
+        "title": "AI Agents and the Refactoring That Never Happens",
+        "slug": "ai-agents-and-the-refactoring-that-never-happens",
+        "author": "rosenfeld",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 19:51:39 +0000",
+        "description": "Article URL: https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/ Comments URL: https://news.ycombina...",
+        "keywords": "url, https, comments, agents, refactoring, never, happens, article",
+        "generated": "2026-09-02T20:51:03.417610",
+        "file": "ai-agents-and-the-refactoring-that-never-happens.md"
+    },
+    {
         "title": "Debian has begun voting on the future of AI/LLM contributions",
         "slug": "debian-has-begun-voting-on-the-future-of-aillm-contributions",
         "author": "matheusmoreira",
@@ -3324,6 +3335,17 @@
         "keywords": "bun, sqlgen, url, https, com, comments, show, type",
         "generated": "2026-06-23T15:13:55.039826",
         "file": "show-hn-bun-sqlgen-type-safe-raw-sql-for-bun-no-orm.md"
+    },
+    {
+        "title": "How to Build GDPR Data Export Gates: 3 Checks for Consent, Sessions, and Risk",
+        "slug": "how-to-build-gdpr-data-export-gates-3-checks-for-consent-sessions-and-risk",
+        "author": "BriarVoss47291",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 20:35:59 +0000",
+        "description": "Short answer: model a protected data export as three auditable state transitions—consent check, session verification, and risk review—and queue the export on...",
+        "keywords": "export, consent, session, can, risk, not, response, decision",
+        "generated": "2026-09-02T20:51:03.419102",
+        "file": "how-to-build-gdpr-data-export-gates-3-checks-for-consent-sessions-and-risk.md"
     },
     {
         "title": "🌐 HTTP Got a New Verb, and Your POST /search Was Always a Lie",
@@ -4514,6 +4536,17 @@
         "file": "top-choice-for-buy-verified-paypal-accounts.md"
     },
     {
+        "title": "Fable 5.1 World Modeling",
+        "slug": "fable-51-world-modeling",
+        "author": "surreal_",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 19:49:01 +0000",
+        "description": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 27 # Comments: 6",
+        "keywords": "url, https, com, comments, fable, world, modeling, article",
+        "generated": "2026-09-02T20:51:03.417730",
+        "file": "fable-51-world-modeling.md"
+    },
+    {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",
         "slug": "strategy-pattern-in-practice-replacing-conditional-chains-with-composable-algorithms",
         "author": "Rizwan Saleem",
@@ -4655,6 +4688,17 @@
         "keywords": "openlogi, url, https, comments, article, org, news, ycombinator",
         "generated": "2026-08-19T06:52:53.078630",
         "file": "openlogi.md"
+    },
+    {
+        "title": "Why We Need an Architectural Floor for Vibe-Coding (An Audit of 3 Apps Built by Claude)",
+        "slug": "why-we-need-an-architectural-floor-for-vibe-coding-an-audit-of-3-apps-built-by-claude",
+        "author": "g dollar",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 20:48:46 +0000",
+        "description": "If you’ve spent any time vibe-coding with Claude, you know the exact moment the wheels start falling off. You ask for a modal, a form, or a layout, and Cla...",
+        "keywords": "source, contextual, citationkey, node, claude, toolcrib, you, feed",
+        "generated": "2026-09-02T20:51:03.420235",
+        "file": "why-we-need-an-architectural-floor-for-vibe-coding-an-audit-of-3-apps-built-by-claude.md"
     },
     {
         "title": "How I Built a Local Tool That Maps Any Codebase in 55 Seconds No Cloud, No Uploads",
@@ -27545,10 +27589,10 @@
         "slug": "ai-apis-for-crypto-trading-signals-complete-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Tue, 01 Sep 2026 11:11:38 +0000",
-        "description": "Using AI APIs for Crypto Trading Signals By *[Your Name] – September 2026 What Are Trading Signals? A trading signal is a concise recommendation that tells y...",
-        "keywords": "signals, trading, call, crypto, your, signal, you, can",
-        "generated": "2026-09-01T11:25:28.732703",
+        "published": "Wed, 02 Sep 2026 20:43:14 +0000",
+        "description": "AI‑Powered Crypto Trading Signals: How to Harness APIs for Better Decisions In the fast‑moving world of cryptocurrency, timing and information are everything...",
+        "keywords": "signals, signal, api, trading, call, your, can, data",
+        "generated": "2026-09-02T20:51:03.422053",
         "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
     },
     {
@@ -29202,6 +29246,17 @@
         "file": "your-brain-was-never-designed-for-this-much-bad-news.md"
     },
     {
+        "title": "Your Pipeline Is 27.4h Behind: Catching Hardware Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-274h-behind-catching-hardware-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 20:42:23 +0000",
+        "description": "Your Pipeline Is 27.4h Behind: Catching Hardware Sentiment Leads with Pulsebit We recently spotted a striking anomaly: a 24h momentum spike of +0.352 in the ...",
+        "keywords": "hardware, sentiment, pulsebit, you, french, data, can, api",
+        "generated": "2026-09-02T20:51:03.418155",
+        "file": "your-pipeline-is-274h-behind-catching-hardware-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "A New Proposed Dynamic Quantum with Re-Adjusted Round Robin Scheduling Algorithmand Its Performance Analysis",
         "slug": "a-new-proposed-dynamic-quantum-with-re-adjusted-round-robin-scheduling-algorithmand-its-performance-analysis",
         "author": "Paperium",
@@ -29794,6 +29849,17 @@
         "keywords": "view, keyboard, not, screen, scroll, nothing, what, bug",
         "generated": "2026-08-05T14:21:05.036534",
         "file": "the-bug-that-survived-being-recycled-automaticallyadjustkeyboardinsets-and-fabric-view-recycling-on-ios.md"
+    },
+    {
+        "title": "HTTP 200 is not proof",
+        "slug": "http-200-is-not-proof",
+        "author": "Oroboro Labs",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 20:38:33 +0000",
+        "description": "HTTP 200 is not proof HTTP 200 is not proof Série Oroboro Labs — leia antes (3 notas anteriores desta série): The price the client sees is not the price you ...",
+        "keywords": "not, check, you, one, content, your, hash, build",
+        "generated": "2026-09-02T20:51:03.421087",
+        "file": "http-200-is-not-proof.md"
     },
     {
         "title": "Elevate Your Shopify Store: Integrating AI, SEO, and Google Sheets for Peak Performance",
@@ -31466,6 +31532,17 @@
         "keywords": "you, one, your, shopify, bulk, queue, volume, processing",
         "generated": "2026-07-21T19:39:11.838240",
         "file": "processing-millions-of-records-through-shopify-lessons-from-high-volume-integrations.md"
+    },
+    {
+        "title": "Why I Built Gorgona: Turning Runaway AI Agents to Stone",
+        "slug": "why-i-built-gorgona-turning-runaway-ai-agents-to-stone",
+        "author": "Adrian M. Peticila",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 20:37:03 +0000",
+        "description": "Running multiple digital brands simultaneously with autonomous AI agents sounds like a dream until you wake up to a $500 token bill, an agent stuck in an inf...",
+        "keywords": "gorgona, agent, agents, guard, you, runaway, stone, autonomous",
+        "generated": "2026-09-02T20:51:03.418472",
+        "file": "why-i-built-gorgona-turning-runaway-ai-agents-to-stone.md"
     },
     {
         "title": "An Introduction to YOLO26",
@@ -33501,6 +33578,17 @@
         "keywords": "com, url, https, comments, ibm, now, has, browser",
         "generated": "2026-08-20T06:54:01.610658",
         "file": "os8088com-ibm-xt-os-now-has-a-browser-cpm-22-with-z80-core-and-ms-word-11a.md"
+    },
+    {
+        "title": "AI-Driven Risk Management for Crypto Traders",
+        "slug": "ai-driven-risk-management-for-crypto-traders",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 20:42:10 +0000",
+        "description": "In the high-volatility environment of cryptocurrency trading, emotional decision-making is the primary cause of portfolio erosion. By integrating AI-driven r...",
+        "keywords": "volatility, risk, market, your, position, management, high, exposure",
+        "generated": "2026-09-02T20:51:03.422332",
+        "file": "ai-driven-risk-management-for-crypto-traders.md"
     },
     {
         "title": "How to Convert Excel to PDF with Python Automation",
@@ -36671,6 +36759,17 @@
         "file": "samiksha-ai-universal-review-comment-analyzer.md"
     },
     {
+        "title": "`vercel-labs/portless`: Stable Local URLs for Humans and AI Agents",
+        "slug": "vercel-labsportless-stable-local-urls-for-humans-and-ai-agents",
+        "author": "linweidao",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 20:34:16 +0000",
+        "description": "A local development environment becomes surprisingly difficult to manage once several services are running. Remembering whether the frontend is on port 3000,...",
+        "keywords": "portless, local, development, stable, urls, agents, port, dev",
+        "generated": "2026-09-02T20:51:03.421321",
+        "file": "vercel-labsportless-stable-local-urls-for-humans-and-ai-agents.md"
+    },
+    {
         "title": "Daily Report Email Jobs: A Simple Schedule-to-Queue Architecture for SaaS",
         "slug": "daily-report-email-jobs-a-simple-schedule-to-queue-architecture-for-saas",
         "author": "zanesterling7589",
@@ -37375,6 +37474,17 @@
         "file": "breaking-barriers-unlimited-ocr-with-one-shot-parsing.md"
     },
     {
+        "title": "Why tests passed is the wrong question for an AI coding agent",
+        "slug": "why-tests-passed-is-the-wrong-question-for-an-ai-coding-agent",
+        "author": "Eliran Godov",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 20:41:17 +0000",
+        "description": "Your coding agent finishes a task and tells you the tests passed. You accept the report. Later, when one claim does not match what happened, you go back thro...",
+        "keywords": "not, you, what, one, agent, evidence, question, report",
+        "generated": "2026-09-02T20:51:03.423092",
+        "file": "why-tests-passed-is-the-wrong-question-for-an-ai-coding-agent.md"
+    },
+    {
         "title": "Cursive F Styles for Digital Use",
         "slug": "cursive-f-styles-for-digital-use",
         "author": "Waqar Taqi",
@@ -37439,6 +37549,17 @@
         "keywords": "url, com, comments, ten, steps, towards, happiness, article",
         "generated": "2026-07-22T03:17:44.187256",
         "file": "ten-steps-towards-happiness-2015.md"
+    },
+    {
+        "title": "HIPAA Compliant AI: Essential Private Cloud Blueprint",
+        "slug": "hipaa-compliant-ai-essential-private-cloud-blueprint",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 20:47:15 +0000",
+        "description": "Precision medicine can turn genomic, clinical, imaging, and lifestyle data into highly individualized insights. It can also create a concentrated target for ...",
+        "keywords": "data, private, model, access, hipaa, precision, can, compliant",
+        "generated": "2026-09-02T20:51:03.421749",
+        "file": "hipaa-compliant-ai-essential-private-cloud-blueprint.md"
     },
     {
         "title": "How to Make $500/Month with Python Automation",
@@ -37747,6 +37868,17 @@
         "keywords": "insecure, code, completions, vulnerability, url, https, comments, pycharm",
         "generated": "2026-06-11T04:27:42.954774",
         "file": "are-insecure-code-completions-in-pycharm-a-vulnerability.md"
+    },
+    {
+        "title": "I remade Hamurabi, the game I used to play a lot as a kid (even though it had a different name back then).",
+        "slug": "i-remade-hamurabi-the-game-i-used-to-play-a-lot-as-a-kid-even-though-it-had-a-different-name-back-then",
+        "author": "Misha Hohlovici",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 20:43:34 +0000",
+        "description": "Back in the 90s, when I was in school, I had a game on my home PC called Gospodar. The idea was simple: you have 10 years to rule. You plant crops, buy land,...",
+        "keywords": "you, game, your, hamurabi, play, had, back, too",
+        "generated": "2026-09-02T20:51:03.420565",
+        "file": "i-remade-hamurabi-the-game-i-used-to-play-a-lot-as-a-kid-even-though-it-had-a-different-name-back-then.md"
     },
     {
         "title": "The intracies of modern camera lens repair (2024)",
@@ -42213,6 +42345,17 @@
         "file": "building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics.md"
     },
     {
+        "title": "I wanna live an NPC life",
+        "slug": "i-wanna-live-an-npc-life",
+        "author": "conferza",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 19:52:53 +0000",
+        "description": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 43 # Comments: 20",
+        "keywords": "wanna, live, npc, life, url, https, comments, article",
+        "generated": "2026-09-02T20:51:03.417482",
+        "file": "i-wanna-live-an-npc-life.md"
+    },
+    {
         "title": "The Future of Flipper Zero Development",
         "slug": "the-future-of-flipper-zero-development",
         "author": "croes",
@@ -44796,6 +44939,17 @@
         "file": "burnout-is-real-for-open-source-maintainers.md"
     },
     {
+        "title": "Every run said pass while the pipeline was quietly getting worse",
+        "slug": "every-run-said-pass-while-the-pipeline-was-quietly-getting-worse",
+        "author": "Unmanned Ops",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 20:41:36 +0000",
+        "description": "Our agent runs unattended. No one watches it start, no one watches it finish, and the only thing most of us ever look at is the line it writes at the end: th...",
+        "keywords": "not, one, retry, attempt, you, run, job, time",
+        "generated": "2026-09-02T20:51:03.422688",
+        "file": "every-run-said-pass-while-the-pipeline-was-quietly-getting-worse.md"
+    },
+    {
         "title": "Building and Testing PickUp, a Vibe-Coded Platform for Casual Sports Games",
         "slug": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games",
         "author": "Nuh",
@@ -45982,6 +46136,17 @@
         "keywords": "client, itick, sdk, print, nesn, novn, quote, python",
         "generated": "2026-07-23T08:38:07.281783",
         "file": "api-k.md"
+    },
+    {
+        "title": "Your Pipeline Is 27.6h Behind: Catching Governance Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-276h-behind-catching-governance-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 20:28:58 +0000",
+        "description": "Your Pipeline Is 27.6h Behind: Catching Governance Sentiment Leads with Pulsebit We recently uncovered a significant anomaly: a 24-hour momentum spike of +0....",
+        "keywords": "sentiment, governance, pulsebit, can, your, ciso, english, leads",
+        "generated": "2026-09-02T20:51:03.419764",
+        "file": "your-pipeline-is-276h-behind-catching-governance-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Goodhart's Law Is a Math Problem - And We Can Prove It With 10 Lines of Python",
@@ -61635,6 +61800,17 @@
         "file": "uncovering-the-wholesale-plagiarism-of-obscure-sorrows.md"
     },
     {
+        "title": "Muse Spark 1.3",
+        "slug": "muse-spark-13",
+        "author": "bvaldivielso",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 19:35:04 +0000",
+        "description": "Article URL: https://developer.meta.com/ai/models/muse-spark/ Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 156 # Comments: 82",
+        "keywords": "muse, spark, url, https, com, comments, article, developer",
+        "generated": "2026-09-02T20:51:03.417844",
+        "file": "muse-spark-13.md"
+    },
+    {
         "title": "How to Close the AI Agent Cost Gap at the Call Site",
         "slug": "how-to-close-the-ai-agent-cost-gap-at-the-call-site",
         "author": "Patrick Hughes",
@@ -66035,6 +66211,17 @@
         "file": "autonomous-ai-agents-and-the-multi-agent-paradigm-in-2026.md"
     },
     {
+        "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+        "slug": "altair-basic-interpreter-source-code-1975-pdf",
+        "author": "Eridanus2",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 20:08:22 +0000",
+        "description": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comme...",
+        "keywords": "source, code, pdf, url, https, com, comments, altair",
+        "generated": "2026-09-02T20:51:03.417298",
+        "file": "altair-basic-interpreter-source-code-1975-pdf.md"
+    },
+    {
         "title": "Base64 Converter Online: Encode and Decode Base64 Data Instantly",
         "slug": "base64-converter-online-encode-and-decode-base64-data-instantly",
         "author": "CloudAiRambo",
@@ -66574,6 +66761,17 @@
         "file": "historical-memory-prices-1960-2026.md"
     },
     {
+        "title": "Як знайти клієнтів в Google і ChatGPT, не платячи за рекламу",
+        "slug": "google-chatgpt",
+        "author": "Алексей Невостребов",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 20:41:14 +0000",
+        "description": "Уявіть: людина шукає створити сайт для магазину — і одразу натрапляє на вас. Не тому, що ви заплатили за рекламу, а тому що Google (і тепер ще й ChatGPT) с...",
+        "keywords": "chatgpt, google, seo, geo, cases, poslugi",
+        "generated": "2026-09-02T20:51:03.420759",
+        "file": "google-chatgpt.md"
+    },
+    {
         "title": "Dolly Parton has died",
         "slug": "dolly-parton-has-died",
         "author": "helsinkiandrew",
@@ -66796,10 +66994,10 @@
         "slug": "how-to-build-an-airdrop-monitor-with-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Mon, 31 Aug 2026 04:41:33 +0000",
-        "description": "Monitoring crypto airdrops manually is inefficient and prone to error. By integrating AI into your monitoring stack, you can automate the detection of new pr...",
-        "keywords": "text, data, airdrop, noise, cleaned, how, you, ingestion",
-        "generated": "2026-08-31T04:52:56.227606",
+        "published": "Wed, 02 Sep 2026 20:30:46 +0000",
+        "description": "Tracking active crypto airdrops is notoriously labor-intensive, often requiring users to manually scour Discord servers, X (formerly Twitter), and governance...",
+        "keywords": "monitor, airdrop, like, discord, data, project, text, model",
+        "generated": "2026-09-02T20:51:03.419363",
         "file": "how-to-build-an-airdrop-monitor-with-ai.md"
     },
     {
