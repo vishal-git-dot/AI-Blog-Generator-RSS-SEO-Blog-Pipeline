@@ -9315,6 +9315,17 @@
         "file": "uncovering-the-wholesale-plagiarism-of-obscure-sorrows.md"
     },
     {
+        "title": "WebFPGA (2019)",
+        "slug": "webfpga-2019",
+        "author": "gurjeet",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 03:54:58 +0000",
+        "description": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 88 # Comments: 32",
+        "keywords": "webfpga, url, https, comments, article, news, ycombinator, com",
+        "generated": "2026-09-02T10:59:18.563170",
+        "file": "webfpga-2019.md"
+    },
+    {
         "title": "How to Track Your Brand's Visibility in ChatGPT, Perplexity & Gemini (GEO Monitoring, With Code)",
         "slug": "how-to-track-your-brands-visibility-in-chatgpt-perplexity-gemini-geo-monitoring-with-code",
         "author": "Benedict Mendoza",
@@ -10314,6 +10325,17 @@
         "keywords": "character, panels, manga, reference, prompt, characters, hair, across",
         "generated": "2026-06-11T20:28:40.309709",
         "file": "my-ai-manga-toolkit-the-exact-tools-and-settings-that-gave-me-consistent-characters-across-100-pages.md"
+    },
+    {
+        "title": "Python Learning Series - Pattern programs",
+        "slug": "python-learning-series-pattern-programs",
+        "author": "Saravanan Lakshmanan",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 10:39:34 +0000",
+        "description": "Task 1 no = 0 for row in range ( 6 , 1 , - 1 ): for col in range ( 1 , row ): no += 1 print ( no , end = ' ' ) print () Output: 1 2 3 4 5 6 7 8 9 10 11 12 13...",
+        "keywords": "row, range, print, col, task, end, output, python",
+        "generated": "2026-09-02T10:59:18.563728",
+        "file": "python-learning-series-pattern-programs.md"
     },
     {
         "title": "Web vs Mobile App Development: Which Should Startups Build First?",
@@ -12938,10 +12960,10 @@
         "slug": "crypto-funding-rate-arbitrage-with-ai-signals",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sat, 29 Aug 2026 20:32:20 +0000",
-        "description": "Crypto funding rate arbitrage is a market-neutral strategy that capitalizes on the discrepancy between the spot price of an asset and its perpetual futures c...",
-        "keywords": "funding, can, rate, market, spot, signal, your, ticker",
-        "generated": "2026-08-29T20:45:19.189820",
+        "published": "Wed, 02 Sep 2026 10:53:25 +0000",
+        "description": "Crypto funding rate arbitrage is a market-neutral strategy that exploits the discrepancy between the spot price of an asset and its perpetual futures contrac...",
+        "keywords": "funding, rate, market, arbitrage, price, long, signal, symbol",
+        "generated": "2026-09-02T10:59:18.567837",
         "file": "crypto-funding-rate-arbitrage-with-ai-signals.md"
     },
     {
@@ -14956,6 +14978,17 @@
         "keywords": "agent, trmnl, url, https, com, comments, article, help",
         "generated": "2026-07-21T19:39:11.835174",
         "file": "ai-agent-trmnl.md"
+    },
+    {
+        "title": "Microservices Python Django: Practical Setup & Scaling",
+        "slug": "microservices-python-django-practical-setup-scaling",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 10:27:51 +0000",
+        "description": "If you’re looking for a straightforward way to run microservices python django in production, the answer is: treat each Django app as a small, self-contained...",
+        "keywords": "django, service, you, import, order, orders, python, microservices",
+        "generated": "2026-09-02T10:59:18.565200",
+        "file": "microservices-python-django-practical-setup-scaling.md"
     },
     {
         "title": "Deciding the criteria for excluding an AI-collected research topic candidate",
@@ -17552,6 +17585,17 @@
         "keywords": "tutorial, card, lasttime, spike, time, dismiss, when, game",
         "generated": "2026-08-14T19:00:48.691001",
         "file": "fixed-dt-spike-at-tutorial-card-dismiss.md"
+    },
+    {
+        "title": "I vibe coded an AI tool that reads competitors' ads the way a neuroscientist would.",
+        "slug": "i-vibe-coded-an-ai-tool-that-reads-competitors-ads-the-way-a-neuroscientist-would",
+        "author": "Lilu",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 10:54:50 +0000",
+        "description": "I work in advertising and have a background in neuroscience and neuromarketing. Throughout my career the one thing always bugged me: brands pick their emotio...",
+        "keywords": "not, uno, data, but, you, market, still, something",
+        "generated": "2026-09-02T10:59:18.567634",
+        "file": "i-vibe-coded-an-ai-tool-that-reads-competitors-ads-the-way-a-neuroscientist-would.md"
     },
     {
         "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
@@ -20777,6 +20821,17 @@
         "file": "understanding-the-risks-in-software-development-a.md"
     },
     {
+        "title": "Bolt.new Python Backend: FastAPI from Zero to Production",
+        "slug": "boltnew-python-backend-fastapi-from-zero-to-production",
+        "author": "Ayush Kumar",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 10:28:08 +0000",
+        "description": "If you need a bolt new python backend that’s up and running in minutes, you can get a FastAPI service with a single command and a sensible folder layout. It ...",
+        "keywords": "you, new, bolt, fastapi, app, async, import, add",
+        "generated": "2026-09-02T10:59:18.564470",
+        "file": "boltnew-python-backend-fastapi-from-zero-to-production.md"
+    },
+    {
         "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
         "slug": "the-dutch-community-where-people-live-on-strips-of-land-in-a-lake",
         "author": "Bowes-Lyon",
@@ -21316,6 +21371,17 @@
         "file": "deflock-casa-grande.md"
     },
     {
+        "title": "Commodore 64 released September 1, 1982",
+        "slug": "commodore-64-released-september-1-1982",
+        "author": "giuliomagnifico",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 08:36:43 +0000",
+        "description": "Article URL: https://dfarq.homeip.net/commodore-64-released-september-1-1982/ Comments URL: https://news.ycombinator.com/item?id=49533497 Points: 83 # Commen...",
+        "keywords": "commodore, released, september, url, https, comments, article, dfarq",
+        "generated": "2026-09-02T10:59:18.562921",
+        "file": "commodore-64-released-september-1-1982.md"
+    },
+    {
         "title": "USING SQLITE IN GO AND IT'S IMPORTANCE",
         "slug": "using-sqlite-in-go-and-its-importance",
         "author": "wairewaire",
@@ -21805,9 +21871,9 @@
         "author": "ptrhvns",
         "source": "hackernews",
         "published": "Wed, 02 Sep 2026 02:21:10 +0000",
-        "description": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 5 # Comments: 0",
+        "description": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 241 # Comments: 205",
         "keywords": "url, https, comments, true, rate, unemployment, article, www",
-        "generated": "2026-09-02T03:54:59.708900",
+        "generated": "2026-09-02T10:59:18.563284",
         "file": "true-rate-of-unemployment.md"
     },
     {
@@ -22579,6 +22645,17 @@
         "keywords": "benchmark, had, time, mersenne, python, never, harness, two",
         "generated": "2026-07-15T19:19:36.616137",
         "file": "why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs.md"
+    },
+    {
+        "title": "Android Transcription Tool Review: How to Generate Clean Text From Conversations",
+        "slug": "android-transcription-tool-review-how-to-generate-clean-text-from-conversations",
+        "author": "Meetingminutes",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 10:34:43 +0000",
+        "description": "I used to think Android transcription apps were basically interchangeable: press record, wait for the transcript, then clean up the messy parts yourself. Aft...",
+        "keywords": "transcription, recording, text, can, android, apps, speaker, conversations",
+        "generated": "2026-09-02T10:59:18.566859",
+        "file": "android-transcription-tool-review-how-to-generate-clean-text-from-conversations.md"
     },
     {
         "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
@@ -23976,6 +24053,17 @@
         "keywords": "one, fud, provider, device, own, letting, users, pick",
         "generated": "2026-06-20T14:15:47.239551",
         "file": "bring-your-own-ai-letting-users-pick-from-13-providers-and-run-models-locally.md"
+    },
+    {
+        "title": "The Most In-Demand Tech Skills for Developers in 2026",
+        "slug": "the-most-in-demand-tech-skills-for-developers-in-2026",
+        "author": "Saliha Chudhary",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 10:30:36 +0000",
+        "description": "The Most In-Demand Tech Skills for Developers in 2026 Technology is changing faster than ever, and developers need to continuously improve their skills to st...",
+        "keywords": "developers, skills, can, cloud, learning, most, modern, automation",
+        "generated": "2026-09-02T10:59:18.567395",
+        "file": "the-most-in-demand-tech-skills-for-developers-in-2026.md"
     },
     {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
@@ -27469,10 +27557,10 @@
         "slug": "building-a-defi-yield-scanner-with-python-and-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Tue, 01 Sep 2026 15:57:58 +0000",
-        "description": "Automating DeFi yield discovery is no longer just about scraping high-APY lists; it’s about filtering noise to find sustainable, low-risk opportunities. Trad...",
-        "keywords": "data, risk, defi, response, yield, python, apy, requests",
-        "generated": "2026-09-01T16:22:54.364427",
+        "published": "Wed, 02 Sep 2026 10:42:01 +0000",
+        "description": "DeFi yield farming is a high-stakes game where information asymmetry is the primary risk. Manual tracking of APYs across hundreds of protocols is inefficient...",
+        "keywords": "apy, data, model, yield, features, high, risk, sustainable",
+        "generated": "2026-09-02T10:59:18.563566",
         "file": "building-a-defi-yield-scanner-with-python-and-ai.md"
     },
     {
@@ -34651,6 +34739,17 @@
         "file": "the-best-enterprise-ai-doesnt-feel-like-aiit-feels-like-good-software.md"
     },
     {
+        "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+        "slug": "the-emergent-symbolic-structure-of-artificial-neural-networks",
+        "author": "schmuhblaster",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 04:15:56 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 157 # Comments: 54",
+        "keywords": "url, https, comments, emergent, symbolic, structure, artificial, neural",
+        "generated": "2026-09-02T10:59:18.563052",
+        "file": "the-emergent-symbolic-structure-of-artificial-neural-networks.md"
+    },
+    {
         "title": "Otary - Image & Geometry Python Library now has Tutorials",
         "slug": "otary-image-geometry-python-library-now-has-tutorials",
         "author": "Alexandre Poupeau",
@@ -34682,6 +34781,17 @@
         "keywords": "you, model, deepseek, your, provider, one, not, same",
         "generated": "2026-06-26T14:36:05.286228",
         "file": "stop-guessing-real-api-costs-for-startups-vs-enterprises.md"
+    },
+    {
+        "title": "Simple Online Tasks That Can Earn You PSN Rewards",
+        "slug": "simple-online-tasks-that-can-earn-you-psn-rewards",
+        "author": "Tandom",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 10:43:33 +0000",
+        "description": "A PSN Gift Card is a convenient way to add funds to a PlayStation account and purchase digital content through the PlayStation Store. 👉 Detailed explanation ...",
+        "keywords": "card, playstation, gift, can, psn, codes, store, account",
+        "generated": "2026-09-02T10:59:18.565982",
+        "file": "simple-online-tasks-that-can-earn-you-psn-rewards.md"
     },
     {
         "title": "An SLM trained on $8 ESP32-S3",
@@ -43638,6 +43748,17 @@
         "file": "agent-sentry-a-400-line-local-sidecar-that-watches-what-your-ai-coding-agent-is-about-to-do.md"
     },
     {
+        "title": "How to Hire and Retain Top Talent for Your Global Capability Center in India",
+        "slug": "how-to-hire-and-retain-top-talent-for-your-global-capability-center-in-india",
+        "author": "Rohit Singh",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 10:35:33 +0000",
+        "description": "India adds millions of STEM graduates every year, so the raw supply of engineers is not your problem. The problem is the two things underneath it: hiring the...",
+        "keywords": "you, your, center, gcc, talent, hiring, build, retention",
+        "generated": "2026-09-02T10:59:18.566528",
+        "file": "how-to-hire-and-retain-top-talent-for-your-global-capability-center-in-india.md"
+    },
+    {
         "title": "Three correct database queries can produce one contradictory AI answer",
         "slug": "three-correct-database-queries-can-produce-one-contradictory-ai-answer",
         "author": "Mads Hansen",
@@ -44934,6 +45055,17 @@
         "keywords": "device, personal, network, browser, every, hardware, users, without",
         "generated": "2026-07-02T09:22:43.956414",
         "file": "structural-isolation-shielding-personal-device-metrics-from-network-scrapers.md"
+    },
+    {
+        "title": "25% of AI Apps Fail Without General Tech",
+        "slug": "25-of-ai-apps-fail-without-general-tech",
+        "author": "PhilipJameson",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 10:52:37 +0000",
+        "description": "25% of AI apps stumble because they skip core tech foundations. For small businesses the risk of tech debt is high when building AI solutions without a struc...",
+        "keywords": "tech, apps, without, they, frameworks, fail, general, stumble",
+        "generated": "2026-09-02T10:59:18.567998",
+        "file": "25-of-ai-apps-fail-without-general-tech.md"
     },
     {
         "title": "$2.500 BTC Loan: The Safest Way to Access Immediate Cash",
@@ -49886,6 +50018,17 @@
         "file": "spark-catalyst-optimizer-adaptive-query-execution-aqe-plan-internals-for-2026.md"
     },
     {
+        "title": "Fathom or MeetingMinutes: Which App Works Better for Face-to-Face Meeting Notes?",
+        "slug": "fathom-or-meetingminutes-which-app-works-better-for-face-to-face-meeting-notes",
+        "author": "Meetingminutes",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 10:33:37 +0000",
+        "description": "I spend a lot of time comparing meeting tools, but one question is surprisingly easy to overlook: what happens when the meeting isn't online? A lot of AI mee...",
+        "keywords": "meeting, fathom, meetingminutes, meetings, recording, its, face, where",
+        "generated": "2026-09-02T10:59:18.567164",
+        "file": "fathom-or-meetingminutes-which-app-works-better-for-face-to-face-meeting-notes.md"
+    },
+    {
         "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
         "slug": "how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in",
         "author": "cube00",
@@ -54649,6 +54792,17 @@
         "file": "an-interview-with-intels-kira-boyko-xeon-6s-product-director.md"
     },
     {
+        "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+        "slug": "telli-yc-f24-is-hiring-engineers-and-designers-berlin-on-site",
+        "author": "sebselassie",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 08:43:49 +0000",
+        "description": "Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0",
+        "keywords": "telli, url, https, com, comments, hiring, engineers, designers",
+        "generated": "2026-09-02T10:59:18.562753",
+        "file": "telli-yc-f24-is-hiring-engineers-and-designers-berlin-on-site.md"
+    },
+    {
         "title": "CRM: An open-source, agentic-first CRM",
         "slug": "crm-an-open-source-agentic-first-crm",
         "author": "handfuloflight",
@@ -56420,6 +56574,17 @@
         "file": "i-got-tired-of-my-portfolio-looking-like-a-list-of-links-so-i-built-an-mcp-server-for-it.md"
     },
     {
+        "title": "Video Editing Reimagined: AI Tools That Make Post-Production Effortless",
+        "slug": "video-editing-reimagined-ai-tools-that-make-post-production-effortless",
+        "author": "yaroslav",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 10:52:23 +0000",
+        "description": "Video content has become the currency of digital marketing. Whether you're creating social media clips, product demos, or educational content, the bottleneck...",
+        "keywords": "editing, you, tools, video, your, free, but, content",
+        "generated": "2026-09-02T10:59:18.568524",
+        "file": "video-editing-reimagined-ai-tools-that-make-post-production-effortless.md"
+    },
+    {
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "slug": "docker-sandboxes-disposable-isolated-sandboxes-for-ai-agents",
         "author": "etoxin",
@@ -57397,6 +57562,17 @@
         "keywords": "space, what, you, model, anthropic, claude, lens, workspace",
         "generated": "2026-07-11T13:38:52.453858",
         "file": "anthropic-found-the-hidden-space-where-claude-thinks-its-weirder-than-youd-think.md"
+    },
+    {
+        "title": "How People Save Money Using Amazon Gift Cards",
+        "slug": "how-people-save-money-using-amazon-gift-cards",
+        "author": "Tandom",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 10:49:52 +0000",
+        "description": "An Amazon Gift Card is a convenient way to give someone the freedom to choose what they want from Amazon. 👉 You can check the full breakdown here: https://in...",
+        "keywords": "gift, amazon, card, can, cards, you, marketplace, balance",
+        "generated": "2026-09-02T10:59:18.569024",
+        "file": "how-people-save-money-using-amazon-gift-cards.md"
     },
     {
         "title": "I Built a Free Online Tools Website for Developers",
@@ -61519,6 +61695,17 @@
         "keywords": "git, had, written, not, grep, regression, report, you",
         "generated": "2026-07-20T19:49:00.046708",
         "file": "the-bug-that-taught-me-to-grep-before-i-git-blame.md"
+    },
+    {
+        "title": "What's actually inside Apple Mail's Envelope Index",
+        "slug": "whats-actually-inside-apple-mails-envelope-index",
+        "author": "Paris Moschovakos",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 10:12:33 +0000",
+        "description": "Apple Mail keeps a full SQLite database of your mailbox metadata. It sits at ~/Library/Mail/V10/MailData/Envelope Index (the V number tracks the Mail version...",
+        "keywords": "mail, you, database, your, search, messages, one, message",
+        "generated": "2026-09-02T10:59:18.565539",
+        "file": "whats-actually-inside-apple-mails-envelope-index.md"
     },
     {
         "title": "Build a Saga Pattern Implementation in Python",

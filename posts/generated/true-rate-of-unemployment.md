@@ -4,16 +4,16 @@ slug: "true-rate-of-unemployment"
 author: "ptrhvns"
 source: "hackernews"
 published: "Wed, 02 Sep 2026 02:21:10 +0000"
-description: "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 5 # Comments: 0"
+description: "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 241 # Comments: 205"
 keywords: "url, https, comments, true, rate, unemployment, article, www"
-generated: "2026-09-02T03:54:59.708900"
+generated: "2026-09-02T10:59:18.563284"
 ---
 
 # True Rate of Unemployment
 
 ## Overview
 
-Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 5 # Comments: 0
+Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 241 # Comments: 205
 
 ## Key Insights
 
