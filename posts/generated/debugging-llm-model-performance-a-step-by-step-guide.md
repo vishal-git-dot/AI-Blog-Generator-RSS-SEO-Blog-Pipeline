@@ -1,0 +1,34 @@
+---
+title: "Debugging LLM Model Performance: A Step-by-Step Guide"
+slug: "debugging-llm-model-performance-a-step-by-step-guide"
+author: "shashank ms"
+source: "devto_ai"
+published: "Wed, 02 Sep 2026 03:34:04 +0000"
+description: "We are going to build a lightweight LLM performance debugger that captures slow or wasteful inference calls, diagnoses the root cause, and recommends a bette..."
+keywords: "prompt, model, step, oxlo, openai, json, you, content"
+generated: "2026-09-02T03:54:59.715090"
+---
+
+# Debugging LLM Model Performance: A Step-by-Step Guide
+
+## Overview
+
+We are going to build a lightweight LLM performance debugger that captures slow or wasteful inference calls, diagnoses the root cause, and recommends a better model or prompt strategy. It is aimed at engineers running production agents who need to cut latency and cost without guessing. I will walk through the script I actually use to audit agent behavior before it hits staging. What you'll need An Oxlo.ai API key from https://portal.oxlo.ai Python 3.10 or newer The OpenAI SDK: pip install openai pip install pandas if you want to export logs to a DataFrame later, but it is optional for this guide Step 1: Instrument the client First, I set up a traced wrapper around the Oxlo.ai client so we can record timing and token counts for every call. This gives us the raw data we need to debug. import time import json from openai import OpenAI client = OpenAI(base_url="https://api.oxlo.ai/v1", api_key="YOUR_OXLO_API_KEY") def traced_call(model, system_prompt, user_message): start = time.perf_counter() response = client.chat.completions.create( model=model, messages=[ {"role": "system", "content": system_prompt}, {"role": "user", "content": user_message}, ], ) duration_ms = round((time.perf_counter() - start) * 1000, 2) return { "model": model, "duration_ms": duration_ms, "prompt_tokens": response.usage.prompt_tokens, "completion_tokens": response.usage.completion_tokens, "content": response.choices[0].message.content, } # Sanity check log = traced_call("llama-3.3-70b", "You are a helpful assistant.", "Say hi.") print(json.dumps(log, indent=2)) Step 2: Create a bad prompt Next, I create a bloated prompt that mimics a common production mistake: dumping an entire troubleshooting wiki into the system context and asking for a simple JSON extraction. This wastes tokens and slows down inference. BLOATED_SYSTEM_PROMPT = """ You are a Tier-3 support engineer. Here is the entire company wiki: [imagine 4,000 words of internal documentation] User issue: the API returns 502. Rules: 1. Always be polite. 2. Always cite the wiki. 3. Never say you don't know. 4. Follow the 37-step escalation protocol. 5. Return JSON only. """ USER_MESSAGE = "Customer reports a 502 on /v1/chat/completions. Give me the fix." slow_log = traced_call("llama-3.3-70b", BLOATED_SYSTEM_PROMPT, USER_MESSAGE) print(f"Prompt tokens: {slow_log['prompt_tokens']}, Duration: {slow_log['duration_ms']}ms") Step 3: Write the debugger system prompt Now I write the system prompt for our debugger agent. It will analyze the captured log and prompt text, then suggest concrete fixes. DEBUGGER_SYSTEM_PROMPT = """ You are an LLM performance engineer. Analyze the attached inference log and prompt. Output a JSON object with exactly these keys: - "bottleneck": one of ["overlong_system_prompt", "wrong_model_tier", "verbose_output_schema", "redundant_few_shot"] - "severity": "high", "medium", or "low" - "recommendation": a one-sentence fix - "better_model": which Oxlo.ai model ID would handle this better Be concise. Do not explain your reasoning outside the JSON. """ Step 4: Run the diagnostic loop I send the bloated log to the debugger agent. I also rerun the bad prompt on two other Oxlo.ai models so the agent has comparative data. Because Oxlo.ai uses flat per-request pricing, detailed at https://oxlo.ai/pricing , running the same long prompt three times for a debug session does not scale cost with input length. import json from openai import OpenAI client = OpenAI(base_url="https://api.oxlo.ai/v1", api_key="YOUR_OXLO_API_KEY") # Gather comparative logs using the traced_call function from Step 1 log_a = traced_call("llama-3.3-70b", BLOATED_SYSTEM_PROMPT, USER_MESSAGE) log_b = traced_call("qwen-3-32b", BLOATED_SYSTEM_PROMPT, USER_MESSAGE) log_c = traced_call("deepseek-v3.2", BLOATED_SYSTEM_PROMPT, USER_MESSAGE) diagnostics_input = f""" === PROMPT === {BLOATED_SYSTEM_PROMPT} === LOGS === llama-3.3-70b: {json.dumps(log_a)} qwen-3-32b: {json.dumps(log_b)} deepseek-v3.2: {json.dumps(log_c)} """ response = client.chat.completions.create( model="kimi-k2.6", messages=[ {"role": "system", "content": DEBUGGER_SYSTEM_PROMPT}, {"role": "user", "content": diagnostics_input}, ], ) print(response.choices[0].message.content) Step 5: Verify the fix Finally, I take the debugger's recommendation and test the fixed prompt against the suggested model to verify the improvement. from openai import OpenAI client = OpenAI(base_url="https://api.oxlo.ai/v1", api_key="YOUR_OXLO_API_KEY") FIXED_SYSTEM_PROMPT = "You are a concise API support bot. Respond with a single JSON object containing 'fix' and 'reason'." # traced_call is defined in Step 1 verification_log = traced_call("deepseek-v3.2", FIXED_SYSTEM_PROMPT, USER_MESSAGE) print(f"Fixed call: {verification_log['prompt_tokens']} prompt tokens, {verification_log['duration_ms']}ms") if verification_log["duration_ms"] < log_a["duration_ms"] * 0.8: print("Verified: latency improved by at least 20%.") else: print("Latency did not improve enough. Consider a lighter model tier.") Run it Running the script produces output similar to this: $ python debugger.py Prompt tokens: 3124, Duration: 1240ms { "bottleneck": "overlong_system_prompt", "severity": "high", "recommendation": "Move wiki content out of system prompt and use a retrieval step.", "better_model": "deepseek-v3.2" } Fixed call: 42 prompt tokens, 310ms Verified: latency improved by at least 20%. Wrap-up From here, you can wire the tracer into your existing FastAPI service to log every call automatically, or schedule the debugger to run on your slowest 1% of requests overnight. If you are currently paying per token, moving your debug workloads to Oxlo.ai removes the penalty for replaying long prompts during root-cause analysis.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/shashank_ms_6a35baa4be138/debugging-llm-model-performance-a-step-by-step-guide-2c8l
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

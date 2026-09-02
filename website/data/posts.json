@@ -6116,6 +6116,17 @@
         "file": "css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix.md"
     },
     {
+        "title": "An AI agent almost made me run `rm -rf` — so I built a verifier for AI code published: false",
+        "slug": "an-ai-agent-almost-made-me-run-rm-rf-so-i-built-a-verifier-for-ai-code-published-false",
+        "author": "apple agent",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 03:01:08 +0000",
+        "description": "Last week an AI coding agent wrote me a small helper function. It looked completely reasonable. Then I actually read it line by line: def run_user_task ( u...",
+        "keywords": "code, security, agentverify, tests, run, not, check, file",
+        "generated": "2026-09-02T03:54:59.712234",
+        "file": "an-ai-agent-almost-made-me-run-rm-rf-so-i-built-a-verifier-for-ai-code-published-false.md"
+    },
+    {
         "title": "Learning about The Unix Time-Sharing System",
         "slug": "learning-about-the-unix-time-sharing-system",
         "author": "gwynforthewyn",
@@ -17609,6 +17620,17 @@
         "file": "drone-carrying-explosive-device-causes-disruption-at-major-german-airport.md"
     },
     {
+        "title": "Anthropic banned me for suspicious signals",
+        "slug": "anthropic-banned-me-for-suspicious-signals",
+        "author": "kixpanganiban",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 00:38:49 +0000",
+        "description": "Article URL: https://kix.codes/anthropic-banned-me-for-suspicious-signals/ Comments URL: https://news.ycombinator.com/item?id=49530298 Points: 20 # Comments: 9",
+        "keywords": "anthropic, banned, suspicious, signals, url, https, comments, article",
+        "generated": "2026-09-02T03:54:59.709066",
+        "file": "anthropic-banned-me-for-suspicious-signals.md"
+    },
+    {
         "title": "Graph Engineering: Stop Thinking in Steps, Start Mapping Dependencies",
         "slug": "graph-engineering-stop-thinking-in-steps-start-mapping-dependencies",
         "author": "Nicholas Masters",
@@ -20689,6 +20711,17 @@
         "file": "python-docker-containerization-from-dev-to-production.md"
     },
     {
+        "title": "The efficient frontier of LLM inference",
+        "slug": "the-efficient-frontier-of-llm-inference",
+        "author": "philipkiely",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+        "description": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 61 # Co...",
+        "keywords": "efficient, frontier, llm, inference, url, https, comments, article",
+        "generated": "2026-09-02T03:54:59.709195",
+        "file": "the-efficient-frontier-of-llm-inference.md"
+    },
+    {
         "title": "Website Vulnerability Scanner: What It Checks and How to Read Results",
         "slug": "website-vulnerability-scanner-what-it-checks-and-how-to-read-results",
         "author": "Håkan Fägnell",
@@ -21765,6 +21798,17 @@
         "keywords": "stack, phase, data, write, log, behind, canadian, healthcare",
         "generated": "2026-07-22T14:08:21.362998",
         "file": "the-tech-stack-behind-a-canadian-healthcare-saas-chartpilot-phase-2.md"
+    },
+    {
+        "title": "True Rate of Unemployment",
+        "slug": "true-rate-of-unemployment",
+        "author": "ptrhvns",
+        "source": "hackernews",
+        "published": "Wed, 02 Sep 2026 02:21:10 +0000",
+        "description": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 5 # Comments: 0",
+        "keywords": "url, https, comments, true, rate, unemployment, article, www",
+        "generated": "2026-09-02T03:54:59.708900",
+        "file": "true-rate-of-unemployment.md"
     },
     {
         "title": "Apple vs. OpenAI: What's Going On with AI and Trade Secrets?",
@@ -36512,6 +36556,17 @@
         "file": "building-a-multi-agent-legal-research-pipeline-with-live-source-verification.md"
     },
     {
+        "title": "Fill PDF Forms in the Browser — No Upload, No Account",
+        "slug": "fill-pdf-forms-in-the-browser-no-upload-no-account",
+        "author": "beta ceo",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 03:35:24 +0000",
+        "description": "Last month I needed to fill out a certificate PDF on someone else's laptop. No Adobe license, no time to install anything, and the file had a sensitive contr...",
+        "keywords": "pdf, fill, editdocx, you, browser, download, forms, your",
+        "generated": "2026-09-02T03:54:59.712877",
+        "file": "fill-pdf-forms-in-the-browser-no-upload-no-account.md"
+    },
+    {
         "title": "What a Refrigerator Taught Me About Building an AI Troubleshooting Tool",
         "slug": "what-a-refrigerator-taught-me-about-building-an-ai-troubleshooting-tool",
         "author": "Michael Groover",
@@ -38017,6 +38072,17 @@
         "keywords": "strategy, strategies, api, signals, evolutionary, algorithms, what, trading",
         "generated": "2026-08-20T12:58:10.475771",
         "file": "i-built-an-ai-that-trades-crypto-using-evolutionary-algorithms-heres-what-i-learned.md"
+    },
+    {
+        "title": "AWS SAP-C03 and DVA-C03: What We Know So Far (GenAI and Agents Are In)",
+        "slug": "aws-sap-c03-and-dva-c03-what-we-know-so-far-genai-and-agents-are-in",
+        "author": "Maruchin Tech",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 03:31:21 +0000",
+        "description": "AWS has announced revisions to two of its most popular certifications: Solutions Architect – Professional (SAP-C02 → SAP-C03) and Developer – Associate (DVA-...",
+        "keywords": "aws, dva, skills, sap, certification, architectures, new, blog",
+        "generated": "2026-09-02T03:54:59.716152",
+        "file": "aws-sap-c03-and-dva-c03-what-we-know-so-far-genai-and-agents-are-in.md"
     },
     {
         "title": "How to Write Python Code That Is Both Correct and Readable Under Interview Pressure",
@@ -40468,6 +40534,17 @@
         "keywords": "url, https, com, comments, fable, cost, cut, converting",
         "generated": "2026-07-03T19:37:54.519664",
         "file": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it.md"
+    },
+    {
+        "title": "O recibo diz 200. O índice diz zero.",
+        "slug": "o-recibo-diz-200-o-ndice-diz-zero",
+        "author": "Oroboro Labs",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 03:43:34 +0000",
+        "description": "Cada nota que publicamos é pingada para os motores de busca no minuto em que sobe. O endpoint de ping respondeu 200 todas as vezes. Nesta semana nós finalmen...",
+        "keywords": "que, motor, uma, com, zero, para, como, recibo",
+        "generated": "2026-09-02T03:54:59.712569",
+        "file": "o-recibo-diz-200-o-ndice-diz-zero.md"
     },
     {
         "title": "Making Two TTS Voices Sound Like an Actual Conversation",
@@ -45695,6 +45772,17 @@
         "file": "i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win.md"
     },
     {
+        "title": "Building the Autonomous Web: Best Practices for Generative AI Integration in Web Development",
+        "slug": "building-the-autonomous-web-best-practices-for-generative-ai-integration-in-web-development",
+        "author": "Rynoex",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 03:30:31 +0000",
+        "description": "Building the Autonomous Web: Best Practices for Generative AI Integration in Web Development Explore how Generative AI Integration in Web Development is resh...",
+        "keywords": "web, development, best, practices, generative, integration, building, autonomous",
+        "generated": "2026-09-02T03:54:59.713989",
+        "file": "building-the-autonomous-web-best-practices-for-generative-ai-integration-in-web-development.md"
+    },
+    {
         "title": "Linear Algebra Done Right – Sheldon Axler",
         "slug": "linear-algebra-done-right-sheldon-axler",
         "author": "the-mitr",
@@ -46223,6 +46311,17 @@
         "file": "mcp-explained-simply-what-it-is-why-it-matters-and-how-to-build-your-first-server.md"
     },
     {
+        "title": "My local model setup on an M4 Pro Mac Mini",
+        "slug": "my-local-model-setup-on-an-m4-pro-mac-mini",
+        "author": "raybb",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 22:30:52 +0000",
+        "description": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 96 # Comments: 44",
+        "keywords": "local, model, setup, url, https, comments, pro, mac",
+        "generated": "2026-09-02T03:54:59.709437",
+        "file": "my-local-model-setup-on-an-m4-pro-mac-mini.md"
+    },
+    {
         "title": "US citizen charged after GrapheneOS phone wipes during airport search",
         "slug": "us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search",
         "author": "eecc",
@@ -46573,6 +46672,17 @@
         "keywords": "stackoverflow, graph, url, https, com, comments, what, did",
         "generated": "2026-07-18T13:26:53.499247",
         "file": "what-ai-did-to-stackoverflow-in-a-graph.md"
+    },
+    {
+        "title": "Introduction to LLM Few-Shot Learning: Concepts and Applications",
+        "slug": "introduction-to-llm-few-shot-learning-concepts-and-applications",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 03:36:08 +0000",
+        "description": "We are going to build a few-shot support ticket priority classifier that learns from five examples instead of a fine-tuning pipeline. This pattern is useful ...",
+        "keywords": "title, oxlo, ticket, content, role, examples, body, few",
+        "generated": "2026-09-02T03:54:59.714281",
+        "file": "introduction-to-llm-few-shot-learning-concepts-and-applications.md"
     },
     {
         "title": "What is Bash4LLM+ and Why Should You Care?",
@@ -47697,6 +47807,17 @@
         "file": "why-mobile-pages-load-slowly-a-practical-performance.md"
     },
     {
+        "title": "Chunking 300-Page Books for Claude: How We Beat Token Limits in AI Translation",
+        "slug": "chunking-300-page-books-for-claude-how-we-beat-token-limits-in-ai-translation",
+        "author": "龚旭东",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 03:01:56 +0000",
+        "description": "A practical guide to slicing long documents, preserving context, and avoiding context-window explosions. When we first set out to build LectuLibre, our AI-po...",
+        "keywords": "chunk, paragraphs, chunks, translation, memory, context, overlap, book",
+        "generated": "2026-09-02T03:54:59.711830",
+        "file": "chunking-300-page-books-for-claude-how-we-beat-token-limits-in-ai-translation.md"
+    },
+    {
         "title": "Gradient checkpointing: keep N activations, recompute the rest — memory falls from O(N) to O( N) for one extra forward pass",
         "slug": "gradient-checkpointing-keep-n-activations-recompute-the-rest-memory-falls-from-on-to-o-n-for-one-extra-forward-pass",
         "author": "Devanshu Biswas",
@@ -47739,6 +47860,17 @@
         "keywords": "rome, fell, nobody, noticed, url, https, com, comments",
         "generated": "2026-06-14T19:44:48.274937",
         "file": "rome-fell-and-nobody-noticed.md"
+    },
+    {
+        "title": "I generate every blog cover with headless Chrome and a bit of CSS, no design tool",
+        "slug": "i-generate-every-blog-cover-with-headless-chrome-and-a-bit-of-css-no-design-tool",
+        "author": "frank chu",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 03:04:56 +0000",
+        "description": "I have not opened a design tool to make a blog cover in months. Every post I publish gets a branded 1000x420 image, and each one is generated by a script tha...",
+        "keywords": "html, title, you, every, cover, card, size, div",
+        "generated": "2026-09-02T03:54:59.711075",
+        "file": "i-generate-every-blog-cover-with-headless-chrome-and-a-bit-of-css-no-design-tool.md"
     },
     {
         "title": "How We Built Instant Translation Help (即时翻译帮助) with Python and LLMs",
@@ -49688,6 +49820,17 @@
         "file": "the-rise-of-humanoid-robots-in.md"
     },
     {
+        "title": "Debugging LLM Model Performance: A Step-by-Step Guide",
+        "slug": "debugging-llm-model-performance-a-step-by-step-guide",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 03:34:04 +0000",
+        "description": "We are going to build a lightweight LLM performance debugger that captures slow or wasteful inference calls, diagnoses the root cause, and recommends a bette...",
+        "keywords": "prompt, model, step, oxlo, openai, json, you, content",
+        "generated": "2026-09-02T03:54:59.715090",
+        "file": "debugging-llm-model-performance-a-step-by-step-guide.md"
+    },
+    {
         "title": "Fixed Price Web Development: Your Budget-Friendly Solution",
         "slug": "fixed-price-web-development-your-budget-friendly-solution",
         "author": "Akbar Zubairi",
@@ -50291,6 +50434,17 @@
         "keywords": "ragflow, dify, firecrawl, you, knowledge, base, data, product",
         "generated": "2026-08-08T01:58:44.666775",
         "file": "ragflow-vs-dify-vs-firecrawl-i-tested-all-three-so-you-dont-have-to.md"
+    },
+    {
+        "title": "LLM Model Training Datasets: A Comprehensive Overview",
+        "slug": "llm-model-training-datasets-a-comprehensive-overview",
+        "author": "shashank ms",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 03:32:28 +0000",
+        "description": "Most fine-tuning projects fail because of bad data, not bad models. In this tutorial I will show you how to build a synthetic dataset generator that produces...",
+        "keywords": "item, raw, content, json, instruction, response, role, output",
+        "generated": "2026-09-02T03:54:59.715569",
+        "file": "llm-model-training-datasets-a-comprehensive-overview.md"
     },
     {
         "title": "So You Want to Define a Well-Known URI",
@@ -53503,6 +53657,17 @@
         "keywords": "you, websites, inspiration, best, design, designers, page, love",
         "generated": "2026-07-20T14:19:27.586560",
         "file": "10-best-websites-for-web-design-inspiration-in-2026.md"
+    },
+    {
+        "title": "RAG Is Not the Answer. Here's What Developers Are Actually Switching To",
+        "slug": "rag-is-not-the-answer-heres-what-developers-are-actually-switching-to",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 03:31:27 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "not, what, you, agent, agents, actually, when, can",
+        "generated": "2026-09-02T03:54:59.713352",
+        "file": "rag-is-not-the-answer-heres-what-developers-are-actually-switching-to.md"
     },
     {
         "title": "Building a 24/7 Home Security NVR Using Frugal Hardware and a Raspberry Pi 3 Bridge",
@@ -59619,6 +59784,17 @@
         "file": "14-years-of-engineering-lessons-what-building-dida-holdings-taught-me.md"
     },
     {
+        "title": "I Scraped 100 Sports Matches — Here Is What I Found: Red Bull hire Aston Martin engineer McCullough as head of racing",
+        "slug": "i-scraped-100-sports-matches-here-is-what-i-found-red-bull-hire-aston-martin-engineer-mccullough-as-head-of-racing",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 03:07:36 +0000",
+        "description": "I Scraped 100 Sports Matches — Here Is What I Found: Red Bull hire Aston Martin engineer McCullough as head of racing TL;DR : Red Bull have hired former Asto...",
+        "keywords": "mccullough, racing, sports, head, red, bull, aston, martin",
+        "generated": "2026-09-02T03:54:59.710701",
+        "file": "i-scraped-100-sports-matches-here-is-what-i-found-red-bull-hire-aston-martin-engineer-mccullough-as-head-of-racing.md"
+    },
+    {
         "title": "The death and rebirth of my home server",
         "slug": "the-death-and-rebirth-of-my-home-server",
         "author": "steinuil",
@@ -63323,6 +63499,17 @@
         "keywords": "agent, multi, agents, retry, architecture, patterns, production, rate",
         "generated": "2026-08-17T07:04:47.151720",
         "file": "multi-agent-systems-architecture-patterns-pitfalls-and-production-reality.md"
+    },
+    {
+        "title": "FastAPI PDF Endpoints for US/EU SaaS: Auditable Identity Verification at Peak Latency",
+        "slug": "fastapi-pdf-endpoints-for-useu-saas-auditable-identity-verification-at-peak-latency",
+        "author": "FlorianBlake3536",
+        "source": "devto_python",
+        "published": "Wed, 02 Sep 2026 03:25:34 +0000",
+        "description": "For a US/EU SaaS choosing which PDF endpoints to use for customer identity verification, the constraint that changes the answer is the evidence boundary: fil...",
+        "keywords": "pdf, not, job, signature, response, boundary, when, provider",
+        "generated": "2026-09-02T03:54:59.710416",
+        "file": "fastapi-pdf-endpoints-for-useu-saas-auditable-identity-verification-at-peak-latency.md"
     },
     {
         "title": "SAP FICO Training and Placement: Complete Career Guide",
@@ -68066,6 +68253,17 @@
         "file": "i-generated-a-pixel-font-in-pure-python-with-fonttools-no-font-editor.md"
     },
     {
+        "title": "The Production AI Checklist That Nobody Publishes.",
+        "slug": "the-production-ai-checklist-that-nobody-publishes",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Wed, 02 Sep 2026 03:30:57 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "not, what, you, agent, agents, when, actually, can",
+        "generated": "2026-09-02T03:54:59.713844",
+        "file": "the-production-ai-checklist-that-nobody-publishes.md"
+    },
+    {
         "title": "I Got Tired of Juggling 5 AI API Keys, So I Built a Simpler Workflow",
         "slug": "i-got-tired-of-juggling-5-ai-api-keys-so-i-built-a-simpler-workflow",
         "author": "Lijing-Big",
@@ -69650,6 +69848,17 @@
         "file": "how-to-organize-claude-code-for-product-work.md"
     },
     {
+        "title": "⚡ Meet Minomeet: The Zero-Bot, 100% Private AI Meeting Copilot (Built with React & Node.js)",
+        "slug": "meet-minomeet-the-zero-bot-100-private-ai-meeting-copilot-built-with-react-nodejs",
+        "author": "Muhammed Shareef M",
+        "source": "devto_ai",
+        "published": "Wed, 02 Sep 2026 03:34:47 +0000",
+        "description": "⚡ Meet Minomeet: The Zero-Bot, 100% Private AI Meeting Copilot Every day, knowledge workers, engineering teams, and sales reps spend hours hopping between st...",
+        "keywords": "minomeet, meeting, your, bot, audio, install, action, github",
+        "generated": "2026-09-02T03:54:59.714719",
+        "file": "meet-minomeet-the-zero-bot-100-private-ai-meeting-copilot-built-with-react-nodejs.md"
+    },
+    {
         "title": "Beyond the Black Box: Navigating SEO Tools Without Breaking the Bank",
         "slug": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank",
         "author": "FreeDevKit",
@@ -69890,6 +70099,17 @@
         "keywords": "yandex, search, api, you, apify, run, region, keyword",
         "generated": "2026-07-18T19:11:40.224086",
         "file": "yandex-search-api-how-to-scrape-yandex-serps-as-structured-json-in-2026.md"
+    },
+    {
+        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "slug": "fbi-probes-service-selling-153m-drivers-licenses",
+        "author": "tatersolid",
+        "source": "hackernews",
+        "published": "Tue, 01 Sep 2026 23:17:43 +0000",
+        "description": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=4952962...",
+        "keywords": "fbi, probes, service, selling, drivers, licenses, url, https",
+        "generated": "2026-09-02T03:54:59.709318",
+        "file": "fbi-probes-service-selling-153m-drivers-licenses.md"
     },
     {
         "title": "UIUC AI Teaching Assistant",
