@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Wed, 02 Sep 2026 20:08:22 +0000"
 description: "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comme..."
 keywords: "source, code, pdf, url, https, com, comments, altair"
-generated: "2026-09-03T03:53:39.464279"
+generated: "2026-09-03T10:58:48.309437"
 ---
 
 # Altair Basic Interpreter Source Code (1975) [pdf]
 
 ## Overview
 
-Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 43 # Comments: 29
+Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 61 # Comments: 34
 
 ## Key Insights
 
