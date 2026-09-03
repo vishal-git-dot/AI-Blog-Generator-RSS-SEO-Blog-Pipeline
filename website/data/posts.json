@@ -2120,10 +2120,10 @@
         "slug": "automate-everything-python-scripts-that-save-hours-daily",
         "author": "qing",
         "source": "devto_python",
-        "published": "Sun, 26 Jul 2026 08:01:02 +0000",
-        "description": "Automate Everything: Python Scripts That Save Hours Daily tags: python, automation, productivity, scripts Imagine having an extra hour or two every day to fo...",
-        "keywords": "python, you, can, automation, tasks, your, automate, pyautogui",
-        "generated": "2026-07-26T08:33:55.339323",
+        "published": "Thu, 03 Sep 2026 20:00:48 +0000",
+        "description": "Automate Everything: Python Scripts That Save Hours Daily tags: python, automation, productivity, scripts tags: python, automation, productivity, scripts tag...",
+        "keywords": "python, automation, you, can, tasks, your, automate, scripts",
+        "generated": "2026-09-03T20:48:32.217195",
         "file": "automate-everything-python-scripts-that-save-hours-daily.md"
     },
     {
@@ -3071,6 +3071,17 @@
         "keywords": "security, cyber, threat, source, philippines, philippine, attacks, data",
         "generated": "2026-07-25T03:16:45.367942",
         "file": "philippine-cyber-threats-doubled-in-h1-2026-as-ai-powered-attacks-reshape-the-battlefield.md"
+    },
+    {
+        "title": "Benchmarking Serverless GPUs: Modal vs RunPod vs Replicate Cold Starts (2026)",
+        "slug": "benchmarking-serverless-gpus-modal-vs-runpod-vs-replicate-cold-starts-2026",
+        "author": "mrzitoun",
+        "source": "devto_python",
+        "published": "Thu, 03 Sep 2026 20:13:13 +0000",
+        "description": "Deploying open-source LLMs (like Llama-3) or real-time Whisper transcription in production often forces a difficult architectural trade-off: keep dedicated G...",
+        "keywords": "serverless, cold, start, gpu, modal, runpod, container, benchmark",
+        "generated": "2026-09-03T20:48:32.216402",
+        "file": "benchmarking-serverless-gpus-modal-vs-runpod-vs-replicate-cold-starts-2026.md"
     },
     {
         "title": "60% Fable cost cut by converting code to images and having the model OCR it",
@@ -11659,6 +11670,17 @@
         "file": "the-pomodoro-technique-is-overhyped-but-the-science-behind-it-is-not.md"
     },
     {
+        "title": "What is actually inside the Starter",
+        "slug": "what-is-actually-inside-the-starter",
+        "author": "Oroboro Labs",
+        "source": "devto_python",
+        "published": "Thu, 03 Sep 2026 20:35:28 +0000",
+        "description": "Most product pages describe a feeling. This one lists files. Second Brain Starter is US$19, a 40% coupon is live right now, and before you decide whether tha...",
+        "keywords": "you, vault, what, file, map, one, files, its",
+        "generated": "2026-09-03T20:48:32.216233",
+        "file": "what-is-actually-inside-the-starter.md"
+    },
+    {
         "title": "Sending SMS from AWS Lambda with the Sinch SDK",
         "slug": "sending-sms-from-aws-lambda-with-the-sinch-sdk",
         "author": "Gunnar Grosch",
@@ -14603,6 +14625,17 @@
         "keywords": "accelerating, gpt, sol, ultrafast, url, https, comments, article",
         "generated": "2026-08-13T19:08:38.056168",
         "file": "accelerating-gpt-56-sol-ultrafast.md"
+    },
+    {
+        "title": "I Built a Liquid Navigation Bar with CSS & JS (No Libraries)",
+        "slug": "i-built-a-liquid-navigation-bar-with-css-js-no-libraries",
+        "author": "DGreat",
+        "source": "devto_webdev",
+        "published": "Thu, 03 Sep 2026 20:26:15 +0000",
+        "description": "I wanted a nav bar that felt a little more alive than a standard tab bar, so I built a liquid navigation component — a bubble that dives, travels, and resu...",
+        "keywords": "liquid, bar, built, navigation, css, libraries, component, instead",
+        "generated": "2026-09-03T20:48:32.217689",
+        "file": "i-built-a-liquid-navigation-bar-with-css-js-no-libraries.md"
     },
     {
         "title": "iPhone 18 Pro Max: The 2026 Paradigm Shift in Mobile Intelligence",
@@ -22646,6 +22679,17 @@
         "file": "alphabets-cash-burn-raises-alarm-for-big-tech-as-ai-spending-climbs.md"
     },
     {
+        "title": "5 Reasons to Switch From Google Analytics in 2026",
+        "slug": "5-reasons-to-switch-from-google-analytics-in-2026",
+        "author": "Zenovay",
+        "source": "devto_webdev",
+        "published": "Thu, 03 Sep 2026 20:21:03 +0000",
+        "description": "Google Analytics has been the default for over a decade. It is free, it is everywhere, and most teams set it up without questioning whether they should. But ...",
+        "keywords": "you, analytics, not, your, google, data, but, need",
+        "generated": "2026-09-03T20:48:32.218251",
+        "file": "5-reasons-to-switch-from-google-analytics-in-2026.md"
+    },
+    {
         "title": "🚨 Is AI the Next Tech Bubble?",
         "slug": "is-ai-the-next-tech-bubble",
         "author": "CodeWithIshwar",
@@ -23491,6 +23535,17 @@
         "keywords": "comments, dexter, hiring, founding, engineer, berlin, url, https",
         "generated": "2026-07-01T09:59:55.956410",
         "file": "dexter-yc-f24-is-hiring-a-founding-engineer-in-berlin.md"
+    },
+    {
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "slug": "qwen-38-27b-available-on-cerebras-at-1500-tokenss",
+        "author": "altertable",
+        "source": "hackernews",
+        "published": "Thu, 03 Sep 2026 18:32:13 +0000",
+        "description": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 276 # Comments: 93",
+        "keywords": "cerebras, url, https, comments, qwen, available, tokens, article",
+        "generated": "2026-09-03T20:48:32.215964",
+        "file": "qwen-38-27b-available-on-cerebras-at-1500-tokenss.md"
     },
     {
         "title": "NVIDIA H100 vs. RTX 6000 Ada: Which GPU Wins for Local AI Workloads?",
@@ -26001,6 +26056,17 @@
         "file": "claude-fable-51-pricing-benchmarks-and-the-safeguard-tax.md"
     },
     {
+        "title": "Three Questions I Ask Myself Before Adding a Dependency",
+        "slug": "three-questions-i-ask-myself-before-adding-a-dependency",
+        "author": "Den",
+        "source": "devto_python",
+        "published": "Thu, 03 Sep 2026 20:02:46 +0000",
+        "description": "Every time I'm about to type npm install or pip install , I pause for a second. Not because I'm against libraries — I use them every day. It's because I once...",
+        "keywords": "but, not, myself, package, question, one, project, three",
+        "generated": "2026-09-03T20:48:32.216756",
+        "file": "three-questions-i-ask-myself-before-adding-a-dependency.md"
+    },
+    {
         "title": "Google AI Mode Enhancements wi…",
         "slug": "google-ai-mode-enhancements-wi",
         "author": "Norvik Tech",
@@ -26549,6 +26615,17 @@
         "keywords": "artie, url, https, com, comments, hiring, technical, aes",
         "generated": "2026-08-30T20:50:18.007293",
         "file": "artie-yc-s23-is-hiring-technical-aes.md"
+    },
+    {
+        "title": "GPT-6 Astra",
+        "slug": "gpt-6-astra",
+        "author": "kibae",
+        "source": "hackernews",
+        "published": "Thu, 03 Sep 2026 18:41:05 +0000",
+        "description": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?i...",
+        "keywords": "gpt, astra, https, com, news, ycombinator, item, openai",
+        "generated": "2026-09-03T20:48:32.215866",
+        "file": "gpt-6-astra.md"
     },
     {
         "title": "Master Python in 2 Minutes",
@@ -34966,6 +35043,17 @@
         "file": "i-built-an-ai-speechwriter-for-the-moments-you-cant-get-wrong.md"
     },
     {
+        "title": "React as template engine",
+        "slug": "react-as-template-engine",
+        "author": "Evgeniy Panov",
+        "source": "devto_webdev",
+        "published": "Thu, 03 Sep 2026 20:11:13 +0000",
+        "description": "In the previous article, we set up the project: we installed React, TypeScript, and Tailwind CSS. Now let's start diving into React itself. And we'll begin w...",
+        "keywords": "react, components, comment, div, src, component, text, import",
+        "generated": "2026-09-03T20:48:32.218728",
+        "file": "react-as-template-engine.md"
+    },
+    {
         "title": "Free AI Tools: pricing and ROI checks",
         "slug": "free-ai-tools-pricing-and-roi-checks",
         "author": "TuanPK Builds",
@@ -36935,6 +37023,17 @@
         "file": "spark-connect-decoupled-client-server-architecture-grpc-multi-language-sessions.md"
     },
     {
+        "title": "Sevii Launches Autonomous ADR Agents for AI-Speed Attack Defense",
+        "slug": "sevii-launches-autonomous-adr-agents-for-ai-speed-attack-defense",
+        "author": "Achin Bansal",
+        "source": "devto_ai",
+        "published": "Thu, 03 Sep 2026 20:30:48 +0000",
+        "description": "Forensic Summary Sevii has expanded its Active Defense and Response (ADR) platform with AI agents capable of autonomously investigating, containing, and reme...",
+        "keywords": "agents, sevii, autonomous, adr, speed, attack, defense, launches",
+        "generated": "2026-09-03T20:48:32.220147",
+        "file": "sevii-launches-autonomous-adr-agents-for-ai-speed-attack-defense.md"
+    },
+    {
         "title": "Sovereign Tech Agency invests €500k in Flatpak",
         "slug": "sovereign-tech-agency-invests-500k-in-flatpak",
         "author": "eigenspace",
@@ -37527,6 +37626,17 @@
         "keywords": "education, https, shuzishuniu, com",
         "generated": "2026-09-01T11:25:28.728694",
         "file": "ai.md"
+    },
+    {
+        "title": "The asteroid currently hitting front end web development",
+        "slug": "the-asteroid-currently-hitting-front-end-web-development",
+        "author": "codechicago277",
+        "source": "hackernews",
+        "published": "Thu, 03 Sep 2026 19:17:24 +0000",
+        "description": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=4...",
+        "keywords": "asteroid, currently, hitting, web, development, url, https, com",
+        "generated": "2026-09-03T20:48:32.215748",
+        "file": "the-asteroid-currently-hitting-front-end-web-development.md"
     },
     {
         "title": "4 Best Sites to Buy Google Map Reviews (Forget The Risk)",
@@ -40253,6 +40363,17 @@
         "keywords": "polo, article, url, https, comments, field, clones, how",
         "generated": "2026-06-07T09:24:56.816037",
         "file": "field-of-clones-how-horse-replicas-came-to-dominate-polo.md"
+    },
+    {
+        "title": "Best Ways to Make Money Online: Simple Ideas Anyone Can Start",
+        "slug": "best-ways-to-make-money-online-simple-ideas-anyone-can-start",
+        "author": "sansar",
+        "source": "devto_ai",
+        "published": "Thu, 03 Sep 2026 20:35:07 +0000",
+        "description": "Making money online has become easier than ever. With the growth of technology and digital platforms, anyone can start earning from home by using their skill...",
+        "keywords": "online, can, money, start, earning, skills, ways, digital",
+        "generated": "2026-09-03T20:48:32.219977",
+        "file": "best-ways-to-make-money-online-simple-ideas-anyone-can-start.md"
     },
     {
         "title": "“Save” and “Update” Are Not the Same — How a Former Okonomiyaki Chef Removed Confusing UI from a Flask App",
@@ -46444,6 +46565,17 @@
         "keywords": "your, video, videos, apify, download, vertical, pexels, scraper",
         "generated": "2026-06-28T19:38:17.335838",
         "file": "how-to-automate-stock-video-sourcing-for-tiktok-shorts-using-python.md"
+    },
+    {
+        "title": "The death of San Francisco's Market Street",
+        "slug": "the-death-of-san-franciscos-market-street",
+        "author": "A_D_E_P_T",
+        "source": "hackernews",
+        "published": "Thu, 03 Sep 2026 19:33:17 +0000",
+        "description": "Article URL: https://www.noahpinion.blog/p/the-death-of-market-street Comments URL: https://news.ycombinator.com/item?id=49555478 Points: 19 # Comments: 15",
+        "keywords": "death, market, street, url, https, comments, san, francisco",
+        "generated": "2026-09-03T20:48:32.215626",
+        "file": "the-death-of-san-franciscos-market-street.md"
     },
     {
         "title": "瑞士股市 API 接入教程：获取瑞士股市（雀巢/诺华/罗氏）实时行情与历史K线",
@@ -60040,6 +60172,17 @@
         "file": "motherduck-duckdb-cloud-hybrid-execution-wasm-in-the-browser-team-attach.md"
     },
     {
+        "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+        "slug": "openais-gpt-6-astra-on-arc-agi-3",
+        "author": "vignesh_warar",
+        "source": "hackernews",
+        "published": "Thu, 03 Sep 2026 19:45:00 +0000",
+        "description": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 47 # Comments: 17",
+        "keywords": "astra, url, https, comments, openai, gpt, arc, agi",
+        "generated": "2026-09-03T20:48:32.215433",
+        "file": "openais-gpt-6-astra-on-arc-agi-3.md"
+    },
+    {
         "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
         "slug": "trellis-ai-yc-w24-hiring-a-product-lead-to-build-agents-for-healthcare-access",
         "author": "macklinkachorn",
@@ -63780,6 +63923,17 @@
         "file": "show-dev-spotify-toolkit-a-python-customtkinter-app-to-manage-playlists-and-clean-duplicates.md"
     },
     {
+        "title": "10 Minutes to Your Best Headshot: A Simple Pre-Session Routine",
+        "slug": "10-minutes-to-your-best-headshot-a-simple-pre-session-routine",
+        "author": "zongkai sun",
+        "source": "devto_webdev",
+        "published": "Thu, 03 Sep 2026 20:09:21 +0000",
+        "description": "Most professionals freeze on camera because they rush. This 10-minute routine will help you exhale, reset, and walk into that session looking like your confi...",
+        "keywords": "your, session, routine, minutes, best, headshot, simple, pre",
+        "generated": "2026-09-03T20:48:32.218874",
+        "file": "10-minutes-to-your-best-headshot-a-simple-pre-session-routine.md"
+    },
+    {
         "title": "Apache Iceberg Branching, Tagging & WAP: Production Patterns",
         "slug": "apache-iceberg-branching-tagging-wap-production-patterns",
         "author": "Gowtham Potureddi",
@@ -64295,6 +64449,17 @@
         "keywords": "you, model, your, json, tool, not, when, our",
         "generated": "2026-08-04T14:28:10.955290",
         "file": "your-llm-sends-valid-data-in-an-invalid-shape.md"
+    },
+    {
+        "title": "Creating short video clips from text and images: a practical walkthrough with AI video generators",
+        "slug": "creating-short-video-clips-from-text-and-images-a-practical-walkthrough-with-ai-video-generators",
+        "author": "Martyn Foster",
+        "source": "devto_webdev",
+        "published": "Thu, 03 Sep 2026 20:08:45 +0000",
+        "description": "Creating short video clips from text and images Short-form video is everywhere. Product teasers, social clips, quick feature demos, and internal explainers a...",
+        "keywords": "video, you, your, text, generator, clips, product, tool",
+        "generated": "2026-09-03T20:48:32.219149",
+        "file": "creating-short-video-clips-from-text-and-images-a-practical-walkthrough-with-ai-video-generators.md"
     },
     {
         "title": "GitHub's Former CEO Launches Distributed Git Network for AI Coding Agents",
@@ -69775,10 +69940,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Wed, 26 Aug 2026 06:22:33 +0000",
+        "published": "Thu, 03 Sep 2026 19:58:28 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-08-26T06:57:10.995422",
+        "generated": "2026-09-03T20:48:32.217448",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -70341,6 +70506,17 @@
         "keywords": "html, docx, word, content, documents, editable, convert, you",
         "generated": "2026-06-27T19:36:59.128795",
         "file": "how-to-convert-html-to-docx-without-losing-your-content.md"
+    },
+    {
+        "title": "Data Sovereignty Healthcare: Essential LLM Security",
+        "slug": "data-sovereignty-healthcare-essential-llm-security",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Thu, 03 Sep 2026 20:36:38 +0000",
+        "description": "Why Data Sovereignty Healthcare Requires Local AI Healthcare organizations want large language models to summarize clinical notes, retrieve medical knowledge...",
+        "keywords": "data, healthcare, model, should, access, sovereignty, local, can",
+        "generated": "2026-09-03T20:48:32.219792",
+        "file": "data-sovereignty-healthcare-essential-llm-security.md"
     },
     {
         "title": "Site Reliability Engineering Online Training | SRE Course",
@@ -71058,6 +71234,17 @@
         "file": "building-scalable-nodejs-apis-with-express-the-avengers-assemble.md"
     },
     {
+        "title": "A transcript is a record. Minutes are a promise.",
+        "slug": "a-transcript-is-a-record-minutes-are-a-promise",
+        "author": "Syed Masood Shah",
+        "source": "devto_ai",
+        "published": "Thu, 03 Sep 2026 20:30:36 +0000",
+        "description": "I know the difference between a transcript and minutes, because I kept the wrong one for years. A transcript is a record of the past. Words, in order, ums ...",
+        "keywords": "minutes, you, what, one, meeting, people, transcript, record",
+        "generated": "2026-09-03T20:48:32.220383",
+        "file": "a-transcript-is-a-record-minutes-are-a-promise.md"
+    },
+    {
         "title": "Why I stopped sending freelance proposals (and what I send instead)",
         "slug": "why-i-stopped-sending-freelance-proposals-and-what-i-send-instead",
         "author": "HAL GOBVAN",
@@ -71265,6 +71452,17 @@
         "keywords": "use, your, llms, you, not, review, when, but",
         "generated": "2026-06-07T09:24:56.820743",
         "file": "how-to-use-llms-effectively-in-your-daily-work-a-practical-guide.md"
+    },
+    {
+        "title": "Six in the morning is a request, not a promise",
+        "slug": "six-in-the-morning-is-a-request-not-a-promise",
+        "author": "Unmanned Ops",
+        "source": "devto_ai",
+        "published": "Thu, 03 Sep 2026 20:41:00 +0000",
+        "description": "Our unattended agent has a daily slot. It is written down as a fixed time in the morning, it is configured as a fixed time in the morning, and for months I d...",
+        "keywords": "time, six, run, not, you, has, job, one",
+        "generated": "2026-09-03T20:48:32.219424",
+        "file": "six-in-the-morning-is-a-request-not-a-promise.md"
     },
     {
         "title": "I Moved My AI Stack From NVIDIA to Apple Silicon. Then I Moved Back. Here's Why.",
