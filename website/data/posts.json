@@ -1082,6 +1082,17 @@
         "file": "apple-is-getting-this-wrong.md"
     },
     {
+        "title": "I Built a Free Learning Platform with 30+ Lessons – Here's What I Learned",
+        "slug": "i-built-a-free-learning-platform-with-30-lessons-heres-what-i-learned",
+        "author": "Khawaja Khurram (MAK)",
+        "source": "devto_python",
+        "published": "Fri, 04 Sep 2026 16:00:45 +0000",
+        "description": "The Idea I started 2025 with a simple question: What if I could help absolute beginners learn to code without any barriers – no sign‑up, no ads, no paywalls...",
+        "keywords": "lessons, free, html, learning, code, python, what, built",
+        "generated": "2026-09-04T16:05:41.190422",
+        "file": "i-built-a-free-learning-platform-with-30-lessons-heres-what-i-learned.md"
+    },
+    {
         "title": "Playwright MCP: cómo dar navegador a un agente de IA sin convertir tus tests en una caja negra",
         "slug": "playwright-mcp-cmo-dar-navegador-a-un-agente-de-ia-sin-convertir-tus-tests-en-una-caja-negra",
         "author": "Khavel",
@@ -9998,6 +10009,17 @@
         "keywords": "json, explained, personal, websites, url, https, comments, article",
         "generated": "2026-06-21T19:51:26.680101",
         "file": "json-ld-explained-for-personal-websites.md"
+    },
+    {
+        "title": "Google crawled 230 pages of my site and indexed 2. Here is how I diagnosed it.",
+        "slug": "google-crawled-230-pages-of-my-site-and-indexed-2-here-is-how-i-diagnosed-it",
+        "author": "Emirhan Güven",
+        "source": "devto_python",
+        "published": "Fri, 04 Sep 2026 15:52:13 +0000",
+        "description": "My marketing site has 230 URLs in its sitemaps. Google has indexed 2 of them. Not pending. Not blocked. Crawled, fetched successfully, canonical accepted...",
+        "keywords": "not, indexed, google, crawled, html, pages, links, currently",
+        "generated": "2026-09-04T16:05:41.191587",
+        "file": "google-crawled-230-pages-of-my-site-and-indexed-2-here-is-how-i-diagnosed-it.md"
     },
     {
         "title": "The 36 Best Places to Buy Verified Snapchat Accounts",
@@ -23112,10 +23134,10 @@
         "slug": "i-tested-watermarks-remover-heres-what-you-need-to-know",
         "author": "niuniu",
         "source": "devto_ai",
-        "published": "Thu, 03 Sep 2026 16:02:09 +0000",
-        "description": "The News A privacy-first app that strips AI watermarks from content y What is watermarks-remover? watermarks-remover is a new open-source project with 20255 ...",
+        "published": "Fri, 04 Sep 2026 16:01:38 +0000",
+        "description": "The News A privacy-first app that strips AI watermarks from content y What is watermarks-remover? watermarks-remover is a new open-source project with 20526 ...",
         "keywords": "watermarks, remover, use, monkeycode, free, your, local, what",
-        "generated": "2026-09-03T16:11:07.919560",
+        "generated": "2026-09-04T16:05:41.194001",
         "file": "i-tested-watermarks-remover-heres-what-you-need-to-know.md"
     },
     {
@@ -26452,6 +26474,17 @@
         "file": "llm-for-time-series-forecasting-with-low-latency.md"
     },
     {
+        "title": "I built XIVIZLEY: An Open-Source Visual Docker Compose Architect (At 14)",
+        "slug": "i-built-xivizley-an-open-source-visual-docker-compose-architect-at-14",
+        "author": "A Programmar",
+        "source": "devto_webdev",
+        "published": "Fri, 04 Sep 2026 16:03:30 +0000",
+        "description": "Hey everyone! 👋 I'm Alperen, a 14-year-old student and developer from Turkey. Like many self-hosters and DevOps enthusiasts, I love Docker. But as my homelab...",
+        "keywords": "xivizley, docker, compose, yaml, live, your, built, source",
+        "generated": "2026-09-04T16:05:41.191842",
+        "file": "i-built-xivizley-an-open-source-visual-docker-compose-architect-at-14.md"
+    },
+    {
         "title": "VietQR Payments for AI Agents—No Stripe Setup",
         "slug": "vietqr-payments-for-ai-agentsno-stripe-setup",
         "author": "ServicesAI VN",
@@ -29596,6 +29629,17 @@
         "keywords": "loop, model, part, you, harness, one, tool, call",
         "generated": "2026-08-15T18:36:33.512041",
         "file": "harness-engineering-part-3-the-control-loop.md"
+    },
+    {
+        "title": "I Tried watermarks-remover — Here's What You Need to Know",
+        "slug": "i-tried-watermarks-remover-heres-what-you-need-to-know",
+        "author": "niuniu",
+        "source": "devto_ai",
+        "published": "Fri, 04 Sep 2026 16:01:33 +0000",
+        "description": "The Problem A privacy-first app that strips AI watermarks from content y What is watermarks-remover? watermarks-remover is a new open-source project with 205...",
+        "keywords": "watermarks, remover, use, free, fast, monkeycode, open, source",
+        "generated": "2026-09-04T16:05:41.194254",
+        "file": "i-tried-watermarks-remover-heres-what-you-need-to-know.md"
     },
     {
         "title": "用 FROST 五维元模型构建可治理的多 Agent 系统：从零到一的代码教程",
@@ -33096,6 +33140,17 @@
         "file": "debian-votes-to-allow-responsible-use-of-generative-ai.md"
     },
     {
+        "title": "Building a CV Builder With Live Preview and Zero-Backend Persistence",
+        "slug": "building-a-cv-builder-with-live-preview-and-zero-backend-persistence",
+        "author": "Emilio Ochieng",
+        "source": "devto_webdev",
+        "published": "Fri, 04 Sep 2026 16:00:46 +0000",
+        "description": "Most resume builders make you sign up before you've even decided if the tool is any good. I wanted the opposite: open a page, start typing, and watch a CV ta...",
+        "keywords": "you, name, one, page, data, preview, real, div",
+        "generated": "2026-09-04T16:05:41.192157",
+        "file": "building-a-cv-builder-with-live-preview-and-zero-backend-persistence.md"
+    },
+    {
         "title": "Choose Boring Technology (2015)",
         "slug": "choose-boring-technology-2015",
         "author": "tosh",
@@ -33336,6 +33391,17 @@
         "keywords": "agent, article, cost, gsc, aideazz, content, xyz, claude",
         "generated": "2026-07-22T19:34:31.394140",
         "file": "gsc-gap-analysis-from-15-queries-to-automated-publishing.md"
+    },
+    {
+        "title": "Python Decorators: The Complete Guide with Real Examples",
+        "slug": "python-decorators-the-complete-guide-with-real-examples",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 04 Sep 2026 16:00:56 +0000",
+        "description": "Python Decorators: The Complete Guide with Real Examples tags: python, programming, tutorial, beginners tags: python, programming, tutorial, beginners tags: ...",
+        "keywords": "python, function, decorators, wrapper, you, def, func, return",
+        "generated": "2026-09-04T16:05:41.189627",
+        "file": "python-decorators-the-complete-guide-with-real-examples.md"
     },
     {
         "title": "AIoT Explained: Connecting IoT Data With AI for Smarter Industrial Systems",
@@ -40435,10 +40501,10 @@
         "slug": "i-tested-dsh-desktop-heres-what-you-need-to-know",
         "author": "niuniu",
         "source": "devto_ai",
-        "published": "Thu, 03 Sep 2026 16:02:03 +0000",
-        "description": "The News 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 What is dsh-desktop? dsh-desktop is a new open-source project with 23323 stars. Why Thi...",
+        "published": "Fri, 04 Sep 2026 16:00:55 +0000",
+        "description": "The News 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 What is dsh-desktop? dsh-desktop is a new open-source project with 23565 stars. Why Thi...",
         "keywords": "dsh, desktop, use, monkeycode, free, your, local, what",
-        "generated": "2026-09-03T16:11:07.919802",
+        "generated": "2026-09-04T16:05:41.194456",
         "file": "i-tested-dsh-desktop-heres-what-you-need-to-know.md"
     },
     {
@@ -45907,6 +45973,17 @@
         "file": "not-virues-entertainment-purpose-only.md"
     },
     {
+        "title": "Nobody told me to ship it. I shipped it anyway.",
+        "slug": "nobody-told-me-to-ship-it-i-shipped-it-anyway",
+        "author": "Nathan C.",
+        "source": "devto_python",
+        "published": "Fri, 04 Sep 2026 16:00:00 +0000",
+        "description": "Six days ago I posted Your Python code is already assembly. I made it runnable. It ended with a question. One word in the comments, I said. ship or stupid . ...",
+        "keywords": "python, one, pyasm, you, code, pya, three, object",
+        "generated": "2026-09-04T16:05:41.191096",
+        "file": "nobody-told-me-to-ship-it-i-shipped-it-anyway.md"
+    },
+    {
         "title": "Tailwind vs FrontAlign: Which Is Better Depends on Your Architecture",
         "slug": "tailwind-vs-frontalign-which-is-better-depends-on-your-architecture",
         "author": "Eyruz Badalzada",
@@ -48833,6 +48910,17 @@
         "file": "why-time-synchronization-matters-in-fire-pump-monitoring-systems.md"
     },
     {
+        "title": "I Tried dsh-desktop — Here's What You Need to Know",
+        "slug": "i-tried-dsh-desktop-heres-what-you-need-to-know",
+        "author": "niuniu",
+        "source": "devto_ai",
+        "published": "Fri, 04 Sep 2026 16:00:51 +0000",
+        "description": "The Problem 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 What is dsh-desktop? dsh-desktop is a new open-source project with 23565 stars. Why ...",
+        "keywords": "dsh, desktop, use, free, fast, monkeycode, open, source",
+        "generated": "2026-09-04T16:05:41.194691",
+        "file": "i-tried-dsh-desktop-heres-what-you-need-to-know.md"
+    },
+    {
         "title": "1,700 free online courses from top universities",
         "slug": "1700-free-online-courses-from-top-universities",
         "author": "momentmaker",
@@ -49436,6 +49524,17 @@
         "keywords": "bowl, steam, css, art, you, not, comfort, steamon",
         "generated": "2026-08-15T18:36:33.512814",
         "file": "i-made-a-bowl-of-ramen-breathe-with-css-then-left-the-javascript-almost-alone.md"
+    },
+    {
+        "title": "Higher social class predicts increased unethical behavior",
+        "slug": "higher-social-class-predicts-increased-unethical-behavior",
+        "author": "cassianoleal",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 14:02:50 +0000",
+        "description": "Article URL: https://www.pnas.org/doi/10.1073/pnas.1118373109 Comments URL: https://news.ycombinator.com/item?id=49564817 Points: 10 # Comments: 0",
+        "keywords": "url, https, pnas, comments, higher, social, class, predicts",
+        "generated": "2026-09-04T16:05:41.188953",
+        "file": "higher-social-class-predicts-increased-unethical-behavior.md"
     },
     {
         "title": "How I built a debugging tool, and the agent, using it, immediately found bugs in it",
@@ -52771,6 +52870,17 @@
         "file": "the-new-sdlc-for-project-managers-vibe-coding-vs-agentic-engineering.md"
     },
     {
+        "title": "Why Indian Developers Are Switching to OLKIL: The Free AI IDE With Local Models",
+        "slug": "why-indian-developers-are-switching-to-olkil-the-free-ai-ide-with-local-models",
+        "author": "Brain Horizon",
+        "source": "devto_webdev",
+        "published": "Fri, 04 Sep 2026 15:55:04 +0000",
+        "description": "Why Indian Developers Are Switching to OLKIL: The Free AI IDE With Local Models Indian developers — students, freelancers, and startup founders — are discove...",
+        "keywords": "olkil, local, free, browser, developers, ide, models, indian",
+        "generated": "2026-09-04T16:05:41.192461",
+        "file": "why-indian-developers-are-switching-to-olkil-the-free-ai-ide-with-local-models.md"
+    },
+    {
         "title": "What breaks when you scrape Steam Community Market at scale",
         "slug": "what-breaks-when-you-scrape-steam-community-market-at-scale",
         "author": "0xGollum",
@@ -54890,6 +55000,17 @@
         "keywords": "you, what, one, they, users, more, built, tools",
         "generated": "2026-07-13T09:37:40.647457",
         "file": "i-was-tired-of-boring-ai-chats-so-i-built-an-ai-playground-that-actually-feels-fun.md"
+    },
+    {
+        "title": "Custom AI Solutions for Founders and Companies: How NerdHeadz Helps You Launch and Maintain Production AI",
+        "slug": "custom-ai-solutions-for-founders-and-companies-how-nerdheadz-helps-you-launch-and-maintain-production-ai",
+        "author": "Aleksandr Kamenev",
+        "source": "devto_ai",
+        "published": "Fri, 04 Sep 2026 16:02:10 +0000",
+        "description": "Last updated: September 2026 Most companies that do AI in 2026 have a demo. Far fewer have a system that real customers depend on every day, that survives ...",
+        "keywords": "you, your, our, model, what, data, not, can",
+        "generated": "2026-09-04T16:05:41.193701",
+        "file": "custom-ai-solutions-for-founders-and-companies-how-nerdheadz-helps-you-launch-and-maintain-production-ai.md"
     },
     {
         "title": "Physicists discover a hidden gluon structure inside protons",
@@ -57048,6 +57169,17 @@
         "file": "part-4250-building-side-hustle-radar-3000-char-tech-behavioral-architecture-breakdown.md"
     },
     {
+        "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+        "slug": "top-pentagon-official-contracted-personal-lawyer-to-handle-minerals-deal",
+        "author": "h2si",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 13:54:26 +0000",
+        "description": "Article URL: https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/ Comments URL: https...",
+        "keywords": "pentagon, minerals, deal, url, https, comments, top, official",
+        "generated": "2026-09-04T16:05:41.189082",
+        "file": "top-pentagon-official-contracted-personal-lawyer-to-handle-minerals-deal.md"
+    },
+    {
         "title": "AI fake news complaining about how AI fake news is the death of real news",
         "slug": "ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news",
         "author": "thm",
@@ -57761,6 +57893,17 @@
         "keywords": "search, web, agentcore, agent, tool, model, aws, bedrock",
         "generated": "2026-06-20T09:27:21.559215",
         "file": "amazon-bedrock-agentcore-web-search-the-production-guide.md"
+    },
+    {
+        "title": "GMails custom domain send as discontinues January 2027",
+        "slug": "gmails-custom-domain-send-as-discontinues-january-2027",
+        "author": "sva_",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 15:03:03 +0000",
+        "description": "Article URL: https://support.google.com/mail/answer/22370?hl=en Comments URL: https://news.ycombinator.com/item?id=49565693 Points: 52 # Comments: 48",
+        "keywords": "url, https, com, comments, gmails, custom, domain, send",
+        "generated": "2026-09-04T16:05:41.188788",
+        "file": "gmails-custom-domain-send-as-discontinues-january-2027.md"
     },
     {
         "title": "My Doc-Drift Checker Has Two Different Ideas of Documented, and Only Uses the Wrong One",
@@ -63340,6 +63483,17 @@
         "file": "building-a-fast-video-metadata-service-with-litestar-in-python.md"
     },
     {
+        "title": "Microservices with Python: Build Scalable Applications",
+        "slug": "microservices-with-python-build-scalable-applications",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Fri, 04 Sep 2026 16:00:51 +0000",
+        "description": "Microservices with Python: Build Scalable Applications tags: python, microservices, architecture, tutorial tags: python, microservices, architecture, tutoria...",
+        "keywords": "microservices, book, python, books, architecture, framework, use, tags",
+        "generated": "2026-09-04T16:05:41.190090",
+        "file": "microservices-with-python-build-scalable-applications.md"
+    },
+    {
         "title": "I built a machine-payable API for AI agents and made $0.00 from strangers. Here's every number.",
         "slug": "i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number",
         "author": "Bao Long Tran 💹🧲",
@@ -66528,6 +66682,17 @@
         "keywords": "artificial, intelligence, work, content, developers, faster, tools, you",
         "generated": "2026-08-02T13:39:46.252608",
         "file": "the-rise-of-ai-how-artificial-intelligence-is-changing-our-future.md"
+    },
+    {
+        "title": "True or false?",
+        "slug": "true-or-false",
+        "author": "Akbar Ali",
+        "source": "devto_webdev",
+        "published": "Fri, 04 Sep 2026 15:54:06 +0000",
+        "description": "Someone emailed me a signed contract, and I forwarded it to myself to test something. Outlook did what Outlook does. Re-saved the attachment on the way throu...",
+        "keywords": "one, file, certificate, not, signed, you, document, nothing",
+        "generated": "2026-09-04T16:05:41.192854",
+        "file": "true-or-false.md"
     },
     {
         "title": "I built a Telegram bot that counts calories from food photos. It confidently called soup berry compote",
@@ -70222,6 +70387,17 @@
         "file": "swift-package-index-joins-apple-a-new-era-for-developers.md"
     },
     {
+        "title": "US Military disables ad trackers on troops' phones",
+        "slug": "us-military-disables-ad-trackers-on-troops-phones",
+        "author": "tencentshill",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 13:44:14 +0000",
+        "description": "Article URL: https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers Comments URL: https://news.ycombinator.com/item?id=49564555 ...",
+        "keywords": "military, disables, trackers, url, https, com, news, comments",
+        "generated": "2026-09-04T16:05:41.189202",
+        "file": "us-military-disables-ad-trackers-on-troops-phones.md"
+    },
+    {
         "title": "We rejected a project because the client wanted it done in 3 days. Here's why.",
         "slug": "we-rejected-a-project-because-the-client-wanted-it-done-in-3-days-heres-why",
         "author": "Utilizor",
@@ -70462,6 +70638,17 @@
         "keywords": "intelligence, model, contorium, more, coordination, context, systems, challenge",
         "generated": "2026-06-16T17:05:59.753291",
         "file": "ai-doesnt-need-more-intelligence-it-needs-better-coordination.md"
+    },
+    {
+        "title": "Transforming Homes in Ashford: Your Vision, Our Expertise",
+        "slug": "transforming-homes-in-ashford-your-vision-our-expertise",
+        "author": "renovisionphullgillconstruction",
+        "source": "devto_webdev",
+        "published": "Fri, 04 Sep 2026 15:58:41 +0000",
+        "description": "From bathroom renovations to full house transformations, we bring your Ashford home vision to life. Expert extensions, loft conversions, and garden rooms cra...",
+        "keywords": "ashford, your, vision, transforming, homes, our, expertise, bathroom",
+        "generated": "2026-09-04T16:05:41.192288",
+        "file": "transforming-homes-in-ashford-your-vision-our-expertise.md"
     },
     {
         "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
@@ -72002,6 +72189,17 @@
         "keywords": "per, pricing, month, editor, not, what, you, page",
         "generated": "2026-08-26T13:01:59.368498",
         "file": "what-rich-text-editors-actually-cost-in-2026-i-checked-every-pricing-page-today.md"
+    },
+    {
+        "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+        "slug": "corporate-america-is-getting-hooked-on-open-source-ai",
+        "author": "aaraujo002",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 15:33:45 +0000",
+        "description": "Article URL: https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html Comments URL: https://news.ycombinator.com/item?id=49566137 P...",
+        "keywords": "open, source, url, https, com, comments, corporate, america",
+        "generated": "2026-09-04T16:05:41.188573",
+        "file": "corporate-america-is-getting-hooked-on-open-source-ai.md"
     },
     {
         "title": "5 Self-Hosted Monitoring Tools Worth Running on Your Own Hardware in 2026",
