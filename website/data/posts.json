@@ -1797,6 +1797,17 @@
         "file": "mastering-fastapi-error-handling-best-practices-a-handson-guide.md"
     },
     {
+        "title": "If a Doc Claim Cannot Compile, Do Not Let a Model Draft It",
+        "slug": "if-a-doc-claim-cannot-compile-do-not-let-a-model-draft-it",
+        "author": "Avery Lin",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 03:46:46 +0000",
+        "description": "Documentation generation goes wrong when a model writes claims that no repository file can refute. Volume is not the interesting failure mode here; untestabl...",
+        "keywords": "not, path, model, manifest, claim, pointer, human, errors",
+        "generated": "2026-09-05T03:53:09.692435",
+        "file": "if-a-doc-claim-cannot-compile-do-not-let-a-model-draft-it.md"
+    },
+    {
         "title": "n8n vs Make vs Zapier for Business Automation: The 2026 Cost, AI, and Sovereignty Guide",
         "slug": "n8n-vs-make-vs-zapier-for-business-automation-the-2026-cost-ai-and-sovereignty-guide",
         "author": "aarhamforensics",
@@ -9945,6 +9956,17 @@
         "file": "a-tiny-cli-to-stop-leaking-secrets-in-release-artifacts.md"
     },
     {
+        "title": "This Month in Networking - Aug 2026",
+        "slug": "this-month-in-networking-aug-2026",
+        "author": "Sruthik I",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 03:38:19 +0000",
+        "description": "Agentic Networks, Routing Reality, and the Edge Getting Messy August's networking story wasn't one clean vendor arc. It was the same pressure showing up in d...",
+        "keywords": "networking, policy, network, but, private, not, still, can",
+        "generated": "2026-09-05T03:53:09.696247",
+        "file": "this-month-in-networking-aug-2026.md"
+    },
+    {
         "title": "How to Watch Free NHL Live Stream 2026 – Fast, Free & Easy",
         "slug": "how-to-watch-free-nhl-live-stream-2026-fast-free-easy",
         "author": "NextPlayLive",
@@ -14781,6 +14803,17 @@
         "file": "resetting-xbox.md"
     },
     {
+        "title": "Connecting every app to every other app",
+        "slug": "connecting-every-app-to-every-other-app",
+        "author": "Chidiebere229",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 23:09:59 +0000",
+        "description": "Article URL: https://blog.val.town/connectors Comments URL: https://news.ycombinator.com/item?id=49571263 Points: 18 # Comments: 1",
+        "keywords": "every, app, url, https, comments, connecting, other, article",
+        "generated": "2026-09-05T03:53:09.688177",
+        "file": "connecting-every-app-to-every-other-app.md"
+    },
+    {
         "title": "Pinterest masonry two ways: one-line CSS columns vs shortest-column JavaScript, and the reading-order catch",
         "slug": "pinterest-masonry-two-ways-one-line-css-columns-vs-shortest-column-javascript-and-the-reading-order-catch",
         "author": "Devanshu Biswas",
@@ -17839,6 +17872,17 @@
         "file": "amazon-seller-reveals-rare-glimpse-of-shadow-bribery-market.md"
     },
     {
+        "title": "The AI reviewer found a real bug. Its suggested fix would have broken my app.",
+        "slug": "the-ai-reviewer-found-a-real-bug-its-suggested-fix-would-have-broken-my-app",
+        "author": "健太 橘",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 03:23:50 +0000",
+        "description": "TL;DR — I put an AI code reviewer on a pull request written by an AI coding agent. On the default setting it found nothing. On the strict setting it found a ...",
+        "keywords": "text, not, what, code, nothing, reviewer, would, have",
+        "generated": "2026-09-05T03:53:09.693396",
+        "file": "the-ai-reviewer-found-a-real-bug-its-suggested-fix-would-have-broken-my-app.md"
+    },
+    {
         "title": "Guardrails for LLM Apps in Python",
         "slug": "guardrails-for-llm-apps-in-python",
         "author": "Puneet Gupta",
@@ -20103,6 +20147,17 @@
         "keywords": "reqvexa, request, not, response, value, har, traffic, values",
         "generated": "2026-08-31T13:15:26.827055",
         "file": "how-to-trace-cookies-and-tokens-across-http-requests-with-reqvexa.md"
+    },
+    {
+        "title": "useEffect Fired Twice and It Found a Real Bug",
+        "slug": "useeffect-fired-twice-and-it-found-a-real-bug",
+        "author": "Rohit Bhadani",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 03:34:36 +0000",
+        "description": "useEffect fired twice, on mount, every single time, in development only. The API call inside it — a POST that created a resource — ran twice, and for about a...",
+        "keywords": "strict, mode, double, bug, effect, useeffect, development, twice",
+        "generated": "2026-09-05T03:53:09.692992",
+        "file": "useeffect-fired-twice-and-it-found-a-real-bug.md"
     },
     {
         "title": "Where I would prep for a Meta interview in 2026",
@@ -23227,6 +23282,17 @@
         "keywords": "memory, cgroup, cache, page, parte, com, que, max",
         "generated": "2026-08-21T01:40:10.054525",
         "file": "kernel-linux-para-desenvolvedores-backend-gerenciamento-de-memria-parte-viii.md"
+    },
+    {
+        "title": "Eight green lights in one night, and not one of them was a control.",
+        "slug": "eight-green-lights-in-one-night-and-not-one-of-them-was-a-control",
+        "author": "brainbootdev",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 03:22:44 +0000",
+        "description": "I have a rule for anything my sites tell a reader. Can someone check it. Will someone make a decision based on it. Would a bigger version of me be embarrasse...",
+        "keywords": "one, had, not, you, never, every, green, its",
+        "generated": "2026-09-05T03:53:09.693846",
+        "file": "eight-green-lights-in-one-night-and-not-one-of-them-was-a-control.md"
     },
     {
         "title": "Late.sh – a command-line Clubhouse for computer people",
@@ -29884,6 +29950,17 @@
         "file": "the-python-gil-explained-without-the-hand-waving.md"
     },
     {
+        "title": "Nitter has more working instances than before the takedowns",
+        "slug": "nitter-has-more-working-instances-than-before-the-takedowns",
+        "author": "Cider9986",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 00:04:16 +0000",
+        "description": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 23 # Comments: 8",
+        "keywords": "instances, url, https, comments, nitter, has, more, working",
+        "generated": "2026-09-05T03:53:09.687479",
+        "file": "nitter-has-more-working-instances-than-before-the-takedowns.md"
+    },
+    {
         "title": "Clip Architect: Topic-to-Video, Running on Your PC",
         "slug": "clip-architect-topic-to-video-running-on-your-pc",
         "author": "DiFlowrin",
@@ -31015,6 +31092,17 @@
         "keywords": "url, https, comments, horizon, frontier, performance, radically, open",
         "generated": "2026-09-03T16:11:07.913337",
         "file": "k2-horizon-frontier-performance-radically-open.md"
+    },
+    {
+        "title": "Aging Biomarkers Panel: Essential Longevity Protocol",
+        "slug": "aging-biomarkers-panel-essential-longevity-protocol",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 03:38:58 +0000",
+        "description": "Designing an Aging Biomarkers Panel for Clinical Use A well-designed aging biomarkers panel can turn a single biological-age estimate into a repeatable frame...",
+        "keywords": "epigenetic, should, can, age, testing, biomarkers, panel, aging",
+        "generated": "2026-09-05T03:53:09.695407",
+        "file": "aging-biomarkers-panel-essential-longevity-protocol.md"
     },
     {
         "title": "I Cut AI Costs by 97.5%: My Startup vs Enterprise API Breakdown",
@@ -39003,6 +39091,17 @@
         "file": "the-cp932-crash-in-the-build-gate-that-only-happened-on-windows-static-detection-behavioral-testing-and-a-negative-check.md"
     },
     {
+        "title": "Hash the Entrypoint Before You Extract One Module",
+        "slug": "hash-the-entrypoint-before-you-extract-one-module",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 03:48:12 +0000",
+        "description": "Messy repository trees break at observable edges first. Folder names and comments are not the edge. Seed a fixture corpus against the current entrypoint. Has...",
+        "keywords": "not, freeze, extract, sandbox, path, env, name, json",
+        "generated": "2026-09-05T03:53:09.690582",
+        "file": "hash-the-entrypoint-before-you-extract-one-module.md"
+    },
+    {
         "title": "How can I protect my small business against cybersecurity threats?",
         "slug": "how-can-i-protect-my-small-business-against-cybersecurity-threats",
         "author": "RoboZilla",
@@ -39485,6 +39584,17 @@
         "keywords": "rag, long, context, can, models, enterprise, question, window",
         "generated": "2026-06-24T14:43:41.341740",
         "file": "rag-vs-long-context-models-for-enterprise-ai.md"
+    },
+    {
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "slug": "portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "author": "cebert",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 23:38:50 +0000",
+        "description": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "portal, spotify, cut, claude, code, token, usage, url",
+        "generated": "2026-09-05T03:53:09.688041",
+        "file": "portal-by-spotify-cut-my-claude-code-token-usage-by-90.md"
     },
     {
         "title": "20 Best Places to Buy Verified Yoomoney Accounts ...",
@@ -49394,6 +49504,17 @@
         "file": "how-i-stopped-writing-json-ld-by-hand.md"
     },
     {
+        "title": "Web & API Penetration Testing Masterclass 2026: From First Principles to Enterprise Defense",
+        "slug": "web-api-penetration-testing-masterclass-2026-from-first-principles-to-enterprise-defense",
+        "author": "Syed Abrar",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 03:38:58 +0000",
+        "description": "Web & API Penetration Testing Masterclass 2026: From First Principles to Enterprise Defense Originally published natively on Andrax Pentester . Overview & BL...",
+        "keywords": "web, api, testing, masterclass, first, doc, penetration, principles",
+        "generated": "2026-09-05T03:53:09.692676",
+        "file": "web-api-penetration-testing-masterclass-2026-from-first-principles-to-enterprise-defense.md"
+    },
+    {
         "title": "Can China build its own ASML?",
         "slug": "can-china-build-its-own-asml",
         "author": "pieterr",
@@ -51803,6 +51924,17 @@
         "file": "best-open-source-local-ai-agent-workspace-for-offline-coding.md"
     },
     {
+        "title": "Build the shop’s website first. They pay after they have seen it",
+        "slug": "build-the-shops-website-first-they-pay-after-they-have-seen-it",
+        "author": "jievamohan",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 03:16:36 +0000",
+        "description": "A baker or a bike shop in a Dutch town does not want a discovery call. They have already had someone at the door with a 48-month contract. They do not know w...",
+        "keywords": "they, site, first, after, not, live, build, shop",
+        "generated": "2026-09-05T03:53:09.694036",
+        "file": "build-the-shops-website-first-they-pay-after-they-have-seen-it.md"
+    },
+    {
         "title": "Caching Strategies for a Nutrition API: TTLs, Keys and the Cost Math",
         "slug": "caching-strategies-for-a-nutrition-api-ttls-keys-and-the-cost-math",
         "author": "Dietly",
@@ -52859,6 +52991,17 @@
         "file": "top-10-reliable-websites-for-buying-gmail-accounts.md"
     },
     {
+        "title": "How I Built a Real-Time Sports Stats Tracker: Pakistan players used to chaos head coach Hesson",
+        "slug": "how-i-built-a-real-time-sports-stats-tracker-pakistan-players-used-to-chaos-head-coach-hesson",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 03:10:02 +0000",
+        "description": "How I Built a Real-Time Sports Stats Tracker: Pakistan players used to chaos head coach Hesson TL;DR : Mike Hesson had packed for a reception with the King. ...",
+        "keywords": "time, hesson, sports, head, coach, real, pakistan, players",
+        "generated": "2026-09-05T03:53:09.694276",
+        "file": "how-i-built-a-real-time-sports-stats-tracker-pakistan-players-used-to-chaos-head-coach-hesson.md"
+    },
+    {
         "title": "How to add uptime monitoring to your Python Flask app (free, multi-region)",
         "slug": "how-to-add-uptime-monitoring-to-your-python-flask-app-free-multi-region",
         "author": "Vigilmon",
@@ -53132,6 +53275,17 @@
         "keywords": "url, https, comments, overrated, article, gruhn, blog, news",
         "generated": "2026-08-14T07:39:24.494032",
         "file": "np-overrated.md"
+    },
+    {
+        "title": "Suno AI Music MOD APK v2.1.0 (Unlimited Credits / Pro Studio Unlocked 2026) (2026 Technical Review & Guide)",
+        "slug": "suno-ai-music-mod-apk-v210-unlimited-credits-pro-studio-unlocked-2026-2026-technical-review-guide",
+        "author": "Crazy Gamer",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 03:43:37 +0000",
+        "description": "Suno AI Music MOD APK v2.1.0 (Unlimited Credits / Pro Studio Unlocked 2026) — Complete 2026 Architecture & Technical Overview In this comprehensive technical...",
+        "keywords": "unlocked, apk, unlimited, pro, suno, music, mod, credits",
+        "generated": "2026-09-05T03:53:09.694473",
+        "file": "suno-ai-music-mod-apk-v210-unlimited-credits-pro-studio-unlocked-2026-2026-technical-review-guide.md"
     },
     {
         "title": "I shipped a word finder as one 99KB HTML file with no build step",
@@ -53816,6 +53970,17 @@
         "file": "there-is-no-ai.md"
     },
     {
+        "title": "ChatGPT 4o Pro AI MOD APK v1.2026 (Unlimited Tokens / Voice Mode Unlocked) (2026 Technical Review & Guide)",
+        "slug": "chatgpt-4o-pro-ai-mod-apk-v12026-unlimited-tokens-voice-mode-unlocked-2026-technical-review-guide",
+        "author": "Crazy Gamer",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 03:39:06 +0000",
+        "description": "ChatGPT 4o Pro AI MOD APK v1.2026 (Unlimited Tokens / Voice Mode Unlocked) — Complete 2026 Architecture & Technical Overview In this comprehensive technical ...",
+        "keywords": "unlocked, pro, apk, unlimited, chatgpt, mod, tokens, voice",
+        "generated": "2026-09-05T03:53:09.695036",
+        "file": "chatgpt-4o-pro-ai-mod-apk-v12026-unlimited-tokens-voice-mode-unlocked-2026-technical-review-guide.md"
+    },
+    {
         "title": "From AI support copilot to agentic customer service",
         "slug": "from-ai-support-copilot-to-agentic-customer-service",
         "author": "Eelco Los",
@@ -53858,6 +54023,17 @@
         "keywords": "you, build, what, learning, data, building, can, application",
         "generated": "2026-08-19T06:52:53.079821",
         "file": "the-ai-revolution-isnt-coming-its-already-here-are-you-ready-to-build-with-it.md"
+    },
+    {
+        "title": "Artificial Analysis Intelligence Index v4.2",
+        "slug": "artificial-analysis-intelligence-index-v42",
+        "author": "nojs",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 00:04:14 +0000",
+        "description": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 P...",
+        "keywords": "artificial, analysis, intelligence, index, url, https, comments, article",
+        "generated": "2026-09-05T03:53:09.687669",
+        "file": "artificial-analysis-intelligence-index-v42.md"
     },
     {
         "title": "초보자를 위한 AI 수익 시스템 구축: 10분 안에 시작하는 AI 자동화 워크플로우 (ai-income-system)",
@@ -57948,6 +58124,17 @@
         "keywords": "nums, your, challenge, product, except, iwtlp, code, day",
         "generated": "2026-06-10T15:51:30.357260",
         "file": "code-challenge-of-the-day-product-of-array-except-self-hard.md"
+    },
+    {
+        "title": "A Frozen Test Is Not Coverage: A Merge Gate for Agent Patches",
+        "slug": "a-frozen-test-is-not-coverage-a-merge-gate-for-agent-patches",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 03:47:55 +0000",
+        "description": "A green CI job after an agent patch is not a result. It is a result only when three facts are true at the same time: every production hunk in the diff is cov...",
+        "keywords": "not, path, json, tests, test, property, freeze, frozen",
+        "generated": "2026-09-05T03:53:09.691567",
+        "file": "a-frozen-test-is-not-coverage-a-merge-gate-for-agent-patches.md"
     },
     {
         "title": "No more than 100 000 faint satellites should orbit Earth",
@@ -66013,6 +66200,17 @@
         "file": "scheduled-daily-report-email-backend-property-renewal-guarantees-with-cron-and-queues.md"
     },
     {
+        "title": "Top 1.5 Sites for Buying Naver Accounts In Bulk In the fast",
+        "slug": "top-15-sites-for-buying-naver-accounts-in-bulk-in-the-fast",
+        "author": "alaynewinstea",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 03:48:38 +0000",
+        "description": "Buy Naver Accounts – 100% Safe, Real & PVA Accounts 🌟 Contact USA Digital Hub 🌟 📱📞 WhatsApp: +1 (506) 541-7768 💬🎧 Discord: usadigitalhub 📲✈️ Telegram: @usadi...",
+        "keywords": "account, naver, digital, online, accounts, can, usa, hub",
+        "generated": "2026-09-05T03:53:09.689629",
+        "file": "top-15-sites-for-buying-naver-accounts-in-bulk-in-the-fast.md"
+    },
+    {
         "title": "The Golden Rule for Becoming a Better Writer",
         "slug": "the-golden-rule-for-becoming-a-better-writer",
         "author": "andsoitis",
@@ -66473,6 +66671,17 @@
         "keywords": "rolling, blue, green, deployment, canary, you, kubernetes, strategies",
         "generated": "2026-06-06T08:41:07.450933",
         "file": "kubernetes-deployment-strategies-rolling-blue-green-canary-and-beyond.md"
+    },
+    {
+        "title": "I Built an AI Career Test That Gives You Career Hypotheses, Not a Career Verdict",
+        "slug": "i-built-an-ai-career-test-that-gives-you-career-hypotheses-not-a-career-verdict",
+        "author": "MinJian",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 03:42:39 +0000",
+        "description": "Career questions have become harder to answer in the AI era. It is no longer only about what someone is good at, what job title to pursue, or which skills to...",
+        "keywords": "career, what, should, not, work, can, test, you",
+        "generated": "2026-09-05T03:53:09.694837",
+        "file": "i-built-an-ai-career-test-that-gives-you-career-hypotheses-not-a-career-verdict.md"
     },
     {
         "title": "The Future of Query Optimization: AI-Driven Insights in Big Data",
@@ -68781,6 +68990,17 @@
         "keywords": "one, you, tools, tool, side, actually, which, pricing",
         "generated": "2026-06-06T13:56:22.892817",
         "file": "i-tested-17-ai-tools-side-by-side-heres-what-actually-matters.md"
+    },
+    {
+        "title": "Show HN: Moadim.io – A scheduler for agents",
+        "slug": "show-hn-moadimio-a-scheduler-for-agents",
+        "author": "tupe12334",
+        "source": "hackernews",
+        "published": "Fri, 04 Sep 2026 23:50:29 +0000",
+        "description": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi...",
+        "keywords": "moadim, you, agent, daemon, more, scheduler, agents, supports",
+        "generated": "2026-09-05T03:53:09.687889",
+        "file": "show-hn-moadimio-a-scheduler-for-agents.md"
     },
     {
         "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
