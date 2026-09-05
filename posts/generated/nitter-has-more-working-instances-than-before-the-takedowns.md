@@ -4,16 +4,16 @@ slug: "nitter-has-more-working-instances-than-before-the-takedowns"
 author: "Cider9986"
 source: "hackernews"
 published: "Sat, 05 Sep 2026 00:04:16 +0000"
-description: "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 23 # Comments: 8"
+description: "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 230 # Comments: 76"
 keywords: "instances, url, https, comments, nitter, has, more, working"
-generated: "2026-09-05T03:53:09.687479"
+generated: "2026-09-05T10:19:57.818335"
 ---
 
 # Nitter has more working instances than before the takedowns
 
 ## Overview
 
-Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 23 # Comments: 8
+Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 230 # Comments: 76
 
 ## Key Insights
 

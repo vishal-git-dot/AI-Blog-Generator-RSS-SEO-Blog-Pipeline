@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Sat, 05 Sep 2026 00:04:14 +0000"
 description: "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 P..."
 keywords: "artificial, analysis, intelligence, index, url, https, comments, article"
-generated: "2026-09-05T03:53:09.687669"
+generated: "2026-09-05T10:19:57.818484"
 ---
 
 # Artificial Analysis Intelligence Index v4.2
 
 ## Overview
 
-Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 71 # Comments: 16
+Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 119 # Comments: 41
 
 ## Key Insights
 
