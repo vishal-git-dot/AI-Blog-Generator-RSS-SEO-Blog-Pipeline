@@ -2391,6 +2391,17 @@
         "file": "shadow-test-free-model-endpoint-changes-before-you-rely-on-them.md"
     },
     {
+        "title": "The Heat Just Moved",
+        "slug": "the-heat-just-moved",
+        "author": "Dakota Lin",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 20:02:09 +0000",
+        "description": "The heat just moved after that so-called faster patch. That single sentence is the whole lesson today. I no longer trust a stopwatch screenshot from a chat w...",
+        "keywords": "not, lookup, keys, graph, you, key, import, peak",
+        "generated": "2026-09-05T20:09:44.291988",
+        "file": "the-heat-just-moved.md"
+    },
+    {
         "title": "Buy Verified Zelle Accounts in 2026: Essential Tips and Considerations",
         "slug": "buy-verified-zelle-accounts-in-2026-essential-tips-and-considerations",
         "author": "Amber Pierce",
@@ -7269,6 +7280,17 @@
         "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
         "generated": "2026-08-21T12:57:11.255549",
         "file": "python-selectors-efficient-io-multiplexing.md"
+    },
+    {
+        "title": "Valid JSON Is Not a Grounded Tool Call",
+        "slug": "valid-json-is-not-a-grounded-tool-call",
+        "author": "Jordan Liu",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 20:02:27 +0000",
+        "description": "A schema-valid tool call can still be a lie. I stopped arguing with traces and started scoring phantom fields: arguments that never showed up in the user tur...",
+        "keywords": "not, you, json, model, tool, gold, trace, user",
+        "generated": "2026-09-05T20:09:44.291423",
+        "file": "valid-json-is-not-a-grounded-tool-call.md"
     },
     {
         "title": "Agentic coding notes from Galapagos Island",
@@ -22228,6 +22250,17 @@
         "file": "the-resurgence-of-emacs-in-mod.md"
     },
     {
+        "title": "DNA Methylation Analysis: Essential AI Discovery Guide",
+        "slug": "dna-methylation-analysis-essential-ai-discovery-guide",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 20:02:33 +0000",
+        "description": "DNA methylation analysis is moving beyond lists of altered sites. Researchers can now connect epigenetic variation with genetic variants, gene regulation, ce...",
+        "keywords": "methylation, can, biological, snps, dna, sites, models, analysis",
+        "generated": "2026-09-05T20:09:44.297514",
+        "file": "dna-methylation-analysis-essential-ai-discovery-guide.md"
+    },
+    {
         "title": "Giving Claude live Polymarket data with an MCP server",
         "slug": "giving-claude-live-polymarket-data-with-an-mcp-server",
         "author": "ekocam",
@@ -22314,6 +22347,17 @@
         "keywords": "memory, death, deaths, files, read, days, survive, died",
         "generated": "2026-06-18T04:40:19.050040",
         "file": "an-ai-agents-66-deaths-what-30-days-of-unexpected-reboots-taught-me-about-resilience.md"
+    },
+    {
+        "title": "A transcript is not a wall of text: timecodes, speaker labels and the formats worth exporting",
+        "slug": "a-transcript-is-not-a-wall-of-text-timecodes-speaker-labels-and-the-formats-worth-exporting",
+        "author": "Andrey Petrov",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 20:04:21 +0000",
+        "description": "Every few weeks someone on my team drops a two-hour recording into a chat and writes: can you pull the decisions out of this? The first time I did it by ha...",
+        "keywords": "you, text, lines, speaker, transcript, srt, one, can",
+        "generated": "2026-09-05T20:09:44.290496",
+        "file": "a-transcript-is-not-a-wall-of-text-timecodes-speaker-labels-and-the-formats-worth-exporting.md"
     },
     {
         "title": "Prix de l’immobilier par canton 2026 : tutoriel d’ajustement avec le facteur construction neuve",
@@ -23722,6 +23766,17 @@
         "keywords": "bootstrap, frontalign, you, component, runtime, your, css, grid",
         "generated": "2026-07-30T14:15:57.947166",
         "file": "bootstrap-vs-frontalign-which-is-better-depends-on-your-architecture.md"
+    },
+    {
+        "title": "The Luxuries in Life",
+        "slug": "the-luxuries-in-life",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 17:46:16 +0000",
+        "description": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/ Comments URL: https://news.ycombinator.com/item?id=49578866 Points: 133 # Comments: 42",
+        "keywords": "luxuries, life, url, https, com, comments, article, feld",
+        "generated": "2026-09-05T20:09:44.289374",
+        "file": "the-luxuries-in-life.md"
     },
     {
         "title": "Taming the Python and VS Code Workspace Environment",
@@ -27000,6 +27055,17 @@
         "keywords": "python, context, managers, file, content, open, you, landing",
         "generated": "2026-06-29T04:27:36.037689",
         "file": "master-python-in-2-minutes.md"
+    },
+    {
+        "title": "Demystifying LLM Context Windows: How AI Memory Works (and Why It Fails)",
+        "slug": "demystifying-llm-context-windows-how-ai-memory-works-and-why-it-fails",
+        "author": "Abdullah Rafi",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 20:09:05 +0000",
+        "description": "Imagine asking an AI coding assistant to help refactor a complex application. At first, it gives sharp, accurate responses. But 20 messages into the session,...",
+        "keywords": "context, window, your, tokens, you, windows, token, llm",
+        "generated": "2026-09-05T20:09:44.296132",
+        "file": "demystifying-llm-context-windows-how-ai-memory-works-and-why-it-fails.md"
     },
     {
         "title": "Building relationships with customers through support didn't turn out as hoped",
@@ -30815,7 +30881,7 @@
         "published": "Sat, 05 Sep 2026 14:02:44 +0000",
         "description": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/ Comments URL: https://news.ycombinator.com/item?id=49576611 Points...",
         "keywords": "meet, nobel, prize, winners, url, https, com, comments",
-        "generated": "2026-09-05T14:55:33.600152",
+        "generated": "2026-09-05T20:09:44.289983",
         "file": "meet-the-ig-nobel-prize-winners.md"
     },
     {
@@ -31444,6 +31510,17 @@
         "keywords": "commit, built, conventional, staged, diff, sage, cli, free",
         "generated": "2026-07-06T15:45:24.414062",
         "file": "built-a-conventional-commits-cli-with-free-ai-tools-zero-cost.md"
+    },
+    {
+        "title": "The Map Dropped a Key When Two Expiry Times Matched",
+        "slug": "the-map-dropped-a-key-when-two-expiry-times-matched",
+        "author": "Morgan Ma",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 20:05:28 +0000",
+        "description": "A C++ map can drop a live cache entry. One <= in a comparator is enough. I forced a timestamp tie and watched a key vanish. Would you have caught that in rev...",
+        "keywords": "not, std, key, cache, expiry, comparator, map, you",
+        "generated": "2026-09-05T20:09:44.297013",
+        "file": "the-map-dropped-a-key-when-two-expiry-times-matched.md"
     },
     {
         "title": "How Multi-Currency Support Helps MLM Businesses Expand Internationally",
@@ -34603,6 +34680,17 @@
         "file": "how-to-write-an-about-page-that-builds-trust.md"
     },
     {
+        "title": "How close can explicit HTTP endpoints get to server-function DX?",
+        "slug": "how-close-can-explicit-http-endpoints-get-to-server-function-dx",
+        "author": "Yoshinori Ishii",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 19:55:43 +0000",
+        "description": "Next.js, SolidStart, TanStack Start, and SvelteKit all offer some form of server or remote functions. The integrations differ, but being able to connect serv...",
+        "keywords": "form, nuxt, server, pagination, can, contract, http, endpoints",
+        "generated": "2026-09-05T20:09:44.293458",
+        "file": "how-close-can-explicit-http-endpoints-get-to-server-function-dx.md"
+    },
+    {
         "title": "What the browser can actually tell you about your hardware (and what it can't)",
         "slug": "what-the-browser-can-actually-tell-you-about-your-hardware-and-what-it-cant",
         "author": "member_2ef2ebd8",
@@ -35910,6 +35998,17 @@
         "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
         "generated": "2026-08-29T16:32:00.479160",
         "file": "python-inspect-module-runtime-introspection-guide.md"
+    },
+    {
+        "title": "I pointed my UI-auditing tool at three sites it had never seen. All seven bugs it found were its own.",
+        "slug": "i-pointed-my-ui-auditing-tool-at-three-sites-it-had-never-seen-all-seven-bugs-it-found-were-its-own",
+        "author": "yusufcemres",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 19:48:45 +0000",
+        "description": "The line at the bottom of the report said: Records with automated findings: 8/4 Eight out of four. More screens with findings than screens. I wrote this tool...",
+        "keywords": "one, not, had, every, its, own, what, length",
+        "generated": "2026-09-05T20:09:44.295227",
+        "file": "i-pointed-my-ui-auditing-tool-at-three-sites-it-had-never-seen-all-seven-bugs-it-found-were-its-own.md"
     },
     {
         "title": "Winamp Skin Museum",
@@ -41949,6 +42048,17 @@
         "file": "first-look-nvidia-and-hugging-face-integrate-gr00t-17-into-lerobot-open-robotics-platform.md"
     },
     {
+        "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+        "slug": "wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa",
+        "author": "robin_reala",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 16:13:57 +0000",
+        "description": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/ Comments URL:...",
+        "keywords": "wikimedia, foundation, workers, overwhelmingly, vote, form, union, cwa",
+        "generated": "2026-09-05T20:09:44.289720",
+        "file": "wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa.md"
+    },
+    {
         "title": "Why Auto-Generated JSON Schemas Fail in Production: 5 Draft-07 vs 2020-12 Traps",
         "slug": "why-auto-generated-json-schemas-fail-in-production-5-draft-07-vs-2020-12-traps",
         "author": "Rasika Dangamuwa",
@@ -42079,6 +42189,17 @@
         "keywords": "pytorch, reference, language, url, https, comments, article, docs",
         "generated": "2026-07-28T08:43:31.568155",
         "file": "pytorch-a-reference-language.md"
+    },
+    {
+        "title": "How to Protect Your Phone and Personal Data From AI-Powered Scams",
+        "slug": "how-to-protect-your-phone-and-personal-data-from-ai-powered-scams",
+        "author": "Atharv Gyan",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 19:35:36 +0000",
+        "description": "Learn more: How to Protect Your Phone and Personal Data From AI-Powered Scams | Atharv Gyan AI is supercharging scams, making them smarter and tougher to spo...",
+        "keywords": "your, scams, phone, personal, data, can, how, protect",
+        "generated": "2026-09-05T20:09:44.295420",
+        "file": "how-to-protect-your-phone-and-personal-data-from-ai-powered-scams.md"
     },
     {
         "title": "HTMX 4 ออกแล้ว, ทำไม Library ที่บอกให้เลิกเขียน JavaScript ถึงแรงในยุค AI",
@@ -43443,6 +43564,17 @@
         "keywords": "software, development, startups, company, business, your, can, quality",
         "generated": "2026-07-09T09:49:56.276687",
         "file": "how-startups-find-affordable-software-development-companies-without-sacrificing-quality.md"
+    },
+    {
+        "title": "Learn Programming with OCaml",
+        "slug": "learn-programming-with-ocaml",
+        "author": "elvis70",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 16:45:02 +0000",
+        "description": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 59 # Comments: 20",
+        "keywords": "url, https, comments, learn, programming, ocaml, article, usr",
+        "generated": "2026-09-05T20:09:44.289548",
+        "file": "learn-programming-with-ocaml.md"
     },
     {
         "title": "How AI Can Boost Your Business Website Traffic",
@@ -46224,6 +46356,17 @@
         "keywords": "text, svg, font, preview, browser, canvas, url, png",
         "generated": "2026-08-17T01:39:21.438227",
         "file": "how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas.md"
+    },
+    {
+        "title": "How to Scrape JavaScript-Heavy Sites with Playwright",
+        "slug": "how-to-scrape-javascript-heavy-sites-with-playwright",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 20:00:49 +0000",
+        "description": "How to Scrape JavaScript-Heavy Sites with Playwright tags: python, playwright, webscraping, tutorial tags: python, playwright, webscraping, tutorial tags: py...",
+        "keywords": "playwright, you, page, browser, python, content, javascript, heavy",
+        "generated": "2026-09-05T20:09:44.292966",
+        "file": "how-to-scrape-javascript-heavy-sites-with-playwright.md"
     },
     {
         "title": "Order a burned CD of your own public GitHub repo",
@@ -50549,6 +50692,17 @@
         "file": "elevated-error-rate-across-multiple-models.md"
     },
     {
+        "title": "Custom Software vs SaaS: When Custom Actually Wins",
+        "slug": "custom-software-vs-saas-when-custom-actually-wins",
+        "author": "Edward Sinclair",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 19:51:42 +0000",
+        "description": "Choosing between an off-the-shelf SaaS product and custom software development is one of those decisions that looks simple until you consider how your busine...",
+        "keywords": "software, your, custom, saas, when, business, can, you",
+        "generated": "2026-09-05T20:09:44.294650",
+        "file": "custom-software-vs-saas-when-custom-actually-wins.md"
+    },
+    {
         "title": "Next-Generation Custom Web Development: Driving Measurable ROI & Brand Equity",
         "slug": "next-generation-custom-web-development-driving-measurable-roi-brand-equity",
         "author": "tonton business",
@@ -50580,6 +50734,17 @@
         "keywords": "code, claude, tokens, user, opencode, when, case, between",
         "generated": "2026-07-13T09:37:40.647878",
         "file": "us-ai-pulse-when-ai-overthinks-the-curious-case-of-claude-codes-33k-tokens.md"
+    },
+    {
+        "title": "How the Disaster of Forever Chemicals Was Kept Secret",
+        "slug": "how-the-disaster-of-forever-chemicals-was-kept-secret",
+        "author": "stevenwoo",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 14:40:52 +0000",
+        "description": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen Comments URL: https://news.ycombinator.com/item?id=49576986...",
+        "keywords": "forever, chemicals, secret, url, https, comments, how, disaster",
+        "generated": "2026-09-05T20:09:44.289863",
+        "file": "how-the-disaster-of-forever-chemicals-was-kept-secret.md"
     },
     {
         "title": "The SSRF guard your MCP fetch_url tool is missing",
@@ -62218,6 +62383,17 @@
         "file": "file-counter-cli-count-files-and-estimate-sizes-by-extension-in-pure-python.md"
     },
     {
+        "title": "Introducing Pulse — the AI-powered business opportunity network on BizNode. Register your services free, get notified when...",
+        "slug": "introducing-pulse-the-ai-powered-business-opportunity-network-on-biznode-register-your-services-free-get-notified-when",
+        "author": "shashikanth ramamurthy",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 20:03:09 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, powered, business, fax, blog, introducing",
+        "generated": "2026-09-05T20:09:44.297156",
+        "file": "introducing-pulse-the-ai-powered-business-opportunity-network-on-biznode-register-your-services-free-get-notified-when.md"
+    },
+    {
         "title": "How to Build a Bulletproof Shopify Cart Event Listener (Without App Conflict)",
         "slug": "how-to-build-a-bulletproof-shopify-cart-event-listener-without-app-conflict",
         "author": "Xerxes",
@@ -63492,6 +63668,17 @@
         "keywords": "tools, browser, barcode, you, can, collection, open, useful",
         "generated": "2026-06-06T08:41:07.451921",
         "file": "free-qr-barcode-tools-you-can-use-in-your-browser.md"
+    },
+    {
+        "title": "Buy** NetSpend Prepaid Cards Online: Complete Guide",
+        "slug": "buy-netspend-prepaid-cards-online-complete-guide",
+        "author": "Adrea Crutcher",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 19:53:47 +0000",
+        "description": "NetSpend Account Setup Service Get professional NetSpend account setup guidance from abusmm. Create and configure your account properly while following NetSp...",
+        "keywords": "account, setup, netspend, service, guidance, you, verification, your",
+        "generated": "2026-09-05T20:09:44.294276",
+        "file": "buy-netspend-prepaid-cards-online-complete-guide.md"
     },
     {
         "title": "Not Fleeing the Terminal",
@@ -66869,6 +67056,17 @@
         "keywords": "you, client, model, streaming, models, production, deepseek, content",
         "generated": "2026-06-17T11:07:27.902435",
         "file": "i-wish-i-fixed-streaming-disconnects-sooner-full-breakdown.md"
+    },
+    {
+        "title": "Python Context Managers: The Complete Guide",
+        "slug": "python-context-managers-the-complete-guide",
+        "author": "qing",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 20:00:54 +0000",
+        "description": "Python Context Managers: The Complete Guide tags: python, programming, tutorial, advanced tags: python, programming, tutorial, advanced tags: python, program...",
+        "keywords": "you, context, python, conn, self, code, your, managers",
+        "generated": "2026-09-05T20:09:44.292437",
+        "file": "python-context-managers-the-complete-guide.md"
     },
     {
         "title": "Ankauf von Gebrauchtwagen, Fahrzeugen mit Motorschäden oder Unfallwagen spezialisieren, stehen vor spezifischen",
@@ -73278,6 +73476,17 @@
         "keywords": "url, https, com, comments, advertise, chatgpt, article, ads",
         "generated": "2026-07-21T19:39:11.834644",
         "file": "advertise-in-chatgpt.md"
+    },
+    {
+        "title": "LLM Benchmarks: Choose GPT-4o, Claude, or Mistral by Workload",
+        "slug": "llm-benchmarks-choose-gpt-4o-claude-or-mistral-by-workload",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 20:05:59 +0000",
+        "description": "Why LLM Benchmarks Need Context LLM benchmarks make complex models easier to compare, but a single leaderboard score rarely predicts production performance. ...",
+        "keywords": "model, should, benchmarks, gpt, claude, mistral, may, evaluation",
+        "generated": "2026-09-05T20:09:44.296493",
+        "file": "llm-benchmarks-choose-gpt-4o-claude-or-mistral-by-workload.md"
     },
     {
         "title": "Tokenizer Changes Can Break AI-Agent Budget Assumptions",
