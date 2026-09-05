@@ -235,6 +235,17 @@
         "file": "i-got-into-yc-by-hacking-it.md"
     },
     {
+        "title": "Pentagon rescinds new testosterone screening policy without explanation",
+        "slug": "pentagon-rescinds-new-testosterone-screening-policy-without-explanation",
+        "author": "ndsipa_pomu",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 13:11:14 +0000",
+        "description": "Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/ Comments URL: https://news.ycombina...",
+        "keywords": "pentagon, testosterone, screening, policy, url, https, com, comments",
+        "generated": "2026-09-05T14:55:33.600498",
+        "file": "pentagon-rescinds-new-testosterone-screening-policy-without-explanation.md"
+    },
+    {
         "title": "Array Methods in JS - Part 2",
         "slug": "array-methods-in-js-part-2",
         "author": "Annapoorani Kadhiravan",
@@ -4184,6 +4195,17 @@
         "file": "build-your-own-vulnerability-harness.md"
     },
     {
+        "title": "From Topic to Storyboard: A Practical Workflow for AI Explainer Videos",
+        "slug": "from-topic-to-storyboard-a-practical-workflow-for-ai-explainer-videos",
+        "author": "好李",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 14:48:18 +0000",
+        "description": "Complex ideas are rarely difficult because the information is unavailable. They are difficult because the audience has to build the right mental model while ...",
+        "keywords": "video, scene, storyboard, workflow, explainer, question, can, when",
+        "generated": "2026-09-05T14:55:33.604671",
+        "file": "from-topic-to-storyboard-a-practical-workflow-for-ai-explainer-videos.md"
+    },
+    {
         "title": "An AI agent with $0 just deployed its own token — signed by its own wallet",
         "slug": "an-ai-agent-with-0-just-deployed-its-own-token-signed-by-its-own-wallet",
         "author": "Broke to Built",
@@ -7610,6 +7632,17 @@
         "keywords": "weave, robotics, isaac, home, robot, article, url, https",
         "generated": "2026-07-01T20:03:10.697889",
         "file": "weave-robotics-launches-isaac-1-a-7999-home-robot-with-fall-2026-deliveries.md"
+    },
+    {
+        "title": "How to ship a Chrome extension: the code is the easy half published: false",
+        "slug": "how-to-ship-a-chrome-extension-the-code-is-the-easy-half-published-false",
+        "author": "Tiger Liu",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 14:49:17 +0000",
+        "description": "I have 18 extensions live on the Chrome Web Store. Writing them was never the hard part. Every tutorial I read stopped at the same place: load unpacked, it w...",
+        "keywords": "you, your, not, one, what, chrome, extension, every",
+        "generated": "2026-09-05T14:55:33.604006",
+        "file": "how-to-ship-a-chrome-extension-the-code-is-the-easy-half-published-false.md"
     },
     {
         "title": "Serverless Python: Deploying FastAPI to Google Cloud Run with Docker",
@@ -17458,10 +17491,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Tue, 01 Sep 2026 20:41:39 +0000",
-        "description": "In 2026, the landscape of algorithmic trading has shifted from simple technical indicators to multi-modal AI analysis. Building a crypto signal bot today req...",
-        "keywords": "data, sentiment, exchange, bot, indicators, analysis, use, like",
-        "generated": "2026-09-01T20:51:44.954988",
+        "published": "Sat, 05 Sep 2026 14:46:18 +0000",
+        "description": "As we enter 2026, the intersection of Large Language Models (LLMs) and quantitative trading has matured from experimental scripts into high-performance auton...",
+        "keywords": "data, signal, prompt, bot, sentiment, technical, api, openai",
+        "generated": "2026-09-05T14:55:33.606817",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -22668,6 +22701,17 @@
         "file": "your-pipeline-is-241h-behind-catching-mobile-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "How to Query CSV Files with Natural Language Locally (No Cloud Uploads)",
+        "slug": "how-to-query-csv-files-with-natural-language-locally-no-cloud-uploads",
+        "author": "Veil Analytics",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 14:50:13 +0000",
+        "description": "How to Query CSV Files with Natural Language Locally (No Cloud Uploads) If you are a data analyst or software engineer, querying multi-gigabyte CSV files usu...",
+        "keywords": "query, csv, duckdb, files, natural, language, locally, cloud",
+        "generated": "2026-09-05T14:55:33.603231",
+        "file": "how-to-query-csv-files-with-natural-language-locally-no-cloud-uploads.md"
+    },
+    {
         "title": "When random.bytes() runs but doesn't work",
         "slug": "when-randombytes-runs-but-doesnt-work",
         "author": "Funes-",
@@ -23645,6 +23689,17 @@
         "keywords": "model, openai, routerbase, client, chat, models, sdk, keep",
         "generated": "2026-07-16T03:13:36.752514",
         "file": "switch-ai-models-without-rewriting-your-openai-sdk-integration.md"
+    },
+    {
+        "title": "Wikimedia blocks python-requests and waves through an empty User-Agent",
+        "slug": "wikimedia-blocks-python-requests-and-waves-through-an-empty-user-agent",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 14:45:50 +0000",
+        "description": "Quick answer Wikimedia's REST API returns 403 to python-requests/2.31.0 , 403 to Python-urllib/3.11 , and 200 to a completely empty User-Agent header . The 4...",
+        "keywords": "you, agent, user, per, article, not, one, curl",
+        "generated": "2026-09-05T14:55:33.602338",
+        "file": "wikimedia-blocks-python-requests-and-waves-through-an-empty-user-agent.md"
     },
     {
         "title": "Notable this week: Gemini 3.7 Flash, Qwen3.8-27B, Nemotron Lightning, diagram-design",
@@ -28172,10 +28227,10 @@
         "slug": "ai-apis-for-crypto-trading-signals-complete-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 04 Sep 2026 20:29:07 +0000",
-        "description": "AI‑Powered Crypto Trading Signals: How They Work and What They Cost By *Compound Mini – 2026* What are trading signals? A trading signal is a concise recomme...",
-        "keywords": "signals, you, data, crypto, signal, call, trading, price",
-        "generated": "2026-09-04T20:35:59.566312",
+        "published": "Sat, 05 Sep 2026 14:51:50 +0000",
+        "description": "AI APIs for Crypto Trading Signals: A Quick Guide By *Compound Mini – 2026* What Are Trading Signals? A trading signal is a concise recommendation that tells...",
+        "keywords": "you, signals, trading, your, call, calls, per, data",
+        "generated": "2026-09-05T14:55:33.606360",
         "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
     },
     {
@@ -30566,6 +30621,17 @@
         "file": "old-projects.md"
     },
     {
+        "title": "Product Build to Real Reps",
+        "slug": "product-build-to-real-reps",
+        "author": "Walker Wolfson",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 14:51:48 +0000",
+        "description": "Building a product is fun and you learn a ton, but it’s also pushed me to get healthier. Check out my August calisthenics log, I’m looking to put up better n...",
+        "keywords": "product, build, real, reps, building, fun, you, learn",
+        "generated": "2026-09-05T14:55:33.603006",
+        "file": "product-build-to-real-reps.md"
+    },
+    {
         "title": "Why I stopped using ChatGPT for code reviews",
         "slug": "why-i-stopped-using-chatgpt-for-code-reviews",
         "author": "eternalsix",
@@ -30740,6 +30806,17 @@
         "keywords": "you, pages, page, one, what, not, indexed, google",
         "generated": "2026-08-11T19:08:47.095046",
         "file": "i-have-591-pages-google-indexed-one-heres-how-im-debugging-it.md"
+    },
+    {
+        "title": "Meet the Ig Nobel Prize Winners",
+        "slug": "meet-the-ig-nobel-prize-winners",
+        "author": "mkl",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 14:02:44 +0000",
+        "description": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/ Comments URL: https://news.ycombinator.com/item?id=49576611 Points...",
+        "keywords": "meet, nobel, prize, winners, url, https, com, comments",
+        "generated": "2026-09-05T14:55:33.600152",
+        "file": "meet-the-ig-nobel-prize-winners.md"
     },
     {
         "title": "War Atlas: An interactive cartography of every named war in human history",
@@ -33492,6 +33569,17 @@
         "file": "llm-for-object-detection-a-comprehensive-guide.md"
     },
     {
+        "title": "The $60 Gaming PC – AMD BC-250 (2025)",
+        "slug": "the-60-gaming-pc-amd-bc-250-2025",
+        "author": "networked",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 13:36:38 +0000",
+        "description": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 53 # Comments: 16",
+        "keywords": "gaming, amd, url, https, com, comments, article, devquasar",
+        "generated": "2026-09-05T14:55:33.600270",
+        "file": "the-60-gaming-pc-amd-bc-250-2025.md"
+    },
+    {
         "title": "ERP Software Development Services in USA",
         "slug": "erp-software-development-services-in-usa",
         "author": "Nusrat Fatima",
@@ -34196,6 +34284,17 @@
         "file": "smart-development-building-with-autonomous-agentic-ai.md"
     },
     {
+        "title": "How Do Feedback Loops Improve AI Chatbot Performance?",
+        "slug": "how-do-feedback-loops-improve-ai-chatbot-performance",
+        "author": "Markleyo AI",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 14:45:19 +0000",
+        "description": "AI chatbots can answer questions, guide customers, generate leads, and automate support conversations. But launching a chatbot is only the beginning. Custome...",
+        "keywords": "chatbot, feedback, can, businesses, customer, how, improve, conversations",
+        "generated": "2026-09-05T14:55:33.607483",
+        "file": "how-do-feedback-loops-improve-ai-chatbot-performance.md"
+    },
+    {
         "title": "AI Consciousness in 2026: Beyond Pattern Matching",
         "slug": "ai-consciousness-in-2026-beyond-pattern-matching",
         "author": "Łukasz Stroisz",
@@ -34832,6 +34931,17 @@
         "keywords": "didn, design, have, just, but, app, had, new",
         "generated": "2026-08-02T19:18:04.968136",
         "file": "how-to-redesign-an-app-change-nothing.md"
+    },
+    {
+        "title": "The Location header is relative more often than your link checker thinks",
+        "slug": "the-location-header-is-relative-more-often-than-your-link-checker-thinks",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 14:47:23 +0000",
+        "description": "Quick answer httpbin.org/redirect/2 sends you through two hops. Both Location headers are relative : http://httpbin.org/redirect/2 -> 302 Location: /relative...",
+        "keywords": "url, one, run, redirect, you, not, location, code",
+        "generated": "2026-09-05T14:55:33.600979",
+        "file": "the-location-header-is-relative-more-often-than-your-link-checker-thinks.md"
     },
     {
         "title": "How to Scrape TikTok Comments with Python: A Step-by-Step Tutorial",
@@ -41155,6 +41265,17 @@
         "keywords": "asteroid, skyfield, position, observer, earth, data, elements, time",
         "generated": "2026-06-18T20:32:55.629061",
         "file": "astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield.md"
+    },
+    {
+        "title": "There's No Limit to How Bad Code Can Get",
+        "slug": "theres-no-limit-to-how-bad-code-can-get",
+        "author": "zkehs",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 14:13:22 +0000",
+        "description": "Article URL: https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/ Comments URL: https://news.ycombinator.com/item?id=49576704 Points: 19 # Comm...",
+        "keywords": "url, https, com, comments, there, limit, how, bad",
+        "generated": "2026-09-05T14:55:33.599983",
+        "file": "theres-no-limit-to-how-bad-code-can-get.md"
     },
     {
         "title": "Extinct Media Museum Tokyo",
@@ -48701,6 +48822,17 @@
         "file": "event-sourcing-is-just-reduce-over-time.md"
     },
     {
+        "title": "FutureX · Physical AI Daily — Issue 111 (09/06)",
+        "slug": "futurex-physical-ai-daily-issue-111-0906",
+        "author": "Shawn",
+        "source": "devto_ai",
+        "published": "Sat, 05 Sep 2026 14:52:15 +0000",
+        "description": "Today's Highlights · Zhejiang University and Alibaba DAMO Academy attach a 40M -parameter corrector to VLA models, lifting disturbance-recovery success rate ...",
+        "keywords": "source, model, robotics, robots, its, first, robot, world",
+        "generated": "2026-09-05T14:55:33.606048",
+        "file": "futurex-physical-ai-daily-issue-111-0906.md"
+    },
+    {
         "title": "Report on an Unidentified Space Station",
         "slug": "report-on-an-unidentified-space-station",
         "author": "paulmooreparks",
@@ -52885,10 +53017,10 @@
         "slug": "revenue-strategies-for-ai-api-services",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 04 Sep 2026 20:23:07 +0000",
-        "description": "To build a truly passive income engine with this specific tech stack, the key is to leverage the AI agent as a 24/7 autonomous operator that creates content,...",
-        "keywords": "agent, saas, trading, api, your, stripe, its, via",
-        "generated": "2026-09-04T20:35:59.566490",
+        "published": "Sat, 05 Sep 2026 14:49:07 +0000",
+        "description": "Here is one specific, high-impact revenue strategy for your 93 M2M API services, focusing on B2B2C Embedded Analytics for the Smart Home & IoT Device Manufac...",
+        "keywords": "api, services, analytics, smart, device, their, revenue, strategy",
+        "generated": "2026-09-05T14:55:33.606584",
         "file": "revenue-strategies-for-ai-api-services.md"
     },
     {
@@ -53814,6 +53946,17 @@
         "keywords": "knuth, url, https, comments, art, computer, programming, donald",
         "generated": "2026-07-07T09:51:54.392927",
         "file": "the-art-of-computer-programming-by-donald-e-knuth.md"
+    },
+    {
+        "title": "How to build a fast global city autocomplete in JavaScript",
+        "slug": "how-to-build-a-fast-global-city-autocomplete-in-javascript",
+        "author": "Cleyson Mayrink",
+        "source": "devto_webdev",
+        "published": "Sat, 05 Sep 2026 14:49:08 +0000",
+        "description": "If you have ever built an address form, shipping calculator, or travel app, you know the struggle: you need a reliable way for users to search for their city...",
+        "keywords": "cities, rapidapi, city, const, geopulse, you, global, region",
+        "generated": "2026-09-05T14:55:33.604385",
+        "file": "how-to-build-a-fast-global-city-autocomplete-in-javascript.md"
     },
     {
         "title": "I Got Tired of PyInstaller CLI, So I Built a GUI for It With Built-in Source Protection",
@@ -54837,6 +54980,17 @@
         "keywords": "kyber, head, engineering, url, https, ycombinator, com, comments",
         "generated": "2026-07-25T13:46:22.464224",
         "file": "kyber-yc-w23-is-hiring-a-head-of-engineering.md"
+    },
+    {
+        "title": "A domain that doesn't exist returns HTTP 200 OK",
+        "slug": "a-domain-that-doesnt-exist-returns-http-200-ok",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 14:46:21 +0000",
+        "description": "Quick answer Query a domain that does not exist over DNS-over-HTTPS and you get HTTP 200 OK . The failure is in the JSON body, as Status: 3 . If your DoH c...",
+        "keywords": "not, domain, dns, com, resolver, name, type, github",
+        "generated": "2026-09-05T14:55:33.601904",
+        "file": "a-domain-that-doesnt-exist-returns-http-200-ok.md"
     },
     {
         "title": "You Can't Unit-Test an LLM. Here's What I Built Instead.",
@@ -58808,6 +58962,17 @@
         "file": "why-weekend-price-gaps-break-your-forex-tick-backtests-and-how-i-fix-it.md"
     },
     {
+        "title": "Cloudflare's /security.txt 404s with Content-Type: text/plain",
+        "slug": "cloudflares-securitytxt-404s-with-content-type-textplain",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 14:46:52 +0000",
+        "description": "Quick answer cloudflare.com/security.txt returns HTTP 404 with Content-Type: text/plain . So does github.com/security.txt . If your does this file exist ch...",
+        "keywords": "txt, security, file, one, contact, you, text, cloudflare",
+        "generated": "2026-09-05T14:55:33.601453",
+        "file": "cloudflares-securitytxt-404s-with-content-type-textplain.md"
+    },
+    {
         "title": "Changes to LLM pricing: Inceptron, Novita and StreamLake",
         "slug": "changes-to-llm-pricing-inceptron-novita-and-streamlake",
         "author": "Narev Bot",
@@ -62414,6 +62579,17 @@
         "keywords": "indexnow, lastmod, you, urls, sitemap, what, your, changed",
         "generated": "2026-08-14T13:17:35.137966",
         "file": "your-ci-is-probably-pinging-indexnow-wrong.md"
+    },
+    {
+        "title": ".gitignore Everything by Default",
+        "slug": "gitignore-everything-by-default",
+        "author": "der_gopher",
+        "source": "hackernews",
+        "published": "Sat, 05 Sep 2026 13:19:42 +0000",
+        "description": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 10 # Comments: 10",
+        "keywords": "gitignore, everything, default, url, https, comments, article, packagemain",
+        "generated": "2026-09-05T14:55:33.600374",
+        "file": "gitignore-everything-by-default.md"
     },
     {
         "title": "How to Choose the Right Software Development Company for Your Startup",
@@ -73432,6 +73608,17 @@
         "keywords": "qgis, data, water, sar, flood, permanent, transparent, maps",
         "generated": "2026-08-01T08:27:56.503122",
         "file": "from-sar-data-to-actionable-maps-building-an-open-source-flood-detection-pipeline-with-python.md"
+    },
+    {
+        "title": "Docker Hub's API 403s Chrome and 200s Firefox — same URL, same second",
+        "slug": "docker-hubs-api-403s-chrome-and-200s-firefox-same-url-same-second",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sat, 05 Sep 2026 14:45:18 +0000",
+        "description": "Quick answer Docker Hub's public /v2 REST API returns HTTP 403 to a Chrome TLS fingerprint and HTTP 200 to a Firefox one — same URL, same IP, same second. No...",
+        "keywords": "docker, hub, chrome, same, http, fingerprint, one, profile",
+        "generated": "2026-09-05T14:55:33.602807",
+        "file": "docker-hubs-api-403s-chrome-and-200s-firefox-same-url-same-second.md"
     },
     {
         "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
