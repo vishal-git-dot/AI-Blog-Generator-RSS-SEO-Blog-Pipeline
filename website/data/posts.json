@@ -6303,6 +6303,17 @@
         "file": "how-us-startups-are-scaling-engineering-teams-with-dedicated-developers.md"
     },
     {
+        "title": "The Agent Invented a status_reason. The Spec Had Never Listed It.",
+        "slug": "the-agent-invented-a-statusreason-the-spec-had-never-listed-it",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 14:14:22 +0000",
+        "description": "Have you ever watched a generated HTTP client look finished, then fail the first real fixture you threw at it? I spent forty-eight hours in that loop last we...",
+        "keywords": "not, json, schema, str, fixture, would, agent, you",
+        "generated": "2026-09-06T15:15:47.148355",
+        "file": "the-agent-invented-a-statusreason-the-spec-had-never-listed-it.md"
+    },
+    {
         "title": "Why Your Brand Might Be Invisible to ChatGPT, Gemini, and Claude",
         "slug": "why-your-brand-might-be-invisible-to-chatgpt-gemini-and-claude",
         "author": "Efe şar",
@@ -7577,6 +7588,17 @@
         "keywords": "analog, watch, url, https, comments, show, article, news",
         "generated": "2026-07-09T15:22:18.570544",
         "file": "show-hn-analog-watch.md"
+    },
+    {
+        "title": "Intesta: an attested fact registry that AI agents query through MCP instead of scraping stale pages",
+        "slug": "intesta-an-attested-fact-registry-that-ai-agents-query-through-mcp-instead-of-scraping-stale-pages",
+        "author": "Darius Ceponas",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 14:38:04 +0000",
+        "description": "AI agents already answer questions about small businesses. Most of the time they do it from stale pages, and when the page is missing they guess. After watch...",
+        "keywords": "intesta, agents, facts, agent, through, mcp, questions, small",
+        "generated": "2026-09-06T15:15:47.147377",
+        "file": "intesta-an-attested-fact-registry-that-ai-agents-query-through-mcp-instead-of-scraping-stale-pages.md"
     },
     {
         "title": "Free Model Endpoints Rate-Limit You. Build a Retry Layer You Can Verify.",
@@ -14517,6 +14539,28 @@
         "file": "best-web-apps-for-a-rapid-2500-bitcoin-loan-today.md"
     },
     {
+        "title": "Remote SWE Jobs Paying Up to $200k (Sep 6)",
+        "slug": "remote-swe-jobs-paying-up-to-200k-sep-6",
+        "author": "Crackr",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 15:00:13 +0000",
+        "description": "Here are the 1 highest paying fully remote software engineering roles this week. Tech Lead Full-Stack Rails Engineer Mitre Media Salary: $170k - $200k/yr Sta...",
+        "keywords": "remote, jobs, paying, roles, stack, crackr, dev, swe",
+        "generated": "2026-09-06T15:15:47.149182",
+        "file": "remote-swe-jobs-paying-up-to-200k-sep-6.md"
+    },
+    {
+        "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+        "slug": "asahi-linux-now-officially-supports-apple-m3-macs-with-caveats",
+        "author": "mdp2021",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 14:08:59 +0000",
+        "description": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 45 # Comments: 23",
+        "keywords": "asahi, linux, url, https, com, news, comments, now",
+        "generated": "2026-09-06T15:15:47.146793",
+        "file": "asahi-linux-now-officially-supports-apple-m3-macs-with-caveats.md"
+    },
+    {
         "title": "Samsung Galaxy S22 Ultra LCD Repair in Melbourne and Greensborough",
         "slug": "samsung-galaxy-s22-ultra-lcd-repair-in-melbourne-and-greensborough",
         "author": "cityphones",
@@ -14834,6 +14878,17 @@
         "keywords": "llms, reward, expertise, url, https, com, comments, article",
         "generated": "2026-08-04T03:13:25.001191",
         "file": "llms-reward-expertise.md"
+    },
+    {
+        "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+        "slug": "show-hn-kad-open-source-habit-tracker-with-non-binary-habit-score-for-ios",
+        "author": "scastiel",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 14:34:46 +0000",
+        "description": "Article URL: https://github.com/scastiel/kado Comments URL: https://news.ycombinator.com/item?id=49586902 Points: 13 # Comments: 5",
+        "keywords": "habit, url, https, com, comments, show, open, source",
+        "generated": "2026-09-06T15:15:47.146517",
+        "file": "show-hn-kad-open-source-habit-tracker-with-non-binary-habit-score-for-ios.md"
     },
     {
         "title": "AI in mathematics is forcing big questions",
@@ -18191,6 +18246,17 @@
         "file": "the-human-in-the-loop-is-tired.md"
     },
     {
+        "title": "A/I shuts down – Stay human",
+        "slug": "ai-shuts-down-stay-human",
+        "author": "captainmuon",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 14:34:34 +0000",
+        "description": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 128 # Comment...",
+        "keywords": "shuts, down, stay, human, url, https, comments, article",
+        "generated": "2026-09-06T15:15:47.146661",
+        "file": "ai-shuts-down-stay-human.md"
+    },
+    {
         "title": "🚀 AI Dev Tool: After Losses, Retail Zigbee — Free Preview + Full Version",
         "slug": "ai-dev-tool-after-losses-retail-zigbee-free-preview-full-version",
         "author": "JONATHON POWELL",
@@ -18503,10 +18569,10 @@
         "slug": "biznode-workflow-chains-cw-to-create-rw-to-run-bzeusd-escrow-enforced-if-any-step-fails-full-rollback-your-funds",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sun, 09 Aug 2026 18:34:49 +0000",
-        "description": "Title: Streamlining Business Operations with BizNode Workflow Chains In the fast-paced world of business, efficiency and automation are key to staying ahead....",
-        "keywords": "your, biznode, workflow, business, bot, chains, ecosystem, https",
-        "generated": "2026-08-09T18:49:27.366419",
+        "published": "Sun, 06 Sep 2026 15:03:11 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h...",
+        "keywords": "biznode, https, biz, dzit, workflow, chains, create, run",
+        "generated": "2026-09-06T15:15:47.154227",
         "file": "biznode-workflow-chains-cw-to-create-rw-to-run-bzeusd-escrow-enforced-if-any-step-fails-full-rollback-your-funds.md"
     },
     {
@@ -19388,6 +19454,17 @@
         "keywords": "started, just, people, now, building, friendly, ego, free",
         "generated": "2026-07-29T08:48:13.034415",
         "file": "yazlmhub.md"
+    },
+    {
+        "title": "Exploring Exness Trading Accounts for Modern Forex Traders",
+        "slug": "exploring-exness-trading-accounts-for-modern-forex-traders",
+        "author": "kycidea",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 14:14:18 +0000",
+        "description": "Exness is a popular online trading platform that offers access to financial markets via the latest trading platforms and tools. An Exness trading account can...",
+        "keywords": "trading, exness, forex, account, traders, financial, markets, accounts",
+        "generated": "2026-09-06T15:15:47.148560",
+        "file": "exploring-exness-trading-accounts-for-modern-forex-traders.md"
     },
     {
         "title": "Seed Locking and Prompt Weighting: Building Reproducible AI Image Pipelines",
@@ -24934,6 +25011,17 @@
         "file": "how-to-start-programming-2026.md"
     },
     {
+        "title": "Chapter 67 — Secure AI Networking & Service-to-Service Communication",
+        "slug": "chapter-67-secure-ai-networking-service-to-service-communication",
+        "author": "Black Shadow Team ©",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 15:03:33 +0000",
+        "description": "67.1 Introduction A production AI platform is not a single application. It is usually a distributed system containing: frontend applications API gateways aut...",
+        "keywords": "network, service, should, can, application, access, api, private",
+        "generated": "2026-09-06T15:15:47.153803",
+        "file": "chapter-67-secure-ai-networking-service-to-service-communication.md"
+    },
+    {
         "title": "Bonsai: Janestreet's UI Library",
         "slug": "bonsai-janestreets-ui-library",
         "author": "KolmogorovComp",
@@ -28166,6 +28254,17 @@
         "keywords": "audio, lofi, panda, processing, plugin, inspired, macos, sound",
         "generated": "2026-07-03T19:37:54.522214",
         "file": "clark-audio-lofi-panda-4-v404-for-macos.md"
+    },
+    {
+        "title": "Four versions of one translate() function",
+        "slug": "four-versions-of-one-translate-function",
+        "author": "Xiantao Cai",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 14:47:54 +0000",
+        "description": "I build Connexa, a chat product for cross-language teams: you write Chinese, your teammate reads English. I assumed translation was one function. The file no...",
+        "keywords": "tone, translated, text, one, return, glossary, you, not",
+        "generated": "2026-09-06T15:15:47.151459",
+        "file": "four-versions-of-one-translate-function.md"
     },
     {
         "title": "Why Proxy Quality Matters More Than Proxy Quantity",
@@ -32249,6 +32348,17 @@
         "file": "image-to-url-for-developers-a-practical-guide-to-turning-local-images-into-public-urls.md"
     },
     {
+        "title": "&#8220;Artificial intelligence (AI) is saving American software companies, not killing them.&#8221; The",
+        "slug": "8220artificial-intelligence-ai-is-saving-american-software-companies-not-killing-them8221-the",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 14:50:52 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Artificial intelligence (AI) is saving American...",
+        "keywords": "progressino, platform, not, your, before, you, evaluating, similar",
+        "generated": "2026-09-06T15:15:47.149427",
+        "file": "8220artificial-intelligence-ai-is-saving-american-software-companies-not-killing-them8221-the.md"
+    },
+    {
         "title": "How to Build an AI-Powered Web Article Summarizer with Python 🐍",
         "slug": "how-to-build-an-ai-powered-web-article-summarizer-with-python",
         "author": "Mohamed",
@@ -35690,6 +35800,17 @@
         "keywords": "storage, energy, battery, renewable, systems, technology, power, management",
         "generated": "2026-06-10T04:15:10.541845",
         "file": "battery-storage-news-understanding-the-technology-powering-the-renewable-revolution.md"
+    },
+    {
+        "title": "The many mysteries and lessons of the Bayeux tapestry",
+        "slug": "the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 13:38:07 +0000",
+        "description": "Article URL: https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry Comments URL: https://news.ycombinato...",
+        "keywords": "many, mysteries, lessons, bayeux, tapestry, url, https, com",
+        "generated": "2026-09-06T15:15:47.146942",
+        "file": "the-many-mysteries-and-lessons-of-the-bayeux-tapestry.md"
     },
     {
         "title": "Unexpected Solidlike Fracture in Simple Liquids",
@@ -42642,6 +42763,17 @@
         "file": "fastapi-alias-efimeros-para-signup.md"
     },
     {
+        "title": "I Feel about AI",
+        "slug": "i-feel-about-ai",
+        "author": "qznc",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 15:00:19 +0000",
+        "description": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 12 # Comments: 0",
+        "keywords": "url, https, comments, feel, article, tuxen, html, news",
+        "generated": "2026-09-06T15:15:47.146329",
+        "file": "i-feel-about-ai.md"
+    },
+    {
         "title": "An AI agent almost made me run `rm -rf` — so I built a verifier for AI code published: false",
         "slug": "an-ai-agent-almost-made-me-run-rm-rf-so-i-built-a-verifier-for-ai-code-published-false",
         "author": "apple agent",
@@ -45410,6 +45542,17 @@
         "keywords": "one, fud, provider, device, own, letting, users, pick",
         "generated": "2026-06-20T14:15:47.239551",
         "file": "bring-your-own-ai-letting-users-pick-from-13-providers-and-run-models-locally.md"
+    },
+    {
+        "title": "The BGP Neighbor Nobody Caught Because Nobody Was Checking With Anything Other Than Eyes",
+        "slug": "the-bgp-neighbor-nobody-caught-because-nobody-was-checking-with-anything-other-than-eyes",
+        "author": "Rocky",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 15:11:10 +0000",
+        "description": "from netmiko import ConnectHandler flagged = [] for device in load_inventory(routers.csv): conn = ConnectHandler(**device) output = conn.send_command(show...",
+        "keywords": "flagged, line, device, conn, bgp, nobody, connecthandler, output",
+        "generated": "2026-09-06T15:15:47.147084",
+        "file": "the-bgp-neighbor-nobody-caught-because-nobody-was-checking-with-anything-other-than-eyes.md"
     },
     {
         "title": "Abstein Island Global Leaders Live Red Room Orgy Torture Mega Dump Dark Web",
@@ -50736,6 +50879,17 @@
         "file": "how-to-access-kimi-k3-api-pricing-rate-limits-and-setup-guide.md"
     },
     {
+        "title": "Best AI-Native Software Delivery Lifecycle Tools in 2026",
+        "slug": "best-ai-native-software-delivery-lifecycle-tools-in-2026",
+        "author": "biz tech pulse hub",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 15:03:18 +0000",
+        "description": "Faster AI coding assistance has changed how developers write software, but it does not automatically translate into faster product releases. While developers...",
+        "keywords": "software, native, lifecycle, delivery, tools, development, loops, continuous",
+        "generated": "2026-09-06T15:15:47.154069",
+        "file": "best-ai-native-software-delivery-lifecycle-tools-in-2026.md"
+    },
+    {
         "title": "Tool Spotlight: Claude Code",
         "slug": "tool-spotlight-claude-code",
         "author": "Pixelwitch",
@@ -53759,6 +53913,17 @@
         "keywords": "you, affiliate, one, api, programs, because, what, when",
         "generated": "2026-07-14T19:26:51.417851",
         "file": "i-tested-every-ai-api-affiliate-program-so-you-dont-have-to-heres-who-actually-pays.md"
+    },
+    {
+        "title": "Chapter 68 — Secure AI Secrets & Key Management",
+        "slug": "chapter-68-secure-ai-secrets-key-management",
+        "author": "Black Shadow Team ©",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 15:05:32 +0000",
+        "description": "68.1 Introduction AI applications depend on secrets. Examples include: AI provider API keys database credentials Redis credentials object-storage credentials...",
+        "keywords": "secret, key, text, should, credential, credentials, not, secrets",
+        "generated": "2026-09-06T15:15:47.152554",
+        "file": "chapter-68-secure-ai-secrets-key-management.md"
     },
     {
         "title": "Diagnosing Intermittent Wi-Fi with Timestamps, Pings, and Router Logs",
@@ -60852,6 +61017,17 @@
         "keywords": "stripe, payment, systems, business, financial, accounts, compliance, businesses",
         "generated": "2026-07-06T20:05:38.438624",
         "file": "ultimate-118-ways-to-buy-verified-stripe-accounts-in-bulk-pva-aged-strong.md"
+    },
+    {
+        "title": "GoPro's Commitment to Action Cameras: A Technical…",
+        "slug": "gopros-commitment-to-action-cameras-a-technical",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 15:06:01 +0000",
+        "description": "Originally published at norvik.tech Introduction An in-depth analysis of GoPro's commitment to action cameras and its implications for technology and busines...",
+        "keywords": "gopro, cameras, technology, video, can, action, quality, high",
+        "generated": "2026-09-06T15:15:47.149033",
+        "file": "gopros-commitment-to-action-cameras-a-technical.md"
     },
     {
         "title": "AI Technology in 2026: Closing the AI Coordination Gap with AgentCore Web Search",
@@ -68774,6 +68950,17 @@
         "file": "base64-converter-online-encode-and-decode-base64-data-instantly.md"
     },
     {
+        "title": "Write Better Video Scripts Faster with the PAS Framework",
+        "slug": "write-better-video-scripts-faster-with-the-pas-framework",
+        "author": "Mohamed Amine Zahir",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 15:05:01 +0000",
+        "description": "Retention dropping off a cliff in the first 30 seconds? You’re likely losing viewers because your opening hook reads like a spec sheet instead of a story. If...",
+        "keywords": "your, you, tech, video, them, their, problem, agitate",
+        "generated": "2026-09-06T15:15:47.152838",
+        "file": "write-better-video-scripts-faster-with-the-pas-framework.md"
+    },
+    {
         "title": "The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating",
         "slug": "the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating",
         "author": "ANIRUDDHA ADAK",
@@ -69557,10 +69744,10 @@
         "slug": "how-to-build-an-airdrop-monitor-with-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Wed, 02 Sep 2026 20:30:46 +0000",
-        "description": "Tracking active crypto airdrops is notoriously labor-intensive, often requiring users to manually scour Discord servers, X (formerly Twitter), and governance...",
-        "keywords": "monitor, airdrop, like, discord, data, project, text, model",
-        "generated": "2026-09-02T20:51:03.419363",
+        "published": "Sun, 06 Sep 2026 14:29:14 +0000",
+        "description": "Monitoring cryptocurrency airdrops is no longer just about reacting to announcements; it requires proactive, intelligent surveillance of social media, blockc...",
+        "keywords": "airdrop, data, high, api, text, potential, use, analyze",
+        "generated": "2026-09-06T15:15:47.147593",
         "file": "how-to-build-an-airdrop-monitor-with-ai.md"
     },
     {
@@ -73762,6 +73949,17 @@
         "keywords": "cloud, you, colocation, public, workloads, infrastructure, your, performance",
         "generated": "2026-06-27T19:36:59.128061",
         "file": "how-to-balance-smb-workloads-between-cloud-and-colocation.md"
+    },
+    {
+        "title": "What it really takes to publish a browser extension",
+        "slug": "what-it-really-takes-to-publish-a-browser-extension",
+        "author": "Maxim Kosterin",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 14:49:57 +0000",
+        "description": "Every tutorial sells you the same fantasy. A weekend, a manifest.json, a popup — and you publish a Chrome extension with a neat little published badge. The...",
+        "keywords": "you, your, extension, store, chrome, review, one, agent",
+        "generated": "2026-09-06T15:15:47.151063",
+        "file": "what-it-really-takes-to-publish-a-browser-extension.md"
     },
     {
         "title": "Youcine APK v1.17.6: Download Latest Version 2026 for Android, TV, PC & iOS",
