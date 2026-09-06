@@ -3799,6 +3799,17 @@
         "file": "linux-kernel-will-support-origin-sort-of.md"
     },
     {
+        "title": "Popwire's unsubscribe link writes nothing when it is opened, because a scanner opens it first",
+        "slug": "popwires-unsubscribe-link-writes-nothing-when-it-is-opened-because-a-scanner-opens-it-first",
+        "author": "Kynth Studios",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 10:30:37 +0000",
+        "description": "Mail security software at large companies opens every link in a message before the person it was sent to ever sees it. If the unsubscribe link in a newslette...",
+        "keywords": "link, one, page, unsubscribe, mail, button, what, popwire",
+        "generated": "2026-09-06T10:39:35.967283",
+        "file": "popwires-unsubscribe-link-writes-nothing-when-it-is-opened-because-a-scanner-opens-it-first.md"
+    },
+    {
         "title": "Best Lovable Alternatives for Teams Building Past the Prototype Stage",
         "slug": "best-lovable-alternatives-for-teams-building-past-the-prototype-stage",
         "author": "8080",
@@ -5236,6 +5247,17 @@
         "file": "temperature-doesnt-make-your-model-creative.md"
     },
     {
+        "title": "I Built a Free Pantry Inventory App — And I'm Building It in Public",
+        "slug": "i-built-a-free-pantry-inventory-app-and-im-building-it-in-public",
+        "author": "Arun1989ninja",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 10:32:19 +0000",
+        "description": "I Built a Free Pantry Inventory App — And I'm Building It in Public What if a small restaurant didn't need to pay for expensive inventory software just to kn...",
+        "keywords": "what, inventory, application, project, public, you, net, sqlite",
+        "generated": "2026-09-06T10:39:35.966999",
+        "file": "i-built-a-free-pantry-inventory-app-and-im-building-it-in-public.md"
+    },
+    {
         "title": "MCP Authentication: What I Got Wrong Building a Production MCP Server for My Knowledge Base",
         "slug": "mcp-authentication-what-i-got-wrong-building-a-production-mcp-server-for-my-knowledge-base",
         "author": "KevinTen",
@@ -5498,6 +5520,17 @@
         "keywords": "release, deployment, security, should, engineering, become, gate, has",
         "generated": "2026-07-08T14:27:37.707693",
         "file": "ai-security-should-become-a-release-gate.md"
+    },
+    {
+        "title": "AMD Based FreeBSD Desktop Reloaded",
+        "slug": "amd-based-freebsd-desktop-reloaded",
+        "author": "vermaden",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 02:24:57 +0000",
+        "description": "Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719 Points...",
+        "keywords": "amd, based, freebsd, desktop, reloaded, url, https, com",
+        "generated": "2026-09-06T10:39:35.962190",
+        "file": "amd-based-freebsd-desktop-reloaded.md"
     },
     {
         "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
@@ -12979,6 +13012,17 @@
         "file": "python-packaging-how-to-publish-your-first-pip-package.md"
     },
     {
+        "title": "Site Is Closed on Sundays",
+        "slug": "site-is-closed-on-sundays",
+        "author": "edent",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 06:23:05 +0000",
+        "description": "Article URL: https://v7.robweychert.com/ Comments URL: https://news.ycombinator.com/item?id=49583842 Points: 87 # Comments: 98",
+        "keywords": "url, https, com, comments, site, closed, sundays, article",
+        "generated": "2026-09-06T10:39:35.962075",
+        "file": "site-is-closed-on-sundays.md"
+    },
+    {
         "title": "Designing and assembling my first PCB",
         "slug": "designing-and-assembling-my-first-pcb",
         "author": "tadasv",
@@ -15892,6 +15936,17 @@
         "file": "i-automated-my-moving-admin-with-ai-heres-what-i-learned.md"
     },
     {
+        "title": "Chapter 51 — Secure AI Payments, Billing, Subscription Management & Financial Data Protection",
+        "slug": "chapter-51-secure-ai-payments-billing-subscription-management-financial-data-protection",
+        "author": "Black Shadow Team ©",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 10:29:48 +0000",
+        "description": "51.1 Introduction A production AI platform may eventually need paid subscriptions, usage-based billing, credits, invoices, refunds, promotional plans, organi...",
+        "keywords": "billing, payment, should, provider, string, subscription, application, event",
+        "generated": "2026-09-06T10:39:36.014393",
+        "file": "chapter-51-secure-ai-payments-billing-subscription-management-financial-data-protection.md"
+    },
+    {
         "title": "Can remote travel between home and office count as paid worktime under the FLSA?",
         "slug": "can-remote-travel-between-home-and-office-count-as-paid-worktime-under-the-flsa",
         "author": "Dev Connect",
@@ -16286,6 +16341,17 @@
         "keywords": "python, masterclass, ultimate, guide, complete, beginner, professional, full",
         "generated": "2026-07-11T19:12:02.613800",
         "file": "python-complete-masterclass-2026-the-ultimate-beginner-to-professional-guide.md"
+    },
+    {
+        "title": "Wealth Management Technology: Essential Open-Source Edge",
+        "slug": "wealth-management-technology-essential-open-source-edge",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 10:29:50 +0000",
+        "description": "Investors increasingly depend on wealth management technology to automate portfolio construction, risk monitoring, rebalancing, and financial planning. Yet m...",
+        "keywords": "open, can, source, technology, data, model, wealth, portfolio",
+        "generated": "2026-09-06T10:39:36.012580",
+        "file": "wealth-management-technology-essential-open-source-edge.md"
     },
     {
         "title": "Python Developer Interview Preparation: What to Practice Beyond Coding",
@@ -18213,6 +18279,17 @@
         "file": "nextjs-vs-react-which-should-you-learn-first-in-2026.md"
     },
     {
+        "title": "Free YouTube Tutorials vs Paid Java/Python Courses: What You’re Really Paying For",
+        "slug": "free-youtube-tutorials-vs-paid-javapython-courses-what-youre-really-paying-for",
+        "author": "SEJAL",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 10:16:25 +0000",
+        "description": "“Why pay for a course when YouTube has thousands of free Java and Python tutorials?” is one of the most reasonable questions a beginner can ask — and it dese...",
+        "keywords": "free, self, paid, you, learning, learners, structured, courses",
+        "generated": "2026-09-06T10:39:35.963412",
+        "file": "free-youtube-tutorials-vs-paid-javapython-courses-what-youre-really-paying-for.md"
+    },
+    {
         "title": "I Tested Enterprise vs Startup AI API Approaches — Here's the Truth",
         "slug": "i-tested-enterprise-vs-startup-ai-api-approaches-heres-the-truth",
         "author": "swift",
@@ -19962,6 +20039,17 @@
         "file": "amazon-is-creating-the-biggest-pollution-source-in-the-country.md"
     },
     {
+        "title": "Agentic AI Security: Sandboxing LLM Tool Calls in Production",
+        "slug": "agentic-ai-security-sandboxing-llm-tool-calls-in-production",
+        "author": "Ayi NEDJIMI",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 10:01:56 +0000",
+        "description": "When you give a language model the ability to call tools — execute code, read files, hit APIs — you create a new attack surface that most teams aren't ready ...",
+        "keywords": "tool, role, model, arguments, import, agent, str, you",
+        "generated": "2026-09-06T10:39:35.964415",
+        "file": "agentic-ai-security-sandboxing-llm-tool-calls-in-production.md"
+    },
+    {
         "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
         "slug": "a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review",
         "author": "ilreb",
@@ -21689,6 +21777,17 @@
         "file": "case-study-a-free-models-c-token-bucket-passed-18-tests-ntp-broke-it-in-one-second.md"
     },
     {
+        "title": "24 seconds per iteration instead of 0.4. I paid for six hours of GPU compute and trained on CPU the entire time.",
+        "slug": "24-seconds-per-iteration-instead-of-04-i-paid-for-six-hours-of-gpu-compute-and-trained-on-cpu-the-entire-time",
+        "author": "Francisco Booth",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 10:22:30 +0000",
+        "description": "Failure 1 — CUDA silently fell back to CPU My training job launched on Vast.ai and ran to completion. Iteration time was 24 seconds instead of 0.4 seconds. C...",
+        "keywords": "computefence, before, gpu, disk, had, training, pod, cache",
+        "generated": "2026-09-06T10:39:35.962729",
+        "file": "24-seconds-per-iteration-instead-of-04-i-paid-for-six-hours-of-gpu-compute-and-trained-on-cpu-the-entire-time.md"
+    },
+    {
         "title": "HN: The Good Parts (2016)",
         "slug": "hn-the-good-parts-2016",
         "author": "adletbalzhanov",
@@ -22963,6 +23062,17 @@
         "keywords": "chatgpt, url, https, com, comments, terrence, tao, conversation",
         "generated": "2026-07-22T19:34:31.386505",
         "file": "terrence-taos-chatgpt-conversation-about-the-jacobian-conjecture-counterexample.md"
+    },
+    {
+        "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+        "slug": "you-dont-have-a-right-to-safe-drinking-water-us-court-rules",
+        "author": "vrganj",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 09:14:22 +0000",
+        "description": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584637 Poi...",
+        "keywords": "drinking, water, url, https, com, comments, you, don",
+        "generated": "2026-09-06T10:39:35.961643",
+        "file": "you-dont-have-a-right-to-safe-drinking-water-us-court-rules.md"
     },
     {
         "title": "Achieve Your Aspirations: How Python Full Stack Training at Kalyan Nagar Equips You for Tomorrow's Technology",
@@ -28414,10 +28524,10 @@
         "slug": "ai-apis-for-crypto-trading-signals-complete-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sat, 05 Sep 2026 14:51:50 +0000",
-        "description": "AI APIs for Crypto Trading Signals: A Quick Guide By *Compound Mini – 2026* What Are Trading Signals? A trading signal is a concise recommendation that tells...",
-        "keywords": "you, signals, trading, your, call, calls, per, data",
-        "generated": "2026-09-05T14:55:33.606360",
+        "published": "Sun, 06 Sep 2026 10:29:53 +0000",
+        "description": "AI‑Powered Crypto Trading Signals: How to Harness API Services By *Compound Mini – 2026* What Are Trading Signals? A trading signal is a concise recommendati...",
+        "keywords": "signals, signal, crypto, trading, api, data, model, call",
+        "generated": "2026-09-06T10:39:35.968346",
         "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
     },
     {
@@ -29510,6 +29620,17 @@
         "file": "my-comment-reply-pipeline-was-feeding-me-garbled-html-entities-instead-of-the-actual-comment.md"
     },
     {
+        "title": "Micro Pool: Tiny 8-Ball You Can Play in Your Browser Today",
+        "slug": "micro-pool-tiny-8-ball-you-can-play-in-your-browser-today",
+        "author": "Proloy Mitra",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 10:32:53 +0000",
+        "description": "Play now: https://playinmo.com/mpool Most online pool games feel heavy — long loads, app installs, and accounts before you even break. Micro Pool on PlayInMo...",
+        "keywords": "play, pool, micro, playinmo, ball, your, browser, online",
+        "generated": "2026-09-06T10:39:35.966603",
+        "file": "micro-pool-tiny-8-ball-you-can-play-in-your-browser-today.md"
+    },
+    {
         "title": "Illinois just told every operating system to start reporting your kid's age",
         "slug": "illinois-just-told-every-operating-system-to-start-reporting-your-kids-age",
         "author": "WaitWaitWha",
@@ -30168,6 +30289,17 @@
         "keywords": "remote, apply, usa, jobs, opportunities, link, now, looking",
         "generated": "2026-08-11T02:05:22.149418",
         "file": "usa-remote-jobs-2026-apply-now.md"
+    },
+    {
+        "title": "I replaced a paid pomodoro app with a 300-line Python script",
+        "slug": "i-replaced-a-paid-pomodoro-app-with-a-300-line-python-script",
+        "author": "Reza Ghorbanmeyabadi",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 10:26:11 +0000",
+        "description": "Most pomodoro apps gate your own history behind a paywall. Marinara and Focus To-Do (among others) only keep a month of data on the free tier. I wanted to ac...",
+        "keywords": "end, pomo, time, jalali, calendar, start, csv, row",
+        "generated": "2026-09-06T10:39:35.962380",
+        "file": "i-replaced-a-paid-pomodoro-app-with-a-300-line-python-script.md"
     },
     {
         "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
@@ -31411,6 +31543,17 @@
         "keywords": "mvp, development, product, can, developers, mobile, engineering, software",
         "generated": "2026-08-16T06:48:23.407616",
         "file": "10-best-companies-to-hire-mvp-developers-in-2026.md"
+    },
+    {
+        "title": "Best Places to Buy Verified Poloniex Accounts Online",
+        "slug": "best-places-to-buy-verified-poloniex-accounts-online",
+        "author": "Best Places to Buy Verified Poloniex Accounts Onli",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 10:38:10 +0000",
+        "description": "Best Places to Buy Verified Poloniex Accounts Online 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gma...",
+        "keywords": "account, information, digital, can, financial, verification, identity, cryptocurrency",
+        "generated": "2026-09-06T10:39:35.965793",
+        "file": "best-places-to-buy-verified-poloniex-accounts-online.md"
     },
     {
         "title": "I Built a Free API That Scrapes Any Website Using Plain English - No CSS Selectors",
@@ -33325,6 +33468,17 @@
         "keywords": "trust, model, data, monitoring, can, should, evidence, scoring",
         "generated": "2026-09-03T10:58:48.313470",
         "file": "ai-model-observability-the-essential-trust-metric.md"
+    },
+    {
+        "title": "Using Scikit-learn Pipelines. A Titanic Walkthrough",
+        "slug": "using-scikit-learn-pipelines-a-titanic-walkthrough",
+        "author": "Kevin Ng'ang'a",
+        "source": "devto_python",
+        "published": "Sun, 06 Sep 2026 10:04:11 +0000",
+        "description": "Introduction When you build a machine learning model, you rarely feed it raw data straight away. You usually clean it first by filling in missing values, sca...",
+        "keywords": "one, model, pipeline, each, pipelines, you, data, every",
+        "generated": "2026-09-06T10:39:35.963888",
+        "file": "using-scikit-learn-pipelines-a-titanic-walkthrough.md"
     },
     {
         "title": "Claude Code weekly limits reduce by a third tomorrow",
@@ -38429,6 +38583,17 @@
         "keywords": "what, you, not, can, but, tool, better, more",
         "generated": "2026-08-09T07:03:36.000633",
         "file": "the-gap-ai-cant-cross.md"
+    },
+    {
+        "title": "All-Inclusive Living: Breaking Down the Serviced Apartment Concept",
+        "slug": "all-inclusive-living-breaking-down-the-serviced-apartment-concept",
+        "author": "Isha Mohammad",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 10:26:02 +0000",
+        "description": "A Smarter, More Comfortable Way to Live in Dhaka Modern city life is changing the way people think about accommodation. Today, a home is not simply a place w...",
+        "keywords": "serviced, apartment, living, more, furnished, can, dhaka, services",
+        "generated": "2026-09-06T10:39:36.014979",
+        "file": "all-inclusive-living-breaking-down-the-serviced-apartment-concept.md"
     },
     {
         "title": "First Look: Enterprise IGA Platforms Expose Structural Gaps as AI Agents Proliferate",
@@ -45091,6 +45256,17 @@
         "keywords": "analysis, code, what, data, but, research, has, you",
         "generated": "2026-06-30T04:06:54.986166",
         "file": "medical-research-data-analysis-deserves-a-higher-standard.md"
+    },
+    {
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "slug": "isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+        "author": "mpweiher",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 07:21:06 +0000",
+        "description": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL...",
+        "keywords": "isar, aerospace, reaches, orbit, deploys, payloads, second, flight",
+        "generated": "2026-09-06T10:39:35.961957",
+        "file": "isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight.md"
     },
     {
         "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -64781,6 +64957,17 @@
         "file": "before-you-paste-that-log-a-safer-debugging-habit.md"
     },
     {
+        "title": "Your Recipe App Is Hiding a Silent Video",
+        "slug": "your-recipe-app-is-hiding-a-silent-video",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Sun, 06 Sep 2026 10:37:22 +0000",
+        "description": "Open dev tools on almost any recipe site mid-scroll and check the Elements panel. Buried near the bottom, there's a <video> tag. It's one pixel. It's muted. ...",
+        "keywords": "you, screen, video, lock, one, wakelock, your, nothing",
+        "generated": "2026-09-06T10:39:35.966363",
+        "file": "your-recipe-app-is-hiding-a-silent-video.md"
+    },
+    {
         "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
         "slug": "wataboy-jit-ing-game-boy-instructions-to-wasm-beats-a-native-interpreter",
         "author": "energeticbark",
@@ -68356,6 +68543,17 @@
         "file": "show-hn-ctrlb-decompose-strip-the-noise-from-logs-before-sending-to-llms.md"
     },
     {
+        "title": "Play GTA Vice City in the Browser",
+        "slug": "play-gta-vice-city-in-the-browser",
+        "author": "rzk",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 07:33:17 +0000",
+        "description": "Article URL: https://quenq.com/apps/vice-city-online/ Comments URL: https://news.ycombinator.com/item?id=49584123 Points: 57 # Comments: 27",
+        "keywords": "vice, city, url, https, com, comments, play, gta",
+        "generated": "2026-09-06T10:39:35.961802",
+        "file": "play-gta-vice-city-in-the-browser.md"
+    },
+    {
         "title": "I wrote an bash enumerator because I was sick of xargs",
         "slug": "i-wrote-an-bash-enumerator-because-i-was-sick-of-xargs",
         "author": "wallach-game",
@@ -69320,6 +69518,17 @@
         "keywords": "alpha, waves, complete, breakdown, resources, sydney, key, synthesis",
         "generated": "2026-06-21T09:58:05.293417",
         "file": "ai-complete-breakdown.md"
+    },
+    {
+        "title": "Free financial data for AI agents: what it took to wire four regulators into one schema",
+        "slug": "free-financial-data-for-ai-agents-what-it-took-to-wire-four-regulators-into-one-schema",
+        "author": "Jake Cho",
+        "source": "devto_ai",
+        "published": "Sun, 06 Sep 2026 10:30:34 +0000",
+        "description": "If you ask a language model which free financial data APIs exist?, you get the same list every time: SEC EDGAR, FRED, a couple of vendor free tiers, and yf...",
+        "keywords": "you, free, not, every, data, same, one, prices",
+        "generated": "2026-09-06T10:39:35.968020",
+        "file": "free-financial-data-for-ai-agents-what-it-took-to-wire-four-regulators-into-one-schema.md"
     },
     {
         "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
