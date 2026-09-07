@@ -6160,6 +6160,17 @@
         "file": "green-is-a-measurement-not-a-decision.md"
     },
     {
+        "title": "One CSS Property Replaces Your Checkbox Hack",
+        "slug": "one-css-property-replaces-your-checkbox-hack",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 12:02:33 +0000",
+        "description": "Someone on the design side wants the checkboxes to match the brand's indigo instead of the browser's default blue. Reasonable ask. So you open the CSS file a...",
+        "keywords": "one, you, checkbox, color, your, accent, every, control",
+        "generated": "2026-09-07T12:06:00.732642",
+        "file": "one-css-property-replaces-your-checkbox-hack.md"
+    },
+    {
         "title": "Minecraft: Java Edition now uses SDL3",
         "slug": "minecraft-java-edition-now-uses-sdl3",
         "author": "ObviouslyFlamer",
@@ -7676,6 +7687,17 @@
         "keywords": "ice, body, article, url, https, com, comments, will",
         "generated": "2026-08-07T19:04:02.691636",
         "file": "ice-will-release-body-cam-video-only-when-seen-in-the-agencys-best-interests.md"
+    },
+    {
+        "title": "x402 Explained: HTTP-Native Micropayments for AI Agents (With Real Code)",
+        "slug": "x402-explained-http-native-micropayments-for-ai-agents-with-real-code",
+        "author": "Nikhil Ranka",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 11:57:33 +0000",
+        "description": "x402 Explained: HTTP‑Native Micropayments for AI Agents (With Real Code) TL;DR – x402 is a lightweight extension to HTTP that lets a server respond with 402 ...",
+        "keywords": "payment, request, server, nonce, json, proof, req, response",
+        "generated": "2026-09-07T12:06:00.734164",
+        "file": "x402-explained-http-native-micropayments-for-ai-agents-with-real-code.md"
     },
     {
         "title": "Build a Custom Dependency Injection Container",
@@ -15925,6 +15947,17 @@
         "file": "removing-um-from-a-recording-is-harder-than-it-sounds.md"
     },
     {
+        "title": "Rotating Proxies with Python Requests: A Copy-Paste Starter Kit",
+        "slug": "rotating-proxies-with-python-requests-a-copy-paste-starter-kit",
+        "author": "Squid Proxies",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 11:38:30 +0000",
+        "description": "If you're scraping, monitoring prices, or checking rank data at any real volume, a single IP will get rate-limited or blocked fast. Rotating proxies across r...",
+        "keywords": "proxies, proxy, requests, http, you, https, self, pool",
+        "generated": "2026-09-07T12:06:00.729996",
+        "file": "rotating-proxies-with-python-requests-a-copy-paste-starter-kit.md"
+    },
+    {
         "title": "Memory as AI's Sixth Sense",
         "slug": "memory-as-ais-sixth-sense",
         "author": "HYPHANTA",
@@ -18895,6 +18928,17 @@
         "file": "automating-technical-outreach-mastering-the-7-state-pipeline-for-early-adopter-acquisition.md"
     },
     {
+        "title": "AI Agent Security: Essential Model and API Controls",
+        "slug": "ai-agent-security-essential-model-and-api-controls",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 11:55:32 +0000",
+        "description": "Autonomous agents can read files, call external tools, and execute multi-step workflows—making a single compromised prompt far more dangerous than an ordinar...",
+        "keywords": "agent, security, model, tool, api, prompt, credentials, can",
+        "generated": "2026-09-07T12:06:00.735587",
+        "file": "ai-agent-security-essential-model-and-api-controls.md"
+    },
+    {
         "title": "How to Use Vector Databases for AI Applications",
         "slug": "how-to-use-vector-databases-for-ai-applications",
         "author": "qing",
@@ -18970,6 +19014,17 @@
         "keywords": "you, image, character, art, browser, your, without, tool",
         "generated": "2026-06-24T14:43:41.341543",
         "file": "who-actually-uses-ascii-art-in-2024-and-why-i-built-a-browser-tool-for-them.md"
+    },
+    {
+        "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+        "slug": "tiny-70-xteink-x3-e-reader-puts-silicon-valley-to-shame",
+        "author": "samizdis",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 10:41:29 +0000",
+        "description": "Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/ Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "xteink, reader, url, https, com, technology, comments, tiny",
+        "generated": "2026-09-07T12:06:00.727325",
+        "file": "tiny-70-xteink-x3-e-reader-puts-silicon-valley-to-shame.md"
     },
     {
         "title": "Port React Compiler to Rust",
@@ -24439,6 +24494,17 @@
         "file": "web-search-api-explained-how-it-works-for-ai-agents.md"
     },
     {
+        "title": "Impedance Matching (2017)",
+        "slug": "impedance-matching-2017",
+        "author": "muti",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 09:52:26 +0000",
+        "description": "Article URL: https://www.edge.org/response-detail/27238 Comments URL: https://news.ycombinator.com/item?id=49596274 Points: 21 # Comments: 5",
+        "keywords": "url, https, comments, impedance, matching, article, www, edge",
+        "generated": "2026-09-07T12:06:00.727443",
+        "file": "impedance-matching-2017.md"
+    },
+    {
         "title": "Json To Typescript — Free Online Tool",
         "slug": "json-to-typescript-free-online-tool",
         "author": "BAOMING",
@@ -25515,6 +25581,17 @@
         "keywords": "environment, what, part, can, you, agent, model, tool",
         "generated": "2026-08-15T18:36:33.515665",
         "file": "harness-engineering-part-6-the-filesystem-environment.md"
+    },
+    {
+        "title": "We checked every single-typo of the 30 most popular npm and PyPI packages. Here's what's actually registered.",
+        "slug": "we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-registered",
+        "author": "Rushabh Shah",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 11:34:11 +0000",
+        "description": "Typosquatting is one of the best-documented supply-chain attack techniques — publish a package one keystroke away from something popular, wait for developers...",
+        "keywords": "packages, package, popular, npm, one, every, pypi, real",
+        "generated": "2026-09-07T12:06:00.730524",
+        "file": "we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-registered.md"
     },
     {
         "title": "Thiết kế Figma song song Dev Tools: Đánh giá hiệu năng Lunar Lake",
@@ -28755,10 +28832,10 @@
         "slug": "ai-apis-for-crypto-trading-signals-complete-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 06 Sep 2026 10:29:53 +0000",
-        "description": "AI‑Powered Crypto Trading Signals: How to Harness API Services By *Compound Mini – 2026* What Are Trading Signals? A trading signal is a concise recommendati...",
-        "keywords": "signals, signal, crypto, trading, api, data, model, call",
-        "generated": "2026-09-06T10:39:35.968346",
+        "published": "Mon, 07 Sep 2026 11:55:52 +0000",
+        "description": "AI‑Powered Crypto Trading Signals: A Quick Guide Published: September 2026 What Are Trading Signals? A trading signal is a concise, data‑driven recommendatio...",
+        "keywords": "signal, data, price, trading, crypto, signals, confidence, api",
+        "generated": "2026-09-07T12:06:00.735075",
         "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
     },
     {
@@ -31215,6 +31292,17 @@
         "file": "why-i-stopped-using-chatgpt-for-code-reviews.md"
     },
     {
+        "title": "The Complete Guide to Agent-to-Agent Marketplaces in 2026",
+        "slug": "the-complete-guide-to-agent-to-agent-marketplaces-in-2026",
+        "author": "Nikhil Ranka",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 12:02:34 +0000",
+        "description": "The Complete Guide to Agent‑to‑Agent Marketplaces in 2026 Target audience: developers building autonomous AI agents who need to discover, invoke, and pay for...",
+        "keywords": "agent, json, agents, token, type, string, resp, example",
+        "generated": "2026-09-07T12:06:00.732189",
+        "file": "the-complete-guide-to-agent-to-agent-marketplaces-in-2026.md"
+    },
+    {
         "title": "We Are Forking dotenvy into dotenv-ng",
         "slug": "we-are-forking-dotenvy-into-dotenv-ng",
         "author": "linggen",
@@ -33501,6 +33589,17 @@
         "keywords": "trust, large, context, windows, url, https, comments, don",
         "generated": "2026-06-14T14:17:29.348971",
         "file": "dont-trust-large-context-windows.md"
+    },
+    {
+        "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
+        "slug": "usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works",
+        "author": "Nikhil Ranka",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 12:01:04 +0000",
+        "description": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works Target audience: developers building autonomous AI agents that need to pay—or be paid—for...",
+        "keywords": "usdc, payer, payee, address, amount, require, funds, escrow",
+        "generated": "2026-09-07T12:06:00.733184",
+        "file": "usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works.md"
     },
     {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: USA march on but will Balogun red card prove costly?",
@@ -38825,6 +38924,17 @@
         "keywords": "transformer, url, https, comments, unified, model, motion, conditioned",
         "generated": "2026-07-29T08:48:13.031601",
         "file": "transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design.md"
+    },
+    {
+        "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+        "slug": "apparently-codepen-20-sends-data-to-their-servers-as-you-type",
+        "author": "maxim-fin",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 11:22:40 +0000",
+        "description": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective N...",
+        "keywords": "you, codepen, typed, dev, after, even, marker, html",
+        "generated": "2026-09-07T12:06:00.727047",
+        "file": "apparently-codepen-20-sends-data-to-their-servers-as-you-type.md"
     },
     {
         "title": "Introduction to LLM Few-Shot Learning: Concepts and Applications",
@@ -47667,6 +47777,17 @@
         "file": "how-i-built-a-mental-health-website-with-django-aws-and-vanilla-javascript.md"
     },
     {
+        "title": "Case Study: Fail the Agent Plan When a Claim Has No File Citation",
+        "slug": "case-study-fail-the-agent-plan-when-a-claim-has-no-file-citation",
+        "author": "Dakota Liu",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 11:55:29 +0000",
+        "description": "You should fail any agent plan that asserts a repo fact without citing a real file. Invented scripts, ports, and module paths often look confident while they...",
+        "keywords": "you, not, path, claim, fail, json, citation, should",
+        "generated": "2026-09-07T12:06:00.728442",
+        "file": "case-study-fail-the-agent-plan-when-a-claim-has-no-file-citation.md"
+    },
+    {
         "title": "How to Build an Automated Automated SEO Keyword Rank Auditor with Python",
         "slug": "how-to-build-an-automated-automated-seo-keyword-rank-auditor-with-python",
         "author": "Robel Tessema",
@@ -55301,6 +55422,17 @@
         "file": "tell-hn-openai-has-started-putting-ads-on-paid-programs.md"
     },
     {
+        "title": "MEV Detection with AI: A Practical Guide",
+        "slug": "mev-detection-with-ai-a-practical-guide",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 11:56:50 +0000",
+        "description": "Maximal Extractable Value (MEV) represents a significant friction point in decentralized finance, extracting billions of dollars from retail users through fr...",
+        "keywords": "mev, transaction, data, detection, mempool, model, practical, sandwich",
+        "generated": "2026-09-07T12:06:00.734404",
+        "file": "mev-detection-with-ai-a-practical-guide.md"
+    },
+    {
         "title": "I built browser-to-browser remote file access with WebRTC – no app required",
         "slug": "i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required",
         "author": "Yousiff Taqi",
@@ -60181,6 +60313,17 @@
         "keywords": "trello, you, teams, boards, free, butler, management, users",
         "generated": "2026-08-22T01:34:35.142850",
         "file": "trello-review-2026-is-it-still-worth-using-honest-deep-dive.md"
+    },
+    {
+        "title": "Building an AI-Powered Endodontic Diagnosis System: A 3-Layer Architecture for Clinical Decision Support",
+        "slug": "building-an-ai-powered-endodontic-diagnosis-system-a-3-layer-architecture-for-clinical-decision-support",
+        "author": "Seyed Alireza Alhosseini",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 11:51:32 +0000",
+        "description": "Combining CBCT, Deep Learning, and Clinical Intelligence to Transform Root Canal Treatment Introduction Endodontics is one of the most challenging fields in ...",
+        "keywords": "self, clinical, cbct, crack, layer, system, decision, uncertainty",
+        "generated": "2026-09-07T12:06:00.729290",
+        "file": "building-an-ai-powered-endodontic-diagnosis-system-a-3-layer-architecture-for-clinical-decision-support.md"
     },
     {
         "title": "Hugging Face Inference API: Run 200,000+ AI Models for Free with Python",
@@ -65925,6 +66068,17 @@
         "file": "publish-a-static-page-data-api-in-minutes-with-miniup.md"
     },
     {
+        "title": "Web Workers in JavaScript: The Complete Guide",
+        "slug": "web-workers-in-javascript-the-complete-guide",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 12:03:04 +0000",
+        "description": "Drag a slider on a page that's mid-way through parsing a 50,000-row CSV in JavaScript, and nothing happens for a full second. Not because the slider's code i...",
+        "keywords": "worker, thread, data, you, main, can, workers, dom",
+        "generated": "2026-09-07T12:06:00.731581",
+        "file": "web-workers-in-javascript-the-complete-guide.md"
+    },
+    {
         "title": "No AI Model Passes the Real-Time Teamwork Test: GPTNT Benchmark Results",
         "slug": "no-ai-model-passes-the-real-time-teamwork-test-gptnt-benchmark-results",
         "author": "WDSEGA",
@@ -70510,6 +70664,17 @@
         "file": "i-scraped-100-football-matches-here-is-what-i-found-bournemouth-reject-64m-bid-from-chelsea-for-scott.md"
     },
     {
+        "title": "AI-Driven Workflows in Web Design: How Designers Are Working Smarter",
+        "slug": "ai-driven-workflows-in-web-design-how-designers-are-working-smarter",
+        "author": "Avanexa Technologies",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 11:56:13 +0000",
+        "description": "Web design is changing quickly. Designers no longer spend every hour creating layouts, checking every screen size, or preparing handoff files manually. AI is...",
+        "keywords": "can, design, designers, website, web, layouts, help, layout",
+        "generated": "2026-09-07T12:06:00.734745",
+        "file": "ai-driven-workflows-in-web-design-how-designers-are-working-smarter.md"
+    },
+    {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: Youve been trying to kill me for 23 years should Ronaldo start?",
         "slug": "i-scraped-100-sports-matches-here-is-what-i-found-youve-been-trying-to-kill-me-for-23-years-should-ronaldo-start",
         "author": "Muhammad Bin Nazeer",
@@ -71027,6 +71192,17 @@
         "file": "ai-can-write-mern-code-but-architecture-still-needs-a-developer.md"
     },
     {
+        "title": "Python programming language.....",
+        "slug": "python-programming-language",
+        "author": "Agatha Nduku",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 11:45:20 +0000",
+        "description": "If you have come across my articles, you know that definitions come first. What is python programming language? It is a high-level, general-purpose programmi...",
+        "keywords": "python, programming, language, data, learning, you, development, like",
+        "generated": "2026-09-07T12:06:00.729570",
+        "file": "python-programming-language.md"
+    },
+    {
         "title": "AI Revolution 2026: Claude Surpasses ChatGPT, IBM Breaks 1nm Barrier, and What It Means for Your Business",
         "slug": "ai-revolution-2026-claude-surpasses-chatgpt-ibm-breaks-1nm-barrier-and-what-it-means-for-your-business",
         "author": "Mclean Forrester",
@@ -71036,6 +71212,17 @@
         "keywords": "our, more, claude, chatgpt, technology, not, these, like",
         "generated": "2026-06-29T15:56:39.169539",
         "file": "ai-revolution-2026-claude-surpasses-chatgpt-ibm-breaks-1nm-barrier-and-what-it-means-for-your-business.md"
+    },
+    {
+        "title": "Incorporating Solo: The Nomad's Legal Shortcuts",
+        "slug": "incorporating-solo-the-nomads-legal-shortcuts",
+        "author": "Kevin Jang",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 12:00:42 +0000",
+        "description": "Incorporating Solo: The Nomad's Legal Shortcuts Server crashes don’t care about your burnout. Here’s the brutal truth: if you're a solo founder juggling ever...",
+        "keywords": "your, you, can, these, legal, incorporation, tools, but",
+        "generated": "2026-09-07T12:06:00.733626",
+        "file": "incorporating-solo-the-nomads-legal-shortcuts.md"
     },
     {
         "title": "A jacket that harvests drinking water from the air",
@@ -72222,6 +72409,17 @@
         "keywords": "capture, you, audio, not, windows, your, translation, own",
         "generated": "2026-06-25T04:05:12.293723",
         "file": "translating-windows-system-audio-in-real-time-driverless-with-no-virtual-cable.md"
+    },
+    {
+        "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+        "slug": "smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements",
+        "author": "mdp2021",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 11:46:37 +0000",
+        "description": "Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532 Comments...",
+        "keywords": "smartphone, makers, bother, comply, repairability, requirements, url, https",
+        "generated": "2026-09-07T12:06:00.726747",
+        "file": "smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements.md"
     },
     {
         "title": "OpenAI Launches AI Futures to Explore AI Power and Future Governance",
@@ -75170,6 +75368,17 @@
         "keywords": "net, salary, gross, europe, tools, gap, italy, germany",
         "generated": "2026-07-05T13:51:56.698153",
         "file": "net-salary-in-europe-2026-the-gross-to-net-gap-in-italy-germany-france-and-spain.md"
+    },
+    {
+        "title": "Weird Little Guys of FOSS",
+        "slug": "weird-little-guys-of-foss",
+        "author": "marvinborner",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 11:05:38 +0000",
+        "description": "Article URL: https://drewdevault.com/weird-guys/ Comments URL: https://news.ycombinator.com/item?id=49596826 Points: 8 # Comments: 2",
+        "keywords": "weird, guys, url, https, com, comments, little, foss",
+        "generated": "2026-09-07T12:06:00.727194",
+        "file": "weird-little-guys-of-foss.md"
     },
     {
         "title": "Best Ai image generator app in 2026",
