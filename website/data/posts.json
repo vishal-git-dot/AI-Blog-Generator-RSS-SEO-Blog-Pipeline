@@ -4569,6 +4569,17 @@
         "file": "the-same-11-prompts-three-copies-48-hours-a-free-model-regression-battery.md"
     },
     {
+        "title": "Making a Python interpreter in 1024 bytes",
+        "slug": "making-a-python-interpreter-in-1024-bytes",
+        "author": "azhenley",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 23:14:08 +0000",
+        "description": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 137 # Comments: 54",
+        "keywords": "url, https, com, comments, making, python, interpreter, bytes",
+        "generated": "2026-09-07T03:57:33.579577",
+        "file": "making-a-python-interpreter-in-1024-bytes.md"
+    },
+    {
         "title": "CollectWise (YC F24) Is Hiring",
         "slug": "collectwise-yc-f24-is-hiring",
         "author": "OBrien_1107",
@@ -8790,6 +8801,17 @@
         "file": "show-hn-kicad-in-the-browser.md"
     },
     {
+        "title": "Score Agent Hops Before They Leave Disk",
+        "slug": "score-agent-hops-before-they-leave-disk",
+        "author": "Riley Wu",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 03:50:29 +0000",
+        "description": "Agent loops fail at the first unplanned hop. The failure is architectural, not model quality. Default remote calls treat every thought as cargo. That default...",
+        "keywords": "score, step, not, local, remote, hop, payload, route",
+        "generated": "2026-09-07T03:57:33.581657",
+        "file": "score-agent-hops-before-they-leave-disk.md"
+    },
+    {
         "title": "The Federated Swarm: How to Build Autonomous, Self-Evolving AI Workforces",
         "slug": "the-federated-swarm-how-to-build-autonomous-self-evolving-ai-workforces",
         "author": "Programming Central",
@@ -12528,6 +12550,17 @@
         "file": "your-pipeline-is-275h-behind-catching-space-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+        "slug": "show-hn-get-together-a-social-network-where-you-dont-need-post-to-post",
+        "author": "nchudleigh",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 01:41:11 +0000",
+        "description": "Article URL: https://gettogether.dev Comments URL: https://news.ycombinator.com/item?id=49592840 Points: 11 # Comments: 2",
+        "keywords": "post, url, https, comments, show, get, together, social",
+        "generated": "2026-09-07T03:57:33.579319",
+        "file": "show-hn-get-together-a-social-network-where-you-dont-need-post-to-post.md"
+    },
+    {
         "title": "Build a Canary Deployment System with Python",
         "slug": "build-a-canary-deployment-system-with-python",
         "author": "qing",
@@ -14537,6 +14570,17 @@
         "keywords": "mcp, server, weather, current, city, client, python, httpx",
         "generated": "2026-06-30T04:06:54.983230",
         "file": "building-a-weather-mcp-server-with-python.md"
+    },
+    {
+        "title": "Gate Agent Success on Closed Spans",
+        "slug": "gate-agent-success-on-closed-spans",
+        "author": "Sam Sun",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 03:52:25 +0000",
+        "description": "The last assistant token is not a status code. If any tool span is still open, the run failed, even when the model wrote a confident wrap-up. Most agent UIs ...",
+        "keywords": "span, not, problems, get, spans, model, trace, status",
+        "generated": "2026-09-07T03:57:33.580252",
+        "file": "gate-agent-success-on-closed-spans.md"
     },
     {
         "title": "The Provider Retried My Webhook. My Model Ran Twice. Here's the Dedupe That Fixed It.",
@@ -19159,6 +19203,17 @@
         "file": "inkling-our-open-weights-model.md"
     },
     {
+        "title": "The File Was Written Successfully. Why Check the Artifact Again? From Remote Sandboxes to Local Workspaces",
+        "slug": "the-file-was-written-successfully-why-check-the-artifact-again-from-remote-sandboxes-to-local-workspaces",
+        "author": "joinwell52",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 03:49:20 +0000",
+        "description": "In this experiment, the file really was written successfully. We used CodeFlowMu's actual controlled file executor, then started another process to read the ...",
+        "keywords": "not, file, execution, task, workspace, digest, content, write",
+        "generated": "2026-09-07T03:57:33.585393",
+        "file": "the-file-was-written-successfully-why-check-the-artifact-again-from-remote-sandboxes-to-local-workspaces.md"
+    },
+    {
         "title": "The Factory Robot That Doesn’t Specialize — Korea’s Hidden Edge",
         "slug": "the-factory-robot-that-doesnt-specialize-koreas-hidden-edge",
         "author": "lifes koreaplus",
@@ -21084,6 +21139,17 @@
         "file": "your-pipeline-is-172h-behind-catching-defence-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+        "slug": "hackers-have-withdrawn-4k-btc-320m-from-the-liquid-federation-wallet",
+        "author": "felipelalli",
+        "source": "hackernews",
+        "published": "Sun, 06 Sep 2026 22:43:25 +0000",
+        "description": "https://xcancel.com/Liquid_BTC/status/2096696272447218108 Comments URL: https://news.ycombinator.com/item?id=49591672 Points: 86 # Comments: 51",
+        "keywords": "https, com, comments, hackers, have, withdrawn, btc, liquid",
+        "generated": "2026-09-07T03:57:33.579696",
+        "file": "hackers-have-withdrawn-4k-btc-320m-from-the-liquid-federation-wallet.md"
+    },
+    {
         "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
         "slug": "your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
         "author": "cf100clunk",
@@ -22072,6 +22138,17 @@
         "keywords": "python, copy, docker, app, requirements, root, stage, build",
         "generated": "2026-07-04T19:22:30.076954",
         "file": "python-docker-containerization-from-dev-to-production.md"
+    },
+    {
+        "title": "Workshop: Validate Tool Results Before They Enter Agent Memory in 75 Minutes",
+        "slug": "workshop-validate-tool-results-before-they-enter-agent-memory-in-75-minutes",
+        "author": "Finley Zhu",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 03:48:04 +0000",
+        "description": "Agent memory becomes unreliable the moment an unchecked tool payload is stored as if it were a fact. Extra fields, wrong types, and silently defaulted keys s...",
+        "keywords": "not, key, tool, resultgateerror, memory, payload, self, schema",
+        "generated": "2026-09-07T03:57:33.582382",
+        "file": "workshop-validate-tool-results-before-they-enter-agent-memory-in-75-minutes.md"
     },
     {
         "title": "How I Cut AI Finance Forecasting Costs 65% — The Complete Breakdown",
@@ -28894,6 +28971,17 @@
         "file": "polymarket-june-17-2026-the-ai-model-war-just-hit-a-plateau-what-smart-money-is-betting-on-now.md"
     },
     {
+        "title": "Data Engineering Services: Turning Raw Data Into Business Value",
+        "slug": "data-engineering-services-turning-raw-data-into-business-value",
+        "author": "trigentsoftwareinc",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 03:47:53 +0000",
+        "description": "What Is Data Engineering? Every business produces data. This could be information from sales, customers, websites, mobile apps, business software, or connect...",
+        "keywords": "data, engineering, business, information, can, systems, businesses, may",
+        "generated": "2026-09-07T03:57:33.586858",
+        "file": "data-engineering-services-turning-raw-data-into-business-value.md"
+    },
+    {
         "title": "AI Agent Memory Starts with a Documentation Table of Contents",
         "slug": "ai-agent-memory-starts-with-a-documentation-table-of-contents",
         "author": "dotdot",
@@ -32766,6 +32854,17 @@
         "file": "give-a-langchain-agent-a-real-inbox.md"
     },
     {
+        "title": "Two Years From Now, This Will Be the Only Skill That Matters in AI",
+        "slug": "two-years-from-now-this-will-be-the-only-skill-that-matters-in-ai",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 03:32:22 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "not, what, you, agent, actually, can, when, have",
+        "generated": "2026-09-07T03:57:33.584541",
+        "file": "two-years-from-now-this-will-be-the-only-skill-that-matters-in-ai.md"
+    },
+    {
         "title": "Engineering onboarding programs: structured ramping that accelerates time to productivity",
         "slug": "engineering-onboarding-programs-structured-ramping-that-accelerates-time-to-productivity",
         "author": "Rizwan Saleem",
@@ -33347,6 +33446,17 @@
         "keywords": "output, context, input, you, model, cost, which, tier",
         "generated": "2026-06-28T04:20:44.694145",
         "file": "cheapest-ai-apis-2026-a-cloud-architects-field-notes.md"
+    },
+    {
+        "title": "Beyond Paper: The Advanced Guide to Scalable CBT Software Implementation",
+        "slug": "beyond-paper-the-advanced-guide-to-scalable-cbt-software-implementation",
+        "author": "Rynoex",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 03:30:35 +0000",
+        "description": "Beyond Paper: The Advanced Guide to Scalable CBT Software Implementation Discover the ultimate guide to transitioning from legacy grading methods to a secure...",
+        "keywords": "guide, scalable, cbt, software, beyond, paper, advanced, implementation",
+        "generated": "2026-09-07T03:57:33.584685",
+        "file": "beyond-paper-the-advanced-guide-to-scalable-cbt-software-implementation.md"
     },
     {
         "title": "Automating PDF fills, merges, and invoices in n8n without a Function node",
@@ -34557,6 +34667,17 @@
         "keywords": "invoice, gstin, row, compile, total, text, invoices, pdfs",
         "generated": "2026-06-20T04:12:08.213569",
         "file": "build-a-gst-invoice-parser-in-70-lines-of-python.md"
+    },
+    {
+        "title": "A Slice Gate That Stops Weekend MVPs From Growing Phantom Features",
+        "slug": "a-slice-gate-that-stops-weekend-mvps-from-growing-phantom-features",
+        "author": "Dakota Wu",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 03:45:47 +0000",
+        "description": "A solo founder does not need a complete architecture to ship this weekend. The founder needs one slice file, an unknowns log, and a local gate that rejects a...",
+        "keywords": "slice, not, gate, unknowns, json, files, email, import",
+        "generated": "2026-09-07T03:57:33.582998",
+        "file": "a-slice-gate-that-stops-weekend-mvps-from-growing-phantom-features.md"
     },
     {
         "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
@@ -36493,6 +36614,17 @@
         "keywords": "url, https, comments, winamp, skin, museum, article, skins",
         "generated": "2026-07-02T14:15:25.130037",
         "file": "winamp-skin-museum.md"
+    },
+    {
+        "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+        "slug": "keep-our-servers-running-your-recurring-donation-goes-3x-this-september",
+        "author": "sonicrocketman",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 03:29:51 +0000",
+        "description": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombina...",
+        "keywords": "keep, our, servers, running, your, recurring, donation, goes",
+        "generated": "2026-09-07T03:57:33.579150",
+        "file": "keep-our-servers-running-your-recurring-donation-goes-3x-this-september.md"
     },
     {
         "title": "Build an Overnight Bug Bounty Recon Pipeline With Python (Step-by-Step)",
@@ -46039,6 +46171,17 @@
         "file": "looking-for-an-interior-decorator-near-me-heres-what-every-homeowner-should-know-before-starting-a-design-project.md"
     },
     {
+        "title": "Nexus Intelligence Research — September 2026",
+        "slug": "nexus-intelligence-research-september-2026",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 03:47:55 +0000",
+        "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
+        "keywords": "crypto, nexus, intelligence, research, september, recommended, tools, binance",
+        "generated": "2026-09-07T03:57:33.586422",
+        "file": "nexus-intelligence-research-september-2026.md"
+    },
+    {
         "title": "PixExact: Generate AI Images at Exact Pixel Dimensions",
         "slug": "pixexact-generate-ai-images-at-exact-pixel-dimensions",
         "author": "William",
@@ -50010,6 +50153,17 @@
         "file": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md"
     },
     {
+        "title": "I tried removing burned-in text from videos with VideoDetext",
+        "slug": "i-tried-removing-burned-in-text-from-videos-with-videodetext",
+        "author": "DBHacker",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 03:44:10 +0000",
+        "description": "A friend of mine works in e-commerce and often needs to reuse or edit videos that already have text or subtitles burned into them. That got me looking into w...",
+        "keywords": "text, video, tried, videos, you, burned, videodetext, works",
+        "generated": "2026-09-07T03:57:33.583568",
+        "file": "i-tried-removing-burned-in-text-from-videos-with-videodetext.md"
+    },
+    {
         "title": "The head of your CSV is lying: how 9,291 invoice numbers almost vanished",
         "slug": "the-head-of-your-csv-is-lying-how-9291-invoice-numbers-almost-vanished",
         "author": "Ahmed Abdeltawab",
@@ -51273,6 +51427,17 @@
         "keywords": "url, https, com, comments, elevated, error, rate, across",
         "generated": "2026-06-23T15:13:55.039958",
         "file": "elevated-error-rate-across-multiple-models.md"
+    },
+    {
+        "title": "How Do I Choose the Right Glass Packaging for Cosmetics?",
+        "slug": "how-do-i-choose-the-right-glass-packaging-for-cosmetics",
+        "author": "吴敏",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 03:49:02 +0000",
+        "description": "Selecting cosmetic glass packaging involves more than choosing an attractive bottle or jar. The right solution needs to match the formulation, viscosity, lig...",
+        "keywords": "glass, cosmetic, packaging, bottle, viscosity, your, jar, bottles",
+        "generated": "2026-09-07T03:57:33.586269",
+        "file": "how-do-i-choose-the-right-glass-packaging-for-cosmetics.md"
     },
     {
         "title": "Custom Software vs SaaS: When Custom Actually Wins",
@@ -54771,6 +54936,17 @@
         "keywords": "row, grid, data, prop, source, but, you, target",
         "generated": "2026-06-07T19:40:41.524230",
         "file": "javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago.md"
+    },
+    {
+        "title": "You Clicked Cancel. Which Step Did It Actually Cancel? An Agent Execution-Boundary Experiment",
+        "slug": "you-clicked-cancel-which-step-did-it-actually-cancel-an-agent-execution-boundary-experiment",
+        "author": "joinwell52",
+        "source": "devto_ai",
+        "published": "Mon, 07 Sep 2026 03:47:51 +0000",
+        "description": "One unsettling moment with an AI assistant editing your files is changing your mind while it still says it is working. You click Cancel. Should it stop start...",
+        "keywords": "not, cancellation, approval, request, execution, after, check, its",
+        "generated": "2026-09-07T03:57:33.587584",
+        "file": "you-clicked-cancel-which-step-did-it-actually-cancel-an-agent-execution-boundary-experiment.md"
     },
     {
         "title": "A grumpy screed about AI in software engineering",
@@ -65496,6 +65672,17 @@
         "file": "claude-code-for-capacity-planning-how-i-stopped-reacting-to-growth-and-started-planning-for-it.md"
     },
     {
+        "title": "Building invite flows that don't have race conditions in SvelteKit + Postgres",
+        "slug": "building-invite-flows-that-dont-have-race-conditions-in-sveltekit-postgres",
+        "author": "VerdantStack",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 03:46:18 +0000",
+        "description": "Most invite-link implementations look correct in development and break in production. The edge cases aren't exotic — they're the normal concurrency you get w...",
+        "keywords": "invite, const, invites, count, await, orgid, token, delete",
+        "generated": "2026-09-07T03:57:33.583386",
+        "file": "building-invite-flows-that-dont-have-race-conditions-in-sveltekit-postgres.md"
+    },
+    {
         "title": "Scaling Codebases Without Platform Bloat",
         "slug": "scaling-codebases-without-platform-bloat",
         "author": "Suraj Upadhyay",
@@ -70697,6 +70884,17 @@
         "file": "show-hn-talefyi-we-deserve-a-home-for-fiction.md"
     },
     {
+        "title": "Score the Trace, Not the Final Payload",
+        "slug": "score-the-trace-not-the-final-payload",
+        "author": "Dakota Ma",
+        "source": "devto_python",
+        "published": "Mon, 07 Sep 2026 03:50:43 +0000",
+        "description": "Final-answer checks miss the costliest agent failure mode: a schema-valid payload produced by a tool path that has already drifted. A versioned golden-trace ...",
+        "keywords": "not, str, path, trace, any, fixture, model, dict",
+        "generated": "2026-09-07T03:57:33.580987",
+        "file": "score-the-trace-not-the-final-payload.md"
+    },
+    {
         "title": "I built a tool that gently adds an absent loved one into a family photo",
         "slug": "i-built-a-tool-that-gently-adds-an-absent-loved-one-into-a-family-photo",
         "author": "KunStudio",
@@ -73676,6 +73874,17 @@
         "file": "turn-plain-english-into-pandas-code-with-ast-validation-free-tool.md"
     },
     {
+        "title": "The LLM Nobody Talks About That Keeps Showing Up in Production Stacks",
+        "slug": "the-llm-nobody-talks-about-that-keeps-showing-up-in-production-stacks",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Mon, 07 Sep 2026 03:33:54 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "not, what, you, agent, actually, can, when, have",
+        "generated": "2026-09-07T03:57:33.584052",
+        "file": "the-llm-nobody-talks-about-that-keeps-showing-up-in-production-stacks.md"
+    },
+    {
         "title": "Best AI Consulting & Custom Solutions for Saudi Arabia’s Growing Digital Economy",
         "slug": "best-ai-consulting-custom-solutions-for-saudi-arabias-growing-digital-economy",
         "author": "Davin Mrak",
@@ -74653,6 +74862,17 @@
         "keywords": "claude, anthropic, provod, gpt, google, settings, account, ios",
         "generated": "2026-08-11T02:05:22.149834",
         "file": "claude.md"
+    },
+    {
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "slug": "mathkernel-an-evidence-aware-multi-engine-mathematics-kernel-and-mcp-server",
+        "author": "staatsgeheim",
+        "source": "hackernews",
+        "published": "Mon, 07 Sep 2026 00:21:01 +0000",
+        "description": "Article URL: https://github.com/Staatsgeheim/MathKernel Comments URL: https://news.ycombinator.com/item?id=49592366 Points: 17 # Comments: 2",
+        "keywords": "mathkernel, url, https, com, comments, evidence, aware, multi",
+        "generated": "2026-09-07T03:57:33.579455",
+        "file": "mathkernel-an-evidence-aware-multi-engine-mathematics-kernel-and-mcp-server.md"
     },
     {
         "title": "Muay Thai Timer: what we learned building Random Tactical Timer",
