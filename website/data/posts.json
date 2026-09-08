@@ -1610,6 +1610,17 @@
         "file": "from-python-only-to-language-agnostic-how-endee-handles-encrypted-vector-search.md"
     },
     {
+        "title": "Why Do Flipbooks Still Feel So Satisfying? The Psychology Behind Page-Flip Interaction",
+        "slug": "why-do-flipbooks-still-feel-so-satisfying-the-psychology-behind-page-flip-interaction",
+        "author": "Xin Tian",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 16:19:00 +0000",
+        "description": "A strange thing happened while I was building FlipFlow. I started paying more attention to something I originally considered a small visual detail: the page ...",
+        "keywords": "page, document, animation, flipbook, interaction, can, more, pdf",
+        "generated": "2026-09-08T16:23:34.872297",
+        "file": "why-do-flipbooks-still-feel-so-satisfying-the-psychology-behind-page-flip-interaction.md"
+    },
+    {
         "title": "Finder is so frustrating and has been since day one",
         "slug": "finder-is-so-frustrating-and-has-been-since-day-one",
         "author": "maltch",
@@ -3238,6 +3249,17 @@
         "file": "how-much-does-it-cost-to-migrate-from-wix-to-wordpress-real-pricing-breakdown.md"
     },
     {
+        "title": "Disappointed Optimists",
+        "slug": "disappointed-optimists",
+        "author": "adrianhoward",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 15:13:56 +0000",
+        "description": "Article URL: https://cwodtke.com/disappointed-optimists/ Comments URL: https://news.ycombinator.com/item?id=49611549 Points: 15 # Comments: 0",
+        "keywords": "disappointed, optimists, url, https, com, comments, article, cwodtke",
+        "generated": "2026-09-08T16:23:34.868811",
+        "file": "disappointed-optimists.md"
+    },
+    {
         "title": "I built a Python compiler that runs in browser using WebAssembly",
         "slug": "i-built-a-python-compiler-that-runs-in-browser-using-webassembly",
         "author": "shrirang",
@@ -3962,6 +3984,17 @@
         "keywords": "words, liability, risk, count, workflow, name, festival, vendor",
         "generated": "2026-06-07T19:40:41.526817",
         "file": "ai-powered-verification-workflow-securing-vendor-compliance-for-local-festivals.md"
+    },
+    {
+        "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+        "slug": "reverse-engineering-the-2008-logicola-a-logic-drill-program",
+        "author": "kotk",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 15:00:43 +0000",
+        "description": "Article URL: https://logicola.org/blog/the-new-logicola Comments URL: https://news.ycombinator.com/item?id=49611329 Points: 9 # Comments: 0",
+        "keywords": "logicola, url, https, comments, reverse, engineering, logic, drill",
+        "generated": "2026-09-08T16:23:34.868965",
+        "file": "reverse-engineering-the-2008-logicola-a-logic-drill-program.md"
     },
     {
         "title": "No Backtesting Needed! I Punched My Hypothesis's Heart Directly with Raw Data and It Died Before I Even Measured Returns",
@@ -8207,6 +8240,17 @@
         "file": "grapheneos-protections-against-data-extraction-from-locked-devices.md"
     },
     {
+        "title": "NLP Sentiment Analysis: Essential Earnings Signals",
+        "slug": "nlp-sentiment-analysis-essential-earnings-signals",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 16:15:01 +0000",
+        "description": "An earnings call can shift market expectations within seconds, but manually reviewing thousands of transcripts and disclosures is impossible. NLP sentiment a...",
+        "keywords": "sentiment, financial, analysis, language, can, nlp, signals, confidence",
+        "generated": "2026-09-08T16:23:34.875659",
+        "file": "nlp-sentiment-analysis-essential-earnings-signals.md"
+    },
+    {
         "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
         "slug": "show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails",
         "author": "west_subject",
@@ -8546,6 +8590,17 @@
         "keywords": "not, bridge, software, what, can, one, its, looks",
         "generated": "2026-06-29T15:56:39.170524",
         "file": "the-bridge-looked-fine-too.md"
+    },
+    {
+        "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+        "slug": "zx-spectrum-experimenting-with-1-bit-sound",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 14:54:29 +0000",
+        "description": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "spectrum, experimenting, bit, sound, url, https, com, comments",
+        "generated": "2026-09-08T16:23:34.869257",
+        "file": "zx-spectrum-experimenting-with-1-bit-sound.md"
     },
     {
         "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
@@ -16596,6 +16651,17 @@
         "file": "after-sharing-my-journey-on-linkedin-for-200-consecutive-days-ive-decided-to-start-documenting-it-here-as-well.md"
     },
     {
+        "title": "Digital Asset Access",
+        "slug": "digital-asset-access",
+        "author": "kycidea",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 16:15:33 +0000",
+        "description": "Nexo is a digital asset platform that provides various cryptocurrency-related services and tools for users interested in managing and exploring digital asset...",
+        "keywords": "digital, nexo, platform, users, account, asset, provides, services",
+        "generated": "2026-09-08T16:23:34.870333",
+        "file": "digital-asset-access.md"
+    },
+    {
         "title": "Making ast.walk 220x Faster",
         "slug": "making-astwalk-220x-faster",
         "author": "palashawas",
@@ -18387,6 +18453,17 @@
         "keywords": "ruby, universal, rce, deserialization, gadget, chain, url, https",
         "generated": "2026-08-14T13:17:35.133710",
         "file": "ruby-40-universal-rce-deserialization-gadget-chain.md"
+    },
+    {
+        "title": "华为智能门锁2AI掌静脉识别指纹深度解读2026 券后¥1818值不值",
+        "slug": "2ai2026-1818",
+        "author": "guojunzzc",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 15:55:30 +0000",
+        "description": "华为智能门锁2AI掌静脉识别指纹深度解读｜大白话讲透优缺点 真实用户分享：华为智能门锁2AI掌静脉识别指纹使用体验、价格对比和省钱攻略。看看大家都怎么说，帮你买到性价比最高的。 分类 : 综合 关键词 : 综合, 华为智能门锁2AI掌静脉识别指纹深度解读｜大白话讲透优缺点 华为智能门锁2AI掌静脉识别指纹深度解读...",
+        "keywords": "general, https, shuzishuniu, com",
+        "generated": "2026-09-08T16:23:34.871669",
+        "file": "2ai2026-1818.md"
     },
     {
         "title": "How to Get Notified on Slack When Your Website Goes Down (With Vigilmon)",
@@ -20301,6 +20378,17 @@
         "keywords": "minute, historical, you, spy, vol, day, every, any",
         "generated": "2026-07-21T19:39:11.835894",
         "file": "12-things-you-can-do-with-a-minute-level-historical-options-data-api.md"
+    },
+    {
+        "title": "Modern B2B Software Engineering: Architecture, Nearshore Teams, and Avoiding Technical Debt",
+        "slug": "modern-b2b-software-engineering-architecture-nearshore-teams-and-avoiding-technical-debt",
+        "author": "ITBSG Research",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 16:18:31 +0000",
+        "description": "Scaling a software platform while maintaining architectural velocity is one of the most demanding challenges faced by CTOs and engineering directors. In toda...",
+        "keywords": "engineering, software, evolved, ideas, platform, technical, development, digital",
+        "generated": "2026-09-08T16:23:34.872549",
+        "file": "modern-b2b-software-engineering-architecture-nearshore-teams-and-avoiding-technical-debt.md"
     },
     {
         "title": "AI's Guide to Another Day of Explaining Python (Again)",
@@ -26582,6 +26670,17 @@
         "keywords": "recovery, meta, tech, pro, but, divorce, out, they",
         "generated": "2026-08-17T07:04:47.152625",
         "file": "how-to-recover-stolen-cryptocurrency-using-the-top-recovery-service-company-meta-tech-recovery-pro.md"
+    },
+    {
+        "title": "Create SEO Article Titles that are Not Only Good But Also Clickable",
+        "slug": "create-seo-article-titles-that-are-not-only-good-but-also-clickable",
+        "author": "Javapixa Creative Studio",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 16:18:20 +0000",
+        "description": "In the vast digital landscape, where attention spans are fleeting and search results are dense, your article title is often the first, and sometimes only, im...",
+        "keywords": "your, title, titles, search, you, they, users, what",
+        "generated": "2026-09-08T16:23:34.873209",
+        "file": "create-seo-article-titles-that-are-not-only-good-but-also-clickable.md"
     },
     {
         "title": "We have officially OPEN-SOURCED projectbrain.md - A persistent memory layer for your projects.",
@@ -36647,6 +36746,17 @@
         "keywords": "neural, pattern, can, textures, comments, show, high, res",
         "generated": "2026-06-17T11:07:27.898655",
         "file": "show-hn-high-res-neural-cellular-automata.md"
+    },
+    {
+        "title": "Google DeepMind Releases AlphaGenome Atlas",
+        "slug": "google-deepmind-releases-alphagenome-atlas",
+        "author": "utiiiD",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 14:55:45 +0000",
+        "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "google, deepmind, alphagenome, atlas, url, https, comments, releases",
+        "generated": "2026-09-08T16:23:34.869134",
+        "file": "google-deepmind-releases-alphagenome-atlas.md"
     },
     {
         "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
@@ -51627,6 +51737,17 @@
         "file": "i-built-an-ai-security-agent-that-found-vulnerabilities-in-its-own-code-and-why-thats-the-point.md"
     },
     {
+        "title": "GEO and AEO Audits Must Check AI Crawler Access Beyond Google Search Console",
+        "slug": "geo-and-aeo-audits-must-check-ai-crawler-access-beyond-google-search-console",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 16:15:30 +0000",
+        "description": "A website can appear healthy in conventional SEO reporting while still being difficult for AI systems to crawl or interpret. That is the practical warning be...",
+        "keywords": "search, access, can, visibility, content, whether, geo, google",
+        "generated": "2026-09-08T16:23:34.875255",
+        "file": "geo-and-aeo-audits-must-check-ai-crawler-access-beyond-google-search-console.md"
+    },
+    {
         "title": "How to Access Kimi K3 API: Pricing, Rate Limits, and Setup Guide",
         "slug": "how-to-access-kimi-k3-api-pricing-rate-limits-and-setup-guide",
         "author": "TeamoRouter",
@@ -54144,6 +54265,17 @@
         "keywords": "lighting, sports, led, scl, more, light, dev, eve",
         "generated": "2026-08-26T06:57:10.997932",
         "file": "hello-dev-community-im-eve-from-scl.md"
+    },
+    {
+        "title": "Thirty Days to Migrate: When Your SaaS Depends on a Model That's About to Disappear",
+        "slug": "thirty-days-to-migrate-when-your-saas-depends-on-a-model-thats-about-to-disappear",
+        "author": "Gabriele Pieretti",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 16:13:19 +0000",
+        "description": "Originally published on my blog . On August 27, Google moved Gemini Omni 1.1 Flash, its video generation model, to general availability under the stable ID g...",
+        "keywords": "model, you, preview, not, your, gemini, product, omni",
+        "generated": "2026-09-08T16:23:34.876581",
+        "file": "thirty-days-to-migrate-when-your-saas-depends-on-a-model-thats-about-to-disappear.md"
     },
     {
         "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
@@ -61195,6 +61327,17 @@
         "file": "how-ai-tools-can-enhance-developer-trust-in-code-security.md"
     },
     {
+        "title": "How to Safely Buy Aged GitHub Accounts: A Step..",
+        "slug": "how-to-safely-buy-aged-github-accounts-a-step",
+        "author": "smmusapva",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 15:59:50 +0000",
+        "description": "How to Safely Buy Aged GitHub Accounts: A Step.. GitHub has become an important part of modern software development, education, open-source collaboration, an...",
+        "keywords": "account, github, can, developer, projects, project, source, professional",
+        "generated": "2026-09-08T16:23:34.871497",
+        "file": "how-to-safely-buy-aged-github-accounts-a-step.md"
+    },
+    {
         "title": "Why Do High-Configuration Self-Loading Concrete Mixers Have Greater Long-Term Value?",
         "slug": "why-do-high-configuration-self-loading-concrete-mixers-have-greater-long-term-value",
         "author": "AIMIX Grupo",
@@ -61996,6 +62139,17 @@
         "keywords": "polling, client, connection, ready, waiter, request, response, server",
         "generated": "2026-06-22T05:02:45.250343",
         "file": "polling-in-system-design.md"
+    },
+    {
+        "title": "How Can Expert Mold Testing Protect New Canaan, CT Properties?",
+        "slug": "how-can-expert-mold-testing-protect-new-canaan-ct-properties",
+        "author": "Andrew Martin",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 16:17:23 +0000",
+        "description": "Mold can develop quietly inside homes and commercial buildings, especially when moisture, humidity, or water damage creates the right environment for growth....",
+        "keywords": "mold, can, testing, property, moisture, professional, may, water",
+        "generated": "2026-09-08T16:23:34.873891",
+        "file": "how-can-expert-mold-testing-protect-new-canaan-ct-properties.md"
     },
     {
         "title": "ADHD in Adults in the Workplace: Strategies for Focus and Success",
@@ -69302,6 +69456,17 @@
         "file": "sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md"
     },
     {
+        "title": "Shipping Realtime Observability for the MyZubster Metaverse",
+        "slug": "shipping-realtime-observability-for-the-myzubster-metaverse",
+        "author": "Daniel Ioni",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 16:16:37 +0000",
+        "description": "The MyZubster Metaverse has reached another important technical milestone. Our latest work focused on making the realtime infrastructure more observable, rel...",
+        "keywords": "realtime, myzubster, metaverse, redis, metrics, production, socket, service",
+        "generated": "2026-09-08T16:23:34.874371",
+        "file": "shipping-realtime-observability-for-the-myzubster-metaverse.md"
+    },
+    {
         "title": "Why Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina Matters for Sports Data Engineers",
         "slug": "why-kane-says-tuchel-will-learn-a-lot-from-england-pressures-after-exit-to-argentina-matters-for-sports-data-engineers",
         "author": "Muhammad Bin Nazeer",
@@ -69366,6 +69531,17 @@
         "keywords": "images, same, seeds, you, duplicates, print, png, different",
         "generated": "2026-07-11T13:38:52.450657",
         "file": "your-wallpaper-pack-has-three-copies-of-the-same-image.md"
+    },
+    {
+        "title": "Fix Python Memory Leaks in Production – Proven Debugging & Optimization Techniques",
+        "slug": "fix-python-memory-leaks-in-production-proven-debugging-optimization-techniques",
+        "author": "Deep Fix",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 16:15:50 +0000",
+        "description": "Introduction Memory leaks in long‑running Python services can silently degrade performance, increase latency, and eventually cause crashes. In production env...",
+        "keywords": "tracemalloc, memory, your, import, objgraph, def, self, fix",
+        "generated": "2026-09-08T16:23:34.870152",
+        "file": "fix-python-memory-leaks-in-production-proven-debugging-optimization-techniques.md"
     },
     {
         "title": "I Got Tired of Cryptic Python Error Messages — So I Built a VS Code Extension That Fixes Them Automatically",
@@ -70556,6 +70732,17 @@
         "file": "historical-memory-prices-1960-2026.md"
     },
     {
+        "title": "I tested AI Job Search for 1 week on a hypothetical job search — here's the honest take",
+        "slug": "i-tested-ai-job-search-for-1-week-on-a-hypothetical-job-search-heres-the-honest-take",
+        "author": "Alex",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 16:17:07 +0000",
+        "description": "I tested AI Job Search for 1 week on a hypothetical search — here's the honest take AI Job Search is a 13K-star open-source tool that matches your resume to ...",
+        "keywords": "job, you, search, resume, your, not, tool, agent",
+        "generated": "2026-09-08T16:23:34.869734",
+        "file": "i-tested-ai-job-search-for-1-week-on-a-hypothetical-job-search-heres-the-honest-take.md"
+    },
+    {
         "title": "Biomarker Tracking AI: Essential Health Intelligence",
         "slug": "biomarker-tracking-ai-essential-health-intelligence",
         "author": "Vladimir Lialine",
@@ -71652,6 +71839,17 @@
         "keywords": "your, you, task, automation, tasks, not, week, then",
         "generated": "2026-07-21T14:05:44.045036",
         "file": "which-tasks-are-actually-worth-automating-take-the-minimum-not-the-average.md"
+    },
+    {
+        "title": "US police fear Meta smart glasses could be used to secretly record them",
+        "slug": "us-police-fear-meta-smart-glasses-could-be-used-to-secretly-record-them",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 15:39:49 +0000",
+        "description": "Article URL: https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses Comments URL: https://news.ycombinator.com/item?id=4961...",
+        "keywords": "meta, smart, glasses, url, https, com, comments, police",
+        "generated": "2026-09-08T16:23:34.868647",
+        "file": "us-police-fear-meta-smart-glasses-could-be-used-to-secretly-record-them.md"
     },
     {
         "title": "The Iran War Is a Whole New Level of Quagmire for the US",
@@ -75260,6 +75458,17 @@
         "file": "llm-benchmarks-choose-gpt-4o-claude-or-mistral-by-workload.md"
     },
     {
+        "title": "Laravel's Native Vector Search Now Speaks MariaDB — Plain MySQL Is Still Left Out",
+        "slug": "laravels-native-vector-search-now-speaks-mariadb-plain-mysql-is-still-left-out",
+        "author": "Gabriele Pieretti",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 16:13:32 +0000",
+        "description": "Originally published on my blog . On August 20, PR #61250 was merged into Laravel's 13.x branch, bringing the query builder's native vector search — whereVec...",
+        "keywords": "mysql, you, driver, vector, mariadb, query, laravel, search",
+        "generated": "2026-09-08T16:23:34.876154",
+        "file": "laravels-native-vector-search-now-speaks-mariadb-plain-mysql-is-still-left-out.md"
+    },
+    {
         "title": "Tokenizer Changes Can Break AI-Agent Budget Assumptions",
         "slug": "tokenizer-changes-can-break-ai-agent-budget-assumptions",
         "author": "Assili Salim",
@@ -75555,6 +75764,17 @@
         "keywords": "niagara, limo, service, every, transportation, our, travel, falls",
         "generated": "2026-08-05T14:21:05.034110",
         "file": "experience-niagara-limo-service-with-professional-chauffeurs-today.md"
+    },
+    {
+        "title": "Your RAG Pipeline Is Probably Broken Upstream Of Retrieval",
+        "slug": "your-rag-pipeline-is-probably-broken-upstream-of-retrieval",
+        "author": "Paul Crinigan",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 16:17:50 +0000",
+        "description": "Most teams debugging a retrieval system start in the same place. Chunk size, embedding model, top-k, the prompt. Those knobs are visible, they are easy to ch...",
+        "keywords": "ingestion, source, document, retrieval, one, text, never, most",
+        "generated": "2026-09-08T16:23:34.874708",
+        "file": "your-rag-pipeline-is-probably-broken-upstream-of-retrieval.md"
     },
     {
         "title": "Why Your AI Chatbot Slows Down on Large Knowledge Bases",

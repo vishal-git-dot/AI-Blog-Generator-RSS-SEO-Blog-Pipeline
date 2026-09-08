@@ -1,0 +1,34 @@
+---
+title: "Laravel's Native Vector Search Now Speaks MariaDB — Plain MySQL Is Still Left Out"
+slug: "laravels-native-vector-search-now-speaks-mariadb-plain-mysql-is-still-left-out"
+author: "Gabriele Pieretti"
+source: "devto_ai"
+published: "Tue, 08 Sep 2026 16:13:32 +0000"
+description: "Originally published on my blog . On August 20, PR #61250 was merged into Laravel's 13.x branch, bringing the query builder's native vector search — whereVec..."
+keywords: "mysql, you, driver, vector, mariadb, query, laravel, search"
+generated: "2026-09-08T16:23:34.876154"
+---
+
+# Laravel's Native Vector Search Now Speaks MariaDB — Plain MySQL Is Still Left Out
+
+## Overview
+
+Originally published on my blog . On August 20, PR #61250 was merged into Laravel's 13.x branch, bringing the query builder's native vector search — whereVectorSimilarTo and friends — to MariaDB. Until then it was PostgreSQL-with-pgvector only. I care about this for two reasons: I spent eleven years building business software on Laravel and MySQL, and the way the PR is written is a small lesson in driver design worth more than the feature itself. There's a third, less cheerful reason too: if your projects run on plain MySQL, as most of my older ones do, you're still left out — and not because anyone was lazy. What was there before: a hard-coded check Laravel 13 ships four methods for working with embeddings straight from the query builder: whereVectorSimilarTo , whereVectorDistanceLessThan , orderByVectorDistance and selectVectorDistance . The idea is the usual one: you write the query in fluent PHP, the framework compiles it into the right SQL for your database. Except that until mid-August, "your database" meant exactly one. Inside Query\Builder sat a hand-written instanceof PostgresConnection check, and the distance SQL itself — pgvector's <=> operator — was inlined right there in the builder rather than living in the driver's grammar. It worked, but it was the classic kind of debt you don't notice until somebody tries to add a second database. What the PR does: move the question where it belongs The refactoring is small and clean. The question "does this driver know how to compute vector distances?" moves from the connection class to the grammar, via a pair of methods — supportsVectorDistance() and compileVectorDistanceExpression($column) — that each driver can override. It's the same pattern Laravel has used for years for compileRandom() or savepoint support: a base implementation on the grammar, per-driver overrides. With the question in the right place, adding MariaDB becomes almost trivial: its grammar compiles the distance into vec_distance_cosine() , the native function MariaDB has shipped since 11.7 Community (11.4.5-3 on Enterprise), alongside a real VECTOR column type. The schema side — typeVector() and vector indexes — already existed from an earlier PR; only the query side was missing. Five days later a follow-up, #61337 , landed with an SQL fix and an AsVector Eloquent cast. This is what I take home as someone who designs APIs, even before wearing the user hat: the moment you catch yourself writing instanceof SomethingConnection outside the driver, the feature is living in the wrong place. You'll ship the first database either way; it's the second one that hands you the bill. The uncomfortable part: plain MySQL stays out And my MySQL-based systems? Nothing. whereVectorSimilarTo() on a standard MySQL connection still throws a RuntimeException — the PR merely updated the message to mention MariaDB. The reason isn't Laravel: MySQL Community and Enterprise, in the standard binaries, have no native vector distance function. DISTANCE() and VECTOR_DISTANCE() exist only on HeatWave (so, on OCI) and on MySQL AI. If you're not on Oracle's cloud, there is no SQL to compile. Just as interesting is what the PR refused to do: a PHP-side fallback that fetches rows and computes similarity in memory. It would have been convenient to announce and disastrous to use — it would silently break the semantics of limit() and pagination, and change the performance contract of the query without telling anyone. Letting the exception fly is the honest choice: a clear error today beats a mysterious slowdown in production six months from now. What I'd actually do For an existing MySQL application that wants semantic search — matching "frizz treatment" when the user types "puffy hair", say — I see three options today, in my order of preference: Evaluate moving to MariaDB , if your app uses MySQL in a standard enough way that the migration is boring rather than heroic. With this PR, MariaDB has become the cheapest way to get native vectors while staying in the MySQL family. A separate service just for search — a small Postgres with pgvector next to the main MySQL, kept in sync from application events. More moving parts, but it doesn't touch the database everything else lives on. Wait , which is a legitimate strategy: semantic search in a line-of-business app is almost always a nice-to-have, and wrong infrastructure is paid for over years. For new projects the question settles itself: when I picked Postgres for Miraviso , vectors weren't even on my radar, but this is exactly the kind of dividend a conservative database choice keeps paying. And the flip side is worth stating too: none of these queries help you with data you encrypt client-side. Miraviso's sensitive notes — the ones the server stores as envelopes it cannot open — can never end up in a server-side vector index: you can't embed text you can't read. It's a useful reminder that semantic search is a data processing operation like any other, and deserves the same care in deciding. Where this is heading The refactoring opens a wider door than the single feature: now that distance compilation lives in the grammar, adding a driver or a different metric is a small PR, not open-heart surgery on the builder. There's already a proposal to make the distance metric configurable (cosine, euclidean) instead of assumed. That direction looks right to me: a query builder that treats vectors as a driver capability, declared by the grammar, exactly like the rest of its SQL. Meanwhile, those of us on plain MySQL at least get an error message that tells the truth.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/gabbrowick/laravels-native-vector-search-now-speaks-mariadb-plain-mysql-is-still-left-out-i2p
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
