@@ -1,0 +1,34 @@
+---
+title: "Venice.ai: One API key for the best AI models — uncensored and private"
+slug: "veniceai-one-api-key-for-the-best-ai-models-uncensored-and-private"
+author: "Julio Molina Soler"
+source: "devto_python"
+published: "Tue, 08 Sep 2026 10:31:58 +0000"
+description: "What is Venice.ai? Venice.ai is an API platform with a clear focus: giving you private, unrestricted access to the leading AI models — text, image, video and..."
+keywords: "api, venice, key, models, model, openai, image, your"
+generated: "2026-09-08T10:58:23.961583"
+---
+
+# Venice.ai: One API key for the best AI models — uncensored and private
+
+## Overview
+
+What is Venice.ai? Venice.ai is an API platform with a clear focus: giving you private, unrestricted access to the leading AI models — text, image, video and audio — under a single API key . What sets it apart from other platforms is a combination of three pillars: Privacy by default : zero data retention and a privacy-focused architecture. Uncensored : permissionless access to models with no content filtering. Ideal for apps that need unrestricted outputs and full control over the interaction. Full OpenAI compatibility : you can use the official OpenAI SDK — just change the base_url . How does it work? One API for every modality Modality Endpoint Capabilities Chat /api/v1/chat/completions OpenAI drop-in: 100+ models, streaming, function calling, vision Image /api/v1/image/generations Text-to-image, image-to-image, upscale, inpainting, background removal Audio /api/v1/audio/speech Multilingual TTS, transcription, 50+ voices, voice cloning Video /api/v1/video/queue Single-call generation or async job queue It also includes embeddings , file inputs, MCP tools , web search, and wallet payments. Authentication, error codes, and rate-limit headers are identical across every endpoint . Available models Venice offers more than 340 models (text, image, audio and video). Every request carries a model ID. Some flagship models: zai-org-glm-5 — default model for most use cases kimi-k3 / kimi-k2-6 — strong reasoning for complex tasks claude-opus-4-8 — high-intelligence model venice-uncensored-1-2 — Venice's uncensored model Four tiers of privacy Venice offers four privacy tiers: Anonymized : third-party models with identifying metadata stripped. Private : zero data retention, self-hosted open-source models. TEE : models running inside hardware-secured enclaves (Trusted Execution Environments) — Venice cannot access the computation. E2EE : end-to-end encryption; prompts are encrypted client-side and only the enclave can decrypt them. Pricing Three ways to pay: Credits (USD or crypto): prepaid, never expire. DIEM / VVV : stake tokens for a daily inference allowance, no per-call charges. x402 : pay per request from any Base wallet in USDC, no account or API key required (built for agents). Configuring your API key (step by step) 1. Generate your key Go to https://venice.ai/settings/api (or API inside the app settings). Click Generate New API Key and configure: Description : a short name identifying the app or environment. API Key Type : Inference Only for normal model requests; Admin only if the key must manage API keys programmatically. Expires at : optional expiration (leave blank for no expiration). Epoch Consumption Limits : optional cap on spend per 24-hour epoch. Click Generate . Copy the key immediately — it is shown only once. If you lose it, delete it and create a new one. ⚠️ Before using it, make sure the account has a spendable balance (DIEM, bundled credits, or USD). You can create the key before funding the account, but model requests will fail until a balance is available. 2. Store it securely Save the key to your environment or a secret manager: export VENICE_API_KEY = "your-api-key-here" Or in a project .env file: VENICE_API_KEY = your-api-key-here 3. Verify it works Make a low-risk request to confirm authentication: curl --request GET \ --url https://api.venice.ai/api/v1/models \ --header "Authorization: Bearer $VENICE_API_KEY " A successful response returns the available models. The header must be formatted as Authorization: Bearer <key> . 4. Make your first call Since Venice is OpenAI-compatible, use the OpenAI SDK and change only the base_url : import os from openai import OpenAI client = OpenAI ( api_key = os . environ . get ( " VENICE_API_KEY " ), base_url = " https://api.venice.ai/api/v1 " , ) res = client . chat . completions . create ( model = " zai-org-glm-5 " , messages = [{ " role " : " user " , " content " : " What are the latest developments in AI? " }], ) print ( res . choices [ 0 ]. message . content ) Or with curl : curl https://api.venice.ai/api/v1/chat/completions \ -H "Authorization: Bearer $VENICE_API_KEY " \ -H "Content-Type: application/json" \ -d '{ "model": "zai-org-glm-5", "messages": [{"role": "user", "content": "Build without permission."}] }' 5. Use Venice-specific parameters Enable exclusive features like web search via venice_parameters : completion = client . chat . completions . create ( model = " zai-org-glm-5 " , messages = [{ " role " : " user " , " content " : " What ' s the latest AI news? " }], extra_body = { " venice_parameters " : { " enable_web_search " : " auto " , " include_venice_system_prompt " : True , } }, ) print ( completion . choices [ 0 ]. message . content ) You can also tune responses with temperature , max_tokens , top_p , frequency_penalty and presence_penalty , and use stream=True for real-time responses. For agents and tools Venice integrates natively with agent ecosystems: Agent apps : OpenClaw (WhatsApp, Telegram, Discord, iMessage, Slack), Hermes Agent (agents with memory and skills), NanoClaw. Coding agents : Claude Code, Cursor ( venice- model prefix), Codex CLI. MCP : a Venice server exposing chat, image, video, audio and embeddings to any MCP host, plus skills with synced instructions. Conclusion Venice.ai gives you a single API key to access 340+ models across every modality, with a privacy-first architecture, zero data retention, and full OpenAI SDK compatibility. Just generate your key at venice.ai/settings/api , authenticate with the Authorization: Bearer header, and point your client at https://api.venice.ai/api/v1 . Switch models by changing the model field, explore its venice_parameters , and start building in minutes.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/jmolinasoler/veniceai-one-api-key-for-the-best-ai-models-uncensored-and-private-4p5k
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

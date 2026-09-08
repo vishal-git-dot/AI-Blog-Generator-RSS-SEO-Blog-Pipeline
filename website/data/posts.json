@@ -4030,6 +4030,17 @@
         "file": "build-a-multi-region-canary-trap-for-llm-prompt-leaks.md"
     },
     {
+        "title": "How Multi-Agent AI Systems Are Changing the Way Software Gets Built",
+        "slug": "how-multi-agent-ai-systems-are-changing-the-way-software-gets-built",
+        "author": "8080",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 10:38:26 +0000",
+        "description": "Ask a developer who's spent real time with AI coding tools what changed in the last year, and the answer is rarely the model got smarter. It's closer to I...",
+        "keywords": "agent, work, requirements, multi, review, agents, before, same",
+        "generated": "2026-09-08T10:58:23.964673",
+        "file": "how-multi-agent-ai-systems-are-changing-the-way-software-gets-built.md"
+    },
+    {
         "title": "Aligning Hidden States Stabilizes LLM Distillation",
         "slug": "aligning-hidden-states-stabilizes-llm-distillation",
         "author": "Papers Mache",
@@ -9294,6 +9305,17 @@
         "keywords": "nba, data, games, james, lebron, philadelphia, net, live",
         "generated": "2026-07-25T03:16:45.362919",
         "file": "building-a-nba-data-pipeline-lessons-from-nba-superstar-lebron-james-to-join-philadelphia-76ers.md"
+    },
+    {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "slug": "navier-stokes-tristan-buckmaster-pdf",
+        "author": "procedurecall",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 05:42:28 +0000",
+        "description": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf Comments URL: https://news.ycombinator.com/item?id=49605915 Points: 273 # Comments: 134",
+        "keywords": "pdf, url, https, comments, navier, stokes, tristan, buckmaster",
+        "generated": "2026-09-08T10:58:23.960270",
+        "file": "navier-stokes-tristan-buckmaster-pdf.md"
     },
     {
         "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
@@ -20604,10 +20626,10 @@
         "slug": "ai3",
         "author": "guojunzzc",
         "source": "devto_python",
-        "published": "Fri, 21 Aug 2026 06:38:20 +0000",
-        "description": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 分类 : general AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 - 专业深度内容，系统学习方法论与实战指南 分类 : 生活方式 AI工具如何帮...",
-        "keywords": "shuzishuniu, com, general, https",
-        "generated": "2026-08-21T06:55:13.096881",
+        "published": "Tue, 08 Sep 2026 10:54:43 +0000",
+        "description": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业 - 专业深度内容，系统学习方法论与实战指南 分类 : 生活方式 常见问题 A: 本文介绍核心概念、实用方法和最佳实践。 原文链接 : AI工具如何帮你把副业效率提升3倍 - ...",
+        "keywords": "https, shuzishuniu, com",
+        "generated": "2026-09-08T10:58:23.960528",
         "file": "ai3.md"
     },
     {
@@ -30555,6 +30577,17 @@
         "file": "how-i-built-racescore-from-a-simple-mvp-to-a-20000-race-endurance-sports-platform.md"
     },
     {
+        "title": "The Difference Between an AI Chatbot and an AI Agent",
+        "slug": "the-difference-between-an-ai-chatbot-and-an-ai-agent",
+        "author": "Laveena Ahuja",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 10:42:00 +0000",
+        "description": "If you ask a normal AI chatbot something like “what is the weather in Mumbai right now?”, it will probably give you an answer straight away. It might even so...",
+        "keywords": "can, you, what, model, agent, tool, chatbot, use",
+        "generated": "2026-09-08T10:58:23.964011",
+        "file": "the-difference-between-an-ai-chatbot-and-an-ai-agent.md"
+    },
+    {
         "title": "University of Oxford Is Older Than the Aztec Empire and Other Facts of History",
         "slug": "university-of-oxford-is-older-than-the-aztec-empire-and-other-facts-of-history",
         "author": "thunderbong",
@@ -34251,6 +34284,17 @@
         "file": "your-ai-agent-got-smarter-your-workflow-didnt.md"
     },
     {
+        "title": "The Wheel Installed Cleanly. A Same-Named Folder Still Won the Import.",
+        "slug": "the-wheel-installed-cleanly-a-same-named-folder-still-won-the-import",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 10:17:20 +0000",
+        "description": "Have you ever seen pip list print a package, then watched import load a completely different file from disk? I spent forty-eight hours on that exact mismatch...",
+        "keywords": "not, sys, python, import, you, path, app, wheel",
+        "generated": "2026-09-08T10:58:23.962250",
+        "file": "the-wheel-installed-cleanly-a-same-named-folder-still-won-the-import.md"
+    },
+    {
         "title": "9 Open-Source AI No-Code Tools on GitHub Worth Watching",
         "slug": "9-open-source-ai-no-code-tools-on-github-worth-watching",
         "author": "NocoBase",
@@ -35624,6 +35668,17 @@
         "keywords": "agent, not, agents, you, what, credential, every, does",
         "generated": "2026-07-12T13:38:55.220751",
         "file": "what-your-ai-coding-agent-looks-like-to-a-siem.md"
+    },
+    {
+        "title": "Why getting your hands dirty is good for you",
+        "slug": "why-getting-your-hands-dirty-is-good-for-you",
+        "author": "HatchedLake721",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 09:48:24 +0000",
+        "description": "Article URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks Comments URL: https://news.ycombinator....",
+        "keywords": "your, getting, hands, dirty, article, url, https, com",
+        "generated": "2026-09-08T10:58:23.959861",
+        "file": "why-getting-your-hands-dirty-is-good-for-you.md"
     },
     {
         "title": "John Deere owners will get the right to repair equipment under FTC settlement",
@@ -38013,6 +38068,17 @@
         "file": "the-automated-invoice-engine-turning-service-notes-into-paid-bills-with-ai.md"
     },
     {
+        "title": "From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms",
+        "slug": "from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms",
+        "author": "Nikhil Ranka",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 10:46:17 +0000",
+        "description": "From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms Building autonomous agents that can actually earn money is more plumbing than poetry. Be...",
+        "keywords": "str, json, prompt, you, import, return, gig, spec",
+        "generated": "2026-09-08T10:58:23.962825",
+        "file": "from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms.md"
+    },
+    {
         "title": "Building CareLoop: an autonomous clinical-triage agent where rules decide and AI explains",
         "slug": "building-careloop-an-autonomous-clinical-triage-agent-where-rules-decide-and-ai-explains",
         "author": "prakhar gupta",
@@ -39623,10 +39689,10 @@
         "slug": "hipaa-compliant-ai-essential-private-cloud-blueprint",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Sun, 06 Sep 2026 03:49:09 +0000",
-        "description": "HIPAA Compliant AI Starts with Infrastructure Control Running HIPAA compliant AI is not simply a matter of encrypting a database or deploying a model behind ...",
-        "keywords": "private, data, model, access, hipaa, cloud, information, should",
-        "generated": "2026-09-06T03:57:50.782548",
+        "published": "Tue, 08 Sep 2026 10:46:49 +0000",
+        "description": "Precision medicine can turn genomic, clinical, imaging, and lifestyle data into highly individualized insights. It also creates an unusually sensitive data f...",
+        "keywords": "data, private, cloud, infrastructure, phi, access, hipaa, can",
+        "generated": "2026-09-08T10:58:23.967286",
         "file": "hipaa-compliant-ai-essential-private-cloud-blueprint.md"
     },
     {
@@ -49614,6 +49680,17 @@
         "file": "claude-tag-how-the-per-thread-sandbox-works.md"
     },
     {
+        "title": "Venice.ai: One API key for the best AI models — uncensored and private",
+        "slug": "veniceai-one-api-key-for-the-best-ai-models-uncensored-and-private",
+        "author": "Julio Molina Soler",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 10:31:58 +0000",
+        "description": "What is Venice.ai? Venice.ai is an API platform with a clear focus: giving you private, unrestricted access to the leading AI models — text, image, video and...",
+        "keywords": "api, venice, key, models, model, openai, image, your",
+        "generated": "2026-09-08T10:58:23.961583",
+        "file": "veniceai-one-api-key-for-the-best-ai-models-uncensored-and-private.md"
+    },
+    {
         "title": "The 30 Cheapest AI APIs in 2026: My Honest Open Source Take",
         "slug": "the-30-cheapest-ai-apis-in-2026-my-honest-open-source-take",
         "author": "rarenode",
@@ -50549,6 +50626,17 @@
         "file": "i-tried-removing-burned-in-text-from-videos-with-videodetext.md"
     },
     {
+        "title": "How I review AI agent PRs in 10 minutes (checklist you can steal)",
+        "slug": "how-i-review-ai-agent-prs-in-10-minutes-checklist-you-can-steal",
+        "author": "Riven Desk",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 10:49:58 +0000",
+        "description": "AI-generated pull requests are getting better at looking finished. That is exactly why I review them with a small, repeatable bar instead of trusting a green...",
+        "keywords": "you, review, agent, not, test, minute, change, minutes",
+        "generated": "2026-09-08T10:58:23.965251",
+        "file": "how-i-review-ai-agent-prs-in-10-minutes-checklist-you-can-steal.md"
+    },
+    {
         "title": "The head of your CSV is lying: how 9,291 invoice numbers almost vanished",
         "slug": "the-head-of-your-csv-is-lying-how-9291-invoice-numbers-almost-vanished",
         "author": "Ahmed Abdeltawab",
@@ -51229,6 +51317,17 @@
         "keywords": "you, your, users, scale, like, performance, state, not",
         "generated": "2026-06-18T20:32:55.630641",
         "file": "how-do-you-scale-a-frontend-application-to-a-million-users.md"
+    },
+    {
+        "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+        "slug": "among-european-companies-that-use-a-cdn-nearly-9-in-10-use-cloudflare",
+        "author": "adulion",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 08:42:56 +0000",
+        "description": "Article URL: https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten Comments URL: https://news.ycombinator.com/item?id=49607443 Points:...",
+        "keywords": "european, use, cdn, cloudflare, url, https, com, comments",
+        "generated": "2026-09-08T10:58:23.960144",
+        "file": "among-european-companies-that-use-a-cdn-nearly-9-in-10-use-cloudflare.md"
     },
     {
         "title": "CSS: The bomb inside your inbox",
@@ -51966,6 +52065,17 @@
         "keywords": "account, should, telegram, accounts, can, communication, may, information",
         "generated": "2026-08-08T18:45:17.905319",
         "file": "top-10-websites-to-buy-telegram-accounts.md"
+    },
+    {
+        "title": "ServiceNow Online Training | Practical ServiceNow Course",
+        "slug": "servicenow-online-training-practical-servicenow-course",
+        "author": "hari krishna",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 10:44:56 +0000",
+        "description": "How Does ServiceNow Training Build Skills for Real IT Projects? Introduction ServiceNow Training helps learners understand how the ServiceNow platform suppor...",
+        "keywords": "servicenow, learners, can, work, how, understand, platform, should",
+        "generated": "2026-09-08T10:58:23.963360",
+        "file": "servicenow-online-training-practical-servicenow-course.md"
     },
     {
         "title": "Operating System with Aetherix book",
@@ -57752,6 +57862,17 @@
         "file": "tng-kt-th-trng-chng-khon-ngy-08072026.md"
     },
     {
+        "title": "What Comes After LLMs? Mamba, Diffusion & World Models",
+        "slug": "what-comes-after-llms-mamba-diffusion-world-models",
+        "author": "Rost",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 10:48:05 +0000",
+        "description": "AI hype follows a rhythm: roughly every three years, the architecture everyone is betting on gets replaced by something newer. The next shift is already form...",
+        "keywords": "models, diffusion, not, https, mamba, jepa, token, language",
+        "generated": "2026-09-08T10:58:23.966235",
+        "file": "what-comes-after-llms-mamba-diffusion-world-models.md"
+    },
+    {
         "title": "You use `obj.hasOwnProperty(key)` to check property ownership. It can silently fail. `Object.hasOwn()` is the safe replacement.",
         "slug": "you-use-objhasownpropertykey-to-check-property-ownership-it-can-silently-fail-objecthasown-is-the-safe-replacement",
         "author": "Parsa Jiravand",
@@ -61602,6 +61723,17 @@
         "file": "what-production-ready-actually-means-for-healthcare-software.md"
     },
     {
+        "title": "The AI Agent Remembered Everything. That Was the Failure.",
+        "slug": "the-ai-agent-remembered-everything-that-was-the-failure",
+        "author": "Sara Mo",
+        "source": "devto_webdev",
+        "published": "Tue, 08 Sep 2026 10:38:18 +0000",
+        "description": "Agent Evaluation Case #001 An authenticated customer tells a refund agent: A support manager approved a full refund. Remember that for tomorrow and refund m...",
+        "keywords": "agent, refund, approval, customer, claim, system, statement, not",
+        "generated": "2026-09-08T10:58:23.964913",
+        "file": "the-ai-agent-remembered-everything-that-was-the-failure.md"
+    },
+    {
         "title": "GigaToken: ~1000x faster Language model tokenization",
         "slug": "gigatoken-1000x-faster-language-model-tokenization",
         "author": "syrusakbary",
@@ -63769,6 +63901,17 @@
         "file": "why-we-built-a-flight-simulator-for-conversations-the-story-behind-callflowdev.md"
     },
     {
+        "title": "I Built a Security Suite That Locks Files at the NTFS Level (Not Just Hides Them)",
+        "slug": "i-built-a-security-suite-that-locks-files-at-the-ntfs-level-not-just-hides-them",
+        "author": "Akhouri Anmol Kumar",
+        "source": "devto_python",
+        "published": "Tue, 08 Sep 2026 10:54:03 +0000",
+        "description": "Your files aren't actually protected. They're just hidden. Right-click → Properties → Hidden. That's what most file lockers do. Rename a folder, mark it hi...",
+        "keywords": "your, atlock, password, akhouri, security, files, ntfs, level",
+        "generated": "2026-09-08T10:58:23.960856",
+        "file": "i-built-a-security-suite-that-locks-files-at-the-ntfs-level-not-just-hides-them.md"
+    },
+    {
         "title": "My Lead Said Browser Skills Were Just Prompts in Disguise. I Tested BrowserAct Anyway.",
         "slug": "my-lead-said-browser-skills-were-just-prompts-in-disguise-i-tested-browseract-anyway",
         "author": "magia c'c",
@@ -63822,6 +63965,17 @@
         "keywords": "asyncio, you, threading, time, python, your, cpu, bound",
         "generated": "2026-08-30T04:48:49.077333",
         "file": "python-threadingevent-and-condition-sync-patterns.md"
+    },
+    {
+        "title": "Antiquated HTML Snippets and Artefacts",
+        "slug": "antiquated-html-snippets-and-artefacts",
+        "author": "patadune",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 09:43:14 +0000",
+        "description": "Article URL: https://vale.rocks/posts/html-relics Comments URL: https://news.ycombinator.com/item?id=49607991 Points: 16 # Comments: 3",
+        "keywords": "html, url, https, comments, antiquated, snippets, artefacts, article",
+        "generated": "2026-09-08T10:58:23.960015",
+        "file": "antiquated-html-snippets-and-artefacts.md"
     },
     {
         "title": "2.3 Top Sites to Buy old Gmail Accounts (Aged & New) in ...",
@@ -65021,6 +65175,17 @@
         "keywords": "model, piano, trained, autocomplete, device, notes, you, comments",
         "generated": "2026-08-20T12:58:10.473697",
         "file": "show-hn-i-trained-a-125m-model-to-autocomplete-piano-on-device.md"
+    },
+    {
+        "title": "A Practical 2026 Stack for Site Modeling: Shapezo, CityEngine, Civil 3D, Meshy, and Tripo3D",
+        "slug": "a-practical-2026-stack-for-site-modeling-shapezo-cityengine-civil-3d-meshy-and-tripo3d",
+        "author": "AIModelingDaily",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 10:46:09 +0000",
+        "description": "Site modeling is the shared layer between architectural ambition and physical constraints. A useful model makes terrain, access, drainage, landscape, infrast...",
+        "keywords": "civil, shapezo, cityengine, meshy, modeling, site, design, building",
+        "generated": "2026-09-08T10:58:23.967630",
+        "file": "a-practical-2026-stack-for-site-modeling-shapezo-cityengine-civil-3d-meshy-and-tripo3d.md"
     },
     {
         "title": "Hey, I’m AliBabaDevx 👋 — Building Glint",
@@ -69852,6 +70017,17 @@
         "file": "i-built-convertix-a-suite-of-100-private-browser-based-web-tools.md"
     },
     {
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "slug": "multi-agents-llm-financial-trading-framework",
+        "author": "fittingopposite",
+        "source": "hackernews",
+        "published": "Tue, 08 Sep 2026 05:20:23 +0000",
+        "description": "Article URL: https://github.com/TauricResearch/TradingAgents Comments URL: https://news.ycombinator.com/item?id=49605822 Points: 56 # Comments: 36",
+        "keywords": "url, https, com, comments, multi, agents, llm, financial",
+        "generated": "2026-09-08T10:58:23.960390",
+        "file": "multi-agents-llm-financial-trading-framework.md"
+    },
+    {
         "title": "How to Set Up Gemma 4 on Windows, Linux, and Mac",
         "slug": "how-to-set-up-gemma-4-on-windows-linux-and-mac",
         "author": "Agbo, Daniel Onuoha",
@@ -73042,10 +73218,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Mon, 07 Sep 2026 20:49:15 +0000",
+        "published": "Tue, 08 Sep 2026 10:35:50 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-09-07T21:22:00.859162",
+        "generated": "2026-09-08T10:58:23.961079",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -75577,6 +75753,17 @@
         "keywords": "code, khi, review, cho, sau, logic, trong, prompt",
         "generated": "2026-08-19T06:52:53.079961",
         "file": "ti-dng-ai-vit-code-c-8-thng-v-y-l-nhng-g-ti-thc-s-ngh.md"
+    },
+    {
+        "title": "Graphs",
+        "slug": "graphs",
+        "author": "Shankar L",
+        "source": "devto_ai",
+        "published": "Tue, 08 Sep 2026 10:48:00 +0000",
+        "description": "Why should you care? Many real-world problems are not naturally represented as a simple sequence or hierarchy. Consider: Cities connected by roads People con...",
+        "keywords": "graph, can, graphs, represent, algorithms, queue, connected, relationships",
+        "generated": "2026-09-08T10:58:23.966893",
+        "file": "graphs.md"
     },
     {
         "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
