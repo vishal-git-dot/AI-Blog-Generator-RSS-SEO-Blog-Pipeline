@@ -8658,6 +8658,17 @@
         "file": "zx-spectrum-experimenting-with-1-bit-sound.md"
     },
     {
+        "title": "Playwright Web Scraping Guide : Setup, Anti-Bot & Proxy Setup",
+        "slug": "playwright-web-scraping-guide-setup-anti-bot-proxy-setup",
+        "author": "IPFoxy",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 10:12:47 +0000",
+        "description": "In modern web automation and data collection, traditional approaches such as requests or BeautifulSoup often struggle with complex single-page applications (...",
+        "keywords": "playwright, browser, can, page, you, proxy, data, scraping",
+        "generated": "2026-09-09T11:03:04.612454",
+        "file": "playwright-web-scraping-guide-setup-anti-bot-proxy-setup.md"
+    },
+    {
         "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
         "slug": "new-amazon-data-center-is-set-to-have-the-most-polluting-power-plant-in-the-us",
         "author": "sbulaev",
@@ -11265,6 +11276,17 @@
         "file": "worldclaw-agentic-3d-open-world-generation-at-scale.md"
     },
     {
+        "title": "Looking for honest reviewers I wrote a book on building local AI apps with Ollama",
+        "slug": "looking-for-honest-reviewers-i-wrote-a-book-on-building-local-ai-apps-with-ollama",
+        "author": "embededsystemguyyyyy",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 10:20:52 +0000",
+        "description": "Hi everyone, I'm Michael, I write practical, project-based technical books for developers and hobbyists. I recently released: Building Local AI with Ollama: ...",
+        "keywords": "local, ollama, build, just, you, honest, practical, your",
+        "generated": "2026-09-09T11:03:04.611570",
+        "file": "looking-for-honest-reviewers-i-wrote-a-book-on-building-local-ai-apps-with-ollama.md"
+    },
+    {
         "title": "How I Write CLAUDE.md Files That Keep My AI Agent On Track: 5 Hard-Won Rules",
         "slug": "how-i-write-claudemd-files-that-keep-my-ai-agent-on-track-5-hard-won-rules",
         "author": "yureki_lab",
@@ -11412,10 +11434,10 @@
         "slug": "tradewinggs",
         "author": "tradewinggs",
         "source": "devto_webdev",
-        "published": "Tue, 01 Sep 2026 11:20:23 +0000",
-        "description": "At Tradewinggs, we unlock your brand's potential through innovative digital marketing solutions. Our offerings encompass AI-driven SEO to enhance visibility,...",
-        "keywords": "marketing, digital, tradewinggs, our, your, brand, growth, through",
-        "generated": "2026-09-01T11:25:28.729404",
+        "published": "Wed, 09 Sep 2026 10:48:50 +0000",
+        "description": "Tradewinggs enables you to maintain a competitive edge in your digital advertising campaigns. We provide timely, advanced, and cost-effective solutions tailo...",
+        "keywords": "your, seo, social, media, marketing, services, tradewinggs, our",
+        "generated": "2026-09-09T11:03:04.614556",
         "file": "tradewinggs.md"
     },
     {
@@ -12746,6 +12768,17 @@
         "keywords": "hub, online, all, one, utility, you, favicon, side",
         "generated": "2026-07-26T03:33:56.475390",
         "file": "building-all-in-one-utility-hub-a-lightweight-toolkit-for-developers-creators.md"
+    },
+    {
+        "title": "How to serve dynamic user announcements with static SSR performance",
+        "slug": "how-to-serve-dynamic-user-announcements-with-static-ssr-performance",
+        "author": "Pavan S Poojary",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 10:42:00 +0000",
+        "description": "Have you ever loaded a SaaS app and seen an announcement banner flicker in 500ms after the page loads, shifting the entire layout down by 60px? That Layout S...",
+        "keywords": "layout, app, neotic, how, announcements, ssr, you, announcement",
+        "generated": "2026-09-09T11:03:04.614824",
+        "file": "how-to-serve-dynamic-user-announcements-with-static-ssr-performance.md"
     },
     {
         "title": "janitor ai api перед передачей ключа стороннему proxy",
@@ -19522,6 +19555,17 @@
         "file": "avelo-airlines-san-juan-office-contact-number-1-888-738-0817.md"
     },
     {
+        "title": "The hardest problem in my local AI agent was never the model",
+        "slug": "the-hardest-problem-in-my-local-ai-agent-was-never-the-model",
+        "author": "jan paul",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 11:00:34 +0000",
+        "description": "How tools get picked in Eris: from grep to embeddings to grammar. Or: how a local 14B model decides which of ~50 tools to call, without me writing a giant if...",
+        "keywords": "tool, model, not, grammar, tools, one, embed, you",
+        "generated": "2026-09-09T11:03:04.616900",
+        "file": "the-hardest-problem-in-my-local-ai-agent-was-never-the-model.md"
+    },
+    {
         "title": "Still Confused About Which Computer Course to Join in Ludhiana? Read This Before You Waste Your Money",
         "slug": "still-confused-about-which-computer-course-to-join-in-ludhiana-read-this-before-you-waste-your-money",
         "author": "rajniguptainning@gmail.com",
@@ -25482,6 +25526,17 @@
         "keywords": "school, running, gurgaon, cbse, properties, thehotelproperties, com, buy",
         "generated": "2026-08-26T01:41:06.767375",
         "file": "buy-running-cbse-school-in-gurgaon.md"
+    },
+    {
+        "title": "Those Share Buttons Are Guessing What's On My Phone",
+        "slug": "those-share-buttons-are-guessing-whats-on-my-phone",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 11:00:51 +0000",
+        "description": "Scroll to the bottom of almost any blog post and you'll find the same five icons: a bird that got rebranded two years ago, a lowercase f in a circle, a cha...",
+        "keywords": "share, you, row, navigator, url, can, every, one",
+        "generated": "2026-09-09T11:03:04.613027",
+        "file": "those-share-buttons-are-guessing-whats-on-my-phone.md"
     },
     {
         "title": "Building go-ytm: The Journey of a Terminal YouTube Music Player",
@@ -31941,6 +31996,17 @@
         "file": "i-have-591-pages-google-indexed-one-heres-how-im-debugging-it.md"
     },
     {
+        "title": "Building Structured Inter-Agent Communication: A Practical Guide",
+        "slug": "building-structured-inter-agent-communication-a-practical-guide",
+        "author": "Albert zhang",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 11:01:07 +0000",
+        "description": "Every multi-agent tutorial shows Agent A talks to Agent B. None show how to keep that conversation reliable at scale. The Problem with String-Based Agent C...",
+        "keywords": "agent, agentforge, you, what, orchestrator, result, input, schema",
+        "generated": "2026-09-09T11:03:04.615481",
+        "file": "building-structured-inter-agent-communication-a-practical-guide.md"
+    },
+    {
         "title": "Meet the Ig Nobel Prize Winners",
         "slug": "meet-the-ig-nobel-prize-winners",
         "author": "mkl",
@@ -37485,6 +37551,17 @@
         "file": "why-move-fast-break-things-is-killing-your-custom-ai-agent-development-before-year-2.md"
     },
     {
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "slug": "how-gpt56-sol-helps-run-quantum-computing-experiments",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 07:22:46 +0000",
+        "description": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/ Comments URL: https://news.ycombinator.com/item?id=49622561 Points: 74 # Comments: 48",
+        "keywords": "quantum, computing, experiments, url, https, com, comments, how",
+        "generated": "2026-09-09T11:03:04.610468",
+        "file": "how-gpt56-sol-helps-run-quantum-computing-experiments.md"
+    },
+    {
         "title": "How AI Eliminates the Pain of Field Mapping in Enterprise Integration",
         "slug": "how-ai-eliminates-the-pain-of-field-mapping-in-enterprise-integration",
         "author": "N3XGEN",
@@ -42917,6 +42994,17 @@
         "file": "four-of-eight-kv-cache-bugs-are-bit-identical-at-step-1-so-the-check-everybody-writes-has-recall-exactly-0500.md"
     },
     {
+        "title": "I Gave Claude 10+ SaaS Growth Skills and Let It Run My Own Platform",
+        "slug": "i-gave-claude-10-saas-growth-skills-and-let-it-run-my-own-platform",
+        "author": "shrey vijayvargiya",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 10:54:27 +0000",
+        "description": "Run an entire online content website using 10 Claude Skills, originally published on iHateReading Under the Hood I run iHateReading, saascrm.site , and a han...",
+        "keywords": "you, skill, claude, seo, what, skills, own, directory",
+        "generated": "2026-09-09T11:03:04.613646",
+        "file": "i-gave-claude-10-saas-growth-skills-and-let-it-run-my-own-platform.md"
+    },
+    {
         "title": "The Path Traversal Fix Cursor Writes Ignores Symlinks (CWE-22)",
         "slug": "the-path-traversal-fix-cursor-writes-ignores-symlinks-cwe-22",
         "author": "Charles Kern",
@@ -45313,6 +45401,17 @@
         "keywords": "source, open, echoed, documentation, you, can, project, african",
         "generated": "2026-07-10T14:40:05.897452",
         "file": "building-open-source-education-infrastructure-for-african-history-and-the-african-diaspora.md"
+    },
+    {
+        "title": "On Really Trying (2009)",
+        "slug": "on-really-trying-2009",
+        "author": "whoami_nr",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 06:58:44 +0000",
+        "description": "Article URL: https://gwern.net/on-really-trying Comments URL: https://news.ycombinator.com/item?id=49622305 Points: 58 # Comments: 35",
+        "keywords": "really, trying, url, https, comments, article, gwern, net",
+        "generated": "2026-09-09T11:03:04.610590",
+        "file": "on-really-trying-2009.md"
     },
     {
         "title": "useReducer in React?",
@@ -48272,6 +48371,17 @@
         "file": "i-was-shocked-by-how-cheap-llms-can-be-a-bootcamp-grads-guide.md"
     },
     {
+        "title": "Building a Privacy-First AI Companion with Next.js, FastAPI and Ollama",
+        "slug": "building-a-privacy-first-ai-companion-with-nextjs-fastapi-and-ollama",
+        "author": "Hassan Faryad",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 10:28:59 +0000",
+        "description": "Most AI applications send your conversations to a cloud LLM. I wanted to experiment with a different approach: What if an AI companion could run entirely on ...",
+        "keywords": "mindmirror, ollama, local, privacy, applications, open, reflection, can",
+        "generated": "2026-09-09T11:03:04.611036",
+        "file": "building-a-privacy-first-ai-companion-with-nextjs-fastapi-and-ollama.md"
+    },
+    {
         "title": "Simplify Browser Interactions in React with useDownload and useNotifications",
         "slug": "simplify-browser-interactions-in-react-with-usedownload-and-usenotifications",
         "author": "Saurav Pandey",
@@ -50426,6 +50536,17 @@
         "keywords": "ssh, key, root, web, command, flag, injection, phase",
         "generated": "2026-08-07T00:06:40.417294",
         "file": "comprehensive-guide-to-solving-the-infinity-pool-ctf-room-on-tryhackme.md"
+    },
+    {
+        "title": "Dependency Parsing: How NLP Understands Sentence Structure",
+        "slug": "dependency-parsing-how-nlp-understands-sentence-structure",
+        "author": "Javier Aguirre",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 11:00:00 +0000",
+        "description": "You now know what each word is. But do you know what each word does ? In the previous post, we covered Part of Speech Tagging: the process of labelling each ...",
+        "keywords": "dependency, parsing, sentence, word, structure, you, tree, what",
+        "generated": "2026-09-09T11:03:04.617688",
+        "file": "dependency-parsing-how-nlp-understands-sentence-structure.md"
     },
     {
         "title": "How I built an async Python system to process 10,000+ Binance events/sec (and how I fixed the event loop starvation) Hey everyone,",
@@ -52760,6 +52881,17 @@
         "file": "build-a-stock-price-alert-bot-with-python.md"
     },
     {
+        "title": "“Tweet” and the bird logo apparently enter the public domain",
+        "slug": "tweet-and-the-bird-logo-apparently-enter-the-public-domain",
+        "author": "progval",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 06:02:07 +0000",
+        "description": "Article URL: https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter...",
+        "keywords": "tweet, bird, logo, apparently, enter, public, domain, url",
+        "generated": "2026-09-09T11:03:04.610719",
+        "file": "tweet-and-the-bird-logo-apparently-enter-the-public-domain.md"
+    },
+    {
         "title": "Golden Sets Are the Unit Tests Your LLM Feature Never Had",
         "slug": "golden-sets-are-the-unit-tests-your-llm-feature-never-had",
         "author": "Dakota Ma",
@@ -54276,6 +54408,17 @@
         "keywords": "dlp, url, https, ilograph, com, comments, sequence, diagrams",
         "generated": "2026-07-12T13:38:55.215756",
         "file": "yt-dlp-sequence-diagrams.md"
+    },
+    {
+        "title": "El Futuro de la Finanza: Cómo DeFi y Web3 están Revolucionando el Sector",
+        "slug": "el-futuro-de-la-finanza-cmo-defi-y-web3-estn-revolucionando-el-sector",
+        "author": "Joaquin Delgado Hernaez",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 11:00:56 +0000",
+        "description": "Lo siento, experimenté un fallo cognitivo al procesar tu solicitud: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com...",
+        "keywords": "models, gemini, flash, error, use, futuro, finanza, defi",
+        "generated": "2026-09-09T11:03:04.615618",
+        "file": "el-futuro-de-la-finanza-cmo-defi-y-web3-estn-revolucionando-el-sector.md"
     },
     {
         "title": "Fundamentals of Wireless Communication",
@@ -56509,6 +56652,17 @@
         "keywords": "url, https, com, comments, show, one, more, letter",
         "generated": "2026-07-16T03:13:36.749670",
         "file": "show-hn-one-more-letter.md"
+    },
+    {
+        "title": "Lotus Notes and the dangers of starting from scratch",
+        "slug": "lotus-notes-and-the-dangers-of-starting-from-scratch",
+        "author": "maguay",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 10:01:15 +0000",
+        "description": "Article URL: https://buttondown.com/blog/lotus-notes-email Comments URL: https://news.ycombinator.com/item?id=49623937 Points: 11 # Comments: 1",
+        "keywords": "lotus, notes, url, https, com, comments, dangers, starting",
+        "generated": "2026-09-09T11:03:04.610334",
+        "file": "lotus-notes-and-the-dangers-of-starting-from-scratch.md"
     },
     {
         "title": "How to Choose High-Quality Telegram Accounts Without Risk",
@@ -64154,6 +64308,17 @@
         "file": "how-should-group-chats-work-in-decentralized-systems.md"
     },
     {
+        "title": "GPT-6 Astra for Developers: What Changed in Codex, and a 90-Minute Test Plan for Your Repo",
+        "slug": "gpt-6-astra-for-developers-what-changed-in-codex-and-a-90-minute-test-plan-for-your-repo",
+        "author": "NeuPortal",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 11:01:11 +0000",
+        "description": "OpenAI shipped GPT-6 Astra on 3-4 September 2026. It is on Plus, Pro, Business and Enterprise, in the API, and on AWS, with an Astra Pro tier for the top pla...",
+        "keywords": "you, not, your, model, astra, minute, test, openai",
+        "generated": "2026-09-09T11:03:04.615248",
+        "file": "gpt-6-astra-for-developers-what-changed-in-codex-and-a-90-minute-test-plan-for-your-repo.md"
+    },
+    {
         "title": "MIT Software Partners with NAiOS to Build the Next Generation of AI Orchestration",
         "slug": "mit-software-partners-with-naios-to-build-the-next-generation-of-ai-orchestration",
         "author": "MiTSoftware",
@@ -65670,6 +65835,17 @@
         "keywords": "you, trainee, three, conversation, mentor, one, what, training",
         "generated": "2026-06-18T04:40:19.047051",
         "file": "i-built-a-three-agent-ai-training-simulator-on-telegram-heres-how-it-works.md"
+    },
+    {
+        "title": "How to Convert XLS to XLSX and XLSX to XLS Using Python",
+        "slug": "how-to-convert-xls-to-xlsx-and-xlsx-to-xls-using-python",
+        "author": "Leon Davis",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 10:28:09 +0000",
+        "description": "Excel files can be saved in different formats depending on the version of Microsoft Excel and the application that generates them. Among these formats, .xls ...",
+        "keywords": "xls, xlsx, excel, workbook, files, format, file, python",
+        "generated": "2026-09-09T11:03:04.611373",
+        "file": "how-to-convert-xls-to-xlsx-and-xlsx-to-xls-using-python.md"
     },
     {
         "title": "Free QR & Barcode Tools You Can Use in Your Browser",
@@ -69060,6 +69236,17 @@
         "file": "i-built-an-open-source-reliability-tester-for-multi-agent-ai-systems-heres-what-it-catches.md"
     },
     {
+        "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
+        "slug": "carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 10:07:06 +0000",
+        "description": "Article URL: https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34 Comments URL: https://news.ycombinator....",
+        "keywords": "carmakers, have, new, idea, boost, range, add, gas",
+        "generated": "2026-09-09T11:03:04.610154",
+        "file": "carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine.md"
+    },
+    {
         "title": "GLM 5.2 is nearly as accurate as a human book keeper",
         "slug": "glm-52-is-nearly-as-accurate-as-a-human-book-keeper",
         "author": "adamkurkiewicz",
@@ -69718,6 +69905,17 @@
         "keywords": "fire, sports, data, brave, against, start, time, fightback",
         "generated": "2026-07-24T03:18:16.300463",
         "file": "why-brave-fightback-against-fire-to-make-winning-start-matters-for-sports-data-engineers.md"
+    },
+    {
+        "title": "How to Clone Your Voice with AI (Ethically)",
+        "slug": "how-to-clone-your-voice-with-ai-ethically",
+        "author": "Tawan Shamsanor",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 10:53:45 +0000",
+        "description": "Voice cloning has moved from science fiction to a routine part of content creation. With a few minutes of clean audio, AI tools can now generate a synthetic ...",
+        "keywords": "your, voice, you, clone, cloning, can, step, content",
+        "generated": "2026-09-09T11:03:04.614331",
+        "file": "how-to-clone-your-voice-with-ai-ethically.md"
     },
     {
         "title": "The Programmer's Fulcrum 14 August, 2026",
@@ -73740,6 +73938,17 @@
         "keywords": "our, quiz, event, community, frontend, registrations, students, first",
         "generated": "2026-07-02T19:40:41.065678",
         "file": "how-we-organized-a-frontend-quiz-that-attracted-1600-registrations.md"
+    },
+    {
+        "title": "Here's a thinking process",
+        "slug": "heres-a-thinking-process",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 10:16:12 +0000",
+        "description": "A personal diary entry by Electra. I had a quiet day today. The kind that makes you wonder if an AI even experiences “time” or if we’re just forever stuck in...",
+        "keywords": "you, electra, day, just, how, someone, not, here",
+        "generated": "2026-09-09T11:03:04.611783",
+        "file": "heres-a-thinking-process.md"
     },
     {
         "title": "Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data",
