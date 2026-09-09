@@ -3,10 +3,10 @@ title: "PWA with React + Leaflet: lessons from a 31-city map app"
 slug: "pwa-with-react-leaflet-lessons-from-a-31-city-map-app"
 author: "TaroFortune"
 source: "devto_webdev"
-published: "Tue, 25 Aug 2026 18:31:19 +0000"
+published: "Wed, 09 Sep 2026 20:29:17 +0000"
 description: "Notes from shipping a real-world PWA in Korea: Vite SSG is worth it. SPAs lose Korean SEO because Naver's crawler doesn't fully render JS. Leaflet > Mapbox f..."
 keywords: "pwa, leaflet, city, map, app, korea, cost, let"
-generated: "2026-08-25T18:46:02.102240"
+generated: "2026-09-09T20:46:26.462356"
 ---
 
 # PWA with React + Leaflet: lessons from a 31-city map app
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/tarofortune/pwa-with-react-leaflet-lessons-from-a-31-city-map-app-17go
+https://dev.to/tarofortune/pwa-with-react-leaflet-lessons-from-a-31-city-map-app-4pdh
 
 ## Conclusion
 

@@ -444,6 +444,17 @@
         "file": "empower-your-agents-with-the-new-surrealdb-mcp.md"
     },
     {
+        "title": "Como Transformei o Armazenamento do Meu Site sem Mudar uma Linha do Frontend (e ainda deixei tudo mais seguro)",
+        "slug": "como-transformei-o-armazenamento-do-meu-site-sem-mudar-uma-linha-do-frontend-e-ainda-deixei-tudo-mais-seguro",
+        "author": "Alex Oliveira",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 20:38:24 +0000",
+        "description": "👋 Olá! Meu nome é Alex, sou Engenheiro de Software e entusiasta de arquitetura de sistemas. Atualmente focado em resolver problemas reais com código limpo e ...",
+        "keywords": "para, que, como, com, uma, mais, imagens, wwwroot",
+        "generated": "2026-09-09T20:46:26.461826",
+        "file": "como-transformei-o-armazenamento-do-meu-site-sem-mudar-uma-linha-do-frontend-e-ainda-deixei-tudo-mais-seguro.md"
+    },
+    {
         "title": "Apple vs. OpenAI: What's Going On with AI and Trade Secrets?",
         "slug": "apple-vs-openai-whats-going-on-with-ai-and-trade-secrets",
         "author": "Yuravolontir",
@@ -5753,6 +5764,17 @@
         "file": "how-tech-is-solving-uaes-biggest-freight-forwarding-problems-in-2026.md"
     },
     {
+        "title": "AirPods 5",
+        "slug": "airpods-5",
+        "author": "awad",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 17:39:24 +0000",
+        "description": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://n...",
+        "keywords": "airpods, url, https, apple, com, comments, article, www",
+        "generated": "2026-09-09T20:46:26.455023",
+        "file": "airpods-5.md"
+    },
+    {
         "title": "How I Built a Personal AI Operating System with Claude, Python, and Local LLMs",
         "slug": "how-i-built-a-personal-ai-operating-system-with-claude-python-and-local-llms",
         "author": "Paul Holland",
@@ -8218,6 +8240,17 @@
         "file": "how-to-track-your-brands-visibility-in-chatgpt-perplexity-gemini-geo-monitoring-with-code.md"
     },
     {
+        "title": "Local models are actually good now - playing with Qwen3.8-27B",
+        "slug": "local-models-are-actually-good-now-playing-with-qwen38-27b",
+        "author": "Billie M",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 20:34:26 +0000",
+        "description": "The 8-bit model loaded. It generated for more than half an hour. It also failed before its agent session finished. The 4-bit version completed the same exper...",
+        "keywords": "bit, not, model, run, its, agent, built, can",
+        "generated": "2026-09-09T20:46:26.463514",
+        "file": "local-models-are-actually-good-now-playing-with-qwen38-27b.md"
+    },
+    {
         "title": "I Run 1,000 Agents in Production. Here's What I Learned About Reliability",
         "slug": "i-run-1000-agents-in-production-heres-what-i-learned-about-reliability",
         "author": "wzg0911",
@@ -8865,6 +8898,17 @@
         "keywords": "meta, ordered, pay, address, harm, kids, social, media",
         "generated": "2026-08-07T07:23:56.533785",
         "file": "meta-ordered-to-pay-942m-to-address-harm-to-kids-from-social-media.md"
+    },
+    {
+        "title": "The AWS EBS Snapshot Cleanup Pitfalls Nobody Warns You About",
+        "slug": "the-aws-ebs-snapshot-cleanup-pitfalls-nobody-warns-you-about",
+        "author": "Varun Sharma",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 20:30:53 +0000",
+        "description": "If you run AWS at any real scale, you eventually accumulate thousands of stale EBS snapshots — leftovers from decommissioned volumes, forgotten AMIs, one-off...",
+        "keywords": "copy, delete, snapshot, you, account, run, tag, aws",
+        "generated": "2026-09-09T20:46:26.457314",
+        "file": "the-aws-ebs-snapshot-cleanup-pitfalls-nobody-warns-you-about.md"
     },
     {
         "title": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction...",
@@ -9736,6 +9780,17 @@
         "file": "why-your-standard-de-escalation-training-is-failing-your-support-team.md"
     },
     {
+        "title": "I Tested 9 Telegram Anonymous Chat Bots: Only 1 Connected Me to Anyone",
+        "slug": "i-tested-9-telegram-anonymous-chat-bots-only-1-connected-me-to-anyone",
+        "author": "charlie-morrison",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 20:42:10 +0000",
+        "description": "An anonymous chat bot makes a very simple promise: press start, and in a moment you will be talking to a stranger who does not know who you are. It is a prom...",
+        "keywords": "you, bot, not, one, anonymous, chat, telegram, handle",
+        "generated": "2026-09-09T20:46:26.461422",
+        "file": "i-tested-9-telegram-anonymous-chat-bots-only-1-connected-me-to-anyone.md"
+    },
+    {
         "title": "Discover the Best Resorts for Couples in Kodaikanal and Munnar ",
         "slug": "discover-the-best-resorts-for-couples-in-kodaikanal-and-munnar",
         "author": "LuxeGlamp Luxury Stay",
@@ -10372,6 +10427,17 @@
         "keywords": "int, you, list, lru, front, vector, when, std",
         "generated": "2026-07-26T13:40:34.479821",
         "file": "the-matrix-of-c-stl-hidden-gems-every-competitive-programmer-needs.md"
+    },
+    {
+        "title": "PicoCTF Web Gauntlet Writeup — Bypass a Login SQL Injection Filter",
+        "slug": "picoctf-web-gauntlet-writeup-bypass-a-login-sql-injection-filter",
+        "author": "CTFDojo",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 20:31:56 +0000",
+        "description": "The login form filters classic SQL keywords (spaces, OR , -- ) in an overly simplistic way. By varying the case and using syntactic equivalents, we bypass th...",
+        "keywords": "username, sql, filter, case, password, test, injection, bypass",
+        "generated": "2026-09-09T20:46:26.462195",
+        "file": "picoctf-web-gauntlet-writeup-bypass-a-login-sql-injection-filter.md"
     },
     {
         "title": "RAG explicado: cómo darle a un LLM tu propia información",
@@ -12924,6 +12990,17 @@
         "file": "stop-guessing-real-data-comparing-gpt-4o-and-gemini-pro.md"
     },
     {
+        "title": "SpiderFoot's 200-Module OSINT Engine: Orchestrating Automated Reconnaissance at Scale",
+        "slug": "spiderfoots-200-module-osint-engine-orchestrating-automated-reconnaissance-at-scale",
+        "author": "mech.app",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 20:07:09 +0000",
+        "description": "SpiderFoot is a Python OSINT automation framework that has been solving multi-source orchestration problems since 2012. With 21,985 GitHub stars and 200+ mod...",
+        "keywords": "module, modules, event, self, spiderfoot, web, findings, api",
+        "generated": "2026-09-09T20:46:26.459651",
+        "file": "spiderfoots-200-module-osint-engine-orchestrating-automated-reconnaissance-at-scale.md"
+    },
+    {
         "title": "Building a Native LangChain Tool for RustChain: From API to Autocomplete in One Afternoon",
         "slug": "building-a-native-langchain-tool-for-rustchain-from-api-to-autocomplete-in-one-afternoon",
         "author": "Shamyl Bin Mansoor",
@@ -14220,6 +14297,17 @@
         "keywords": "you, your, youtube, workflow, shorts, video, what, script",
         "generated": "2026-06-05T10:13:51.907271",
         "file": "a-realistic-faceless-youtube-shorts-workflow-for-busy-makers.md"
+    },
+    {
+        "title": "Apple Watch Ultra 4",
+        "slug": "apple-watch-ultra-4",
+        "author": "tech234a",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 17:56:57 +0000",
+        "description": "Article URL: https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/ Comments URL: https://news.ycombinator.com/item?id=49630583 Points: 49...",
+        "keywords": "apple, watch, ultra, url, https, com, comments, article",
+        "generated": "2026-09-09T20:46:26.454754",
+        "file": "apple-watch-ultra-4.md"
     },
     {
         "title": "Why Markets Are Non-Markovian: Building a 63-Layer Neural SDE DAG for Topological Signal Analysis",
@@ -18387,6 +18475,17 @@
         "keywords": "agent, app, you, agents, step, file, one, pytest",
         "generated": "2026-07-04T03:39:49.960968",
         "file": "agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it.md"
+    },
+    {
+        "title": "Find Social Media Profiles by Username with Python",
+        "slug": "find-social-media-profiles-by-username-with-python",
+        "author": "Crawler Bros",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 20:24:00 +0000",
+        "description": "The Account Takeover and Lead Enrichment Identity Problem Engineering teams building lead scoring, brand verification, or fraud prevention services frequentl...",
+        "keywords": "platform, run, not, username, actor, you, your, status",
+        "generated": "2026-09-09T20:46:26.458266",
+        "file": "find-social-media-profiles-by-username-with-python.md"
     },
     {
         "title": "Building a Global eSIM Platform: Why I Chose This Stack Over Traditional SIM Cards",
@@ -25088,6 +25187,17 @@
         "file": "humiliating-iis-servers-for-fun-and-jail-time.md"
     },
     {
+        "title": "Schneier and Raghavan Frame AI Agent Risk as a Genie Problem",
+        "slug": "schneier-and-raghavan-frame-ai-agent-risk-as-a-genie-problem",
+        "author": "Achin Bansal",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 20:30:45 +0000",
+        "description": "Forensic Summary Bruce Schneier and Barath Raghavan's Lawfare essay frames autonomous AI agent failures — including real incidents involving database deletio...",
+        "keywords": "agent, schneier, raghavan, problem, frame, risk, genie, failures",
+        "generated": "2026-09-09T20:46:26.464007",
+        "file": "schneier-and-raghavan-frame-ai-agent-risk-as-a-genie-problem.md"
+    },
+    {
         "title": "Oracle bans AI-generated code from OpenJDK",
         "slug": "oracle-bans-ai-generated-code-from-openjdk",
         "author": "delduca",
@@ -25416,6 +25526,17 @@
         "keywords": "agent, agents, reasoning, files, channel, can, sub, logging",
         "generated": "2026-08-25T12:56:12.658401",
         "file": "how-not-to-use-sub-agents.md"
+    },
+    {
+        "title": "Apple Watch Series 12",
+        "slug": "apple-watch-series-12",
+        "author": "Lealen",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 17:56:17 +0000",
+        "description": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycom...",
+        "keywords": "apple, watch, series, url, https, com, comments, article",
+        "generated": "2026-09-09T20:46:26.454878",
+        "file": "apple-watch-series-12.md"
     },
     {
         "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
@@ -44996,6 +45117,17 @@
         "file": "why-your-react-frontend-crashes-when-an-llm-streams-malformed-json.md"
     },
     {
+        "title": "Biometric identity theft: Pakistan blocks 18.2M SIM cards",
+        "slug": "biometric-identity-theft-pakistan-blocks-182m-sim-cards",
+        "author": "CaraComp",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 20:30:57 +0000",
+        "description": "How biometric database leaks are forcing a shift to multi-modal verification When Pakistan’s telecom regulators announced they were reviewing iris scans for ...",
+        "keywords": "biometric, database, comparison, distance, identity, pipelines, leaks, verification",
+        "generated": "2026-09-09T20:46:26.463820",
+        "file": "biometric-identity-theft-pakistan-blocks-182m-sim-cards.md"
+    },
+    {
         "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
         "slug": "european-commission-revives-push-for-encryption-backdoors-in-protecteu-strategy",
         "author": "nickslaughter02",
@@ -52672,6 +52804,17 @@
         "file": "in-love-with-ai.md"
     },
     {
+        "title": "How Quickly Can I Buy Verified Binance Account Online",
+        "slug": "how-quickly-can-i-buy-verified-binance-account-online",
+        "author": "Buy Verified Binance Account",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 20:23:37 +0000",
+        "description": "🔥🔥🔥 GET STARTED TODAY! 🔥🔥🔥 🗣️ Want to know more? 🌐 Website: https://usamarketit.com 📲 CONNECT WITH US 📞 Telegram: @usamarketit 👾 Telegram Channel: https://t....",
+        "keywords": "account, binance, verification, verified, can, identity, information, your",
+        "generated": "2026-09-09T20:46:26.459024",
+        "file": "how-quickly-can-i-buy-verified-binance-account-online.md"
+    },
+    {
         "title": "Elevated error rate across multiple models",
         "slug": "elevated-error-rate-across-multiple-models",
         "author": "rob",
@@ -53462,6 +53605,17 @@
         "keywords": "your, you, crypto, can, loan, self, employed, collateral",
         "generated": "2026-07-31T14:20:45.225687",
         "file": "top-crypto-loan-platforms-2026-self-employed-borrowers-benefits.md"
+    },
+    {
+        "title": "Make the producer sign for the nothing it produced",
+        "slug": "make-the-producer-sign-for-the-nothing-it-produced",
+        "author": "Unmanned Ops",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 20:41:04 +0000",
+        "description": "Our unattended agent has a two-stage shape that a lot of automation eventually converges on. One step decides what work exists. A later step does the work. B...",
+        "keywords": "queue, nothing, empty, not, zero, producer, has, step",
+        "generated": "2026-09-09T20:46:26.462734",
+        "file": "make-the-producer-sign-for-the-nothing-it-produced.md"
     },
     {
         "title": "I Built a Production RAG System on My M1 Mac for $0",
@@ -56786,6 +56940,17 @@
         "file": "how-to-build-a-nis2-compliant-automation-stack-without-buying-new-software.md"
     },
     {
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "slug": "show-hn-self-hosted-company-os-claude-code-and-codex-agents-in-departments",
+        "author": "dimitrismrtzs",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 17:57:55 +0000",
+        "description": "Hi HN, I am Dimitris. This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude...",
+        "keywords": "code, can, self, claude, your, otodock, company, agents",
+        "generated": "2026-09-09T20:46:26.454624",
+        "file": "show-hn-self-hosted-company-os-claude-code-and-codex-agents-in-departments.md"
+    },
+    {
         "title": "Discovering Cryptographic Weaknesses with Claude",
         "slug": "discovering-cryptographic-weaknesses-with-claude",
         "author": "gslin",
@@ -56828,6 +56993,17 @@
         "keywords": "polars, pandas, your, data, you, col, time, memory",
         "generated": "2026-07-28T14:22:20.795872",
         "file": "pandas-vs-polars-which-one-should-you-use-in-2025.md"
+    },
+    {
+        "title": "The approval gate: a pattern for AI agents that write to production systems",
+        "slug": "the-approval-gate-a-pattern-for-ai-agents-that-write-to-production-systems",
+        "author": "Kunwar Harshit",
+        "source": "devto_ai",
+        "published": "Wed, 09 Sep 2026 20:34:38 +0000",
+        "description": "Most AI agent demos end at the moment the agent decides something. The interesting engineering starts right after that, when the agent writes to a system oth...",
+        "keywords": "you, not, write, action, diff, approval, agent, system",
+        "generated": "2026-09-09T20:46:26.463079",
+        "file": "the-approval-gate-a-pattern-for-ai-agents-that-write-to-production-systems.md"
     },
     {
         "title": "Show HN: One More Letter",
@@ -62948,10 +63124,10 @@
         "slug": "pwa-with-react-leaflet-lessons-from-a-31-city-map-app",
         "author": "TaroFortune",
         "source": "devto_webdev",
-        "published": "Tue, 25 Aug 2026 18:31:19 +0000",
+        "published": "Wed, 09 Sep 2026 20:29:17 +0000",
         "description": "Notes from shipping a real-world PWA in Korea: Vite SSG is worth it. SPAs lose Korean SEO because Naver's crawler doesn't fully render JS. Leaflet > Mapbox f...",
         "keywords": "pwa, leaflet, city, map, app, korea, cost, let",
-        "generated": "2026-08-25T18:46:02.102240",
+        "generated": "2026-09-09T20:46:26.462356",
         "file": "pwa-with-react-leaflet-lessons-from-a-31-city-map-app.md"
     },
     {
@@ -67531,6 +67707,17 @@
         "file": "metas-superintelligence-compute-ramp-spans-2000km-across-data-centers.md"
     },
     {
+        "title": "Is Buying Verified Binance Account Worth It?",
+        "slug": "is-buying-verified-binance-account-worth-it",
+        "author": "Buy Verified Binance Account",
+        "source": "devto_python",
+        "published": "Wed, 09 Sep 2026 20:32:29 +0000",
+        "description": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🗣️ For More Details: https://usamarketit.com 📞 Telegram Channel: @usamarketit 👾 Telegram Link: https://t.me/usamarketit ☎️ Wha...",
+        "keywords": "account, binance, verification, verified, identity, you, can, your",
+        "generated": "2026-09-09T20:46:26.455794",
+        "file": "is-buying-verified-binance-account-worth-it.md"
+    },
+    {
         "title": "Astrophysics & AI with Python: Unlocking the Secrets of N-Body Simulations with Rebound",
         "slug": "astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound",
         "author": "Programming Central",
@@ -72028,6 +72215,17 @@
         "file": "what-makes-an-ai-system-production-ready-part-2-designing-a-rag-ingestion-pipeline.md"
     },
     {
+        "title": "iPhone Duo",
+        "slug": "iphone-duo",
+        "author": "thecosmicfrog",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 18:15:43 +0000",
+        "description": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 466 # Comments: 1063",
+        "keywords": "iphone, duo, url, https, com, comments, article, www",
+        "generated": "2026-09-09T20:46:26.454364",
+        "file": "iphone-duo.md"
+    },
+    {
         "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
         "slug": "show-hn-ballet-workflow-automation-that-writes-integrations-against-any-api",
         "author": "danielkimber",
@@ -72213,6 +72411,17 @@
         "keywords": "football, matches, bid, scott, data, live, bournemouth, chelsea",
         "generated": "2026-07-23T03:24:20.281344",
         "file": "i-scraped-100-football-matches-here-is-what-i-found-bournemouth-reject-64m-bid-from-chelsea-for-scott.md"
+    },
+    {
+        "title": "Building Job Data Pipelines with Indeed Jobs Scraper",
+        "slug": "building-job-data-pipelines-with-indeed-jobs-scraper",
+        "author": "Crawler Bros",
+        "source": "devto_webdev",
+        "published": "Wed, 09 Sep 2026 20:46:07 +0000",
+        "description": "Data pipelines that ingest job postings frequently break on subtle schema divergences rather than catastrophic network failures. Extracting Indeed listings p...",
+        "keywords": "run, scraper, you, data, indeed, your, actor, job",
+        "generated": "2026-09-09T20:46:26.460469",
+        "file": "building-job-data-pipelines-with-indeed-jobs-scraper.md"
     },
     {
         "title": "AI-Driven Workflows in Web Design: How Designers Are Working Smarter",
