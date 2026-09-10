@@ -1,12 +1,12 @@
 ---
 title: "Why I built a real-estate tool with zero real-estate listings"
 slug: "why-i-built-a-real-estate-tool-with-zero-real-estate-listings"
-author: "iambox leekyuha"
+author: "TaroFortune"
 source: "devto_webdev"
-published: "Fri, 19 Jun 2026 19:28:36 +0000"
+published: "Thu, 10 Sep 2026 20:38:23 +0000"
 description: "Every property site in Korea (Hogang-no-no, Zigbang, Dabang) shows the same listings with the same agents. What people actually need when moving: How far is ..."
 keywords: "built, listings, real, estate, site, same, agents, what"
-generated: "2026-06-19T19:55:28.881942"
+generated: "2026-09-10T20:41:08.696984"
 ---
 
 # Why I built a real-estate tool with zero real-estate listings
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/tarofortune/why-i-built-a-real-estate-tool-with-zero-real-estate-listings-8mk
+https://dev.to/tarofortune/why-i-built-a-real-estate-tool-with-zero-real-estate-listings-2ieh
 
 ## Conclusion
 
