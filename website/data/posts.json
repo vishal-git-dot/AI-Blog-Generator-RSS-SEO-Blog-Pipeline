@@ -55,6 +55,17 @@
         "file": "openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users.md"
     },
     {
+        "title": "Your Multi-Agent System Doesn't Have a Model Problem. It Has a Process Spec Problem.",
+        "slug": "your-multi-agent-system-doesnt-have-a-model-problem-it-has-a-process-spec-problem",
+        "author": "SyncSoft.AI",
+        "source": "devto_ai",
+        "published": "Thu, 10 Sep 2026 03:38:54 +0000",
+        "description": "Every team that gets burned by a multi-agent system tells the same story. The demo worked. Five agents, clean roles — researcher, planner, coder, reviewer, s...",
+        "keywords": "agent, you, what, not, handoff, your, multi, system",
+        "generated": "2026-09-10T04:04:27.718938",
+        "file": "your-multi-agent-system-doesnt-have-a-model-problem-it-has-a-process-spec-problem.md"
+    },
+    {
         "title": "Zustand vs Jotai (2026): Store-Based vs Atomic State in React",
         "slug": "zustand-vs-jotai-2026-store-based-vs-atomic-state-in-react",
         "author": "Carlos Oliva Pascual",
@@ -3645,6 +3656,17 @@
         "file": "tinysol-a-tiny-solitaire-game-for-dos.md"
     },
     {
+        "title": "Test the Scope of Your Concurrency Limit",
+        "slug": "test-the-scope-of-your-concurrency-limit",
+        "author": "joinwell52",
+        "source": "devto_python",
+        "published": "Thu, 10 Sep 2026 03:30:08 +0000",
+        "description": "Test the Scope of Your Concurrency Limit Two event loops can each respect a concurrency limit of one while running two tasks in total. Our controlled AG2 exp...",
+        "keywords": "loop, two, one, not, peak, limit, its, tasks",
+        "generated": "2026-09-10T04:04:27.714253",
+        "file": "test-the-scope-of-your-concurrency-limit.md"
+    },
+    {
         "title": "5 Error Laravel yang Paling Sering Bikin Developer Pemula Panik (dan Solusinya)",
         "slug": "5-error-laravel-yang-paling-sering-bikin-developer-pemula-panik-dan-solusinya",
         "author": "Dhiecoderweb",
@@ -3973,6 +3995,17 @@
         "keywords": "que, conexiones, una, por, proxy, rds, las, del",
         "generated": "2026-06-15T05:01:58.095469",
         "file": "pooling-contra-una-t3micro-el-da-que-se-reventrds-proxy-es-la-salida.md"
+    },
+    {
+        "title": "Epigenetic Aging Biomarkers: A Protocol for Longevity Clinics",
+        "slug": "epigenetic-aging-biomarkers-a-protocol-for-longevity-clinics",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Thu, 10 Sep 2026 03:51:37 +0000",
+        "description": "Defining the Clinical Testing Objective Epigenetic aging biomarkers use patterns of DNA methylation—chemical modifications that regulate gene activity—to est...",
+        "keywords": "should, age, epigenetic, longevity, can, aging, protocol, clinics",
+        "generated": "2026-09-10T04:04:27.717979",
+        "file": "epigenetic-aging-biomarkers-a-protocol-for-longevity-clinics.md"
     },
     {
         "title": "React Hooks: Mastering useState and useEffect – The Jedi Training",
@@ -4855,6 +4888,17 @@
         "file": "strategy-pattern-in-practice-replacing-conditional-chains-with-composable-algorithms.md"
     },
     {
+        "title": "The MCP & Agent Skills Boom: How to Find the Best Tools for Claude Code & Cursor (Without Getting Burned)",
+        "slug": "the-mcp-agent-skills-boom-how-to-find-the-best-tools-for-claude-code-cursor-without-getting-burned",
+        "author": "Aman",
+        "source": "devto_ai",
+        "published": "Thu, 10 Sep 2026 03:57:14 +0000",
+        "description": "The MCP & Agent Skills Boom: How to Find the Best Tools for Claude Code & Cursor (Without Getting Burned) In 2026, coding with AI is no longer just about cha...",
+        "keywords": "mcp, github, agent, skills, your, you, gittrends, json",
+        "generated": "2026-09-10T04:04:27.717119",
+        "file": "the-mcp-agent-skills-boom-how-to-find-the-best-tools-for-claude-code-cursor-without-getting-burned.md"
+    },
+    {
         "title": "NetBSD 11.0 Released",
         "slug": "netbsd-110-released",
         "author": "jaypatelani",
@@ -4875,6 +4919,17 @@
         "keywords": "one, app, digital, life, ecosystem, can, store, https",
         "generated": "2026-08-01T08:27:56.506860",
         "file": "your-digital-life-in-one-place.md"
+    },
+    {
+        "title": "You probably do not need 264 AI agents",
+        "slug": "you-probably-do-not-need-264-ai-agents",
+        "author": "Constantine Macris",
+        "source": "devto_ai",
+        "published": "Thu, 10 Sep 2026 03:44:56 +0000",
+        "description": "Disclosure: Software Sausage is our product. Agency Agents did not sponsor, review, or endorse this article. AI tools helped draft and edit it; the evidence ...",
+        "keywords": "agent, not, one, agents, roles, role, code, only",
+        "generated": "2026-09-10T04:04:27.718386",
+        "file": "you-probably-do-not-need-264-ai-agents.md"
     },
     {
         "title": "Edge Computing in the Browser: How I Replaced a Backend Server with Web Workers & WASM",
@@ -7007,6 +7062,17 @@
         "file": "the-bilingual-developer-python-and-go-core-functions.md"
     },
     {
+        "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+        "slug": "automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence",
+        "author": "LeoPanthera",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 23:49:29 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/...",
+        "keywords": "board, forces, ceo, matt, mullenweg, leave, absence, url",
+        "generated": "2026-09-10T04:04:27.711934",
+        "file": "automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence.md"
+    },
+    {
         "title": "Mistral OCR 4",
         "slug": "mistral-ocr-4",
         "author": "meetpateltech",
@@ -7566,6 +7632,17 @@
         "keywords": "not, you, json, model, tool, gold, trace, user",
         "generated": "2026-09-05T20:09:44.291423",
         "file": "valid-json-is-not-a-grounded-tool-call.md"
+    },
+    {
+        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+        "slug": "a-stupid-idea-for-ai-alignment-we-came-with-by-looking-at-specification-gaming",
+        "author": "cpeterso",
+        "source": "hackernews",
+        "published": "Thu, 10 Sep 2026 01:59:51 +0000",
+        "description": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviour...",
+        "keywords": "stupid, idea, alignment, came, looking, specification, gaming, url",
+        "generated": "2026-09-10T04:04:27.711671",
+        "file": "a-stupid-idea-for-ai-alignment-we-came-with-by-looking-at-specification-gaming.md"
     },
     {
         "title": "Agentic coding notes from Galapagos Island",
@@ -18543,6 +18620,17 @@
         "file": "get-any-instagram-profile-data-in-10-lines-of-python.md"
     },
     {
+        "title": "Streaming Chat Needs a Content-Type Guard, Not Infinite aria-busy",
+        "slug": "streaming-chat-needs-a-content-type-guard-not-infinite-aria-busy",
+        "author": "babycat",
+        "source": "devto_webdev",
+        "published": "Thu, 10 Sep 2026 04:01:24 +0000",
+        "description": "I tabbed into a throwaway chat shell, typed a short prompt, and pressed Enter. The composer went quiet, the Stop control took focus, and the status text froz...",
+        "keywords": "not, phase, you, kind, html, composer, response, type",
+        "generated": "2026-09-10T04:04:27.715186",
+        "file": "streaming-chat-needs-a-content-type-guard-not-infinite-aria-busy.md"
+    },
+    {
         "title": "15 Web & Cloud Terms Every Non-Technical Founder Should Actually Understand",
         "slug": "15-web-cloud-terms-every-non-technical-founder-should-actually-understand",
         "author": "Web Matrix Lab",
@@ -22336,6 +22424,17 @@
         "keywords": "zed, delta, url, https, comments, article, dev, blog",
         "generated": "2026-08-12T19:08:00.187373",
         "file": "zed-delta.md"
+    },
+    {
+        "title": "I Built a Blazing-Fast, No-Fear Git Client in Rust & Svelte 5 That Uses <85MB RAM (Goodbye 1GB Electron Bloat)",
+        "slug": "i-built-a-blazing-fast-no-fear-git-client-in-rust-svelte-5-that-uses-85mb-ram-goodbye-1gb-electron-bloat",
+        "author": "Hoàng Long",
+        "source": "devto_webdev",
+        "published": "Thu, 10 Sep 2026 03:31:33 +0000",
+        "description": "⚡ FlowGit: The Blazing-Fast, No-Fear Git Client Built for Developers Who Value Their RAM and Sanity Every software engineer uses Git daily. And almost everyo...",
+        "keywords": "git, you, flowgit, your, github, commits, client, rust",
+        "generated": "2026-09-10T04:04:27.716580",
+        "file": "i-built-a-blazing-fast-no-fear-git-client-in-rust-svelte-5-that-uses-85mb-ram-goodbye-1gb-electron-bloat.md"
     },
     {
         "title": "I Built a Free Podcast Show Notes Generator (Because Descript Charges $12/month)",
@@ -31765,6 +31864,17 @@
         "file": "nvidia-cosmos-the-world-foundation-model-reshaping-physical-ai.md"
     },
     {
+        "title": "Building AI-operated in-app product experiences using remote MCP servers",
+        "slug": "building-ai-operated-in-app-product-experiences-using-remote-mcp-servers",
+        "author": "Pavan S Poojary",
+        "source": "devto_webdev",
+        "published": "Thu, 10 Sep 2026 03:51:00 +0000",
+        "description": "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'...",
+        "keywords": "mcp, app, your, neotic, remote, agent, onboarding, you",
+        "generated": "2026-09-10T04:04:27.715932",
+        "file": "building-ai-operated-in-app-product-experiences-using-remote-mcp-servers.md"
+    },
+    {
         "title": "It’s Time to Commit to Linux…But Which One?",
         "slug": "its-time-to-commit-to-linuxbut-which-one",
         "author": "George",
@@ -36528,6 +36638,17 @@
         "file": "39-platforms-to-bridge-ethereum-using-verified-connections.md"
     },
     {
+        "title": "The Hidden Edge Runtime Constraints That Break AI Agent Deployments (And How To Catch Them Early)",
+        "slug": "the-hidden-edge-runtime-constraints-that-break-ai-agent-deployments-and-how-to-catch-them-early",
+        "author": "king li",
+        "source": "devto_webdev",
+        "published": "Thu, 10 Sep 2026 03:52:43 +0000",
+        "description": "If you’ve spent weeks refining an AI agent workflow, it’s easy to focus all your engineering energy on the agent’s logic: prompt chains, tool calling schemas...",
+        "keywords": "agent, edge, your, you, limits, runtime, can, not",
+        "generated": "2026-09-10T04:04:27.715685",
+        "file": "the-hidden-edge-runtime-constraints-that-break-ai-agent-deployments-and-how-to-catch-them-early.md"
+    },
+    {
         "title": "Regression Testing LLM Memory Storage with pytest & Redis to Prevent Multi-turn Context Loss",
         "slug": "regression-testing-llm-memory-storage-with-pytest-redis-to-prevent-multi-turn-context-loss",
         "author": "BAOFUFAN",
@@ -37538,6 +37659,17 @@
         "keywords": "portfolio, tracker, data, value, coins, market, coin, performance",
         "generated": "2026-07-12T19:12:47.057587",
         "file": "build-a-crypto-portfolio-tracker-with-python.md"
+    },
+    {
+        "title": "Show HN: What if the speed of light was 5 km/h?",
+        "slug": "show-hn-what-if-the-speed-of-light-was-5-kmh",
+        "author": "dmitrybrant",
+        "source": "hackernews",
+        "published": "Thu, 10 Sep 2026 01:58:00 +0000",
+        "description": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyd...",
+        "keywords": "speed, light, comments, show, what, always, wanted, make",
+        "generated": "2026-09-10T04:04:27.711810",
+        "file": "show-hn-what-if-the-speed-of-light-was-5-kmh.md"
     },
     {
         "title": "How to Monitor Your Gatsby Site with Vigilmon (Free Uptime + Build Health Monitoring)",
@@ -44776,6 +44908,17 @@
         "file": "raspberry-pi-pico-w-as-usb-wi-fi-adapter.md"
     },
     {
+        "title": "iPhone 18 Pro Max: The 2026 Technological Leap and What It Means for Mobile Innovation",
+        "slug": "iphone-18-pro-max-the-2026-technological-leap-and-what-it-means-for-mobile-innovation",
+        "author": "Rynoex",
+        "source": "devto_webdev",
+        "published": "Thu, 10 Sep 2026 03:30:25 +0000",
+        "description": "iPhone 18 Pro Max: The 2026 Technological Leap and What It Means for Mobile Innovation An in-depth look at the highly anticipated iPhone 18 Pro Max launching...",
+        "keywords": "iphone, pro, max, mobile, technological, leap, what, means",
+        "generated": "2026-09-10T04:04:27.716734",
+        "file": "iphone-18-pro-max-the-2026-technological-leap-and-what-it-means-for-mobile-innovation.md"
+    },
+    {
         "title": "The Fall of the Theorem Economy",
         "slug": "the-fall-of-the-theorem-economy",
         "author": "varjag",
@@ -45346,6 +45489,17 @@
         "keywords": "your, you, use, dapp, build, real, code, security",
         "generated": "2026-07-28T14:22:20.796446",
         "file": "how-to-use-openai-api-to-build-profitable-apps.md"
+    },
+    {
+        "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+        "slug": "training-a-38b-llm-to-0384-core-for-998-hugo-vergnes",
+        "author": "Anon84",
+        "source": "hackernews",
+        "published": "Thu, 10 Sep 2026 02:04:11 +0000",
+        "description": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 11 # Comments: 1",
+        "keywords": "url, https, comments, training, llm, core, hugo, vergnes",
+        "generated": "2026-09-10T04:04:27.711488",
+        "file": "training-a-38b-llm-to-0384-core-for-998-hugo-vergnes.md"
     },
     {
         "title": "Don't You Just Upload It to ChatGPT?",
@@ -53101,6 +53255,17 @@
         "file": "ama-im-eric-ries-the-lean-startup-author-of-new-bestseller-incorruptible.md"
     },
     {
+        "title": "Multi-Provider LLM Router, or How I Got Tired of Forgetting Which API Format I Had To Use",
+        "slug": "multi-provider-llm-router-or-how-i-got-tired-of-forgetting-which-api-format-i-had-to-use",
+        "author": "Sergio Wolf Knapik",
+        "source": "devto_python",
+        "published": "Thu, 10 Sep 2026 03:53:49 +0000",
+        "description": "If you've ever built an application that integrates with multiple LLM providers (Anthropic, Google, OpenAI, DeepSeek), you already know the pain: Each provid...",
+        "keywords": "you, models, provider, thinking, multi, llm, fastapi, stream",
+        "generated": "2026-09-10T04:04:27.712360",
+        "file": "multi-provider-llm-router-or-how-i-got-tired-of-forgetting-which-api-format-i-had-to-use.md"
+    },
+    {
         "title": "Changes to LLM pricing: Decart and Novita",
         "slug": "changes-to-llm-pricing-decart-and-novita",
         "author": "Narev Bot",
@@ -56322,6 +56487,17 @@
         "keywords": "you, not, what, agent, model, actually, can, when",
         "generated": "2026-09-04T03:55:40.887195",
         "file": "the-exact-stack-i-use-to-build-production-ai-agents-no-fluff.md"
+    },
+    {
+        "title": "How to Assign Seller Login OTP Templates: SMS and Email Delivery Governance",
+        "slug": "how-to-assign-seller-login-otp-templates-sms-and-email-delivery-governance",
+        "author": "YvesSterling6854",
+        "source": "devto_python",
+        "published": "Thu, 10 Sep 2026 03:41:03 +0000",
+        "description": "Short answer: assign the authentication team ownership of the login OTP contract, keep the marketplace team responsible for new-order messages, and compare S...",
+        "keywords": "str, code, not, template, challenge, channel, can, login",
+        "generated": "2026-09-10T04:04:27.713874",
+        "file": "how-to-assign-seller-login-otp-templates-sms-and-email-delivery-governance.md"
     },
     {
         "title": "Your SearXNG JSON integration works on your own instance and silently breaks on everyone else's. Here's why.",
@@ -63461,6 +63637,17 @@
         "file": "what-if-you-could-walk-around-the-world-without-a-wallet-cash-or-even-a-phone.md"
     },
     {
+        "title": "Blizzard Workers Win Historic Union Contract",
+        "slug": "blizzard-workers-win-historic-union-contract",
+        "author": "dbg31415",
+        "source": "hackernews",
+        "published": "Wed, 09 Sep 2026 22:22:53 +0000",
+        "description": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: h...",
+        "keywords": "blizzard, workers, win, historic, union, contract, url, https",
+        "generated": "2026-09-10T04:04:27.712054",
+        "file": "blizzard-workers-win-historic-union-contract.md"
+    },
+    {
         "title": "My Exact Cognizant GenC Interview Experience & Hiring Process (2025–2026)",
         "slug": "my-exact-cognizant-genc-interview-experience-hiring-process-20252026",
         "author": "Divyanshu Raj",
@@ -66024,6 +66211,17 @@
         "file": "sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them.md"
     },
     {
+        "title": "Reliable Realtime Room Discovery and Delivery Signals for IoT Control Panels",
+        "slug": "reliable-realtime-room-discovery-and-delivery-signals-for-iot-control-panels",
+        "author": "JamesAnderson121",
+        "source": "devto_python",
+        "published": "Thu, 10 Sep 2026 03:51:37 +0000",
+        "description": "Short answer: choose a realtime API with explicit room discovery, stable identifiers, and a recovery plan you can exercise under fan-out. For an IoT device c...",
+        "keywords": "discovery, device, not, response, panel, channel, authorization, room",
+        "generated": "2026-09-10T04:04:27.712846",
+        "file": "reliable-realtime-room-discovery-and-delivery-signals-for-iot-control-panels.md"
+    },
+    {
         "title": "**El futuro de los agentes IA: cómo la inteligencia artificial está redefiniendo la automatización empresarial**",
         "slug": "el-futuro-de-los-agentes-ia-cmo-la-inteligencia-artificial-est-redefiniendo-la-automatizacin-empresarial",
         "author": "Joaquin Delgado Hernaez",
@@ -66512,10 +66710,10 @@
         "slug": "shadow-ai-enterprise-essential-compliance-controls",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Thu, 27 Aug 2026 21:55:58 +0000",
-        "description": "Employees are already pasting customer records, source code, contracts, and internal research into public AI assistants. The shadow AI enterprise problem beg...",
-        "keywords": "data, can, shadow, enterprise, evidence, compliance, governance, policy",
-        "generated": "2026-08-27T22:04:47.424452",
+        "published": "Thu, 10 Sep 2026 03:51:45 +0000",
+        "description": "Why Shadow AI Enterprise Use Creates Control Gaps A single copied prompt can become an unreported data breach. The shadow AI enterprise problem begins when e...",
+        "keywords": "data, can, controls, shadow, approved, governance, risk, enterprise",
+        "generated": "2026-09-10T04:04:27.717524",
         "file": "shadow-ai-enterprise-essential-compliance-controls.md"
     },
     {
@@ -69201,6 +69399,17 @@
         "keywords": "steam, leak, reveals, unseen, half, life, episode, builds",
         "generated": "2026-08-30T16:26:18.037753",
         "file": "12tb-steam-leak-reveals-unseen-half-life-2-episode-3-builds.md"
+    },
+    {
+        "title": "Automate repetitive work tasks with Python: 5 real scripts I use daily",
+        "slug": "automate-repetitive-work-tasks-with-python-5-real-scripts-i-use-daily",
+        "author": "David García",
+        "source": "devto_python",
+        "published": "Thu, 10 Sep 2026 03:47:43 +0000",
+        "description": "```html Let's be honest, as developers, we spend a lot of time doing things that could be automated. Copying and pasting data, renaming files, searching thro...",
+        "keywords": "files, you, scripts, filename, your, tasks, time, jpg",
+        "generated": "2026-09-10T04:04:27.713134",
+        "file": "automate-repetitive-work-tasks-with-python-5-real-scripts-i-use-daily.md"
     },
     {
         "title": "Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%",
