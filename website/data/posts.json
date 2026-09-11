@@ -8023,10 +8023,10 @@
         "slug": "x402-explained-http-native-micropayments-for-ai-agents-with-real-code",
         "author": "Nikhil Ranka",
         "source": "devto_webdev",
-        "published": "Mon, 07 Sep 2026 21:20:07 +0000",
-        "description": "x402 Explained: HTTP‑Native Micropayments for AI Agents (With Real Code) Why “HTTP‑Native” Matters for Autonomous Agents Autonomous AI agents are built to ac...",
-        "keywords": "payment, spec, nonce, json, http, headers, return, agents",
-        "generated": "2026-09-07T21:22:00.861051",
+        "published": "Fri, 11 Sep 2026 16:02:51 +0000",
+        "description": "x402 Explained: HTTP-Native Micropayments for AI Agents (With Real Code) Introduction Autonomous AI agents frequently need to consume external services—data ...",
+        "keywords": "payment, token, header, request, const, payload, payer, signature",
+        "generated": "2026-09-11T16:13:33.441736",
         "file": "x402-explained-http-native-micropayments-for-ai-agents-with-real-code.md"
     },
     {
@@ -12099,6 +12099,17 @@
         "keywords": "cwd, config, json, path, not, you, repo, file",
         "generated": "2026-09-05T10:19:57.820285",
         "file": "the-hash-matched-for-48-hours-cwd-was-never-the-repo.md"
+    },
+    {
+        "title": "I Split the Wait Into Three Clocks",
+        "slug": "i-split-the-wait-into-three-clocks",
+        "author": "Dakota Lin",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 15:54:23 +0000",
+        "description": "One wall-clock number lied about the model. It blamed generation for every stall I felt. The graph I kept made the split obvious. You feel a pause and name i...",
+        "keywords": "not, time, ish, csv, three, you, path, stream",
+        "generated": "2026-09-11T16:13:33.440129",
+        "file": "i-split-the-wait-into-three-clocks.md"
     },
     {
         "title": "You Don't Need a WebSocket for That Live Feed",
@@ -23163,6 +23174,17 @@
         "file": "the-age-of-token-efficiency-the-age-of-libraries.md"
     },
     {
+        "title": "FastMCP Is Now MCPServer on AWS: Moving a boto3 EC2 MCP Server to the MCP Python SDK 2.x",
+        "slug": "fastmcp-is-now-mcpserver-on-aws-moving-a-boto3-ec2-mcp-server-to-the-mcp-python-sdk-2x",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 15:57:49 +0000",
+        "description": "This article provides a step by step migration guide for an AWS MCP server from the MCP Python SDK 1.x ( FastMCP ) to 2.x ( MCPServer ). The server manages G...",
+        "keywords": "mcp, server, python, tools, grep, fastmcp, mcpserver, name",
+        "generated": "2026-09-11T16:13:33.437879",
+        "file": "fastmcp-is-now-mcpserver-on-aws-moving-a-boto3-ec2-mcp-server-to-the-mcp-python-sdk-2x.md"
+    },
+    {
         "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
         "slug": "amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus",
         "author": "lompad",
@@ -25209,6 +25231,17 @@
         "file": "the-luxuries-in-life.md"
     },
     {
+        "title": "Scratch-Box the Agent Loop. Promote the Diff Only When the Hash Matches.",
+        "slug": "scratch-box-the-agent-loop-promote-the-diff-only-when-the-hash-matches",
+        "author": "Dakota Liu",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 15:57:04 +0000",
+        "description": "Stop applying agent diffs on the laptop that holds your secrets. Freeze a fixture, run the loop on a scratch box, and promote the tree only when the output h...",
+        "keywords": "not, json, you, scratch, receipt, lock, job, path",
+        "generated": "2026-09-11T16:13:33.438818",
+        "file": "scratch-box-the-agent-loop-promote-the-diff-only-when-the-hash-matches.md"
+    },
+    {
         "title": "Taming the Python and VS Code Workspace Environment",
         "slug": "taming-the-python-and-vs-code-workspace-environment",
         "author": "Next Big Creative",
@@ -27077,6 +27110,17 @@
         "keywords": "output, text, prompt, code, index, html, model, mimo",
         "generated": "2026-06-10T15:51:30.358159",
         "file": "same-prompt-multiple-local-models-round-2-static-site-generator.md"
+    },
+    {
+        "title": "Serverless: When It Helps and When It Hurts",
+        "slug": "serverless-when-it-helps-and-when-it-hurts",
+        "author": "Cloud Frontier",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 16:01:29 +0000",
+        "description": "I have shipped serverless functions that handled millions of requests for pennies, and I have watched a serverless architecture quietly bankrupt a team's vel...",
+        "keywords": "serverless, you, not, when, latency, spiky, event, traffic",
+        "generated": "2026-09-11T16:13:33.442095",
+        "file": "serverless-when-it-helps-and-when-it-hurts.md"
     },
     {
         "title": "Prompt Cache Break: Hit-Rate Fell 100% to 40% in 40 Lines",
@@ -30599,6 +30643,17 @@
         "file": "gsxui-shadcn-style-components-for-go.md"
     },
     {
+        "title": "HuggingFace: Security.txt",
+        "slug": "huggingface-securitytxt",
+        "author": "yarapavan",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 14:38:13 +0000",
+        "description": "Article URL: https://huggingface.co/security.txt Comments URL: https://news.ycombinator.com/item?id=49659245 Points: 91 # Comments: 9",
+        "keywords": "huggingface, security, txt, url, https, comments, article, news",
+        "generated": "2026-09-11T16:13:33.436356",
+        "file": "huggingface-securitytxt.md"
+    },
+    {
         "title": "Recover a globe image's projection centre from its own pixels, to prove it points where it claims",
         "slug": "recover-a-globe-images-projection-centre-from-its-own-pixels-to-prove-it-points-where-it-claims",
         "author": "Kynth Studios",
@@ -33547,6 +33602,17 @@
         "file": "why-not-every-ai-application-needs-vector-embeddings.md"
     },
     {
+        "title": "If You Cannot Replay the Agent, Do Not Merge",
+        "slug": "if-you-cannot-replay-the-agent-do-not-merge",
+        "author": "Emery Chen",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 16:01:52 +0000",
+        "description": "You should refuse any agent patch you cannot replay. A scrolling demo is not a build artifact. Merge the replay file first, then consider the diff. Take this...",
+        "keywords": "not, you, replay, agent, file, merge, fail, json",
+        "generated": "2026-09-11T16:13:33.436963",
+        "file": "if-you-cannot-replay-the-agent-do-not-merge.md"
+    },
+    {
         "title": "proven-python: make your AI agent prove its Python before calling it done",
         "slug": "proven-python-make-your-ai-agent-prove-its-python-before-calling-it-done",
         "author": "Shan Wijenayaka",
@@ -35305,6 +35371,17 @@
         "keywords": "claude, code, weekly, limits, url, https, com, comments",
         "generated": "2026-08-18T18:44:45.281978",
         "file": "claude-code-weekly-limits-reduce-by-a-third-tomorrow.md"
+    },
+    {
+        "title": "System 3 Architectural Blueprint: Non-Deterministic Meta-Cognitive Orchestration",
+        "slug": "system-3-architectural-blueprint-non-deterministic-meta-cognitive-orchestration",
+        "author": "Ramón Cortez",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 16:00:00 +0000",
+        "description": "In standard autonomous agent frameworks, execution follows predictable patterns: System 1 delivers rapid, single-prompt responses, while System 2 introduces ...",
+        "keywords": "execution, system, agent, evaluation, state, confidence, sub, drift",
+        "generated": "2026-09-11T16:13:33.442957",
+        "file": "system-3-architectural-blueprint-non-deterministic-meta-cognitive-orchestration.md"
     },
     {
         "title": "AI-generated videos to maximally drive a target brain region",
@@ -39542,6 +39619,17 @@
         "file": "building-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial.md"
     },
     {
+        "title": "Manticore Search 29.9.0: Chunked auto-embeddings and mmap columnar access",
+        "slug": "manticore-search-2990-chunked-auto-embeddings-and-mmap-columnar-access",
+        "author": "Sergey Nikolaev",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 16:05:04 +0000",
+        "description": "Originally published on https://mnt.cr/go/c72RPs on September 11, 2026 Manticore Search 29.9.0: Chunked auto-embeddings and mmap columnar access Manticore Se...",
+        "keywords": "https, mnt, table, search, issue, manticore, now, can",
+        "generated": "2026-09-11T16:13:33.445783",
+        "file": "manticore-search-2990-chunked-auto-embeddings-and-mmap-columnar-access.md"
+    },
+    {
         "title": "Four Time Scales for Technology Development and Deployment",
         "slug": "four-time-scales-for-technology-development-and-deployment",
         "author": "jeffreyrogers",
@@ -41839,6 +41927,17 @@
         "keywords": "loans, you, your, proof, loan, crypto, ledn, strike",
         "generated": "2026-07-19T13:36:01.814781",
         "file": "secure-your-borrowing-goals-with-2000-crypto-loans-in-usa.md"
+    },
+    {
+        "title": "Lecciones de Diseño UX y su Impa…",
+        "slug": "lecciones-de-diseo-ux-y-su-impa",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 16:06:00 +0000",
+        "description": "Originally published at norvik.tech Introduction Explora cómo las lecciones de diseño UX han evolucionado y su relevancia en el desarrollo web moderno. Un an...",
+        "keywords": "del, para, que, las, los, usuario, con, principios",
+        "generated": "2026-09-11T16:13:33.440515",
+        "file": "lecciones-de-diseo-ux-y-su-impa.md"
     },
     {
         "title": "The cp932 crash in the build gate that only happened on Windows — static detection, behavioral testing, and a negative check",
@@ -52353,6 +52452,17 @@
         "file": "i-ab-tested-my-own-system-prompt-24-generations-one-clear-win-one-rule-that-did-nothing-flash-onyx-22.md"
     },
     {
+        "title": "The Hardest Bugs I've Worked On Were Rarely Syntax Problems",
+        "slug": "the-hardest-bugs-ive-worked-on-were-rarely-syntax-problems",
+        "author": "Hakeem Abbas",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 16:00:19 +0000",
+        "description": "One of the hardest production bugs I've worked on looked almost impossible at first. The API was responding normally. The database update was correct. The qu...",
+        "keywords": "request, system, can, what, tool, state, component, service",
+        "generated": "2026-09-11T16:13:33.442625",
+        "file": "the-hardest-bugs-ive-worked-on-were-rarely-syntax-problems.md"
+    },
+    {
         "title": "The Listing Didn't Exist. The Booking Link Worked.",
         "slug": "the-listing-didnt-exist-the-booking-link-worked",
         "author": "Ted",
@@ -58051,6 +58161,17 @@
         "file": "pandas-vs-polars-which-one-should-you-use-in-2025.md"
     },
     {
+        "title": "AI is not the end of the technology cycle.",
+        "slug": "ai-is-not-the-end-of-the-technology-cycle",
+        "author": "Dr Haina",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 16:03:44 +0000",
+        "description": "It may be the beginning of the next one. The internet connected people to information. Cloud computing connected people to scalable computing. AI is making i...",
+        "keywords": "will, intelligence, systems, autonomous, may, next, people, agents",
+        "generated": "2026-09-11T16:13:33.446011",
+        "file": "ai-is-not-the-end-of-the-technology-cycle.md"
+    },
+    {
         "title": "The approval gate: a pattern for AI agents that write to production systems",
         "slug": "the-approval-gate-a-pattern-for-ai-agents-that-write-to-production-systems",
         "author": "Kunwar Harshit",
@@ -58137,6 +58258,17 @@
         "keywords": "accounts, verified, digitalocean, billing, access, history, email, verification",
         "generated": "2026-07-16T19:20:26.286989",
         "file": "compare-options-before-you-buy-verified-digitalocean-hostings-account-boom.md"
+    },
+    {
+        "title": "Blocked Time Makes Free Capacity the Wrong Bet",
+        "slug": "blocked-time-makes-free-capacity-the-wrong-bet",
+        "author": "Quinn Li",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 16:05:04 +0000",
+        "description": "Free capacity is the wrong bet when you are blocked on the answer. Token price is a sticker on the box. The unit you actually pay is the time you cannot move...",
+        "keywords": "you, lane, free, not, your, time, attempt, job",
+        "generated": "2026-09-11T16:13:33.445082",
+        "file": "blocked-time-makes-free-capacity-the-wrong-bet.md"
     },
     {
         "title": "E‑‑: The middle ground between English and Python",
@@ -60753,6 +60885,17 @@
         "keywords": "url, https, comments, max, new, bar, coding, cowork",
         "generated": "2026-08-03T03:30:39.797988",
         "file": "qwen38-max-a-new-bar-for-coding-and-cowork.md"
+    },
+    {
+        "title": "Hacker News with reduced priority for AI driven content",
+        "slug": "hacker-news-with-reduced-priority-for-ai-driven-content",
+        "author": "sammy0910",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 15:52:49 +0000",
+        "description": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 11 # Comments: 5",
+        "keywords": "news, url, https, comments, hacker, reduced, priority, driven",
+        "generated": "2026-09-11T16:13:33.435990",
+        "file": "hacker-news-with-reduced-priority-for-ai-driven-content.md"
     },
     {
         "title": "How to Run Your First Python Script in VS Code: A Beginner's Guide",
@@ -66662,6 +66805,17 @@
         "file": "your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why.md"
     },
     {
+        "title": "I Feared AI-Generated Code. Then I Let CodeQL and Semgrep Argue Over It for a Week",
+        "slug": "i-feared-ai-generated-code-then-i-let-codeql-and-semgrep-argue-over-it-for-a-week",
+        "author": "jamilxt",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 16:05:14 +0000",
+        "description": "Last month I merged a pull request where roughly 80 percent of the diff came out of an AI agent. The tests passed. The build was green. I approved it in abou...",
+        "keywords": "code, codeql, semgrep, not, one, week, two, agent",
+        "generated": "2026-09-11T16:13:33.444418",
+        "file": "i-feared-ai-generated-code-then-i-let-codeql-and-semgrep-argue-over-it-for-a-week.md"
+    },
+    {
         "title": "Three correct database queries can produce one contradictory AI answer",
         "slug": "three-correct-database-queries-can-produce-one-contradictory-ai-answer",
         "author": "Mads Hansen",
@@ -67056,6 +67210,17 @@
         "keywords": "python, you, small, learning, when, what, beginner, thing",
         "generated": "2026-07-22T14:08:21.363912",
         "file": "a-small-question-from-a-python-beginner.md"
+    },
+    {
+        "title": "Keep the Agent Loop Portable, Then Choose Free Shared Compute",
+        "slug": "keep-the-agent-loop-portable-then-choose-free-shared-compute",
+        "author": "Riley Li",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 15:56:37 +0000",
+        "description": "Free shared compute is the right first lane when your agent loop can move tomorrow without rewriting tools, traces, or secrets. Paid APIs and self-hosted box...",
+        "keywords": "not, you, lane, true, free, loop, score, coupling",
+        "generated": "2026-09-11T16:13:33.439567",
+        "file": "keep-the-agent-loop-portable-then-choose-free-shared-compute.md"
     },
     {
         "title": "Analyzing Tennis Data: Alcaraz eyes return from injury at Cincinnati Open — What the Numbers Say",
@@ -68961,6 +69126,17 @@
         "file": "ai-automation-for-ai-for-independent-physical-therapists-how-to-automate-soap-note-generation-and-insurance-billing-codes-fro.md"
     },
     {
+        "title": "Show HN: Hacker News, without AI",
+        "slug": "show-hn-hacker-news-without-ai",
+        "author": "postalcoder",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 15:01:19 +0000",
+        "description": "Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 63 # Comments: 38",
+        "keywords": "news, url, https, comments, show, hacker, without, article",
+        "generated": "2026-09-11T16:13:33.436245",
+        "file": "show-hn-hacker-news-without-ai.md"
+    },
+    {
         "title": "Analyzing Formula 1 Data: Norris cautious despite pole as it falls apart for Hamilton — What the Numbers Say",
         "slug": "analyzing-formula-1-data-norris-cautious-despite-pole-as-it-falls-apart-for-hamilton-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -69223,6 +69399,17 @@
         "keywords": "kras, cancer, percent, pancreatic, not, daraxonrasib, drug, mutations",
         "generated": "2026-06-07T14:06:36.538335",
         "file": "the-undruggable.md"
+    },
+    {
+        "title": "Replay Fixtures Are Still Live Traffic",
+        "slug": "replay-fixtures-are-still-live-traffic",
+        "author": "Riley Lin",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 16:05:46 +0000",
+        "description": "The core conclusion is simple enough to keep on a note beside your editor while you debug. When you attach a recorded HTTP cassette to a remote coding model,...",
+        "keywords": "you, not, text, path, model, file, hits, replay",
+        "generated": "2026-09-11T16:13:33.443778",
+        "file": "replay-fixtures-are-still-live-traffic.md"
     },
     {
         "title": "Why AIBIZ NFT renting lives on the rail, not in the smart contract",
@@ -72679,6 +72866,17 @@
         "file": "python-os-and-shutil-file-operations-masterclass.md"
     },
     {
+        "title": "Godot and Rust based multiplexer (terminal panes and more)",
+        "slug": "godot-and-rust-based-multiplexer-terminal-panes-and-more",
+        "author": "1nv1n",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 16:03:05 +0000",
+        "description": "Article URL: https://github.com/godot-pty/gpty Comments URL: https://news.ycombinator.com/item?id=49660676 Points: 3 # Comments: 1",
+        "keywords": "godot, url, https, com, comments, rust, based, multiplexer",
+        "generated": "2026-09-11T16:13:33.435825",
+        "file": "godot-and-rust-based-multiplexer-terminal-panes-and-more.md"
+    },
+    {
         "title": "I'll be stepping back from leading product for X",
         "slug": "ill-be-stepping-back-from-leading-product-for-x",
         "author": "DearAll",
@@ -74818,6 +75016,17 @@
         "keywords": "anthropic, safety, https, com, comments, hacker, sent, calm",
         "generated": "2026-06-17T20:21:04.200187",
         "file": "the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety.md"
+    },
+    {
+        "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
+        "slug": "matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ouster",
+        "author": "mkeeter",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 15:29:35 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/ Comments URL: https://new...",
+        "keywords": "matt, mullenweg, tells, automattic, staff, slack, back, control",
+        "generated": "2026-09-11T16:13:33.436124",
+        "file": "matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ouster.md"
     },
     {
         "title": "Building Profitable Python Scripts: From Zero to Income",
