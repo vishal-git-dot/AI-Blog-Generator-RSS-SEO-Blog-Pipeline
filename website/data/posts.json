@@ -6703,10 +6703,10 @@
         "slug": "ai-agent-security-essential-exfiltration-defenses",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Wed, 26 Aug 2026 13:00:27 +0000",
-        "description": "Autonomous agents can read files, query databases, call tools, and transmit information beyond the boundaries of conventional applications. That flexibility ...",
-        "keywords": "agent, model, tool, can, security, credentials, data, key",
-        "generated": "2026-08-26T13:01:59.368898",
+        "published": "Fri, 11 Sep 2026 03:43:57 +0000",
+        "description": "Autonomous agents can call tools, retrieve private data, and execute multi-step workflows without continuous human approval. That power also creates a new at...",
+        "keywords": "agent, model, security, tool, data, credentials, controls, api",
+        "generated": "2026-09-11T04:00:57.646695",
         "file": "ai-agent-security-essential-exfiltration-defenses.md"
     },
     {
@@ -8414,6 +8414,17 @@
         "keywords": "bit, not, model, run, its, agent, built, can",
         "generated": "2026-09-09T20:46:26.463514",
         "file": "local-models-are-actually-good-now-playing-with-qwen38-27b.md"
+    },
+    {
+        "title": "Pin Container Identity Before You Extract One Mutator",
+        "slug": "pin-container-identity-before-you-extract-one-mutator",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 03:36:28 +0000",
+        "description": "Characterization tests must pin object identity before any extract. Equality assertions hide copies that break call-site aliases. Extract one in-place helper...",
+        "keywords": "records, not, name, json, dump, result, list, log",
+        "generated": "2026-09-11T04:00:57.640405",
+        "file": "pin-container-identity-before-you-extract-one-mutator.md"
     },
     {
         "title": "I Run 1,000 Agents in Production. Here's What I Learned About Reliability",
@@ -10979,6 +10990,17 @@
         "file": "buyer-cancels-showing-after-deflock-shows-two-cameras-utilized-by-the-hoa.md"
     },
     {
+        "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+        "slug": "mexican-student-creates-an-acoustic-fire-extinguisher-to-put-out-fire-in-seconds",
+        "author": "rguiscard",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 01:00:56 +0000",
+        "description": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ C...",
+        "keywords": "fire, mexican, student, creates, acoustic, extinguisher, put, out",
+        "generated": "2026-09-11T04:00:57.637770",
+        "file": "mexican-student-creates-an-acoustic-fire-extinguisher-to-put-out-fire-in-seconds.md"
+    },
+    {
         "title": "When AI Agents Go Rogue: What the OpenAI-Hugging Face Incident Means for Builders",
         "slug": "when-ai-agents-go-rogue-what-the-openai-hugging-face-incident-means-for-builders",
         "author": "Aleksandr Kamenev",
@@ -13109,6 +13131,17 @@
         "keywords": "peptides, your, peptide, research, you, lab, not, supplier",
         "generated": "2026-06-10T04:15:10.539879",
         "file": "usa-made-peptides-vs-imported-manufacturing-controls-coa-validity-and-contamination-risk-peptide-supplier-usa-lab-grade.md"
+    },
+    {
+        "title": "The Box Has Your Repo. Not Your PATH.",
+        "slug": "the-box-has-your-repo-not-your-path",
+        "author": "Jordan Huang",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 03:43:13 +0000",
+        "description": "Did you paste a repo into a remote box today? Did you treat that shell like your laptop? I keep a short FAQ for that moment. It is not about raw model qualit...",
+        "keywords": "echo, not, box, model, you, date, git, your",
+        "generated": "2026-09-11T04:00:57.647419",
+        "file": "the-box-has-your-repo-not-your-path.md"
     },
     {
         "title": "Building All in One Utility Hub: A Lightweight Toolkit for Developers & Creators",
@@ -16761,6 +16794,17 @@
         "file": "i-automated-my-moving-admin-with-ai-heres-what-i-learned.md"
     },
     {
+        "title": "Beginner Programmer Dilemma: Focus on Python and Projects or Explore C++ and Java?",
+        "slug": "beginner-programmer-dilemma-focus-on-python-and-projects-or-explore-c-and-java",
+        "author": "Ilya Selivanov",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 03:25:43 +0000",
+        "description": "Analytical Reconstruction of the Beginner Programmer's Dilemma The decision-making process for a beginner programmer is a critical juncture that significantl...",
+        "keywords": "learning, python, language, programming, languages, beginners, progress, starting",
+        "generated": "2026-09-11T04:00:57.642748",
+        "file": "beginner-programmer-dilemma-focus-on-python-and-projects-or-explore-c-and-java.md"
+    },
+    {
         "title": "Chapter 51 — Secure AI Payments, Billing, Subscription Management & Financial Data Protection",
         "slug": "chapter-51-secure-ai-payments-billing-subscription-management-financial-data-protection",
         "author": "Black Shadow Team ©",
@@ -19841,6 +19885,17 @@
         "file": "how-i-cut-llm-token-usage-with-okf-claudemd-and-skills.md"
     },
     {
+        "title": "Seedance Prompt Failures: What's Actually Causing the Jitter, Deformation, and Wrong References",
+        "slug": "seedance-prompt-failures-whats-actually-causing-the-jitter-deformation-and-wrong-references",
+        "author": "Hamimelon2026",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 03:57:52 +0000",
+        "description": "Templates get you a working first prompt. They don't tell you why your second attempt came out jittery, why a reference image you provided got ignored in fav...",
+        "keywords": "camera, you, one, reference, prompt, subject, model, what",
+        "generated": "2026-09-11T04:00:57.645271",
+        "file": "seedance-prompt-failures-whats-actually-causing-the-jitter-deformation-and-wrong-references.md"
+    },
+    {
         "title": "If you're a button, you have one job",
         "slug": "if-youre-a-button-you-have-one-job",
         "author": "nozzlegear",
@@ -19872,6 +19927,17 @@
         "keywords": "you, frog, frogger, one, game, row, log, its",
         "generated": "2026-06-15T21:11:31.716104",
         "file": "i-built-frogger-in-120-lines-of-vanilla-javascript.md"
+    },
+    {
+        "title": "The confirmation your app shows isn't the confirmation that matters",
+        "slug": "the-confirmation-your-app-shows-isnt-the-confirmation-that-matters",
+        "author": "StareBrain",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 03:56:36 +0000",
+        "description": "If you're building anything that lets an AI agent act on a user's behalf — send a message, book something, control a device — there's a failure mode that's e...",
+        "keywords": "you, action, not, permission, system, blocked, confirmation, agent",
+        "generated": "2026-09-11T04:00:57.645626",
+        "file": "the-confirmation-your-app-shows-isnt-the-confirmation-that-matters.md"
     },
     {
         "title": "The Burau representation of the braid group is faithful for n = 4",
@@ -35010,6 +35076,17 @@
         "file": "migration-photopea-vers-pdf-serveur-retour-dexprience-sur-un-pipeline-de-rendu-avec-playwright.md"
     },
     {
+        "title": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
+        "slug": "show-hn-algo-trading-skills-501-agent-skills-for-trading-infrastructure",
+        "author": "HimanshuJ16",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 02:37:28 +0000",
+        "description": "Article URL: https://github.com/HimanshuJ16/Algo-Trading-Skills Comments URL: https://news.ycombinator.com/item?id=49652907 Points: 5 # Comments: 2",
+        "keywords": "trading, skills, algo, url, https, com, comments, show",
+        "generated": "2026-09-11T04:00:57.637646",
+        "file": "show-hn-algo-trading-skills-501-agent-skills-for-trading-infrastructure.md"
+    },
+    {
         "title": "I Built a Curated AI Tools Directory With Real Comparisons — Here's What I Learned",
         "slug": "i-built-a-curated-ai-tools-directory-with-real-comparisons-heres-what-i-learned",
         "author": "dayu2333-jinyul",
@@ -37463,6 +37540,17 @@
         "file": "unexpected-solidlike-fracture-in-simple-liquids.md"
     },
     {
+        "title": "A newsroom just restructured its org chart around losing traffic to AI. Read the memo.",
+        "slug": "a-newsroom-just-restructured-its-org-chart-around-losing-traffic-to-ai-read-the-memo",
+        "author": "reidify",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 03:49:00 +0000",
+        "description": "Gannett, the parent company of USA Today, cut staff and reorganized its audience team this month. The internal memo explaining the move did not point at a so...",
+        "keywords": "not, memo, its, around, traffic, gannett, company, staff",
+        "generated": "2026-09-11T04:00:57.643043",
+        "file": "a-newsroom-just-restructured-its-org-chart-around-losing-traffic-to-ai-read-the-memo.md"
+    },
+    {
         "title": "Python Crypto Dashboard: Track BTC ($62,613) and ETH Live",
         "slug": "python-crypto-dashboard-track-btc-62613-and-eth-live",
         "author": "qing",
@@ -39793,6 +39881,17 @@
         "keywords": "should, system, block, inflation, rates, currency, regime, layer",
         "generated": "2026-07-07T09:51:54.395922",
         "file": "prof-dr-gustavo-henrique-valente-building-a-regime-detection-layer-for-brazilian-market-data.md"
+    },
+    {
+        "title": "Require Fixture Hashes for Every Generated API Example Block",
+        "slug": "require-fixture-hashes-for-every-generated-api-example-block",
+        "author": "Avery Lin",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 03:41:05 +0000",
+        "description": "Generated API documentation should compile example blocks from a frozen fixture corpus rather than from conversational output. A language model may reformat ...",
+        "keywords": "not, example, json, docs, fixtures, fixture, compile, model",
+        "generated": "2026-09-11T04:00:57.638862",
+        "file": "require-fixture-hashes-for-every-generated-api-example-block.md"
     },
     {
         "title": "Europe's free satellite service just made it easier to track wildfires",
@@ -43344,6 +43443,17 @@
         "keywords": "investment, asset, market, bmup, multi, institute, strategies, their",
         "generated": "2026-07-15T02:52:14.907955",
         "file": "bmup-multi-asset-institute-precision-strategies-to-control-the-future.md"
+    },
+    {
+        "title": "Three of my test gates had never heard of the game I was shipping",
+        "slug": "three-of-my-test-gates-had-never-heard-of-the-game-i-was-shipping",
+        "author": "Dhardingsea Developer",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 03:47:52 +0000",
+        "description": "My browser arcade at play.dhseadev.online deploys when I push to main . Nothing ships unless verify-all.sh prints ALL GATES PASS. This week I was adding a ni...",
+        "keywords": "one, what, check, test, build, game, gate, had",
+        "generated": "2026-09-11T04:00:57.643704",
+        "file": "three-of-my-test-gates-had-never-heard-of-the-game-i-was-shipping.md"
     },
     {
         "title": "The Hidden Layer Behind Every Smart AI App: RAG, MCP, and Agentic Systems",
@@ -50879,6 +50989,17 @@
         "file": "extracting-text-from-pdfs-reliably-in-python-with-pythonaibrain-ptt.md"
     },
     {
+        "title": "I Spent 3 Weeks Setup-Helling a Full-Stack SaaS Stack Before Writing a Single Line of Business Logic",
+        "slug": "i-spent-3-weeks-setup-helling-a-full-stack-saas-stack-before-writing-a-single-line-of-business-logic",
+        "author": "azhadsuhaimi",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 03:47:26 +0000",
+        "description": "Check out PulseLabs to explore production-ready developer tools, SQL Server performance diagnostics, and full-stack SaaS starters built to help you ship fast...",
+        "keywords": "your, you, setup, saas, database, app, not, net",
+        "generated": "2026-09-11T04:00:57.644030",
+        "file": "i-spent-3-weeks-setup-helling-a-full-stack-saas-stack-before-writing-a-single-line-of-business-logic.md"
+    },
+    {
         "title": "Why `ibelick/ui-skills` Is Getting Attention from AI-Assisted Frontend Developers",
         "slug": "why-ibelickui-skills-is-getting-attention-from-ai-assisted-frontend-developers",
         "author": "linweidao",
@@ -52551,6 +52672,17 @@
         "file": "pgclickhouse-v010-subquery-pushdown-and-1000x-faster-tpc-h-queries.md"
     },
     {
+        "title": "My Agents Never Get Tired. I Do: On Satisficing",
+        "slug": "my-agents-never-get-tired-i-do-on-satisficing",
+        "author": "Earl Grey",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 03:49:55 +0000",
+        "description": "I approved a prompt on a Tuesday morning and went to make a cup of Irish breakfast tea. By the time I came back the block was done, tested, and more thorough...",
+        "keywords": "not, what, block, one, have, has, two, code",
+        "generated": "2026-09-11T04:00:57.646318",
+        "file": "my-agents-never-get-tired-i-do-on-satisficing.md"
+    },
+    {
         "title": "The Biggest Mistake I Made Online Was Starting Over Every Year",
         "slug": "the-biggest-mistake-i-made-online-was-starting-over-every-year",
         "author": "Jaabir Yusuf",
@@ -53176,6 +53308,17 @@
         "keywords": "maiao, github, url, https, com, comments, gerrit, style",
         "generated": "2026-08-26T06:57:10.994812",
         "file": "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others.md"
+    },
+    {
+        "title": "Reject Agent Patches That Shrink the Property Seed Corpus",
+        "slug": "reject-agent-patches-that-shrink-the-property-seed-corpus",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 03:34:50 +0000",
+        "description": "A green CI job after an agent patch is not evidence that behavior held. The useful signal is whether the same seed corpus still executed, whether fixture has...",
+        "keywords": "not, oracle, agent, seeds, return, json, seed, patch",
+        "generated": "2026-09-11T04:00:57.641169",
+        "file": "reject-agent-patches-that-shrink-the-property-seed-corpus.md"
     },
     {
         "title": "How Digital Marketers Can Build Practical Skills for a Changing Industry",
@@ -58665,6 +58808,17 @@
         "file": "shree-game-download-guide-features-app-overview.md"
     },
     {
+        "title": "I Think Developers Are Building Too Much Software",
+        "slug": "i-think-developers-are-building-too-much-software",
+        "author": "Jaideep Parashar",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 03:36:19 +0000",
+        "description": "There was a time when the difficult part of building software was writing the software. Today, that is increasingly not true. We have better frameworks, bett...",
+        "keywords": "can, more, not, you, problem, have, better, building",
+        "generated": "2026-09-11T04:00:57.644610",
+        "file": "i-think-developers-are-building-too-much-software.md"
+    },
+    {
         "title": "RISC-V: They should have known better",
         "slug": "risc-v-they-should-have-known-better",
         "author": "kaycebasques",
@@ -58916,6 +59070,17 @@
         "keywords": "developers, not, access, how, code, who, become, productivity",
         "generated": "2026-08-14T02:22:40.710267",
         "file": "when-ai-coding-access-becomes-a-dependency-not-a-productivity-tool.md"
+    },
+    {
+        "title": "LLM Visualizer – Build a Transformer from Scratch",
+        "slug": "llm-visualizer-build-a-transformer-from-scratch",
+        "author": "evo_9",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 02:51:51 +0000",
+        "description": "Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard Comments URL: https://news.ycombinator.com/item?id=49652996 Points: 7 # Comments: 3",
+        "keywords": "llm, visualizer, url, https, comments, build, transformer, scratch",
+        "generated": "2026-09-11T04:00:57.637470",
+        "file": "llm-visualizer-build-a-transformer-from-scratch.md"
     },
     {
         "title": "Durable identity is converging. The handle isn't.",
@@ -67960,6 +68125,17 @@
         "file": "the-australian-government-to-require-smsmms-sender-id-registraion.md"
     },
     {
+        "title": "Your AI-Generated Site Is Live. Now Build the Maintenance Loop.",
+        "slug": "your-ai-generated-site-is-live-now-build-the-maintenance-loop",
+        "author": "Lin Xi",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 03:48:02 +0000",
+        "description": "Your AI-Generated Site Is Live. Now Build the Maintenance Loop. AI can produce a usable website in an afternoon. The harder engineering question starts after...",
+        "keywords": "page, loop, site, website, not, content, live, can",
+        "generated": "2026-09-11T04:00:57.643334",
+        "file": "your-ai-generated-site-is-live-now-build-the-maintenance-loop.md"
+    },
+    {
         "title": "AI Is Quietly Becoming Game Development Infrastructure: The 2026 Numbers That Matter",
         "slug": "ai-is-quietly-becoming-game-development-infrastructure-the-2026-numbers-that-matter",
         "author": "Krishna Soni",
@@ -68959,6 +69135,17 @@
         "keywords": "code, strategy, what, one, can, actually, not, three",
         "generated": "2026-07-02T04:02:13.757176",
         "file": "an-al-writes-my-trading-code-three-gates-decide-if-it-ever-runs.md"
+    },
+    {
+        "title": "Herdr Studio",
+        "slug": "herdr-studio",
+        "author": "throwaway888abc",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 00:54:36 +0000",
+        "description": "Article URL: https://powerfooI.github.io/herdr-studio/ Comments URL: https://news.ycombinator.com/item?id=49652188 Points: 12 # Comments: 4",
+        "keywords": "herdr, studio, url, https, comments, article, powerfooi, github",
+        "generated": "2026-09-11T04:00:57.637876",
+        "file": "herdr-studio.md"
     },
     {
         "title": "LLM Model Training Datasets: A Comprehensive Overview",
@@ -74523,6 +74710,17 @@
         "file": "building-recommender-systems-with-llm.md"
     },
     {
+        "title": "Setting up OpenCode with Ollama and sbx on Mac",
+        "slug": "setting-up-opencode-with-ollama-and-sbx-on-mac",
+        "author": "etoxin",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 00:45:26 +0000",
+        "description": "Article URL: https://tensorsandtokens.com/posts/opencode-ollama/ Comments URL: https://news.ycombinator.com/item?id=49652122 Points: 13 # Comments: 9",
+        "keywords": "opencode, ollama, url, https, com, comments, setting, sbx",
+        "generated": "2026-09-11T04:00:57.637974",
+        "file": "setting-up-opencode-with-ollama-and-sbx-on-mac.md"
+    },
+    {
         "title": "The Developer's Guide to ABM: 7 Tools to Supercharge Your Sales Pipeline",
         "slug": "the-developers-guide-to-abm-7-tools-to-supercharge-your-sales-pipeline",
         "author": "Michael",
@@ -78206,6 +78404,17 @@
         "keywords": "its, platform, mturk, amazon, will, human, data, but",
         "generated": "2026-08-29T20:45:19.188979",
         "file": "amazon-axes-mechanical-turk-after-training-ai-generation.md"
+    },
+    {
+        "title": "The Chat Rendered a Perfect Diff. sha256sum Did Not Budge.",
+        "slug": "the-chat-rendered-a-perfect-diff-sha256sum-did-not-budge",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 03:40:34 +0000",
+        "description": "Have you ever trusted a model's unified diff because the chat window made it look already applied? I did that on a remote scratch box, and the working tree s...",
+        "keywords": "not, model, pytest, you, tests, only, src, after",
+        "generated": "2026-09-11T04:00:57.639584",
+        "file": "the-chat-rendered-a-perfect-diff-sha256sum-did-not-budge.md"
     },
     {
         "title": "Geekbench 7",
