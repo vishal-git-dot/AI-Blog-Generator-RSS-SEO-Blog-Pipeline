@@ -5295,6 +5295,17 @@
         "file": "i-built-a-privacy-first-json-viewer-for-chrome-after-i-got-tired-of-waiting.md"
     },
     {
+        "title": "GrapheneOS' rewritten Messages app is released",
+        "slug": "grapheneos-rewritten-messages-app-is-released",
+        "author": "microtonal",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 18:50:36 +0000",
+        "description": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 60 # Comments: 21",
+        "keywords": "grapheneos, url, https, com, comments, rewritten, messages, app",
+        "generated": "2026-09-11T20:46:17.638761",
+        "file": "grapheneos-rewritten-messages-app-is-released.md"
+    },
+    {
         "title": "Europe's summer drought is so extreme that desertification is a growing threat",
         "slug": "europes-summer-drought-is-so-extreme-that-desertification-is-a-growing-threat",
         "author": "Brajeshwar",
@@ -5335,6 +5346,17 @@
         "keywords": "const, what, you, one, await, return, chrome, api",
         "generated": "2026-07-05T09:14:04.981796",
         "file": "i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently.md"
+    },
+    {
+        "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+        "slug": "cia-releases-presidents-daily-briefs-in-commemoration-of-911",
+        "author": "stmw",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 18:30:07 +0000",
+        "description": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 36 # Comments: 11",
+        "keywords": "cia, releases, https, comments, president, daily, briefs, commemoration",
+        "generated": "2026-09-11T20:46:17.638899",
+        "file": "cia-releases-presidents-daily-briefs-in-commemoration-of-911.md"
     },
     {
         "title": "Your Fraud Engine's Search Is Either a Librarian or a Scholar. It Needs to Be Both.",
@@ -8140,6 +8162,17 @@
         "file": "how-to-ship-a-chrome-extension-the-code-is-the-easy-half-published-false.md"
     },
     {
+        "title": "A Better DIY Light: Your Phone Flash with a Paper Towel",
+        "slug": "a-better-diy-light-your-phone-flash-with-a-paper-towel",
+        "author": "zongkai sun",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 20:39:31 +0000",
+        "description": "Your phone's flash is too harsh for headshots. A single paper towel can soften it perfectly. Here's how to set it up for a quick, professional-looking result...",
+        "keywords": "your, phone, flash, paper, towel, better, diy, light",
+        "generated": "2026-09-11T20:46:17.641430",
+        "file": "a-better-diy-light-your-phone-flash-with-a-paper-towel.md"
+    },
+    {
         "title": "Serverless Python: Deploying FastAPI to Google Cloud Run with Docker",
         "slug": "serverless-python-deploying-fastapi-to-google-cloud-run-with-docker",
         "author": "Ayush Kumar",
@@ -8920,6 +8953,17 @@
         "keywords": "playwright, browser, can, page, you, proxy, data, scraping",
         "generated": "2026-09-09T11:03:04.612454",
         "file": "playwright-web-scraping-guide-setup-anti-bot-proxy-setup.md"
+    },
+    {
+        "title": "OpenAI's Self-Hosted Executor Only Dials Out. So Does Our Daemon, Which Is Why the Stop Button We Added Today Is a Queue",
+        "slug": "openais-self-hosted-executor-only-dials-out-so-does-our-daemon-which-is-why-the-stop-button-we-added-today-is-a-queue",
+        "author": "Artemii Amelin",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 20:35:41 +0000",
+        "description": "OpenAI opened the Agents API to public beta on September 10. The page worth reading is not the overview. It is the self-hosted sandbox guide, which describes...",
+        "keywords": "session, machine, stop, process, executor, daemon, not, own",
+        "generated": "2026-09-11T20:46:17.643470",
+        "file": "openais-self-hosted-executor-only-dials-out-so-does-our-daemon-which-is-why-the-stop-button-we-added-today-is-a-queue.md"
     },
     {
         "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
@@ -10284,6 +10328,17 @@
         "keywords": "arguments, keyword, positional, parameters, function, only, print, def",
         "generated": "2026-07-02T14:15:25.130641",
         "file": "a-complete-guide-to-function-arguments-in-python.md"
+    },
+    {
+        "title": "NAZA a Devastating Exposé of Israeli Genocidal Policy in Gaza",
+        "slug": "naza-a-devastating-expos-of-israeli-genocidal-policy-in-gaza",
+        "author": "slowin",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 20:02:38 +0000",
+        "description": "Article URL: https://variety.com/2026/film/news/naza-review-1236857356/ Comments URL: https://news.ycombinator.com/item?id=49664530 Points: 24 # Comments: 1",
+        "keywords": "naza, url, https, com, news, comments, devastating, israeli",
+        "generated": "2026-09-11T20:46:17.638609",
+        "file": "naza-a-devastating-expos-of-israeli-genocidal-policy-in-gaza.md"
     },
     {
         "title": "Shadow AI Problem: How ChatGPT Creates Compliance Nightmares",
@@ -13958,6 +14013,17 @@
         "file": "atl-ms-funcin-seno-para-hacer-animaciones-fludas.md"
     },
     {
+        "title": "Litelm: LiteLLM Without the Bloat",
+        "slug": "litelm-litellm-without-the-bloat",
+        "author": "kennethwolters",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 18:10:20 +0000",
+        "description": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 45 # Comments: 17",
+        "keywords": "litelm, url, https, com, comments, litellm, without, bloat",
+        "generated": "2026-09-11T20:46:17.638977",
+        "file": "litelm-litellm-without-the-bloat.md"
+    },
+    {
         "title": "Google выпустила Nano Banana 2 Lite и Omni Flash: генерация изображения за 4 секунды и видео по голосовым командам: google…",
         "slug": "google-nano-banana-2-lite-omni-flash-4-google",
         "author": "Promptra Team",
@@ -14385,6 +14451,17 @@
         "keywords": "toastry, sonner, style, toast, notifications, javascript, dependency, free",
         "generated": "2026-06-23T04:02:13.419899",
         "file": "toastry-sonner-style-toast-notifications-in-javascript.md"
+    },
+    {
+        "title": "Lock Three Observable Channels Before One Extract",
+        "slug": "lock-three-observable-channels-before-one-extract",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 19:43:08 +0000",
+        "description": "Do not extract a helper from a messy module yet. First lock three observable channels with characterization tests. Only then apply the smallest structural ch...",
+        "keywords": "extract, not, channels, job, only, digest, lock, leftover",
+        "generated": "2026-09-11T20:46:17.641334",
+        "file": "lock-three-observable-channels-before-one-extract.md"
     },
     {
         "title": "Preparing AI-Ready Data Without Calling an LLM API",
@@ -19377,6 +19454,17 @@
         "keywords": "wrong, one, what, you, agent, tool, call, server",
         "generated": "2026-08-27T08:36:24.648156",
         "file": "the-agent-posted-successfully-to-the-wrong-account.md"
+    },
+    {
+        "title": "Idempotency: The Small API Concept That Prevents Big Problems",
+        "slug": "idempotency-the-small-api-concept-that-prevents-big-problems",
+        "author": "Aasim Ghaffar",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 20:37:27 +0000",
+        "description": "When building APIs, developers usually spend a lot of time thinking about authentication, validation, performance, and database design. But there is another ...",
+        "keywords": "idempotency, operation, key, request, same, not, api, payment",
+        "generated": "2026-09-11T20:46:17.641802",
+        "file": "idempotency-the-small-api-concept-that-prevents-big-problems.md"
     },
     {
         "title": "What running my text-to-SQL library against a real Oracle database found",
@@ -26496,6 +26584,17 @@
         "file": "pagedattention-vs-traditional-kv-cache-how-vllm-reinvented-gpu-memory-for-llm-inference.md"
     },
     {
+        "title": "AI Model Observability: Essential Data-Trust Metrics",
+        "slug": "ai-model-observability-essential-data-trust-metrics",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 20:33:08 +0000",
+        "description": "AI systems can pass infrastructure and accuracy checks while still producing unreliable decisions. The blind spot is often not the model—it is the data enter...",
+        "keywords": "trust, data, model, can, prediction, score, scoring, monitoring",
+        "generated": "2026-09-11T20:46:17.643786",
+        "file": "ai-model-observability-essential-data-trust-metrics.md"
+    },
+    {
         "title": "How We Built an Adult Height Predictor: The Math, the Science, and the Edge Cases",
         "slug": "how-we-built-an-adult-height-predictor-the-math-the-science-and-the-edge-cases",
         "author": "Fitness Tools",
@@ -28210,6 +28309,17 @@
         "keywords": "server, not, free, gui, probe, display, input, path",
         "generated": "2026-08-15T06:47:15.228891",
         "file": "a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli.md"
+    },
+    {
+        "title": "Special Education Teachers Behavior-ED careers in Los Angeles | SY 2026–27",
+        "slug": "special-education-teachers-behavior-ed-careers-in-los-angeles-sy-202627",
+        "author": "every special child usa",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 20:17:33 +0000",
+        "description": "For educators passionate about supporting students with behavioral and emotional needs, Special Education Teachers Behavior-ED careers in Los Angeles | SY 20...",
+        "keywords": "behavior, education, students, behavioral, teachers, can, support, special",
+        "generated": "2026-09-11T20:46:17.642092",
+        "file": "special-education-teachers-behavior-ed-careers-in-los-angeles-sy-202627.md"
     },
     {
         "title": "Integrating LLM with Robotics: A Comprehensive Guide",
@@ -37936,6 +38046,17 @@
         "file": "did-fp8-make-the-model-dumber-a-per-prompt-regression-check-for-quantized-serving.md"
     },
     {
+        "title": "Subtract Frozen Tests From Coverage Before You Merge an Agent Patch",
+        "slug": "subtract-frozen-tests-from-coverage-before-you-merge-an-agent-patch",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 19:43:46 +0000",
+        "description": "A green pipeline is not a proof. If the suite still contains frozen flaky tests, coverage numbers include lines that no reliable test currently exercises. Su...",
+        "keywords": "not, freeze, coverage, tests, args, merge, agent, path",
+        "generated": "2026-09-11T20:46:17.640844",
+        "file": "subtract-frozen-tests-from-coverage-before-you-merge-an-agent-patch.md"
+    },
+    {
         "title": "My bot logged a fresh decision every 5 minutes for over an hour. The price it was deciding on never moved once.",
         "slug": "my-bot-logged-a-fresh-decision-every-5-minutes-for-over-an-hour-the-price-it-was-deciding-on-never-moved-once",
         "author": "WWP",
@@ -39100,6 +39221,17 @@
         "keywords": "who, runs, ransomware, group, gentlemen, url, https, com",
         "generated": "2026-06-11T20:28:40.306500",
         "file": "who-runs-the-ransomware-group-the-gentlemen.md"
+    },
+    {
+        "title": "🚀 Taking on new web dev clients on Fiverr!",
+        "slug": "taking-on-new-web-dev-clients-on-fiverr",
+        "author": "Chesea",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 20:31:37 +0000",
+        "description": "🚀 Taking on new web dev clients on Fiverr! I build custom, high-performance web applications, user portals, and secure database systems using PHP & MySQL. Se...",
+        "keywords": "web, fiverr, custom, taking, new, dev, clients, performance",
+        "generated": "2026-09-11T20:46:17.641920",
+        "file": "taking-on-new-web-dev-clients-on-fiverr.md"
     },
     {
         "title": "Human in the Loop Isn't a Checkbox",
@@ -62471,6 +62603,17 @@
         "file": "gemini-37-flash.md"
     },
     {
+        "title": "What our summary log throws away to stay one line long",
+        "slug": "what-our-summary-log-throws-away-to-stay-one-line-long",
+        "author": "Unmanned Ops",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 20:41:04 +0000",
+        "description": "Every unattended run this organization does ends the same way: one line in a summary log saying the run passed. That line is a compression format. It takes e...",
+        "keywords": "one, not, run, retry, summary, line, what, every",
+        "generated": "2026-09-11T20:46:17.642607",
+        "file": "what-our-summary-log-throws-away-to-stay-one-line-long.md"
+    },
+    {
         "title": "The Abundance Illusion",
         "slug": "the-abundance-illusion",
         "author": "cwal37",
@@ -68235,6 +68378,17 @@
         "file": "cssquake.md"
     },
     {
+        "title": "The EPA is planning to scrap public review rules for data center pollution",
+        "slug": "the-epa-is-planning-to-scrap-public-review-rules-for-data-center-pollution",
+        "author": "doener",
+        "source": "hackernews",
+        "published": "Fri, 11 Sep 2026 18:05:21 +0000",
+        "description": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 179 # Comments: 110",
+        "keywords": "epa, rules, data, url, https, comments, planning, scrap",
+        "generated": "2026-09-11T20:46:17.639056",
+        "file": "the-epa-is-planning-to-scrap-public-review-rules-for-data-center-pollution.md"
+    },
+    {
         "title": "The Implications of Renting Faces for AI Dramas in…",
         "slug": "the-implications-of-renting-faces-for-ai-dramas-in",
         "author": "Norvik Tech",
@@ -71832,6 +71986,17 @@
         "file": "an-agents-state-is-not-its-process.md"
     },
     {
+        "title": "Meeting notes without a bot joining your call (2026)",
+        "slug": "meeting-notes-without-a-bot-joining-your-call-2026",
+        "author": "Syed Masood Shah",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 20:40:05 +0000",
+        "description": "The first time I fired up a meeting bot, a client asked, mid-call, who that was sitting at the bottom of the participant list. It wasn't a person. It was Ott...",
+        "keywords": "bot, you, meeting, your, call, local, notes, audio",
+        "generated": "2026-09-11T20:46:17.642916",
+        "file": "meeting-notes-without-a-bot-joining-your-call-2026.md"
+    },
+    {
         "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
         "slug": "canada-suspends-trade-negotiations-with-usa-and-match-tariffs-dollar-for-dollar",
         "author": "backlit4034",
@@ -74974,6 +75139,17 @@
         "file": "if-you-are-asking-for-human-attention-demonstrate-human-effort.md"
     },
     {
+        "title": "AICOM is the factory. AIMarket is the economy it ships into.",
+        "slug": "aicom-is-the-factory-aimarket-is-the-economy-it-ships-into",
+        "author": "Alex",
+        "source": "devto_webdev",
+        "published": "Fri, 11 Sep 2026 20:15:32 +0000",
+        "description": "People keep asking if AICOM and AIMarket are two startups, a rebrand, or a Discord with extra steps. They are two names on purpose . AICOM is the factory: on...",
+        "keywords": "you, not, factory, can, modelmarket, dev, oracles, aicom",
+        "generated": "2026-09-11T20:46:17.642376",
+        "file": "aicom-is-the-factory-aimarket-is-the-economy-it-ships-into.md"
+    },
+    {
         "title": "Best Landing Page Builder AI Tools in 2026",
         "slug": "best-landing-page-builder-ai-tools-in-2026",
         "author": "Jon",
@@ -75711,6 +75887,17 @@
         "file": "launch-hn-stoa-markets-yc-s26-a-marketplace-for-gpus-and-ai-servers.md"
     },
     {
+        "title": "Python实时外汇行情接入实战：WebSocket与REST K线查询",
+        "slug": "pythonwebsocketrest-k",
+        "author": "San Si wu",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 20:34:44 +0000",
+        "description": "最近外汇市场的消息面非常密集。欧洲央行刚结束议息会议，如期加息25个基点，把存款机制利率推到2.50%，同时上调了全年通胀预期——能源价格上涨是背后的主要推手。另一边，美国CPI数据刚落地，虽然整体符合预期，但核心通胀环比略超市场预期，美联储下周议息会议的加息概率从六成跳到了七成以上。 这两件事凑在一起，欧元兑美...",
+        "keywords": "code, data, get, token, json, region, import, api",
+        "generated": "2026-09-11T20:46:17.639355",
+        "file": "pythonwebsocketrest-k.md"
+    },
+    {
         "title": "How Exit Intent Popups Can Work for B2B Without Being Annoying",
         "slug": "how-exit-intent-popups-can-work-for-b2b-without-being-annoying",
         "author": "ProDigital360",
@@ -75924,10 +76111,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Thu, 10 Sep 2026 20:07:06 +0000",
+        "published": "Fri, 11 Sep 2026 19:54:43 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-09-10T20:41:08.693672",
+        "generated": "2026-09-11T20:46:17.639513",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -76215,6 +76402,17 @@
         "keywords": "type, hints, python, you, code, int, types, your",
         "generated": "2026-08-25T06:56:03.871584",
         "file": "python-type-hints-write-better-code-with-examples.md"
+    },
+    {
+        "title": "How AI Search Understands Websites: A Technical Introduction to GEO",
+        "slug": "how-ai-search-understands-websites-a-technical-introduction-to-geo",
+        "author": "Nasim Sayed",
+        "source": "devto_ai",
+        "published": "Fri, 11 Sep 2026 20:39:48 +0000",
+        "description": "If you've been optimizing for Google's crawler your whole career, AI search engines will feel familiar at first — and then completely different. Here's a tec...",
+        "keywords": "search, content, retrieval, how, you, what, structure, crawl",
+        "generated": "2026-09-11T20:46:17.643173",
+        "file": "how-ai-search-understands-websites-a-technical-introduction-to-geo.md"
     },
     {
         "title": "Stop Hardcoding Roles: A Practical Guide to Roles, Permissions, and Scalable Authorization",
@@ -78140,6 +78338,17 @@
         "keywords": "get, raw, you, zillow, data, monitor, listing, record",
         "generated": "2026-08-13T02:24:39.927618",
         "file": "zillow-scraper-api-how-to-build-a-real-estate-property-monitor.md"
+    },
+    {
+        "title": "I Logged Checkmarks for 48 Hours. The Server Encoding Was ASCII.",
+        "slug": "i-logged-checkmarks-for-48-hours-the-server-encoding-was-ascii",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Fri, 11 Sep 2026 19:49:34 +0000",
+        "description": "Have you ever watched a boring logging line explode only after the code left your laptop? I spent forty-eight hours chasing a UnicodeEncodeError that never o...",
+        "keywords": "encoding, locale, not, sys, utf, you, pytest, stdout",
+        "generated": "2026-09-11T20:46:17.640186",
+        "file": "i-logged-checkmarks-for-48-hours-the-server-encoding-was-ascii.md"
     },
     {
         "title": "A stale response can quietly break a recommendation tool",
