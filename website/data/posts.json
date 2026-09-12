@@ -246,6 +246,17 @@
         "file": "four-years-ago-a-crypto-boss-went-missing-now-his-successor-has.md"
     },
     {
+        "title": "Liquidity Risk Modeling: Essential AI for Block Trades",
+        "slug": "liquidity-risk-modeling-essential-ai-for-block-trades",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 15:13:24 +0000",
+        "description": "Institutional desks rarely fail because an asset has no quoted liquidity. They fail because visible liquidity disappears once a large order reaches the marke...",
+        "keywords": "liquidity, risk, execution, order, market, imbalance, can, depth",
+        "generated": "2026-09-12T15:20:16.508909",
+        "file": "liquidity-risk-modeling-essential-ai-for-block-trades.md"
+    },
+    {
         "title": "I got into YC by hacking it",
         "slug": "i-got-into-yc-by-hacking-it",
         "author": "speckx",
@@ -10605,6 +10616,17 @@
         "file": "why-your-business-is-losing-money-on-manual-data-entry-and-the-fix.md"
     },
     {
+        "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun",
+        "slug": "waymo-pulls-over-calls-cops-on-juvenile-riders-who-had-ghost-gun",
+        "author": "mmayberry",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 14:16:24 +0000",
+        "description": "Article URL: https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun Comments URL: https://news.yc...",
+        "keywords": "waymo, ghost, gun, url, https, com, comments, pulls",
+        "generated": "2026-09-12T15:20:16.502139",
+        "file": "waymo-pulls-over-calls-cops-on-juvenile-riders-who-had-ghost-gun.md"
+    },
+    {
         "title": "Full-stack auth in Go and React: email + password with Limen",
         "slug": "full-stack-auth-in-go-and-react-email-password-with-limen",
         "author": "Brian Iyoha",
@@ -19049,6 +19071,17 @@
         "file": "agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it.md"
     },
     {
+        "title": "cast(bool, x) is a promise to the type checker. At runtime it is the identity function.",
+        "slug": "castbool-x-is-a-promise-to-the-type-checker-at-runtime-it-is-the-identity-function",
+        "author": "Mahiro Hirakawa",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 15:08:59 +0000",
+        "description": "In google/adk-python , the value that decides whether a tool call needs human confirmation reaches its caller through cast(bool, await ...) . typing.cast ret...",
+        "keywords": "cast, bool, what, not, value, none, tool, nothing",
+        "generated": "2026-09-12T15:20:16.503023",
+        "file": "castbool-x-is-a-promise-to-the-type-checker-at-runtime-it-is-the-identity-function.md"
+    },
+    {
         "title": "Find Social Media Profiles by Username with Python",
         "slug": "find-social-media-profiles-by-username-with-python",
         "author": "Crawler Bros",
@@ -21040,6 +21073,17 @@
         "file": "claude-code-just-made-auto-mode-the-default-for-everyone.md"
     },
     {
+        "title": "Finally shipping v1.0.7: Fixing the silent Google Sign-In & Paywall bugs in my Flutter app published: true",
+        "slug": "finally-shipping-v107-fixing-the-silent-google-sign-in-paywall-bugs-in-my-flutter-app-published-true",
+        "author": "Ronak Mahajan",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 15:04:57 +0000",
+        "description": "After 7 iterations of staring blankly at crash logs, wrestling with Google Cloud OAuth scopes, and questioning my life choices as a solo developer, Sprout At...",
+        "keywords": "google, play, app, sign, flutter, revenuecat, build, console",
+        "generated": "2026-09-12T15:20:16.506958",
+        "file": "finally-shipping-v107-fixing-the-silent-google-sign-in-paywall-bugs-in-my-flutter-app-published-true.md"
+    },
+    {
         "title": "AI Coding Tool Selection: Claude Code vs Cursor for EU Teams",
         "slug": "ai-coding-tool-selection-claude-code-vs-cursor-for-eu-teams",
         "author": "Dr Hernani Costa",
@@ -22710,6 +22754,17 @@
         "keywords": "block, strip, one, token, its, vector, can, gpt",
         "generated": "2026-08-08T12:58:39.638516",
         "file": "deciphering-modern-gpt-architectures-using-lego-analogy.md"
+    },
+    {
+        "title": "Call Recording Laws in Australia for AI Agents",
+        "slug": "call-recording-laws-in-australia-for-ai-agents",
+        "author": "Peter Jackman",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 15:15:22 +0000",
+        "description": "Five of Australia's eight states and territories — New South Wales, Western Australia, South Australia, Tasmania and the ACT — make recording your own call a...",
+        "keywords": "recording, australia, call, eight, laws, agents, south, act",
+        "generated": "2026-09-12T15:20:16.507419",
+        "file": "call-recording-laws-in-australia-for-ai-agents.md"
     },
     {
         "title": "45-Second Production: Testing ChatGPT’s Limits with InterSystems IRIS and PyProd",
@@ -26241,6 +26296,17 @@
         "keywords": "doge, overstated, savings, watchdog, url, https, com, news",
         "generated": "2026-08-07T13:15:09.528379",
         "file": "doge-overstated-savings-government-watchdog-says.md"
+    },
+    {
+        "title": "I Debugged a Snapshot for 48 Hours. datetime.now() Had a Hometown.",
+        "slug": "i-debugged-a-snapshot-for-48-hours-datetimenow-had-a-hometown",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 14:45:04 +0000",
+        "description": "Have you ever merged a helper because a remote run stayed green while your editor still looked calm? I almost did that this week, and then my laptop failed t...",
+        "keywords": "datetime, not, import, utc, json, timezone, naive, you",
+        "generated": "2026-09-12T15:20:16.505104",
+        "file": "i-debugged-a-snapshot-for-48-hours-datetimenow-had-a-hometown.md"
     },
     {
         "title": "The $47K Mistake: What Your Fractional CTO Should Audit Before Lock-In",
@@ -33888,6 +33954,17 @@
         "file": "how-multi-currency-support-helps-mlm-businesses-expand-internationally.md"
     },
     {
+        "title": "Compiler Can Undo Your Security Checks",
+        "slug": "compiler-can-undo-your-security-checks",
+        "author": "birdculture",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 14:07:58 +0000",
+        "description": "Article URL: https://davidbombal.com/your-compiler-can-undo-your-security-checks/ Comments URL: https://news.ycombinator.com/item?id=49672474 Points: 8 # Com...",
+        "keywords": "your, compiler, can, undo, security, checks, url, https",
+        "generated": "2026-09-12T15:20:16.502504",
+        "file": "compiler-can-undo-your-security-checks.md"
+    },
+    {
         "title": "PDF Endpoints for Digital Archiving in 2026 — Balancing Fidelity, Latency, and Retention",
         "slug": "pdf-endpoints-for-digital-archiving-in-2026-balancing-fidelity-latency-and-retention",
         "author": "BriarVoss47291",
@@ -34944,6 +35021,17 @@
         "file": "stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md"
     },
     {
+        "title": "How to Turn Complex Information Into Visual Presentations With AI",
+        "slug": "how-to-turn-complex-information-into-visual-presentations-with-ai",
+        "author": "Asghar Ali",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 15:14:45 +0000",
+        "description": "Complex information is everywhere. Students work with research papers, professionals deal with reports and documentation, educators prepare lessons, and busi...",
+        "keywords": "information, can, presentation, audience, visual, research, slide, material",
+        "generated": "2026-09-12T15:20:16.508257",
+        "file": "how-to-turn-complex-information-into-visual-presentations-with-ai.md"
+    },
+    {
         "title": "The reranker I added to improve RAG was causing most of my remaining misses",
         "slug": "the-reranker-i-added-to-improve-rag-was-causing-most-of-my-remaining-misses",
         "author": "Ashwin Ugale",
@@ -35811,6 +35899,17 @@
         "keywords": "express, paypal, server, routes, app, payment, use, how",
         "generated": "2026-07-27T19:42:31.391903",
         "file": "how-to-integrate-paypal-mercado-pago-in-nodejs-clean-architecture.md"
+    },
+    {
+        "title": "Hook Viewers Instantly with the Negative Stake Framework",
+        "slug": "hook-viewers-instantly-with-the-negative-stake-framework",
+        "author": "Zohir Lahcen",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 15:10:22 +0000",
+        "description": "You just dropped 40 hours editing a slick breakdown of the latest flagship laptop. You opened the video with: Today, I’m showing you five features that will...",
+        "keywords": "your, you, negative, stake, hook, standard, video, viewers",
+        "generated": "2026-09-12T15:20:16.509165",
+        "file": "hook-viewers-instantly-with-the-negative-stake-framework.md"
     },
     {
         "title": "I Replaced Whisper with Parakeet on a $55/Month CPU Server. Here Is What Actually Happened",
@@ -38761,6 +38860,17 @@
         "file": "well-known-top-1-best-cryptocurrency-recovery-company.md"
     },
     {
+        "title": "My benchmark harness was wrong fourteen ways before it measured anything",
+        "slug": "my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything",
+        "author": "Remdore",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 14:48:33 +0000",
+        "description": "I built a harness to measure whether reverse proxies buffer Server-Sent Events. The results are in the last post . This post is about the harness, which was ...",
+        "keywords": "not, one, had, emitter, guard, per, you, every",
+        "generated": "2026-09-12T15:20:16.504291",
+        "file": "my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything.md"
+    },
+    {
         "title": "Trusting an LLM's JSON in production",
         "slug": "trusting-an-llms-json-in-production",
         "author": "Kate Johnson",
@@ -39309,6 +39419,17 @@
         "keywords": "json, python, key, stack, nested, recursive, module, dict",
         "generated": "2026-06-10T04:15:10.538250",
         "file": "mastering-parsing-nested-json-with-python-json-module.md"
+    },
+    {
+        "title": "I built a CSV chart page that shows a SHA of your file so the chart can’t invent numbers",
+        "slug": "i-built-a-csv-chart-page-that-shows-a-sha-of-your-file-so-the-chart-cant-invent-numbers",
+        "author": "therealcpain",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 15:01:15 +0000",
+        "description": "Do your charts ever look right but quietly use the wrong numbers? I built Honest Chart, a free CSV→chart page that shows a SHA-256 fingerprint for the upload...",
+        "keywords": "chart, file, numbers, you, built, csv, page, shows",
+        "generated": "2026-09-12T15:20:16.507132",
+        "file": "i-built-a-csv-chart-page-that-shows-a-sha-of-your-file-so-the-chart-cant-invent-numbers.md"
     },
     {
         "title": "UAE e-invoicing: the provider is the last step, not the first",
@@ -39892,6 +40013,17 @@
         "keywords": "sharepoint, crypto, cve, security, data, significant, like, authentication",
         "generated": "2026-08-13T19:08:38.062300",
         "file": "sharepoint-cve-2026-55040-exploits-surge-amidst-deepening-bearish-crypto-sentiment-btc-63166.md"
+    },
+    {
+        "title": "Ask HN: What default model do you use and why?",
+        "slug": "ask-hn-what-default-model-do-you-use-and-why",
+        "author": "stikit",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 14:58:44 +0000",
+        "description": "I use claude for most of what I do, and Fable is largely overkill for me and frequently burns through my Max plan's session credits in minutes (!) when just ...",
+        "keywords": "what, use, most, largely, through, session, mobile, out",
+        "generated": "2026-09-12T15:20:16.501954",
+        "file": "ask-hn-what-default-model-do-you-use-and-why.md"
     },
     {
         "title": "The Automated Invoice Engine: Turning Service Notes into Paid Bills with AI",
@@ -52221,6 +52353,17 @@
         "file": "opus-5-is-currently-1-on-artificial-analysis-intelligence-leaderboard.md"
     },
     {
+        "title": "You Don't Need Matrix Calculus",
+        "slug": "you-dont-need-matrix-calculus",
+        "author": "srean",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 14:15:08 +0000",
+        "description": "Article URL: https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html Comments URL: https://news.ycombinator.com/item?id=49672541 Points: 3 # Co...",
+        "keywords": "you, need, matrix, calculus, url, https, com, comments",
+        "generated": "2026-09-12T15:20:16.502269",
+        "file": "you-dont-need-matrix-calculus.md"
+    },
+    {
         "title": "Rich Text: Edit Blocks on the Page, Plus Framework-Agnostic Rendering",
         "slug": "rich-text-edit-blocks-on-the-page-plus-framework-agnostic-rendering",
         "author": "Tony Spiro",
@@ -53893,6 +54036,17 @@
         "file": "5-mistakes-job-seekers-make-with-ai-tools-in-2025.md"
     },
     {
+        "title": "# 🎤 Sviluppare Oreste AI: cosa sto imparando creando un assistente vocale italiano",
+        "slug": "sviluppare-oreste-ai-cosa-sto-imparando-creando-un-assistente-vocale-italiano",
+        "author": "Oreste AI Team",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 15:04:20 +0000",
+        "description": "Creare un progetto software non significa soltanto scrivere codice. Significa anche sperimentare, risolvere problemi, imparare nuove tecnologie e cercare di ...",
+        "keywords": "oreste, progetto, per, nuove, con, web, vocale, tecnologie",
+        "generated": "2026-09-12T15:20:16.503383",
+        "file": "sviluppare-oreste-ai-cosa-sto-imparando-creando-un-assistente-vocale-italiano.md"
+    },
+    {
         "title": "The Difference Between Practicing Coding and Actually Becoming a Developer",
         "slug": "the-difference-between-practicing-coding-and-actually-becoming-a-developer",
         "author": "PyNyx",
@@ -55486,6 +55640,17 @@
         "keywords": "asian, startups, launch, mythos, like, models, url, https",
         "generated": "2026-06-27T13:54:40.038652",
         "file": "asian-ai-startups-launch-mythos-like-models.md"
+    },
+    {
+        "title": "Stackness launch",
+        "slug": "stackness-launch",
+        "author": "Sergei Gordeichuk",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 15:01:11 +0000",
+        "description": "Hey everyone, Recently I've launched Stackness - a social platform for developers to show their stack and how they use it, and I'd be very grateful to get so...",
+        "keywords": "stackness, launched, like, launch, hey, everyone, recently, social",
+        "generated": "2026-09-12T15:20:16.507261",
+        "file": "stackness-launch.md"
     },
     {
         "title": "SWOT analysis example AI: A Practical Guide to Turning AI Strategy into Clear Decisions",
@@ -71238,6 +71403,17 @@
         "file": "using-llms-for-crypto-market-analysis-in-2026.md"
     },
     {
+        "title": "Path-Based Routing with Reverse Proxy: Serving Multiple Websites from One Domain",
+        "slug": "path-based-routing-with-reverse-proxy-serving-multiple-websites-from-one-domain",
+        "author": "Sanchit Bajaj",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 15:12:58 +0000",
+        "description": "Hey developers 👋 At some point in our development journey, we’ve all played around with domains, subdomains, routes, reverse proxies, and enough DNS records ...",
+        "keywords": "blog, com, mypastries, nginx, application, request, server, can",
+        "generated": "2026-09-12T15:20:16.506275",
+        "file": "path-based-routing-with-reverse-proxy-serving-multiple-websites-from-one-domain.md"
+    },
+    {
         "title": "Build Wide, Ship Narrow",
         "slug": "build-wide-ship-narrow",
         "author": "ashumz",
@@ -76833,6 +77009,17 @@
         "file": "python-type-hints-write-better-code-with-examples.md"
     },
     {
+        "title": "A Reproducible Way to Calculate the Effective Cost of Free AI Video",
+        "slug": "a-reproducible-way-to-calculate-the-effective-cost-of-free-ai-video",
+        "author": "PhotoArtify Team",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 15:14:40 +0000",
+        "description": "A free AI video generator can still be expensive when most clips require retries, cleanup, watermark workarounds, or long queue waits. The useful denominator...",
+        "keywords": "cost, seconds, accepted, time, free, round, failures, cleanup",
+        "generated": "2026-09-12T15:20:16.508526",
+        "file": "a-reproducible-way-to-calculate-the-effective-cost-of-free-ai-video.md"
+    },
+    {
         "title": "How AI Search Understands Websites: A Technical Introduction to GEO",
         "slug": "how-ai-search-understands-websites-a-technical-introduction-to-geo",
         "author": "Nasim Sayed",
@@ -77405,6 +77592,17 @@
         "file": "pin-a-pricing-snapshot-before-an-ai-agent-run.md"
     },
     {
+        "title": "Restart-Python Class-1",
+        "slug": "restart-python-class-1",
+        "author": "Guna Ramesh",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 15:11:35 +0000",
+        "description": "How to use python in Linux? First open a terminal in your linux machine then type python3 . How to find a version of software? Enter the software name space ...",
+        "keywords": "name, command, python, clear, print, terminal, its, prompt",
+        "generated": "2026-09-12T15:20:16.502716",
+        "file": "restart-python-class-1.md"
+    },
+    {
         "title": "Building a Video Metadata Moderation Pipeline with Python and Claude API",
         "slug": "building-a-video-metadata-moderation-pipeline-with-python-and-claude-api",
         "author": "ahmet gedik",
@@ -77579,6 +77777,17 @@
         "keywords": "not, code, developers, typescript, action, you, now, agentic",
         "generated": "2026-06-22T12:15:23.446928",
         "file": "your-code-is-being-replaced-and-the-scary-part-youre-helping-it-happen.md"
+    },
+    {
+        "title": "We Must Pace the Frontier",
+        "slug": "we-must-pace-the-frontier",
+        "author": "apsec112",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 14:10:49 +0000",
+        "description": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 93 # Comments: 95",
+        "keywords": "must, pace, frontier, url, https, com, comments, article",
+        "generated": "2026-09-12T15:20:16.502388",
+        "file": "we-must-pace-the-frontier.md"
     },
     {
         "title": "Yahtzee in 180 lines: how one counts[1..6] array scores all 13 categories",
@@ -78833,6 +79042,17 @@
         "keywords": "you, coding, they, how, rounds, one, percent, interview",
         "generated": "2026-06-12T20:19:14.999254",
         "file": "live-coding-lost-its-signal-heres-how-interview-prep-splits-by-company-size-in-2026.md"
+    },
+    {
+        "title": "The Origins and Adoption of So…",
+        "slug": "the-origins-and-adoption-of-so",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 15:05:57 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the implications of software origins on modern development. In-depth analysis for tech leaders navig...",
+        "keywords": "software, new, adoption, can, technology, data, solutions, time",
+        "generated": "2026-09-12T15:20:16.506719",
+        "file": "the-origins-and-adoption-of-so.md"
     },
     {
         "title": "The Secret to On-Device Intelligence: Mastering Weight Pruning and Sparsity for Mobile NPUs",
