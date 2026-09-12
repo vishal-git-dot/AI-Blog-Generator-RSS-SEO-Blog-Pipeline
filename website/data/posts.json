@@ -1159,6 +1159,17 @@
         "file": "apple-is-getting-this-wrong.md"
     },
     {
+        "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+        "slug": "microcode-in-intels-8087-floating-point-chip-the-scale-instruction",
+        "author": "pwg",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 15:49:52 +0000",
+        "description": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points...",
+        "keywords": "microcode, url, https, com, comments, intel, floating, point",
+        "generated": "2026-09-12T20:23:47.690787",
+        "file": "microcode-in-intels-8087-floating-point-chip-the-scale-instruction.md"
+    },
+    {
         "title": "I Built a Free Learning Platform with 30+ Lessons – Here's What I Learned",
         "slug": "i-built-a-free-learning-platform-with-30-lessons-heres-what-i-learned",
         "author": "Khawaja Khurram (MAK)",
@@ -1443,6 +1454,17 @@
         "keywords": "password, passwords, you, unique, one, your, account, manager",
         "generated": "2026-08-23T01:43:25.008000",
         "file": "why-you-should-never-reuse-the-same-password-for-multiple-accounts.md"
+    },
+    {
+        "title": "Will There Be a 7G?",
+        "slug": "will-there-be-a-7g",
+        "author": "Betelbuddy",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 17:05:31 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 52 # Comments: 81",
+        "keywords": "url, https, comments, will, there, article, arxiv, org",
+        "generated": "2026-09-12T20:23:47.690665",
+        "file": "will-there-be-a-7g.md"
     },
     {
         "title": "Construction Progress Images — Metadata Archives vs Lightweight Python OCR Reports",
@@ -4118,6 +4140,17 @@
         "file": "wi-fi-8-is-the-first-wireless-upgrade-in-years-that-isnt-chasing-speed.md"
     },
     {
+        "title": "Kotoamatsukami",
+        "slug": "kotoamatsukami",
+        "author": "Kotoamatsukami",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 20:08:00 +0000",
+        "description": "https://kytelink.com/xemphimlenhuongviet https://www.mangago.me/home/mangalist/4241873/ https://urlink.ai/@phimlaulenhuong https://kytelink.com/xemphimnghihe...",
+        "keywords": "https, com, kytelink, www, mangago, home, mangalist, urlink",
+        "generated": "2026-09-12T20:23:47.692915",
+        "file": "kotoamatsukami.md"
+    },
+    {
         "title": "AI-Powered Verification Workflow: Securing Vendor Compliance for Local Festivals",
         "slug": "ai-powered-verification-workflow-securing-vendor-compliance-for-local-festivals",
         "author": "Ken Deng",
@@ -6543,6 +6576,17 @@
         "keywords": "hello, world",
         "generated": "2026-08-18T18:44:45.286228",
         "file": "hello-world.md"
+    },
+    {
+        "title": "Credit card age verification: Steam skips age estimation",
+        "slug": "credit-card-age-verification-steam-skips-age-estimation",
+        "author": "CaraComp",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 20:15:51 +0000",
+        "description": "Analyzing Steam's architectural shift toward credit card age verification highlights a pivotal decision point for engineers designing identity verification a...",
+        "keywords": "age, payment, verification, vision, credit, identity, models, facial",
+        "generated": "2026-09-12T20:23:47.693695",
+        "file": "credit-card-age-verification-steam-skips-age-estimation.md"
     },
     {
         "title": "Astral's Python-Build-Standalone: Analyzing Technical Factors Behind Its Performance Claims",
@@ -12330,6 +12374,17 @@
         "keywords": "dua, lipa, opens, library, banned, censored, books, portugal",
         "generated": "2026-07-07T14:49:42.584298",
         "file": "dua-lipa-opens-library-for-banned-and-censored-books-in-portugal.md"
+    },
+    {
+        "title": "Custom MLM Software Development Company in Delhi for Growing Networks",
+        "slug": "custom-mlm-software-development-company-in-delhi-for-growing-networks",
+        "author": "TECH WEB MANTRA",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 20:07:30 +0000",
+        "description": "Custom MLM Software Development Company in Delhi for Growing Networks The network marketing and direct selling industry has changed significantly with the gr...",
+        "keywords": "mlm, software, can, business, development, network, custom, members",
+        "generated": "2026-09-12T20:23:47.693318",
+        "file": "custom-mlm-software-development-company-in-delhi-for-growing-networks.md"
     },
     {
         "title": "Buying Verified Edu Mail Accounts A Practical Guide",
@@ -20589,6 +20644,17 @@
         "file": "the-orchestrators-dilemma-are-we-developers-or-just-quest-givers.md"
     },
     {
+        "title": "SaaS API Chargeback Explained — Python Team Keys Over Self-Reported Usage",
+        "slug": "saas-api-chargeback-explained-python-team-keys-over-self-reported-usage",
+        "author": "YvesSterling6854",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 19:34:09 +0000",
+        "description": "Short answer: make each cost centre a separate API key, attribute spend from the platform's per-key usage, and publish that ledger where teams already work i...",
+        "keywords": "usage, key, api, cost, platform, team, keys, one",
+        "generated": "2026-09-12T20:23:47.691925",
+        "file": "saas-api-chargeback-explained-python-team-keys-over-self-reported-usage.md"
+    },
+    {
         "title": "I built TookEffect to verify what AI agents actually did",
         "slug": "i-built-tookeffect-to-verify-what-ai-agents-actually-did",
         "author": "Gabriel Salera",
@@ -21029,6 +21095,17 @@
         "file": "show-hn-kakehashi-experimental-userspace-to-run-macos-binaries-on-linux-arm.md"
     },
     {
+        "title": "CISA Alerts on Actively Exploited CVE-2026-32202 and JFrog Flaws Amidst BTC $77,135 Market",
+        "slug": "cisa-alerts-on-actively-exploited-cve-2026-32202-and-jfrog-flaws-amidst-btc-77135-market",
+        "author": "kchour96-dev",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 19:59:28 +0000",
+        "description": "🔗 Live Dashboard: autonomous-portfolio-2026.live 📢 Telegram: t.me/AII2026futher Today's Headlines Bitcoin (BTC) is trading at $77,135, experiencing a minor -...",
+        "keywords": "cve, crypto, actively, market, cisa, exploited, vulnerabilities, exploitation",
+        "generated": "2026-09-12T20:23:47.694700",
+        "file": "cisa-alerts-on-actively-exploited-cve-2026-32202-and-jfrog-flaws-amidst-btc-77135-market.md"
+    },
+    {
         "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
         "slug": "vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs",
         "author": "dmckinno",
@@ -21456,6 +21533,17 @@
         "keywords": "game, sony, makes, bold, claim, ownership, url, https",
         "generated": "2026-09-03T16:11:07.913174",
         "file": "sony-makes-bold-claim-about-game-ownership.md"
+    },
+    {
+        "title": "Best Geolocation APIs for Developers in 2026",
+        "slug": "best-geolocation-apis-for-developers-in-2026",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 20:20:10 +0000",
+        "description": "Need geolocation data for your app? Here are the best APIs available on APILayer for geolocation. 1. IPStack Locate and identify website visitors by IP addre...",
+        "keywords": "geolocation, apis, api, free, best, data, apilayer, ipstack",
+        "generated": "2026-09-12T20:23:47.692154",
+        "file": "best-geolocation-apis-for-developers-in-2026.md"
     },
     {
         "title": "Pay Per Image or Pay Every Month for AI Product Photo Edits, and How to Tell Which One Fits Your Catalog",
@@ -31952,6 +32040,17 @@
         "file": "agents-are-your-new-customer.md"
     },
     {
+        "title": "An open letter to Dario: if you mean it, open the weights",
+        "slug": "an-open-letter-to-dario-if-you-mean-it-open-the-weights",
+        "author": "routelastresort",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 19:15:32 +0000",
+        "description": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/ Comments URL: https://news.ycombinator.com/item?id=49676085 Points: 156...",
+        "keywords": "open, letter, dario, weights, url, https, comments, you",
+        "generated": "2026-09-12T20:23:47.690540",
+        "file": "an-open-letter-to-dario-if-you-mean-it-open-the-weights.md"
+    },
+    {
         "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
         "slug": "klara-and-the-sun-essay-contest-1k-prize-ai-use-allowed",
         "author": "fkozlowski",
@@ -32709,6 +32808,17 @@
         "keywords": "deepseek, model, code, you, coder, models, flash, but",
         "generated": "2026-06-26T19:58:27.781789",
         "file": "i-ran-10-ai-coding-models-through-real-tasks-heres-what-actually-won.md"
+    },
+    {
+        "title": "Paid DMARC and MTA-STS audit APIs for AI agents (x402, 2026-09-12)",
+        "slug": "paid-dmarc-and-mta-sts-audit-apis-for-ai-agents-x402-2026-09-12",
+        "author": "HAL GOBVAN",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 19:09:20 +0000",
+        "description": "Two new paid email-security audit APIs Built on top of the same URL-metadata x402 stack as /api/extract , /api/summarize , /api/keywords , /api/seo-audit , a...",
+        "keywords": "api, dmarc, sts, mta, domain, agents, email, policy",
+        "generated": "2026-09-12T20:23:47.692079",
+        "file": "paid-dmarc-and-mta-sts-audit-apis-for-ai-agents-x402-2026-09-12.md"
     },
     {
         "title": "The Next Bottleneck After Vibe Coding Isn’t Code",
@@ -46778,6 +46888,17 @@
         "file": "detect-serp-features-in-search-results-for-better-seo-context.md"
     },
     {
+        "title": "Implementing a Budget Alert Threshold Before a Hard Spend Cap Stops Runaway Traffic",
+        "slug": "implementing-a-budget-alert-threshold-before-a-hard-spend-cap-stops-runaway-traffic",
+        "author": "SolomonFletcher5872",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 20:11:10 +0000",
+        "description": "Short answer: set a hard spend cap at the number the game service must never exceed, then put a budget alert threshold below it; only the cap can refuse the ...",
+        "keywords": "response, one, budget, cap, when, spend, key, credential",
+        "generated": "2026-09-12T20:23:47.691411",
+        "file": "implementing-a-budget-alert-threshold-before-a-hard-spend-cap-stops-runaway-traffic.md"
+    },
+    {
         "title": "How to Use OpenAI API to Build Profitable Apps",
         "slug": "how-to-use-openai-api-to-build-profitable-apps",
         "author": "qing",
@@ -54278,6 +54399,17 @@
         "file": "how-i-built-a-six-figure-ai-api-reseller-funnel-and-how-you-can-too.md"
     },
     {
+        "title": "Nvidia is the central bank of AI",
+        "slug": "nvidia-is-the-central-bank-of-ai",
+        "author": "tolugenius",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 15:08:27 +0000",
+        "description": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 242 # Comments: 181",
+        "keywords": "https, comments, nvidia, central, bank, archive, url, news",
+        "generated": "2026-09-12T20:23:47.690836",
+        "file": "nvidia-is-the-central-bank-of-ai.md"
+    },
+    {
         "title": "AI Help With Your Database Design, Without the Cloud",
         "slug": "ai-help-with-your-database-design-without-the-cloud",
         "author": "Son Tran",
@@ -54595,6 +54727,17 @@
         "keywords": "what, you, working, comments, ask, august, have, been",
         "generated": "2026-08-09T18:49:27.357068",
         "file": "ask-hn-what-are-you-working-on-august-2026.md"
+    },
+    {
+        "title": "Candidacy vs Selection: What Happens When You Stop Studying Only the Winners?",
+        "slug": "candidacy-vs-selection-what-happens-when-you-stop-studying-only-the-winners",
+        "author": "Daniel Pokorný",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 20:12:01 +0000",
+        "description": "We thought we were measuring AI recommendations. We weren't. At least, not completely. For most of our previous research, we analyzed brands that AI had alre...",
+        "keywords": "recommended, stores, intent, brand, recommendation, score, never, but",
+        "generated": "2026-09-12T20:23:47.692811",
+        "file": "candidacy-vs-selection-what-happens-when-you-stop-studying-only-the-winners.md"
     },
     {
         "title": "LLM-Powered Stock Prediction: A Guide",
@@ -68536,10 +68679,10 @@
         "slug": "shadow-ai-enterprise-essential-compliance-controls",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Thu, 10 Sep 2026 03:51:45 +0000",
-        "description": "Why Shadow AI Enterprise Use Creates Control Gaps A single copied prompt can become an unreported data breach. The shadow AI enterprise problem begins when e...",
-        "keywords": "data, can, controls, shadow, approved, governance, risk, enterprise",
-        "generated": "2026-09-10T04:04:27.717524",
+        "published": "Sat, 12 Sep 2026 20:16:44 +0000",
+        "description": "Employees are adopting generative AI faster than security teams can govern it. That makes shadow AI enterprise usage more than an IT visibility problem: a si...",
+        "keywords": "data, enterprise, controls, access, policy, compliance, can, model",
+        "generated": "2026-09-12T20:23:47.693522",
         "file": "shadow-ai-enterprise-essential-compliance-controls.md"
     },
     {
@@ -70094,6 +70237,17 @@
         "file": "10-minutes-to-your-best-headshot-a-simple-pre-session-routine.md"
     },
     {
+        "title": "How Modern MLM Software in Madhya Pradesh Helps Network Marketing Businesses Scale Smarter",
+        "slug": "how-modern-mlm-software-in-madhya-pradesh-helps-network-marketing-businesses-scale-smarter",
+        "author": "TECH WEB MANTRA",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 20:18:27 +0000",
+        "description": "How Modern MLM Software in Madhya Pradesh Helps Network Marketing Businesses Scale Smarter Network marketing businesses often begin with a relatively simple ...",
+        "keywords": "can, mlm, software, business, may, member, network, businesses",
+        "generated": "2026-09-12T20:23:47.692498",
+        "file": "how-modern-mlm-software-in-madhya-pradesh-helps-network-marketing-businesses-scale-smarter.md"
+    },
+    {
         "title": "Apache Iceberg Branching, Tagging & WAP: Production Patterns",
         "slug": "apache-iceberg-branching-tagging-wap-production-patterns",
         "author": "Gowtham Potureddi",
@@ -71071,6 +71225,17 @@
         "keywords": "url, https, com, news, comments, uber, shuts, operations",
         "generated": "2026-09-03T03:53:39.464164",
         "file": "uber-shuts-operations-in-nigeria-and-uganda-with-immediate-effect.md"
+    },
+    {
+        "title": "AI Office Agents: Why No Model Selection, No Prompts Is the Future of Workplace Automation",
+        "slug": "ai-office-agents-why-no-model-selection-no-prompts-is-the-future-of-workplace-automation",
+        "author": "mpoper",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 20:10:02 +0000",
+        "description": "AI Office Agents: Why “No Model Selection, No Prompts” Is the Future of Workplace Automation The short version: Office agents that let you skip model selecti...",
+        "keywords": "model, office, prompt, agent, task, selection, user, prompts",
+        "generated": "2026-09-12T20:23:47.693940",
+        "file": "ai-office-agents-why-no-model-selection-no-prompts-is-the-future-of-workplace-automation.md"
     },
     {
         "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
@@ -72294,6 +72459,17 @@
         "file": "how-i-cut-llm-api-costs-by-60-with-2-lines-of-code.md"
     },
     {
+        "title": "Python 3.15 soft-deprecates re.match() for re.prefixmatch",
+        "slug": "python-315-soft-deprecates-rematch-for-reprefixmatch",
+        "author": "techaiwire",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 20:12:29 +0000",
+        "description": "Python 3.15 adds a function called re.prefixmatch() and marks the 30-year-old re.match() as soft deprecated in its place. The two do exactly the same thing. ...",
+        "keywords": "python, match, prefixmatch, soft, name, new, pattern, not",
+        "generated": "2026-09-12T20:23:47.691060",
+        "file": "python-315-soft-deprecates-rematch-for-reprefixmatch.md"
+    },
+    {
         "title": "Copyright does not protect AI-generated content in EU",
         "slug": "copyright-does-not-protect-ai-generated-content-in-eu",
         "author": "u1hcw9nx",
@@ -73216,6 +73392,17 @@
         "keywords": "bread, bakery, quality, king, meerut, brand, products, fresh",
         "generated": "2026-09-05T10:19:57.821889",
         "file": "fresh-taste-trusted-quality-king-bread-in-meerut.md"
+    },
+    {
+        "title": "Stop AI Hallucinations: Building Zero-Hallucination Inference Engines in TypeScript with json-rules-engine and N3",
+        "slug": "stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-json-rules-engine-and-n3",
+        "author": "Programming Central",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 20:00:00 +0000",
+        "description": "If you have spent any time building production applications with Large Language Models, you have likely hit the reliability wall. You prompt an LLM, tweak yo...",
+        "keywords": "engine, rule, rules, procedural, semantic, const, json, namednode",
+        "generated": "2026-09-12T20:23:47.694487",
+        "file": "stop-ai-hallucinations-building-zero-hallucination-inference-engines-in-typescript-with-json-rules-engine-and-n3.md"
     },
     {
         "title": "ChatGPT Event-Triggered Tasks: Gmail, Slack, GitHub Checklist",
@@ -76173,6 +76360,17 @@
         "file": "ai-for-manufacturing-smart-factory-use-cases-amp-roi.md"
     },
     {
+        "title": "Make your first edit to OpenStreetMap",
+        "slug": "make-your-first-edit-to-openstreetmap",
+        "author": "juliantigler",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 16:25:08 +0000",
+        "description": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 139 # Comments: 49",
+        "keywords": "url, https, comments, make, your, first, edit, openstreetmap",
+        "generated": "2026-09-12T20:23:47.690731",
+        "file": "make-your-first-edit-to-openstreetmap.md"
+    },
+    {
         "title": "Postgres Queues Actually Scale",
         "slug": "postgres-queues-actually-scale",
         "author": "KraftyOne",
@@ -76716,10 +76914,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Fri, 11 Sep 2026 19:54:43 +0000",
+        "published": "Sat, 12 Sep 2026 19:51:21 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-09-11T20:46:17.639513",
+        "generated": "2026-09-12T20:23:47.691531",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
