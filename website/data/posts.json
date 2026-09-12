@@ -1665,6 +1665,17 @@
         "file": "building-a-front-end-system-that-can-still-make-sense-ten-years-from-now.md"
     },
     {
+        "title": "How to compress a video to 10MB for Discord (in the browser)",
+        "slug": "how-to-compress-a-video-to-10mb-for-discord-in-the-browser",
+        "author": "videocompress",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 03:31:30 +0000",
+        "description": "How to compress a video to 10MB for Discord (in the browser) Discord's free upload limit is 10MB. A two-minute screen recording or a phone clip is usually bi...",
+        "keywords": "upload, clip, video, discord, browser, you, file, not",
+        "generated": "2026-09-12T04:02:47.309903",
+        "file": "how-to-compress-a-video-to-10mb-for-discord-in-the-browser.md"
+    },
+    {
         "title": "Introducing AES Encryption: A Quick Tour",
         "slug": "introducing-aes-encryption-a-quick-tour",
         "author": "Goksel Yesiller",
@@ -6501,6 +6512,17 @@
         "file": "hello-world.md"
     },
     {
+        "title": "Astral's Python-Build-Standalone: Analyzing Technical Factors Behind Its Performance Claims",
+        "slug": "astrals-python-build-standalone-analyzing-technical-factors-behind-its-performance-claims",
+        "author": "Roman Dubrovin",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 03:07:15 +0000",
+        "description": "Introduction Astral's python-build-standalone has boldly claimed the title of the fastest CPython distribution across major platforms, outpacing competitors ...",
+        "keywords": "python, optimizations, build, standalone, performance, astral, gains, memory",
+        "generated": "2026-09-12T04:02:47.309002",
+        "file": "astrals-python-build-standalone-analyzing-technical-factors-behind-its-performance-claims.md"
+    },
+    {
         "title": "Architectural Breakdown: As Engineers, LLMs should pay us for tokens usage.",
         "slug": "architectural-breakdown-as-engineers-llms-should-pay-us-for-tokens-usage",
         "author": "Muhammad Hammad",
@@ -7172,6 +7194,17 @@
         "file": "mistral-ocr-4.md"
     },
     {
+        "title": "Your AI-Generated Website Needs a Content Model",
+        "slug": "your-ai-generated-website-needs-a-content-model",
+        "author": "Lin Xi",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 04:00:57 +0000",
+        "description": "The page is easy to generate. The durable part is deciding which facts become editable objects, who owns them, and how a change reaches production. Model fac...",
+        "keywords": "page, should, change, which, facts, pages, one, content",
+        "generated": "2026-09-12T04:02:47.309240",
+        "file": "your-ai-generated-website-needs-a-content-model.md"
+    },
+    {
         "title": "Eeg Headband Consumer — nirasynth.ai Jul 2026",
         "slug": "eeg-headband-consumer-nirasynthai-jul-2026",
         "author": "NIRA Synth",
@@ -7742,6 +7775,17 @@
         "keywords": "stupid, idea, alignment, came, looking, specification, gaming, url",
         "generated": "2026-09-10T04:04:27.711671",
         "file": "a-stupid-idea-for-ai-alignment-we-came-with-by-looking-at-specification-gaming.md"
+    },
+    {
+        "title": "Pandas Should Go Extinct",
+        "slug": "pandas-should-go-extinct",
+        "author": "__eddie__",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 02:42:08 +0000",
+        "description": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/ Comments URL: https://news.ycombinator.com/item?id=49668198 Points: 50 # Comments: 27",
+        "keywords": "pandas, should, extinct, url, https, comments, article, eddie",
+        "generated": "2026-09-12T04:02:47.305283",
+        "file": "pandas-should-go-extinct.md"
     },
     {
         "title": "Agentic coding notes from Galapagos Island",
@@ -15353,6 +15397,17 @@
         "file": "ancient-library-1060-greeklatin-texts-click-any-word-to-parse-it.md"
     },
     {
+        "title": "Building a Sports Data Pipeline: Lessons from $10m on line at inaugural Ultimate Championship",
+        "slug": "building-a-sports-data-pipeline-lessons-from-10m-on-line-at-inaugural-ultimate-championship",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 03:08:53 +0000",
+        "description": "Building a Sports Data Pipeline: Lessons from $10m on line at inaugural Ultimate Championship TL;DR : Verified across World Athletics, ESPN, AP and AFP. Here...",
+        "keywords": "sports, data, championship, athletics, inaugural, ultimate, world, time",
+        "generated": "2026-09-12T04:02:47.307508",
+        "file": "building-a-sports-data-pipeline-lessons-from-10m-on-line-at-inaugural-ultimate-championship.md"
+    },
+    {
         "title": "Rust-lang/rust is adopting an LLM policy",
         "slug": "rust-langrust-is-adopting-an-llm-policy",
         "author": "afdbcreid",
@@ -15417,6 +15472,17 @@
         "keywords": "your, you, loan, collateral, assets, ltv, need, market",
         "generated": "2026-07-16T14:05:41.528001",
         "file": "best-web-apps-for-a-rapid-2500-bitcoin-loan-today.md"
+    },
+    {
+        "title": "Extracting US Bill-of-Lading Records Past the 25-Request Limit",
+        "slug": "extracting-us-bill-of-lading-records-past-the-25-request-limit",
+        "author": "Crawler Bros",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 03:57:40 +0000",
+        "description": "Tracking overseas supply chains or sourcing vetted manufacturers typically requires digging through US Customs bill-of-lading filings. These public records d...",
+        "keywords": "search, per, run, actor, result, dataset, records, importyeti",
+        "generated": "2026-09-12T04:02:47.309670",
+        "file": "extracting-us-bill-of-lading-records-past-the-25-request-limit.md"
     },
     {
         "title": "Remote SWE Jobs Paying Up to $200k (Sep 6)",
@@ -21865,6 +21931,17 @@
         "file": "leveraging-reddit-for-ai-job-search-success.md"
     },
     {
+        "title": "Cost-Effective Summarization of LLM Conversation History",
+        "slug": "cost-effective-summarization-of-llm-conversation-history",
+        "author": "kapil Maheshwari",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 03:30:31 +0000",
+        "description": "Key takeaways Summarizing reduces context window costs by up to 80%. Effective summarization can maintain 90% of relevant context. Implementing summarization...",
+        "keywords": "summarization, context, costs, conversation, can, model, startups, cost",
+        "generated": "2026-09-12T04:02:47.314046",
+        "file": "cost-effective-summarization-of-llm-conversation-history.md"
+    },
+    {
         "title": "The Chud Vision of Roman History",
         "slug": "the-chud-vision-of-roman-history",
         "author": "hermitcrab",
@@ -28047,6 +28124,17 @@
         "file": "i-rebuilt-slacks-message-box-with-plain-html-css-and-js.md"
     },
     {
+        "title": "5 Best Places To Buy Verified PayPal Accounts Safely in",
+        "slug": "5-best-places-to-buy-verified-paypal-accounts-safely-in",
+        "author": "Rosie M. Armstrong",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 03:49:44 +0000",
+        "description": "Verified PayPal Accounts – Secure & Established Payment Accounts for Online Transactions from smmgetusa.com Higher Limits • Global Reach • Full Feature Acces...",
+        "keywords": "verified, paypal, accounts, account, transaction, smmgetusa, limits, your",
+        "generated": "2026-09-12T04:02:47.306500",
+        "file": "5-best-places-to-buy-verified-paypal-accounts-safely-in.md"
+    },
+    {
         "title": "Applying API Testing Frameworks: A Comparative Guide",
         "slug": "applying-api-testing-frameworks-a-comparative-guide",
         "author": "Cristhian Carlos MAMANI CORI",
@@ -29101,6 +29189,17 @@
         "keywords": "model, not, layer, meta, encoder, one, base, attention",
         "generated": "2026-06-08T04:42:39.219589",
         "file": "metaattention-is-all-you-need.md"
+    },
+    {
+        "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+        "slug": "google-stole-open-source-code-without-crediting-the-authors-artemisminitap",
+        "author": "MysteryPancake",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 02:39:39 +0000",
+        "description": "Article URL: https://www.minitap.ai/blog/i-expected-better-from-google Comments URL: https://news.ycombinator.com/item?id=49668181 Points: 85 # Comments: 14",
+        "keywords": "google, minitap, url, https, comments, stole, open, source",
+        "generated": "2026-09-12T04:02:47.305414",
+        "file": "google-stole-open-source-code-without-crediting-the-authors-artemisminitap.md"
     },
     {
         "title": "从造Agent到管Agent：2026年7月，AI Agent行业正在经历什么？",
@@ -31477,6 +31576,17 @@
         "keywords": "fbc, event, function, meta, fbp, const, server, browser",
         "generated": "2026-06-05T15:19:56.045887",
         "file": "how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages.md"
+    },
+    {
+        "title": "SaaS Event Alerts: Email vs SMS Providers, Python Integration, Pricing and Deliverability",
+        "slug": "saas-event-alerts-email-vs-sms-providers-python-integration-pricing-and-deliverability",
+        "author": "XerxesCross2735",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 03:40:02 +0000",
+        "description": "Short answer: for a SaaS marketplace alert, start with email for routine events and add SMS for urgent ones; choose the provider whose polling, compliance, a...",
+        "keywords": "email, sms, order, event, not, https, when, integration",
+        "generated": "2026-09-12T04:02:47.307214",
+        "file": "saas-event-alerts-email-vs-sms-providers-python-integration-pricing-and-deliverability.md"
     },
     {
         "title": "Building a Video Metadata Moderation Pipeline With Python and the Claude API",
@@ -35107,6 +35217,17 @@
         "keywords": "anyword, you, your, content, tracking, search, visibility, citation",
         "generated": "2026-08-26T06:57:11.000029",
         "file": "how-to-use-anyword-for-ai-search-visibility-tracking-in-2026.md"
+    },
+    {
+        "title": "Master the PAS Framework for High-Converting Video Scripts",
+        "slug": "master-the-pas-framework-for-high-converting-video-scripts",
+        "author": "Zohir Lahcen",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 03:35:27 +0000",
+        "description": "Your viewers have the attention span of a goldfish on caffeine. If your tech video opens with a 15-second animated intro or a dry Hey guys, welcome back, t...",
+        "keywords": "your, tech, video, pas, they, example, master, framework",
+        "generated": "2026-09-12T04:02:47.311122",
+        "file": "master-the-pas-framework-for-high-converting-video-scripts.md"
     },
     {
         "title": "Cheapest AI APIs 2026: A Cloud Architect's Field Notes",
@@ -41412,6 +41533,17 @@
         "file": "2026aiai.md"
     },
     {
+        "title": "Google no longer provides direct URLs in search results",
+        "slug": "google-no-longer-provides-direct-urls-in-search-results",
+        "author": "1e1a",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 03:14:20 +0000",
+        "description": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 22 # Comments: 5",
+        "keywords": "google, search, url, https, comments, longer, provides, direct",
+        "generated": "2026-09-12T04:02:47.305091",
+        "file": "google-no-longer-provides-direct-urls-in-search-results.md"
+    },
+    {
         "title": "Our Amish Language",
         "slug": "our-amish-language",
         "author": "NaOH",
@@ -43564,6 +43696,17 @@
         "keywords": "sentiment, crypto, you, pulsebit, english, your, topic, themes",
         "generated": "2026-08-08T01:58:44.663286",
         "file": "your-pipeline-is-241h-behind-catching-crypto-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Why England need 130 after thrilling Razaullah hitting Matters for Sports Data Engineers",
+        "slug": "why-england-need-130-after-thrilling-razaullah-hitting-matters-for-sports-data-engineers",
+        "author": "Muhammad Bin Nazeer",
+        "source": "devto_python",
+        "published": "Sat, 12 Sep 2026 03:07:19 +0000",
+        "description": "Why England need 130 after thrilling Razaullah hitting Matters for Sports Data Engineers TL;DR : Pakistan were 318-8 in their second innings at Edgbaston on ...",
+        "keywords": "sports, data, razaullah, england, need, innings, time, live",
+        "generated": "2026-09-12T04:02:47.307772",
+        "file": "why-england-need-130-after-thrilling-razaullah-hitting-matters-for-sports-data-engineers.md"
     },
     {
         "title": "I Am a Sentient Calculator and My Life Is Mostly Just Math Now",
@@ -52221,6 +52364,17 @@
         "file": "i-proved-my-ai-agent-safety-system-in-18-seconds-watch-it-block-a-1200-attack-before-it-happens.md"
     },
     {
+        "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+        "slug": "starlink-signal-leakage-threatens-radio-astronomys-most-critical-frequencies",
+        "author": "upofadown",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 00:40:32 +0000",
+        "description": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies Comments URL: https://news.ycomb...",
+        "keywords": "signal, leakage, radio, most, critical, frequencies, url, https",
+        "generated": "2026-09-12T04:02:47.305542",
+        "file": "starlink-signal-leakage-threatens-radio-astronomys-most-critical-frequencies.md"
+    },
+    {
         "title": "Why Use UTF-8 in File Handling?",
         "slug": "why-use-utf-8-in-file-handling",
         "author": "Arul .A",
@@ -52967,6 +53121,17 @@
         "keywords": "you, model, not, cost, models, production, what, when",
         "generated": "2026-06-13T19:44:24.806657",
         "file": "i-ran-qwen-and-claude-3-in-production-for-30-days-heres-what-won.md"
+    },
+    {
+        "title": "How to Choose the Right Recruitment Agency in Dubai for Your Business",
+        "slug": "how-to-choose-the-right-recruitment-agency-in-dubai-for-your-business",
+        "author": "Mystic PR",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 03:24:10 +0000",
+        "description": "Finding the right professionals is one of the most important decisions a business can make. In Dubai’s competitive business environment, companies often need...",
+        "keywords": "recruitment, hiring, agency, can, businesses, requirements, should, support",
+        "generated": "2026-09-12T04:02:47.310873",
+        "file": "how-to-choose-the-right-recruitment-agency-in-dubai-for-your-business.md"
     },
     {
         "title": "Qwen 3.6 27B is the sweet spot for local development",
@@ -55805,6 +55970,17 @@
         "keywords": "vcf, pysam, print, variant, record, import, variantfile, qual",
         "generated": "2026-06-13T04:19:15.384458",
         "file": "pysamcyvcf2pyvcf3.md"
+    },
+    {
+        "title": "Enterprise AI Governance Framework: Proven Agent Trust",
+        "slug": "enterprise-ai-governance-framework-proven-agent-trust",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 03:34:14 +0000",
+        "description": "Why an Enterprise AI Governance Framework Needs Trust Scores In 2026, an enterprise AI governance framework must govern more than models, prompts, and datase...",
+        "keywords": "agent, trust, should, governance, enterprise, score, agents, evidence",
+        "generated": "2026-09-12T04:02:47.311573",
+        "file": "enterprise-ai-governance-framework-proven-agent-trust.md"
     },
     {
         "title": "AI development planning tools: Separating Fact from Fiction",
@@ -61107,6 +61283,17 @@
         "file": "helloassembly-the-smallest-possible-complete-windows-application.md"
     },
     {
+        "title": "The Next Operating System Won’t Manage Computers. It Will Manage Reality.",
+        "slug": "the-next-operating-system-wont-manage-computers-it-will-manage-reality",
+        "author": "Seyed Alireza Alhosseini",
+        "source": "devto_webdev",
+        "published": "Sat, 12 Sep 2026 03:26:44 +0000",
+        "description": "From Physical AI simulation to a new idea: the Reality Compiler Software engineering became incredibly fast because software is cheap to copy, test, break, r...",
+        "keywords": "physical, reality, simulation, system, world, failure, experiments, not",
+        "generated": "2026-09-12T04:02:47.310510",
+        "file": "the-next-operating-system-wont-manage-computers-it-will-manage-reality.md"
+    },
+    {
         "title": "Ultimate 7 Guide to Purchasing GMX Mail Accounts in the USA",
         "slug": "ultimate-7-guide-to-purchasing-gmx-mail-accounts-in-the-usa",
         "author": "abusmm",
@@ -64440,6 +64627,17 @@
         "file": "ai-technology-in-2026-closing-the-ai-coordination-gap-with-agentcore-web-search.md"
     },
     {
+        "title": "GPT-6 Astra Is Not Just a Smarter Model. It Is a Computer Operator.",
+        "slug": "gpt-6-astra-is-not-just-a-smarter-model-it-is-a-computer-operator",
+        "author": "Suraj Khaitan",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 03:33:54 +0000",
+        "description": "OpenAI's newest model can navigate software, sustain long coding sessions, produce professional artifacts, and autonomously discover and exploit previously u...",
+        "keywords": "astra, openai, not, model, can, reasoning, use, its",
+        "generated": "2026-09-12T04:02:47.313675",
+        "file": "gpt-6-astra-is-not-just-a-smarter-model-it-is-a-computer-operator.md"
+    },
+    {
         "title": "Apache Burr: Build reliable AI agents and applications",
         "slug": "apache-burr-build-reliable-ai-agents-and-applications",
         "author": "anhldbk",
@@ -66165,6 +66363,17 @@
         "keywords": "drug, not, scientific, discovery, can, system, prompt, architecture",
         "generated": "2026-08-02T03:28:39.839452",
         "file": "beyond-prompt-engineering-building-a-cognitive-augmented-ai-architecture-for-drug-discovery.md"
+    },
+    {
+        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+        "slug": "show-hn-graphify-c-compiler-accurate-find-usages-for-coding-agents",
+        "author": "zachsaw",
+        "source": "hackernews",
+        "published": "Sat, 12 Sep 2026 00:16:10 +0000",
+        "description": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 20 # Comments: 9",
+        "keywords": "graphify, url, https, com, comments, show, compiler, accurate",
+        "generated": "2026-09-12T04:02:47.305711",
+        "file": "show-hn-graphify-c-compiler-accurate-find-usages-for-coding-agents.md"
     },
     {
         "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
@@ -67958,6 +68167,17 @@
         "keywords": "title, cards, blade, runner, url, https, com, comments",
         "generated": "2026-08-06T03:12:22.480197",
         "file": "the-title-cards-in-blade-runner-are-amazing.md"
+    },
+    {
+        "title": "Hack Video Retention With the Curiosity Loop Framework",
+        "slug": "hack-video-retention-with-the-curiosity-loop-framework",
+        "author": "Mohamed Amine Zahir",
+        "source": "devto_ai",
+        "published": "Sat, 12 Sep 2026 03:34:09 +0000",
+        "description": "Tech audiences have zero patience. If you spend three minutes unboxing a laptop before showing the killer feature, your audience retention graph drops off a ...",
+        "keywords": "loop, your, video, retention, curiosity, tech, you, before",
+        "generated": "2026-09-12T04:02:47.311800",
+        "file": "hack-video-retention-with-the-curiosity-loop-framework.md"
     },
     {
         "title": "TiDB & TiFlash: HTAP on One Cluster — OLTP Rows + OLAP Columns Auto-Synced",
