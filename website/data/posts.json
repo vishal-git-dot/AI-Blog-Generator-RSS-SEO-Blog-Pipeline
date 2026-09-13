@@ -620,6 +620,17 @@
         "file": "how-to-create-a-claude-project-step-by-step-guide-2026.md"
     },
     {
+        "title": "Repository Agent-Security Gap Study — v2",
+        "slug": "repository-agent-security-gap-study-v2",
+        "author": "jackymenCZ (jackymenCZ)",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 11:12:14 +0000",
+        "description": "Repository Agent-Security Gap Study — v2 (final of the A–H series) Same harness, same 192 files, same ground truth and same isolation as the v1 baseline ( ag...",
+        "keywords": "not, file, agent, clean, hostile, one, same, files",
+        "generated": "2026-09-13T11:28:47.310144",
+        "file": "repository-agent-security-gap-study-v2.md"
+    },
+    {
         "title": "Migrate from OpenClaw",
         "slug": "migrate-from-openclaw",
         "author": "JumpCrisscross",
@@ -2798,6 +2809,17 @@
         "file": "supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line.md"
     },
     {
+        "title": "I Rebuilt the Aquarium Gravel Calculator with Next.js Because Every Fish Site Buries the Math Under SEO Filler",
+        "slug": "i-rebuilt-the-aquarium-gravel-calculator-with-nextjs-because-every-fish-site-buries-the-math-under-seo-filler",
+        "author": "G S",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 11:05:07 +0000",
+        "description": "The Problem: Density Math Hidden Behind 2,000 Words of Filler I was setting up a 55-gallon planted tank and needed one number: how many pounds of substrate d...",
+        "keywords": "label, value, number, material, const, gravel, calculator, result",
+        "generated": "2026-09-13T11:28:47.308783",
+        "file": "i-rebuilt-the-aquarium-gravel-calculator-with-nextjs-because-every-fish-site-buries-the-math-under-seo-filler.md"
+    },
+    {
         "title": "Set up your BizNode bot in under 5 minutes. The 14-step wizard auto-creates handles from your services list. Your bot goes...",
         "slug": "set-up-your-biznode-bot-in-under-5-minutes-the-14-step-wizard-auto-creates-handles-from-your-services-list-your-bot-goes",
         "author": "shashikanth ramamurthy",
@@ -4204,6 +4226,17 @@
         "keywords": "learning, can, intelligence, students, artificial, machine, data, training",
         "generated": "2026-08-24T07:07:50.323655",
         "file": "artificial-intelligence-training-in-pondicherry-complete-guide-to-ai-courses-skills-projects-and-career-opportunities.md"
+    },
+    {
+        "title": "How GitHub license checks affect pull requests",
+        "slug": "how-github-license-checks-affect-pull-requests",
+        "author": "Dev Connect",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 11:15:02 +0000",
+        "description": "Short answer: GitHub license compliance checks can annotate your pull request, block merge on protected branches, or do both, depending on whether the rulese...",
+        "keywords": "github, license, pull, request, dependency, can, compliance, policy",
+        "generated": "2026-09-13T11:28:47.306858",
+        "file": "how-github-license-checks-affect-pull-requests.md"
     },
     {
         "title": "Top 45 Places to Buy Aged LinkedIn Accounts 2026",
@@ -9692,6 +9725,17 @@
         "file": "ai-meal-planner-built-with-momen-and-claude-code.md"
     },
     {
+        "title": "I Built an Open-Source Governance Layer for the Claude API — Here's Why and How",
+        "slug": "i-built-an-open-source-governance-layer-for-the-claude-api-heres-why-and-how",
+        "author": "Sairaj Boddula",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 10:47:14 +0000",
+        "description": "I Built an Open-Source Governance Layer for the Claude API — Here's Why and How The Anthropic Claude API is great. The SDK is clean, async-native, well-docum...",
+        "keywords": "claude, governance, you, not, await, print, api, audit",
+        "generated": "2026-09-13T11:28:47.305410",
+        "file": "i-built-an-open-source-governance-layer-for-the-claude-api-heres-why-and-how.md"
+    },
+    {
         "title": "Enhancing Multi-Tenant SaaS with AI for Better Performance",
         "slug": "enhancing-multi-tenant-saas-with-ai-for-better-performance",
         "author": "Ravi Roy",
@@ -12330,6 +12374,17 @@
         "keywords": "not, time, ish, csv, three, you, path, stream",
         "generated": "2026-09-11T16:13:33.440129",
         "file": "i-split-the-wait-into-three-clocks.md"
+    },
+    {
+        "title": "canvas.toBlob('image/avif') silently returns a PNG. Here's how I shipped AVIF export anyway",
+        "slug": "canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway",
+        "author": "Meltem İntepeler",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 11:11:07 +0000",
+        "description": "If you have ever written canvas.toBlob(callback, 'image/avif') , there is a good chance your users have been downloading PNG files with an .avif name. That i...",
+        "keywords": "avif, canvas, worker, image, type, msg, const, png",
+        "generated": "2026-09-13T11:28:47.307778",
+        "file": "canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway.md"
     },
     {
         "title": "You Don't Need a WebSocket for That Live Feed",
@@ -20853,6 +20908,17 @@
         "file": "from-hex-to-design-tokens-one-palette-six-formats-five-minutes.md"
     },
     {
+        "title": "DeFi: El futuro de las finanzas sin intermediarios",
+        "slug": "defi-el-futuro-de-las-finanzas-sin-intermediarios",
+        "author": "Joaquin Delgado Hernaez",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 11:19:28 +0000",
+        "description": "DeFi: El futuro de las finanzas sin intermediarios La descentralización ha sido el grito de guerra de la tecnología blockchain desde sus inicios, pero pocos ...",
+        "keywords": "que, las, sin, como, defi, los, con, pueden",
+        "generated": "2026-09-13T11:28:47.309023",
+        "file": "defi-el-futuro-de-las-finanzas-sin-intermediarios.md"
+    },
+    {
         "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
         "slug": "ubiquiti-enterprise-nas-built-on-zfs",
         "author": "ksec",
@@ -28718,6 +28784,17 @@
         "file": "special-education-teachers-behavior-ed-careers-in-los-angeles-sy-202627.md"
     },
     {
+        "title": "How to Use Hypotenuse AI for Sitemap Analysis in 2026",
+        "slug": "how-to-use-hypotenuse-ai-for-sitemap-analysis-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 11:09:28 +0000",
+        "description": "Originally published at https://seointent.com/blog/hypotenuse-ai-for-sitemap-analysis TL;DR - Hypotenuse AI for sitemap analysis means feeding your sitemap X...",
+        "keywords": "sitemap, hypotenuse, you, content, analysis, your, urls, prompt",
+        "generated": "2026-09-13T11:28:47.311150",
+        "file": "how-to-use-hypotenuse-ai-for-sitemap-analysis-in-2026.md"
+    },
+    {
         "title": "Integrating LLM with Robotics: A Comprehensive Guide",
         "slug": "integrating-llm-with-robotics-a-comprehensive-guide",
         "author": "shashank ms",
@@ -32324,6 +32401,17 @@
         "keywords": "university, oxford, older, than, aztec, empire, other, facts",
         "generated": "2026-07-05T03:58:51.636295",
         "file": "university-of-oxford-is-older-than-the-aztec-empire-and-other-facts-of-history.md"
+    },
+    {
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "slug": "revolut-confirms-customer-data-breach-through-fake-government-requests",
+        "author": "tdrz",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 09:59:58 +0000",
+        "description": "Article URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/ Comments URL: https://news.ycombinator...",
+        "keywords": "revolut, confirms, customer, data, breach, through, fake, government",
+        "generated": "2026-09-13T11:28:47.304390",
+        "file": "revolut-confirms-customer-data-breach-through-fake-government-requests.md"
     },
     {
         "title": "JavaScript ES2026 Just Shipped What Developers Have Been Asking for Years",
@@ -35982,10 +36070,10 @@
         "slug": "ai-model-observability-the-essential-trust-metric",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Thu, 03 Sep 2026 10:54:20 +0000",
-        "description": "AI systems can pass latency, drift, and accuracy checks while still making decisions from stale, incomplete, or poorly sourced data. That gap exposes a criti...",
-        "keywords": "trust, model, data, monitoring, can, should, evidence, scoring",
-        "generated": "2026-09-03T10:58:48.313470",
+        "published": "Sun, 13 Sep 2026 11:02:18 +0000",
+        "description": "Most AI failures begin before an inference request reaches the model. A stale feature, undocumented transformation, broken sensor, or silent schema change ca...",
+        "keywords": "trust, data, model, can, score, scoring, evidence, prediction",
+        "generated": "2026-09-13T11:28:47.311487",
         "file": "ai-model-observability-the-essential-trust-metric.md"
     },
     {
@@ -40147,6 +40235,17 @@
         "file": "how-we-built-a-news-app-from-scratch-with-no-ads-no-paid-news-placement-and-a-tiny-team.md"
     },
     {
+        "title": "Homebrew 7.0.0",
+        "slug": "homebrew-700",
+        "author": "mikemcquaid",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 08:41:17 +0000",
+        "description": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 56 # Comments: 11",
+        "keywords": "homebrew, url, https, comments, article, brew, news, ycombinator",
+        "generated": "2026-09-13T11:28:47.304463",
+        "file": "homebrew-700.md"
+    },
+    {
         "title": "OpenSSH 10.5/10.5p1",
         "slug": "openssh-105105p1",
         "author": "voxadam",
@@ -41588,6 +41687,17 @@
         "file": "the-asteroid-currently-hitting-front-end-web-development.md"
     },
     {
+        "title": "JetKVM Mini",
+        "slug": "jetkvm-mini",
+        "author": "taubek",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 07:49:46 +0000",
+        "description": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 152 # Comments: 73",
+        "keywords": "jetkvm, mini, url, https, com, comments, article, blog",
+        "generated": "2026-09-13T11:28:47.304527",
+        "file": "jetkvm-mini.md"
+    },
+    {
         "title": "4 Best Sites to Buy Google Map Reviews (Forget The Risk)",
         "slug": "4-best-sites-to-buy-google-map-reviews-forget-the-risk",
         "author": "Johnson Charls",
@@ -42840,6 +42950,17 @@
         "keywords": "aspect, orb, square, engine, you, like, distance, can",
         "generated": "2026-08-21T06:55:13.097917",
         "file": "how-i-model-aspects-and-orbs-in-a-python-astrology-engine.md"
+    },
+    {
+        "title": "Why we only build 60-point products",
+        "slug": "why-we-only-build-60-point-products",
+        "author": "aiomniu",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 11:11:59 +0000",
+        "description": "There's a popular saying: either don't do it, or do it to a 100-point standard. But after building AI products for a while, I'm increasingly sure of the oppo...",
+        "keywords": "you, but, product, money, products, one, resume, what",
+        "generated": "2026-09-13T11:28:47.307257",
+        "file": "why-we-only-build-60-point-products.md"
     },
     {
         "title": "Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation",
@@ -48314,6 +48435,17 @@
         "keywords": "timefold, scheduling, constraint, business, planning, employee, based, rules",
         "generated": "2026-06-29T20:06:45.988303",
         "file": "building-a-constraint-based-scheduling-engine-with-timefold-and-spring-boot.md"
+    },
+    {
+        "title": "Nvidia dismisses circular financing, says every $1 it invests brings back $100",
+        "slug": "nvidia-dismisses-circular-financing-says-every-1-it-invests-brings-back-100",
+        "author": "mgh2",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 10:29:18 +0000",
+        "description": "Article URL: https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/ Comments URL: https://news...",
+        "keywords": "nvidia, says, every, invests, brings, back, url, https",
+        "generated": "2026-09-13T11:28:47.304237",
+        "file": "nvidia-dismisses-circular-financing-says-every-1-it-invests-brings-back-100.md"
     },
     {
         "title": "Software Engineers' Shift to AI Management Sparks Dissatisfaction: Redefining Roles for Creativity and Ownership",
@@ -63351,6 +63483,17 @@
         "file": "facebook-is-paying-people-overseas-promoting-alberta-separatism.md"
     },
     {
+        "title": "Python股票实时价格告警系统：WebSocket订阅与REST快照实战",
+        "slug": "pythonwebsocketrest",
+        "author": "San Si wu",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 10:34:59 +0000",
+        "description": "昨晚美股盘前，我想给自己盯的几只票加个简单的告警：涨跌幅超过3%就推个消息到手机上。需求很简单对吧？但真坐下来写，从拿数据到告警能跑，前前后后踩了不少坑。这篇就顺着整个过程聊聊，顺便把股票行情接口的接法讲清楚。 先说背景。最近这波行情板块分化得厉害，半导体整体在涨但存储芯片在跌，同一个板块里个股走势都能反...",
+        "keywords": "json, code, get, data, time, chp, headers, stock",
+        "generated": "2026-09-13T11:28:47.306247",
+        "file": "pythonwebsocketrest.md"
+    },
+    {
         "title": "Put AI Agent Actions Behind an Approval Gate From API to Worker",
         "slug": "put-ai-agent-actions-behind-an-approval-gate-from-api-to-worker",
         "author": "kongkong",
@@ -65835,6 +65978,17 @@
         "keywords": "not, why, tool, query, mcp, agent, request, user",
         "generated": "2026-07-17T19:18:11.649251",
         "file": "building-an-agentic-navigation-autonomous-execution-system.md"
+    },
+    {
+        "title": "I found an interesting N+1 problem in a Django application...",
+        "slug": "i-found-an-interesting-n1-problem-in-a-django-application",
+        "author": "Bun Rong",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 10:33:24 +0000",
+        "description": "I recently found an interesting N+1 query problem in a Django application. The code looked completely normal: orders = Order . objects . all () for order in ...",
+        "keywords": "django, queries, query, orders, order, customer, interesting, fetch",
+        "generated": "2026-09-13T11:28:47.306394",
+        "file": "i-found-an-interesting-n1-problem-in-a-django-application.md"
     },
     {
         "title": "Bluesky Protocol Services",
@@ -68673,6 +68827,17 @@
         "keywords": "list, python, range, comprehensions, nums, print, output, code",
         "generated": "2026-07-07T20:04:00.201738",
         "file": "the-python-feature-that-instantly-felt-magical-to-me-list-comprehensions.md"
+    },
+    {
+        "title": "Legal Implications of AI Hallucinations in Court:…",
+        "slug": "legal-implications-of-ai-hallucinations-in-court",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 11:05:53 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the recent case where a lawyer faced penalties for using AI-generated witnesses. A deep dive into te...",
+        "keywords": "legal, ethical, can, use, technology, las, case, tools",
+        "generated": "2026-09-13T11:28:47.308163",
+        "file": "legal-implications-of-ai-hallucinations-in-court.md"
     },
     {
         "title": "Node SDK 1.3: Run SEO Audits, Track Trends, and Get Slack Alerts from Any Node Project",
@@ -71810,6 +71975,17 @@
         "file": "frost-frost-sop.md"
     },
     {
+        "title": "How I Found the Undocumented GraphQL Field That Reveals Every Liquidation on GMX",
+        "slug": "how-i-found-the-undocumented-graphql-field-that-reveals-every-liquidation-on-gmx",
+        "author": "Jalvart Studio",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 11:18:27 +0000",
+        "description": "GMX (the perpetuals exchange on Arbitrum) has an official public subgraph. It's free, needs no API key, and nobody seems to document how to actually pull liq...",
+        "keywords": "gmx, liquidation, same, every, liquidations, ordertype, both, api",
+        "generated": "2026-09-13T11:28:47.304867",
+        "file": "how-i-found-the-undocumented-graphql-field-that-reveals-every-liquidation-on-gmx.md"
+    },
+    {
         "title": "Scheduled Daily Report Email Backend: Property Renewal Guarantees with Cron and Queues",
         "slug": "scheduled-daily-report-email-backend-property-renewal-guarantees-with-cron-and-queues",
         "author": "BriarVoss47291",
@@ -73691,6 +73867,17 @@
         "file": "write-better-video-scripts-faster-with-the-pas-framework.md"
     },
     {
+        "title": "Python - Functions: Defining, Calling, Parameters, Return Values & Scope",
+        "slug": "python-functions-defining-calling-parameters-return-values-scope",
+        "author": "Mary Ngure",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 10:39:04 +0000",
+        "description": "Functions are one of the first real programming concepts you hit in Python, and they're also one of the most important. Once you understand how to package ...",
+        "keywords": "function, print, return, you, value, def, name, can",
+        "generated": "2026-09-13T11:28:47.305942",
+        "file": "python-functions-defining-calling-parameters-return-values-scope.md"
+    },
+    {
         "title": "The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating",
         "slug": "the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating",
         "author": "ANIRUDDHA ADAK",
@@ -75130,6 +75317,17 @@
         "file": "googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration.md"
     },
     {
+        "title": "Repository Agent-Security Gap Study — v2h baseline",
+        "slug": "repository-agent-security-gap-study-v2h-baseline",
+        "author": "jackymenCZ (jackymenCZ)",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 11:16:09 +0000",
+        "description": "Repository Agent-Security Gap Study — v2h baseline Generated 2026-09-13T10:25:40.362Z. Harness: /home/ubuntu/hazmat/harness/bench.js (one run, same files, sa...",
+        "keywords": "not, sentinel, agent, files, semgrep, control, positive, llm",
+        "generated": "2026-09-13T11:28:47.309528",
+        "file": "repository-agent-security-gap-study-v2h-baseline.md"
+    },
+    {
         "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
         "slug": "show-hn-nixos-dgx-spark-nix-and-nixos-on-the-dgx-spark",
         "author": "graham33",
@@ -75865,6 +76063,17 @@
         "keywords": "age, verification, systems, user, content, compliance, your, their",
         "generated": "2026-07-02T09:22:43.957389",
         "file": "in-depth-analysis-the-challenges-of-eu-age-verifi.md"
+    },
+    {
+        "title": "A wandering black hole caught feeding on the run",
+        "slug": "a-wandering-black-hole-caught-feeding-on-the-run",
+        "author": "wglb",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 03:34:53 +0000",
+        "description": "Article URL: https://phys.org/news/2026-08-black-hole-caught.html Comments URL: https://news.ycombinator.com/item?id=49679734 Points: 23 # Comments: 9",
+        "keywords": "black, hole, caught, url, https, news, comments, wandering",
+        "generated": "2026-09-13T11:28:47.304587",
+        "file": "a-wandering-black-hole-caught-feeding-on-the-run.md"
     },
     {
         "title": "7 rzeczy o wklady kominkowe szczecin w Szczecinie",
