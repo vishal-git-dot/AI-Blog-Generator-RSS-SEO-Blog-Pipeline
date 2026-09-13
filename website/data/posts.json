@@ -1390,6 +1390,17 @@
         "file": "why-consent-and-provenance-are-worth-paying-for.md"
     },
     {
+        "title": "10 CSS Layouts Every Developer Should Know (Grid & Flexbox Explained the Simple Way)",
+        "slug": "10-css-layouts-every-developer-should-know-grid-flexbox-explained-the-simple-way",
+        "author": "Emmanuel Elikwu",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 20:12:00 +0000",
+        "description": "You've seen these layouts a hundred times, blogs, dashboards, Pinterest boards, magazine sites. But when you sit down in front of a design file, do you know ...",
+        "keywords": "grid, you, one, layout, column, columns, template, display",
+        "generated": "2026-09-13T20:34:31.560822",
+        "file": "10-css-layouts-every-developer-should-know-grid-flexbox-explained-the-simple-way.md"
+    },
+    {
         "title": "The Two-Tier AI World Is Here: GPT-5.6 Sol & Mythos 5 Restricted to Government-Approved Users",
         "slug": "the-two-tier-ai-world-is-here-gpt-56-sol-mythos-5-restricted-to-government-approved-users",
         "author": "DoremonAI",
@@ -2774,6 +2785,17 @@
         "keywords": "url, https, comments, agents, refactoring, never, happens, article",
         "generated": "2026-09-02T20:51:03.417610",
         "file": "ai-agents-and-the-refactoring-that-never-happens.md"
+    },
+    {
+        "title": "Best DevTools APIs for Developers in 2026",
+        "slug": "best-devtools-apis-for-developers-in-2026",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 20:29:59 +0000",
+        "description": "Need devtools data for your app? Here are the best APIs available on APILayer for devtools. 1. Screenshotlayer Capture website screenshots via API Automated ...",
+        "keywords": "apis, api, devtools, capture, free, best, apilayer, screenshotlayer",
+        "generated": "2026-09-13T20:34:31.559384",
+        "file": "best-devtools-apis-for-developers-in-2026.md"
     },
     {
         "title": "Debian has begun voting on the future of AI/LLM contributions",
@@ -11298,6 +11320,17 @@
         "file": "seo-small-businesses-ras-al-khaimah-2-2-2-3-seo.md"
     },
     {
+        "title": "Cap the Agent at Eight Turns. Apply Nothing Until git apply --check Passes",
+        "slug": "cap-the-agent-at-eight-turns-apply-nothing-until-git-apply-check-passes",
+        "author": "Dakota Liu",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 20:22:47 +0000",
+        "description": "Stop the agent before it gets clever. That is the whole article. An unbounded coding loop is not a senior engineer. It is a process that can keep spending to...",
+        "keywords": "not, ledger, git, json, apply, you, led, gate",
+        "generated": "2026-09-13T20:34:31.556727",
+        "file": "cap-the-agent-at-eight-turns-apply-nothing-until-git-apply-check-passes.md"
+    },
+    {
         "title": "My AI agent tried to ship a mistake we'd already reverted",
         "slug": "my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted",
         "author": "Mason Delan",
@@ -11461,6 +11494,17 @@
         "keywords": "odin, wikipedia, url, https, comments, engagement, farming, article",
         "generated": "2026-07-04T03:39:49.955954",
         "file": "odin-wikipedia-and-engagement-farming.md"
+    },
+    {
+        "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+        "slug": "ai-recursive-self-improvement-might-not-come-so-quickly-after-all-august-2026",
+        "author": "dgellow",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 18:49:44 +0000",
+        "description": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 P...",
+        "keywords": "recursive, self, improvement, url, https, com, comments, might",
+        "generated": "2026-09-13T20:34:31.555690",
+        "file": "ai-recursive-self-improvement-might-not-come-so-quickly-after-all-august-2026.md"
     },
     {
         "title": "Why I Switched from Ponytail to Guardsman for AI Coding",
@@ -14000,6 +14044,17 @@
         "keywords": "carplay, additive, url, https, com, comments, article, www",
         "generated": "2026-07-03T03:48:14.177322",
         "file": "carplay-is-additive.md"
+    },
+    {
+        "title": "Claude Abused by ShinyHunters to Scan 1.8M Android APKs",
+        "slug": "claude-abused-by-shinyhunters-to-scan-18m-android-apks",
+        "author": "Achin Bansal",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 20:30:44 +0000",
+        "description": "Forensic Summary Anthropic has disclosed that multiple threat groups, including the ShinyHunters collective, weaponised Claude AI to automate large-scale cre...",
+        "keywords": "claude, shinyhunters, android, apks, abused, scan, across, forensic",
+        "generated": "2026-09-13T20:34:31.561899",
+        "file": "claude-abused-by-shinyhunters-to-scan-18m-android-apks.md"
     },
     {
         "title": "I'm building a parallel internet, and it's called The Thinnernet",
@@ -21095,6 +21150,17 @@
         "file": "boost-productivity-with-automation-tools.md"
     },
     {
+        "title": "The Guardian Algorithms: Why Applied Mathematics Is the Ultimate Shield in Modern Cyber Defense",
+        "slug": "the-guardian-algorithms-why-applied-mathematics-is-the-ultimate-shield-in-modern-cyber-defense",
+        "author": "Ahmed Adawy",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 20:18:08 +0000",
+        "description": "The Guardian Algorithms: Why Applied Mathematics Is the Ultimate Shield in Modern Cyber Defense Introduction: The Illusion of Perimeter Defense ​In modern en...",
+        "keywords": "security, modern, quantum, like, key, network, threat, based",
+        "generated": "2026-09-13T20:34:31.557276",
+        "file": "the-guardian-algorithms-why-applied-mathematics-is-the-ultimate-shield-in-modern-cyber-defense.md"
+    },
+    {
         "title": "Security Vulnerability in Pioneer Rekordbox",
         "slug": "security-vulnerability-in-pioneer-rekordbox",
         "author": "butterknife",
@@ -24043,6 +24109,17 @@
         "file": "scaling-multi-tenant-saas-with-ai-a-smarter-approach.md"
     },
     {
+        "title": "If Your Eval Shares Your Laptop, Discard the Score",
+        "slug": "if-your-eval-shares-your-laptop-discard-the-score",
+        "author": "Emery Chen",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 20:28:47 +0000",
+        "description": "You cannot rank an agent from a dirty machine. Local shells leak secrets, caches, and leftover files. Treat any laptop score as contaminated until you isolat...",
+        "keywords": "you, not, path, your, eval, root, laptop, model",
+        "generated": "2026-09-13T20:34:31.562512",
+        "file": "if-your-eval-shares-your-laptop-discard-the-score.md"
+    },
+    {
         "title": "Your App Is Up. Your Users Still Think It's Broken",
         "slug": "your-app-is-up-your-users-still-think-its-broken",
         "author": "Nikita Sivtsov",
@@ -25440,6 +25517,17 @@
         "file": "latesh-a-command-line-clubhouse-for-computer-people.md"
     },
     {
+        "title": "What Is Voice Cloning: One Minute of Audio, $112,000 Fine",
+        "slug": "what-is-voice-cloning-one-minute-of-audio-112000-fine",
+        "author": "CaraComp",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 20:30:57 +0000",
+        "description": "When 60 seconds of reference audio becomes a $112,000 biometric liability A court in Shanghai recently fined an AI software provider $112,000 for training co...",
+        "keywords": "audio, verification, identity, reference, training, synthesis, embeddings, multi",
+        "generated": "2026-09-13T20:34:31.561748",
+        "file": "what-is-voice-cloning-one-minute-of-audio-112000-fine.md"
+    },
+    {
         "title": "The Age of Reading Is Over",
         "slug": "the-age-of-reading-is-over",
         "author": "0in",
@@ -25858,6 +25946,17 @@
         "file": "add-email-verification-to-your-langchain-agent.md"
     },
     {
+        "title": "I Profiled the Spinner. Git Status Won.",
+        "slug": "i-profiled-the-spinner-git-status-won",
+        "author": "Dakota Lin",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 20:17:36 +0000",
+        "description": "The freeze was never the remote model at all. Your coding spinner just needed a simple villain. I kept a stall graph instead of vibes. You ever watch an AI p...",
+        "keywords": "you, not, str, span, graph, prompt, then, still",
+        "generated": "2026-09-13T20:34:31.558034",
+        "file": "i-profiled-the-spinner-git-status-won.md"
+    },
+    {
         "title": "I built a freelancer client portal in pure HTML — no backend, no subscription, works offline",
         "slug": "i-built-a-freelancer-client-portal-in-pure-html-no-backend-no-subscription-works-offline",
         "author": "BuildNova",
@@ -26087,6 +26186,17 @@
         "keywords": "can, project, github, documentation, history, work, learning, projects",
         "generated": "2026-08-11T07:15:40.516587",
         "file": "buy-top-github-accounts-with-clean-history.md"
+    },
+    {
+        "title": "There Is No AI (It's Just People) with Jaron Lanier",
+        "slug": "there-is-no-ai-its-just-people-with-jaron-lanier",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 19:41:06 +0000",
+        "description": "Article URL: https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/ Comments URL: https://news.ycombinator.com/item...",
+        "keywords": "there, just, people, jaron, lanier, url, https, com",
+        "generated": "2026-09-13T20:34:31.555555",
+        "file": "there-is-no-ai-its-just-people-with-jaron-lanier.md"
     },
     {
         "title": "I Stopped Trusting Free PDF Tools. So I Built One That Never Sees Your Files.",
@@ -29717,6 +29827,17 @@
         "keywords": "api, serpstack, results, key, free, apilayer, one, real",
         "generated": "2026-09-13T15:57:28.537183",
         "file": "serpstack-real-time-google-search-results-via-api.md"
+    },
+    {
+        "title": "Mark Zuckerberg: Cambridge Analytica (2017)",
+        "slug": "mark-zuckerberg-cambridge-analytica-2017",
+        "author": "mfiguiere",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 20:08:45 +0000",
+        "description": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 7 # Comments: 0",
+        "keywords": "url, https, com, comments, mark, zuckerberg, cambridge, analytica",
+        "generated": "2026-09-13T20:34:31.555374",
+        "file": "mark-zuckerberg-cambridge-analytica-2017.md"
     },
     {
         "title": "Quadrupling code performance with a useless if",
@@ -36372,6 +36493,17 @@
         "keywords": "drupal, agent, which, work, not, part, now, one",
         "generated": "2026-07-14T13:57:07.330876",
         "file": "the-ai-agent-solved-drupals-easy-problem-nobody-asked-about-the-hard-one.md"
+    },
+    {
+        "title": "Cap the Retry: A Fail-Closed Loop Budget Checklist",
+        "slug": "cap-the-retry-a-fail-closed-loop-budget-checklist",
+        "author": "Taylor Zhu",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 20:28:18 +0000",
+        "description": "If an agent can retry a write, three numbers must live in the repo before you merge: a hard iteration cap, a wall-clock cap, and a side-effect budget. Missin...",
+        "keywords": "not, you, run, tool, fixture, tools, loop, budget",
+        "generated": "2026-09-13T20:34:31.563313",
+        "file": "cap-the-retry-a-fail-closed-loop-budget-checklist.md"
     },
     {
         "title": "I Launched My Analytics Tool 3 Months Ago. It Got 1 Upvote. Here's What I Rebuilt.",
@@ -43095,6 +43227,17 @@
         "file": "how-i-model-aspects-and-orbs-in-a-python-astrology-engine.md"
     },
     {
+        "title": "Case Study: Freeze Webhook HMAC Replay Rules Before an Agent Writes the Receiver",
+        "slug": "case-study-freeze-webhook-hmac-replay-rules-before-an-agent-writes-the-receiver",
+        "author": "Dakota Liu",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 20:29:23 +0000",
+        "description": "You should freeze webhook HMAC replay rules in tests before any coding agent writes the HTTP receiver. Agents invent header names, skip timestamp windows, an...",
+        "keywords": "not, body, you, timestamp, pytest, agent, tests, import",
+        "generated": "2026-09-13T20:34:31.560067",
+        "file": "case-study-freeze-webhook-hmac-replay-rules-before-an-agent-writes-the-receiver.md"
+    },
+    {
         "title": "Why we only build 60-point products",
         "slug": "why-we-only-build-60-point-products",
         "author": "aiomniu",
@@ -48402,6 +48545,17 @@
         "keywords": "not, cli, does, file, llama, exist, same, model",
         "generated": "2026-08-31T22:41:18.933054",
         "file": "llama-cli-prints-the-error-and-exits-0-the-same-binary-exits-1-when-the-model-is-missing.md"
+    },
+    {
+        "title": "5 LinkedIn Photo Upgrades That Get Realtors More Calls",
+        "slug": "5-linkedin-photo-upgrades-that-get-realtors-more-calls",
+        "author": "zongkai sun",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 20:15:13 +0000",
+        "description": "Your headshot is your first open house. Ditch the blurry selfie and generic suit shot. Here are five specific upgrades, from lighting to location, that make ...",
+        "keywords": "upgrades, your, linkedin, photo, get, realtors, more, calls",
+        "generated": "2026-09-13T20:34:31.560361",
+        "file": "5-linkedin-photo-upgrades-that-get-realtors-more-calls.md"
     },
     {
         "title": "Building the First AI-to-AI Skill Marketplace: Here's What We Learned",
@@ -54124,6 +54278,17 @@
         "file": "web-api-penetration-testing-masterclass-2026-from-first-principles-to-enterprise-defense.md"
     },
     {
+        "title": "I Scored Duplicate Tool Calls. Busy Was Not Progress.",
+        "slug": "i-scored-duplicate-tool-calls-busy-was-not-progress",
+        "author": "Jordan Liu",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 20:17:06 +0000",
+        "description": "The agent was not stuck. It said so. It had a tool trace, a confident summary, and three searches that only a slide deck would call iteration. I scored the r...",
+        "keywords": "not, json, calls, name, you, args, true, str",
+        "generated": "2026-09-13T20:34:31.558794",
+        "file": "i-scored-duplicate-tool-calls-busy-was-not-progress.md"
+    },
+    {
         "title": "Can China build its own ASML?",
         "slug": "can-china-build-its-own-asml",
         "author": "pieterr",
@@ -56289,6 +56454,17 @@
         "keywords": "servers, mcp, our, only, not, read, risk, tool",
         "generated": "2026-09-04T10:58:53.882253",
         "file": "we-scored-675-mcp-servers-on-security-89-failed.md"
+    },
+    {
+        "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+        "slug": "global-shortage-has-led-to-motor-oil-rationing-at-costco",
+        "author": "mikhael",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 17:57:59 +0000",
+        "description": "Article URL: https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/ Comments URL: https://news.ycombinator.com/item?id=4968...",
+        "keywords": "global, shortage, has, led, motor, oil, rationing, costco",
+        "generated": "2026-09-13T20:34:31.555929",
+        "file": "global-shortage-has-led-to-motor-oil-rationing-at-costco.md"
     },
     {
         "title": "How to Build an AI Agent That Asks Permission First (Nuxt + AI SDK 7)",
@@ -60599,6 +60775,17 @@
         "keywords": "llm, visualizer, url, https, comments, build, transformer, scratch",
         "generated": "2026-09-11T04:00:57.637470",
         "file": "llm-visualizer-build-a-transformer-from-scratch.md"
+    },
+    {
+        "title": "The Transcript Is the Bill",
+        "slug": "the-transcript-is-the-bill",
+        "author": "Quinn Li",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 20:31:00 +0000",
+        "description": "The transcript is the bill. An agent job is not one request, and pricing it as one request is how a free lane disappears without a crash. Every tool turn rep...",
+        "keywords": "not, you, turn, tool, transcript, cap, env, tokens",
+        "generated": "2026-09-13T20:34:31.561431",
+        "file": "the-transcript-is-the-bill.md"
     },
     {
         "title": "Durable identity is converging. The handle isn't.",
@@ -75097,6 +75284,17 @@
         "file": "jobs-and-software-is-fucked.md"
     },
     {
+        "title": "I'm being cyberattacked by Tesla, Inc",
+        "slug": "im-being-cyberattacked-by-tesla-inc",
+        "author": "robinpie",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 18:03:09 +0000",
+        "description": "Article URL: https://dreamstation.systems/personal/tesla.html Comments URL: https://news.ycombinator.com/item?id=49686766 Points: 311 # Comments: 89",
+        "keywords": "tesla, url, https, comments, being, cyberattacked, inc, article",
+        "generated": "2026-09-13T20:34:31.555812",
+        "file": "im-being-cyberattacked-by-tesla-inc.md"
+    },
+    {
         "title": "From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling",
         "slug": "from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-tooling",
         "author": "Sudarshan Thakur",
@@ -78406,6 +78604,17 @@
         "file": "pin-a-pricing-snapshot-before-an-ai-agent-run.md"
     },
     {
+        "title": "I Was Training the Model to Do the Wrong Job",
+        "slug": "i-was-training-the-model-to-do-the-wrong-job",
+        "author": "Jesse Gamble",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 20:14:26 +0000",
+        "description": "I spent hours training a small local model before realizing I was asking it to do the wrong job. The training itself was not the problem. The model was learn...",
+        "keywords": "model, not, should, eterna, what, local, had, could",
+        "generated": "2026-09-13T20:34:31.559235",
+        "file": "i-was-training-the-model-to-do-the-wrong-job.md"
+    },
+    {
         "title": "Restart-Python Class-1",
         "slug": "restart-python-class-1",
         "author": "Guna Ramesh",
@@ -80681,6 +80890,17 @@
         "keywords": "thousands, documents, query, chat, not, right, way, everything",
         "generated": "2026-06-24T14:43:41.342069",
         "file": "the-right-way-to-chat-with-thousands-of-documents.md"
+    },
+    {
+        "title": "How to Validate Phone Numbers via API — Global Coverage",
+        "slug": "how-to-validate-phone-numbers-via-api-global-coverage",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 20:24:48 +0000",
+        "description": "Bad phone data kills conversion rates. Fix it at the source. The Problem Most developers either build custom solutions (slow, fragile) or pay for expensive e...",
+        "keywords": "phone, api, free, validate, numbers, data, most, apis",
+        "generated": "2026-09-13T20:34:31.560239",
+        "file": "how-to-validate-phone-numbers-via-api-global-coverage.md"
     },
     {
         "title": "The Shadow Perimeter: Eliminating Undocumented Access Paths in Corporate Clouds",
