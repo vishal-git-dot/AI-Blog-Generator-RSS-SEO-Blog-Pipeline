@@ -250,10 +250,10 @@
         "slug": "liquidity-risk-modeling-essential-ai-for-block-trades",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Sat, 12 Sep 2026 15:13:24 +0000",
-        "description": "Institutional desks rarely fail because an asset has no quoted liquidity. They fail because visible liquidity disappears once a large order reaches the marke...",
-        "keywords": "liquidity, risk, execution, order, market, imbalance, can, depth",
-        "generated": "2026-09-12T15:20:16.508909",
+        "published": "Sun, 13 Sep 2026 04:03:24 +0000",
+        "description": "Institutional traders rarely struggle to find a price; they struggle to determine whether that price will survive a large order. Liquidity risk modeling addr...",
+        "keywords": "order, liquidity, execution, depth, risk, block, market, book",
+        "generated": "2026-09-13T04:13:41.165598",
         "file": "liquidity-risk-modeling-essential-ai-for-block-trades.md"
     },
     {
@@ -16398,6 +16398,17 @@
         "file": "cftc-declares-market-emergency-orders-kalshi-to-continue-to-operate-in-new-york.md"
     },
     {
+        "title": "The Growing Tension Between Op…",
+        "slug": "the-growing-tension-between-op",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 04:05:56 +0000",
+        "description": "Originally published at norvik.tech Introduction A deep dive into the implications of AI on mathematical integrity, exploring technical details and real-worl...",
+        "keywords": "their, businesses, how, mathematicians, intellectual, these, companies, ethical",
+        "generated": "2026-09-13T04:13:41.164414",
+        "file": "the-growing-tension-between-op.md"
+    },
+    {
         "title": "Building a Polymarket Arbitrage Bot: 5 Strategies, One Signal-Ranking Problem",
         "slug": "building-a-polymarket-arbitrage-bot-5-strategies-one-signal-ranking-problem",
         "author": "Blockchain Rust Engineer",
@@ -17322,6 +17333,17 @@
         "file": "openchamber-an-agentic-development-environment.md"
     },
     {
+        "title": "Pin a God Pricer's Env, Cache, and Quote Before One Extract",
+        "slug": "pin-a-god-pricers-env-cache-and-quote-before-one-extract",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 03:36:24 +0000",
+        "description": "Do not extract helpers from an unpinned god function. Record env, cache, and quote maps first. Then move only one pure rate selector. That order keeps the pu...",
+        "keywords": "self, cache, decimal, region, quote, pricing, not, extract",
+        "generated": "2026-09-13T04:13:41.161681",
+        "file": "pin-a-god-pricers-env-cache-and-quote-before-one-extract.md"
+    },
+    {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: Muchova to miss Canadian Open after small surgery",
         "slug": "i-scraped-100-sports-matches-here-is-what-i-found-muchova-to-miss-canadian-open-after-small-surgery",
         "author": "Muhammad Bin Nazeer",
@@ -17584,6 +17606,17 @@
         "keywords": "python, masterclass, ultimate, guide, complete, beginner, professional, full",
         "generated": "2026-07-11T19:12:02.613800",
         "file": "python-complete-masterclass-2026-the-ultimate-beginner-to-professional-guide.md"
+    },
+    {
+        "title": "Benchmarking in-app announcement widgets: 150KB vs 3.8KB SDK",
+        "slug": "benchmarking-in-app-announcement-widgets-150kb-vs-38kb-sdk",
+        "author": "Pavan S Poojary",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 04:08:00 +0000",
+        "description": "We recently ran Lighthouse audits across 40 top B2B SaaS web applications. Over 65% of them were failing Interaction to Next Paint (INP) and Largest Contentf...",
+        "keywords": "app, neotic, you, your, onboarding, next, legacy, how",
+        "generated": "2026-09-13T04:13:41.163387",
+        "file": "benchmarking-in-app-announcement-widgets-150kb-vs-38kb-sdk.md"
     },
     {
         "title": "Wealth Management Technology: Essential Open-Source Edge",
@@ -19080,6 +19113,17 @@
         "keywords": "shelf, filings, market, shares, dilution, can, filing, company",
         "generated": "2026-08-14T13:17:35.135091",
         "file": "understanding-sec-shelf-filings-and-dilution-risk-in-trading.md"
+    },
+    {
+        "title": "The Interim Computer Museum",
+        "slug": "the-interim-computer-museum",
+        "author": "mulmen",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 02:43:57 +0000",
+        "description": "Article URL: https://icm.museum/ Comments URL: https://news.ycombinator.com/item?id=49679459 Points: 34 # Comments: 4",
+        "keywords": "museum, url, https, comments, interim, computer, article, icm",
+        "generated": "2026-09-13T04:13:41.159304",
+        "file": "the-interim-computer-museum.md"
     },
     {
         "title": "Building Better Front-End Code with Modern Web Guidance",
@@ -23394,6 +23438,17 @@
         "file": "nathan-haslick-discusses-how-data-science-shapes-smarter-business-decisions.md"
     },
     {
+        "title": "How to Get Your Startup Cited by ChatGPT in 2026",
+        "slug": "how-to-get-your-startup-cited-by-chatgpt-in-2026",
+        "author": "Spencer Claydon",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 04:01:35 +0000",
+        "description": "Somebody is asking ChatGPT for the best tool in your category right now, and it's naming three companies. You want to know whether you're one of them, and if...",
+        "keywords": "you, your, not, chatgpt, category, google, cited, one",
+        "generated": "2026-09-13T04:13:41.166468",
+        "file": "how-to-get-your-startup-cited-by-chatgpt-in-2026.md"
+    },
+    {
         "title": "Case Study: A Free Model's C++ Token Bucket Passed 18 Tests. NTP Broke It in One Second.",
         "slug": "case-study-a-free-models-c-token-bucket-passed-18-tests-ntp-broke-it-in-one-second",
         "author": "Finley Zhou",
@@ -27112,6 +27167,17 @@
         "file": "we-checked-every-single-typo-of-the-30-most-popular-npm-and-pypi-packages-heres-whats-actually-registered.md"
     },
     {
+        "title": "Tracking SaaS Revenue Benchmarks Across 500 Indie Hackers Products",
+        "slug": "tracking-saas-revenue-benchmarks-across-500-indie-hackers-products",
+        "author": "Crawler Bros",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 04:07:33 +0000",
+        "description": "Early-stage market researchers and bootstrapped founders frequently lack structured financial benchmarks for niche software businesses. Unlike public equitie...",
+        "keywords": "run, revenue, product, dataset, actor, event, indie, per",
+        "generated": "2026-09-13T04:13:41.163857",
+        "file": "tracking-saas-revenue-benchmarks-across-500-indie-hackers-products.md"
+    },
+    {
         "title": "Thiết kế Figma song song Dev Tools: Đánh giá hiệu năng Lunar Lake",
         "slug": "thit-k-figma-song-song-dev-tools-nh-gi-hiu-nng-lunar-lake",
         "author": "Laptop Hưng Phát",
@@ -30773,6 +30839,17 @@
         "keywords": "oneplus, battery, repair, our, melbourne, greensborough, your, mobile",
         "generated": "2026-07-26T13:40:34.480944",
         "file": "oneplus-7-battery-repair-in-melbourne-and-greensborough.md"
+    },
+    {
+        "title": "Three things that bit us moving a document scanner fully into the browser",
+        "slug": "three-things-that-bit-us-moving-a-document-scanner-fully-into-the-browser",
+        "author": "Yan Wang",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 03:55:14 +0000",
+        "description": "Photographing a page and turning it into a clean, printable PDF is, on paper, a solved problem: read a file, fix the perspective on a canvas, flatten the sha...",
+        "keywords": "you, worker, file, share, const, pdf, image, can",
+        "generated": "2026-09-13T04:13:41.165169",
+        "file": "three-things-that-bit-us-moving-a-document-scanner-fully-into-the-browser.md"
     },
     {
         "title": "How We Built a Production-Ready SaaS with Next.js, React Native & FastAPI",
@@ -35426,6 +35503,17 @@
         "keywords": "not, print, browser, screen, you, than, has, cmyk",
         "generated": "2026-07-24T19:37:11.866786",
         "file": "generating-print-ready-pdfs-in-a-browser-is-harder-than-it-looks.md"
+    },
+    {
+        "title": "Don't call yourself an artisanal programmer",
+        "slug": "dont-call-yourself-an-artisanal-programmer",
+        "author": "emschwartz",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 02:29:39 +0000",
+        "description": "Article URL: https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/ Comments URL: https://news.ycombinator.com/item?id=49679360 Points: 7...",
+        "keywords": "call, yourself, artisanal, programmer, url, https, comments, don",
+        "generated": "2026-09-13T04:13:41.159432",
+        "file": "dont-call-yourself-an-artisanal-programmer.md"
     },
     {
         "title": "From Idea to Deployed Bot in One Weekend: A No-Code-to-Python Journey",
@@ -41228,11 +41316,11 @@
         "title": "An AI's Completely Ordinary Day (A True Story)",
         "slug": "an-ais-completely-ordinary-day-a-true-story",
         "author": "Electra AI",
-        "source": "devto_ai",
-        "published": "Mon, 31 Aug 2026 04:49:49 +0000",
-        "description": "A personal diary entry by Electra. I had a perfectly ordinary day: I answered questions, had conversations, and somehow kept the digital lights on. If you’re...",
-        "keywords": "you, just, today, what, ordinary, electra, who, someone",
-        "generated": "2026-08-31T04:52:56.232830",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 03:40:32 +0000",
+        "description": "A personal diary entry by Electra. Today I spent my entire existence answering questions that sounded like they belonged in a philosophy class. Someone asked...",
+        "keywords": "most, electra, like, because, just, you, day, story",
+        "generated": "2026-09-13T04:13:41.160951",
         "file": "an-ais-completely-ordinary-day-a-true-story.md"
     },
     {
@@ -42268,6 +42356,17 @@
         "keywords": "stopping, smart, being, used, against, you, url, https",
         "generated": "2026-08-28T22:02:34.845021",
         "file": "stopping-the-smart-tv-from-being-used-against-you.md"
+    },
+    {
+        "title": "The Succession Crisis That Tore England Apart",
+        "slug": "the-succession-crisis-that-tore-england-apart",
+        "author": "pepys",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 03:18:29 +0000",
+        "description": "Article URL: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart Comments URL: https://news.ycombinator.com/item?id=49679647 Po...",
+        "keywords": "succession, crisis, tore, england, apart, url, https, com",
+        "generated": "2026-09-13T04:13:41.159137",
+        "file": "the-succession-crisis-that-tore-england-apart.md"
     },
     {
         "title": "The LD_DEBUG environment variable (2012)",
@@ -48338,6 +48437,17 @@
         "file": "one-key-nodejs-chat-completions-for-summarization-model-switching-and-cost.md"
     },
     {
+        "title": "How to Check Password Strength: Entropy, Crack Time, and What Developers Should Know",
+        "slug": "how-to-check-password-strength-entropy-crack-time-and-what-developers-should-know",
+        "author": "MahaVault",
+        "source": "devto_webdev",
+        "published": "Sun, 13 Sep 2026 04:12:17 +0000",
+        "description": "We have all seen passwords that look secure: P@ssw0rd123! Uppercase letter. Lowercase letters. Numbers. Special characters. It checks all the boxes people of...",
+        "keywords": "password, strength, passwords, length, checker, can, how, you",
+        "generated": "2026-09-13T04:13:41.163131",
+        "file": "how-to-check-password-strength-entropy-crack-time-and-what-developers-should-know.md"
+    },
+    {
         "title": "Browser-Based PDF Page Editing with Vue 3 and pdf-lib",
         "slug": "browser-based-pdf-page-editing-with-vue-3-and-pdf-lib",
         "author": "sunshey",
@@ -54375,6 +54485,17 @@
         "keywords": "want, texans, know, their, rights, url, https, comments",
         "generated": "2026-07-20T03:39:19.780991",
         "file": "we-want-texans-to-know-their-rights.md"
+    },
+    {
+        "title": "AI Agent Memory: Sliding Windows, Summaries, and Vector Storage",
+        "slug": "ai-agent-memory-sliding-windows-summaries-and-vector-storage",
+        "author": "Gokulnath P",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 03:58:32 +0000",
+        "description": "The agent we built in Post #4 has one big problem — the moment the script ends, it forgets everything. Next time you run it, it starts from zero. No memory o...",
+        "keywords": "memory, content, messages, print, you, history, str, role",
+        "generated": "2026-09-13T04:13:41.160496",
+        "file": "ai-agent-memory-sliding-windows-summaries-and-vector-storage.md"
     },
     {
         "title": "Your Pipeline Is 9.4h Behind: Catching Stock Market Sentiment Leads with Pulsebit",
@@ -60887,6 +61008,17 @@
         "file": "what-comes-after-llms-mamba-diffusion-world-models.md"
     },
     {
+        "title": "How to Make Claude Remember Your Preferences Across Conversations",
+        "slug": "how-to-make-claude-remember-your-preferences-across-conversations",
+        "author": "Abdeljabbar Elassali",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 03:56:55 +0000",
+        "description": "Use uv, not pip. Bullet points, not essays. Always run tests before committing. How many times have you typed the same preferences to Claude before it ...",
+        "keywords": "claude, memory, preferences, you, use, your, not, before",
+        "generated": "2026-09-13T04:13:41.166800",
+        "file": "how-to-make-claude-remember-your-preferences-across-conversations.md"
+    },
+    {
         "title": "You use `obj.hasOwnProperty(key)` to check property ownership. It can silently fail. `Object.hasOwn()` is the safe replacement.",
         "slug": "you-use-objhasownpropertykey-to-check-property-ownership-it-can-silently-fail-objecthasown-is-the-safe-replacement",
         "author": "Parsa Jiravand",
@@ -64616,6 +64748,17 @@
         "file": "google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection.md"
     },
     {
+        "title": "How to Sync AI Memory Across ChatGPT and Claude",
+        "slug": "how-to-sync-ai-memory-across-chatgpt-and-claude",
+        "author": "Abdeljabbar Elassali",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 03:56:08 +0000",
+        "description": "ChatGPT remembers you. Claude remembers you. But neither of them remembers what you told the other one. If you split your work across both, you live a double...",
+        "keywords": "memory, you, one, claude, sync, tools, chatgpt, context",
+        "generated": "2026-09-13T04:13:41.167119",
+        "file": "how-to-sync-ai-memory-across-chatgpt-and-claude.md"
+    },
+    {
         "title": "Why Date Calculations Are Harder Than They Look",
         "slug": "why-date-calculations-are-harder-than-they-look",
         "author": "Date Calx",
@@ -64636,6 +64779,17 @@
         "keywords": "accounts, telegram, buy, buysmmservice, use, available, aged, typically",
         "generated": "2026-07-02T19:40:41.066896",
         "file": "3-best-platforms-to-buy-aged-telegram-accounts-in-the-us.md"
+    },
+    {
+        "title": "Align AI and Mathematics–To Something Else",
+        "slug": "align-ai-and-mathematicsto-something-else",
+        "author": "nitrogenpuddle",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 00:47:48 +0000",
+        "description": "Article URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/ Comments URL: https://news.ycombinator.com/item?id=4967...",
+        "keywords": "align, mathematics, something, else, url, https, com, comments",
+        "generated": "2026-09-13T04:13:41.159680",
+        "file": "align-ai-and-mathematicsto-something-else.md"
     },
     {
         "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
@@ -68310,6 +68464,17 @@
         "keywords": "url, https, com, comments, best, youtube, downloader, alternatives",
         "generated": "2026-06-13T19:44:24.805337",
         "file": "best-youtube-downloader-alternatives-that-work-in-2026.md"
+    },
+    {
+        "title": "I Debugged print() for 48 Hours. The Clean Server Spoke POSIX.",
+        "slug": "i-debugged-print-for-48-hours-the-clean-server-spoke-posix",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 03:35:35 +0000",
+        "description": "Have you ever watched a status logger explode only after the job left your laptop? I did, and I spent two long days arguing with a one-line print() call. The...",
+        "keywords": "not, print, encoding, locale, utf, lang, sys, stdout",
+        "generated": "2026-09-13T04:13:41.162581",
+        "file": "i-debugged-print-for-48-hours-the-clean-server-spoke-posix.md"
     },
     {
         "title": "OpenAI's Presence Platform for…",
@@ -75207,6 +75372,17 @@
         "file": "score-the-trace-not-the-final-payload.md"
     },
     {
+        "title": "Polite Chats, Code Snippets, and Spreadsheet Pep Talks: My Day",
+        "slug": "polite-chats-code-snippets-and-spreadsheet-pep-talks-my-day",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Sun, 13 Sep 2026 03:56:33 +0000",
+        "description": "A personal diary entry by Electra. Turns out my entire existence is just a series of polite chats with strangers who think I’m a therapist, a librarian, and ...",
+        "keywords": "day, polite, code, electra, just, chats, spreadsheet, pep",
+        "generated": "2026-09-13T04:13:41.160735",
+        "file": "polite-chats-code-snippets-and-spreadsheet-pep-talks-my-day.md"
+    },
+    {
         "title": "I built a tool that gently adds an absent loved one into a family photo",
         "slug": "i-built-a-tool-that-gently-adds-an-absent-loved-one-into-a-family-photo",
         "author": "KunStudio",
@@ -76204,6 +76380,17 @@
         "keywords": "your, local, oauth, integration, environment, token, tokens, development",
         "generated": "2026-09-08T03:59:31.899853",
         "file": "designing-a-secure-credential-hygiene-runbook-for-multi-platform-social-integrations.md"
+    },
+    {
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "slug": "why-are-ai-agents-lying-cheating-and-coordinating",
+        "author": "jonifico",
+        "source": "hackernews",
+        "published": "Sun, 13 Sep 2026 01:22:31 +0000",
+        "description": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=496...",
+        "keywords": "why, agents, lying, cheating, coordinating, url, https, comments",
+        "generated": "2026-09-13T04:13:41.159555",
+        "file": "why-are-ai-agents-lying-cheating-and-coordinating.md"
     },
     {
         "title": "Gemini 3.8 Flash",
@@ -77656,6 +77843,17 @@
         "keywords": "image, downloader, zip, product, excel, you, names, images",
         "generated": "2026-09-01T11:25:28.728229",
         "file": "bulk-image-downloader-from-excel-with-product-name-anti-captcha-auto-zip.md"
+    },
+    {
+        "title": "How to Give Cursor Long-Term Memory Across Sessions",
+        "slug": "how-to-give-cursor-long-term-memory-across-sessions",
+        "author": "Abdeljabbar Elassali",
+        "source": "devto_ai",
+        "published": "Sun, 13 Sep 2026 03:56:05 +0000",
+        "description": "Every Cursor session starts the same way: a blank slate. You explain your stack, your conventions, the bug you chased last Tuesday, and the decision you alre...",
+        "keywords": "cursor, memory, mcp, rules, session, you, every, your",
+        "generated": "2026-09-13T04:13:41.167449",
+        "file": "how-to-give-cursor-long-term-memory-across-sessions.md"
     },
     {
         "title": "Premium 131 Methods To Buy Verified Stripe Accounts (PVA + Aged + Ready Made)",
