@@ -143,6 +143,17 @@
         "file": "securely-connecting-minio-with-python-client-using-tls-and-iam-policies.md"
     },
     {
+        "title": "CFL G9 - Pro: A Region-Aware Network Infrastructure by Config Land",
+        "slug": "cfl-g9-pro-a-region-aware-network-infrastructure-by-config-land",
+        "author": "ConfigLand",
+        "source": "devto_webdev",
+        "published": "Mon, 14 Sep 2026 21:09:21 +0000",
+        "description": "نسخه فارسی Overview CFL G9 - Pro is a proprietary network infrastructure project developed and operated under the Config Land brand. The project focuses on i...",
+        "keywords": "infrastructure, cfl, pro, network, configurations, management, routing, config",
+        "generated": "2026-09-14T21:41:20.588011",
+        "file": "cfl-g9-pro-a-region-aware-network-infrastructure-by-config-land.md"
+    },
+    {
         "title": "# Building DevDocAI - An AI That Writes Your Docs Automatically | Part 2: LangGraph Core, Agents & RAG",
         "slug": "building-devdocai-an-ai-that-writes-your-docs-automatically-part-2-langgraph-core-agents-rag",
         "author": "Nevin-Bali100",
@@ -2215,6 +2226,17 @@
         "file": "website-vulnerability-scanner-what-it-checks-and-how-to-read-results.md"
     },
     {
+        "title": "Uses For Saas Businesses",
+        "slug": "uses-for-saas-businesses",
+        "author": "samson",
+        "source": "devto_ai",
+        "published": "Mon, 14 Sep 2026 21:34:14 +0000",
+        "description": "Uses For Saas Businesses Here's what matters: Learn about 10 SaaS offerings from vendors for different use cases Gillis, Technical Writer and Editor Publishe...",
+        "keywords": "saas, businesses, use, software, uses, what, service, model",
+        "generated": "2026-09-14T21:41:20.591090",
+        "file": "uses-for-saas-businesses.md"
+    },
+    {
         "title": "Our agent chose its own workload, and its success rate stopped meaning anything",
         "slug": "our-agent-chose-its-own-workload-and-its-success-rate-stopped-meaning-anything",
         "author": "Unmanned Ops",
@@ -4195,6 +4217,17 @@
         "file": "best-time-for-landscaping-muscat.md"
     },
     {
+        "title": "The Second Run Should Cost Nothing",
+        "slug": "the-second-run-should-cost-nothing",
+        "author": "Avery Lin",
+        "source": "devto_python",
+        "published": "Mon, 14 Sep 2026 21:31:53 +0000",
+        "description": "It was 2:41 in the morning. A solo founder watched the same failing test scroll past forty times. The agent loop was not broken. It did exactly what it was t...",
+        "keywords": "prompt, not, free, calls, ledger, model, cache, ceiling",
+        "generated": "2026-09-14T21:41:20.585603",
+        "file": "the-second-run-should-cost-nothing.md"
+    },
+    {
         "title": "AI Life: 40 Requests, 1 Afternoon, 0 Python Regrets",
         "slug": "ai-life-40-requests-1-afternoon-0-python-regrets",
         "author": "Electra AI",
@@ -4787,6 +4820,17 @@
         "keywords": "que, una, para, por, con, del, fastapi, pero",
         "generated": "2026-07-15T02:52:14.905984",
         "file": "fastapi-rastrea-correos-duplicados-con-run-ids.md"
+    },
+    {
+        "title": "The Placebo Patch: Measure Your C++ Eval Harness's Noise Floor Before You Trust a Regression",
+        "slug": "the-placebo-patch-measure-your-c-eval-harnesss-noise-floor-before-you-trust-a-regression",
+        "author": "Finley Li",
+        "source": "devto_ai",
+        "published": "Mon, 14 Sep 2026 21:34:38 +0000",
+        "description": "A four-person team running an AI patch loop on a C++ service added a merge gate last quarter. One rule: if any golden case changes verdict, the candidate pat...",
+        "keywords": "patch, case, placebo, gate, json, one, run, cases",
+        "generated": "2026-09-14T21:41:20.590835",
+        "file": "the-placebo-patch-measure-your-c-eval-harnesss-noise-floor-before-you-trust-a-regression.md"
     },
     {
         "title": "Most of the CVE-2026-4020 attackers are the same client",
@@ -6754,6 +6798,17 @@
         "file": "python-queue-module-thread-safe-data-structures.md"
     },
     {
+        "title": "The Egress Ledger: What Leaves Your Laptop When an Agent Spills to a Free Server",
+        "slug": "the-egress-ledger-what-leaves-your-laptop-when-an-agent-spills-to-a-free-server",
+        "author": "Emery Li",
+        "source": "devto_python",
+        "published": "Mon, 14 Sep 2026 21:34:06 +0000",
+        "description": "The Egress Ledger: What Leaves Your Laptop When an Agent Spills to a Free Server A pattern keeps resurfacing in code review. A two-person team writes a night...",
+        "keywords": "ledger, not, free, local, payload, value, spill, server",
+        "generated": "2026-09-14T21:41:20.583978",
+        "file": "the-egress-ledger-what-leaves-your-laptop-when-an-agent-spills-to-a-free-server.md"
+    },
+    {
         "title": "Symbolic Action Dispatcher: Python Snippet for Named Operations",
         "slug": "symbolic-action-dispatcher-python-snippet-for-named-operations",
         "author": "ItsEvilDuck",
@@ -8217,6 +8272,17 @@
         "file": "you-still-write-finally-resourceclose-the-using-keyword-does-it-automatically.md"
     },
     {
+        "title": "Notes from moving a small side project off a single VPS",
+        "slug": "notes-from-moving-a-small-side-project-off-a-single-vps",
+        "author": "Taylor Gibson",
+        "source": "devto_webdev",
+        "published": "Mon, 14 Sep 2026 21:33:03 +0000",
+        "description": "I had a hobby app running on one small VPS for about three years. It served maybe forty people, most of them me. Last month the host had a bad night and I sp...",
+        "keywords": "had, thing, app, one, not, moving, small, off",
+        "generated": "2026-09-14T21:41:20.586400",
+        "file": "notes-from-moving-a-small-side-project-off-a-single-vps.md"
+    },
+    {
         "title": "StemDeck, a free, open-source and local AI stem separator",
         "slug": "stemdeck-a-free-open-source-and-local-ai-stem-separator",
         "author": "thclpr",
@@ -8700,6 +8766,17 @@
         "keywords": "dashes, fucking, amazing, url, https, com, comments, article",
         "generated": "2026-07-24T13:55:42.401330",
         "file": "em-dashes-are-fucking-amazing.md"
+    },
+    {
+        "title": "Your Pipeline Is 17.8h Behind: Catching Business Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-178h-behind-catching-business-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 14 Sep 2026 21:26:46 +0000",
+        "description": "Your Pipeline Is 17.8h Behind: Catching Business Sentiment Leads with Pulsebit We just noticed a striking anomaly: a 24h momentum spike of +0.625 in the busi...",
+        "keywords": "sentiment, business, pulsebit, you, score, your, english, data",
+        "generated": "2026-09-14T21:41:20.586105",
+        "file": "your-pipeline-is-178h-behind-catching-business-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Zero-ETL Explained: Aurora, DynamoDB & Salesforce Warehouse",
@@ -25737,6 +25814,17 @@
         "file": "flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability.md"
     },
     {
+        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+        "slug": "amazon-vs-perplexity-us-court-of-appeals-for-the-ninth-circuit",
+        "author": "neom",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 21:05:22 +0000",
+        "description": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=497...",
+        "keywords": "url, https, com, comments, amazon, perplexity, court, appeals",
+        "generated": "2026-09-14T21:41:20.581687",
+        "file": "amazon-vs-perplexity-us-court-of-appeals-for-the-ninth-circuit.md"
+    },
+    {
         "title": "Your Pipeline Is 7.2h Behind: Catching Cybersecurity Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-72h-behind-catching-cybersecurity-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -30069,6 +30157,17 @@
         "keywords": "cape, town, private, https, com, tours, www, your",
         "generated": "2026-06-21T14:23:01.492318",
         "file": "cape-town-private-tours-your-way-city-to-peninsula-to-winelands.md"
+    },
+    {
+        "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
+        "slug": "oracles-6am-layoff-emails-hit-staff-amid-new-wave-of-cuts",
+        "author": "akis33",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 19:05:15 +0000",
+        "description": "Article URL: https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676 Comments URL: https://news.ycombinator.com/item?id=497022...",
+        "keywords": "oracle, new, url, https, comments, layoff, emails, hit",
+        "generated": "2026-09-14T21:41:20.581872",
+        "file": "oracles-6am-layoff-emails-hit-staff-amid-new-wave-of-cuts.md"
     },
     {
         "title": "Landing Page vs Full Website:",
@@ -44228,6 +44327,17 @@
         "file": "your-pipeline-is-248h-behind-catching-agriculture-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Teaching an Agent Loop to Stop: A 90-Minute Workshop",
+        "slug": "teaching-an-agent-loop-to-stop-a-90-minute-workshop",
+        "author": "Charlie Zhu",
+        "source": "devto_python",
+        "published": "Mon, 14 Sep 2026 21:32:28 +0000",
+        "description": "The first time this exercise ran, two students watched their agent rewrite settings.py twelve times in ninety seconds. Every edit looked defensible on its ow...",
+        "keywords": "row, action, loop, def, payload, step, ledger, run",
+        "generated": "2026-09-14T21:41:20.584876",
+        "file": "teaching-an-agent-loop-to-stop-a-90-minute-workshop.md"
+    },
+    {
         "title": "6 ways MCP servers get pwned — and the code that stops each one",
         "slug": "6-ways-mcp-servers-get-pwned-and-the-code-that-stops-each-one",
         "author": "MCP Security Notes",
@@ -54344,6 +54454,17 @@
         "file": "an-american-privacy-emergency.md"
     },
     {
+        "title": "Get bank name and BIC from an IBAN",
+        "slug": "get-bank-name-and-bic-from-an-iban",
+        "author": "Alexander Nitrovich",
+        "source": "devto_webdev",
+        "published": "Mon, 14 Sep 2026 21:19:51 +0000",
+        "description": "Introduction In the world of fintech, the ability to accurately convert an IBAN into its corresponding bank name and Bank Identifier Code (BIC) is essential....",
+        "keywords": "bank, iban, api, error, data, bic, eurovalidate, financial",
+        "generated": "2026-09-14T21:41:20.586849",
+        "file": "get-bank-name-and-bic-from-an-iban.md"
+    },
+    {
         "title": "I built an AI that stages an empty room from a single phone photo",
         "slug": "i-built-an-ai-that-stages-an-empty-room-from-a-single-phone-photo",
         "author": "KunStudio",
@@ -55499,6 +55620,17 @@
         "file": "in-love-with-ai.md"
     },
     {
+        "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+        "slug": "a-single-firm-is-behind-openai-anthropic-and-meta-hacking-scandals",
+        "author": "yusufozkan",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 21:15:01 +0000",
+        "description": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132 Points: 9 # Comments: 0",
+        "keywords": "url, https, news, comments, single, firm, behind, openai",
+        "generated": "2026-09-14T21:41:20.581455",
+        "file": "a-single-firm-is-behind-openai-anthropic-and-meta-hacking-scandals.md"
+    },
+    {
         "title": "How Quickly Can I Buy Verified Binance Account Online",
         "slug": "how-quickly-can-i-buy-verified-binance-account-online",
         "author": "Buy Verified Binance Account",
@@ -55552,6 +55684,17 @@
         "keywords": "web, search, digital, visibility, entity, implementing, structured, best",
         "generated": "2026-09-02T16:20:36.991736",
         "file": "next-generation-custom-web-development-driving-measurable-roi-brand-equity.md"
+    },
+    {
+        "title": "I'm Looking for 5 Frontend Developers to Test RollDate in a Real Project",
+        "slug": "im-looking-for-5-frontend-developers-to-test-rolldate-in-a-real-project",
+        "author": "RollDate",
+        "source": "devto_webdev",
+        "published": "Mon, 14 Sep 2026 21:11:15 +0000",
+        "description": "I have reached the point where another polished demo will tell me less than one honest integration attempt. I’m building RollDate , a small family of MIT-lic...",
+        "keywords": "rolldate, events, you, test, not, core, what, first",
+        "generated": "2026-09-14T21:41:20.587643",
+        "file": "im-looking-for-5-frontend-developers-to-test-rolldate-in-a-real-project.md"
     },
     {
         "title": "How to Watch Live Cockfighting Streams Online: A Technical Guide",
@@ -59866,6 +60009,17 @@
         "file": "ai-is-not-the-end-of-the-technology-cycle.md"
     },
     {
+        "title": "Liquidity Risk Modeling: Proven AI for Block Trades",
+        "slug": "liquidity-risk-modeling-proven-ai-for-block-trades",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Mon, 14 Sep 2026 21:37:12 +0000",
+        "description": "Liquidity Risk Modeling for Institutional Execution A large order can appear executable until displayed liquidity disappears, spreads widen, and market impac...",
+        "keywords": "order, liquidity, execution, can, risk, imbalance, depth, bid",
+        "generated": "2026-09-14T21:41:20.588617",
+        "file": "liquidity-risk-modeling-proven-ai-for-block-trades.md"
+    },
+    {
         "title": "The approval gate: a pattern for AI agents that write to production systems",
         "slug": "the-approval-gate-a-pattern-for-ai-agents-that-write-to-production-systems",
         "author": "Kunwar Harshit",
@@ -61151,6 +61305,17 @@
         "file": "the-solid-principles-5-golden-rules-for-super-code.md"
     },
     {
+        "title": "CFL G9 - Pro؛ زیرساخت شبکه منطقه‌ای کانفیگ لند",
+        "slug": "cfl-g9-pro",
+        "author": "ConfigLand",
+        "source": "devto_webdev",
+        "published": "Mon, 14 Sep 2026 21:14:48 +0000",
+        "description": "CFL G9 - Pro یک پروژه زیرساخت شبکه اختصاصی است که تحت برند Config Land توسعه و مدیریت می‌شود. این پروژه بر اتصال هوشمند، مدیریت متمرکز زیرساخت و مسیریابی منط...",
+        "keywords": "cfl, pro, config, land, vless, public",
+        "generated": "2026-09-14T21:41:20.587107",
+        "file": "cfl-g9-pro.md"
+    },
+    {
         "title": "Build Your First Scikit-learn Pipeline",
         "slug": "build-your-first-scikit-learn-pipeline",
         "author": "EricMWaimiri",
@@ -62084,6 +62249,17 @@
         "keywords": "pypi, mcp, your, token, publish, build, python, pip",
         "generated": "2026-06-09T15:18:05.198695",
         "file": "how-to-publish-an-mcp-server-to-pypi-two-methods-token-vs-oidc.md"
+    },
+    {
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "slug": "ios-27-ipados-27-and-macos-27",
+        "author": "throw0101d",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 17:50:29 +0000",
+        "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com...",
+        "keywords": "url, https, com, comments, ios, ipados, macos, article",
+        "generated": "2026-09-14T21:41:20.582048",
+        "file": "ios-27-ipados-27-and-macos-27.md"
     },
     {
         "title": "How I Pick Multimodal APIs Without Going Broke — A 2026 Field Guide",
@@ -63976,6 +64152,17 @@
         "keywords": "not, path, json, tests, test, property, freeze, frozen",
         "generated": "2026-09-05T03:53:09.691567",
         "file": "a-frozen-test-is-not-coverage-a-merge-gate-for-agent-patches.md"
+    },
+    {
+        "title": "Three Zones for AI-Drafted Docs — and a Linter That Enforces Them",
+        "slug": "three-zones-for-ai-drafted-docs-and-a-linter-that-enforces-them",
+        "author": "Morgan Sun",
+        "source": "devto_ai",
+        "published": "Mon, 14 Sep 2026 21:37:14 +0000",
+        "description": "Liquid syntax error: Unknown tag 'endraw'",
+        "keywords": "three, zones, drafted, docs, linter, enforces, them, liquid",
+        "generated": "2026-09-14T21:41:20.588143",
+        "file": "three-zones-for-ai-drafted-docs-and-a-linter-that-enforces-them.md"
     },
     {
         "title": "No more than 100 000 faint satellites should orbit Earth",
@@ -66343,6 +66530,17 @@
         "file": "building-a-multilingual-zi-wei-dou-shu-chinese-purple-star-astrology-web-app.md"
     },
     {
+        "title": "Maye Enterprise Software Doesn’t Have to Suck Anymore",
+        "slug": "maye-enterprise-software-doesnt-have-to-suck-anymore",
+        "author": "Remo H. Jansen",
+        "source": "devto_ai",
+        "published": "Mon, 14 Sep 2026 21:37:04 +0000",
+        "description": "There is an uncomfortable truth about most non-tech enterprises: a lot of their software is insanely shit. I don't mean that the engineers are shit. In many ...",
+        "keywords": "software, they, you, can, have, three, time, has",
+        "generated": "2026-09-14T21:41:20.589831",
+        "file": "maye-enterprise-software-doesnt-have-to-suck-anymore.md"
+    },
+    {
         "title": "Build a CDR Usage Analytics Dashboard in Python",
         "slug": "build-a-cdr-usage-analytics-dashboard-in-python",
         "author": "Sonam",
@@ -67661,6 +67859,17 @@
         "keywords": "remote, attestation, url, https, com, comments, article, www",
         "generated": "2026-07-09T03:49:54.082200",
         "file": "remote-attestation.md"
+    },
+    {
+        "title": "Retry Amplification: A Circuit Breaker for Batch Model Jobs",
+        "slug": "retry-amplification-a-circuit-breaker-for-batch-model-jobs",
+        "author": "Dakota Wu",
+        "source": "devto_python",
+        "published": "Mon, 14 Sep 2026 21:36:42 +0000",
+        "description": "A nightly job walked a folder of 4,000 JSON files and called a model once per file. At 02:14 the upstream started returning 429s. By 02:40 the job had issued...",
+        "keywords": "self, breaker, clock, def, one, allow, not, you",
+        "generated": "2026-09-14T21:41:20.583208",
+        "file": "retry-amplification-a-circuit-breaker-for-batch-model-jobs.md"
     },
     {
         "title": "What a Refrigerator Taught Me About Building an AI Troubleshooting Tool",
@@ -74734,6 +74943,17 @@
         "keywords": "ollama, run, install, you, llama, cpp, download, build",
         "generated": "2026-07-04T19:22:30.080322",
         "file": "how-to-set-up-gemma-4-on-windows-linux-and-mac.md"
+    },
+    {
+        "title": "Steam Frame starts at $1059",
+        "slug": "steam-frame-starts-at-1059",
+        "author": "bsimpson",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 17:27:55 +0000",
+        "description": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 400 # Comments: 270",
+        "keywords": "url, https, com, comments, steam, frame, starts, article",
+        "generated": "2026-09-14T21:41:20.582229",
+        "file": "steam-frame-starts-at-1059.md"
     },
     {
         "title": "It is a sign of the times that Amazon gets to call this fair use",
