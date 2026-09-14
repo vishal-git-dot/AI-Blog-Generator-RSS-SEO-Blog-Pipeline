@@ -3,10 +3,10 @@ title: "Why your $300/mo onboarding widget is destroying your Core Web Vitals"
 slug: "why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals"
 author: "Pavan S Poojary"
 source: "devto_webdev"
-published: "Sun, 06 Sep 2026 03:49:00 +0000"
+published: "Mon, 14 Sep 2026 04:06:00 +0000"
 description: "We recently ran Lighthouse audits across 40 top B2B SaaS web applications. Over 65% of them were failing Interaction to Next Paint (INP) and Largest Contentf..."
 keywords: "your, app, neotic, onboarding, you, web, next, legacy"
-generated: "2026-09-06T03:57:50.779414"
+generated: "2026-09-14T04:21:00.973396"
 ---
 
 # Why your $300/mo onboarding widget is destroying your Core Web Vitals
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/pavan_s_poojary/why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals-2i3a
+https://dev.to/pavan_s_poojary/why-your-300mo-onboarding-widget-is-destroying-your-core-web-vitals-2obj
 
 ## Conclusion
 
