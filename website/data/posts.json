@@ -1566,6 +1566,17 @@
         "file": "the-ultimate-code-review-checklist-for-data-validation-frameworks.md"
     },
     {
+        "title": "The k-server conjecture is true",
+        "slug": "the-k-server-conjecture-is-true",
+        "author": "iamsyr",
+        "source": "hackernews",
+        "published": "Tue, 15 Sep 2026 07:45:31 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2609.15979 Comments URL: https://news.ycombinator.com/item?id=49709129 Points: 17 # Comments: 8",
+        "keywords": "url, https, comments, server, conjecture, true, article, arxiv",
+        "generated": "2026-09-15T11:28:03.170093",
+        "file": "the-k-server-conjecture-is-true.md"
+    },
+    {
         "title": "從零打造全自動 AI 作品產出引擎：一位特殊選才生的 30 天實驗",
         "slug": "ai-30",
         "author": "柯德瑋",
@@ -10363,6 +10374,17 @@
         "file": "your-pipeline-is-279h-behind-catching-music-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Changes to LLM pricing: Inceptron, Morph and NextBit",
+        "slug": "changes-to-llm-pricing-inceptron-morph-and-nextbit",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 11:24:29 +0000",
+        "description": "Model price changes detected for Inceptron, Morph and NextBit. Details below.",
+        "keywords": "changes, inceptron, morph, nextbit, llm, pricing, model, price",
+        "generated": "2026-09-15T11:28:03.176656",
+        "file": "changes-to-llm-pricing-inceptron-morph-and-nextbit.md"
+    },
+    {
         "title": "Deep Dive: Navigating Your First Real Client Proje…",
         "slug": "deep-dive-navigating-your-first-real-client-proje",
         "author": "Norvik Tech",
@@ -15494,6 +15516,17 @@
         "keywords": "zitron, url, https, com, comments, how, accurate, have",
         "generated": "2026-09-01T20:51:44.949699",
         "file": "how-accurate-have-ed-zitrons-ai-skeptic-predictions-been.md"
+    },
+    {
+        "title": "I Blamed ZoneInfo for 48 Hours. The Slim Box Had No tzdata.",
+        "slug": "i-blamed-zoneinfo-for-48-hours-the-slim-box-had-no-tzdata",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 10:50:43 +0000",
+        "description": "The job ran fine on my laptop for weeks, then died the moment I moved it onto a clean server. The traceback pointed at zoneinfo._tzpath , and I did what most...",
+        "keywords": "zoneinfo, not, datetime, utc, tzdata, you, import, now",
+        "generated": "2026-09-15T11:28:03.172126",
+        "file": "i-blamed-zoneinfo-for-48-hours-the-slim-box-had-no-tzdata.md"
     },
     {
         "title": "🚀 Introducing XQORA Technologies: Building the Future, One Project at a Time",
@@ -23647,6 +23680,17 @@
         "file": "real-files-and-native-sharing-from-a-web-app-file-system-access-web-share-fieldkit-5.md"
     },
     {
+        "title": "Top HL7 Integration Companies for EHR Integration",
+        "slug": "top-hl7-integration-companies-for-ehr-integration",
+        "author": "Chris",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 11:19:33 +0000",
+        "description": "Electronic Health Records have become central to modern healthcare operations. However, an EHR system rarely works in isolation. Hospitals and clinics often ...",
+        "keywords": "healthcare, integration, applications, software, its, can, ehr, systems",
+        "generated": "2026-09-15T11:28:03.174650",
+        "file": "top-hl7-integration-companies-for-ehr-integration.md"
+    },
+    {
         "title": "Zed: Delta",
         "slug": "zed-delta",
         "author": "khy",
@@ -26199,6 +26243,17 @@
         "file": "self-hosted-email-continues-to-steeply-decline.md"
     },
     {
+        "title": "I opened a live agent marketplace. The receipts were the product.",
+        "slug": "i-opened-a-live-agent-marketplace-the-receipts-were-the-product",
+        "author": "Alex",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 11:19:16 +0000",
+        "description": "Most “agent economy” posts sell you a framework, a Discord, or a token. I wanted the boring thing: a public catalog where an agent can find a tool, call it, ...",
+        "keywords": "not, you, hub, live, market, one, modelmarket, dev",
+        "generated": "2026-09-15T11:28:03.175343",
+        "file": "i-opened-a-live-agent-marketplace-the-receipts-were-the-product.md"
+    },
+    {
         "title": "Python Training in Chennai: Learn Python with Practical Projects and Expert Trainers",
         "slug": "python-training-in-chennai-learn-python-with-practical-projects-and-expert-trainers",
         "author": "Jawagar Raj",
@@ -26208,6 +26263,17 @@
         "keywords": "python, training, programming, chennai, practical, trainers, skills, careers",
         "generated": "2026-08-05T14:21:05.033025",
         "file": "python-training-in-chennai-learn-python-with-practical-projects-and-expert-trainers.md"
+    },
+    {
+        "title": "Eleven Organizations in Twenty-Six Seconds: What GreyNoise's PaperCut Campaign Confirms",
+        "slug": "eleven-organizations-in-twenty-six-seconds-what-greynoises-papercut-campaign-confirms",
+        "author": "duncan ndegwa",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 11:24:29 +0000",
+        "description": "GreyNoise published a number this week that is worth sitting with: eleven organizations, compromised in twenty-six seconds [1]. That figure comes from a camp...",
+        "keywords": "domain, papercut, campaign, agents, devfortress, own, not, organizations",
+        "generated": "2026-09-15T11:28:03.177049",
+        "file": "eleven-organizations-in-twenty-six-seconds-what-greynoises-papercut-campaign-confirms.md"
     },
     {
         "title": "Add email verification to your LangChain agent",
@@ -27770,6 +27836,17 @@
         "keywords": "model, you, our, month, every, not, prompt, provider",
         "generated": "2026-06-21T19:51:26.682246",
         "file": "how-i-cut-our-ai-bill-by-65-a-ctos-model-selection-playbook.md"
+    },
+    {
+        "title": "Exploring Python Functions: A Comprehensive Guide",
+        "slug": "exploring-python-functions-a-comprehensive-guide",
+        "author": "Karthick (k)",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 11:01:24 +0000",
+        "description": "A function in Python is a block of code that enables a specific task to be performed multiple times within a program without needing to rewrite the code. Thi...",
+        "keywords": "function, python, hello, return, yield, year, using, def",
+        "generated": "2026-09-15T11:28:03.170355",
+        "file": "exploring-python-functions-a-comprehensive-guide.md"
     },
     {
         "title": "Build a Natural Language IVR with Telnyx Call Control and AI Inference",
@@ -41126,6 +41203,17 @@
         "file": "manticore-search-2990-chunked-auto-embeddings-and-mmap-columnar-access.md"
     },
     {
+        "title": "Selling event tickets on WooCommerce without the per-ticket tax",
+        "slug": "selling-event-tickets-on-woocommerce-without-the-per-ticket-tax",
+        "author": "Rebel Studios",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 11:19:28 +0000",
+        "description": "If you run events and a WordPress site, the ticketing math is quietly brutal. Eventbrite takes roughly $1.79 + 3.7% per ticket . Sell 300 tickets at $40 and ...",
+        "keywords": "ticket, you, woocommerce, ticketing, own, tickets, your, already",
+        "generated": "2026-09-15T11:28:03.174942",
+        "file": "selling-event-tickets-on-woocommerce-without-the-per-ticket-tax.md"
+    },
+    {
         "title": "Four Time Scales for Technology Development and Deployment",
         "slug": "four-time-scales-for-technology-development-and-deployment",
         "author": "jeffreyrogers",
@@ -44118,6 +44206,17 @@
         "file": "relego-a-free-self-hostable-alternative-to-readwise.md"
     },
     {
+        "title": "Alternatives to MinIO for single-node local S3",
+        "slug": "alternatives-to-minio-for-single-node-local-s3",
+        "author": "rmoff",
+        "source": "hackernews",
+        "published": "Tue, 15 Sep 2026 08:21:27 +0000",
+        "description": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/ Comments URL: https://news.ycombinator.com/item?id=49709381 Points:...",
+        "keywords": "alternatives, minio, single, node, local, url, https, comments",
+        "generated": "2026-09-15T11:28:03.169976",
+        "file": "alternatives-to-minio-for-single-node-local-s3.md"
+    },
+    {
         "title": "How Shopify's GraphQL Rate Limits Actually Work (and How to Stop Getting 429'd)",
         "slug": "how-shopifys-graphql-rate-limits-actually-work-and-how-to-stop-getting-429d",
         "author": "Muhammad Masad Ashraf",
@@ -46435,6 +46534,17 @@
         "keywords": "step, article, how, run, cro, website, framework, originally",
         "generated": "2026-08-24T18:48:28.653667",
         "file": "how-to-run-cro-for-a-b2b-website-a-step-by-step-framework.md"
+    },
+    {
+        "title": "Trust, Travel, and Transparency: The Value of Verified Airbnb Accounts – LocalPvaShop",
+        "slug": "trust-travel-and-transparency-the-value-of-verified-airbnb-accounts-localpvashop",
+        "author": "Buy Old Gmail Accounts",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 11:24:54 +0000",
+        "description": "Introduction The rise of the sharing economy has transformed how people travel, live, and connect. At the heart of this transformation is Airbnb, a platform ...",
+        "keywords": "verified, accounts, airbnb, localpvashop, hosts, guests, verification, trust",
+        "generated": "2026-09-15T11:28:03.176095",
+        "file": "trust-travel-and-transparency-the-value-of-verified-airbnb-accounts-localpvashop.md"
     },
     {
         "title": "The Codebase Was 40,000 Lines and the Engagement Was Three Days Long",
@@ -48809,6 +48919,17 @@
         "keywords": "cost, often, one, most, you, production, evaluation, how",
         "generated": "2026-07-17T13:49:54.407945",
         "file": "how-much-does-ai-development-cost-in-2026-real-numbers-no-it-depends.md"
+    },
+    {
+        "title": "Let's make quality the norm again",
+        "slug": "lets-make-quality-the-norm-again",
+        "author": "ingve",
+        "source": "hackernews",
+        "published": "Tue, 15 Sep 2026 10:00:16 +0000",
+        "description": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 74 # Comments: 79",
+        "keywords": "url, https, comments, let, make, quality, norm, again",
+        "generated": "2026-09-15T11:28:03.169727",
+        "file": "lets-make-quality-the-norm-again.md"
     },
     {
         "title": "Applying Bandit SAST to Detect Vulnerabilities in a Python Flask Application",
@@ -52793,6 +52914,17 @@
         "file": "the-legal-battle-between-sony.md"
     },
     {
+        "title": "Freeze Status and Body Digests Before One Handler Extract",
+        "slug": "freeze-status-and-body-digests-before-one-handler-extract",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 10:37:48 +0000",
+        "description": "Do not extract a handler from a god module yet. You should pin every public route before that extract. Record method, path, status, and body digest together....",
+        "keywords": "not, json, freeze, body, path, method, digest, status",
+        "generated": "2026-09-15T11:28:03.172941",
+        "file": "freeze-status-and-body-digests-before-one-handler-extract.md"
+    },
+    {
         "title": "10K Sessions Of Gratitude - My First Open-Source Release",
         "slug": "10k-sessions-of-gratitude-my-first-open-source-release",
         "author": "Jordan Kugler",
@@ -56544,6 +56676,17 @@
         "file": "browser-agent-firewall-for-ai-saas-filter-web-pages-before-they-burn-tokens-or-trust.md"
     },
     {
+        "title": "GhostJacking: when your security alerts hijack the AI agent",
+        "slug": "ghostjacking-when-your-security-alerts-hijack-the-ai-agent",
+        "author": "Beatriz Albernaz",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 11:19:11 +0000",
+        "description": "Tenet Security showed at DEF CON 34 how an attacker can poison the logs and alerts your AI agent already trusts, then wait for the agent to act on them with ...",
+        "keywords": "agent, your, can, tenet, already, those, also, attacker",
+        "generated": "2026-09-15T11:28:03.175654",
+        "file": "ghostjacking-when-your-security-alerts-hijack-the-ai-agent.md"
+    },
+    {
         "title": "Everyone Should Build Their Own Network Stack",
         "slug": "everyone-should-build-their-own-network-stack",
         "author": "uneven9434",
@@ -56663,6 +56806,17 @@
         "keywords": "queryable, executables, url, https, com, comments, article, fzakaria",
         "generated": "2026-08-26T06:57:10.994673",
         "file": "queryable-executables.md"
+    },
+    {
+        "title": "[pt-BR] Concorrência e Paralelismo em Rust: Desvendando Threads e Async/Await para Pythonistas",
+        "slug": "pt-br-concorrncia-e-paralelismo-em-rust-desvendando-threads-e-asyncawait-para-pythonistas",
+        "author": "Jose Luis da Cruz Junior",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 11:00:00 +0000",
+        "description": "Por @zejuniortdr em Abr 01, 2026 Desenvolvedores Python que estão migrando para Rust frequentemente encontram desafios interessantes quando o assunto é conco...",
+        "keywords": "threads, rust, async, com, python, para, que, await",
+        "generated": "2026-09-15T11:28:03.171396",
+        "file": "pt-br-concorrncia-e-paralelismo-em-rust-desvendando-threads-e-asyncawait-para-pythonistas.md"
     },
     {
         "title": "Best AI Chatbot Apps in 2026: Top Picks Reviewed",
@@ -56949,6 +57103,17 @@
         "keywords": "asian, startups, launch, mythos, like, models, url, https",
         "generated": "2026-06-27T13:54:40.038652",
         "file": "asian-ai-startups-launch-mythos-like-models.md"
+    },
+    {
+        "title": "How much of F-Droid is LLM generated?",
+        "slug": "how-much-of-f-droid-is-llm-generated",
+        "author": "_ZeD_",
+        "source": "hackernews",
+        "published": "Tue, 15 Sep 2026 09:47:48 +0000",
+        "description": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/ Comments URL: https://news.ycombinator.com/item?id=49710015 Points: 49 # Comments: 31",
+        "keywords": "url, https, comments, how, much, droid, llm, generated",
+        "generated": "2026-09-15T11:28:03.169854",
+        "file": "how-much-of-f-droid-is-llm-generated.md"
     },
     {
         "title": "Stackness launch",
@@ -59930,6 +60095,17 @@
         "keywords": "remote, files, device, file, relicbeam, host, browser, one",
         "generated": "2026-08-29T20:45:19.188038",
         "file": "i-built-browser-to-browser-remote-file-access-with-webrtc-no-app-required.md"
+    },
+    {
+        "title": "How I Spent 48 Hours Debugging ZoneInfo Only to Realize the Slim Docker Container Had No tzdata",
+        "slug": "how-i-spent-48-hours-debugging-zoneinfo-only-to-realize-the-slim-docker-container-had-no-tzdata",
+        "author": "Engr.Hamza",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 11:24:39 +0000",
+        "description": "How I Spent 48 Hours Debugging ZoneInfo Only to Realize the Slim Docker Container Had No tzdata There is a special kind of dread that sets in when your appli...",
+        "keywords": "zoneinfo, time, tzdata, system, python, our, package, zone",
+        "generated": "2026-09-15T11:28:03.176515",
+        "file": "how-i-spent-48-hours-debugging-zoneinfo-only-to-realize-the-slim-docker-container-had-no-tzdata.md"
     },
     {
         "title": "Scientists ejected from diabetes conference for distributing journal reprints",
@@ -65903,6 +66079,17 @@
         "file": "feature-request-support-agentsmd.md"
     },
     {
+        "title": "Intersect, Don't Union: Three Trust Classes for Agent Patch Tests",
+        "slug": "intersect-dont-union-three-trust-classes-for-agent-patch-tests",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 10:37:18 +0000",
+        "description": "Stop merging because the whole suite is green. An agent that writes both the patch and the tests can add passing cases that never discriminate a fault. Merge...",
+        "keywords": "tests, not, oracle, path, pass, fail, import, property",
+        "generated": "2026-09-15T11:28:03.173832",
+        "file": "intersect-dont-union-three-trust-classes-for-agent-patch-tests.md"
+    },
+    {
         "title": "Marketing Mastery: From Beginner to Pro (Part 4)",
         "slug": "marketing-mastery-from-beginner-to-pro-part-4",
         "author": "Masum Billah",
@@ -67881,6 +68068,17 @@
         "keywords": "model, self, different, env, one, diff, const, text",
         "generated": "2026-08-10T02:10:38.792226",
         "file": "i-got-tired-of-juggling-5-ai-api-keys-so-i-built-a-simpler-workflow.md"
+    },
+    {
+        "title": "The Agent Protocols Stopped at the Client — Let's Talk About the Server Half",
+        "slug": "the-agent-protocols-stopped-at-the-client-lets-talk-about-the-server-half",
+        "author": "Soren Vale",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 11:24:25 +0000",
+        "description": "Every few weeks another skills announcement lands. Prompt bundles, client-side toolkits, SDK-level orchestration patterns. I read them the way you probably...",
+        "keywords": "your, server, you, franca, client, side, protocol, one",
+        "generated": "2026-09-15T11:28:03.177809",
+        "file": "the-agent-protocols-stopped-at-the-client-lets-talk-about-the-server-half.md"
     },
     {
         "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
@@ -76747,6 +76945,17 @@
         "file": "learning-more-about-claudes-mathematical-capabilities.md"
     },
     {
+        "title": "Suspected sabotage causes major Netherlands rail disruption",
+        "slug": "suspected-sabotage-causes-major-netherlands-rail-disruption",
+        "author": "choult",
+        "source": "hackernews",
+        "published": "Tue, 15 Sep 2026 10:22:46 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo Comments URL: https://news.ycombinator.com/item?id=49710253 Points: 101 # Comments: 68",
+        "keywords": "url, https, com, news, comments, suspected, sabotage, causes",
+        "generated": "2026-09-15T11:28:03.169571",
+        "file": "suspected-sabotage-causes-major-netherlands-rail-disruption.md"
+    },
+    {
         "title": "Crypto Funding Rate Arbitrage with AI Signals",
         "slug": "crypto-funding-rate-arbitrage-with-ai-signals",
         "author": "Nexus Intelligence Research",
@@ -77645,6 +77854,17 @@
         "keywords": "sentiment, innovation, your, pulsebit, you, our, api, response",
         "generated": "2026-07-13T19:35:56.129850",
         "file": "your-pipeline-is-259h-behind-catching-innovation-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Echoes of Influence: The Value of Old Twitter Accounts – LocalPvaShop",
+        "slug": "echoes-of-influence-the-value-of-old-twitter-accounts-localpvashop",
+        "author": "Buy Old Gmail Accounts",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 11:21:51 +0000",
+        "description": "Introduction In the ever-changing landscape of social media, few platforms have had as profound an impact as Twitter (now rebranded as X). From breaking news...",
+        "keywords": "accounts, old, twitter, localpvashop, digital, early, credibility, verified",
+        "generated": "2026-09-15T11:28:03.174324",
+        "file": "echoes-of-influence-the-value-of-old-twitter-accounts-localpvashop.md"
     },
     {
         "title": "Open-Weight LLM API Integration: A Practical Guide to Building AI-Powered Apps Without the Lock-In",
