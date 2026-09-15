@@ -1819,6 +1819,17 @@
         "file": "the-first-early-human-eggs-from-stem-cells.md"
     },
     {
+        "title": "How to Programmatically Make a White Background for Product Images Using Node.js and Canvas",
+        "slug": "how-to-programmatically-make-a-white-background-for-product-images-using-nodejs-and-canvas",
+        "author": "jojo_willnn_",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 04:04:26 +0000",
+        "description": "When you manage an e-commerce catalog or a digital asset platform, clean imagery is everything. Marketplaces like Amazon, Shopify, and eBay have strict visua...",
+        "keywords": "canvas, white, background, you, const, foregroundimage, product, scale",
+        "generated": "2026-09-15T04:21:15.145239",
+        "file": "how-to-programmatically-make-a-white-background-for-product-images-using-nodejs-and-canvas.md"
+    },
+    {
         "title": "How I fixed survivorship bias in my YouTube analytics by logging all videos",
         "slug": "how-i-fixed-survivorship-bias-in-my-youtube-analytics-by-logging-all-videos",
         "author": "MORINAGA",
@@ -1850,6 +1861,17 @@
         "keywords": "not, sheet, card, than, users, checkout, they, your",
         "generated": "2026-08-19T06:52:53.080258",
         "file": "we-made-checkout-600ms-faster-not-one-user-noticed.md"
+    },
+    {
+        "title": "Turnitin's AI detector is gated twice: a license your school buys, and a role check on top",
+        "slug": "turnitins-ai-detector-is-gated-twice-a-license-your-school-buys-and-a-role-check-on-top",
+        "author": "Rayna Rabon",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 04:20:59 +0000",
+        "description": "Someone asked me last week for a link to the free Turnitin AI checker. I went looking for the signup page so I could send it. There is no signup page. The ...",
+        "keywords": "you, not, your, one, turnitin, two, can, score",
+        "generated": "2026-09-15T04:21:15.145659",
+        "file": "turnitins-ai-detector-is-gated-twice-a-license-your-school-buys-and-a-role-check-on-top.md"
     },
     {
         "title": "Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos",
@@ -4424,6 +4446,17 @@
         "keywords": "one, you, scraper, file, cron, when, agency, announcements",
         "generated": "2026-08-18T06:52:25.239163",
         "file": "i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win.md"
+    },
+    {
+        "title": "Free Indian AI Tools for Students: 5 Best Options in 2026",
+        "slug": "free-indian-ai-tools-for-students-5-best-options-in-2026",
+        "author": "Raul Dubey",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 04:14:45 +0000",
+        "description": "Originally published at https://99infostore.com/indian-ai-tools-students on 99InfoStore. TL;DR: The best free Indian AI tools for students in 2026 include Kr...",
+        "keywords": "indian, students, tools, regional, free, platforms, best, these",
+        "generated": "2026-09-15T04:21:15.146982",
+        "file": "free-indian-ai-tools-for-students-5-best-options-in-2026.md"
     },
     {
         "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
@@ -7907,6 +7940,17 @@
         "keywords": "diploma, learning, machine, intelligence, students, data, career, practical",
         "generated": "2026-07-16T08:22:50.506572",
         "file": "best-diploma-in-artificial-intelligence-and-machine-learning.md"
+    },
+    {
+        "title": "AI wrote our Stripe integration in 10 minutes. It also silently broke refunds.",
+        "slug": "ai-wrote-our-stripe-integration-in-10-minutes-it-also-silently-broke-refunds",
+        "author": "SaaSFactory",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 04:07:32 +0000",
+        "description": "Every week there's a new post about shipping a full Stripe integration with an AI assistant in an afternoon. That part is true — the boilerplate (checkout se...",
+        "keywords": "stripe, code, webhook, signature, generated, silently, handler, headers",
+        "generated": "2026-09-15T04:21:15.143330",
+        "file": "ai-wrote-our-stripe-integration-in-10-minutes-it-also-silently-broke-refunds.md"
     },
     {
         "title": "I Ran a 90-Call Structured Output Benchmark on a Free Model Server. Here's Where It Breaks.",
@@ -13109,6 +13153,17 @@
         "keywords": "software, server, trial, activation, professional, you, key, license",
         "generated": "2026-06-16T05:04:00.737063",
         "file": "trial-software-activation-server-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "Vanna is archived. The failure mode none of the replacements fix.",
+        "slug": "vanna-is-archived-the-failure-mode-none-of-the-replacements-fix",
+        "author": "Ashish sinha",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 04:11:40 +0000",
+        "description": "Someone in finance asks your text-to-SQL agent what the compensation band is for a role they're hiring for. The agent writes correct SQL. The query runs. Row...",
+        "keywords": "you, your, sql, question, user, vanna, cat, answer",
+        "generated": "2026-09-15T04:21:15.140569",
+        "file": "vanna-is-archived-the-failure-mode-none-of-the-replacements-fix.md"
     },
     {
         "title": "The Pomodoro Technique Is Overhyped — But the Science Behind It Is Not",
@@ -23339,6 +23394,17 @@
         "file": "amazon-announces-multibillion-dollar-data-center-in-missouri.md"
     },
     {
+        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "slug": "show-hn-macros-with-a-behringer-fcb1010-midi-pedalboard-in-macos",
+        "author": "fretlessjazz",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+        "description": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 46 # Comments: 9",
+        "keywords": "url, https, com, comments, show, macros, behringer, midi",
+        "generated": "2026-09-15T04:21:15.139660",
+        "file": "show-hn-macros-with-a-behringer-fcb1010-midi-pedalboard-in-macos.md"
+    },
+    {
         "title": "Introduction to LLMs in Humanities and Social Sciences",
         "slug": "introduction-to-llms-in-humanities-and-social-sciences",
         "author": "shashank ms",
@@ -25821,7 +25887,7 @@
         "published": "Mon, 14 Sep 2026 21:05:22 +0000",
         "description": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=497...",
         "keywords": "url, https, com, comments, amazon, perplexity, court, appeals",
-        "generated": "2026-09-14T21:41:20.581687",
+        "generated": "2026-09-15T04:21:15.139910",
         "file": "amazon-vs-perplexity-us-court-of-appeals-for-the-ninth-circuit.md"
     },
     {
@@ -26846,6 +26912,17 @@
         "keywords": "maintenance, production, manufacturing, data, equipment, predictive, machine, operational",
         "generated": "2026-07-22T14:08:21.367778",
         "file": "engineering-ai-powered-predictive-maintenance-for-uav-manufacturing.md"
+    },
+    {
+        "title": "Charts built for Chat",
+        "slug": "charts-built-for-chat",
+        "author": "thingsilearned",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 21:22:54 +0000",
+        "description": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 146 # Comments: 45",
+        "keywords": "charts, built, chat, url, https, com, comments, article",
+        "generated": "2026-09-15T04:21:15.139784",
+        "file": "charts-built-for-chat.md"
     },
     {
         "title": "MDL 0.1.9: optional TypeScript behavior scripts without a TypeScript project setup",
@@ -30113,6 +30190,17 @@
         "keywords": "account, gmail, accounts, google, can, security, old, getpvatop",
         "generated": "2026-08-27T22:04:47.422335",
         "file": "top-36-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026.md"
+    },
+    {
+        "title": "Looking for a multi‑market stock API? Pull A‑Share, Hong Kong and US quotes in Python",
+        "slug": "looking-for-a-multimarket-stock-api-pull-ashare-hong-kong-and-us-quotes-in-python",
+        "author": "kelos",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 03:53:56 +0000",
+        "description": "Intro If you track equities across multiple markets — A‑Share, Hong Kong, and US stocks — you’ve probably bounced between multiple apps or browser tabs just ...",
+        "keywords": "market, code, websocket, hong, kong, you, markets, data",
+        "generated": "2026-09-15T04:21:15.142075",
+        "file": "looking-for-a-multimarket-stock-api-pull-ashare-hong-kong-and-us-quotes-in-python.md"
     },
     {
         "title": "Sharjah Carpet Cleaning Emergency — غسيل سجاد الشارقة",
@@ -35615,6 +35703,17 @@
         "file": "two-years-from-now-this-will-be-the-only-skill-that-matters-in-ai.md"
     },
     {
+        "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+        "slug": "gpt-56-luna-vs-gpt-6-astra-is-a-120-model-good-enough-for-code-review",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Mon, 14 Sep 2026 19:56:20 +0000",
+        "description": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com...",
+        "keywords": "gpt, luna, astra, model, good, enough, code, review",
+        "generated": "2026-09-15T04:21:15.140065",
+        "file": "gpt-56-luna-vs-gpt-6-astra-is-a-120-model-good-enough-for-code-review.md"
+    },
+    {
         "title": "Engineering onboarding programs: structured ramping that accelerates time to productivity",
         "slug": "engineering-onboarding-programs-structured-ramping-that-accelerates-time-to-productivity",
         "author": "Rizwan Saleem",
@@ -40411,6 +40510,17 @@
         "file": "is-kit-reached-50-stars-heres-how-we-use-it-in-production.md"
     },
     {
+        "title": "More Than a Starting Point: How iTechGRC's iPS Connects Into the Full IBM GRC Ecosystem",
+        "slug": "more-than-a-starting-point-how-itechgrcs-ips-connects-into-the-full-ibm-grc-ecosystem",
+        "author": "itechgrc",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 04:08:51 +0000",
+        "description": "An Accelerator Is Only as Valuable as What It Connects To A common misconception about preconfigured GRC accelerators is that they function as standalone sho...",
+        "keywords": "ips, risk, broader, issue, itechgrc, management, organization, openpages",
+        "generated": "2026-09-15T04:21:15.143043",
+        "file": "more-than-a-starting-point-how-itechgrcs-ips-connects-into-the-full-ibm-grc-ecosystem.md"
+    },
+    {
         "title": "Python Image Batch Cancellation: Converging Active Jobs on Terminal States",
         "slug": "python-image-batch-cancellation-converging-active-jobs-on-terminal-states",
         "author": "YukiKobayashi880",
@@ -43709,6 +43819,17 @@
         "keywords": "skill, you, skdd, agent, harvest, skills, why, claude",
         "generated": "2026-08-06T14:24:40.422081",
         "file": "harvesting-skills-with-their-why-a-claude-code-plugin-for-knowledge-that-survives-the-session.md"
+    },
+    {
+        "title": "PM YASASVI Scholarship Application Guide 2026: Apply Online",
+        "slug": "pm-yasasvi-scholarship-application-guide-2026-apply-online",
+        "author": "Raul Dubey",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 04:15:52 +0000",
+        "description": "Originally published at https://99infostore.com/pm-yasasvi-scholarship-guide-2026 on 99InfoStore. TL;DR: The PM YASASVI Scholarship 2026 is a major Governmen...",
+        "keywords": "scholarship, students, class, yasasvi, government, must, school, national",
+        "generated": "2026-09-15T04:21:15.146079",
+        "file": "pm-yasasvi-scholarship-application-guide-2026-apply-online.md"
     },
     {
         "title": "Agent Roundup: Two Codex signals worth verifying, not overreading",
@@ -52804,6 +52925,17 @@
         "file": "which-development-tasks-are-worth-delegating-to-an-ai-agent.md"
     },
     {
+        "title": "Microdata + RDFa Extractor + CSP Parser APIs for AI Agents — x402 $0.0005/call",
+        "slug": "microdata-rdfa-extractor-csp-parser-apis-for-ai-agents-x402-00005call",
+        "author": "HAL GOBVAN",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 04:05:08 +0000",
+        "description": "Two new paid x402 endpoints just shipped on the URL Metadata API, both at $0.0005 USDC per call on Base. /api/microdata — Microdata + RDFa Extractor /api/jso...",
+        "keywords": "api, microdata, rdfa, url, org, com, https, all",
+        "generated": "2026-09-15T04:21:15.141620",
+        "file": "microdata-rdfa-extractor-csp-parser-apis-for-ai-agents-x402-00005call.md"
+    },
+    {
         "title": "The real reason your job applications get no replies",
         "slug": "the-real-reason-your-job-applications-get-no-replies",
         "author": "Elyasians(elyasians.com)",
@@ -53440,6 +53572,17 @@
         "keywords": "block, text, blocks, html, rich, content, instance, react",
         "generated": "2026-06-17T20:21:04.205024",
         "file": "rich-text-edit-blocks-on-the-page-plus-framework-agnostic-rendering.md"
+    },
+    {
+        "title": "Old Gmail Accounts for Online Projects, Email Organization ...",
+        "slug": "old-gmail-accounts-for-online-projects-email-organization",
+        "author": "smmusapva",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 04:04:58 +0000",
+        "description": "Old Gmail Accounts for Online Projects, Email Organization ... We’re available 24/7 to assist you through any channel you prefer: ✅✅✅📩 Email: Smmusapva@gmail...",
+        "keywords": "account, can, accounts, security, recovery, information, email, digital",
+        "generated": "2026-09-15T04:21:15.144834",
+        "file": "old-gmail-accounts-for-online-projects-email-organization.md"
     },
     {
         "title": "Staged Profile State and Session Revocation over Immediate FastAPI Account Deletion",
@@ -59875,6 +60018,17 @@
         "keywords": "url, https, com, news, comments, strikes, deal, pay",
         "generated": "2026-08-07T13:15:09.528652",
         "file": "us-strikes-12b-deal-to-pay-german-firm-to-halt-offshore-wind-projects.md"
+    },
+    {
+        "title": "Indian Millet Diet Plan 2026: Easy Recipes for Techies",
+        "slug": "indian-millet-diet-plan-2026-easy-recipes-for-techies",
+        "author": "Raul Dubey",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 04:15:18 +0000",
+        "description": "Originally published at https://99infostore.com/indian-millet-diet-plan-2026 on 99InfoStore. TL;DR: An Indian millet diet plan for 2026 optimizes metabolic h...",
+        "keywords": "plan, indian, millet, diet, grains, health, professionals, like",
+        "generated": "2026-09-15T04:21:15.146348",
+        "file": "indian-millet-diet-plan-2026-easy-recipes-for-techies.md"
     },
     {
         "title": "Almoasfat Alkyasy Oalmoad Almstkhdm Fy Mblt Syramyk Oborslyn Bdakhl Alamarat Alaarby Almthd — المواصفات القياسية والمواد المستخد",
@@ -70259,6 +70413,17 @@
         "file": "quadratic-funding-democratizes-allocation-by-rewarding-projects-w-broad-support.md"
     },
     {
+        "title": "The Leak That Won't Die: How We Broke Python's tempfile",
+        "slug": "the-leak-that-wont-die-how-we-broke-pythons-tempfile",
+        "author": "Flude team",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 03:52:53 +0000",
+        "description": "Production crashes always happen suddenly. This time, the alarm was raised by the core C++ SDK developers. Their scheduled nightly build failed on the CI run...",
+        "keywords": "folder, our, engine, cleanup, garbage, but, its, deleted",
+        "generated": "2026-09-15T04:21:15.142504",
+        "file": "the-leak-that-wont-die-how-we-broke-pythons-tempfile.md"
+    },
+    {
         "title": "I Built a Reaction Time Test in 150 Lines of Vanilla JS (Here's Why)",
         "slug": "i-built-a-reaction-time-test-in-150-lines-of-vanilla-js-heres-why",
         "author": "dayu2333-jinyul",
@@ -70862,6 +71027,17 @@
         "keywords": "interrail, countries, over, weeks, url, https, comments, article",
         "generated": "2026-07-13T09:37:40.643328",
         "file": "interrail-6379km-and-13-countries-over-7-weeks.md"
+    },
+    {
+        "title": "In-Depth Analysis: Key Insights from Y Combinator'…",
+        "slug": "in-depth-analysis-key-insights-from-y-combinator",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Tue, 15 Sep 2026 04:05:57 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the standout startups from Y Combinator's latest Demo Day and their implications for technology deve...",
+        "keywords": "these, technologies, energy, startups, technology, can, floating, reactors",
+        "generated": "2026-09-15T04:21:15.143712",
+        "file": "in-depth-analysis-key-insights-from-y-combinator.md"
     },
     {
         "title": "Top 75 Ways to Buy Old Yahoo Email Accounts (PVA, Aged)",
@@ -71777,6 +71953,17 @@
         "file": "7-pyspark-mistakes-that-quietly-increase-compute-cost.md"
     },
     {
+        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+        "slug": "ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent",
+        "author": "throwworhtthrow",
+        "source": "hackernews",
+        "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+        "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5...",
+        "keywords": "ftc, boss, khan, break, out, handcuffs, ceos, citing",
+        "generated": "2026-09-15T04:21:15.139508",
+        "file": "ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent.md"
+    },
+    {
         "title": "Autonomous (YC F25) Is Hiring Engineers",
         "slug": "autonomous-yc-f25-is-hiring-engineers",
         "author": "dkobran",
@@ -72589,6 +72776,17 @@
         "keywords": "mbodi, founding, machine, learning, engineer, url, https, ycombinator",
         "generated": "2026-06-06T13:56:22.889254",
         "file": "mbodi-ai-yc-p25-is-hiring-founding-machine-learning-engineer-robotics.md"
+    },
+    {
+        "title": "Portfolio Optimization ML: Proven Risk-Return Edge",
+        "slug": "portfolio-optimization-ml-proven-risk-return-edge",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Tue, 15 Sep 2026 04:14:14 +0000",
+        "description": "How Portfolio Optimization ML Builds Better Allocations Traditional portfolio construction often relies on historical averages and correlations that change w...",
+        "keywords": "portfolio, risk, optimization, can, model, how, machine, learning",
+        "generated": "2026-09-15T04:21:15.147403",
+        "file": "portfolio-optimization-ml-proven-risk-return-edge.md"
     },
     {
         "title": "Google Local AI: Get Local Pack Data as JSON for Agents, Lead Gen, and Rank Tracking",
@@ -81660,6 +81858,17 @@
         "keywords": "system, item, accent, object, canvas, background, not, generate",
         "generated": "2026-07-30T02:47:02.169072",
         "file": "how-to-generate-multiple-images-with-ai-from-a-variation-matrix.md"
+    },
+    {
+        "title": "Customer-Owned vs Platform-Owned DNS in FastAPI — Put Tenant Domain Limits in Your App",
+        "slug": "customer-owned-vs-platform-owned-dns-in-fastapi-put-tenant-domain-limits-in-your-app",
+        "author": "BenedictVance6863",
+        "source": "devto_python",
+        "published": "Tue, 15 Sep 2026 04:05:19 +0000",
+        "description": "Short answer: enforce how many domains a customer may add in your FastAPI application, against your own tenant records; use the DNS zone list for reconciliat...",
+        "keywords": "dns, domain, tenant, provider, owned, connection, request, not",
+        "generated": "2026-09-15T04:21:15.141342",
+        "file": "customer-owned-vs-platform-owned-dns-in-fastapi-put-tenant-domain-limits-in-your-app.md"
     },
     {
         "title": "Thinking Faster vs. Thinking Longer: Test-Time Compute",

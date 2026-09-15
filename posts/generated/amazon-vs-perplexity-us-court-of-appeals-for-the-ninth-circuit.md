@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Mon, 14 Sep 2026 21:05:22 +0000"
 description: "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=497..."
 keywords: "url, https, com, comments, amazon, perplexity, court, appeals"
-generated: "2026-09-14T21:41:20.581687"
+generated: "2026-09-15T04:21:15.139910"
 ---
 
 # Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
 
 ## Overview
 
-Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 73 # Comments: 50
+Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 186 # Comments: 189
 
 ## Key Insights
 
