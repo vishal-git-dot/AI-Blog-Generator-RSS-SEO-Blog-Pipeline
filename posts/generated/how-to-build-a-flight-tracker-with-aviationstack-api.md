@@ -3,10 +3,10 @@ title: "How to Build a Flight Tracker with Aviationstack API"
 slug: "how-to-build-a-flight-tracker-with-aviationstack-api"
 author: "Nick Davies"
 source: "devto_webdev"
-published: "Tue, 15 Sep 2026 20:55:15 +0000"
+published: "Wed, 16 Sep 2026 16:21:41 +0000"
 description: "Track any flight in real-time with a single API call. The Problem Most developers either build custom solutions (slow, fragile) or pay for expensive enterpri..."
 keywords: "api, flight, aviationstack, free, build, track, call, most"
-generated: "2026-09-15T21:05:12.123108"
+generated: "2026-09-16T16:34:10.692094"
 ---
 
 # How to Build a Flight Tracker with Aviationstack API
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/nick_davies_323125afbb05c/how-to-build-a-flight-tracker-with-aviationstack-api-157g
+https://dev.to/nick_davies_323125afbb05c/how-to-build-a-flight-tracker-with-aviationstack-api-516l
 
 ## Conclusion
 

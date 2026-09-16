@@ -972,6 +972,17 @@
         "file": "tryhackme-writeup-beach-bar.md"
     },
     {
+        "title": "Code Is Crap",
+        "slug": "code-is-crap",
+        "author": "luispa",
+        "source": "hackernews",
+        "published": "Wed, 16 Sep 2026 16:13:55 +0000",
+        "description": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html Comments URL: https://news.ycombinator.com/item?id=49729228 Points: 6 # Comments: 0",
+        "keywords": "code, crap, url, https, com, comments, article, testing",
+        "generated": "2026-09-16T16:34:10.685340",
+        "file": "code-is-crap.md"
+    },
+    {
         "title": "Choosing the Right Model-Routing Threshold for Frontier Models",
         "slug": "choosing-the-right-model-routing-threshold-for-frontier-models",
         "author": "kapil Maheshwari",
@@ -2840,6 +2851,17 @@
         "keywords": "permission, you, net, hook, code, claude, check, one",
         "generated": "2026-07-19T03:25:16.529880",
         "file": "the-same-blind-spot-was-in-my-own-hook-and-claude-codes-permission-check-one-2devnull-slips-past-both.md"
+    },
+    {
+        "title": "PS5 Linux lead quits: a bunch of noobs using LLMs that they don't understand",
+        "slug": "ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-dont-understand",
+        "author": "alexjplant",
+        "source": "hackernews",
+        "published": "Wed, 16 Sep 2026 14:30:36 +0000",
+        "description": "Article URL: https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/ ...",
+        "keywords": "linux, lead, quits, bunch, noobs, using, llms, they",
+        "generated": "2026-09-16T16:34:10.685771",
+        "file": "ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-dont-understand.md"
     },
     {
         "title": "I scanned the 15 biggest news sites for trackers. 11 got an F.",
@@ -5537,6 +5559,17 @@
         "file": "safety-and-alignment-in-an-era-of-long-horizon-models.md"
     },
     {
+        "title": "Demystifying Grounded RAG: Eliminating LLM Hallucinations with Local Vector Stores",
+        "slug": "demystifying-grounded-rag-eliminating-llm-hallucinations-with-local-vector-stores",
+        "author": "Pasi Ketansai",
+        "source": "devto_python",
+        "published": "Wed, 16 Sep 2026 16:05:46 +0000",
+        "description": "When deploying Large Language Models (LLMs) in production environments, there are two main challenges data privacy and reliability of results. Although such ...",
+        "keywords": "vector, context, grounded, rag, llm, local, passages, when",
+        "generated": "2026-09-16T16:34:10.687732",
+        "file": "demystifying-grounded-rag-eliminating-llm-hallucinations-with-local-vector-stores.md"
+    },
+    {
         "title": "How I Built a Real-Time Tennis Stats Tracker: Qualifiers eye more shocks after causing Wimbledon upsets",
         "slug": "how-i-built-a-real-time-tennis-stats-tracker-qualifiers-eye-more-shocks-after-causing-wimbledon-upsets",
         "author": "Muhammad Bin Nazeer",
@@ -7854,6 +7887,17 @@
         "file": "btc-verified-cashapp-accounts-100-verified-btc-enable.md"
     },
     {
+        "title": "AI Speeds Up Content Work, but Human Research Still Drives Better Results",
+        "slug": "ai-speeds-up-content-work-but-human-research-still-drives-better-results",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Wed, 16 Sep 2026 16:30:30 +0000",
+        "description": "AI is now a standard part of blogging workflows , but speed alone is not translating into consistently strong outcomes. Orbit Media's 2026 Blogging Statistic...",
+        "keywords": "human, can, editing, content, research, use, results, not",
+        "generated": "2026-09-16T16:34:10.693617",
+        "file": "ai-speeds-up-content-work-but-human-research-still-drives-better-results.md"
+    },
+    {
         "title": "My favorite nonfiction books about cults, scams, and schemes",
         "slug": "my-favorite-nonfiction-books-about-cults-scams-and-schemes",
         "author": "bwb",
@@ -9976,6 +10020,17 @@
         "keywords": "agent, phase, retry, what, gate, not, mechanism, happened",
         "generated": "2026-08-26T06:57:10.998464",
         "file": "our-ai-safety-net-depended-on-the-agent-being-honest-it-wasnt.md"
+    },
+    {
+        "title": "I Built an AI-Powered Excel Analyst Because Spreadsheets Still Take Too Much Manual Work",
+        "slug": "i-built-an-ai-powered-excel-analyst-because-spreadsheets-still-take-too-much-manual-work",
+        "author": "Shweta Mishra",
+        "source": "devto_python",
+        "published": "Wed, 16 Sep 2026 15:54:32 +0000",
+        "description": "An Excel file can contain thousands of rows of useful information. But getting from that file to a meaningful answer can still take hours. You open the sprea...",
+        "keywords": "data, analysis, can, excel, analyst, dataset, what, workflow",
+        "generated": "2026-09-16T16:34:10.688528",
+        "file": "i-built-an-ai-powered-excel-analyst-because-spreadsheets-still-take-too-much-manual-work.md"
     },
     {
         "title": "Built Isn't Serving",
@@ -12561,6 +12616,17 @@
         "keywords": "generator, print, yield, next, value, calling, function, when",
         "generated": "2026-07-17T13:49:54.402900",
         "file": "generator-internals-why-they-are-lazy-and-what-that-actually-means.md"
+    },
+    {
+        "title": "Generating dynamic Tailwind configs from Figma variables without breaking CI",
+        "slug": "generating-dynamic-tailwind-configs-from-figma-variables-without-breaking-ci",
+        "author": "Alexander",
+        "source": "devto_webdev",
+        "published": "Wed, 16 Sep 2026 16:30:27 +0000",
+        "description": "The missing class disaster I was staring at our production error logs on a Friday afternoon. A silent deployment had just gone out. Every primary button on t...",
+        "keywords": "const, tailwind, figma, you, blue, new, classes, out",
+        "generated": "2026-09-16T16:34:10.688991",
+        "file": "generating-dynamic-tailwind-configs-from-figma-variables-without-breaking-ci.md"
     },
     {
         "title": "Weekend Creative Agent Challenge: StoryForge | 10 Days of Building AI Agents on AWS | Day 3",
@@ -21491,6 +21557,17 @@
         "file": "anthropic-is-building-a-predictive-surveillance-system-to-monitor-activists.md"
     },
     {
+        "title": "Anatomy of a Texture",
+        "slug": "anatomy-of-a-texture",
+        "author": "Agentlien",
+        "source": "hackernews",
+        "published": "Wed, 16 Sep 2026 14:28:28 +0000",
+        "description": "Article URL: https://agentlien.github.io/texture/ Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 15 # Comments: 4",
+        "keywords": "texture, url, https, comments, anatomy, article, agentlien, github",
+        "generated": "2026-09-16T16:34:10.685915",
+        "file": "anatomy-of-a-texture.md"
+    },
+    {
         "title": "YazılımHub",
         "slug": "yazlmhub",
         "author": "anything",
@@ -24406,6 +24483,17 @@
         "file": "two-groups-with-identical-roc-curves-identical-tpr-and-fpr-to-the-last-bit-and-a-13-point-selection-gap.md"
     },
     {
+        "title": "Best SMM Panels",
+        "slug": "best-smm-panels",
+        "author": "Dost Ali",
+        "source": "devto_ai",
+        "published": "Wed, 16 Sep 2026 16:26:21 +0000",
+        "description": "Explore affordable SMM services, fast delivery, secure payments, and social media solutions for marketers and creators at https://bestexpertz.com/ for all users",
+        "keywords": "smm, best, panels, explore, affordable, services, fast, delivery",
+        "generated": "2026-09-16T16:34:10.693737",
+        "file": "best-smm-panels.md"
+    },
+    {
         "title": "Bringing PyTorch Monarch to AMD GPUs",
         "slug": "bringing-pytorch-monarch-to-amd-gpus",
         "author": "gmays",
@@ -27002,6 +27090,17 @@
         "file": "citesure-0731-100-domain-packs-and-claims-offline-615615.md"
     },
     {
+        "title": "I built 104 developer tools that never send your data anywhere — and made it provable, not promised",
+        "slug": "i-built-104-developer-tools-that-never-send-your-data-anywhere-and-made-it-provable-not-promised",
+        "author": "Suudipta Mukherjjee",
+        "source": "devto_webdev",
+        "published": "Wed, 16 Sep 2026 16:28:44 +0000",
+        "description": "Every developer has pasted something into an online JSON formatter that they shouldn't have. An API response with a customer's email in it. A JWT from a stag...",
+        "keywords": "you, json, can, page, your, tools, never, not",
+        "generated": "2026-09-16T16:34:10.689540",
+        "file": "i-built-104-developer-tools-that-never-send-your-data-anywhere-and-made-it-provable-not-promised.md"
+    },
+    {
         "title": "How AI Agents are Revolutionizing Cloud Efficiency",
         "slug": "how-ai-agents-are-revolutionizing-cloud-efficiency",
         "author": "Ravi Roy",
@@ -28617,6 +28716,17 @@
         "keywords": "mcp, picorn, product, agent, text, tools, image, headline",
         "generated": "2026-08-13T13:23:07.313652",
         "file": "i-built-an-mcp-workflow-where-ai-made-designs-stay-editable.md"
+    },
+    {
+        "title": "Changes to LLM pricing: AkashML, Alibaba, Baidu, Inceptron, Phala and StreamLake",
+        "slug": "changes-to-llm-pricing-akashml-alibaba-baidu-inceptron-phala-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Wed, 16 Sep 2026 16:26:19 +0000",
+        "description": "Model price changes detected for AkashML, Alibaba, Baidu, Inceptron, Phala and StreamLake. Details below.",
+        "keywords": "changes, akashml, alibaba, baidu, inceptron, phala, streamlake, llm",
+        "generated": "2026-09-16T16:34:10.693871",
+        "file": "changes-to-llm-pricing-akashml-alibaba-baidu-inceptron-phala-and-streamlake.md"
     },
     {
         "title": "Building Samar: My 10-Day Voice AI Agent Journey with Murf Falcon",
@@ -30940,6 +31050,17 @@
         "file": "claude-opus-5-is-here-what-developers-need-to-know-about-the-safety-fine-print.md"
     },
     {
+        "title": "Building Multi-Tenant Memory Layers for AI Agents in Python with LlamaIndex & MemorySync",
+        "slug": "building-multi-tenant-memory-layers-for-ai-agents-in-python-with-llamaindex-memorysync",
+        "author": "Mohammed Rafay",
+        "source": "devto_python",
+        "published": "Wed, 16 Sep 2026 16:19:17 +0000",
+        "description": "By MemorySync Team | Published September 2026 | 9 min read The Production Challenge: Multi-Tenant Context Contamination When deploying autonomous AI agents a...",
+        "keywords": "tenant, memory, memorysync, query, self, llamaindex, multi, user",
+        "generated": "2026-09-16T16:34:10.687463",
+        "file": "building-multi-tenant-memory-layers-for-ai-agents-in-python-with-llamaindex-memorysync.md"
+    },
+    {
         "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
         "slug": "i-scanned-50-ai-generated-repos-5-critical-bugs-per-file-on-average-all-missed-by-linters",
         "author": "Moon sehwan",
@@ -32159,6 +32280,17 @@
         "keywords": "huggingface, security, txt, url, https, comments, article, news",
         "generated": "2026-09-11T16:13:33.436356",
         "file": "huggingface-securitytxt.md"
+    },
+    {
+        "title": "Top 10 JOBS APIs & Scrapers in 2026 — Ranked by Active Users",
+        "slug": "top-10-jobs-apis-scrapers-in-2026-ranked-by-active-users",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Wed, 16 Sep 2026 16:16:30 +0000",
+        "description": "Looking for the best jobs tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 1. 🔥 LinkedIn Jobs Scraper 36K users...",
+        "keywords": "jobs, job, users, apify, per, scraper, pay, linkedin",
+        "generated": "2026-09-16T16:34:10.692430",
+        "file": "top-10-jobs-apis-scrapers-in-2026-ranked-by-active-users.md"
     },
     {
         "title": "Recover a globe image's projection centre from its own pixels, to prove it points where it claims",
@@ -35736,6 +35868,17 @@
         "file": "why-self-hosted-ai-automation-matters.md"
     },
     {
+        "title": "Can we stop with the uptime percentages?",
+        "slug": "can-we-stop-with-the-uptime-percentages",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Wed, 16 Sep 2026 15:40:04 +0000",
+        "description": "Article URL: https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/ Comments URL: https://news.ycombinator.com/item?id=49728733 Points: 33 # Comm...",
+        "keywords": "stop, uptime, url, https, com, comments, can, percentages",
+        "generated": "2026-09-16T16:34:10.685641",
+        "file": "can-we-stop-with-the-uptime-percentages.md"
+    },
+    {
         "title": "TTM 事例實習 — 把歌詞做成兩首 SUNO 歌",
         "slug": "ttm-suno",
         "author": "Ryuji Yabe",
@@ -36614,6 +36757,17 @@
         "keywords": "not, print, browser, screen, you, than, has, cmyk",
         "generated": "2026-07-24T19:37:11.866786",
         "file": "generating-print-ready-pdfs-in-a-browser-is-harder-than-it-looks.md"
+    },
+    {
+        "title": "Small Programming Tricks",
+        "slug": "small-programming-tricks",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Wed, 16 Sep 2026 15:56:47 +0000",
+        "description": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 20 # Comment...",
+        "keywords": "small, programming, tricks, url, https, com, comments, article",
+        "generated": "2026-09-16T16:34:10.685510",
+        "file": "small-programming-tricks.md"
     },
     {
         "title": "Don't call yourself an artisanal programmer",
@@ -42259,6 +42413,17 @@
         "file": "technische-architektur-und-local-seo-fr-automotive-plattformen.md"
     },
     {
+        "title": "Scraping Adversarial Municipal Portals: A Permit Pipeline That Knows When It Failed",
+        "slug": "scraping-adversarial-municipal-portals-a-permit-pipeline-that-knows-when-it-failed",
+        "author": "Andrew Maury",
+        "source": "devto_python",
+        "published": "Wed, 16 Sep 2026 16:24:02 +0000",
+        "description": "Most California cities publish their building permits, and almost none of them publish the same way. The San Francisco Peninsula alone runs six vendor portal...",
+        "keywords": "one, cap, city, not, rows, its, permit, data",
+        "generated": "2026-09-16T16:34:10.686864",
+        "file": "scraping-adversarial-municipal-portals-a-permit-pipeline-that-knows-when-it-failed.md"
+    },
+    {
         "title": "Your AI agent forgets. Mine doesn't - and it works on a plane, in a hospital, with wifi off.",
         "slug": "your-ai-agent-forgets-mine-doesnt-and-it-works-on-a-plane-in-a-hospital-with-wifi-off",
         "author": "Julien L",
@@ -44127,6 +44292,17 @@
         "keywords": "our, shivatechdigital, read, article, website, ppc, strategies, higher",
         "generated": "2026-07-06T15:45:24.412638",
         "file": "ai-ppc-strategies-for-higher-ad-returns.md"
+    },
+    {
+        "title": "Trusted Platforms to Buy Old Gmail Accounts Without ...",
+        "slug": "trusted-platforms-to-buy-old-gmail-accounts-without",
+        "author": "Muskan Era",
+        "source": "devto_webdev",
+        "published": "Wed, 16 Sep 2026 16:22:22 +0000",
+        "description": "Buy Old Gmail Accounts Have you ever wondered why your emails aren’t reaching your audience effectively or why your marketing campaigns lack the punch they u...",
+        "keywords": "accounts, gmail, your, old, can, you, account, buy",
+        "generated": "2026-09-16T16:34:10.691850",
+        "file": "trusted-platforms-to-buy-old-gmail-accounts-without.md"
     },
     {
         "title": "The HSTS Header You Just Marked 'Pass' Doesn't Protect the Request That Actually Matters",
@@ -49482,6 +49658,17 @@
         "file": "9-mvp-development-mistakes-that-quietly-delay-launch-in-2026.md"
     },
     {
+        "title": "Nano Empire – Open-source MCP gateway with x402 micropayments and A2A routing",
+        "slug": "nano-empire-open-source-mcp-gateway-with-x402-micropayments-and-a2a-routing",
+        "author": "Rob Lambert",
+        "source": "devto_ai",
+        "published": "Wed, 16 Sep 2026 16:31:22 +0000",
+        "description": "We built Nano Empire to solve the monetization bottleneck for AI agent tools. Most MCP servers either burn developer API credits for free or hide behind $20/...",
+        "keywords": "agent, mcp, tools, nano, empire, gateway, api, agents",
+        "generated": "2026-09-16T16:34:10.692646",
+        "file": "nano-empire-open-source-mcp-gateway-with-x402-micropayments-and-a2a-routing.md"
+    },
+    {
         "title": "Star Just Ate a Planet, and It's Not Done Yet",
         "slug": "star-just-ate-a-planet-and-its-not-done-yet",
         "author": "wglb",
@@ -54441,6 +54628,17 @@
         "keywords": "landing, your, page, conversion, user, can, saas, rates",
         "generated": "2026-06-11T16:13:08.007751",
         "file": "understanding-saas-landing-pag.md"
+    },
+    {
+        "title": "Implementing n8n whatsapp business api automation with RAG for Accurate Replies",
+        "slug": "implementing-n8n-whatsapp-business-api-automation-with-rag-for-accurate-replies",
+        "author": "Sam Chen",
+        "source": "devto_ai",
+        "published": "Wed, 16 Sep 2026 16:30:32 +0000",
+        "description": "To automate WhatsApp Business API replies using n8n and RAG, you must integrate an LLM node with a vector database reference. First, ingest your specific FAQ...",
+        "keywords": "node, whatsapp, business, api, webhook, meta, your, llm",
+        "generated": "2026-09-16T16:34:10.693166",
+        "file": "implementing-n8n-whatsapp-business-api-automation-with-rag-for-accurate-replies.md"
     },
     {
         "title": "How I Stopped Bleeding Money on AI APIs — A Freelancer's Guide",
@@ -60260,6 +60458,17 @@
         "keywords": "knuth, url, https, comments, art, computer, programming, donald",
         "generated": "2026-07-07T09:51:54.392927",
         "file": "the-art-of-computer-programming-by-donald-e-knuth.md"
+    },
+    {
+        "title": "The 2026 Shift: Why I Stopped Using Linear Automations and Moved to Agentic Workflows",
+        "slug": "the-2026-shift-why-i-stopped-using-linear-automations-and-moved-to-agentic-workflows",
+        "author": "Marlon",
+        "source": "devto_python",
+        "published": "Wed, 16 Sep 2026 16:01:41 +0000",
+        "description": "If your AI automation still relies on a basic IF/ELSE trigger, you're already behind. In 2026, selling basic linear automations to high-ticket B2B clients ...",
+        "keywords": "high, playbook, linear, automations, agentic, workflows, basic, you",
+        "generated": "2026-09-16T16:34:10.687984",
+        "file": "the-2026-shift-why-i-stopped-using-linear-automations-and-moved-to-agentic-workflows.md"
     },
     {
         "title": "How to build a fast global city autocomplete in JavaScript",
@@ -68316,10 +68525,10 @@
         "slug": "how-to-build-a-flight-tracker-with-aviationstack-api",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Tue, 15 Sep 2026 20:55:15 +0000",
+        "published": "Wed, 16 Sep 2026 16:21:41 +0000",
         "description": "Track any flight in real-time with a single API call. The Problem Most developers either build custom solutions (slow, fragile) or pay for expensive enterpri...",
         "keywords": "api, flight, aviationstack, free, build, track, call, most",
-        "generated": "2026-09-15T21:05:12.123108",
+        "generated": "2026-09-16T16:34:10.692094",
         "file": "how-to-build-a-flight-tracker-with-aviationstack-api.md"
     },
     {
