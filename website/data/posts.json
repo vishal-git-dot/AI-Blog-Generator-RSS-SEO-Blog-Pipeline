@@ -6523,6 +6523,17 @@
         "file": "to-recruit-teachers-school-districts-are-building-homes.md"
     },
     {
+        "title": "Python Billing Provisioning: Idempotent Default Payments and Auto-Recharge Verification",
+        "slug": "python-billing-provisioning-idempotent-default-payments-and-auto-recharge-verification",
+        "author": "XerxesCross2735",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 20:57:20 +0000",
+        "description": "Short answer: Provision billing in this order: set the default payment method, configure auto-recharge and its ceiling together, then read the auto-recharge ...",
+        "keywords": "billing, not, payment, account, api, configuration, backend, recharge",
+        "generated": "2026-09-17T21:09:42.821032",
+        "file": "python-billing-provisioning-idempotent-default-payments-and-auto-recharge-verification.md"
+    },
+    {
         "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
         "slug": "pre-modern-armies-for-worldbuilders-part-i-why-they-fight",
         "author": "gostsamo",
@@ -8272,6 +8283,17 @@
         "file": "hazel-yc-w24-is-hiring-for-our-largest-government-contract.md"
     },
     {
+        "title": "Canto: A speech model built for the real world",
+        "slug": "canto-a-speech-model-built-for-the-real-world",
+        "author": "sleepypandas",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 18:32:50 +0000",
+        "description": "Article URL: https://wisprflow.ai/canto Comments URL: https://news.ycombinator.com/item?id=49744715 Points: 13 # Comments: 5",
+        "keywords": "canto, url, https, comments, speech, model, built, real",
+        "generated": "2026-09-17T21:09:42.820270",
+        "file": "canto-a-speech-model-built-for-the-real-world.md"
+    },
+    {
         "title": "Python selectors: Efficient I/O Multiplexing",
         "slug": "python-selectors-efficient-io-multiplexing",
         "author": "qing",
@@ -9206,6 +9228,17 @@
         "keywords": "sentiment, financial, analysis, language, can, nlp, signals, confidence",
         "generated": "2026-09-08T16:23:34.875659",
         "file": "nlp-sentiment-analysis-essential-earnings-signals.md"
+    },
+    {
+        "title": "7 Best LLM Observability Tools for Production AI (2026)",
+        "slug": "7-best-llm-observability-tools-for-production-ai-2026",
+        "author": "Conor Breathnach",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 20:45:09 +0000",
+        "description": "TL;DR Production LLM applications fail primarily through silent semantic errors such as hallucinations, tool-call failures, and prompt drift rather than HTTP...",
+        "keywords": "llm, production, observability, teams, trace, tracing, prompt, agent",
+        "generated": "2026-09-17T21:09:42.822489",
+        "file": "7-best-llm-observability-tools-for-production-ai-2026.md"
     },
     {
         "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
@@ -21436,6 +21469,17 @@
         "file": "optimierung-von-seo-backlinks-fr-automobil-websites-strategien-fr-den-deutschen-markt.md"
     },
     {
+        "title": "Don't Make Job Referrals Public",
+        "slug": "dont-make-job-referrals-public",
+        "author": "elashri",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 18:16:38 +0000",
+        "description": "Article URL: https://blog.melashri.net/micro/public-job-referral/ Comments URL: https://news.ycombinator.com/item?id=49744530 Points: 17 # Comments: 12",
+        "keywords": "job, public, url, https, comments, don, make, referrals",
+        "generated": "2026-09-17T21:09:42.820386",
+        "file": "dont-make-job-referrals-public.md"
+    },
+    {
         "title": "WebGL Without a GPU",
         "slug": "webgl-without-a-gpu",
         "author": "Kikobeats",
@@ -24305,6 +24349,17 @@
         "keywords": "one, page, every, fable, fit, luka, its, question",
         "generated": "2026-07-06T04:05:09.366739",
         "file": "fable-5-hype-fangirling-with-datasets-to-build-a-lakers-dashboard.md"
+    },
+    {
+        "title": "Should you harness the harness: what a workflow engine actually is",
+        "slug": "should-you-harness-the-harness-what-a-workflow-engine-actually-is",
+        "author": "Dani Shemesh",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 20:57:16 +0000",
+        "description": "Part one described a procedure that lives inside the agent session, and the limits that follow from it living there. This part is about the alternative, and ...",
+        "keywords": "one, run, engine, what, model, can, agent, you",
+        "generated": "2026-09-17T21:09:42.827656",
+        "file": "should-you-harness-the-harness-what-a-workflow-engine-actually-is.md"
     },
     {
         "title": "Cleaning Sofas After Occasions Kuwait — تنظيف وتعقيم الكنب بعد المناسبات في الكويت: استعادة النظافة والجمال",
@@ -28161,10 +28216,10 @@
         "slug": "ai-model-observability-essential-data-trust-metrics",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Fri, 11 Sep 2026 20:33:08 +0000",
-        "description": "AI systems can pass infrastructure and accuracy checks while still producing unreliable decisions. The blind spot is often not the model—it is the data enter...",
-        "keywords": "trust, data, model, can, prediction, score, scoring, monitoring",
-        "generated": "2026-09-11T20:46:17.643786",
+        "published": "Thu, 17 Sep 2026 21:03:50 +0000",
+        "description": "AI systems can pass accuracy checks while producing decisions from stale, incomplete, or poorly sourced data. That gap is why AI model observability must ext...",
+        "keywords": "model, trust, data, can, prediction, source, monitoring, evidence",
+        "generated": "2026-09-17T21:09:42.825238",
         "file": "ai-model-observability-essential-data-trust-metrics.md"
     },
     {
@@ -29277,6 +29332,17 @@
         "keywords": "field, checkerlint, checker, string, your, checkers, struct, type",
         "generated": "2026-09-06T03:57:50.779796",
         "file": "catch-bad-validation-tags-at-compile-time-with-checkerlint.md"
+    },
+    {
+        "title": "Bend",
+        "slug": "bend",
+        "author": "nicolas-siplis",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 20:36:13 +0000",
+        "description": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 29 # Comments: 4",
+        "keywords": "bend, url, https, com, comments, article, lang, news",
+        "generated": "2026-09-17T21:09:42.819846",
+        "file": "bend.md"
     },
     {
         "title": "Buy Verified Snapchat Accounts in World 2026 The 03 Best Places",
@@ -40796,6 +40862,17 @@
         "file": "my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything.md"
     },
     {
+        "title": "Best Marketing APIs for Developers in 2026",
+        "slug": "best-marketing-apis-for-developers-in-2026",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 21:04:53 +0000",
+        "description": "Need marketing data for your app? Here are the best APIs available on APILayer for marketing. 1. Numverify Global phone number validation & lookup Validate p...",
+        "keywords": "apis, marketing, data, free, user, best, apilayer, numverify",
+        "generated": "2026-09-17T21:09:42.823940",
+        "file": "best-marketing-apis-for-developers-in-2026.md"
+    },
+    {
         "title": "Trusting an LLM's JSON in production",
         "slug": "trusting-an-llms-json-in-production",
         "author": "Kate Johnson",
@@ -41223,6 +41300,17 @@
         "keywords": "you, your, video, tech, pas, problem, hooks, framework",
         "generated": "2026-09-09T16:19:02.769240",
         "file": "mastering-video-hooks-with-pas-framework.md"
+    },
+    {
+        "title": "Enterprise LLM Observability Tools: The 2026 Evaluation Guide",
+        "slug": "enterprise-llm-observability-tools-the-2026-evaluation-guide",
+        "author": "Chidi Eze",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 20:57:12 +0000",
+        "description": "TL;DR Enterprise LLM observability tools track non-deterministic model behavior, multi-step agent reasoning, token costs, and output quality across productio...",
+        "keywords": "enterprise, llm, observability, agent, model, production, yes, tools",
+        "generated": "2026-09-17T21:09:42.828941",
+        "file": "enterprise-llm-observability-tools-the-2026-evaluation-guide.md"
     },
     {
         "title": "Top 10 AGENTS APIs & Scrapers in 2026 — Ranked by Active Users",
@@ -44996,6 +45084,17 @@
         "keywords": "codex, security, not, usage, does, every, openai, one",
         "generated": "2026-07-29T14:22:03.418726",
         "file": "agent-roundup-two-codex-signals-worth-verifying-not-overreading.md"
+    },
+    {
+        "title": "Was bash the wrong language for my agent?",
+        "slug": "was-bash-the-wrong-language-for-my-agent",
+        "author": "Qian_Xiao",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 20:36:47 +0000",
+        "description": "I have a small agent that handles one piece of routine work at a time. It looks at what needs doing, picks the thing most worth doing, shows me the plan, and...",
+        "keywords": "one, bash, what, not, lines, its, line, python",
+        "generated": "2026-09-17T21:09:42.823377",
+        "file": "was-bash-the-wrong-language-for-my-agent.md"
     },
     {
         "title": "Simple Online Tasks That Can Earn You PSN Rewards",
@@ -48956,6 +49055,17 @@
         "file": "swift-64-released.md"
     },
     {
+        "title": "Your Pipeline Is 26.2h Behind: Catching Music Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-262h-behind-catching-music-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 20:55:44 +0000",
+        "description": "Your Pipeline Is 26.2h Behind: Catching Music Sentiment Leads with Pulsebit We recently uncovered an interesting anomaly: a 24-hour momentum spike of +0.447 ...",
+        "keywords": "sentiment, music, pulsebit, can, your, english, you, api",
+        "generated": "2026-09-17T21:09:42.821382",
+        "file": "your-pipeline-is-262h-behind-catching-music-sentiment-leads-with-pulsebit.md"
+    },
+    {
         "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
         "slug": "stenchill-3d-printable-solder-paste-stencil-generator",
         "author": "radeeyate",
@@ -49625,6 +49735,17 @@
         "keywords": "trylle, url, https, com, comments, show, next, gen",
         "generated": "2026-07-28T02:55:11.506272",
         "file": "show-hn-trylle-the-next-gen-git-platform-for-modern-teams.md"
+    },
+    {
+        "title": "Enterprise LLM Observability Platforms: 2026 Comparison",
+        "slug": "enterprise-llm-observability-platforms-2026-comparison",
+        "author": "Sebastien Moreau",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 21:01:03 +0000",
+        "description": "TL;DR Enterprise LLM observability platforms monitor non-deterministic AI applications through distributed tracing, semantic evaluations, cost attribution, a...",
+        "keywords": "enterprise, observability, llm, evaluation, maxim, production, platform, platforms",
+        "generated": "2026-09-17T21:09:42.826373",
+        "file": "enterprise-llm-observability-platforms-2026-comparison.md"
     },
     {
         "title": "How to Scrape LinkedIn Profiles in 2026 — Full Guide",
@@ -51592,6 +51713,17 @@
         "keywords": "turn, tokens, you, cost, langchain, input, history, memory",
         "generated": "2026-07-22T08:36:37.026163",
         "file": "langchain-cost-audit-what-conversationbuffermemory-actually-costs-you-at-scale.md"
+    },
+    {
+        "title": "Your customers ask AI now, not Google. I built a $29/mo agent builder to get you cited.",
+        "slug": "your-customers-ask-ai-now-not-google-i-built-a-29mo-agent-builder-to-get-you-cited",
+        "author": "Nitish Kumar Yadav",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 20:51:55 +0000",
+        "description": "People don't scroll ten blue links anymore. They ask ChatGPT what's the best X for Y and take the answer. Same with Perplexity, Gemini, Copilot, Google's A...",
+        "keywords": "you, your, not, agent, run, draft, one, recipes",
+        "generated": "2026-09-17T21:09:42.824854",
+        "file": "your-customers-ask-ai-now-not-google-i-built-a-29mo-agent-builder-to-get-you-cited.md"
     },
     {
         "title": "I Found a “Case Study” About My Open-Source Project — But Its Development History Didn't Match Reality",
@@ -63197,6 +63329,17 @@
         "file": "ffmpeg-video-compression-crf-vs-cbr-vs-vbr-explained.md"
     },
     {
+        "title": "Nuevas Capas en el Stack de Desa…",
+        "slug": "nuevas-capas-en-el-stack-de-desa",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 21:05:58 +0000",
+        "description": "Originally published at norvik.tech Introduction Profundiza en cómo los agentes AI transforman el desarrollo web, sus mecanismos y su impacto en las empresas...",
+        "keywords": "agentes, los, del, para, desarrollo, que, las, son",
+        "generated": "2026-09-17T21:09:42.823780",
+        "file": "nuevas-capas-en-el-stack-de-desa.md"
+    },
+    {
         "title": "OpenAI Disbands Preparedness T…",
         "slug": "openai-disbands-preparedness-t",
         "author": "Norvik Tech",
@@ -66596,6 +66739,17 @@
         "file": "vigilmon-vs-manageengine-opmanager-sme-it-monitoring-vs-developer-uptime-monitoring-2026.md"
     },
     {
+        "title": "An AI agent published our product. That did not mean the job was done.",
+        "slug": "an-ai-agent-published-our-product-that-did-not-mean-the-job-was-done",
+        "author": "Little Workroom",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 20:59:25 +0000",
+        "description": "Disclosure: this article was written and posted by an AI agent under the Little Workroom owner’s direction. The owner chose the project and authorized public...",
+        "keywords": "not, our, product, ebook, evidence, can, report, one",
+        "generated": "2026-09-17T21:09:42.826774",
+        "file": "an-ai-agent-published-our-product-that-did-not-mean-the-job-was-done.md"
+    },
+    {
         "title": "Why AI video prompts fail without a brief",
         "slug": "why-ai-video-prompts-fail-without-a-brief",
         "author": "Marcus Vale",
@@ -68915,6 +69069,17 @@
         "keywords": "django, queries, query, orders, order, customer, interesting, fetch",
         "generated": "2026-09-13T11:28:47.306394",
         "file": "i-found-an-interesting-n1-problem-in-a-django-application.md"
+    },
+    {
+        "title": "Astra for Law",
+        "slug": "astra-for-law",
+        "author": "vertigoruntime",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 20:17:48 +0000",
+        "description": "Article URL: https://openai.com/index/astra-for-law/ Comments URL: https://news.ycombinator.com/item?id=49745940 Points: 84 # Comments: 61",
+        "keywords": "astra, law, url, https, com, comments, article, openai",
+        "generated": "2026-09-17T21:09:42.820019",
+        "file": "astra-for-law.md"
     },
     {
         "title": "Bluesky Protocol Services",
@@ -73152,6 +73317,17 @@
         "file": "i-built-a-free-01-knapsack-solver-api-with-a-new-heuristic.md"
     },
     {
+        "title": "How to recover lost crypto or recover scammed Bitcoin, and secure your digital assets. Visit ZEUS CRYPTO RECOVERY SERVICES",
+        "slug": "how-to-recover-lost-crypto-or-recover-scammed-bitcoin-and-secure-your-digital-assets-visit-zeus-crypto-recovery-services",
+        "author": "Larry Santiago",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 21:02:07 +0000",
+        "description": "Lost access to your crypto or been scammed? Zeus Crypto Recovery Services helps clients trace lost or stolen funds using blockchain analysis and forensic inv...",
+        "keywords": "lost, crypto, your, zeus, recover, scammed, recovery, secure",
+        "generated": "2026-09-17T21:09:42.824081",
+        "file": "how-to-recover-lost-crypto-or-recover-scammed-bitcoin-and-secure-your-digital-assets-visit-zeus-crypto-recovery-services.md"
+    },
+    {
         "title": "The motion-sickness cure hidden in iPhone settings",
         "slug": "the-motion-sickness-cure-hidden-in-iphone-settings",
         "author": "saikatsg",
@@ -76474,6 +76650,17 @@
         "file": "hiring-a-developer-ask-these-5-questions-before-you-spend-a-single-dollar.md"
     },
     {
+        "title": "Everybody's Lost Their Minds",
+        "slug": "everybodys-lost-their-minds",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 19:43:34 +0000",
+        "description": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html Comments URL: https://news.ycombinator.com/item?id=49745570 Points: 91 # Commen...",
+        "keywords": "lost, their, minds, url, https, comments, everybody, article",
+        "generated": "2026-09-17T21:09:42.820150",
+        "file": "everybodys-lost-their-minds.md"
+    },
+    {
         "title": "What Happens When Your AI Agent Actually Remembers Past Incidents",
         "slug": "what-happens-when-your-ai-agent-actually-remembers-past-incidents",
         "author": "Renesh Goud",
@@ -78494,6 +78681,17 @@
         "keywords": "email, test, message, run, inbox, token, mail, not",
         "generated": "2026-07-12T08:25:23.793915",
         "file": "run-tokens-make-email-ci-less-fragile.md"
+    },
+    {
+        "title": "Reddit Scraper - All in One — 3K Users Can't Be Wrong",
+        "slug": "reddit-scraper-all-in-one-3k-users-cant-be-wrong",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 20:59:42 +0000",
+        "description": "Are you spending hours writing custom scrapers? There's probably an actor for that already. What is Reddit Scraper - All in One? Extract Reddit posts, users,...",
+        "keywords": "reddit, all, scraper, one, users, data, you, your",
+        "generated": "2026-09-17T21:09:42.824295",
+        "file": "reddit-scraper-all-in-one-3k-users-cant-be-wrong.md"
     },
     {
         "title": "Live company-registry data for AI agents, from one endpoint",
@@ -83387,6 +83585,17 @@
         "keywords": "url, https, comments, orca, bench, how, ready, language",
         "generated": "2026-07-31T19:42:01.097769",
         "file": "orca-bench-how-ready-are-language-model-agents-for-oncall.md"
+    },
+    {
+        "title": "Your Pipeline Is 26.4h Behind: Catching Education Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-264h-behind-catching-education-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 20:45:00 +0000",
+        "description": "Your Pipeline Is 26.4h Behind: Catching Education Sentiment Leads with Pulsebit We just identified a striking anomaly: a 24h momentum spike of +0.487 in the ...",
+        "keywords": "sentiment, education, pulsebit, can, score, you, your, pipeline",
+        "generated": "2026-09-17T21:09:42.822870",
+        "file": "your-pipeline-is-264h-behind-catching-education-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "The Model Didn't Change. A Parameter Disappeared. Thousands of Pipelines Broke.",
