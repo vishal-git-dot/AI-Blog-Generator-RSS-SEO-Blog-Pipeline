@@ -2303,6 +2303,17 @@
         "file": "our-agent-chose-its-own-workload-and-its-success-rate-stopped-meaning-anything.md"
     },
     {
+        "title": "Process EPUB files in the browser — no uploads",
+        "slug": "process-epub-files-in-the-browser-no-uploads",
+        "author": "Selenium39",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 16:31:15 +0000",
+        "description": "EPUB files are ZIP-based books, so many useful operations can happen entirely in the browser. That means a reader can inspect metadata, validate a package, o...",
+        "keywords": "file, epub, can, browser, books, local, const, files",
+        "generated": "2026-09-17T16:39:14.789381",
+        "file": "process-epub-files-in-the-browser-no-uploads.md"
+    },
+    {
         "title": "Structured Summary JSON Schema for a Fintech LLM Code Review API",
         "slug": "structured-summary-json-schema-for-a-fintech-llm-code-review-api",
         "author": "ValorD33",
@@ -2890,10 +2901,10 @@
         "slug": "best-devtools-apis-for-developers-in-2026",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Sun, 13 Sep 2026 20:29:59 +0000",
+        "published": "Thu, 17 Sep 2026 16:28:24 +0000",
         "description": "Need devtools data for your app? Here are the best APIs available on APILayer for devtools. 1. Screenshotlayer Capture website screenshots via API Automated ...",
         "keywords": "apis, api, devtools, capture, free, best, apilayer, screenshotlayer",
-        "generated": "2026-09-13T20:34:31.559384",
+        "generated": "2026-09-17T16:39:14.789529",
         "file": "best-devtools-apis-for-developers-in-2026.md"
     },
     {
@@ -8503,6 +8514,17 @@
         "file": "moss-yc-f25-is-hiring.md"
     },
     {
+        "title": "Automated Integration Tests for the Deployed Hello World API",
+        "slug": "automated-integration-tests-for-the-deployed-hello-world-api",
+        "author": "Gloria",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 16:19:35 +0000",
+        "description": "In Part 1 , we built our Hello World API and got it running locally. But writing code is only half the story — you also need to know it actually works, both ...",
+        "keywords": "tests, api, test, integration, hello, you, your, get",
+        "generated": "2026-09-17T16:39:14.787396",
+        "file": "automated-integration-tests-for-the-deployed-hello-world-api.md"
+    },
+    {
         "title": "5 AI Stories From This Week That Change the Strategic Conversation — Colorado AI Act: 8 Days",
         "slug": "5-ai-stories-from-this-week-that-change-the-strategic-conversation-colorado-ai-act-8-days",
         "author": "marcom",
@@ -9758,6 +9780,17 @@
         "file": "top-website-development-institute-in-noida-with-practical-training-live-projects.md"
     },
     {
+        "title": "Clean JSON Extraction with Ollama and Python",
+        "slug": "clean-json-extraction-with-ollama-and-python",
+        "author": "flow nears",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 15:55:56 +0000",
+        "description": "When building autonomous agents or production workflows with local LLMs via Ollama , one of the most persistent engineering challenges is output parsing. Eve...",
+        "keywords": "json, ollama, python, content, text, import, tags, output",
+        "generated": "2026-09-17T16:39:14.788942",
+        "file": "clean-json-extraction-with-ollama-and-python.md"
+    },
+    {
         "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
         "slug": "meta-ordered-to-pay-942m-to-address-harm-to-kids-from-social-media",
         "author": "boplicity",
@@ -9877,6 +9910,17 @@
         "keywords": "religious, experience, philip, dick, crumb, url, https, com",
         "generated": "2026-08-21T06:55:13.094809",
         "file": "the-religious-experience-of-philip-k-dick-by-r-crumb-1986.md"
+    },
+    {
+        "title": "Promise Chaining",
+        "slug": "promise-chaining",
+        "author": "Rakshambika",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 16:35:40 +0000",
+        "description": "What is Promise Chaining? Promise chaining means connecting multiple .then() methods together so that the result of one asynchronous operation is passed to t...",
+        "keywords": "then, promise, value, chaining, user, console, log, orders",
+        "generated": "2026-09-17T16:39:14.789177",
+        "file": "promise-chaining.md"
     },
     {
         "title": "Show HN: An 8-bit live gamecast for baseball",
@@ -14090,6 +14134,17 @@
         "file": "build-a-canary-deployment-system-with-python.md"
     },
     {
+        "title": "What If Your Coding Agent Could Remember What It Learned Yesterday?",
+        "slug": "what-if-your-coding-agent-could-remember-what-it-learned-yesterday",
+        "author": "Nishikanta Ray",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 16:28:47 +0000",
+        "description": "I built Attic to help Claude Code and Codex CLI remember what they discover — and now you can save knowledge from your browser too. You ask your AI coding as...",
+        "keywords": "you, attic, knowledge, your, browser, can, agent, authentication",
+        "generated": "2026-09-17T16:39:14.834042",
+        "file": "what-if-your-coding-agent-could-remember-what-it-learned-yesterday.md"
+    },
+    {
         "title": "The Last MPEG-4 Visual Patent Has Expired",
         "slug": "the-last-mpeg-4-visual-patent-has-expired",
         "author": "LorenDB",
@@ -16902,6 +16957,17 @@
         "keywords": "prompt, indirect, agents, injections, weaponised, drain, crypto, via",
         "generated": "2026-07-07T14:49:42.589571",
         "file": "indirect-prompt-injections-weaponised-to-drain-crypto-via-ai-agents.md"
+    },
+    {
+        "title": "Master the Curiosity Loop for Unstoppable Video Retention",
+        "slug": "master-the-curiosity-loop-for-unstoppable-video-retention",
+        "author": "Zohir Lahcen",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 16:27:19 +0000",
+        "description": "Your average viewer isn’t leaving your video because your edits are bad. They’re leaving because you satisfied their curiosity too early. Enter The Curiosity...",
+        "keywords": "loop, your, curiosity, video, viewer, they, you, next",
+        "generated": "2026-09-17T16:39:14.834335",
+        "file": "master-the-curiosity-loop-for-unstoppable-video-retention.md"
     },
     {
         "title": "How to Evaluate an AI Creative Workflow Before You Build Around It",
@@ -24701,6 +24767,17 @@
         "keywords": "smm, best, panels, explore, affordable, services, fast, delivery",
         "generated": "2026-09-16T16:34:10.693737",
         "file": "best-smm-panels.md"
+    },
+    {
+        "title": "Huawei Just Fast-Tracked Its Nvidia-Killer Chip",
+        "slug": "huawei-just-fast-tracked-its-nvidia-killer-chip",
+        "author": "Anas Hamad",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 16:28:58 +0000",
+        "description": "Breaking from Huawei Connect: the company just moved up its own deadline. The new Ascend 960DT AI chip was originally slated for Q3 2027. Now it's landing a ...",
+        "keywords": "chip, huawei, just, its, nvidia, company, new, ascend",
+        "generated": "2026-09-17T16:39:14.832654",
+        "file": "huawei-just-fast-tracked-its-nvidia-killer-chip.md"
     },
     {
         "title": "Bringing PyTorch Monarch to AMD GPUs",
@@ -33666,6 +33743,17 @@
         "keywords": "football, real, mudryk, data, live, free, play, doping",
         "generated": "2026-08-03T03:30:39.803115",
         "file": "how-i-built-a-real-time-football-stats-tracker-chelseas-mudryk-free-to-play-after-appeal-against-doping-ban.md"
+    },
+    {
+        "title": "LLM Classification Is Feature Engineering",
+        "slug": "llm-classification-is-feature-engineering",
+        "author": "minsufficient",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 15:40:17 +0000",
+        "description": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/ Comments URL: https://news.ycombinator.com/item?id=49742437 Poin...",
+        "keywords": "llm, classification, feature, url, https, com, comments, engineering",
+        "generated": "2026-09-17T16:39:14.783210",
+        "file": "llm-classification-is-feature-engineering.md"
     },
     {
         "title": "Astro Server Islands: Keep Pages Fast Without Giving Up Interactivity",
@@ -42974,6 +43062,17 @@
         "file": "run-large-language-models-at-home-bittorrentstyle.md"
     },
     {
+        "title": "Whoisinspace.com/",
+        "slug": "whoisinspacecom",
+        "author": "Egg-Man",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 15:59:37 +0000",
+        "description": "Article URL: https://whoisinspace.com Comments URL: https://news.ycombinator.com/item?id=49742714 Points: 11 # Comments: 3",
+        "keywords": "com, whoisinspace, url, https, comments, article, news, ycombinator",
+        "generated": "2026-09-17T16:39:14.782844",
+        "file": "whoisinspacecom.md"
+    },
+    {
         "title": "How to Generate Accurate AI Content Without Hallucinations",
         "slug": "how-to-generate-accurate-ai-content-without-hallucinations",
         "author": "Riddhi Patel",
@@ -44754,6 +44853,17 @@
         "keywords": "model, not, clinical, healthcare, data, systems, most, what",
         "generated": "2026-06-24T14:43:41.339418",
         "file": "how-ai-is-actually-being-used-in-healthcare-systems-right-now.md"
+    },
+    {
+        "title": "Reject Agent Patches That Pass Only in Default Collection Order",
+        "slug": "reject-agent-patches-that-pass-only-in-default-collection-order",
+        "author": "Finley Zhou",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 16:35:01 +0000",
+        "description": "An agent patch that is green under default pytest collection order has not been tested for isolation. Reject the merge if a shuffle seed fails while the defa...",
+        "keywords": "not, order, seed, green, tests, agent, default, pytest",
+        "generated": "2026-09-17T16:39:14.831904",
+        "file": "reject-agent-patches-that-pass-only-in-default-collection-order.md"
     },
     {
         "title": "I Replaced SQLite's C Driver with 800 Lines of Pure Python Stdlib: What the Docs Don't Tell You About Raw B-Trees, 9-Byte Varints, and 48-Bit Integers",
@@ -53706,6 +53816,17 @@
         "file": "how-to-organize-claude-code-for-product-work.md"
     },
     {
+        "title": "The offline conversion importer you write today fails in the next ad account",
+        "slug": "the-offline-conversion-importer-you-write-today-fails-in-the-next-ad-account",
+        "author": "Vinicius Pereira",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 16:29:16 +0000",
+        "description": "Google's guide for importing offline conversions opens with a warning box that is very easy to scroll past: Starting June 15, 2026, UploadClickConversion req...",
+        "keywords": "google, one, not, meta, which, both, com, request",
+        "generated": "2026-09-17T16:39:14.784496",
+        "file": "the-offline-conversion-importer-you-write-today-fails-in-the-next-ad-account.md"
+    },
+    {
         "title": "เมื่อ AI เขียนโค้ดให้หมด Fundamentals ยังสำคัญอยู่ไหม?",
         "slug": "ai-fundamentals",
         "author": "r1ACK",
@@ -56071,6 +56192,17 @@
         "file": "the-biggest-mistake-i-made-online-was-starting-over-every-year.md"
     },
     {
+        "title": "Project memory is not chat history: a tiny handoff layer for AI agents",
+        "slug": "project-memory-is-not-chat-history-a-tiny-handoff-layer-for-ai-agents",
+        "author": "Louis Wu",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 16:05:02 +0000",
+        "description": "I kept running into the same failure mode when switching between AI workers, browser sessions, or machines: the files were still there, but the exact working...",
+        "keywords": "what, resume, project, next, state, handoff, scene, worker",
+        "generated": "2026-09-17T16:39:14.788583",
+        "file": "project-memory-is-not-chat-history-a-tiny-handoff-layer-for-ai-agents.md"
+    },
+    {
         "title": "Claude MCP Integrations Through a Proxy: How ShadoClaw Keeps Your Tool Chains Stable",
         "slug": "claude-mcp-integrations-through-a-proxy-how-shadoclaw-keeps-your-tool-chains-stable",
         "author": "Gerus Lab",
@@ -56685,6 +56817,17 @@
         "keywords": "nub, all, one, javascript, toolkit, bun, developer, meet",
         "generated": "2026-07-29T08:48:13.034587",
         "file": "meet-nub-the-all-in-one-javascript-toolkit.md"
+    },
+    {
+        "title": "CrowdSec Source Code Leak",
+        "slug": "crowdsec-source-code-leak",
+        "author": "eccgecko",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 15:34:01 +0000",
+        "description": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 12 # C...",
+        "keywords": "crowdsec, source, code, url, https, comments, leak, article",
+        "generated": "2026-09-17T16:39:14.783374",
+        "file": "crowdsec-source-code-leak.md"
     },
     {
         "title": "AI Is Finding Bugs Faster Than You're Patching Them — What Website Owners Should Do Differently",
@@ -58093,6 +58236,17 @@
         "keywords": "grapheneos, url, https, comments, available, high, end, motorola",
         "generated": "2026-08-19T12:56:23.244614",
         "file": "grapheneos-in-2027-available-on-high-end-motorola-phones.md"
+    },
+    {
+        "title": "Ask HN: How to recover Google auth after phone stolen?",
+        "slug": "ask-hn-how-to-recover-google-auth-after-phone-stolen",
+        "author": "keymasta",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 16:17:28 +0000",
+        "description": "As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. ...",
+        "keywords": "phone, google, you, has, like, use, there, any",
+        "generated": "2026-09-17T16:39:14.782630",
+        "file": "ask-hn-how-to-recover-google-auth-after-phone-stolen.md"
     },
     {
         "title": "hikerapi",
@@ -65936,6 +66090,17 @@
         "file": "log-pruner-cli-find-and-clean-oversized-log-files-in-python.md"
     },
     {
+        "title": "How to Sell AI Automation Workflows to Local Businesses: A Step-by-Step Guide",
+        "slug": "how-to-sell-ai-automation-workflows-to-local-businesses-a-step-by-step-guide",
+        "author": "Sam Chen",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 16:30:31 +0000",
+        "description": "To build and sell a standardized n8n workflow to local SMBs, you need a structured approach to packaging and delivering workflow automation solutions. This i...",
+        "keywords": "automation, workflow, pricing, client, workflows, tools, like, can",
+        "generated": "2026-09-17T16:39:14.832461",
+        "file": "how-to-sell-ai-automation-workflows-to-local-businesses-a-step-by-step-guide.md"
+    },
+    {
         "title": "Feet, Inches, and Flooring Waste: A Practical Square Footage Workflow",
         "slug": "feet-inches-and-flooring-waste-a-practical-square-footage-workflow",
         "author": "Ray Johy",
@@ -71128,6 +71293,17 @@
         "file": "http-caching-explained-max-age-etag-and-why-your-users-still-see-last-weeks-css.md"
     },
     {
+        "title": "Why AI Still Needs Reliable Online Tools",
+        "slug": "why-ai-still-needs-reliable-online-tools",
+        "author": "Junaid2",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 16:28:16 +0000",
+        "description": "AI assistants have become surprisingly good at understanding questions, explaining concepts, and helping with everyday tasks. But there is an important diffe...",
+        "keywords": "can, tools, calculations, tasks, calculation, task, dedicated, understanding",
+        "generated": "2026-09-17T16:39:14.830481",
+        "file": "why-ai-still-needs-reliable-online-tools.md"
+    },
+    {
         "title": "How I Reverse-Engineered OpenAI’s Image 2.0 Launch into a High-Converting Indie Product (with Architecture & Copywriting Breakdown)",
         "slug": "how-i-reverse-engineered-openais-image-20-launch-into-a-high-converting-indie-product-with-architecture-copywriting-breakdown",
         "author": "Elinda Gut",
@@ -72116,6 +72292,17 @@
         "keywords": "you, reaction, time, click, your, test, average, built",
         "generated": "2026-07-28T14:22:20.798396",
         "file": "i-built-a-reaction-time-test-in-150-lines-of-vanilla-js-heres-why.md"
+    },
+    {
+        "title": "Vinix – A modern operating system written in V",
+        "slug": "vinix-a-modern-operating-system-written-in-v",
+        "author": "hggh",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 15:40:19 +0000",
+        "description": "Article URL: https://vinix-os.org/ Comments URL: https://news.ycombinator.com/item?id=49742439 Points: 11 # Comments: 1",
+        "keywords": "vinix, url, https, comments, modern, operating, system, written",
+        "generated": "2026-09-17T16:39:14.783028",
+        "file": "vinix-a-modern-operating-system-written-in-v.md"
     },
     {
         "title": "Slightly reducing the sloppiness of AI generated front end",
@@ -78265,6 +78452,17 @@
         "file": "codebase-memory-mcp-token-99.md"
     },
     {
+        "title": "Why Posting More Didn’t Bring Me Clients as a WordPress Developer 2026/27",
+        "slug": "why-posting-more-didnt-bring-me-clients-as-a-wordpress-developer-202627",
+        "author": "Muzzamil Ahmed Khan",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 16:26:37 +0000",
+        "description": "I have spent the last two months trying to find new freelance clients. I posted on social media. I commented on other people’s content. I sent emails. I reac...",
+        "keywords": "not, can, wordpress, problems, may, what, help, people",
+        "generated": "2026-09-17T16:39:14.831222",
+        "file": "why-posting-more-didnt-bring-me-clients-as-a-wordpress-developer-202627.md"
+    },
+    {
         "title": "Python for Beginners — Part 3: Strings & Booleans",
         "slug": "python-for-beginners-part-3-strings-booleans",
         "author": "Ramesh S",
@@ -79154,6 +79352,17 @@
         "keywords": "git, docker, all, container, remote, changes, commit, list",
         "generated": "2026-07-05T03:58:51.640597",
         "file": "a-clean-complete-guide-to-version-control-collaboration-and-containerization-commands-workflows-and-concepts-all-in-one-place.md"
+    },
+    {
+        "title": "Best 30 Websites to Buy Google Ads Accounts in 2027",
+        "slug": "best-30-websites-to-buy-google-ads-accounts-in-2027",
+        "author": "dsgewg",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 16:19:08 +0000",
+        "description": "Buy Google Ads Accounts 💫⚡️🌟🌍 We are available online 24/7 🌸🔥🌙🌟 Telegram: @progmbofficial 💎🌈⚡️🌍 WhatsApp: +1 (920) 212-9737 🌠🚀✨🌌 Email: progmb.contact@gmail....",
+        "keywords": "google, account, ads, you, your, can, accounts, buy",
+        "generated": "2026-09-17T16:39:14.788309",
+        "file": "best-30-websites-to-buy-google-ads-accounts-in-2027.md"
     },
     {
         "title": "BizNode Workflow Marketplace: chain multiple bot handles into multi-step pipelines. Client onboarding, contract-to-payment,...",
