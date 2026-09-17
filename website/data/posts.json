@@ -4822,6 +4822,17 @@
         "file": "intellibooks-guide-to-the-top-6-agentic-ai-patterns-transforming-enterprise-ai.md"
     },
     {
+        "title": "Trebaš manje AI agenata nego što misliš. Gotovo uvijek dovoljan je jedan",
+        "slug": "treba-manje-ai-agenata-nego-to-misli-gotovo-uvijek-dovoljan-je-jedan",
+        "author": "Omar Baruzzo",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 11:15:05 +0000",
+        "description": "Multi-agent je trenutačni default, i najčešće pogrešan. Razdjeljivanje zadatka na više agenata ne dodaje sposobnost — premješta teški dio iz agenata u ljepil...",
+        "keywords": "agenata, agent, ili, jedan, default, ljepilo, svaki, stvarno",
+        "generated": "2026-09-17T11:22:03.943728",
+        "file": "treba-manje-ai-agenata-nego-to-misli-gotovo-uvijek-dovoljan-je-jedan.md"
+    },
+    {
         "title": "Build a Content Scheduler for Social Media",
         "slug": "build-a-content-scheduler-for-social-media",
         "author": "qing",
@@ -4941,6 +4952,17 @@
         "keywords": "url, https, com, comments, built, browser, based, file",
         "generated": "2026-07-19T08:26:32.154327",
         "file": "i-built-a-browser-based-p2p-file-transfer-tool-using-webrtc.md"
+    },
+    {
+        "title": "OpenAI Model Misalignment Report",
+        "slug": "openai-model-misalignment-report",
+        "author": "qprofyeh",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 07:21:19 +0000",
+        "description": "Article URL: https://openai.com/index/model-misalignment-reporting-framework/ Comments URL: https://news.ycombinator.com/item?id=49737503 Points: 45 # Commen...",
+        "keywords": "openai, model, misalignment, url, https, com, comments, report",
+        "generated": "2026-09-17T11:22:03.939565",
+        "file": "openai-model-misalignment-report.md"
     },
     {
         "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
@@ -6620,6 +6642,17 @@
         "keywords": "real, email, data, csv, job, automation, tool, python",
         "generated": "2026-07-11T13:38:52.448819",
         "file": "build-a-job-outreach-automation-tool.md"
+    },
+    {
+        "title": "Cloudflare/Security-Audit-Skill",
+        "slug": "cloudflaresecurity-audit-skill",
+        "author": "donk8r",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 04:36:55 +0000",
+        "description": "Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 74 # Comments: 16",
+        "keywords": "cloudflare, security, audit, skill, url, https, com, comments",
+        "generated": "2026-09-17T11:22:03.939680",
+        "file": "cloudflaresecurity-audit-skill.md"
     },
     {
         "title": "The Open-Source Repo Cutting AI Product Dev Time in Half",
@@ -8435,6 +8468,17 @@
         "keywords": "design, art, exhibition, websites, sharjah, https, live, com",
         "generated": "2026-07-29T03:14:29.810062",
         "file": "design-art-exhibition-websites-sharjah-2-2-2-2-2.md"
+    },
+    {
+        "title": "Our test asked for 4 branches, ran 1, and reported PASS",
+        "slug": "our-test-asked-for-4-branches-ran-1-and-reported-pass",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 10:57:49 +0000",
+        "description": "Quick answer: Our cloud test asked for 4 things — sale and rent, across Warszawa, Kraków and Wrocław — with maxResults: 40 . It came back 40 rows that were a...",
+        "keywords": "branch, rows, price, test, rent, city, run, you",
+        "generated": "2026-09-17T11:22:03.941546",
+        "file": "our-test-asked-for-4-branches-ran-1-and-reported-pass.md"
     },
     {
         "title": "Why Every Restaurant Needs a Restaurant Management App in 2026",
@@ -13287,6 +13331,17 @@
         "file": "the-402-challenge-is-already-the-price-tag-stop-copying-it-into-your-discovery-manifest.md"
     },
     {
+        "title": "Why Product Design and Engineering Must Work Together",
+        "slug": "why-product-design-and-engineering-must-work-together",
+        "author": "Digital BB",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 11:05:59 +0000",
+        "description": "A digital product can have a great interface and still fail to deliver a good experience. It can also have excellent engineering behind it and still be diffi...",
+        "keywords": "product, design, engineering, can, experience, technical, user, together",
+        "generated": "2026-09-17T11:22:03.941125",
+        "file": "why-product-design-and-engineering-must-work-together.md"
+    },
+    {
         "title": "Cómo automatizar el 30% de tu trabajo docente con IA (sin ser experto)",
         "slug": "cmo-automatizar-el-30-de-tu-trabajo-docente-con-ia-sin-ser-experto",
         "author": "David García",
@@ -15597,6 +15652,17 @@
         "file": "residential-proxy-scraper-how-to-scrape-the-web-without-managing-proxies.md"
     },
     {
+        "title": "Build a Polymarket research brief with Python and AlphAI",
+        "slug": "build-a-polymarket-research-brief-with-python-and-alphai",
+        "author": "Mikhail Makeev",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 11:11:07 +0000",
+        "description": "A Polymarket Fed market gives you a question and a price. Researching it means opening other tabs: the exact settlement rules, the next inflation release, co...",
+        "keywords": "alphai, fed, event, get, api, macro, key, original",
+        "generated": "2026-09-17T11:22:03.940247",
+        "file": "build-a-polymarket-research-brief-with-python-and-alphai.md"
+    },
+    {
         "title": "Make AI-Generated HTTP Endpoints Prove Themselves on a Disposable Server",
         "slug": "make-ai-generated-http-endpoints-prove-themselves-on-a-disposable-server",
         "author": "Taylor Wang",
@@ -17188,6 +17254,17 @@
         "keywords": "voice, sensei, counts, built, flame, kata, fire, streak",
         "generated": "2026-07-11T08:04:04.875251",
         "file": "dj-karate-made-me-do-it.md"
+    },
+    {
+        "title": "How to Deploy Multi-Agent AI: Setup CrewAI on Ubuntu 24.04 Bare Metal GPU",
+        "slug": "how-to-deploy-multi-agent-ai-setup-crewai-on-ubuntu-2404-bare-metal-gpu",
+        "author": "Jakson Tate",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 11:08:31 +0000",
+        "description": "Multi-agent AI frameworks have shifted from experimental prototypes to production-grade automation engines. But running CrewAI or AutoGen agents via cloud AP...",
+        "keywords": "agent, crewai, model, sudo, install, bare, metal, gpu",
+        "generated": "2026-09-17T11:22:03.940646",
+        "file": "how-to-deploy-multi-agent-ai-setup-crewai-on-ubuntu-2404-bare-metal-gpu.md"
     },
     {
         "title": "Swift Package Index joins Apple",
@@ -22723,6 +22800,17 @@
         "file": "the-agentic-development-manifesto.md"
     },
     {
+        "title": "GLM Built Its Own Inference Infrastructure",
+        "slug": "glm-built-its-own-inference-infrastructure",
+        "author": "whiteros_e",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 08:27:09 +0000",
+        "description": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 74 # Comments: 48",
+        "keywords": "glm, built, its, inference, infrastructure, url, https, comments",
+        "generated": "2026-09-17T11:22:03.939309",
+        "file": "glm-built-its-own-inference-infrastructure.md"
+    },
+    {
         "title": "I Tried deepseek-harness — Here's What You Need to Know",
         "slug": "i-tried-deepseek-harness-heres-what-you-need-to-know",
         "author": "niuniu",
@@ -24096,6 +24184,17 @@
         "keywords": "you, why, return, not, list, matters, key, what",
         "generated": "2026-06-11T10:47:52.347551",
         "file": "top-12-python-interview-problems-for-data-engineers-with-answers.md"
+    },
+    {
+        "title": "One Year of Sponsored Servo Development",
+        "slug": "one-year-of-sponsored-servo-development",
+        "author": "AshleysBrain",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 08:13:54 +0000",
+        "description": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 101 # Comments: 40",
+        "keywords": "one, year, servo, url, https, comments, sponsored, development",
+        "generated": "2026-09-17T11:22:03.939444",
+        "file": "one-year-of-sponsored-servo-development.md"
     },
     {
         "title": "What Free-Threaded Python Was Waiting For: abi3t",
@@ -29466,6 +29565,17 @@
         "file": "model-context-protocol-examples-how-to-run-mcp-with-fastapi.md"
     },
     {
+        "title": "How to Avoid Paraphrase Drift When Converting Interview Quotes into PRD Requirements",
+        "slug": "how-to-avoid-paraphrase-drift-when-converting-interview-quotes-into-prd-requirements",
+        "author": "Forged Goods",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 11:10:47 +0000",
+        "description": "How to Avoid Paraphrase Drift When Converting Interview Quotes into PRD Requirements When you convert customer interview transcripts into a product requireme...",
+        "keywords": "quotes, you, quote, requirement, customer, your, requirements, source",
+        "generated": "2026-09-17T11:22:03.944688",
+        "file": "how-to-avoid-paraphrase-drift-when-converting-interview-quotes-into-prd-requirements.md"
+    },
+    {
         "title": "The Philosophy of a Tool: Why AI Will Never Take Over and Hidden Guardrails Are Literal Evil",
         "slug": "the-philosophy-of-a-tool-why-ai-will-never-take-over-and-hidden-guardrails-are-literal-evil",
         "author": "Mike Cornwell",
@@ -32016,6 +32126,17 @@
         "keywords": "can, another, system, saas, integration, data, enterprise, application",
         "generated": "2026-08-18T06:52:25.245475",
         "file": "reducing-saas-sprawl-a-technical-approach-to-building-connected-enterprise-systems.md"
+    },
+    {
+        "title": "How to make your coding agent verify before merge",
+        "slug": "how-to-make-your-coding-agent-verify-before-merge",
+        "author": "Dev Connect",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 11:15:03 +0000",
+        "description": "Short answer: Make the agent run its own tests, lint, type checks, and a diff review before it opens a merge request. Then require those checks in branch pro...",
+        "keywords": "agent, review, checks, before, not, run, branch, change",
+        "generated": "2026-09-17T11:22:03.942689",
+        "file": "how-to-make-your-coding-agent-verify-before-merge.md"
     },
     {
         "title": "Analyzing Sports Data: Burnham says Infantino wrong man to lead Fifa as criticism grows — What the Numbers Say",
@@ -44437,6 +44558,17 @@
         "file": "how-can-i-protect-my-small-business-against-cybersecurity-threats.md"
     },
     {
+        "title": "Ti servono meno agenti AI di quanti pensi. Quasi sempre ne basta uno",
+        "slug": "ti-servono-meno-agenti-ai-di-quanti-pensi-quasi-sempre-ne-basta-uno",
+        "author": "Omar Baruzzo",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 11:12:33 +0000",
+        "description": "Il multi-agente è il riflesso di default in questo momento, e quasi sempre è quello sbagliato. Spezzare un compito fra più agenti non aggiunge capacità — spo...",
+        "keywords": "agenti, agente, non, gli, meno, quanti, pensi, quasi",
+        "generated": "2026-09-17T11:22:03.944301",
+        "file": "ti-servono-meno-agenti-ai-di-quanti-pensi-quasi-sempre-ne-basta-uno.md"
+    },
+    {
         "title": "Using LLM for Question Answering",
         "slug": "using-llm-for-question-answering",
         "author": "shashank ms",
@@ -51792,6 +51924,17 @@
         "file": "i-joined-the-indieweb-heres-what-i-learned.md"
     },
     {
+        "title": "How to Build a Work Governance Framework Inside monday",
+        "slug": "how-to-build-a-work-governance-framework-inside-monday",
+        "author": "David Davis",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 11:14:52 +0000",
+        "description": "Your team has dozens of projects moving at once. Everyone is busy, but when you ask who owns a task, why it is delayed, or where the latest update lives, the...",
+        "keywords": "work, can, governance, who, should, not, clear, workflow",
+        "generated": "2026-09-17T11:22:03.944109",
+        "file": "how-to-build-a-work-governance-framework-inside-monday.md"
+    },
+    {
         "title": "Buy Verified GCash Accounts from – 100% Trusted & Secure",
         "slug": "buy-verified-gcash-accounts-from-100-trusted-secure",
         "author": "ttim",
@@ -57840,6 +57983,17 @@
         "keywords": "queue, nothing, empty, not, zero, producer, has, step",
         "generated": "2026-09-09T20:46:26.462734",
         "file": "make-the-producer-sign-for-the-nothing-it-produced.md"
+    },
+    {
+        "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+        "slug": "better-vector-search-for-long-documents-chunking-inside-manticore-search",
+        "author": "GloriaVinogrado",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 10:30:52 +0000",
+        "description": "Article URL: https://manticoresearch.com/blog/auto-chunking/ Comments URL: https://news.ycombinator.com/item?id=49738766 Points: 8 # Comments: 0",
+        "keywords": "search, chunking, url, https, com, comments, better, vector",
+        "generated": "2026-09-17T11:22:03.939123",
+        "file": "better-vector-search-for-long-documents-chunking-inside-manticore-search.md"
     },
     {
         "title": "I Built a Production RAG System on My M1 Mac for $0",
@@ -65782,6 +65936,17 @@
         "file": "log-pruner-cli-find-and-clean-oversized-log-files-in-python.md"
     },
     {
+        "title": "Feet, Inches, and Flooring Waste: A Practical Square Footage Workflow",
+        "slug": "feet-inches-and-flooring-waste-a-practical-square-footage-workflow",
+        "author": "Ray Johy",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 11:12:05 +0000",
+        "description": "When a flooring estimate goes wrong, the arithmetic is rarely the only problem. The common failures are mixing feet and inches, measuring overlapping section...",
+        "keywords": "feet, waste, room, inches, area, add, only, keep",
+        "generated": "2026-09-17T11:22:03.943571",
+        "file": "feet-inches-and-flooring-waste-a-practical-square-footage-workflow.md"
+    },
+    {
         "title": "MCPEasy: Stop Rewriting MCP Integration Boilerplate",
         "slug": "mcpeasy-stop-rewriting-mcp-integration-boilerplate",
         "author": "WDSEGA",
@@ -71997,6 +72162,17 @@
         "file": "how-i-built-an-ai-watchdog-agent-that-keeps-my-raspberry-pi-fleet-alive.md"
     },
     {
+        "title": "Amerta now supports CJ drop shipping, you can import products, categories, pricing and more.",
+        "slug": "amerta-now-supports-cj-drop-shipping-you-can-import-products-categories-pricing-and-more",
+        "author": "Naji Amer",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 11:14:19 +0000",
+        "description": "I wanted to share a major update on Amerta, a free and open-source headless e-commerce framework built natively on top of PayloadCMS. If you love the develop...",
+        "keywords": "amerta, you, your, payload, sync, can, pricing, update",
+        "generated": "2026-09-17T11:22:03.942908",
+        "file": "amerta-now-supports-cj-drop-shipping-you-can-import-products-categories-pricing-and-more.md"
+    },
+    {
         "title": "Why Appliance Model Numbers Matter More Than Most People Realize",
         "slug": "why-appliance-model-numbers-matter-more-than-most-people-realize",
         "author": "Michael Groover",
@@ -72963,6 +73139,17 @@
         "keywords": "ford, quality, engineers, not, veteran, problems, study, systems",
         "generated": "2026-06-28T19:38:17.339966",
         "file": "ford-brought-back-350-veteran-engineers-after-its-ai-quality-systems-missed-real-world-problems.md"
+    },
+    {
+        "title": "Released: Python Study Buddy Scheduler CLI Tool",
+        "slug": "released-python-study-buddy-scheduler-cli-tool",
+        "author": "ItsEvilDuck",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 11:07:57 +0000",
+        "description": "I've shipped a new command-line interface (CLI) tool: the Python Study Buddy Scheduler. This tool is built for anyone looking to structure their learning. If...",
+        "keywords": "study, you, tool, topics, python, buddy, scheduler, cli",
+        "generated": "2026-09-17T11:22:03.940823",
+        "file": "released-python-study-buddy-scheduler-cli-tool.md"
     },
     {
         "title": "ForgePyGen: Turning Natural Language into Project Structures",
@@ -77770,6 +77957,17 @@
         "file": "iphone-duo.md"
     },
     {
+        "title": "Stop Debouncing Resize. The Browser Already Watches It.",
+        "slug": "stop-debouncing-resize-the-browser-already-watches-it",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 11:19:53 +0000",
+        "description": "Your dashboard has a sidebar that collapses into icons under 900px. Someone on the team drags the browser window slowly from a wide monitor to a narrower one...",
+        "keywords": "you, your, event, window, resize, one, every, change",
+        "generated": "2026-09-17T11:22:03.942084",
+        "file": "stop-debouncing-resize-the-browser-already-watches-it.md"
+    },
+    {
         "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
         "slug": "show-hn-ballet-workflow-automation-that-writes-integrations-against-any-api",
         "author": "danielkimber",
@@ -79262,6 +79460,17 @@
         "keywords": "url, https, comments, jep, strict, field, initialization, jvm",
         "generated": "2026-07-02T19:40:41.062228",
         "file": "jep-539-strict-field-initialization-in-the-jvm-moved-to-preview.md"
+    },
+    {
+        "title": "Most multi-agent systems are one problem, glued back together at runtime",
+        "slug": "most-multi-agent-systems-are-one-problem-glued-back-together-at-runtime",
+        "author": "Omar Baruzzo",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 11:09:59 +0000",
+        "description": "Multi-agent is the default reach right now, and most of the time it's the wrong one. Splitting a task across agents doesn't add capability — it moves the har...",
+        "keywords": "agent, more, one, agents, most, multi, default, glue",
+        "generated": "2026-09-17T11:22:03.944865",
+        "file": "most-multi-agent-systems-are-one-problem-glued-back-together-at-runtime.md"
     },
     {
         "title": "JSON to C# in Modern .NET: 5 Deserialization Traps with Records and System.Text.Json",
@@ -82793,6 +83002,17 @@
         "keywords": "boost, google, antigravity, url, https, comments, introduces, deep",
         "generated": "2026-09-01T04:32:01.149869",
         "file": "google-antigravity-introduces-boost-deep-reasoning-boost.md"
+    },
+    {
+        "title": "Tradesired: Why Is the WebTrader Actually Good?",
+        "slug": "tradesired-why-is-the-webtrader-actually-good",
+        "author": "Henrik Vollmer",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 11:13:35 +0000",
+        "description": "browser trading clients are harder than they look. A socket that keeps dying, a chart that has to redraw without stuttering, an order form where stale state ...",
+        "keywords": "one, you, what, client, which, own, build, four",
+        "generated": "2026-09-17T11:22:03.943377",
+        "file": "tradesired-why-is-the-webtrader-actually-good.md"
     },
     {
         "title": "GPS and the Lost Art of Getting Lost",
