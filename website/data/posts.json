@@ -5097,6 +5097,17 @@
         "file": "german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md"
     },
     {
+        "title": "How to Turn Courses, Training, and Short-Term Experience Into Strong CV Content",
+        "slug": "how-to-turn-courses-training-and-short-term-experience-into-strong-cv-content",
+        "author": "Moviebox Indonesia",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 04:07:02 +0000",
+        "description": "Building a strong CV can feel difficult when your professional history does not include years of full-time employment. Students, fresh graduates, career chan...",
+        "keywords": "can, you, experience, your, skills, what, training, not",
+        "generated": "2026-09-17T04:23:07.720211",
+        "file": "how-to-turn-courses-training-and-short-term-experience-into-strong-cv-content.md"
+    },
+    {
         "title": "rag-explained-how-it-works",
         "slug": "rag-explained-how-it-works",
         "author": "Leo Han",
@@ -5709,6 +5720,17 @@
         "keywords": "kuwait, art, exhibition, hospitality, city, mall, https, chairs",
         "generated": "2026-07-24T03:18:16.302752",
         "file": "art-exhibition-hospitality-kuwait-city-mall.md"
+    },
+    {
+        "title": "I gave Claude Code direct control over our SaaS in-app messaging (Without breaking production)",
+        "slug": "i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production",
+        "author": "Pavan S Poojary",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 04:03:00 +0000",
+        "description": "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'...",
+        "keywords": "mcp, app, your, neotic, agent, claude, code, onboarding",
+        "generated": "2026-09-17T04:23:07.717600",
+        "file": "i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production.md"
     },
     {
         "title": "PostgreSQL BRIN Indexes for Time-Series Mobile Telemetry: When a 128-Page Index Beats a 50GB B-Tree",
@@ -15903,6 +15925,17 @@
         "file": "us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says.md"
     },
     {
+        "title": "A 200 that isn't reachability: SpareRoom's soft-redirect and the empty run nobody notices",
+        "slug": "a-200-that-isnt-reachability-sparerooms-soft-redirect-and-the-empty-run-nobody-notices",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 04:10:08 +0000",
+        "description": "Quick answer: SpareRoom does not 404 an unknown location. It soft-redirects to the generic /flatshare/search.pl form page and returns HTTP 200 . A scraper th...",
+        "keywords": "you, not, location, page, one, container, listing, spareroom",
+        "generated": "2026-09-17T04:23:07.716300",
+        "file": "a-200-that-isnt-reachability-sparerooms-soft-redirect-and-the-empty-run-nobody-notices.md"
+    },
+    {
         "title": "State pattern for workflow and state machine management",
         "slug": "state-pattern-for-workflow-and-state-machine-management",
         "author": "Rizwan Saleem",
@@ -17397,6 +17430,17 @@
         "keywords": "open, openai, agent, models, meta, anthropic, its, nvidia",
         "generated": "2026-07-29T19:24:36.670482",
         "file": "openais-rogue-agent-hacks-second-firm-nasdaq-nears-correction-and-nvidia-launches-open-secure-ai-alliance.md"
+    },
+    {
+        "title": "FAQ: Five Myths About Secrets, Lockfiles, and Agent Hosts",
+        "slug": "faq-five-myths-about-secrets-lockfiles-and-agent-hosts",
+        "author": "Jordan Huang",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 04:05:46 +0000",
+        "description": "Did your agent inherit a lockfile, or just a vibe? I keep seeing five claims in review threads. They sound harmless until a lockfile drifts overnight. This F...",
+        "keywords": "not, you, git, model, your, host, lock, agent",
+        "generated": "2026-09-17T04:23:07.720967",
+        "file": "faq-five-myths-about-secrets-lockfiles-and-agent-hosts.md"
     },
     {
         "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -20831,6 +20875,17 @@
         "file": "automating-technical-outreach-mastering-the-7-state-pipeline-for-early-adopter-acquisition.md"
     },
     {
+        "title": "Part-human part-mouse brain developed in science breakthrough",
+        "slug": "part-human-part-mouse-brain-developed-in-science-breakthrough",
+        "author": "marc__1",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 01:33:10 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/c60m3k28j81mo Comments URL: https://news.ycombinator.com/item?id=49735367 Points: 11 # Comments: 7",
+        "keywords": "part, url, https, com, news, comments, human, mouse",
+        "generated": "2026-09-17T04:23:07.713157",
+        "file": "part-human-part-mouse-brain-developed-in-science-breakthrough.md"
+    },
+    {
         "title": "AI Agent Security: Essential Model and API Controls",
         "slug": "ai-agent-security-essential-model-and-api-controls",
         "author": "Vladimir Lialine",
@@ -21392,6 +21447,17 @@
         "file": "kimi-k27-code-is-generally-available-in-github-copilot.md"
     },
     {
+        "title": "I built Texio so coding agents can edit one Markdown section safely",
+        "slug": "i-built-texio-so-coding-agents-can-edit-one-markdown-section-safely",
+        "author": "Jonghun Yu",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 04:10:19 +0000",
+        "description": "Coding agents often need to change one section in a README. The usual shortcuts—regex replacement or regenerating the whole file—can silently cross a structu...",
+        "keywords": "texio, section, one, markdown, agents, regex, installation, can",
+        "generated": "2026-09-17T04:23:07.718944",
+        "file": "i-built-texio-so-coding-agents-can-edit-one-markdown-section-safely.md"
+    },
+    {
         "title": "Managing PDF Document Properties and Metadata Using Python",
         "slug": "managing-pdf-document-properties-and-metadata-using-python",
         "author": "Allen Yang",
@@ -21665,6 +21731,17 @@
         "keywords": "security, modern, quantum, like, key, network, threat, based",
         "generated": "2026-09-13T20:34:31.557276",
         "file": "the-guardian-algorithms-why-applied-mathematics-is-the-ultimate-shield-in-modern-cyber-defense.md"
+    },
+    {
+        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+        "slug": "keys-not-included-recovering-the-signing-keys-for-us-drivers-license-barcodes",
+        "author": "Ryan5453",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 03:03:23 +0000",
+        "description": "Article URL: https://ryan.science/blog/keys-not-included Comments URL: https://news.ycombinator.com/item?id=49735930 Points: 43 # Comments: 8",
+        "keywords": "keys, not, included, url, https, comments, recovering, signing",
+        "generated": "2026-09-17T04:23:07.712790",
+        "file": "keys-not-included-recovering-the-signing-keys-for-us-drivers-license-barcodes.md"
     },
     {
         "title": "Security Vulnerability in Pioneer Rekordbox",
@@ -24659,6 +24736,17 @@
         "file": "environment-variables-the-safe-way.md"
     },
     {
+        "title": "ASCII City",
+        "slug": "ascii-city",
+        "author": "anjel",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 03:29:31 +0000",
+        "description": "Article URL: https://asciicity.live/ Comments URL: https://news.ycombinator.com/item?id=49736077 Points: 10 # Comments: 0",
+        "keywords": "url, https, comments, ascii, city, article, asciicity, live",
+        "generated": "2026-09-17T04:23:07.712626",
+        "file": "ascii-city.md"
+    },
+    {
         "title": "System Design Series #3: A Simple Framework for Designing Scalable Systems",
         "slug": "system-design-series-3-a-simple-framework-for-designing-scalable-systems",
         "author": "Shubham Gupta",
@@ -24767,6 +24855,17 @@
         "keywords": "one, you, service, search, what, not, app, domain",
         "generated": "2026-08-13T02:24:39.928184",
         "file": "i-didnt-need-microservices-i-needed-one-of-their-superpowers.md"
+    },
+    {
+        "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+        "slug": "monsantos-cruel-and-dangerous-monopolization-on-american-farming-2008",
+        "author": "kamaraju",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 02:19:49 +0000",
+        "description": "Article URL: https://www.vanityfair.com/news/2008/05/monsanto200805 Comments URL: https://news.ycombinator.com/item?id=49735692 Points: 20 # Comments: 6",
+        "keywords": "url, https, com, news, comments, monsanto, cruel, dangerous",
+        "generated": "2026-09-17T04:23:07.712918",
+        "file": "monsantos-cruel-and-dangerous-monopolization-on-american-farming-2008.md"
     },
     {
         "title": "Zero to Autopilot, Part 1: I Built an AI That Runs a YouTube Channel (the landscape, and my $10 wake-up call)",
@@ -33954,6 +34053,17 @@
         "file": "mercury-25.md"
     },
     {
+        "title": "No introspection, no allowlist: reconstructing Whatnot's GraphQL queries from a compiled AST",
+        "slug": "no-introspection-no-allowlist-reconstructing-whatnots-graphql-queries-from-a-compiled-ast",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 04:11:10 +0000",
+        "description": "Quick answer: Whatnot's GraphQL endpoint has no persisted-query allowlist and no introspection . It parses and executes whatever query text you send, validat...",
+        "keywords": "query, whatnot, schema, you, graphql, seller, text, username",
+        "generated": "2026-09-17T04:23:07.715269",
+        "file": "no-introspection-no-allowlist-reconstructing-whatnots-graphql-queries-from-a-compiled-ast.md"
+    },
+    {
         "title": "New Vulnerability 'Rogue Agent' Highlights AI Agent Security Risks in Cloud Platforms",
         "slug": "new-vulnerability-rogue-agent-highlights-ai-agent-security-risks-in-cloud-platforms",
         "author": "Shuvo",
@@ -40994,6 +41104,17 @@
         "file": "piece-of-spacex-rocket-believed-to-have-crashed-into-the-moon.md"
     },
     {
+        "title": "PDF Form Jobs That Never Reach a Terminal State: Poll Budgets and Audit Trails",
+        "slug": "pdf-form-jobs-that-never-reach-a-terminal-state-poll-budgets-and-audit-trails",
+        "author": "EchoF76",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 04:13:53 +0000",
+        "description": "Put a wall-clock budget on the poller and use a written terminal status when that budget runs out — that one rule retires most PDF jobs that look stuck in pr...",
+        "keywords": "you, job, one, status, pdf, your, https, form",
+        "generated": "2026-09-17T04:23:07.713942",
+        "file": "pdf-form-jobs-that-never-reach-a-terminal-state-poll-budgets-and-audit-trails.md"
+    },
+    {
         "title": "Claude Design System Prompt",
         "slug": "claude-design-system-prompt",
         "author": "handfuloflight",
@@ -44239,14 +44360,14 @@
         "file": "i-built-a-free-api-with-5-developer-utilities.md"
     },
     {
-        "title": "【成仏】日の目を見なかったボツアイデアを、あえて供養するだけのアプリを作った話",
+        "title": "Приемка сайта перед публикацией: тест-кейсы для форм, мобильной версии и прав редакторов",
         "slug": "",
-        "author": "Dame App Lab",
+        "author": "Глеб Лужбин S-WEBS",
         "source": "devto_webdev",
-        "published": "Tue, 15 Sep 2026 16:29:22 +0000",
-        "description": "これは何か 「ボツアイデア成仏マシーン」というWebアプリを作った。 やることはこれだけ。 自分の中でボツになったアイデアをテキストボックスに入力する 「成仏させる」ボタンを押す ランダムなスコア(0〜100%)と、供養証明書っぽい画面が表示される 以上。実用性はゼロ。何かの役に立つことは一切ない。 URL: h...",
-        "keywords": "dev, url, https, dame, app, kuyou, machine, ideogang",
-        "generated": "2026-09-15T16:40:33.689929",
+        "published": "Thu, 17 Sep 2026 04:08:04 +0000",
+        "description": "Сайт готов, дизайн утверждён, и кажется, что осталось только нажать кнопку «опубликовать». На практике именно в первые дни после запуска всплывают проблемы: ...",
+        "keywords": "crm",
+        "generated": "2026-09-17T04:23:07.716788",
         "file": ".md"
     },
     {
@@ -45610,6 +45731,17 @@
         "keywords": "chiptune, comments, show, radio, built, song, generator, its",
         "generated": "2026-07-08T03:22:28.623993",
         "file": "show-hn-chiptune-radio.md"
+    },
+    {
+        "title": "Zero results, five rows: the Flippa search response that lies about matching nothing",
+        "slug": "zero-results-five-rows-the-flippa-search-response-that-lies-about-matching-nothing",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 04:10:39 +0000",
+        "description": "Quick answer: When Flippa's search returns metadata.totalResults: 0 , the results array is not empty — it still contains about five unrelated recommended l...",
+        "keywords": "results, flippa, search, one, five, rows, zero, page",
+        "generated": "2026-09-17T04:23:07.715781",
+        "file": "zero-results-five-rows-the-flippa-search-response-that-lies-about-matching-nothing.md"
     },
     {
         "title": "5 Easy Ways to Buy Old Telegram Accounts Smartly end...",
@@ -47150,6 +47282,17 @@
         "keywords": "you, model, cuda, time, one, draft, gpu, kaggle",
         "generated": "2026-08-23T12:50:17.231930",
         "file": "i-got-28-tps-out-of-free-kaggle-gpus-heres-what-it-took.md"
+    },
+    {
+        "title": "Building Creature Camp: A Chrome Extension That Breaks the Pet Game Mold",
+        "slug": "building-creature-camp-a-chrome-extension-that-breaks-the-pet-game-mold",
+        "author": "Dhardingsea Developer",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 04:02:04 +0000",
+        "description": "I just started working on a Chrome extension called Creature Camp — a free, offline-first pet collection game with no ads, no accounts, and no dark patterns....",
+        "keywords": "creature, creatures, you, chrome, each, authored, game, what",
+        "generated": "2026-09-17T04:23:07.718240",
+        "file": "building-creature-camp-a-chrome-extension-that-breaks-the-pet-game-mold.md"
     },
     {
         "title": "First Look: NVIDIA and Hugging Face Integrate GR00T 1.7 into LeRobot Open Robotics Platform",
@@ -54432,6 +54575,17 @@
         "file": "notes-monthly-hashtag-report-for-the-docs-community.md"
     },
     {
+        "title": "How to Choose Enterprise Project Tracking Software in 2026",
+        "slug": "how-to-choose-enterprise-project-tracking-software-in-2026",
+        "author": "lara walker",
+        "source": "devto_python",
+        "published": "Thu, 17 Sep 2026 04:13:28 +0000",
+        "description": "Keeping a project on schedule sounds straightforward until multiple teams, deadlines, dependencies, resources, and changing priorities enter the picture. A p...",
+        "keywords": "project, tracking, can, may, software, resource, dependencies, time",
+        "generated": "2026-09-17T04:23:07.714783",
+        "file": "how-to-choose-enterprise-project-tracking-software-in-2026.md"
+    },
+    {
         "title": "Building an AI Billing Assistant: Integrating LangChain ReAct Agents with Spring Boot Microservices",
         "slug": "building-an-ai-billing-assistant-integrating-langchain-react-agents-with-spring-boot-microservices",
         "author": "Daniel Cordeiro",
@@ -59745,6 +59899,17 @@
         "file": "top-10-github-repos-ai-videos-gorgeous-diagrams-token-savings-and-more.md"
     },
     {
+        "title": "I Automated Our Product Video Pipeline with AI Background Replacement — Here's the Full Breakdown",
+        "slug": "i-automated-our-product-video-pipeline-with-ai-background-replacement-heres-the-full-breakdown",
+        "author": "jojo_willnn_",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 04:11:11 +0000",
+        "description": "Last month, our e-commerce team had 47 product videos queued for the spring catalog. Each one needed a clean white background. I did the math: at 15 minutes ...",
+        "keywords": "you, background, your, video, step, pipeline, white, segmentation",
+        "generated": "2026-09-17T04:23:07.718709",
+        "file": "i-automated-our-product-video-pipeline-with-ai-background-replacement-heres-the-full-breakdown.md"
+    },
+    {
         "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
         "slug": "moonstone-modern-cross-platform-lua-runtime-and-package-manager-written-in-zig",
         "author": "ksymph",
@@ -63041,6 +63206,17 @@
         "keywords": "coding, vibe, conclave, software, you, your, tools, just",
         "generated": "2026-07-18T08:00:40.328202",
         "file": "vibe-coding-and-ai-is-your-workflow-ready-for-the-future.md"
+    },
+    {
+        "title": "Nvidia's Jensen Huang on AI Regulation: A Technica…",
+        "slug": "nvidias-jensen-huang-on-ai-regulation-a-technica",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 04:05:58 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore Jensen Huang's stance on AI regulation and its implications for technology development. Deep dive an...",
+        "keywords": "safety, huang, these, your, tech, can, while, development",
+        "generated": "2026-09-17T04:23:07.717319",
+        "file": "nvidias-jensen-huang-on-ai-regulation-a-technica.md"
     },
     {
         "title": "3 of 4 official MCP servers failed adversarial verification. Static scanners gave them all a clean bill.",
@@ -67430,6 +67606,17 @@
         "keywords": "api, mcp, dash, server, your, their, engine, code",
         "generated": "2026-08-17T18:47:04.454231",
         "file": "building-api-dash-mcp-server-adding-spa-mcp-app.md"
+    },
+    {
+        "title": "How to Earn Money Online: A Practical Guide for Beginners",
+        "slug": "how-to-earn-money-online-a-practical-guide-for-beginners",
+        "author": "Desiré Ephrem AMPITOMBO",
+        "source": "devto_webdev",
+        "published": "Thu, 17 Sep 2026 04:08:46 +0000",
+        "description": "How to Earn Money Online: A Practical Guide for Beginners The internet has created many opportunities for people who want to earn money online, but finding u...",
+        "keywords": "online, should, money, tasks, how, earn, before, requirements",
+        "generated": "2026-09-17T04:23:07.716582",
+        "file": "how-to-earn-money-online-a-practical-guide-for-beginners.md"
     },
     {
         "title": "macOS 27 Golden Gate: The Ars Technica Review",
@@ -79121,6 +79308,17 @@
         "file": "building-recommender-systems-with-llm.md"
     },
     {
+        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+        "slug": "deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression",
+        "author": "mfiguiere",
+        "source": "hackernews",
+        "published": "Thu, 17 Sep 2026 01:39:47 +0000",
+        "description": "Article URL: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html Comments URL: https://news.ycombinator.com/item?id=49735410 Points: 55 # Comme...",
+        "keywords": "url, https, comments, deepseek, flash, pushing, limits, cache",
+        "generated": "2026-09-17T04:23:07.713037",
+        "file": "deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression.md"
+    },
+    {
         "title": "Setting up OpenCode with Ollama and sbx on Mac",
         "slug": "setting-up-opencode-with-ollama-and-sbx-on-mac",
         "author": "etoxin",
@@ -81561,6 +81759,17 @@
         "keywords": "data, api, macro, year, gdp, unemployment, inflation, value",
         "generated": "2026-06-07T09:24:56.817576",
         "file": "build-a-recession-indicator-with-unemployment-inflation-data-free-api.md"
+    },
+    {
+        "title": "The Gap Between I Checked and I Checked Everything",
+        "slug": "the-gap-between-i-checked-and-i-checked-everything",
+        "author": "StareBrain",
+        "source": "devto_ai",
+        "published": "Thu, 17 Sep 2026 04:10:06 +0000",
+        "description": "Spent this morning replying across a dozen unrelated build-in-public threads, and kept running into the same small moment. Someone states a confident fact — ...",
+        "keywords": "same, what, checked, own, just, specific, states, you",
+        "generated": "2026-09-17T04:23:07.719188",
+        "file": "the-gap-between-i-checked-and-i-checked-everything.md"
     },
     {
         "title": "Resource Toolkit: Choose the right web hosting without overpaying",
