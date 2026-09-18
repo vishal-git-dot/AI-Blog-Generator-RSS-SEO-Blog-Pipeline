@@ -3,10 +3,10 @@ title: "Serpstack — Real-time Google search results via API"
 slug: "serpstack-real-time-google-search-results-via-api"
 author: "Nick Davies"
 source: "devto_webdev"
-published: "Sun, 13 Sep 2026 15:45:44 +0000"
+published: "Fri, 18 Sep 2026 15:58:37 +0000"
 description: "Looking for a reliable seo API? Serpstack might be exactly what you need. What is Serpstack? Scrape SERP data at scale. Get real-time Google search results i..."
 keywords: "api, serpstack, results, key, free, apilayer, one, real"
-generated: "2026-09-13T15:57:28.537183"
+generated: "2026-09-18T16:10:33.640958"
 ---
 
 # Serpstack — Real-time Google search results via API
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/nick_davies_323125afbb05c/serpstack-real-time-google-search-results-via-api-3icm
+https://dev.to/nick_davies_323125afbb05c/serpstack-real-time-google-search-results-via-api-2e9a
 
 ## Conclusion
 

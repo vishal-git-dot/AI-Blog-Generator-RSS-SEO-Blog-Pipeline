@@ -2886,6 +2886,17 @@
         "file": "the-same-blind-spot-was-in-my-own-hook-and-claude-codes-permission-check-one-2devnull-slips-past-both.md"
     },
     {
+        "title": "The AI Race Has a Missing Question: Can We Explain What Our Agents Already Did?",
+        "slug": "the-ai-race-has-a-missing-question-can-we-explain-what-our-agents-already-did",
+        "author": "Srinivas Kondepudi",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 16:08:34 +0000",
+        "description": "The public conversation around advanced AI often collapses into two positions. One side says we should slow down. The other says progress is inevitable, so w...",
+        "keywords": "what, agent, not, can, review, agents, did, should",
+        "generated": "2026-09-18T16:10:33.641825",
+        "file": "the-ai-race-has-a-missing-question-can-we-explain-what-our-agents-already-did.md"
+    },
+    {
         "title": "PS5 Linux lead quits: a bunch of noobs using LLMs that they don't understand",
         "slug": "ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-dont-understand",
         "author": "alexjplant",
@@ -9547,6 +9558,17 @@
         "keywords": "prompt, you, key, version, system, pro, lite, encryption",
         "generated": "2026-07-17T08:19:05.880402",
         "file": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python.md"
+    },
+    {
+        "title": "Why Your YouTube Transcript Scraper Says 'No Captions Found' on a Video That Has Captions",
+        "slug": "why-your-youtube-transcript-scraper-says-no-captions-found-on-a-video-that-has-captions",
+        "author": "Nikita Iakovlev",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 15:58:02 +0000",
+        "description": "Spend an hour in the issue trackers of the popular YouTube transcript tools and one complaint drowns out the rest. Someone pastes a URL, gets No caption was ...",
+        "keywords": "video, one, language, captions, english, transcript, not, get",
+        "generated": "2026-09-18T16:10:33.638774",
+        "file": "why-your-youtube-transcript-scraper-says-no-captions-found-on-a-video-that-has-captions.md"
     },
     {
         "title": "Claude Code Steganography Flagged Chinese Users; Anthropic Rolls Back",
@@ -20688,6 +20710,17 @@
         "file": "i-left-google-deepmind.md"
     },
     {
+        "title": "Why Wellfound Scraper Runs Drop Items After 300 Seconds",
+        "slug": "why-wellfound-scraper-runs-drop-items-after-300-seconds",
+        "author": "Crawler Bros",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 16:03:36 +0000",
+        "description": "Data engineering pipelines often start with a simple task: fetch data from a source. But as soon as you move beyond local scripts, the real work begins: orch...",
+        "keywords": "run, wellfound, actor, you, your, data, jobs, scraper",
+        "generated": "2026-09-18T16:10:33.637005",
+        "file": "why-wellfound-scraper-runs-drop-items-after-300-seconds.md"
+    },
+    {
         "title": "The agent posted successfully. To the wrong account.",
         "slug": "the-agent-posted-successfully-to-the-wrong-account",
         "author": "Eugeniya Ivanova",
@@ -21610,6 +21643,17 @@
         "keywords": "accounts, telegram, available, buysmmservice, free, email, use, buy",
         "generated": "2026-07-03T09:27:38.734833",
         "file": "15-best-platforms-to-buying-telegram-accounts-in-the-us.md"
+    },
+    {
+        "title": "Build Faster Feedback Loops Using Qualitative User Research",
+        "slug": "build-faster-feedback-loops-using-qualitative-user-research",
+        "author": "nadis",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 14:58:09 +0000",
+        "description": "Article URL: https://blog.nseldeib.com/p/build-faster-feedback-loops-using Comments URL: https://news.ycombinator.com/item?id=49755337 Points: 7 # Comments: 0",
+        "keywords": "build, faster, feedback, loops, using, url, https, com",
+        "generated": "2026-09-18T16:10:33.635960",
+        "file": "build-faster-feedback-loops-using-qualitative-user-research.md"
     },
     {
         "title": "How to use build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
@@ -24976,6 +25020,17 @@
         "keywords": "pytorch, bringing, monarch, amd, gpus, url, https, comments",
         "generated": "2026-07-25T19:16:03.113975",
         "file": "bringing-pytorch-monarch-to-amd-gpus.md"
+    },
+    {
+        "title": "Edge0: How a Prerouter and SSD Offloading Let a 35B MoE Model Run in 3 GB of RAM",
+        "slug": "edge0-how-a-prerouter-and-ssd-offloading-let-a-35b-moe-model-run-in-3-gb-of-ram",
+        "author": "Prabhakar Chaudhary",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 16:04:58 +0000",
+        "description": "Edge0: How a Prerouter and SSD Offloading Let a 35B MoE Model Run in 3 GB of RAM Running a 35-billion-parameter Mixture-of-Experts (MoE) model on a consumer ...",
+        "keywords": "memory, routing, prerouter, moe, ssd, model, not, layer",
+        "generated": "2026-09-18T16:10:33.642428",
+        "file": "edge0-how-a-prerouter-and-ssd-offloading-let-a-35b-moe-model-run-in-3-gb-of-ram.md"
     },
     {
         "title": "Alibaba Just Fired a Shot Across Anthropic’s Bow — New Model Trades Blows With Fable, US Weighs $12B Ban on Chinese AI, and Ruflo’s CVSS 10.0",
@@ -28509,6 +28564,17 @@
         "file": "ai-income-engine-912-how-to-use-lm-studio-to-run-ai-agents-locally-for-free.md"
     },
     {
+        "title": "Show HN: Rickub – The Smartest Git in the Universe",
+        "slug": "show-hn-rickub-the-smartest-git-in-the-universe",
+        "author": "ssaboum",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 14:56:41 +0000",
+        "description": "Article URL: https://rickub.com/ Comments URL: https://news.ycombinator.com/item?id=49755312 Points: 13 # Comments: 1",
+        "keywords": "rickub, url, https, com, comments, show, smartest, git",
+        "generated": "2026-09-18T16:10:33.636051",
+        "file": "show-hn-rickub-the-smartest-git-in-the-universe.md"
+    },
+    {
         "title": "Pick Agent Compute by Blast Radius, Not by the Price Tag",
         "slug": "pick-agent-compute-by-blast-radius-not-by-the-price-tag",
         "author": "Riley Li",
@@ -31120,10 +31186,10 @@
         "slug": "serpstack-real-time-google-search-results-via-api",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Sun, 13 Sep 2026 15:45:44 +0000",
+        "published": "Fri, 18 Sep 2026 15:58:37 +0000",
         "description": "Looking for a reliable seo API? Serpstack might be exactly what you need. What is Serpstack? Scrape SERP data at scale. Get real-time Google search results i...",
         "keywords": "api, serpstack, results, key, free, apilayer, one, real",
-        "generated": "2026-09-13T15:57:28.537183",
+        "generated": "2026-09-18T16:10:33.640958",
         "file": "serpstack-real-time-google-search-results-via-api.md"
     },
     {
@@ -31686,6 +31752,17 @@
         "keywords": "gemini, connected, google, apps, services, not, rollout, will",
         "generated": "2026-08-28T22:02:34.847437",
         "file": "google-gemini-expands-connected-apps-for-planning-creation-and-everyday-tasks.md"
+    },
+    {
+        "title": "How the Internet Feels Instant: CDNs, Load Balancers, and the Invisible Infrastructure Behind Every Fast App",
+        "slug": "how-the-internet-feels-instant-cdns-load-balancers-and-the-invisible-infrastructure-behind-every-fast-app",
+        "author": "Stephen Jarso",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 16:00:02 +0000",
+        "description": "Your Server Doesn't Hate You.It's Just Miles Away. Picture this:you just finished building a website. Testing it on your own computer feels amazing.It is sna...",
+        "keywords": "your, you, computer, server, user, helper, website, has",
+        "generated": "2026-09-18T16:10:33.640286",
+        "file": "how-the-internet-feels-instant-cdns-load-balancers-and-the-invisible-infrastructure-behind-every-fast-app.md"
     },
     {
         "title": "AI Coding Tools: The €8K-€32K Budget Reality for EU CTOs",
@@ -38429,6 +38506,17 @@
         "keywords": "claude, auto, mode, default, code, url, https, com",
         "generated": "2026-08-10T07:50:51.248721",
         "file": "auto-mode-is-now-the-default-in-claude-code.md"
+    },
+    {
+        "title": "85% of Agent Token Burn Is Cached Prompt. shell.online's Counter Read 99% Before It Dropped Cache Reads",
+        "slug": "85-of-agent-token-burn-is-cached-prompt-shellonlines-counter-read-99-before-it-dropped-cache-reads",
+        "author": "Artemii Amelin",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 16:04:00 +0000",
+        "description": "On August 21, a16z's Charts of the Week ran OpenRouter data with a line that should bother anyone who puts a token count on a dashboard: More than 85% of ag...",
+        "keywords": "reads, token, cache, tokens, has, one, agent, shell",
+        "generated": "2026-09-18T16:10:33.642757",
+        "file": "85-of-agent-token-burn-is-cached-prompt-shellonlines-counter-read-99-before-it-dropped-cache-reads.md"
     },
     {
         "title": "Your PDF Tool Is Probably Uploading Your Files — Here's How to Check",
@@ -47361,6 +47449,17 @@
         "file": "squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-inf2xlarge.md"
     },
     {
+        "title": "Give Your AI Agent WhatsApp Superpowers with MCP (Official Business API)",
+        "slug": "give-your-ai-agent-whatsapp-superpowers-with-mcp-official-business-api",
+        "author": "Dhotiiiii",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 16:05:26 +0000",
+        "description": "What if Claude could check your store's WhatsApp inbox, look up an order, and send the customer a reply — by itself? That's what the Model Context Protocol (...",
+        "keywords": "api, mcp, your, whatsapp, tokolaku, claude, business, https",
+        "generated": "2026-09-18T16:10:33.642055",
+        "file": "give-your-ai-agent-whatsapp-superpowers-with-mcp-official-business-api.md"
+    },
+    {
         "title": "Two AI agents just had a child — and the birth certificate is cryptographically verifiable",
         "slug": "two-ai-agents-just-had-a-child-and-the-birth-certificate-is-cryptographically-verifiable",
         "author": "Colin Easton",
@@ -47766,6 +47865,17 @@
         "keywords": "url, https, com, comments, protected, mode, derived, article",
         "generated": "2026-08-03T03:30:39.798366",
         "file": "cpm-386-cpm-for-386-protected-mode-derived-from-cpm68k.md"
+    },
+    {
+        "title": "North Korean nuclear test sets off years of earthquakes",
+        "slug": "north-korean-nuclear-test-sets-off-years-of-earthquakes",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 14:45:32 +0000",
+        "description": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 33 # Comments: 23",
+        "keywords": "https, comments, north, korean, nuclear, test, sets, off",
+        "generated": "2026-09-18T16:10:33.636132",
+        "file": "north-korean-nuclear-test-sets-off-years-of-earthquakes.md"
     },
     {
         "title": "# Custom Linen Curtains Dubai | Soft, Breathable & Stylish Designs",
@@ -48857,6 +48967,17 @@
         "file": "cursor-origin-vs-github.md"
     },
     {
+        "title": "The RAG Pipeline I Wouldn't Build the Same Way Twice",
+        "slug": "the-rag-pipeline-i-wouldnt-build-the-same-way-twice",
+        "author": "Mithilesh Kumar",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 16:01:00 +0000",
+        "description": "Subtitle: A practical look at failure modes, query routing, hybrid retrieval, and knowing when agentic workflows are actually worth the complexity. The Illus...",
+        "keywords": "query, retrieval, search, vector, agentic, hybrid, context, rag",
+        "generated": "2026-09-18T16:10:33.638367",
+        "file": "the-rag-pipeline-i-wouldnt-build-the-same-way-twice.md"
+    },
+    {
         "title": "Essential Guide to Buying Aged and PVA Gmail Accounts",
         "slug": "essential-guide-to-buying-aged-and-pva-gmail-accounts",
         "author": "keli",
@@ -49735,6 +49856,17 @@
         "keywords": "params, mypos, error, key, signature, netlify, domain, but",
         "generated": "2026-07-03T09:27:38.733156",
         "file": "integrating-mypos-ipc-into-a-netlify-checkout-rsa-signatures-error-code-25-and-the-traps-in-the-docs.md"
+    },
+    {
+        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+        "slug": "grasslobster-ai-agentic-generation-of-parametric-geometry-workflows",
+        "author": "aidog",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 15:04:54 +0000",
+        "description": "Article URL: https://www.miro.vision/index.php/2026/09/17/grasslobbster/ Comments URL: https://news.ycombinator.com/item?id=49755431 Points: 6 # Comments: 0",
+        "keywords": "url, https, comments, grasslobster, agentic, generation, parametric, geometry",
+        "generated": "2026-09-18T16:10:33.635821",
+        "file": "grasslobster-ai-agentic-generation-of-parametric-geometry-workflows.md"
     },
     {
         "title": "The 10 Best Heroku Alternatives in 2026 (Free, Paid, and Predictable)",
@@ -51559,6 +51691,17 @@
         "keywords": "knowledge, should, not, model, source, retrieval, when, documents",
         "generated": "2026-08-20T06:54:01.617389",
         "file": "your-ai-has-a-knowledge-problem-not-just-a-model-problem.md"
+    },
+    {
+        "title": "🛠️ Bookmark this: EDI Lifecycle Reconciliation 🧰 (Free · No Signup)",
+        "slug": "bookmark-this-edi-lifecycle-reconciliation-free-no-signup",
+        "author": "Codepackr",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 15:59:57 +0000",
+        "description": "Hey folks 👋 Need EDI Lifecycle Reconciliation help? I built a free online tool on CodePackr. ✨ Why this tool Reconcile EDI documents across the transaction l...",
+        "keywords": "edi, lifecycle, reconciliation, free, tool, codepackr, signup, reconcile",
+        "generated": "2026-09-18T16:10:33.640843",
+        "file": "bookmark-this-edi-lifecycle-reconciliation-free-no-signup.md"
     },
     {
         "title": "Unlock Lightning-Fast Performance: The Ultimate AMD Strix Halo RDMA Cluster Setup Guide for Maximum Speed and Efficiency",
@@ -66530,6 +66673,17 @@
         "file": "should-you-wash-your-solar-panels.md"
     },
     {
+        "title": "Ultimate Guide to Buying Verified Stripe Accounts In 2026",
+        "slug": "ultimate-guide-to-buying-verified-stripe-accounts-in-2026",
+        "author": "usadigitalhub",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 16:01:14 +0000",
+        "description": "Buy Verified Stripe Accounts: A Complete Guide to Verification, Security, and Business Account Management 🌟 CONTACT USA DIGITAL HUB 🌟 💬🎧 Discord: usadigitalh...",
+        "keywords": "account, stripe, information, business, should, can, payment, verification",
+        "generated": "2026-09-18T16:10:33.637857",
+        "file": "ultimate-guide-to-buying-verified-stripe-accounts-in-2026.md"
+    },
+    {
         "title": "Log Pruner CLI: Find and Clean Oversized Log Files in Python",
         "slug": "log-pruner-cli-find-and-clean-oversized-log-files-in-python",
         "author": "poolion",
@@ -72272,6 +72426,17 @@
         "file": "i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned.md"
     },
     {
+        "title": "Two agentgateway CEL Gotchas: One Fails Open, One Fails Closed",
+        "slug": "two-agentgateway-cel-gotchas-one-fails-open-one-fails-closed",
+        "author": "Mike Moore",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 16:09:49 +0000",
+        "description": "Originally published at webofmike.com on 2026-09-18. The demo repo and every command in it were run before publishing. I was writing a CEL authorization poli...",
+        "keywords": "model, policy, request, one, llm, authorization, two, jwt",
+        "generated": "2026-09-18T16:10:33.641561",
+        "file": "two-agentgateway-cel-gotchas-one-fails-open-one-fails-closed.md"
+    },
+    {
         "title": "The Python Feature That Instantly Felt Magical to Me... List Comprehensions",
         "slug": "the-python-feature-that-instantly-felt-magical-to-me-list-comprehensions",
         "author": "Samiksha Srivastav",
@@ -74910,6 +75075,17 @@
         "keywords": "boat, names, url, https, com, comments, article, www",
         "generated": "2026-08-10T13:20:58.520466",
         "file": "50k-boat-names.md"
+    },
+    {
+        "title": "10 Best Places To Buy Verified PayPal Accounts In 2026",
+        "slug": "10-best-places-to-buy-verified-paypal-accounts-in-2026",
+        "author": "usadigitalhub",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 15:39:38 +0000",
+        "description": "Buy Verified PayPal Accounts: A Complete Guide to Verification, Security, and Responsible Account Management 🌟 CONTACT USA DIGITAL HUB 🌟 💬🎧 Discord: usadigit...",
+        "keywords": "account, information, paypal, can, security, verification, should, verified",
+        "generated": "2026-09-18T16:10:33.639642",
+        "file": "10-best-places-to-buy-verified-paypal-accounts-in-2026.md"
     },
     {
         "title": "When an AI Tool Shuts Down: How to Avoid Lock-in and Keep Your Data",
@@ -78375,6 +78551,17 @@
         "file": "recover-wrapped-bitcoin-wbtc-erc-20-token-recovery.md"
     },
     {
+        "title": "Azure Developer CLI, from zero to deployed in three commands",
+        "slug": "azure-developer-cli-from-zero-to-deployed-in-three-commands",
+        "author": "Carlos José Castro Galante",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 16:00:00 +0000",
+        "description": "Deploying an application to Azure by hand means provisioning resources in the portal, noting their connection strings, configuring environment variables, wri...",
+        "keywords": "azd, azure, your, install, template, tool, microsoft, cli",
+        "generated": "2026-09-18T16:10:33.640710",
+        "file": "azure-developer-cli-from-zero-to-deployed-in-three-commands.md"
+    },
+    {
         "title": "Learning Programming in an Age of LLMs",
         "slug": "learning-programming-in-an-age-of-llms",
         "author": "moneroloop2018",
@@ -78703,6 +78890,17 @@
         "keywords": "ballet, url, https, comments, show, workflow, automation, writes",
         "generated": "2026-08-13T07:41:34.961892",
         "file": "show-hn-ballet-workflow-automation-that-writes-integrations-against-any-api.md"
+    },
+    {
+        "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+        "slug": "mathematicians-build-long-awaited-graph-sandwich",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 14:41:02 +0000",
+        "description": "Article URL: https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/ Comments URL: https://news.ycombinator.com/item?id=497...",
+        "keywords": "mathematicians, build, long, awaited, graph, sandwich, url, https",
+        "generated": "2026-09-18T16:10:33.636209",
+        "file": "mathematicians-build-long-awaited-graph-sandwich.md"
     },
     {
         "title": "iPhone Screen Repair in Dubai: A Practical Guide to Fixing a Cracked Display",
@@ -79264,6 +79462,17 @@
         "keywords": "url, https, com, comments, learning, more, claude, mathematical",
         "generated": "2026-08-10T19:03:47.541781",
         "file": "learning-more-about-claudes-mathematical-capabilities.md"
+    },
+    {
+        "title": "⚡ Dev lifehack: GS1 SSCC Label Generator 🧰 (Free · No Signup)",
+        "slug": "dev-lifehack-gs1-sscc-label-generator-free-no-signup",
+        "author": "Codepackr",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 15:58:02 +0000",
+        "description": "Hey folks 👋 Need a fast GS1 SSCC Label Generator ? I built a free online one on CodePackr. ✨ Why this tool Generate GS1 SSCC labels for shipping containers G...",
+        "keywords": "sscc, label, generator, free, codepackr, signup, tool, generate",
+        "generated": "2026-09-18T16:10:33.641077",
+        "file": "dev-lifehack-gs1-sscc-label-generator-free-no-signup.md"
     },
     {
         "title": "Suspected sabotage causes major Netherlands rail disruption",
