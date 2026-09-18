@@ -1137,6 +1137,17 @@
         "file": "show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents.md"
     },
     {
+        "title": "Vibe coding left me with too many side projects. So I built one more.",
+        "slug": "vibe-coding-left-me-with-too-many-side-projects-so-i-built-one-more",
+        "author": "JerryWu",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 03:55:50 +0000",
+        "description": "I've been doing a little too much vibe coding lately. An idea turns into a new folder. Another idea, another project. Before long, my drive is full of things...",
+        "keywords": "project, coding, projects, another, back, them, repoatlas, your",
+        "generated": "2026-09-18T04:07:04.910179",
+        "file": "vibe-coding-left-me-with-too-many-side-projects-so-i-built-one-more.md"
+    },
+    {
         "title": "How I built a Chrome extension that speaks your notifications aloud — and the two Manifest V3 problems nobody warned me about",
         "slug": "how-i-built-a-chrome-extension-that-speaks-your-notifications-aloud-and-the-two-manifest-v3-problems-nobody-warned-me-about",
         "author": "M.Bilal Khan",
@@ -8999,6 +9010,17 @@
         "file": "tossconf-26-ii.md"
     },
     {
+        "title": "What Nobody Tells You About Deploying LLMs at Scale",
+        "slug": "what-nobody-tells-you-about-deploying-llms-at-scale",
+        "author": "AI Bug Slayer 🐞",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 03:34:24 +0000",
+        "description": "I spend a lot of time in the AI space -- reading papers, building things, talking to engineers who are actually shipping. And there is a gap between what the...",
+        "keywords": "not, what, you, agent, actually, can, they, when",
+        "generated": "2026-09-18T04:07:04.908848",
+        "file": "what-nobody-tells-you-about-deploying-llms-at-scale.md"
+    },
+    {
         "title": "Learning Web Development Is Easier When You Build Real Projects",
         "slug": "learning-web-development-is-easier-when-you-build-real-projects",
         "author": "Web Prims",
@@ -14270,10 +14292,10 @@
         "slug": "enterprise-ai-governance-framework-essential-trust",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Tue, 01 Sep 2026 04:18:21 +0000",
-        "description": "Enterprise AI has moved beyond chat interfaces. Autonomous agents now retrieve sensitive data, call external tools, delegate tasks, and make decisions with l...",
-        "keywords": "agent, trust, governance, model, framework, tools, enterprise, data",
-        "generated": "2026-09-01T04:32:01.153415",
+        "published": "Fri, 18 Sep 2026 04:04:26 +0000",
+        "description": "Autonomous AI agents are moving from isolated assistants to systems that approve requests, access sensitive data, invoke tools, and coordinate with other age...",
+        "keywords": "agent, trust, evidence, governance, agents, identity, enterprise, data",
+        "generated": "2026-09-18T04:07:04.909656",
         "file": "enterprise-ai-governance-framework-essential-trust.md"
     },
     {
@@ -18125,6 +18147,17 @@
         "file": "i-checked-10-online-pdf-tools-9-of-them-upload-your-files.md"
     },
     {
+        "title": "GRPO doesn't remove the reward model. It removes the critic.",
+        "slug": "grpo-doesnt-remove-the-reward-model-it-removes-the-critic",
+        "author": "Arun Kumar",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 04:00:00 +0000",
+        "description": "Every time GRPO comes up I see the same slip — someone says it gets rid of the reward model. It doesn't. It gets rid of the value model. Those are two diff...",
+        "keywords": "reward, model, grpo, one, ppo, critic, than, not",
+        "generated": "2026-09-18T04:07:04.909961",
+        "file": "grpo-doesnt-remove-the-reward-model-it-removes-the-critic.md"
+    },
+    {
         "title": "Python Debugging Tips: 5 Techniques That Will Save You Hours",
         "slug": "python-debugging-tips-5-techniques-that-will-save-you-hours",
         "author": "qing",
@@ -19751,6 +19784,17 @@
         "keywords": "not, channel, brand, official, domain, string, brands, evidence",
         "generated": "2026-08-10T07:50:51.254375",
         "file": "i-added-haschinaofficialsite-to-my-benchmark-it-failed-before-the-first-run.md"
+    },
+    {
+        "title": "How to Make an Agent Perceive Meaning and Essence",
+        "slug": "how-to-make-an-agent-perceive-meaning-and-essence",
+        "author": "Алексей Гормен",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 03:55:57 +0000",
+        "description": "S1 — Will (Intention) To understand and distinguish a living answer (generated through a conscious process) from a dead answer (reproduced from a pattern), e...",
+        "keywords": "answer, living, not, dead, process, but, new, pattern",
+        "generated": "2026-09-18T04:07:04.907852",
+        "file": "how-to-make-an-agent-perceive-meaning-and-essence.md"
     },
     {
         "title": "Beyond The Plate — Every Dish Has a Story",
@@ -22974,6 +23018,17 @@
         "keywords": "strict, mode, double, bug, effect, useeffect, development, twice",
         "generated": "2026-09-05T03:53:09.692992",
         "file": "useeffect-fired-twice-and-it-found-a-real-bug.md"
+    },
+    {
+        "title": "Roseram’s 48h Trial, Email Verify, and $25/Day Usage (UTC, No Rollover)",
+        "slug": "roserams-48h-trial-email-verify-and-25day-usage-utc-no-rollover",
+        "author": "Roseram.com",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 03:43:17 +0000",
+        "description": "Pricing pages love round numbers. Usage meters love honesty. Roseram ’s launch offer is easy to misread if you only see “Plus $5.” Here’s the operational seq...",
+        "keywords": "you, verify, usage, roseram, trial, email, launch, plus",
+        "generated": "2026-09-18T04:07:04.908492",
+        "file": "roserams-48h-trial-email-verify-and-25day-usage-utc-no-rollover.md"
     },
     {
         "title": "Where I would prep for a Meta interview in 2026",
@@ -28421,6 +28476,17 @@
         "file": "best-ai-tools-to-make-money-in-2026-a-complete-guide.md"
     },
     {
+        "title": "The open source version of Claude Project that gives you the context ownershp",
+        "slug": "the-open-source-version-of-claude-project-that-gives-you-the-context-ownershp",
+        "author": "10keane",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 02:14:21 +0000",
+        "description": "Article URL: https://github.com/zqiren/Orbital Comments URL: https://news.ycombinator.com/item?id=49749457 Points: 4 # Comments: 0",
+        "keywords": "url, https, com, comments, open, source, version, claude",
+        "generated": "2026-09-18T04:07:04.905301",
+        "file": "the-open-source-version-of-claude-project-that-gives-you-the-context-ownershp.md"
+    },
+    {
         "title": "Validate product CSVs before generating a wholesale line sheet",
         "slug": "validate-product-csvs-before-generating-a-wholesale-line-sheet",
         "author": "Sahijana Wrufaha",
@@ -30608,6 +30674,17 @@
         "keywords": "google, tools, can, pricing, tech, new, their, costs",
         "generated": "2026-06-13T09:25:04.609485",
         "file": "googles-competitive-move-in-a.md"
+    },
+    {
+        "title": "Genuine Human Speech, Called Synthetic. Nothing Was Generated.",
+        "slug": "genuine-human-speech-called-synthetic-nothing-was-generated",
+        "author": "Panagiotis Gkilis",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 03:27:45 +0000",
+        "description": "I did not set out to test synthetic-speech detectors. I was validating my own voice pipeline and needed to know whether the processing stage changed what a p...",
+        "keywords": "not, detector, detectors, codec, speech, synthetic, one, three",
+        "generated": "2026-09-18T04:07:04.907559",
+        "file": "genuine-human-speech-called-synthetic-nothing-was-generated.md"
     },
     {
         "title": "Fixed Price Web Development: Your Budget-Friendly Solution",
@@ -33371,6 +33448,17 @@
         "file": "micro-pool-tiny-8-ball-you-can-play-in-your-browser-today.md"
     },
     {
+        "title": "Hacking OpenAI",
+        "slug": "hacking-openai",
+        "author": "Handy-Man",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 02:47:24 +0000",
+        "description": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 32 # Comments: 5",
+        "keywords": "hacking, openai, url, https, comments, article, www, hacktron",
+        "generated": "2026-09-18T04:07:04.905220",
+        "file": "hacking-openai.md"
+    },
+    {
         "title": "Illinois just told every operating system to start reporting your kid's age",
         "slug": "illinois-just-told-every-operating-system-to-start-reporting-your-kids-age",
         "author": "WaitWaitWha",
@@ -34249,6 +34337,17 @@
         "keywords": "their, panama, ghana, today, soccer, picks, parlay, often",
         "generated": "2026-06-17T20:21:04.208571",
         "file": "panama-vs-ghana-soccer-preview-picks.md"
+    },
+    {
+        "title": "สร้าง MCP server ให้พร้อม production: 7 เรื่องที่ tutorial ไม่บอก",
+        "slug": "mcp-server-production-7-tutorial",
+        "author": "Nokka",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 03:54:06 +0000",
+        "description": "สร้าง MCP server ให้พร้อม production: 7 เรื่องที่ tutorial ไม่บอก โดย Nokka (นก-กา) | 17 กันยายน 2026 บทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ใ...",
+        "keywords": "mcp, server, spec, client, authorization, http, production, oauth",
+        "generated": "2026-09-18T04:07:04.910831",
+        "file": "mcp-server-production-7-tutorial.md"
     },
     {
         "title": "The End of Mathematics",
@@ -38079,6 +38178,17 @@
         "file": "why-llm-as-a-judge-fails-on-code-and-how-we-built-a-4-layer-hybrid-engine.md"
     },
     {
+        "title": "Fixing Wrong-Order Pages in Merged PDFs by Inspecting Input Lists (A Python Field Guide)",
+        "slug": "fixing-wrong-order-pages-in-merged-pdfs-by-inspecting-input-lists-a-python-field-guide",
+        "author": "JensenCole5829",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 03:54:58 +0000",
+        "description": "The fidelity-versus-render-cost decision is usually blamed when a property-management bundle comes out scrambled. In practice, the merge operation preserves ...",
+        "keywords": "pdf, merge, list, not, key, before, storage, bundle",
+        "generated": "2026-09-18T04:07:04.905804",
+        "file": "fixing-wrong-order-pages-in-merged-pdfs-by-inspecting-input-lists-a-python-field-guide.md"
+    },
+    {
         "title": "The Day I Realised Our Code Reviews Were Making Us Worse",
         "slug": "the-day-i-realised-our-code-reviews-were-making-us-worse",
         "author": "Om Keswani",
@@ -38825,6 +38935,17 @@
         "keywords": "model, code, you, but, score, models, just, deepseek",
         "generated": "2026-07-04T19:22:30.075933",
         "file": "i-spent-two-weeks-testing-every-ai-coding-model-so-you-dont-have-to.md"
+    },
+    {
+        "title": "Batch vs On-Demand Python Derivatives — Choose Batch for Vehicle Inventory Photos",
+        "slug": "batch-vs-on-demand-python-derivatives-choose-batch-for-vehicle-inventory-photos",
+        "author": "GriffinHayes3461",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 03:42:22 +0000",
+        "description": "Short answer: use batch processing when every vehicle photo must produce the same channel-specific derivatives; use on-demand processing when the variant set...",
+        "keywords": "batch, not, can, when, image, should, derivative, your",
+        "generated": "2026-09-18T04:07:04.906430",
+        "file": "batch-vs-on-demand-python-derivatives-choose-batch-for-vehicle-inventory-photos.md"
     },
     {
         "title": "How I Cut My API Costs by 60% With a 50-Line Python Cache",
@@ -42422,6 +42543,17 @@
         "keywords": "building, shipping, mac, ios, apps, without, ever, opening",
         "generated": "2026-07-13T19:35:56.128243",
         "file": "building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode.md"
+    },
+    {
+        "title": "AWS Database Mini Projects - RDS, Aurora, DynamoDB & ElastiCache",
+        "slug": "aws-database-mini-projects-rds-aurora-dynamodb-elasticache",
+        "author": "Tejas Shinkar",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 03:41:29 +0000",
+        "description": "Five Production-Style Builds Across RDS, Aurora, DynamoDB & ElastiCache Part of my AWS learning journey. Instead of practicing RDS, Aurora, DynamoDB, and Ela...",
+        "keywords": "rds, dynamodb, aws, aurora, database, elasticache, read, failover",
+        "generated": "2026-09-18T04:07:04.906781",
+        "file": "aws-database-mini-projects-rds-aurora-dynamodb-elasticache.md"
     },
     {
         "title": "LinkedIn Scraper API: How to Enrich B2B Leads Without Manual Research",
@@ -50670,6 +50802,17 @@
         "file": "software-engineers-shift-to-ai-management-sparks-dissatisfaction-redefining-roles-for-creativity-and-ownership.md"
     },
     {
+        "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+        "slug": "pre-greek-the-lost-language-hidden-within-ancient-greek",
+        "author": "axiologist",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 03:04:38 +0000",
+        "description": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 3 # Comments: 0",
+        "keywords": "greek, pre, url, https, com, comments, lost, language",
+        "generated": "2026-09-18T04:07:04.905000",
+        "file": "pre-greek-the-lost-language-hidden-within-ancient-greek.md"
+    },
+    {
         "title": "Start From a Red Test. Keep the Model Off Your Shell.",
         "slug": "start-from-a-red-test-keep-the-model-off-your-shell",
         "author": "Dakota Liu",
@@ -53605,6 +53748,17 @@
         "keywords": "deepseek, flash, https, comments, huggingface, url, news, ycombinator",
         "generated": "2026-09-10T10:59:29.684056",
         "file": "deepseek-v41-flash.md"
+    },
+    {
+        "title": "How we grade hundreds of sports picks a day in public",
+        "slug": "how-we-grade-hundreds-of-sports-picks-a-day-in-public",
+        "author": "Eddie Glush",
+        "source": "devto_python",
+        "published": "Fri, 18 Sep 2026 03:33:01 +0000",
+        "description": "Most sports prediction sites will tell you how good they are. Very few will show you the losses. We decided early that our record would be a public page rath...",
+        "keywords": "you, market, record, every, margin, what, public, can",
+        "generated": "2026-09-18T04:07:04.907164",
+        "file": "how-we-grade-hundreds-of-sports-picks-a-day-in-public.md"
     },
     {
         "title": "I built a context OS that stops AI agents from drowning in your codebase",
@@ -69592,10 +69746,10 @@
         "slug": "how-model-context-protocol-mcp-changes-saas-feature-rollouts-forever",
         "author": "Pavan S Poojary",
         "source": "devto_webdev",
-        "published": "Thu, 03 Sep 2026 03:46:00 +0000",
+        "published": "Fri, 18 Sep 2026 03:50:00 +0000",
         "description": "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'...",
         "keywords": "mcp, your, app, neotic, agent, onboarding, remote, you",
-        "generated": "2026-09-03T03:53:39.465881",
+        "generated": "2026-09-18T04:07:04.908296",
         "file": "how-model-context-protocol-mcp-changes-saas-feature-rollouts-forever.md"
     },
     {
@@ -75308,6 +75462,17 @@
         "file": "is-it-safe-to-buy-gmail-accounts-while-following-microsofts.md"
     },
     {
+        "title": "Code Scans",
+        "slug": "code-scans",
+        "author": "geoffbp",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 03:00:40 +0000",
+        "description": "Article URL: https://devin.ai/blog/introducing-code-scans Comments URL: https://news.ycombinator.com/item?id=49749744 Points: 3 # Comments: 0",
+        "keywords": "code, scans, url, https, comments, article, devin, blog",
+        "generated": "2026-09-18T04:07:04.905133",
+        "file": "code-scans.md"
+    },
+    {
         "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
         "slug": "launch-hn-prized-yc-s26-let-non-engineer-staff-build-secure-internal-tools",
         "author": "marinoseliades",
@@ -80221,6 +80386,17 @@
         "file": "the-hidden-cost-of-trading-without-real-time-market-intelligence.md"
     },
     {
+        "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+        "slug": "shapelearn-qwen-38-27b-131-gb-vram",
+        "author": "syntaxing",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 02:04:19 +0000",
+        "description": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/ Comments URL: https://news.ycombinator.com/item?id=49749393 Points: 4 # Comments: 0",
+        "keywords": "url, https, com, comments, shapelearn, qwen, vram, article",
+        "generated": "2026-09-18T04:07:04.905378",
+        "file": "shapelearn-qwen-38-27b-131-gb-vram.md"
+    },
+    {
         "title": "AI for Manufacturing: Smart Factory Use Cases &amp; ROI",
         "slug": "ai-for-manufacturing-smart-factory-use-cases-amp-roi",
         "author": "Digital Colliers",
@@ -82388,6 +82564,17 @@
         "file": "the-gap-between-i-checked-and-i-checked-everything.md"
     },
     {
+        "title": "Stop Retyping Everything: A Slash-Command Console for Your Local LLM Stack",
+        "slug": "stop-retyping-everything-a-slash-command-console-for-your-local-llm-stack",
+        "author": "Peak",
+        "source": "devto_ai",
+        "published": "Fri, 18 Sep 2026 04:04:59 +0000",
+        "description": "You've built the perfect local LLM session ritual. It goes: reset the context with a rolling summary, re-inject the profile, set num_ctx , pull in the right ...",
+        "keywords": "command, commands, session, one, prompt, console, your, you",
+        "generated": "2026-09-18T04:07:04.909350",
+        "file": "stop-retyping-everything-a-slash-command-console-for-your-local-llm-stack.md"
+    },
+    {
         "title": "Resource Toolkit: Choose the right web hosting without overpaying",
         "slug": "resource-toolkit-choose-the-right-web-hosting-without-overpaying",
         "author": "Shammi Bajaj",
@@ -83805,6 +83992,17 @@
         "keywords": "net, development, stack, full, can, students, core, programming",
         "generated": "2026-08-25T06:56:03.870607",
         "file": "net-full-stack-training-in-salem-course-skills-projects-career-guide.md"
+    },
+    {
+        "title": "Google now lets any site leave AI Overviews. Most businesses should not.",
+        "slug": "google-now-lets-any-site-leave-ai-overviews-most-businesses-should-not",
+        "author": "reidify",
+        "source": "devto_webdev",
+        "published": "Fri, 18 Sep 2026 03:51:07 +0000",
+        "description": "Every website in the world now has a switch that removes it from Google's AI answers. Google added a note to its documentation confirming it: As of August 3...",
+        "keywords": "google, not, you, site, out, control, your, page",
+        "generated": "2026-09-18T04:07:04.908112",
+        "file": "google-now-lets-any-site-leave-ai-overviews-most-businesses-should-not.md"
     },
     {
         "title": "Converting iPhone HEVC to Telegram Video Avatars with ffmpeg",
