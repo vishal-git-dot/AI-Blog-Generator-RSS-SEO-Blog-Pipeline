@@ -4,16 +4,16 @@ slug: "pre-greek-the-lost-language-hidden-within-ancient-greek"
 author: "axiologist"
 source: "hackernews"
 published: "Fri, 18 Sep 2026 03:04:38 +0000"
-description: "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 3 # Comments: 0"
+description: "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 87 # Comments: 40"
 keywords: "greek, pre, url, https, com, comments, lost, language"
-generated: "2026-09-18T04:07:04.905000"
+generated: "2026-09-18T10:56:11.753992"
 ---
 
 # Pre-Greek: The lost language hidden within Ancient Greek
 
 ## Overview
 
-Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 3 # Comments: 0
+Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 87 # Comments: 40
 
 ## Key Insights
 

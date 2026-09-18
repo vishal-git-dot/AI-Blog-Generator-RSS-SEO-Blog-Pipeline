@@ -1,0 +1,34 @@
+---
+title: "A Dockerfile typo turned 33 real Depop rows into a silent, SUCCEEDED zero"
+slug: "a-dockerfile-typo-turned-33-real-depop-rows-into-a-silent-succeeded-zero"
+author: "Devil Scrapes"
+source: "devto_python"
+published: "Fri, 18 Sep 2026 10:14:04 +0000"
+description: "Quick answer: our Depop scraper's first cloud run finished in 4.3 seconds , exited 0 , produced zero application log lines , and wrote zero rows . The exact ..."
+keywords: "run, depop, one, price, listing, shard, because, per"
+generated: "2026-09-18T10:56:11.755315"
+---
+
+# A Dockerfile typo turned 33 real Depop rows into a silent, SUCCEEDED zero
+
+## Overview
+
+Quick answer: our Depop scraper's first cloud run finished in 4.3 seconds , exited 0 , produced zero application log lines , and wrote zero rows . The exact same build had produced 33 real rows minutes earlier under a local apify run . Nothing was blocked. The Dockerfile's CMD said python -m src.main ; the entry point the local run actually uses is python -m src . One word of difference, and the container silently did nothing at all. How does a container run for 4.3 seconds and call that a success? Because python -m src.main is a perfectly valid command that does nothing wrong — it just does nothing useful. It imports main.py as __main__ , finds no if __name__ == "__main__": block at the bottom (the actual entry point lives in src/__main__.py , which calls asyncio.run(main()) ), and exits 0 because nothing raised. No scrape ever happened. No proxy was ever dialed. No line was ever logged. apify run never catches this class of bug, because apify run doesn't use the Dockerfile's CMD — it invokes python -m src directly. The mismatch is invisible to every local gate by construction. We only caught it because the cloud run's own numbers didn't add up: a real 33-row scrape of Depop takes longer than 4.3 seconds, and a real scrape logs something. Why is a SUCCEEDED, 0-row run worse than a FAILED one? Because it scores 100% on every health dashboard we have. Exit code 0, no exception, no error line — every automated check we run treats that as a clean pass. A customer who ran this Actor before the fix would have gotten a green run, an empty dataset, and no indication anything was wrong. That's the one failure mode we actively design against: a hard block should fail loud, but a build-level bug that never touches the target at all is arguably worse, because there's no signal to chase. We swept the rest of the fleet for the same Dockerfile/entry-point mismatch — 265 Actors checked, one other carried it (an unpublished, shelved Actor that had never shipped). Fixed both, published neither with the bug live. Why does Depop need a shard grid instead of pagination at all? Because Depop's search page doesn't have real pagination to begin with. It server-renders exactly one static batch of listings per request and ignores page / offset parameters entirely — send the same query twice and you get the same ~20 listings back both times. There's no "load more" endpoint to walk. The mechanism that actually returns a different set of listings is filtering by price band. priceMin / priceMax are confirmed, live query parameters — recon verified they change the result set across four separate probes. So instead of paging, this Actor sweeps a grid of price-band shards ( [null, 25] , [25, 50] , [50, 100] , ...) and merges the results, deduplicating by listing ID so a listing that happens to straddle two shards' rounding only gets billed once. What about category, condition, brand, or size shards? We shipped the input field for them ( extraShardAxes ) and left every one of them a no-op by default, on purpose. None of those four axes has a confirmed Depop query-parameter name. Guessing one would be worse than skipping it: Depop's search silently ignores a parameter it doesn't recognize instead of erroring, so a shard built on a guessed param name still returns 200 OK with real-looking listings — it just returns the same baseline batch again under a URL that looks like it did something different. That's a shard that appears validated while actually padding your bill with duplicate rows dressed up as new coverage. Rather than ship that trap, we built an overlap detector: any extra-axis shard whose listing-ID set overlaps a baseline (price) shard's ID set by 50% or more is treated as a duplicate-of-baseline no-op and skipped, not billed. If we ever confirm a real query parameter for one of those axes, the mechanism to validate it against padding is already in place. What you get per row Field Notes id / slug / url Depop's listing ID, slug, and canonical product URL title / brand / category / condition Listing description fields (Depop has no separate title — the description doubles as one) price_total / price_item / price_buyer_fee / price_tax / price_shipping Full price breakdown, as decimal strings sizes / colour / gender / product_type Listing attributes image_urls CDN image URLs matched_shard / scraped_at Which price band produced this row, and when What does it actually cost? Pay-Per-Event: $0.20 per run start + $0.004 per unique listing — $4.20 per 1,000 listings . A listing seen in two overlapping shards is billed once, not twice — the deduper tracks every ID it's already emitted across the whole run, not just per shard. FAQ Will this get every listing for my query? No — Depop has no working pagination, so coverage is bounded by the shard grid you configure. More price bands (or a confirmed extra axis, once one exists) mean more coverage, not an unlimited crawl. Why price shards and not "page 2, page 3"? Because Depop's search endpoint ignores page/offset entirely. Filtering by price band is the one mechanism recon confirmed actually changes the result set. Does a run ever bill me for nothing? No — the actor-start fee only fires the first time a shard actually delivers a row, never at boot and never for a run that couldn't reach the target at all. 😈 Depop Listings Scraper sweeps a Depop search query across price-band shards and hands you back deduplicated listing rows — full price breakdown, brand, condition, images, canonical URL — instead of a scraper that silently pages the same 20 results forever. We rotate browser fingerprints, retry with backoff, and keep the dataset honest about what a shard grid can and can't cover. $4.20 per 1,000 listings.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/devil_scrapes/a-dockerfile-typo-turned-33-real-depop-rows-into-a-silent-succeeded-zero-1a28
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
