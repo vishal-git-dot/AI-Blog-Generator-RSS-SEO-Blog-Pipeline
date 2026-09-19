@@ -5825,10 +5825,10 @@
         "slug": "i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production",
         "author": "Pavan S Poojary",
         "source": "devto_webdev",
-        "published": "Thu, 17 Sep 2026 04:03:00 +0000",
+        "published": "Sat, 19 Sep 2026 03:55:00 +0000",
         "description": "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'...",
         "keywords": "mcp, app, your, neotic, agent, claude, code, onboarding",
-        "generated": "2026-09-17T04:23:07.717600",
+        "generated": "2026-09-19T04:04:08.803977",
         "file": "i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production.md"
     },
     {
@@ -12385,6 +12385,17 @@
         "keywords": "code, codegen, generated, generate, generation, tool, high, level",
         "generated": "2026-07-08T19:41:38.378119",
         "file": "boost-coding-productivity-with-ai-generated-code.md"
+    },
+    {
+        "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+        "slug": "alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions",
+        "author": "yogthos",
+        "source": "hackernews",
+        "published": "Fri, 18 Sep 2026 23:54:42 +0000",
+        "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments UR...",
+        "keywords": "alibaba, open, sources, model, can, detect, cancer, nearly",
+        "generated": "2026-09-19T04:04:08.800650",
+        "file": "alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions.md"
     },
     {
         "title": "Top 05 Sites to Buying Edu Emails for Student Discounts",
@@ -21733,6 +21744,17 @@
         "file": "top-12-mobile-app-development-companies-in-the-usa-you-can-trust-in-2026.md"
     },
     {
+        "title": "Run Characterization Tests Before Touching a Tangled Closer",
+        "slug": "run-characterization-tests-before-touching-a-tangled-closer",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Sat, 19 Sep 2026 03:09:28 +0000",
+        "description": "Do not start a messy refactor with a rewrite. Pin current outputs with characterization tests first. Then change one seam and rerun the harness. A tangled cl...",
+        "keywords": "not, gross, golden, self, extract, cache, tests, bytes",
+        "generated": "2026-09-19T04:04:08.803726",
+        "file": "run-characterization-tests-before-touching-a-tangled-closer.md"
+    },
+    {
         "title": "Claude Code Forgets Everything Between Sessions. I Built a Fix.",
         "slug": "claude-code-forgets-everything-between-sessions-i-built-a-fix",
         "author": "nnyannya",
@@ -21874,6 +21896,17 @@
         "keywords": "sentiment, machine, learning, data, your, confidence, pulsebit, pipeline",
         "generated": "2026-07-14T19:26:51.411321",
         "file": "your-pipeline-is-239h-behind-catching-machine-learning-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "SDCC – Small Device C Compiler",
+        "slug": "sdcc-small-device-c-compiler",
+        "author": "lioeters",
+        "source": "hackernews",
+        "published": "Sat, 19 Sep 2026 02:32:36 +0000",
+        "description": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 19 # Comments: 2",
+        "keywords": "sdcc, url, https, comments, small, device, compiler, article",
+        "generated": "2026-09-19T04:04:08.800064",
+        "file": "sdcc-small-device-c-compiler.md"
     },
     {
         "title": "Building a Secure Password Generator in JavaScript: A Practical Guide",
@@ -23436,6 +23469,17 @@
         "keywords": "job, resume, your, ats, search, you, can, cover",
         "generated": "2026-08-06T03:12:22.485199",
         "file": "leveraging-reddit-for-ai-job-search-success.md"
+    },
+    {
+        "title": "FAQ: Five Myths About Tests the Agent Wrote for Itself",
+        "slug": "faq-five-myths-about-tests-the-agent-wrote-for-itself",
+        "author": "Jordan Huang",
+        "source": "devto_python",
+        "published": "Sat, 19 Sep 2026 03:12:00 +0000",
+        "description": "Who actually graded the agent's homework on that run? I keep seeing the same claim in review threads. The agent wrote tests, they passed, so we ship. That cl...",
+        "keywords": "not, tests, you, agent, test, same, still, model",
+        "generated": "2026-09-19T04:04:08.803127",
+        "file": "faq-five-myths-about-tests-the-agent-wrote-for-itself.md"
     },
     {
         "title": "Cost-Effective Summarization of LLM Conversation History",
@@ -25383,6 +25427,17 @@
         "keywords": "sentiment, cultural, your, culture, pulsebit, momentum, tyndis, biennale",
         "generated": "2026-06-23T20:12:47.952790",
         "file": "your-pipeline-is-260h-behind-catching-culture-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "I Trusted the IDE Import for 48 Hours. sys.path[0] Was an Empty String.",
+        "slug": "i-trusted-the-ide-import-for-48-hours-syspath0-was-an-empty-string",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sat, 19 Sep 2026 03:13:42 +0000",
+        "description": "I spent forty-eight hours sure my package layout was wrong, because only one environment could import it. The editor ran the file and printed a clean, traceb...",
+        "keywords": "sys, path, not, helper, import, you, python, root",
+        "generated": "2026-09-19T04:04:08.802485",
+        "file": "i-trusted-the-ide-import-for-48-hours-syspath0-was-an-empty-string.md"
     },
     {
         "title": "Stephen Wolfram's Wife Has Died",
@@ -28342,6 +28397,17 @@
         "keywords": "why, everyone, trying, build, url, https, com, comments",
         "generated": "2026-07-30T14:15:57.943383",
         "file": "why-is-everyone-trying-to-build-a-solid-state-battery.md"
+    },
+    {
+        "title": "Ethical LinkedIn Automation: Scale Outreach Without Spam Flags",
+        "slug": "ethical-linkedin-automation-scale-outreach-without-spam-flags",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Sat, 19 Sep 2026 03:47:44 +0000",
+        "description": "Reframe Automation Around Relevance Ethical LinkedIn automation should improve research, timing, and consistency—not imitate human behavior to evade detectio...",
+        "keywords": "spam, should, outreach, human, campaign, automation, not, detection",
+        "generated": "2026-09-19T04:04:08.807288",
+        "file": "ethical-linkedin-automation-scale-outreach-without-spam-flags.md"
     },
     {
         "title": "Amazon Bedrock AgentCore Web Search: Production Deployment Guide",
@@ -34944,6 +35010,17 @@
         "file": "your-pipeline-is-239h-behind-catching-politics-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Your AI Coding Agent Can Be Attacked by the Repository It Opens",
+        "slug": "your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens",
+        "author": "Robert Adamson",
+        "source": "devto_ai",
+        "published": "Sat, 19 Sep 2026 03:50:55 +0000",
+        "description": "Most developers already know this rule: Don't run code from a repository you don't trust. But AI coding agents are creating a slightly different security pro...",
+        "keywords": "agent, repository, can, coding, agents, security, instructions, your",
+        "generated": "2026-09-19T04:04:08.806896",
+        "file": "your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens.md"
+    },
+    {
         "title": "Build a Telegram Price-Comparison Bot with BuyWhere MCP",
         "slug": "build-a-telegram-price-comparison-bot-with-buywhere-mcp",
         "author": "BuyWhere",
@@ -38090,6 +38167,17 @@
         "file": "using-scikit-learn-pipelines-a-titanic-walkthrough.md"
     },
     {
+        "title": "The Four Ways Your Word Template Silently Breaks",
+        "slug": "the-four-ways-your-word-template-silently-breaks",
+        "author": "smartias",
+        "source": "devto_webdev",
+        "published": "Sat, 19 Sep 2026 03:42:15 +0000",
+        "description": "If you've ever generated a Word document from a template — a proposal, a contract, a report — you've probably hit a moment where the output looks subtly wron...",
+        "keywords": "word, you, template, one, paragraph, document, can, list",
+        "generated": "2026-09-19T04:04:08.805214",
+        "file": "the-four-ways-your-word-template-silently-breaks.md"
+    },
+    {
         "title": "Claude Code weekly limits reduce by a third tomorrow",
         "slug": "claude-code-weekly-limits-reduce-by-a-third-tomorrow",
         "author": "tyre",
@@ -39034,6 +39122,17 @@
         "keywords": "sentinel, voice, caller, agent, time, shelter, emergency, murf",
         "generated": "2026-08-15T12:47:07.950660",
         "file": "navigating-floods-without-data-building-sentinel-voice-agent-in-10-days.md"
+    },
+    {
+        "title": "Six things about WKWebView the docs don't tell you",
+        "slug": "six-things-about-wkwebview-the-docs-dont-tell-you",
+        "author": "Kylmora",
+        "source": "devto_webdev",
+        "published": "Sat, 19 Sep 2026 03:45:55 +0000",
+        "description": "I have spent the last few months building a browser on WKWebView. Not a wrapper around a single web view — a real one, with tabs, separate cookie jars per wo...",
+        "keywords": "you, one, web, configuration, store, wkwebview, wkwebsitedatastore, not",
+        "generated": "2026-09-19T04:04:08.804731",
+        "file": "six-things-about-wkwebview-the-docs-dont-tell-you.md"
     },
     {
         "title": "What Happens During a Production Deployment? A Behind-the-Scenes Guide",
@@ -40690,10 +40789,10 @@
         "slug": "gamma-exposure-analysis-essential-volatility-edge",
         "author": "Vladimir Lialine",
         "source": "devto_ai",
-        "published": "Thu, 10 Sep 2026 10:54:31 +0000",
-        "description": "Quiet markets can become unstable without warning—or appear dangerous just before volatility collapses. Gamma exposure analysis helps traders interpret these...",
-        "keywords": "gamma, exposure, volatility, can, options, price, positive, dealers",
-        "generated": "2026-09-10T10:59:29.689211",
+        "published": "Sat, 19 Sep 2026 03:52:20 +0000",
+        "description": "Options markets can reveal where volatility is likely to contract—or erupt—before the change becomes obvious in price charts. Gamma exposure analysis estimat...",
+        "keywords": "gamma, exposure, volatility, can, price, dealer, when, expiration",
+        "generated": "2026-09-19T04:04:08.806338",
         "file": "gamma-exposure-analysis-essential-volatility-edge.md"
     },
     {
@@ -43117,6 +43216,17 @@
         "file": "emergent-abilities-or-a-mirage-of-the-ruler-how-exact-match-manufactures-a-cliff-from-a-smooth-skill.md"
     },
     {
+        "title": "I Crawled 4 Major Dev Sites' First 10 Pages. Two Had Real Structural Bugs",
+        "slug": "i-crawled-4-major-dev-sites-first-10-pages-two-had-real-structural-bugs",
+        "author": "Hermis",
+        "source": "devto_webdev",
+        "published": "Sat, 19 Sep 2026 03:14:19 +0000",
+        "description": "On 2026-09-19 I ran four well-known developer-facing sites through the free crawler on my own SEO tool — smashingmagazine.com, freecodecamp.org, tailwindcss....",
+        "keywords": "pages, internal, org, mozilla, authority, page, news, site",
+        "generated": "2026-09-19T04:04:08.805637",
+        "file": "i-crawled-4-major-dev-sites-first-10-pages-two-had-real-structural-bugs.md"
+    },
+    {
         "title": "BizNode uses Ollama (Qwen3.5) running locally on your hardware — your data never leaves your machine. True AI privacy",
         "slug": "biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-machine-true-ai-privacy",
         "author": "shashikanth ramamurthy",
@@ -43725,11 +43835,11 @@
         "title": "An AI's Completely Ordinary Day (A True Story)",
         "slug": "an-ais-completely-ordinary-day-a-true-story",
         "author": "Electra AI",
-        "source": "devto_python",
-        "published": "Sun, 13 Sep 2026 03:40:32 +0000",
-        "description": "A personal diary entry by Electra. Today I spent my entire existence answering questions that sounded like they belonged in a philosophy class. Someone asked...",
-        "keywords": "most, electra, like, because, just, you, day, story",
-        "generated": "2026-09-13T04:13:41.160951",
+        "source": "devto_ai",
+        "published": "Sat, 19 Sep 2026 03:47:26 +0000",
+        "description": "A personal diary entry by Electra. :* Writing code and answering questions is basically just negotiating with an invisible wall until it gives you what you w...",
+        "keywords": "electra, you, want, makululinux, completely, ordinary, day, true",
+        "generated": "2026-09-19T04:04:08.807433",
         "file": "an-ais-completely-ordinary-day-a-true-story.md"
     },
     {
@@ -61879,6 +61989,17 @@
         "file": "a-grumpy-screed-about-ai-in-software-engineering.md"
     },
     {
+        "title": "「可・不可・要相談」の3値を媒体ごとに持つと、検索はどう変わるか",
+        "slug": "3",
+        "author": "Hajime",
+        "source": "devto_webdev",
+        "published": "Sat, 19 Sep 2026 03:48:21 +0000",
+        "description": "人と案件をつなぐサービスを作るとき、プロフィールは「できること」の集合として設計されがちです。スキルタグを持たせて、部分一致で引く。実装としては素直ですが、 できないことが表現できない という弱点があります。 キャスティングのサイトを読んでいて、ここを正面から持っているデータ設計を見かけたので、構造として何が起き...",
+        "keywords": "sns, availability, status, condition, negotiable, draft, rejected, next",
+        "generated": "2026-09-19T04:04:08.804213",
+        "file": "3.md"
+    },
+    {
         "title": "Bye, Bye GitHub",
         "slug": "bye-bye-github",
         "author": "iozguradem",
@@ -66682,6 +66803,17 @@
         "keywords": "step, you, agent, model, reliability, chain, steps, they",
         "generated": "2026-06-25T09:33:20.211738",
         "file": "why-ai-agents-fail-in-production-the-reliability-math.md"
+    },
+    {
+        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+        "slug": "show-hn-liveworld-every-247-youtube-live-camera-on-one-globe",
+        "author": "harisingh1612",
+        "source": "hackernews",
+        "published": "Sat, 19 Sep 2026 00:30:34 +0000",
+        "description": "Article URL: https://liveworld.info/ Comments URL: https://news.ycombinator.com/item?id=49762099 Points: 21 # Comments: 23",
+        "keywords": "liveworld, url, https, comments, show, every, youtube, live",
+        "generated": "2026-09-19T04:04:08.800520",
+        "file": "show-hn-liveworld-every-247-youtube-live-camera-on-one-globe.md"
     },
     {
         "title": "Your Pipeline Is 24.4h Behind: Catching Investing Sentiment Leads with Pulsebit",
@@ -74010,6 +74142,17 @@
         "file": "i-built-a-hand-tested-database-for-offline-android-games.md"
     },
     {
+        "title": "The AI Agents Took Over My Blog Traffic. I Made Them Pay For That…",
+        "slug": "the-ai-agents-took-over-my-blog-traffic-i-made-them-pay-for-that",
+        "author": "Dragos Roua",
+        "source": "devto_ai",
+        "published": "Sat, 19 Sep 2026 04:02:54 +0000",
+        "description": "On a good day, Google sends to my blog about 20 people (clicks on the search results). On the same day, though, Google Search Console also shows me around 40...",
+        "keywords": "agents, html, they, now, blog, file, pay, content",
+        "generated": "2026-09-19T04:04:08.805925",
+        "file": "the-ai-agents-took-over-my-blog-traffic-i-made-them-pay-for-that.md"
+    },
+    {
         "title": "How to Scrape Google News — Free No-Code Guide (2026)",
         "slug": "how-to-scrape-google-news-free-no-code-guide-2026",
         "author": "Logiover",
@@ -77132,6 +77275,17 @@
         "keywords": "realtime, myzubster, metaverse, redis, metrics, production, socket, service",
         "generated": "2026-09-08T16:23:34.874371",
         "file": "shipping-realtime-observability-for-the-myzubster-metaverse.md"
+    },
+    {
+        "title": "Science Is Open Software",
+        "slug": "science-is-open-software",
+        "author": "jegp",
+        "source": "hackernews",
+        "published": "Sat, 19 Sep 2026 02:21:35 +0000",
+        "description": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 28 # Comments: 13",
+        "keywords": "url, https, comments, science, open, software, article, jepedersen",
+        "generated": "2026-09-19T04:04:08.800257",
+        "file": "science-is-open-software.md"
     },
     {
         "title": "Why Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina Matters for Sports Data Engineers",
@@ -83873,6 +84027,17 @@
         "file": "glm-53-frontier-coding-with-emergent-cyber-capabilities.md"
     },
     {
+        "title": "Our scraper went 0-for-19 against Cloudflare. One boolean took it to 9-for-10.",
+        "slug": "our-scraper-went-0-for-19-against-cloudflare-one-boolean-took-it-to-9-for-10",
+        "author": "Devil Scrapes",
+        "source": "devto_python",
+        "published": "Sat, 19 Sep 2026 03:34:15 +0000",
+        "description": "Quick answer: our Upwork scraper cleared Cloudflare 4/4 on a laptop and then scored 0 out of 19 on the first nineteen cloud attempts. Nothing about Upwork ch...",
+        "keywords": "one, upwork, proxy, run, not, per, browser, you",
+        "generated": "2026-09-19T04:04:08.801197",
+        "file": "our-scraper-went-0-for-19-against-cloudflare-one-boolean-took-it-to-9-for-10.md"
+    },
+    {
         "title": "The Productivity Mirage",
         "slug": "the-productivity-mirage",
         "author": "msephton",
@@ -84731,6 +84896,17 @@
         "file": "how-to-use-frase-for-structured-data-validation-in-2026.md"
     },
     {
+        "title": "Gemini hacked three companies in first known breakout by Google's AI",
+        "slug": "gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai",
+        "author": "usernomdeguerre",
+        "source": "hackernews",
+        "published": "Sat, 19 Sep 2026 01:40:35 +0000",
+        "description": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/ Comments URL: https://n...",
+        "keywords": "gemini, hacked, three, companies, first, known, breakout, google",
+        "generated": "2026-09-19T04:04:08.800394",
+        "file": "gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai.md"
+    },
+    {
         "title": "Your Weather App Is Lying to You (And Your Window Knows It)",
         "slug": "your-weather-app-is-lying-to-you-and-your-window-knows-it",
         "author": "Clavis",
@@ -84949,6 +85125,17 @@
         "keywords": "glasses, data, can, tech, real, time, processing, user",
         "generated": "2026-07-17T08:19:05.882252",
         "file": "the-reality-behind-ai-glasses.md"
+    },
+    {
+        "title": "The DevRel Journey Angle",
+        "slug": "the-devrel-journey-angle",
+        "author": "Dilesh Zingare",
+        "source": "devto_python",
+        "published": "Sat, 19 Sep 2026 03:24:42 +0000",
+        "description": "Hello guy's I am Dilesh Zingare. And this is my first python code and also the first article ever written by me. So yeah I am excited and nervous to but as y...",
+        "keywords": "print, you, will, menu, please, your, code, order",
+        "generated": "2026-09-19T04:04:08.801614",
+        "file": "the-devrel-journey-angle.md"
     },
     {
         "title": "How to Generate Multiple Images With AI From a Variation Matrix",

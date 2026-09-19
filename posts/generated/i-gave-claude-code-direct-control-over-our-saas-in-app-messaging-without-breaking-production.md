@@ -3,10 +3,10 @@ title: "I gave Claude Code direct control over our SaaS in-app messaging (Withou
 slug: "i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production"
 author: "Pavan S Poojary"
 source: "devto_webdev"
-published: "Thu, 17 Sep 2026 04:03:00 +0000"
+published: "Sat, 19 Sep 2026 03:55:00 +0000"
 description: "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'..."
 keywords: "mcp, app, your, neotic, agent, claude, code, onboarding"
-generated: "2026-09-17T04:23:07.717600"
+generated: "2026-09-19T04:04:08.803977"
 ---
 
 # I gave Claude Code direct control over our SaaS in-app messaging (Without breaking production)
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/pavan_s_poojary/i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production-4kc6
+https://dev.to/pavan_s_poojary/i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production-3g93
 
 ## Conclusion
 
