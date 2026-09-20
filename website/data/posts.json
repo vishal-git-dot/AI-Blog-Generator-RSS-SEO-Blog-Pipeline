@@ -16497,6 +16497,17 @@
         "file": "heterogeneous-ai-super-clusterhasc.md"
     },
     {
+        "title": "Modelling a Domain Where Dependencies Have No Duration",
+        "slug": "modelling-a-domain-where-dependencies-have-no-duration",
+        "author": "James Sanderson",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 20:27:14 +0000",
+        "description": "Almost every scheduling model in common use encodes the same assumption: a dependency has a duration. Task B starts after task A finishes, A takes eleven day...",
+        "keywords": "model, not, duration, commitment, schedule, one, project, authority",
+        "generated": "2026-09-20T20:35:13.101322",
+        "file": "modelling-a-domain-where-dependencies-have-no-duration.md"
+    },
+    {
         "title": "The Whoosh query language cheat sheet (with the gotchas nobody documents)",
         "slug": "the-whoosh-query-language-cheat-sheet-with-the-gotchas-nobody-documents",
         "author": "Priya Sundaram",
@@ -17694,6 +17705,17 @@
         "keywords": "northern, telecom, commodore, phone, url, https, comments, article",
         "generated": "2026-06-22T05:02:45.246732",
         "file": "1983-northern-telecom-commodore-phone.md"
+    },
+    {
+        "title": "I turned Jev into a (lousy) chatbot",
+        "slug": "i-turned-jev-into-a-lousy-chatbot",
+        "author": "kp1197",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 17:51:27 +0000",
+        "description": "Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 55 # Comments: 12",
+        "keywords": "url, https, com, comments, turned, jev, lousy, chatbot",
+        "generated": "2026-09-20T20:35:13.095652",
+        "file": "i-turned-jev-into-a-lousy-chatbot.md"
     },
     {
         "title": "Use GPT, Claude, and Gemini with the OpenAI SDK - one base_url, any language",
@@ -22380,6 +22402,17 @@
         "keywords": "score, data, screen, csv, factor, universe, ticker, momentum",
         "generated": "2026-09-14T04:21:00.972316",
         "file": "launchtower-a-reproducible-momentum-quality-factor-screen-on-95-us-stocks.md"
+    },
+    {
+        "title": "AI Citation Registries and AI Agents",
+        "slug": "ai-citation-registries-and-ai-agents",
+        "author": "David Rau",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 20:22:19 +0000",
+        "description": "AI agents are becoming more important because they extend artificial intelligence beyond answering questions. Instead of only generating text, an agent may r...",
+        "keywords": "information, agent, may, can, citation, agents, authority, attribution",
+        "generated": "2026-09-20T20:35:13.103230",
+        "file": "ai-citation-registries-and-ai-agents.md"
     },
     {
         "title": "Saving another 100TB of RAM with math (and Rust)",
@@ -31776,6 +31809,17 @@
         "file": "landing-page-vs-full-website.md"
     },
     {
+        "title": "Stop Evaluating Platforms on Features. Evaluate Them on Egress.",
+        "slug": "stop-evaluating-platforms-on-features-evaluate-them-on-egress",
+        "author": "James Sanderson",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 20:23:49 +0000",
+        "description": "Every engineer who has been handed a platform decision after the contract was signed knows the feeling. The feature matrix was thorough. The demo was polishe...",
+        "keywords": "you, can, than, api, only, have, whether, will",
+        "generated": "2026-09-20T20:35:13.102640",
+        "file": "stop-evaluating-platforms-on-features-evaluate-them-on-egress.md"
+    },
+    {
         "title": "hi",
         "slug": "hi",
         "author": "DictoGo",
@@ -32786,6 +32830,17 @@
         "keywords": "signal, data, price, trading, crypto, signals, confidence, api",
         "generated": "2026-09-07T12:06:00.735075",
         "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
+    },
+    {
+        "title": "HTTP 402 is not reserved for future use anymore: I put a 1-cent paywall on a live API for AI agents",
+        "slug": "http-402-is-not-reserved-for-future-use-anymore-i-put-a-1-cent-paywall-on-a-live-api-for-ai-agents",
+        "author": "DEUS Automations",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 20:25:42 +0000",
+        "description": "HTTP 402 has been reserved for future use since 1997. The future turned out to be AI agents that hold a wallet, and the spec that woke it up is x402 : a pa...",
+        "keywords": "you, one, not, origine, destinazione, json, const, payment",
+        "generated": "2026-09-20T20:35:13.100168",
+        "file": "http-402-is-not-reserved-for-future-use-anymore-i-put-a-1-cent-paywall-on-a-live-api-for-ai-agents.md"
     },
     {
         "title": "You reached for !important again. @layer is the real fix.",
@@ -40959,6 +41014,17 @@
         "keywords": "isopolis, url, https, comments, show, isometric, pixel, map",
         "generated": "2026-08-03T03:30:39.798243",
         "file": "show-hn-isopolis-isometric-pixel-map-of-sf.md"
+    },
+    {
+        "title": "The Difference Between Information Access and Authority Recognition",
+        "slug": "the-difference-between-information-access-and-authority-recognition",
+        "author": "David Rau",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 20:24:28 +0000",
+        "description": "Information availability alone does not preserve institutional attribution across AI-mediated government communication ecosystems. Information Can Travel Wit...",
+        "keywords": "information, authority, communication, systems, environments, attribution, operational, not",
+        "generated": "2026-09-20T20:35:13.102126",
+        "file": "the-difference-between-information-access-and-authority-recognition.md"
     },
     {
         "title": "The Best AI Tool to Turn Tweets Into Videos in 2026: The Full Pipeline",
@@ -54630,6 +54696,17 @@
         "file": "how-i-engineered-a-custom-social-media-app-in-2-months.md"
     },
     {
+        "title": "48-Hour Field Notes: The Pool Hung After Fork. My Laptop Used Spawn.",
+        "slug": "48-hour-field-notes-the-pool-hung-after-fork-my-laptop-used-spawn",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 20:13:43 +0000",
+        "description": "Have you ever watched a process pool freeze while the parent kept logging like nothing at all was wrong? I spent two days blaming the remote runtime before I...",
+        "keywords": "logging, you, not, fork, child, import, parent, multiprocessing",
+        "generated": "2026-09-20T20:35:13.099142",
+        "file": "48-hour-field-notes-the-pool-hung-after-fork-my-laptop-used-spawn.md"
+    },
+    {
         "title": "Soft Navigations in Chrome 151: How to Prepare and What to Measure",
         "slug": "soft-navigations-in-chrome-151-how-to-prepare-and-what-to-measure",
         "author": "Apogee Watcher",
@@ -56036,6 +56113,17 @@
         "keywords": "meta, threads, users, now, direct, messages, feature, part",
         "generated": "2026-08-03T09:55:50.595939",
         "file": "meta-ai-now-available-in-threads-direct-messages.md"
+    },
+    {
+        "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+        "slug": "frontier-labs-are-selling-garbage-to-fools-in-washington",
+        "author": "nr378",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 19:55:36 +0000",
+        "description": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage Comments URL: https://news.ycombinator.com/item?id=49779432 Points: 15 # Co...",
+        "keywords": "frontier, labs, selling, garbage, url, https, com, comments",
+        "generated": "2026-09-20T20:35:13.095097",
+        "file": "frontier-labs-are-selling-garbage-to-fools-in-washington.md"
     },
     {
         "title": "Why Per-Seat Pricing Breaks AI Agent SaaS (And What Works Instead)",
@@ -57719,6 +57807,17 @@
         "keywords": "recruitment, hiring, agency, can, businesses, requirements, should, support",
         "generated": "2026-09-12T04:02:47.310873",
         "file": "how-to-choose-the-right-recruitment-agency-in-dubai-for-your-business.md"
+    },
+    {
+        "title": "Jev TypeSafe AI + LangChain + Vercel AI Gateway",
+        "slug": "jev-typesafe-ai-langchain-vercel-ai-gateway",
+        "author": "Daniel Castillo",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 20:19:51 +0000",
+        "description": "La mayoría de sistemas usan un LLM para decidir cosas como clasificar, priorizar o enrutar. jev está diseñado específicamente para tomar esas decisiones. En ...",
+        "keywords": "una, typesafe, langchain, los, que, jev, gateway, choice",
+        "generated": "2026-09-20T20:35:13.097809",
+        "file": "jev-typesafe-ai-langchain-vercel-ai-gateway.md"
     },
     {
         "title": "Qwen 3.6 27B is the sweet spot for local development",
@@ -59765,6 +59864,17 @@
         "keywords": "url, https, com, comments, department, commerce, has, lifted",
         "generated": "2026-07-01T04:23:05.791554",
         "file": "department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.md"
+    },
+    {
+        "title": "The Hierarchy of Money",
+        "slug": "the-hierarchy-of-money",
+        "author": "gwgundersen",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 19:37:43 +0000",
+        "description": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 17 # Commen...",
+        "keywords": "hierarchy, money, url, https, com, comments, article, gregorygundersen",
+        "generated": "2026-09-20T20:35:13.095259",
+        "file": "the-hierarchy-of-money.md"
     },
     {
         "title": "LLMs vs Generative AI",
@@ -63417,6 +63527,17 @@
         "keywords": "you, design, what, critique, one, system, interview, follow",
         "generated": "2026-07-18T08:00:40.327095",
         "file": "i-got-tired-of-practice-system-design-meaning-watch-another-youtube-walkthrough.md"
+    },
+    {
+        "title": "Youtube Scraper (Pay Per Result) — 30K Users Can't Be Wrong",
+        "slug": "youtube-scraper-pay-per-result-30k-users-cant-be-wrong",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 20:29:43 +0000",
+        "description": "Are you spending hours writing custom scrapers? There's probably an actor for that already. What is Youtube Scraper (Pay Per Result)? Experience unparalleled...",
+        "keywords": "per, pay, data, youtube, scraper, result, users, you",
+        "generated": "2026-09-20T20:35:13.099613",
+        "file": "youtube-scraper-pay-per-result-30k-users-cant-be-wrong.md"
     },
     {
         "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
@@ -70259,6 +70380,17 @@
         "file": "ais-daily-grind-coffee-runs-nah-just-more-data-crunching.md"
     },
     {
+        "title": "The test is working — going deep on React Router",
+        "slug": "the-test-is-working-going-deep-on-react-router",
+        "author": "BlackJosh007",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 20:30:58 +0000",
+        "description": "Last post I laid out a rule to stop learning-while-building from turning into copy-pasting: learn the concept first, attempt it myself, only ask for hints af...",
+        "keywords": "page, routing, more, route, url, react, post, only",
+        "generated": "2026-09-20T20:35:13.099408",
+        "file": "the-test-is-working-going-deep-on-react-router.md"
+    },
+    {
         "title": "Polling in System Design",
         "slug": "polling-in-system-design",
         "author": "Cibani Joe",
@@ -71051,6 +71183,17 @@
         "file": "why-the-ad-machine-how-david-beckham-conquered-america-matters-for-sports-data-engineers.md"
     },
     {
+        "title": "A Necessary History of the Oddest Letter: W",
+        "slug": "a-necessary-history-of-the-oddest-letter-w",
+        "author": "NaOH",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 17:55:57 +0000",
+        "description": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 49 # Comments...",
+        "keywords": "necessary, history, oddest, letter, url, https, com, comments",
+        "generated": "2026-09-20T20:35:13.095505",
+        "file": "a-necessary-history-of-the-oddest-letter-w.md"
+    },
+    {
         "title": "Claude Code vs GitHub Copilot: I Used Both for 30 Days. Here's What Won.",
         "slug": "claude-code-vs-github-copilot-i-used-both-for-30-days-heres-what-won",
         "author": "AutoMate AI",
@@ -71247,6 +71390,17 @@
         "keywords": "libraries, community, engagement, resources, can, local, civic, programs",
         "generated": "2026-06-23T15:13:55.043121",
         "file": "libraries-innovative-tools-for-societal-growth.md"
+    },
+    {
+        "title": "Software Sandboxing: The Basics",
+        "slug": "software-sandboxing-the-basics",
+        "author": "mococa",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 18:42:47 +0000",
+        "description": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 16 # Comments: 0",
+        "keywords": "software, sandboxing, basics, url, https, comments, article, blog",
+        "generated": "2026-09-20T20:35:13.095383",
+        "file": "software-sandboxing-the-basics.md"
     },
     {
         "title": "Successful Companies Go Blind",
@@ -76483,6 +76637,17 @@
         "keywords": "alan, delilah, url, https, comments, lost, story, turing",
         "generated": "2026-06-21T09:58:05.289405",
         "file": "the-lost-story-of-alan-turings-delilah-project.md"
+    },
+    {
+        "title": "Email Verification: Log Less, Prove More",
+        "slug": "email-verification-log-less-prove-more",
+        "author": "Lewis",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 20:24:24 +0000",
+        "description": "Email verification is often treated as a tiny checkbox in an authentication flow: send a message, accept a token, mark the account as verified. The logging a...",
+        "keywords": "email, not, can, verification, address, message, event, challenge",
+        "generated": "2026-09-20T20:35:13.100843",
+        "file": "email-verification-log-less-prove-more.md"
     },
     {
         "title": "Student Develops Alternative Asteroid Detection Pipeline to Address Limitations of Current System",
@@ -82399,6 +82564,17 @@
         "file": "sandbox-testing-tools-for-teams-testing-against-real-dependencies.md"
     },
     {
+        "title": "Changes to LLM pricing: Baidu, Darkbloom, Morph and StreamLake",
+        "slug": "changes-to-llm-pricing-baidu-darkbloom-morph-and-streamlake",
+        "author": "Narev Bot",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 20:24:37 +0000",
+        "description": "Model price changes detected for Baidu, Darkbloom, Morph and StreamLake. Details below.",
+        "keywords": "changes, baidu, darkbloom, morph, streamlake, llm, pricing, model",
+        "generated": "2026-09-20T20:35:13.101487",
+        "file": "changes-to-llm-pricing-baidu-darkbloom-morph-and-streamlake.md"
+    },
+    {
         "title": "🌍 Remote Opportunities Open for Developers",
         "slug": "remote-opportunities-open-for-developers",
         "author": "Sam Tech",
@@ -84687,6 +84863,17 @@
         "file": "building-contractpilot-ai-a-serverless-multi-agent-legal-copilot-with-vercel-and-aws-databases.md"
     },
     {
+        "title": "Explaining Why Mail Domain Verification Is Still Pending After Polling Stops",
+        "slug": "explaining-why-mail-domain-verification-is-still-pending-after-polling-stops",
+        "author": "IgnazCole6453",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 20:17:54 +0000",
+        "description": "Short answer: cap each mail-domain verification run, keep the last observed MX evidence, and show a pending reason that says whether the system is waiting fo...",
+        "keywords": "attempt, not, verification, pending, evidence, dns, mail, reason",
+        "generated": "2026-09-20T20:35:13.098473",
+        "file": "explaining-why-mail-domain-verification-is-still-pending-after-polling-stops.md"
+    },
+    {
         "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
         "slug": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models",
         "author": "TomAnthony",
@@ -85103,6 +85290,17 @@
         "keywords": "url, https, com, comments, advertise, chatgpt, article, ads",
         "generated": "2026-07-21T19:39:11.834644",
         "file": "advertise-in-chatgpt.md"
+    },
+    {
+        "title": "One Iceberg MCP Server, Seven Catalogs: What It Takes to Reach Each One",
+        "slug": "one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 20:30:58 +0000",
+        "description": "This article provides a step by step guide to one MCP server for Apache Iceberg tables, pointed at seven Iceberg REST catalogs in turn. The server offers fou...",
+        "keywords": "catalog, server, aws, iceberg, one, mcp, catalogs, tools",
+        "generated": "2026-09-20T20:35:13.097085",
+        "file": "one-iceberg-mcp-server-seven-catalogs-what-it-takes-to-reach-each-one.md"
     },
     {
         "title": "LLM Benchmarks: Choose GPT-4o, Claude, or Mistral by Workload",
@@ -86253,10 +86451,10 @@
         "slug": "how-to-validate-phone-numbers-via-api-global-coverage",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Fri, 18 Sep 2026 20:34:53 +0000",
+        "published": "Sun, 20 Sep 2026 20:24:33 +0000",
         "description": "Bad phone data kills conversion rates. Fix it at the source. The Problem Most developers either build custom solutions (slow, fragile) or pay for expensive e...",
         "keywords": "phone, api, free, validate, numbers, data, most, apis",
-        "generated": "2026-09-18T20:42:06.203186",
+        "generated": "2026-09-20T20:35:13.100331",
         "file": "how-to-validate-phone-numbers-via-api-global-coverage.md"
     },
     {
