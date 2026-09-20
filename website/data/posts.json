@@ -1412,6 +1412,17 @@
         "file": "how-much-does-a-law-firm-wordpress-website-cost-real-pricing-breakdown.md"
     },
     {
+        "title": "The №3 Trap for Python Beginners: The = vs == Mix-Up! ⚖️",
+        "slug": "the-3-trap-for-python-beginners-the-vs-mix-up",
+        "author": "Sinem Kirtac",
+        "source": "medium_programming",
+        "published": "Sun, 20 Sep 2026 15:39:19 GMT",
+        "description": "You’ve mastered functions and indentation. Now you want to write a simple condition to check if a user is logged in or if a number is… Continue reading on Me...",
+        "keywords": "you, trap, python, beginners, mix, mastered, functions, indentation",
+        "generated": "2026-09-20T15:50:36.617249",
+        "file": "the-3-trap-for-python-beginners-the-vs-mix-up.md"
+    },
+    {
         "title": "Why AI Agents Need Private Financial Accounts",
         "slug": "why-ai-agents-need-private-financial-accounts",
         "author": "flat cash",
@@ -8767,6 +8778,17 @@
         "file": "free-model-endpoints-rate-limit-you-build-a-retry-layer-you-can-verify.md"
     },
     {
+        "title": "I got tired of rebuilding the same Angular mobile app setup, so I built LaunchKit Mobile",
+        "slug": "i-got-tired-of-rebuilding-the-same-angular-mobile-app-setup-so-i-built-launchkit-mobile",
+        "author": "alihghaith1990",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 15:38:00 +0000",
+        "description": "Every time I started a new Angular mobile app, I found myself rebuilding the same foundation before I could even start working on the actual product. Authent...",
+        "keywords": "mobile, you, angular, application, launchkit, authentication, project, ionic",
+        "generated": "2026-09-20T15:50:36.613593",
+        "file": "i-got-tired-of-rebuilding-the-same-angular-mobile-app-setup-so-i-built-launchkit-mobile.md"
+    },
+    {
         "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
         "slug": "show-hn-bullshit-detector-agent-skills-that-fact-check-videos-and-articles",
         "author": "skorniienko",
@@ -15498,6 +15520,17 @@
         "file": "windows-wsl-nextjs-development-setup-zero-to-professional-environment.md"
     },
     {
+        "title": "swarm-gym for goose: grading local models by running the code they write",
+        "slug": "swarm-gym-for-goose-grading-local-models-by-running-the-code-they-write",
+        "author": "Mihai Perdum",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 15:42:08 +0000",
+        "description": "swarm-gym for goose: grading local models by running the code they write Key takeaways swarm-gym is a Python harness (python -m harness ...) that drives goos...",
+        "keywords": "harness, swarm, run, you, benchmark, runs, python, model",
+        "generated": "2026-09-20T15:50:36.615607",
+        "file": "swarm-gym-for-goose-grading-local-models-by-running-the-code-they-write.md"
+    },
+    {
         "title": "How to Reduce Hallucinations in AI Chatbots",
         "slug": "how-to-reduce-hallucinations-in-ai-chatbots",
         "author": "Sadie casey",
@@ -20468,6 +20501,17 @@
         "file": "15-web-cloud-terms-every-non-technical-founder-should-actually-understand.md"
     },
     {
+        "title": "Master the AIDA Framework for High-Converting Video Scripts",
+        "slug": "master-the-aida-framework-for-high-converting-video-scripts",
+        "author": "Zohir Lahcen",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 15:38:10 +0000",
+        "description": "Ever wonder why some tech channels rake in millions of views on basic reviews while your deep-dive specs breakdown gets crickets? It’s rarely about your came...",
+        "keywords": "your, tech, you, video, example, aida, high, specs",
+        "generated": "2026-09-20T15:50:36.616244",
+        "file": "master-the-aida-framework-for-high-converting-video-scripts.md"
+    },
+    {
         "title": "Meet Chatrove: a 100% local, open-source vault for your AI chats",
         "slug": "meet-chatrove-a-100-local-open-source-vault-for-your-ai-chats",
         "author": "vuhuutam459-max",
@@ -22963,6 +23007,17 @@
         "keywords": "run, depop, one, price, listing, shard, because, per",
         "generated": "2026-09-18T10:56:11.755315",
         "file": "a-dockerfile-typo-turned-33-real-depop-rows-into-a-silent-succeeded-zero.md"
+    },
+    {
+        "title": "Drop-in Django app to serve a decent LLM-ready documentation site",
+        "slug": "drop-in-django-app-to-serve-a-decent-llm-ready-documentation-site",
+        "author": "Corstiaan",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 15:42:00 +0000",
+        "description": "Hi all, I'm working on a bigger Python project that I'll release soon, and as part of it I found myself needing a documentation site. Most doc sites are serv...",
+        "keywords": "docs, mdjango, site, your, django, some, side, you",
+        "generated": "2026-09-20T15:50:36.610374",
+        "file": "drop-in-django-app-to-serve-a-decent-llm-ready-documentation-site.md"
     },
     {
         "title": "Sony makes bold claim about game ownership",
@@ -29244,6 +29299,17 @@
         "keywords": "url, https, comments, neither, gcc, nor, clang, compliant",
         "generated": "2026-07-19T19:13:25.015659",
         "file": "neither-gcc-nor-clang-are-compliant-with-standard-c.md"
+    },
+    {
+        "title": "From Mission Requirements to a UAV Motor Operating Point: An MN4010 Sizing Workflow",
+        "slug": "from-mission-requirements-to-a-uav-motor-operating-point-an-mn4010-sizing-workflow",
+        "author": "UNITED UAV Official",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 15:18:24 +0000",
+        "description": "A motor is not selected when its maximum-thrust number exceeds the aircraft weight. It is selected only after the motor, propeller, voltage, ESC, battery, ai...",
+        "keywords": "point, not, motor, propeller, current, thrust, voltage, temperature",
+        "generated": "2026-09-20T15:50:36.612855",
+        "file": "from-mission-requirements-to-a-uav-motor-operating-point-an-mn4010-sizing-workflow.md"
     },
     {
         "title": "The Artist Who Colored Ghibli",
@@ -41764,6 +41830,17 @@
         "file": "answer-engine-optimization-aeo-structuring-e-commerce-knowledge-graphs-for-llm-agents.md"
     },
     {
+        "title": "💡 Why Pay for $1,000 Bootcamps When You Can Swap Skills for Free?",
+        "slug": "why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free",
+        "author": "Founder of SwapLearn",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 15:42:28 +0000",
+        "description": "Solving the High Cost of Tech Education Expensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this...",
+        "keywords": "skills, bootcamps, swap, tech, swaplearn, real, peer, skill",
+        "generated": "2026-09-20T15:50:36.613002",
+        "file": "why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free.md"
+    },
+    {
         "title": "Winamp Skin Museum",
         "slug": "winamp-skin-museum",
         "author": "sarah-robiin",
@@ -42285,10 +42362,10 @@
         "slug": "top-10-agents-apis-scrapers-in-2026-ranked-by-active-users",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Tue, 15 Sep 2026 16:28:54 +0000",
+        "published": "Sun, 20 Sep 2026 15:40:52 +0000",
         "description": "Looking for the best agents tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 1. Reddit Scraper | Enterprise Gra...",
         "keywords": "event, apify, users, pay, per, scraper, rating, try",
-        "generated": "2026-09-15T16:40:33.690309",
+        "generated": "2026-09-20T15:50:36.613231",
         "file": "top-10-agents-apis-scrapers-in-2026-ranked-by-active-users.md"
     },
     {
@@ -42774,6 +42851,17 @@
         "keywords": "comments, replies, llms, eroding, career, post, url, https",
         "generated": "2026-06-08T11:08:35.049710",
         "file": "replies-to-comments-on-my-llms-are-eroding-my-career-post.md"
+    },
+    {
+        "title": "lets explore data Structures in Python",
+        "slug": "lets-explore-data-structures-in-python",
+        "author": "Steve Mwangi",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 15:33:24 +0000",
+        "description": "Introduction Data science begins with data, and how that data is stored determines how easily it can be cleaned, explored, and analyzed. Python is a data sci...",
+        "keywords": "data, bob, print, outputs, set, list, ross, can",
+        "generated": "2026-09-20T15:50:36.611616",
+        "file": "lets-explore-data-structures-in-python.md"
     },
     {
         "title": "My Inferentia port matched its reference token-for-token — and still output garbage",
@@ -44305,6 +44393,17 @@
         "file": "ambient-css-v3-blender-meets-css.md"
     },
     {
+        "title": "The №4 Trap for Python Beginners: Combining Text & Numbers!",
+        "slug": "the-4-trap-for-python-beginners-combining-text-numbers",
+        "author": "Sinem Kirtac",
+        "source": "medium_programming",
+        "published": "Sun, 20 Sep 2026 15:39:56 GMT",
+        "description": "You want to display a personalized message showing a user’s score or age: Continue reading on Medium »",
+        "keywords": "trap, python, beginners, combining, text, numbers, you, want",
+        "generated": "2026-09-20T15:50:36.617098",
+        "file": "the-4-trap-for-python-beginners-combining-text-numbers.md"
+    },
+    {
         "title": "Waking a dead service worker with Web Push, from a Cloudflare Worker",
         "slug": "waking-a-dead-service-worker-with-web-push-from-a-cloudflare-worker",
         "author": "Matt Fauveau",
@@ -45317,6 +45416,17 @@
         "file": "building-smarter-gaming-strategies-with-a-last-war-research-calculator.md"
     },
     {
+        "title": "MLX vs GGUF on Apple Silicon: Benchmarking the Same Local Model Two Ways",
+        "slug": "mlx-vs-gguf-on-apple-silicon-benchmarking-the-same-local-model-two-ways",
+        "author": "Mihai Perdum",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 15:43:16 +0000",
+        "description": "MLX vs GGUF on Apple Silicon: Benchmarking the Same Local Model Two Ways You've pulled a local coding model onto your Mac and you're staring at two downloads...",
+        "keywords": "model, mlx, gguf, run, you, app, swarm, two",
+        "generated": "2026-09-20T15:50:36.614596",
+        "file": "mlx-vs-gguf-on-apple-silicon-benchmarking-the-same-local-model-two-ways.md"
+    },
+    {
         "title": "Are insecure code completions in PyCharm a vulnerability?",
         "slug": "are-insecure-code-completions-in-pycharm-a-vulnerability",
         "author": "12_throw_away",
@@ -46129,6 +46239,17 @@
         "keywords": "skill, you, skdd, agent, harvest, skills, why, claude",
         "generated": "2026-08-06T14:24:40.422081",
         "file": "harvesting-skills-with-their-why-a-claude-code-plugin-for-knowledge-that-survives-the-session.md"
+    },
+    {
+        "title": "How Agentic Skill Generation Is About to Make Accountability Coaches Obsolete",
+        "slug": "how-agentic-skill-generation-is-about-to-make-accountability-coaches-obsolete",
+        "author": "owly",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 15:36:06 +0000",
+        "description": "How Agentic Skill Generation Is About to Make Accountability Coaches Obsolete And why LivinGrimoire’s Skill Forge Prompt is quietly a technological earthquak...",
+        "keywords": "self, you, skill, not, onii, chan, return, accountability",
+        "generated": "2026-09-20T15:50:36.611045",
+        "file": "how-agentic-skill-generation-is-about-to-make-accountability-coaches-obsolete.md"
     },
     {
         "title": "PM YASASVI Scholarship Application Guide 2026: Apply Online",
@@ -48481,6 +48602,17 @@
         "keywords": "server, pdf, mcp, than, pdfhaul, assistant, tool, run",
         "generated": "2026-08-03T19:44:41.768699",
         "file": "i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly.md"
+    },
+    {
+        "title": "The Origin of JavaScript: How a 10-Day Project Took Over the Web",
+        "slug": "the-origin-of-javascript-how-a-10-day-project-took-over-the-web",
+        "author": "Sam Writes Security",
+        "source": "medium_programming",
+        "published": "Sun, 20 Sep 2026 15:39:22 GMT",
+        "description": "How a language created under intense pressure became one of the foundations of the modern internet. Continue reading on Cyber_Secure_Words »",
+        "keywords": "how, origin, javascript, day, project, took, over, web",
+        "generated": "2026-09-20T15:50:36.617186",
+        "file": "the-origin-of-javascript-how-a-10-day-project-took-over-the-web.md"
     },
     {
         "title": "Why Developers Should Care About Business Process Optimization",
@@ -51812,6 +51944,17 @@
         "keywords": "shopify, your, you, supabase, database, data, postgres, side",
         "generated": "2026-06-25T14:43:02.866024",
         "file": "supabase-shopify-backend-side-car-architecture-2026.md"
+    },
+    {
+        "title": "Redis Explained: From Your First GET to Production-Scale Systems",
+        "slug": "redis-explained-from-your-first-get-to-production-scale-systems",
+        "author": "Harshit",
+        "source": "medium_programming",
+        "published": "Sun, 20 Sep 2026 15:30:29 GMT",
+        "description": "A complete, beginner-friendly guide to the technology powering Twitter, GitHub, and every game leaderboard you’ve ever seen — with real… Continue reading on ...",
+        "keywords": "redis, explained, your, first, get, production, scale, systems",
+        "generated": "2026-09-20T15:50:36.617309",
+        "file": "redis-explained-from-your-first-get-to-production-scale-systems.md"
     },
     {
         "title": "FutureX · Physical AI Daily — Issue 71 (07/28)",
@@ -57895,6 +58038,17 @@
         "keywords": "israeli, firm, blackcore, suspected, meddling, scotland, votes, url",
         "generated": "2026-06-13T09:25:04.604875",
         "file": "israeli-firm-blackcore-suspected-of-meddling-in-new-york-and-scotland-votes.md"
+    },
+    {
+        "title": "Tiktok Scraping Tools Compared — Which One Should You Use in 2026?",
+        "slug": "tiktok-scraping-tools-compared-which-one-should-you-use-in-2026",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 15:35:40 +0000",
+        "description": "If you need to scrape Tiktok data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Use...",
+        "keywords": "tiktok, pay, per, data, event, scraper, users, video",
+        "generated": "2026-09-20T15:50:36.613848",
+        "file": "tiktok-scraping-tools-compared-which-one-should-you-use-in-2026.md"
     },
     {
         "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
@@ -65984,10 +66138,10 @@
         "slug": "how-to-build-high-converting-in-app-announcements-without-sacrificing-inp-lcp",
         "author": "Pavan S Poojary",
         "source": "devto_webdev",
-        "published": "Wed, 09 Sep 2026 03:45:00 +0000",
+        "published": "Sun, 20 Sep 2026 15:34:00 +0000",
         "description": "We recently ran Lighthouse audits across 40 top B2B SaaS web applications. Over 65% of them were failing Interaction to Next Paint (INP) and Largest Contentf...",
         "keywords": "app, neotic, you, your, how, onboarding, next, legacy",
-        "generated": "2026-09-09T04:06:24.349562",
+        "generated": "2026-09-20T15:50:36.614029",
         "file": "how-to-build-high-converting-in-app-announcements-without-sacrificing-inp-lcp.md"
     },
     {
@@ -68840,6 +68994,17 @@
         "file": "top-12-site-to-get-linkedin-accounts-buying-guide-2026.md"
     },
     {
+        "title": "So today is day 1 of 100.",
+        "slug": "so-today-is-day-1-of-100",
+        "author": "Manas Dutta",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 15:28:25 +0000",
+        "description": "I started with linear regression and did it properly this time, from scratch, with no sklearn doing the work. Here's how the day went: Intuition first. What ...",
+        "keywords": "through, linear, before, day, time, scratch, how, went",
+        "generated": "2026-09-20T15:50:36.611766",
+        "file": "so-today-is-day-1-of-100.md"
+    },
+    {
         "title": "Salesforce Global Outage",
         "slug": "salesforce-global-outage",
         "author": "mabil",
@@ -70796,6 +70961,17 @@
         "keywords": "not, pack, line, import, patch, path, files, allowlist",
         "generated": "2026-09-03T16:11:07.915221",
         "file": "weekend-build-log-a-slim-context-pack-for-off-laptop-ai-patches.md"
+    },
+    {
+        "title": "Your Coding Agent Ran Somebody Else's Plugin: What Plugin4Shell Teaches Us",
+        "slug": "your-coding-agent-ran-somebody-elses-plugin-what-plugin4shell-teaches-us",
+        "author": "Anusha Mukka",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 15:37:45 +0000",
+        "description": "Three of the four most popular AI coding agents could be tricked into executing attacker-controlled plugin code. The fix vendors shipped matters less than th...",
+        "keywords": "you, plugin, your, agent, code, plugins, not, sha",
+        "generated": "2026-09-20T15:50:36.617014",
+        "file": "your-coding-agent-ran-somebody-elses-plugin-what-plugin4shell-teaches-us.md"
     },
     {
         "title": "The Honest Gradient Through a Binary Bottleneck Is Not Small. It Is Exactly Zero on 42 of 42 Coordinates.",
@@ -77717,6 +77893,17 @@
         "file": "the-content-audit-that-didnt-need-me-to-build-a-scraper.md"
     },
     {
+        "title": "The Biggest Mistake You Make While Preparing for a DevOps Interview",
+        "slug": "the-biggest-mistake-you-make-while-preparing-for-a-devops-interview",
+        "author": "Pawan Natekar | Devops | AWS | K8s | Linux",
+        "source": "medium_programming",
+        "published": "Sun, 20 Sep 2026 15:27:57 GMT",
+        "description": "You Learn Too Many Tools but Understand Too Little Continue reading on AWS in Plain English »",
+        "keywords": "you, too, biggest, mistake, make, while, preparing, devops",
+        "generated": "2026-09-20T15:50:36.617369",
+        "file": "the-biggest-mistake-you-make-while-preparing-for-a-devops-interview.md"
+    },
+    {
         "title": "How AI-Powered Data Analytics Works: From Raw Data to Intelligent Insights in 2026",
         "slug": "how-ai-powered-data-analytics-works-from-raw-data-to-intelligent-insights-in-2026",
         "author": "Synfinity Dynamics Pvt Ltd",
@@ -80397,6 +80584,17 @@
         "keywords": "can, design, designers, website, web, layouts, help, layout",
         "generated": "2026-09-07T12:06:00.734745",
         "file": "ai-driven-workflows-in-web-design-how-designers-are-working-smarter.md"
+    },
+    {
+        "title": "Your Agent's Memory Is an Attack Surface",
+        "slug": "your-agents-memory-is-an-attack-surface",
+        "author": "Constant Itis",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 15:38:20 +0000",
+        "description": "In Post 3, the behavioral difference tracked the memory graph, not the substrate. When I swapped one individual's learned associations into an identical brai...",
+        "keywords": "memory, not, graph, one, lived, trials, traces, agent",
+        "generated": "2026-09-20T15:50:36.616078",
+        "file": "your-agents-memory-is-an-attack-surface.md"
     },
     {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: Youve been trying to kill me for 23 years should Ronaldo start?",

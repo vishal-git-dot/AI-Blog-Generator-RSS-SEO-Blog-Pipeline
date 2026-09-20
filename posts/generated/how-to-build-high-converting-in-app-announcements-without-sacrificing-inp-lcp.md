@@ -3,10 +3,10 @@ title: "How to build high-converting in-app announcements without sacrificing IN
 slug: "how-to-build-high-converting-in-app-announcements-without-sacrificing-inp-lcp"
 author: "Pavan S Poojary"
 source: "devto_webdev"
-published: "Wed, 09 Sep 2026 03:45:00 +0000"
+published: "Sun, 20 Sep 2026 15:34:00 +0000"
 description: "We recently ran Lighthouse audits across 40 top B2B SaaS web applications. Over 65% of them were failing Interaction to Next Paint (INP) and Largest Contentf..."
 keywords: "app, neotic, you, your, how, onboarding, next, legacy"
-generated: "2026-09-09T04:06:24.349562"
+generated: "2026-09-20T15:50:36.614029"
 ---
 
 # How to build high-converting in-app announcements without sacrificing INP & LCP
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/pavan_s_poojary/how-to-build-high-converting-in-app-announcements-without-sacrificing-inp-lcp-4bj3
+https://dev.to/pavan_s_poojary/how-to-build-high-converting-in-app-announcements-without-sacrificing-inp-lcp-4di
 
 ## Conclusion
 
