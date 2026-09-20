@@ -3,10 +3,10 @@ title: "Building AI-operated in-app product experiences using remote MCP servers
 slug: "building-ai-operated-in-app-product-experiences-using-remote-mcp-servers"
 author: "Pavan S Poojary"
 source: "devto_webdev"
-published: "Thu, 10 Sep 2026 03:51:00 +0000"
+published: "Sun, 20 Sep 2026 04:06:00 +0000"
 description: "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'..."
 keywords: "mcp, app, your, neotic, remote, agent, onboarding, you"
-generated: "2026-09-10T04:04:27.715932"
+generated: "2026-09-20T04:23:13.468045"
 ---
 
 # Building AI-operated in-app product experiences using remote MCP servers
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/pavan_s_poojary/building-ai-operated-in-app-product-experiences-using-remote-mcp-servers-214l
+https://dev.to/pavan_s_poojary/building-ai-operated-in-app-product-experiences-using-remote-mcp-servers-opo
 
 ## Conclusion
 
