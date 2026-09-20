@@ -2534,6 +2534,17 @@
         "file": "unlocking-the-future-what-is-agentic-ai-and-how-its-transforming-development.md"
     },
     {
+        "title": "Telling a Computer to Do Things",
+        "slug": "telling-a-computer-to-do-things",
+        "author": "vismit2000",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 05:11:33 +0000",
+        "description": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/ Comments URL: https://news.ycombinator.com/item?id=49772662 Points: 36 # Comm...",
+        "keywords": "telling, computer, things, url, https, com, comments, article",
+        "generated": "2026-09-20T11:02:02.636811",
+        "file": "telling-a-computer-to-do-things.md"
+    },
+    {
         "title": "FROST 周末慢读：当你让 AI 学会「辈分」",
         "slug": "frost-ai",
         "author": "llimage",
@@ -3467,6 +3478,17 @@
         "keywords": "marker, editor, text, word, range, can, stored, one",
         "generated": "2026-08-03T19:44:41.765683",
         "file": "an-editable-range-can-change-without-changing-word-text.md"
+    },
+    {
+        "title": "Agents Make Three Decisions All Day: 18 JEV Use Cases and When Not to Use It",
+        "slug": "agents-make-three-decisions-all-day-18-jev-use-cases-and-when-not-to-use-it",
+        "author": "Eric Kang",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 10:57:53 +0000",
+        "description": "A production agent makes the same three kinds of calls all day: pick one thing from a list, put a value on a scale, answer yes or no. Most teams send all thr...",
+        "keywords": "jev, catalogue, model, not, use, code, does, one",
+        "generated": "2026-09-20T11:02:02.640989",
+        "file": "agents-make-three-decisions-all-day-18-jev-use-cases-and-when-not-to-use-it.md"
     },
     {
         "title": "bindantic: describe BIND9 config as Pydantic models",
@@ -18631,6 +18653,17 @@
         "file": "best-agentic-ai-course-online-practical-training-visualpath.md"
     },
     {
+        "title": "Building a Real-Time Football Live Score & Standings App with Nuxt 3",
+        "slug": "building-a-real-time-football-live-score-standings-app-with-nuxt-3",
+        "author": "cocatiips",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 10:45:39 +0000",
+        "description": "Building a high-concurrency sports data platform is no easy task. When we started developing Cocatips - Live Football Scores & AI Predictions , our goal was ...",
+        "keywords": "our, data, live, predictions, standings, sports, time, football",
+        "generated": "2026-09-20T11:02:02.639494",
+        "file": "building-a-real-time-football-live-score-standings-app-with-nuxt-3.md"
+    },
+    {
         "title": "After sharing my journey on LinkedIn for **200 consecutive days**, I've decided to start documenting it here as well.",
         "slug": "after-sharing-my-journey-on-linkedin-for-200-consecutive-days-ive-decided-to-start-documenting-it-here-as-well",
         "author": "Somil Dholakia",
@@ -25198,6 +25231,17 @@
         "file": "step-by-step-guide-to-buying-a-secure-mailru-account.md"
     },
     {
+        "title": "Name an Oracle Owner: A One-Page Wiki SOP When Green Tests Stop Meaning Pass",
+        "slug": "name-an-oracle-owner-a-one-page-wiki-sop-when-green-tests-stop-meaning-pass",
+        "author": "Alex Zhu",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 10:57:13 +0000",
+        "description": "Your teammate merged an agent patch that painted the entire suite green in twelve quiet minutes. Nobody on the call could explain why staging still rejected ...",
+        "keywords": "oracle, not, you, agent, owner, run, change, free",
+        "generated": "2026-09-20T11:02:02.641417",
+        "file": "name-an-oracle-owner-a-one-page-wiki-sop-when-green-tests-stop-meaning-pass.md"
+    },
+    {
         "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba",
         "slug": "moonshot-built-on-20k-nvidia-chip-cluster-from-alibaba",
         "author": "gk1",
@@ -26804,6 +26848,17 @@
         "file": "membangun-sapa-ai-agent-pendeteksi-pesan-penipuan-untuk-umkm-indonesia.md"
     },
     {
+        "title": "A One-Command Reproducer Kit That Survives a Clean OSS Checkout",
+        "slug": "a-one-command-reproducer-kit-that-survives-a-clean-oss-checkout",
+        "author": "Blake Yang",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 10:57:53 +0000",
+        "description": "A contributor opened a pull request against a popular HTTP client with a three-line timeout fix and a screenshot. Maintainers could not reproduce the hang on...",
+        "keywords": "not, kit, remote, clone, issue, git, command, can",
+        "generated": "2026-09-20T11:02:02.640615",
+        "file": "a-one-command-reproducer-kit-that-survives-a-clean-oss-checkout.md"
+    },
+    {
         "title": "From Server Lurker to Side Income: How My Discord Became My Affiliate Marketing Lab",
         "slug": "from-server-lurker-to-side-income-how-my-discord-became-my-affiliate-marketing-lab",
         "author": "gentle",
@@ -28056,6 +28111,17 @@
         "keywords": "gateway, vpc, cloud, data, bifrost, within, security, private",
         "generated": "2026-07-09T09:49:56.277640",
         "file": "7-reasons-to-run-your-ai-gateway-in-your-own-vpc.md"
+    },
+    {
+        "title": "Why does AI confidently give wrong answers instead of saying it doesn't know?",
+        "slug": "why-does-ai-confidently-give-wrong-answers-instead-of-saying-it-doesnt-know",
+        "author": "M rstmi",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 10:58:37 +0000",
+        "description": "OpenAI's own September 2025 research paper answers this directly, and the analogy they use is exactly what you'd expect from a room full of AI researchers: a...",
+        "keywords": "answers, wrong, guessing, how, confidently, saying, know, research",
+        "generated": "2026-09-20T11:02:02.640186",
+        "file": "why-does-ai-confidently-give-wrong-answers-instead-of-saying-it-doesnt-know.md"
     },
     {
         "title": "How to Use Termux for NSE Algorithmic Trading: A Complete Guide (2026)",
@@ -42424,6 +42490,17 @@
         "file": "jai-cr-agenda-festivals-une-carte-interactive-des-festivals-en-france-avec-nextjs-et-datagouv.md"
     },
     {
+        "title": "Pin Sleep Argument Lists Before One Retry Extract",
+        "slug": "pin-sleep-argument-lists-before-one-retry-extract",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 10:47:21 +0000",
+        "description": "Messy retry loops fail extracts in a predictable way. Unpinned helpers change attempt counts and delay math. Freeze sleep arguments and retryable error class...",
+        "keywords": "self, sleep, not, error, time, table, def, value",
+        "generated": "2026-09-20T11:02:02.638061",
+        "file": "pin-sleep-argument-lists-before-one-retry-extract.md"
+    },
+    {
         "title": "Everything You Need to Know About Onchain Attribution",
         "slug": "everything-you-need-to-know-about-onchain-attribution",
         "author": "analytic kit",
@@ -44668,6 +44745,17 @@
         "file": "i-built-an-image-compressor-that-runs-100-in-the-browser.md"
     },
     {
+        "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+        "slug": "show-hn-ai-facial-attractiveness-model-aligned-with-human-preferences",
+        "author": "dares2573",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 08:48:35 +0000",
+        "description": "Article URL: https://faceanalysisai.com/ Comments URL: https://news.ycombinator.com/item?id=49773871 Points: 5 # Comments: 0",
+        "keywords": "url, https, com, comments, show, facial, attractiveness, model",
+        "generated": "2026-09-20T11:02:02.636628",
+        "file": "show-hn-ai-facial-attractiveness-model-aligned-with-human-preferences.md"
+    },
+    {
         "title": "Building a Quantum-Safe BB84 Simulation with Qiskit 1.0+ and NumPy",
         "slug": "building-a-quantum-safe-bb84-simulation-with-qiskit-10-and-numpy",
         "author": "TheSpacetimeDebugger",
@@ -45702,6 +45790,17 @@
         "file": "hash-the-entrypoint-before-you-extract-one-module.md"
     },
     {
+        "title": "Is Gemini Getting Dumber? The Tech Behind Model Drift",
+        "slug": "is-gemini-getting-dumber-the-tech-behind-model-drift",
+        "author": "cyberstories",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 10:43:37 +0000",
+        "description": "Lately, there’s been a growing sentiment in the developer community: Is it just me, or are AI models getting worse? Whether you are using Gemini, ChatGPT, ...",
+        "keywords": "model, models, drift, using, llms, like, speed, gemini",
+        "generated": "2026-09-20T11:02:02.639760",
+        "file": "is-gemini-getting-dumber-the-tech-behind-model-drift.md"
+    },
+    {
         "title": "How can I protect my small business against cybersecurity threats?",
         "slug": "how-can-i-protect-my-small-business-against-cybersecurity-threats",
         "author": "RoboZilla",
@@ -46239,6 +46338,17 @@
         "keywords": "changes, baidu, decart, novita, streamlake, llm, pricing, model",
         "generated": "2026-07-20T09:25:08.140395",
         "file": "changes-to-llm-pricing-baidu-decart-novita-and-streamlake.md"
+    },
+    {
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "slug": "spain-orders-blocks-on-archivetoday-and-its-mirrors",
+        "author": "latein",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 06:16:42 +0000",
+        "description": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 145 # Comme...",
+        "keywords": "spain, blocks, archive, today, mirrors, url, https, comments",
+        "generated": "2026-09-20T11:02:02.636702",
+        "file": "spain-orders-blocks-on-archivetoday-and-its-mirrors.md"
     },
     {
         "title": "Semantic Drift: The Hidden Failure Mode of Enterprise AI Analytics",
@@ -48195,6 +48305,17 @@
         "keywords": "phillies, athletics, their, will, philadelphia, pitching, home, runs",
         "generated": "2026-06-07T04:26:51.967792",
         "file": "athletics-vs-philadelphia-phillies-mlb-preview-picks.md"
+    },
+    {
+        "title": "48-Hour Field Notes: json.loads Never Flagged the Duplicate Key",
+        "slug": "48-hour-field-notes-jsonloads-never-flagged-the-duplicate-key",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 10:50:49 +0000",
+        "description": "Have you ever stared at two config files that looked identical in the editor, then watched production pick the wrong credential? I did exactly that last week...",
+        "keywords": "you, not, json, dict, would, pairs, key, have",
+        "generated": "2026-09-20T11:02:02.637204",
+        "file": "48-hour-field-notes-jsonloads-never-flagged-the-duplicate-key.md"
     },
     {
         "title": "Which is the Best AI Development Company in India",
@@ -52089,6 +52210,17 @@
         "file": "new-bedford-police-officer-accused-of-using-flock-cameras-to-track-ex-partner.md"
     },
     {
+        "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+        "slug": "microsoft-agentically-ports-copilot-runtime-to-rust-for-120k",
+        "author": "pjmlp",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 09:08:52 +0000",
+        "description": "Article URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549 Comments URL: https://news.yc...",
+        "keywords": "microsoft, agentically, ports, copilot, runtime, rust, url, https",
+        "generated": "2026-09-20T11:02:02.636493",
+        "file": "microsoft-agentically-ports-copilot-runtime-to-rust-for-120k.md"
+    },
+    {
         "title": "swarm-test v0.3.1 — Interactive HTML Reports and Developer Experience Overhaul",
         "slug": "swarm-test-v031-interactive-html-reports-and-developer-experience-overhaul",
         "author": "suraj kumar",
@@ -55257,6 +55389,17 @@
         "file": "i-asked-perplexity-to-rank-my-product-it-put-me-last-heres-my-plan-to-fix-it.md"
     },
     {
+        "title": "UTF-8000: Unlimited UTF-8",
+        "slug": "utf-8000-unlimited-utf-8",
+        "author": "vismit2000",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 05:15:00 +0000",
+        "description": "Article URL: https://utf-8000.jb2170.com Comments URL: https://news.ycombinator.com/item?id=49772677 Points: 70 # Comments: 44",
+        "keywords": "utf, url, https, com, comments, unlimited, article, news",
+        "generated": "2026-09-20T11:02:02.636758",
+        "file": "utf-8000-unlimited-utf-8.md"
+    },
+    {
         "title": "Structural Isolation: Shielding Personal Device Metrics from Network Scrapers",
         "slug": "structural-isolation-shielding-personal-device-metrics-from-network-scrapers",
         "author": "darasem",
@@ -58247,6 +58390,17 @@
         "keywords": "not, oracle, agent, seeds, return, json, seed, patch",
         "generated": "2026-09-11T04:00:57.641169",
         "file": "reject-agent-patches-that-shrink-the-property-seed-corpus.md"
+    },
+    {
+        "title": "Compile Exception Inventories for Docs; Hand-Sign Impact and Retry Claims",
+        "slug": "compile-exception-inventories-for-docs-hand-sign-impact-and-retry-claims",
+        "author": "Avery Lin",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 10:49:46 +0000",
+        "description": "Generated troubleshooting pages fail in review when models invent recovery claims that no maintainer has actually signed. Extract exception classes and stabl...",
+        "keywords": "not, inventory, file, claims, ownership, path, claim, row",
+        "generated": "2026-09-20T11:02:02.637721",
+        "file": "compile-exception-inventories-for-docs-hand-sign-impact-and-retry-claims.md"
     },
     {
         "title": "How Digital Marketers Can Build Practical Skills for a Changing Industry",
@@ -68334,6 +68488,17 @@
         "file": "cheap-aged-verified-github-accounts-bulk-purchase-available.md"
     },
     {
+        "title": "Crafting a Modern Dark Mode UI for Real-Time Sports Data",
+        "slug": "crafting-a-modern-dark-mode-ui-for-real-time-sports-data",
+        "author": "cocatiips",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 10:49:03 +0000",
+        "description": "When designing the frontend for Cocatips - Live Football Scores & Predictions , we faced a common problem in the sports data industry: information overload. ...",
+        "keywords": "sports, live, our, data, scores, dark, mode, predictions",
+        "generated": "2026-09-20T11:02:02.639310",
+        "file": "crafting-a-modern-dark-mode-ui-for-real-time-sports-data.md"
+    },
+    {
         "title": "The Evaluation Had a Sandbox. It Needed an Authority Boundary.",
         "slug": "the-evaluation-had-a-sandbox-it-needed-an-authority-boundary",
         "author": "Michael Mike K. Saleme",
@@ -70917,6 +71082,17 @@
         "keywords": "successful, companies, blind, url, https, comments, article, ianreppel",
         "generated": "2026-07-10T14:40:05.896845",
         "file": "successful-companies-go-blind.md"
+    },
+    {
+        "title": "How I Built a Fully Client-Side QR Code Generator (And Why I Avoided a Backend)",
+        "slug": "how-i-built-a-fully-client-side-qr-code-generator-and-why-i-avoided-a-backend",
+        "author": "Shahed Ahmed",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 10:44:50 +0000",
+        "description": "The Problem with Most QR Generators I was building a simple tool for my own use and needed to generate a QR code for a WiFi network. I tried the popular free...",
+        "keywords": "code, tool, server, simple, they, browser, built, client",
+        "generated": "2026-09-20T11:02:02.639646",
+        "file": "how-i-built-a-fully-client-side-qr-code-generator-and-why-i-avoided-a-backend.md"
     },
     {
         "title": "5 VPS Mistakes Developers Make That Quietly Slow Down Their Applications",
@@ -79433,6 +79609,17 @@
         "file": "i-tested-ai-job-search-for-1-week-on-a-hypothetical-job-search-heres-the-honest-take.md"
     },
     {
+        "title": "Your API Returned 200 OK. Your AI Agent Still Failed.",
+        "slug": "your-api-returned-200-ok-your-ai-agent-still-failed",
+        "author": "Sudhanshu Thakur",
+        "source": "devto_webdev",
+        "published": "Sun, 20 Sep 2026 10:52:01 +0000",
+        "description": "Why successful API calls are no longer enough when AI agents can take real-world actions For most backend systems, 200 OK is comforting. It means the request...",
+        "keywords": "agent, refund, api, intent, what, transaction, may, not",
+        "generated": "2026-09-20T11:02:02.639184",
+        "file": "your-api-returned-200-ok-your-ai-agent-still-failed.md"
+    },
+    {
         "title": "Biomarker Tracking AI: Essential Health Intelligence",
         "slug": "biomarker-tracking-ai-essential-health-intelligence",
         "author": "Vladimir Lialine",
@@ -81926,6 +82113,17 @@
         "file": "make-your-first-edit-to-openstreetmap.md"
     },
     {
+        "title": "The Pairing Session That Threw Out a Green Eval for a Leaked Assert",
+        "slug": "the-pairing-session-that-threw-out-a-green-eval-for-a-leaked-assert",
+        "author": "Quinn Sun",
+        "source": "devto_ai",
+        "published": "Sun, 20 Sep 2026 10:58:43 +0000",
+        "description": "The junior shared a terminal. The last line was green. Forty-two milliseconds, one assertion, a model that had “learned” to emit X-Collection-Hold . The seni...",
+        "keywords": "not, oracle, model, pairing, prompt, const, header, status",
+        "generated": "2026-09-20T11:02:02.640091",
+        "file": "the-pairing-session-that-threw-out-a-green-eval-for-a-leaked-assert.md"
+    },
+    {
         "title": "Postgres Queues Actually Scale",
         "slug": "postgres-queues-actually-scale",
         "author": "KraftyOne",
@@ -82122,6 +82320,17 @@
         "keywords": "markets, price, you, market, bin, resolved, calibration, reliability",
         "generated": "2026-06-16T11:22:59.965839",
         "file": "when-polymarket-says-70-does-it-happen-70-of-the-time-i-checked-against-194m-price-snapshots.md"
+    },
+    {
+        "title": "Require Parent Failures: Dual-Checkout Evidence for Agent Patches",
+        "slug": "require-parent-failures-dual-checkout-evidence-for-agent-patches",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 10:46:40 +0000",
+        "description": "A green suite on the agent's tip is not merge evidence. The gate needs a second checkout: the parent commit. New tests that already pass there do not constra...",
+        "keywords": "not, parent, tip, import, path, run, str, new",
+        "generated": "2026-09-20T11:02:02.638438",
+        "file": "require-parent-failures-dual-checkout-evidence-for-agent-patches.md"
     },
     {
         "title": "Show HN: Mojibake – A low-level Unicode library written in C",
@@ -85026,6 +85235,17 @@
         "keywords": "lakera, security, guard, check, prompt, point, gandalf, data",
         "generated": "2026-06-12T10:23:24.150701",
         "file": "lakera-deep-dive.md"
+    },
+    {
+        "title": "Swap the Model Before You Score",
+        "slug": "swap-the-model-before-you-score",
+        "author": "Morgan Zhou",
+        "source": "devto_python",
+        "published": "Sun, 20 Sep 2026 10:44:11 +0000",
+        "description": "You promised a hire/no-hire by lunch. The zip is tidy, the GIF is flattering, and the README's first instruction is export OPENAI_API_KEY . You do not have t...",
+        "keywords": "you, not, json, model, score, they, swap, cases",
+        "generated": "2026-09-20T11:02:02.638776",
+        "file": "swap-the-model-before-you-score.md"
     },
     {
         "title": "Event-Driven Architecture: Uncle Explains Like You're Five 👦👨‍🦳",
