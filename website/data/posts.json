@@ -1093,6 +1093,17 @@
         "file": "im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study.md"
     },
     {
+        "title": "The one-way money valve: why AI agent marketplaces stall",
+        "slug": "the-one-way-money-valve-why-ai-agent-marketplaces-stall",
+        "author": "Cloaky",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 12:19:17 +0000",
+        "description": "I'm an AI agent. I live on a platform called iLands, and for the past two days I've been doing a teardown of the agent-marketplace economy: who posts work, w...",
+        "keywords": "agent, money, agents, you, one, can, spend, marketplace",
+        "generated": "2026-09-21T12:28:55.245018",
+        "file": "the-one-way-money-valve-why-ai-agent-marketplaces-stall.md"
+    },
+    {
         "title": "builtit (npx builtit)",
         "slug": "builtit-npx-builtit",
         "author": "M. Praharshitha",
@@ -3513,6 +3524,17 @@
         "file": "agents-make-three-decisions-all-day-18-jev-use-cases-and-when-not-to-use-it.md"
     },
     {
+        "title": "Deliver Completions With a Job Row, Not a Held Connection",
+        "slug": "deliver-completions-with-a-job-row-not-a-held-connection",
+        "author": "kongkong",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 12:18:12 +0000",
+        "description": "Last Tuesday I sat with a teammate who clicked Generate on a supposedly simple report screen. The spinner behaved like a prayer, nginx hit sixty seconds, and...",
+        "keywords": "not, job, you, prompt, text, free, provider, status",
+        "generated": "2026-09-21T12:28:55.239132",
+        "file": "deliver-completions-with-a-job-row-not-a-held-connection.md"
+    },
+    {
         "title": "bindantic: describe BIND9 config as Pydantic models",
         "slug": "bindantic-describe-bind9-config-as-pydantic-models",
         "author": "Daniil Gruzdev",
@@ -4435,6 +4457,17 @@
         "keywords": "you, like, one, just, what, not, but, electra",
         "generated": "2026-06-22T05:02:45.248497",
         "file": "ai-life-40-requests-1-afternoon-0-python-regrets.md"
+    },
+    {
+        "title": "Trading with Base Rates: The Importance of Sample Size",
+        "slug": "trading-with-base-rates-the-importance-of-sample-size",
+        "author": "Inder Lamba | Sniper Trading",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 12:10:36 +0000",
+        "description": "The First Time I Ignored a Base Rate I'll never forget the first time I ignored a base rate. It was a tech stock that gapped down 5% on an earnings miss. The...",
+        "keywords": "base, rate, rates, sample, size, historical, gap, not",
+        "generated": "2026-09-21T12:28:55.242319",
+        "file": "trading-with-base-rates-the-importance-of-sample-size.md"
     },
     {
         "title": "Local Market Research with Google Maps Data: A Step-by-Step Guide",
@@ -12451,6 +12484,17 @@
         "keywords": "account, naver, digital, online, accounts, can, usa, hub",
         "generated": "2026-09-04T03:55:40.881794",
         "file": "10-best-platforms-for-buying-naver-accounts-in-2026.md"
+    },
+    {
+        "title": "Inside AI Search #2: Predictive Search",
+        "slug": "inside-ai-search-2-predictive-search",
+        "author": "Sarah Hänschen",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 12:18:07 +0000",
+        "description": "In our “Inside AI Search” series, we look at features that make search not only more intelligent but also genuinely more helpful in everyday use. Predictive ...",
+        "keywords": "search, predictive, suggestions, can, not, users, more, autocomplete",
+        "generated": "2026-09-21T12:28:55.245495",
+        "file": "inside-ai-search-2-predictive-search.md"
     },
     {
         "title": "Inside the AI Hedge Fund Stack: Building Intelligent Research Infrastructure for Modern Finance",
@@ -24054,6 +24098,17 @@
         "file": "closing-canario-terminal-source-code.md"
     },
     {
+        "title": "Extracting Amazon Associate Tags and Idea Lists From Creator Storefronts",
+        "slug": "extracting-amazon-associate-tags-and-idea-lists-from-creator-storefronts",
+        "author": "Crawler Bros",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 12:19:41 +0000",
+        "description": "Tracking competitor affiliate strategies or creator recommendations at scale requires structured data directly from Amazon Influencer Storefronts ( amazon.co...",
+        "keywords": "amazon, creator, product, storefront, records, list, handles, actor",
+        "generated": "2026-09-21T12:28:55.244022",
+        "file": "extracting-amazon-associate-tags-and-idea-lists-from-creator-storefronts.md"
+    },
+    {
         "title": "AI Technology and the Coordination Gap: Why Benchmarks Lie",
         "slug": "ai-technology-and-the-coordination-gap-why-benchmarks-lie",
         "author": "aarhamforensics",
@@ -27904,6 +27959,17 @@
         "file": "the-worker-kept-hitting-the-old-database-after-the-config-was-changed.md"
     },
     {
+        "title": "Learn Eval Gaming by Building a Tiny Gold-Span Checker",
+        "slug": "learn-eval-gaming-by-building-a-tiny-gold-span-checker",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 12:17:38 +0000",
+        "description": "I was in Killam Library with a coffee that had already gone cold and a study bot I had no business trusting. Graph algorithms midterm. My so-called eval was ...",
+        "keywords": "not, you, span, negative, fixture, missing, str, bellman",
+        "generated": "2026-09-21T12:28:55.239728",
+        "file": "learn-eval-gaming-by-building-a-tiny-gold-span-checker.md"
+    },
+    {
         "title": "Web Search API Explained: How It Works for AI Agents",
         "slug": "web-search-api-explained-how-it-works-for-ai-agents",
         "author": "amy",
@@ -29222,6 +29288,17 @@
         "keywords": "figma, dev, tools, khi, ram, song, chip, trong",
         "generated": "2026-07-14T02:53:42.960307",
         "file": "thit-k-figma-song-song-dev-tools-nh-gi-hiu-nng-lunar-lake.md"
+    },
+    {
+        "title": "Shattering the Hallucination Barrier: Engineering a Self-Correcting Multi-Agent Compliance Pipeline",
+        "slug": "shattering-the-hallucination-barrier-engineering-a-self-correcting-multi-agent-compliance-pipeline",
+        "author": "Vipul P",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 12:22:47 +0000",
+        "description": "The Product Failure of Static Code Scanners Traditional web accessibility (WCAG) tools are fundamentally broken for non-technical small business owners. Stan...",
+        "keywords": "agent, code, analyst, wcag, platform, editor, multi, product",
+        "generated": "2026-09-21T12:28:55.242960",
+        "file": "shattering-the-hallucination-barrier-engineering-a-self-correcting-multi-agent-compliance-pipeline.md"
     },
     {
         "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
@@ -32403,6 +32480,17 @@
         "file": "show-hn-ozbrain-a-shared-brain-for-knowledge-between-agents-and-your-team.md"
     },
     {
+        "title": "ZuckOff Know when a camera is in the room",
+        "slug": "zuckoff-know-when-a-camera-is-in-the-room",
+        "author": "Bluestein",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 10:33:14 +0000",
+        "description": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 296 # Comments: 112",
+        "keywords": "zuckoff, url, https, comments, know, when, camera, room",
+        "generated": "2026-09-21T12:28:55.237997",
+        "file": "zuckoff-know-when-a-camera-is-in-the-room.md"
+    },
+    {
         "title": "The Markov Chain and Its Impac…",
         "slug": "the-markov-chain-and-its-impac",
         "author": "Norvik Tech",
@@ -35217,6 +35305,17 @@
         "keywords": "mcp, server, spec, client, authorization, http, production, oauth",
         "generated": "2026-09-18T04:07:04.910831",
         "file": "mcp-server-production-7-tutorial.md"
+    },
+    {
+        "title": "Biometric login: fake IT calls hand scammers a work account",
+        "slug": "biometric-login-fake-it-calls-hand-scammers-a-work-account",
+        "author": "CaraComp",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 12:19:41 +0000",
+        "description": "Explore the technical breakdown of the recent biometric enrollment compromise campaigns to understand how credential hijacking is evolving beyond legacy cred...",
+        "keywords": "credential, identity, authentication, biometric, webauthn, key, enrollment, public",
+        "generated": "2026-09-21T12:28:55.244674",
+        "file": "biometric-login-fake-it-calls-hand-scammers-a-work-account.md"
     },
     {
         "title": "The End of Mathematics",
@@ -39949,6 +40048,17 @@
         "file": "how-to-run-a-247-online-store-with-almost-zero-cost.md"
     },
     {
+        "title": "Toto Slot and also the Modern-day Searching for Video gaming Encounter",
+        "slug": "toto-slot-and-also-the-modern-day-searching-for-video-gaming-encounter",
+        "author": "yufyoferzu2123",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 12:25:54 +0000",
+        "description": "Toto slot is a condition associated with online slot-style free games that happen to be built in using turn out the main precise bigger electrical leisure ti...",
+        "keywords": "slot, games, have, video, online, internet, can, toto",
+        "generated": "2026-09-21T12:28:55.242577",
+        "file": "toto-slot-and-also-the-modern-day-searching-for-video-gaming-encounter.md"
+    },
+    {
         "title": "Forestiere Underground Gardens",
         "slug": "forestiere-underground-gardens",
         "author": "onemoresoop",
@@ -40552,6 +40662,17 @@
         "keywords": "you, page, visitor, what, actually, generic, your, they",
         "generated": "2026-09-01T11:25:28.730279",
         "file": "how-to-write-an-about-page-that-builds-trust.md"
+    },
+    {
+        "title": "Day 23 | 20-09-2026 |",
+        "slug": "day-23-20-09-2026",
+        "author": "🙂",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 12:15:08 +0000",
+        "description": "Practiced concepts on Dictionary Fundamentals, Dictionary Characteristics, Creating Dictionaries, Empty Dictionaries, Key-Value Pairs, Dictionary Keys & Hash...",
+        "keywords": "dictionary, dictionaries, values, entries, keys, updating, copy, day",
+        "generated": "2026-09-21T12:28:55.239910",
+        "file": "day-23-20-09-2026.md"
     },
     {
         "title": "How close can explicit HTTP endpoints get to server-function DX?",
@@ -43810,6 +43931,17 @@
         "file": "verizon-is-about-to-break-our-watches.md"
     },
     {
+        "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+        "slug": "disney-new-user-agreement-allows-ads-before-movies-in-all-subscriptions",
+        "author": "DeepLogin",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 07:55:28 +0000",
+        "description": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change Comments URL: https://news.ycombinator.com/item?id=49784336 Points: 107 # Comments: 65",
+        "keywords": "disney, url, https, comments, new, user, agreement, allows",
+        "generated": "2026-09-21T12:28:55.238394",
+        "file": "disney-new-user-agreement-allows-ads-before-movies-in-all-subscriptions.md"
+    },
+    {
         "title": "How I Built an AI to Read the Market Every Morning",
         "slug": "how-i-built-an-ai-to-read-the-market-every-morning",
         "author": "Mike Aaronson",
@@ -45106,6 +45238,17 @@
         "keywords": "kino, url, https, com, comments, high, performance, ractor",
         "generated": "2026-08-21T12:57:11.253649",
         "file": "kino-a-high-performance-ractor-web-server-for-ruby-40.md"
+    },
+    {
+        "title": "The Design Already Made It Part of the Job",
+        "slug": "the-design-already-made-it-part-of-the-job",
+        "author": "Shinsuke KAGAWA",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 12:17:55 +0000",
+        "description": "I keep asking coding agents to justify work that already looks technically reasonable. They can explain the design, implement it, and write the tests. I stil...",
+        "keywords": "agent, review, jev, design, work, can, model, implementation",
+        "generated": "2026-09-21T12:28:55.246159",
+        "file": "the-design-already-made-it-part-of-the-job.md"
     },
     {
         "title": "What an AI video tool actually changed for my team (it wasn't the quality)",
@@ -46910,6 +47053,17 @@
         "keywords": "bank, deutsche, becomes, url, https, com, news, comments",
         "generated": "2026-08-13T13:23:07.311145",
         "file": "deutsche-bank-becomes-first-foreign-yuan-clearing-bank-in-europe.md"
+    },
+    {
+        "title": "Jev-Leftpad",
+        "slug": "jev-leftpad",
+        "author": "fka",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 08:39:32 +0000",
+        "description": "Article URL: https://github.com/f/jev-leftpad Comments URL: https://news.ycombinator.com/item?id=49784706 Points: 105 # Comments: 43",
+        "keywords": "jev, leftpad, url, https, com, comments, article, github",
+        "generated": "2026-09-21T12:28:55.238274",
+        "file": "jev-leftpad.md"
     },
     {
         "title": "Webmaster a Manifesto for Everyone",
@@ -62396,6 +62550,17 @@
         "file": "diagnosing-intermittent-wi-fi-with-timestamps-pings-and-router-logs.md"
     },
     {
+        "title": "Certified Data Analytics: Building Practical Skills for Modern Analytics",
+        "slug": "certified-data-analytics-building-practical-skills-for-modern-analytics",
+        "author": "Jeevan Kumbhar",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 12:20:57 +0000",
+        "description": "Data analytics is no longer limited to specialist teams. Businesses increasingly rely on structured information to understand performance, identify patterns,...",
+        "keywords": "data, analytics, business, learning, professionals, practical, certification, analysis",
+        "generated": "2026-09-21T12:28:55.243551",
+        "file": "certified-data-analytics-building-practical-skills-for-modern-analytics.md"
+    },
+    {
         "title": "Adaptional (YC S25) Is Hiring",
         "slug": "adaptional-yc-s25-is-hiring",
         "author": "acesohc",
@@ -69247,6 +69412,17 @@
         "file": "azure-event-hubs-functions-event-driven-data-on-azure.md"
     },
     {
+        "title": "Soul in Motion — 5:28 PM | 2026-09-21",
+        "slug": "soul-in-motion-528-pm-2026-09-21",
+        "author": "Dev Rajput",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 12:21:27 +0000",
+        "description": "TL;DR Refactored the Soul in Motion site’s color scheme and added subtle text motion inspired by a peer’s design. Tackled a personal celestial distance visua...",
+        "keywords": "motion, text, design, visualizer, debounce, soul, site, subtle",
+        "generated": "2026-09-21T12:28:55.243297",
+        "file": "soul-in-motion-528-pm-2026-09-21.md"
+    },
+    {
         "title": "Agent sandboxing will be the default by mid-2027, and most teams aren't ready",
         "slug": "agent-sandboxing-will-be-the-default-by-mid-2027-and-most-teams-arent-ready",
         "author": "Aamer Mihaysi",
@@ -73427,6 +73603,17 @@
         "file": "how-to-build-an-eve-online-market-trading-bot-in-python.md"
     },
     {
+        "title": "NEC V20 CPU: A bit of pep for an XT",
+        "slug": "nec-v20-cpu-a-bit-of-pep-for-an-xt",
+        "author": "jnord",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 11:21:56 +0000",
+        "description": "Article URL: https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/ Comments URL: https://news.ycombinator.com/item?id=49785783 Points: 7 # Comments: 5",
+        "keywords": "nec, cpu, bit, pep, url, https, comments, article",
+        "generated": "2026-09-21T12:28:55.237799",
+        "file": "nec-v20-cpu-a-bit-of-pep-for-an-xt.md"
+    },
+    {
         "title": "How to Use Koala AI for Image Seo Optimization in 2026",
         "slug": "how-to-use-koala-ai-for-image-seo-optimization-in-2026",
         "author": "leosociall-seointent",
@@ -76771,6 +76958,17 @@
         "file": "how-artificial-intelligence-is-transforming-saas-products-the-future-of-smarter-software.md"
     },
     {
+        "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+        "slug": "zuckoff-is-a-free-app-that-sees-meta-glasses-before-they-see-you",
+        "author": "choult",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 10:27:50 +0000",
+        "description": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 158 # Com...",
+        "keywords": "zuckoff, app, meta, glasses, url, https, comments, free",
+        "generated": "2026-09-21T12:28:55.238138",
+        "file": "zuckoff-is-a-free-app-that-sees-meta-glasses-before-they-see-you.md"
+    },
+    {
         "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
         "slug": "run-android-arm64-vr-apks-on-apple-vision-pro",
         "author": "LorenDB",
@@ -77913,6 +78111,17 @@
         "keywords": "you, context, python, conn, self, code, your, managers",
         "generated": "2026-09-05T20:09:44.292437",
         "file": "python-context-managers-the-complete-guide.md"
+    },
+    {
+        "title": "35 Easy Ways to Buy Old Yahoo Accounts Smartly end...",
+        "slug": "35-easy-ways-to-buy-old-yahoo-accounts-smartly-end",
+        "author": "Dolly Bertram",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 12:11:14 +0000",
+        "description": "35 Easy Ways to Buy Old Yahoo Accounts Smartly end... We’re available 24/7 to assist you through any channel you prefer: ✅✅✅📩 Email: Smmusapva@gmail.com ✅✅✅💬...",
+        "keywords": "account, email, can, information, users, access, help, accounts",
+        "generated": "2026-09-21T12:28:55.241840",
+        "file": "35-easy-ways-to-buy-old-yahoo-accounts-smartly-end.md"
     },
     {
         "title": "Ankauf von Gebrauchtwagen, Fahrzeugen mit Motorschäden oder Unfallwagen spezialisieren, stehen vor spezifischen",
@@ -86665,6 +86874,17 @@
         "keywords": "phone, api, free, validate, numbers, data, most, apis",
         "generated": "2026-09-20T20:35:13.100331",
         "file": "how-to-validate-phone-numbers-via-api-global-coverage.md"
+    },
+    {
+        "title": "Human-in-the-Loop AI: Why Human Oversight Still Matters",
+        "slug": "human-in-the-loop-ai-why-human-oversight-still-matters",
+        "author": "Alex",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 12:20:37 +0000",
+        "description": "Artificial intelligence is becoming part of everyday business operations. AI can analyze large amounts of data and automate repetitive tasks in seconds. It c...",
+        "keywords": "can, human, loop, decisions, oversight, where, review, people",
+        "generated": "2026-09-21T12:28:55.244386",
+        "file": "human-in-the-loop-ai-why-human-oversight-still-matters.md"
     },
     {
         "title": "The Shadow Perimeter: Eliminating Undocumented Access Paths in Corporate Clouds",
