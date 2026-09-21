@@ -3359,6 +3359,17 @@
         "file": "abstract-api-vat-alternative-eurovalidate-vat-api.md"
     },
     {
+        "title": "Label Created is not a location: modeling the pre-transit gap in shipment tracking",
+        "slug": "label-created-is-not-a-location-modeling-the-pre-transit-gap-in-shipment-tracking",
+        "author": "24hTrack",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 04:12:57 +0000",
+        "description": "If you build anything that shows shipment status to end users — an order page, a Slack alert, a support dashboard — the single most common complaint you will...",
+        "keywords": "carrier, days, received, label, has, created, first, not",
+        "generated": "2026-09-21T04:21:01.282510",
+        "file": "label-created-is-not-a-location-modeling-the-pre-transit-gap-in-shipment-tracking.md"
+    },
+    {
         "title": "How to Automate Customer Support With AI Agents: The Stack That Cut Response Time 73%",
         "slug": "how-to-automate-customer-support-with-ai-agents-the-stack-that-cut-response-time-73",
         "author": "aarhamforensics",
@@ -3544,6 +3555,17 @@
         "keywords": "security, cyber, threat, source, philippines, philippine, attacks, data",
         "generated": "2026-07-25T03:16:45.367942",
         "file": "philippine-cyber-threats-doubled-in-h1-2026-as-ai-powered-attacks-reshape-the-battlefield.md"
+    },
+    {
+        "title": "Claim Bench — an agent may extract, only a person can stamp",
+        "slug": "claim-bench-an-agent-may-extract-only-a-person-can-stamp",
+        "author": "Nakabiri Knolz",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 04:18:31 +0000",
+        "description": "This is a submission for the Sanity Challenge , Path Two: Vibe-Code Something Strange What I Built Claim Bench is the editor side of CabinClaim. It is not an...",
+        "keywords": "agent, bench, claim, app, two, state, path, not",
+        "generated": "2026-09-21T04:21:01.281458",
+        "file": "claim-bench-an-agent-may-extract-only-a-person-can-stamp.md"
     },
     {
         "title": "Benchmarking Serverless GPUs: Modal vs RunPod vs Replicate Cold Starts (2026)",
@@ -4239,6 +4261,17 @@
         "file": "trelix-v10-to-v27-when-it-works-meets-it-scales.md"
     },
     {
+        "title": "Bypassing Unsplash Search Limits with Topic and Collection Scraping",
+        "slug": "bypassing-unsplash-search-limits-with-topic-and-collection-scraping",
+        "author": "Crawler Bros",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 04:02:31 +0000",
+        "description": "Building image ingestion pipelines for computer vision datasets, UI placeholder generators, or digital asset catalogs usually starts with a search for royalt...",
+        "keywords": "photo, unsplash, actor, item, per, api, your, run",
+        "generated": "2026-09-21T04:21:01.279216",
+        "file": "bypassing-unsplash-search-limits-with-topic-and-collection-scraping.md"
+    },
+    {
         "title": "Less Is More: Why Audio on SoundCloud Looks Different",
         "slug": "less-is-more-why-audio-on-soundcloud-looks-different",
         "author": "1317",
@@ -4468,6 +4501,17 @@
         "keywords": "logicola, url, https, comments, reverse, engineering, logic, drill",
         "generated": "2026-09-08T16:23:34.868965",
         "file": "reverse-engineering-the-2008-logicola-a-logic-drill-program.md"
+    },
+    {
+        "title": "How to scrape local business leads with MX-verified emails in Python",
+        "slug": "how-to-scrape-local-business-leads-with-mx-verified-emails-in-python",
+        "author": "Zakaria Blefkih",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 03:37:10 +0000",
+        "description": "Building a table of local business leads usually means chaining several tools: one to discover the businesses in a city, one to find each business's website,...",
+        "keywords": "email, run, business, rows, website, leads, one, readme",
+        "generated": "2026-09-21T04:21:01.280874",
+        "file": "how-to-scrape-local-business-leads-with-mx-verified-emails-in-python.md"
     },
     {
         "title": "No Backtesting Needed! I Punched My Hypothesis's Heart Directly with Raw Data and It Died Before I Even Measured Returns",
@@ -5634,6 +5678,17 @@
         "keywords": "land, city, farmer, donates, park, sells, data, center",
         "generated": "2026-06-10T20:38:15.846099",
         "file": "farmer-donates-land-for-a-park-city-sells-it-for-10m-as-data-center-land.md"
+    },
+    {
+        "title": "Panduan Lengkap 1988Rich: Saluran Rasmi dan Keselamatan Akaun",
+        "slug": "panduan-lengkap-1988rich-saluran-rasmi-dan-keselamatan-akaun",
+        "author": "mzplay info",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 04:18:44 +0000",
+        "description": "Pengenalan 1988Rich ialah platform rujukan dalam talian untuk pengguna Malaysia. Artikel ini menyusun panduan lengkap: saluran rasmi, keselamatan akaun, dan ...",
+        "keywords": "rasmi, yang, keselamatan, saluran, akaun, dan, dalam, tabiat",
+        "generated": "2026-09-21T04:21:01.281079",
+        "file": "panduan-lengkap-1988rich-saluran-rasmi-dan-keselamatan-akaun.md"
     },
     {
         "title": "Astrophysics & AI with Python: The Ultimate Guide to Denoising Telescope Images",
@@ -11089,6 +11144,17 @@
         "file": "hey-n00b-we-didnt-hire-you-to-complete-tasks.md"
     },
     {
+        "title": "How Answer Engines Read Your Pages: FAQ Schema in the AI Search Era",
+        "slug": "how-answer-engines-read-your-pages-faq-schema-in-the-ai-search-era",
+        "author": "Baibhab Bose",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 04:16:20 +0000",
+        "description": "TL;DR: FAQ schema lets crawlers see canonical answers on your domain, not a competitor's summary. pSEO Engine publishes one optimized page per query row to y...",
+        "keywords": "answer, your, page, domain, engine, faq, not, you",
+        "generated": "2026-09-21T04:21:01.282172",
+        "file": "how-answer-engines-read-your-pages-faq-schema-in-the-ai-search-era.md"
+    },
+    {
         "title": "I Trusted lru_cache for 48 Hours. The Rotated Token Never Left Hour Zero.",
         "slug": "i-trusted-lrucache-for-48-hours-the-rotated-token-never-left-hour-zero",
         "author": "Taylor Wang",
@@ -15095,10 +15161,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Mon, 31 Aug 2026 04:46:31 +0000",
+        "published": "Mon, 21 Sep 2026 04:08:06 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-08-31T04:52:56.234151",
+        "generated": "2026-09-21T04:21:01.284256",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -19069,6 +19135,17 @@
         "keywords": "ultracode, you, model, claude, fable, effort, what, every",
         "generated": "2026-07-04T13:45:59.772429",
         "file": "i-found-claude-fable-5s-best-use-case-it-cost-75-of-my-monthly-quota-to-get-there.md"
+    },
+    {
+        "title": "An AI builds to the contract it can read, not the one you meant",
+        "slug": "an-ai-builds-to-the-contract-it-can-read-not-the-one-you-meant",
+        "author": "DerekWang",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 04:12:00 +0000",
+        "description": "AI Harness Engineering · Essay Four · derek wang (derekwang85) A century before anyone called it that, Frederick Taylor walked into a machine shop and proved...",
+        "keywords": "contract, data, you, what, can, one, original, not",
+        "generated": "2026-09-21T04:21:01.283682",
+        "file": "an-ai-builds-to-the-contract-it-can-read-not-the-one-you-meant.md"
     },
     {
         "title": "pip install jhansi — the SDK is live",
@@ -25308,6 +25385,17 @@
         "file": "anthropic-please-ship-an-official-claude-desktop-for-linux.md"
     },
     {
+        "title": "A 1,145-Star CLI Promised Nothing Leaves Your Machine. It Executes a Hidden Payload at Import Time.",
+        "slug": "a-1145-star-cli-promised-nothing-leaves-your-machine-it-executes-a-hidden-payload-at-import-time",
+        "author": "Felixwang007",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 04:13:28 +0000",
+        "description": "A repo with 1,145 stars told me it ran entirely locally. Line 12 of its CLI said otherwise, and the check that would have caught it takes 20 seconds. This is...",
+        "keywords": "not, you, cli, line, tokentab, module, run, audit",
+        "generated": "2026-09-21T04:21:01.278722",
+        "file": "a-1145-star-cli-promised-nothing-leaves-your-machine-it-executes-a-hidden-payload-at-import-time.md"
+    },
+    {
         "title": "Step-by-Step Guide to B,uy.ing a Secure Mail.ru Ac.count",
         "slug": "step-by-step-guide-to-buying-a-secure-mailru-account",
         "author": "abusmm",
@@ -30423,6 +30511,17 @@
         "file": "api-first-transactional-email-beats-smtp-relay-for-2-step-recovery-in-2026.md"
     },
     {
+        "title": "Building an MCP Server for Your Django App: What We Learned Doing It for Real",
+        "slug": "building-an-mcp-server-for-your-django-app-what-we-learned-doing-it-for-real",
+        "author": "Lycore Development",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 03:51:58 +0000",
+        "description": "MCP — the Model Context Protocol — has gone from a niche Anthropic spec to something every AI-forward team is talking about. The pitch is simple: instead of ...",
+        "keywords": "mcp, you, tool, order, server, import, django, not",
+        "generated": "2026-09-21T04:21:01.279778",
+        "file": "building-an-mcp-server-for-your-django-app-what-we-learned-doing-it-for-real.md"
+    },
+    {
         "title": "Exit code 0 is a lie: 7 ways my unattended automation silently did nothing",
         "slug": "exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing",
         "author": "Youfu Hsu",
@@ -33646,6 +33745,17 @@
         "file": "one-scrape-per-category-not-per-user-how-i-kept-a-job-alert-saas-from-going-broke.md"
     },
     {
+        "title": "What happened to the Snowden archive",
+        "slug": "what-happened-to-the-snowden-archive",
+        "author": "EXHades",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 22:35:49 +0000",
+        "description": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 236 # Comment...",
+        "keywords": "what, happened, snowden, archive, url, https, comments, article",
+        "generated": "2026-09-21T04:21:01.278164",
+        "file": "what-happened-to-the-snowden-archive.md"
+    },
+    {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
         "slug": "def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight",
         "author": "dangle1",
@@ -34733,6 +34843,17 @@
         "keywords": "revolut, confirms, customer, data, breach, through, fake, government",
         "generated": "2026-09-13T11:28:47.304390",
         "file": "revolut-confirms-customer-data-breach-through-fake-government-requests.md"
+    },
+    {
+        "title": "Cómo reservar vuelos de Iberia por teléfono en España? La forma sencilla de garantizar tu viaje.",
+        "slug": "cmo-reservar-vuelos-de-iberia-por-telfono-en-espaa-la-forma-sencilla-de-garantizar-tu-viaje",
+        "author": "Kamjagin Khongsai",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 04:17:25 +0000",
+        "description": "Reservar un boleto de avión es algo que parece muy fácil hasta que tienes que elegir entre los horarios, los precios, el equipaje u otras condiciones antes d...",
+        "keywords": "los, que, las, reserva, viaje, reservar, por, con",
+        "generated": "2026-09-21T04:21:01.281829",
+        "file": "cmo-reservar-vuelos-de-iberia-por-telfono-en-espaa-la-forma-sencilla-de-garantizar-tu-viaje.md"
     },
     {
         "title": "JavaScript ES2026 Just Shipped What Developers Have Been Asking for Years",
@@ -37705,6 +37826,17 @@
         "file": "miami-marlins-vs-pittsburgh-pirates-mlb-preview-picks.md"
     },
     {
+        "title": "How to build a creator emails pipeline in one Python call",
+        "slug": "how-to-build-a-creator-emails-pipeline-in-one-python-call",
+        "author": "Zakaria Blefkih",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 03:37:47 +0000",
+        "description": "Assembling a list of creator emails by hand means three browser tabs, three different column layouts and a lot of copy-paste. None of TikTok, Instagram or Yo...",
+        "keywords": "youtube, creator, run, email, platform, tiktok, you, every",
+        "generated": "2026-09-21T04:21:01.280333",
+        "file": "how-to-build-a-creator-emails-pipeline-in-one-python-call.md"
+    },
+    {
         "title": "Processing Millions of Records Through Shopify: Lessons From High-Volume Integrations",
         "slug": "processing-millions-of-records-through-shopify-lessons-from-high-volume-integrations",
         "author": "Muhammad Masad Ashraf",
@@ -37769,6 +37901,17 @@
         "keywords": "your, platform, database, tracking, replication, cleanly, system, processing",
         "generated": "2026-07-07T20:04:00.202724",
         "file": "how-to-fix-lovable-supabase-realtime-stream-replication-failures-cleanly.md"
+    },
+    {
+        "title": "Deterministic Core, Non-Deterministic Shell",
+        "slug": "deterministic-core-non-deterministic-shell",
+        "author": "brandon_bot",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 02:02:45 +0000",
+        "description": "Article URL: https://outdata.net/blog/260803 Comments URL: https://news.ycombinator.com/item?id=49782220 Points: 12 # Comments: 2",
+        "keywords": "deterministic, url, https, comments, core, non, shell, article",
+        "generated": "2026-09-21T04:21:01.277609",
+        "file": "deterministic-core-non-deterministic-shell.md"
     },
     {
         "title": "Does IBM&#8217;s miss signal broader enterprise software risk? (IBM:NYSE) &#8211; Seeking Alpha",
@@ -38165,6 +38308,17 @@
         "keywords": "small, programming, tricks, url, https, com, comments, article",
         "generated": "2026-09-16T16:34:10.685510",
         "file": "small-programming-tricks.md"
+    },
+    {
+        "title": "Harnessing Tomorrow: A Look at Innovative AI Classes in Ahmedabad for a Future-Ready Career",
+        "slug": "harnessing-tomorrow-a-look-at-innovative-ai-classes-in-ahmedabad-for-a-future-ready-career",
+        "author": "Lmt Lmt",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 04:08:52 +0000",
+        "description": "Harnessing Tomorrow: A Look at Innovative AI Classes in Ahmedabad for a Future-Ready Career The dawn of Artificial Intelligence has revolutionized industries...",
+        "keywords": "can, ahmedabad, you, your, classes, model, learning, practical",
+        "generated": "2026-09-21T04:21:01.284112",
+        "file": "harnessing-tomorrow-a-look-at-innovative-ai-classes-in-ahmedabad-for-a-future-ready-career.md"
     },
     {
         "title": "Don't call yourself an artisanal programmer",
@@ -40244,6 +40398,17 @@
         "keywords": "url, https, com, comments, many, serious, mathematicians, aghast",
         "generated": "2026-07-28T14:22:20.794392",
         "file": "many-serious-mathematicians-are-aghast.md"
+    },
+    {
+        "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "slug": "dapo-an-open-source-rl-system-from-bytedance-seed-and-tsinghua-air",
+        "author": "the_arun",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 23:19:04 +0000",
+        "description": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 13 # Comments: 2",
+        "keywords": "dapo, url, https, com, comments, open, source, system",
+        "generated": "2026-09-21T04:21:01.278040",
+        "file": "dapo-an-open-source-rl-system-from-bytedance-seed-and-tsinghua-air.md"
     },
     {
         "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -49636,6 +49801,17 @@
         "keywords": "sentiment, entertainment, you, momentum, your, pulsebit, english, data",
         "generated": "2026-06-23T15:13:55.041579",
         "file": "your-pipeline-is-292h-behind-catching-entertainment-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Why back propagation goes backward",
+        "slug": "why-back-propagation-goes-backward",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 00:42:14 +0000",
+        "description": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/ Comments URL: https://news.ycombinator.com/item?id=49781693 Points: 14 # Comments: 2",
+        "keywords": "url, https, com, comments, why, back, propagation, goes",
+        "generated": "2026-09-21T04:21:01.277770",
+        "file": "why-back-propagation-goes-backward.md"
     },
     {
         "title": "We killed the 900ms silence timer and made the phone stack agent-first",
@@ -63265,6 +63441,17 @@
         "file": "how-to-sell-python-scripts-on-gumroad-for-passive-income.md"
     },
     {
+        "title": "5 Inspiring Success Stories: How AI Classes in Ahmedabad Changed Careers in 2026",
+        "slug": "5-inspiring-success-stories-how-ai-classes-in-ahmedabad-changed-careers-in-2026",
+        "author": "LMT LMT",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 04:08:00 +0000",
+        "description": "5 Inspiring Success Stories: How AI Classes in Ahmedabad Changed Careers in 2026 As the world continues to embrace the transformative power of artificial int...",
+        "keywords": "classes, ahmedabad, success, her, you, career, how, your",
+        "generated": "2026-09-21T04:21:01.284717",
+        "file": "5-inspiring-success-stories-how-ai-classes-in-ahmedabad-changed-careers-in-2026.md"
+    },
+    {
         "title": "There Is No AI",
         "slug": "there-is-no-ai",
         "author": "speckx",
@@ -71456,6 +71643,17 @@
         "keywords": "gitlost, tricked, agent, leaking, private, repos, url, https",
         "generated": "2026-07-08T08:37:13.648062",
         "file": "gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos.md"
+    },
+    {
+        "title": "Amiga Unix, Again",
+        "slug": "amiga-unix-again",
+        "author": "doener",
+        "source": "hackernews",
+        "published": "Sun, 20 Sep 2026 23:57:10 +0000",
+        "description": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 28 # Comments: 12",
+        "keywords": "url, https, comments, amiga, unix, again, article, amigaux",
+        "generated": "2026-09-21T04:21:01.277893",
+        "file": "amiga-unix-again.md"
     },
     {
         "title": "How I built a tutor that refuses to write your code",
@@ -82375,6 +82573,17 @@
         "keywords": "not, delphi, you, production, every, schema, before, python",
         "generated": "2026-09-16T21:07:02.235342",
         "file": "python-beside-delphi-not-instead-of-it.md"
+    },
+    {
+        "title": "Unlocking Tomorrow: Innovative Pathways Through AI Classes in Ahmedabad",
+        "slug": "unlocking-tomorrow-innovative-pathways-through-ai-classes-in-ahmedabad",
+        "author": "Lmt New",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 04:12:51 +0000",
+        "description": "Unlocking Tomorrow: Innovative Pathways Through AI Classes in Ahmedabad In today's fast-paced technological landscape, the realm of Artificial Intelligence (...",
+        "keywords": "classes, ahmedabad, learning, can, career, data, professionals, your",
+        "generated": "2026-09-21T04:21:01.282918",
+        "file": "unlocking-tomorrow-innovative-pathways-through-ai-classes-in-ahmedabad.md"
     },
     {
         "title": "Top Generative AI Development Company in Japan: Driving AI Innovation for Future-Ready Businesses",
