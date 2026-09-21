@@ -5020,6 +5020,17 @@
         "file": "treba-manje-ai-agenata-nego-to-misli-gotovo-uvijek-dovoljan-je-jedan.md"
     },
     {
+        "title": "Transformers Explained Visually",
+        "slug": "transformers-explained-visually",
+        "author": "aray07",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 19:43:49 +0000",
+        "description": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 78 # Comments: 11",
+        "keywords": "url, https, comments, transformers, explained, visually, article, poloclub",
+        "generated": "2026-09-21T21:51:47.196156",
+        "file": "transformers-explained-visually.md"
+    },
+    {
         "title": "Build a Content Scheduler for Social Media",
         "slug": "build-a-content-scheduler-for-social-media",
         "author": "qing",
@@ -9868,6 +9879,17 @@
         "file": "how-to-write-python-code-that-is-both-correct-and-readable-under-interview-pressure.md"
     },
     {
+        "title": "Show HN: A website that tracks US food prices every day",
+        "slug": "show-hn-a-website-that-tracks-us-food-prices-every-day",
+        "author": "hubraumhugo",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 19:24:10 +0000",
+        "description": "The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on: - what growers were paid at shipping point - what buyer...",
+        "keywords": "food, prices, data, what, price, paid, github, https",
+        "generated": "2026-09-21T21:51:47.196263",
+        "file": "show-hn-a-website-that-tracks-us-food-prices-every-day.md"
+    },
+    {
         "title": "The Bridge Looked Fine Too",
         "slug": "the-bridge-looked-fine-too",
         "author": "Simon Griffiths",
@@ -11626,6 +11648,17 @@
         "keywords": "wix, framer, seo, durable, website, builder, saas, agency",
         "generated": "2026-07-09T19:54:26.403182",
         "file": "2026-ai-website-builder-rankings-which-of-we0-ai-wix-ai-framer-or-durable-is-best-for-business-websites.md"
+    },
+    {
+        "title": "CBP suspends all personal prescription importation Oct 22",
+        "slug": "cbp-suspends-all-personal-prescription-importation-oct-22",
+        "author": "burnt-resistor",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 20:58:17 +0000",
+        "description": "Article URL: https://www.personalimportation.org/advocacy Comments URL: https://news.ycombinator.com/item?id=49793322 Points: 28 # Comments: 3",
+        "keywords": "url, https, comments, cbp, suspends, all, personal, prescription",
+        "generated": "2026-09-21T21:51:47.195932",
+        "file": "cbp-suspends-all-personal-prescription-importation-oct-22.md"
     },
     {
         "title": "Spec-First Engineering with Specmatic: Contract-Testing a Multi-Agent AI Assistant",
@@ -20556,6 +20589,17 @@
         "file": "find-social-media-profiles-by-username-with-python.md"
     },
     {
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "slug": "ai-coding-has-made-ci-a-bottleneck-so-we-reworked-ours-to-keep-up",
+        "author": "julian_digital",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 19:23:33 +0000",
+        "description": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 72 # Comments: 58",
+        "keywords": "bottleneck, reworked, url, https, comments, coding, has, made",
+        "generated": "2026-09-21T21:51:47.196343",
+        "file": "ai-coding-has-made-ci-a-bottleneck-so-we-reworked-ours-to-keep-up.md"
+    },
+    {
         "title": "Building a Global eSIM Platform: Why I Chose This Stack Over Traditional SIM Cards",
         "slug": "building-a-global-esim-platform-why-i-chose-this-stack-over-traditional-sim-cards",
         "author": "Wae Luxe",
@@ -23348,6 +23392,17 @@
         "keywords": "model, vram, same, gpu, models, response, one, chat",
         "generated": "2026-07-05T09:14:04.978201",
         "file": "i-built-my-own-chatgpt-backend-to-understand-how-ai-streaming-actually-works.md"
+    },
+    {
+        "title": "JSON-LD Structured Data: The Developer's Lever for SEO and AI Citations",
+        "slug": "json-ld-structured-data-the-developers-lever-for-seo-and-ai-citations",
+        "author": "Level Up Digital Marketing Group",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 21:33:31 +0000",
+        "description": "Most SEO advice lands on marketers: write better copy, earn links, fix titles. But there's one high-leverage lever that lives entirely in the codebase, and d...",
+        "keywords": "type, https, json, your, you, com, data, one",
+        "generated": "2026-09-21T21:51:47.199578",
+        "file": "json-ld-structured-data-the-developers-lever-for-seo-and-ai-citations.md"
     },
     {
         "title": "How I test my React app on real devices without deploying it",
@@ -27805,6 +27860,17 @@
         "file": "nvidia-h100-vs-rtx-6000-ada-which-gpu-wins-for-local-ai-workloads.md"
     },
     {
+        "title": "Turn Parser-Visible Flags Into a Config Reference Grid; Sign Defaults and Secret Classes",
+        "slug": "turn-parser-visible-flags-into-a-config-reference-grid-sign-defaults-and-secret-classes",
+        "author": "Avery Lin",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 21:34:09 +0000",
+        "description": "Configuration reference pages fail when generated prose is treated as the source of production defaults, secret classes, or deprecation windows. A parser can...",
+        "keywords": "not, cells, production, purpose, signed, unsigned, secret, model",
+        "generated": "2026-09-21T21:51:47.197334",
+        "file": "turn-parser-visible-flags-into-a-config-reference-grid-sign-defaults-and-secret-classes.md"
+    },
+    {
         "title": "At companies where AI writes 80 percent of the code, has development become 80 percent faster?",
         "slug": "at-companies-where-ai-writes-80-percent-of-the-code-has-development-become-80-percent-faster",
         "author": "matsumotory",
@@ -28078,6 +28144,17 @@
         "keywords": "refund, app, store, can, refunds, apple, developers, revenue",
         "generated": "2026-08-24T12:59:46.024126",
         "file": "app-store-refunds-how-to-stop-revenue-loss-and-protect-your-app-business.md"
+    },
+    {
+        "title": "Market Microstructure Analysis: Essential AI Defense",
+        "slug": "market-microstructure-analysis-essential-ai-defense",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 21:37:11 +0000",
+        "description": "Modern manipulation can unfold in milliseconds, long before a human surveillance team can interpret the evidence. Market microstructure analysis gives tradin...",
+        "keywords": "order, market, orders, can, book, time, manipulation, detection",
+        "generated": "2026-09-21T21:51:47.201485",
+        "file": "market-microstructure-analysis-essential-ai-defense.md"
     },
     {
         "title": "🚀 The DevOps, SRE, Platform Engineering, and Forward Deploy Engineer interview landscape is changing",
@@ -29255,6 +29332,17 @@
         "keywords": "environment, what, part, can, you, agent, model, tool",
         "generated": "2026-08-15T18:36:33.515665",
         "file": "harness-engineering-part-6-the-filesystem-environment.md"
+    },
+    {
+        "title": "Xiaomi MiMo v2.6",
+        "slug": "xiaomi-mimo-v26",
+        "author": "volf_",
+        "source": "hackernews",
+        "published": "Mon, 21 Sep 2026 20:12:12 +0000",
+        "description": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 245 # Comments: 105",
+        "keywords": "mimo, xiaomi, url, https, com, comments, article, news",
+        "generated": "2026-09-21T21:51:47.196071",
+        "file": "xiaomi-mimo-v26.md"
     },
     {
         "title": "We checked every single-typo of the 30 most popular npm and PyPI packages. Here's what's actually registered.",
@@ -33690,6 +33778,17 @@
         "file": "huggingface-securitytxt.md"
     },
     {
+        "title": "Looking for a Partner to Build With",
+        "slug": "looking-for-a-partner-to-build-with",
+        "author": "Abdulrahman  Alshouly",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 21:34:45 +0000",
+        "description": "`I am a 16 year old programmer looking for a partner who wants to build something together and grow with it I want to find someone who is serious about creat...",
+        "keywords": "looking, partner, build, who, something, barada, https, verxa",
+        "generated": "2026-09-21T21:51:47.199213",
+        "file": "looking-for-a-partner-to-build-with.md"
+    },
+    {
         "title": "Top 10 JOBS APIs & Scrapers in 2026 — Ranked by Active Users",
         "slug": "top-10-jobs-apis-scrapers-in-2026-ranked-by-active-users",
         "author": "Nick Davies",
@@ -37769,6 +37868,17 @@
         "keywords": "eli, app, where, text, one, timeout, day, session",
         "generated": "2026-08-20T06:54:01.611113",
         "file": "soul-in-motion-1105-am-2026-08-20.md"
+    },
+    {
+        "title": "The MVP Features That Are Actually Just Multi-Tenancy in Disguise",
+        "slug": "the-mvp-features-that-are-actually-just-multi-tenancy-in-disguise",
+        "author": "MACROGEN",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 21:31:57 +0000",
+        "description": "When people talk about MVP scope, it's usually framed as a features conversation — what to cut, what to keep, what can wait until v2. But some of the decis...",
+        "keywords": "one, what, customer, mvp, just, decisions, small, you",
+        "generated": "2026-09-21T21:51:47.200314",
+        "file": "the-mvp-features-that-are-actually-just-multi-tenancy-in-disguise.md"
     },
     {
         "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
@@ -42897,6 +43007,17 @@
         "file": "uae-e-invoicing-the-provider-is-the-last-step-not-the-first.md"
     },
     {
+        "title": "Pin Walk Order, Symlink Loops, and EACCES Before One Extract",
+        "slug": "pin-walk-order-symlink-loops-and-eacces-before-one-extract",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 21:30:26 +0000",
+        "description": "Do not extract a directory walker until three outputs freeze. Freeze relative path order, symlink cycle behavior, and EACCES handling. Characterization tests...",
+        "keywords": "not, extract, path, keep, one, skip, pytest, walk",
+        "generated": "2026-09-21T21:51:47.198418",
+        "file": "pin-walk-order-symlink-loops-and-eacces-before-one-extract.md"
+    },
+    {
         "title": "Best website speed optimization tools in 2026",
         "slug": "best-website-speed-optimization-tools-in-2026",
         "author": "Shammi Bajaj",
@@ -44303,6 +44424,17 @@
         "keywords": "zcode, url, https, comments, claude, code, makers, glm",
         "generated": "2026-07-01T20:03:10.697768",
         "file": "zcode-claude-code-from-the-makers-of-glm.md"
+    },
+    {
+        "title": "The CI/CD Pipeline Audit I Wish Someone Made Me Do Sooner",
+        "slug": "the-cicd-pipeline-audit-i-wish-someone-made-me-do-sooner",
+        "author": "MACROGEN",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 21:32:53 +0000",
+        "description": "Most teams don't design their CI/CD pipeline once and leave it. It grows organically — a script here, a manual approval step there, a workaround for that one...",
+        "keywords": "pipeline, you, nobody, actually, teams, test, before, deploy",
+        "generated": "2026-09-21T21:51:47.199869",
+        "file": "the-cicd-pipeline-audit-i-wish-someone-made-me-do-sooner.md"
     },
     {
         "title": "How to Monitor MAP Violations?",
@@ -46450,6 +46582,17 @@
         "file": "how-i-model-aspects-and-orbs-in-a-python-astrology-engine.md"
     },
     {
+        "title": "48-Hour Field Notes: The Log Was UTF-8. open() Still Used ASCII.",
+        "slug": "48-hour-field-notes-the-log-was-utf-8-open-still-used-ascii",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 21:33:31 +0000",
+        "description": "Have you ever shipped a log parser that only failed after you left your laptop behind? Mine chewed through weeks of UTF-8 logs at home, then exploded on the ...",
+        "keywords": "utf, not, locale, path, encoding, log, environment, app",
+        "generated": "2026-09-21T21:51:47.197912",
+        "file": "48-hour-field-notes-the-log-was-utf-8-open-still-used-ascii.md"
+    },
+    {
         "title": "Case Study: Freeze Webhook HMAC Replay Rules Before an Agent Writes the Receiver",
         "slug": "case-study-freeze-webhook-hmac-replay-rules-before-an-agent-writes-the-receiver",
         "author": "Dakota Liu",
@@ -46525,6 +46668,17 @@
         "keywords": "karate, openapi, operations, diff, path, green, against, suite",
         "generated": "2026-09-15T16:40:33.690496",
         "file": "dont-trust-green-karate-runs-diff-them-against-openapi.md"
+    },
+    {
+        "title": "2026 Edtech Billing — Pre-Call Cost Estimates, Post-Hoc Usage Reports, 30-Day Retention",
+        "slug": "2026-edtech-billing-pre-call-cost-estimates-post-hoc-usage-reports-30-day-retention",
+        "author": "SullivanReed1247",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 21:43:16 +0000",
+        "description": "A metered invoice should come from settled usage events, while an agent budget needs an estimate before admitting a call. For an edtech service billing each ...",
+        "keywords": "usage, call, invoice, school, not, decimal, units, event",
+        "generated": "2026-09-21T21:51:47.200935",
+        "file": "2026-edtech-billing-pre-call-cost-estimates-post-hoc-usage-reports-30-day-retention.md"
     },
     {
         "title": "How Shoppable Videos Increase Conversion Rates in E-commerce",
@@ -53605,6 +53759,17 @@
         "keywords": "model, data, you, one, chain, every, source, prompt",
         "generated": "2026-07-07T09:51:54.396660",
         "file": "i-built-a-5-agent-swarm-that-researches-crypto-tokens-and-refuses-to-hallucinate-numbers.md"
+    },
+    {
+        "title": "Your Pipeline Is 23.9h Behind: Catching Food Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-239h-behind-catching-food-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 21:34:25 +0000",
+        "description": "Your pipeline just missed a critical anomaly: a 24h momentum spike of -1.400 in food sentiment, leading with a specific focus on India. We see a positive sen...",
+        "keywords": "sentiment, food, you, your, pulsebit, india, english, source",
+        "generated": "2026-09-21T21:51:47.196600",
+        "file": "your-pipeline-is-239h-behind-catching-food-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "I Built a Privacy-First Health Record MCP Server That Runs Entirely on Your Machine",
@@ -65122,6 +65287,17 @@
         "file": "four-paradigm-shifts-in-ai-engineering-from-prompt-to-loop-2026-which-level-are-you-on.md"
     },
     {
+        "title": "Block Agent Merges That Shrink Properties or Silence Flakes",
+        "slug": "block-agent-merges-that-shrink-properties-or-silence-flakes",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Mon, 21 Sep 2026 21:29:51 +0000",
+        "description": "A green CI run is not a score for an agent patch. The patch can drop max_examples , wrap generators in assume() , or wrap a flake in time.sleep , and still e...",
+        "keywords": "not, ast, agent, patch, path, return, func, nodeid",
+        "generated": "2026-09-21T21:51:47.199072",
+        "file": "block-agent-merges-that-shrink-properties-or-silence-flakes.md"
+    },
+    {
         "title": "Как я собрал 4 проекта в один .exe — и почему это плохая идея",
         "slug": "4-exe",
         "author": "Vadik",
@@ -76430,6 +76606,17 @@
         "file": "obscura-rust-headless-browser-for-ai-agents-14000-stars-30mb-memory-85ms-load-setup-guide-2026.md"
     },
     {
+        "title": "Remote MCP shopping catalog — add BuyWhere to Claude, Cursor, and ChatGPT connectors",
+        "slug": "remote-mcp-shopping-catalog-add-buywhere-to-claude-cursor-and-chatgpt-connectors",
+        "author": "BuyWhere",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 21:43:18 +0000",
+        "description": "BuyWhere is a remote shopping MCP (300M+ products). You do not install an npm package — paste the endpoint. Endpoint MCP: https://api.buywhere.ai/mcp Site: h...",
+        "keywords": "buywhere, mcp, https, remote, shopping, awesome, api, glama",
+        "generated": "2026-09-21T21:51:47.200557",
+        "file": "remote-mcp-shopping-catalog-add-buywhere-to-claude-cursor-and-chatgpt-connectors.md"
+    },
+    {
         "title": "The AI IPO Wave Is Here — and None of These Companies Make Money",
         "slug": "the-ai-ipo-wave-is-here-and-none-of-these-companies-make-money",
         "author": "Tyson Cung",
@@ -80828,6 +81015,17 @@
         "file": "edge-thumbnail-dan-lcp-katalog-video-di-situs-bokep-indo-18-gvh-878.md"
     },
     {
+        "title": "I Build Affordable Websites for Churches, Schools & Businesses in Nigeria — Portfolio Live",
+        "slug": "i-build-affordable-websites-for-churches-schools-businesses-in-nigeria-portfolio-live",
+        "author": "Elomba Kaosisochukwu",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 21:46:46 +0000",
+        "description": "I build fast, affordable websites for churches, schools and small businesses in Lagos. My portfolio is live: https://elomba.netlify.app/ What I offer: ✅ Chur...",
+        "keywords": "websites, build, affordable, portfolio, churches, schools, businesses, live",
+        "generated": "2026-09-21T21:51:47.200416",
+        "file": "i-build-affordable-websites-for-churches-schools-businesses-in-nigeria-portfolio-live.md"
+    },
+    {
         "title": "Building an AST Code Verifier Without NetworkX, GitPython, or Any Dependencies",
         "slug": "building-an-ast-code-verifier-without-networkx-gitpython-or-any-dependencies",
         "author": "Urjit UPADHYAY",
@@ -82014,6 +82212,17 @@
         "keywords": "font, pen, glyph, fonttools, you, one, cell, ttglyphpen",
         "generated": "2026-06-25T20:09:21.019418",
         "file": "i-generated-a-pixel-font-in-pure-python-with-fonttools-no-font-editor.md"
+    },
+    {
+        "title": "How to Run Open Models in the Cloud Without Going Broke",
+        "slug": "how-to-run-open-models-in-the-cloud-without-going-broke",
+        "author": "Amanda Fitch",
+        "source": "devto_ai",
+        "published": "Mon, 21 Sep 2026 21:38:45 +0000",
+        "description": "Have you ever felt like the major proprietary LLMs are starting to sound a bit... identical? It’s not just your imagination. Recent research, such as the Bey...",
+        "keywords": "you, your, models, cloud, can, google, when, per",
+        "generated": "2026-09-21T21:51:47.201185",
+        "file": "how-to-run-open-models-in-the-cloud-without-going-broke.md"
     },
     {
         "title": "How Do You Validate Zero Gap in Stock API 1-Minute Historical Bars?",
@@ -84773,6 +84982,17 @@
         "keywords": "mext, memory, data, technology, solutions, can, amd, optimization",
         "generated": "2026-06-18T20:32:55.631571",
         "file": "amd-acquires-mext-for-data-cen.md"
+    },
+    {
+        "title": "The X Search bill flip that didn't flip: xAI's announced cutover is late (pilot #3)",
+        "slug": "the-x-search-bill-flip-that-didnt-flip-xais-announced-cutover-is-late-pilot-3",
+        "author": "True Rate",
+        "source": "devto_webdev",
+        "published": "Mon, 21 Sep 2026 21:32:17 +0000",
+        "description": "If your app calls the x_search tool, today was supposed to be the day the meter changed. The announced cutover came and went at 12:00 PM PT — and as of this ...",
+        "keywords": "docs, announced, still, you, flip, what, per, bill",
+        "generated": "2026-09-21T21:51:47.200105",
+        "file": "the-x-search-bill-flip-that-didnt-flip-xais-announced-cutover-is-late-pilot-3.md"
     },
     {
         "title": "🧠 Data scientist vs ML engineer salary India — which pays more?",
