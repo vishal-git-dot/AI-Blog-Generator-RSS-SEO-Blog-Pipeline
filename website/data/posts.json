@@ -268,6 +268,17 @@
         "file": "four-years-ago-a-crypto-boss-went-missing-now-his-successor-has.md"
     },
     {
+        "title": "How Keel's honesty gates actually work",
+        "slug": "how-keels-honesty-gates-actually-work",
+        "author": "Trent Wade",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 20:34:18 +0000",
+        "description": "In my intro post , I described Keel — an open-source, self-hosted job-application autopilot with one hard rule: it refuses to lie. The natural follow-up ques...",
+        "keywords": "keel, never, demo, attempt, gates, what, application, gate",
+        "generated": "2026-09-22T21:06:11.059884",
+        "file": "how-keels-honesty-gates-actually-work.md"
+    },
+    {
         "title": "Liquidity Risk Modeling: Essential AI for Block Trades",
         "slug": "liquidity-risk-modeling-essential-ai-for-block-trades",
         "author": "Vladimir Lialine",
@@ -530,6 +541,17 @@
         "keywords": "para, que, como, com, uma, mais, imagens, wwwroot",
         "generated": "2026-09-09T20:46:26.461826",
         "file": "como-transformei-o-armazenamento-do-meu-site-sem-mudar-uma-linha-do-frontend-e-ainda-deixei-tudo-mais-seguro.md"
+    },
+    {
+        "title": "How we built a free global cleaning jobs marketplace, and opened 958 live cleaning contracts to anyone",
+        "slug": "how-we-built-a-free-global-cleaning-jobs-marketplace-and-opened-958-live-cleaning-contracts-to-anyone",
+        "author": "Mark Natthan",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 21:00:40 +0000",
+        "description": "Most people never think about who cleans the offices, schools, hospitals and shops they walk through every day. We did, and we found an industry worth hundre...",
+        "keywords": "cleaning, free, contracts, people, they, what, public, built",
+        "generated": "2026-09-22T21:06:11.061203",
+        "file": "how-we-built-a-free-global-cleaning-jobs-marketplace-and-opened-958-live-cleaning-contracts-to-anyone.md"
     },
     {
         "title": "Apple vs. OpenAI: What's Going On with AI and Trade Secrets?",
@@ -983,6 +1005,17 @@
         "file": "buywhere-mcp-now-listed-on-mcp-servers.md"
     },
     {
+        "title": "AI Agent Red Teaming & Tool Poisoning Masterclass 2026: Prompt Injections, MCP Poisoning & Enterprise Defense",
+        "slug": "ai-agent-red-teaming-tool-poisoning-masterclass-2026-prompt-injections-mcp-poisoning-enterprise-defense",
+        "author": "Syed Abrar",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 20:35:20 +0000",
+        "description": "Originally published on Andrax Pentester . AI Agent Red Teaming & Tool Poisoning Masterclass 2026: Exploiting Prompt Injections, MCP Tool Descriptions, RAG C...",
+        "keywords": "tool, agent, prompt, mcp, context, llm, user, data",
+        "generated": "2026-09-22T21:06:11.059522",
+        "file": "ai-agent-red-teaming-tool-poisoning-masterclass-2026-prompt-injections-mcp-poisoning-enterprise-defense.md"
+    },
+    {
         "title": "AI-Accelerated WeChat Zero-Click Worm Spreads via RCE",
         "slug": "ai-accelerated-wechat-zero-click-worm-spreads-via-rce",
         "author": "Achin Bansal",
@@ -1036,6 +1069,17 @@
         "keywords": "model, you, models, one, openai, your, same, different",
         "generated": "2026-06-07T19:40:41.525391",
         "file": "one-ai-vendor-is-a-single-point-of-failure-treat-it-like-one.md"
+    },
+    {
+        "title": "Your Ports Are Lying About Your Business",
+        "slug": "your-ports-are-lying-about-your-business",
+        "author": "Christoph",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 20:52:13 +0000",
+        "description": "Your hexagonal architecture ports might still be speaking HTTP instead of business. In hexagonal architecture, ports exist to isolate your business logic fro...",
+        "keywords": "your, business, ports, lying, hexagonal, architecture, still, http",
+        "generated": "2026-09-22T21:06:11.066684",
+        "file": "your-ports-are-lying-about-your-business.md"
     },
     {
         "title": "AI Debugging Tools for Developers: What Actually Works in 2026",
@@ -3819,6 +3863,17 @@
         "keywords": "sentiment, finance, pulsebit, english, you, your, momentum, cluster",
         "generated": "2026-07-25T13:46:22.465588",
         "file": "your-pipeline-is-257h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "ChaosCypher v0.4.3: When a Clean Restart Lost More Work Than a Crash",
+        "slug": "chaoscypher-v043-when-a-clean-restart-lost-more-work-than-a-crash",
+        "author": "Denis MacPherson",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 20:35:42 +0000",
+        "description": "v0.4.3 adds nothing new. No new features, no breaking API changes, no schema migrations: 54 commits since v0.4.2, 23 of them changing shipped code. Most of t...",
+        "keywords": "chaoscypher, you, now, read, queue, only, one, source",
+        "generated": "2026-09-22T21:06:11.058863",
+        "file": "chaoscypher-v043-when-a-clean-restart-lost-more-work-than-a-crash.md"
     },
     {
         "title": "5 Best Place to Buy Verified Payoneer Accounts Securely",
@@ -16717,6 +16772,17 @@
         "file": "build-large-scale-outdoor-mesh-networks-with-qualcomm-ipq5018-dr5018s-10-hop-transmission-high-stability-low-signal-loss.md"
     },
     {
+        "title": "I Built a Simple AI Visibility Tracker in Python. Here’s What Breaks When You Scale It",
+        "slug": "i-built-a-simple-ai-visibility-tracker-in-python-heres-what-breaks-when-you-scale-it",
+        "author": "Nilesh Jethwa",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 20:20:14 +0000",
+        "description": "I Built a Simple AI Visibility Tracker in Python. Here’s What Breaks When You Scale It AI visibility tracking sounds like a fairly simple programming problem...",
+        "keywords": "visibility, you, what, prompt, brand, response, tracker, model",
+        "generated": "2026-09-22T21:06:11.060460",
+        "file": "i-built-a-simple-ai-visibility-tracker-in-python-heres-what-breaks-when-you-scale-it.md"
+    },
+    {
         "title": "Best Site24x7 Alternatives in 2026 (Free and Paid)",
         "slug": "best-site24x7-alternatives-in-2026-free-and-paid",
         "author": "Vigilmon",
@@ -22644,6 +22710,17 @@
         "keywords": "agent, you, can, which, one, action, not, build",
         "generated": "2026-06-23T15:13:55.045711",
         "file": "when-your-agent-does-something-bad-can-you-tell-which-agent-did-it.md"
+    },
+    {
+        "title": "Architecting Parallel Verification: A Decision Guide for Combo Check Integration",
+        "slug": "architecting-parallel-verification-a-decision-guide-for-combo-check-integration",
+        "author": "eKYC Pro",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 21:03:04 +0000",
+        "description": "When building onboarding flows, identity verification often requires checking a single user identifier against multiple platforms. Whether you are validating...",
+        "keywords": "combo, check, your, api, service, verification, single, you",
+        "generated": "2026-09-22T21:06:11.060764",
+        "file": "architecting-parallel-verification-a-decision-guide-for-combo-check-integration.md"
     },
     {
         "title": "Boost Productivity with Automation Tools",
@@ -35340,6 +35417,17 @@
         "file": "btrfszfsbcachefs-under-workloads-classic-benchmarks-skip.md"
     },
     {
+        "title": "The Iterative Creation Loop: How to Build Better with Plan Mode, Multi-Agent Dialogues, and Verification",
+        "slug": "the-iterative-creation-loop-how-to-build-better-with-plan-mode-multi-agent-dialogues-and-verification",
+        "author": "Eduard",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 20:59:03 +0000",
+        "description": "A practical 2026 field guide for coding, research, content, products, knowledge systems, and AI-native workflows There is a point where adding more intellige...",
+        "keywords": "agent, not, evidence, plan, can, state, multi, one",
+        "generated": "2026-09-22T21:06:11.064067",
+        "file": "the-iterative-creation-loop-how-to-build-better-with-plan-mode-multi-agent-dialogues-and-verification.md"
+    },
+    {
         "title": "Supersonic flight returning to US after half-century ban",
         "slug": "supersonic-flight-returning-to-us-after-half-century-ban",
         "author": "lobbly",
@@ -35745,6 +35833,17 @@
         "keywords": "turbokv, url, https, com, comments, insanely, fast, rust",
         "generated": "2026-08-29T06:36:04.043048",
         "file": "turbokv-insanely-fast-rust-key-value-store.md"
+    },
+    {
+        "title": "OpenAI DevDay 2026 Brings Developer Keynote, Demos and Global Exchanges",
+        "slug": "openai-devday-2026-brings-developer-keynote-demos-and-global-exchanges",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 21:00:30 +0000",
+        "description": "OpenAI has confirmed that DevDay 2026 will take place on Tuesday, September 29, 2026 , at Fort Mason in San Francisco. The developer-focused event will featu...",
+        "keywords": "openai, devday, keynote, event, confirmed, will, developer, exchanges",
+        "generated": "2026-09-22T21:06:11.064781",
+        "file": "openai-devday-2026-brings-developer-keynote-demos-and-global-exchanges.md"
     },
     {
         "title": "98% Isn't Much",
@@ -38607,6 +38706,17 @@
         "file": "ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals.md"
     },
     {
+        "title": "5 Pilot Headshot Upgrades for a Better LinkedIn Profile",
+        "slug": "5-pilot-headshot-upgrades-for-a-better-linkedin-profile",
+        "author": "zongkai sun",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 20:58:23 +0000",
+        "description": "Your LinkedIn photo is your first impression. For pilots, the right headshot communicates authority and approachability. Here are five concrete upgrades to m...",
+        "keywords": "headshot, upgrades, linkedin, profile, your, pilot, better, portraze",
+        "generated": "2026-09-22T21:06:11.064912",
+        "file": "5-pilot-headshot-upgrades-for-a-better-linkedin-profile.md"
+    },
+    {
         "title": "Go Analysis Framework: modular static analysis by go team",
         "slug": "go-analysis-framework-modular-static-analysis-by-go-team",
         "author": "AbuAssar",
@@ -40400,6 +40510,17 @@
         "file": "i-shipped-a-working-win-check-that-could-be-wrong-9-times-out-of-10.md"
     },
     {
+        "title": "Why Your Pure Python Loops Are Destroying Your AI Model's Performance (And How to Fix Them)",
+        "slug": "why-your-pure-python-loops-are-destroying-your-ai-models-performance-and-how-to-fix-them",
+        "author": "Ahmed Adawy",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 20:41:39 +0000",
+        "description": "​If you have ever built an AI pipeline, processed embeddings, or fine-tuned a machine learning model in Python, you have likely run into a frustrating bottle...",
+        "keywords": "python, your, you, embeddings, pure, loops, performance, loop",
+        "generated": "2026-09-22T21:06:11.058351",
+        "file": "why-your-pure-python-loops-are-destroying-your-ai-models-performance-and-how-to-fix-them.md"
+    },
+    {
         "title": "Designing emoji for the way we communicate today",
         "slug": "designing-emoji-for-the-way-we-communicate-today",
         "author": "pentagrama",
@@ -40915,6 +41036,17 @@
         "keywords": "pdf, excel, you, python, table, data, files, spreadsheet",
         "generated": "2026-06-06T04:00:30.107024",
         "file": "how-to-convert-excel-to-pdf-with-python-automation.md"
+    },
+    {
+        "title": "Your AI Meeting Assistant Is Taking Notes. Who Is Doing the Work?",
+        "slug": "your-ai-meeting-assistant-is-taking-notes-who-is-doing-the-work",
+        "author": "Zurab Shakhbanov",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 20:57:04 +0000",
+        "description": "The real value of meeting AI isn't the transcript. It's what happens after everyone leaves the call. TL;DR Transcripts and summaries now ship inside Meet, Te...",
+        "keywords": "meeting, what, work, one, can, context, you, next",
+        "generated": "2026-09-22T21:06:11.066245",
+        "file": "your-ai-meeting-assistant-is-taking-notes-who-is-doing-the-work.md"
     },
     {
         "title": "Many serious mathematicians are aghast",
@@ -56137,6 +56269,17 @@
         "file": "goodharts-law-is-a-math-problem-and-we-can-prove-it-with-10-lines-of-python.md"
     },
     {
+        "title": "A Faster Shortest Path Algorithm",
+        "slug": "a-faster-shortest-path-algorithm",
+        "author": "leumon",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 19:24:58 +0000",
+        "description": "Article URL: https://www.vals.ai/blogs/faster-shortest-path-algorithm Comments URL: https://news.ycombinator.com/item?id=49806778 Points: 19 # Comments: 4",
+        "keywords": "faster, shortest, path, algorithm, url, https, comments, article",
+        "generated": "2026-09-22T21:06:11.057760",
+        "file": "a-faster-shortest-path-algorithm.md"
+    },
+    {
         "title": "Soft Diffusion: Score Matching for General Corruptions",
         "slug": "soft-diffusion-score-matching-for-general-corruptions",
         "author": "Paperium",
@@ -57631,6 +57774,17 @@
         "keywords": "account, session, deletion, state, shutdown, provider, profile, retention",
         "generated": "2026-08-26T13:01:59.365128",
         "file": "staged-profile-state-and-session-revocation-over-immediate-fastapi-account-deletion.md"
+    },
+    {
+        "title": "The JavaScript Midlife Crisis",
+        "slug": "the-javascript-midlife-crisis",
+        "author": "maroun-baydoun",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 19:58:47 +0000",
+        "description": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/ Comments URL: https://news.ycombinator.com/item?id=49807248 Points: 10 # Comments: 5",
+        "keywords": "javascript, midlife, crisis, url, https, com, comments, article",
+        "generated": "2026-09-22T21:06:11.057467",
+        "file": "the-javascript-midlife-crisis.md"
     },
     {
         "title": "FreeCORE TrueNAS Core – Continued",
@@ -59985,6 +60139,17 @@
         "keywords": "url, https, news, comments, single, firm, behind, openai",
         "generated": "2026-09-14T21:41:20.581455",
         "file": "a-single-firm-is-behind-openai-anthropic-and-meta-hacking-scandals.md"
+    },
+    {
+        "title": "Native apps written in TypeScript and CSS",
+        "slug": "native-apps-written-in-typescript-and-css",
+        "author": "arbayi",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 19:42:20 +0000",
+        "description": "Article URL: https://github.com/geastack/examples Comments URL: https://news.ycombinator.com/item?id=49807021 Points: 30 # Comments: 7",
+        "keywords": "url, https, com, comments, native, apps, written, typescript",
+        "generated": "2026-09-22T21:06:11.057633",
+        "file": "native-apps-written-in-typescript-and-css.md"
     },
     {
         "title": "How Quickly Can I Buy Verified Binance Account Online",
@@ -69808,6 +69973,17 @@
         "file": "crafting-a-modern-dark-mode-ui-for-real-time-sports-data.md"
     },
     {
+        "title": "Nextech3D.ai Launches &#8220;KATE&#8221; Training Intelligence Platform, Expanding AI SaaS Strategy and Pursues",
+        "slug": "nextech3dai-launches-8220kate8221-training-intelligence-platform-expanding-ai-saas-strategy-and-pursues",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 20:58:47 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores Nextech3D.ai Launches KATE Training Intelligen...",
+        "keywords": "progressino, platform, strategy, your, before, training, you, evaluating",
+        "generated": "2026-09-22T21:06:11.064399",
+        "file": "nextech3dai-launches-8220kate8221-training-intelligence-platform-expanding-ai-saas-strategy-and-pursues.md"
+    },
+    {
         "title": "The Evaluation Had a Sandbox. It Needed an Authority Boundary.",
         "slug": "the-evaluation-had-a-sandbox-it-needed-an-authority-boundary",
         "author": "Michael Mike K. Saleme",
@@ -70653,6 +70829,17 @@
         "keywords": "url, https, comments, let, encrypt, has, been, down",
         "generated": "2026-06-19T04:58:32.736098",
         "file": "lets-encrypt-has-been-down-most-of-today.md"
+    },
+    {
+        "title": "Userstack — User-Agent string lookup API",
+        "slug": "userstack-user-agent-string-lookup-api",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 21:02:14 +0000",
+        "description": "Looking for a reliable marketing API? Userstack might be exactly what you need. What is Userstack? Detect and parse user agents in real-time. Returns browser...",
+        "keywords": "userstack, api, user, key, free, apilayer, one, agent",
+        "generated": "2026-09-22T21:06:11.060930",
+        "file": "userstack-user-agent-string-lookup-api.md"
     },
     {
         "title": "Tried `sponsors/colinhacks` Today: A Quick Note for TypeScript AI Developers",
@@ -76188,6 +76375,17 @@
         "file": "streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california.md"
     },
     {
+        "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+        "slug": "overreliance-on-ai-contributed-to-missile-strike-on-iran-school-pentagon",
+        "author": "devonnull",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 19:03:38 +0000",
+        "description": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/ Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 223 # Comments: 116",
+        "keywords": "iran, school, url, https, com, comments, overreliance, contributed",
+        "generated": "2026-09-22T21:06:11.057888",
+        "file": "overreliance-on-ai-contributed-to-missile-strike-on-iran-school-pentagon.md"
+    },
+    {
         "title": "R10 Construction: West Bromwich's Premier Groundwork & Surfacing Experts",
         "slug": "r10-construction-west-bromwichs-premier-groundwork-surfacing-experts",
         "author": "r10constructioncontracter",
@@ -79981,6 +80179,17 @@
         "keywords": "memory, agent, what, incident, hindsight, incidents, redis, pool",
         "generated": "2026-06-27T08:43:42.523559",
         "file": "what-happens-when-your-ai-agent-actually-remembers-past-incidents.md"
+    },
+    {
+        "title": "Building AI Data Pipelines — How to Feed Your LLM Fresh Web Data",
+        "slug": "building-ai-data-pipelines-how-to-feed-your-llm-fresh-web-data",
+        "author": "Nick Davies",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 20:57:03 +0000",
+        "description": "Your AI is only as good as its data. Here's how to build automated data pipelines. The Problem Most developers still write custom scripts for data collection...",
+        "keywords": "data, instagram, users, free, scraper, try, google, your",
+        "generated": "2026-09-22T21:06:11.066515",
+        "file": "building-ai-data-pipelines-how-to-feed-your-llm-fresh-web-data.md"
     },
     {
         "title": "OpenAI-Compatible APIs Are Great Until Streaming Breaks: What I Check Before Switching Providers",
@@ -87732,6 +87941,17 @@
         "keywords": "can, human, loop, decisions, oversight, where, review, people",
         "generated": "2026-09-21T12:28:55.244386",
         "file": "human-in-the-loop-ai-why-human-oversight-still-matters.md"
+    },
+    {
+        "title": "SAML: A Fractal of Bad Design",
+        "slug": "saml-a-fractal-of-bad-design",
+        "author": "aray07",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 18:57:17 +0000",
+        "description": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points: 78 # C...",
+        "keywords": "saml, fractal, bad, design, url, https, com, comments",
+        "generated": "2026-09-22T21:06:11.058035",
+        "file": "saml-a-fractal-of-bad-design.md"
     },
     {
         "title": "The Shadow Perimeter: Eliminating Undocumented Access Paths in Corporate Clouds",
