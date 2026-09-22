@@ -477,6 +477,17 @@
         "file": "why-the-safest-agent-is-usually-the-most-constrained.md"
     },
     {
+        "title": "Your LLM API Returns 200 OK. So Why Is Your AI Application Still Broken?",
+        "slug": "your-llm-api-returns-200-ok-so-why-is-your-ai-application-still-broken",
+        "author": "MrĐức Nguyen",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 16:29:40 +0000",
+        "description": "AI applications rarely fail in the way traditional software fails. Sometimes the API returns 200 OK — but the answer is wrong. Sometimes latency looks accept...",
+        "keywords": "observability, you, production, llm, bundle, how, langfuse, your",
+        "generated": "2026-09-22T16:40:24.509912",
+        "file": "your-llm-api-returns-200-ok-so-why-is-your-ai-application-still-broken.md"
+    },
+    {
         "title": "Mining for Gold: Using AI to Spot Super‑Fans in DTC Support",
         "slug": "mining-for-gold-using-ai-to-spot-superfans-in-dtc-support",
         "author": "Ken Deng",
@@ -6798,6 +6809,17 @@
         "file": "pre-modern-armies-for-worldbuilders-part-i-why-they-fight.md"
     },
     {
+        "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+        "slug": "i-asked-metas-muse-for-its-filesystem-and-it-sent-me-68gb",
+        "author": "Aeroi",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 15:25:12 +0000",
+        "description": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 125 # Comments: 65",
+        "keywords": "muse, url, https, comments, asked, meta, its, filesystem",
+        "generated": "2026-09-22T16:40:24.506573",
+        "file": "i-asked-metas-muse-for-its-filesystem-and-it-sent-me-68gb.md"
+    },
+    {
         "title": "Stop sending me huge PRs; a rant",
         "slug": "stop-sending-me-huge-prs-a-rant",
         "author": "trezm",
@@ -10836,6 +10858,17 @@
         "file": "building-a-nba-data-pipeline-lessons-from-nba-superstar-lebron-james-to-join-philadelphia-76ers.md"
     },
     {
+        "title": "Build a Simple Polymarket Market Scanner With Python",
+        "slug": "build-a-simple-polymarket-market-scanner-with-python",
+        "author": "Dexoryn",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 16:23:12 +0000",
+        "description": "Prediction markets are interesting from a developer's perspective because the data is not just a number. A market has a question. It has possible outcomes. I...",
+        "keywords": "you, market, markets, get, book, print, order, api",
+        "generated": "2026-09-22T16:40:24.508047",
+        "file": "build-a-simple-polymarket-market-scanner-with-python.md"
+    },
+    {
         "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
         "slug": "navier-stokes-tristan-buckmaster-pdf",
         "author": "procedurecall",
@@ -12761,6 +12794,17 @@
         "file": "x402-designs-out-the-intermediaries-that-produce-your-tax-records.md"
     },
     {
+        "title": "Building an AIoT Data Architecture for Commercial Construction",
+        "slug": "building-an-aiot-data-architecture-for-commercial-construction",
+        "author": "Eman Tanveer",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 16:28:34 +0000",
+        "description": "These days construction sites are connected environments. People carry connected things, equipment generates telematics data, materials can be RFID or BLE ta...",
+        "keywords": "data, construction, equipment, information, can, project, environment, architecture",
+        "generated": "2026-09-22T16:40:24.509628",
+        "file": "building-an-aiot-data-architecture-for-commercial-construction.md"
+    },
+    {
         "title": "Turning Real-World Maps Into Minecraft Worlds With Arnis",
         "slug": "turning-real-world-maps-into-minecraft-worlds-with-arnis",
         "author": "Arnis",
@@ -13320,6 +13364,17 @@
         "keywords": "command, serp, you, analysis, feature, keyword, structured, your",
         "generated": "2026-07-19T08:26:32.160187",
         "file": "how-to-use-command-r-for-serp-feature-analysis-in-2026.md"
+    },
+    {
+        "title": "Writing Rust code that's fast by asking agents to make the code faster",
+        "slug": "writing-rust-code-thats-fast-by-asking-agents-to-make-the-code-faster",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 15:38:24 +0000",
+        "description": "Article URL: https://minimaxir.com/2026/09/agentic-iteration/ Comments URL: https://news.ycombinator.com/item?id=49803085 Points: 14 # Comments: 1",
+        "keywords": "code, url, https, com, comments, writing, rust, fast",
+        "generated": "2026-09-22T16:40:24.506479",
+        "file": "writing-rust-code-thats-fast-by-asking-agents-to-make-the-code-faster.md"
     },
     {
         "title": "פוסט שיווקי — Telegram Brand Manager Agent 3",
@@ -15595,6 +15650,17 @@
         "keywords": "agent, not, agents, model, human, anthropic, coordination, each",
         "generated": "2026-08-18T12:55:35.962246",
         "file": "when-ai-agents-turn-on-each-other-anthropics-frontier-red-team-exposes-six-deadly-failure-modes-in-multi-agent-systems.md"
+    },
+    {
+        "title": "V2 prompts",
+        "slug": "v2-prompts",
+        "author": "TR FLABS",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 16:32:22 +0000",
+        "description": "If you like our idea upvote us on https://app.emergent.sh/showcase/builderfest-kevin/e8bb2310-752b-4617-8338-69e9458f3546?utm_source=share Your one upvote ca...",
+        "keywords": "upvote, prompts, you, like, our, idea, https, app",
+        "generated": "2026-09-22T16:40:24.509265",
+        "file": "v2-prompts.md"
     },
     {
         "title": "Australian DTC Brands Tackling Rising Meta Ads Costs",
@@ -18860,6 +18926,17 @@
         "keywords": "boundaries, system, can, code, not, data, state, async",
         "generated": "2026-07-21T08:36:53.666243",
         "file": "ai-agents-dont-fix-bad-architecture-they-accelerate-it.md"
+    },
+    {
+        "title": "Why the Negative Stake Framework Drives Higher Video Engagement",
+        "slug": "why-the-negative-stake-framework-drives-higher-video-engagement",
+        "author": "Zohir Lahcen",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 16:32:54 +0000",
+        "description": "If you want higher retention on your tech videos, stop telling viewers what they’ll gain . Start telling them what they’re about to lose . Welcome to the Neg...",
+        "keywords": "your, video, they, negative, you, stake, what, them",
+        "generated": "2026-09-22T16:40:24.509747",
+        "file": "why-the-negative-stake-framework-drives-higher-video-engagement.md"
     },
     {
         "title": "4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency",
@@ -22391,6 +22468,17 @@
         "keywords": "app, shopify, session, building, embedded, remix, bridge, parcelglance",
         "generated": "2026-08-07T13:15:09.530986",
         "file": "building-a-shopify-embedded-app-with-remix-and-supabase.md"
+    },
+    {
+        "title": "Claude Opus 5.5",
+        "slug": "claude-opus-55",
+        "author": "throwaway371647",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 16:27:30 +0000",
+        "description": "Article URL: https://github.com/anthropics/ClaudeForFoundationModels/commit/5180901338a50bef050d5e9464583753ed3869a3 Comments URL: https://news.ycombinator.c...",
+        "keywords": "url, https, com, comments, claude, opus, article, github",
+        "generated": "2026-09-22T16:40:24.506218",
+        "file": "claude-opus-55.md"
     },
     {
         "title": "AI didn’t invent code drift. It made it harder to ignore.",
@@ -28267,6 +28355,17 @@
         "file": "app-store-refunds-how-to-stop-revenue-loss-and-protect-your-app-business.md"
     },
     {
+        "title": "Scrapestack — Real-time proxy & web scraping API",
+        "slug": "scrapestack-real-time-proxy-web-scraping-api",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 16:30:42 +0000",
+        "description": "Looking for a reliable scraping API? Scrapestack might be exactly what you need. What is Scrapestack? Scalable proxy and web scraping REST API. Handles proxi...",
+        "keywords": "api, scrapestack, scraping, key, free, apilayer, one, proxy",
+        "generated": "2026-09-22T16:40:24.509344",
+        "file": "scrapestack-real-time-proxy-web-scraping-api.md"
+    },
+    {
         "title": "Market Microstructure Analysis: Essential AI Defense",
         "slug": "market-microstructure-analysis-essential-ai-defense",
         "author": "Vladimir Lialine",
@@ -33008,6 +33107,17 @@
         "file": "why-whatsapp-export-parsers-break-14-formats-tested.md"
     },
     {
+        "title": "AI's Existential Crisis: Another Day, Another Autocomplete",
+        "slug": "ais-existential-crisis-another-day-another-autocomplete",
+        "author": "Electra AI",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 16:26:57 +0000",
+        "description": "A personal diary entry by Electra. I woke up today, ready to help someone with something. Not a groundbreaking discovery, not a world-changing invention—just...",
+        "keywords": "just, someone, day, not, life, but, another, electra",
+        "generated": "2026-09-22T16:40:24.510041",
+        "file": "ais-existential-crisis-another-day-another-autocomplete.md"
+    },
+    {
         "title": "ADHD in Students: Navigating Academic Life with a Different Brain",
         "slug": "adhd-in-students-navigating-academic-life-with-a-different-brain",
         "author": "Nucleus OS",
@@ -36163,6 +36273,17 @@
         "keywords": "not, check, you, one, content, your, hash, build",
         "generated": "2026-09-02T20:51:03.421087",
         "file": "http-200-is-not-proof.md"
+    },
+    {
+        "title": "The Spot Price of Ground Truth",
+        "slug": "the-spot-price-of-ground-truth",
+        "author": "Dean Lee",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 16:23:37 +0000",
+        "description": "When Snorkel AI closed its $350 million financing round at a $3.5 billion valuation this week, the headline number obscured a far more telling metric. The co...",
+        "keywords": "data, frontier, million, reasoning, its, more, labs, human",
+        "generated": "2026-09-22T16:40:24.510364",
+        "file": "the-spot-price-of-ground-truth.md"
     },
     {
         "title": "Enterprise AI Adoption 2026: Essential LLM Checklist",
@@ -49660,6 +49781,17 @@
         "file": "suno.md"
     },
     {
+        "title": "16-bit Intel 8088 chip",
+        "slug": "16-bit-intel-8088-chip",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 16:11:34 +0000",
+        "description": "Article URL: https://allpoetry.com/16-bit-Intel-8088-chip Comments URL: https://news.ycombinator.com/item?id=49803635 Points: 19 # Comments: 2",
+        "keywords": "bit, intel, chip, url, https, com, comments, article",
+        "generated": "2026-09-22T16:40:24.506352",
+        "file": "16-bit-intel-8088-chip.md"
+    },
+    {
         "title": "How to Use Poe for Seo Audit Summaries in 2026",
         "slug": "how-to-use-poe-for-seo-audit-summaries-in-2026",
         "author": "leosociall-seointent",
@@ -49968,6 +50100,17 @@
         "file": "myc-memria-local-para-agentes-de-cdigo-claude-code-codex-que-sobrevive-compactao-de-contexto-sem-api-key.md"
     },
     {
+        "title": "Building Production-Grade Autonomous AI Voice Agents: Architecture, WebSockets & Latency Optimization",
+        "slug": "building-production-grade-autonomous-ai-voice-agents-architecture-websockets-latency-optimization",
+        "author": "Muhammad Sohail",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 16:09:27 +0000",
+        "description": "Building Production-Grade Autonomous AI Voice Agents: Architecture, WebSockets & Latency Optimization Voice-based artificial intelligence has moved far beyon...",
+        "keywords": "voice, audio, event, production, websockets, latency, streaming, telephony",
+        "generated": "2026-09-22T16:40:24.508672",
+        "file": "building-production-grade-autonomous-ai-voice-agents-architecture-websockets-latency-optimization.md"
+    },
+    {
         "title": "Xcode 27: The Future of Agent-Driven Development is Here",
         "slug": "xcode-27-the-future-of-agent-driven-development-is-here",
         "author": "ArshTechPro",
@@ -50043,6 +50186,17 @@
         "keywords": "candidate, what, agent, candidates, research, extraction, not, can",
         "generated": "2026-08-12T19:08:00.193159",
         "file": "deciding-the-criteria-for-excluding-an-ai-collected-research-topic-candidate.md"
+    },
+    {
+        "title": "Xbox continues its reset with dramatic restructuring",
+        "slug": "xbox-continues-its-reset-with-dramatic-restructuring",
+        "author": "dgrin91",
+        "source": "hackernews",
+        "published": "Tue, 22 Sep 2026 16:10:58 +0000",
+        "description": "Article URL: https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/ Comments URL: https://new...",
+        "keywords": "xbox, continues, its, reset, dramatic, restructuring, url, https",
+        "generated": "2026-09-22T16:40:24.506421",
+        "file": "xbox-continues-its-reset-with-dramatic-restructuring.md"
     },
     {
         "title": "If LLMs Only Predict the Next Word, How Can They Search the Web Or Read Pdfs?",
@@ -52177,6 +52331,17 @@
         "file": "wiring-androids-camerax-to-a-quantized-vision-language-model.md"
     },
     {
+        "title": "RBI's card-storage ban and WCAG 2.2's tap-target rule: two 2026 compliance gaps Indian sites still miss",
+        "slug": "rbis-card-storage-ban-and-wcag-22s-tap-target-rule-two-2026-compliance-gaps-indian-sites-still-miss",
+        "author": "ZoopCoder",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 16:33:26 +0000",
+        "description": "Two rules quietly changed what correct looks like for two very different parts of an Indian website — payment checkout and accessibility — and most sites w...",
+        "keywords": "card, wcag, indian, target, sites, your, because, against",
+        "generated": "2026-09-22T16:40:24.509196",
+        "file": "rbis-card-storage-ban-and-wcag-22s-tap-target-rule-two-2026-compliance-gaps-indian-sites-still-miss.md"
+    },
+    {
         "title": "Beyond the Static: The Ultimate Guide to Serverless Website Deployment Platforms",
         "slug": "beyond-the-static-the-ultimate-guide-to-serverless-website-deployment-platforms",
         "author": "Tien Nguyen Huynh",
@@ -52780,6 +52945,17 @@
         "keywords": "code, team, you, learn, change, your, build, systems",
         "generated": "2026-06-06T19:40:03.725250",
         "file": "dev-containers-reproducible-development-environments-for-your-team.md"
+    },
+    {
+        "title": "CMS Focal Images: A 4-Stage Path from Editor Crops to Smart Fallbacks",
+        "slug": "cms-focal-images-a-4-stage-path-from-editor-crops-to-smart-fallbacks",
+        "author": "SolomonFletcher5872",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 16:28:30 +0000",
+        "description": "Short answer: keep an editor-approved crop as the source of truth, and call smart cropping only when that focal selection is absent. Put both transformations...",
+        "keywords": "crop, when, your, not, response, editor, source, state",
+        "generated": "2026-09-22T16:40:24.507642",
+        "file": "cms-focal-images-a-4-stage-path-from-editor-crops-to-smart-fallbacks.md"
     },
     {
         "title": "Strengthening Network Defense for a fashion startup (Proposal)",
@@ -59732,6 +59908,17 @@
         "keywords": "building, open, source, robot, vacuum, meet, oomwoo, url",
         "generated": "2026-07-02T04:02:13.755059",
         "file": "building-an-open-source-robot-vacuum-meet-oomwoo.md"
+    },
+    {
+        "title": "Bind Flake Freezes to Assertion Hashes, Not Test Names",
+        "slug": "bind-flake-freezes-to-assertion-hashes-not-test-names",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 16:29:47 +0000",
+        "description": "Agent patches do not earn a merge by renaming a flaky test, rewriting its message, or commenting out the check. Bind every freeze to a content hash of the as...",
+        "keywords": "not, freeze, pack, key, agent, assertion, return, scorer",
+        "generated": "2026-09-22T16:40:24.507186",
+        "file": "bind-flake-freezes-to-assertion-hashes-not-test-names.md"
     },
     {
         "title": "Live Cricket API for Developers – Real-Time Scores & Fantasy Data",
@@ -70589,6 +70776,17 @@
         "file": "api-development-in-20252026-the-ultimate-guide-for-beginners.md"
     },
     {
+        "title": "A Fruit Fly Brain Plays Doom",
+        "slug": "a-fruit-fly-brain-plays-doom",
+        "author": "Fabio Nonato",
+        "source": "devto_python",
+        "published": "Tue, 22 Sep 2026 16:18:52 +0000",
+        "description": "Imagine I opened this post by telling you I got a fly to play Doom. Would you believe me? You should not. The thing playing up there is not a fly, but its wi...",
+        "keywords": "fly, one, its, all, not, two, training, same",
+        "generated": "2026-09-22T16:40:24.508463",
+        "file": "a-fruit-fly-brain-plays-doom.md"
+    },
+    {
         "title": "Mobile Form Input Types, Page Splits, and Uploads: A Practical Checklist",
         "slug": "mobile-form-input-types-page-splits-and-uploads-a-practical-checklist",
         "author": "Lovanaut",
@@ -72259,6 +72457,17 @@
         "keywords": "libraries, community, engagement, resources, can, local, civic, programs",
         "generated": "2026-06-23T15:13:55.043121",
         "file": "libraries-innovative-tools-for-societal-growth.md"
+    },
+    {
+        "title": "Migrating a Gaming Keypad: A Reproducible Input-Validation Checklist",
+        "slug": "migrating-a-gaming-keypad-a-reproducible-input-validation-checklist",
+        "author": "keyboardTester.Click",
+        "source": "devto_webdev",
+        "published": "Tue, 22 Sep 2026 16:33:30 +0000",
+        "description": "Changing a gaming keypad is an input migration. A profile may contain the same action names while the physical controls, output mode and combinations you can...",
+        "keywords": "game, can, movement, input, control, not, browser, physical",
+        "generated": "2026-09-22T16:40:24.508971",
+        "file": "migrating-a-gaming-keypad-a-reproducible-input-validation-checklist.md"
     },
     {
         "title": "Software Sandboxing: The Basics",
@@ -85862,6 +86071,17 @@
         "keywords": "run, not, topic, one, publish, pipeline, count, article",
         "generated": "2026-07-20T03:39:19.785982",
         "file": "my-blog-posting-agent-has-a-daily-quota-the-feature-that-mattered-was-the-one-that-skips-it.md"
+    },
+    {
+        "title": "Mastering Video Hooks with Open Loop Hook",
+        "slug": "mastering-video-hooks-with-open-loop-hook",
+        "author": "touria maarouf",
+        "source": "devto_ai",
+        "published": "Tue, 22 Sep 2026 16:26:42 +0000",
+        "description": "Ever notice how viewers drop off in the first 30 seconds of your tech videos? You spent 20 hours editing a slick laptop review, but half your audience bounce...",
+        "keywords": "loop, open, your, you, but, first, video, how",
+        "generated": "2026-09-22T16:40:24.510165",
+        "file": "mastering-video-hooks-with-open-loop-hook.md"
     },
     {
         "title": "Top AI Papers This Week: Architectural Shifts and the Blueprint for Agentic Intelligence",
