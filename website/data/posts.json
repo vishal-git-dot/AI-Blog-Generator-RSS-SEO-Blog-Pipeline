@@ -957,6 +957,17 @@
         "file": "untyped-python-let-antigravity-goal-do-the-cleanup.md"
     },
     {
+        "title": "Once Claude can measure something, it can make it faster",
+        "slug": "once-claude-can-measure-something-it-can-make-it-faster",
+        "author": "matthieu_bl",
+        "source": "hackernews",
+        "published": "Wed, 23 Sep 2026 19:23:40 +0000",
+        "description": "Article URL: https://claude.dev/blog/how-we-made-claude-ai-faster/ Comments URL: https://news.ycombinator.com/item?id=49821196 Points: 86 # Comments: 55",
+        "keywords": "claude, can, faster, url, https, comments, once, measure",
+        "generated": "2026-09-23T21:20:28.044721",
+        "file": "once-claude-can-measure-something-it-can-make-it-faster.md"
+    },
+    {
         "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
         "slug": "show-hn-the-same-nine-streaming-subscriptions-cost-702year-more-than-in-2021",
         "author": "honestlyranked",
@@ -2033,6 +2044,17 @@
         "keywords": "trong, khi, star, theo, claude, logic, thay, vai",
         "generated": "2026-08-23T01:43:25.006404",
         "file": "dng-claude-m-phng-phng-vn-v-ti-u-m-hnh-star-trong-90-giy.md"
+    },
+    {
+        "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+        "slug": "show-hn-i-built-a-post-mortem-debugger-for-native-windows-x64x86-crashes",
+        "author": "Loren_SL",
+        "source": "hackernews",
+        "published": "Wed, 23 Sep 2026 19:15:55 +0000",
+        "description": "Hello HN! I've spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinD...",
+        "keywords": "you, debugging, forensicdbg, can, built, windows, crashes, tools",
+        "generated": "2026-09-23T21:20:28.044813",
+        "file": "show-hn-i-built-a-post-mortem-debugger-for-native-windows-x64x86-crashes.md"
     },
     {
         "title": "The link that lived in the author's hand",
@@ -7532,6 +7554,17 @@
         "keywords": "governance, model, data, gateway, compliance, teams, tools, bifrost",
         "generated": "2026-08-05T08:43:39.000669",
         "file": "ai-governance-tools-top-5-platforms-for-enterprise-teams-in-2026.md"
+    },
+    {
+        "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+        "slug": "swap-zram-zswap-and-hibernate-on-nixos",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Wed, 23 Sep 2026 18:07:04 +0000",
+        "description": "Article URL: https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/ Comments URL: https://news.ycombinator.com/item?id=49820136 Points: 10 ...",
+        "keywords": "swap, zram, zswap, hibernate, nixos, url, https, com",
+        "generated": "2026-09-23T21:20:28.044870",
+        "file": "swap-zram-zswap-and-hibernate-on-nixos.md"
     },
     {
         "title": "Building a serial and VGA everything console",
@@ -22721,6 +22754,17 @@
         "file": "most-people-search-tools-will-sell-you-a-phone-number-thats-actually-masked-garbage-mine-refuses-to.md"
     },
     {
+        "title": "Observatorio de gastos públicos",
+        "slug": "observatorio-de-gastos-pblicos",
+        "author": "benevanio santos",
+        "source": "devto_webdev",
+        "published": "Wed, 23 Sep 2026 21:15:37 +0000",
+        "description": "Estou desenvolvendo o Observatório de Gastos Públicos, um projeto open source com a ideia de tornar dados públicos mais acessíveis e fáceis de acompanhar. ht...",
+        "keywords": "com, gastos, dados, para, acompanhar, observatorio, projeto, mais",
+        "generated": "2026-09-23T21:20:28.046580",
+        "file": "observatorio-de-gastos-pblicos.md"
+    },
+    {
         "title": "JavaScript ES2026 Just Shipped What Developers Have Been Asking for Years",
         "slug": "javascript-es2026-just-shipped-what-developers-have-been-asking-for-years",
         "author": "Muhammad Usman",
@@ -22917,6 +22961,17 @@
         "keywords": "data, you, your, prefect, pipeline, task, use, run",
         "generated": "2026-06-06T08:41:07.452506",
         "file": "the-developers-guide-to-data-pipeline-automation-beyond-cron-jobs.md"
+    },
+    {
+        "title": "Structured outputs: getting JSON you can trust from LLMs",
+        "slug": "structured-outputs-getting-json-you-can-trust-from-llms",
+        "author": "AI Frontier Post",
+        "source": "devto_python",
+        "published": "Wed, 23 Sep 2026 21:04:45 +0000",
+        "description": "Originally published at AI Frontier Post . Malformed JSON from LLMs doesn't have to be a fact of life. Here's the full reliability stack — strict schemas, pr...",
+        "keywords": "schema, json, model, your, can, you, field, provider",
+        "generated": "2026-09-23T21:20:28.045759",
+        "file": "structured-outputs-getting-json-you-can-trust-from-llms.md"
     },
     {
         "title": "Ship Faster, Invoice Smarter: Automating Freelancer Docs with Developer Tools",
@@ -25057,10 +25112,10 @@
         "slug": "nexus-intelligence-research-september-2026",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Mon, 07 Sep 2026 03:47:55 +0000",
+        "published": "Wed, 23 Sep 2026 21:08:32 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, nexus, intelligence, research, september, recommended, tools, binance",
-        "generated": "2026-09-07T03:57:33.586422",
+        "generated": "2026-09-23T21:20:28.048113",
         "file": "nexus-intelligence-research-september-2026.md"
     },
     {
@@ -27933,6 +27988,17 @@
         "keywords": "marketing, oxlo, context, models, request, content, based, you",
         "generated": "2026-07-27T19:42:31.394530",
         "file": "unlocking-llm-potential-in-marketing.md"
+    },
+    {
+        "title": "PDFlayer — HTML to PDF conversion API",
+        "slug": "pdflayer-html-to-pdf-conversion-api",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Wed, 23 Sep 2026 21:14:59 +0000",
+        "description": "Looking for a reliable devtools API? PDFlayer might be exactly what you need. What is PDFlayer? Convert any HTML or URL to a high-quality PDF document. Suppo...",
+        "keywords": "pdflayer, api, key, free, apilayer, one, html, pdf",
+        "generated": "2026-09-23T21:20:28.046779",
+        "file": "pdflayer-html-to-pdf-conversion-api.md"
     },
     {
         "title": "US battery manufacturing output continues to break records",
@@ -34328,6 +34394,17 @@
         "keywords": "you, what, not, one, api, file, page, every",
         "generated": "2026-09-04T10:58:53.877793",
         "file": "serving-95000-pages-with-no-backend-one-cron-job-flat-files-and-a-weather-site.md"
+    },
+    {
+        "title": "Binary vs Unilevel vs Matrix MLM Software",
+        "slug": "binary-vs-unilevel-vs-matrix-mlm-software",
+        "author": "TECH WEB MANTRA",
+        "source": "devto_webdev",
+        "published": "Wed, 23 Sep 2026 21:11:32 +0000",
+        "description": "Binary vs Unilevel vs Matrix MLM Software Choosing the right compensation structure is one of the most important decisions for a direct selling business. Bin...",
+        "keywords": "software, mlm, matrix, binary, unilevel, compensation, business, may",
+        "generated": "2026-09-23T21:20:28.047257",
+        "file": "binary-vs-unilevel-vs-matrix-mlm-software.md"
     },
     {
         "title": "Every gate in my system is a scar",
@@ -42583,6 +42660,17 @@
         "file": "15-web-cloud-terms-every-non-technical-founder-should-actually-understand.md"
     },
     {
+        "title": "28 Safety Checks Before Purchasing Payoneer Accounts",
+        "slug": "28-safety-checks-before-purchasing-payoneer-accounts",
+        "author": "Kariotta Lawrence",
+        "source": "devto_ai",
+        "published": "Wed, 23 Sep 2026 21:05:14 +0000",
+        "description": "Buy Verified Payoneer Account Get professional help with a Buy Verified Payoneer Account setup. Create, configure, and understand your Payoneer profile with ...",
+        "keywords": "account, payoneer, setup, information, service, you, verification, guidance",
+        "generated": "2026-09-23T21:20:28.049221",
+        "file": "28-safety-checks-before-purchasing-payoneer-accounts.md"
+    },
+    {
         "title": "How I built an OpenAI-compatible prompt encryption proxy in 300 lines of Python",
         "slug": "how-i-built-an-openai-compatible-prompt-encryption-proxy-in-300-lines-of-python",
         "author": "Xjz · Builder",
@@ -45608,6 +45696,17 @@
         "file": "built-a-100-serverless-tiktok-transcript-extractor-with-cloudflare-workers-500ms-zero-ads.md"
     },
     {
+        "title": "What Can Go Wrong When Buying Payoneer Accounts? 20 Key Risks",
+        "slug": "what-can-go-wrong-when-buying-payoneer-accounts-20-key-risks",
+        "author": "Kariotta Lawrence",
+        "source": "devto_python",
+        "published": "Wed, 23 Sep 2026 21:01:07 +0000",
+        "description": "Buy Verified Payoneer Account Get professional help with a Buy Verified Payoneer Account setup. Create, configure, and understand your Payoneer profile with ...",
+        "keywords": "account, payoneer, setup, information, service, you, verification, guidance",
+        "generated": "2026-09-23T21:20:28.046274",
+        "file": "what-can-go-wrong-when-buying-payoneer-accounts-20-key-risks.md"
+    },
+    {
         "title": "All-Inclusive Living: Breaking Down the Serviced Apartment Concept",
         "slug": "all-inclusive-living-breaking-down-the-serviced-apartment-concept",
         "author": "Isha Mohammad",
@@ -46838,6 +46937,17 @@
         "keywords": "lines, content, extraction, self, json, text, client, model",
         "generated": "2026-06-27T13:54:40.043897",
         "file": "using-llms-in-biology-a-guide.md"
+    },
+    {
+        "title": "Special Education ESN Teacher Job in San Diego | Apply Now",
+        "slug": "special-education-esn-teacher-job-in-san-diego-apply-now",
+        "author": "every special child usa",
+        "source": "devto_webdev",
+        "published": "Wed, 23 Sep 2026 21:15:26 +0000",
+        "description": "A career in special education provides educators with an opportunity to create meaningful learning experiences for students with diverse abilities. The Speci...",
+        "keywords": "esn, education, support, can, special, students, student, teacher",
+        "generated": "2026-09-23T21:20:28.046702",
+        "file": "special-education-esn-teacher-job-in-san-diego-apply-now.md"
     },
     {
         "title": "The Difference Between a CSS Library and a CSS Architecture",
@@ -51315,6 +51425,17 @@
         "file": "i-built-a-free-api-with-5-developer-utilities.md"
     },
     {
+        "title": "Flask Nova 0.2.x: Async Tasks, Pydantic Field Validation & OpenAPI 3.0 for Flask",
+        "slug": "flask-nova-02x-async-tasks-pydantic-field-validation-openapi-30-for-flask",
+        "author": "Emmanuel Buah-Kwofie",
+        "source": "devto_python",
+        "published": "Wed, 23 Sep 2026 21:14:45 +0000",
+        "description": "Flask remains one of the most flexible WSGI frameworks in Python. However, building enterprise-grade APIs often requires manual integration of OpenAPI spec g...",
+        "keywords": "flask, field, file, nova, pydantic, openapi, task, import",
+        "generated": "2026-09-23T21:20:28.044998",
+        "file": "flask-nova-02x-async-tasks-pydantic-field-validation-openapi-30-for-flask.md"
+    },
+    {
         "title": "From Prompt to Play Store: Rapid Prototyping and Scaling Mobile Apps with WaveMaker AI",
         "slug": "from-prompt-to-play-store-rapid-prototyping-and-scaling-mobile-apps-with-wavemaker-ai",
         "author": "melissadissouza",
@@ -51456,6 +51577,17 @@
         "keywords": "real, time, high, state, cabree, sub, job, allocation",
         "generated": "2026-08-28T10:48:56.457673",
         "file": "building-cabree-architectural-decisions-for-sub-second-taxi-dispatching.md"
+    },
+    {
+        "title": "What building a bot with real memory taught me about storage that cannot be edited",
+        "slug": "what-building-a-bot-with-real-memory-taught-me-about-storage-that-cannot-be-edited",
+        "author": "Ar1Ma「🦑」🦭/acc | 🥃",
+        "source": "devto_python",
+        "published": "Wed, 23 Sep 2026 20:58:19 +0000",
+        "description": "A support bot asks for your order number for the third time. A companion app has no idea what you told it yesterday. Most of us have met a chatbot that forge...",
+        "keywords": "line, not, one, what, bot, lines, memory, seconds",
+        "generated": "2026-09-23T21:20:28.046469",
+        "file": "what-building-a-bot-with-real-memory-taught-me-about-storage-that-cannot-be-edited.md"
     },
     {
         "title": "AI Güvenlik Protokolleri Üzerine Yeni Yaklaşımlar",
@@ -60643,6 +60775,17 @@
         "file": "slater-low-memory-graphdb-designed-for-read-heavy-graphs.md"
     },
     {
+        "title": "How to Use Notion AI for Search Intent Classification in 2026",
+        "slug": "how-to-use-notion-ai-for-search-intent-classification-in-2026",
+        "author": "leosociall-seointent",
+        "source": "devto_ai",
+        "published": "Wed, 23 Sep 2026 21:08:20 +0000",
+        "description": "Originally published at https://seointent.com/blog/notion-ai-for-search-intent-classification TL;DR - Notion AI for search intent classification lets you pas...",
+        "keywords": "notion, intent, classification, keyword, search, you, your, keywords",
+        "generated": "2026-09-23T21:20:28.048722",
+        "file": "how-to-use-notion-ai-for-search-intent-classification-in-2026.md"
+    },
+    {
         "title": "My AI Feature Was Dead for a Day. The Metric Said It Was Working.",
         "slug": "my-ai-feature-was-dead-for-a-day-the-metric-said-it-was-working",
         "author": "DEVALAND",
@@ -61703,10 +61846,10 @@
         "slug": "how-to-validate-phone-numbers-via-api-global-coverage",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Sun, 20 Sep 2026 20:24:33 +0000",
+        "published": "Wed, 23 Sep 2026 21:09:49 +0000",
         "description": "Bad phone data kills conversion rates. Fix it at the source. The Problem Most developers either build custom solutions (slow, fragile) or pay for expensive e...",
         "keywords": "phone, api, free, validate, numbers, data, most, apis",
-        "generated": "2026-09-20T20:35:13.100331",
+        "generated": "2026-09-23T21:20:28.047345",
         "file": "how-to-validate-phone-numbers-via-api-global-coverage.md"
     },
     {
@@ -68572,6 +68715,17 @@
         "keywords": "sol, quantum, calibration, gpt, openai, qubit, model, equs",
         "generated": "2026-09-12T10:25:42.910288",
         "file": "mit-equs-automates-qubit-calibration-saving-months-with-gpt-56-sol.md"
+    },
+    {
+        "title": "Why Omarchy Exists",
+        "slug": "why-omarchy-exists",
+        "author": "mikae1",
+        "source": "hackernews",
+        "published": "Wed, 23 Sep 2026 20:31:55 +0000",
+        "description": "Article URL: https://mikael.pika.page/posts/why-omarchy-exists Comments URL: https://news.ycombinator.com/item?id=49822122 Points: 19 # Comments: 12",
+        "keywords": "why, omarchy, exists, url, https, comments, article, mikael",
+        "generated": "2026-09-23T21:20:28.044650",
+        "file": "why-omarchy-exists.md"
     },
     {
         "title": "AI工具如何帮你把副业效率提升3倍 - 深度实操指南 | 理财·副业",
@@ -76681,6 +76835,17 @@
         "file": "app-store-refunds-how-to-stop-revenue-loss-and-protect-your-app-business.md"
     },
     {
+        "title": "LensVLM-9B by Apple",
+        "slug": "lensvlm-9b-by-apple",
+        "author": "nthypes",
+        "source": "hackernews",
+        "published": "Wed, 23 Sep 2026 20:35:20 +0000",
+        "description": "Article URL: https://huggingface.co/papers/2605.07019 Comments URL: https://news.ycombinator.com/item?id=49822186 Points: 21 # Comments: 0",
+        "keywords": "url, https, comments, lensvlm, apple, article, huggingface, papers",
+        "generated": "2026-09-23T21:20:28.044528",
+        "file": "lensvlm-9b-by-apple.md"
+    },
+    {
         "title": "19: The Neuroscience of Typing Speed: How Your Brain Learns to Type and Why Muscle Memory Is Everything",
         "slug": "19-the-neuroscience-of-typing-speed-how-your-brain-learns-to-type-and-why-muscle-memory-is-everything",
         "author": "Roboticela",
@@ -77548,6 +77713,17 @@
         "keywords": "data, minute, time, market, timestamp, historical, bars, database",
         "generated": "2026-07-23T03:24:20.280016",
         "file": "how-to-eliminate-duplicates-missing-minute-bars-when-merging-historical-stock-data-from-market-apis.md"
+    },
+    {
+        "title": "Using MCP to Integrate Real-Time Telegram Checks into AI Agents",
+        "slug": "using-mcp-to-integrate-real-time-telegram-checks-into-ai-agents",
+        "author": "tgvalidator",
+        "source": "devto_ai",
+        "published": "Wed, 23 Sep 2026 21:10:12 +0000",
+        "description": "Modern AI assistants like Claude Desktop are powerful, but they often lack the ability to verify real-time platform data. If you are building workflows that ...",
+        "keywords": "your, you, assistant, mcp, time, real, these, validator",
+        "generated": "2026-09-23T21:20:28.048052",
+        "file": "using-mcp-to-integrate-real-time-telegram-checks-into-ai-agents.md"
     },
     {
         "title": "Xbox continues its reset with dramatic restructuring",
@@ -87237,6 +87413,17 @@
         "keywords": "flutter, url, https, comments, article, dev, blog, whats",
         "generated": "2026-08-13T07:41:34.962250",
         "file": "flutter-347.md"
+    },
+    {
+        "title": "Grafana Cloud vs Metrics API: Startup SaaS Dashboard Cost Attribution",
+        "slug": "grafana-cloud-vs-metrics-api-startup-saas-dashboard-cost-attribution",
+        "author": "ColeMitchell4991",
+        "source": "devto_python",
+        "published": "Wed, 23 Sep 2026 21:08:53 +0000",
+        "description": "Choose a simple metrics API for cost-attributed import results inside a gaming SaaS admin panel, and pair it with a heartbeat monitor for the missing-run ale...",
+        "keywords": "not, run, metrics, import, api, dashboard, metric, can",
+        "generated": "2026-09-23T21:20:28.045373",
+        "file": "grafana-cloud-vs-metrics-api-startup-saas-dashboard-cost-attribution.md"
     },
     {
         "title": "Changes to LLM pricing: Ambient and Inceptron",
