@@ -1,0 +1,34 @@
+---
+title: "55 Places My Code Predates the Language. All Auto-Fixed."
+slug: "55-places-my-code-predates-the-language-all-auto-fixed"
+author: "Ofri Peretz"
+source: "devto_webdev"
+published: "Wed, 23 Sep 2026 04:04:28 +0000"
+description: "const latest = baseline [ baseline . length - 1 ] ?? null ; Nothing is wrong with that line. It passes review, ships, and works. It is also how you wrote Jav..."
+keywords: "prefer, modernization, findings, not, eslint, you, files, plugin"
+generated: "2026-09-23T04:13:47.926313"
+---
+
+# 55 Places My Code Predates the Language. All Auto-Fixed.
+
+## Overview
+
+const latest = baseline [ baseline . length - 1 ] ?? null ; Nothing is wrong with that line. It passes review, ships, and works. It is also how you wrote JavaScript before 2022, and I have written it a thousand times since. I ran four modernization rules over 389 .ts / .tsx files across four of my own repos. 55 findings in 36 files — and every single one carried an autofix. After --fix , the remaining count was zero . The two that fired prefer-at — 11 findings. The end-of-array idiom, mechanically rewritten: // before const latest = baseline [ baseline . length - 1 ] ?? null ; for ( const a of accrual [ accrual . length - 2 ]. articles ) { /* … */ } // after --fix const latest = baseline . at ( - 1 ) ?? null ; for ( const a of accrual . at ( - 2 ). articles ) { /* … */ } prefer-template-literal — 44 findings: // before String ( res . stderr || res . stdout || " claude exited " + res . status ); // after --fix String ( res . stderr || res . stdout || `claude exited ${ res . status } ` ); Why this survives review forever: a reviewer's job is to reject broken code, and none of this is broken. arr[arr.length - 1] is correct in every runtime that ever existed. The only thing that can flag it is a tool that knows what year it is. The two that found nothing no-instanceof-array and prefer-event-target returned 0 findings across all 389 files . A rule that never fires is not broken — it is a rule for a pattern you do not have. instanceof Array breaks across realms; if you have never hit it, silence is correct. The failure mode to fear is the opposite: I have a rule elsewhere that flags every .map() in JSX, 476 findings of noise. Yield tells you nothing about quality on its own — the same trap as counting rules instead of measuring them . Lint as codemod, not as style Most lint rules ask you to decide something. These ask you to apply something — the semantics are identical and the fixer is exact. You do not triage 55 findings — you run the fixer once, read the diff as one commit, and the rule holds the line. A migration plus a ratchet, the same shape as an autofix turning a hardcoded secret into a one-command repair . Check the diff, though — "auto-fixable" means exact, not invisible, and there are two catches. .at() is typed at(index: number): T | undefined , while arr[arr.length - 2] is typed T , so a chained access can stop compiling: my accrual.at(-2).articles above is TS2532: Object is possibly 'undefined' under --strict . The ?? null on the first example absorbs it; a bare chain needs a guard. And .at() is ES2022 — Node 18+ and any 2023+ browser are fine, older targets need a polyfill. The config // eslint.config.mjs import modernization from " eslint-plugin-modernization " ; export default [ { files : [ " **/*.ts " , " **/*.tsx " ], plugins : { modernization }, rules : { " modernization/prefer-at " : " error " , " modernization/prefer-template-literal " : " error " , " modernization/no-instanceof-array " : " error " , " modernization/prefer-event-target " : " error " , }, }, ]; npm install --save-dev eslint-plugin-modernization # npm yarn add --dev eslint-plugin-modernization # yarn pnpm add --save-dev eslint-plugin-modernization # pnpm bun add --dev eslint-plugin-modernization # bun npx eslint . --fix Measured against 3.1.2 , peer range ^8.40.0 || ^9.0.0 || ^10.0.0 , Node 18+. prefer-template-literal does not exist before 3.x, so an older install rejects the config. ESLint only. All four at error is safe for these findings , but be precise why: in 3.1.2 only prefer-at and prefer-template-literal carry a fixer. All 55 findings came from those two, which is why --fix emptied the list — not because the plugin is 100% auto-fixable: node -p "Object.entries(require('eslint-plugin-modernization').rules) .map(([k,r]) => k + ': ' + (r.meta.fixable || 'no fixer')).join(' \n ')" # no-instanceof-array: no fixer # prefer-at: code # prefer-event-target: no fixer # prefer-template-literal: code Run it against the published package: a monorepo symlink resolves to unreleased source and answers a different question. prefer-event-target gains a fixer after 3.1.2. Rule docs · npm . Numbers measured 2026-08-12 against four repos I own — my code, not a public corpus, so treat 55 as a shape. Re-run 2026-09-04 over the 189 .ts / .tsx files of this blog's public apps/blog/src , plugin at 3.1.2: 8 findings in 6 files — six prefer-at , two prefer-template-literal . Three weeks after the codemod, the old idiom had crept back eight times. That is the argument for leaving the rules at error . Two guards on it. The harness reports unmatched: 0 , so all 189 files were configured — an earlier run returned a confident 0 that was 189 files matching no config. And on that tree the same day, the noisy rule above returns 110 : yield is not quality. What's the oldest idiom still alive in your codebase — and is it there because it's correct, or because nothing ever flagged it?
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/ofri-peretz/55-places-my-code-predates-the-language-all-auto-fixed-21dd
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
