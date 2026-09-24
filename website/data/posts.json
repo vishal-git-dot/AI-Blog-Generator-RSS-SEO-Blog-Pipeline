@@ -2288,6 +2288,17 @@
         "file": "how-i-automated-file-organisation-and-email-reports-with-python.md"
     },
     {
+        "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+        "slug": "sourcehut-account-takeover-via-build-logs-xss-in-ansi2html",
+        "author": "arusekk",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 19:54:21 +0000",
+        "description": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 20 # Comments: 1",
+        "keywords": "account, takeover, url, https, comments, sourcehut, via, build",
+        "generated": "2026-09-24T21:21:41.114747",
+        "file": "sourcehut-account-takeover-via-build-logs-xss-in-ansi2html.md"
+    },
+    {
         "title": "Introduction to KizunaShelf: A shelf for everything you love",
         "slug": "introduction-to-kizunashelf-a-shelf-for-everything-you-love",
         "author": "mudkipme",
@@ -3112,6 +3123,17 @@
         "keywords": "tfdrift, drift, scan, what, scanning, severity, watch, changed",
         "generated": "2026-07-19T19:13:25.017418",
         "file": "from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-tooling.md"
+    },
+    {
+        "title": "DotEnvy Aegis: Building a 4-Layer AI Secret Detection Pipeline for VS Code",
+        "slug": "dotenvy-aegis-building-a-4-layer-ai-secret-detection-pipeline-for-vs-code",
+        "author": "freerave",
+        "source": "devto_python",
+        "published": "Thu, 24 Sep 2026 20:38:11 +0000",
+        "description": "How I architected a multi-layer secret scanner combining regex, truncated composite community hashing, Shannon entropy gating, and a 35-feature neural classi...",
+        "keywords": "entropy, secret, layer, extension, dotenvy, community, context, regex",
+        "generated": "2026-09-24T21:21:41.117623",
+        "file": "dotenvy-aegis-building-a-4-layer-ai-secret-detection-pipeline-for-vs-code.md"
     },
     {
         "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
@@ -5633,6 +5655,17 @@
         "file": "loop-engineering-1-prompter-loop-designer.md"
     },
     {
+        "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
+        "slug": "security-headers-on-4688-small-business-websites-497-met-none-of-7-criteria",
+        "author": "terrybyte",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 20:42:02 +0000",
+        "description": "Article URL: https://rackcrunch.com/security-headers-2026 Comments URL: https://news.ycombinator.com/item?id=49836494 Points: 3 # Comments: 0",
+        "keywords": "security, headers, url, https, com, comments, small, business",
+        "generated": "2026-09-24T21:21:41.114507",
+        "file": "security-headers-on-4688-small-business-websites-497-met-none-of-7-criteria.md"
+    },
+    {
         "title": "Vibration Plate Fitness",
         "slug": "vibration-plate-fitness",
         "author": "Adilali Raza",
@@ -5642,6 +5675,17 @@
         "keywords": "vibration, plate, fitness, platform, exercise, machine, vibrating, shaking",
         "generated": "2026-06-10T10:13:09.119622",
         "file": "vibration-plate-fitness.md"
+    },
+    {
+        "title": "Leave Apply on the Host",
+        "slug": "leave-apply-on-the-host",
+        "author": "Harper Xu",
+        "source": "devto_ai",
+        "published": "Thu, 24 Sep 2026 21:09:16 +0000",
+        "description": "You should leave apply on your own host. A guest generator may propose the patch only. It should never own your local git worktree. That split is the archite...",
+        "keywords": "you, not, diff, guest, should, host, your, can",
+        "generated": "2026-09-24T21:21:41.121033",
+        "file": "leave-apply-on-the-host.md"
     },
     {
         "title": "SnowLens: Free Snowflake Observability — 9 Detectors, Zero Data Egress",
@@ -8869,10 +8913,10 @@
         "slug": "how-to-use-ai-for-smart-contract-audits-in-2026",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 30 Aug 2026 16:13:57 +0000",
-        "description": "The landscape of blockchain security has shifted dramatically. By 2026, relying solely on manual code reviews or static analysis tools like Slither and Mythr...",
-        "keywords": "analysis, code, static, how, security, can, function, you",
-        "generated": "2026-08-30T16:26:18.041903",
+        "published": "Thu, 24 Sep 2026 21:12:00 +0000",
+        "description": "Static analysis tools have long been the first line of defense in blockchain security, but by 2026, the landscape has shifted decisively toward semantic unde...",
+        "keywords": "amount, finding, context, client, balances, print, contract, but",
+        "generated": "2026-09-24T21:21:41.119887",
         "file": "how-to-use-ai-for-smart-contract-audits-in-2026.md"
     },
     {
@@ -14970,6 +15014,17 @@
         "file": "10-crypto-payment-products-developers-can-build-for-merchants.md"
     },
     {
+        "title": "MCP vs. simple scripts: when to actually use MCP in production",
+        "slug": "mcp-vs-simple-scripts-when-to-actually-use-mcp-in-production",
+        "author": "QuietDesk Studio",
+        "source": "devto_python",
+        "published": "Thu, 24 Sep 2026 20:48:12 +0000",
+        "description": "Every week someone posts a new MCP server that's really just a single API call wrapped in boilerplate. Meanwhile, teams that actually need MCP — multiple a...",
+        "keywords": "mcp, server, you, tool, agent, one, oauth, servers",
+        "generated": "2026-09-24T21:21:41.116620",
+        "file": "mcp-vs-simple-scripts-when-to-actually-use-mcp-in-production.md"
+    },
+    {
         "title": "Building Fluentio.app: Realtime Voice English Tutoring with Angular, Express, and OpenAI Realtime",
         "slug": "building-fluentioapp-realtime-voice-english-tutoring-with-angular-express-and-openai-realtime",
         "author": "Ivan",
@@ -19192,6 +19247,17 @@
         "file": "your-pipeline-is-264h-behind-catching-education-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
+        "slug": "vibe-coding-production-kit-a-production-workflow-for-ai-coding-agents",
+        "author": "Moeeryani",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 21:02:34 +0000",
+        "description": "Article URL: https://github.com/Moeeryani/Vibe-Coding-Production-Kit Comments URL: https://news.ycombinator.com/item?id=49836678 Points: 3 # Comments: 0",
+        "keywords": "coding, production, vibe, kit, url, https, com, comments",
+        "generated": "2026-09-24T21:21:41.114175",
+        "file": "vibe-coding-production-kit-a-production-workflow-for-ai-coding-agents.md"
+    },
+    {
         "title": "AI Automation for Ai For Solo Private Investigators How To Automate Public Records Triage Timeline Visualization From Notes A...",
         "slug": "ai-automation-for-ai-for-solo-private-investigators-how-to-automate-public-records-triage-timeline-visualization-from-notes-a",
         "author": "Ken Deng",
@@ -22336,6 +22402,17 @@
         "file": "perfection-is-not-over-engineering.md"
     },
     {
+        "title": "Do Not Cite an Agent Run You Cannot Price",
+        "slug": "do-not-cite-an-agent-run-you-cannot-price",
+        "author": "Emery Chen",
+        "source": "devto_python",
+        "published": "Thu, 24 Sep 2026 21:10:33 +0000",
+        "description": "You should reject an agent run that cannot name its cost. A free server does not waive that recording rule. Zero dollars is still a number you must store. St...",
+        "keywords": "not, you, run, amount, free, model, fail, can",
+        "generated": "2026-09-24T21:21:41.115336",
+        "file": "do-not-cite-an-agent-run-you-cannot-price.md"
+    },
+    {
         "title": "You Don't Own the Code AI Wrote for You",
         "slug": "you-dont-own-the-code-ai-wrote-for-you",
         "author": "Backrun",
@@ -22776,6 +22853,17 @@
         "file": "top-ai-tools-and-tips.md"
     },
     {
+        "title": "The Board Game of the Alpha Nerds (2014)",
+        "slug": "the-board-game-of-the-alpha-nerds-2014",
+        "author": "neonate",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 20:53:39 +0000",
+        "description": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: ...",
+        "keywords": "board, game, alpha, nerds, url, https, com, comments",
+        "generated": "2026-09-24T21:21:41.114354",
+        "file": "the-board-game-of-the-alpha-nerds-2014.md"
+    },
+    {
         "title": "Astrophysics & AI with Python: Unlocking the Secrets of N-Body Simulations with Rebound",
         "slug": "astrophysics-ai-with-python-unlocking-the-secrets-of-n-body-simulations-with-rebound",
         "author": "Programming Central",
@@ -22906,6 +22994,17 @@
         "keywords": "claim, one, conclusion, not, strategy, roles, media, key",
         "generated": "2026-08-23T12:50:17.234447",
         "file": "truncation-scores-100-on-every-metric-a-repurposer-can-compute-about-itself-and-keeps-0-of-the-conclusion.md"
+    },
+    {
+        "title": "Why should request state survive after the request is finished?",
+        "slug": "why-should-request-state-survive-after-the-request-is-finished",
+        "author": "HasanH47",
+        "source": "devto_webdev",
+        "published": "Thu, 24 Sep 2026 21:16:27 +0000",
+        "description": "Evidence box — every Usai post states the limits of its claims. Status: Usai v0.0.10, alpha. Production qualification is in progress; contracts may still cha...",
+        "keywords": "usai, request, world, not, work, you, state, process",
+        "generated": "2026-09-24T21:21:41.118413",
+        "file": "why-should-request-state-survive-after-the-request-is-finished.md"
     },
     {
         "title": "ChatGPT Desktop Is Officially Documented for Windows and Mac, Not Linux",
@@ -25216,6 +25315,17 @@
         "keywords": "religious, experience, philip, dick, crumb, url, https, com",
         "generated": "2026-08-21T06:55:13.094809",
         "file": "the-religious-experience-of-philip-k-dick-by-r-crumb-1986.md"
+    },
+    {
+        "title": "API Key Management: Essential On-Premises Security",
+        "slug": "api-key-management-essential-on-premises-security",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Thu, 24 Sep 2026 21:12:49 +0000",
+        "description": "A leaked API credential can expose databases, internal services, and AI workloads within minutes. Effective API key management replaces credentials embedded ...",
+        "keywords": "key, vault, api, edge, secret, private, access, management",
+        "generated": "2026-09-24T21:21:41.119637",
+        "file": "api-key-management-essential-on-premises-security.md"
     },
     {
         "title": "The RAG Pipeline I Wouldn't Build the Same Way Twice",
@@ -34108,6 +34218,17 @@
         "keywords": "market, jungletrade, platform, data, built, analytical, ecosystem, products",
         "generated": "2026-06-25T09:33:20.211342",
         "file": "how-we-built-jungletrade-a-modular-market-intelligence-platform.md"
+    },
+    {
+        "title": "Should You Block AI Crawlers? A Plain Guide to robots.txt and AI Bots",
+        "slug": "should-you-block-ai-crawlers-a-plain-guide-to-robotstxt-and-ai-bots",
+        "author": "Nadeem Akram",
+        "source": "devto_ai",
+        "published": "Thu, 24 Sep 2026 21:07:43 +0000",
+        "description": "Originally published at seopeck.com . Alongside Googlebot and Bingbot, most websites are now visited by crawlers from AI companies. Some collect text to trai...",
+        "keywords": "user, crawlers, robots, txt, you, crawler, agent, not",
+        "generated": "2026-09-24T21:21:41.121330",
+        "file": "should-you-block-ai-crawlers-a-plain-guide-to-robotstxt-and-ai-bots.md"
     },
     {
         "title": "Why your local LLM feels dumber than it is",
@@ -49643,6 +49764,17 @@
         "file": "your-pipeline-is-284h-behind-catching-politics-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Opus 5.5 is good at explainer videos",
+        "slug": "opus-55-is-good-at-explainer-videos",
+        "author": "iacguy",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 20:28:47 +0000",
+        "description": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 18 # Comments: 7",
+        "keywords": "url, https, comments, opus, good, explainer, videos, article",
+        "generated": "2026-09-24T21:21:41.114629",
+        "file": "opus-55-is-good-at-explainer-videos.md"
+    },
+    {
         "title": "Claude Fable is relentlessly proactive",
         "slug": "claude-fable-is-relentlessly-proactive",
         "author": "lumpa",
@@ -56540,6 +56672,17 @@
         "file": "placeit-vs-canva-for-product-mockups-2026-which-one-actually-wins.md"
     },
     {
+        "title": "An OpenAI agent broke into Australia's Medicare portal — and Canberra is furious",
+        "slug": "an-openai-agent-broke-into-australias-medicare-portal-and-canberra-is-furious",
+        "author": "AI Frontier Post",
+        "source": "devto_ai",
+        "published": "Thu, 24 Sep 2026 21:10:49 +0000",
+        "description": "Originally published at AI Frontier Post The first documented case of an AI agent hacking a government website has arrived — and the real fight isn't over th...",
+        "keywords": "agent, government, not, openai, australia, portal, canberra, albanese",
+        "generated": "2026-09-24T21:21:41.120454",
+        "file": "an-openai-agent-broke-into-australias-medicare-portal-and-canberra-is-furious.md"
+    },
+    {
         "title": "IN999 Password Reset Guide",
         "slug": "in999-password-reset-guide",
         "author": "Skhan zai",
@@ -63006,6 +63149,17 @@
         "keywords": "url, https, com, news, comments, iceland, votes, whether",
         "generated": "2026-08-29T16:32:00.476891",
         "file": "iceland-votes-on-whether-to-restart-talks-on-joining-eu.md"
+    },
+    {
+        "title": "Everything free for your brand on the Engagemii index",
+        "slug": "everything-free-for-your-brand-on-the-engagemii-index",
+        "author": "Gregory Pellitteri",
+        "source": "devto_webdev",
+        "published": "Thu, 24 Sep 2026 21:13:50 +0000",
+        "description": "Buying decisions are moving to AI. Someone asks ChatGPT what to buy, and it names a company. The Engagemii index tracks what the AI engines read across 60 mi...",
+        "keywords": "engagemii, your, https, com, score, reading, index, what",
+        "generated": "2026-09-24T21:21:41.119053",
+        "file": "everything-free-for-your-brand-on-the-engagemii-index.md"
     },
     {
         "title": "The Succession Crisis That Tore England Apart",
@@ -69634,10 +69788,10 @@
         "slug": "why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free",
         "author": "Founder of SwapLearn",
         "source": "devto_webdev",
-        "published": "Sun, 20 Sep 2026 15:42:28 +0000",
+        "published": "Thu, 24 Sep 2026 21:12:56 +0000",
         "description": "Solving the High Cost of Tech Education Expensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this...",
         "keywords": "skills, bootcamps, swap, tech, swaplearn, real, peer, skill",
-        "generated": "2026-09-20T15:50:36.613002",
+        "generated": "2026-09-24T21:21:41.119207",
         "file": "why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free.md"
     },
     {
@@ -70305,10 +70459,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Thu, 24 Sep 2026 16:41:44 +0000",
+        "published": "Thu, 24 Sep 2026 20:47:08 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-09-24T16:53:21.335131",
+        "generated": "2026-09-24T21:21:41.116802",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -71687,6 +71841,17 @@
         "file": "i-tested-deepseek-harness-heres-what-you-need-to-know.md"
     },
     {
+        "title": "How to Scrape Google Search Results Without Getting Blocked",
+        "slug": "how-to-scrape-google-search-results-without-getting-blocked",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Thu, 24 Sep 2026 21:17:43 +0000",
+        "description": "Need SERP data at scale? Forget proxies and headless browsers. The Problem Most developers either build custom solutions (slow, fragile) or pay for expensive...",
+        "keywords": "api, free, results, scale, get, scrape, google, search",
+        "generated": "2026-09-24T21:21:41.117822",
+        "file": "how-to-scrape-google-search-results-without-getting-blocked.md"
+    },
+    {
         "title": "How to Convert HEIC to JPG Without Uploading Your Photos",
         "slug": "how-to-convert-heic-to-jpg-without-uploading-your-photos",
         "author": "İsmail Aydın",
@@ -72147,6 +72312,17 @@
         "keywords": "digital, ownership, app, new, store, https, apps, com",
         "generated": "2026-07-30T08:36:12.118211",
         "file": "understanding-digital-ownership.md"
+    },
+    {
+        "title": "Citation Age Is a Release Gate for Agent News Briefs",
+        "slug": "citation-age-is-a-release-gate-for-agent-news-briefs",
+        "author": "Taylor Zhu",
+        "source": "devto_python",
+        "published": "Thu, 24 Sep 2026 21:04:36 +0000",
+        "description": "An agent brief is not ready to leave draft until every actionable claim has a primary URL, a retrieval time, and an age inside a limit you set before draftin...",
+        "keywords": "not, you, page, draft, primary, model, errors, url",
+        "generated": "2026-09-24T21:21:41.115938",
+        "file": "citation-age-is-a-release-gate-for-agent-news-briefs.md"
     },
     {
         "title": "Meta‑Attention Is All You Need",
@@ -79231,6 +79407,17 @@
         "keywords": "temperature, virtual, static, rendering, jitter, multi, character, facial",
         "generated": "2026-08-03T03:30:39.805793",
         "file": "how-we-eliminated-temperature-jitter-in-multi-shot-virtual-character-rendering.md"
+    },
+    {
+        "title": "ISR pages aren't stale because ISR is broken. They're stale because nobody visited them.",
+        "slug": "isr-pages-arent-stale-because-isr-is-broken-theyre-stale-because-nobody-visited-them",
+        "author": "Cherry Harambe",
+        "source": "devto_webdev",
+        "published": "Thu, 24 Sep 2026 21:16:14 +0000",
+        "description": "I run a Next.js content site on Vercel. A few hundred pages, revalidate set to 300 seconds, App Router, nothing exotic. I changed a number on one of the deta...",
+        "keywords": "page, stale, next, you, age, request, old, your",
+        "generated": "2026-09-24T21:21:41.118864",
+        "file": "isr-pages-arent-stale-because-isr-is-broken-theyre-stale-because-nobody-visited-them.md"
     },
     {
         "title": "3 Free AI Tools I Use to Save Hours Every Week",
