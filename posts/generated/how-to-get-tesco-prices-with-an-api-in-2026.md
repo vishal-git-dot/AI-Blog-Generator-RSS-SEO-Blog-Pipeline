@@ -1,0 +1,34 @@
+---
+title: "How to get Tesco prices with an API in 2026"
+slug: "how-to-get-tesco-prices-with-an-api-in-2026"
+author: "Russell Yapp"
+source: "devto_python"
+published: "Thu, 24 Sep 2026 16:37:53 +0000"
+description: "The short answer There is no public Tesco price API today. Tesco ran a developer programme in the past, but it was retired years ago and nothing has replaced..."
+keywords: "tesco, price, apify, run, scraper, actor, row, com"
+generated: "2026-09-24T16:53:21.335457"
+---
+
+# How to get Tesco prices with an API in 2026
+
+## Overview
+
+The short answer There is no public Tesco price API today. Tesco ran a developer programme in the past, but it was retired years ago and nothing has replaced it. If you need Tesco's shelf prices as structured data now, for a price-comparison tool, competitor monitoring, an inflation tracker or an AI shopping agent, the practical choices are the same as for any other major UK retailer: scrape tesco.com yourself, or use a maintained scraper that already exposes the data through an API. We built the second option. The UK Supermarket Price Scraper is an Apify Actor that reads Tesco, Sainsbury's, Asda and Aldi and returns one schema of structured product rows, callable through Apify's API, its client libraries, or the Apify console. Why doing it yourself is expensive to keep working Keeping a Tesco scraper working is not a one-off job. Tesco's site is protected by a bot-management service, so a plain HTTP client needs serious engineering to get a consistent response. Tesco's front end also changed its URL scheme and rendering during 2026, which breaks any scraper written against the old pages. Clubcard pricing adds a further wrinkle: single-item Clubcard prices and multibuy or meal-deal Clubcard offers look similar on the page, but only the single-item price is a number anywhere in the data, and the rest only ever appears as promotion text, so a naive parser silently drops it. Keeping up with all of that, in practice, means fixtures for every page type, a canary run that catches breakage before customers do, and someone on call for when the site next changes. What the Actor returns for Tesco The Actor runs in three modes for Tesco: search (keywords, run against Tesco's own search), category (a tesco.com browse URL, copied from the site, for example .../shop/en-GB/browse/<department>/<aisle>/... including the /all form), and product (a Tesco product page URL, for example https://www.tesco.com/shop/en-GB/products/257265436 ). All three modes return the same row shape. For Tesco, each row carries: retailer : always tesco retailerProductId : Tesco's own product id, the tpnc ean : the barcode, present on every Tesco row we have seen name , brand , packSize : as shown on the product page (own-label rows carry Tesco as the brand) price : the current GBP shelf price loyaltyPrice : the single-item Clubcard price, when one is shown promotionText : multibuy and meal-deal Clubcard offers, as free text (Tesco's wasPrice is always null) inStock : Tesco's own online availability flag, national rather than per store categoryPath , url , imageUrl , rating , scrapedAt : as elsewhere in the schema A worked example A search for milk on Tesco, using Apify's Python client: from apify_client import ApifyClient client = ApifyClient ( " YOUR_APIFY_TOKEN " ) run = client . actor ( " yappman/uk-supermarket-price-scraper " ). call ( run_input = { " mode " : " search " , " retailers " : [ " tesco " ], " queries " : [ " semi skimmed milk " ], " maxItems " : 50 } ) for row in client . dataset ( run . default_dataset_id ). iterate_items (): print ( row [ " name " ], row [ " price " ], row [ " loyaltyPrice " ], row [ " ean " ]) The same call as a single curl request to Apify's run-and-wait endpoint, returning CSV directly: curl -X POST "https://api.apify.com/v2/acts/yappman~uk-supermarket-price-scraper/run-sync-get-dataset-items?token=YOUR_APIFY_TOKEN&format=csv" \ -H "content-type: application/json" \ -d '{"mode":"search","retailers":["tesco"],"queries":["semi skimmed milk"],"maxItems":50}' Two real rows from that search, captured on 24 September 2026: Name tpnc Price Loyalty price Promotion text EAN Tesco British Semi Skimmed Milk 2.272L, 4 Pints 254656543 £1.65 none none 5000436589457 Arla LactoFREE Semi Skimmed Milk Drink 2L 309449739 £3.15 £2.50 £2.50 Clubcard Price 5000181042139 All prices here are national online shelf prices as published on tesco.com on 24 September 2026. They will have changed by the time you read this; treat them as illustrative, not current. Cost Pricing is pay-per-event, and platform usage is included in it. Two charges apply: $0.005 once per run as a start fee, and $2.50 per 1,000 products returned ($0.0025 each) on the Free plan, with discounts on higher Apify plans. A run that searches 5 terms across all four retailers and returns 300 products costs 300 × $0.0025 + $0.005 = $0.755. You can cap spend with Apify's maximum-charge setting on the run, and with the maxItems input. Limitations This is public, logged-out data, with the same limits as the rest of the Actor. Tesco prices and stock are both national figures; there is no store-level stock and no store selection for Tesco. Tesco's own search mixes in marketplace-seller and F&F clothing listings, and the Actor skips both, returning only grocery products. There is no basket, account or delivery-slot data, and no Clubcard account is used; everything comes from pages Tesco serves to any visitor, logged out. Two more things worth knowing If you want a look at real numbers before writing any code, there is a free daily dataset: a fixed basket of 212 staple products across Tesco, Sainsbury's, Asda and Aldi, fetched every morning and appended to one dataset since 24 September 2026, no account or token needed: https://api.apify.com/v2/datasets/ynAT9NPps2EdjMOJa/items?signature=MC4xNzkxNDcwNDMyMzg2LjEwV244Nll3OGZYYThIeTN6UkhENA (add &format=csv for CSV). And if you want an alert rather than a one-off pull, a daily price-drop workflow for a shopping basket, built on this Actor, is available in n8n's template library. Where to find it The UK Supermarket Price Scraper is on the Apify Store: https://apify.com/yappman/uk-supermarket-price-scraper . This Actor is not affiliated with, endorsed by, or partnered with Tesco; retailer names are used only to describe the public product data it returns.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/yappman/how-to-get-tesco-prices-with-an-api-in-2026-4n20
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
