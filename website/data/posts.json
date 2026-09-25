@@ -7501,6 +7501,17 @@
         "file": "i-built-a-small-browser-game-for-guessing-cartoon-colors.md"
     },
     {
+        "title": "Two Iceberg Clients, One Protocol: Where the Time Goes",
+        "slug": "two-iceberg-clients-one-protocol-where-the-time-goes",
+        "author": "xbill",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 16:40:44 +0000",
+        "description": "This article provides a step by step comparison of the Rust and Python clients for Apache Iceberg REST catalogs. It times both clients on the same operations...",
+        "keywords": "rust, pyiceberg, clients, catalog, time, iceberg, python, two",
+        "generated": "2026-09-25T16:56:51.662747",
+        "file": "two-iceberg-clients-one-protocol-where-the-time-goes.md"
+    },
+    {
         "title": "Models converged. Trust hasn't.",
         "slug": "models-converged-trust-hasnt",
         "author": "Azan Hyder",
@@ -12561,6 +12572,17 @@
         "file": "we-know-simple-fluids-can-flow-turns-out-some-can-fracture.md"
     },
     {
+        "title": "2026 开发者 Coding Plan 深度评测：200 元包月享 3000 美元额度，如何支撑 Claude Code、Codex 与 Cursor 极致降本？",
+        "slug": "2026-coding-plan-200-3000-claude-codecodex-cursor",
+        "author": "GretchenWeimannrh111",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 16:42:30 +0000",
+        "description": "2026 开发者 Coding Plan 深度评测：200 元包月享 3000 美元额度，如何支撑 Claude Code、Codex 与 Cursor 极致降本？ 进入 2026 年，以 Claude Code 、 OpenAI Codex 、 Cursor 、 Cline 和 OpenCode 为代表的自主代...",
+        "keywords": "superfast, api, xyz, code, openai, agent, gpt, claude",
+        "generated": "2026-09-25T16:56:51.661567",
+        "file": "2026-coding-plan-200-3000-claude-codecodex-cursor.md"
+    },
+    {
         "title": "Your SearXNG JSON integration works on your own instance and silently breaks on everyone else's. Here's why.",
         "slug": "your-searxng-json-integration-works-on-your-own-instance-and-silently-breaks-on-everyone-elses-heres-why",
         "author": "Wren Castellan",
@@ -15190,6 +15212,17 @@
         "file": "vector-databases-for-data-engineers-pinecone-vs-weaviate-vs-qdrant-vs-pgvector.md"
     },
     {
+        "title": "2026 生产级大模型中转网关实战：GPT-6 Astra、Claude Opus 5 与 Gemini 3.7 Flash 统一接入与自动化容灾",
+        "slug": "2026-gpt-6-astraclaude-opus-5-gemini-37-flash",
+        "author": "GretchenWeimannrh111",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 16:49:38 +0000",
+        "description": "2026 生产级大模型中转网关实战：GPT-6 Astra、Claude Opus 5 与 Gemini 3.7 Flash 统一接入与自动化容灾 在 2026 年的企业级软件工程与数字化转型中，单一基础模型已经无法应对错综复杂的业务场景： 复杂系统架构与长上下文推理 需要 Claude Opus 5 ； 任务规...",
+        "keywords": "gpt, superfast, gemini, claude, xyz, self, https, opus",
+        "generated": "2026-09-25T16:56:51.661294",
+        "file": "2026-gpt-6-astraclaude-opus-5-gemini-37-flash.md"
+    },
+    {
         "title": "Are AI Tools Worth It for Small Businesses?",
         "slug": "are-ai-tools-worth-it-for-small-businesses",
         "author": "TuanPK Builds",
@@ -16618,6 +16651,17 @@
         "keywords": "url, https, comments, telephones, caught, between, article, computer",
         "generated": "2026-08-06T14:24:40.409501",
         "file": "telephones-caught-in-between.md"
+    },
+    {
+        "title": "Factorio that you can touch",
+        "slug": "factorio-that-you-can-touch",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 14:24:42 +0000",
+        "description": "Article URL: https://factorio.com/blog/post/fff-447 Comments URL: https://news.ycombinator.com/item?id=49845133 Points: 111 # Comments: 12",
+        "keywords": "factorio, url, https, com, comments, you, can, touch",
+        "generated": "2026-09-25T16:56:51.660727",
+        "file": "factorio-that-you-can-touch.md"
     },
     {
         "title": "Why Extracting Audio from Video Is More Useful Than Most People Realize",
@@ -19577,6 +19621,17 @@
         "file": "mag-7-starting-to-underperform-pdf.md"
     },
     {
+        "title": "System Design Interview Volume 1 by Alex Xu — Developer Book Review",
+        "slug": "system-design-interview-volume-1-by-alex-xu-developer-book-review",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 16:35:28 +0000",
+        "description": "System Design Interview Volume 1 by Alex Xu is one of those books that keeps showing up on every developer's recommended reading list — and for good reason. ...",
+        "keywords": "system, design, interview, volume, alex, book, developer, amazon",
+        "generated": "2026-09-25T16:56:51.664791",
+        "file": "system-design-interview-volume-1-by-alex-xu-developer-book-review.md"
+    },
+    {
         "title": "Why Your Heat Pump Keeps Switching Into Defrost Mode",
         "slug": "why-your-heat-pump-keeps-switching-into-defrost-mode",
         "author": "Michael Groover",
@@ -20563,6 +20618,17 @@
         "keywords": "state, one, truth, query, react, not, redux, zustand",
         "generated": "2026-06-21T09:58:05.291456",
         "file": "the-question-that-actually-decides-your-state-stack-its-not-redux-or-react-query.md"
+    },
+    {
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "slug": "us-appeals-court-upholds-designation-of-anthropic-as-supply-chain-risk",
+        "author": "cramer4next",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 15:29:25 +0000",
+        "description": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points...",
+        "keywords": "appeals, court, anthropic, risk, url, https, com, comments",
+        "generated": "2026-09-25T16:56:51.660524",
+        "file": "us-appeals-court-upholds-designation-of-anthropic-as-supply-chain-risk.md"
     },
     {
         "title": "Low-Cost LLM Text Classification API for Structured JSON SaaS Batch Tagging",
@@ -31642,6 +31708,17 @@
         "file": "nep-a-semantic-transform-that-beats-zstd-by-12-on-ethereum-json-rpc-data.md"
     },
     {
+        "title": "Best Books to Learn Agile",
+        "slug": "best-books-to-learn-agile",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 16:40:43 +0000",
+        "description": "Agile isn’t a buzzword—it’s the operating system for modern software teams. Whether you’re a fresh‑out of‑college dev or a seasoned engineering manager, mast...",
+        "keywords": "agile, scrum, you, teams, product, who, why, story",
+        "generated": "2026-09-25T16:56:51.663794",
+        "file": "best-books-to-learn-agile.md"
+    },
+    {
         "title": "Give Your AI Agent WhatsApp Superpowers with MCP (Official Business API)",
         "slug": "give-your-ai-agent-whatsapp-superpowers-with-mcp-official-business-api",
         "author": "Dhotiiiii",
@@ -37496,6 +37573,17 @@
         "file": "zero-cost-automation-running-ai-agents-247-on-a-0-budget.md"
     },
     {
+        "title": "Computer Vision and AI Applications #248",
+        "slug": "computer-vision-and-ai-applications-248",
+        "author": "DRIX10",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 16:48:17 +0000",
+        "description": "🤖 AI/ML - Optimizing Codex Resets for Maximum Efficiency Optimizing Codex resets is crucial for maximizing efficiency in AI model training. A well-timed rese...",
+        "keywords": "die, von, original, der, und, eine, ist, entwicklung",
+        "generated": "2026-09-25T16:56:51.665966",
+        "file": "computer-vision-and-ai-applications-248.md"
+    },
+    {
         "title": "MCP Authentication: What I Got Wrong Building a Production MCP Server for My Knowledge Base",
         "slug": "mcp-authentication-what-i-got-wrong-building-a-production-mcp-server-for-my-knowledge-base",
         "author": "KevinTen",
@@ -41551,6 +41639,17 @@
         "file": "reject-agent-patches-that-shrink-the-property-seed-corpus.md"
     },
     {
+        "title": "Your agent org chart is flat, and that’s why it fails at scale — the 3-tier pattern that handles 50+ agents — Paperclip Pattern",
+        "slug": "your-agent-org-chart-is-flat-and-thats-why-it-fails-at-scale-the-3-tier-pattern-that-handles-50-agents-paperclip-pattern",
+        "author": "Alex Aslam",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 16:38:08 +0000",
+        "description": "I spent three weeks watching a flat swarm of eighteen agents slowly eat itself. Not crash. Not error. Just gradually degrade until every output contradicted ...",
+        "keywords": "agent, flat, you, agents, when, scale, pattern, every",
+        "generated": "2026-09-25T16:56:51.664590",
+        "file": "your-agent-org-chart-is-flat-and-thats-why-it-fails-at-scale-the-3-tier-pattern-that-handles-50-agents-paperclip-pattern.md"
+    },
+    {
         "title": "Real files and native sharing from a web app — File System Access & Web Share (FieldKit #5)",
         "slug": "real-files-and-native-sharing-from-a-web-app-file-system-access-web-share-fieldkit-5",
         "author": "Oleksandr Trukhnii",
@@ -42878,6 +42977,17 @@
         "keywords": "signoz, docker, trace, app, api, what, didn, first",
         "generated": "2026-07-18T19:11:40.229203",
         "file": "i-didnt-write-a-single-line-of-tracing-code-and-signoz-still-told-me-why-my-api-was-slow.md"
+    },
+    {
+        "title": "Free 200K-Context AI: Chat with Entire Codebases and Docs",
+        "slug": "free-200k-context-ai-chat-with-entire-codebases-and-docs",
+        "author": "Muhammad Huzaifa",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 16:49:10 +0000",
+        "description": "Free 200K-Context AI: Chat with Entire Codebases and Docs Here's a superpower most free AI chats don't have: 200,000+ tokens of context . Kimi K3 (Moonshot A...",
+        "keywords": "free, chat, kimi, long, toolxz, context, entire, docs",
+        "generated": "2026-09-25T16:56:51.662955",
+        "file": "free-200k-context-ai-chat-with-entire-codebases-and-docs.md"
     },
     {
         "title": "AI-generated videos to maximally drive a target brain region",
@@ -44495,6 +44605,17 @@
         "keywords": "news, url, https, comments, hacker, but, independent, blogs",
         "generated": "2026-06-17T11:07:27.899107",
         "file": "hacker-news-but-for-independent-blogs.md"
+    },
+    {
+        "title": "Claude Code & OpenAI Codex in Production: Setting Up High-Throughput Agent Workflows with OpenAI-Compatible Gateway",
+        "slug": "claude-code-openai-codex-in-production-setting-up-high-throughput-agent-workflows-with-openai-compatible-gateway",
+        "author": "GretchenWeimannrh111",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 16:49:50 +0000",
+        "description": "Claude Code & OpenAI Codex in Production: Setting Up High-Throughput Agent Workflows with OpenAI-Compatible Gateway In 2026, terminal-based autonomous agents...",
+        "keywords": "openai, code, codex, api, claude, autonomous, superfast, xyz",
+        "generated": "2026-09-25T16:56:51.665526",
+        "file": "claude-code-openai-codex-in-production-setting-up-high-throughput-agent-workflows-with-openai-compatible-gateway.md"
     },
     {
         "title": "How to Clone Your Voice with AI (Ethically)",
@@ -48279,6 +48400,17 @@
         "keywords": "you, agent, agents, your, one, own, flowork, mcp",
         "generated": "2026-06-13T14:12:06.675531",
         "file": "flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability.md"
+    },
+    {
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "slug": "jevmem-automatic-project-memory-for-claude-code-built-on-jev",
+        "author": "avinashjetwani",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 16:04:04 +0000",
+        "description": "Article URL: https://github.com/Avinash-jetwani/jevmem Comments URL: https://news.ycombinator.com/item?id=49846391 Points: 32 # Comments: 19",
+        "keywords": "jevmem, url, https, com, comments, automatic, project, memory",
+        "generated": "2026-09-25T16:56:51.660230",
+        "file": "jevmem-automatic-project-memory-for-claude-code-built-on-jev.md"
     },
     {
         "title": "Your LLM can't actually watch video. Here's the smallest fix (MIT)",
@@ -52083,6 +52215,17 @@
         "keywords": "pirates, url, https, comments, naval, warfare, game, inspired",
         "generated": "2026-06-12T20:19:14.995174",
         "file": "pirates-a-naval-warfare-game-inspired-by-sid-meiers-pirates.md"
+    },
+    {
+        "title": "Master the Logic Gap Framework to Skyrocket Video Retention",
+        "slug": "master-the-logic-gap-framework-to-skyrocket-video-retention",
+        "author": "Mohamed Amine Zahir",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 16:51:38 +0000",
+        "description": "Your viewers are smart. They know specs, they know benchmarks, and the second your video gets predictable, they swipe away. If you want high audience retenti...",
+        "keywords": "your, gap, logic, video, hook, retention, they, you",
+        "generated": "2026-09-25T16:56:51.664967",
+        "file": "master-the-logic-gap-framework-to-skyrocket-video-retention.md"
     },
     {
         "title": "The Job Went Green. pytest Had Been Told to Collect One File.",
@@ -56881,6 +57024,17 @@
         "file": "i-launched-my-analytics-tool-3-months-ago-it-got-1-upvote-heres-what-i-rebuilt.md"
     },
     {
+        "title": "Eliminate Masonry Bid Leaks: The Engineering Guide to CMU & Brick Takeoffs",
+        "slug": "eliminate-masonry-bid-leaks-the-engineering-guide-to-cmu-brick-takeoffs",
+        "author": "Design Estimation LLC",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 16:48:28 +0000",
+        "description": "Winning a commercial masonry bid based on surface-area square footage is one of the fastest ways to compromise project profitability in Division 04. While st...",
+        "keywords": "masonry, block, wall, grout, structural, core, cmu, brick",
+        "generated": "2026-09-25T16:56:51.663402",
+        "file": "eliminate-masonry-bid-leaks-the-engineering-guide-to-cmu-brick-takeoffs.md"
+    },
+    {
         "title": "Placeit vs Canva for Product Mockups 2026: Which One Actually Wins?",
         "slug": "placeit-vs-canva-for-product-mockups-2026-which-one-actually-wins",
         "author": "Han Jeongho",
@@ -57770,6 +57924,17 @@
         "keywords": "microsoft, agentically, ports, copilot, runtime, rust, url, https",
         "generated": "2026-09-20T11:02:02.636493",
         "file": "microsoft-agentically-ports-copilot-runtime-to-rust-for-120k.md"
+    },
+    {
+        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "slug": "classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models",
+        "author": "rdmuser",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 15:27:35 +0000",
+        "description": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models Comments URL: https://news.ycombinator.com/i...",
+        "keywords": "classified, estimates, nsa, paying, billions, test, models, url",
+        "generated": "2026-09-25T16:56:51.660631",
+        "file": "classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models.md"
     },
     {
         "title": "API สร้างรายได้ Passive บน RapidAPI ทำงานอย่างไร",
@@ -58969,6 +59134,17 @@
         "keywords": "dashes, fucking, amazing, url, https, com, comments, article",
         "generated": "2026-07-24T13:55:42.401330",
         "file": "em-dashes-are-fucking-amazing.md"
+    },
+    {
+        "title": "Python Files: Reading and Writing for Beginners",
+        "slug": "python-files-reading-and-writing-for-beginners",
+        "author": "SameerQaisar17",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 16:52:58 +0000",
+        "description": "📌 Quick Info Topic: Reading and writing files in Python Target Audience: Beginners who know the basics but haven't worked with files yet Goal: Understand how...",
+        "keywords": "file, write, line, files, open, txt, data, names",
+        "generated": "2026-09-25T16:56:51.660982",
+        "file": "python-files-reading-and-writing-for-beginners.md"
     },
     {
         "title": "RoboTheta: Inverse Kinematics and Real-Time Simulation for Robotic Systems",
@@ -67804,6 +67980,17 @@
         "file": "pollen-ceo-negus-fancey-cto-wright-tried-to-remove-article-and-google-helped.md"
     },
     {
+        "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+        "slug": "gravity-seems-holographic-what-does-that-mean-for-reality",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 15:31:02 +0000",
+        "description": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "gravity, seems, holographic, what, does, mean, reality, url",
+        "generated": "2026-09-25T16:56:51.660403",
+        "file": "gravity-seems-holographic-what-does-that-mean-for-reality.md"
+    },
+    {
         "title": "The Human Is the Loop",
         "slug": "the-human-is-the-loop",
         "author": "burnto",
@@ -68990,6 +69177,17 @@
         "keywords": "openai, codex, url, https, com, comments, way, exclude",
         "generated": "2026-06-28T14:00:55.750572",
         "file": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex.md"
+    },
+    {
+        "title": "Climate and Weather Technology #245",
+        "slug": "climate-and-weather-technology-245",
+        "author": "DRIX10",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 16:48:09 +0000",
+        "description": "🌊 Weather Forecasting - Tropical Cyclone Intensity System A re-calibrated tropical cyclone intensity system using a satellite bias-corrected historical ADT +...",
+        "keywords": "intensity, system, dvorak, tropical, cyclone, satellite, bias, corrected",
+        "generated": "2026-09-25T16:56:51.666431",
+        "file": "climate-and-weather-technology-245.md"
     },
     {
         "title": "Hitting Regenerate Isn't Editing, It's Gambling",
@@ -70728,6 +70926,17 @@
         "keywords": "sentiment, finance, pulsebit, our, english, get, your, meta",
         "generated": "2026-07-23T08:38:07.282437",
         "file": "your-pipeline-is-152h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Benchmarking Next-Gen Image & Video Generation in 2026: GPT-Image-2.5 Flare, Grok Imagine 2.0, and 4K Commercial Pipelines",
+        "slug": "benchmarking-next-gen-image-video-generation-in-2026-gpt-image-25-flare-grok-imagine-20-and-4k-commercial-pipelines",
+        "author": "GretchenWeimannrh111",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 16:41:43 +0000",
+        "description": "Benchmarking Next-Gen Image & Video Generation in 2026: GPT-Image-2.5 Flare, Grok Imagine 2.0, and 4K Commercial Pipelines In 2026, generative AI for visual ...",
+        "keywords": "image, superfast, xyz, commercial, videogen, visual, studio, https",
+        "generated": "2026-09-25T16:56:51.661908",
+        "file": "benchmarking-next-gen-image-video-generation-in-2026-gpt-image-25-flare-grok-imagine-20-and-4k-commercial-pipelines.md"
     },
     {
         "title": "Why We Stopped Promising Mobile-Friendly and Started Testing on Actual Devices",
@@ -82300,6 +82509,17 @@
         "keywords": "your, walmart, seller, you, account, business, can, help",
         "generated": "2026-08-22T12:48:49.583020",
         "file": "buy-walmart-seller-account-pre-approved-us-stores.md"
+    },
+    {
+        "title": "Mastering Video Hooks with Logic Gap",
+        "slug": "mastering-video-hooks-with-logic-gap",
+        "author": "Zohir Lahcen",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 16:49:57 +0000",
+        "description": "Stop losing viewers in the first 30 seconds. If your retention graph drops off a cliff right after your intro, your script is missing one critical element: t...",
+        "keywords": "your, gap, logic, video, tech, stop, script, one",
+        "generated": "2026-09-25T16:56:51.665158",
+        "file": "mastering-video-hooks-with-logic-gap.md"
     },
     {
         "title": "Changes to LLM pricing: AkashML, Alibaba, Baidu, Inceptron, Phala and StreamLake",
