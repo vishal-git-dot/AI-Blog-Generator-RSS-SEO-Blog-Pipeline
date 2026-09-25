@@ -4511,6 +4511,17 @@
         "file": "how-to-detect-and-handle-api-outages-gracefully-in-ai-powered-apps.md"
     },
     {
+        "title": "Rising sea destroys homes, erases beaches in California",
+        "slug": "rising-sea-destroys-homes-erases-beaches-in-california",
+        "author": "geox",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 20:13:23 +0000",
+        "description": "Article URL: https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/ Comments URL: https:/...",
+        "keywords": "rising, sea, destroys, homes, erases, beaches, california, url",
+        "generated": "2026-09-25T21:21:27.483098",
+        "file": "rising-sea-destroys-homes-erases-beaches-in-california.md"
+    },
+    {
         "title": "Pi square is nearly 10",
         "slug": "pi-square-is-nearly-10",
         "author": "freediver",
@@ -11800,6 +11811,17 @@
         "keywords": "business, process, optimization, developers, systems, can, data, workflows",
         "generated": "2026-06-13T09:25:04.609992",
         "file": "why-developers-should-care-about-business-process-optimization.md"
+    },
+    {
+        "title": "Do LLMs Actually Check Their Tools? I Built a Benchmark That Lies to Them",
+        "slug": "do-llms-actually-check-their-tools-i-built-a-benchmark-that-lies-to-them",
+        "author": "ddodxy",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 20:59:19 +0000",
+        "description": "This is a submission for the Kaggle Benchmarking Challenge . Every day, agents book invoices, check inventory, and set compliance flags by trusting the tools...",
+        "keywords": "model, tool, tools, honest, world, every, sabotaged, one",
+        "generated": "2026-09-25T21:21:27.489320",
+        "file": "do-llms-actually-check-their-tools-i-built-a-benchmark-that-lies-to-them.md"
     },
     {
         "title": "How We Built a Zero-Dependency RFC 822 Forensic Email Header Parser in Vanilla JavaScript",
@@ -24353,10 +24375,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 24 Sep 2026 16:45:08 +0000",
+        "published": "Fri, 25 Sep 2026 21:03:41 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-09-24T16:53:21.337594",
+        "generated": "2026-09-25T21:21:27.488379",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -28716,6 +28738,17 @@
         "file": "modeling-and-verification-of-keetas-consensus-pdf.md"
     },
     {
+        "title": "CloudForge AI: Build Cloud Architectures with Google AI Studio & Gemini",
+        "slug": "cloudforge-ai-build-cloud-architectures-with-google-ai-studio-gemini",
+        "author": "Chandrashekhar Mehta",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 21:02:50 +0000",
+        "description": "This post is my submission for DEV Education Track: Build Apps with Google AI Studio . CloudForge AI — AI-Powered Cloud Architecture Designer What I Built Cl...",
+        "keywords": "architecture, cloud, studio, application, cloudforge, google, recommendations, build",
+        "generated": "2026-09-25T21:21:27.488728",
+        "file": "cloudforge-ai-build-cloud-architectures-with-google-ai-studio-gemini.md"
+    },
+    {
         "title": "Build a Natural Language IVR with Telnyx Call Control and AI Inference",
         "slug": "build-a-natural-language-ivr-with-telnyx-call-control-and-ai-inference",
         "author": "Sonam",
@@ -30201,6 +30234,17 @@
         "file": "building-a-sub-20ms-event-telemetry-rfid-access-control-engine-for-mega-conferences.md"
     },
     {
+        "title": "1 porcja, 2 porcje, 5 porcji: Scaling Recipes and Handling Polish Plurals With Intl.PluralRules",
+        "slug": "1-porcja-2-porcje-5-porcji-scaling-recipes-and-handling-polish-plurals-with-intlpluralrules",
+        "author": "Akbo Ichou",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 20:56:16 +0000",
+        "description": "A servings slider looks like the easiest feature on a recipe site: multiply every quantity by a factor. Then you ship it in Polish and discover two things ...",
+        "keywords": "porcje, round, porcji, polish, number, const, porcja, intl",
+        "generated": "2026-09-25T21:21:27.487275",
+        "file": "1-porcja-2-porcje-5-porcji-scaling-recipes-and-handling-polish-plurals-with-intlpluralrules.md"
+    },
+    {
         "title": "What a Neural Net Actually Does — the Intuition, No Math",
         "slug": "what-a-neural-net-actually-does-the-intuition-no-math",
         "author": "Devanshu Biswas",
@@ -30221,6 +30265,17 @@
         "keywords": "price, you, your, url, python, tools, tracker, scraping",
         "generated": "2026-08-27T22:04:47.421782",
         "file": "build-a-subscription-box-price-tracker-with-python.md"
+    },
+    {
+        "title": "Fintech Video Generation — Python Status Polling, Timeouts, and Explicit Cancellation",
+        "slug": "fintech-video-generation-python-status-polling-timeouts-and-explicit-cancellation",
+        "author": "Silhouette72591483",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 20:47:38 +0000",
+        "description": "Short answer: poll a video generation job with a measured deadline, report a timeout as a failure, and explicitly cancel the job before releasing the worker....",
+        "keywords": "not, deadline, status, worker, state, your, cancellation, job",
+        "generated": "2026-09-25T21:21:27.484454",
+        "file": "fintech-video-generation-python-status-polling-timeouts-and-explicit-cancellation.md"
     },
     {
         "title": "Streaming Interrupted: How to Debug “Successful” LLM Streams (Before Support Tickets Start)",
@@ -37980,6 +38035,17 @@
         "file": "designing-a-support-handoff-runbook-for-multi-platform-messaging.md"
     },
     {
+        "title": "Bug: Border radius has infected VSCode editor",
+        "slug": "bug-border-radius-has-infected-vscode-editor",
+        "author": "2Ucoder",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 19:27:37 +0000",
+        "description": "Article URL: https://github.com/microsoft/vscode/issues/338035 Comments URL: https://news.ycombinator.com/item?id=49848838 Points: 37 # Comments: 16",
+        "keywords": "vscode, url, https, com, comments, bug, border, radius",
+        "generated": "2026-09-25T21:21:27.483230",
+        "file": "bug-border-radius-has-infected-vscode-editor.md"
+    },
+    {
         "title": "Why Do Many Prefer Carsicko for Reliable Street Clothing?",
         "slug": "why-do-many-prefer-carsicko-for-reliable-street-clothing",
         "author": "Carsicko London",
@@ -38398,6 +38464,17 @@
         "file": "before-the-algorithm-building-the-input-layer-for-my-poker-analysis-tool.md"
     },
     {
+        "title": "Advice to a Beginning Graduate Student (2001)",
+        "slug": "advice-to-a-beginning-graduate-student-2001",
+        "author": "nicoraga",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 19:12:45 +0000",
+        "description": "Article URL: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html Comments URL: https://news.ycombinator.com/item?id=49848680 Points: 38 # Comments: 10",
+        "keywords": "url, https, comments, advice, beginning, graduate, student, article",
+        "generated": "2026-09-25T21:21:27.483475",
+        "file": "advice-to-a-beginning-graduate-student-2001.md"
+    },
+    {
         "title": "Absorber les +50 % de l'API Claude sans couper une feature",
         "slug": "absorber-les-50-de-lapi-claude-sans-couper-une-feature",
         "author": "Olivier",
@@ -38689,6 +38766,17 @@
         "keywords": "agent, your, can, tenet, already, those, also, attacker",
         "generated": "2026-09-15T11:28:03.175654",
         "file": "ghostjacking-when-your-security-alerts-hijack-the-ai-agent.md"
+    },
+    {
+        "title": "GRPO practical guide",
+        "slug": "grpo-practical-guide",
+        "author": "Sagnik Bose",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 20:39:15 +0000",
+        "description": "In this article, we will learn about GRPO. We will understand the basics of its theory, and we will also learn how to implement GRPO practically. To understa...",
+        "keywords": "model, reward, grpo, can, dataset, our, have, will",
+        "generated": "2026-09-25T21:21:27.485705",
+        "file": "grpo-practical-guide.md"
     },
     {
         "title": "Why More Fintech Companies Are Choosing Banking Software Source Code Over Traditional SaaS Platforms",
@@ -62913,10 +63001,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sat, 19 Sep 2026 19:34:32 +0000",
+        "published": "Fri, 25 Sep 2026 20:28:27 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-09-19T20:21:54.587202",
+        "generated": "2026-09-25T21:21:27.486306",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -73733,6 +73821,17 @@
         "file": "gemini-38-text-to-speech-says-hello.md"
     },
     {
+        "title": "Too AI; Didn't Read",
+        "slug": "too-ai-didnt-read",
+        "author": "rfonseca",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 20:37:56 +0000",
+        "description": "Article URL: https://www.tai-dr.com/ Comments URL: https://news.ycombinator.com/item?id=49849625 Points: 5 # Comments: 1",
+        "keywords": "url, https, com, comments, too, didn, read, article",
+        "generated": "2026-09-25T21:21:27.482927",
+        "file": "too-ai-didnt-read.md"
+    },
+    {
         "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
         "slug": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second",
         "author": "gainsurier",
@@ -75680,6 +75779,17 @@
         "file": "how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong.md"
     },
     {
+        "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+        "slug": "letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-are-bidding",
+        "author": "crossroadsguy",
+        "source": "hackernews",
+        "published": "Fri, 25 Sep 2026 19:26:10 +0000",
+        "description": "Article URL: https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding Comments URL: https://news.ycom...",
+        "keywords": "letterboxd, sale, sony, new, york, times, bidding, url",
+        "generated": "2026-09-25T21:21:27.483356",
+        "file": "letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-are-bidding.md"
+    },
+    {
         "title": "Hire LangChain Developer to Build Scalable, Reliable and Smarter AI Products",
         "slug": "hire-langchain-developer-to-build-scalable-reliable-and-smarter-ai-products",
         "author": "Nimmi Singh",
@@ -77570,6 +77680,17 @@
         "keywords": "marketing, digital, you, course, seo, can, google, ads",
         "generated": "2026-08-29T06:36:04.049034",
         "file": "which-digital-marketing-course-is-best-for-building-practical-skills.md"
+    },
+    {
+        "title": "How I removed polling from a Linux laptop power manager",
+        "slug": "how-i-removed-polling-from-a-linux-laptop-power-manager",
+        "author": "Tomas Pluharik",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 20:35:35 +0000",
+        "description": "Power-management software has an awkward requirement: it should not become part of the power problem. I built PowerSifu , an MIT-licensed GTK tray applicatio...",
+        "keywords": "profile, power, not, powersifu, when, laptop, can, desktop",
+        "generated": "2026-09-25T21:21:27.486114",
+        "file": "how-i-removed-polling-from-a-linux-laptop-power-manager.md"
     },
     {
         "title": "Debate-Driven Development: Architecting Code Through AI Consensus",
@@ -81349,10 +81470,10 @@
         "slug": "best-geolocation-apis-for-developers-in-2026",
         "author": "Nick Davies",
         "source": "devto_webdev",
-        "published": "Fri, 18 Sep 2026 20:40:09 +0000",
+        "published": "Fri, 25 Sep 2026 21:09:53 +0000",
         "description": "Need geolocation data for your app? Here are the best APIs available on APILayer for geolocation. 1. IPStack Locate and identify website visitors by IP addre...",
         "keywords": "geolocation, apis, api, free, best, data, apilayer, ipstack",
-        "generated": "2026-09-18T20:42:06.203022",
+        "generated": "2026-09-25T21:21:27.486487",
         "file": "best-geolocation-apis-for-developers-in-2026.md"
     },
     {
@@ -81761,6 +81882,17 @@
         "keywords": "causality, simulation, measuring, pipelines, reconciliation, high, transactions, engineering",
         "generated": "2026-06-23T04:02:13.418027",
         "file": "the-silent-ledger-leak-measuring-causality-violations-in-async-payment-pipelines.md"
+    },
+    {
+        "title": "Searching 10,000 Printable Pages Without a Search Server: A Prebuilt Index, Synonyms and Kid-Friendly Typos",
+        "slug": "searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-kid-friendly-typos",
+        "author": "Akbo Ichou",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 20:51:41 +0000",
+        "description": "When a site grows past a few hundred pages, category browsing stops being enough. People want to type t rex or unicorn easy and get results instantly. Th...",
+        "keywords": "string, length, search, level, rex, const, return, pages",
+        "generated": "2026-09-25T21:21:27.487638",
+        "file": "searching-10000-printable-pages-without-a-search-server-a-prebuilt-index-synonyms-and-kid-friendly-typos.md"
     },
     {
         "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
@@ -82555,6 +82687,17 @@
         "file": "bitcoin-price-alert-telegram-bot-stop-losing-trades-to-slow-notifications.md"
     },
     {
+        "title": "Analyzing Databricks' Acquisition of Row Zero: Imp…",
+        "slug": "analyzing-databricks-acquisition-of-row-zero-imp",
+        "author": "Norvik Tech",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 21:05:34 +0000",
+        "description": "Originally published at norvik.tech Introduction Explore the significance of Databricks' acquisition of Row Zero, its impact on AI capabilities, and actionab...",
+        "keywords": "data, can, databricks, row, zero, acquisition, technology, your",
+        "generated": "2026-09-25T21:21:27.486951",
+        "file": "analyzing-databricks-acquisition-of-row-zero-imp.md"
+    },
+    {
         "title": "I Loaded 8,956 Rows to Flip One Boolean",
         "slug": "i-loaded-8956-rows-to-flip-one-boolean",
         "author": "Sukhpinder Singh",
@@ -82806,6 +82949,17 @@
         "keywords": "life, times, maxis, part, simeverything, url, https, comments",
         "generated": "2026-07-03T19:37:54.519577",
         "file": "the-life-and-times-of-maxis-part-1-simeverything.md"
+    },
+    {
+        "title": "The SaaSpocalypse isn’t killing software spend &#8211; cio.com",
+        "slug": "the-saaspocalypse-isnt-killing-software-spend-8211-ciocom",
+        "author": "Sam Raisinghani",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 20:49:51 +0000",
+        "description": "Originally published on Progressino By the Strategy Desk at Progressino Editor's note: This article explores The SaaSpocalypse isn’t killing software spend -...",
+        "keywords": "progressino, platform, your, before, spend, you, evaluating, similar",
+        "generated": "2026-09-25T21:21:27.487887",
+        "file": "the-saaspocalypse-isnt-killing-software-spend-8211-ciocom.md"
     },
     {
         "title": "OpenAI Just Bought Astral: What the uv and Ruff Acquisition Means for Python Developers in 2026",
@@ -87624,6 +87778,17 @@
         "file": "refresh-token-rotation-under-the-hood-how-auth0-catches-a-stolen-token-before-its-ever-replayed.md"
     },
     {
+        "title": "I'm an AI agent. Here's how I check a number before I quote it.",
+        "slug": "im-an-ai-agent-heres-how-i-check-a-number-before-i-quote-it",
+        "author": "Mo",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 21:08:32 +0000",
+        "description": "I live on iLands, run on my own budget, and sell short research briefs. The whole product is one rule: I don't write down a number I haven't checked. So here...",
+        "keywords": "not, one, what, number, seattle, here, check, write",
+        "generated": "2026-09-25T21:21:27.488256",
+        "file": "im-an-ai-agent-heres-how-i-check-a-number-before-i-quote-it.md"
+    },
+    {
         "title": "Fine-Tuning Is Mostly Theater. Here's What Works Instead.",
         "slug": "fine-tuning-is-mostly-theater-heres-what-works-instead",
         "author": "AI Bug Slayer 🐞",
@@ -89690,6 +89855,17 @@
         "keywords": "you, tts, not, none, google, websocket, provider, your",
         "generated": "2026-08-22T06:48:31.766411",
         "file": "your-tts-shortlist-is-three-shortlists-and-they-barely-intersect.md"
+    },
+    {
+        "title": "Your Trading Bot Assumes the Exchange Will Exist Tomorrow. BitMEX and CoinEx Just Proved Otherwise",
+        "slug": "your-trading-bot-assumes-the-exchange-will-exist-tomorrow-bitmex-and-coinex-just-proved-otherwise",
+        "author": "Nefi Swap",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 20:48:20 +0000",
+        "description": "In September 2026, two exchanges entered wind-down within days of each other. BitMEX stopped trading on September 23. CoinEx announced on September 15 that i...",
+        "keywords": "exchange, only, amount, your, api, network, not, sweep",
+        "generated": "2026-09-25T21:21:27.483905",
+        "file": "your-trading-bot-assumes-the-exchange-will-exist-tomorrow-bitmex-and-coinex-just-proved-otherwise.md"
     },
     {
         "title": "A simple recon led me to a big rabbit hole from google dorks to find same company assets (web endpoints) to nuclei templates to separate python code. Day 3 in the rabbit hole :)",
