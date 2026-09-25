@@ -4,16 +4,16 @@ slug: "opus-55-is-good-at-explainer-videos"
 author: "iacguy"
 source: "hackernews"
 published: "Thu, 24 Sep 2026 20:28:47 +0000"
-description: "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 18 # Comments: 7"
+description: "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 168 # Comments: 99"
 keywords: "url, https, comments, opus, good, explainer, videos, article"
-generated: "2026-09-24T21:21:41.114629"
+generated: "2026-09-25T04:22:46.223742"
 ---
 
 # Opus 5.5 is good at explainer videos
 
 ## Overview
 
-Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 18 # Comments: 7
+Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 168 # Comments: 99
 
 ## Key Insights
 

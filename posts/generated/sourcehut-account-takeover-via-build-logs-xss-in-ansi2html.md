@@ -4,16 +4,16 @@ slug: "sourcehut-account-takeover-via-build-logs-xss-in-ansi2html"
 author: "arusekk"
 source: "hackernews"
 published: "Thu, 24 Sep 2026 19:54:21 +0000"
-description: "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 20 # Comments: 1"
+description: "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 90 # Comments: 13"
 keywords: "account, takeover, url, https, comments, sourcehut, via, build"
-generated: "2026-09-24T21:21:41.114747"
+generated: "2026-09-25T04:22:46.223878"
 ---
 
 # Sourcehut account takeover via build logs (XSS in ansi2html)
 
 ## Overview
 
-Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 20 # Comments: 1
+Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 90 # Comments: 13
 
 ## Key Insights
 

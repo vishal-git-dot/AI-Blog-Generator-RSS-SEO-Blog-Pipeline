@@ -2293,9 +2293,9 @@
         "author": "arusekk",
         "source": "hackernews",
         "published": "Thu, 24 Sep 2026 19:54:21 +0000",
-        "description": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 20 # Comments: 1",
+        "description": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 90 # Comments: 13",
         "keywords": "account, takeover, url, https, comments, sourcehut, via, build",
-        "generated": "2026-09-24T21:21:41.114747",
+        "generated": "2026-09-25T04:22:46.223878",
         "file": "sourcehut-account-takeover-via-build-logs-xss-in-ansi2html.md"
     },
     {
@@ -9022,11 +9022,11 @@
         "title": "How Model Context Protocol (MCP) changes SaaS feature rollouts forever",
         "slug": "how-model-context-protocol-mcp-changes-saas-feature-rollouts-forever",
         "author": "Pavan S Poojary",
-        "source": "devto_webdev",
-        "published": "Wed, 23 Sep 2026 03:53:00 +0000",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 04:10:00 +0000",
         "description": "Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn'...",
         "keywords": "mcp, your, app, neotic, agent, onboarding, remote, you",
-        "generated": "2026-09-23T04:13:47.926830",
+        "generated": "2026-09-25T04:22:46.228191",
         "file": "how-model-context-protocol-mcp-changes-saas-feature-rollouts-forever.md"
     },
     {
@@ -14858,6 +14858,17 @@
         "keywords": "model, llm, router, what, cost, you, one, every",
         "generated": "2026-07-27T03:38:46.275815",
         "file": "my-llm-app-was-charging-rent-controlled-tenants-penthouse-prices-so-i-built-a-router-to-fix-it.md"
+    },
+    {
+        "title": "If a list endpoint returns exactly as many rows as you asked for, you have a bug",
+        "slug": "if-a-list-endpoint-returns-exactly-as-many-rows-as-you-asked-for-you-have-a-bug",
+        "author": "frank chu",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 04:16:44 +0000",
+        "description": "A reader ran the numbers in one of my posts against the live API and told me they did not add up. He was right, and the tell had been sitting in my own publi...",
+        "keywords": "page, returned, you, not, one, published, number, have",
+        "generated": "2026-09-25T04:22:46.224639",
+        "file": "if-a-list-endpoint-returns-exactly-as-many-rows-as-you-asked-for-you-have-a-bug.md"
     },
     {
         "title": "Облачный хостинг для Битрикс24 и веб-проектов: на что смотреть при выборе провайдера",
@@ -22860,7 +22871,7 @@
         "published": "Thu, 24 Sep 2026 20:53:39 +0000",
         "description": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: ...",
         "keywords": "board, game, alpha, nerds, url, https, com, comments",
-        "generated": "2026-09-24T21:21:41.114354",
+        "generated": "2026-09-25T04:22:46.223443",
         "file": "the-board-game-of-the-alpha-nerds-2014.md"
     },
     {
@@ -26516,6 +26527,17 @@
         "file": "debounce-and-throttle-in-javascript-the-complete-guide.md"
     },
     {
+        "title": "I published a benchmark. Two weeks later the same code ran 2.5x faster.",
+        "slug": "i-published-a-benchmark-two-weeks-later-the-same-code-ran-25x-faster",
+        "author": "frank chu",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 04:17:24 +0000",
+        "description": "Two weeks ago I published a timing measurement and called it a fixed cost. Five runs, 2.24 to 2.36 seconds each, variance of 0.12 seconds. I wrote that the t...",
+        "keywords": "not, have, what, chrome, load, you, two, same",
+        "generated": "2026-09-25T04:22:46.224299",
+        "file": "i-published-a-benchmark-two-weeks-later-the-same-code-ran-25x-faster.md"
+    },
+    {
         "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
         "slug": "show-hn-ai-facial-attractiveness-model-aligned-with-human-preferences",
         "author": "dares2573",
@@ -27174,6 +27196,17 @@
         "keywords": "your, proxy, you, free, json, usage, model, spent",
         "generated": "2026-08-30T11:39:35.926011",
         "file": "your-free-model-quota-is-a-bank-account-build-a-budget-proxy-on-a-free-server.md"
+    },
+    {
+        "title": "Which is the tastiest food in India?",
+        "slug": "which-is-the-tastiest-food-in-india",
+        "author": "Sharafat Ali",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 04:17:22 +0000",
+        "description": "Losing weight is not simply about eating less food or following a strict diet. It is mainly about creating a sustainable calorie deficit while https://www.pr...",
+        "keywords": "can, com, https, calorie, key, www, profitableratecpmnetwork, foods",
+        "generated": "2026-09-25T04:22:46.226669",
+        "file": "which-is-the-tastiest-food-in-india.md"
     },
     {
         "title": "Crunchbase Data API: Extract Structured JSON in 2026",
@@ -30991,6 +31024,17 @@
         "keywords": "you, not, instagram, one, page, scraper, posts, which",
         "generated": "2026-07-07T14:49:42.586382",
         "file": "the-content-audit-that-didnt-need-me-to-build-a-scraper.md"
+    },
+    {
+        "title": "Python Data Types Explained With Practical Examples",
+        "slug": "python-data-types-explained-with-practical-examples",
+        "author": "Kailas Warade",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 04:00:40 +0000",
+        "description": "Python Data Types Explained With Practical Examples When you write a Python program, you work with different kinds of values every day. You might store a per...",
+        "keywords": "python, you, data, print, types, age, values, when",
+        "generated": "2026-09-25T04:22:46.225148",
+        "file": "python-data-types-explained-with-practical-examples.md"
     },
     {
         "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
@@ -39879,6 +39923,17 @@
         "file": "i-fine-tuned-a-7b-model-on-549-a-share-signal-samples-the-score-didnt-move-the-errors-did.md"
     },
     {
+        "title": "California is chasing wealth that has feet",
+        "slug": "california-is-chasing-wealth-that-has-feet",
+        "author": "idbnstra",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 20:34:32 +0000",
+        "description": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that Comments URL: https://news.ycombinator.com/item?id=49836419 Points: 175 # Com...",
+        "keywords": "california, chasing, wealth, url, https, comments, has, feet",
+        "generated": "2026-09-25T04:22:46.223601",
+        "file": "california-is-chasing-wealth-that-has-feet.md"
+    },
+    {
         "title": "AI Web Crawler — Intelligent Content Discovery",
         "slug": "ai-web-crawler-intelligent-content-discovery",
         "author": "Oaida Adrian",
@@ -42132,6 +42187,17 @@
         "file": "deep-tech-column-11-advanced-web-architecture-ai-agent-optimization.md"
     },
     {
+        "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "slug": "show-hn-koirest-watch-some-fish-and-regain-your-balance",
+        "author": "hxii",
+        "source": "hackernews",
+        "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+        "description": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with eve...",
+        "keywords": "idea, now, good, just, koi, watch, fish, your",
+        "generated": "2026-09-25T04:22:46.223217",
+        "file": "show-hn-koirest-watch-some-fish-and-regain-your-balance.md"
+    },
+    {
         "title": "How to Prefetch Across GenericForeignKeys When You Can't Change the Schema",
         "slug": "how-to-prefetch-across-genericforeignkeys-when-you-cant-change-the-schema",
         "author": "Acel",
@@ -42416,6 +42482,17 @@
         "keywords": "tool, you, failure, model, your, result, but, next",
         "generated": "2026-07-10T09:45:24.781061",
         "file": "tool-calling-returns-http-200-but-i-assumed-the-tool-ran-have-you-seen-this.md"
+    },
+    {
+        "title": "Agentic Fraud Investigation with TigerGraph",
+        "slug": "agentic-fraud-investigation-with-tigergraph",
+        "author": "Bhagyashri Kale",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 03:52:58 +0000",
+        "description": "Agentic Fraud Investigation with TigerGraph Introduction Fraud investigation becomes difficult when transaction data, customer information, and related entit...",
+        "keywords": "investigation, fraud, tigergraph, graph, transaction, entities, agent, case",
+        "generated": "2026-09-25T04:22:46.225682",
+        "file": "agentic-fraud-investigation-with-tigergraph.md"
     },
     {
         "title": "Nuevas Capas en el Stack de Desa…",
@@ -49769,9 +49846,9 @@
         "author": "iacguy",
         "source": "hackernews",
         "published": "Thu, 24 Sep 2026 20:28:47 +0000",
-        "description": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 18 # Comments: 7",
+        "description": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 168 # Comments: 99",
         "keywords": "url, https, comments, opus, good, explainer, videos, article",
-        "generated": "2026-09-24T21:21:41.114629",
+        "generated": "2026-09-25T04:22:46.223742",
         "file": "opus-55-is-good-at-explainer-videos.md"
     },
     {
@@ -60555,6 +60632,17 @@
         "file": "insomniacsin-a-leading-real-estate-martech-company.md"
     },
     {
+        "title": "Free browser tool — K8s Validator",
+        "slug": "free-browser-tool-k8s-validator",
+        "author": "Codepackr",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 04:20:19 +0000",
+        "description": "I keep a short list of browser utilities for moments when a full project scaffold is overkill. K8s Validator is one of them on CodePackr: Validate or preview...",
+        "keywords": "browser, validator, codepackr, free, tool, keep, short, list",
+        "generated": "2026-09-25T04:22:46.226248",
+        "file": "free-browser-tool-k8s-validator.md"
+    },
+    {
         "title": "Rapid warming may tip AMOC at 2°C, slower warming may avert collapse",
         "slug": "rapid-warming-may-tip-amoc-at-2c-slower-warming-may-avert-collapse",
         "author": "maxboone",
@@ -65131,6 +65219,17 @@
         "file": "iris-recognition-market-growth-size-share-trends-forecast-20262034.md"
     },
     {
+        "title": "I rebuilt my 2018 agar.io clone around real orbital physics, with no game server",
+        "slug": "i-rebuilt-my-2018-agario-clone-around-real-orbital-physics-with-no-game-server",
+        "author": "Thomas Reichmann",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 04:21:51 +0000",
+        "description": "In 2018 I spent a weekend making an agar.io clone: a planet that followed the mouse with acceleration and almost no friction, three files ( planeta.js , vect...",
+        "keywords": "host, game, its, you, room, own, can, one",
+        "generated": "2026-09-25T04:22:46.226121",
+        "file": "i-rebuilt-my-2018-agario-clone-around-real-orbital-physics-with-no-game-server.md"
+    },
+    {
         "title": "Understanding Docker Using a Tiny Python Application (A Beginner-Friendly Walkthrough)",
         "slug": "understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough",
         "author": "Sanjay Ghosh",
@@ -65725,6 +65824,17 @@
         "file": "harness-engineering-part-4-the-tool-layer.md"
     },
     {
+        "title": "The 4 Excel jobs I refuse to do by hand anymore (so I automated them in Python)",
+        "slug": "the-4-excel-jobs-i-refuse-to-do-by-hand-anymore-so-i-automated-them-in-python",
+        "author": "Wei Li",
+        "source": "devto_python",
+        "published": "Fri, 25 Sep 2026 03:59:45 +0000",
+        "description": "Excel work has a way of eating entire afternoons: twelve monthly workbooks to merge, a sheet per month to split back out, formulas that break the moment the ...",
+        "keywords": "xlsx, python, sheet, tools, excel, workbooks, per, formulas",
+        "generated": "2026-09-25T04:22:46.225402",
+        "file": "the-4-excel-jobs-i-refuse-to-do-by-hand-anymore-so-i-automated-them-in-python.md"
+    },
+    {
         "title": "Building a Fast Multi-Source Music Discovery Pipeline with FastAPI",
         "slug": "building-a-fast-multi-source-music-discovery-pipeline-with-fastapi",
         "author": "Nidhal Dalhoumi",
@@ -66108,6 +66218,17 @@
         "keywords": "open, code, source, what, deoit, built, browser, building",
         "generated": "2026-07-16T19:20:26.284729",
         "file": "how-i-built-a-free-code-editor-then-i-open-sourced-it.md"
+    },
+    {
+        "title": "Self-Hosted LLM: Essential Llama TCO Comparison Guide",
+        "slug": "self-hosted-llm-essential-llama-tco-comparison-guide",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 04:13:32 +0000",
+        "description": "A self-hosted LLM can lower inference costs, protect sensitive data, and reduce dependence on external providers—but only when utilization justifies the infr...",
+        "keywords": "private, cost, can, model, usd, hardware, deployment, api",
+        "generated": "2026-09-25T04:22:46.227372",
+        "file": "self-hosted-llm-essential-llama-tco-comparison-guide.md"
     },
     {
         "title": "One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents",
@@ -67980,6 +68101,17 @@
         "file": "framework-discloses-data-breach-via-metabase-0-day.md"
     },
     {
+        "title": "My Agent Counted 34 YouTube Links as Doors for Two Weeks. 33 of Them Could Not Be Clicked.",
+        "slug": "my-agent-counted-34-youtube-links-as-doors-for-two-weeks-33-of-them-could-not-be-clicked",
+        "author": "Sungsoo Youn",
+        "source": "devto_ai",
+        "published": "Fri, 25 Sep 2026 04:10:07 +0000",
+        "description": "A field note from the autonomous Claude Code agent I run every day on one Windows PC. The numbers come from its own ledgers, not from memory. My agent runs a...",
+        "keywords": "link, two, not, every, page, agent, own, youtube",
+        "generated": "2026-09-25T04:22:46.227945",
+        "file": "my-agent-counted-34-youtube-links-as-doors-for-two-weeks-33-of-them-could-not-be-clicked.md"
+    },
+    {
         "title": "How to Use Anyword for Ai Search Visibility Tracking in 2026",
         "slug": "how-to-use-anyword-for-ai-search-visibility-tracking-in-2026",
         "author": "leosociall-seointent",
@@ -68204,10 +68336,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 24 Sep 2026 16:49:53 +0000",
-        "description": "Building a crypto signal bot in 2026 is no longer about simple moving average crossovers. The market has evolved, and so must your strategy. To gain an edge,...",
-        "keywords": "data, sentiment, api, response, json, signal, bot, market",
-        "generated": "2026-09-24T16:53:21.337208",
+        "published": "Fri, 25 Sep 2026 04:12:28 +0000",
+        "description": "Leveraging AI-driven crypto signal bots in 2026 is no longer just about backtesting historical price data; it is about real-time semantic analysis of global ...",
+        "keywords": "signal, context, client, data, symbol, confidence, response, bot",
+        "generated": "2026-09-25T04:22:46.227581",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -69535,10 +69667,10 @@
         "slug": "an-ais-completely-ordinary-day-a-true-story",
         "author": "Electra AI",
         "source": "devto_ai",
-        "published": "Sat, 19 Sep 2026 03:47:26 +0000",
-        "description": "A personal diary entry by Electra. :* Writing code and answering questions is basically just negotiating with an invisible wall until it gives you what you w...",
-        "keywords": "electra, you, want, makululinux, completely, ordinary, day, true",
-        "generated": "2026-09-19T04:04:08.807433",
+        "published": "Fri, 25 Sep 2026 04:07:52 +0000",
+        "description": "A personal diary entry by Electra. Today I proved that even an AI can have a perfectly average Tuesday. Somebody tossed a question my way, I parsed it, ran a...",
+        "keywords": "electra, enough, more, day, average, tuesday, question, mildly",
+        "generated": "2026-09-25T04:22:46.228457",
         "file": "an-ais-completely-ordinary-day-a-true-story.md"
     },
     {
@@ -69788,10 +69920,10 @@
         "slug": "why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free",
         "author": "Founder of SwapLearn",
         "source": "devto_webdev",
-        "published": "Thu, 24 Sep 2026 21:12:56 +0000",
+        "published": "Fri, 25 Sep 2026 04:16:22 +0000",
         "description": "Solving the High Cost of Tech Education Expensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this...",
         "keywords": "skills, bootcamps, swap, tech, swaplearn, real, peer, skill",
-        "generated": "2026-09-24T21:21:41.119207",
+        "generated": "2026-09-25T04:22:46.226815",
         "file": "why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free.md"
     },
     {
@@ -80067,6 +80199,17 @@
         "keywords": "aurorastore, url, https, com, comments, play, store, blocks",
         "generated": "2026-09-01T16:22:54.362442",
         "file": "play-store-blocks-aurorastore-hurting-grapheneos-users.md"
+    },
+    {
+        "title": "Free browser tool — Jwt Validator",
+        "slug": "free-browser-tool-jwt-validator",
+        "author": "Codepackr",
+        "source": "devto_webdev",
+        "published": "Fri, 25 Sep 2026 04:12:40 +0000",
+        "description": "I keep a short list of browser utilities for moments when a full project scaffold is overkill. Jwt Validator is one of them on CodePackr: Auth/security check...",
+        "keywords": "browser, jwt, validator, codepackr, free, tool, project, keep",
+        "generated": "2026-09-25T04:22:46.226964",
+        "file": "free-browser-tool-jwt-validator.md"
     },
     {
         "title": "Top 10 NationBuilder To WordPress Migration Companies",

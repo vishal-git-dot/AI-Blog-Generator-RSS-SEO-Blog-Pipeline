@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Thu, 24 Sep 2026 20:53:39 +0000"
 description: "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: ..."
 keywords: "board, game, alpha, nerds, url, https, com, comments"
-generated: "2026-09-24T21:21:41.114354"
+generated: "2026-09-25T04:22:46.223443"
 ---
 
 # The Board Game of the Alpha Nerds (2014)
 
 ## Overview
 
-Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: 7 # Comments: 4
+Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: 67 # Comments: 26
 
 ## Key Insights
 
