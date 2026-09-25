@@ -3,10 +3,10 @@ title: "BizNode Pro: run up to 5 independent Telegram bots, each with its own id
 slug: "biznode-pro-run-up-to-5-independent-telegram-bots-each-with-its-own-identity-knowledge-base-and-ai-persona"
 author: "shashikanth ramamurthy"
 source: "devto_ai"
-published: "Fri, 24 Jul 2026 13:50:44 +0000"
+published: "Fri, 25 Sep 2026 11:22:17 +0000"
 description: "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — h..."
 keywords: "biznode, https, biz, smartpdf, blog, pro, run, independent"
-generated: "2026-07-24T13:55:42.405425"
+generated: "2026-09-25T11:33:03.636212"
 ---
 
 # BizNode Pro: run up to 5 independent Telegram bots, each with its own identity, knowledge base, and AI persona
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/biznode/biznode-pro-run-up-to-5-independent-telegram-bots-each-with-its-own-identity-knowledge-base-and-2f5p
+https://dev.to/biznode/biznode-pro-run-up-to-5-independent-telegram-bots-each-with-its-own-identity-knowledge-base-and-4l1h
 
 ## Conclusion
 
