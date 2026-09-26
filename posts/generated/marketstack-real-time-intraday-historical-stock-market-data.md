@@ -3,10 +3,10 @@ title: "Marketstack — Real-time, intraday & historical stock market data"
 slug: "marketstack-real-time-intraday-historical-stock-market-data"
 author: "Nick Davies"
 source: "devto_webdev"
-published: "Fri, 18 Sep 2026 20:29:42 +0000"
+published: "Sat, 26 Sep 2026 20:47:57 +0000"
 description: "Looking for a reliable finance API? Marketstack might be exactly what you need. What is Marketstack? Stock market data API covering 30,000+ tickers across 50..."
 keywords: "marketstack, api, free, market, data, key, apilayer, one"
-generated: "2026-09-18T20:42:06.203349"
+generated: "2026-09-26T20:53:25.486116"
 ---
 
 # Marketstack — Real-time, intraday & historical stock market data
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/nick_davies_323125afbb05c/marketstack-real-time-intraday-historical-stock-market-data-5bkk
+https://dev.to/nick_davies_323125afbb05c/marketstack-real-time-intraday-historical-stock-market-data-18f0
 
 ## Conclusion
 

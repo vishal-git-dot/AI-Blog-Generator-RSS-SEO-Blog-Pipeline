@@ -3,10 +3,10 @@ title: "Weatherstack — Real-time & historical world weather data API"
 slug: "weatherstack-real-time-historical-world-weather-data-api"
 author: "Nick Davies"
 source: "devto_webdev"
-published: "Sat, 19 Sep 2026 20:07:52 +0000"
+published: "Sat, 26 Sep 2026 20:42:45 +0000"
 description: "Looking for a reliable weather API? Weatherstack might be exactly what you need. What is Weatherstack? Real-time, historical, and forecast weather data for a..."
 keywords: "weatherstack, api, weather, key, free, apilayer, one, real"
-generated: "2026-09-19T20:21:54.588321"
+generated: "2026-09-26T20:53:25.486246"
 ---
 
 # Weatherstack — Real-time & historical world weather data API
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/nick_davies_323125afbb05c/weatherstack-real-time-historical-world-weather-data-api-dbh
+https://dev.to/nick_davies_323125afbb05c/weatherstack-real-time-historical-world-weather-data-api-1b4m
 
 ## Conclusion
 
