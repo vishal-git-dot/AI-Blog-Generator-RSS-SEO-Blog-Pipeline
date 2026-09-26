@@ -8095,6 +8095,17 @@
         "file": "how-i-built-a-real-time-tennis-stats-tracker-gbs-fery-beats-dimitrov-in-five-set-thriller-to-extend-historic-run.md"
     },
     {
+        "title": "Claude Code said Done. My tests said otherwise. Here's the 20-line fix.",
+        "slug": "claude-code-said-done-my-tests-said-otherwise-heres-the-20-line-fix",
+        "author": "elijahmanlockedin112",
+        "source": "devto_python",
+        "published": "Sat, 26 Sep 2026 15:08:37 +0000",
+        "description": "If you use Claude Code, you've seen this: claude: Done! Partial refunds are implemented. ✅ Then you run the tests yourself and four of them fail. Claude isn'...",
+        "keywords": "claude, tests, code, you, done, test, verify, your",
+        "generated": "2026-09-26T16:08:20.324249",
+        "file": "claude-code-said-done-my-tests-said-otherwise-heres-the-20-line-fix.md"
+    },
+    {
         "title": "FOR UPDATE SKIP LOCKED: the Postgres feature that saved my digital cloakroom",
         "slug": "for-update-skip-locked-the-postgres-feature-that-saved-my-digital-cloakroom",
         "author": "Philippe",
@@ -11472,6 +11483,17 @@
         "file": "dont-trust-green-karate-runs-diff-them-against-openapi.md"
     },
     {
+        "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+        "slug": "new-satellite-engine-could-use-earths-atmosphere-to-stay-in-orbit-indefinitely",
+        "author": "GordonS",
+        "source": "hackernews",
+        "published": "Sat, 26 Sep 2026 15:10:29 +0000",
+        "description": "Article URL: https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/ Comments URL: https://news.ycom...",
+        "keywords": "new, satellite, engine, could, use, atmosphere, stay, orbit",
+        "generated": "2026-09-26T16:08:20.322650",
+        "file": "new-satellite-engine-could-use-earths-atmosphere-to-stay-in-orbit-indefinitely.md"
+    },
+    {
         "title": "If math is more than proof, we need to better celebrate the rest of it",
         "slug": "if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it",
         "author": "num42",
@@ -13747,6 +13769,17 @@
         "keywords": "you, not, write, action, diff, approval, agent, system",
         "generated": "2026-09-09T20:46:26.463079",
         "file": "the-approval-gate-a-pattern-for-ai-agents-that-write-to-production-systems.md"
+    },
+    {
+        "title": "Your link previews are blank because og:image is missing. Here is a stdlib-only Python fix",
+        "slug": "your-link-previews-are-blank-because-ogimage-is-missing-here-is-a-stdlib-only-python-fix",
+        "author": "rene",
+        "source": "devto_python",
+        "published": "Sat, 26 Sep 2026 15:07:11 +0000",
+        "description": "When you paste a link to your product, docs page or side project into Slack, Discord, X or LinkedIn, the platform builds a preview card from your page's Open...",
+        "keywords": "image, you, your, page, png, cover, meta, bytes",
+        "generated": "2026-09-26T16:08:20.324672",
+        "file": "your-link-previews-are-blank-because-ogimage-is-missing-here-is-a-stdlib-only-python-fix.md"
     },
     {
         "title": "Your Agent's First Call Has a Byte Problem: UTF-8-Safe OpenAI-Compatible Requests",
@@ -18818,6 +18851,17 @@
         "file": "agentic-ai-development-companies-in-uae-transforming-businesses-with-intelligent-ai-solutions.md"
     },
     {
+        "title": "I Ran a 125B Model on Three RTX 3090s at 80 Tokens/s by Teaching llama.cpp Which Experts Matter",
+        "slug": "i-ran-a-125b-model-on-three-rtx-3090s-at-80-tokenss-by-teaching-llamacpp-which-experts-matter",
+        "author": "Arsen Apostolov",
+        "source": "devto_ai",
+        "published": "Sat, 26 Sep 2026 16:02:31 +0000",
+        "description": "TL;DR: Qwen3.8-Flash-Next is a 125B mixture-of-experts model: on paper it beats the Qwen3.8-27B I run in production everywhere, by +16.5 points on agentic co...",
+        "keywords": "experts, model, tokens, tok, llama, one, expert, word",
+        "generated": "2026-09-26T16:08:20.328095",
+        "file": "i-ran-a-125b-model-on-three-rtx-3090s-at-80-tokenss-by-teaching-llamacpp-which-experts-matter.md"
+    },
+    {
         "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
         "slug": "why-cryptos-best-infrastructure-companies-stopped-looking-like-crypto",
         "author": "Reaktornano",
@@ -19267,6 +19311,17 @@
         "keywords": "python, que, para, uma, como, linguagem, com, por",
         "generated": "2026-08-07T19:04:02.693779",
         "file": "o-guia-definitivo-de-python.md"
+    },
+    {
+        "title": "How Oklahoma City Entrepreneurs Are Using Base44",
+        "slug": "how-oklahoma-city-entrepreneurs-are-using-base44",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sat, 26 Sep 2026 16:02:22 +0000",
+        "description": "As the tech landscape continues to evolve, entrepreneurs in Oklahoma City are turning to innovative solutions to build high-growth businesses without the nee...",
+        "keywords": "oklahoma, city, entrepreneurs, app, code, platform, development, coding",
+        "generated": "2026-09-26T16:08:20.325738",
+        "file": "how-oklahoma-city-entrepreneurs-are-using-base44.md"
     },
     {
         "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
@@ -21476,6 +21531,17 @@
         "keywords": "not, control, outcome, only, entitlement, release, guard, case",
         "generated": "2026-07-31T14:20:45.221271",
         "file": "a-safe-outcome-can-hide-a-failed-security-control.md"
+    },
+    {
+        "title": "Your Pipeline Is 29.0h Behind: Catching Crypto Sentiment Leads with Pulsebit",
+        "slug": "your-pipeline-is-290h-behind-catching-crypto-sentiment-leads-with-pulsebit",
+        "author": "Pulsebit News Sentiment API",
+        "source": "devto_python",
+        "published": "Sat, 26 Sep 2026 14:49:29 +0000",
+        "description": "Your Pipeline Is 29.0h Behind: Catching Crypto Sentiment Leads with Pulsebit We stumbled upon an intriguing anomaly: a sentiment score of -0.083 and a moment...",
+        "keywords": "sentiment, crypto, your, you, pulsebit, pipeline, leads, score",
+        "generated": "2026-09-26T16:08:20.325036",
+        "file": "your-pipeline-is-290h-behind-catching-crypto-sentiment-leads-with-pulsebit.md"
     },
     {
         "title": "Engineering AI-Powered Predictive Maintenance for UAV Manufacturing",
@@ -23777,6 +23843,17 @@
         "file": "my-3b-model-found-a-shortcut-it-took-me-three-fixes-to-close-it.md"
     },
     {
+        "title": "How Florists Use Base44 to Grow Their Business",
+        "slug": "how-florists-use-base44-to-grow-their-business",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sat, 26 Sep 2026 16:03:00 +0000",
+        "description": "** **base44, no-code app builder, florists, business growth, online sales, e-commerce platform How Florists Use Base44 to Grow Their Business As the world be...",
+        "keywords": "florists, their, online, can, business, create, commerce, manage",
+        "generated": "2026-09-26T16:08:20.325408",
+        "file": "how-florists-use-base44-to-grow-their-business.md"
+    },
+    {
         "title": "The Energetic Costs of Cellular Computation (2012)",
         "slug": "the-energetic-costs-of-cellular-computation-2012",
         "author": "lioeters",
@@ -23935,10 +24012,10 @@
         "slug": "i-tested-dsh-desktop-heres-what-you-need-to-know",
         "author": "niuniu",
         "source": "devto_ai",
-        "published": "Fri, 04 Sep 2026 16:00:55 +0000",
-        "description": "The News 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 What is dsh-desktop? dsh-desktop is a new open-source project with 23565 stars. Why Thi...",
+        "published": "Sat, 26 Sep 2026 16:01:50 +0000",
+        "description": "The News 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件 What is dsh-desktop? dsh-desktop is a new open-source project with 29064 stars. Why Thi...",
         "keywords": "dsh, desktop, use, monkeycode, free, your, local, what",
-        "generated": "2026-09-04T16:05:41.194456",
+        "generated": "2026-09-26T16:08:20.328801",
         "file": "i-tested-dsh-desktop-heres-what-you-need-to-know.md"
     },
     {
@@ -26305,6 +26382,17 @@
         "keywords": "vector, your, you, database, model, embeddings, search, query",
         "generated": "2026-08-27T08:36:24.647275",
         "file": "how-to-use-vector-databases-for-ai-applications.md"
+    },
+    {
+        "title": "Build a Surveyors Management App with Base44",
+        "slug": "build-a-surveyors-management-app-with-base44",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sat, 26 Sep 2026 16:00:21 +0000",
+        "description": "As a surveyor, managing field operations can be a complex and time-consuming task. From coordinating team members to tracking site progress, it's a challenge...",
+        "keywords": "app, surveyors, management, custom, your, needs, can, building",
+        "generated": "2026-09-26T16:08:20.326732",
+        "file": "build-a-surveyors-management-app-with-base44.md"
     },
     {
         "title": "Apple Watch Ultra 4",
@@ -29770,6 +29858,17 @@
         "keywords": "oxlo, sku, supply, risk, supplier, openai, chain, inventory",
         "generated": "2026-07-04T13:45:59.773170",
         "file": "practical-applications-of-llms-in-supply-chain-management.md"
+    },
+    {
+        "title": "Correlation Breakdown Detection: Essential ML Signals",
+        "slug": "correlation-breakdown-detection-essential-ml-signals",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Sat, 26 Sep 2026 16:03:02 +0000",
+        "description": "Diversification often looks strongest immediately before it fails. Correlation breakdown detection uses machine learning to identify subtle changes in cross-...",
+        "keywords": "correlation, detection, before, volatility, can, changes, regime, quant",
+        "generated": "2026-09-26T16:08:20.327121",
+        "file": "correlation-breakdown-detection-essential-ml-signals.md"
     },
     {
         "title": "How to Learn Programming from Scratch in 2026",
@@ -33301,6 +33400,17 @@
         "keywords": "sony, deletes, bunch, more, movies, accounts, people, who",
         "generated": "2026-07-16T14:05:41.527198",
         "file": "sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them.md"
+    },
+    {
+        "title": "Earth is tearing apart beneath the Pacific Northwest",
+        "slug": "earth-is-tearing-apart-beneath-the-pacific-northwest",
+        "author": "emot",
+        "source": "hackernews",
+        "published": "Sat, 26 Sep 2026 14:33:11 +0000",
+        "description": "Article URL: https://www.sciencedaily.com/releases/2026/09/260924231343.htm Comments URL: https://news.ycombinator.com/item?id=49856971 Points: 24 # Comments...",
+        "keywords": "url, https, com, comments, earth, tearing, apart, beneath",
+        "generated": "2026-09-26T16:08:20.322784",
+        "file": "earth-is-tearing-apart-beneath-the-pacific-northwest.md"
     },
     {
         "title": "Turns are Better than Radians (2022)",
@@ -44882,6 +44992,17 @@
         "file": "dario-must-be-crashing-out.md"
     },
     {
+        "title": "Step-by-Step: Build a Certification Tracker with Base44",
+        "slug": "step-by-step-build-a-certification-tracker-with-base44",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sat, 26 Sep 2026 16:01:40 +0000",
+        "description": "Getting Started with Base44 Are you looking for an efficient way to manage certifications in your organization? Do you need a customized digital solution tha...",
+        "keywords": "certification, tracker, you, your, can, create, step, certifications",
+        "generated": "2026-09-26T16:08:20.326116",
+        "file": "step-by-step-build-a-certification-tracker-with-base44.md"
+    },
+    {
         "title": "How to Choose High-Quality Telegram Accounts Without Risk",
         "slug": "how-to-choose-high-quality-telegram-accounts-without-risk",
         "author": "Joan Joanne",
@@ -47520,6 +47641,17 @@
         "keywords": "would, page, could, reader, can, guide, when, explain",
         "generated": "2026-09-09T04:06:24.350033",
         "file": "designing-game-wiki-guides-around-dependencies-a-big-ambitions-example.md"
+    },
+    {
+        "title": "I Tested laya — Here's What You Need to Know",
+        "slug": "i-tested-laya-heres-what-you-need-to-know",
+        "author": "niuniu",
+        "source": "devto_ai",
+        "published": "Sat, 26 Sep 2026 16:01:57 +0000",
+        "description": "The News Non-autoregressive System 1 decision engine. Typed choice, s What is laya? laya is a new open-source project with 25494 stars. Why This Matters 1. O...",
+        "keywords": "laya, use, monkeycode, free, your, local, what, open",
+        "generated": "2026-09-26T16:08:20.328554",
+        "file": "i-tested-laya-heres-what-you-need-to-know.md"
     },
     {
         "title": "5 Lightweight Tailscale Alternatives Worth Running on Your Own Hardware",
@@ -52424,6 +52556,17 @@
         "keywords": "your, digital, convert, web, modern, devsaha, tech, memorable",
         "generated": "2026-09-02T16:20:36.991589",
         "file": "a-memorable-brand-isnt-just-seenits-experienced.md"
+    },
+    {
+        "title": "Plunging test scores are a slow-moving catastrophe",
+        "slug": "plunging-test-scores-are-a-slow-moving-catastrophe",
+        "author": "vinni2",
+        "source": "hackernews",
+        "published": "Sat, 26 Sep 2026 15:24:08 +0000",
+        "description": "Article URL: https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "plunging, test, scores, slow, moving, catastrophe, url, https",
+        "generated": "2026-09-26T16:08:20.322470",
+        "file": "plunging-test-scores-are-a-slow-moving-catastrophe.md"
     },
     {
         "title": "I Replaced Manual Meeting Notes with AI — Here's the Workflow That Actually Saved Me Hours Every Week",
@@ -63276,10 +63419,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Fri, 25 Sep 2026 20:28:27 +0000",
+        "published": "Sat, 26 Sep 2026 15:09:55 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-09-25T21:21:27.486306",
+        "generated": "2026-09-26T16:08:20.323669",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -69106,10 +69249,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 25 Sep 2026 04:12:28 +0000",
-        "description": "Leveraging AI-driven crypto signal bots in 2026 is no longer just about backtesting historical price data; it is about real-time semantic analysis of global ...",
-        "keywords": "signal, context, client, data, symbol, confidence, response, bot",
-        "generated": "2026-09-25T04:22:46.227581",
+        "published": "Sat, 26 Sep 2026 16:02:28 +0000",
+        "description": "In the high-stakes arena of cryptocurrency trading, manual analysis is no longer viable. By 2026, the competitive edge belongs to those who have fully integr...",
+        "keywords": "signal, data, trading, api, response, bot, confidence, apis",
+        "generated": "2026-09-26T16:08:20.328325",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -69958,6 +70101,17 @@
         "keywords": "self, attention, training, transformer, model, you, token, can",
         "generated": "2026-07-31T03:29:44.281249",
         "file": "building-a-transformer-from-scratch-in-pytorch-sparsh-sharma.md"
+    },
+    {
+        "title": "Replace AND CO with Base44: Is It Possible?",
+        "slug": "replace-and-co-with-base44-is-it-possible",
+        "author": "Nick Davies",
+        "source": "devto_webdev",
+        "published": "Sat, 26 Sep 2026 16:01:08 +0000",
+        "description": "No-code app building has become increasingly popular, and it's easy to see why. With the rise of AI-powered tools like Base44, developers and non-developers ...",
+        "keywords": "you, app, can, your, code, time, custom, create",
+        "generated": "2026-09-26T16:08:20.326436",
+        "file": "replace-and-co-with-base44-is-it-possible.md"
     },
     {
         "title": "Deploying a real-time voice agent with AgentCore Runtime and Amplify Gen 2",
@@ -71454,6 +71608,17 @@
         "keywords": "url, https, com, comments, learning, more, claude, mathematical",
         "generated": "2026-08-10T19:03:47.541781",
         "file": "learning-more-about-claudes-mathematical-capabilities.md"
+    },
+    {
+        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "slug": "understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "author": "nisosguy",
+        "source": "hackernews",
+        "published": "Sat, 26 Sep 2026 13:05:36 +0000",
+        "description": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior Comments URL: https://news....",
+        "keywords": "understanding, impact, llm, watermarking, agent, behavior, url, https",
+        "generated": "2026-09-26T16:08:20.322910",
+        "file": "understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior.md"
     },
     {
         "title": "PYTHON - LOOPS7",
@@ -80762,6 +80927,17 @@
         "file": "pandas-should-go-extinct.md"
     },
     {
+        "title": "Fetching Details on Washington Entity Records Multiplies Turnstile Runs",
+        "slug": "fetching-details-on-washington-entity-records-multiplies-turnstile-runs",
+        "author": "Crawler Bros",
+        "source": "devto_python",
+        "published": "Sat, 26 Sep 2026 16:02:06 +0000",
+        "description": "Washington State's Corporations & Charities Filing System (CCFS at ccfs.sos.wa.gov ) is the single source of truth for business entity registration in the st...",
+        "keywords": "fetchdetails, actor, run, search, record, washington, business, entity",
+        "generated": "2026-09-26T16:08:20.323463",
+        "file": "fetching-details-on-washington-entity-records-multiplies-turnstile-runs.md"
+    },
+    {
         "title": "5 JSON Errors That Break APIs (And How to Fix Them)",
         "slug": "5-json-errors-that-break-apis-and-how-to-fix-them",
         "author": "Kalaivani R",
@@ -84553,6 +84729,17 @@
         "keywords": "pirates, marlins, their, miami, home, will, pittsburgh, has",
         "generated": "2026-06-12T20:19:14.999617",
         "file": "miami-marlins-vs-pittsburgh-pirates-mlb-preview-picks.md"
+    },
+    {
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "slug": "breaking-up-with-google-play-why-conversations-is-now-free",
+        "author": "ezst",
+        "source": "hackernews",
+        "published": "Sat, 26 Sep 2026 10:55:56 +0000",
+        "description": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 376 # Comments: 139",
+        "keywords": "breaking, google, play, url, https, comments, why, conversations",
+        "generated": "2026-09-26T16:08:20.323055",
+        "file": "breaking-up-with-google-play-why-conversations-is-now-free.md"
     },
     {
         "title": "Supabase (YC S20) Is Hiring for OrioleDB",
