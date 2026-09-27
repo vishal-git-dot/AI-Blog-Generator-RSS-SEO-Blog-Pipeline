@@ -2167,6 +2167,17 @@
         "file": "your-pipeline-is-259h-behind-catching-inflation-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Agentix Lite Sentinel v0.2.2: I Built a Tiny Linux Security Guard, Then Tried to Break It",
+        "slug": "agentix-lite-sentinel-v022-i-built-a-tiny-linux-security-guard-then-tried-to-break-it",
+        "author": "jackymenCZ (jackymenCZ)",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 11:27:21 +0000",
+        "description": "I have been building a small Linux security agent called Agentix Lite Sentinel. The idea sounds simple: «Watch a server. Notice suspicious behavior. Remember...",
+        "keywords": "not, agentix, api, can, you, event, security, small",
+        "generated": "2026-09-27T11:46:32.758930",
+        "file": "agentix-lite-sentinel-v022-i-built-a-tiny-linux-security-guard-then-tried-to-break-it.md"
+    },
+    {
         "title": "Почему накрутка подписчиков в Telegram убивает канал и как вырастить живую аудиторию",
         "slug": "telegram",
         "author": "Echo-Post",
@@ -2847,6 +2858,17 @@
         "keywords": "account, should, telegram, accounts, can, communication, may, information",
         "generated": "2026-08-08T18:45:17.905319",
         "file": "top-10-websites-to-buy-telegram-accounts.md"
+    },
+    {
+        "title": "OpenAI Feared Optics of what might appear on Hacker News",
+        "slug": "openai-feared-optics-of-what-might-appear-on-hacker-news",
+        "author": "papergirl",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 06:19:33 +0000",
+        "description": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=498638...",
+        "keywords": "news, openai, url, https, comments, feared, optics, what",
+        "generated": "2026-09-27T11:46:32.757728",
+        "file": "openai-feared-optics-of-what-might-appear-on-hacker-news.md"
     },
     {
         "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
@@ -9100,10 +9122,10 @@
         "slug": "how-to-use-ai-for-smart-contract-audits-in-2026",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Thu, 24 Sep 2026 21:12:00 +0000",
-        "description": "Static analysis tools have long been the first line of defense in blockchain security, but by 2026, the landscape has shifted decisively toward semantic unde...",
-        "keywords": "amount, finding, context, client, balances, print, contract, but",
-        "generated": "2026-09-24T21:21:41.119887",
+        "published": "Sun, 27 Sep 2026 11:38:29 +0000",
+        "description": "By 2026, the paradigm of smart contract security has shifted from manual line-by-line review to AI-augmented vulnerability orchestration. As decentralized fi...",
+        "keywords": "security, contract, line, vulnerability, human, audit, const, vulnerabilities",
+        "generated": "2026-09-27T11:46:32.765095",
         "file": "how-to-use-ai-for-smart-contract-audits-in-2026.md"
     },
     {
@@ -10942,6 +10964,17 @@
         "keywords": "python, condicionales, tomar, decisiones, una, programa, los, usar",
         "generated": "2026-07-09T03:49:54.084707",
         "file": "condicionales-en-python-ensea-a-tu-programa-a-tomar-decisiones.md"
+    },
+    {
+        "title": "How we killed works on my machine and staging bugs published: true",
+        "slug": "how-we-killed-works-on-my-machine-and-staging-bugs-published-true",
+        "author": "Proxyceptor",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 11:36:48 +0000",
+        "description": "TL;DR We replaced Charles Proxy + manual SSL cert installs with an in-app JS interceptor (Proxyceptor / SuperDebug SDK) for mocking API responses, simulating...",
+        "keywords": "you, request, proxy, app, response, staging, rewrite, cdn",
+        "generated": "2026-09-27T11:46:32.762002",
+        "file": "how-we-killed-works-on-my-machine-and-staging-bugs-published-true.md"
     },
     {
         "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
@@ -15586,6 +15619,17 @@
         "file": "what-42270-measured-monthly-searches-for-mcp-actually-contain.md"
     },
     {
+        "title": "As a Language Model: Chat Template Switches LLM Self-Referential Voice",
+        "slug": "as-a-language-model-chat-template-switches-llm-self-referential-voice",
+        "author": "yu3zhou4",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 10:26:25 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 28 # Comments: 20",
+        "keywords": "url, https, comments, language, model, chat, template, switches",
+        "generated": "2026-09-27T11:46:32.757279",
+        "file": "as-a-language-model-chat-template-switches-llm-self-referential-voice.md"
+    },
+    {
         "title": "Hardcoded System Prompts: An Anti-Pattern in Production",
         "slug": "hardcoded-system-prompts-an-anti-pattern-in-production",
         "author": "Ivo van der Knaap",
@@ -18233,6 +18277,17 @@
         "keywords": "sentiment, commodities, pulsebit, your, can, analysis, you, our",
         "generated": "2026-07-08T19:41:38.375310",
         "file": "your-pipeline-is-276h-behind-catching-commodities-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Why `channelUrls` Input Silently Drops Invalid YouTube Handles",
+        "slug": "why-channelurls-input-silently-drops-invalid-youtube-handles",
+        "author": "Crawler Bros",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 10:46:47 +0000",
+        "description": "As data engineers, our primary goal isn't just to make data flow, but to ensure it flows reliably, predictably, and detectably. When integrating with externa...",
+        "keywords": "youtube, run, you, actor, your, email, emails, results",
+        "generated": "2026-09-27T11:46:32.761280",
+        "file": "why-channelurls-input-silently-drops-invalid-youtube-handles.md"
     },
     {
         "title": "Stop Losing Viewers: Master the Negative Stake Framework",
@@ -22567,6 +22622,17 @@
         "file": "designing-live-betting-states-without-relying-on-color-alone.md"
     },
     {
+        "title": "Dynamic AI Model Routing: A Practical Guide to Avoiding Lock-In",
+        "slug": "dynamic-ai-model-routing-a-practical-guide-to-avoiding-lock-in",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 11:37:46 +0000",
+        "description": "Why Single-Provider AI Architectures Create Risk Connecting an application directly to one model provider is convenient during prototyping. In production, ho...",
+        "keywords": "model, routing, provider, can, latency, application, should, one",
+        "generated": "2026-09-27T11:46:32.765468",
+        "file": "dynamic-ai-model-routing-a-practical-guide-to-avoiding-lock-in.md"
+    },
+    {
         "title": "Best Marketing APIs for Developers in 2026",
         "slug": "best-marketing-apis-for-developers-in-2026",
         "author": "Nick Davies",
@@ -22730,6 +22796,17 @@
         "keywords": "commodore, released, september, url, https, comments, article, dfarq",
         "generated": "2026-09-02T10:59:18.562921",
         "file": "commodore-64-released-september-1-1982.md"
+    },
+    {
+        "title": "The internet discovers TLA+. Now what?",
+        "slug": "the-internet-discovers-tla-now-what",
+        "author": "matt_d",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 05:26:15 +0000",
+        "description": "Article URL: https://reasonable.io/blog/tla-tutorial/ Comments URL: https://news.ycombinator.com/item?id=49863600 Points: 24 # Comments: 13",
+        "keywords": "tla, url, https, comments, internet, discovers, now, what",
+        "generated": "2026-09-27T11:46:32.757849",
+        "file": "the-internet-discovers-tla-now-what.md"
     },
     {
         "title": "MSI Center – How to gain SYSTEM privileges in seconds",
@@ -33213,6 +33290,17 @@
         "keywords": "model, you, free, run, because, label, your, drift",
         "generated": "2026-08-29T06:36:04.046856",
         "file": "i-asked-a-free-model-the-same-question-for-48-hours-the-drift-was-the-signal.md"
+    },
+    {
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "slug": "meta-blocks-president-lulas-facebook-page-campaign-ads-2-weeks-from-election",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 08:44:04 +0000",
+        "description": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "comments, url, https, com, meta, blocks, president, lula",
+        "generated": "2026-09-27T11:46:32.757597",
+        "file": "meta-blocks-president-lulas-facebook-page-campaign-ads-2-weeks-from-election.md"
     },
     {
         "title": "How I Cut Our AI API Bill by 95% — A CTO's 2026 Playbook",
@@ -45916,6 +46004,17 @@
         "file": "unlocking-the-future-what-is-agentic-ai-and-how-its-transforming-development.md"
     },
     {
+        "title": "Best 12 Place to Buy Verified Poloniex Accounts Guide …",
+        "slug": "best-12-place-to-buy-verified-poloniex-accounts-guide",
+        "author": "Buy Google Voice Accounts",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 11:32:00 +0000",
+        "description": "Best 12 Place to Buy Verified Poloniex Accounts Guide … 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@...",
+        "keywords": "account, digital, information, can, financial, verification, platform, verified",
+        "generated": "2026-09-27T11:46:32.763319",
+        "file": "best-12-place-to-buy-verified-poloniex-accounts-guide.md"
+    },
+    {
         "title": "Automate Web Scraping with Crew AI and Pro Tips",
         "slug": "automate-web-scraping-with-crew-ai-and-pro-tips",
         "author": "Mustafa Yılmaz",
@@ -46893,6 +46992,17 @@
         "keywords": "print, python, true, string, strings, text, part, you",
         "generated": "2026-06-20T04:12:08.212844",
         "file": "python-for-beginners-part-3-strings-booleans.md"
+    },
+    {
+        "title": "Domains",
+        "slug": "domains",
+        "author": "Igaekweta",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 11:37:38 +0000",
+        "description": "https://freshtools.icu/ https://freshtools.life/ https://freshtools.lol/ https://freshtools.online",
+        "keywords": "https, freshtools, domains, icu, life, lol, online",
+        "generated": "2026-09-27T11:46:32.761611",
+        "file": "domains.md"
     },
     {
         "title": "LLM Cost Optimization: Cutting Inference Bills Without Killing Quality",
@@ -69535,10 +69645,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sat, 26 Sep 2026 16:02:28 +0000",
-        "description": "In the high-stakes arena of cryptocurrency trading, manual analysis is no longer viable. By 2026, the competitive edge belongs to those who have fully integr...",
-        "keywords": "signal, data, trading, api, response, bot, confidence, apis",
-        "generated": "2026-09-26T16:08:20.328325",
+        "published": "Sun, 27 Sep 2026 11:37:14 +0000",
+        "description": "By 2026, the barrier to entry for building a crypto signal bot has shifted from complex statistical modeling to sophisticated orchestration of Large Language...",
+        "keywords": "data, bot, signal, model, prompt, context, openai, building",
+        "generated": "2026-09-27T11:46:32.765694",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -71834,10 +71944,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Thu, 24 Sep 2026 20:47:08 +0000",
+        "published": "Sun, 27 Sep 2026 11:14:07 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-09-24T21:21:41.116802",
+        "generated": "2026-09-27T11:46:32.759747",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -73390,6 +73500,17 @@
         "keywords": "garden, change, bad, neighborhood, url, https, comments, tld",
         "generated": "2026-06-29T20:06:45.984754",
         "file": "garden-tlds-change-to-a-bad-neighborhood.md"
+    },
+    {
+        "title": "Show HN: LightCloud – A cloud console organised like file system",
+        "slug": "show-hn-lightcloud-a-cloud-console-organised-like-file-system",
+        "author": "yullius",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 09:45:15 +0000",
+        "description": "Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env va...",
+        "keywords": "cloud, folder, comments, show, lightcloud, console, organised, like",
+        "generated": "2026-09-27T11:46:32.757460",
+        "file": "show-hn-lightcloud-a-cloud-console-organised-like-file-system.md"
     },
     {
         "title": "Everest Base Camp Trek Training for Beginners",
@@ -76439,6 +76560,17 @@
         "file": "show-hn-2-weeks-of-hallucinate-the-photo-gallery.md"
     },
     {
+        "title": "The Retail Underwear: What Protection Costs When the Backstop Has a Clock",
+        "slug": "the-retail-underwear-what-protection-costs-when-the-backstop-has-a-clock",
+        "author": "Feng Yu",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 11:17:32 +0000",
+        "description": "Fat Tail Notes · Part 19 · V10-P7 Part 18 asked the question this series has been walking toward since Part 11: when the backstop's protection is probabilist...",
+        "keywords": "put, cash, garment, cost, pts, part, clock, tail",
+        "generated": "2026-09-27T11:46:32.759537",
+        "file": "the-retail-underwear-what-protection-costs-when-the-backstop-has-a-clock.md"
+    },
+    {
         "title": "I A/B tested my own system prompt: 24 generations, one clear win, one rule that did nothing | Flash Onyx 2.2",
         "slug": "i-ab-tested-my-own-system-prompt-24-generations-one-clear-win-one-rule-that-did-nothing-flash-onyx-22",
         "author": "Nathan C.",
@@ -76861,10 +76993,10 @@
         "slug": "mev-detection-with-ai-a-practical-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Mon, 07 Sep 2026 11:56:50 +0000",
-        "description": "Maximal Extractable Value (MEV) represents a significant friction point in decentralized finance, extracting billions of dollars from retail users through fr...",
-        "keywords": "mev, transaction, data, detection, mempool, model, practical, sandwich",
-        "generated": "2026-09-07T12:06:00.734404",
+        "published": "Sun, 27 Sep 2026 11:40:15 +0000",
+        "description": "Maximal Extractable Value (MEV) represents billions of dollars in value diverted from users to validators and searchers annually. As bots become more sophist...",
+        "keywords": "data, mev, detection, model, sandwich, high, practical, value",
+        "generated": "2026-09-27T11:46:32.764812",
         "file": "mev-detection-with-ai-a-practical-guide.md"
     },
     {
@@ -79286,6 +79418,17 @@
         "keywords": "not, project, because, days, then, what, fast, why",
         "generated": "2026-06-30T14:30:32.341708",
         "file": "we-rejected-a-project-because-the-client-wanted-it-done-in-3-days-heres-why.md"
+    },
+    {
+        "title": "Decision-time governance vs egress-time monitoring",
+        "slug": "decision-time-governance-vs-egress-time-monitoring",
+        "author": "luisprimecore",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 11:30:12 +0000",
+        "description": "Daily LuisCore syndication · 2026-09-27 · angle decision-time-vs-egress Security teams often conflate we log LLM calls with we govern agent decisions. Lu...",
+        "keywords": "luiscore, agent, telemetry, decision, not, agents, https, json",
+        "generated": "2026-09-27T11:46:32.766068",
+        "file": "decision-time-governance-vs-egress-time-monitoring.md"
     },
     {
         "title": "Get any Instagram profile data in 10 lines of Python",
@@ -82751,6 +82894,17 @@
         "keywords": "shutting, down, our, public, encrypted, dns, url, https",
         "generated": "2026-09-04T20:35:59.562272",
         "file": "shutting-down-our-public-encrypted-dns.md"
+    },
+    {
+        "title": "Top 10 Places to Buy Google Voice Accounts Verified & Safe",
+        "slug": "top-10-places-to-buy-google-voice-accounts-verified-safe",
+        "author": "Buy Google Voice Accounts",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 11:30:13 +0000",
+        "description": "Top 10 Places to Buy Google Voice Accounts Verified & Safe 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvc...",
+        "keywords": "communication, can, digital, account, google, information, email, use",
+        "generated": "2026-09-27T11:46:32.764559",
+        "file": "top-10-places-to-buy-google-voice-accounts-verified-safe.md"
     },
     {
         "title": "Sequoyah’s syllabary created a written language for the Cherokee",
@@ -87657,6 +87811,17 @@
         "file": "im-learning-python-backend-development-in-public.md"
     },
     {
+        "title": "Building a Tamper-Proof Cryptographic Audit Trail and Fail-Closed Engine in Python",
+        "slug": "building-a-tamper-proof-cryptographic-audit-trail-and-fail-closed-engine-in-python",
+        "author": "Waleed-Mubarak",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 11:03:29 +0000",
+        "description": "In modern system architecture and distributed environments, logging and error-handling are often treated as afterthoughts. When a security boundary is breach...",
+        "keywords": "state, self, fail, cryptographic, audit, closed, open, hash",
+        "generated": "2026-09-27T11:46:32.760124",
+        "file": "building-a-tamper-proof-cryptographic-audit-trail-and-fail-closed-engine-in-python.md"
+    },
+    {
         "title": "Aged Gmail Buy/Sell | 2026 Gmail Accounts Buying Guide",
         "slug": "aged-gmail-buysell-2026-gmail-accounts-buying-guide",
         "author": "usaallmarket",
@@ -90691,6 +90856,17 @@
         "keywords": "ada, training, you, nvidia, rtx, local, running, models",
         "generated": "2026-07-26T13:40:34.482330",
         "file": "nvidia-h100-vs-rtx-6000-ada-which-gpu-wins-for-local-ai-workloads.md"
+    },
+    {
+        "title": "🎮 Discover Your Next Gaming Adventure 🚀",
+        "slug": "discover-your-next-gaming-adventure",
+        "author": "ATIF TANWRI",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 11:38:32 +0000",
+        "description": "🎮 Discover Your Next Gaming Adventure 🚀 Are you ready to discover an exciting new game? 🕹️🔥 Gaming is not just about playing—it’s about exploring amazing wor...",
+        "keywords": "new, your, discover, gaming, adventure, game, next, you",
+        "generated": "2026-09-27T11:46:32.761497",
+        "file": "discover-your-next-gaming-adventure.md"
     },
     {
         "title": "What will be left for us to work on?",
