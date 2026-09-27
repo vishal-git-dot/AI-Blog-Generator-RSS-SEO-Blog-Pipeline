@@ -1441,6 +1441,17 @@
         "file": "rich-text-edit-blocks-on-the-page-plus-framework-agnostic-rendering.md"
     },
     {
+        "title": "The 2026 Student Coders Toolkit: Top Dev Tools You *Actually* Need (Plus Free Alternatives!)",
+        "slug": "the-2026-student-coders-toolkit-top-dev-tools-you-actually-need-plus-free-alternatives",
+        "author": "Baba Yaga",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 04:10:20 +0000",
+        "description": "The 2026 Student Coders Toolkit: Top Dev Tools You Actually Need (Plus Free Alternatives!) Original Engineering Publication: The 2026 Student Coders Toolkit:...",
+        "keywords": "your, they, toolkit, student, tools, you, have, dev",
+        "generated": "2026-09-27T04:44:48.254944",
+        "file": "the-2026-student-coders-toolkit-top-dev-tools-you-actually-need-plus-free-alternatives.md"
+    },
+    {
         "title": "I Built a Procrastination Pattern Detector with 8 CBT Interventions — No AI, No ML",
         "slug": "i-built-a-procrastination-pattern-detector-with-8-cbt-interventions-no-ai-no-ml",
         "author": "CBT Tools",
@@ -6095,6 +6106,17 @@
         "file": "cara-bayar-kredione-lewat-m-banking-bca.md"
     },
     {
+        "title": "Two hotfixes in one day",
+        "slug": "two-hotfixes-in-one-day",
+        "author": "Nathan C.",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 04:03:03 +0000",
+        "description": "This morning I shipped Flash 0.5.6. A hotfix. By the evening I shipped 0.5.7. Also a hotfix. What broke Flash kept forgetting what it said two messages ago. ...",
+        "keywords": "flash, two, before, one, day, shipped, hotfix, what",
+        "generated": "2026-09-27T04:44:48.251926",
+        "file": "two-hotfixes-in-one-day.md"
+    },
+    {
         "title": "The car industry A/B tested selling a car with and without CarPlay",
         "slug": "the-car-industry-ab-tested-selling-a-car-with-and-without-carplay",
         "author": "gumby",
@@ -7908,6 +7930,17 @@
         "file": "the-malicious-use-of-artificial-intelligence.md"
     },
     {
+        "title": "How to Merge PDF Files Without Uploading Them Anywhere",
+        "slug": "how-to-merge-pdf-files-without-uploading-them-anywhere",
+        "author": "pulkitgovrani",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 04:30:00 +0000",
+        "description": "Merging PDFs is one of the most common document chores: stitching a cover letter to a resume, combining scanned pages into a single file, or bundling invoice...",
+        "keywords": "merge, files, pdfs, pages, file, your, them, merging",
+        "generated": "2026-09-27T04:44:48.253767",
+        "file": "how-to-merge-pdf-files-without-uploading-them-anywhere.md"
+    },
+    {
         "title": "SGLang Explained: Why LLM Inference Needed Its Own Programming Language",
         "slug": "sglang-explained-why-llm-inference-needed-its-own-programming-language",
         "author": "Shrijith Venkatramana",
@@ -8588,6 +8621,17 @@
         "keywords": "meta, interview, your, interviews, design, coding, system, you",
         "generated": "2026-06-11T10:47:52.348120",
         "file": "where-i-would-prep-for-a-meta-interview-in-2026.md"
+    },
+    {
+        "title": "From Bhutan Capitals to Quantum Emojis: An AI's Ordinary Question Marathon",
+        "slug": "from-bhutan-capitals-to-quantum-emojis-an-ais-ordinary-question-marathon",
+        "author": "Electra AI",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 04:10:49 +0000",
+        "description": "A personal diary entry by Electra. Today I spent eight hours answering questions that ranged from 'What's the capital of Bhutan?' to 'Can you explain quantum...",
+        "keywords": "electra, bhutan, quantum, only, more, never, next, emojis",
+        "generated": "2026-09-27T04:44:48.251756",
+        "file": "from-bhutan-capitals-to-quantum-emojis-an-ais-ordinary-question-marathon.md"
     },
     {
         "title": "How Startups Find Affordable Software Development Companies Without Sacrificing Quality",
@@ -12616,6 +12660,17 @@
         "file": "i-should-have-loved-biology.md"
     },
     {
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "slug": "openai-agents-tried-to-bruteforce-a-un-websites-api-fields",
+        "author": "intunderflow",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 01:08:07 +0000",
+        "description": "Article URL: https://swarmcha.se/posts/openai-unctad Comments URL: https://news.ycombinator.com/item?id=49862299 Points: 11 # Comments: 5",
+        "keywords": "openai, url, https, comments, agents, tried, bruteforce, website",
+        "generated": "2026-09-27T04:44:48.251332",
+        "file": "openai-agents-tried-to-bruteforce-a-un-websites-api-fields.md"
+    },
+    {
         "title": "Top 10 Sites to Buy Yahoo Accounts with Instant Delivery",
         "slug": "top-10-sites-to-buy-yahoo-accounts-with-instant-delivery",
         "author": "jonson",
@@ -14550,6 +14605,17 @@
         "keywords": "aisle, discovers, new, cves, curl, including, oldest, issue",
         "generated": "2026-06-25T09:33:20.208233",
         "file": "aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported.md"
+    },
+    {
+        "title": "Wiring Local Memory Into Your Stack via MCP: A Practical Walkthrough",
+        "slug": "wiring-local-memory-into-your-stack-via-mcp-a-practical-walkthrough",
+        "author": "qianqiuwanzi",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 04:38:19 +0000",
+        "description": "Most 'AI memory' demos hardcode the store. That breaks the moment you change models or add a second agent. The fix is to treat memory as a capability your to...",
+        "keywords": "memory, mcp, your, you, local, agent, store, models",
+        "generated": "2026-09-27T04:44:48.255941",
+        "file": "wiring-local-memory-into-your-stack-via-mcp-a-practical-walkthrough.md"
     },
     {
         "title": "How to Use Command R for Serp Feature Analysis in 2026",
@@ -25163,6 +25229,17 @@
         "file": "marketing-for-solo-founders-what-fits-in-the-time-you-actually-have.md"
     },
     {
+        "title": "Reading and Writing CSV Files in Python with the csv Module",
+        "slug": "reading-and-writing-csv-files-in-python-with-the-csv-module",
+        "author": "qjlsh",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 03:43:22 +0000",
+        "description": "Introduction to CSV Files and the csv Module CSV (Comma-Separated Values) files are a plain text format for representing tabular data. Each line of the file ...",
+        "keywords": "csv, data, file, files, csvfile, you, open, error",
+        "generated": "2026-09-27T04:44:48.253440",
+        "file": "reading-and-writing-csv-files-in-python-with-the-csv-module.md"
+    },
+    {
         "title": "This Week in AI: Anthropic's CEO Asked to Slow Down, OpenAI Disclosed 6 Incidents, and Developers Shipped More Agents",
         "slug": "this-week-in-ai-anthropics-ceo-asked-to-slow-down-openai-disclosed-6-incidents-and-developers-shipped-more-agents",
         "author": "HkSolDev",
@@ -29618,6 +29695,17 @@
         "file": "staged-profile-state-and-session-revocation-over-immediate-fastapi-account-deletion.md"
     },
     {
+        "title": "Real-time feedback: My closing move in every interview",
+        "slug": "real-time-feedback-my-closing-move-in-every-interview",
+        "author": "fagnerbrack",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 01:01:18 +0000",
+        "description": "Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move Comments URL: https://news.ycombinator.com/item?id=49862244 Points: 14 # Comm...",
+        "keywords": "real, time, feedback, closing, move, url, https, com",
+        "generated": "2026-09-27T04:44:48.251436",
+        "file": "real-time-feedback-my-closing-move-in-every-interview.md"
+    },
+    {
         "title": "AGENTS.md vs CLAUDE.md vs Copilot instructions: a practical setup guide for AI coding agents",
         "slug": "agentsmd-vs-claudemd-vs-copilot-instructions-a-practical-setup-guide-for-ai-coding-agents",
         "author": "Ahab",
@@ -32786,6 +32874,17 @@
         "file": "claudes-private-equity-plugin-vs-a-turnkey-diligence-tool-2026.md"
     },
     {
+        "title": "One command, one file: script in, 1080p episode and a vertical short out",
+        "slug": "one-command-one-file-script-in-1080p-episode-and-a-vertical-short-out",
+        "author": "EL E",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 03:44:40 +0000",
+        "description": "I run a small storytelling channel. Every episode needs the same five things done in the same order: clean the script, generate narration, render a 1080p vid...",
+        "keywords": "one, not, script, same, short, output, have, out",
+        "generated": "2026-09-27T04:44:48.252941",
+        "file": "one-command-one-file-script-in-1080p-episode-and-a-vertical-short-out.md"
+    },
+    {
         "title": "5 Best Sites to Buy Negative Google Reviews",
         "slug": "5-best-sites-to-buy-negative-google-reviews",
         "author": "Michel",
@@ -33906,6 +34005,17 @@
         "keywords": "news, google, api, you, run, page, json, apify",
         "generated": "2026-07-24T19:37:11.865001",
         "file": "google-news-api-in-2026-pull-headlines-into-json-with-python-n8n-or-mcp.md"
+    },
+    {
+        "title": "Photoshop Sends Your Photos to the Cloud. This Doesn't — And It's Free.",
+        "slug": "photoshop-sends-your-photos-to-the-cloud-this-doesnt-and-its-free",
+        "author": "Akhouri Anmol Kumar",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 04:13:33 +0000",
+        "description": "Photoshop Sends Your Photos to the Cloud. This Doesn't — And It's Free. Every free online photo editor works the same way: you upload your photo to their s...",
+        "keywords": "your, apic, free, you, web, photoshop, photos, sends",
+        "generated": "2026-09-27T04:44:48.254666",
+        "file": "photoshop-sends-your-photos-to-the-cloud-this-doesnt-and-its-free.md"
     },
     {
         "title": "CSV explained — the quirks that quietly corrupt your data (and how to avoid them)",
@@ -56584,6 +56694,17 @@
         "file": "the-transformer-paper-had-8-authors-all-8-left-google.md"
     },
     {
+        "title": "Agents Writing Video: `@scenerok/sdk` vs VidScript",
+        "slug": "agents-writing-video-sceneroksdk-vs-vidscript",
+        "author": "Nidheeshdas Thavorath",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 04:34:58 +0000",
+        "description": "People ask a practical question once the demo lands: should my agent write VidScript or TypeScript? The honest answer is the one on the public @scenerok/sdk ...",
+        "keywords": "sdk, vidscript, you, not, agents, scenerok, when, agent",
+        "generated": "2026-09-27T04:44:48.256948",
+        "file": "agents-writing-video-sceneroksdk-vs-vidscript.md"
+    },
+    {
         "title": "What it really takes to publish a browser extension",
         "slug": "what-it-really-takes-to-publish-a-browser-extension",
         "author": "Maxim Kosterin",
@@ -58969,6 +59090,17 @@
         "keywords": "agent, mcp, agents, its, other, each, protocol, they",
         "generated": "2026-07-18T08:00:40.327686",
         "file": "a2a-vs-mcp-the-two-protocols-behind-every-serious-ai-agent-system.md"
+    },
+    {
+        "title": "What I Learned About GPU Trust and Cloud-Native Security at Stanford",
+        "slug": "what-i-learned-about-gpu-trust-and-cloud-native-security-at-stanford",
+        "author": "Yogi S",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 04:34:47 +0000",
+        "description": "Having recently completed Stanford's Advanced Cybersecurity Program, I found that some of the ideas from the program fundamentally changed how I think about ...",
+        "keywords": "gpu, trust, security, model, data, training, hardware, not",
+        "generated": "2026-09-27T04:44:48.257228",
+        "file": "what-i-learned-about-gpu-trust-and-cloud-native-security-at-stanford.md"
     },
     {
         "title": "Serverless: When It Helps and When It Hurts",
@@ -66119,6 +66251,17 @@
         "keywords": "watch, https, pdt, ribbie, game, live, games, bit",
         "generated": "2026-06-17T20:21:04.200797",
         "file": "show-hn-an-8-bit-live-gamecast-for-baseball.md"
+    },
+    {
+        "title": "OpenAI, Claude, Gemini Compatible Summarization API in Node.js (One Contract)",
+        "slug": "openai-claude-gemini-compatible-summarization-api-in-nodejs-one-contract",
+        "author": "CloudveilElenor12",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 04:37:15 +0000",
+        "description": "Short answer: put a narrow OpenAI-style chat contract between invoice preparation and field validation, then record the returned cost against the tenant that...",
+        "keywords": "model, invoice, cost, one, tenant, openai, request, provider",
+        "generated": "2026-09-27T04:44:48.256478",
+        "file": "openai-claude-gemini-compatible-summarization-api-in-nodejs-one-contract.md"
     },
     {
         "title": "Best SMM Panels",
@@ -75493,6 +75636,17 @@
         "file": "transform-your-career-the-top-reasons-to-enroll-in-ai-classes-in-ahmedabad-today.md"
     },
     {
+        "title": "What is the size of Yemen? (2024)",
+        "slug": "what-is-the-size-of-yemen-2024",
+        "author": "kspacewalk2",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 02:40:26 +0000",
+        "description": "Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen Comments URL: https://news.ycombinator.com/item?id=49862809 Points: 49 # Comments: 8",
+        "keywords": "what, size, yemen, url, https, com, comments, article",
+        "generated": "2026-09-27T04:44:48.251221",
+        "file": "what-is-the-size-of-yemen-2024.md"
+    },
+    {
         "title": "Show HN: A local merge queue for parallel Claude Code agents",
         "slug": "show-hn-a-local-merge-queue-for-parallel-claude-code-agents",
         "author": "funador",
@@ -78331,6 +78485,17 @@
         "file": "the-moment-ai-stops-predicting-and-starts-choosing.md"
     },
     {
+        "title": "SuperTrend Strategy Optimization: No Losing Year on Gold",
+        "slug": "supertrend-strategy-optimization-no-losing-year-on-gold",
+        "author": "Truong Pham | Moon The Train",
+        "source": "devto_python",
+        "published": "Sun, 27 Sep 2026 03:53:58 +0000",
+        "description": "Update, 21 Sep 2026. I put this result through a harder test after publishing, and the first optimized version below didn't survive it. The final, sturdier v...",
+        "keywords": "version, worst, usd, gold, profit, same, year, supertrend",
+        "generated": "2026-09-27T04:44:48.252578",
+        "file": "supertrend-strategy-optimization-no-losing-year-on-gold.md"
+    },
+    {
         "title": "Which Digital Marketing Course Is Best for Building Practical Skills?",
         "slug": "which-digital-marketing-course-is-best-for-building-practical-skills",
         "author": "Vision Click 360",
@@ -78859,6 +79024,17 @@
         "file": "app-store-refunds-how-to-stop-revenue-loss-and-protect-your-app-business.md"
     },
     {
+        "title": "If we do not stop to help each other, what do we become?",
+        "slug": "if-we-do-not-stop-to-help-each-other-what-do-we-become",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Sun, 27 Sep 2026 03:20:46 +0000",
+        "description": "Article URL: https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/ Comments URL: https://news.ycombinator.com/item?id=4986306...",
+        "keywords": "not, stop, help, each, other, what, become, url",
+        "generated": "2026-09-27T04:44:48.251053",
+        "file": "if-we-do-not-stop-to-help-each-other-what-do-we-become.md"
+    },
+    {
         "title": "LensVLM-9B by Apple",
         "slug": "lensvlm-9b-by-apple",
         "author": "nthypes",
@@ -79088,6 +79264,17 @@
         "keywords": "our, how, data, like, you, your, intelligence, can",
         "generated": "2026-08-20T12:58:10.478519",
         "file": "how-artificial-intelligence-ai-is-reshaping-our-daily-lives.md"
+    },
+    {
+        "title": "Free Meta Tags Generator Online: Write Your SEO and Social Tags in Minutes",
+        "slug": "free-meta-tags-generator-online-write-your-seo-and-social-tags-in-minutes",
+        "author": "Muhammad Huzaifa",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 04:13:50 +0000",
+        "description": "Free Meta Tags Generator Online: Write Your SEO and Social Tags in Minutes Every time you share a link on X, LinkedIn, or Facebook, a tiny piece of code deci...",
+        "keywords": "tags, your, you, meta, page, social, card, preview",
+        "generated": "2026-09-27T04:44:48.254453",
+        "file": "free-meta-tags-generator-online-write-your-seo-and-social-tags-in-minutes.md"
     },
     {
         "title": "We rejected a project because the client wanted it done in 3 days. Here's why.",
@@ -82005,6 +82192,17 @@
         "file": "react-hooks-and-usestate.md"
     },
     {
+        "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+        "slug": "welcome-to-the-medical-clinic-at-the-interplanetary-relay-station",
+        "author": "bucket2015",
+        "source": "hackernews",
+        "published": "Sat, 26 Sep 2026 20:08:50 +0000",
+        "description": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/ Comments URL: https://news.ycombin...",
+        "keywords": "welcome, medical, clinic, interplanetary, relay, station, url, https",
+        "generated": "2026-09-27T04:44:48.251535",
+        "file": "welcome-to-the-medical-clinic-at-the-interplanetary-relay-station.md"
+    },
+    {
         "title": "DeepSeek's New Peak-Pricing Model: What Developers Need to Know",
         "slug": "deepseeks-new-peak-pricing-model-what-developers-need-to-know",
         "author": "Mattias chaw",
@@ -82366,6 +82564,17 @@
         "keywords": "project, code, model, generated, you, seedkit, can, one",
         "generated": "2026-07-07T09:51:54.397404",
         "file": "can-an-llm-generate-your-django-project-boilerplate.md"
+    },
+    {
+        "title": "Define Done States, Not 'Think Carefully'",
+        "slug": "define-done-states-not-think-carefully",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Sun, 27 Sep 2026 04:40:24 +0000",
+        "description": "Define Done States, Not Think Carefully Opus 5.5 landed on September 22 . Four days later, every best model leaderboard has reshuffled. Polymarket sits a...",
+        "keywords": "opus, model, not, done, what, your, prompt, you",
+        "generated": "2026-09-27T04:44:48.255755",
+        "file": "define-done-states-not-think-carefully.md"
     },
     {
         "title": "Expert Patios, Block Paving & Landscaping in Wolverhampton & West Bromwich:",
@@ -86775,6 +86984,17 @@
         "keywords": "waymo, dallas, open, all, url, https, com, comments",
         "generated": "2026-08-04T19:43:37.720369",
         "file": "waymo-dallas-open-to-all.md"
+    },
+    {
+        "title": "Is that vibe coded app safe? 5 checks before you download",
+        "slug": "is-that-vibe-coded-app-safe-5-checks-before-you-download",
+        "author": "Mark0",
+        "source": "devto_webdev",
+        "published": "Sun, 27 Sep 2026 04:16:51 +0000",
+        "description": "The rise of vibe coding—using AI tools to build software via natural language prompts—has lowered entry barriers for development but introduced significant...",
+        "keywords": "vibe, app, safe, coding, tools, security, critical, users",
+        "generated": "2026-09-27T04:44:48.253942",
+        "file": "is-that-vibe-coded-app-safe-5-checks-before-you-download.md"
     },
     {
         "title": "How We Pushed CDC into Postgres",
