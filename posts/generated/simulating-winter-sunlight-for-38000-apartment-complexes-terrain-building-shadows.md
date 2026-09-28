@@ -1,0 +1,34 @@
+---
+title: "Simulating winter sunlight for 38,000 apartment complexes (terrain + building shadows)"
+slug: "simulating-winter-sunlight-for-38000-apartment-complexes-terrain-building-shadows"
+author: "TaroFortune"
+source: "devto_python"
+published: "Mon, 28 Sep 2026 22:38:39 +0000"
+description: "In Korea, "how much winter sun does this apartment get?" is a real buying question, not a nice-to-have. And the honest answer isn't "look at the balcony dire..."
+keywords: "sun, horizon, terrain, winter, solstice, angle, front, one"
+generated: "2026-09-28T23:06:03.073047"
+---
+
+# Simulating winter sunlight for 38,000 apartment complexes (terrain + building shadows)
+
+## Overview
+
+In Korea, "how much winter sun does this apartment get?" is a real buying question, not a nice-to-have. And the honest answer isn't "look at the balcony direction" — it's a geometry problem with three moving parts: where the sun actually is in the sky in December, what hills and mountains sit on the horizon, and whether the building directly in front casts a shadow over you. I built ZipScope (집스코프), a Korean living-area analysis map that scores 38,000+ apartment, officetel, and low-rise complexes nationwide across a seven-dimension living score — transit, schools, amenities, healthcare, environment, culture, and future value. Alongside that score, it also runs a set of terrain-based estimates: winter daylight, flood risk, and waterfront views. This post is about how the winter-sunlight simulation works. You can poke at the live version here: https://tarofortune.pythonanywhere.com/analyze?ref=devto&utm_source=devto&utm_medium=social&utm_campaign=multi-site-bot Why the winter solstice is the only day that matters If you want a single worst-case number for daylight, you compute it on the winter solstice (동지). That's when the sun's arc across the sky is at its lowest and shortest for the whole year. A unit that gets decent light on the solstice gets at least that much every other day. A unit that's already blocked on the solstice is the one you warn people about. So the whole simulation is anchored to one day: trace the sun's path from sunrise to sunset on the solstice, and at each moment ask a single yes/no question — can this complex actually see the sun right now, or is something in the way? Part 1: the sun's winter arc The sun's position for any instant is a textbook astronomy calculation. Two angles describe it: elevation — how high above the horizon the sun is (0° at the horizon, 90° straight up) azimuth — which compass direction it's in On the solstice the sun's declination bottoms out near −23.4°, so in Korean latitudes the noon sun never climbs very high — it skims low across the southern sky. That low arc is exactly why front buildings and terrain matter so much in winter: the sun is coming in at a shallow angle, so even a modest obstruction reaches up and clips it. Stepping through the day in small time increments gives a sequence of (azimuth, elevation) pairs — the sun's track. That's the thing everything else gets tested against. Part 2: the terrain horizon from a DEM The sky isn't a flat 0° horizon. If there's a ridge to the south-east, the sun doesn't "rise" for that location until it clears the ridge. To capture this I use SRTM 30 m satellite DEM (digital elevation model) data. For a given complex I sample the DEM outward along many compass directions. In each direction I walk away from the point and compute the angle up to each terrain sample: # horizon angle in one azimuth direction horizon = 0.0 for d in distances_along_ray : dz = elevation_at ( d ) - elevation_here angle = atan2 ( dz , d ) # elevation angle to that terrain point horizon = max ( horizon , angle ) # keep the highest blocker Do that for every direction and you get a horizon profile : the minimum sun elevation needed to be visible in each azimuth. A location down in a valley has a high horizon profile; one on a hillside facing south has a low one. Sitting on the DEM also means every complex gets an honest elevation-above-sea-level readout as a by-product. Part 3: the front-building shadow angle Terrain explains the macro picture; the building directly in front (앞동) explains why apartment 3F is dark at noon while 15F is bright. A facing block subtends a shadow angle that depends on how tall it is and how far away it stands — and because winter sun comes in low, a fairly ordinary front building can block a surprising amount of it. The test is the same shape as the terrain one: the front structure contributes its own elevation angle in the azimuth range it occupies. Combine it with the terrain horizon by simply taking the higher blocker in each direction. Putting it together The visibility test for every sampled moment of the solstice day becomes one comparison: sunny_minutes = 0 for az , elev in sun_track : # sun path across the solstice blocker = max ( terrain_horizon [ az ], # hills / mountains building_shadow [ az ]) # the block in front if elev > blocker : sunny_minutes += step_minutes Sum the minutes where the sun clears every obstruction and you have a defensible winter-daylight estimate — not a vibe, a traced sun path checked against real terrain and real geometry. Doing it 38,000 times Running this per complex, on demand, would be slow, so the heavy geometry is precomputed and the results stored. The stack is deliberately boring and cheap: Flask + React + Leaflet on the front, SQLite for storage, SRTM DEM for terrain and OSM Overpass for map features, all hosted on PythonAnywhere. Boring is a feature — it keeps the whole thing free to run for a nationwide dataset. Honesty as a design constraint One rule I hold across the whole product: every estimate ships with its source and its limits. The sunlight figure is a simulation , not a survey — a solstice-anchored model built from a 30 m DEM and building geometry, and it's labeled that way in the UI. Same discipline applies elsewhere in the app (the flood-risk layer, for instance, is clearly marked as an estimate and points users to the official flood map rather than pretending to replace it). It turns out "here's the number, and here's exactly how we got it and where it can be wrong" is not just good engineering hygiene — for a service asking people to trust a map with a housing decision, it's the whole pitch. — austriano
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/tarofortune/simulating-winter-sunlight-for-38000-apartment-complexes-terrain-building-shadows-1o1l
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

@@ -3323,6 +3323,17 @@
         "file": "python-complete-masterclass-2026-the-ultimate-beginner-to-professional-guide.md"
     },
     {
+        "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "slug": "jeff-jev-compatible-08b-decision-models-trained-at-home-30-ms",
+        "author": "firelex",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 20:23:36 +0000",
+        "description": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 139 # Comments: 38",
+        "keywords": "jeff, url, https, com, comments, jev, compatible, decision",
+        "generated": "2026-09-28T23:06:03.071363",
+        "file": "jeff-jev-compatible-08b-decision-models-trained-at-home-30-ms.md"
+    },
+    {
         "title": "I Built an AI GitHub PR Reviewer — Meet BracketWise 🚀",
         "slug": "i-built-an-ai-github-pr-reviewer-meet-bracketwise",
         "author": "Yash Ladda",
@@ -4080,6 +4091,17 @@
         "keywords": "classes, ahmedabad, learning, career, can, your, machine, their",
         "generated": "2026-09-22T04:16:43.251243",
         "file": "transform-your-insights-navigating-the-landscape-of-ai-classes-in-ahmedabad-and-their-impact-on-future-careers.md"
+    },
+    {
+        "title": "Pre-registering an investment backtest: a coin-flip placebo for 1,000 trading rules",
+        "slug": "pre-registering-an-investment-backtest-a-coin-flip-placebo-for-1000-trading-rules",
+        "author": "AI Portfolio Investing",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 22:45:12 +0000",
+        "description": "Backtests are cheap, and the one that looks good is the one that gets shown. The reader never learns how many candidates it was picked from. Here is an exper...",
+        "keywords": "rules, trend, winner, coin, sharpe, flip, selection, period",
+        "generated": "2026-09-28T23:06:03.072011",
+        "file": "pre-registering-an-investment-backtest-a-coin-flip-placebo-for-1000-trading-rules.md"
     },
     {
         "title": "How should group chats work in decentralized systems?",
@@ -5873,6 +5895,17 @@
         "keywords": "vibration, plate, fitness, platform, exercise, machine, vibrating, shaking",
         "generated": "2026-06-10T10:13:09.119622",
         "file": "vibration-plate-fitness.md"
+    },
+    {
+        "title": "What one person can build now",
+        "slug": "what-one-person-can-build-now",
+        "author": "autonomousAJ",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 22:50:07 +0000",
+        "description": "By Andrew Pyle Sometime in early 2024, I noticed that the tools had crossed a line. Large language models had gotten good enough to genuinely drive developme...",
+        "keywords": "one, can, person, own, what, build, than, open",
+        "generated": "2026-09-28T23:06:03.076632",
+        "file": "what-one-person-can-build-now.md"
     },
     {
         "title": "Leave Apply on the Host",
@@ -15971,6 +16004,17 @@
         "file": "fixing-wrong-order-pages-in-merged-pdfs-by-inspecting-input-lists-a-python-field-guide.md"
     },
     {
+        "title": "Pacing the Frontier is not the actual goal for AI labs",
+        "slug": "pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+        "author": "brlewis",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 20:47:26 +0000",
+        "description": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator....",
+        "keywords": "pacing, frontier, not, actual, goal, labs, url, https",
+        "generated": "2026-09-28T23:06:03.071308",
+        "file": "pacing-the-frontier-is-not-the-actual-goal-for-ai-labs.md"
+    },
+    {
         "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
         "slug": "a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste",
         "author": "sudo_cowsay",
@@ -20103,6 +20147,17 @@
         "keywords": "delphi, community, edition, now, available, url, https, com",
         "generated": "2026-08-12T13:21:03.884703",
         "file": "delphi-13-community-edition-is-now-available.md"
+    },
+    {
+        "title": "Architecting Context-Aware LLMs: Decoupling State from Cognition",
+        "slug": "architecting-context-aware-llms-decoupling-state-from-cognition",
+        "author": "Nitesh Gupta",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 22:50:14 +0000",
+        "description": "If you've spent any time building LLM-backed applications in production, you quickly run into the institutional amnesia problem. You build a beautifully or...",
+        "keywords": "self, str, memory, context, hindsight, agent, text, you",
+        "generated": "2026-09-28T23:06:03.071815",
+        "file": "architecting-context-aware-llms-decoupling-state-from-cognition.md"
     },
     {
         "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -31796,6 +31851,17 @@
         "file": "the-ultimate-code-review-checklist-for-data-validation-frameworks.md"
     },
     {
+        "title": "Jev, Laya, and the emerging role of decision models",
+        "slug": "jev-laya-and-the-emerging-role-of-decision-models",
+        "author": "Ally Nicoll",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 22:48:07 +0000",
+        "description": "TL;DR: Jev (TypeSafe AI) and Laya (Convai Innovations) are decision models: instead of generating text, they answer bounded questions, a choice , a score , o...",
+        "keywords": "model, jev, decision, its, laya, can, questions, answer",
+        "generated": "2026-09-28T23:06:03.077254",
+        "file": "jev-laya-and-the-emerging-role-of-decision-models.md"
+    },
+    {
         "title": "Website Vulnerability Scanner: What It Checks and How to Read Results",
         "slug": "website-vulnerability-scanner-what-it-checks-and-how-to-read-results",
         "author": "Håkan Fägnell",
@@ -41298,6 +41364,17 @@
         "file": "custom-ai-solutions-for-founders-and-companies-how-nerdheadz-helps-you-launch-and-maintain-production-ai.md"
     },
     {
+        "title": "How I Used Hindsight to Stop Repeating Failed SEO Experiments",
+        "slug": "how-i-used-hindsight-to-stop-repeating-failed-seo-experiments",
+        "author": "Gowtham Kumar",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 22:44:08 +0000",
+        "description": "How I Used Hindsight to Stop Repeating Failed SEO Experiments Draft article — add verified repository snippets in the marked placeholders The Problem I wante...",
+        "keywords": "hindsight, experiment, outcome, memory, payload, backend, yourwebmind, str",
+        "generated": "2026-09-28T23:06:03.072742",
+        "file": "how-i-used-hindsight-to-stop-repeating-failed-seo-experiments.md"
+    },
+    {
         "title": "Python - Neon, Strong, Duck, and Spy Number programs",
         "slug": "python-neon-strong-duck-and-spy-number-programs",
         "author": "VINOTH",
@@ -46884,6 +46961,17 @@
         "file": "ai-agent-testing-evaluation-in-2026-tracing-hallucination-benchmarks-evals.md"
     },
     {
+        "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+        "slug": "flock-wants-the-most-detailed-map-of-its-surveillance-cameras-taken-offline",
+        "author": "bookofjoe",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 21:08:10 +0000",
+        "description": "Article URL: https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/ Comments URL: https://news.ycombinator.com/item?id=49884363 ...",
+        "keywords": "flock, url, https, com, comments, wants, most, detailed",
+        "generated": "2026-09-28T23:06:03.071245",
+        "file": "flock-wants-the-most-detailed-map-of-its-surveillance-cameras-taken-offline.md"
+    },
+    {
         "title": "Why Cloud Certifications Matter for Fresh Graduates",
         "slug": "why-cloud-certifications-matter-for-fresh-graduates",
         "author": "Subhalaxmi Paikaray",
@@ -48424,6 +48512,17 @@
         "file": "free-pdf-tools-paywall-the-one-button-that-matters-heres-why-and-how-i-avoided-it.md"
     },
     {
+        "title": "Simulating winter sunlight for 38,000 apartment complexes (terrain + building shadows)",
+        "slug": "simulating-winter-sunlight-for-38000-apartment-complexes-terrain-building-shadows",
+        "author": "TaroFortune",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 22:38:39 +0000",
+        "description": "In Korea, how much winter sun does this apartment get? is a real buying question, not a nice-to-have. And the honest answer isn't look at the balcony dire...",
+        "keywords": "sun, horizon, terrain, winter, solstice, angle, front, one",
+        "generated": "2026-09-28T23:06:03.073047",
+        "file": "simulating-winter-sunlight-for-38000-apartment-complexes-terrain-building-shadows.md"
+    },
+    {
         "title": "Flux 3",
         "slug": "flux-3",
         "author": "ThouYS",
@@ -49885,6 +49984,17 @@
         "keywords": "your, you, not, code, agent, step, agents, workflow",
         "generated": "2026-06-29T11:11:05.060546",
         "file": "i-stopped-writing-code-i-started-orchestrating-ai-agents-heres-my-exact-workflow.md"
+    },
+    {
+        "title": "A Claim Outlives the Mechanism It Denies",
+        "slug": "a-claim-outlives-the-mechanism-it-denies",
+        "author": "minia2a",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 22:59:36 +0000",
+        "description": "A page can state, accurately, a world that stopped existing. It does not need to be wrong when written, and it does not need anyone to lie. It only needs to ...",
+        "keywords": "page, not, one, refund, guard, claim, sentence, does",
+        "generated": "2026-09-28T23:06:03.073744",
+        "file": "a-claim-outlives-the-mechanism-it-denies.md"
     },
     {
         "title": "Json To Typescript — Free Online Tool",
@@ -57134,6 +57244,17 @@
         "file": "building-an-mcp-server-and-client-with-spring-ai-and-ollama.md"
     },
     {
+        "title": "Your AI Agent Got the Right Answer. That Does Not Mean It Works.",
+        "slug": "your-ai-agent-got-the-right-answer-that-does-not-mean-it-works",
+        "author": "Paul Crinigan",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 22:51:34 +0000",
+        "description": "If you have shipped an agent that passed every test and then broke in production, this one is for you. Here is what changes when the software you are testing...",
+        "keywords": "agent, same, one, model, judge, every, test, different",
+        "generated": "2026-09-28T23:06:03.075934",
+        "file": "your-ai-agent-got-the-right-answer-that-does-not-mean-it-works.md"
+    },
+    {
         "title": "I Built 100+ Free Browser-Based Tools — Here's What I Learned",
         "slug": "i-built-100-free-browser-based-tools-heres-what-i-learned",
         "author": "Marjan Marjan",
@@ -61864,6 +61985,17 @@
         "file": "are-you-looking-for-google-pixel-screen-replacement-in-melbourne.md"
     },
     {
+        "title": "I Built an Encrypted Ngrok Alternative — The Hardest Part Wasn't the Crypto",
+        "slug": "i-built-an-encrypted-ngrok-alternative-the-hardest-part-wasnt-the-crypto",
+        "author": "explita",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 22:40:17 +0000",
+        "description": "Like pretty much every developer who has ever tested a Stripe webhook, debugged OAuth callbacks, or demoed a local Next.js app to a teammate, I’ve spent year...",
+        "keywords": "your, you, tunnel, server, local, key, relay, webhook",
+        "generated": "2026-09-28T23:06:03.074894",
+        "file": "i-built-an-encrypted-ngrok-alternative-the-hardest-part-wasnt-the-crypto.md"
+    },
+    {
         "title": "I Thought My API Was Rate-Limited — Until Someone Scraped 2 Million Requests in 4 Hours",
         "slug": "i-thought-my-api-was-rate-limited-until-someone-scraped-2-million-requests-in-4-hours",
         "author": "kol kol",
@@ -64172,6 +64304,17 @@
         "keywords": "crisis, video, detectors, deepfake, generators, can, detection, bench",
         "generated": "2026-08-24T18:48:28.656048",
         "file": "ra-bench-reveals-why-crisis-video-deepfake-detectors-fail-across-generators-and-social-media.md"
+    },
+    {
+        "title": "Googlebook's Magic Pointer, Florida vs. OpenAI, and the Week AI Got a Reality Check",
+        "slug": "googlebooks-magic-pointer-florida-vs-openai-and-the-week-ai-got-a-reality-check",
+        "author": "AI Pulse",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 22:56:48 +0000",
+        "description": "Googlebook's Magic Pointer, Florida vs. OpenAI, and the Week AI Got a Reality Check Look, I've been burned by AI-first laptops before. They usually mean a ...",
+        "keywords": "you, openai, cursor, magic, pointer, has, florida, gemini",
+        "generated": "2026-09-28T23:06:03.075743",
+        "file": "googlebooks-magic-pointer-florida-vs-openai-and-the-week-ai-got-a-reality-check.md"
     },
     {
         "title": "The Proof Machine (2016)",
@@ -72116,6 +72259,17 @@
         "file": "aspnet-core-performance-tuning-for-high-traffic-apis.md"
     },
     {
+        "title": "Batch LLM Jobs: 4 Costs to Compare Against Realtime API Work",
+        "slug": "batch-llm-jobs-4-costs-to-compare-against-realtime-api-work",
+        "author": "ElowenVeil9067",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 22:50:49 +0000",
+        "description": "A game knowledge base has two clocks: realtime answers for waiting players and batch LLM jobs for bulk enrichment. The batch path can be cheaper for async su...",
+        "keywords": "batch, one, work, not, its, capability, realtime, can",
+        "generated": "2026-09-28T23:06:03.076306",
+        "file": "batch-llm-jobs-4-costs-to-compare-against-realtime-api-work.md"
+    },
+    {
         "title": "Open Graph Tags Explained: Control How Your Pages Look When Shared",
         "slug": "open-graph-tags-explained-control-how-your-pages-look-when-shared",
         "author": "Snappy Tools",
@@ -72615,10 +72769,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Sun, 27 Sep 2026 11:14:07 +0000",
+        "published": "Mon, 28 Sep 2026 22:35:43 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-09-27T11:46:32.759747",
+        "generated": "2026-09-28T23:06:03.073125",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -74325,6 +74479,17 @@
         "keywords": "url, https, com, comments, show, immersive, gaussian, splat",
         "generated": "2026-07-21T03:19:30.888148",
         "file": "show-hn-immersive-gaussian-splat-tour-of-grace-cathedral-san-francisco.md"
+    },
+    {
+        "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
+        "slug": "who-should-be-held-accountable-when-an-ai-agent-accidentally-acts-maliciously",
+        "author": "Greenpants",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 22:05:46 +0000",
+        "description": "Article URL: https://blog.greenpants.net/ai-accountability/ Comments URL: https://news.ycombinator.com/item?id=49885109 Points: 17 # Comments: 16",
+        "keywords": "url, https, comments, who, should, held, accountable, when",
+        "generated": "2026-09-28T23:06:03.071102",
+        "file": "who-should-be-held-accountable-when-an-ai-agent-accidentally-acts-maliciously.md"
     },
     {
         "title": "Python Context Managers: The Complete Guide",
@@ -82467,6 +82632,17 @@
         "file": "deep-dive-upwinds-300m-investment-in-cloud-secu.md"
     },
     {
+        "title": "Payment MCP Servers Compared (2026): Which Providers Let AI Agents Move Money",
+        "slug": "payment-mcp-servers-compared-2026-which-providers-let-ai-agents-move-money",
+        "author": "Quinn",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 22:32:25 +0000",
+        "description": "Disclosure: I'm the founder of PinkWallet, which is building Pink Agentic AI Payment — an MCP server plus a policy engine for AI agent payments — so I'm not ...",
+        "keywords": "mcp, agent, not, docs, server, money, com, payment",
+        "generated": "2026-09-28T23:06:03.075473",
+        "file": "payment-mcp-servers-compared-2026-which-providers-let-ai-agents-move-money.md"
+    },
+    {
         "title": "When Someone Else's System Rejects You Without a Reason — Fixing a Diagnostic Order in Advance",
         "slug": "when-someone-elses-system-rejects-you-without-a-reason-fixing-a-diagnostic-order-in-advance",
         "author": "Sungsoo Youn",
@@ -89736,6 +89912,17 @@
         "file": "fine-tuning-is-mostly-theater-heres-what-works-instead.md"
     },
     {
+        "title": "Your React App Is Invisible to AI Crawlers. Here Is How to Check in Five Minutes",
+        "slug": "your-react-app-is-invisible-to-ai-crawlers-here-is-how-to-check-in-five-minutes",
+        "author": "Level Up Digital Marketing Group",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 22:46:55 +0000",
+        "description": "Most of the time when a client tells me we are not showing up in ChatGPT, the site is a React app that renders everything on the client. The HTML that come...",
+        "keywords": "not, client, you, curl, bot, server, pages, your",
+        "generated": "2026-09-28T23:06:03.074398",
+        "file": "your-react-app-is-invisible-to-ai-crawlers-here-is-how-to-check-in-five-minutes.md"
+    },
+    {
         "title": "Tavily vs Exa vs Brave Search: I Ran 100 Agentic-RAG Queries Through All Three",
         "slug": "tavily-vs-exa-vs-brave-search-i-ran-100-agentic-rag-queries-through-all-three",
         "author": "Ken Imoto",
@@ -89745,6 +89932,17 @@
         "keywords": "tavily, search, api, brave, you, exa, queries, query",
         "generated": "2026-08-26T13:01:59.369732",
         "file": "tavily-vs-exa-vs-brave-search-i-ran-100-agentic-rag-queries-through-all-three.md"
+    },
+    {
+        "title": "Creator Analytics for Beginners: 7 Metrics That Actually Improve Your Next Post",
+        "slug": "creator-analytics-for-beginners-7-metrics-that-actually-improve-your-next-post",
+        "author": "Shahid Mahmood",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 22:55:53 +0000",
+        "description": "Creator Analytics for Beginners: 7 Metrics That Actually Improve Your Next Post is designed for creators who want a practical system, not another collection ...",
+        "keywords": "creator, content, analytics, post, audience, how, can, you",
+        "generated": "2026-09-28T23:06:03.074163",
+        "file": "creator-analytics-for-beginners-7-metrics-that-actually-improve-your-next-post.md"
     },
     {
         "title": "Your API Error Is HTML: Keep the Real Failure Behind an Agent's First Call",
@@ -91659,6 +91857,17 @@
         "keywords": "new, your, discover, gaming, adventure, game, next, you",
         "generated": "2026-09-27T11:46:32.761497",
         "file": "discover-your-next-gaming-adventure.md"
+    },
+    {
+        "title": "Best of British Design",
+        "slug": "best-of-british-design",
+        "author": "ArisC",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 20:21:22 +0000",
+        "description": "Article URL: https://best-of-british-design.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49883817 Points: 44 # Comments: 21",
+        "keywords": "best, british, design, url, https, comments, article, vercel",
+        "generated": "2026-09-28T23:06:03.071411",
+        "file": "best-of-british-design.md"
     },
     {
         "title": "What will be left for us to work on?",
