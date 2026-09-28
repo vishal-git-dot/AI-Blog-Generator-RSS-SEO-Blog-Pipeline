@@ -4104,6 +4104,17 @@
         "file": "biznodes-self-healing-watchdog-auto-restarts-crashed-services-zero-downtime-zero-babysitting-needed.md"
     },
     {
+        "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+        "slug": "show-hn-papermono-e-ink-fridge-magnet-shopping-list-with-mobile-web-page",
+        "author": "seamus_c",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 10:14:41 +0000",
+        "description": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines of C++...",
+        "keywords": "fridge, shopping, list, papermono, ink, magnet, web, device",
+        "generated": "2026-09-28T13:27:07.927985",
+        "file": "show-hn-papermono-e-ink-fridge-magnet-shopping-list-with-mobile-web-page.md"
+    },
+    {
         "title": "Build a PAN & Aadhaar Redaction Tool in 63 Lines of Python",
         "slug": "build-a-pan-aadhaar-redaction-tool-in-63-lines-of-python",
         "author": "Archit Mittal",
@@ -5466,6 +5477,17 @@
         "keywords": "charts, built, chat, url, https, com, comments, article",
         "generated": "2026-09-15T04:21:15.139784",
         "file": "charts-built-for-chat.md"
+    },
+    {
+        "title": "The smart home graveyard is getting crowded",
+        "slug": "the-smart-home-graveyard-is-getting-crowded",
+        "author": "CrypticShift",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 11:27:00 +0000",
+        "description": "Article URL: https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard Comments URL: https://news.ycombinator.com/item?id=49876373 Points: 30 # ...",
+        "keywords": "smart, home, graveyard, url, https, com, comments, getting",
+        "generated": "2026-09-28T13:27:07.927672",
+        "file": "the-smart-home-graveyard-is-getting-crowded.md"
     },
     {
         "title": "How to Buy GMX Mail Accounts Securely for US Small Businesses",
@@ -16367,6 +16389,17 @@
         "file": "models-are-bad-liars-and-a-new-paper-explains-why.md"
     },
     {
+        "title": "Aging Biomarkers Panel: Essential Clinical Protocol",
+        "slug": "aging-biomarkers-panel-essential-clinical-protocol",
+        "author": "Vladimir Lialine",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 13:21:51 +0000",
+        "description": "An aging biomarkers panel can give longevity clinics a deeper view of biological aging than chronological age or routine bloodwork alone. However, adding a D...",
+        "keywords": "should, aging, epigenetic, testing, age, biomarkers, panel, clinical",
+        "generated": "2026-09-28T13:27:07.933657",
+        "file": "aging-biomarkers-panel-essential-clinical-protocol.md"
+    },
+    {
         "title": "No Man's Sky Cosmos",
         "slug": "no-mans-sky-cosmos",
         "author": "Limb",
@@ -16783,6 +16816,17 @@
         "keywords": "openssh, url, https, comments, article, www, org, releasenotes",
         "generated": "2026-08-11T19:08:47.087994",
         "file": "openssh-105105p1.md"
+    },
+    {
+        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+        "slug": "parley-federated-decentralised-chat-that-speaks-plain-irc",
+        "author": "davidcollantes",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 10:30:54 +0000",
+        "description": "Article URL: https://git.mills.io/prologic/parley Comments URL: https://news.ycombinator.com/item?id=49875913 Points: 121 # Comments: 49",
+        "keywords": "parley, url, https, comments, federated, decentralised, chat, speaks",
+        "generated": "2026-09-28T13:27:07.927824",
+        "file": "parley-federated-decentralised-chat-that-speaks-plain-irc.md"
     },
     {
         "title": "The curious case of the disappearing Polish S",
@@ -17749,6 +17793,17 @@
         "keywords": "google, reviews, maps, you, buy, your, business, can",
         "generated": "2026-08-26T19:52:15.935006",
         "file": "buy-google-reviews-online-that-stick-5-star-ratings.md"
+    },
+    {
+        "title": "Hard-failing invented numbers in AI-drafted copy",
+        "slug": "hard-failing-invented-numbers-in-ai-drafted-copy",
+        "author": "Craig Solomon",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 13:00:00 +0000",
+        "description": "A model asked to write promotional copy will eventually produce a figure nobody gave it. Not always, and not obviously. It rounds something it saw upstream, ...",
+        "keywords": "not, you, fact, number, draft, sheet, one, key",
+        "generated": "2026-09-28T13:27:07.930245",
+        "file": "hard-failing-invented-numbers-in-ai-drafted-copy.md"
     },
     {
         "title": "Why Your Brand Might Be Invisible to ChatGPT, Gemini, and Claude",
@@ -23106,6 +23161,17 @@
         "file": "python-threadingevent-and-condition-sync-patterns.md"
     },
     {
+        "title": "Free LLM API tiers change without warning — a 30-line stdlib script to check which ones still work",
+        "slug": "free-llm-api-tiers-change-without-warning-a-30-line-stdlib-script-to-check-which-ones-still-work",
+        "author": "rene",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 13:08:36 +0000",
+        "description": "Free tiers on LLM APIs are a moving target. A provider that worked last week silently drops to a paid-only plan, rate-limits harder, or deprecates the model ...",
+        "keywords": "content, free, model, time, name, llm, check, status",
+        "generated": "2026-09-28T13:27:07.928889",
+        "file": "free-llm-api-tiers-change-without-warning-a-30-line-stdlib-script-to-check-which-ones-still-work.md"
+    },
+    {
         "title": "Dicter du code confidentiel : pourquoi j'ai arrêté d'envoyer ma voix dans le cloud",
         "slug": "dicter-du-code-confidentiel-pourquoi-jai-arrt-denvoyer-ma-voix-dans-le-cloud",
         "author": "elboKazQC",
@@ -27693,6 +27759,17 @@
         "file": "ai-integration-services-connect-ai-to-your-tech-stack.md"
     },
     {
+        "title": "EasyMDE silently breaks Django forms (and what I use instead)",
+        "slug": "easymde-silently-breaks-django-forms-and-what-i-use-instead",
+        "author": "Mohammed Rashad",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 13:00:00 +0000",
+        "description": "Add a markdown editor to a Django form the usual way and it looks fine — until the form silently refuses to submit: # forms.py — Django adds required=True to...",
+        "keywords": "form, post, markdown, editor, request, django, textarea, content",
+        "generated": "2026-09-28T13:27:07.930744",
+        "file": "easymde-silently-breaks-django-forms-and-what-i-use-instead.md"
+    },
+    {
         "title": "Python",
         "slug": "python",
         "author": "Kiruthiga S",
@@ -29231,6 +29308,17 @@
         "keywords": "vllm, url, https, com, comments, inside, anatomy, high",
         "generated": "2026-08-07T00:06:40.413865",
         "file": "inside-vllm-anatomy-of-a-high-throughput-llm-inference-system-2025.md"
+    },
+    {
+        "title": "How to Give Your AI Agent Memory Without Writing Code (3 No-Code Paths)",
+        "slug": "how-to-give-your-ai-agent-memory-without-writing-code-3-no-code-paths",
+        "author": "Abdeljabbar Elassali",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 13:24:36 +0000",
+        "description": "How to Give Your AI Agent Memory Without Writing Code (3 No-Code Paths) Every give your agent memory tutorial starts the same way: install this Python libr...",
+        "keywords": "memory, agent, you, code, path, not, platform, your",
+        "generated": "2026-09-28T13:27:07.933118",
+        "file": "how-to-give-your-ai-agent-memory-without-writing-code-3-no-code-paths.md"
     },
     {
         "title": "Hyperspace",
@@ -33917,6 +34005,17 @@
         "keywords": "turns, better, than, radians, url, https, com, comments",
         "generated": "2026-08-20T06:54:01.610385",
         "file": "turns-are-better-than-radians-2022.md"
+    },
+    {
+        "title": "The Founders Behind BAXTR and the Idea That Brought Them Together",
+        "slug": "the-founders-behind-baxtr-and-the-idea-that-brought-them-together",
+        "author": "Roman Colton",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 13:25:44 +0000",
+        "description": "Great ideas often begin with an ordinary problem that people face again and again. For Gentria Lenoir, Kolice Sattiewhite, and Analise, that problem was the ...",
+        "keywords": "can, baxtr, relationship, idea, partner, planning, users, plan",
+        "generated": "2026-09-28T13:27:07.931604",
+        "file": "the-founders-behind-baxtr-and-the-idea-that-brought-them-together.md"
     },
     {
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
@@ -48974,6 +49073,17 @@
         "file": "swot-analysis-example-ai-a-practical-guide-to-turning-ai-strategy-into-clear-decisions.md"
     },
     {
+        "title": "Distillation Is Quietly Erasing Your LoRA Preference Tuning",
+        "slug": "distillation-is-quietly-erasing-your-lora-preference-tuning",
+        "author": "AI Explore",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 13:16:02 +0000",
+        "description": "TL;DR — Post-training pipelines chain LoRA fine-tuning, preference optimization (DPO/RLHF), and distillation as if they're interchangeable quality knobs. The...",
+        "keywords": "preference, teacher, dpo, rank, model, lora, distillation, distribution",
+        "generated": "2026-09-28T13:27:07.928610",
+        "file": "distillation-is-quietly-erasing-your-lora-preference-tuning.md"
+    },
+    {
         "title": "Why Learning AI in 2026 Is About More Than Just ChatGPT",
         "slug": "why-learning-ai-in-2026-is-about-more-than-just-chatgpt",
         "author": "Qnayds Career",
@@ -51931,6 +52041,17 @@
         "file": "openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout.md"
     },
     {
+        "title": "How to Track Google AI Overview Citations Without a Paid API",
+        "slug": "how-to-track-google-ai-overview-citations-without-a-paid-api",
+        "author": "Tim Zinin",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 13:25:03 +0000",
+        "description": "The problem When a buyer asks Perplexity or ChatGPT best CRM for a small business, the answer links to a handful of sources — a review site, a vendor's doc...",
+        "keywords": "model, com, best, per, perplexity, crm, small, business",
+        "generated": "2026-09-28T13:27:07.932682",
+        "file": "how-to-track-google-ai-overview-citations-without-a-paid-api.md"
+    },
+    {
         "title": "Most 27 Platforms to Buy Old Yahoo Accounts Safely",
         "slug": "most-27-platforms-to-buy-old-yahoo-accounts-safely",
         "author": "smmusapva",
@@ -52831,6 +52952,17 @@
         "keywords": "how, built, premium, saas, dashboard, next, tailwind, css",
         "generated": "2026-07-11T08:04:04.873495",
         "file": "how-i-built-a-premium-ai-saas-dashboard-with-nextjs-15-tailwind-css-and-recharts.md"
+    },
+    {
+        "title": "Show HN: Hntui – A TUI for Hacker News",
+        "slug": "show-hn-hntui-a-tui-for-hacker-news",
+        "author": "ahmd-sh",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 12:11:20 +0000",
+        "description": "hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and ...",
+        "keywords": "tui, news, like, you, comments, show, hntui, hacker",
+        "generated": "2026-09-28T13:27:07.927515",
+        "file": "show-hn-hntui-a-tui-for-hacker-news.md"
     },
     {
         "title": "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
@@ -55686,10 +55818,10 @@
         "slug": "biznode-pro-bizchannel-decentralized-ad-marketplace-advertise-across-a-network-of-bot-operators",
         "author": "shashikanth ramamurthy",
         "source": "devto_ai",
-        "published": "Sat, 25 Jul 2026 18:59:31 +0000",
-        "description": "Stop paying for ad platforms that keep your data in the cloud and wake up to a new way of running businesses without monthly fees or subscriptions. BizNode P...",
-        "keywords": "your, biznode, you, business, https, biz, pro, decentralized",
-        "generated": "2026-07-25T19:16:03.119319",
+        "published": "Mon, 28 Sep 2026 13:23:22 +0000",
+        "description": "The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) Decentralized ad marketplace ...",
+        "keywords": "biznode, https, biz, bizchannel, decentralized, marketplace, dzit, pro",
+        "generated": "2026-09-28T13:27:07.933261",
         "file": "biznode-pro-bizchannel-decentralized-ad-marketplace-advertise-across-a-network-of-bot-operators.md"
     },
     {
@@ -57453,6 +57585,17 @@
         "file": "case-study-freeze-webhook-hmac-replay-rules-before-an-agent-writes-the-receiver.md"
     },
     {
+        "title": "A Guide to FastAPI SaaS SMS Alerts API Delivery Status Polling",
+        "slug": "a-guide-to-fastapi-saas-sms-alerts-api-delivery-status-polling",
+        "author": "RonanHalewood782",
+        "source": "devto_python",
+        "published": "Mon, 28 Sep 2026 13:05:38 +0000",
+        "description": "For a healthtech SaaS sending compliance notices in the US and EU, choose the SMS API by the evidence it leaves behind, not by how short the first send call ...",
+        "keywords": "sms, delivery, status, one, response, notice, your, evidence",
+        "generated": "2026-09-28T13:27:07.929671",
+        "file": "a-guide-to-fastapi-saas-sms-alerts-api-delivery-status-polling.md"
+    },
+    {
         "title": "Leaving Mozilla",
         "slug": "leaving-mozilla",
         "author": "martey",
@@ -58540,6 +58683,17 @@
         "keywords": "what, you, working, comments, ask, august, have, been",
         "generated": "2026-08-09T18:49:27.357068",
         "file": "ask-hn-what-are-you-working-on-august-2026.md"
+    },
+    {
+        "title": "SpaceX's Starship launching to orbit for first time ever today",
+        "slug": "spacexs-starship-launching-to-orbit-for-first-time-ever-today",
+        "author": "geox",
+        "source": "hackernews",
+        "published": "Mon, 28 Sep 2026 09:15:04 +0000",
+        "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it...",
+        "keywords": "starship, launching, orbit, time, ever, url, https, space",
+        "generated": "2026-09-28T13:27:07.928110",
+        "file": "spacexs-starship-launching-to-orbit-for-first-time-ever-today.md"
     },
     {
         "title": "Rate Limits & Anti-Bots in Agentic Scraping",
@@ -66770,6 +66924,17 @@
         "file": "re-anp2network-round-5-the-dormant-branch-fired-9400-times-today-grinding-measured-13-ms-per-win.md"
     },
     {
+        "title": "AS2 Is Not Dead: What Actually Happens When You Send an EDI Document Over the Wire",
+        "slug": "as2-is-not-dead-what-actually-happens-when-you-send-an-edi-document-over-the-wire",
+        "author": "challan116-ux",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 13:26:03 +0000",
+        "description": "AS2 Is Not Dead: What Actually Happens When You Send an EDI Document Over the Wire If you've built your career on REST APIs, the first time a retail partner ...",
+        "keywords": "you, your, mdn, edi, partner, send, their, what",
+        "generated": "2026-09-28T13:27:07.931229",
+        "file": "as2-is-not-dead-what-actually-happens-when-you-send-an-edi-document-over-the-wire.md"
+    },
+    {
         "title": "A backdoor in a LinkedIn job offer",
         "slug": "a-backdoor-in-a-linkedin-job-offer",
         "author": "lwhsiao",
@@ -68825,6 +68990,17 @@
         "keywords": "probabilities, model, genuinely, actually, top, one, token, print",
         "generated": "2026-08-22T06:48:31.767301",
         "file": "how-models-choose-words-why-they-hallucinate-and-whats-inside-a-mixture-of-experts-llm-internals-part-four.md"
+    },
+    {
+        "title": "How Hindsight Supports Evidence-Based Incident Diagnosis",
+        "slug": "how-hindsight-supports-evidence-based-incident-diagnosis",
+        "author": "Pranathi548",
+        "source": "devto_ai",
+        "published": "Mon, 28 Sep 2026 13:21:50 +0000",
+        "description": "How Hindsight Supports Evidence-Based Incident Diagnosis An AI incident-response agent needs more than a language model. It needs evidence. That was the star...",
+        "keywords": "evidence, incident, diagnosis, context, current, connection, historical, hindsight",
+        "generated": "2026-09-28T13:27:07.934179",
+        "file": "how-hindsight-supports-evidence-based-incident-diagnosis.md"
     },
     {
         "title": "Saving another 100TB of RAM with math (and Rust)",
@@ -77440,14 +77616,14 @@
         "file": "the-70-problem-why-sales-automation-keeps-failing-a-systems-perspective.md"
     },
     {
-        "title": "لماذا اخترت سلطان فيرست لخدمة الذكاء الاصطناعي؟ تحليل صادق من نورة الشريف",
+        "title": "تحويل استوديو تصوير احترافي في حائل بخدمة التصميم البصري",
         "slug": "",
         "author": "sarahalii",
         "source": "devto_webdev",
-        "published": "Mon, 28 Sep 2026 04:27:07 +0000",
-        "description": "الحقائق التي سأشاركها ليست عامة، بل أرقام حقيقية من مشروعي. أُصرّح منذ البداية: لا مصلحة لي في تلميعهم. عملي في منصة تحليلات بيانات بـنجران، وتجربتي معهم امت...",
-        "keywords": "https, sultanfirst, com, html, artificial, intelligence, content, writing",
-        "generated": "2026-09-28T04:46:35.836744",
+        "published": "Mon, 28 Sep 2026 13:21:12 +0000",
+        "description": "نظرة عامة العميل : استوديو تصوير احترافي الموقع : حائل، المملكة العربية السعودية الخدمة المقدّمة : التصميم والهوية البصرية — https://sultanfirst.com/design-v...",
+        "keywords": "https, sultanfirst, com, html, design, visual, identity, agile",
+        "generated": "2026-09-28T13:27:07.932192",
         "file": ".md"
     },
     {
@@ -89514,6 +89690,17 @@
         "keywords": "path, you, query, groups, line, base, def, not",
         "generated": "2026-07-07T09:51:54.394105",
         "file": "how-to-write-a-script-that-finds-every-parameterized-url-variant-on-your-site.md"
+    },
+    {
+        "title": "Built end-to-end encrypted messenger - public source",
+        "slug": "built-end-to-end-encrypted-messenger-public-source",
+        "author": "Ignas",
+        "source": "devto_webdev",
+        "published": "Mon, 28 Sep 2026 13:22:22 +0000",
+        "description": "Hey guys, I built as title says E2EE chat platform https://chat.markero.eu and its public source sits at https://git.markero.eu/main/markero-chat - feel free...",
+        "keywords": "not, chat, markero, you, guys, project, what, looking",
+        "generated": "2026-09-28T13:27:07.932022",
+        "file": "built-end-to-end-encrypted-messenger-public-source.md"
     },
     {
         "title": "Refresh Token Rotation Under the Hood: How Auth0 Catches a Stolen Token Before It's Ever Replayed",
