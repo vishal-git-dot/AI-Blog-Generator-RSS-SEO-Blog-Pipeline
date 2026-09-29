@@ -16807,6 +16807,17 @@
         "file": "writing-runbooks-that-on-call-engineers-will-actually-use.md"
     },
     {
+        "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+        "slug": "nicholas-polson-has-authored-258-academic-papers-in-2026-so-far",
+        "author": "zaik",
+        "source": "hackernews",
+        "published": "Tue, 29 Sep 2026 19:15:58 +0000",
+        "description": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/ Comments URL: https://news.ycombinator.com/item?id=49898877 Points: 108 # Comments: 76",
+        "keywords": "url, https, comments, nicholas, polson, has, authored, academic",
+        "generated": "2026-09-29T22:04:59.848217",
+        "file": "nicholas-polson-has-authored-258-academic-papers-in-2026-so-far.md"
+    },
+    {
         "title": "Rebuilding our Electron meeting-recording engine in Swift",
         "slug": "rebuilding-our-electron-meeting-recording-engine-in-swift",
         "author": "arguiot",
@@ -23656,6 +23667,17 @@
         "file": "i-vibe-coded-an-ai-tool-that-reads-competitors-ads-the-way-a-neuroscientist-would.md"
     },
     {
+        "title": "Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on Shadow",
+        "slug": "step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadow",
+        "author": "Biffer Rowley",
+        "source": "devto_ai",
+        "published": "Tue, 29 Sep 2026 21:51:54 +0000",
+        "description": "Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on Shadow 1. The Core Bottleneck Most creator pipelines die at the same junction: ideation,...",
+        "keywords": "queue, persona, shadow, studio, scheduler, frame, your, render",
+        "generated": "2026-09-29T22:04:59.853484",
+        "file": "step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadow.md"
+    },
+    {
         "title": "兔崽爱露出 (Tuzaibaby): Understanding the Online Search Trend and Creator Profile",
         "slug": "tuzaibaby-understanding-the-online-search-trend-and-creator-profile",
         "author": "Dev Bloggermember_085c86ca",
@@ -30441,6 +30463,17 @@
         "keywords": "alerts, slack, alert, your, vigilmon, down, channel, monitor",
         "generated": "2026-08-03T09:55:50.594257",
         "file": "how-to-get-notified-on-slack-when-your-website-goes-down-with-vigilmon.md"
+    },
+    {
+        "title": "LLM Benchmarks for Choosing GPT-4o vs Claude vs Mistral Models",
+        "slug": "llm-benchmarks-for-choosing-gpt-4o-vs-claude-vs-mistral-models",
+        "author": "Deepbody",
+        "source": "devto_ai",
+        "published": "Tue, 29 Sep 2026 21:56:47 +0000",
+        "description": "Why LLM Benchmarks Need More Context Headline benchmark scores make model selection appear straightforward: choose the system with the highest aggregate resu...",
+        "keywords": "model, can, models, context, should, gpt, claude, mistral",
+        "generated": "2026-09-29T22:04:59.852732",
+        "file": "llm-benchmarks-for-choosing-gpt-4o-vs-claude-vs-mistral-models.md"
     },
     {
         "title": "Teaching AI Your Product's Context: Knowledge Base Integration and Prompt Engineering for Micro SaaS Support",
@@ -39826,6 +39859,17 @@
         "file": "the-burau-representation-of-the-braid-group-is-faithful-for-n-4.md"
     },
     {
+        "title": "Building an Open-Source Git Client with a Tool-Use AI Agent Loop (Electron + React + TS)",
+        "slug": "building-an-open-source-git-client-with-a-tool-use-ai-agent-loop-electron-react-ts",
+        "author": "mirocow",
+        "source": "devto_ai",
+        "published": "Tue, 29 Sep 2026 21:55:46 +0000",
+        "description": "As developers, we interact with Git every single day. While terminal wizards swear by CLI, many of us prefer visual clients like SmartGit or GitKraken for co...",
+        "keywords": "git, prismgit, electron, using, process, tool, loop, react",
+        "generated": "2026-09-29T22:04:59.853051",
+        "file": "building-an-open-source-git-client-with-a-tool-use-ai-agent-loop-electron-react-ts.md"
+    },
+    {
         "title": "Elevated error rate across multiple models",
         "slug": "elevated-error-rate-across-multiple-models",
         "author": "rob",
@@ -40020,6 +40064,17 @@
         "keywords": "url, https, com, comments, physicists, discover, hidden, gluon",
         "generated": "2026-08-17T01:39:21.435372",
         "file": "physicists-discover-a-hidden-gluon-structure-inside-protons.md"
+    },
+    {
+        "title": "A 6-Case Single API Key Acceptance Harness for Compatible SaaS Chat",
+        "slug": "a-6-case-single-api-key-acceptance-harness-for-compatible-saas-chat",
+        "author": "EvanShepherd8274",
+        "source": "devto_ai",
+        "published": "Tue, 29 Sep 2026 21:51:12 +0000",
+        "description": "A single API key saves deployment work, but it does not make model behavior portable. For a SaaS that scores candidates against a job rubric, the useful unit...",
+        "keywords": "score, evidence, not, model, rubric, target, item, criterion",
+        "generated": "2026-09-29T22:04:59.853974",
+        "file": "a-6-case-single-api-key-acceptance-harness-for-compatible-saas-chat.md"
     },
     {
         "title": "Phone Not Vibrating? A 10-Second Browser Check Tells You If the Motor Is Dead",
@@ -43560,6 +43615,17 @@
         "keywords": "reward, model, grpo, one, ppo, critic, than, not",
         "generated": "2026-09-18T04:07:04.909961",
         "file": "grpo-doesnt-remove-the-reward-model-it-removes-the-critic.md"
+    },
+    {
+        "title": "Your backtest is lying about fees (I ran the same strategy twice to prove it)",
+        "slug": "your-backtest-is-lying-about-fees-i-ran-the-same-strategy-twice-to-prove-it",
+        "author": "HonestFill",
+        "source": "devto_webdev",
+        "published": "Tue, 29 Sep 2026 21:50:45 +0000",
+        "description": "The Experiment I took the exact same strategy — RSI mean-reversion on BTC/USD 4h candles, Jun 28 to Sep 26 2026 (720 bars) — and ran it twice through my back...",
+        "keywords": "fold, backtest, fees, walk, forward, one, run, trades",
+        "generated": "2026-09-29T22:04:59.852202",
+        "file": "your-backtest-is-lying-about-fees-i-ran-the-same-strategy-twice-to-prove-it.md"
     },
     {
         "title": "Environment Variables the Safe Way",
@@ -49755,6 +49821,17 @@
         "file": "i-designed-a-comfort-food-landing-page-for-the-person-who-feeds-everyone-else-first.md"
     },
     {
+        "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+        "slug": "show-hn-turbogpt-train-22kib-transformer-in-13s",
+        "author": "lostmsu",
+        "source": "hackernews",
+        "published": "Tue, 29 Sep 2026 19:20:02 +0000",
+        "description": "Inspired by minGPT for home experiments. Requires CUDA 13.4; build script is Windows only. Comments URL: https://news.ycombinator.com/item?id=49898931 Points...",
+        "keywords": "comments, show, turbogpt, train, transformer, inspired, mingpt, home",
+        "generated": "2026-09-29T22:04:59.848115",
+        "file": "show-hn-turbogpt-train-22kib-transformer-in-13s.md"
+    },
+    {
         "title": "Review Crossfit Timer: what we learned building Random Tactical Timer",
         "slug": "review-crossfit-timer-what-we-learned-building-random-tactical-timer",
         "author": "Igor Ganapolsky",
@@ -53691,6 +53768,17 @@
         "file": "i-benchmarked-9-multimodal-ai-apis-the-pricing-data-surprised-me.md"
     },
     {
+        "title": "Python Healthtech Duplicate Image Derivatives (When Processing Costs Surge)",
+        "slug": "python-healthtech-duplicate-image-derivatives-when-processing-costs-surge",
+        "author": "AlgernonCross4103",
+        "source": "devto_python",
+        "published": "Tue, 29 Sep 2026 21:17:44 +0000",
+        "description": "Short answer: put an atomic, content-addressed skip check immediately before image transformation, then publish a derivative only after its bytes and metadat...",
+        "keywords": "key, not, transform, source, object, derivative, one, bytes",
+        "generated": "2026-09-29T22:04:59.850299",
+        "file": "python-healthtech-duplicate-image-derivatives-when-processing-costs-surge.md"
+    },
+    {
         "title": "Model Context Protocol: Setup MCP Server on Bare Metal",
         "slug": "model-context-protocol-setup-mcp-server-on-bare-metal",
         "author": "Jakson Tate",
@@ -55801,6 +55889,17 @@
         "keywords": "source, contextual, citationkey, node, claude, toolcrib, you, feed",
         "generated": "2026-09-02T20:51:03.420235",
         "file": "why-we-need-an-architectural-floor-for-vibe-coding-an-audit-of-3-apps-built-by-claude.md"
+    },
+    {
+        "title": "Learn Python Basics by Building a Real-World Currency Converter",
+        "slug": "learn-python-basics-by-building-a-real-world-currency-converter",
+        "author": "JARED ARITO",
+        "source": "devto_python",
+        "published": "Tue, 29 Sep 2026 21:14:01 +0000",
+        "description": "Learn Python Basics by Building a Real-World Currency Converter As the global tech ecosystem grows, understanding how to manipulate real-world data like fina...",
+        "keywords": "kes, rate, print, usd, input, python, exchange, our",
+        "generated": "2026-09-29T22:04:59.850571",
+        "file": "learn-python-basics-by-building-a-real-world-currency-converter.md"
     },
     {
         "title": "Why Your Sales and Support Training is Failing (and How AI Bridges the Gap)",
@@ -58894,6 +58993,17 @@
         "file": "how-do-feedback-loops-improve-ai-chatbot-performance.md"
     },
     {
+        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+        "slug": "show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites",
+        "author": "wanick",
+        "source": "hackernews",
+        "published": "Tue, 29 Sep 2026 19:08:01 +0000",
+        "description": "Article URL: https://space.bl2.net/ Comments URL: https://news.ycombinator.com/item?id=49898778 Points: 23 # Comments: 7",
+        "keywords": "url, https, comments, show, real, time, solar, system",
+        "generated": "2026-09-29T22:04:59.848316",
+        "file": "show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites.md"
+    },
+    {
         "title": "What Is a Harness?",
         "slug": "what-is-a-harness",
         "author": "tosh",
@@ -61501,6 +61611,17 @@
         "file": "best-ai-answer-monitoring-tools-in-2026.md"
     },
     {
+        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+        "slug": "us-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels",
+        "author": "ilamont",
+        "source": "hackernews",
+        "published": "Tue, 29 Sep 2026 19:30:17 +0000",
+        "description": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Commen...",
+        "keywords": "postal, inspectors, shut, down, website, selling, counterfeit, postage",
+        "generated": "2026-09-29T22:04:59.847807",
+        "file": "us-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.md"
+    },
+    {
         "title": "Secure Your Borrowing Goals With $2,000 Crypto Loans in USA",
         "slug": "secure-your-borrowing-goals-with-2000-crypto-loans-in-usa",
         "author": "Lorne Pugh",
@@ -62359,6 +62480,17 @@
         "file": "cigarette-shayari-and-mental-health-whats-the-real-connection.md"
     },
     {
+        "title": "Boards: a Kanban board your agents run",
+        "slug": "boards-a-kanban-board-your-agents-run",
+        "author": "JackHamr",
+        "source": "devto_ai",
+        "published": "Tue, 29 Sep 2026 21:57:47 +0000",
+        "description": "We spent the spring making one agent excellent and then giving it the ability to fan out. Boards are where that pays off. This is the release that turns Jack...",
+        "keywords": "agent, agents, card, ten, boards, one, you, task",
+        "generated": "2026-09-29T22:04:59.852407",
+        "file": "boards-a-kanban-board-your-agents-run.md"
+    },
+    {
         "title": "qModel Open-Source Platform v1.2.0 Released: Streamlined Python Model Integration & Execution Pipeline",
         "slug": "qmodel-open-source-platform-v120-released-streamlined-python-model-integration-execution-pipeline",
         "author": "TongWu",
@@ -62830,6 +62962,17 @@
         "keywords": "die, und, mit, syneos, der, den, das, gebert",
         "generated": "2026-08-02T08:30:38.169130",
         "file": "gebudeautomation-mit-ki-so-automatisiert-syneos-gebude.md"
+    },
+    {
+        "title": "# 100+ Free Online Calculators with Mathematical Transparency and Zero Data Tracking",
+        "slug": "100-free-online-calculators-with-mathematical-transparency-and-zero-data-tracking",
+        "author": "MOHD SHOAIB AKHTAR KHAN",
+        "source": "devto_webdev",
+        "published": "Tue, 29 Sep 2026 22:01:07 +0000",
+        "description": "100+ Free Online Calculators with Mathematical Transparency and Zero Data Tracking Online calculators have become essential tools for everyday decision-makin...",
+        "keywords": "calculator, free, mathematical, tracking, online, calculators, transparency, zero",
+        "generated": "2026-09-29T22:04:59.851487",
+        "file": "100-free-online-calculators-with-mathematical-transparency-and-zero-data-tracking.md"
     },
     {
         "title": "Bjj Rounds For Beginners: what we learned building Random Tactical Timer",
@@ -69982,6 +70125,17 @@
         "file": "java-full-stack-training-in-pondicherry-students-bazaar.md"
     },
     {
+        "title": "Animated Icons Need a Motion Contract",
+        "slug": "animated-icons-need-a-motion-contract",
+        "author": "Svg/icons",
+        "source": "devto_webdev",
+        "published": "Tue, 29 Sep 2026 22:02:19 +0000",
+        "description": "Trigger, duration, looping, accessibility and reduced motion should travel with the asset. An SVG icon is usually easy to describe. It has a name. A size. A ...",
+        "keywords": "motion, icon, animation, not, should, animated, state, can",
+        "generated": "2026-09-29T22:04:59.851258",
+        "file": "animated-icons-need-a-motion-contract.md"
+    },
+    {
         "title": "Anthropic, please ship an official Claude Desktop for Linux",
         "slug": "anthropic-please-ship-an-official-claude-desktop-for-linux",
         "author": "predkambrij",
@@ -71663,6 +71817,17 @@
         "keywords": "search, agent, voice, runtime, agentcore, websocket, aws, amplify",
         "generated": "2026-09-16T21:07:02.238941",
         "file": "deploying-a-real-time-voice-agent-with-agentcore-runtime-and-amplify-gen-2.md"
+    },
+    {
+        "title": "E-commerce Error Tracking: A Practical React Frontend and FastAPI Backend Choice",
+        "slug": "e-commerce-error-tracking-a-practical-react-frontend-and-fastapi-backend-choice",
+        "author": "tony chen",
+        "source": "devto_python",
+        "published": "Tue, 29 Sep 2026 21:47:44 +0000",
+        "description": "TL;DR: For a React storefront backed by FastAPI or Node.js, simple exception tracking is a practical choice when the incident question is narrow: which relea...",
+        "keywords": "error, not, request, api, https, exception, when, sentry",
+        "generated": "2026-09-29T22:04:59.849117",
+        "file": "e-commerce-error-tracking-a-practical-react-frontend-and-fastapi-backend-choice.md"
     },
     {
         "title": "Building a Real-Time Football Live Score & Standings App with Nuxt 3",
@@ -74237,6 +74402,17 @@
         "keywords": "gemini, google, lite, api, banana, flash, nano, omni",
         "generated": "2026-07-18T13:26:53.518379",
         "file": "google-nano-banana-2-lite-omni-flash-4-google.md"
+    },
+    {
+        "title": "Memory Companies Have Destroyed the Consumer Market",
+        "slug": "memory-companies-have-destroyed-the-consumer-market",
+        "author": "DeepLogin",
+        "source": "hackernews",
+        "published": "Tue, 29 Sep 2026 19:27:41 +0000",
+        "description": "Article URL: https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market Comments URL: https://news.ycombinator.com/item?id=4989905...",
+        "keywords": "memory, companies, have, destroyed, consumer, market, url, https",
+        "generated": "2026-09-29T22:04:59.847998",
+        "file": "memory-companies-have-destroyed-the-consumer-market.md"
     },
     {
         "title": "Build a Real-Time Dashboard with Python and WebSockets",
@@ -78837,6 +79013,17 @@
         "file": "from-documents-to-mechanisms-onboarding-checklist-checkpoint-gates-and-rollback.md"
     },
     {
+        "title": "My Journey Building AI Agents, RAG Systems, and AI-Powered Applications",
+        "slug": "my-journey-building-ai-agents-rag-systems-and-ai-powered-applications",
+        "author": "Unni T A",
+        "source": "devto_webdev",
+        "published": "Tue, 29 Sep 2026 21:52:55 +0000",
+        "description": "I have been building AI applications to understand what happens when an LLM has to do more than just answer a prompt. My projects cover research, agentic wor...",
+        "keywords": "research, project, what, live, agent, financial, github, retrieval",
+        "generated": "2026-09-29T22:04:59.851982",
+        "file": "my-journey-building-ai-agents-rag-systems-and-ai-powered-applications.md"
+    },
+    {
         "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
         "slug": "accidentally-deleted-subscriptions-for-chat-integrations-slack-and-ms-teams",
         "author": "SparkyDogs",
@@ -81178,6 +81365,18 @@
         "keywords": "lstm, data, health, healthcare, early, can, warning, system",
         "generated": "2026-08-12T19:08:00.190330",
         "file": "early-warning-system-using-lst.md"
+    },
+    {
+        "title": "Hey DEV community!",
+        "My friends and I built GoTrivia (https": "//gotrivia.org) play remotely. It's a collection of quick, zero-friction multiplayer games - no signup or annoying ads.",
+        "slug": "hey-dev-community-my-friends-and-i-built-gotrivia-httpsgotriviaorg-play-remotely-its-a-collection-of-quick-zero-friction-multiplayer-games-no-signup-or-annoying-ads-check-it-out-for-your-next-team-break-or-game-night",
+        "author": "Sarah Andrew",
+        "source": "devto_webdev",
+        "published": "Tue, 29 Sep 2026 21:53:42 +0000",
+        "description": "gotrivia.org",
+        "keywords": "gotrivia, org, hey, dev, community, friends, built, https",
+        "generated": "2026-09-29T22:04:59.851595",
+        "file": "hey-dev-community-my-friends-and-i-built-gotrivia-httpsgotriviaorg-play-remotely-its-a-collection-of-quick-zero-friction-multiplayer-games-no-signup-or-annoying-ads-check-it-out-for-your-next-team-break-or-game-night.md"
     },
     {
         "title": "Cronloop AI Guide: How to Use It, Best Prompts & Use Cases (2026)",
@@ -88548,6 +88747,17 @@
         "file": "join-generated-error-indexes-to-an-owned-overlay-or-fail-the-docs-build.md"
     },
     {
+        "title": "Your LLM gave you an answer. Should your application trust it?",
+        "slug": "your-llm-gave-you-an-answer-should-your-application-trust-it",
+        "author": "Vedant Brahmbhatt",
+        "source": "devto_python",
+        "published": "Tue, 29 Sep 2026 21:32:24 +0000",
+        "description": "Your LLM gave you an answer. Should your application trust it? I built BOOTH , a lightweight checkpoint layer for LLM outputs. The idea is simple: don't auto...",
+        "keywords": "llm, your, you, answer, booth, evidence, gave, should",
+        "generated": "2026-09-29T22:04:59.849307",
+        "file": "your-llm-gave-you-an-answer-should-your-application-trust-it.md"
+    },
+    {
         "title": "I Tried 10 AI Tools for Data Analysis. Here’s What I’d Actually Use in 2026",
         "slug": "i-tried-10-ai-tools-for-data-analysis-heres-what-id-actually-use-in-2026",
         "author": "Stack Overflowed",
@@ -91428,6 +91638,17 @@
         "keywords": "context, short, long, tasks, tokens, your, llm, models",
         "generated": "2026-08-17T01:39:21.439405",
         "file": "llm-models-for-short-context-and-long-context-tasks-a-comparative-analysis.md"
+    },
+    {
+        "title": "How Commercial Loan Underwriting Works: DSCR, LTV and Debt Yield Explained",
+        "slug": "how-commercial-loan-underwriting-works-dscr-ltv-and-debt-yield-explained",
+        "author": "Commercial Lending Guides",
+        "source": "devto_python",
+        "published": "Tue, 29 Sep 2026 21:31:31 +0000",
+        "description": "Disclosure: I work with a commercial loan brokerage, so I see these numbers regularly; this article is general education, not financial advice. If you have e...",
+        "keywords": "loan, dscr, noi, debt, ltv, property, income, value",
+        "generated": "2026-09-29T22:04:59.849613",
+        "file": "how-commercial-loan-underwriting-works-dscr-ltv-and-debt-yield-explained.md"
     },
     {
         "title": "Essential Guide to Buying Aged and PVA Gmail Accounts",
