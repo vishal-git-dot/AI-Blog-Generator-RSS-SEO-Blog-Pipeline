@@ -4,16 +4,16 @@ slug: "rss-feeds-for-lastfm"
 author: "Baljhin"
 source: "hackernews"
 published: "Wed, 30 Sep 2026 03:00:05 +0000"
-description: "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 9 # Comments: 3"
+description: "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 91 # Comments: 24"
 keywords: "url, https, comments, rss, feeds, last, article, lfm"
-generated: "2026-09-30T04:59:51.108455"
+generated: "2026-09-30T12:15:50.056004"
 ---
 
 # RSS Feeds for Last.fm
 
 ## Overview
 
-Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 9 # Comments: 3
+Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 91 # Comments: 24
 
 ## Key Insights
 

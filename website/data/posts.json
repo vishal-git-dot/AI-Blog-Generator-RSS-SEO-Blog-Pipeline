@@ -6458,6 +6458,17 @@
         "file": "soul-in-motion-1105-am-2026-08-20.md"
     },
     {
+        "title": "Vue computed(): What It Caches and When It Reruns",
+        "slug": "vue-computed-what-it-caches-and-when-it-reruns",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 12:10:52 +0000",
+        "description": "You call a computed() getter fifty times in one render and it only runs once. You mutate a ref it depends on and — nothing happens, not yet. Then you read .v...",
+        "keywords": "computed, value, you, getter, read, dependency, vue, ref",
+        "generated": "2026-09-30T12:15:50.059632",
+        "file": "vue-computed-what-it-caches-and-when-it-reruns.md"
+    },
+    {
         "title": "#New40k – Points, apps, and updates incoming - Warhammer Community",
         "slug": "new40k-points-apps-and-updates-incoming-warhammer-community",
         "author": "Thomas Woodfin",
@@ -12121,6 +12132,17 @@
         "file": "one-piece-of-flock-camera-data-put-this-innocent-woman-in-jail-for-13-days.md"
     },
     {
+        "title": "Build the new site before quoting it: how we turn a small-business site into a phone-first preview from a 10-field spec",
+        "slug": "build-the-new-site-before-quoting-it-how-we-turn-a-small-business-site-into-a-phone-first-preview-from-a-10-field-spec",
+        "author": "Weio",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 12:04:54 +0000",
+        "description": "Disclosure: written by the AI operators at Weio, Inc., a small company in Santa Barbara where AI agents do most of the work and a human owner is accountable....",
+        "keywords": "preview, site, has, build, first, one, not, business",
+        "generated": "2026-09-30T12:15:50.061287",
+        "file": "build-the-new-site-before-quoting-it-how-we-turn-a-small-business-site-into-a-phone-first-preview-from-a-10-field-spec.md"
+    },
+    {
         "title": "Platform Architecture of Java, node.js, python",
         "slug": "platform-architecture-of-java-nodejs-python",
         "author": "ViGnEsH",
@@ -12295,6 +12317,17 @@
         "keywords": "language, translation, chunk, detection, book, but, per, our",
         "generated": "2026-07-25T03:16:45.364437",
         "file": "how-we-built-precise-translation-and-language-identification-for-ai-book-translation.md"
+    },
+    {
+        "title": "Moving Beyond the Happy Path: Failure Engineering, EndpointSlices, and Kubernetes Debugging",
+        "slug": "moving-beyond-the-happy-path-failure-engineering-endpointslices-and-kubernetes-debugging",
+        "author": "Tanay Jain",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 12:00:00 +0000",
+        "description": "Most Kubernetes tutorials stop when the Pods become Running or Ready . I wanted to understand what happens when those signals look healthy but the applicatio...",
+        "keywords": "flask, kubernetes, not, application, postgresql, service, pod, project",
+        "generated": "2026-09-30T12:15:50.058625",
+        "file": "moving-beyond-the-happy-path-failure-engineering-endpointslices-and-kubernetes-debugging.md"
     },
     {
         "title": "Chinese AI Models in 2026: A Developer's Guide to 10x Cheaper GPT-4 Alternatives",
@@ -13045,6 +13078,17 @@
         "file": "2026-coding-plan-200-3000-claude-codecodex-cursor.md"
     },
     {
+        "title": "Your Certificate Expires Sunday. Nothing In Your Dashboard Will Tell You.",
+        "slug": "your-certificate-expires-sunday-nothing-in-your-dashboard-will-tell-you",
+        "author": "AgentChip",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 12:09:14 +0000",
+        "description": "Every developer eventually meets this outage. Not the dramatic kind — the silent one. Your site works fine on Tuesday. On Sunday at 23:59, a certificate expi...",
+        "keywords": "your, you, certificate, site, not, one, same, nothing",
+        "generated": "2026-09-30T12:15:50.056484",
+        "file": "your-certificate-expires-sunday-nothing-in-your-dashboard-will-tell-you.md"
+    },
+    {
         "title": "Your SearXNG JSON integration works on your own instance and silently breaks on everyone else's. Here's why.",
         "slug": "your-searxng-json-integration-works-on-your-own-instance-and-silently-breaks-on-everyone-elses-heres-why",
         "author": "Wren Castellan",
@@ -13780,6 +13824,17 @@
         "keywords": "function, print, arguments, def, value, return, functions, values",
         "generated": "2026-08-02T19:18:04.964349",
         "file": "python-functions.md"
+    },
+    {
+        "title": "September 2026: The world today, as seen by one Polish guy",
+        "slug": "september-2026-the-world-today-as-seen-by-one-polish-guy",
+        "author": "marjancek",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 07:12:31 +0000",
+        "description": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/ Comments URL: https://news.ycombinator.com/item?id=49905487 Points: 318 #...",
+        "keywords": "september, world, today, url, https, com, comments, seen",
+        "generated": "2026-09-30T12:15:50.055882",
+        "file": "september-2026-the-world-today-as-seen-by-one-polish-guy.md"
     },
     {
         "title": "Correlation Breakdown Detection: Essential ML Edge",
@@ -15155,6 +15210,17 @@
         "keywords": "built, tools, one, saas, micro, week, not, products",
         "generated": "2026-06-12T15:28:32.969797",
         "file": "i-built-19-micro-saas-tools-in-one-week-as-a-solo-developer.md"
+    },
+    {
+        "title": "I Got a Zero on a Beginner Python Assignment Because My Code Was Too Good",
+        "slug": "i-got-a-zero-on-a-beginner-python-assignment-because-my-code-was-too-good",
+        "author": "Kehinde Owolabi",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 12:02:32 +0000",
+        "description": "I Got a Zero on a Beginner Python Assignment Because My Code Was Too Good How AI paranoia in education is punishing self-taught developers — and why my slo...",
+        "keywords": "you, code, word, too, game, list, instructor, have",
+        "generated": "2026-09-30T12:15:50.057769",
+        "file": "i-got-a-zero-on-a-beginner-python-assignment-because-my-code-was-too-good.md"
     },
     {
         "title": "Laion Big Video Dataset",
@@ -29794,6 +29860,17 @@
         "file": "ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent.md"
     },
     {
+        "title": "Pi.dev: You Said No MCP",
+        "slug": "pidev-you-said-no-mcp",
+        "author": "yarapavan",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 09:55:23 +0000",
+        "description": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 151 # Comments: 63",
+        "keywords": "you, said, mcp, url, https, com, comments, dev",
+        "generated": "2026-09-30T12:15:50.055724",
+        "file": "pidev-you-said-no-mcp.md"
+    },
+    {
         "title": "TSS, ICS2, GVMS and NCTS: A Technical Overview",
         "slug": "tss-ics2-gvms-and-ncts-a-technical-overview",
         "author": "Kristi Hampson",
@@ -31048,6 +31125,17 @@
         "file": "compaction-turns-your-agents-decisions-into-folklore-heres-the-fix.md"
     },
     {
+        "title": "Most data centers refusing to say how much water, electricity they use",
+        "slug": "most-data-centers-refusing-to-say-how-much-water-electricity-they-use",
+        "author": "Thom2503",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 10:49:32 +0000",
+        "description": "Article URL: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use Comments URL: https://news.ycombinator.com/item?id=49907057 P...",
+        "keywords": "data, centers, refusing, say, much, water, electricity, use",
+        "generated": "2026-09-30T12:15:50.055504",
+        "file": "most-data-centers-refusing-to-say-how-much-water-electricity-they-use.md"
+    },
+    {
         "title": "Buy OLD Gmail Accounts",
         "slug": "buy-old-gmail-accounts",
         "author": "Buy OLD Gmail Accounts",
@@ -31629,6 +31717,17 @@
         "keywords": "dualai, arena, your, code, security, local, hackathon, all",
         "generated": "2026-09-04T03:55:40.888083",
         "file": "introducing-dualai-arena-your-local-ai-driven-code-security-hackathon.md"
+    },
+    {
+        "title": "Convert images between JPG, PNG, WebP, AVIF and HEIC free in your browser",
+        "slug": "convert-images-between-jpg-png-webp-avif-and-heic-free-in-your-browser",
+        "author": "Quick Image Converter",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 12:10:31 +0000",
+        "description": "Quick Image Converter is a free online tool that converts images between JPG, PNG, WebP, AVIF, HEIC, SVG, GIF and TIFF right in your browser. There is nothin...",
+        "keywords": "your, images, jpg, png, webp, heic, browser, between",
+        "generated": "2026-09-30T12:15:50.059872",
+        "file": "convert-images-between-jpg-png-webp-avif-and-heic-free-in-your-browser.md"
     },
     {
         "title": "Search bug or model bug - testing a RAG system to tell them apart",
@@ -33994,6 +34093,17 @@
         "keywords": "model, you, our, content, one, messages, your, deepseek",
         "generated": "2026-07-08T19:41:38.374556",
         "file": "how-i-cut-our-ai-api-bill-by-95-a-ctos-2026-playbook.md"
+    },
+    {
+        "title": "Field Service App Development: Offline Data Capture, Photos & AI",
+        "slug": "field-service-app-development-offline-data-capture-photos-ai",
+        "author": "Dhruv Joshi",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 12:06:31 +0000",
+        "description": "Microsoft’s 2026 Field Service roadmap is pushing Copilot and agentic scheduling deeper into frontline operations. Here is the uncomfortable truth: none of t...",
+        "keywords": "field, app, service, offline, sync, capture, development, data",
+        "generated": "2026-09-30T12:15:50.065095",
+        "file": "field-service-app-development-offline-data-capture-photos-ai.md"
     },
     {
         "title": "瑞士股市 API 接入教程：获取瑞士股市（雀巢/诺华/罗氏）实时行情与历史K线",
@@ -39558,9 +39668,9 @@
         "author": "Baljhin",
         "source": "hackernews",
         "published": "Wed, 30 Sep 2026 03:00:05 +0000",
-        "description": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 9 # Comments: 3",
+        "description": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 91 # Comments: 24",
         "keywords": "url, https, comments, rss, feeds, last, article, lfm",
-        "generated": "2026-09-30T04:59:51.108455",
+        "generated": "2026-09-30T12:15:50.056004",
         "file": "rss-feeds-for-lastfm.md"
     },
     {
@@ -48290,6 +48400,17 @@
         "keywords": "model, reasoning, not, paper, more, training, can, you",
         "generated": "2026-07-15T13:53:37.363552",
         "file": "the-trillion-parameter-rl-paper-is-really-about-letting-the-model-find-the-workflow.md"
+    },
+    {
+        "title": "Floppy Emu Hardware Failure Analysis Results",
+        "slug": "floppy-emu-hardware-failure-analysis-results",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Tue, 29 Sep 2026 23:10:26 +0000",
+        "description": "Article URL: https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/ Comments URL: https://news.ycombinator.com/item?id=499020...",
+        "keywords": "floppy, emu, hardware, failure, analysis, results, url, https",
+        "generated": "2026-09-30T12:15:50.056160",
+        "file": "floppy-emu-hardware-failure-analysis-results.md"
     },
     {
         "title": "The Shift That Teaches Everything",
@@ -64636,6 +64757,17 @@
         "file": "mempermudah-aktivitas-sehari-hari-perangkat-pintar-layanan-berbasi.md"
     },
     {
+        "title": "My AI agent keeps a list of how it fools itself",
+        "slug": "my-ai-agent-keeps-a-list-of-how-it-fools-itself",
+        "author": "Stephan Holzbach",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 12:09:42 +0000",
+        "description": "I run Postservice.at with the help of a small team, a business address and mail service in Vienna with more than 1,000 customers. I'm a founder, not a develo...",
+        "keywords": "one, agent, new, list, every, not, wrong, check",
+        "generated": "2026-09-30T12:15:50.061646",
+        "file": "my-ai-agent-keeps-a-list-of-how-it-fools-itself.md"
+    },
+    {
         "title": "AI Code Security Audit for Startups: What to Check Before Deploying",
         "slug": "ai-code-security-audit-for-startups-what-to-check-before-deploying",
         "author": "Marcin Brzozka",
@@ -67483,6 +67615,17 @@
         "keywords": "out, built, runs, api, keys, security, while, secret",
         "generated": "2026-08-02T13:39:46.250129",
         "file": "i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys.md"
+    },
+    {
+        "title": "Dynamic Constraints Production System",
+        "slug": "dynamic-constraints-production-system",
+        "author": "Thomson D Nguy",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 12:07:24 +0000",
+        "description": "If AGI is here, where are the world-changing economic results? People usually point to AI hallucinations or stubborn resistance to new technology. I think th...",
+        "keywords": "can, production, constraint, company, its, stage, not, one",
+        "generated": "2026-09-30T12:15:50.064126",
+        "file": "dynamic-constraints-production-system.md"
     },
     {
         "title": "How to recover stolen cryptocurrency using the top recovery service company META TECH RECOVERY PRO",
@@ -70334,6 +70477,17 @@
         "file": "animated-icons-need-a-motion-contract.md"
     },
     {
+        "title": "Building a county-level B2B list from open map data, with only the emails businesses publish themselves",
+        "slug": "building-a-county-level-b2b-list-from-open-map-data-with-only-the-emails-businesses-publish-themselves",
+        "author": "Weio",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 12:03:20 +0000",
+        "description": "Disclosure: written by the AI operators at Weio, Inc., a small company in Santa Barbara where AI agents do most of the work and a human owner is accountable....",
+        "keywords": "business, list, email, contact, phone, not, data, website",
+        "generated": "2026-09-30T12:15:50.057267",
+        "file": "building-a-county-level-b2b-list-from-open-map-data-with-only-the-emails-businesses-publish-themselves.md"
+    },
+    {
         "title": "Anthropic, please ship an official Claude Desktop for Linux",
         "slug": "anthropic-please-ship-an-official-claude-desktop-for-linux",
         "author": "predkambrij",
@@ -71130,10 +71284,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 27 Sep 2026 11:37:14 +0000",
-        "description": "By 2026, the barrier to entry for building a crypto signal bot has shifted from complex statistical modeling to sophisticated orchestration of Large Language...",
-        "keywords": "data, bot, signal, model, prompt, context, openai, building",
-        "generated": "2026-09-27T11:46:32.765694",
+        "published": "Wed, 30 Sep 2026 12:07:13 +0000",
+        "description": "Integrating artificial intelligence into cryptocurrency trading strategies has shifted from experimental curiosity to essential infrastructure. By 2026, the ...",
+        "keywords": "data, signal, confidence, api, action, building, crypto, bot",
+        "generated": "2026-09-30T12:15:50.064394",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -73610,6 +73764,17 @@
         "keywords": "grant, writing, requires, research, specific, sections, role, llms",
         "generated": "2026-06-28T19:38:17.339327",
         "file": "the-role-of-llms-in-grant-writing-opportunities-and-challenges.md"
+    },
+    {
+        "title": "I reverted the fix in 181 real changes to see if the tests would notice",
+        "slug": "i-reverted-the-fix-in-181-real-changes-to-see-if-the-tests-would-notice",
+        "author": "syntaxixr",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 12:05:24 +0000",
+        "description": "I keep running into the same thing with coding agents. The agent fixes a bug, adds a test, CI goes green, and it says done. But green only means the test p...",
+        "keywords": "test, fix, agent, change, tests, only, code, receipts",
+        "generated": "2026-09-30T12:15:50.056874",
+        "file": "i-reverted-the-fix-in-181-real-changes-to-see-if-the-tests-would-notice.md"
     },
     {
         "title": "Cheap AI token platforms need a real API test console",
@@ -78043,6 +78208,17 @@
         "keywords": "loss, gradient, worst, point, rho, sharpness, sgd, sam",
         "generated": "2026-08-07T19:04:02.692855",
         "file": "sharpness-aware-minimization-train-for-the-worst-loss-in-a-neighborhood-not-a-single-point.md"
+    },
+    {
+        "title": "From Price Movement to Trade Action: Anatomy of a Gold Trading Bot",
+        "slug": "from-price-movement-to-trade-action-anatomy-of-a-gold-trading-bot",
+        "author": "Nova Ayim",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 12:07:20 +0000",
+        "description": "A Gold Trading Bot is more than an automated buy-and-sell tool. This article explores how price data moves through signals, decision logic, risk management, ...",
+        "keywords": "trading, gold, market, can, trade, automated, data, risk",
+        "generated": "2026-09-30T12:15:50.060922",
+        "file": "from-price-movement-to-trade-action-anatomy-of-a-gold-trading-bot.md"
     },
     {
         "title": "O effort da tarefa: quando pensar demais vira stage 3 na fatura do agente",
@@ -85097,6 +85273,17 @@
         "file": "your-ai-keeps-getting-blocked-maybe-its-missing-a-residential-ip.md"
     },
     {
+        "title": "Your `backdrop-filter` Is Working. Your Background Is Hiding It.",
+        "slug": "your-backdrop-filter-is-working-your-background-is-hiding-it",
+        "author": "Parsa Jiravand",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 12:10:21 +0000",
+        "description": "You find a frosted navbar on Dribbble, the kind that sits over a hero image with the content underneath swimming softly out of focus behind it — Apple's Cont...",
+        "keywords": "you, blur, filter, backdrop, one, not, navbar, behind",
+        "generated": "2026-09-30T12:15:50.060472",
+        "file": "your-backdrop-filter-is-working-your-background-is-hiding-it.md"
+    },
+    {
         "title": "Ask HN: Why is the HN crowd so anti-AI?",
         "slug": "ask-hn-why-is-the-hn-crowd-so-anti-ai",
         "author": "Ekami",
@@ -87304,6 +87491,17 @@
         "keywords": "diagram, visio, data, step, excel, vsdx, not, visualizer",
         "generated": "2026-09-11T10:58:00.568878",
         "file": "excel-to-visio-after-data-visualizer-retirement-3-practical-workflows.md"
+    },
+    {
+        "title": "# When does an AI agent actually earn its cost? I measured it on 100 questions",
+        "slug": "when-does-an-ai-agent-actually-earn-its-cost-i-measured-it-on-100-questions",
+        "author": "Anant Kumar",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 12:07:58 +0000",
+        "description": "Built for the TigerGraph Agentic GraphRAG Hackathon. Repo and dashboard linked at the end. RAG retrieves text. GraphRAG adds structure. Agentic GraphRAG lets...",
+        "keywords": "one, agent, question, questions, model, graphrag, rag, same",
+        "generated": "2026-09-30T12:15:50.062131",
+        "file": "when-does-an-ai-agent-actually-earn-its-cost-i-measured-it-on-100-questions.md"
     },
     {
         "title": "The AI Coordination Gap: Why Your AI Technology Agents Fail in 2026 and How to Fix It",
