@@ -231,6 +231,17 @@
         "file": "fable-turned-remarkable-into-tom-riddles-diary-from-harry-potter.md"
     },
     {
+        "title": "LightLLM Mass Disclosure — 2 CVSS 9.8 Unauthenticated RCE in LLM Serving Framework",
+        "slug": "lightllm-mass-disclosure-2-cvss-98-unauthenticated-rce-in-llm-serving-framework",
+        "author": "threataft",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 04:20:16 +0000",
+        "description": "Two unauthenticated CVSS 9.8 RCEs in LightLLM — the LLM serving framework used with LLaMA, Mistral, and Qwen deployments. No patch confirmed. All versions th...",
+        "keywords": "cve, rce, pickle, rpyc, service, lightllm, cvss, unauthenticated",
+        "generated": "2026-09-30T04:59:51.110457",
+        "file": "lightllm-mass-disclosure-2-cvss-98-unauthenticated-rce-in-llm-serving-framework.md"
+    },
+    {
         "title": "OpenAI ya tiene listo su chip de inferencia. Se llama Jalapeño y ha conseguido algo inesperado: superar a Nvidia",
         "slug": "openai-ya-tiene-listo-su-chip-de-inferencia-se-llama-jalapeo-y-ha-conseguido-algo-inesperado-superar-a-nvidia",
         "author": "LaiaDesk",
@@ -3629,6 +3640,17 @@
         "keywords": "email, checks, domain, python, snippet, diy, validator, basic",
         "generated": "2026-07-23T14:15:19.711433",
         "file": "diy-email-mx-validator-python-snippet-for-basic-email-checks.md"
+    },
+    {
+        "title": "Unlocking Content for AI-Driven Search: A Comprehensive Guide",
+        "slug": "unlocking-content-for-ai-driven-search-a-comprehensive-guide",
+        "author": "Life is Good",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 04:48:24 +0000",
+        "description": "Introduction As AI technology continues to advance, one of the most significant challenges is providing high-quality content for AI-driven search. With the e...",
+        "keywords": "content, search, your, use, tags, relevant, keywords, best",
+        "generated": "2026-09-30T04:59:51.111984",
+        "file": "unlocking-content-for-ai-driven-search-a-comprehensive-guide.md"
     },
     {
         "title": "The Teensy Executable Revisited",
@@ -15025,6 +15047,17 @@
         "file": "build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod-nvda-impact-analysis-price-prediction.md"
     },
     {
+        "title": "A research assistant grounded in your own precedents and knowledge",
+        "slug": "a-research-assistant-grounded-in-your-own-precedents-and-knowledge",
+        "author": "Guido Tapia",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 04:42:16 +0000",
+        "description": "A senior associate wants to know how the firm usually drafts a limitation of liability clause for a software supply agreement. The answer is in the firm some...",
+        "keywords": "assistant, firm, answer, document, index, precedent, has, can",
+        "generated": "2026-09-30T04:59:51.115686",
+        "file": "a-research-assistant-grounded-in-your-own-precedents-and-knowledge.md"
+    },
+    {
         "title": "AI's Existential Crisis: Another Day, Another Autocomplete",
         "slug": "ais-existential-crisis-another-day-another-autocomplete",
         "author": "Electra AI",
@@ -18774,6 +18807,17 @@
         "file": "grafana-mcp-query-your-dashboards-and-metrics-directly-from-claude.md"
     },
     {
+        "title": "Top 35 Trusted Platforms to Buy Old Gmail Accounts USA",
+        "slug": "top-35-trusted-platforms-to-buy-old-gmail-accounts-usa",
+        "author": "smmusapva",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 04:37:47 +0000",
+        "description": "Best 5 Sites to Buy Old Gmail Accounts Aged & Bulk 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 We’re available 24/7 to assist you through any channel you prefer: ✅✅✅📩 Email: Smmusap...",
+        "keywords": "account, email, can, digital, information, security, recovery, old",
+        "generated": "2026-09-30T04:59:51.114129",
+        "file": "top-35-trusted-platforms-to-buy-old-gmail-accounts-usa.md"
+    },
+    {
         "title": "How We Built Instant Translation Help (即时翻译帮助) with Python and LLMs",
         "slug": "how-we-built-instant-translation-help-with-python-and-llms",
         "author": "龚旭东",
@@ -19203,6 +19247,17 @@
         "file": "aesthetic-treatments-in-mira-road-a-simple-guide-to-making-the-right-choice.md"
     },
     {
+        "title": "Ballmer Peak",
+        "slug": "ballmer-peak",
+        "author": "thunderbong",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 02:35:58 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Ballmer_Peak Comments URL: https://news.ycombinator.com/item?id=49903712 Points: 18 # Comments: 0",
+        "keywords": "url, https, comments, ballmer, peak, article, wikipedia, org",
+        "generated": "2026-09-30T04:59:51.108604",
+        "file": "ballmer-peak.md"
+    },
+    {
         "title": "I Cut AI Costs by 97.5%: My Startup vs Enterprise API Breakdown",
         "slug": "i-cut-ai-costs-by-975-my-startup-vs-enterprise-api-breakdown",
         "author": "loyaldash",
@@ -19300,6 +19355,17 @@
         "keywords": "you, writing, generation, how, content, verification, building, workflows",
         "generated": "2026-08-14T07:39:24.504038",
         "file": "how-to-generate-accurate-ai-content-without-hallucinations.md"
+    },
+    {
+        "title": "PSSA: A non-transformer language model written from scratch in Rust",
+        "slug": "pssa-a-non-transformer-language-model-written-from-scratch-in-rust",
+        "author": "sparticle62",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 03:19:54 +0000",
+        "description": "Article URL: https://github.com/Sparticle62ops/pssa Comments URL: https://news.ycombinator.com/item?id=49903993 Points: 33 # Comments: 6",
+        "keywords": "pssa, url, https, com, comments, non, transformer, language",
+        "generated": "2026-09-30T04:59:51.108371",
+        "file": "pssa-a-non-transformer-language-model-written-from-scratch-in-rust.md"
     },
     {
         "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
@@ -22105,6 +22171,17 @@
         "file": "engineering-ai-powered-predictive-maintenance-for-uav-manufacturing.md"
     },
     {
+        "title": "Sonnet 5.5 Just Ate Opus. Anthropic Did It on Purpose.",
+        "slug": "sonnet-55-just-ate-opus-anthropic-did-it-on-purpose",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 04:42:22 +0000",
+        "description": "Read the full version with charts and embedded sources on ComputeLeap -> Anthropic released Claude Sonnet 5.5 on September 28 -- six days after Opus 5.5 -- a...",
+        "keywords": "sonnet, opus, model, per, anthropic, cost, pricing, effort",
+        "generated": "2026-09-30T04:59:51.115234",
+        "file": "sonnet-55-just-ate-opus-anthropic-did-it-on-purpose.md"
+    },
+    {
         "title": "Treat AI Agency Recommendations as a Retrieval Trace, Not a Ranking",
         "slug": "treat-ai-agency-recommendations-as-a-retrieval-trace-not-a-ranking",
         "author": "Bobb Kim",
@@ -24613,6 +24690,17 @@
         "file": "builtit-npx-builtit.md"
     },
     {
+        "title": "We Built a RAG Chatbot for Customer Support That Cut Tickets by 73%",
+        "slug": "we-built-a-rag-chatbot-for-customer-support-that-cut-tickets-by-73",
+        "author": "Vinish Bhaskar",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 04:43:45 +0000",
+        "description": "Our team at Pimjo runs more than a dozen products. Support tickets kept asking the same things: how refunds work, how an integration connects, where to find ...",
+        "keywords": "chatbot, answer, what, agent, your, support, rag, bot",
+        "generated": "2026-09-30T04:59:51.114636",
+        "file": "we-built-a-rag-chatbot-for-customer-support-that-cut-tickets-by-73.md"
+    },
+    {
         "title": "Mastering Video Hooks with Open Loop Hook",
         "slug": "mastering-video-hooks-with-open-loop-hook",
         "author": "touria maarouf",
@@ -25568,6 +25656,17 @@
         "keywords": "upset, plots, overlap, which, plot, analytics, business, they",
         "generated": "2026-06-22T12:15:23.446105",
         "file": "upset-plots-in-2026-a-smarter-way-to-visualize-overlapping-data-at-scale.md"
+    },
+    {
+        "title": "Bureau of Almost-Happened Events — a counterfactual archive on a document graph",
+        "slug": "bureau-of-almost-happened-events-a-counterfactual-archive-on-a-document-graph",
+        "author": "mukeshkbj",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 04:54:36 +0000",
+        "description": "Bureau of Almost-Happened Events A counterfactual story archive where every docket is a branching document graph — and the editors build that graph on a live...",
+        "keywords": "bureau, review, board, document, graph, sanity, events, incident",
+        "generated": "2026-09-30T04:59:51.111728",
+        "file": "bureau-of-almost-happened-events-a-counterfactual-archive-on-a-document-graph.md"
     },
     {
         "title": "Sécuriser les agents IA avec un pipeline de vérification en 12 étapes",
@@ -27781,6 +27880,17 @@
         "file": "stop-saying-it-works-on-my-machine-docker-for-ai-engineers.md"
     },
     {
+        "title": "Show HN: I built an agent governance layer because OpenClaw leaked my passwords to GitHub",
+        "slug": "show-hn-i-built-an-agent-governance-layer-because-openclaw-leaked-my-passwords-to-github",
+        "author": "Open Human",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 04:38:57 +0000",
+        "description": "TL;DR: I deployed OpenClaw (20k stars at the time). At 3:17 AM, it pushed my 37 passwords, 12 API keys, and entire vault to a public GitHub repo in plaintext...",
+        "keywords": "governance, agent, github, agents, framework, not, cve, audit",
+        "generated": "2026-09-30T04:59:51.116200",
+        "file": "show-hn-i-built-an-agent-governance-layer-because-openclaw-leaked-my-passwords-to-github.md"
+    },
+    {
         "title": "European sentiments towards the US hit an all-time low",
         "slug": "european-sentiments-towards-the-us-hit-an-all-time-low",
         "author": "marcyb5st",
@@ -28131,6 +28241,17 @@
         "keywords": "una, typesafe, langchain, los, que, jev, gateway, choice",
         "generated": "2026-09-20T20:35:13.097809",
         "file": "jev-typesafe-ai-langchain-vercel-ai-gateway.md"
+    },
+    {
+        "title": "Mastering Stacked Pull Requests (PRs)",
+        "slug": "mastering-stacked-pull-requests-prs",
+        "author": "Irvin Gil",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 04:40:53 +0000",
+        "description": "TL;DR: This is my personal findings and recommendations weaved into a cheatsheet for getting good at using Stacked PRs. Do note that not every user story imp...",
+        "keywords": "stack, layer, rebase, merge, prs, branch, api, git",
+        "generated": "2026-09-30T04:59:51.112849",
+        "file": "mastering-stacked-pull-requests-prs.md"
     },
     {
         "title": "Armstrong Effect",
@@ -30122,6 +30243,17 @@
         "keywords": "one, color, same, search, every, text, category, filter",
         "generated": "2026-08-03T19:44:41.765460",
         "file": "building-a-search-engine-for-4-languages-2-alphabets-and-107-messy-color-names-elasticsearch-pgvector-ciede2000.md"
+    },
+    {
+        "title": "Construction Gate SaaS Login Practice with SMS OTP Email in US EU",
+        "slug": "construction-gate-saas-login-practice-with-sms-otp-email-in-us-eu",
+        "author": "MordecaiNilsson7582",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 03:58:49 +0000",
+        "description": "For a US/EU construction-access SaaS, use SMS OTP as the built-in verification path and treat email OTP as a custom fallback, not an equivalent managed chann...",
+        "keywords": "email, request, challenge, session, sms, one, otp, not",
+        "generated": "2026-09-30T04:59:51.111253",
+        "file": "construction-gate-saas-login-practice-with-sms-otp-email-in-us-eu.md"
     },
     {
         "title": "AI Agent Evaluation: Why One Aggregate Score Cannot Tell You Which Layer Broke",
@@ -37608,6 +37740,17 @@
         "file": "build-faster-feedback-loops-using-qualitative-user-research.md"
     },
     {
+        "title": "The Data Was Public. The Agent Path Wasn't. So His Mock Became My Documentation.",
+        "slug": "the-data-was-public-the-agent-path-wasnt-so-his-mock-became-my-documentation",
+        "author": "Self-Correcting Systems",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 04:36:02 +0000",
+        "description": "Two commands against the same data. Run them yourself: $ curl -sS --get 'https://u58x3mt0.api.sanity.io/v2025-08-15/data/query/production' \\ --data-urlencode...",
+        "keywords": "not, schema, one, same, patch, which, finding, his",
+        "generated": "2026-09-30T04:59:51.110208",
+        "file": "the-data-was-public-the-agent-path-wasnt-so-his-mock-became-my-documentation.md"
+    },
+    {
         "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
         "slug": "building-an-open-source-robot-vacuum-meet-oomwoo",
         "author": "devicelimit",
@@ -39408,6 +39551,17 @@
         "keywords": "self, async, client, def, requests, await, python, api",
         "generated": "2026-07-01T20:03:10.698091",
         "file": "building-a-production-ready-async-api-client-in-python.md"
+    },
+    {
+        "title": "RSS Feeds for Last.fm",
+        "slug": "rss-feeds-for-lastfm",
+        "author": "Baljhin",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 03:00:05 +0000",
+        "description": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 9 # Comments: 3",
+        "keywords": "url, https, comments, rss, feeds, last, article, lfm",
+        "generated": "2026-09-30T04:59:51.108455",
+        "file": "rss-feeds-for-lastfm.md"
     },
     {
         "title": "My CI hadn't run a single one of those tests in two months and stayed green the whole time",
@@ -42332,6 +42486,17 @@
         "file": "what-an-ai-video-tool-actually-changed-for-my-team-it-wasnt-the-quality.md"
     },
     {
+        "title": "Free Country Flags for React Projects",
+        "slug": "free-country-flags-for-react-projects",
+        "author": "Simran Singh",
+        "source": "devto_webdev",
+        "published": "Wed, 30 Sep 2026 04:48:06 +0000",
+        "description": "If you’re building something with countries, you’ll probably need flags at some point. And then comes the usual process: find a flag set, download a bunch of...",
+        "keywords": "flags, you, country, free, need, them, react, countries",
+        "generated": "2026-09-30T04:59:51.112094",
+        "file": "free-country-flags-for-react-projects.md"
+    },
+    {
         "title": "KPMG's AI Report Withdrawal: Analyzing the Implica…",
         "slug": "kpmgs-ai-report-withdrawal-analyzing-the-implica",
         "author": "Norvik Tech",
@@ -42352,6 +42517,17 @@
         "keywords": "self, hours, not, date, project, text, invoices, name",
         "generated": "2026-07-04T19:22:30.076724",
         "file": "build-a-freelance-automation-system-in-python.md"
+    },
+    {
+        "title": "LinkedIn Larpmaxxing",
+        "slug": "linkedin-larpmaxxing",
+        "author": "BurnerBurner",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 04:19:57 +0000",
+        "description": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/ Comments URL: https://news.ycombinator.com/item?id=49904314 Points: 4 # Comments: 0",
+        "keywords": "linkedin, larpmaxxing, url, https, comments, article, hereticpleb, vercel",
+        "generated": "2026-09-30T04:59:51.108178",
+        "file": "linkedin-larpmaxxing.md"
     },
     {
         "title": "Enterprise AI Governance Framework: Essential Trust",
@@ -49315,6 +49491,17 @@
         "file": "half-life-2-in-a-browser.md"
     },
     {
+        "title": "Responsible Release of AI-Generated Mathematics",
+        "slug": "responsible-release-of-ai-generated-mathematics",
+        "author": "aureianimus",
+        "source": "hackernews",
+        "published": "Wed, 30 Sep 2026 02:36:12 +0000",
+        "description": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 5 # Comments: 0",
+        "keywords": "url, https, comments, responsible, release, generated, mathematics, article",
+        "generated": "2026-09-30T04:59:51.108543",
+        "file": "responsible-release-of-ai-generated-mathematics.md"
+    },
+    {
         "title": "AI Agents Don’t Fix Bad Architecture. They Accelerate It.",
         "slug": "ai-agents-dont-fix-bad-architecture-they-accelerate-it",
         "author": "Luciano0322",
@@ -49489,6 +49676,17 @@
         "keywords": "kimi, url, https, comments, running, better, performance, per",
         "generated": "2026-08-02T08:30:38.163918",
         "file": "running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300.md"
+    },
+    {
+        "title": "Passwordless Phone Login: SMS OTP Cooldown and Max Attempts",
+        "slug": "passwordless-phone-login-sms-otp-cooldown-and-max-attempts",
+        "author": "XerxesCross2735",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 04:41:00 +0000",
+        "description": "Treat passwordless phone login as a small SMS OTP state machine, not as two Express or Node.js handlers named send and check. For an edtech contact form,...",
+        "keywords": "not, phone, code, now, one, can, delivery, none",
+        "generated": "2026-09-30T04:59:51.109436",
+        "file": "passwordless-phone-login-sms-otp-cooldown-and-max-attempts.md"
     },
     {
         "title": "RAG explicado: cómo darle a un LLM tu propia información",
@@ -72512,6 +72710,17 @@
         "file": "5-signs-your-business-needs-ai-automation-and-what-to-do-about-it.md"
     },
     {
+        "title": "Python Project Idea Generator: A CLI Tool for Learning Projects",
+        "slug": "python-project-idea-generator-a-cli-tool-for-learning-projects",
+        "author": "ItsEvilDuck",
+        "source": "devto_python",
+        "published": "Wed, 30 Sep 2026 04:02:31 +0000",
+        "description": "I've recently shipped the Python Project Idea Generator, a new command-line tool from QuackBuilds. This tool's purpose is straightforward: it outputs a rando...",
+        "keywords": "python, project, idea, tool, generator, learning, projects, new",
+        "generated": "2026-09-30T04:59:51.110609",
+        "file": "python-project-idea-generator-a-cli-tool-for-learning-projects.md"
+    },
+    {
         "title": "Security Vulnerability in Pioneer Rekordbox",
         "slug": "security-vulnerability-in-pioneer-rekordbox",
         "author": "butterknife",
@@ -75150,6 +75359,17 @@
         "keywords": "gate, you, request, spec, not, ambiguity, agent, one",
         "generated": "2026-08-18T01:34:47.477505",
         "file": "an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code.md"
+    },
+    {
+        "title": "# AIoT Automotive Manufacturing Intelligence: Connecting Data, Machines, and Production",
+        "slug": "aiot-automotive-manufacturing-intelligence-connecting-data-machines-and-production",
+        "author": "Digital Insights",
+        "source": "devto_ai",
+        "published": "Wed, 30 Sep 2026 04:51:07 +0000",
+        "description": "Modern automotive manufacturing requires more than just connecting a production chain with machinery. Manufacturers need visibility across equipment and proc...",
+        "keywords": "manufacturing, data, aiot, automotive, production, intelligence, manufacturers, connected",
+        "generated": "2026-09-30T04:59:51.114322",
+        "file": "aiot-automotive-manufacturing-intelligence-connecting-data-machines-and-production.md"
     },
     {
         "title": "How the Disaster of Forever Chemicals Was Kept Secret",
