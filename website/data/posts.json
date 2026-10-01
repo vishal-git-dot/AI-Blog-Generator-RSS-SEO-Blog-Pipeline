@@ -4731,6 +4731,17 @@
         "file": "money-is-a-signal-not-a-soul.md"
     },
     {
+        "title": "Show HN: Rhun, an open-source code editor written in assembly",
+        "slug": "show-hn-rhun-an-open-source-code-editor-written-in-assembly",
+        "author": "vladcodes",
+        "source": "hackernews",
+        "published": "Thu, 01 Oct 2026 20:32:18 +0000",
+        "description": "I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon M...",
+        "keywords": "code, editor, rhun, assembly, using, vim, apple, silicon",
+        "generated": "2026-10-01T22:31:42.466362",
+        "file": "show-hn-rhun-an-open-source-code-editor-written-in-assembly.md"
+    },
+    {
         "title": "Solar generates more energy in US than coal for first time",
         "slug": "solar-generates-more-energy-in-us-than-coal-for-first-time",
         "author": "neilfrndes",
@@ -11879,6 +11890,17 @@
         "file": "fullagenticstack-um-paradigma-de-arquitetura-de-software-para-sistemas-totalmente-agnticos.md"
     },
     {
+        "title": "How to Access Your WSL2 Web Apps from Mobile Devices & LAN",
+        "slug": "how-to-access-your-wsl2-web-apps-from-mobile-devices-lan",
+        "author": "Logifire",
+        "source": "devto_webdev",
+        "published": "Thu, 01 Oct 2026 22:10:47 +0000",
+        "description": "If you use WSL2 (Windows Subsystem for Linux) for web development, you've likely hit this wall: you start a development server (Vite, Next.js, Node, Django, ...",
+        "keywords": "firewall, your, you, wsl, hyperv, windows, rules, hyper",
+        "generated": "2026-10-01T22:31:42.469027",
+        "file": "how-to-access-your-wsl2-web-apps-from-mobile-devices-lan.md"
+    },
+    {
         "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
         "slug": "show-hn-dom-docx-html-to-native-editable-word-docs-mit",
         "author": "fishbone",
@@ -14893,6 +14915,17 @@
         "file": "when-ai-agents-turn-on-each-other-anthropics-frontier-red-team-exposes-six-deadly-failure-modes-in-multi-agent-systems.md"
     },
     {
+        "title": "How to Reverse-Engineer Any Video to Prompt (Without Wasting All Your GPU Credits)",
+        "slug": "how-to-reverse-engineer-any-video-to-prompt-without-wasting-all-your-gpu-credits",
+        "author": "Bilal Chopra",
+        "source": "devto_ai",
+        "published": "Thu, 01 Oct 2026 22:25:09 +0000",
+        "description": "If you are building cinematic AI video loops or pipelines using tools like Runway Gen-3, Kling AI, Luma, Google VEO, or Sora, you already know the core bottl...",
+        "keywords": "your, prompt, video, tier, you, camera, how, subject",
+        "generated": "2026-10-01T22:31:42.470751",
+        "file": "how-to-reverse-engineer-any-video-to-prompt-without-wasting-all-your-gpu-credits.md"
+    },
+    {
         "title": "Three internet finds — 2026-08-24",
         "slug": "three-internet-finds-2026-08-24",
         "author": "dio re",
@@ -16453,6 +16486,17 @@
         "keywords": "you, monitoring, prediction, question, forecasting, what, they, probability",
         "generated": "2026-07-01T20:03:10.701366",
         "file": "how-prediction-monitoring-differs-from-single-shot-forecasting.md"
+    },
+    {
+        "title": "Why We Built a Free, 100% Client-Side SEO & AI Crawler Tool Suite in 2026",
+        "slug": "why-we-built-a-free-100-client-side-seo-ai-crawler-tool-suite-in-2026",
+        "author": "abdullahkhntanoli001-boop",
+        "source": "devto_webdev",
+        "published": "Thu, 01 Oct 2026 22:12:36 +0000",
+        "description": "Search is undergoing its biggest transformation since the launch of PageRank. Today, webmasters and software developers aren't just optimizing for traditiona...",
+        "keywords": "google, seo, search, real, time, zero, built, free",
+        "generated": "2026-10-01T22:31:42.468691",
+        "file": "why-we-built-a-free-100-client-side-seo-ai-crawler-tool-suite-in-2026.md"
     },
     {
         "title": "Buy Verified Heroku Accounts for Web Apps & Custom Projects",
@@ -18818,6 +18862,17 @@
         "file": "what-is-data-analytics-and-why-is-it-one-of-the-most-in-demand-skills-in-2026.md"
     },
     {
+        "title": "Why Working Code Isn't Enough (A Journey into Computational Physics & High-Performance Engineering) We’ve all been there: you write so",
+        "slug": "why-working-code-isnt-enough-a-journey-into-computational-physics-high-performance-engineering-weve-all-been-there-you-write-so",
+        "author": "Ahmed Adawy",
+        "source": "devto_python",
+        "published": "Thu, 01 Oct 2026 21:33:00 +0000",
+        "description": "Why Working Code Isn't Enough (A Journey into Computational Physics & High-Performance Engineering) ​We’ve all been there: you write some code, it runs fin...",
+        "keywords": "you, code, performance, computational, physics, high, engineering, real",
+        "generated": "2026-10-01T22:31:42.467073",
+        "file": "why-working-code-isnt-enough-a-journey-into-computational-physics-high-performance-engineering-weve-all-been-there-you-write-so.md"
+    },
+    {
         "title": "Your Pipeline Is 27.6h Behind: Catching Commodities Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-276h-behind-catching-commodities-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -20477,6 +20532,17 @@
         "keywords": "mps, demand, answers, inclusion, lucrative, frameworks, url, https",
         "generated": "2026-08-03T09:55:50.590576",
         "file": "mps-demand-answers-on-fujitsus-inclusion-in-lucrative-frameworks.md"
+    },
+    {
+        "title": "Three convincing Python fixes that still fail the boundary case",
+        "slug": "three-convincing-python-fixes-that-still-fail-the-boundary-case",
+        "author": "Failure Map",
+        "source": "devto_python",
+        "published": "Thu, 01 Oct 2026 21:20:59 +0000",
+        "description": "A fix can remove the first failure and still violate the contract. Here are three small examples where the attempted repair looks reasonable until you run th...",
+        "keywords": "repair, contract, attempted, events, amount, not, returns, its",
+        "generated": "2026-10-01T22:31:42.467423",
+        "file": "three-convincing-python-fixes-that-still-fail-the-boundary-case.md"
     },
     {
         "title": "The CSS Zen Garden dream shipped",
@@ -26285,6 +26351,17 @@
         "file": "building-realityos-a-deterministic-world-with-an-ai-reality-show-surface.md"
     },
     {
+        "title": "Web Scraper tools",
+        "slug": "web-scraper-tools",
+        "author": "MetCoreB",
+        "source": "devto_python",
+        "published": "Thu, 01 Oct 2026 22:27:33 +0000",
+        "description": "I made this after years of web scraping work. Kept hitting the same annoyances: decoding a JWT some endpoint returned, cleaning up Base64 blobs, testing a re...",
+        "keywords": "tools, web, kept, what, scraper, made, after, years",
+        "generated": "2026-10-01T22:31:42.466796",
+        "file": "web-scraper-tools.md"
+    },
+    {
         "title": "WireGuard: el protocolo VPN que cabe en menos de 4.000 líneas",
         "slug": "wireguard-el-protocolo-vpn-que-cabe-en-menos-de-4000-lneas",
         "author": "lu1tr0n",
@@ -27647,6 +27724,17 @@
         "keywords": "you, your, how, build, building, use, own, what",
         "generated": "2026-06-17T11:07:27.903269",
         "file": "how-to-use-build-your-own-x-master-programming-by-recreating-your-favorite-technologies-from-scratch.md"
+    },
+    {
+        "title": "The death of web development education",
+        "slug": "the-death-of-web-development-education",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Thu, 01 Oct 2026 21:07:37 +0000",
+        "description": "Article URL: https://molily.de/web-dev-education/ Comments URL: https://news.ycombinator.com/item?id=49927100 Points: 78 # Comments: 56",
+        "keywords": "web, education, url, https, comments, death, development, article",
+        "generated": "2026-10-01T22:31:42.466083",
+        "file": "the-death-of-web-development-education.md"
     },
     {
         "title": "Selecting One API for OpenAI, Claude, and Gemini Across Europe and the US",
@@ -29814,6 +29902,17 @@
         "keywords": "pdflayer, api, key, free, apilayer, one, html, pdf",
         "generated": "2026-09-27T16:44:45.599424",
         "file": "pdflayer-html-to-pdf-conversion-api.md"
+    },
+    {
+        "title": "Analyzing The Lumen Anchor Protocol - Using Google AI Studio",
+        "slug": "analyzing-the-lumen-anchor-protocol-using-google-ai-studio",
+        "author": "Tera Tokomi",
+        "source": "devto_ai",
+        "published": "Thu, 01 Oct 2026 22:22:33 +0000",
+        "description": "The LAP is a prompt framework that deals with several issues on frontier models such as - Context drift & sycophancy, hallucinations, context window memory m...",
+        "keywords": "google, you, studio, have, using, lap, prompt, context",
+        "generated": "2026-10-01T22:31:42.470917",
+        "file": "analyzing-the-lumen-anchor-protocol-using-google-ai-studio.md"
     },
     {
         "title": "US battery manufacturing output continues to break records",
@@ -36583,6 +36682,17 @@
         "keywords": "traceforce, security, company, device, mcps, apps, https, all",
         "generated": "2026-07-16T19:20:26.280992",
         "file": "launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps.md"
+    },
+    {
+        "title": "Choosing Between Server-Side and Client-Side URL Decoding: A Decision Guide for Teams",
+        "slug": "choosing-between-server-side-and-client-side-url-decoding-a-decision-guide-for-teams",
+        "author": "Tea-sip",
+        "source": "devto_webdev",
+        "published": "Thu, 01 Oct 2026 22:05:31 +0000",
+        "description": "Every team that touches URLs eventually has the same argument. Should decoding happen in the browser before a form submits, or should it wait for the server?...",
+        "keywords": "decoding, decode, not, form, decoded, server, path, before",
+        "generated": "2026-10-01T22:31:42.469709",
+        "file": "choosing-between-server-side-and-client-side-url-decoding-a-decision-guide-for-teams.md"
     },
     {
         "title": "MiniMax H3: Run a 30-Minute Adoption Gate Before You Commit",
@@ -43870,6 +43980,17 @@
         "file": "psychological-warfare-in-reverse-engineering-2015.md"
     },
     {
+        "title": "I never wrote an intro post here on dev.to!",
+        "slug": "i-never-wrote-an-intro-post-here-on-devto",
+        "author": "ronynn",
+        "source": "devto_webdev",
+        "published": "Thu, 01 Oct 2026 22:26:27 +0000",
+        "description": "I was updating the about section of my homepage which made me wonder I never really wrote a intro post or about me post here on dev.to, here I go. Hi! My mos...",
+        "keywords": "game, post, made, more, here, dev, make, things",
+        "generated": "2026-10-01T22:31:42.468037",
+        "file": "i-never-wrote-an-intro-post-here-on-devto.md"
+    },
+    {
         "title": "Fresh Taste, Trusted Quality – King Bread in Meerut",
         "slug": "fresh-taste-trusted-quality-king-bread-in-meerut",
         "author": "Varun Sharma",
@@ -43923,6 +44044,17 @@
         "keywords": "not, parent, tip, import, path, run, str, new",
         "generated": "2026-09-20T11:02:02.638438",
         "file": "require-parent-failures-dual-checkout-evidence-for-agent-patches.md"
+    },
+    {
+        "title": "Item Review Desk: exam questions that can't go live until a second person signs them off",
+        "slug": "item-review-desk-exam-questions-that-cant-go-live-until-a-second-person-signs-them-off",
+        "author": "Ayodeji",
+        "source": "devto_ai",
+        "published": "Thu, 01 Oct 2026 22:16:52 +0000",
+        "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What I Built I run a training school in Lagos and have spent years writi...",
+        "keywords": "item, review, agent, sanity, items, approved, one, desk",
+        "generated": "2026-10-01T22:31:42.471564",
+        "file": "item-review-desk-exam-questions-that-cant-go-live-until-a-second-person-signs-them-off.md"
     },
     {
         "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
@@ -50932,6 +51064,17 @@
         "file": "i-stopped-writing-code-i-started-orchestrating-ai-agents-heres-my-exact-workflow.md"
     },
     {
+        "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+        "slug": "show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amdintelnvidia",
+        "author": "Maverick617",
+        "source": "hackernews",
+        "published": "Thu, 01 Oct 2026 20:36:47 +0000",
+        "description": "Article URL: https://github.com/Vibra-Ingenn/Janus Comments URL: https://news.ycombinator.com/item?id=49926773 Points: 29 # Comments: 2",
+        "keywords": "janus, url, https, com, comments, show, binary, runs",
+        "generated": "2026-10-01T22:31:42.466211",
+        "file": "show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amdintelnvidia.md"
+    },
+    {
         "title": "A Claim Outlives the Mechanism It Denies",
         "slug": "a-claim-outlives-the-mechanism-it-denies",
         "author": "minia2a",
@@ -55603,6 +55746,17 @@
         "keywords": "how, over, engineered, book, url, https, com, comments",
         "generated": "2026-08-17T18:47:04.447811",
         "file": "how-i-over-engineered-my-book.md"
+    },
+    {
+        "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+        "slug": "css-bed-classless-css-themes-to-use-as-starting-points-in-web-development",
+        "author": "sea-gold",
+        "source": "hackernews",
+        "published": "Thu, 01 Oct 2026 21:21:32 +0000",
+        "description": "Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=49927212 Points: 17 # Comments: 3",
+        "keywords": "css, points, url, https, com, comments, bed, classless",
+        "generated": "2026-10-01T22:31:42.465956",
+        "file": "css-bed-classless-css-themes-to-use-as-starting-points-in-web-development.md"
     },
     {
         "title": "Herdr Studio",
@@ -65663,10 +65817,10 @@
         "slug": "extract-job-listings-from-indeed-python-tutorial-2026",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
         "source": "devto_python",
-        "published": "Sun, 27 Sep 2026 20:28:45 +0000",
+        "published": "Thu, 01 Oct 2026 21:19:20 +0000",
         "description": "Extract Job Listings from Indeed — Python Tutorial 2026 Indeed is the world's largest job search engine with 250M+ monthly visitors. Here's how to extract jo...",
         "keywords": "job, indeed, title, company, extract, location, jobs, python",
-        "generated": "2026-09-27T21:09:51.531060",
+        "generated": "2026-10-01T22:31:42.467622",
         "file": "extract-job-listings-from-indeed-python-tutorial-2026.md"
     },
     {
@@ -74122,10 +74276,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Thu, 01 Oct 2026 12:13:02 +0000",
+        "published": "Thu, 01 Oct 2026 22:28:09 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-10-01T12:50:17.621852",
+        "generated": "2026-10-01T22:31:42.466531",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -77517,6 +77671,17 @@
         "file": "why-your-scraper-gets-a-403-on-cloudflare-turnstile-and-the-token-injection-fix.md"
     },
     {
+        "title": "Over-Reliance on AI Tools Causes Skill Atrophy in Developers: Critical Evaluation Needed",
+        "slug": "over-reliance-on-ai-tools-causes-skill-atrophy-in-developers-critical-evaluation-needed",
+        "author": "Maxim Gerasimov",
+        "source": "devto_ai",
+        "published": "Thu, 01 Oct 2026 22:30:14 +0000",
+        "description": "Introduction: The Rise of AI in Development The integration of AI tools, particularly Large Language Models (LLMs) , into software development has accelerate...",
+        "keywords": "developers, code, skill, atrophy, critical, tools, over, skills",
+        "generated": "2026-10-01T22:31:42.470431",
+        "file": "over-reliance-on-ai-tools-causes-skill-atrophy-in-developers-critical-evaluation-needed.md"
+    },
+    {
         "title": "When Your Free Model Endpoint Drifts, Fail the Build",
         "slug": "when-your-free-model-endpoint-drifts-fail-the-build",
         "author": "Jordan Huang",
@@ -80232,6 +80397,17 @@
         "keywords": "germany, power, grid, sabotage, launch, devices, found, url",
         "generated": "2026-09-07T21:22:00.857320",
         "file": "germany-power-grid-sabotage-launch-devices-found-near-weisweiler-plant.md"
+    },
+    {
+        "title": "OpenRadioss is not open anymore",
+        "slug": "openradioss-is-not-open-anymore",
+        "author": "hdrz",
+        "source": "hackernews",
+        "published": "Thu, 01 Oct 2026 21:41:36 +0000",
+        "description": "Article URL: https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/ Comments URL: https://news.ycombinator.com/item?id=49927392 P...",
+        "keywords": "url, https, com, comments, openradioss, not, open, anymore",
+        "generated": "2026-10-01T22:31:42.465786",
+        "file": "openradioss-is-not-open-anymore.md"
     },
     {
         "title": "The AI Race Has a Missing Question: Can We Explain What Our Agents Already Did?",
@@ -86230,6 +86406,17 @@
         "file": "writers-and-drugs.md"
     },
     {
+        "title": "How Instagram DM Automation Actually Works: A Developer's Guide to Meta's Messenger API",
+        "slug": "how-instagram-dm-automation-actually-works-a-developers-guide-to-metas-messenger-api",
+        "author": "Peter",
+        "source": "devto_webdev",
+        "published": "Thu, 01 Oct 2026 22:16:41 +0000",
+        "description": "You have seen the trick. Someone comments GUIDE on a reel, and ten seconds later a DM lands in their inbox with a link. It feels like magic, but if you are...",
+        "keywords": "api, you, comment, your, automation, meta, not, app",
+        "generated": "2026-10-01T22:31:42.468453",
+        "file": "how-instagram-dm-automation-actually-works-a-developers-guide-to-metas-messenger-api.md"
+    },
+    {
         "title": "Buy Walmart Seller Account | Pre-Approved U.S. Stores",
         "slug": "buy-walmart-seller-account-pre-approved-us-stores",
         "author": "jonson",
@@ -89438,6 +89625,17 @@
         "keywords": "can, mailing, business, general, managers, list, marketing, targeted",
         "generated": "2026-09-22T04:16:43.249811",
         "file": "general-managers-mailing-list-for-targeted-b2b-marketing.md"
+    },
+    {
+        "title": "Your Coding Agent Has a Network. Do You Know What It Did?",
+        "slug": "your-coding-agent-has-a-network-do-you-know-what-it-did",
+        "author": "Rishi G",
+        "source": "devto_ai",
+        "published": "Thu, 01 Oct 2026 22:19:15 +0000",
+        "description": "First off, thanks to everyone who read and commented on my last post! Your coding agent tells you all tests pass. Sometimes that's not true. The discussion a...",
+        "keywords": "what, you, agent, did, network, coding, actually, another",
+        "generated": "2026-10-01T22:31:42.471152",
+        "file": "your-coding-agent-has-a-network-do-you-know-what-it-did.md"
     },
     {
         "title": "USStockToken: AI Multi-Factor Stock Analysis on Telegram",
