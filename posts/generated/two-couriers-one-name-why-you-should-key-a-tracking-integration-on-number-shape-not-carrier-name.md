@@ -1,0 +1,34 @@
+---
+title: "Two couriers, one name: why you should key a tracking integration on number shape, not carrier name"
+slug: "two-couriers-one-name-why-you-should-key-a-tracking-integration-on-number-shape-not-carrier-name"
+author: "24hTrack"
+source: "devto_webdev"
+published: "Fri, 02 Oct 2026 04:41:42 +0000"
+description: "If you are building anything that touches shipment tracking - an order page, a WISMO deflection flow, a 3PL dashboard - there is a failure mode that does not..."
+keywords: "not, number, one, carrier, you, name, tracking, your"
+generated: "2026-10-02T05:02:05.617601"
+---
+
+# Two couriers, one name: why you should key a tracking integration on number shape, not carrier name
+
+## Overview
+
+If you are building anything that touches shipment tracking - an order page, a WISMO deflection flow, a 3PL dashboard - there is a failure mode that does not show up in your tests and shows up constantly in production: two different courier companies with the same name. Not similar. The same. CTT is the Portuguese post (ctt.pt). CTT Express is a Spanish courier (cttexpress.com). Different companies, different networks, different tracking systems. A consignment number issued by one is simply not recognised by the other. If your integration stores carrier: "CTT" as a string and later resolves that string to a tracking URL, you have a coin flip baked into your data model, and the half that loses sends a customer to a page that says their parcel does not exist. It is not a rare shape either. Shippers reuse initialisms heavily: three-letter brands, "Express" suffixes, and local operators that took a name already in use somewhere else. On top of that, a generic word collision is just as damaging for discovery: "247Express" is a real Vietnamese courier operating since 2005, but the string 247 tracking reads to a search engine as round-the-clock tracking , so users looking for the company and users looking for the concept land in the same bucket. Here is what I would do differently, having watched this break. 1. The number is evidence. The name is a label somebody typed. The carrier name on an order usually arrives from one of three places: a dropdown the merchant picked, a shipping method chosen at checkout, or free text in a CSV. None of those is authoritative about who is physically carrying the box. The tracking number , by contrast, is issued by the carrier's own system and carries its format. So resolve carrier from the number pattern first, and treat any stored name as a hint to be overridden - not the other way around. resolveCarrier(order): byShape = matchPattern(order.trackingNumber) # authoritative if byShape: return byShape return normalise(order.carrierName) # fallback, not truth The practical payoff: when a merchant types "CTT" and the number is clearly a Spanish CTT Express pattern, you route correctly anyway. 2. Anchor patterns on prefix and length, or you will cannibalise The tempting rule is a loose one. It is also the one that quietly steals other carriers' parcels: # Don't /^\d{12}$/ -> "FedEx" /^[A-Z]{3}\d+[A-Z]{2}$/ -> "SomeCarrier" A bare twelve digits is not a carrier. It is a length . Several operators issue twelve-digit numbers, and the moment your rule claims them, their parcels get routed to the wrong tracking system and fail - silently, because a failed lookup looks identical to "no data yet". Anchor both ends: # Do /^JCZ\d{10}[A-Z]{2}$/ # prefix + exact digit count + suffix class And before you add a rule, run it against your whole existing corpus and count how many numbers it takes away from a rule that already works. If a new rule rescues 30 unidentified numbers but overrides 120 already-correct ones, it is a regression wearing a feature's clothes. Measure rescue vs clobber, not just precision on the happy path. 3. Do not publish a format you have not measured If you show users "your number looks like XXX", that string had better be true, because people use it to decide whether a number is even the right one. The rule I settled on: only state a format when a single shape accounts for 60% or more of that carrier's numbers in your sample, and say so in the shape, not with a real number. Below that, say nothing. One carrier I looked at recently had a dominant shape at 91% - safe to print. Another had its most common shape at 57%, with the rest of the basket carrying other carriers' prefixes entirely, because merchants had been filing anything into that carrier field. "Eleven digits" would have been a guess dressed as a fact. The honest answer, when the data is mixed, is to say nothing about the format and let the number resolve itself. 4. Never use a real tracking number as the example Obvious when written down, routinely violated in docs and UI copy. A real number identifies a real shipment to a real address, and once it is in your public docs it is in search results. Publish the shape : Three letters, ten digits, two letters (e.g. ABC0000000000XX) not someone's parcel. 5. Carrier must be a correctable field, not a derived constant The last one, and the one that bites cross-border integrations hardest: the company that finally delivers is frequently not the company named at checkout. Cross-border shippers typically carry the parcel out of the origin country and hand the final leg to a local courier or post. That means the correct carrier value for an order can legitimately change after the order record was written, and one shipment can legitimately hold more than one number. If carrier is computed once at insert time and never revisited, every one of those orders ends its life displaying a timeline that stopped a week ago, and your support queue fills with people who think the parcel is lost. It is not. The page ended; the parcel moved on under a different name. The summary, if you only take one thing: names are ambiguous, user-supplied and mutable; number patterns are issued by the system that actually has the parcel. Key on the pattern, keep the name as a correctable hint, and only publish a format you have counted. I work at 24hTrack , a free package tracker that identifies the carrier from the number across 3,200+ carriers - which is exactly why these collisions are my problem rather than a trivia question. Written with AI assistance.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/support24htrack/two-couriers-one-name-why-you-should-key-a-tracking-integration-on-number-shape-not-carrier-name-b68
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
