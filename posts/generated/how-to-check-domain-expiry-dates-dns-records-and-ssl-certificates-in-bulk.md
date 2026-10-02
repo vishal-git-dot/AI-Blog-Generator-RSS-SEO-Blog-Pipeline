@@ -1,0 +1,34 @@
+---
+title: "How to check domain expiry dates, DNS records and SSL certificates in bulk"
+slug: "how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk"
+author: "Hay Equipos"
+source: "devto_webdev"
+published: "Fri, 02 Oct 2026 21:39:23 +0000"
+description: "If you manage more than a handful of domains, you already know the problem. A domain renewal slips, a certificate expires on a Sunday, or a client asks wheth..."
+keywords: "domain, dns, domains, example, ssl, run, you, apify"
+generated: "2026-10-02T22:01:18.332827"
+---
+
+# How to check domain expiry dates, DNS records and SSL certificates in bulk
+
+## Overview
+
+If you manage more than a handful of domains, you already know the problem. A domain renewal slips, a certificate expires on a Sunday, or a client asks whether their DMARC policy is set, and the answer lives in three different places: a WHOIS lookup, a DNS tool and a browser padlock. Checking fifty domains that way takes an afternoon. This guide shows how to get all three answers for a whole list of domains at once, as a spreadsheet, using a small Apify Actor published by Hay Equipos called Domain WHOIS, DNS and SSL Expiry Lookup (RDAP) . What the tool returns You give it domains or full URLs. For each one you get a single row with: Registration data from RDAP (the structured replacement for WHOIS): registrar, registrar IANA ID, abuse contact, created, updated and expiry dates, domain age in days, days until expiry, status codes, name servers and DNSSEC. DNS records: A, AAAA, MX, NS, TXT, CAA, plus the SPF record and the DMARC policy. The SSL certificate from a TLS handshake on port 443: issuer, subject, valid from and to, days left, whether the chain is trusted (with the error code if not) and the names the certificate covers. Here is what a row looks like. The values are illustrative: { "input" : "https://www.example.com/pricing" , "domain" : "example.com" , "host" : "www.example.com" , "success" : true , "rdapStatus" : "ok" , "isRegistered" : true , "registrar" : "Example Registrar, Inc." , "createdAt" : "2012-03-14T10:22:05.000Z" , "expiresAt" : "2027-03-14T10:22:05.000Z" , "domainAgeDays" : 5315 , "daysUntilExpiry" : 163 , "nameservers" : [ "ns1.example-dns.net" , "ns2.example-dns.net" ], "mxRecords" : [ "10 mx1.example-mail.com" ], "dmarcPolicy" : "quarantine" , "hasWebsite" : true , "acceptsEmail" : true , "sslStatus" : "ok" , "sslValid" : true , "sslIssuer" : "Let's Encrypt" , "sslValidTo" : "2026-11-20T08:00:00.000Z" , "sslDaysUntilExpiry" : 49 } URLs and subdomains are fine. The registrable domain is worked out with the public suffix list, so https://www.bbc.co.uk/news is looked up as bbc.co.uk for registration and DNS, while the SSL check uses the exact host www.bbc.co.uk . A domain that is not registered comes back with rdapStatus: "not_found" and isRegistered: false , so the same run doubles as a bulk availability check. Step by step in the Apify Console Open the Actor from its Apify Store page and sign in to Apify Console (a free account works). In the Input tab, paste your domains into Domains or URLs , one per line. You can also paste a list separated by spaces, commas or new lines into Or paste a list , for example a column copied from a spreadsheet. Leave WHOIS (RDAP) , DNS records and SSL certificate switched on, or turn off any check you do not need. Click Start . When the run finishes, open the Output tab and export the dataset as CSV, JSON or Excel. For renewal monitoring, schedule the Actor to run weekly with your domain list, then filter the results on daysUntilExpiry or sslDaysUntilExpiry . How to call it from code With curl, the synchronous endpoint starts a run and returns the rows when it finishes. Keep your token in an environment variable: curl -X POST "https://api.apify.com/v2/acts/pistachio_implementation~domain-whois-dns-ssl-lookup/run-sync-get-dataset-items" \ -H "Authorization: Bearer $APIFY_TOKEN " \ -H "Content-Type: application/json" \ -d '{"domains": ["example.com", "example.org"], "whois": true, "dns": true, "ssl": true}' In Python, with the apify-client package ( pip install apify-client ): import os from apify_client import ApifyClient client = ApifyClient ( os . environ [ " APIFY_TOKEN " ]) run = client . actor ( " pistachio_implementation/domain-whois-dns-ssl-lookup " ). call ( run_input = { " domains " : [ " example.com " , " example.org " ]} ) for row in client . dataset ( run [ " defaultDatasetId " ]). iterate_items (): print ( row [ " domain " ], row . get ( " daysUntilExpiry " ), row . get ( " sslDaysUntilExpiry " )) The synchronous curl endpoint is best for short lists. For thousands of domains, use the Python client, which waits for the run to finish however long it takes. Pricing The Actor uses pay per event pricing: $0.0015 per domain looked up, which is $1.50 per 1,000 domains , with registration, DNS and SSL checks all included. There is no start fee and no platform usage charge on top. A domain is charged when at least one source returned facts about it. Invalid input and domains where every source failed come back as free error rows. You can cap the spend of any run with the maximum charge setting in Apify. Limits and what it does not do No registrant data. Owner names, emails, phone numbers and addresses are never collected, even where a registry still shows them. You get registrar, dates, status and name servers only. Some country registries have no RDAP service , for example .de . For those, rdapStatus is no_rdap_server and the registration fields are empty, while DNS and SSL still work and the row is still one charge. Registries rate limit RDAP. The Actor keeps to about one request every 0.7 seconds per registry, so 1,000 .com domains take roughly 12 to 25 minutes. Lists that mix many endings run faster. The SSL check only looks at port 443 of the host you give. Sites without HTTPS show sslStatus: "error" . Some registries do not publish a creation date , so domainAgeDays can be empty. The Actor does not guess. Up to 20,000 domains per run. It does not scrape any website, and it does not tell you who owns a domain. Registries and DNS providers publish this data under their own terms, so use the results in line with those terms. Try it on the Apify Store: https://apify.com/pistachio_implementation/domain-whois-dns-ssl-lookup
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/hay_equipos/how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk-3hh3
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

@@ -4071,6 +4071,17 @@
         "file": "ai-agent-guidelines-for-cs336-at-stanford.md"
     },
     {
+        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "slug": "open-sourcing-astabrief-the-fast-report-generation-model-in-asta",
+        "author": "malshe",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 21:25:25 +0000",
+        "description": "Article URL: https://allenai.org/blog/astabrief Comments URL: https://news.ycombinator.com/item?id=49938783 Points: 3 # Comments: 0",
+        "keywords": "astabrief, url, https, comments, open, sourcing, fast, report",
+        "generated": "2026-10-02T22:01:18.328654",
+        "file": "open-sourcing-astabrief-the-fast-report-generation-model-in-asta.md"
+    },
+    {
         "title": "The Meeting That Became a Nervous System",
         "slug": "the-meeting-that-became-a-nervous-system",
         "author": "Masato　Kato",
@@ -8711,6 +8722,17 @@
         "file": "cbp-suspends-all-personal-prescription-importation-oct-22.md"
     },
     {
+        "title": "Build a Durable Chargeback Review Workflow on Telnyx Edge",
+        "slug": "build-a-durable-chargeback-review-workflow-on-telnyx-edge",
+        "author": "Sonam Gupta",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 21:43:49 +0000",
+        "description": "A chargeback is not a single API request. It is a case that can remain open for days while evidence arrives, deadlines approach, and a reviewer decides what ...",
+        "keywords": "evidence, decision, telnyx, chargeback, actor, case, models, webhook",
+        "generated": "2026-10-02T22:01:18.333810",
+        "file": "build-a-durable-chargeback-review-workflow-on-telnyx-edge.md"
+    },
+    {
         "title": "The Golden Rule for Becoming a Better Writer",
         "slug": "the-golden-rule-for-becoming-a-better-writer",
         "author": "andsoitis",
@@ -9217,6 +9239,17 @@
         "file": "ten-thousand-payments-zero-invoices-the-ai-agent-reconciliation-problem.md"
     },
     {
+        "title": "How to check domain expiry dates, DNS records and SSL certificates in bulk",
+        "slug": "how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk",
+        "author": "Hay Equipos",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 21:39:23 +0000",
+        "description": "If you manage more than a handful of domains, you already know the problem. A domain renewal slips, a certificate expires on a Sunday, or a client asks wheth...",
+        "keywords": "domain, dns, domains, example, ssl, run, you, apify",
+        "generated": "2026-10-02T22:01:18.332827",
+        "file": "how-to-check-domain-expiry-dates-dns-records-and-ssl-certificates-in-bulk.md"
+    },
+    {
         "title": "iOS 27, iPadOS 27, and macOS 27",
         "slug": "ios-27-ipados-27-and-macos-27",
         "author": "throw0101d",
@@ -9314,6 +9347,17 @@
         "keywords": "source, cleanup, image, delivery, one, asset, before, derivative",
         "generated": "2026-09-09T04:06:24.347716",
         "file": "merchant-menu-photos-background-cleanup-lifecycle-validation-and-final-compression.md"
+    },
+    {
+        "title": "How to export Redfin for sale and sold home listings to a spreadsheet",
+        "slug": "how-to-export-redfin-for-sale-and-sold-home-listings-to-a-spreadsheet",
+        "author": "Hay Equipos",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 21:52:43 +0000",
+        "description": "You are running comps for a property, tracking a market as an investor, or building a proptech prototype, and you need the homes in a ZIP code as rows in a s...",
+        "keywords": "redfin, sold, home, sale, homes, apify, listings, price",
+        "generated": "2026-10-02T22:01:18.329610",
+        "file": "how-to-export-redfin-for-sale-and-sold-home-listings-to-a-spreadsheet.md"
     },
     {
         "title": "StreetComplete on iOS is now in public beta",
@@ -9430,10 +9474,10 @@
         "slug": "how-to-use-ai-for-smart-contract-audits-in-2026",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sun, 27 Sep 2026 11:38:29 +0000",
-        "description": "By 2026, the paradigm of smart contract security has shifted from manual line-by-line review to AI-augmented vulnerability orchestration. As decentralized fi...",
-        "keywords": "security, contract, line, vulnerability, human, audit, const, vulnerabilities",
-        "generated": "2026-09-27T11:46:32.765095",
+        "published": "Fri, 02 Oct 2026 21:56:04 +0000",
+        "description": "In 2026, the landscape of blockchain security has shifted dramatically. Legacy static analysis tools, while still useful for basic syntax checks, are insuffi...",
+        "keywords": "issue, line, json, response, contract, api, headers, print",
+        "generated": "2026-10-02T22:01:18.333017",
         "file": "how-to-use-ai-for-smart-contract-audits-in-2026.md"
     },
     {
@@ -16389,6 +16433,17 @@
         "file": "uber-shuts-operations-in-nigeria-and-uganda-with-immediate-effect.md"
     },
     {
+        "title": "Building a Pay-As-You-Go WhatsApp OTP Gateway (Bypass Business Verification)",
+        "slug": "building-a-pay-as-you-go-whatsapp-otp-gateway-bypass-business-verification",
+        "author": "MUHAMMAD WAKEEL",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 21:51:04 +0000",
+        "description": "When developers build authentication and 2FA workflows, integrating the WhatsApp API can become an absolute nightmare. Lengthy Meta onboarding, third-party a...",
+        "keywords": "otp, api, your, meta, backend, instant, you, gateway",
+        "generated": "2026-10-02T22:01:18.331557",
+        "file": "building-a-pay-as-you-go-whatsapp-otp-gateway-bypass-business-verification.md"
+    },
+    {
         "title": "Deep Dive: Snorkel AI's $350M Fundraising and Its…",
         "slug": "deep-dive-snorkel-ais-350m-fundraising-and-its",
         "author": "Norvik Tech",
@@ -19421,6 +19476,17 @@
         "keywords": "every, game, round, code, can, which, fix, board",
         "generated": "2026-09-16T21:07:02.237811",
         "file": "three-bugs-that-survived-every-automated-check-and-how-line-by-line-review-caught-them.md"
+    },
+    {
+        "title": "26 reviewer agents out of 27 approved a test that can never fail again",
+        "slug": "26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again",
+        "author": "Remdore",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 21:39:00 +0000",
+        "description": "The software factory pitch has a comforting shape to it. Agents write the code, agents review the code, agents run the tests, and the loop corrects itself be...",
+        "keywords": "test, not, reviewer, because, would, three, you, every",
+        "generated": "2026-10-02T22:01:18.334920",
+        "file": "26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again.md"
     },
     {
         "title": "Implement Welcome Email Suppression: 7 API Checks for Recipient Safety",
@@ -39883,6 +39949,17 @@
         "file": "local-vs-hosted-llms-the-decision-framework.md"
     },
     {
+        "title": "Zig v0.17.0",
+        "slug": "zig-v0170",
+        "author": "ErenayDev",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 20:56:36 +0000",
+        "description": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html Comments URL: https://news.ycombinator.com/item?id=49938521 Points: 85 # Comments: 36",
+        "keywords": "url, https, comments, zig, article, ziglang, org, download",
+        "generated": "2026-10-02T22:01:18.328943",
+        "file": "zig-v0170.md"
+    },
+    {
         "title": "React Mastery Series – Day 15: React Performance Optimization – Understanding useCallback and React.memo",
         "slug": "react-mastery-series-day-15-react-performance-optimization-understanding-usecallback-and-reactmemo",
         "author": "Siva Samanthapudi",
@@ -41285,6 +41362,17 @@
         "keywords": "interior, design, planning, hyderabad, designers, interiors, visualization, digital",
         "generated": "2026-08-20T12:58:10.478689",
         "file": "top-interior-designers-in-hyderabad-with-ai.md"
+    },
+    {
+        "title": "A Small Windows Workflow for Switching Your Own Codex Profiles",
+        "slug": "a-small-windows-workflow-for-switching-your-own-codex-profiles",
+        "author": "MisterSa",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 21:54:12 +0000",
+        "description": "When a development workflow involves more than one personal Codex/OpenAI profile session, repeating local setup steps can become distracting. I built CodeX S...",
+        "keywords": "codex, local, windows, own, sessions, backup, not, workflow",
+        "generated": "2026-10-02T22:01:18.333280",
+        "file": "a-small-windows-workflow-for-switching-your-own-codex-profiles.md"
     },
     {
         "title": "Troubleshooting Deep Reasoning Issues: A Comprehensive Guide",
@@ -47929,6 +48017,17 @@
         "file": "azure-event-hubs-functions-event-driven-data-on-azure.md"
     },
     {
+        "title": "How to scrape product prices, stock and GTIN from any online store",
+        "slug": "how-to-scrape-product-prices-stock-and-gtin-from-any-online-store",
+        "author": "Hay Equipos",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 21:52:07 +0000",
+        "description": "You have a list of product pages from competitors, suppliers or resellers, and you need the price, the stock status and the barcode for each one in a spreads...",
+        "keywords": "product, page, store, price, data, item, pages, status",
+        "generated": "2026-10-02T22:01:18.330015",
+        "file": "how-to-scrape-product-prices-stock-and-gtin-from-any-online-store.md"
+    },
+    {
         "title": "Claude Sonnet 5",
         "slug": "claude-sonnet-5",
         "author": "marinesebastian",
@@ -53790,6 +53889,17 @@
         "file": "how-ai-fire-and-smoke-detection-systems-protect-manufacturing-facilities.md"
     },
     {
+        "title": "How to get Kalshi and Polymarket odds and price history in one spreadsheet",
+        "slug": "how-to-get-kalshi-and-polymarket-odds-and-price-history-in-one-spreadsheet",
+        "author": "Hay Equipos",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 21:46:20 +0000",
+        "description": "Prediction markets put a live price on questions like rate decisions, inflation prints, elections and the weather. If you are building a dashboard, a researc...",
+        "keywords": "kalshi, markets, polymarket, price, apify, data, market, run",
+        "generated": "2026-10-02T22:01:18.330397",
+        "file": "how-to-get-kalshi-and-polymarket-odds-and-price-history-in-one-spreadsheet.md"
+    },
+    {
         "title": "Wan AI 3.0 API Tutorial: Use Alibaba Wan 3.0 on AIHubMix",
         "slug": "wan-ai-30-api-tutorial-use-alibaba-wan-30-on-aihubmix",
         "author": "AIHubMix",
@@ -54074,6 +54184,17 @@
         "keywords": "url, https, com, comments, subquery, pushdown, faster, tpc",
         "generated": "2026-08-12T02:22:46.154966",
         "file": "pgclickhouse-v010-subquery-pushdown-and-1000x-faster-tpc-h-queries.md"
+    },
+    {
+        "title": "From APIs to AI Agents: How My Skills Apply to Today’s Software World",
+        "slug": "from-apis-to-ai-agents-how-my-skills-apply-to-todays-software-world",
+        "author": "Toluwaloju Kayode",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 21:48:30 +0000",
+        "description": "I’ve spent the past few years learning by building. Rather than limiting myself to one area of software development, I’ve explored backend engineering, front...",
+        "keywords": "cybersecurity, software, development, can, apis, how, building, databases",
+        "generated": "2026-10-02T22:01:18.331952",
+        "file": "from-apis-to-ai-agents-how-my-skills-apply-to-todays-software-world.md"
     },
     {
         "title": "Affordable $2,000 Crypto Loans in USA With Secure Processing",
@@ -55856,6 +55977,17 @@
         "keywords": "nativ, url, https, comments, run, frontier, open, models",
         "generated": "2026-07-20T19:49:00.043772",
         "file": "nativ-run-frontier-open-models-locally-on-your-mac.md"
+    },
+    {
+        "title": "How to run an on page SEO audit for a list of URLs",
+        "slug": "how-to-run-an-on-page-seo-audit-for-a-list-of-urls",
+        "author": "Hay Equipos",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 21:45:45 +0000",
+        "description": "Checking titles, meta descriptions, headings, canonicals and noindex tags page by page in a browser is fine for one landing page. For a site with two hundred...",
+        "keywords": "page, per, run, site, pages, one, audit, https",
+        "generated": "2026-10-02T22:01:18.330799",
+        "file": "how-to-run-an-on-page-seo-audit-for-a-list-of-urls.md"
     },
     {
         "title": "Is AI Replacing Personal Assistants? Insights for CTOs and Tech Managers",
@@ -61501,6 +61633,17 @@
         "file": "metas-blockbuster-trial-draws-parallels-to-big-tobacco.md"
     },
     {
+        "title": "The Harness Is the Company",
+        "slug": "the-harness-is-the-company",
+        "author": "iacguy",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 21:06:56 +0000",
+        "description": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company Comments URL: https://news.ycombinator.com/item?id=49938616 Points: 7 # Comments: 0",
+        "keywords": "harness, company, url, https, comments, article, blog, sshh",
+        "generated": "2026-10-02T22:01:18.328830",
+        "file": "the-harness-is-the-company.md"
+    },
+    {
         "title": "A simple readiness checklist before you let an AI agent touch production",
         "slug": "a-simple-readiness-checklist-before-you-let-an-ai-agent-touch-production",
         "author": "AsterXing",
@@ -61941,6 +62084,17 @@
         "file": "redis-mcp-connect-your-ai-agent-to-your-database.md"
     },
     {
+        "title": "Why a five-character room code beats accounts for a party game",
+        "slug": "why-a-five-character-room-code-beats-accounts-for-a-party-game",
+        "author": "Ahmed Moaz",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 21:51:24 +0000",
+        "description": "When I started building a site for playing board games with friends, the obvious design was accounts: sign up, add friends, send invites. I dropped almost al...",
+        "keywords": "code, you, room, accounts, five, what, people, can",
+        "generated": "2026-10-02T22:01:18.331368",
+        "file": "why-a-five-character-room-code-beats-accounts-for-a-party-game.md"
+    },
+    {
         "title": "Automating Health Insurance Claim Adjudication: Building a Neuro-Symbolic Engine",
         "slug": "automating-health-insurance-claim-adjudication-building-a-neuro-symbolic-engine",
         "author": "sharma-sugurthi",
@@ -62247,6 +62401,17 @@
         "keywords": "words, anomaly, count, must, weighted, localized, small, score",
         "generated": "2026-06-11T16:13:08.009598",
         "file": "title-ai-powered-early-warning-stopping-trichoderma-outbreaks-in-small-scale-mushroom-farms.md"
+    },
+    {
+        "title": "Everyone's Packing Up",
+        "slug": "everyones-packing-up",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 20:13:04 +0000",
+        "description": "Article URL: https://widdershins.verja.net/everyones-packing-up/ Comments URL: https://news.ycombinator.com/item?id=49938047 Points: 63 # Comments: 33",
+        "keywords": "packing, url, https, comments, everyone, article, widdershins, verja",
+        "generated": "2026-10-02T22:01:18.329046",
+        "file": "everyones-packing-up.md"
     },
     {
         "title": "Debugging an LLM Agent That Wouldn't Stop Clicking: A Postmortem",
@@ -63413,6 +63578,17 @@
         "keywords": "reviews, yelp, elite, business, your, customers, can, online",
         "generated": "2026-06-13T19:44:24.809298",
         "file": "buy-elite-yelp-reviews-trusted-affordable-services.md"
+    },
+    {
+        "title": "Moderating Spoken Content Explained (Why Support Teams Transcribe Text First)",
+        "slug": "moderating-spoken-content-explained-why-support-teams-transcribe-text-first",
+        "author": "FrostY45",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 21:39:58 +0000",
+        "description": "Transcribe spoken support requests first, validate the transcript and its provenance, and only then submit text for moderation. The important trade-off is la...",
+        "keywords": "decision, transcript, text, string, context, policy, ctx, audio",
+        "generated": "2026-10-02T22:01:18.334375",
+        "file": "moderating-spoken-content-explained-why-support-teams-transcribe-text-first.md"
     },
     {
         "title": "How to Use Claude Code Hooks (Turn Rules Into Guarantees)",
@@ -91871,6 +92047,17 @@
         "file": "why-getting-your-hands-dirty-is-good-for-you.md"
     },
     {
+        "title": "How to clean an email list and remove invalid addresses before sending",
+        "slug": "how-to-clean-an-email-list-and-remove-invalid-addresses-before-sending",
+        "author": "Hay Equipos",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 21:39:58 +0000",
+        "description": "Every bounced email costs you a little sender reputation, and a list exported from a form, a CRM or an old spreadsheet is full of addresses that will bounce:...",
+        "keywords": "domain, you, not, email, apify, com, run, verdict",
+        "generated": "2026-10-02T22:01:18.331165",
+        "file": "how-to-clean-an-email-list-and-remove-invalid-addresses-before-sending.md"
+    },
+    {
         "title": "Harnessing Tomorrow: A Look at Innovative AI Classes in Ahmedabad for a Future-Ready Career",
         "slug": "harnessing-tomorrow-a-look-at-innovative-ai-classes-in-ahmedabad-for-a-future-ready-career",
         "author": "Lmt Lmt",
@@ -92399,6 +92586,17 @@
         "file": "introducing-aes-encryption-a-quick-tour.md"
     },
     {
+        "title": "Show HN: Made an open-source Lego AI generator",
+        "slug": "show-hn-made-an-open-source-lego-ai-generator",
+        "author": "antelocnova",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 20:00:15 +0000",
+        "description": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw ...",
+        "keywords": "lego, ldraw, source, models, one, claude, generate, language",
+        "generated": "2026-10-02T22:01:18.329215",
+        "file": "show-hn-made-an-open-source-lego-ai-generator.md"
+    },
+    {
         "title": "Why I Built a Python Catch-up for Experienced Engineers",
         "slug": "why-i-built-a-python-catch-up-for-experienced-engineers",
         "author": "fulldump",
@@ -92419,6 +92617,17 @@
         "keywords": "synopsys, gpt, frontier, intelligence, revolutionize, chip, design, url",
         "generated": "2026-10-01T12:50:17.619318",
         "file": "gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design.md"
+    },
+    {
+        "title": "How to hire a freelance web developer in the Dominican Republic",
+        "slug": "how-to-hire-a-freelance-web-developer-in-the-dominican-republic",
+        "author": "Jonás Javier Encarnación",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 21:45:36 +0000",
+        "description": "Every so often I hear from someone who's already had a bad experience: they paid for a website or a system, got something half finished, and now they have ne...",
+        "keywords": "you, what, can, they, your, domain, before, one",
+        "generated": "2026-10-02T22:01:18.332453",
+        "file": "how-to-hire-a-freelance-web-developer-in-the-dominican-republic.md"
     },
     {
         "title": "CareerPilot AI:AI Resume Analyzer",
