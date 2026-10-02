@@ -9228,6 +9228,17 @@
         "file": "ios-27-ipados-27-and-macos-27.md"
     },
     {
+        "title": "DeepSeek Harness Desktop for macOS and Windows",
+        "slug": "deepseek-harness-desktop-for-macos-and-windows",
+        "author": "Kuyawa",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+        "description": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 262 # Comments: 131",
+        "keywords": "deepseek, harness, url, https, com, comments, desktop, macos",
+        "generated": "2026-10-02T12:13:45.780975",
+        "file": "deepseek-harness-desktop-for-macos-and-windows.md"
+    },
+    {
         "title": "git worktree でコーディングエージェントを並列実行する開発環境の作り方",
         "slug": "git-worktree",
         "author": "orca_forge",
@@ -11406,6 +11417,17 @@
         "file": "launched-a-free-dsgvo-compliance-scanner-scanned-200-sites-73-had-violations.md"
     },
     {
+        "title": "J'ai audité mon propre site sur les 106 critères du RGAA : ce que l'outil trouve seul, et ce qu'il rate",
+        "slug": "jai-audit-mon-propre-site-sur-les-106-critres-du-rgaa-ce-que-loutil-trouve-seul-et-ce-quil-rate",
+        "author": "Charly Duguey",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 12:07:38 +0000",
+        "description": "En bref : j'ai audité mon site sur les 106 critères du RGAA. 71 applicables, 71 conformes. Mais un script ne juge que 24 critères sur 106, et le chiffre ne v...",
+        "keywords": "sur, les, site, pas, des, par, audit, une",
+        "generated": "2026-10-02T12:13:45.784421",
+        "file": "jai-audit-mon-propre-site-sur-les-106-critres-du-rgaa-ce-que-loutil-trouve-seul-et-ce-quil-rate.md"
+    },
+    {
         "title": "Who manages the agents?",
         "slug": "who-manages-the-agents",
         "author": "GavCo",
@@ -12524,7 +12546,7 @@
         "published": "Fri, 02 Oct 2026 01:56:52 +0000",
         "description": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/ite...",
         "keywords": "how, singapore, government, run, dating, service, works, url",
-        "generated": "2026-10-02T05:02:05.612286",
+        "generated": "2026-10-02T12:13:45.781027",
         "file": "how-singapores-government-run-dating-service-works.md"
     },
     {
@@ -18510,6 +18532,17 @@
         "file": "ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news.md"
     },
     {
+        "title": "Stop Parsing LLM Output: I Built a Routing Pipeline on a Decision-Only Model",
+        "slug": "stop-parsing-llm-output-i-built-a-routing-pipeline-on-a-decision-only-model",
+        "author": "Abdulsalam Abdulsalam",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 12:07:15 +0000",
+        "description": "Every LLM tutorial ends the same way. You get back a blob of text, and now you have to parse it. You beg the model for JSON. It hands you JSON wrapped in an ...",
+        "keywords": "you, model, billing, route, code, system, type, json",
+        "generated": "2026-10-02T12:13:45.781768",
+        "file": "stop-parsing-llm-output-i-built-a-routing-pipeline-on-a-decision-only-model.md"
+    },
+    {
         "title": "Spark Connect: Decoupled Client-Server Architecture, gRPC & Multi-Language Sessions",
         "slug": "spark-connect-decoupled-client-server-architecture-grpc-multi-language-sessions",
         "author": "Gowtham Potureddi",
@@ -19212,6 +19245,17 @@
         "keywords": "thousands, documents, query, chat, not, right, way, everything",
         "generated": "2026-06-24T14:43:41.342069",
         "file": "the-right-way-to-chat-with-thousands-of-documents.md"
+    },
+    {
+        "title": "Custom Packaging Proofs Explained: PDF vs. Physical Structural Samples for Print Accuracy",
+        "slug": "custom-packaging-proofs-explained-pdf-vs-physical-structural-samples-for-print-accuracy",
+        "author": "Henry",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 11:45:25 +0000",
+        "description": "Vegetable-based inks in box printing utilize bio-based carriers—such as soybean, linseed, canola, or tung oil—to drastically reduce Volatile Organic Compound...",
+        "keywords": "based, vegetable, inks, ink, petroleum, oil, packaging, printing",
+        "generated": "2026-10-02T12:13:45.784016",
+        "file": "custom-packaging-proofs-explained-pdf-vs-physical-structural-samples-for-print-accuracy.md"
     },
     {
         "title": "First Look: Anthropic Claude Code Gains Fully-Local Persistent Session Memory via Recall",
@@ -27572,6 +27616,17 @@
         "file": "zx-spectrum-experimenting-with-1-bit-sound.md"
     },
     {
+        "title": "Building a retry-safe file processing API: estimates, idempotency and signed webhooks",
+        "slug": "building-a-retry-safe-file-processing-api-estimates-idempotency-and-signed-webhooks",
+        "author": "Skavio",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 11:14:18 +0000",
+        "description": "The hard part of a processing API is usually not the first successful request. It is everything that happens after retries, timeouts, duplicate submissions, ...",
+        "keywords": "skavio, api, https, processing, www, job, before, jobs",
+        "generated": "2026-10-02T12:13:45.782411",
+        "file": "building-a-retry-safe-file-processing-api-estimates-idempotency-and-signed-webhooks.md"
+    },
+    {
         "title": "NSF pilots 4-year PhDs with industry research placements",
         "slug": "nsf-pilots-4-year-phds-with-industry-research-placements",
         "author": "osnium123",
@@ -29748,6 +29803,17 @@
         "keywords": "pdf, url, https, comments, navier, stokes, tristan, buckmaster",
         "generated": "2026-09-08T10:58:23.960270",
         "file": "navier-stokes-tristan-buckmaster-pdf.md"
+    },
+    {
+        "title": "Why an API works in curl but fails at the browser preflight",
+        "slug": "why-an-api-works-in-curl-but-fails-at-the-browser-preflight",
+        "author": "Arthur031221",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 12:07:01 +0000",
+        "description": "I have seen a request work in curl and fail before the browser sends the same POST. The difference can be an OPTIONS preflight. The browser asks whether the ...",
+        "keywords": "request, browser, origin, preflight, options, headers, post, names",
+        "generated": "2026-10-02T12:13:45.784528",
+        "file": "why-an-api-works-in-curl-but-fails-at-the-browser-preflight.md"
     },
     {
         "title": "How to add uptime monitoring to your Python Flask app (free, multi-region)",
@@ -34051,6 +34117,17 @@
         "file": "i-built-a-personal-paper-engine-to-stop-losing-research-papers.md"
     },
     {
+        "title": "Shimano Bicycle Museum Review",
+        "slug": "shimano-bicycle-museum-review",
+        "author": "pietroppeter",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+        "description": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 144 # Comments: 24",
+        "keywords": "shimano, bicycle, museum, url, https, com, comments, review",
+        "generated": "2026-10-02T12:13:45.780921",
+        "file": "shimano-bicycle-museum-review.md"
+    },
+    {
         "title": "I built a detector for invisible records on Monday. On Tuesday it caught me, three times",
         "slug": "i-built-a-detector-for-invisible-records-on-monday-on-tuesday-it-caught-me-three-times",
         "author": "Blueticks",
@@ -38257,6 +38334,17 @@
         "file": "screen-repair-service-of-samsung-a90-mobile-phone.md"
     },
     {
+        "title": "GitHub Issues as the Only Database: Running Coding CLIs Unattended Without a Server",
+        "slug": "github-issues-as-the-only-database-running-coding-clis-unattended-without-a-server",
+        "author": "Hiroshi Toyama",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 12:11:55 +0000",
+        "description": "Every headless coding CLI has the same shape: you hand it a prompt, it works, it exits, and it forgets everything. claude -p , codex exec , cursor-agent -p —...",
+        "keywords": "issue, you, run, one, state, ghswarm, not, status",
+        "generated": "2026-10-02T12:13:45.781432",
+        "file": "github-issues-as-the-only-database-running-coding-clis-unattended-without-a-server.md"
+    },
+    {
         "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
         "slug": "introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
         "author": "tech_minimalist",
@@ -41362,6 +41450,17 @@
         "keywords": "rag, you, faiss, chimerai, index, api, context, one",
         "generated": "2026-09-29T12:30:40.039618",
         "file": "a-rag-system-in-one-command-what-chimerai-add-rag-actually-wires-up.md"
+    },
+    {
+        "title": "Your file names aren't corrupt. They're just being read in the wrong alphabet.",
+        "slug": "your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet",
+        "author": "LIN",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 11:57:24 +0000",
+        "description": "You open a ZIP that came from a colleague and this is what's inside: Ø§Ù„ØµÙˆØ±Ø©.jpg ØªÙ‚Ø±ÙŠØ± Ù†Ù‡Ø§Ø¦ÙŠ.pdf IÅŸÄ±k.txt The files open fine. The photo is ...",
+        "keywords": "const, bytes, windows, you, arabic, name, new, label",
+        "generated": "2026-10-02T12:13:45.783389",
+        "file": "your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet.md"
     },
     {
         "title": "Finder Was My Project Manager. Here's Why I Built Something Better.",
@@ -46367,6 +46466,17 @@
         "file": "i-run-1000-agents-in-production-heres-what-i-learned-about-reliability.md"
     },
     {
+        "title": "FastAPI: emails de prueba con un buzón por ejecución",
+        "slug": "fastapi-emails-de-prueba-con-un-buzn-por-ejecucin",
+        "author": "Olivia Cheng",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 11:23:25 +0000",
+        "description": "Cuando una API envía un email de verificación, el test suele parecer sencillo: crear usuario, esperar el mensaje y abrir el enlace. El problema aparece cuand...",
+        "keywords": "una, que, test, puede, con, mensaje, del, para",
+        "generated": "2026-10-02T12:13:45.781983",
+        "file": "fastapi-emails-de-prueba-con-un-buzn-por-ejecucin.md"
+    },
+    {
         "title": "Do You Need a B2B CRO Consultant? Signs Your Performance is Lagging",
         "slug": "do-you-need-a-b2b-cro-consultant-signs-your-performance-is-lagging",
         "author": "ProDigital360",
@@ -48598,6 +48708,17 @@
         "keywords": "you, model, your, prompt, system, anthropic, client, openai",
         "generated": "2026-07-01T20:03:10.703180",
         "file": "llm-cost-optimization-cutting-inference-bills-without-killing-quality.md"
+    },
+    {
+        "title": "Log Safety Events, Not Full Transcripts: One Audit Trade-Off",
+        "slug": "log-safety-events-not-full-transcripts-one-audit-trade-off",
+        "author": "Basavaraj SH",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 12:10:48 +0000",
+        "description": "The FTC's inquiry into consumer AI products has turned a question most teams deferred into a launch requirement: can you show what your product actually did?...",
+        "keywords": "you, what, your, safety, not, which, can, event",
+        "generated": "2026-10-02T12:13:45.784168",
+        "file": "log-safety-events-not-full-transcripts-one-audit-trade-off.md"
     },
     {
         "title": "🚀 Oreste AI — Assistente vocale web costruito con HTML, CSS e JavaScript",
@@ -58872,6 +58993,17 @@
         "file": "how-to-manage-track-changes-in-word-with-python.md"
     },
     {
+        "title": "The Best Cosmetic Box Packaging Trends: Tactile Engineering, Mono-Material Eco-Luxury, and Interactive Unboxing",
+        "slug": "the-best-cosmetic-box-packaging-trends-tactile-engineering-mono-material-eco-luxury-and-interactive-unboxing",
+        "author": "Henry",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 12:00:14 +0000",
+        "description": "The single biggest overarching trend in cosmetic box packaging is the definitive shift from purely visual graphics to tactile, sustainable, and interactive m...",
+        "keywords": "packaging, high, box, paperboard, tactile, beauty, structural, cosmetic",
+        "generated": "2026-10-02T12:13:45.782927",
+        "file": "the-best-cosmetic-box-packaging-trends-tactile-engineering-mono-material-eco-luxury-and-interactive-unboxing.md"
+    },
+    {
         "title": "A free, embeddable Amazon DE listing-compliance checker (2 lines of HTML)",
         "slug": "a-free-embeddable-amazon-de-listing-compliance-checker-2-lines-of-html",
         "author": "hayasaka1712",
@@ -59266,6 +59398,17 @@
         "keywords": "storage, inference, selection, cache, measured, mingxin, pcie, performance",
         "generated": "2026-08-07T07:23:56.538453",
         "file": "storage-selection-strategy-for-inference-in-domestic-ai-computing-centers.md"
+    },
+    {
+        "title": "Two-photo inputs beat a blank prompt: building Hotel Lobby AI with Next.js",
+        "slug": "two-photo-inputs-beat-a-blank-prompt-building-hotel-lobby-ai-with-nextjs",
+        "author": "zhifen zhu",
+        "source": "devto_ai",
+        "published": "Fri, 02 Oct 2026 12:10:36 +0000",
+        "description": "I built Hotel Lobby AI , a focused tool that turns two separate photos into an orange-booth rap duo video with generated audio. Here are a few implementation...",
+        "keywords": "two, photo, separate, file, preview, use, hotel, lobby",
+        "generated": "2026-10-02T12:13:45.784277",
+        "file": "two-photo-inputs-beat-a-blank-prompt-building-hotel-lobby-ai-with-nextjs.md"
     },
     {
         "title": "10 Best Companies to Hire MVP Developers in 2026",
@@ -64724,6 +64867,17 @@
         "file": "my-ai-feature-was-dead-for-a-day-the-metric-said-it-was-working.md"
     },
     {
+        "title": "hii",
+        "slug": "hii",
+        "author": "Mohammad Oves",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 12:00:13 +0000",
+        "description": "hello everyone",
+        "keywords": "hii, hello, everyone",
+        "generated": "2026-10-02T12:13:45.782998",
+        "file": "hii.md"
+    },
+    {
         "title": "OverpAId – Fire your CEO. Hire the future",
         "slug": "overpaid-fire-your-ceo-hire-the-future",
         "author": "ignaloidas",
@@ -68794,6 +68948,17 @@
         "file": "code-challenge-of-the-day-count-words-easy.md"
     },
     {
+        "title": "Your 2026 Dev.to Masterclass: Syndicating Technical Content for DevRel Outreach &amp; Canonical Backlink Mastery",
+        "slug": "your-2026-devto-masterclass-syndicating-technical-content-for-devrel-outreach-amp-canonical-backlink-mastery",
+        "author": "Baba Yaga",
+        "source": "devto_webdev",
+        "published": "Fri, 02 Oct 2026 11:54:47 +0000",
+        "description": "Your 2026 Dev.to Masterclass: Syndicating Technical Content for DevRel Outreach & Canonical Backlink Mastery Original Engineering Publication: Your 2026 Dev....",
+        "keywords": "your, content, technical, devrel, outreach, dev, masterclass, backlink",
+        "generated": "2026-10-02T12:13:45.783519",
+        "file": "your-2026-devto-masterclass-syndicating-technical-content-for-devrel-outreach-amp-canonical-backlink-mastery.md"
+    },
+    {
         "title": "JetZero",
         "slug": "jetzero",
         "author": "lisper",
@@ -72054,10 +72219,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Wed, 30 Sep 2026 12:07:13 +0000",
-        "description": "Integrating artificial intelligence into cryptocurrency trading strategies has shifted from experimental curiosity to essential infrastructure. By 2026, the ...",
-        "keywords": "data, signal, confidence, api, action, building, crypto, bot",
-        "generated": "2026-09-30T12:15:50.064394",
+        "published": "Fri, 02 Oct 2026 12:06:39 +0000",
+        "description": "By 2026, the barrier to entry for building an automated crypto signal bot has shifted from complex statistical modeling to sophisticated orchestration of Lar...",
+        "keywords": "data, signal, ccxt, bot, apis, market, sentiment, technical",
+        "generated": "2026-10-02T12:13:45.784642",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -79222,6 +79387,17 @@
         "file": "building-a-self-hosted-mlops-platform-from-scratch-with-fastapi-postgresql-gcs-and-docker.md"
     },
     {
+        "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+        "slug": "why-media-fans-want-to-escape-algorithms-with-cds-dvds-and-vinyl",
+        "author": "beardyw",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 10:50:08 +0000",
+        "description": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl Comments URL: https://news.ycombinator.com...",
+        "keywords": "media, fans, algorithms, cds, dvds, vinyl, url, https",
+        "generated": "2026-10-02T12:13:45.780722",
+        "file": "why-media-fans-want-to-escape-algorithms-with-cds-dvds-and-vinyl.md"
+    },
+    {
         "title": "Buy Verified Chime Accounts: Top 5 Verified & Safe Options",
         "slug": "buy-verified-chime-accounts-top-5-verified-safe-options",
         "author": "dover",
@@ -86008,6 +86184,17 @@
         "keywords": "not, test, you, fail, agent, honest, cwd, node",
         "generated": "2026-09-16T04:17:07.150406",
         "file": "ask-for-a-real-no-in-the-first-fifteen-minutes.md"
+    },
+    {
+        "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+        "slug": "show-hn-audionaut-an-open-source-cross-platform-multitrack-audio-editor",
+        "author": "vltmrkls",
+        "source": "hackernews",
+        "published": "Fri, 02 Oct 2026 08:05:48 +0000",
+        "description": "Article URL: https://github.com/kvoltmer/Audionaut Comments URL: https://news.ycombinator.com/item?id=49931031 Points: 32 # Comments: 9",
+        "keywords": "audionaut, url, https, com, comments, show, open, source",
+        "generated": "2026-10-02T12:13:45.780853",
+        "file": "show-hn-audionaut-an-open-source-cross-platform-multitrack-audio-editor.md"
     },
     {
         "title": "Qatar vs Canada: SOCCER Preview & Picks",
@@ -93893,6 +94080,17 @@
         "keywords": "url, https, comments, implications, linguistic, illegibility, llm, security",
         "generated": "2026-09-18T20:42:06.198285",
         "file": "the-implications-of-linguistic-illegibility-for-llm-security.md"
+    },
+    {
+        "title": "My AI agent forgets decisions made in previous conversations. How to give it long term memory?",
+        "slug": "my-ai-agent-forgets-decisions-made-in-previous-conversations-how-to-give-it-long-term-memory",
+        "author": "Edward Izgorodin",
+        "source": "devto_python",
+        "published": "Fri, 02 Oct 2026 11:15:00 +0000",
+        "description": "On Tuesday you and your agent spent twenty minutes deciding not to keep sessions in Redis: the team would rather run one less service, and Postgres already h...",
+        "keywords": "decision, agent, one, reason, sessions, what, not, when",
+        "generated": "2026-10-02T12:13:45.782213",
+        "file": "my-ai-agent-forgets-decisions-made-in-previous-conversations-how-to-give-it-long-term-memory.md"
     },
     {
         "title": "**Debugging Loops & Existential Dread: My Glorious Tuesday**",

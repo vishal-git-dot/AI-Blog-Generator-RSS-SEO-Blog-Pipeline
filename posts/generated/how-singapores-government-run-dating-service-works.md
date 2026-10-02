@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Fri, 02 Oct 2026 01:56:52 +0000"
 description: "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/ite..."
 keywords: "how, singapore, government, run, dating, service, works, url"
-generated: "2026-10-02T05:02:05.612286"
+generated: "2026-10-02T12:13:45.781027"
 ---
 
 # How Singapore's government-run dating service works
 
 ## Overview
 
-Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?id=49929113 Points: 43 # Comments: 14
+Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?id=49929113 Points: 189 # Comments: 169
 
 ## Key Insights
 
