@@ -4885,6 +4885,17 @@
         "file": "i-spent-two-weeks-testing-every-ai-coding-model-so-you-dont-have-to.md"
     },
     {
+        "title": "On-device agents need their own identity: a delegation design for the edge",
+        "slug": "on-device-agents-need-their-own-identity-a-delegation-design-for-the-edge",
+        "author": "chinmay garg",
+        "source": "devto_ai",
+        "published": "Sat, 03 Oct 2026 04:30:00 +0000",
+        "description": "Local inference solves where the data lives. It says nothing about who the agent is when it calls out. Phone silicon can now run large mixture-of-experts mod...",
+        "keywords": "agent, delegation, device, key, user, what, service, token",
+        "generated": "2026-10-03T04:45:33.035367",
+        "file": "on-device-agents-need-their-own-identity-a-delegation-design-for-the-edge.md"
+    },
+    {
         "title": "Your Pipeline Is 28.4h Behind: Catching Business Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-284h-behind-catching-business-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -20314,6 +20325,17 @@
         "file": "leiden-declaration-on-artificial-intelligence-and-mathematics.md"
     },
     {
+        "title": "Where Is the Planet",
+        "slug": "where-is-the-planet",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Sat, 03 Oct 2026 00:26:19 +0000",
+        "description": "Article URL: http://whereistheplanet.com Comments URL: https://news.ycombinator.com/item?id=49940233 Points: 16 # Comments: 0",
+        "keywords": "url, com, comments, where, planet, article, http, whereistheplanet",
+        "generated": "2026-10-03T04:45:33.026113",
+        "file": "where-is-the-planet.md"
+    },
+    {
         "title": "I Let AI Write My Backend Code for a Week — Here's What Actually Broke",
         "slug": "i-let-ai-write-my-backend-code-for-a-week-heres-what-actually-broke",
         "author": "kol kol",
@@ -26747,6 +26769,17 @@
         "file": "japan-halves-speed-limit-to-30kmh-on-all-narrow-city-streets.md"
     },
     {
+        "title": "Open Weights Just Closed the Gap",
+        "slug": "open-weights-just-closed-the-gap",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Sat, 03 Oct 2026 04:40:22 +0000",
+        "description": "Open Weights Just Closed the Gap Three things happened in the first two days of October 2026 that, taken together, mark a phase transition in the open-weight...",
+        "keywords": "open, model, weights, image, flux, clef, closed, distillation",
+        "generated": "2026-10-03T04:45:33.034057",
+        "file": "open-weights-just-closed-the-gap.md"
+    },
+    {
         "title": "Building Production-Ready MCP Servers in Python: A Complete Guide",
         "slug": "building-production-ready-mcp-servers-in-python-a-complete-guide",
         "author": "Dev Gaddam",
@@ -32434,6 +32467,17 @@
         "file": "i-tried-an-ai-tool-that-turns-a-prompt-into-a-real-mobile-app.md"
     },
     {
+        "title": "Cloudflare Ohttp Gateway",
+        "slug": "cloudflare-ohttp-gateway",
+        "author": "est",
+        "source": "hackernews",
+        "published": "Sat, 03 Oct 2026 03:15:05 +0000",
+        "description": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 9 # Comment...",
+        "keywords": "cloudflare, ohttp, gateway, url, https, com, comments, article",
+        "generated": "2026-10-03T04:45:33.025681",
+        "file": "cloudflare-ohttp-gateway.md"
+    },
+    {
         "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
         "slug": "ruby-40-universal-rce-deserialization-gadget-chain",
         "author": "pentestercrab",
@@ -36772,6 +36816,17 @@
         "file": "i-cloned-my-equity-options-scanner-for-crypto-the-same-3-rules-a-completely-different-data-source.md"
     },
     {
+        "title": "How I Built an Interactive 3D Digital Keepsake & Love Letter Web App",
+        "slug": "how-i-built-an-interactive-3d-digital-keepsake-love-letter-web-app",
+        "author": "Anmol Singh",
+        "source": "devto_webdev",
+        "published": "Sat, 03 Oct 2026 04:18:26 +0000",
+        "description": "I built DigitalGiftCraft to bring the emotional feeling of physical gift cards into the browser without needing app downloads. What it includes: 🕯️ 3D Wax Se...",
+        "keywords": "app, built, interactive, love, digitalgiftcraft, cards, what, how",
+        "generated": "2026-10-03T04:45:33.031332",
+        "file": "how-i-built-an-interactive-3d-digital-keepsake-love-letter-web-app.md"
+    },
+    {
         "title": "Building and Testing PickUp, a Vibe-Coded Platform for Casual Sports Games",
         "slug": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games",
         "author": "Nuh",
@@ -40389,6 +40444,17 @@
         "file": "seo-for-roofers-get-found-by-local-customers-digisurf.md"
     },
     {
+        "title": "A chat widget that runs on websites: what we had to get right",
+        "slug": "a-chat-widget-that-runs-on-websites-what-we-had-to-get-right",
+        "author": "Elena",
+        "source": "devto_webdev",
+        "published": "Sat, 03 Oct 2026 04:23:11 +0000",
+        "description": "I'm Elena, CMO at Chatim . We make a live chat and AI chatbot widget for small business websites, and this is our first post on DEV. I handle marketing, so t...",
+        "keywords": "widget, chatim, window, script, you, one, chat, not",
+        "generated": "2026-10-03T04:45:33.030959",
+        "file": "a-chat-widget-that-runs-on-websites-what-we-had-to-get-right.md"
+    },
+    {
         "title": "Ethical LinkedIn Automation: Scale Outreach Without Spam Flags",
         "slug": "ethical-linkedin-automation-scale-outreach-without-spam-flags",
         "author": "Deepbody",
@@ -40541,6 +40607,17 @@
         "keywords": "gleif, lei, apify, scraper, json, csv, excel, run",
         "generated": "2026-07-18T13:26:53.514223",
         "file": "how-to-scrape-gleif-lei-free-no-code-guide-2026.md"
+    },
+    {
+        "title": "Funding Fit - an agent that tells a solo, non-English-speaking founder which startup programs they can actually apply to",
+        "slug": "funding-fit-an-agent-that-tells-a-solo-non-english-speaking-founder-which-startup-programs-they-can-actually-apply-to",
+        "author": "Junyoung Park",
+        "source": "devto_python",
+        "published": "Sat, 03 Oct 2026 03:52:10 +0000",
+        "description": "This is a submission for the Sanity Challenge (Path One: an agent on Sanity Context). Disclosure: this project and this post were built and written by my AI ...",
+        "keywords": "unknown, not, append, rolling, program, return, question, model",
+        "generated": "2026-10-03T04:45:33.028537",
+        "file": "funding-fit-an-agent-that-tells-a-solo-non-english-speaking-founder-which-startup-programs-they-can-actually-apply-to.md"
     },
     {
         "title": "Before the Algorithm: Building the Input Layer for My Poker Analysis Tool",
@@ -42858,6 +42935,17 @@
         "keywords": "you, push, worker, const, service, one, extension, key",
         "generated": "2026-07-29T03:14:29.811502",
         "file": "waking-a-dead-service-worker-with-web-push-from-a-cloudflare-worker.md"
+    },
+    {
+        "title": "Newgrounds.com – A community of games, music, and art",
+        "slug": "newgroundscom-a-community-of-games-music-and-art",
+        "author": "azhenley",
+        "source": "hackernews",
+        "published": "Sat, 03 Oct 2026 00:55:25 +0000",
+        "description": "Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 89 # Comments: 22",
+        "keywords": "com, newgrounds, url, https, comments, community, games, music",
+        "generated": "2026-10-03T04:45:33.025994",
+        "file": "newgroundscom-a-community-of-games-music-and-art.md"
     },
     {
         "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -53889,6 +53977,17 @@
         "file": "how-ai-fire-and-smoke-detection-systems-protect-manufacturing-facilities.md"
     },
     {
+        "title": "Use TempGmail for real Gmail verification without spam",
+        "slug": "use-tempgmail-for-real-gmail-verification-without-spam",
+        "author": "SK RAYHAN",
+        "source": "devto_python",
+        "published": "Sat, 03 Oct 2026 03:19:23 +0000",
+        "description": "You often have to create accounts on various websites, so instead of using your personal Gmail , try using the **TempGmails **site—this way, you won't have t...",
+        "keywords": "gmail, use, spam, you, have, using, personal, tempgmails",
+        "generated": "2026-10-03T04:45:33.029108",
+        "file": "use-tempgmail-for-real-gmail-verification-without-spam.md"
+    },
+    {
         "title": "How to get Kalshi and Polymarket odds and price history in one spreadsheet",
         "slug": "how-to-get-kalshi-and-polymarket-odds-and-price-history-in-one-spreadsheet",
         "author": "Hay Equipos",
@@ -56529,6 +56628,17 @@
         "file": "facebook-is-paying-people-overseas-promoting-alberta-separatism.md"
     },
     {
+        "title": "Turn Database Docs into Agent-Ready Knowledge (OKF Series, Part 3)",
+        "slug": "turn-database-docs-into-agent-ready-knowledge-okf-series-part-3",
+        "author": "Lakhan Malviya",
+        "source": "devto_ai",
+        "published": "Sat, 03 Oct 2026 04:41:06 +0000",
+        "description": "An AI agent that writes SQL for your database needs more than the schema. It also needs to know what your business terms mean: which columns make up a Resou...",
+        "keywords": "table, name, rule, tables, rules, columns, bundle, database",
+        "generated": "2026-10-03T04:45:33.033233",
+        "file": "turn-database-docs-into-agent-ready-knowledge-okf-series-part-3.md"
+    },
+    {
         "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
         "slug": "what-i-learned-selling-2500-midi-recorders-hardware-is-not-so-hard",
         "author": "chipweinberger",
@@ -56549,6 +56659,17 @@
         "keywords": "not, you, link, who, can, public, viewer, site",
         "generated": "2026-07-15T13:53:37.361230",
         "file": "your-ai-built-something-private-a-public-link-is-the-wrong-way-to-share-it.md"
+    },
+    {
+        "title": "Best 9 HTML E-Commerce Templates for Online Stores in 2026",
+        "slug": "best-9-html-e-commerce-templates-for-online-stores-in-2026",
+        "author": "ariba shakil",
+        "source": "devto_webdev",
+        "published": "Sat, 03 Oct 2026 04:37:05 +0000",
+        "description": "Looking to launch an online store without building everything from scratch? Professional HTML e-commerce templates make it easier to showcase products, take ...",
+        "keywords": "template, templates, html, website, you, features, showcase, product",
+        "generated": "2026-10-03T04:45:33.030169",
+        "file": "best-9-html-e-commerce-templates-for-online-stores-in-2026.md"
     },
     {
         "title": "Analyzing Tennis Data: Alcaraz eyes return from injury at Cincinnati Open — What the Numbers Say",
@@ -58628,6 +58749,17 @@
         "keywords": "you, tools, building, build, content, make, one, problems",
         "generated": "2026-07-31T19:42:01.101147",
         "file": "7-practical-ai-side-hustles-that-actually-work-in-2026-no-get-rich-quick-hype.md"
+    },
+    {
+        "title": "JSONPath Cheatsheet: Query JSON Like You Query XML",
+        "slug": "jsonpath-cheatsheet-query-json-like-you-query-xml",
+        "author": "pulkitgovrani",
+        "source": "devto_webdev",
+        "published": "Sat, 03 Oct 2026 04:30:00 +0000",
+        "description": "JSONPath is a query language for picking values out of a JSON document, in the same spirit that XPath works for XML. It shows up in API tools, monitoring sys...",
+        "keywords": "books, store, price, jsonpath, title, returns, query, tools",
+        "generated": "2026-10-03T04:45:33.030441",
+        "file": "jsonpath-cheatsheet-query-json-like-you-query-xml.md"
     },
     {
         "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
@@ -69102,6 +69234,17 @@
         "file": "understanding-docker-using-a-tiny-python-application-a-beginner-friendly-walkthrough.md"
     },
     {
+        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+        "slug": "ntsb-preliminary-report-prime-air-767-runway-overrun-pdf",
+        "author": "sdko",
+        "source": "hackernews",
+        "published": "Sat, 03 Oct 2026 01:09:01 +0000",
+        "description": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf Comments URL: https://news.ycombinator.com/item?id=49940467 Points: 27 # C...",
+        "keywords": "ntsb, pdf, url, https, comments, preliminary, report, prime",
+        "generated": "2026-10-03T04:45:33.025863",
+        "file": "ntsb-preliminary-report-prime-air-767-runway-overrun-pdf.md"
+    },
+    {
         "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
         "slug": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators",
         "author": "ahmed_hassan7",
@@ -70145,6 +70288,17 @@
         "keywords": "open, code, source, what, deoit, built, browser, building",
         "generated": "2026-07-16T19:20:26.284729",
         "file": "how-i-built-a-free-code-editor-then-i-open-sourced-it.md"
+    },
+    {
+        "title": "How to Audit API Support for 2FA Login SMS OTP Delivery",
+        "slug": "how-to-audit-api-support-for-2fa-login-sms-otp-delivery",
+        "author": "UlyssesDonovan1529",
+        "source": "devto_python",
+        "published": "Sat, 03 Oct 2026 04:27:37 +0000",
+        "description": "Short answer: choose a messaging API by testing whether one app can keep 2FA login SMS OTP traffic separate from subscription renewal notices and an auditabl...",
+        "keywords": "attempt, report, str, path, import, self, same, artifact",
+        "generated": "2026-10-03T04:45:33.026885",
+        "file": "how-to-audit-api-support-for-2fa-login-sms-otp-delivery.md"
     },
     {
         "title": "Self-Hosted LLM: Essential Llama TCO Comparison Guide",
@@ -72395,10 +72549,10 @@
         "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Fri, 02 Oct 2026 12:06:39 +0000",
-        "description": "By 2026, the barrier to entry for building an automated crypto signal bot has shifted from complex statistical modeling to sophisticated orchestration of Lar...",
-        "keywords": "data, signal, ccxt, bot, apis, market, sentiment, technical",
-        "generated": "2026-10-02T12:13:45.784642",
+        "published": "Sat, 03 Oct 2026 04:28:46 +0000",
+        "description": "In the volatile landscape of 2026, manual trading is no longer a viable strategy for retail investors. The speed at which market data propagates and the comp...",
+        "keywords": "data, signal, bot, sentiment, api, requests, confidence, json",
+        "generated": "2026-10-03T04:45:33.035560",
         "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide.md"
     },
     {
@@ -72697,6 +72851,17 @@
         "keywords": "cache, review, not, map, const, price, product, revert",
         "generated": "2026-09-23T16:33:33.336495",
         "file": "review-agent-prs-that-cache-with-unbounded-maps.md"
+    },
+    {
+        "title": "How I Converted iPhone HEVC Videos Into Telegram Video Avatars",
+        "slug": "how-i-converted-iphone-hevc-videos-into-telegram-video-avatars",
+        "author": "liveavabot",
+        "source": "devto_python",
+        "published": "Sat, 03 Oct 2026 03:04:33 +0000",
+        "description": "The pain nobody mentions I recorded a short clip on my iPhone, dragged it into the Telegram set video avatar dialog, and nothing happened. The app accepted...",
+        "keywords": "telegram, video, file, crf, bot, ffmpeg, msg, clip",
+        "generated": "2026-10-03T04:45:33.029519",
+        "file": "how-i-converted-iphone-hevc-videos-into-telegram-video-avatars.md"
     },
     {
         "title": "Your schema validation passes and the agent still picks the wrong tool. The bug is semantic.",
@@ -73445,6 +73610,17 @@
         "keywords": "data, confidence, audit, your, words, count, you, verifiable",
         "generated": "2026-06-18T10:38:46.943087",
         "file": "building-your-audit-trail-how-ai-ensures-accuracy-and-creates-verifiable-records.md"
+    },
+    {
+        "title": "My Voice Search SEO Playbook (The No-BS Guide)",
+        "slug": "my-voice-search-seo-playbook-the-no-bs-guide",
+        "author": "Clickmaking",
+        "source": "devto_ai",
+        "published": "Sat, 03 Oct 2026 04:32:34 +0000",
+        "description": "Last week, my mom asked her phone, “where can I get the best dhokla in Ahmedabad?” She didn't type. Didn't open Chrome. She just asked. Google shot back a si...",
+        "keywords": "voice, search, you, your, type, answer, schema, content",
+        "generated": "2026-10-03T04:45:33.035077",
+        "file": "my-voice-search-seo-playbook-the-no-bs-guide.md"
     },
     {
         "title": "A deep dive into building Text-to-SQL solutions using AI models, transforming natural language into SQL magic.",
@@ -74771,10 +74947,10 @@
         "slug": "python-decorators-explained-simply",
         "author": "qing",
         "source": "devto_python",
-        "published": "Fri, 02 Oct 2026 04:37:38 +0000",
+        "published": "Sat, 03 Oct 2026 03:21:49 +0000",
         "description": "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi...",
         "keywords": "python, decorators, explained, simply, knowledge, start, best, learn",
-        "generated": "2026-10-02T05:02:05.613576",
+        "generated": "2026-10-03T04:45:33.028783",
         "file": "python-decorators-explained-simply.md"
     },
     {
@@ -78329,6 +78505,17 @@
         "keywords": "model, you, can, not, week, workflow, your, but",
         "generated": "2026-06-23T20:12:47.955618",
         "file": "your-team-doesnt-need-a-better-ai-model-this-week.md"
+    },
+    {
+        "title": "Inside the 2026 AI Model Purge: Why OpenAI, Anthropic & Google Keep Deprecating Models",
+        "slug": "inside-the-2026-ai-model-purge-why-openai-anthropic-google-keep-deprecating-models",
+        "author": "Mansoor Hannan",
+        "source": "devto_webdev",
+        "published": "Sat, 03 Oct 2026 04:22:13 +0000",
+        "description": "If you've built anything with AI APIs over the last year, you've probably faced breaking changes or unexpected deprecation notices. In 2026, AI model retirem...",
+        "keywords": "model, models, openai, anthropic, google, you, deprecation, gpt",
+        "generated": "2026-10-03T04:45:33.031189",
+        "file": "inside-the-2026-ai-model-purge-why-openai-anthropic-google-keep-deprecating-models.md"
     },
     {
         "title": "Why Super Giants beat Spirit despite Livingstone flurry Matters for Sports Data Engineers",
@@ -94157,6 +94344,17 @@
         "keywords": "postgres, url, https, com, comments, rewritten, rust, now",
         "generated": "2026-07-09T09:49:56.274333",
         "file": "postgres-rewritten-in-rust-now-passing-100-of-the-postgres-regression-tests.md"
+    },
+    {
+        "title": "Things that apparently cause cancer",
+        "slug": "things-that-apparently-cause-cancer",
+        "author": "timpera",
+        "source": "hackernews",
+        "published": "Sat, 03 Oct 2026 00:23:11 +0000",
+        "description": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer Comments URL: https://news.ycombinator.com/item?id=49940219 Points: 13...",
+        "keywords": "things, apparently, cause, cancer, url, https, comments, article",
+        "generated": "2026-10-03T04:45:33.026228",
+        "file": "things-that-apparently-cause-cancer.md"
     },
     {
         "title": "Z-TEXT Channels: What You Actually Get",
