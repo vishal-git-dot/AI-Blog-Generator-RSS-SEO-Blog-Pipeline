@@ -3,10 +3,10 @@ title: "Python Decorators Explained Simply"
 slug: "python-decorators-explained-simply"
 author: "qing"
 source: "devto_python"
-published: "Sat, 03 Oct 2026 03:21:49 +0000"
+published: "Sat, 03 Oct 2026 15:40:16 +0000"
 description: "Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basi..."
 keywords: "python, decorators, explained, simply, knowledge, start, best, learn"
-generated: "2026-10-03T04:45:33.028783"
+generated: "2026-10-03T16:02:08.700702"
 ---
 
 # Python Decorators Explained Simply
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/qingluan/python-decorators-explained-simply-3ab8
+https://dev.to/qingluan/python-decorators-explained-simply-nbl
 
 ## Conclusion
 
