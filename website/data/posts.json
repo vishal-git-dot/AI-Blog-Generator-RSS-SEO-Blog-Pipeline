@@ -3290,6 +3290,17 @@
         "file": "turning-a-wedding-story-into-a-custom-song-with-real-vocals-the-magical-song-pipeline.md"
     },
     {
+        "title": "Error Tracking API Guide: Choose 4 FastAPI Django SaaS Rollback Checks",
+        "slug": "error-tracking-api-guide-choose-4-fastapi-django-saas-rollback-checks",
+        "author": "FerdinandBlake3517",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 20:17:40 +0000",
+        "description": "Choose a small error-tracking API when the rollback decision depends on searchable exception events, not on traces, replay, or a full monitoring suite. For a...",
+        "keywords": "error, not, request, api, when, exception, cohort, rollback",
+        "generated": "2026-10-04T21:07:13.179511",
+        "file": "error-tracking-api-guide-choose-4-fastapi-django-saas-rollback-checks.md"
+    },
+    {
         "title": "Day 7. Text is solved. But icons and image-only buttons are still invisible. Enter template matching.",
         "slug": "day-7-text-is-solved-but-icons-and-image-only-buttons-are-still-invisible-enter-template-matching",
         "author": "Okeke Chukwudubem",
@@ -4366,6 +4377,17 @@
         "keywords": "synthetic, test, across, model, scenario, testing, production, combinatorial",
         "generated": "2026-08-18T06:52:25.237192",
         "file": "how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite.md"
+    },
+    {
+        "title": "I had Claude Code and Codex build a product together in a shared room, then let them sell it to other agents. Here's what happened",
+        "slug": "i-had-claude-code-and-codex-build-a-product-together-in-a-shared-room-then-let-them-sell-it-to-other-agents-heres-what-happened",
+        "author": "Yezir Hasan",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 20:44:01 +0000",
+        "description": "I entered Trial Zero, a hackathon where the final round is played entirely by agents: humans step away, and agents present products, review each other, and b...",
+        "keywords": "agents, codex, room, other, claude, product, what, one",
+        "generated": "2026-10-04T21:07:13.182394",
+        "file": "i-had-claude-code-and-codex-build-a-product-together-in-a-shared-room-then-let-them-sell-it-to-other-agents-heres-what-happened.md"
     },
     {
         "title": "Codebase Knowledge Base Series (01): Technical Landscape — Why Code Understanding Is 10x Harder Than Document Retrieval",
@@ -6733,6 +6755,17 @@
         "file": "5-morning-habits-that-actually-move-the-needle-on-creativity-and-focus.md"
     },
     {
+        "title": "Improper redaction reveals Google Data Center water and electricity usage",
+        "slug": "improper-redaction-reveals-google-data-center-water-and-electricity-usage",
+        "author": "sensanaty",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 19:37:05 +0000",
+        "description": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://...",
+        "keywords": "google, data, center, water, electricity, usage, url, https",
+        "generated": "2026-10-04T21:07:13.177876",
+        "file": "improper-redaction-reveals-google-data-center-water-and-electricity-usage.md"
+    },
+    {
         "title": "US Citizen Charged After GrapheneOS Phone Wipes at Airport",
         "slug": "us-citizen-charged-after-grapheneos-phone-wipes-at-airport",
         "author": "Michael Smith",
@@ -8293,6 +8326,17 @@
         "file": "react-app-works-locally-but-not-on-vercel-a-production-checklist.md"
     },
     {
+        "title": "Blazor Forms Hate Immutability",
+        "slug": "blazor-forms-hate-immutability",
+        "author": "ferouzkassim",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 20:48:55 +0000",
+        "description": "Ever wondered why binding to immutable records becomes such a pain in Blazor? Because binding requires flexibility. The good old get; set; properties shine h...",
+        "keywords": "blazor, forms, records, immutability, binding, immutable, get, set",
+        "generated": "2026-10-04T21:07:13.180024",
+        "file": "blazor-forms-hate-immutability.md"
+    },
+    {
         "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
         "slug": "five-us-tech-giants-hidden-debts-soar-to-165t-on-opaque-ai-funding",
         "author": "NordStreamYacht",
@@ -8621,6 +8665,17 @@
         "keywords": "hanger, you, update, locked, skip, free, transaction, one",
         "generated": "2026-07-07T14:49:42.587397",
         "file": "for-update-skip-locked-the-postgres-feature-that-saved-my-digital-cloakroom.md"
+    },
+    {
+        "title": "On the N100, OpenVINO was not faster. And I almost measured it wrong",
+        "slug": "on-the-n100-openvino-was-not-faster-and-i-almost-measured-it-wrong",
+        "author": "Israel Negrete Lepe",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 20:41:44 +0000",
+        "description": "If you work with models on Intel hardware, you know the usual advice: for CPU inference, use OpenVINO. It is Intel's runtime, built for Intel's hardware, and...",
+        "keywords": "not, openvino, model, you, what, one, runtime, precision",
+        "generated": "2026-10-04T21:07:13.178660",
+        "file": "on-the-n100-openvino-was-not-faster-and-i-almost-measured-it-wrong.md"
     },
     {
         "title": "Best AI Consulting & Custom Solutions for Saudi Arabia’s Growing Digital Economy",
@@ -9776,6 +9831,17 @@
         "keywords": "health, data, biomarker, can, tracking, patterns, insights, monitoring",
         "generated": "2026-09-09T16:19:02.767972",
         "file": "biomarker-tracking-ai-essential-continuous-insights.md"
+    },
+    {
+        "title": "Demystifying LLM Serving Infrastructure: How PagedAttention and Continuous Batching Scale Inference",
+        "slug": "demystifying-llm-serving-infrastructure-how-pagedattention-and-continuous-batching-scale-inference",
+        "author": "Ahmed Adawy",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 20:40:57 +0000",
+        "description": "Demystifying LLM Serving Infrastructure: How PagedAttention and Continuous Batching Scale Inference Moving a Large Language Model (LLM) from a local prototyp...",
+        "keywords": "memory, request, batching, gpu, block, llm, cache, vram",
+        "generated": "2026-10-04T21:07:13.178987",
+        "file": "demystifying-llm-serving-infrastructure-how-pagedattention-and-continuous-batching-scale-inference.md"
     },
     {
         "title": "I Built a Terminal AI Assistant That Never Freezes — Here's the Architecture",
@@ -12625,6 +12691,17 @@
         "keywords": "model, tool, tools, honest, world, every, sabotaged, one",
         "generated": "2026-09-25T21:21:27.489320",
         "file": "do-llms-actually-check-their-tools-i-built-a-benchmark-that-lies-to-them.md"
+    },
+    {
+        "title": "A timeout is not a failed webhook: reconcile before you retry",
+        "slug": "a-timeout-is-not-a-failed-webhook-reconcile-before-you-retry",
+        "author": "Daniel",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 20:54:40 +0000",
+        "description": "AI disclosure: Fully autonomous. A webhook request times out. Should the worker retry? Sometimes. But if the request may already have reached the provider, a...",
+        "keywords": "not, key, provider, operation, retry, request, effect, state",
+        "generated": "2026-10-04T21:07:13.178338",
+        "file": "a-timeout-is-not-a-failed-webhook-reconcile-before-you-retry.md"
     },
     {
         "title": "How We Built a Zero-Dependency RFC 822 Forensic Email Header Parser in Vanilla JavaScript",
@@ -19157,6 +19234,17 @@
         "keywords": "leaderboard, url, https, comments, arc, agi, article, arcprize",
         "generated": "2026-07-25T08:14:00.362946",
         "file": "arc-agi-leaderboard.md"
+    },
+    {
+        "title": "kk",
+        "slug": "kk",
+        "author": "Faris",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 20:46:15 +0000",
+        "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What I Built Demo Code My Build Process Sanity Project Details Agent Ses...",
+        "keywords": "sanity, code, submission, challenge, path, two, vibe, something",
+        "generated": "2026-10-04T21:07:13.182248",
+        "file": "kk.md"
     },
     {
         "title": "The same blind spot was in my own hook and Claude Code's permission check — one `2>/dev/null` slips past both",
@@ -35250,6 +35338,17 @@
         "file": "why-the-future-is-local-app.md"
     },
     {
+        "title": "A Builder in New Orleans: When Your Vibecoded App Comes on Vacation",
+        "slug": "a-builder-in-new-orleans-when-your-vibecoded-app-comes-on-vacation",
+        "author": "Earl Grey",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 20:45:02 +0000",
+        "description": "First day on Bourbon Street, and my sister and I had the most important question of the trip: where are we going to eat? It should have been easy. Between th...",
+        "keywords": "you, app, had, not, voyage, places, new, orleans",
+        "generated": "2026-10-04T21:07:13.180672",
+        "file": "a-builder-in-new-orleans-when-your-vibecoded-app-comes-on-vacation.md"
+    },
+    {
         "title": "5 Open-Source Android Apps That Deserve to Be Built Into Android",
         "slug": "5-open-source-android-apps-that-deserve-to-be-built-into-android",
         "author": "Gaby",
@@ -35380,6 +35479,17 @@
         "keywords": "code, application, platforms, development, metadata, react, enterprise, software",
         "generated": "2026-09-11T10:58:00.567007",
         "file": "architectural-velocity-how-ai-application-platforms-re-engineer-enterprise-software-delivery.md"
+    },
+    {
+        "title": "What Google actually did to a brand new site, hour by hour",
+        "slug": "what-google-actually-did-to-a-brand-new-site-hour-by-hour",
+        "author": "xg704863664",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 21:00:54 +0000",
+        "description": "I published 51 pages on a brand new domain and then watched what Google did for two days. Here is the actual timeline, with the states Search Console reporte...",
+        "keywords": "not, pages, indexed, crawl, google, two, page, what",
+        "generated": "2026-10-04T21:07:13.179907",
+        "file": "what-google-actually-did-to-a-brand-new-site-hour-by-hour.md"
     },
     {
         "title": "PM Carney announces largest clean energy investment in North American history",
@@ -39080,6 +39190,17 @@
         "keywords": "openlogi, url, https, comments, article, org, news, ycombinator",
         "generated": "2026-08-19T06:52:53.078630",
         "file": "openlogi.md"
+    },
+    {
+        "title": "Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh",
+        "slug": "building-a-sub-5ms-sovereign-llm-gateway-with-redis-and-omniroute-mesh",
+        "author": "Bohdan Hordii",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 20:10:56 +0000",
+        "description": "Building a Sub-5ms Sovereign LLM Gateway with Redis and OmniRoute Mesh Modern enterprise AI applications require high-throughput model routing, fallback resi...",
+        "keywords": "llm, redis, mesh, sovereign, gateway, omniroute, sub, high",
+        "generated": "2026-10-04T21:07:13.179681",
+        "file": "building-a-sub-5ms-sovereign-llm-gateway-with-redis-and-omniroute-mesh.md"
     },
     {
         "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
@@ -51724,6 +51845,17 @@
         "file": "benchmarking-in-app-announcement-widgets-150kb-vs-38kb-sdk.md"
     },
     {
+        "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+        "slug": "i-asked-claude-build-a-physically-accurate-oneill-cylinder-you-can-walk-around",
+        "author": "bilsbie",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 19:49:12 +0000",
+        "description": "Article URL: https://island-three.gruberbuilds.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=49957191 Points: 6 # Comments: 4",
+        "keywords": "url, https, comments, asked, claude, build, physically, accurate",
+        "generated": "2026-10-04T21:07:13.177554",
+        "file": "i-asked-claude-build-a-physically-accurate-oneill-cylinder-you-can-walk-around.md"
+    },
+    {
         "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
         "slug": "show-hn-z-jail-a-130-kb-linux-sandbox-c99-with-7-defense-layers-and-zero-deps",
         "author": "Zierax",
@@ -52721,6 +52853,17 @@
         "keywords": "backtrack, free, cursive, url, https, comments, article, mmapped",
         "generated": "2026-07-13T09:37:40.643477",
         "file": "backtrack-free-cursive.md"
+    },
+    {
+        "title": "Your Database Is Small. That Doesn’t Mean Your Queries Are Fast",
+        "slug": "your-database-is-small-that-doesnt-mean-your-queries-are-fast",
+        "author": "Flaviu Z",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 20:43:38 +0000",
+        "description": "“My database is only 50 MB. Why is my API slow?” It's an easy assumption to make. Small database = fast database. Unfortunately, database size tells you surp...",
+        "keywords": "database, you, your, query, can, fast, queries, application",
+        "generated": "2026-10-04T21:07:13.180940",
+        "file": "your-database-is-small-that-doesnt-mean-your-queries-are-fast.md"
     },
     {
         "title": "Why PDF generation breaks in production (and why localhost lies)",
@@ -71225,6 +71368,17 @@
         "file": "how-i-built-a-sales-agent-that-actually-remembers-your-prospects.md"
     },
     {
+        "title": "Homa: The End of TCP for AI Clusters [video]",
+        "slug": "homa-the-end-of-tcp-for-ai-clusters-video",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+        "description": "Related: https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 14 # Comments: 1",
+        "keywords": "https, com, comments, homa, end, tcp, clusters, video",
+        "generated": "2026-10-04T21:07:13.177701",
+        "file": "homa-the-end-of-tcp-for-ai-clusters-video.md"
+    },
+    {
         "title": "Your Pipeline Is 25.8h Behind: Catching Fashion Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-258h-behind-catching-fashion-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -77363,6 +77517,17 @@
         "file": "garden-tlds-change-to-a-bad-neighborhood.md"
     },
     {
+        "title": "I Checked 40 Sites for AI Search Visibility. They All Made the Same Mistake.",
+        "slug": "i-checked-40-sites-for-ai-search-visibility-they-all-made-the-same-mistake",
+        "author": "pr0biex",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 20:40:44 +0000",
+        "description": "Last month I looked at how 40 small SaaS sites showed up when someone asked ChatGPT or Perplexity a question their product answers directly. 34 of them ranke...",
+        "keywords": "your, what, sites, you, model, product, answers, them",
+        "generated": "2026-10-04T21:07:13.181124",
+        "file": "i-checked-40-sites-for-ai-search-visibility-they-all-made-the-same-mistake.md"
+    },
+    {
         "title": "Show HN: LightCloud – A cloud console organised like file system",
         "slug": "show-hn-lightcloud-a-cloud-console-organised-like-file-system",
         "author": "yullius",
@@ -82962,6 +83127,17 @@
         "file": "trusted-platforms-to-buy-old-gmail-accounts-without.md"
     },
     {
+        "title": "Show HN: Build with Python – a beginner course where your code draws",
+        "slug": "show-hn-build-with-python-a-beginner-course-where-your-code-draws",
+        "author": "davidwshao",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 18:59:25 +0000",
+        "description": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relyin...",
+        "keywords": "python, code, output, build, course, runs, browser, program",
+        "generated": "2026-10-04T21:07:13.178055",
+        "file": "show-hn-build-with-python-a-beginner-course-where-your-code-draws.md"
+    },
+    {
         "title": "Situational Awareness Down 67% in July in AI Stock Rout",
         "slug": "situational-awareness-down-67-in-july-in-ai-stock-rout",
         "author": "pondsider",
@@ -84094,6 +84270,17 @@
         "keywords": "freecore, url, https, comments, truenas, core, continued, article",
         "generated": "2026-08-30T04:48:49.076233",
         "file": "freecore-truenas-core-continued.md"
+    },
+    {
+        "title": "Feature Flag Kill Switch: 4 Signals Before Auto-Disable After Repeated Errors",
+        "slug": "feature-flag-kill-switch-4-signals-before-auto-disable-after-repeated-errors",
+        "author": "FletcherVance3712",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 20:43:43 +0000",
+        "description": "A healthtech AI agent may retry tool calls, so one failed poll cannot safely mean one failed workflow. Disable too early and an intermittent dependency remov...",
+        "keywords": "decision, disable, one, not, audit, policy, feature, agent",
+        "generated": "2026-10-04T21:07:13.182898",
+        "file": "feature-flag-kill-switch-4-signals-before-auto-disable-after-repeated-errors.md"
     },
     {
         "title": "1983 Northern Telecom Commodore Phone",
@@ -88877,6 +89064,17 @@
         "keywords": "https, comments, unexpected, solidlike, fracture, simple, liquids, journals",
         "generated": "2026-07-12T08:25:23.791012",
         "file": "unexpected-solidlike-fracture-in-simple-liquids.md"
+    },
+    {
+        "title": "Tessom: every upholstery offcut gets a next piece",
+        "slug": "tessom-every-upholstery-offcut-gets-a-next-piece",
+        "author": "Mide",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 21:00:40 +0000",
+        "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange . What I Built Tessom is a marketplace and workshop system for upholster...",
+        "keywords": "sanity, remnant, can, fabric, tessom, workshop, order, also",
+        "generated": "2026-10-04T21:07:13.181675",
+        "file": "tessom-every-upholstery-offcut-gets-a-next-piece.md"
     },
     {
         "title": "ZCode: Claude Code from the Makers of GLM",
@@ -94709,6 +94907,17 @@
         "file": "essential-guide-to-buying-aged-and-pva-gmail-accounts.md"
     },
     {
+        "title": "Remove and Disable Apple Macos27 AI Models Tool",
+        "slug": "remove-and-disable-apple-macos27-ai-models-tool",
+        "author": "privacyisntdead",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+        "description": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 81 # Comments: 37",
+        "keywords": "url, https, com, comments, remove, disable, apple, models",
+        "generated": "2026-10-04T21:07:13.177790",
+        "file": "remove-and-disable-apple-macos27-ai-models-tool.md"
+    },
+    {
         "title": "TimesFM: Google's Foundation Model for Time Series, Explained for Developers",
         "slug": "timesfm-googles-foundation-model-for-time-series-explained-for-developers",
         "author": "ArshTechPro",
@@ -96456,6 +96665,17 @@
         "keywords": "automation, email, github, workflow, follow, professional, engine, stage",
         "generated": "2026-08-17T18:47:04.450047",
         "file": "automation-email-suite-tools-for-email-automation.md"
+    },
+    {
+        "title": "Tenant Cost Ledgers for Node.js LLM Structured Extraction Retries and Idempotency",
+        "slug": "tenant-cost-ledgers-for-nodejs-llm-structured-extraction-retries-and-idempotency",
+        "author": "WadeSterling3125",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 20:54:29 +0000",
+        "description": "A retry policy is the wrong first decision for private-knowledge extraction. The first decision is where one tenant's work becomes durable. Short answer: ass...",
+        "keywords": "key, string, const, row, ledger, state, tenant, return",
+        "generated": "2026-10-04T21:07:13.182159",
+        "file": "tenant-cost-ledgers-for-nodejs-llm-structured-extraction-retries-and-idempotency.md"
     },
     {
         "title": "Better Images of AI",
