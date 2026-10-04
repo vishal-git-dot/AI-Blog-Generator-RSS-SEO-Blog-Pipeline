@@ -1,19 +1,19 @@
 ---
-title: "Why don't more developers "use the platform"?"
+title: "Why don't more developers “use the platform”?"
 slug: "why-dont-more-developers-use-the-platform"
 author: "vinhnx"
 source: "hackernews"
 published: "Sun, 04 Oct 2026 04:10:47 +0000"
 description: "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points..."
 keywords: "why, more, developers, use, platform, url, https, com"
-generated: "2026-10-04T05:17:20.173527"
+generated: "2026-10-04T12:05:49.587751"
 ---
 
-# Why don't more developers "use the platform"?
+# Why don't more developers “use the platform”?
 
 ## Overview
 
-Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 25 # Comments: 14
+Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 163 # Comments: 136
 
 ## Key Insights
 

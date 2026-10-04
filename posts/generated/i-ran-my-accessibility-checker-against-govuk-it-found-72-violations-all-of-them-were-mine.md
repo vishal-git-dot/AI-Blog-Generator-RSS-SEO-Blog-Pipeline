@@ -1,0 +1,34 @@
+---
+title: "I ran my accessibility checker against gov.uk. It found 72 violations — all of them were mine."
+slug: "i-ran-my-accessibility-checker-against-govuk-it-found-72-violations-all-of-them-were-mine"
+author: "perceivable"
+source: "devto_webdev"
+published: "Sun, 04 Oct 2026 11:46:55 +0000"
+description: "I built a Chrome extension that checks pages against the automatable parts of WCAG 2.2 AA. This post isn't really about the extension. It's about what happen..."
+keywords: "one, text, target, violations, has, tool, reported, not"
+generated: "2026-10-04T12:05:49.591477"
+---
+
+# I ran my accessibility checker against gov.uk. It found 72 violations — all of them were mine.
+
+## Overview
+
+I built a Chrome extension that checks pages against the automatable parts of WCAG 2.2 AA. This post isn't really about the extension. It's about what happened when I stopped trusting it. The control group Once the checker worked, the first thing I did was point it at gov.uk . The UK government's site has a long, public record of taking accessibility seriously. If my tool reported problems there, the sensible assumption was that the tool was wrong, not the site. It reported 72 violations . Every one of them was a bug in my code. So I made that the method. I picked sites built by people who do accessibility for a living — gov.uk, WebAIM, Deque, The A11Y Project, the W3C's WAI pages — and treated anything reported on them as my bug until proven otherwise. Six real defects came out of it. 1. I skipped the WCAG 2.5.8 Spacing exception 2.5.8 Target Size (Minimum) is new in WCAG 2.2: pointer targets should be at least 24×24 CSS pixels. The naive implementation is one line — read getBoundingClientRect() , compare against 24. But the criterion has five exceptions, and one of them does most of the work: Spacing: an undersized target passes if a 24px-diameter circle centred on it doesn't intersect another target, or another undersized target's circle. The real question 2.5.8 asks isn't "is it big enough?" — it's "is there room to miss without hitting something else?" A 20px icon button with generous margin is fine. Three 16px buttons packed 2px apart are not. Without the spacing check: 72 violations on gov.uk. With it: zero . 2. I measured contrast on text nobody can see This is the standard way to give an icon button a screen reader label: .icon-button { text-indent : -5000px ; overflow : hidden ; } The text is in the DOM but never painted. I was faithfully measuring its colour contrast — which is meaningless. The fix: measure the text node with a Range , not the element's box, and check that its rect survives every ancestor with overflow clipping. If it's clipped away, there's nothing to measure. 3. My accessible-name computation ignored aria-label on descendants <a href= "/nvidia" > <svg role= "img" aria-label= "Nvidia" > ... </svg> </a> That link is correctly named. My code collected text nodes only, found none, and reported it as a link with no discernible text. In the accname spec, "name from content" recursively takes each descendant's accessible name , not its raw text. That one bug produced 30 false findings on stripe.com alone. Logo links and icon links are everywhere — shipped as-is, it would have cried wolf on most of the web. 4. I called a zero-height element "too small" On a11yproject.com: Target is 320×0px, below the 24×24 minimum A link inside a collapsed panel. Something with no height doesn't have a small hit area — it has none. The message was describing a box, not a target. Now the hit area is the union of the element's box and its rendered descendants (clicks on a child are routed to the enclosing link), and if that union is still degenerate, the element is skipped. 5. I told Deque — who make axe — that their site had six violations The rule: "focusable element inside aria-hidden ". A keyboard user can reach it, a screen reader user can't perceive it — a real and common bug. Except every one of the six was inside a display: none subtree. A closed dropdown. Those elements aren't in the tab order at all; the browser skips them just as the screen reader does. No mismatch. The distinction matters because the real version of this bug is extremely common: an off-canvas menu shoved off-screen with a transform, still display: block , still tabbable, marked aria-hidden . Tab into it and focus vanishes. That one the tool should — and now does — still catch. 6. I read 2.4.4 as if it were AAA I was failing links like "Read more" and "Learn more". But 2.4.4 is Link Purpose (In Context) . A "Read more" whose purpose is clear from the card it sits in conforms. Requiring the link text to stand on its own is 2.4.9 , which is Level AAA. This wasn't a code bug; it was a misreading of the spec. I suspect it's a common one. It's now reported as "needs review", not as a failure. Where it stands Site Violations reported gov.uk 0 webaim.org 0 deque.com 0 a11yproject.com 0 w3.org/WAI 0 Sites with genuine problems still light up — which is the other half of the test. Every fix has a regression test. The one that actually keeps the tool honest is a single file, test/clean.html : a correctly built page that must produce zero violations . Anything flagged there is a false positive by definition. What I took from it When an automated accessibility report contradicts a site with real expertise behind it, check the tool first. And be honest about what automation can do at all. Automated checks find roughly a third of accessibility barriers. Whether alt text is accurate, whether a keyboard user can finish a checkout, whether a page makes sense read aloud — no tool answers those. So this one reports what it can't decide as "needs review" instead of guessing, and says so in its UI. If you want to try it It's free, has no account, and makes no network calls at all — the privacy policy depends on that, so there's a test that fails the build if anyone adds one. The source is public. Chrome Web Store: https://chromewebstore.google.com/detail/ldbmeaihgdlghenedbhafkfikefnmicb Source: https://github.com/perceivable/a11yscope The 2.5.8 exceptions, in detail: https://perceivable.github.io/guides/wcag-target-size/ If you find it flagging correct markup, please tell me. A scanner that cries wolf is worse than no scanner, and every report so far has become a regression test.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/perceivable/i-ran-my-accessibility-checker-against-govuk-it-found-72-violations-all-of-them-were-mine-5fp0
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

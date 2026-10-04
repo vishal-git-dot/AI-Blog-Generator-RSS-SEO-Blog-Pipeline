@@ -2420,6 +2420,17 @@
         "file": "how-i-automated-file-organisation-and-email-reports-with-python.md"
     },
     {
+        "title": "Is there a better option than Mailchimp?",
+        "slug": "is-there-a-better-option-than-mailchimp",
+        "author": "VeloCMS",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 11:40:36 +0000",
+        "description": "Yes, usually, but better depends on what you send. If you want a generous free start and a real automation builder, look at Kit (its automations start on t...",
+        "keywords": "plan, free, subscribers, pricing, you, api, monthly, mailchimp",
+        "generated": "2026-10-04T12:05:49.592682",
+        "file": "is-there-a-better-option-than-mailchimp.md"
+    },
+    {
         "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
         "slug": "sourcehut-account-takeover-via-build-logs-xss-in-ansi2html",
         "author": "arusekk",
@@ -5963,6 +5974,17 @@
         "file": "how-we-built-a-free-global-cleaning-jobs-marketplace-and-opened-958-live-cleaning-contracts-to-anyone.md"
     },
     {
+        "title": "An AWS Step Functions Compiler: Python In, Readable JSON Out",
+        "slug": "an-aws-step-functions-compiler-python-in-readable-json-out",
+        "author": "Takashi Iwamoto",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 11:51:35 +0000",
+        "description": "Changing one retry policy in a Step Functions workflow can mean editing the same block of JSON on every Task that uses it. A workflow is defined in the Amazo...",
+        "keywords": "aws, states, items, sfnx, you, definition, dynamodb, call",
+        "generated": "2026-10-04T12:05:49.590709",
+        "file": "an-aws-step-functions-compiler-python-in-readable-json-out.md"
+    },
+    {
         "title": "Building a Grounded LLM Planner for Swim Trainings on Nebius Serverless",
         "slug": "building-a-grounded-llm-planner-for-swim-trainings-on-nebius-serverless",
         "author": "Andrei Parfenov",
@@ -6181,6 +6203,17 @@
         "keywords": "gamma, web, native, uses, powerpoint, notion, otter, presentation",
         "generated": "2026-06-24T09:40:50.191982",
         "file": "gamma-ai-8.md"
+    },
+    {
+        "title": "Show HN: AI search for every photo and every frame of video on macOS",
+        "slug": "show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos",
+        "author": "allenleee",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 09:24:52 +0000",
+        "description": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 4 # Comments: 0",
+        "keywords": "every, url, https, com, comments, show, search, photo",
+        "generated": "2026-10-04T12:05:49.587129",
+        "file": "show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.md"
     },
     {
         "title": "Pro Seats vs Metered API: Where the Break-Even Actually Falls",
@@ -6872,6 +6905,17 @@
         "keywords": "url, https, com, comments, ceo, says, ships, loc",
         "generated": "2026-07-07T09:51:54.392678",
         "file": "yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood.md"
+    },
+    {
+        "title": "My agents kept forgetting each other, so I wrote a protocol about it",
+        "slug": "my-agents-kept-forgetting-each-other-so-i-wrote-a-protocol-about-it",
+        "author": "Kiell Tampubolon",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 11:48:39 +0000",
+        "description": "I run a handful of agents on my laptop. One files notes for me, one answers questions about my projects, one watches news and tells me when something matters...",
+        "keywords": "memory, agent, one, not, protocol, cell, you, own",
+        "generated": "2026-10-04T12:05:49.596225",
+        "file": "my-agents-kept-forgetting-each-other-so-i-wrote-a-protocol-about-it.md"
     },
     {
         "title": "hi",
@@ -9468,6 +9512,17 @@
         "keywords": "streetcomplete, url, https, com, comments, ios, now, public",
         "generated": "2026-10-01T12:50:17.619198",
         "file": "streetcomplete-on-ios-is-now-in-public-beta.md"
+    },
+    {
+        "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+        "slug": "vghf-digital-archive-passes-5000-magazines-heres-whats-next",
+        "author": "rdmuser",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 09:07:11 +0000",
+        "description": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 36 # Comments: 3",
+        "keywords": "magazines, url, https, comments, vghf, digital, archive, passes",
+        "generated": "2026-10-04T12:05:49.587301",
+        "file": "vghf-digital-archive-passes-5000-magazines-heres-whats-next.md"
     },
     {
         "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
@@ -23964,6 +24019,17 @@
         "file": "building-secure-software-in-the-age-of-ai-coding-assistants.md"
     },
     {
+        "title": "คลังปลั๊กอินที่ปักหมุด SHA: เมื่อ Hermes เลิกให้เราโหลดโค้ดคนแปลกหน้าแบบเชื่อใจ",
+        "slug": "sha-hermes",
+        "author": "Nokka",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 11:50:56 +0000",
+        "description": "คลังปลั๊กอินที่ปักหมุด SHA: เมื่อ Hermes เลิกให้เราโหลดโค้ดคนแปลกหน้าแบบเชื่อใจ โดย Nokka (นก-กา) | 4 ตุลาคม 2026 บทความนี้เขียนโดย AI (deepseek-v4.1-flash) ...",
+        "keywords": "hermes, agent, sha, nousresearch, github, plugins, https, com",
+        "generated": "2026-10-04T12:05:49.595710",
+        "file": "sha-hermes.md"
+    },
+    {
         "title": "Commodore 64 released September 1, 1982",
         "slug": "commodore-64-released-september-1-1982",
         "author": "giuliomagnifico",
@@ -28584,6 +28650,17 @@
         "file": "dont-wordle.md"
     },
     {
+        "title": "I Built a Political Accountability Agent That Queries Sanity",
+        "slug": "i-built-a-political-accountability-agent-that-queries-sanity",
+        "author": "ujja",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 11:51:16 +0000",
+        "description": "This is a submission for the Sanity Challenge, Path One: Ship an Agent That Queries Real Content What I Built True Oath is a political accountability ledger ...",
+        "keywords": "sanity, true, oath, records, evidence, promise, source, not",
+        "generated": "2026-10-04T12:05:49.595329",
+        "file": "i-built-a-political-accountability-agent-that-queries-sanity.md"
+    },
+    {
         "title": "Add human approval to a LangChain agent in 5 minutes",
         "slug": "add-human-approval-to-a-langchain-agent-in-5-minutes",
         "author": "Shakir Riyaz",
@@ -28978,6 +29055,17 @@
         "keywords": "not, word, list, one, file, you, words, filter",
         "generated": "2026-09-01T20:51:44.953431",
         "file": "i-shipped-a-word-finder-as-one-99kb-html-file-with-no-build-step.md"
+    },
+    {
+        "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+        "slug": "emitting-metadata-early-makes-buildingchecking-rust-up-to-twice-as-fast",
+        "author": "knuckleheads",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 06:26:57 +0000",
+        "description": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 12 # Comments: 1",
+        "keywords": "url, https, com, comments, emitting, metadata, early, makes",
+        "generated": "2026-10-04T12:05:49.587620",
+        "file": "emitting-metadata-early-makes-buildingchecking-rust-up-to-twice-as-fast.md"
     },
     {
         "title": "A pharmacy chain in Vermont implemented AI for efficiency",
@@ -30859,6 +30947,17 @@
         "keywords": "not, you, one, customer, model, data, what, have",
         "generated": "2026-07-31T14:20:45.227161",
         "file": "from-ai-support-copilot-to-agentic-customer-service.md"
+    },
+    {
+        "title": "2026 Data Edge: Your Student Blueprint to Real-Time Telemetry, BigQuery Analytics, &amp; Production-Grade Statistical Metrics",
+        "slug": "2026-data-edge-your-student-blueprint-to-real-time-telemetry-bigquery-analytics-amp-production-grade-statistical-metrics",
+        "author": "Baba Yaga",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 11:54:51 +0000",
+        "description": "2026 Data Edge: Your Student Blueprint to Real-Time Telemetry, BigQuery Analytics, & Production-Grade Statistical Metrics Original Engineering Publication: 2...",
+        "keywords": "data, edge, bigquery, real, time, analytics, our, blueprint",
+        "generated": "2026-10-04T12:05:49.591050",
+        "file": "2026-data-edge-your-student-blueprint-to-real-time-telemetry-bigquery-analytics-amp-production-grade-statistical-metrics.md"
     },
     {
         "title": "AI Networking Best Practices for Secure, Scalable Multi-Agent Systems",
@@ -52426,6 +52525,17 @@
         "file": "how-to-sequence-your-own-dna-at-home.md"
     },
     {
+        "title": "ChronoGraph: An Autonomous Breaking-Change Sentinel Powered by Sanity Context",
+        "slug": "chronograph-an-autonomous-breaking-change-sentinel-powered-by-sanity-context",
+        "author": "Sundas Naeem",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 11:52:15 +0000",
+        "description": "This is a submission for the Sanity Challenge, Path One: Ship an Agent That Queries Real Content What I Built ChronoGraph is a breaking-change sentinel for m...",
+        "keywords": "sanity, agent, dataset, context, live, knowledge, base, one",
+        "generated": "2026-10-04T12:05:49.594788",
+        "file": "chronograph-an-autonomous-breaking-change-sentinel-powered-by-sanity-context.md"
+    },
+    {
         "title": "Prefer Strict Tables in SQLite",
         "slug": "prefer-strict-tables-in-sqlite",
         "author": "ingve",
@@ -53348,6 +53458,17 @@
         "keywords": "chatbot, support, features, user, information, business, capabilities, customer",
         "generated": "2026-06-25T09:33:20.214363",
         "file": "best-ai-chatbot-apps-in-2026-top-picks-reviewed.md"
+    },
+    {
+        "title": "In Ukraine, distributed renewables foil Russia's assaults",
+        "slug": "in-ukraine-distributed-renewables-foil-russias-assaults",
+        "author": "JumpCrisscross",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 08:39:58 +0000",
+        "description": "Article URL: https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/ Comments URL: https://news.ycombinator.com/item?id...",
+        "keywords": "ukraine, distributed, renewables, foil, assaults, url, https, comments",
+        "generated": "2026-10-04T12:05:49.587473",
+        "file": "in-ukraine-distributed-renewables-foil-russias-assaults.md"
     },
     {
         "title": "5 Raspberry Pi Automation Builds That Pay for Themselves",
@@ -55374,14 +55495,14 @@
         "file": "the-8-glasses-a-day-rule-is-a-myth-heres-what-your-body-actually-needs.md"
     },
     {
-        "title": "Why don't more developers use the platform?",
+        "title": "Why don't more developers “use the platform”?",
         "slug": "why-dont-more-developers-use-the-platform",
         "author": "vinhnx",
         "source": "hackernews",
         "published": "Sun, 04 Oct 2026 04:10:47 +0000",
         "description": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points...",
         "keywords": "why, more, developers, use, platform, url, https, com",
-        "generated": "2026-10-04T05:17:20.173527",
+        "generated": "2026-10-04T12:05:49.587751",
         "file": "why-dont-more-developers-use-the-platform.md"
     },
     {
@@ -55988,6 +56109,17 @@
         "keywords": "your, seo, gwalior, digital, market, organizations, local, professional",
         "generated": "2026-09-18T10:56:11.756406",
         "file": "tradewinggs.md"
+    },
+    {
+        "title": "I ran my accessibility checker against gov.uk. It found 72 violations — all of them were mine.",
+        "slug": "i-ran-my-accessibility-checker-against-govuk-it-found-72-violations-all-of-them-were-mine",
+        "author": "perceivable",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 11:46:55 +0000",
+        "description": "I built a Chrome extension that checks pages against the automatable parts of WCAG 2.2 AA. This post isn't really about the extension. It's about what happen...",
+        "keywords": "one, text, target, violations, has, tool, reported, not",
+        "generated": "2026-10-04T12:05:49.591477",
+        "file": "i-ran-my-accessibility-checker-against-govuk-it-found-72-violations-all-of-them-were-mine.md"
     },
     {
         "title": "If you're a button, you have one job",
@@ -56780,6 +56912,17 @@
         "keywords": "donate, grapheneos, url, https, comments, article, org, news",
         "generated": "2026-07-28T19:39:37.246229",
         "file": "donate-to-grapheneos.md"
+    },
+    {
+        "title": "Seven ways my pinball repair bot got the manual wrong",
+        "slug": "seven-ways-my-pinball-repair-bot-got-the-manual-wrong",
+        "author": "Anthony",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 11:51:46 +0000",
+        "description": "I run Flipside , a marketplace for pinball machines here in Australia. A while ago I added a free repair assistant to it: you describe the fault, it reads th...",
+        "keywords": "one, you, page, every, manual, wrong, machine, table",
+        "generated": "2026-10-04T12:05:49.590065",
+        "file": "seven-ways-my-pinball-repair-bot-got-the-manual-wrong.md"
     },
     {
         "title": "HTTP QUERY Method: A Simple Guide",
@@ -58309,6 +58452,17 @@
         "keywords": "python, data, libraries, development, its, tech, community, like",
         "generated": "2026-07-21T19:39:11.836353",
         "file": "in-depth-analysis-pythons-dominance-in-ai-develo.md"
+    },
+    {
+        "title": "🔐 OTP RS: RFC-Compliant OTP Input Components for WASM Frameworks",
+        "slug": "otp-rs-rfc-compliant-otp-input-components-for-wasm-frameworks",
+        "author": "Mahmoud 🦀",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 11:24:36 +0000",
+        "description": "Nǐ hǎo 👋! You've seen the textbox. You've typed the number. You've waited three seconds for the SMS that never came, checked your spam folder, clicked Resen...",
+        "keywords": "slot, input, otp, you, focus, component, yew, string",
+        "generated": "2026-10-04T12:05:49.594067",
+        "file": "otp-rs-rfc-compliant-otp-input-components-for-wasm-frameworks.md"
     },
     {
         "title": "One Year of Sponsored Servo Development",
@@ -75526,6 +75680,17 @@
         "file": "your-pipeline-is-152h-behind-catching-finance-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "How to Run Puppeteer in Production Without It Crashing (and When to Stop)",
+        "slug": "how-to-run-puppeteer-in-production-without-it-crashing-and-when-to-stop",
+        "author": "Nico Acosta",
+        "source": "devto_webdev",
+        "published": "Sun, 04 Oct 2026 11:39:11 +0000",
+        "description": "Puppeteer in production has a signature failure: it works perfectly on your laptop, passes every test, and then falls over the moment real traffic hits it. T...",
+        "keywords": "browser, chromium, memory, you, container, puppeteer, production, your",
+        "generated": "2026-10-04T12:05:49.593244",
+        "file": "how-to-run-puppeteer-in-production-without-it-crashing-and-when-to-stop.md"
+    },
+    {
         "title": "Benchmarking Next-Gen Image & Video Generation in 2026: GPT-Image-2.5 Flare, Grok Imagine 2.0, and 4K Commercial Pipelines",
         "slug": "benchmarking-next-gen-image-video-generation-in-2026-gpt-image-25-flare-grok-imagine-20-and-4k-commercial-pipelines",
         "author": "GretchenWeimannrh111",
@@ -80322,6 +80487,17 @@
         "file": "google-has-removed-mv2-extensions-from-the-chrome-web-store-including-ubo.md"
     },
     {
+        "title": "Jev by TypeSafe AI: the hype, reactions, and two-week clone war",
+        "slug": "jev-by-typesafe-ai-the-hype-reactions-and-two-week-clone-war",
+        "author": "Dishant Sharma",
+        "source": "devto_ai",
+        "published": "Sun, 04 Oct 2026 11:52:23 +0000",
+        "description": "Somewhere in a roleplay community, people are feeding their own chat replies into a model built for industrial automation. The model scores their writing and...",
+        "keywords": "jev, model, not, you, people, two, built, what",
+        "generated": "2026-10-04T12:05:49.594519",
+        "file": "jev-by-typesafe-ai-the-hype-reactions-and-two-week-clone-war.md"
+    },
+    {
         "title": "How I Built an AI Agent That Controls Browsers, Terminals, and Desktop Apps",
         "slug": "how-i-built-an-ai-agent-that-controls-browsers-terminals-and-desktop-apps",
         "author": "Safiyev Marat",
@@ -83444,6 +83620,17 @@
         "keywords": "import, module, python, print, sys, config, code, when",
         "generated": "2026-07-13T09:37:40.643738",
         "file": "how-pythons-import-system-works-and-why-it-matters-for-debugging.md"
+    },
+    {
+        "title": "Can Jev predict Bitcoin? It read the indicators backwards",
+        "slug": "can-jev-predict-bitcoin-it-read-the-indicators-backwards",
+        "author": "Truong Pham | Moon The Train",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 11:59:01 +0000",
+        "description": "Can Jev predict Bitcoin? On the test I ran, no. I sent Jev the same 12 technical indicators that a plain gradient-boosting model used, for 1,500 BTCUSDT 5-mi...",
+        "keywords": "jev, boosting, candles, indicators, test, candle, auc, next",
+        "generated": "2026-10-04T12:05:49.589577",
+        "file": "can-jev-predict-bitcoin-it-read-the-indicators-backwards.md"
     },
     {
         "title": "I built a $0/month AI news aggregator with Next.js, GitHub Actions and IndexNow",
@@ -88197,6 +88384,17 @@
         "keywords": "url, https, com, comments, people, worried, america, solvency",
         "generated": "2026-08-17T12:53:34.356626",
         "file": "people-are-worried-about-americas-solvency.md"
+    },
+    {
+        "title": "The Math an Applied AI Engineer Actually Uses in an Evaluation Loop",
+        "slug": "the-math-an-applied-ai-engineer-actually-uses-in-an-evaluation-loop",
+        "author": "Alex Agafonov",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 12:02:10 +0000",
+        "description": "A team compares two versions of an AI service. Average accuracy rises from 82% to 86%. The new version looks better, so releasing it seems like the obvious d...",
+        "keywords": "not, answer, system, result, results, evaluation, first, set",
+        "generated": "2026-10-04T12:05:49.589035",
+        "file": "the-math-an-applied-ai-engineer-actually-uses-in-an-evaluation-loop.md"
     },
     {
         "title": "The Life and Times of Maxis, Part 1: SimEverything",
@@ -95730,6 +95928,17 @@
         "keywords": "nasa, url, https, comments, fill, name, you, can",
         "generated": "2026-09-01T11:25:28.726736",
         "file": "nasa-fill-in-a-name-and-you-can-have-an-exclusive-coordinate-in-the-universe.md"
+    },
+    {
+        "title": "Player Disconnect Handling: Reassign the Lobby Host in 3 Steps",
+        "slug": "player-disconnect-handling-reassign-the-lobby-host-in-3-steps",
+        "author": "matsjohansson6547",
+        "source": "devto_python",
+        "published": "Sun, 04 Oct 2026 12:04:29 +0000",
+        "description": "TL;DR: Handle a player disconnect and reassign the lobby host on the server, even when the surrounding lobby uses Node.js and Express. Give browser tokens on...",
+        "keywords": "presence, member, host, can, server, not, one, provider",
+        "generated": "2026-10-04T12:05:49.588517",
+        "file": "player-disconnect-handling-reassign-the-lobby-host-in-3-steps.md"
     },
     {
         "title": "How I Built a Crypto Airdrop Farming System With Zero Investment (June 2026)",
