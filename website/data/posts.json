@@ -946,6 +946,17 @@
         "file": "how-to-fix-lovable-supabase-realtime-stream-replication-failures-cleanly.md"
     },
     {
+        "title": "PostgreSQL serial vs identity: Which to Use, and How to Convert Old serial Columns",
+        "slug": "postgresql-serial-vs-identity-which-to-use-and-how-to-convert-old-serial-columns",
+        "author": "Son Tran",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 04:37:38 +0000",
+        "description": "Disclosure: I build Schemity , a desktop ERD tool - this post is from our blog and uses it for the examples. TL;DR: Use GENERATED ALWAYS AS IDENTITY for new ...",
+        "keywords": "column, key, serial, identity, sequence, table, default, bigint",
+        "generated": "2026-10-05T05:01:22.636184",
+        "file": "postgresql-serial-vs-identity-which-to-use-and-how-to-convert-old-serial-columns.md"
+    },
+    {
         "title": "AI Agent Red Teaming & Tool Poisoning Masterclass 2026: Prompt Injections, MCP Poisoning & Enterprise Defense",
         "slug": "ai-agent-red-teaming-tool-poisoning-masterclass-2026-prompt-injections-mcp-poisoning-enterprise-defense",
         "author": "Syed Abrar",
@@ -2541,6 +2552,17 @@
         "file": "project-memory-is-not-chat-history-a-tiny-handoff-layer-for-ai-agents.md"
     },
     {
+        "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+        "slug": "powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch",
+        "author": "llm_nerd",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 01:54:08 +0000",
+        "description": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comment...",
+        "keywords": "powerless, drivers, frustrated, bahrain, software, glitch, url, https",
+        "generated": "2026-10-05T05:01:22.633687",
+        "file": "powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch.md"
+    },
+    {
         "title": "Cómo integrar un LLM (Claude o GPT) en tu aplicación Python",
         "slug": "cmo-integrar-un-llm-claude-o-gpt-en-tu-aplicacin-python",
         "author": "Juan Carlos Isaza",
@@ -3221,6 +3243,17 @@
         "keywords": "quantum, islands, physics, matter, saint, expert, condensed, information",
         "generated": "2026-08-06T03:12:22.483733",
         "file": "remote-physics-expert-condensed-matter-quantum-information-80-160hour.md"
+    },
+    {
+        "title": "Migrating off the remove.bg API: a field-by-field compatibility audit",
+        "slug": "migrating-off-the-removebg-api-a-field-by-field-compatibility-audit",
+        "author": "a353551071",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 04:27:47 +0000",
+        "description": "TL;DR The remove.bg standalone site — and its self-serve API — retires on 1 December 2026, 9:00 CET . The official landing spot for API users, Leonardo.Ai, i...",
+        "keywords": "image, your, full, error, api, you, remove, not",
+        "generated": "2026-10-05T05:01:22.634936",
+        "file": "migrating-off-the-removebg-api-a-field-by-field-compatibility-audit.md"
     },
     {
         "title": "Measuring Operational Output in High-Performance Teams (255)",
@@ -18334,6 +18367,17 @@
         "file": "modelo-de-dados-python-parte-2-protocolos-e-mtodos-especiais.md"
     },
     {
+        "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+        "slug": "self-hosted-http-tunnels-with-ssh-and-nginx",
+        "author": "renehsz",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 22:25:10 +0000",
+        "description": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 97 # Comments: 29",
+        "keywords": "http, ssh, url, https, comments, self, hosted, tunnels",
+        "generated": "2026-10-05T05:01:22.633815",
+        "file": "self-hosted-http-tunnels-with-ssh-and-nginx.md"
+    },
+    {
         "title": "Created AI from Scratch in my final year of HighSchool",
         "slug": "created-ai-from-scratch-in-my-final-year-of-highschool",
         "author": "Aradhya Kumar Chandra",
@@ -26230,6 +26274,17 @@
         "file": "generate-uuids-in-bulk-instantly-with-this-free-tool.md"
     },
     {
+        "title": "The 10-Millisecond Trick: How Recommenders Search Millions of Items Before You Blink",
+        "slug": "the-10-millisecond-trick-how-recommenders-search-millions-of-items-before-you-blink",
+        "author": "Daniel Sam Pete Thiyagu",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 04:33:19 +0000",
+        "description": "One-paste order for Medium's new-story editor: title → body → diagrams → notebook link → checklist . Every time you open Netflix, YouTube, or TikTok, a model...",
+        "keywords": "retrieval, negatives, items, item, tower, you, model, two",
+        "generated": "2026-10-05T05:01:22.634589",
+        "file": "the-10-millisecond-trick-how-recommenders-search-millions-of-items-before-you-blink.md"
+    },
+    {
         "title": "A great tool CoverForge(an ai cover letter generator) discussed by Mia Keller",
         "slug": "a-great-tool-coverforgean-ai-cover-letter-generator-discussed-by-mia-keller",
         "author": "Ayan Memon",
@@ -33257,6 +33312,17 @@
         "keywords": "tool, agent, security, xml, can, you, triage, what",
         "generated": "2026-09-01T20:51:44.951458",
         "file": "i-built-an-ai-security-agent-that-found-vulnerabilities-in-its-own-code-and-why-thats-the-point.md"
+    },
+    {
+        "title": "Creator Compass — A Private AI Advisor for a Creator's Real Life",
+        "slug": "creator-compass-a-private-ai-advisor-for-a-creators-real-life",
+        "author": "Ujjwal Gupta",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 04:58:00 +0000",
+        "description": "What I Built I built Creator Compass , a personal AI advisor for a friend who recently started her Instagram creator journey while pursuing her PhD at IIT. S...",
+        "keywords": "creator, her, she, what, compass, life, open, model",
+        "generated": "2026-10-05T05:01:22.636458",
+        "file": "creator-compass-a-private-ai-advisor-for-a-creators-real-life.md"
     },
     {
         "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
@@ -40288,6 +40354,17 @@
         "keywords": "stanford, safety, hai, index, these, technical, report, according",
         "generated": "2026-07-28T19:39:37.253454",
         "file": "the-2026-ai-index-report-responsible-ai.md"
+    },
+    {
+        "title": "Eight broken tool calls: how six agent frameworks recover",
+        "slug": "eight-broken-tool-calls-how-six-agent-frameworks-recover",
+        "author": "Rashid Mahmood",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 04:16:23 +0000",
+        "description": "Models send bad tool calls: malformed JSON, a tool name that does not exist, a missing argument. What happens next is decided by the agent framework, not the...",
+        "keywords": "res, tool, framework, not, model, calls, arena, argument",
+        "generated": "2026-10-05T05:01:22.635281",
+        "file": "eight-broken-tool-calls-how-six-agent-frameworks-recover.md"
     },
     {
         "title": "Universality of Gradient Descent Neural Network Training",
@@ -55583,6 +55660,17 @@
         "file": "how-to-deploy-multi-agent-ai-setup-crewai-on-ubuntu-2404-bare-metal-gpu.md"
     },
     {
+        "title": "Web Scraping at Scale Without the $99–$250/Month API Bill",
+        "slug": "web-scraping-at-scale-without-the-99250month-api-bill",
+        "author": "Ryan Cole",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 04:27:38 +0000",
+        "description": "Most scraping APIs charge $99–$250/month the moment you need concurrency or a rotating proxy. For an indie project or a B2B lead-gen pipeline, that's often...",
+        "keywords": "you, json, rows, asyncio, async, await, html, pipeline",
+        "generated": "2026-10-05T05:01:22.635142",
+        "file": "web-scraping-at-scale-without-the-99250month-api-bill.md"
+    },
+    {
         "title": "I Gave Claude 10+ SaaS Growth Skills and Let It Run My Own Platform",
         "slug": "i-gave-claude-10-saas-growth-skills-and-let-it-run-my-own-platform",
         "author": "shrey vijayvargiya",
@@ -59510,6 +59598,17 @@
         "file": "human-brain-is-two-separate-organs-stanford-medicine-led-research-finds.md"
     },
     {
+        "title": "Introducing Frontpagee: The Fast, Distraction-Free RSS Reader for Developers & Tech Teams",
+        "slug": "introducing-frontpagee-the-fast-distraction-free-rss-reader-for-developers-tech-teams",
+        "author": "Ganesh Raikwar",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 04:56:50 +0000",
+        "description": "Today, we are thrilled to officially introduce Frontpagee — a modern, keyboard-driven RSS reader and feed aggregator engineered for developers, engineering t...",
+        "keywords": "frontpagee, your, reader, developers, feed, fast, free, rss",
+        "generated": "2026-10-05T05:01:22.635637",
+        "file": "introducing-frontpagee-the-fast-distraction-free-rss-reader-for-developers-tech-teams.md"
+    },
+    {
         "title": "HINDY: Hunting Wolves in Sheep's Clothing",
         "slug": "hindy-hunting-wolves-in-sheeps-clothing",
         "author": "Siva Balaji B K",
@@ -61191,6 +61290,17 @@
         "keywords": "your, title, titles, search, you, they, users, what",
         "generated": "2026-09-08T16:23:34.873209",
         "file": "create-seo-article-titles-that-are-not-only-good-but-also-clickable.md"
+    },
+    {
+        "title": "What's in My Fridge? — An Open-Source AI Cooking Assistant I Built for a Friend",
+        "slug": "whats-in-my-fridge-an-open-source-ai-cooking-assistant-i-built-for-a-friend",
+        "author": "fatik07",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 04:59:31 +0000",
+        "description": "The problem A friend of mine has a habit: they open the fridge, stare at a handful of random ingredients — some eggs, half a chicken, a bag of rice — and jus...",
+        "keywords": "what, model, you, openrouter, not, open, friend, tanstack",
+        "generated": "2026-10-05T05:01:22.635495",
+        "file": "whats-in-my-fridge-an-open-source-ai-cooking-assistant-i-built-for-a-friend.md"
     },
     {
         "title": "while loops in Python: repetition with a condition",
@@ -67892,6 +68002,17 @@
         "file": "find-social-media-profiles-by-username-with-python.md"
     },
     {
+        "title": "In the wake of closure, a digital archive of animated materials appears online",
+        "slug": "in-the-wake-of-closure-a-digital-archive-of-animated-materials-appears-online",
+        "author": "rdmuser",
+        "source": "hackernews",
+        "published": "Sun, 04 Oct 2026 21:01:28 +0000",
+        "description": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: ...",
+        "keywords": "wake, closure, digital, archive, animated, materials, appears, online",
+        "generated": "2026-10-05T05:01:22.633870",
+        "file": "in-the-wake-of-closure-a-digital-archive-of-animated-materials-appears-online.md"
+    },
+    {
         "title": "AI Agents for Business: Autonomous Systems Explained",
         "slug": "ai-agents-for-business-autonomous-systems-explained",
         "author": "Digital Colliers",
@@ -68728,6 +68849,17 @@
         "file": "openai-experts-discuss-ai-engineerings-golden-age.md"
     },
     {
+        "title": "Support Ticket Tagging: How to Compare Fine-Tuning, Embeddings, and Rerank in 2026",
+        "slug": "support-ticket-tagging-how-to-compare-fine-tuning-embeddings-and-rerank-in-2026",
+        "author": "KenjiTanaka6849",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 04:56:25 +0000",
+        "description": "The best alternative to fine-tuning for support ticket and product catalog tagging is usually zero-shot classification first, followed by a measured choice b...",
+        "keywords": "json, string, err, model, label, not, type, one",
+        "generated": "2026-10-05T05:01:22.637094",
+        "file": "support-ticket-tagging-how-to-compare-fine-tuning-embeddings-and-rerank-in-2026.md"
+    },
+    {
         "title": "How I replaced 3 SaaS tools with a 50-line Python script",
         "slug": "how-i-replaced-3-saas-tools-with-a-50-line-python-script",
         "author": "David García",
@@ -69452,6 +69584,17 @@
         "keywords": "markdown, you, previewer, math, documentation, when, preview, tools",
         "generated": "2026-06-21T14:23:01.492620",
         "file": "introducing-advanced-markdown-previewer-a-quick-tour.md"
+    },
+    {
+        "title": "TOBER FEST",
+        "slug": "tober-fest",
+        "author": "Rathnam.S",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 04:56:53 +0000",
+        "description": "What I Built I built SecondMind — a local-first second brain that runs on your own laptop. The idea came from building something useful for a friend who ofte...",
+        "keywords": "memory, memories, can, secondmind, open, project, model, ollama",
+        "generated": "2026-10-05T05:01:22.636616",
+        "file": "tober-fest.md"
     },
     {
         "title": "Day 1: What Is NLP? A Practical Introduction for Engineers",
@@ -78474,6 +78617,17 @@
         "file": "the-test-that-slept-and-the-test-that-never-woke-up.md"
     },
     {
+        "title": "Atrium: a tour of the AI investigation platform I run beside Snowflake CoCo",
+        "slug": "atrium-a-tour-of-the-ai-investigation-platform-i-run-beside-snowflake-coco",
+        "author": "mkash25",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 04:47:36 +0000",
+        "description": "I'm Mayank, an engineer at Snowflake supporting security and connectivity. Atrium is a tool I built for my own support casework. It's internal, so this post ...",
+        "keywords": "agent, atrium, work, review, case, its, one, what",
+        "generated": "2026-10-05T05:01:22.634236",
+        "file": "atrium-a-tour-of-the-ai-investigation-platform-i-run-beside-snowflake-coco.md"
+    },
+    {
         "title": "Every Laptop Is a Credential Store: Complete Map of Hidden Secrets",
         "slug": "every-laptop-is-a-credential-store-complete-map-of-hidden-secrets",
         "author": "Dwayne McDaniel",
@@ -79792,6 +79946,17 @@
         "keywords": "you, model, api, pro, had, like, different, global",
         "generated": "2026-07-15T13:53:37.359192",
         "file": "stop-guessing-real-data-comparing-enterprise-and-startup-ai-apis.md"
+    },
+    {
+        "title": "A 40ms Go garbage collector pause caused by swap",
+        "slug": "a-40ms-go-garbage-collector-pause-caused-by-swap",
+        "author": "shellpipe",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 01:11:56 +0000",
+        "description": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 22 # Comments: 5",
+        "keywords": "url, https, comments, garbage, collector, pause, caused, swap",
+        "generated": "2026-10-05T05:01:22.633755",
+        "file": "a-40ms-go-garbage-collector-pause-caused-by-swap.md"
     },
     {
         "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
@@ -81519,6 +81684,17 @@
         "keywords": "history, lightbulb, koda, bugs, would, have, code, fix",
         "generated": "2026-10-01T12:50:17.626833",
         "file": "iam-12-i-shipped-a-buggy-version-on-purpose-here-is-why-koda-v031-is-better-than-any-perfect-release.md"
+    },
+    {
+        "title": "Mend: a missing button shouldn't retire a shirt",
+        "slug": "mend-a-missing-button-shouldnt-retire-a-shirt",
+        "author": "Arya Koste",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 04:53:02 +0000",
+        "description": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What I Built Think of one thing you own that's almost fine. A shirt with...",
+        "keywords": "repair, you, tools, library, sanity, what, mend, can",
+        "generated": "2026-10-05T05:01:22.637430",
+        "file": "mend-a-missing-button-shouldnt-retire-a-shirt.md"
     },
     {
         "title": "How to Build a Flight Tracker with Aviationstack API",
@@ -92080,6 +92256,17 @@
         "file": "the-benchmarkpocalypse.md"
     },
     {
+        "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+        "slug": "nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague",
+        "author": "ericmay",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 02:31:45 +0000",
+        "description": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: htt...",
+        "keywords": "nearly, people, under, observation, after, irkutsk, lab, worker",
+        "generated": "2026-10-05T05:01:22.633545",
+        "file": "nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague.md"
+    },
+    {
         "title": "Every Postcard Tells a Story",
         "slug": "every-postcard-tells-a-story",
         "author": "NaOH",
@@ -92749,6 +92936,17 @@
         "keywords": "allel, print, plt, scikit, pca, ihs, import, genotypes",
         "generated": "2026-06-13T04:19:15.385316",
         "file": "scikit-allel.md"
+    },
+    {
+        "title": "Another Rule for Using AI Without Losing My Skills",
+        "slug": "another-rule-for-using-ai-without-losing-my-skills",
+        "author": "Cesar Aguirre",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 05:00:00 +0000",
+        "description": "When code breaks, you can't simply say, AI did that. You're responsible for the code you ship. That's been true from the days of copy-pasting from forums, ...",
+        "keywords": "code, rule, you, skills, coding, another, using, without",
+        "generated": "2026-10-05T05:01:22.636285",
+        "file": "another-rule-for-using-ai-without-losing-my-skills.md"
     },
     {
         "title": "Batch vs On-Demand Python Derivatives — Choose Batch for Vehicle Inventory Photos",
@@ -94797,6 +94995,17 @@
         "file": "ai-for-small-shopify-brands-elevate-your-content-operations.md"
     },
     {
+        "title": "I Built DevNavigates: An Interactive, Visual Learning Roadmap for Developers",
+        "slug": "i-built-devnavigates-an-interactive-visual-learning-roadmap-for-developers",
+        "author": "Dipanshu Rawat",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 04:43:11 +0000",
+        "description": "Most developer roadmaps are either static text lists or massive, rigid images that are overwhelming to look at and clunky to navigate. I wanted something dif...",
+        "keywords": "devnavigates, interactive, roadmap, app, your, next, mongodb, curated",
+        "generated": "2026-10-05T05:01:22.635865",
+        "file": "i-built-devnavigates-an-interactive-visual-learning-roadmap-for-developers.md"
+    },
+    {
         "title": "从玩具到教材：一个500行AI框架的自我修养",
         "slug": "500ai",
         "author": "llimage",
@@ -96357,6 +96566,17 @@
         "keywords": "you, local, two, audio, your, install, livedub, one",
         "generated": "2026-08-19T01:37:09.903249",
         "file": "a-local-video-dubber-fully-running-in-about-ten-minutes.md"
+    },
+    {
+        "title": "Your project needs a spec sheet, not another README",
+        "slug": "your-project-needs-a-spec-sheet-not-another-readme",
+        "author": "Engeenie",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 04:55:26 +0000",
+        "description": "Most README files answer how do I run this? Almost none answer the question that protects you six months later: what did you decide, and what do you alread...",
+        "keywords": "you, what, one, spec, sheet, known, issue, readme",
+        "generated": "2026-10-05T05:01:22.635731",
+        "file": "your-project-needs-a-spec-sheet-not-another-readme.md"
     },
     {
         "title": "How to Enhance Your Personal Brand on LinkedIn in 2026",
