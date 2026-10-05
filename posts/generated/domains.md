@@ -1,19 +1,19 @@
 ---
 title: "Domains"
 slug: "domains"
-author: "Igaekweta"
-source: "devto_webdev"
-published: "Sun, 27 Sep 2026 11:37:38 +0000"
-description: "https://freshtools.icu/ https://freshtools.life/ https://freshtools.lol/ https://freshtools.online"
-keywords: "https, freshtools, domains, icu, life, lol, online"
-generated: "2026-09-27T11:46:32.761611"
+author: "wueueueru"
+source: "devto_ai"
+published: "Mon, 05 Oct 2026 23:36:29 +0000"
+description: "https://freshtools.online/ https://freshtools.space/ https://freshtools.store/ https://freshtools.top/"
+keywords: "https, freshtools, domains, online, space, store, top"
+generated: "2026-10-05T23:55:08.865121"
 ---
 
 # Domains
 
 ## Overview
 
-https://freshtools.icu/ https://freshtools.life/ https://freshtools.lol/ https://freshtools.online
+https://freshtools.online/ https://freshtools.space/ https://freshtools.store/ https://freshtools.top/
 
 ## Key Insights
 
@@ -27,7 +27,7 @@ This article was discovered from the latest RSS feeds and automatically transfor
 
 ## Original Source
 
-https://dev.to/igaekweta_e3df9ccec2dee52/domains-2la1
+https://dev.to/euiuirrui/domains-5bhk
 
 ## Conclusion
 

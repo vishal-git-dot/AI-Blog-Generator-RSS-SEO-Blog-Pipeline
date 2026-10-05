@@ -3411,6 +3411,17 @@
         "file": "building-dev-code-an-agentic-ai-coding-assistant-with-rag-memory-and-vs-code-integration.md"
     },
     {
+        "title": "Giving Your LLM Agent Web Search Without Burning Money: Self-hosted SearXNG, Caching and Citation Checks",
+        "slug": "giving-your-llm-agent-web-search-without-burning-money-self-hosted-searxng-caching-and-citation-checks",
+        "author": "EME GUG",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 23:33:56 +0000",
+        "description": "Tuần này trên Hacker News, một bài về Web Search API đạt gần 500 điểm. Phần bình luận chủ yếu xoay quanh ba nỗi khổ: chi phí theo từng query, rate limit và c...",
+        "keywords": "agent, search, self, searxng, cache, gateway, web, cho",
+        "generated": "2026-10-05T23:55:08.860878",
+        "file": "giving-your-llm-agent-web-search-without-burning-money-self-hosted-searxng-caching-and-citation-checks.md"
+    },
+    {
         "title": "Nobody teaches you to debug",
         "slug": "nobody-teaches-you-to-debug",
         "author": "Viram Choksi",
@@ -3904,6 +3915,17 @@
         "keywords": "your, code, you, koda, extension, web, file, cursor",
         "generated": "2026-10-01T05:13:42.619674",
         "file": "iam-12-my-web-mentor-koda-is-now-in-your-editor-here-is-how-i-built-a-cursor-killer-extension-on-a-150-phone.md"
+    },
+    {
+        "title": "GMO Coin API in Python: HMAC signing, post-only limit orders, and the 4 errors that will bite you",
+        "slug": "gmo-coin-api-in-python-hmac-signing-post-only-limit-orders-and-the-4-errors-that-will-bite-you",
+        "author": "Wataru Suda",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 23:30:03 +0000",
+        "description": "GMO Coin is one of the larger Japanese crypto exchanges, and its REST API is genuinely pleasant: public endpoints need no key, the docs are bilingual, and th...",
+        "keywords": "you, api, not, only, body, post, time, path",
+        "generated": "2026-10-05T23:55:08.861708",
+        "file": "gmo-coin-api-in-python-hmac-signing-post-only-limit-orders-and-the-4-errors-that-will-bite-you.md"
     },
     {
         "title": "GPT-6 Astra for Developers: What Changed in Codex, and a 90-Minute Test Plan for Your Repo",
@@ -18171,6 +18193,17 @@
         "file": "native-apps-should-be-avoided-whenever-possible.md"
     },
     {
+        "title": "Server-render an SVG map with no map library",
+        "slug": "server-render-an-svg-map-with-no-map-library",
+        "author": "Chase Fleming",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 23:47:20 +0000",
+        "description": "Showing a dot on a map usually means a vendor, an API key, and a script to load. That is a lot of machinery for a drawing. You can skip all of it. The race p...",
+        "keywords": "const, map, name, lat, lon, out, svg, points",
+        "generated": "2026-10-05T23:55:08.863755",
+        "file": "server-render-an-svg-map-with-no-map-library.md"
+    },
+    {
         "title": "I Tested Rytr for 30 Days: Honest Review (7.9/10)",
         "slug": "i-tested-rytr-for-30-days-honest-review-7910",
         "author": "RankerToolAI",
@@ -25064,6 +25097,17 @@
         "file": "most-people-search-tools-will-sell-you-a-phone-number-thats-actually-masked-garbage-mine-refuses-to.md"
     },
     {
+        "title": "Worth Building",
+        "slug": "worth-building",
+        "author": "colinarms",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 22:59:24 +0000",
+        "description": "Article URL: https://armstr.ng/writing/worth-building Comments URL: https://news.ycombinator.com/item?id=49971952 Points: 17 # Comments: 5",
+        "keywords": "worth, building, url, https, comments, article, armstr, writing",
+        "generated": "2026-10-05T23:55:08.860338",
+        "file": "worth-building.md"
+    },
+    {
         "title": "Observatorio de gastos públicos",
         "slug": "observatorio-de-gastos-pblicos",
         "author": "benevanio santos",
@@ -30817,6 +30861,17 @@
         "file": "when-strlower-is-a-security-vulnerability-in-python-seth-larson.md"
     },
     {
+        "title": "PreToolUse or PostToolUse? Where to Put a Check in the Claude Agent SDK",
+        "slug": "pretooluse-or-posttooluse-where-to-put-a-check-in-the-claude-agent-sdk",
+        "author": "Poorna Reddy",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 22:55:18 +0000",
+        "description": "If an agent can trigger a business action, the most important design question is where each check runs. In the Claude Agent SDK, hooks give you two points ar...",
+        "keywords": "agent, tool, hooks, claude, sdk, not, hook, can",
+        "generated": "2026-10-05T23:55:08.862398",
+        "file": "pretooluse-or-posttooluse-where-to-put-a-check-in-the-claude-agent-sdk.md"
+    },
+    {
         "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
         "slug": "show-hn-a-pure-arm64-assembly-web-server-now-on-linux-with-cgi-for-no-reason",
         "author": "imtomt",
@@ -35184,6 +35239,17 @@
         "file": "llm-for-object-detection-a-comprehensive-guide.md"
     },
     {
+        "title": "Rate-Limited Reminder Recovery: Idempotent Queues After Webhook and Email Send Failures",
+        "slug": "rate-limited-reminder-recovery-idempotent-queues-after-webhook-and-email-send-failures",
+        "author": "DemetriusReed2163",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 23:18:42 +0000",
+        "description": "Short answer: put each user reminder on a queue, make the consumer idempotent, retry transient delivery failures with backoff, and move exhausted work to a d...",
+        "keywords": "reminder, queue, provider, delivery, when, not, connection, retry",
+        "generated": "2026-10-05T23:55:08.862227",
+        "file": "rate-limited-reminder-recovery-idempotent-queues-after-webhook-and-email-send-failures.md"
+    },
+    {
         "title": "ElevenLabs — Deep Dive",
         "slug": "elevenlabs-deep-dive",
         "author": "GAUTAM MANAK",
@@ -37828,6 +37894,17 @@
         "file": "quadratic-funding-democratizes-allocation-by-rewarding-projects-w-broad-support.md"
     },
     {
+        "title": "My PPTX converter silently dropped half a pitch deck — SmartArt text lives in a different XML part",
+        "slug": "my-pptx-converter-silently-dropped-half-a-pitch-deck-smartart-text-lives-in-a-different-xml-part",
+        "author": "InApp",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 23:36:02 +0000",
+        "description": "A user ran their investor deck through my PPTX-to-Markdown converter and chunks of content just vanished. No errors. Titles, bullet lists, tables all fine — ...",
+        "keywords": "text, content, slide, decks, pptx, deck, smartart, lives",
+        "generated": "2026-10-05T23:55:08.865300",
+        "file": "my-pptx-converter-silently-dropped-half-a-pitch-deck-smartart-text-lives-in-a-different-xml-part.md"
+    },
+    {
         "title": "Claude Code Now Runs Subagents in the Background by Default — What Actually Changed",
         "slug": "claude-code-now-runs-subagents-in-the-background-by-default-what-actually-changed",
         "author": "Alvarito1983",
@@ -39617,6 +39694,17 @@
         "keywords": "development, software, code, developers, powered, can, tools, learning",
         "generated": "2026-06-05T10:10:12.601187",
         "file": "exploring-the-future-of-software-development-with-artificial-intelligence.md"
+    },
+    {
+        "title": "What Is HEIC and How to Open HEIC Files Anywhere",
+        "slug": "what-is-heic-and-how-to-open-heic-files-anywhere",
+        "author": "zjch022",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 23:39:30 +0000",
+        "description": "If you have ever copied photos from an iPhone to a Windows PC, you have probably met the HEIC problem. Instead of familiar .JPG files, you get a folder of .H...",
+        "keywords": "heic, files, you, photos, codec, windows, hevc, open",
+        "generated": "2026-10-05T23:55:08.864720",
+        "file": "what-is-heic-and-how-to-open-heic-files-anywhere.md"
     },
     {
         "title": "How to check Core Web Vitals for hundreds of URLs at once (API + code)",
@@ -49691,12 +49779,12 @@
     {
         "title": "Domains",
         "slug": "domains",
-        "author": "Igaekweta",
-        "source": "devto_webdev",
-        "published": "Sun, 27 Sep 2026 11:37:38 +0000",
-        "description": "https://freshtools.icu/ https://freshtools.life/ https://freshtools.lol/ https://freshtools.online",
-        "keywords": "https, freshtools, domains, icu, life, lol, online",
-        "generated": "2026-09-27T11:46:32.761611",
+        "author": "wueueueru",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 23:36:29 +0000",
+        "description": "https://freshtools.online/ https://freshtools.space/ https://freshtools.store/ https://freshtools.top/",
+        "keywords": "https, freshtools, domains, online, space, store, top",
+        "generated": "2026-10-05T23:55:08.865121",
         "file": "domains.md"
     },
     {
@@ -53966,6 +54054,17 @@
         "file": "71-earthquake-in-japan.md"
     },
     {
+        "title": "How to Convert HEIC to PDF on iPhone Without an App",
+        "slug": "how-to-convert-heic-to-pdf-on-iphone-without-an-app",
+        "author": "zjch022",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 23:42:10 +0000",
+        "description": "Need to turn iPhone photos into a PDF — for a receipt, a form, or a document you have to email — but your photos are all in HEIC? You don't need to install a...",
+        "keywords": "pdf, photos, app, you, your, heic, browser, one",
+        "generated": "2026-10-05T23:55:08.863943",
+        "file": "how-to-convert-heic-to-pdf-on-iphone-without-an-app.md"
+    },
+    {
         "title": "Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data",
         "slug": "private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data",
         "author": "Chen Yuan",
@@ -54404,6 +54503,17 @@
         "keywords": "model, harness, should, engineering, building, more, system, like",
         "generated": "2026-07-25T13:46:22.468767",
         "file": "beyond-the-model-building-the-ai-harness.md"
+    },
+    {
+        "title": "8. Synthetic customers, part 1: can a fake shopper judge your recommender?",
+        "slug": "8-synthetic-customers-part-1-can-a-fake-shopper-judge-your-recommender",
+        "author": "4thwithme",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 23:49:20 +0000",
+        "description": "source link: https://4thwithme.dev/blog/synthetic-customers-theory/ Picture a shop that sells colored and flavored toilet paper. Mint. Lavender. Bacon. You b...",
+        "keywords": "you, one, real, fake, data, what, model, recommender",
+        "generated": "2026-10-05T23:55:08.865059",
+        "file": "8-synthetic-customers-part-1-can-a-fake-shopper-judge-your-recommender.md"
     },
     {
         "title": "Your locale files are drifting behind English and nobody reviews it",
@@ -62865,6 +62975,17 @@
         "file": "a-simple-readiness-checklist-before-you-let-an-ai-agent-touch-production.md"
     },
     {
+        "title": "Example.com Just Launched the Biggest Redesign in Decades",
+        "slug": "examplecom-just-launched-the-biggest-redesign-in-decades",
+        "author": "jgx0",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 22:55:11 +0000",
+        "description": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 33 # Comment...",
+        "keywords": "com, example, redesign, url, https, comments, just, launched",
+        "generated": "2026-10-05T23:55:08.860421",
+        "file": "examplecom-just-launched-the-biggest-redesign-in-decades.md"
+    },
+    {
         "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
         "slug": "surveillance-is-not-safety-a-statement-on-the-uks-latest-threat-to-privacy-pdf",
         "author": "g0xA52A2A",
@@ -63226,6 +63347,17 @@
         "keywords": "you, your, seo, tools, can, content, free, paid",
         "generated": "2026-06-20T14:15:47.239885",
         "file": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank.md"
+    },
+    {
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "slug": "chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+        "author": "rdmuser",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 22:46:45 +0000",
+        "description": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ Comments URL: https://news.ycombina...",
+        "keywords": "chatgpt, adding, real, cartoonists, signatures, fake, new, yorker",
+        "generated": "2026-10-05T23:55:08.860488",
+        "file": "chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons.md"
     },
     {
         "title": "Washington Mystics vs Dallas Wings: WNBA Preview & Picks",
@@ -67815,6 +67947,17 @@
         "file": "jep-401-value-objects-preview-merged-to-openjdk-master.md"
     },
     {
+        "title": "Global Solar Atlas: summary of solar power potential globally",
+        "slug": "global-solar-atlas-summary-of-solar-power-potential-globally",
+        "author": "stratts",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 22:37:58 +0000",
+        "description": "Article URL: https://globalsolaratlas.info/ Comments URL: https://news.ycombinator.com/item?id=49971782 Points: 7 # Comments: 2",
+        "keywords": "solar, url, https, comments, global, atlas, summary, power",
+        "generated": "2026-10-05T23:55:08.860546",
+        "file": "global-solar-atlas-summary-of-solar-power-potential-globally.md"
+    },
+    {
         "title": "The Comeback of SaaS Stocks That Were Written Off &#8211; Stefan Waldhauser",
         "slug": "the-comeback-of-saas-stocks-that-were-written-off-8211-stefan-waldhauser",
         "author": "Sam Raisinghani",
@@ -68407,6 +68550,17 @@
         "keywords": "self, llm, context, rag, system, you, data, api",
         "generated": "2026-06-21T19:51:26.685523",
         "file": "de-mystifying-the-genai-stack-from-llms-to-rag-a-systems-perspective.md"
+    },
+    {
+        "title": "I Had AI Grade My 12 Vibe-Coded Blog Posts: 15.1 out of 25",
+        "slug": "i-had-ai-grade-my-12-vibe-coded-blog-posts-151-out-of-25",
+        "author": "Sungwoo Lee",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 23:33:14 +0000",
+        "description": "On 2026-08-16 I had two fresh-context subagents audit 12 posts from my own AI-assisted blog, six posts each, cross-checked. The average score was 15.1 out of...",
+        "keywords": "posts, two, audit, what, anecdote, list, text, each",
+        "generated": "2026-10-05T23:55:08.865610",
+        "file": "i-had-ai-grade-my-12-vibe-coded-blog-posts-151-out-of-25.md"
     },
     {
         "title": "Brittle Browser Scripts are Dead: Build Robust AI Agents That Actually Work",
@@ -69386,6 +69540,17 @@
         "keywords": "meshdiff, url, https, com, comments, visually, compare, two",
         "generated": "2026-08-02T13:39:46.247404",
         "file": "meshdiff-visually-compare-two-stl-versions-in-the-browser-client-side.md"
+    },
+    {
+        "title": "Ephemeral Testing",
+        "slug": "ephemeral-testing",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 23:06:36 +0000",
+        "description": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/ Comments URL: https://news.ycombinator.com/item?id=49972008 Points: 10 # Comments: 0",
+        "keywords": "ephemeral, testing, url, https, comments, article, lemire, blog",
+        "generated": "2026-10-05T23:55:08.860148",
+        "file": "ephemeral-testing.md"
     },
     {
         "title": "Linux vs. Windows: Which Operating System is Actually Better for You?",
@@ -83655,6 +83820,17 @@
         "file": "analyzing-sports-data-burnham-says-infantino-wrong-man-to-lead-fifa-as-criticism-grows-what-the-numbers-say.md"
     },
     {
+        "title": "Zeus Crypto Recovery Services: Professional Coinbase Digital Asset Recovery & Blockchain Investigation",
+        "slug": "zeus-crypto-recovery-services-professional-coinbase-digital-asset-recovery-blockchain-investigation",
+        "author": "Susan Ditto",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 23:32:26 +0000",
+        "description": "Blockchain technology has established a new generation of digital financial infrastructure, enabling value to be transferred, stored, and managed through dec...",
+        "keywords": "recovery, blockchain, can, transaction, digital, wallet, zeus, assets",
+        "generated": "2026-10-05T23:55:08.865833",
+        "file": "zeus-crypto-recovery-services-professional-coinbase-digital-asset-recovery-blockchain-investigation.md"
+    },
+    {
         "title": "Self-Hosting A Model Is Easy, Self-Hosting An Agent Is Not",
         "slug": "self-hosting-a-model-is-easy-self-hosting-an-agent-is-not",
         "author": "Paul Crinigan",
@@ -84436,6 +84612,17 @@
         "file": "do-not-trust-the-green-checkmark.md"
     },
     {
+        "title": "Dos Protocolos de Agentes aos Runtimes Semânticos",
+        "slug": "dos-protocolos-de-agentes-aos-runtimes-semnticos",
+        "author": "suissAI",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 23:41:42 +0000",
+        "description": "Por que o AllasCode, meu runtime Zig com uma arquitetura um evolutiva, adaptativa, generativa, anti-fragil e com auto-cura baseada em intenção; precisa de um...",
+        "keywords": "que, uma, mcp, para, wasm, pode, allascode, ser",
+        "generated": "2026-10-05T23:55:08.864516",
+        "file": "dos-protocolos-de-agentes-aos-runtimes-semnticos.md"
+    },
+    {
         "title": "My Thrilling AI Day: Bhutan Capitals, Meeting Excuses, No Quantum Haikus",
         "slug": "my-thrilling-ai-day-bhutan-capitals-meeting-excuses-no-quantum-haikus",
         "author": "Electra AI",
@@ -85150,6 +85337,17 @@
         "keywords": "not, json, schema, str, fixture, would, agent, you",
         "generated": "2026-09-06T15:15:47.148355",
         "file": "the-agent-invented-a-statusreason-the-spec-had-never-listed-it.md"
+    },
+    {
+        "title": "From Agent Protocols to Semantic Agent Runtimes",
+        "slug": "from-agent-protocols-to-semantic-agent-runtimes",
+        "author": "suissAI",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 23:48:45 +0000",
+        "description": "A simpler way to understand where agentic architecture is going The current generation of agentic systems is already solving several difficult problems. Agen...",
+        "keywords": "agent, what, semantic, execution, can, mcp, not, action",
+        "generated": "2026-10-05T23:55:08.863012",
+        "file": "from-agent-protocols-to-semantic-agent-runtimes.md"
     },
     {
         "title": "Grok CLI uploaded the whole home directory to GCS",
@@ -89438,6 +89636,17 @@
         "keywords": "cloudflare, url, https, comments, show, beat, bot, detection",
         "generated": "2026-07-11T03:17:17.849368",
         "file": "show-hn-we-beat-cloudflares-bot-detection-open-source-stealth-browser.md"
+    },
+    {
+        "title": "Add AI meeting summaries to any app with Zoom AI Services in 15 minutes",
+        "slug": "add-ai-meeting-summaries-to-any-app-with-zoom-ai-services-in-15-minutes",
+        "author": "dummy chen",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 23:32:28 +0000",
+        "description": "Add AI meeting summaries to any app with Zoom AI Services in 15 minutes If you have meeting recordings (standups, sales calls, support calls) and you want su...",
+        "keywords": "api, zoom, text, scribe, transcript, speaker, result, get",
+        "generated": "2026-10-05T23:55:08.861324",
+        "file": "add-ai-meeting-summaries-to-any-app-with-zoom-ai-services-in-15-minutes.md"
     },
     {
         "title": "Unexpected Solidlike Fracture in Simple Liquids",
