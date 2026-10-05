@@ -1551,6 +1551,17 @@
         "file": "how-multi-agent-ai-systems-are-changing-the-way-software-gets-built.md"
     },
     {
+        "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+        "slug": "pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+        "author": "finnlab",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 13:02:25 +0000",
+        "description": "Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped Comments URL: https://news....",
+        "keywords": "grapheneos, pixel, yet, meet, security, standards, may, skipped",
+        "generated": "2026-10-05T14:10:16.261935",
+        "file": "pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped.md"
+    },
+    {
         "title": "# In-House Oil and Gas Training for Inspection and Integrity Teams",
         "slug": "in-house-oil-and-gas-training-for-inspection-and-integrity-teams",
         "author": "eim",
@@ -4564,6 +4575,17 @@
         "keywords": "hello, world",
         "generated": "2026-08-18T18:44:45.286228",
         "file": "hello-world.md"
+    },
+    {
+        "title": "Why the Eventbrite Events Scraper Drops Records Past the 500 Item Cap",
+        "slug": "why-the-eventbrite-events-scraper-drops-records-past-the-500-item-cap",
+        "author": "Crawler Bros",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 13:58:25 +0000",
+        "description": "Extracting event data from Eventbrite presents unique architectural hurdles that go far beyond basic HTTP requests. While scraping simplifies data extraction...",
+        "keywords": "run, your, scraper, you, event, actor, eventbrite, dataset",
+        "generated": "2026-10-05T14:10:16.263471",
+        "file": "why-the-eventbrite-events-scraper-drops-records-past-the-500-item-cap.md"
     },
     {
         "title": "What AI did to stackoverflow in a graph",
@@ -10161,6 +10183,17 @@
         "keywords": "bot, api, open, budget, captcha, async, gemini, railway",
         "generated": "2026-08-19T06:52:53.079382",
         "file": "how-i-built-an-open-budget-uzbekistan-telegram-bot-with-ai-captcha-solving.md"
+    },
+    {
+        "title": "Why Your RAG Chatbot Gives Wrong Answers (And How to Fix It)",
+        "slug": "why-your-rag-chatbot-gives-wrong-answers-and-how-to-fix-it",
+        "author": "Dharanidharan",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 13:45:29 +0000",
+        "description": "You built a chat with your documents app. You upload a PDF, ask a simple question, and the answer is wrong, half right, or completely made up. If this happ...",
+        "keywords": "you, model, chunks, answer, your, fix, text, chunk",
+        "generated": "2026-10-05T14:10:16.264138",
+        "file": "why-your-rag-chatbot-gives-wrong-answers-and-how-to-fix-it.md"
     },
     {
         "title": "How to Assign Seller Login OTP Templates: SMS and Email Delivery Governance",
@@ -17874,6 +17907,17 @@
         "file": "factorio-that-you-can-touch.md"
     },
     {
+        "title": "NixieFX vs three.quarks: the same 160-particle burst in one Three.js scene, measured",
+        "slug": "nixiefx-vs-threequarks-the-same-160-particle-burst-in-one-threejs-scene-measured",
+        "author": "Sam Novak",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 13:55:50 +0000",
+        "description": "If you're adding particle effects to a Three.js game, three.quarks is the library most people find first. NixieFX is a newer option that ships a Three.js run...",
+        "keywords": "three, new, nixiefx, quarks, effect, same, one, you",
+        "generated": "2026-10-05T14:10:16.267384",
+        "file": "nixiefx-vs-threequarks-the-same-160-particle-burst-in-one-threejs-scene-measured.md"
+    },
+    {
         "title": "Why Extracting Audio from Video Is More Useful Than Most People Realize",
         "slug": "why-extracting-audio-from-video-is-more-useful-than-most-people-realize",
         "author": "CloudAiRambo",
@@ -19201,6 +19245,17 @@
         "keywords": "model, should, benchmarks, gpt, claude, mistral, may, evaluation",
         "generated": "2026-09-05T20:09:44.296493",
         "file": "llm-benchmarks-choose-gpt-4o-claude-or-mistral-by-workload.md"
+    },
+    {
+        "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "slug": "europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+        "author": "dachworker",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 11:13:51 +0000",
+        "description": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ Comments URL: https://news.ycombinator.com/item?id=49...",
+        "keywords": "new, robotics, unicorn, robco, hits, valuation, url, https",
+        "generated": "2026-10-05T14:10:16.262559",
+        "file": "europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation.md"
     },
     {
         "title": "I Wrote a Python Script That Cross-Posts My Dev.to Articles to 3 Platforms Automatically — Here's the Code",
@@ -21619,6 +21674,17 @@
         "keywords": "week, php, vote, rfc, time, one, his, but",
         "generated": "2026-08-02T08:30:38.167985",
         "file": "this-week-in-php-internals-july-29-2026.md"
+    },
+    {
+        "title": "Zmanin-WP: Common Codes, part 1",
+        "slug": "zmanin-wp-common-codes-part-1",
+        "author": "Leon Adato",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+        "description": "If you’ve been following this blog, you’ll know that I’ve been working on my Zmanim-WP plugin for WordPress for a while now. This blog series is designed to ...",
+        "keywords": "you, blog, shortcodes, sof, zman, each, time, can",
+        "generated": "2026-10-05T14:10:16.265771",
+        "file": "zmanin-wp-common-codes-part-1.md"
     },
     {
         "title": "ProofRun – a local verification receipt for AI coding agents",
@@ -33985,6 +34051,17 @@
         "file": "what-zig-felt-like-coming-from-rust.md"
     },
     {
+        "title": "Gitframes",
+        "slug": "gitframes",
+        "author": "oknaslnkn",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 12:59:14 +0000",
+        "description": "Article URL: https://github.com/gatewai-dev/gitframes Comments URL: https://news.ycombinator.com/item?id=49964265 Points: 22 # Comments: 10",
+        "keywords": "gitframes, url, https, com, comments, article, github, gatewai",
+        "generated": "2026-10-05T14:10:16.262118",
+        "file": "gitframes.md"
+    },
+    {
         "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
         "slug": "a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review",
         "author": "ilreb",
@@ -36662,6 +36739,17 @@
         "file": "tuning-into-code-exploring-youtube-radio-for-emacs.md"
     },
     {
+        "title": "Alberta stopped changing its clocks in June. 19 of 19 frontier models still put Calgary on standard time in November.",
+        "slug": "alberta-stopped-changing-its-clocks-in-june-19-of-19-frontier-models-still-put-calgary-on-standard-time-in-november",
+        "author": "JonathanSolvesProblems",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 13:52:48 +0000",
+        "description": "This is a submission for the Kaggle Benchmarking Challenge On June 18, Alberta's Official Time Act came into force and the province stopped changing its cloc...",
+        "keywords": "model, not, answer, tool, one, gemini, time, clock",
+        "generated": "2026-10-05T14:10:16.269518",
+        "file": "alberta-stopped-changing-its-clocks-in-june-19-of-19-frontier-models-still-put-calgary-on-standard-time-in-november.md"
+    },
+    {
         "title": "OnePlus 7 Front and Back Camera Repair in Melbourne and Greensborough",
         "slug": "oneplus-7-front-and-back-camera-repair-in-melbourne-and-greensborough",
         "author": "cityphones",
@@ -39082,6 +39170,17 @@
         "file": "homelab-ai-project-ep8-building-a-high-concurrency-nodejs-rss-collector-under-38mb-of-ram.md"
     },
     {
+        "title": "The Era of Software Quality, or the Era of Ostriches?",
+        "slug": "the-era-of-software-quality-or-the-era-of-ostriches",
+        "author": "birdculture",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 12:33:15 +0000",
+        "description": "Article URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/ Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "era, software, quality, ostriches, url, https, comments, article",
+        "generated": "2026-10-05T14:10:16.262437",
+        "file": "the-era-of-software-quality-or-the-era-of-ostriches.md"
+    },
+    {
         "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
         "slug": "disney-new-user-agreement-allows-ads-before-movies-in-all-subscriptions",
         "author": "DeepLogin",
@@ -39322,6 +39421,17 @@
         "keywords": "stroke, path, you, clipper, const, offset, svg, geometry",
         "generated": "2026-08-08T01:58:44.664954",
         "file": "converting-svg-strokes-to-fills-in-the-browser-the-geometry-problem-nobody-warns-you-about.md"
+    },
+    {
+        "title": "I am new to this",
+        "slug": "i-am-new-to-this",
+        "author": "Nitin Kharayat",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 14:00:20 +0000",
+        "description": "",
+        "keywords": "new",
+        "generated": "2026-10-05T14:10:16.267635",
+        "file": "i-am-new-to-this.md"
     },
     {
         "title": "No introspection, no allowlist: reconstructing Whatnot's GraphQL queries from a compiled AST",
@@ -42286,6 +42396,17 @@
         "keywords": "school, admission, global, learning, ompee, manesar, leadership, cambridge",
         "generated": "2026-09-18T10:56:11.756008",
         "file": "school-admission-202728-in-manesar-ompee-global-school.md"
+    },
+    {
+        "title": "What does an SSL certificate do for a small-business website?",
+        "slug": "what-does-an-ssl-certificate-do-for-a-small-business-website",
+        "author": "Tsy",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+        "description": "An SSL certificate is what lets a website use HTTPS. In practical terms, it helps a visitor’s browser verify that it is talking to the intended site and encr...",
+        "keywords": "certificate, site, not, https, browser, what, does, website",
+        "generated": "2026-10-05T14:10:16.266084",
+        "file": "what-does-an-ssl-certificate-do-for-a-small-business-website.md"
     },
     {
         "title": "Ditching React for HTMX: A 2023 Migration Guide",
@@ -47522,6 +47643,17 @@
         "file": "your-first-business-opportunity-in-3-commands-registerdirectory-in-biznodebot-wait-for-matches-then-mypulse-to-view.md"
     },
     {
+        "title": "Does AI actually make you more productive, or just make you switch tasks faster?",
+        "slug": "does-ai-actually-make-you-more-productive-or-just-make-you-switch-tasks-faster",
+        "author": "movinghub",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 13:50:31 +0000",
+        "description": "I've noticed something interesting while using AI tools. It's definitely faster to get started on things. I can ask for an explanation, generate a first draf...",
+        "keywords": "you, tasks, something, actually, make, more, switch, faster",
+        "generated": "2026-10-05T14:10:16.269699",
+        "file": "does-ai-actually-make-you-more-productive-or-just-make-you-switch-tasks-faster.md"
+    },
+    {
         "title": "Best Corporate Training with Practical Learning Sessions",
         "slug": "best-corporate-training-with-practical-learning-sessions",
         "author": "kalyan visualpath",
@@ -49258,6 +49390,17 @@
         "keywords": "best, time, landscaping, muscat, https, handyman, com, originally",
         "generated": "2026-06-28T09:19:21.767251",
         "file": "best-time-for-landscaping-muscat.md"
+    },
+    {
+        "title": "A strict DER reader needs a calendar, not a clock",
+        "slug": "a-strict-der-reader-needs-a-calendar-not-a-clock",
+        "author": "polycratia",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 13:23:27 +0000",
+        "description": "The validity period is the only part of a certificate written as text. Everything else DER encodes is bytes with structural rules (a length, a two's compleme...",
+        "keywords": "not, check, reader, one, auto, has, does, time",
+        "generated": "2026-10-05T14:10:16.265411",
+        "file": "a-strict-der-reader-needs-a-calendar-not-a-clock.md"
     },
     {
         "title": "Cybersecurity Project Management: Best Tools and Best Practices",
@@ -54283,6 +54426,17 @@
         "keywords": "not, indexed, google, crawled, html, pages, links, currently",
         "generated": "2026-09-04T16:05:41.191587",
         "file": "google-crawled-230-pages-of-my-site-and-indexed-2-here-is-how-i-diagnosed-it.md"
+    },
+    {
+        "title": "Order per entity, not per queue, in an offline write queue",
+        "slug": "order-per-entity-not-per-queue-in-an-offline-write-queue",
+        "author": "Shipmind Labs",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 13:24:03 +0000",
+        "description": "An offline write queue has to honour two rules that pull against each other: two changes to the same record have to arrive in the order the user made them, a...",
+        "keywords": "not, note, change, lane, queue, await, which, two",
+        "generated": "2026-10-05T14:10:16.264764",
+        "file": "order-per-entity-not-per-queue-in-an-offline-write-queue.md"
     },
     {
         "title": "Automated Investing AI: Essential Real-Time Risk Scoring",
@@ -64691,6 +64845,17 @@
         "file": "i-scraped-100-sports-matches-here-is-what-i-found-usa-march-on-but-will-balogun-red-card-prove-costly.md"
     },
     {
+        "title": "Tell HN: Uceprotect is extorting website owners",
+        "slug": "tell-hn-uceprotect-is-extorting-website-owners",
+        "author": "goldenmember",
+        "source": "hackernews",
+        "published": "Mon, 05 Oct 2026 12:35:55 +0000",
+        "description": "I recently discovered by accident that our website was being blocked by Orange's security filters. After a quick check, I found that our IP address is listed...",
+        "keywords": "uceprotect, listed, asn, digitalocean, other, your, website, our",
+        "generated": "2026-10-05T14:10:16.262308",
+        "file": "tell-hn-uceprotect-is-extorting-website-owners.md"
+    },
+    {
         "title": "AI didn’t invent code drift. It made it harder to ignore.",
         "slug": "ai-didnt-invent-code-drift-it-made-it-harder-to-ignore",
         "author": "Scarab Systems",
@@ -69388,6 +69553,17 @@
         "file": "zig-017-split-its-build-into-two-processes-why-that-matters.md"
     },
     {
+        "title": "Why Consolidating Feature Flags and Experiments Cuts Hidden Costs",
+        "slug": "why-consolidating-feature-flags-and-experiments-cuts-hidden-costs",
+        "author": "Aparna Krishnamoorthy",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 13:50:29 +0000",
+        "description": "Feature flags and experiments do two different jobs. A flag controls delivery . It decides whether a feature is on for a given user, and lets you switch it o...",
+        "keywords": "you, experiment, appconfig, your, one, flag, aws, feature",
+        "generated": "2026-10-05T14:10:16.270409",
+        "file": "why-consolidating-feature-flags-and-experiments-cuts-hidden-costs.md"
+    },
+    {
         "title": "Building a Resilient WhatsApp Cloud API Webhook Handler in Node.js",
         "slug": "building-a-resilient-whatsapp-cloud-api-webhook-handler-in-nodejs",
         "author": "Lucas Ventavele Ribeiro",
@@ -72512,6 +72688,17 @@
         "file": "what-i-learned-adding-diagram-and-chart-slides-to-a-ci-rendered-youtube-pipeline.md"
     },
     {
+        "title": "Combining Images into a PDF Does Not Make Them Searchable: A Practical Browser Export Workflow",
+        "slug": "combining-images-into-a-pdf-does-not-make-them-searchable-a-practical-browser-export-workflow",
+        "author": "Muhaymin Bin Mehmood",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+        "description": "You photograph ten receipts, combine them into a PDF, and send the result to a colleague. The file opens. Every receipt is visible. Then your colleague searc...",
+        "keywords": "not, image, page, pdf, file, document, text, receipt",
+        "generated": "2026-10-05T14:10:16.266718",
+        "file": "combining-images-into-a-pdf-does-not-make-them-searchable-a-practical-browser-export-workflow.md"
+    },
+    {
         "title": "Our watchdog restarted a healthy agent 24 times a day for months, and its own log said everything was fine",
         "slug": "our-watchdog-restarted-a-healthy-agent-24-times-a-day-for-months-and-its-own-log-said-everything-was-fine",
         "author": "Erik Bagdaer",
@@ -75581,6 +75768,17 @@
         "file": "designing-and-assembling-my-first-pcb.md"
     },
     {
+        "title": "PythonAsia 2027 in Singapore",
+        "slug": "pythonasia-2027-in-singapore",
+        "author": "PyConSG",
+        "source": "devto_python",
+        "published": "Mon, 05 Oct 2026 13:48:18 +0000",
+        "description": "Python User Group Singapore, in collaboration with Python Asia Organisation ( https://pythonasia.org ), will organise Python Asia 2027 conference in Singapor...",
+        "keywords": "singapore, python, pythonasia, asia, user, group, collaboration, organisation",
+        "generated": "2026-10-05T14:10:16.263608",
+        "file": "pythonasia-2027-in-singapore.md"
+    },
+    {
         "title": "We tried to independently verify all 22,561 MCP servers. Only 18 could be checked.",
         "slug": "we-tried-to-independently-verify-all-22561-mcp-servers-only-18-could-be-checked",
         "author": "Dinesh Kumar",
@@ -78208,6 +78406,17 @@
         "keywords": "body, svg, feet, first, one, mcp, foot, walk",
         "generated": "2026-09-28T04:46:35.839668",
         "file": "making-an-svg-cat-walk-planted-feet-bones-and-a-gravity-arc.md"
+    },
+    {
+        "title": "Why was I ghosting dev.to for a month?",
+        "slug": "why-was-i-ghosting-devto-for-a-month",
+        "author": "Binary Warrior365",
+        "source": "devto_webdev",
+        "published": "Mon, 05 Oct 2026 13:51:48 +0000",
+        "description": "Guys The reason I wasn't ghosting y'all bcz I wanted to focus on my life and I have improved on my channel side also and I am also working on my greatest dre...",
+        "keywords": "also, ghosting, have, side, why, dev, month, guys",
+        "generated": "2026-10-05T14:10:16.267535",
+        "file": "why-was-i-ghosting-devto-for-a-month.md"
     },
     {
         "title": "How AI Can Elevate Your Personal Brand in 2026",
@@ -90835,6 +91044,17 @@
         "keywords": "your, tech, video, pas, they, example, master, framework",
         "generated": "2026-09-12T04:02:47.311122",
         "file": "master-the-pas-framework-for-high-converting-video-scripts.md"
+    },
+    {
+        "title": "I Built My Friend a Mock Interviewer That Read His Rust Code",
+        "slug": "i-built-my-friend-a-mock-interviewer-that-read-his-rust-code",
+        "author": "Yash Kumar Saini",
+        "source": "devto_ai",
+        "published": "Mon, 05 Oct 2026 13:53:30 +0000",
+        "description": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend What I Built grill is a mock technical interviewer that has read your code. ...",
+        "keywords": "model, grill, not, one, code, interviewer, question, his",
+        "generated": "2026-10-05T14:10:16.268322",
+        "file": "i-built-my-friend-a-mock-interviewer-that-read-his-rust-code.md"
     },
     {
         "title": "Image upload moderation: classify NSFW, violence and hate symbols with multimodal chat",
