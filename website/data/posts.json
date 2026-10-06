@@ -209,6 +209,17 @@
         "file": "scientists-stunned-by-childrens-lung-recovery-in-ultra-low-emission-zone.md"
     },
     {
+        "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
+        "slug": "ask-hn-why-is-ask-hn-only-showing-me-14-posts",
+        "author": "Gooblebrai",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 21:37:01 +0000",
+        "description": "I'd have swear before there were more and even a more button at the bottom Comments URL: https://news.ycombinator.com/item?id=49984484 Points: 21 # Comments: 21",
+        "keywords": "ask, more, comments, why, only, showing, posts, have",
+        "generated": "2026-10-06T22:32:41.706383",
+        "file": "ask-hn-why-is-ask-hn-only-showing-me-14-posts.md"
+    },
+    {
         "title": "Securing API Communications in Decentralized Systems (637)",
         "slug": "securing-api-communications-in-decentralized-systems-637",
         "author": "mara Banks",
@@ -1131,6 +1142,17 @@
         "keywords": "phone, calls, imagine, your, built, assistant, jio, makes",
         "generated": "2026-06-20T04:12:08.219351",
         "file": "imagine-your-phone-calls-with-a-built-in-ai-assistant-jio-makes-it-real.md"
+    },
+    {
+        "title": "Europe Enters the Chat: Mistral Large 4 Rivals the AI Giants",
+        "slug": "europe-enters-the-chat-mistral-large-4-rivals-the-ai-giants",
+        "author": "Anas Hamad",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 22:26:49 +0000",
+        "description": "Breaking from the AI world: a new model just crashed the party, and it's not from the US or China. Artificial Analysis, the group known for benchmarking AI m...",
+        "keywords": "just, now, like, mistral, model, real, one, europe",
+        "generated": "2026-10-06T22:32:41.713753",
+        "file": "europe-enters-the-chat-mistral-large-4-rivals-the-ai-giants.md"
     },
     {
         "title": "How Hindsight Taught Our AI Agent to Remember",
@@ -7171,6 +7193,17 @@
         "file": "huawei-just-fast-tracked-its-nvidia-killer-chip.md"
     },
     {
+        "title": "Using LLMs for Crypto Market Analysis in 2026 — 2026-10-07 #1",
+        "slug": "using-llms-for-crypto-market-analysis-in-2026-2026-10-07-1",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 22:21:58 +0000",
+        "description": "Integrating Large Language Models (LLMs) into crypto market analysis has evolved from a novelty to a critical infrastructure component by 2026. The volatilit...",
+        "keywords": "sentiment, json, crypto, data, prompt, llms, chain, social",
+        "generated": "2026-10-06T22:32:41.714866",
+        "file": "using-llms-for-crypto-market-analysis-in-2026-2026-10-07-1.md"
+    },
+    {
         "title": "Three important steps in my maturation process",
         "slug": "three-important-steps-in-my-maturation-process",
         "author": "tdullien",
@@ -11085,6 +11118,17 @@
         "keywords": "test, your, canary, model, one, prompt, user, you",
         "generated": "2026-10-03T16:02:08.705139",
         "file": "how-to-red-team-your-llm-app-in-one-afternoon-without-a-single-harmful-prompt.md"
+    },
+    {
+        "title": "AI Coding Agents Leaked 13,000 Internal Images to Public GitHub Repositories",
+        "slug": "ai-coding-agents-leaked-13000-internal-images-to-public-github-repositories",
+        "author": "TheAutomate.io",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 22:23:13 +0000",
+        "description": "TL;DR Security company Glow found more than 13,000 internal images in public GitHub repositories across more than 300 organisations, published 29 September 2...",
+        "keywords": "agents, images, agent, not, skill, glow, public, github",
+        "generated": "2026-10-06T22:32:41.714637",
+        "file": "ai-coding-agents-leaked-13000-internal-images-to-public-github-repositories.md"
     },
     {
         "title": "Building a Sports Data Pipeline: Lessons from Manager Howe to leave Newcastle with immediate effect",
@@ -15254,6 +15298,17 @@
         "keywords": "url, https, com, comments, firefox, will, include, jpeg",
         "generated": "2026-08-25T18:46:02.101273",
         "file": "firefox-157-will-include-jpeg-xl-by-default-on-all-platforms.md"
+    },
+    {
+        "title": "Sharing AI Progress in Mathematics",
+        "slug": "sharing-ai-progress-in-mathematics",
+        "author": "OfficialTurkey",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 22:17:21 +0000",
+        "description": "Article URL: https://openai.com/index/sharing-ai-progress-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 24 # Comments: 4",
+        "keywords": "sharing, progress, mathematics, url, https, com, comments, article",
+        "generated": "2026-10-06T22:32:41.706190",
+        "file": "sharing-ai-progress-in-mathematics.md"
     },
     {
         "title": "The same comment showed up on three unrelated threads today. Here's what noticing that taught me about evidence.",
@@ -19438,10 +19493,10 @@
         "slug": "how-to-build-an-airdrop-monitor-with-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Sun, 06 Sep 2026 14:29:14 +0000",
-        "description": "Monitoring cryptocurrency airdrops is no longer just about reacting to announcements; it requires proactive, intelligent surveillance of social media, blockc...",
-        "keywords": "airdrop, data, high, api, text, potential, use, analyze",
-        "generated": "2026-09-06T15:15:47.147593",
+        "published": "Tue, 06 Oct 2026 21:50:42 +0000",
+        "description": "Monitoring crypto airdrops manually is inefficient, error-prone, and prone to missing critical eligibility windows. By integrating AI into your monitoring pi...",
+        "keywords": "airdrop, data, text, monitor, python, json, how, build",
+        "generated": "2026-10-06T22:32:41.710156",
         "file": "how-to-build-an-airdrop-monitor-with-ai.md"
     },
     {
@@ -23577,6 +23632,17 @@
         "keywords": "sendbeacon, fetch, beforeunload, json, browser, body, navigator, you",
         "generated": "2026-08-22T06:48:31.769712",
         "file": "your-fetch-in-beforeunload-is-silently-killed-navigatorsendbeacon-guarantees-delivery.md"
+    },
+    {
+        "title": "How to Send WhatsApp Messages in Node.js Without Meta Cloud API Bureaucracy",
+        "slug": "how-to-send-whatsapp-messages-in-nodejs-without-meta-cloud-api-bureaucracy",
+        "author": "mohamed khadel",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 22:23:59 +0000",
+        "description": "If you’ve ever tried to build a WhatsApp integration or an AI customer support bot using the official Meta Cloud API , you probably know the pain: Submitting...",
+        "keywords": "message, const, whatsapp, messages, your, you, wapio, send",
+        "generated": "2026-10-06T22:32:41.714183",
+        "file": "how-to-send-whatsapp-messages-in-nodejs-without-meta-cloud-api-bureaucracy.md"
     },
     {
         "title": "Most multi-agent systems are one problem, glued back together at runtime",
@@ -49942,6 +50008,17 @@
         "file": "the-image-loads-and-stays-invisible-the-opacity-0-is-on-the-wrapper-not-the-image.md"
     },
     {
+        "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+        "slug": "paramount-skydance-has-completed-its-111b-merger-with-warner-bros-discovery",
+        "author": "Mgtyalx",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 20:33:47 +0000",
+        "description": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombi...",
+        "keywords": "paramount, skydance, merger, warner, url, https, com, comments",
+        "generated": "2026-10-06T22:32:41.706764",
+        "file": "paramount-skydance-has-completed-its-111b-merger-with-warner-bros-discovery.md"
+    },
+    {
         "title": "Outwards - i build app that help you secure your company by finding exposed data",
         "slug": "outwards-i-build-app-that-help-you-secure-your-company-by-finding-exposed-data",
         "author": "else54",
@@ -50446,6 +50523,17 @@
         "keywords": "you, don, but, can, when, where, they, someone",
         "generated": "2026-07-31T08:56:54.069736",
         "file": "the-shift-that-teaches-everything.md"
+    },
+    {
+        "title": "I built a pay-to-rank leaderboard in 7 days - here's how the points system works",
+        "slug": "i-built-a-pay-to-rank-leaderboard-in-7-days-heres-how-the-points-system-works",
+        "author": "Martin Valchev",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 22:26:43 +0000",
+        "description": "One evening I noticed sites charging $10k+ for the top spot on a simple pay to rank wall. I thought: the idea is fun, but the pricing locks out every indie...",
+        "keywords": "points, you, your, day, free, days, payments, ranking",
+        "generated": "2026-10-06T22:32:41.711197",
+        "file": "i-built-a-pay-to-rank-leaderboard-in-7-days-heres-how-the-points-system-works.md"
     },
     {
         "title": "AI Automation for Ai For Niche Thrift Store Resellers Clothing How To Automate Item Identification And Pricing Research From ...",
@@ -51337,6 +51425,17 @@
         "keywords": "url, https, comments, winamp, skin, museum, article, skins",
         "generated": "2026-07-02T14:15:25.130037",
         "file": "winamp-skin-museum.md"
+    },
+    {
+        "title": "15 merged IME fixes: the recurring ways Japanese typing breaks web apps",
+        "slug": "15-merged-ime-fixes-the-recurring-ways-japanese-typing-breaks-web-apps",
+        "author": "Mahiro Hirakawa",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 22:32:23 +0000",
+        "description": "Between late June and early July 2026 I had 15 pull requests merged into open-source projects, all fixing the same family of bug: a keyboard handler that doe...",
+        "keywords": "enter, input, iscomposing, keydown, key, confirm, keycode, composition",
+        "generated": "2026-10-06T22:32:41.710894",
+        "file": "15-merged-ime-fixes-the-recurring-ways-japanese-typing-breaks-web-apps.md"
     },
     {
         "title": "Fastpotify",
@@ -54261,6 +54360,17 @@
         "keywords": "shape, things, come, url, https, comments, article, yegge",
         "generated": "2026-08-03T09:55:50.591034",
         "file": "the-shape-of-things-to-come.md"
+    },
+    {
+        "title": "Poverty Inspired Me to Fix a 'Wine Can't Do This' Timeout",
+        "slug": "poverty-inspired-me-to-fix-a-wine-cant-do-this-timeout",
+        "author": "Morgan Ufuoma",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 21:55:23 +0000",
+        "description": "A wise man once said, “if the young man is hungry, he should go to the forest and hunt the elephant. If he kills the elephant, the hunger ends, and if the el...",
+        "keywords": "wine, windows, had, python, every, terminal, own, once",
+        "generated": "2026-10-06T22:32:41.709921",
+        "file": "poverty-inspired-me-to-fix-a-wine-cant-do-this-timeout.md"
     },
     {
         "title": "Building a Nba Data Pipeline: Lessons from Lowry retires after returning to Raptors for one day",
@@ -59354,6 +59464,17 @@
         "keywords": "model, one, enterprise, api, cost, provider, openai, you",
         "generated": "2026-08-17T01:39:21.436705",
         "file": "i-modeled-184-ai-apis-enterprise-vs-startup-by-the-numbers.md"
+    },
+    {
+        "title": "Decisions API is in public beta",
+        "slug": "decisions-api-is-in-public-beta",
+        "author": "chiefstorm",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 20:57:25 +0000",
+        "description": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 34 # Comments: 11",
+        "keywords": "decisions, api, url, https, com, comments, public, beta",
+        "generated": "2026-10-06T22:32:41.706516",
+        "file": "decisions-api-is-in-public-beta.md"
     },
     {
         "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
@@ -67947,6 +68068,17 @@
         "file": "your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle.md"
     },
     {
+        "title": "Create research plots with Claude Code and Academic Plotting",
+        "slug": "create-research-plots-with-claude-code-and-academic-plotting",
+        "author": "SkillGild",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 22:03:15 +0000",
+        "description": "This walkthrough shows how to turn a table of results into a clean, checked figure with a coding agent. It uses a small synthetic dataset made up for this pa...",
+        "keywords": "figure, agent, not, code, plotting, data, claude, skill",
+        "generated": "2026-10-06T22:32:41.708848",
+        "file": "create-research-plots-with-claude-code-and-academic-plotting.md"
+    },
+    {
         "title": "Cursor Origin VS Github",
         "slug": "cursor-origin-vs-github",
         "author": "Leandro Faria",
@@ -68946,6 +69078,17 @@
         "keywords": "bulldozers, plow, through, big, bend, national, park, sparking",
         "generated": "2026-08-07T13:15:09.528561",
         "file": "bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas.md"
+    },
+    {
+        "title": "154 of 529 top homepages have no canonical tag. 15 point to a URL that redirects straight back.",
+        "slug": "154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back",
+        "author": "Mahiro Hirakawa",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 22:06:00 +0000",
+        "description": "I fetched the homepages of the Tranco top 1,000 once each and read two tags that tell crawlers which URL a page is: <link rel=canonical> and the hreflang a...",
+        "keywords": "canonical, com, url, hreflang, page, one, www, redirects",
+        "generated": "2026-10-06T22:32:41.713019",
+        "file": "154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back.md"
     },
     {
         "title": "Notes from moving a small side project off a single VPS",
@@ -71247,6 +71390,17 @@
         "file": "from-hex-to-design-tokens-one-palette-six-formats-five-minutes.md"
     },
     {
+        "title": "OpenSSH 10.6",
+        "slug": "openssh-106",
+        "author": "torcete",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 20:41:39 +0000",
+        "description": "Article URL: https://www.openssh.org/releasenotes.html#10.6 Comments URL: https://news.ycombinator.com/item?id=49983791 Points: 58 # Comments: 7",
+        "keywords": "openssh, url, https, comments, article, www, org, releasenotes",
+        "generated": "2026-10-06T22:32:41.706638",
+        "file": "openssh-106.md"
+    },
+    {
         "title": "Parsing and Rebuilding EPUB Files in Python: Lessons from Building an AI Book Translator",
         "slug": "parsing-and-rebuilding-epub-files-in-python-lessons-from-building-an-ai-book-translator",
         "author": "龚旭东",
@@ -71267,6 +71421,17 @@
         "keywords": "shopify, your, you, supabase, database, data, postgres, side",
         "generated": "2026-06-25T14:43:02.866024",
         "file": "supabase-shopify-backend-side-car-architecture-2026.md"
+    },
+    {
+        "title": "Claude 3.5 Sonnet: Fitur Artifacts & Benchmark vs GPT-4o",
+        "slug": "claude-35-sonnet-fitur-artifacts-benchmark-vs-gpt-4o",
+        "author": "IbraMedia",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 22:28:33 +0000",
+        "description": "Mengenal Claude 3.5 Sonnet: Model AI Tercepat Anthropic Anthropic merilis Claude 3.5 Sonnet pada Juni 2024. Model ini memposisikan diri sebagai solusi mid-ti...",
+        "keywords": "claude, model, sonnet, dan, ini, fitur, anthropic, api",
+        "generated": "2026-10-06T22:32:41.713559",
+        "file": "claude-35-sonnet-fitur-artifacts-benchmark-vs-gpt-4o.md"
     },
     {
         "title": "Paid Surveys in 2026: A Smart Way to Earn Extra Cash Online Without Special Skills",
@@ -75051,6 +75216,17 @@
         "keywords": "you, your, email, registration, use, all, they, proxies",
         "generated": "2026-08-18T06:52:25.242992",
         "file": "how-to-generate-unlimited-emails-scaling-mass-registration-without-blocks-or-captchas.md"
+    },
+    {
+        "title": "Claude Code frontend design skills: Taste Skill and Logo Design",
+        "slug": "claude-code-frontend-design-skills-taste-skill-and-logo-design",
+        "author": "SkillGild",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 22:02:03 +0000",
+        "description": "Two SkillGild skills cover most web design jobs a coding agent gets asked to do: Taste Skill (design-taste-frontend) for landing pages and interfaces, and th...",
+        "keywords": "design, skill, taste, skills, logo, not, you, agent",
+        "generated": "2026-10-06T22:32:41.713356",
+        "file": "claude-code-frontend-design-skills-taste-skill-and-logo-design.md"
     },
     {
         "title": "Simple Online Tasks That Can Earn You PSN Rewards",
@@ -81904,6 +82080,17 @@
         "keywords": "form, nuxt, server, pagination, can, contract, http, endpoints",
         "generated": "2026-09-05T20:09:44.293458",
         "file": "how-close-can-explicit-http-endpoints-get-to-server-function-dx.md"
+    },
+    {
+        "title": "trilha: identifying birds by ear on the trail, with no signal",
+        "slug": "trilha-identifying-birds-by-ear-on-the-trail-with-no-signal",
+        "author": "Wellington Filipe",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 22:05:16 +0000",
+        "description": "This is my submission for the Hacktoberfest Open-Source AI Challenge: Week 1 — theme: Touch Grass. What I built You're on a trail. Something calls from the b...",
+        "keywords": "trilha, you, range, species, place, lat, lon, output",
+        "generated": "2026-10-06T22:32:41.708400",
+        "file": "trilha-identifying-birds-by-ear-on-the-trail-with-no-signal.md"
     },
     {
         "title": "Disappointed Optimists",
@@ -97644,6 +97831,17 @@
         "keywords": "how, you, private, voice, myself, have, journaling, first",
         "generated": "2026-07-29T14:22:03.393571",
         "file": "show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself.md"
+    },
+    {
+        "title": "How AI Is Changing UI/UX Design in 2026: What Designers Need to Know",
+        "slug": "how-ai-is-changing-uiux-design-in-2026-what-designers-need-to-know",
+        "author": "ONC SYSTEM",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 22:08:11 +0000",
+        "description": "Artificial intelligence is changing the way digital products are imagined, designed, tested, and built. For UI and UX designers, the change is already visibl...",
+        "keywords": "can, design, designers, more, figma, not, should, generate",
+        "generated": "2026-10-06T22:32:41.712442",
+        "file": "how-ai-is-changing-uiux-design-in-2026-what-designers-need-to-know.md"
     },
     {
         "title": "I ran two AI builders in parallel at a solo hackathon — here's what the 429 errors revealed",
