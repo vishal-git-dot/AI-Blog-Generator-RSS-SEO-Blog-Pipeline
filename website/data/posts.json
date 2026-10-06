@@ -3036,6 +3036,17 @@
         "file": "why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives.md"
     },
     {
+        "title": "I gave my local AI agents an org chart, a budget, and a paper trail",
+        "slug": "i-gave-my-local-ai-agents-an-org-chart-a-budget-and-a-paper-trail",
+        "author": "Nathan C.",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 05:45:02 +0000",
+        "description": "Most AI agents die when you close the chat. Mine don't. They're called sparks , and they live in Flash , my open source agent shell for Ollama . Each one get...",
+        "keywords": "you, sparks, one, can, agent, spark, new, they",
+        "generated": "2026-10-06T05:48:43.501847",
+        "file": "i-gave-my-local-ai-agents-an-org-chart-a-budget-and-a-paper-trail.md"
+    },
+    {
         "title": "The Secret to On-Device Intelligence: Mastering Weight Pruning and Sparsity for Mobile NPUs",
         "slug": "the-secret-to-on-device-intelligence-mastering-weight-pruning-and-sparsity-for-mobile-npus",
         "author": "Programming Central",
@@ -5037,6 +5048,17 @@
         "keywords": "agent, delegation, device, key, user, what, service, token",
         "generated": "2026-10-03T04:45:33.035367",
         "file": "on-device-agents-need-their-own-identity-a-delegation-design-for-the-edge.md"
+    },
+    {
+        "title": "How to Audit an ML Design Before It Ships",
+        "slug": "how-to-audit-an-ml-design-before-it-ships",
+        "author": "karmendra pandey",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 05:45:52 +0000",
+        "description": "How to Audit an ML Design Before It Ships Most ML failures are not model failures. They are design failures — and they are almost always visible before launc...",
+        "keywords": "model, every, gate, design, training, production, cost, what",
+        "generated": "2026-10-06T05:48:43.501127",
+        "file": "how-to-audit-an-ml-design-before-it-ships.md"
     },
     {
         "title": "Your Pipeline Is 28.4h Behind: Catching Business Sentiment Leads with Pulsebit",
@@ -7897,6 +7919,17 @@
         "file": "changes-to-llm-pricing-baidu-darkbloom-deepseek-dekallm-inceptron-io-net-phala-reka-streamlake-and-wafer.md"
     },
     {
+        "title": "Why AIs Seemingly Misbehave",
+        "slug": "why-ais-seemingly-misbehave",
+        "author": "jsvnsk-tech",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 05:46:33 +0000",
+        "description": "Overview: This article is about understanding why AI assistants and related AI systems seemingly misbehave. It explains why semantic understanding does not g...",
+        "keywords": "can, not, model, constraints, comments, user, data, when",
+        "generated": "2026-10-06T05:48:43.500781",
+        "file": "why-ais-seemingly-misbehave.md"
+    },
+    {
         "title": "Why Cloudflare Breaks Proxy-Only Scrapers",
         "slug": "why-cloudflare-breaks-proxy-only-scrapers",
         "author": "Anakin",
@@ -9690,6 +9723,17 @@
         "file": "i-built-an-mcp-server-that-stops-ai-agents-from-running-commands-they-shouldnt.md"
     },
     {
+        "title": "Top 18 Places to Buy Verified Poloniex Accounts Online",
+        "slug": "top-18-places-to-buy-verified-poloniex-accounts-online",
+        "author": "Buy Verified Nextdoor Accounts",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 05:33:14 +0000",
+        "description": "Top 18 Places to Buy Verified Poloniex Accounts Online 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@g...",
+        "keywords": "account, information, digital, verification, can, financial, identity, email",
+        "generated": "2026-10-06T05:48:43.498226",
+        "file": "top-18-places-to-buy-verified-poloniex-accounts-online.md"
+    },
+    {
         "title": "JSON Mode vs Structured Output vs Zod Parsing: Which Guarantees Shape",
         "slug": "json-mode-vs-structured-output-vs-zod-parsing-which-guarantees-shape",
         "author": "Gabriel Anhaia",
@@ -10249,6 +10293,17 @@
         "keywords": "gmail, accounts, account, your, buy, you, old, email",
         "generated": "2026-08-12T19:08:00.191220",
         "file": "best-15-sites-to-buy-gmail-accounts-pva-aged-for-2026.md"
+    },
+    {
+        "title": "I Built a Customer Portal Before the Customer Asked for One",
+        "slug": "i-built-a-customer-portal-before-the-customer-asked-for-one",
+        "author": "Reema Singh",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 05:27:17 +0000",
+        "description": "The customer was still sending us information through email. Every update meant another thread, another attachment, another person copying something into our...",
+        "keywords": "customer, wasn, greta, portal, email, another, could, they",
+        "generated": "2026-10-06T05:48:43.499956",
+        "file": "i-built-a-customer-portal-before-the-customer-asked-for-one.md"
     },
     {
         "title": "From Prompt to Playable: Building a Phaser Survival Game with Codex and SpriteShip",
@@ -13958,6 +14013,17 @@
         "file": "postgres-rls-multi-tenancy-two-leaks-that-survive-correct-policies.md"
     },
     {
+        "title": "Counts and totals need the same authorization filter as the list",
+        "slug": "counts-and-totals-need-the-same-authorization-filter-as-the-list",
+        "author": "Auth By Example",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 05:43:22 +0000",
+        "description": "You locked down GET /invoices so it only returns rows the caller can see. Then the dashboard says Invoices this month: 4,812, and that number comes from SE...",
+        "keywords": "invoices, user, filter, can, count, tenant, query, counts",
+        "generated": "2026-10-06T05:48:43.497032",
+        "file": "counts-and-totals-need-the-same-authorization-filter-as-the-list.md"
+    },
+    {
         "title": "Youtube Scraper (Pay Per Result) — 30K Users Can't Be Wrong",
         "slug": "youtube-scraper-pay-per-result-30k-users-cant-be-wrong",
         "author": "Nick Davies",
@@ -14583,6 +14649,17 @@
         "keywords": "zero, url, https, com, comments, optocam, based, digital",
         "generated": "2026-06-22T20:55:23.243455",
         "file": "optocam-zero-a-pi-zero-based-digital-camera-made-using-off-the-shelf-components.md"
+    },
+    {
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "slug": "ai-tutoring-with-khanmigo-in-a-two-year-school-experiment",
+        "author": "bryan0",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 00:00:45 +0000",
+        "description": "Article URL: https://edworkingpapers.com/ai26-1551 Comments URL: https://news.ycombinator.com/item?id=49972419 Points: 58 # Comments: 45",
+        "keywords": "url, https, com, comments, tutoring, khanmigo, two, year",
+        "generated": "2026-10-06T05:48:43.493445",
+        "file": "ai-tutoring-with-khanmigo-in-a-two-year-school-experiment.md"
     },
     {
         "title": "Codex with ChatGPT: Connect Your ChatGPT Web Subscription as the Planning Brain for Codex",
@@ -20281,6 +20358,17 @@
         "file": "why-cryptos-best-infrastructure-companies-stopped-looking-like-crypto.md"
     },
     {
+        "title": "How many tokens does your Claude Code setup burn before you type anything? A 60-line audit script",
+        "slug": "how-many-tokens-does-your-claude-code-setup-burn-before-you-type-anything-a-60-line-audit-script",
+        "author": "quiethand098",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 05:15:41 +0000",
+        "description": "Claude Code loads your CLAUDE.md , the name and description of every skill, and the tool schemas of every MCP server into context at the start of each sessio...",
+        "keywords": "claude, tokens, code, you, skill, mcp, cost, skills",
+        "generated": "2026-10-06T05:48:43.496875",
+        "file": "how-many-tokens-does-your-claude-code-setup-burn-before-you-type-anything-a-60-line-audit-script.md"
+    },
+    {
         "title": "The Security Check That Couldn't Fail",
         "slug": "the-security-check-that-couldnt-fail",
         "author": "Jeriah Keith",
@@ -24041,6 +24129,17 @@
         "file": "webassembly-in-production-running-high-performance-code-in-the-browser-and-beyond.md"
     },
     {
+        "title": "We ran HealthBench on our health AI's safety layer. It scored lower than the bare model.",
+        "slug": "we-ran-healthbench-on-our-health-ais-safety-layer-it-scored-lower-than-the-bare-model",
+        "author": "John Alexander",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 05:45:22 +0000",
+        "description": "I build Tabibu, a health-information assistant. It adds a safety layer on top of a language model: emergency escalation, refusing prescription doses, answeri...",
+        "keywords": "not, model, safety, bare, conversations, pipeline, run, health",
+        "generated": "2026-10-06T05:48:43.501597",
+        "file": "we-ran-healthbench-on-our-health-ais-safety-layer-it-scored-lower-than-the-bare-model.md"
+    },
+    {
         "title": "AI Act 2026 : ce que les PME françaises doivent faire concrètement",
         "slug": "ai-act-2026-ce-que-les-pme-franaises-doivent-faire-concrtement",
         "author": "SIKOUTRIS",
@@ -25997,6 +26096,17 @@
         "keywords": "cost, neo, model, gpu, caching, shadow, api, call",
         "generated": "2026-07-15T13:53:37.362553",
         "file": "ai-cost-optimizer-cli-real-time-ai-cost-tracking-model-routing-and-shadow-ai-detection-from-the-terminal.md"
+    },
+    {
+        "title": "Fine-Tuning in Microsoft Foundry: What LoRA, SFT, DPO, and RFT Actually Do to Your Model's Weights",
+        "slug": "fine-tuning-in-microsoft-foundry-what-lora-sft-dpo-and-rft-actually-do-to-your-models-weights",
+        "author": "Manoranjan Rajguru",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 05:31:44 +0000",
+        "description": "Fine-Tuning in Microsoft Foundry: What LoRA, SFT, DPO, and RFT Actually Do to Your Model's Weights Your prompt is 2,400 tokens long. It has a system message ...",
+        "keywords": "model, fine, training, tuning, you, foundry, your, job",
+        "generated": "2026-10-06T05:48:43.495932",
+        "file": "fine-tuning-in-microsoft-foundry-what-lora-sft-dpo-and-rft-actually-do-to-your-models-weights.md"
     },
     {
         "title": "The Transcript Is the Bill",
@@ -36416,6 +36526,17 @@
         "file": "architectural-breakdown-as-engineers-llms-should-pay-us-for-tokens-usage.md"
     },
     {
+        "title": "MCP vs Custom REST Tooling: Security and the Latest MCP Architecture",
+        "slug": "mcp-vs-custom-rest-tooling-security-and-the-latest-mcp-architecture",
+        "author": "Aditya Bhojak",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 05:36:07 +0000",
+        "description": "A simple guide to understand how MCP works, what has changed in the latest architecture, and how to build more secure AI agent systems. AI agents are becomin...",
+        "keywords": "mcp, tool, can, application, security, tools, not, input",
+        "generated": "2026-10-06T05:48:43.494220",
+        "file": "mcp-vs-custom-rest-tooling-security-and-the-latest-mcp-architecture.md"
+    },
+    {
         "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
         "slug": "show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai",
         "author": "martiano",
@@ -44125,6 +44246,17 @@
         "file": "youre-collecting-async-iterable-results-with-a-for-await-loop-arrayfromasync-does-it-in-one-call.md"
     },
     {
+        "title": "Photopea creator weighs in on Photosuite project",
+        "slug": "photopea-creator-weighs-in-on-photosuite-project",
+        "author": "montag",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 00:41:44 +0000",
+        "description": "Article URL: https://github.com/eolix/photosuite/issues/77 Comments URL: https://news.ycombinator.com/item?id=49972730 Points: 93 # Comments: 49",
+        "keywords": "photosuite, url, https, com, comments, photopea, creator, weighs",
+        "generated": "2026-10-06T05:48:43.493165",
+        "file": "photopea-creator-weighs-in-on-photosuite-project.md"
+    },
+    {
         "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
         "slug": "devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own",
         "author": "Mika Flowers",
@@ -45397,6 +45529,17 @@
         "keywords": "sol, gpt, government, model, models, openai, frontier, june",
         "generated": "2026-06-26T19:58:27.784706",
         "file": "openai-gpt-56-sol-us-government-now-controls-who-gets-frontier-ai.md"
+    },
+    {
+        "title": "Why Common Lisp is now the best programming language",
+        "slug": "why-common-lisp-is-now-the-best-programming-language",
+        "author": "misterchocolat",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 02:51:51 +0000",
+        "description": "Article URL: https://www.vivienhenz.com/common-lisp Comments URL: https://news.ycombinator.com/item?id=49973598 Points: 74 # Comments: 85",
+        "keywords": "common, lisp, url, https, com, comments, why, now",
+        "generated": "2026-10-06T05:48:43.493036",
+        "file": "why-common-lisp-is-now-the-best-programming-language.md"
     },
     {
         "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
@@ -49434,6 +49577,17 @@
         "keywords": "crawler, robots, txt, domains, agent, edge, one, domain",
         "generated": "2026-09-19T20:21:54.587978",
         "file": "most-ai-crawler-blocking-doesnt-happen-in-robotstxt.md"
+    },
+    {
+        "title": "Resurrecting iChat Audio and Video Conferencing",
+        "slug": "resurrecting-ichat-audio-and-video-conferencing",
+        "author": "thepipetogrep",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 03:39:01 +0000",
+        "description": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973...",
+        "keywords": "resurrecting, ichat, audio, video, conferencing, url, https, comments",
+        "generated": "2026-10-06T05:48:43.492854",
+        "file": "resurrecting-ichat-audio-and-video-conferencing.md"
     },
     {
         "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
@@ -61039,6 +61193,17 @@
         "file": "claude-code-and-its-role-in-re.md"
     },
     {
+        "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+        "slug": "high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Tue, 06 Oct 2026 00:24:57 +0000",
+        "description": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days Comments URL: https://news.ycombinator.com/ite...",
+        "keywords": "high, diesel, prices, bankrupted, trucking, companies, just, days",
+        "generated": "2026-10-06T05:48:43.493285",
+        "file": "high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days.md"
+    },
+    {
         "title": "How to Setup a Firebase Account for FCM Notifications: A Step-by-Step Guide",
         "slug": "how-to-setup-a-firebase-account-for-fcm-notifications-a-step-by-step-guide",
         "author": "Ayush Kumar",
@@ -64106,6 +64271,17 @@
         "keywords": "real, gravity, scale, just, you, can, physics, show",
         "generated": "2026-06-09T15:18:05.197929",
         "file": "show-hn-gravity-interactive-solar-system-simulator-from-newton-to-einstein.md"
+    },
+    {
+        "title": "I Built the First Version Before Anyone Could Tell Me It Was a Bad Idea",
+        "slug": "i-built-the-first-version-before-anyone-could-tell-me-it-was-a-bad-idea",
+        "author": "Reema Singh",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 05:31:51 +0000",
+        "description": "I had learned to hate the sentence, “That won't work.” Not because people were always wrong, but because sometimes they were making a decision about an idea ...",
+        "keywords": "greta, idea, person, built, version, before, anyone, had",
+        "generated": "2026-10-06T05:48:43.499785",
+        "file": "i-built-the-first-version-before-anyone-could-tell-me-it-was-a-bad-idea.md"
     },
     {
         "title": "Converting Word Documents to Markdown Using Python",
@@ -69023,6 +69199,17 @@
         "keywords": "harvard, study, predicts, most, suicide, attempts, week, advance",
         "generated": "2026-09-09T04:06:24.344032",
         "file": "harvard-study-predicts-most-suicide-attempts-a-week-in-advance.md"
+    },
+    {
+        "title": "Can we build an AI agent that'll kill Udemy?",
+        "slug": "can-we-build-an-ai-agent-thatll-kill-udemy",
+        "author": "Chigozirim Eke",
+        "source": "devto_ai",
+        "published": "Tue, 06 Oct 2026 05:44:59 +0000",
+        "description": "Lol, not a chance! But I'm glad that caught your attention. I do want to build a replacement for it for myself, though. Don't get me wrong, I love Udemy. I u...",
+        "keywords": "agent, adk, strands, agents, can, run, our, what",
+        "generated": "2026-10-06T05:48:43.505082",
+        "file": "can-we-build-an-ai-agent-thatll-kill-udemy.md"
     },
     {
         "title": "We wired a ‘cheap’ model into our CRM and accidentally made pricing changes a production risk",
@@ -74536,6 +74723,17 @@
         "file": "aicom-is-the-factory-aimarket-is-the-economy-it-ships-into.md"
     },
     {
+        "title": "golden-hour: a go-outside planner where a small local Gemma cannot invent numbers",
+        "slug": "golden-hour-a-go-outside-planner-where-a-small-local-gemma-cannot-invent-numbers",
+        "author": "Sanskar Kharya",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 05:31:15 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass What I Built golden-hour tells you the best hour to go outside in the...",
+        "keywords": "hour, model, not, gemma, sentence, your, one, numbers",
+        "generated": "2026-10-06T05:48:43.496307",
+        "file": "golden-hour-a-go-outside-planner-where-a-small-local-gemma-cannot-invent-numbers.md"
+    },
+    {
         "title": "The AI Agent Remembered Everything. That Was the Failure.",
         "slug": "the-ai-agent-remembered-everything-that-was-the-failure",
         "author": "Sara Mo",
@@ -76954,6 +77152,17 @@
         "keywords": "data, linkedin, api, public, you, your, json, company",
         "generated": "2026-08-15T01:34:58.729420",
         "file": "linkedin-scraper-api-how-to-enrich-b2b-leads-without-manual-research.md"
+    },
+    {
+        "title": "What I Found Exploring Superstore Sales Data with Python (and What I'd Do Differently)",
+        "slug": "what-i-found-exploring-superstore-sales-data-with-python-and-what-id-do-differently",
+        "author": "Vishal Prajapati",
+        "source": "devto_python",
+        "published": "Tue, 06 Oct 2026 05:24:47 +0000",
+        "description": "I recently finished an exploratory data analysis (EDA) project on the Superstore sales dataset as part of the Nexgen Analytics Internship. The brief: load th...",
+        "keywords": "profit, sales, data, what, outliers, date, category, plt",
+        "generated": "2026-10-06T05:48:43.496673",
+        "file": "what-i-found-exploring-superstore-sales-data-with-python-and-what-id-do-differently.md"
     },
     {
         "title": "AI Technology in 2026: Build Real-Time Agents on Bedrock AgentCore That Never Go Stale",
@@ -96555,6 +96764,17 @@
         "keywords": "account, setup, netspend, service, guidance, you, verification, your",
         "generated": "2026-09-05T20:09:44.294276",
         "file": "buy-netspend-prepaid-cards-online-complete-guide.md"
+    },
+    {
+        "title": "Top 17 Best Sites To Buy Nextdoor Account Safely (Aged & …",
+        "slug": "top-17-best-sites-to-buy-nextdoor-account-safely-aged",
+        "author": "Buy Verified Nextdoor Accounts",
+        "source": "devto_webdev",
+        "published": "Tue, 06 Oct 2026 05:32:28 +0000",
+        "description": "Top 17 Best Sites To Buy Nextdoor Account Safely (Aged & … 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvc...",
+        "keywords": "community, can, information, digital, neighborhood, account, local, participation",
+        "generated": "2026-10-06T05:48:43.499566",
+        "file": "top-17-best-sites-to-buy-nextdoor-account-safely-aged.md"
     },
     {
         "title": "The MCP spec's own state-handle fix is bypassable",
