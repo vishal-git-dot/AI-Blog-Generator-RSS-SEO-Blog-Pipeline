@@ -121,6 +121,17 @@
         "file": "i-turned-jev-into-a-lousy-chatbot.md"
     },
     {
+        "title": "Check Digit Math for VINs: Implementing ISO 3779 Validation in TypeScript",
+        "slug": "check-digit-math-for-vins-implementing-iso-3779-validation-in-typescript",
+        "author": "Vin Lookup",
+        "source": "devto_webdev",
+        "published": "Wed, 07 Oct 2026 05:16:46 +0000",
+        "description": "A 17-character string that looks like a VIN is not necessarily a VIN. For vehicles built for the North American market, position 9 is a check digit: a sing...",
+        "keywords": "vin, check, digit, character, string, position, const, value",
+        "generated": "2026-10-07T05:20:33.233360",
+        "file": "check-digit-math-for-vins-implementing-iso-3779-validation-in-typescript.md"
+    },
+    {
         "title": "Linux 7.3 improves performance when running out of vRAM",
         "slug": "linux-73-improves-performance-when-running-out-of-vram",
         "author": "flaburgan",
@@ -1881,6 +1892,17 @@
         "file": "the-programmers-fulcrum-14-august-2026.md"
     },
     {
+        "title": "Website Development in Salem – Build a Professional Online Presence for Your Business",
+        "slug": "website-development-in-salem-build-a-professional-online-presence-for-your-business",
+        "author": "Vel Murgan",
+        "source": "devto_webdev",
+        "published": "Wed, 07 Oct 2026 05:13:34 +0000",
+        "description": "Website Development in Salem – Build a Professional Online Presence for Your Business In today’s digital-first business environment, having a professional we...",
+        "keywords": "website, your, business, development, can, websites, customers, professional",
+        "generated": "2026-10-07T05:20:33.234732",
+        "file": "website-development-in-salem-build-a-professional-online-presence-for-your-business.md"
+    },
+    {
         "title": "First Look: Anthropic Tests Mobile Remote Control for Claude Cowork Agentic Desktop Tasks",
         "slug": "first-look-anthropic-tests-mobile-remote-control-for-claude-cowork-agentic-desktop-tasks",
         "author": "Achin Bansal",
@@ -3420,6 +3442,17 @@
         "keywords": "entropy, secret, layer, extension, dotenvy, community, context, regex",
         "generated": "2026-09-24T21:21:41.117623",
         "file": "dotenvy-aegis-building-a-4-layer-ai-secret-detection-pipeline-for-vs-code.md"
+    },
+    {
+        "title": "What a URL-Only Brand Audit Can Actually See: Build a Tiny Checker in Python",
+        "slug": "what-a-url-only-brand-audit-can-actually-see-build-a-tiny-checker-in-python",
+        "author": "Ujjwal Dubey",
+        "source": "devto_python",
+        "published": "Wed, 07 Oct 2026 05:02:29 +0000",
+        "description": "There are a lot of free AI brand audit tools now. Before trusting any of them, it helps to know what a tool can actually see when all you give it is a URL....",
+        "keywords": "soup, title, text, what, url, you, get, can",
+        "generated": "2026-10-07T05:20:33.231782",
+        "file": "what-a-url-only-brand-audit-can-actually-see-build-a-tiny-checker-in-python.md"
     },
     {
         "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
@@ -6280,6 +6313,17 @@
         "keywords": "you, not, diff, guest, should, host, your, can",
         "generated": "2026-09-24T21:21:41.121033",
         "file": "leave-apply-on-the-host.md"
+    },
+    {
+        "title": "How to Call NHTSA Recalls by VIN from Your App (Without Guessing by Model Year)",
+        "slug": "how-to-call-nhtsa-recalls-by-vin-from-your-app-without-guessing-by-model-year",
+        "author": "Vin Lookup",
+        "source": "devto_webdev",
+        "published": "Wed, 07 Oct 2026 05:14:14 +0000",
+        "description": "If you build anything that touches used cars (a marketplace, a dealer tool, a fleet dashboard), sooner or later someone asks: Does this car have an open rec...",
+        "keywords": "vin, model, recalls, nhtsa, make, const, year, not",
+        "generated": "2026-10-07T05:20:33.234301",
+        "file": "how-to-call-nhtsa-recalls-by-vin-from-your-app-without-guessing-by-model-year.md"
     },
     {
         "title": "SnowLens: Free Snowflake Observability — 9 Detectors, Zero Data Egress",
@@ -10581,6 +10625,17 @@
         "file": "shadow-ai-the-security-challenge-most-organizations-cant-see.md"
     },
     {
+        "title": "Measure Cost per Handled Enquiry: A Small Logging Pattern for LLM Workflows",
+        "slug": "measure-cost-per-handled-enquiry-a-small-logging-pattern-for-llm-workflows",
+        "author": "Ujjwal Dubey",
+        "source": "devto_python",
+        "published": "Wed, 07 Oct 2026 05:03:01 +0000",
+        "description": "Pre-build cost estimates are guesses. After launch you can measure. The most useful number I know for a small-business workflow is cost per handled enquiry i...",
+        "keywords": "per, none, cost, your, eid, enquiry, model, qty",
+        "generated": "2026-10-07T05:20:33.231434",
+        "file": "measure-cost-per-handled-enquiry-a-small-logging-pattern-for-llm-workflows.md"
+    },
+    {
         "title": "Special Education Teachers Behavior-ED careers in Los Angeles | SY 2026–27",
         "slug": "special-education-teachers-behavior-ed-careers-in-los-angeles-sy-202627",
         "author": "every special child usa",
@@ -14275,6 +14330,17 @@
         "keywords": "con, del, inferbench, que, modelo, tok, motor, sin",
         "generated": "2026-06-05T15:19:56.042726",
         "file": "cmo-saber-qu-llm-te-entra-en-tu-gpu-y-a-cuntos-toks-sin-adivinar.md"
+    },
+    {
+        "title": "Modelling a Custom Jewellery Order as a State Machine (with Human Approval Gates)",
+        "slug": "modelling-a-custom-jewellery-order-as-a-state-machine-with-human-approval-gates",
+        "author": "Ujjwal Dubey",
+        "source": "devto_python",
+        "published": "Wed, 07 Oct 2026 05:02:13 +0000",
+        "description": "Custom jewellery orders are a nice, small example of why add a chatbot is the wrong first move for retail automation. The real problem is state: the custom...",
+        "keywords": "order, state, approvals, approval, delayed, transitions, outbox, custom",
+        "generated": "2026-10-07T05:20:33.232090",
+        "file": "modelling-a-custom-jewellery-order-as-a-state-machine-with-human-approval-gates.md"
     },
     {
         "title": "I Think Developers Are Building Too Much Software",
@@ -20578,6 +20644,17 @@
         "file": "how-to-monitor-ai-agent-behavior-in-production-tools-metrics-and-what-to-alert-on.md"
     },
     {
+        "title": "How I Automated My Daily Job Search Using n8n and AI 🤖💼",
+        "slug": "how-i-automated-my-daily-job-search-using-n8n-and-ai",
+        "author": "srivalli jalla",
+        "source": "devto_ai",
+        "published": "Wed, 07 Oct 2026 05:13:18 +0000",
+        "description": "Searching for jobs manually every single day can quickly become repetitive and inefficient. You scroll through multiple job boards, read dense job descriptio...",
+        "keywords": "rss, job, workflow, gmail, daily, key, node, python",
+        "generated": "2026-10-07T05:20:33.235833",
+        "file": "how-i-automated-my-daily-job-search-using-n8n-and-ai.md"
+    },
+    {
         "title": "MIT License Enterprise: Essential for AI Adoption 2026",
         "slug": "mit-license-enterprise-essential-for-ai-adoption-2026",
         "author": "Vladimir Lialine",
@@ -21744,6 +21821,17 @@
         "file": "lock-three-observable-channels-before-one-extract.md"
     },
     {
+        "title": "Reflection AI’s Beam Puts Efficiency at the Center of the Open-Model Race",
+        "slug": "reflection-ais-beam-puts-efficiency-at-the-center-of-the-open-model-race",
+        "author": "TechPulse",
+        "source": "devto_ai",
+        "published": "Wed, 07 Oct 2026 05:14:24 +0000",
+        "description": "Reflection AI’s Beam Puts Efficiency at the Center of the Open-Model Race The open-model competition is getting more serious. Reflection AI has introduced Be...",
+        "keywords": "model, beam, reflection, open, can, models, coding, weight",
+        "generated": "2026-10-07T05:20:33.235255",
+        "file": "reflection-ais-beam-puts-efficiency-at-the-center-of-the-open-model-race.md"
+    },
+    {
         "title": "The death and rebirth of my home server",
         "slug": "the-death-and-rebirth-of-my-home-server",
         "author": "steinuil",
@@ -22895,6 +22983,17 @@
         "keywords": "url, https, comments, jpeg, zero, knowledge, image, editing",
         "generated": "2026-09-19T20:21:54.585453",
         "file": "zk-jpeg-zero-knowledge-image-editing-and-compression.md"
+    },
+    {
+        "title": "Xbox has secured exclusive GTA 6 streaming rights",
+        "slug": "xbox-has-secured-exclusive-gta-6-streaming-rights",
+        "author": "thm",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 02:22:42 +0000",
+        "description": "Article URL: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights Comments URL: https://news.ycombinator.com/item?id=49987245 Points...",
+        "keywords": "xbox, gta, streaming, rights, url, https, com, comments",
+        "generated": "2026-10-07T05:20:33.231054",
+        "file": "xbox-has-secured-exclusive-gta-6-streaming-rights.md"
     },
     {
         "title": "CVE-2026-8457: WooCommerce Social Login Auth Bypass — Forged Apple JWTs Take Over Accounts",
@@ -34161,6 +34260,17 @@
         "file": "vercel-labsportless-stable-local-urls-for-humans-and-ai-agents.md"
     },
     {
+        "title": "Deduplicating Property Leads Across Portals and WhatsApp: A Practical Matching Key",
+        "slug": "deduplicating-property-leads-across-portals-and-whatsapp-a-practical-matching-key",
+        "author": "Ujjwal Dubey",
+        "source": "devto_python",
+        "published": "Wed, 07 Oct 2026 05:01:17 +0000",
+        "description": "I co-founded NxFlowAI, an AI automation agency. This post is a standalone technique. One of the first things any AI automation for real estate lead deduplica...",
+        "keywords": "lead, digits, phone, not, key, person, email, store",
+        "generated": "2026-10-07T05:20:33.232371",
+        "file": "deduplicating-property-leads-across-portals-and-whatsapp-a-practical-matching-key.md"
+    },
+    {
         "title": "Building a CV Builder With Live Preview and Zero-Backend Persistence",
         "slug": "building-a-cv-builder-with-live-preview-and-zero-backend-persistence",
         "author": "Emilio Ochieng",
@@ -35479,6 +35589,17 @@
         "keywords": "tennis, williams, open, data, cincinnati, doubles, first, set",
         "generated": "2026-08-04T03:13:25.001484",
         "file": "building-a-tennis-data-pipeline-lessons-from-williams-sisters-set-to-play-cincinnati-open-doubles.md"
+    },
+    {
+        "title": "How to Debug JSON Errors Fast: A Practical Guide",
+        "slug": "how-to-debug-json-errors-fast-a-practical-guide",
+        "author": "xiaochen11223",
+        "source": "devto_webdev",
+        "published": "Wed, 07 Oct 2026 05:17:04 +0000",
+        "description": "JSON errors are among the most common (and annoying) issues developers face. A missing comma, an extra quote, or a trailing comma can break an entire API res...",
+        "keywords": "json, line, you, quotes, diff, use, your, debug",
+        "generated": "2026-10-07T05:20:33.233018",
+        "file": "how-to-debug-json-errors-fast-a-practical-guide.md"
     },
     {
         "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
@@ -38147,6 +38268,17 @@
         "file": "genuine-human-speech-called-synthetic-nothing-was-generated.md"
     },
     {
+        "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+        "slug": "la-cueva-bbs-in-mexico-in-1993-session-replay",
+        "author": "nanochess",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 03:16:45 +0000",
+        "description": "Article URL: https://nanochess.org/la_cueva_bbs.html Comments URL: https://news.ycombinator.com/item?id=49987675 Points: 19 # Comments: 2",
+        "keywords": "url, https, comments, cueva, bbs, mexico, session, replay",
+        "generated": "2026-10-07T05:20:33.230913",
+        "file": "la-cueva-bbs-in-mexico-in-1993-session-replay.md"
+    },
+    {
         "title": "The Worker Kept Hitting the Old Database After the Config Was Changed",
         "slug": "the-worker-kept-hitting-the-old-database-after-the-config-was-changed",
         "author": "Taylor Wang",
@@ -40574,6 +40706,17 @@
         "keywords": "automation, can, workflow, teams, self, workflows, business, control",
         "generated": "2026-06-26T09:38:14.832588",
         "file": "why-self-hosted-ai-automation-matters.md"
+    },
+    {
+        "title": "Calling It Quits on ServerFault",
+        "slug": "calling-it-quits-on-serverfault",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 04:22:04 +0000",
+        "description": "Article URL: https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml Comments URL: https://news.ycombinator.com/item?id=49988142 Point...",
+        "keywords": "calling, quits, serverfault, url, https, comments, article, net",
+        "generated": "2026-10-07T05:20:33.230596",
+        "file": "calling-it-quits-on-serverfault.md"
     },
     {
         "title": "India VIX Mastery: How to Use Fear as a Trading Signal",
@@ -58300,6 +58443,17 @@
         "file": "introducing-xqora-technologies-building-the-future-one-project-at-a-time.md"
     },
     {
+        "title": "How I scrape any website in under 5 minutes (Python + Playwright)",
+        "slug": "how-i-scrape-any-website-in-under-5-minutes-python-playwright",
+        "author": "Kabir Hossain",
+        "source": "devto_python",
+        "published": "Wed, 07 Oct 2026 04:48:09 +0000",
+        "description": "python, webdev, tutorial, automation Every scraping tutorial I've read online ends the same way. Here's how to grab a title with BeautifulSoup. Twenty line...",
+        "keywords": "what, scraping, python, you, audit, tendem, github, how",
+        "generated": "2026-10-07T05:20:33.232828",
+        "file": "how-i-scrape-any-website-in-under-5-minutes-python-playwright.md"
+    },
+    {
         "title": "Google Search Console Impressions but No Clicks: What It Really Means and How to Fix It",
         "slug": "google-search-console-impressions-but-no-clicks-what-it-really-means-and-how-to-fix-it",
         "author": "anum saeed",
@@ -61336,6 +61490,17 @@
         "file": "how-to-earn-money-online-a-practical-guide-for-beginners.md"
     },
     {
+        "title": "Strands Decider 2B: a small, open-source, decision model",
+        "slug": "strands-decider-2b-a-small-open-source-decision-model",
+        "author": "gmays",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 02:02:11 +0000",
+        "description": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 85 # Comments: 12",
+        "keywords": "strands, decider, url, https, com, comments, small, open",
+        "generated": "2026-10-07T05:20:33.231174",
+        "file": "strands-decider-2b-a-small-open-source-decision-model.md"
+    },
+    {
         "title": "Why copy() Didn't Copy Everything: Understanding Shallow Copy in Python",
         "slug": "why-copy-didnt-copy-everything-understanding-shallow-copy-in-python",
         "author": "Samiksha Srivastav",
@@ -63547,6 +63712,17 @@
         "file": "from-solo-agents-to-team-orchestration-making-multiple-ai-agents-actually-work-together.md"
     },
     {
+        "title": "Google DeepMind Ships a Free On-Device Model for Searching Text, Images, Audio and Video Together",
+        "slug": "google-deepmind-ships-a-free-on-device-model-for-searching-text-images-audio-and-video-together",
+        "author": "Mikhail Savchenko",
+        "source": "devto_ai",
+        "published": "Wed, 07 Oct 2026 05:12:10 +0000",
+        "description": "Google DeepMind has released EmbeddingGemma 2 , an open embedding model that maps text, code, images, audio and video into a single shared vector space so th...",
+        "keywords": "google, text, audio, embeddinggemma, model, million, images, video",
+        "generated": "2026-10-07T05:20:33.236079",
+        "file": "google-deepmind-ships-a-free-on-device-model-for-searching-text-images-audio-and-video-together.md"
+    },
+    {
         "title": "pip install jhansi — the SDK is live",
         "slug": "pip-install-jhansi-the-sdk-is-live",
         "author": "Arun Raghunath",
@@ -63655,6 +63831,17 @@
         "keywords": "time, you, not, can, your, blindness, brain, don",
         "generated": "2026-08-02T19:18:04.965561",
         "file": "adhd-time-blindness-why-you-cant-feel-time-passing.md"
+    },
+    {
+        "title": "AI-Powered Trading Strategies for Crypto Markets — 2026-10-07 #4",
+        "slug": "ai-powered-trading-strategies-for-crypto-markets-2026-10-07-4",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Wed, 07 Oct 2026 05:13:29 +0000",
+        "description": "Leveraging artificial intelligence in cryptocurrency trading has shifted from a niche experimental phase to a core component of institutional and sophisticat...",
+        "keywords": "sentiment, strategies, rsi, trading, signal, market, data, technical",
+        "generated": "2026-10-07T05:20:33.235518",
+        "file": "ai-powered-trading-strategies-for-crypto-markets-2026-10-07-4.md"
     },
     {
         "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
@@ -81268,6 +81455,17 @@
         "file": "minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training.md"
     },
     {
+        "title": "The art of defusing a second world war bomb",
+        "slug": "the-art-of-defusing-a-second-world-war-bomb",
+        "author": "sandebert",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 03:43:14 +0000",
+        "description": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb Comme...",
+        "keywords": "art, defusing, second, world, war, bomb, url, https",
+        "generated": "2026-10-07T05:20:33.230770",
+        "file": "the-art-of-defusing-a-second-world-war-bomb.md"
+    },
+    {
         "title": "Review: Vokal - A collaboration space for 10x teammates with their Al agents",
         "slug": "review-vokal-a-collaboration-space-for-10x-teammates-with-their-al-agents",
         "author": "AI Tool Hunter",
@@ -94181,6 +94379,17 @@
         "file": "a-5th-stage-game.md"
     },
     {
+        "title": "6 Free Browser Tools for Everyday Dev Work, and the Gotchas They Catch",
+        "slug": "6-free-browser-tools-for-everyday-dev-work-and-the-gotchas-they-catch",
+        "author": "Utilza App",
+        "source": "devto_webdev",
+        "published": "Wed, 07 Oct 2026 05:14:53 +0000",
+        "description": "Some jobs show up in every project: pretty-printing an API response, reading what is inside a token, writing a cron line, or turning a request into a cURL co...",
+        "keywords": "json, cron, you, browser, every, token, line, command",
+        "generated": "2026-10-07T05:20:33.233870",
+        "file": "6-free-browser-tools-for-everyday-dev-work-and-the-gotchas-they-catch.md"
+    },
+    {
         "title": "Buy Snapchat Accounts",
         "slug": "buy-snapchat-accounts",
         "author": "Buy verified Wise accounts scam: What to know",
@@ -95158,6 +95367,17 @@
         "keywords": "price, option, what, writing, tools, comparison, pros, cons",
         "generated": "2026-06-09T20:13:36.284063",
         "file": "ai-writing-tools-comparison-pros-cons-honest-take.md"
+    },
+    {
+        "title": "Hello DEV! 👋 — A New Developer Finding My Way",
+        "slug": "hello-dev-a-new-developer-finding-my-way",
+        "author": "Pranithaa Sri O",
+        "source": "devto_ai",
+        "published": "Wed, 07 Oct 2026 05:11:26 +0000",
+        "description": "Hey everyone! 👋 Finally decided to stop lurking and actually introduce myself here. I’m an ECE student who’s been slowly falling deeper into software develop...",
+        "keywords": "here, way, finally, actually, been, development, learning, what",
+        "generated": "2026-10-07T05:20:33.236237",
+        "file": "hello-dev-a-new-developer-finding-my-way.md"
     },
     {
         "title": "Chime Verified Account with Secure Account Covenant",
