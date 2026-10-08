@@ -1342,6 +1342,17 @@
         "file": "herding-ai-agents-a-weekend-with-herdr-tmux-and-remote-fleets.md"
     },
     {
+        "title": "Perspective API alternative: how to migrate before the Dec 31 shutdown (with code)",
+        "slug": "perspective-api-alternative-how-to-migrate-before-the-dec-31-shutdown-with-code",
+        "author": "Paxmod",
+        "source": "devto_python",
+        "published": "Thu, 08 Oct 2026 04:51:40 +0000",
+        "description": "Google's Perspective API stops working after December 31, 2026 . Jigsaw closed usage and quota requests in February 2026 and isn't offering migration support...",
+        "keywords": "paxmod, perspective, you, text, flagged, json, com, api",
+        "generated": "2026-10-08T05:29:48.188503",
+        "file": "perspective-api-alternative-how-to-migrate-before-the-dec-31-shutdown-with-code.md"
+    },
+    {
         "title": "Stock Screener Automation: How a Trader Replaced ₹47K/Month Advisory with a Python Script",
         "slug": "stock-screener-automation-how-a-trader-replaced-47kmonth-advisory-with-a-python-script",
         "author": "Archit Mittal",
@@ -4773,6 +4784,17 @@
         "keywords": "context, agent, project, but, repository, more, contextforge, large",
         "generated": "2026-08-22T12:48:49.585813",
         "file": "contextforge-how-to-build-a-bounded-and-verifiable-context-for-coding-agents.md"
+    },
+    {
+        "title": "Higgsfield API in Practice: Prompt to Editorial Photo, and the Defaults That Bite",
+        "slug": "higgsfield-api-in-practice-prompt-to-editorial-photo-and-the-defaults-that-bite",
+        "author": "Mckenna Chapman",
+        "source": "devto_python",
+        "published": "Thu, 08 Oct 2026 04:48:01 +0000",
+        "description": "Higgsfield puts its whole model catalog behind one integration: POST https://api.higgsfield.ai/{model} with an Authorization: Key <key_id>:<secret> header, t...",
+        "keywords": "image, not, model, api, one, key, request, higgsfield",
+        "generated": "2026-10-08T05:29:48.190026",
+        "file": "higgsfield-api-in-practice-prompt-to-editorial-photo-and-the-defaults-that-bite.md"
     },
     {
         "title": "8 FPS Real‑Time Video on Consumer GPU",
@@ -13705,6 +13727,17 @@
         "file": "the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.md"
     },
     {
+        "title": "'Jonathan' is the oldest land animal on Earth",
+        "slug": "jonathan-is-the-oldest-land-animal-on-earth",
+        "author": "gumby",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 20:01:37 +0000",
+        "description": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 103...",
+        "keywords": "jonathan, oldest, land, animal, url, https, comments, earth",
+        "generated": "2026-10-08T05:29:48.187483",
+        "file": "jonathan-is-the-oldest-land-animal-on-earth.md"
+    },
+    {
         "title": "The 100k Whys of AI",
         "slug": "the-100k-whys-of-ai",
         "author": "surprisetalk",
@@ -13956,6 +13989,17 @@
         "keywords": "merge, word, cloud, mail, document, perform, invoices, can",
         "generated": "2026-07-31T08:56:54.066886",
         "file": "perform-mail-merge-in-a-word-document.md"
+    },
+    {
+        "title": "How we built free video tools that never upload your file",
+        "slug": "how-we-built-free-video-tools-that-never-upload-your-file",
+        "author": "GrabCast",
+        "source": "devto_webdev",
+        "published": "Thu, 08 Oct 2026 05:20:56 +0000",
+        "description": "Disclosure: I build GrabCast, the site used as the example here. This post is about the engineering, and the only link to the product is at the end. Most fr...",
+        "keywords": "you, file, video, your, tool, browser, page, webassembly",
+        "generated": "2026-10-08T05:29:48.191701",
+        "file": "how-we-built-free-video-tools-that-never-upload-your-file.md"
     },
     {
         "title": "I Wish I'd Switched Off OpenAI Sooner — Here's My Full Breakdown",
@@ -18794,6 +18838,17 @@
         "keywords": "you, not, email, what, read, back, leads, api",
         "generated": "2026-10-03T16:02:08.703168",
         "file": "a-200-ok-is-not-proof-your-agent-did-the-work.md"
+    },
+    {
+        "title": "A 100x faster* alternative to homebrew",
+        "slug": "a-100x-faster-alternative-to-homebrew",
+        "author": "cachebag",
+        "source": "hackernews",
+        "published": "Thu, 08 Oct 2026 03:23:08 +0000",
+        "description": "Article URL: https://github.com/zerobrewhq/zerobrew Comments URL: https://news.ycombinator.com/item?id=50001580 Points: 9 # Comments: 5",
+        "keywords": "url, https, com, comments, faster, alternative, homebrew, article",
+        "generated": "2026-10-08T05:29:48.187155",
+        "file": "a-100x-faster-alternative-to-homebrew.md"
     },
     {
         "title": "MindPal: finishing the AI support app that remembers what matters",
@@ -27781,6 +27836,17 @@
         "file": "i-tried-to-verify-an-ai-agent-benchmark-heres-the-bundle-i-wish-everyone-shipped.md"
     },
     {
+        "title": "Nginx Watchdog: Tower, We’ve Lost the Reverse Proxy",
+        "slug": "nginx-watchdog-tower-weve-lost-the-reverse-proxy",
+        "author": "Daniel",
+        "source": "devto_webdev",
+        "published": "Thu, 08 Oct 2026 05:16:25 +0000",
+        "description": "Tower: Nginx, confirm you are receiving traffic. Nginx: … Tower: Nginx, say again. Application team: We have seventeen dashboards. Tower: Splendid. Do any of...",
+        "keywords": "not, nginx, service, watchdog, tower, alert, does, matrixswarm",
+        "generated": "2026-10-08T05:29:48.192660",
+        "file": "nginx-watchdog-tower-weve-lost-the-reverse-proxy.md"
+    },
+    {
         "title": "When I reject AI code even if it works",
         "slug": "when-i-reject-ai-code-even-if-it-works",
         "author": "vnbrs",
@@ -32610,6 +32676,17 @@
         "file": "can-china-build-its-own-asml.md"
     },
     {
+        "title": "Hijri dates in JavaScript - what Intl can do, what it can't, and four traps",
+        "slug": "hijri-dates-in-javascript-what-intl-can-do-what-it-cant-and-four-traps",
+        "author": "Kirnu (كرنو)",
+        "source": "devto_webdev",
+        "published": "Thu, 08 Oct 2026 05:21:05 +0000",
+        "description": "Saudi Arabia's official Hijri calendar is Umm al-Qura , and dates like 1 Ramadan 1448 show up in contracts, government forms, school calendars and HR syste...",
+        "keywords": "date, day, calendar, islamic, hijri, intl, year, month",
+        "generated": "2026-10-08T05:29:48.191237",
+        "file": "hijri-dates-in-javascript-what-intl-can-do-what-it-cant-and-four-traps.md"
+    },
+    {
         "title": "citefid 0.1.0: verificar la fidelidad de citas en wikis OKF con NLI (AUC 0.7029 sobre código)",
         "slug": "citefid-010-verificar-la-fidelidad-de-citas-en-wikis-okf-con-nli-auc-07029-sobre-cdigo",
         "author": "Fenix",
@@ -34183,6 +34260,17 @@
         "file": "the-content-audit-that-didnt-need-me-to-build-a-scraper.md"
     },
     {
+        "title": "16,000 Supabase Databases Were Open to Anyone. Nobody Hacked Anything.",
+        "slug": "16000-supabase-databases-were-open-to-anyone-nobody-hacked-anything",
+        "author": "Format stack",
+        "source": "devto_webdev",
+        "published": "Thu, 08 Oct 2026 05:20:19 +0000",
+        "description": "On September 25, UpGuard reported 16,326 Supabase databases with publicly readable tables . More than half showed signs of personal data. Some had passwords ...",
+        "keywords": "key, supabase, data, rls, anon, your, read, project",
+        "generated": "2026-10-08T05:29:48.191898",
+        "file": "16000-supabase-databases-were-open-to-anyone-nobody-hacked-anything.md"
+    },
+    {
         "title": "Python Data Types Explained With Practical Examples",
         "slug": "python-data-types-explained-with-practical-examples",
         "author": "Kailas Warade",
@@ -35292,6 +35380,17 @@
         "keywords": "portfolio, https, news, ycombinator, com, item, but, way",
         "generated": "2026-06-20T19:45:32.620421",
         "file": "show-hn-my-windows-xp-portfolio-with-working-game-boy-and-ipod.md"
+    },
+    {
+        "title": "Building a DeFi Yield Scanner with Python and AI — 2026-10-08 #4",
+        "slug": "building-a-defi-yield-scanner-with-python-and-ai-2026-10-08-4",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_python",
+        "published": "Thu, 08 Oct 2026 05:20:37 +0000",
+        "description": "In the volatile landscape of Decentralized Finance (DeFi), identifying sustainable yield opportunities is no longer about chasing the highest APY. It is abou...",
+        "keywords": "data, defi, you, yield, apy, tvl, get, python",
+        "generated": "2026-10-08T05:29:48.188023",
+        "file": "building-a-defi-yield-scanner-with-python-and-ai-2026-10-08-4.md"
     },
     {
         "title": "ArgoCD for GitOps: managing Kubernetes deployments declaratively",
@@ -45740,6 +45839,17 @@
         "file": "harness-engineering-part-5-context-engineering.md"
     },
     {
+        "title": "ColdFusion Report Generation Pipeline: Scheduled PDF Exports Stored in S3 and Emailed on Demand",
+        "slug": "coldfusion-report-generation-pipeline-scheduled-pdf-exports-stored-in-s3-and-emailed-on-demand",
+        "author": "Deepak Sir",
+        "source": "devto_ai",
+        "published": "Thu, 08 Oct 2026 05:28:50 +0000",
+        "description": "Introduction Almost every enterprise ColdFusion application has a reporting job. Finance wants a monthly statement. Operations wants a Monday-morning summary...",
+        "keywords": "coldfusion, wants, report, generation, pipeline, scheduled, pdf, exports",
+        "generated": "2026-10-08T05:29:48.192805",
+        "file": "coldfusion-report-generation-pipeline-scheduled-pdf-exports-stored-in-s3-and-emailed-on-demand.md"
+    },
+    {
         "title": "Reading a GitHub Copilot Release Roundup Without Overclaiming",
         "slug": "reading-a-github-copilot-release-roundup-without-overclaiming",
         "author": "TuanPK Builds",
@@ -48952,6 +49062,17 @@
         "file": "optimizing-sales-processes-with-llm-integration.md"
     },
     {
+        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+        "slug": "meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 18:49:40 +0000",
+        "description": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/i...",
+        "keywords": "meta, microsoft, take, steps, reduce, employee, usage, claude",
+        "generated": "2026-10-08T05:29:48.187648",
+        "file": "meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai.md"
+    },
+    {
         "title": "Navigating Bitcoin Core: A Developer Introduction to Scripting the Blockchain",
         "slug": "navigating-bitcoin-core-a-developer-introduction-to-scripting-the-blockchain",
         "author": "Mercy Moraa",
@@ -49115,6 +49236,17 @@
         "keywords": "four, time, scales, technology, development, deployment, url, https",
         "generated": "2026-08-02T03:28:39.837803",
         "file": "four-time-scales-for-technology-development-and-deployment.md"
+    },
+    {
+        "title": "The DEV (Forem) API in Practice: Drafts, Updates, and the Edge Cases the Docs Skip",
+        "slug": "the-dev-forem-api-in-practice-drafts-updates-and-the-edge-cases-the-docs-skip",
+        "author": "Mckenna Chapman",
+        "source": "devto_python",
+        "published": "Thu, 08 Oct 2026 04:47:57 +0000",
+        "description": "The DEV API v1 answers at https://dev.to/api . Reads are public; everything that touches your own account needs one header, api-key . Creating or updating a ...",
+        "keywords": "api, not, key, articles, get, you, one, json",
+        "generated": "2026-10-08T05:29:48.190733",
+        "file": "the-dev-forem-api-in-practice-drafts-updates-and-the-edge-cases-the-docs-skip.md"
     },
     {
         "title": "Why Most Shopify Stockout-Forecasting Tools Miss Reorder Timing (and a Simpler Fix)",
@@ -64207,6 +64339,17 @@
         "file": "beyond-the-black-box-navigating-seo-tools-without-breaking-the-bank.md"
     },
     {
+        "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+        "slug": "push-ifs-up-and-fors-down-the-idiom-its-algebra-and-its-limits",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 18:43:18 +0000",
+        "description": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 128 # Comments: 61",
+        "keywords": "push, ifs, fors, down, its, url, https, comments",
+        "generated": "2026-10-08T05:29:48.187775",
+        "file": "push-ifs-up-and-fors-down-the-idiom-its-algebra-and-its-limits.md"
+    },
+    {
         "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
         "slug": "chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
         "author": "rdmuser",
@@ -65074,6 +65217,17 @@
         "keywords": "return, user, code, not, you, version, under, pressure",
         "generated": "2026-07-25T19:16:03.114887",
         "file": "how-to-write-python-code-that-is-both-correct-and-readable-under-interview-pressure.md"
+    },
+    {
+        "title": "Margaret Hamilton has died",
+        "slug": "margaret-hamilton-has-died",
+        "author": "muglug",
+        "source": "hackernews",
+        "published": "Wed, 07 Oct 2026 21:16:18 +0000",
+        "description": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 1099...",
+        "keywords": "margaret, hamilton, url, https, news, comments, has, died",
+        "generated": "2026-10-08T05:29:48.187349",
+        "file": "margaret-hamilton-has-died.md"
     },
     {
         "title": "We Shipped a 10x Error on General Mills. Here's the Bug, and the Check That Would Have Caught It.",
@@ -73942,6 +74096,17 @@
         "file": "the-ssrf-check-that-passed-every-test-and-still-had-a-fail-open-branch.md"
     },
     {
+        "title": "How to Automate Repetitive Tasks with WorkBeaver: A Small Business Guide",
+        "slug": "how-to-automate-repetitive-tasks-with-workbeaver-a-small-business-guide",
+        "author": "Andrea Miles",
+        "source": "devto_ai",
+        "published": "Thu, 08 Oct 2026 05:28:03 +0000",
+        "description": "Small businesses rarely run out of things to do. There are customer emails to answer, leads to organize, spreadsheets to update, files to sort, websites to c...",
+        "keywords": "information, you, can, spreadsheet, automation, repetitive, process, automate",
+        "generated": "2026-10-08T05:29:48.193947",
+        "file": "how-to-automate-repetitive-tasks-with-workbeaver-a-small-business-guide.md"
+    },
+    {
         "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
         "slug": "12b-of-us-ratepayers-money-wasted-on-a-modeling-mistake-in-pjm",
         "author": "_delirium",
@@ -76582,6 +76747,17 @@
         "file": "why-every-computer-vision-team-ends-up-rewriting-the-same-video-clip-pipeline.md"
     },
     {
+        "title": "Solving Adverse Selection in Automated Market Making via Deterministic MCP Tools",
+        "slug": "solving-adverse-selection-in-automated-market-making-via-deterministic-mcp-tools",
+        "author": "Renato Marinho",
+        "source": "devto_ai",
+        "published": "Thu, 08 Oct 2026 05:23:57 +0000",
+        "description": "In high-frequency liquidity provision, specifically within decentralized prediction markets like Polymarket, the difference between a profitable strategy and...",
+        "keywords": "spread, you, agent, volatility, they, when, these, vinkius",
+        "generated": "2026-10-08T05:29:48.194385",
+        "file": "solving-adverse-selection-in-automated-market-making-via-deterministic-mcp-tools.md"
+    },
+    {
         "title": "Your Pipeline Is 12.4h Behind: Catching Renewable Energy Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-124h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -76646,6 +76822,17 @@
         "keywords": "not, you, number, model, audio, every, does, one",
         "generated": "2026-10-03T20:51:29.009616",
         "file": "i-rejected-a-model-that-passed-everyone-elses-benchmark.md"
+    },
+    {
+        "title": "I parsed 110,000 EU procurement awards. Half of them don't say when the contract was signed.",
+        "slug": "i-parsed-110000-eu-procurement-awards-half-of-them-dont-say-when-the-contract-was-signed",
+        "author": "Pennyforge",
+        "source": "devto_python",
+        "published": "Thu, 08 Oct 2026 04:51:28 +0000",
+        "description": "Every two months or so, the EU publishes an open archive of everything its public authorities bought — Tenders Electronic Daily (TED) , the official journal ...",
+        "keywords": "award, notices, date, you, ted, days, notice, single",
+        "generated": "2026-10-08T05:29:48.188973",
+        "file": "i-parsed-110000-eu-procurement-awards-half-of-them-dont-say-when-the-contract-was-signed.md"
     },
     {
         "title": "Python Project Idea Generator: A CLI Tool for Learning Projects",
@@ -82883,6 +83070,17 @@
         "keywords": "intelligence, threat, security, sentinel, apex, organizations, cyber, threats",
         "generated": "2026-06-24T19:54:11.167933",
         "file": "cyberdudebivash-sentinel-apex-enterprise-threat-intelligence-at-global-scale.md"
+    },
+    {
+        "title": "Helicone vs nRouter: The Request-Path Test Every LLM Gateway Evaluation Should Run",
+        "slug": "helicone-vs-nrouter-the-request-path-test-every-llm-gateway-evaluation-should-run",
+        "author": "Support nRouter",
+        "source": "devto_ai",
+        "published": "Thu, 08 Oct 2026 05:28:44 +0000",
+        "description": "Helicone vs nRouter: The Request-Path Test Every LLM Gateway Evaluation Should Run Here's a test I now run on every LLM infrastructure evaluation, and it tak...",
+        "keywords": "nrouter, helicone, test, provider, plan, request, path, every",
+        "generated": "2026-10-08T05:29:48.193106",
+        "file": "helicone-vs-nrouter-the-request-path-test-every-llm-gateway-evaluation-should-run.md"
     },
     {
         "title": "MEV Detection with AI: A Practical Guide",
@@ -91365,6 +91563,17 @@
         "file": "how-i-made-focusity-easier-to-use-a-smarter-connect-screen-and-one-moodle-url.md"
     },
     {
+        "title": "Best AI Image Generators in 2026: 12 Tools, Real Prices, and the Cost of One Image",
+        "slug": "best-ai-image-generators-in-2026-12-tools-real-prices-and-the-cost-of-one-image",
+        "author": "Mckenna Chapman",
+        "source": "devto_ai",
+        "published": "Thu, 08 Oct 2026 05:23:07 +0000",
+        "description": "Most best AI image generator lists compare monthly subscriptions. Almost none tell you what a single finished image costs, because subscriptions are not pr...",
+        "keywords": "image, per, page, not, october, pricing, pro, api",
+        "generated": "2026-10-08T05:29:48.195666",
+        "file": "best-ai-image-generators-in-2026-12-tools-real-prices-and-the-cost-of-one-image.md"
+    },
+    {
         "title": "I tried to break my own AI audit trail 75 times. 17 attacks worked.",
         "slug": "i-tried-to-break-my-own-ai-audit-trail-75-times-17-attacks-worked",
         "author": "Jason Shotwell",
@@ -94476,6 +94685,17 @@
         "keywords": "you, prometheus, docker, grafana, your, not, uptime, victoriametrics",
         "generated": "2026-07-15T08:23:28.888696",
         "file": "5-self-hosted-monitoring-tools-worth-running-on-your-own-hardware-in-2026.md"
+    },
+    {
+        "title": "Advanced Digital Marketing Training: Skills That Set You Apart in 2026",
+        "slug": "advanced-digital-marketing-training-skills-that-set-you-apart-in-2026",
+        "author": "Dizitaladda",
+        "source": "devto_webdev",
+        "published": "Thu, 08 Oct 2026 05:17:16 +0000",
+        "description": "Digital marketing has moved well past posting on social media and running a few ads. Competition is fierce, platforms change constantly, and AI now automates...",
+        "keywords": "advanced, training, marketing, you, digital, strategy, skills, data",
+        "generated": "2026-10-08T05:29:48.192189",
+        "file": "advanced-digital-marketing-training-skills-that-set-you-apart-in-2026.md"
     },
     {
         "title": "BuyWhere MCP now listed on MCP Servers",
