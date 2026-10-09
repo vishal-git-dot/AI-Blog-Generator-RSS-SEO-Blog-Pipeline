@@ -4,16 +4,16 @@ slug: "ai-ready-biological-data-18b-global-commitment"
 author: "ray__"
 source: "hackernews"
 published: "Thu, 08 Oct 2026 20:46:25 +0000"
-description: "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 38 # Comments: 1"
+description: "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 98 # Comments: 14"
 keywords: "url, https, news, comments, ready, biological, data, global"
-generated: "2026-10-08T23:09:13.580529"
+generated: "2026-10-09T05:33:37.104837"
 ---
 
 # AI-ready biological data: $1.8B global commitment
 
 ## Overview
 
-Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 38 # Comments: 1
+Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 98 # Comments: 14
 
 ## Key Insights
 

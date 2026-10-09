@@ -4753,6 +4753,17 @@
         "file": "nitter-is-unarchived-and-will-continue.md"
     },
     {
+        "title": "Cybernetics of AI Companies",
+        "slug": "cybernetics-of-ai-companies",
+        "author": "measurablefunc",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 04:43:20 +0000",
+        "description": "Article URL: https://ai-cybernetics.grok.me Comments URL: https://news.ycombinator.com/item?id=50016067 Points: 3 # Comments: 0",
+        "keywords": "cybernetics, url, https, comments, companies, article, grok, news",
+        "generated": "2026-10-09T05:33:37.104455",
+        "file": "cybernetics-of-ai-companies.md"
+    },
+    {
         "title": "Which development tasks are worth delegating to an AI agent?",
         "slug": "which-development-tasks-are-worth-delegating-to-an-ai-agent",
         "author": "Viktoria",
@@ -8359,6 +8370,17 @@
         "file": "how-much-does-a-gym-or-fitness-studio-website-cost-real-numbers-explained.md"
     },
     {
+        "title": "How to Build an Airdrop Monitor with AI — 2026-10-09 #4",
+        "slug": "how-to-build-an-airdrop-monitor-with-ai-2026-10-09-4",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 04:50:11 +0000",
+        "description": "Monitoring cryptocurrency airdrops manually is a race against time. By the time you spot a new project on Twitter, the allocation window is often closed. An ...",
+        "keywords": "json, airdrop, data, api, monitor, headers, content, return",
+        "generated": "2026-10-09T05:33:37.106621",
+        "file": "how-to-build-an-airdrop-monitor-with-ai-2026-10-09-4.md"
+    },
+    {
         "title": "Longevity Science 2026: Essential Closed-Loop Care",
         "slug": "longevity-science-2026-essential-closed-loop-care",
         "author": "Vladimir Lialine",
@@ -10326,6 +10348,17 @@
         "keywords": "https, comments, supersonic, flight, returning, after, half, century",
         "generated": "2026-07-01T04:23:05.791126",
         "file": "supersonic-flight-returning-to-us-after-half-century-ban.md"
+    },
+    {
+        "title": "Shrink the Failing Input Before a Flake Freeze Can Be Written",
+        "slug": "shrink-the-failing-input-before-a-flake-freeze-can-be-written",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 05:17:31 +0000",
+        "description": "A flake freeze is a quarantine row, not a pardon. Write one only after a property failure shrinks to a minimal fixture, a fixed replay set splits into comple...",
+        "keywords": "not, freeze, fixture, timeout, runner, patch, runs, one",
+        "generated": "2026-10-09T05:33:37.105751",
+        "file": "shrink-the-failing-input-before-a-flake-freeze-can-be-written.md"
     },
     {
         "title": "The Future of Query Optimization: AI-Driven Insights in Big Data",
@@ -12682,6 +12715,17 @@
         "file": "beyond-the-buzzwords-engineering-hashtags-that-actually-drive-engagement.md"
     },
     {
+        "title": "Grok 4.7 vs Claude Fable 5.1: reading the benchmarks, doing the token math, and wiring a router",
+        "slug": "grok-47-vs-claude-fable-51-reading-the-benchmarks-doing-the-token-math-and-wiring-a-router",
+        "author": "Mason Reed",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 05:25:55 +0000",
+        "description": "Two frontier models shipped three weeks apart. Claude Fable 5.1 landed September 1, 2026; Grok 4.7 landed September 21, 2026. They are not chasing the same t...",
+        "keywords": "grok, fable, model, input, task, claude, output, not",
+        "generated": "2026-10-09T05:33:37.109207",
+        "file": "grok-47-vs-claude-fable-51-reading-the-benchmarks-doing-the-token-math-and-wiring-a-router.md"
+    },
+    {
         "title": "How Tech is Solving UAE's Biggest Freight Forwarding Problems in 2026",
         "slug": "how-tech-is-solving-uaes-biggest-freight-forwarding-problems-in-2026",
         "author": "INTECH Creative Services",
@@ -12823,6 +12867,17 @@
         "keywords": "kubernetes, python, operator, you, your, kopf, client, tags",
         "generated": "2026-09-06T20:14:44.036645",
         "file": "build-a-kubernetes-pod-autoscaler-with-python.md"
+    },
+    {
+        "title": "Which Claude Code session is waiting on you? A queue for agents that stopped to ask",
+        "slug": "which-claude-code-session-is-waiting-on-you-a-queue-for-agents-that-stopped-to-ask",
+        "author": "Bargan Constantin",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 05:27:18 +0000",
+        "description": "I build ccdeck . The step-by-step version of this post, with every setting, is at ccdeck.dev/guides/waiting-on-you . One silent prompt among many tabs You st...",
+        "keywords": "you, claude, code, waiting, session, one, ccdeck, prompt",
+        "generated": "2026-10-09T05:33:37.108797",
+        "file": "which-claude-code-session-is-waiting-on-you-a-queue-for-agents-that-stopped-to-ask.md"
     },
     {
         "title": "Building a Real-Time Price Comparison API with Node.js — Free Tier Included",
@@ -13637,6 +13692,17 @@
         "keywords": "agent, money, agents, you, one, can, spend, marketplace",
         "generated": "2026-09-21T12:28:55.245018",
         "file": "the-one-way-money-valve-why-ai-agent-marketplaces-stall.md"
+    },
+    {
+        "title": "FastAPI: contratos para correos temporales en CI",
+        "slug": "fastapi-contratos-para-correos-temporales-en-ci",
+        "author": "Olivia Cheng",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 05:23:46 +0000",
+        "description": "Una bandeja de correo temporal puede hacer que una prueba de integración sea rápida y repetible, pero solo si cada ejecución tiene límites claros. En esta gu...",
+        "keywords": "para, una, puede, del, test, por, cada, con",
+        "generated": "2026-10-09T05:33:37.105200",
+        "file": "fastapi-contratos-para-correos-temporales-en-ci.md"
     },
     {
         "title": "Changes to LLM pricing: Mancer 2 and StreamLake",
@@ -15452,6 +15518,17 @@
         "keywords": "memory, context, part, engineering, enterprise, layer, prepstack, not",
         "generated": "2026-06-20T19:45:32.621444",
         "file": "context-engineering-for-enterprise-ai-part-2-the-memory-layer-that-makes-agents-useful.md"
+    },
+    {
+        "title": "【完全無料・サーバーレス】AWS Lambda FastAPI で作る「お出かけホテル検索マップ」の手順",
+        "slug": "aws-lambda-fastapi",
+        "author": "minaduki",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 04:59:31 +0000",
+        "description": "こんにちは！今回は、自宅の重いサーバーや有料のホスティング環境を使わず、AWS Lambdaの永年無料枠を活用して、ほぼ完全無料（サーバー代0円）で動くホテル検索マップアプリを個人開発したので、その仕組みと作り方をシェアしたいと思います。 hotel map フロントエンドの地図操作から、バックエンドのPytho...",
+        "keywords": "fastapi, request, import, aws, google, mangum, requests, item",
+        "generated": "2026-10-09T05:33:37.106461",
+        "file": "aws-lambda-fastapi.md"
     },
     {
         "title": "Essential Resources for Settin…",
@@ -23557,6 +23634,17 @@
         "file": "free-ai-tools-pricing-and-roi-checks.md"
     },
     {
+        "title": "Laravel retry_after vs timeout vs backoff: The Three Numbers Behind Duplicate Queue Jobs",
+        "slug": "laravel-retryafter-vs-timeout-vs-backoff-the-three-numbers-behind-duplicate-queue-jobs",
+        "author": "Blogs World",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 05:25:57 +0000",
+        "description": "A customer gets charged twice. A report email goes out three times. The logs show App\\Jobs\\SyncInvoice has been attempted too many times even though the job ...",
+        "keywords": "job, timeout, queue, worker, you, connection, backoff, php",
+        "generated": "2026-10-09T05:33:37.107078",
+        "file": "laravel-retryafter-vs-timeout-vs-backoff-the-three-numbers-behind-duplicate-queue-jobs.md"
+    },
+    {
         "title": "Integer Quantization: Deep Dive",
         "slug": "integer-quantization-deep-dive",
         "author": "matt_d",
@@ -25821,6 +25909,17 @@
         "keywords": "fiber, react, tree, render, work, commit, component, phase",
         "generated": "2026-06-13T04:19:15.386694",
         "file": "react-fiber-architecture-explained-how-react-renders-ui.md"
+    },
+    {
+        "title": "Bevy 0.20",
+        "slug": "bevy-020",
+        "author": "Philpax",
+        "source": "hackernews",
+        "published": "Thu, 08 Oct 2026 22:57:50 +0000",
+        "description": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 113 # Comments: 18",
+        "keywords": "bevy, url, https, news, comments, article, org, ycombinator",
+        "generated": "2026-10-09T05:33:37.104762",
+        "file": "bevy-020.md"
     },
     {
         "title": "How a frustrating school project led me to build my first CLI tool.",
@@ -30987,9 +31086,9 @@
         "author": "ray__",
         "source": "hackernews",
         "published": "Thu, 08 Oct 2026 20:46:25 +0000",
-        "description": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 38 # Comments: 1",
+        "description": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 98 # Comments: 14",
         "keywords": "url, https, news, comments, ready, biological, data, global",
-        "generated": "2026-10-08T23:09:13.580529",
+        "generated": "2026-10-09T05:33:37.104837",
         "file": "ai-ready-biological-data-18b-global-commitment.md"
     },
     {
@@ -33477,6 +33576,17 @@
         "keywords": "event, cost, not, transcript, tenant, job, one, audio",
         "generated": "2026-08-11T13:17:02.096643",
         "file": "per-tenant-cost-ledgers-for-batch-audio-transcription-apis-on-long-recordings.md"
+    },
+    {
+        "title": "MiniMax H3 Max vs Seedance 2.5: Route by Bottleneck, Not by Feature List",
+        "slug": "minimax-h3-max-vs-seedance-25-route-by-bottleneck-not-by-feature-list",
+        "author": "Dylan Foster",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 05:23:30 +0000",
+        "description": "Both models take text or images in and hand you video with synchronized audio. Both do reference-driven work. If you compare them on a feature grid you will ...",
+        "keywords": "max, seedance, model, reference, audio, second, route, video",
+        "generated": "2026-10-09T05:33:37.109811",
+        "file": "minimax-h3-max-vs-seedance-25-route-by-bottleneck-not-by-feature-list.md"
     },
     {
         "title": "[Remote] Physics Expert (Biophysics / Statistical Physics) ($80 - $160/hour)",
@@ -45357,6 +45467,17 @@
         "file": "houthis-used-claude-code-to-develop-missile-guidance-software-anthropic.md"
     },
     {
+        "title": "Building AIS-140-Compliant Fleet Tracking in India: A Developer's Guide to the 2026 Mandate",
+        "slug": "building-ais-140-compliant-fleet-tracking-in-india-a-developers-guide-to-the-2026-mandate",
+        "author": "ZANISS SOFTWARES",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 05:27:22 +0000",
+        "description": "If you're building fleet or logistics software for the Indian market, AIS-140 isn't optional reading — it's the spec your ingestion layer has to be built aro...",
+        "keywords": "fleet, you, your, detection, not, building, ais, tamper",
+        "generated": "2026-10-09T05:33:37.106790",
+        "file": "building-ais-140-compliant-fleet-tracking-in-india-a-developers-guide-to-the-2026-mandate.md"
+    },
+    {
         "title": "Understanding Model Context Protocol: A Developer's Introduction",
         "slug": "understanding-model-context-protocol-a-developers-introduction",
         "author": "Cheryl D Mahaffey",
@@ -53185,6 +53306,17 @@
         "keywords": "jevmem, url, https, com, comments, automatic, project, memory",
         "generated": "2026-09-25T16:56:51.660230",
         "file": "jevmem-automatic-project-memory-for-claude-code-built-on-jev.md"
+    },
+    {
+        "title": "Nano Banana 2.1: benchmarks, pricing, and what the API actually gives you",
+        "slug": "nano-banana-21-benchmarks-pricing-and-what-the-api-actually-gives-you",
+        "author": "Claire Bennett",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 05:29:14 +0000",
+        "description": "Google shipped Nano Banana 2.1 on October 6, 2026. Model ID is gemini-nano-banana-2.1 , it's built on Gemini 3.6 Flash, and it slots in as the efficiency-tie...",
+        "keywords": "nano, banana, image, model, gemini, thinking, google, text",
+        "generated": "2026-10-09T05:33:37.108506",
+        "file": "nano-banana-21-benchmarks-pricing-and-what-the-api-actually-gives-you.md"
     },
     {
         "title": "Your LLM can't actually watch video. Here's the smallest fix (MIT)",
@@ -61028,6 +61160,17 @@
         "file": "my-app-didnt-go-viral-my-aws-bill-did.md"
     },
     {
+        "title": "Make your LLM calls survive 429s and overloads, with any client",
+        "slug": "make-your-llm-calls-survive-429s-and-overloads-with-any-client",
+        "author": "Himanshu Sharma",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 05:24:59 +0000",
+        "description": "You ship an LLM feature. It works. Then, in production, you start seeing this: 429 Too Many Requests 529 overloaded_error 503 Service Unavailable So you reac...",
+        "keywords": "retry, you, wire, fetch, provider, openai, headers, sse",
+        "generated": "2026-10-09T05:33:37.107453",
+        "file": "make-your-llm-calls-survive-429s-and-overloads-with-any-client.md"
+    },
+    {
         "title": "85% of Agent Token Burn Is Cached Prompt. shell.online's Counter Read 99% Before It Dropped Cache Reads",
         "slug": "85-of-agent-token-burn-is-cached-prompt-shellonlines-counter-read-99-before-it-dropped-cache-reads",
         "author": "Artemii Amelin",
@@ -66836,6 +66979,17 @@
         "file": "automating-sqlite-database-backups-with-python-and-cron-on-linux.md"
     },
     {
+        "title": "Anger as man sentenced to death for Facebook comment",
+        "slug": "anger-as-man-sentenced-to-death-for-facebook-comment",
+        "author": "bcaulfield",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 03:03:54 +0000",
+        "description": "Article URL: https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304 Comments URL: https://news.ycombinator.com/item?id=50015486...",
+        "keywords": "news, anger, man, sentenced, death, facebook, url, https",
+        "generated": "2026-10-09T05:33:37.104595",
+        "file": "anger-as-man-sentenced-to-death-for-facebook-comment.md"
+    },
+    {
         "title": "Best Marketplace to Buy Verified Shopify Account Safely and Securely",
         "slug": "best-marketplace-to-buy-verified-shopify-account-safely-and-securely",
         "author": "Charles Christian",
@@ -67472,6 +67626,17 @@
         "keywords": "print, name, variable, age, range, return, def, input",
         "generated": "2026-09-11T10:58:00.563104",
         "file": "python-fundamentals-variables-control-flow-and-functions.md"
+    },
+    {
+        "title": "Building a Crypto Signal Bot with AI APIs - 2026 Guide — 2026-10-09 #3",
+        "slug": "building-a-crypto-signal-bot-with-ai-apis-2026-guide-2026-10-09-3",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 05:23:56 +0000",
+        "description": "In the volatile landscape of 2026, manual trading is a relic of the past. The edge now lies in speed, precision, and the seamless integration of Large Langua...",
+        "keywords": "data, signal, bot, sentiment, price, json, crypto, you",
+        "generated": "2026-10-09T05:33:37.109395",
+        "file": "building-a-crypto-signal-bot-with-ai-apis-2026-guide-2026-10-09-3.md"
     },
     {
         "title": "CarPlay Is Additive",
@@ -76307,6 +76472,17 @@
         "file": "libraries-run-rust-inside-python-with-pyo3.md"
     },
     {
+        "title": "Reducing undefined behavior in the C language",
+        "slug": "reducing-undefined-behavior-in-the-c-language",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 02:02:53 +0000",
+        "description": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 64 # Comments: 35",
+        "keywords": "url, https, comments, reducing, undefined, behavior, language, article",
+        "generated": "2026-10-09T05:33:37.104685",
+        "file": "reducing-undefined-behavior-in-the-c-language.md"
+    },
+    {
         "title": "Gjethe — A Software Agency from Prishtina, Kosovo 🍃",
         "slug": "gjethe-a-software-agency-from-prishtina-kosovo",
         "author": "Gjethe",
@@ -82236,6 +82412,17 @@
         "file": "the-world-clock-time-zone-landscape-what-162-places-reveal-about-time-zones.md"
     },
     {
+        "title": "Fixing a bad INP in React? Find the slow phase before you optimize anything",
+        "slug": "fixing-a-bad-inp-in-react-find-the-slow-phase-before-you-optimize-anything",
+        "author": "Redlio Labs",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 05:23:47 +0000",
+        "description": "Interaction to Next Paint (INP) has been a Core Web Vital since March 2024, when it replaced First Input Delay. It's also the one teams find hardest to fix, ...",
+        "keywords": "your, inp, attribution, react, you, long, interaction, phase",
+        "generated": "2026-10-09T05:33:37.107915",
+        "file": "fixing-a-bad-inp-in-react-find-the-slow-phase-before-you-optimize-anything.md"
+    },
+    {
         "title": "Python Docker Containerization: From Dev to Production",
         "slug": "python-docker-containerization-from-dev-to-production",
         "author": "Anna lilith",
@@ -83235,6 +83422,17 @@
         "keywords": "disappointed, optimists, url, https, com, comments, article, cwodtke",
         "generated": "2026-09-08T16:23:34.868811",
         "file": "disappointed-optimists.md"
+    },
+    {
+        "title": "Stop Losing Leads: A Free n8n Workflow (Form Google Sheets Telegram)",
+        "slug": "stop-losing-leads-a-free-n8n-workflow-form-google-sheets-telegram",
+        "author": "BAW BAN",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 05:17:30 +0000",
+        "description": "Every small business loses leads the same way. Someone fills out your form. The inquiry lands in an inbox nobody watches. Two hours later the customer is gon...",
+        "keywords": "workflow, form, you, free, sheets, telegram, leads, google",
+        "generated": "2026-10-09T05:33:37.108104",
+        "file": "stop-losing-leads-a-free-n8n-workflow-form-google-sheets-telegram.md"
     },
     {
         "title": "My favorite nonfiction books about cults, scams, and schemes",
@@ -94454,6 +94652,17 @@
         "keywords": "billing, tenant, can, energy, consumption, software, meter, data",
         "generated": "2026-08-18T06:52:25.243727",
         "file": "tenant-billing-software-how-to-automate-energy-billing-for-multi-tenant-buildings.md"
+    },
+    {
+        "title": "Lock mkdir Failures Before One Path Extract",
+        "slug": "lock-mkdir-failures-before-one-path-extract",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 05:11:54 +0000",
+        "description": "Extract nothing until side effects have a frozen contract. A messy path helper often creates directories while building strings. Split that helper too early ...",
+        "keywords": "path, not, root, stamp, before, join, extract, you",
+        "generated": "2026-10-09T05:33:37.106269",
+        "file": "lock-mkdir-failures-before-one-path-extract.md"
     },
     {
         "title": "How to Verify Uber Without Using Your Personal Phone Number",
