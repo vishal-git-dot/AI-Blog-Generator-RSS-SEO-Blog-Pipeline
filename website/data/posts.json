@@ -4126,6 +4126,17 @@
         "file": "86.md"
     },
     {
+        "title": "Write Once, Run on Any Runtime: Practical Runtime-Agnostic TypeScript for Node, Deno, Bun and Cloudflare Workers",
+        "slug": "write-once-run-on-any-runtime-practical-runtime-agnostic-typescript-for-node-deno-bun-and-cloudflare-workers",
+        "author": "EME GUG",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 22:08:40 +0000",
+        "description": "Tin Cloudflare mua lại Deno đang leo top Hacker News, và phần bình luận chia làm hai phe: một phe mừng vì Deno có nhà giàu chống lưng, phe kia lo bị vendor...",
+        "keywords": "node, deno, env, core, workers, runtime, fetch, test",
+        "generated": "2026-10-09T22:28:36.765348",
+        "file": "write-once-run-on-any-runtime-practical-runtime-agnostic-typescript-for-node-deno-bun-and-cloudflare-workers.md"
+    },
+    {
         "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
         "slug": "great-question-yc-w21-is-hiring-senior-demand-gen-manager",
         "author": "nedwin",
@@ -9184,6 +9195,17 @@
         "file": "using-scikit-learn-pipelines-a-titanic-walkthrough.md"
     },
     {
+        "title": "Who joined your target accounts this month, and where they came from (a new-hires signal without a LinkedIn login)",
+        "slug": "who-joined-your-target-accounts-this-month-and-where-they-came-from-a-new-hires-signal-without-a-linkedin-login",
+        "author": "Kevin Hall",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 22:17:26 +0000",
+        "description": "A new manager or VP at a target account is the best moment to reach out. They have a mandate to change things and no vendor habits yet. The half of the signa...",
+        "keywords": "new, hires, com, one, finder, rows, mcp, apify",
+        "generated": "2026-10-09T22:28:36.766544",
+        "file": "who-joined-your-target-accounts-this-month-and-where-they-came-from-a-new-hires-signal-without-a-linkedin-login.md"
+    },
+    {
         "title": "The Python Feature That Instantly Felt Magical to Me... List Comprehensions",
         "slug": "the-python-feature-that-instantly-felt-magical-to-me-list-comprehensions",
         "author": "Samiksha Srivastav",
@@ -12383,6 +12405,17 @@
         "keywords": "agent, headers, email, message, tool, nylas, json, inbox",
         "generated": "2026-06-15T21:11:31.715200",
         "file": "give-a-langchain-agent-a-real-inbox.md"
+    },
+    {
+        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+        "slug": "youtuber-says-cops-visited-him-after-he-built-a-flock-style-camera-to-track-cops",
+        "author": "gumby",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 21:06:59 +0000",
+        "description": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.yc...",
+        "keywords": "cops, youtuber, says, him, after, built, flock, style",
+        "generated": "2026-10-09T22:28:36.760240",
+        "file": "youtuber-says-cops-visited-him-after-he-built-a-flock-style-camera-to-track-cops.md"
     },
     {
         "title": "Two tidal libraries disagreed: diff their internals, not their outputs",
@@ -19911,10 +19944,10 @@
         "slug": "how-to-build-an-airdrop-monitor-with-ai",
         "author": "Nexus Intelligence Research",
         "source": "devto_python",
-        "published": "Tue, 06 Oct 2026 21:50:42 +0000",
-        "description": "Monitoring crypto airdrops manually is inefficient, error-prone, and prone to missing critical eligibility windows. By integrating AI into your monitoring pi...",
-        "keywords": "airdrop, data, text, monitor, python, json, how, build",
-        "generated": "2026-10-06T22:32:41.710156",
+        "published": "Fri, 09 Oct 2026 22:08:50 +0000",
+        "description": "Building an effective airdrop monitor requires moving beyond simple keyword scraping. In the high-velocity world of crypto distribution, speed and precision ...",
+        "keywords": "transaction, airdrop, data, import, json, async, determine, you",
+        "generated": "2026-10-09T22:28:36.762319",
         "file": "how-to-build-an-airdrop-monitor-with-ai.md"
     },
     {
@@ -22312,6 +22345,17 @@
         "keywords": "attempt, not, verification, pending, evidence, dns, mail, reason",
         "generated": "2026-09-20T20:35:13.098473",
         "file": "explaining-why-mail-domain-verification-is-still-pending-after-polling-stops.md"
+    },
+    {
+        "title": "Trail Kit: open-source AI that gets you off the screen",
+        "slug": "trail-kit-open-source-ai-that-gets-you-off-the-screen",
+        "author": "Tanishq goyal",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 22:19:12 +0000",
+        "description": "What I Built Trail Kit is an offline-first, open-source toolkit that helps people get outside: 🐦 Trail Birder : identify bird calls on-device, with no signal...",
+        "keywords": "open, trail, what, kit, you, your, bird, run",
+        "generated": "2026-10-09T22:28:36.766066",
+        "file": "trail-kit-open-source-ai-that-gets-you-off-the-screen.md"
     },
     {
         "title": "The Day I Stopped Chasing Certifications and Started Building Things",
@@ -28991,6 +29035,17 @@
         "file": "openai-o3-model-explained-the-next-frontier-in-ai-reasoning.md"
     },
     {
+        "title": "Curious about how free anime/movie streaming sites handle storage and bandwidth under the hood",
+        "slug": "curious-about-how-free-animemovie-streaming-sites-handle-storage-and-bandwidth-under-the-hood",
+        "author": "Shaun the Sheep",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 22:07:42 +0000",
+        "description": "Been going down a rabbit hole trying to understand how free streaming sites actually operate without instantly going broke or getting nuked by hosting provid...",
+        "keywords": "they, how, actually, curious, free, streaming, sites, handle",
+        "generated": "2026-10-09T22:28:36.765513",
+        "file": "curious-about-how-free-animemovie-streaming-sites-handle-storage-and-bandwidth-under-the-hood.md"
+    },
+    {
         "title": "Code Challenge of the Day — Minimal length subarray >= target (hard)",
         "slug": "code-challenge-of-the-day-minimal-length-subarray-target-hard",
         "author": "I Want To Learn Programming",
@@ -30793,6 +30848,17 @@
         "keywords": "classroom, you, real, video, whiteboard, time, what, agora",
         "generated": "2026-09-10T10:59:29.690532",
         "file": "your-video-call-isnt-a-classroom-heres-what-it-is.md"
+    },
+    {
+        "title": "What AI agents pay per call, part 2: domains, WHOIS, holidays, IBAN/VAT, screenshots and sanctions screening on x402",
+        "slug": "what-ai-agents-pay-per-call-part-2-domains-whois-holidays-ibanvat-screenshots-and-sanctions-screening-on-x402",
+        "author": "Tanod Labs",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 22:09:50 +0000",
+        "description": "In part 1 we looked at what agents pay per call for PDF, speech to text, Solana reads and company data. This is part 2, with six more categories from the sam...",
+        "keywords": "usd, call, per, tanod, one, price, list, offers",
+        "generated": "2026-10-09T22:28:36.764877",
+        "file": "what-ai-agents-pay-per-call-part-2-domains-whois-holidays-ibanvat-screenshots-and-sanctions-screening-on-x402.md"
     },
     {
         "title": "Your Pipeline Is 25.0h Behind: Catching Digital Transformation Sentiment Leads with Pulsebit",
@@ -32786,6 +32852,17 @@
         "file": "the-best-ai-outsourcing-companies-in-2026.md"
     },
     {
+        "title": "6 debugging checks for JSON, JWT, SQL, regex, timestamps and URLs",
+        "slug": "6-debugging-checks-for-json-jwt-sql-regex-timestamps-and-urls",
+        "author": "Ali Aygör",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 22:18:31 +0000",
+        "description": "An API failure is often easier to investigate when you separate six questions: what did the response contain, what does the token prove, which date are you r...",
+        "keywords": "order, console, log, can, json, not, api, const",
+        "generated": "2026-10-09T22:28:36.764432",
+        "file": "6-debugging-checks-for-json-jwt-sql-regex-timestamps-and-urls.md"
+    },
+    {
         "title": "Market website templete",
         "slug": "market-website-templete",
         "author": "OZEEM",
@@ -33290,6 +33367,17 @@
         "keywords": "hacker, wipes, land, registry, database, url, https, news",
         "generated": "2026-07-20T14:19:27.582631",
         "file": "hacker-wipes-romanias-land-registry-database.md"
+    },
+    {
+        "title": "No Man Is an Island",
+        "slug": "no-man-is-an-island",
+        "author": "zetalyrae",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 20:04:00 +0000",
+        "description": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 200 # Comments: 100",
+        "keywords": "man, island, article, url, https, comments, borretti, news",
+        "generated": "2026-10-09T22:28:36.760397",
+        "file": "no-man-is-an-island.md"
     },
     {
         "title": "Shadow AI Problem: How ChatGPT Creates Compliance Nightmares",
@@ -51504,6 +51592,17 @@
         "file": "the-trillion-parameter-rl-paper-is-really-about-letting-the-model-find-the-workflow.md"
     },
     {
+        "title": "Microsoft-Decision-1, our model for fast decision-making",
+        "slug": "microsoft-decision-1-our-model-for-fast-decision-making",
+        "author": "lisajaloza",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 18:38:44 +0000",
+        "description": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 92 # C...",
+        "keywords": "microsoft, decision, model, url, https, com, comments, our",
+        "generated": "2026-10-09T22:28:36.760642",
+        "file": "microsoft-decision-1-our-model-for-fast-decision-making.md"
+    },
+    {
         "title": "Floppy Emu Hardware Failure Analysis Results",
         "slug": "floppy-emu-hardware-failure-analysis-results",
         "author": "zdw",
@@ -53440,6 +53539,17 @@
         "file": "every-vendor-says-they-detect-ai-agents-none-of-them-can.md"
     },
     {
+        "title": "Duplicate Fintech Digest Events: Idempotency Keys Beat Five-Minute FIFO Queue Filtering",
+        "slug": "duplicate-fintech-digest-events-idempotency-keys-beat-five-minute-fifo-queue-filtering",
+        "author": "NevilleChristensen2637",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 22:16:29 +0000",
+        "description": "Short answer: use the FIFO queue's five-minute duplicate filter to reduce immediate retries, but make a persistent idempotency receipt the authority for whet...",
+        "keywords": "key, ledger, queue, digest, duplicate, receipt, one, worker",
+        "generated": "2026-10-09T22:28:36.762086",
+        "file": "duplicate-fintech-digest-events-idempotency-keys-beat-five-minute-fifo-queue-filtering.md"
+    },
+    {
         "title": "SMOTE from scratch: fixing imbalanced data without just copy-pasting rows",
         "slug": "smote-from-scratch-fixing-imbalanced-data-without-just-copy-pasting-rows",
         "author": "Devanshu Biswas",
@@ -53515,6 +53625,17 @@
         "keywords": "url, https, comments, asked, claude, build, physically, accurate",
         "generated": "2026-10-04T21:07:13.177554",
         "file": "i-asked-claude-build-a-physically-accurate-oneill-cylinder-you-can-walk-around.md"
+    },
+    {
+        "title": "Building Screen Automation Agents: Vision, Grounding, and Reliable UI Control",
+        "slug": "building-screen-automation-agents-vision-grounding-and-reliable-ui-control",
+        "author": "lucanu",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 21:51:39 +0000",
+        "description": "Anthropic's Claude computer use API, released in October 2024, takes a screenshot, decides where to click, and returns raw pixel coordinates. That means the ...",
+        "keywords": "you, model, use, agent, screen, click, computer, screenshot",
+        "generated": "2026-10-09T22:28:36.763612",
+        "file": "building-screen-automation-agents-vision-grounding-and-reliable-ui-control.md"
     },
     {
         "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
@@ -55922,6 +56043,17 @@
         "keywords": "your, locale, english, you, keys, nobody, key, locales",
         "generated": "2026-06-22T20:55:23.246905",
         "file": "your-locale-files-are-drifting-behind-english-and-nobody-reviews-it.md"
+    },
+    {
+        "title": "A signed receipt is three claims, not one",
+        "slug": "a-signed-receipt-is-three-claims-not-one",
+        "author": "Nicolás Moreno",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 22:13:42 +0000",
+        "description": "Originally published at zarel.ai . The consensus arrived fast. A year ago the answer to how do you audit an AI agent? was a database table nobody could vou...",
+        "keywords": "record, receipt, can, one, you, what, system, agent",
+        "generated": "2026-10-09T22:28:36.767216",
+        "file": "a-signed-receipt-is-three-claims-not-one.md"
     },
     {
         "title": "Google crawled 230 pages of my site and indexed 2. Here is how I diagnosed it.",
@@ -59761,6 +59893,17 @@
         "keywords": "url, https, comments, wireblast, gbps, packet, generator, using",
         "generated": "2026-08-08T18:45:17.901679",
         "file": "wireblast-a-100-gbps-packet-generator-in-go-using-afxdp.md"
+    },
+    {
+        "title": "E-commerce Failed Job Retries: SQS, RabbitMQ, and Managed Queue Delivery Guarantees",
+        "slug": "e-commerce-failed-job-retries-sqs-rabbitmq-and-managed-queue-delivery-guarantees",
+        "author": "KasimirBerg5341",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 22:07:36 +0000",
+        "description": "Short answer: for a small US/EU SaaS running periodic e-commerce cleanup, choose a managed queue with a dead-letter queue and delayed retries; don't operate ...",
+        "keywords": "queue, cleanup, not, boundary, retry, response, job, when",
+        "generated": "2026-10-09T22:28:36.763175",
+        "file": "e-commerce-failed-job-retries-sqs-rabbitmq-and-managed-queue-delivery-guarantees.md"
     },
     {
         "title": "Top 75 Ways to Buy Old Yahoo Email Accounts (PVA, Aged)",
@@ -63712,6 +63855,17 @@
         "file": "best-lovable-alternatives-for-teams-building-past-the-prototype-stage.md"
     },
     {
+        "title": "M7.6 Earthquake in Panama",
+        "slug": "m76-earthquake-in-panama",
+        "author": "gslin",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 18:22:20 +0000",
+        "description": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 108 #...",
+        "keywords": "earthquake, url, https, comments, panama, article, usgs, gov",
+        "generated": "2026-10-09T22:28:36.760780",
+        "file": "m76-earthquake-in-panama.md"
+    },
+    {
         "title": "Python Async Web Scraping: Scrape 1000 Pages in Seconds",
         "slug": "python-async-web-scraping-scrape-1000-pages-in-seconds",
         "author": "qing",
@@ -67208,6 +67362,17 @@
         "keywords": "url, https, comments, what, happens, when, llm, never",
         "generated": "2026-08-16T12:49:10.502615",
         "file": "what-happens-when-an-llm-never-sees-material-beyond-fifth-grade.md"
+    },
+    {
+        "title": "You might want to try being less creative",
+        "slug": "you-might-want-to-try-being-less-creative",
+        "author": "bryantwolf",
+        "source": "hackernews",
+        "published": "Fri, 09 Oct 2026 18:39:47 +0000",
+        "description": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 51 # Comments: 24",
+        "keywords": "you, might, want, try, being, less, url, https",
+        "generated": "2026-10-09T22:28:36.760523",
+        "file": "you-might-want-to-try-being-less-creative.md"
     },
     {
         "title": "Tiny satellite will use the dark side of the Moon as a shield",
@@ -82566,6 +82731,17 @@
         "file": "i-had-to-sabotage-my-own-ai-to-stop-it-from-hallucinating.md"
     },
     {
+        "title": "AI Daily Digest, October 10, 2026: Microsoft-Decision-1, Claude Dashboards, Arena Doubles to $3.1B",
+        "slug": "ai-daily-digest-october-10-2026-microsoft-decision-1-claude-dashboards-arena-doubles-to-31b",
+        "author": "HIROKI II",
+        "source": "devto_ai",
+        "published": "Fri, 09 Oct 2026 22:13:25 +0000",
+        "description": "KD Agentic · AI Daily Digest, October 10, 2026. Seven stories today: Microsoft shipping a dedicated decision model, Anthropic turning Claude into a BI and mo...",
+        "keywords": "model, its, million, microsoft, claude, kodiak, arena, free",
+        "generated": "2026-10-09T22:28:36.768114",
+        "file": "ai-daily-digest-october-10-2026-microsoft-decision-1-claude-dashboards-arena-doubles-to-31b.md"
+    },
+    {
         "title": "How I Cut Sales Reporting Time From 10+ Hours to 30 Minutes",
         "slug": "how-i-cut-sales-reporting-time-from-10-hours-to-30-minutes",
         "author": "Hive80-lab",
@@ -83510,6 +83686,17 @@
         "keywords": "sites, one, not, you, but, only, actually, our",
         "generated": "2026-07-16T08:22:50.505846",
         "file": "we-scanned-474-french-smb-websites-for-ai-readiness-the-average-score-was-48100.md"
+    },
+    {
+        "title": "CNPJ e CEP em lote a partir de planilha: 4 armadilhas (e um script Python testado)",
+        "slug": "cnpj-e-cep-em-lote-a-partir-de-planilha-4-armadilhas-e-um-script-python-testado",
+        "author": "Eduardo Yuji Matheus",
+        "source": "devto_python",
+        "published": "Fri, 09 Oct 2026 22:19:10 +0000",
+        "description": "TL;DR (English): Bulk-validating Brazilian company IDs (CNPJ) and postal codes (CEP) from a spreadsheet has four traps: Excel strips leading zeros (so 191 ma...",
+        "keywords": "cnpj, cep, com, return, que, para, status, entrada",
+        "generated": "2026-10-09T22:28:36.761407",
+        "file": "cnpj-e-cep-em-lote-a-partir-de-planilha-4-armadilhas-e-um-script-python-testado.md"
     },
     {
         "title": "I Built a Curated AI Tools Directory With Real Comparisons — Here's What I Learned",
@@ -89200,6 +89387,17 @@
         "file": "npm-v12-is-changing-everything-how-to-secure-your-install-pipeline-now.md"
     },
     {
+        "title": "12 free browser-only dev tools (JSON, YAML, JWT, regex, hashes) that don't upload your data",
+        "slug": "12-free-browser-only-dev-tools-json-yaml-jwt-regex-hashes-that-dont-upload-your-data",
+        "author": "Thien from IO Tools",
+        "source": "devto_webdev",
+        "published": "Fri, 09 Oct 2026 22:21:09 +0000",
+        "description": "Disclosure: I'm part of the team behind IO Tools (iotools.cloud), the site every link below points to. They're all free and need no account. I've stuck to to...",
+        "keywords": "iotools, cloud, https, tool, json, you, your, yaml",
+        "generated": "2026-10-09T22:28:36.764061",
+        "file": "12-free-browser-only-dev-tools-json-yaml-jwt-regex-hashes-that-dont-upload-your-data.md"
+    },
+    {
         "title": "Sony makes bold claim about game ownership",
         "slug": "sony-makes-bold-claim-about-game-ownership",
         "author": "speckx",
@@ -89820,10 +90018,10 @@
         "slug": "ai-driven-risk-management-for-crypto-traders",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Wed, 02 Sep 2026 20:42:10 +0000",
-        "description": "In the high-volatility environment of cryptocurrency trading, emotional decision-making is the primary cause of portfolio erosion. By integrating AI-driven r...",
-        "keywords": "volatility, risk, market, your, position, management, high, exposure",
-        "generated": "2026-09-02T20:51:03.422332",
+        "published": "Fri, 09 Oct 2026 22:19:55 +0000",
+        "description": "Volatility is the name of the game in cryptocurrency markets, but for professional traders, volatility without a framework is simply chaos. Traditional risk ...",
+        "keywords": "volatility, risk, position, data, capital, management, traders, stop",
+        "generated": "2026-10-09T22:28:36.765760",
         "file": "ai-driven-risk-management-for-crypto-traders.md"
     },
     {
