@@ -2772,6 +2772,17 @@
         "file": "larp-revenue-infrastructure-for-serious-founders.md"
     },
     {
+        "title": "Orphan Pages: How to Find and Fix Pages Nothing Links To",
+        "slug": "orphan-pages-how-to-find-and-fix-pages-nothing-links-to",
+        "author": "Kessy Stalford",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 05:08:19 +0000",
+        "description": "An orphan page is a page on your site that no other page on your site links to. Search engines can still find some of them through your sitemap or external l...",
+        "keywords": "your, pages, page, sitemap, crawl, you, not, orphan",
+        "generated": "2026-10-10T05:17:32.827627",
+        "file": "orphan-pages-how-to-find-and-fix-pages-nothing-links-to.md"
+    },
+    {
         "title": "Those Share Buttons Are Guessing What's On My Phone",
         "slug": "those-share-buttons-are-guessing-whats-on-my-phone",
         "author": "Parsa Jiravand",
@@ -2946,6 +2957,17 @@
         "keywords": "amazon, biggest, pollution, source, country, url, https, com",
         "generated": "2026-08-08T18:45:17.901411",
         "file": "amazon-is-creating-the-biggest-pollution-source-in-the-country.md"
+    },
+    {
+        "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
+        "slug": "data-center-darlings-30b-ipo-dream-crushed-in-48-hours",
+        "author": "mfiguiere",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 04:04:17 +0000",
+        "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours Comments URL: https://news.yco...",
+        "keywords": "data, center, darling, ipo, dream, crushed, hours, url",
+        "generated": "2026-10-10T05:17:32.823645",
+        "file": "data-center-darlings-30b-ipo-dream-crushed-in-48-hours.md"
     },
     {
         "title": "Everyone Solved AI Adoption. Almost No One Has Solved AI Control.",
@@ -3442,6 +3464,17 @@
         "keywords": "error, not, request, api, when, exception, cohort, rollback",
         "generated": "2026-10-04T21:07:13.179511",
         "file": "error-tracking-api-guide-choose-4-fastapi-django-saas-rollback-checks.md"
+    },
+    {
+        "title": "Secret Scanning on Public Code: The Pattern Layers That Kill the Noise",
+        "slug": "secret-scanning-on-public-code-the-pattern-layers-that-kill-the-noise",
+        "author": "Yuhe He",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 05:14:39 +0000",
+        "description": "Secret scanning on public code is the one breach-monitoring technique where a solo analyst with a laptop and a free CI runner genuinely competes with vendor ...",
+        "keywords": "tier, key, target, secret, code, pattern, free, layer",
+        "generated": "2026-10-10T05:17:32.827260",
+        "file": "secret-scanning-on-public-code-the-pattern-layers-that-kill-the-noise.md"
     },
     {
         "title": "Day 7. Text is solved. But icons and image-only buttons are still invisible. Enter template matching.",
@@ -28793,6 +28826,17 @@
         "file": "haiku-r1beta6-has-been-released.md"
     },
     {
+        "title": "How Google's Invisible Watermark Actually Works — and What Breaks It",
+        "slug": "how-googles-invisible-watermark-actually-works-and-what-breaks-it",
+        "author": "Shivam Kumar",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 05:09:15 +0000",
+        "description": "How Google's Invisible Watermark Actually Works — and What Breaks It Google opened SynthID Detector to the world on October 7, 2026 (synthid.com, English, si...",
+        "keywords": "watermark, google, synthid, what, signal, not, your, invisible",
+        "generated": "2026-10-10T05:17:32.828544",
+        "file": "how-googles-invisible-watermark-actually-works-and-what-breaks-it.md"
+    },
+    {
         "title": "Agenvoy@v0.27.10",
         "slug": "agenvoyv02710",
         "author": "邱敬幃 Pardn Chiu",
@@ -41225,6 +41269,17 @@
         "file": "openai-compatible-apis-are-great-until-streaming-breaks-what-i-check-before-switching-providers.md"
     },
     {
+        "title": "dev.to's API has no DELETE. It has PUT published:false, which the docs never mention.",
+        "slug": "devtos-api-has-no-delete-it-has-put-publishedfalse-which-the-docs-never-mention",
+        "author": "frank chu",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 05:02:13 +0000",
+        "description": "I published a post about accidentally having two copies of two articles live on my blog, and in my own notes I wrote that cleaning it up needs a browser ses...",
+        "keywords": "published, article, articles, not, api, endpoint, unpublished, one",
+        "generated": "2026-10-10T05:17:32.825145",
+        "file": "devtos-api-has-no-delete-it-has-put-publishedfalse-which-the-docs-never-mention.md"
+    },
+    {
         "title": "ChatGPT免费替代品终极对比：我测了15个，只有这5个真的好用",
         "slug": "chatgpt155",
         "author": "Kang Jian",
@@ -48182,6 +48237,17 @@
         "file": "from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026.md"
     },
     {
+        "title": "The Agentic Registry: A Small Business Audit for a World of Standardized Agent IDs",
+        "slug": "the-agentic-registry-a-small-business-audit-for-a-world-of-standardized-agent-ids",
+        "author": "T.M. Gunderson",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 05:05:06 +0000",
+        "description": "Last month the AI industry's big names were fighting over whose chatbot is smartest. This month, quietly, they agreed on something that will affect your busi...",
+        "keywords": "your, you, agent, what, registry, business, agents, customer",
+        "generated": "2026-10-10T05:17:32.830882",
+        "file": "the-agentic-registry-a-small-business-audit-for-a-world-of-standardized-agent-ids.md"
+    },
+    {
         "title": "The Shadow Perimeter: Eliminating Undocumented Access Paths in Corporate Clouds",
         "slug": "the-shadow-perimeter-eliminating-undocumented-access-paths-in-corporate-clouds",
         "author": "biztechpulsehub",
@@ -49832,6 +49898,17 @@
         "file": "why-most-shopify-stockout-forecasting-tools-miss-reorder-timing-and-a-simpler-fix.md"
     },
     {
+        "title": "Token-Budget Dry-Run CLI: Preemptively Detecting Context Overflows in Local LLMs",
+        "slug": "token-budget-dry-run-cli-preemptively-detecting-context-overflows-in-local-llms",
+        "author": "PhenoX",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 05:08:46 +0000",
+        "description": "Token-Budget Dry-Run CLI: Preemptively Detecting Context Overflows in Local LLMs 1. Why a CLI (Dry-Run) Instead of a Resident Server? Setting up a bloated we...",
+        "keywords": "error, json, exit, code, token, status, file, path",
+        "generated": "2026-10-10T05:17:32.828898",
+        "file": "token-budget-dry-run-cli-preemptively-detecting-context-overflows-in-local-llms.md"
+    },
+    {
         "title": "How AI Tools Can Enhance Developer Trust in Code Security",
         "slug": "how-ai-tools-can-enhance-developer-trust-in-code-security",
         "author": "Themez World",
@@ -50094,6 +50171,17 @@
         "keywords": "agentic, agents, agent, can, its, generative, how, development",
         "generated": "2026-07-05T19:25:51.385393",
         "file": "unlocking-the-future-what-is-agentic-ai-and-how-its-transforming-development.md"
+    },
+    {
+        "title": "Put a price on breakthroughs",
+        "slug": "put-a-price-on-breakthroughs",
+        "author": "ketothekingdom",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 02:37:47 +0000",
+        "description": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 8 # Comments: 1",
+        "keywords": "put, price, breakthroughs, url, https, comments, article, alexwang",
+        "generated": "2026-10-10T05:17:32.823823",
+        "file": "put-a-price-on-breakthroughs.md"
     },
     {
         "title": "Best 12 Place to Buy Verified Poloniex Accounts Guide ...",
@@ -57431,6 +57519,17 @@
         "file": "why-your-pure-python-loops-are-destroying-your-ai-models-performance-and-how-to-fix-them.md"
     },
     {
+        "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "slug": "telegram-desktop-vulnerability-allowed-any-users-file-to-be-stolen",
+        "author": "g-b-r",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 03:02:47 +0000",
+        "description": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points:...",
+        "keywords": "telegram, desktop, url, https, comments, vulnerability, allowed, any",
+        "generated": "2026-10-10T05:17:32.823742",
+        "file": "telegram-desktop-vulnerability-allowed-any-users-file-to-be-stolen.md"
+    },
+    {
         "title": "Optimizing Timefold for Constraint-Based Scheduling in Java Applications",
         "slug": "optimizing-timefold-for-constraint-based-scheduling-in-java-applications",
         "author": "Anshika Jain",
@@ -61994,6 +62093,17 @@
         "keywords": "documentation, your, write, retrieval, application, knowledge, systems, docs",
         "generated": "2026-07-07T14:49:42.587089",
         "file": "docs-as-data-why-ai-changes-how-we-write-documentation.md"
+    },
+    {
+        "title": "Hitting an exact GIF file size in the browser without a slow retry loop",
+        "slug": "hitting-an-exact-gif-file-size-in-the-browser-without-a-slow-retry-loop",
+        "author": "Siva Bollin",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 05:16:13 +0000",
+        "description": "Most GIF compressors give you a quality slider and leave you to guess. That is a bad fit for the usual reason people shrink a GIF: a platform has a hard limi...",
+        "keywords": "width, frame, size, you, not, gif, search, slope",
+        "generated": "2026-10-10T05:17:32.827054",
+        "file": "hitting-an-exact-gif-file-size-in-the-browser-without-a-slow-retry-loop.md"
     },
     {
         "title": "Ma ket A alysis: C itical Gove a ce Failu es i C ypto-Asset Ma ageme t a d the Impe ative fo Real-Time Auditi g",
@@ -71311,6 +71421,17 @@
         "keywords": "you, your, stock, alert, bot, python, price, email",
         "generated": "2026-07-13T19:35:56.129515",
         "file": "build-a-stock-price-alert-bot-with-python.md"
+    },
+    {
+        "title": "Next.js 16.4",
+        "slug": "nextjs-164",
+        "author": "jhuleatt",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 02:13:44 +0000",
+        "description": "Article URL: https://nextjs.org/blog/next-16-4 Comments URL: https://news.ycombinator.com/item?id=50028855 Points: 4 # Comments: 0",
+        "keywords": "next, url, https, comments, article, nextjs, org, blog",
+        "generated": "2026-10-10T05:17:32.823898",
+        "file": "nextjs-164.md"
     },
     {
         "title": "Optimierung von SEO-Backlinks für Automobil-Websites: Strategien für den deutschen Markt",
@@ -83963,14 +84084,14 @@
         "file": "the-70-problem-why-sales-automation-keeps-failing-a-systems-perspective.md"
     },
     {
-        "title": "تحويل استوديو تصوير احترافي في حائل بخدمة التصميم البصري",
+        "title": "Слишком добрый ИИ-судья: измеряем ложные успехи компьютерного агента",
         "slug": "",
-        "author": "sarahalii",
-        "source": "devto_webdev",
-        "published": "Mon, 28 Sep 2026 13:21:12 +0000",
-        "description": "نظرة عامة العميل : استوديو تصوير احترافي الموقع : حائل، المملكة العربية السعودية الخدمة المقدّمة : التصميم والهوية البصرية — https://sultanfirst.com/design-v...",
-        "keywords": "https, sultanfirst, com, html, design, visual, identity, agile",
-        "generated": "2026-09-28T13:27:07.932192",
+        "author": "Михаил",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 05:06:39 +0000",
+        "description": "Слишком добрый ИИ-судья: измеряем ложные успехи компьютерного агента | The Overly Generous AI Judge — Agent Lab Journal Agent Lab Journal Guides Glossary Сли...",
+        "keywords": "judge, not, agent, fpr, model, run, success, episodes",
+        "generated": "2026-10-10T05:17:32.830451",
         "file": ".md"
     },
     {
@@ -87506,6 +87627,17 @@
         "file": "a-transcript-is-not-a-wall-of-text-timecodes-speaker-labels-and-the-formats-worth-exporting.md"
     },
     {
+        "title": "AC Technician Course in Hafizabad for Practical AC Skills",
+        "slug": "ac-technician-course-in-hafizabad-for-practical-ac-skills",
+        "author": "Bushra Iqbal",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 05:08:01 +0000",
+        "description": "AC Technician Course in Hafizabad for Practical Cooling Skills A properly working air conditioner can make a big difference in homes, offices, shops, classro...",
+        "keywords": "can, cooling, learners, technician, air, system, practical, understand",
+        "generated": "2026-10-10T05:17:32.827991",
+        "file": "ac-technician-course-in-hafizabad-for-practical-ac-skills.md"
+    },
+    {
         "title": "Crypto Market Today, July 27: Bitcoin Steadies as Ahead of Fed ...",
         "slug": "crypto-market-today-july-27-bitcoin-steadies-as-ahead-of-fed",
         "author": "kaparovbakay2001-wq",
@@ -87746,6 +87878,17 @@
         "keywords": "answer, rag, can, you, system, confidently, wrong, retrieval",
         "generated": "2026-06-23T04:02:13.420302",
         "file": "when-ai-is-confidently-wrong-whos-responsible.md"
+    },
+    {
+        "title": "bge-reranker Truncates at 512 Tokens: 31% of My Chunks Got Cut",
+        "slug": "bge-reranker-truncates-at-512-tokens-31-of-my-chunks-got-cut",
+        "author": "jidonglab",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 04:50:26 +0000",
+        "description": "My RAG pipeline had a question it kept getting wrong. How do I fix the replication lag alert on the orders DB? The answer was in my runbooks. Retrieval fou...",
+        "keywords": "reranker, tokens, passage, chunk, query, you, your, model",
+        "generated": "2026-10-10T05:17:32.825565",
+        "file": "bge-reranker-truncates-at-512-tokens-31-of-my-chunks-got-cut.md"
     },
     {
         "title": "Data-Only Attacks Are Easier Than You Think",
@@ -90751,6 +90894,17 @@
         "file": "taxonomy-of-the-occlupanida-parasitoids-on-bread-bag-tags.md"
     },
     {
+        "title": "Web Change Alerts: 4 FastAPI Fallbacks for Recruiting Candidate Retrieval",
+        "slug": "web-change-alerts-4-fastapi-fallbacks-for-recruiting-candidate-retrieval",
+        "author": "XerxesCross2735",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 04:38:13 +0000",
+        "description": "Short answer: use staged retrieval with explicit collections, tenant metadata, bounded queries, and source identifiers, then refresh the web page only when t...",
+        "keywords": "snapshot, request, str, retrieval, item, candidate, when, source",
+        "generated": "2026-10-10T05:17:32.826247",
+        "file": "web-change-alerts-4-fastapi-fallbacks-for-recruiting-candidate-retrieval.md"
+    },
+    {
         "title": "Europe's summer drought is so extreme that desertification is a growing threat",
         "slug": "europes-summer-drought-is-so-extreme-that-desertification-is-a-growing-threat",
         "author": "Brajeshwar",
@@ -93532,6 +93686,17 @@
         "file": "renders-free-tier-doesnt-cover-background-workers.md"
     },
     {
+        "title": "Rate Limiting for Promo Campaigns: Keeping Flash Sales Alive Under Load",
+        "slug": "rate-limiting-for-promo-campaigns-keeping-flash-sales-alive-under-load",
+        "author": "Kadokey",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 05:04:49 +0000",
+        "description": "Promo drops are the sharpest traffic spike a digital storefront will ever see. A campaign that converts a few hundred checkouts a day can suddenly face tens ...",
+        "keywords": "per, code, promo, limits, argv, bucket, tokens, rate",
+        "generated": "2026-10-10T05:17:32.828308",
+        "file": "rate-limiting-for-promo-campaigns-keeping-flash-sales-alive-under-load.md"
+    },
+    {
         "title": "Run Ling 3.0 Flash Locally: 124B of Knowledge on a 96 GB Machine",
         "slug": "run-ling-30-flash-locally-124b-of-knowledge-on-a-96-gb-machine",
         "author": "David",
@@ -94753,6 +94918,17 @@
         "file": "global-shortage-has-led-to-motor-oil-rationing-at-costco.md"
     },
     {
+        "title": "# AI Video Watermark Removal Workflows: A TikTok Editor’s Review of Video Background Remover",
+        "slug": "ai-video-watermark-removal-workflows-a-tiktok-editors-review-of-video-background-remover",
+        "author": "大包子",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 04:12:07 +0000",
+        "description": "As a TikTok video editor, I prefer Remover.work’s Video Background Remover when my real goal is to separate a subject from a distracting scene and rebuild th...",
+        "keywords": "background, remover, video, subject, watermark, work, tiktok, when",
+        "generated": "2026-10-10T05:17:32.826713",
+        "file": "ai-video-watermark-removal-workflows-a-tiktok-editors-review-of-video-background-remover.md"
+    },
+    {
         "title": "How Artificial Intelligence Is Transforming SaaS Products: The Future of Smarter Software",
         "slug": "how-artificial-intelligence-is-transforming-saas-products-the-future-of-smarter-software",
         "author": "Mavani Solution",
@@ -95279,6 +95455,17 @@
         "keywords": "window, macos, management, windows, screen, bettersnaptool, snap, custom",
         "generated": "2026-07-01T20:03:10.700793",
         "file": "bettersnaptool-199-for-macos-free-download.md"
+    },
+    {
+        "title": "What 6 Months in Production Taught Me About Biometric Gate Control: Race Conditions, Ghost Fingerprints, and Building a System That Actually Works",
+        "slug": "what-6-months-in-production-taught-me-about-biometric-gate-control-race-conditions-ghost-fingerprints-and-building-a-system-that-actually-works",
+        "author": "Lakshay Tyagi",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 05:11:23 +0000",
+        "description": "A follow-up to my previous two posts on connecting a ZK fingerprint device to Rails. This one is about what actually broke in production, how I found it, and...",
+        "keywords": "device, not, template, sync, enrollment, uid, member, mapping",
+        "generated": "2026-10-10T05:17:32.824837",
+        "file": "what-6-months-in-production-taught-me-about-biometric-gate-control-race-conditions-ghost-fingerprints-and-building-a-system-that-actually-works.md"
     },
     {
         "title": "I Built a Code-Roasting Rubber Duck",
@@ -96203,6 +96390,17 @@
         "keywords": "server, free, you, drill, your, team, mode, monkeycode",
         "generated": "2026-08-24T18:48:28.655856",
         "file": "your-free-ai-server-will-fail-use-this-3-mode-degradation-ladder-before-release-day.md"
+    },
+    {
+        "title": "When the Customer's AI Books You: A Readiness Check for Agentic Buyers",
+        "slug": "when-the-customers-ai-books-you-a-readiness-check-for-agentic-buyers",
+        "author": "T.M. Gunderson",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 05:04:59 +0000",
+        "description": "Last month an AI assistant could answer questions about your business. This month it can act for your customer. That difference is the whole story. When Open...",
+        "keywords": "your, agent, you, can, human, don, one, booking",
+        "generated": "2026-10-10T05:17:32.831188",
+        "file": "when-the-customers-ai-books-you-a-readiness-check-for-agentic-buyers.md"
     },
     {
         "title": "A Slice Gate That Stops Weekend MVPs From Growing Phantom Features",
@@ -97315,6 +97513,17 @@
         "keywords": "you, new, bolt, fastapi, app, async, import, add",
         "generated": "2026-09-02T10:59:18.564470",
         "file": "boltnew-python-backend-fastapi-from-zero-to-production.md"
+    },
+    {
+        "title": "Lobbying",
+        "slug": "lobbying",
+        "author": "smilelamp",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 04:40:36 +0000",
+        "description": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html Comments URL: https://news.ycombinator.com/item?id=50029630 Points: 67 # C...",
+        "keywords": "lobbying, url, https, comments, article, geohot, github, blog",
+        "generated": "2026-10-10T05:17:32.823494",
+        "file": "lobbying.md"
     },
     {
         "title": "What SEO Should a Modern Web Framework Handle Automatically?",
