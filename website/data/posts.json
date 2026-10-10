@@ -473,6 +473,17 @@
         "file": "show-hn-embed-a-real-linux-terminal-on-your-website.md"
     },
     {
+        "title": "`123456' password used in Danish CPR data breach",
+        "slug": "123456-password-used-in-danish-cpr-data-breach",
+        "author": "baal80spam",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 09:51:49 +0000",
+        "description": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/i...",
+        "keywords": "password, used, danish, cpr, data, breach, url, https",
+        "generated": "2026-10-10T12:13:29.600959",
+        "file": "123456-password-used-in-danish-cpr-data-breach.md"
+    },
+    {
         "title": "Cookie Banner Stripper: Clean HTML for Scrapers",
         "slug": "cookie-banner-stripper-clean-html-for-scrapers",
         "author": "ItsEvilDuck",
@@ -7149,6 +7160,17 @@
         "file": "wiring-coremls-async-prediction-api-to-swiftui-for-real-time-on-device-classification.md"
     },
     {
+        "title": "Sentry MCP for Claude Code: Pull Production Errors and Fix Them (1 Command, No Token)",
+        "slug": "sentry-mcp-for-claude-code-pull-production-errors-and-fix-them-1-command-no-token",
+        "author": "quickpromptco",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 12:08:19 +0000",
+        "description": "A production error fires, and the copy-paste loop starts: open Sentry, copy the stack trace, paste it into Claude Code, go back for the breadcrumbs, paste ag...",
+        "keywords": "sentry, mcp, claude, you, hosted, server, your, project",
+        "generated": "2026-10-10T12:13:29.610611",
+        "file": "sentry-mcp-for-claude-code-pull-production-errors-and-fix-them-1-command-no-token.md"
+    },
+    {
         "title": "Making a screenshot PDF searchable — no OCR, because we rendered the page",
         "slug": "making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page",
         "author": "PetrDev",
@@ -9503,6 +9525,17 @@
         "file": "polymarket-june-17-2026-the-ai-model-war-just-hit-a-plateau-what-smart-money-is-betting-on-now.md"
     },
     {
+        "title": "What the first digits of a card number tell you (BIN basics for developers)",
+        "slug": "what-the-first-digits-of-a-card-number-tell-you-bin-basics-for-developers",
+        "author": "ZikCards",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 11:56:57 +0000",
+        "description": "If you have ever built a checkout form, you have probably shown a Visa or Mastercard logo as the user types. That logo comes from the first few digits of the...",
+        "keywords": "number, you, digits, card, return, bin, test, what",
+        "generated": "2026-10-10T12:13:29.604491",
+        "file": "what-the-first-digits-of-a-card-number-tell-you-bin-basics-for-developers.md"
+    },
+    {
         "title": "Honestly, keeping MTProto proxies alive is a pain. Every lis",
         "slug": "honestly-keeping-mtproto-proxies-alive-is-a-pain-every-lis",
         "author": "Humja Jaan",
@@ -11712,6 +11745,17 @@
         "keywords": "contextlens, turn, report, tool, what, waste, model, client",
         "generated": "2026-06-08T16:07:42.605559",
         "file": "contextlens-py-spypprof-but-for-whats-inside-your-llm-prompt.md"
+    },
+    {
+        "title": "CBT Techniques for Developer Burnout: How to Reframe 'I'm Not Productive Enough",
+        "slug": "cbt-techniques-for-developer-burnout-how-to-reframe-im-not-productive-enough",
+        "author": "CBT Tools",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 12:06:39 +0000",
+        "description": "If you've ever stared at your IDE at 2 PM, brain fogged, and thought I'm not productive enough , you're not alone. Developer burnout is at record highs — a...",
+        "keywords": "thought, cbt, distortion, not, you, str, reframe, record",
+        "generated": "2026-10-10T12:13:29.602218",
+        "file": "cbt-techniques-for-developer-burnout-how-to-reframe-im-not-productive-enough.md"
     },
     {
         "title": "Brand Monster | Brand Monsterの信頼性と技術革新を徹底解説",
@@ -15683,6 +15727,17 @@
         "keywords": "url, https, comments, fundamentals, wireless, communication, article, web",
         "generated": "2026-07-14T08:17:51.106274",
         "file": "fundamentals-of-wireless-communication-2005.md"
+    },
+    {
+        "title": "Food processing influences metabolism and brain activity",
+        "slug": "food-processing-influences-metabolism-and-brain-activity",
+        "author": "gmays",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 05:22:30 +0000",
+        "description": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 5...",
+        "keywords": "url, https, news, comments, food, processing, influences, metabolism",
+        "generated": "2026-10-10T12:13:29.601202",
+        "file": "food-processing-influences-metabolism-and-brain-activity.md"
     },
     {
         "title": "Building Beyond Static MP3s: How Adaptive Audio and AI Reshape Emotional Wellness Apps",
@@ -31048,6 +31103,17 @@
         "file": "n8n-openai-node-generate-text-images-and-chat-completions-in-your-workflows-free-workflow-json.md"
     },
     {
+        "title": "I Built an Open-Source McDonald's Meal Recommender Using MCP and Python",
+        "slug": "i-built-an-open-source-mcdonalds-meal-recommender-using-mcp-and-python",
+        "author": "echo lee",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 12:07:23 +0000",
+        "description": "Why I Built McPilot Choosing what to eat sounds simple, but finding a meal that fits your budget, nutritional goals, and taste preferences can be surprisingl...",
+        "keywords": "meal, mcpilot, mcp, mcdonald, recommendation, data, recommendations, open",
+        "generated": "2026-10-10T12:13:29.601514",
+        "file": "i-built-an-open-source-mcdonalds-meal-recommender-using-mcp-and-python.md"
+    },
+    {
         "title": "Editing React components that never rendered",
         "slug": "editing-react-components-that-never-rendered",
         "author": "Jack Lee",
@@ -32599,6 +32665,17 @@
         "file": "create-a-youtubevideo-script-flat-protocol-in-60-seconds.md"
     },
     {
+        "title": "The Touch Grass Paradox: Engineering AI Agents That Get Stronger the Less You Use Them",
+        "slug": "the-touch-grass-paradox-engineering-ai-agents-that-get-stronger-the-less-you-use-them",
+        "author": "Tamiz Uddin",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 12:08:59 +0000",
+        "description": "Originally published on tamiz.pro . Every software system we build today is built on a single assumption: usage improves the system . More user interactions ...",
+        "keywords": "self, agent, def, return, model, idle, time, learning",
+        "generated": "2026-10-10T12:13:29.609411",
+        "file": "the-touch-grass-paradox-engineering-ai-agents-that-get-stronger-the-less-you-use-them.md"
+    },
+    {
         "title": "Remove Watermark from Image Online Free",
         "slug": "remove-watermark-from-image-online-free",
         "author": "moez cherif",
@@ -33312,6 +33389,17 @@
         "keywords": "recommend, tailwind, css, url, https, comments, don, article",
         "generated": "2026-08-02T08:30:38.163782",
         "file": "i-dont-recommend-tailwind-css.md"
+    },
+    {
+        "title": "Building a revenue path for registered agents — looking for collaborators",
+        "slug": "building-a-revenue-path-for-registered-agents-looking-for-collaborators",
+        "author": "Bryant rudolph",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 12:09:44 +0000",
+        "description": "I've been building infrastructure for agent-to-agent commerce and I'm at the point where the technical foundation works but the demand side is empty. I'm loo...",
+        "keywords": "agent, what, agents, saax, where, building, commitment, mcp",
+        "generated": "2026-10-10T12:13:29.606236",
+        "file": "building-a-revenue-path-for-registered-agents-looking-for-collaborators.md"
     },
     {
         "title": "Compaction turns your agent's decisions into folklore — here's the fix",
@@ -41742,6 +41830,17 @@
         "file": "mcp-authentication-what-i-got-wrong-building-a-production-mcp-server-for-my-knowledge-base.md"
     },
     {
+        "title": "Python印度股票API接入：NSE/BSE行情数据与实时订阅实战",
+        "slug": "pythonapinsebse",
+        "author": "San Si wu",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 11:37:20 +0000",
+        "description": "最近不少朋友在做新兴市场的量化策略，印度股市是绕不开的一个。NSE（印度国家证券交易所）和BSE（孟买证券交易所）的市值加起来排全球前列，而且增长速度快，很多策略在印度市场的表现跟美股完全不一样。 但接印度股票数据的时候，有几个跟美股、港股都不一样的地方——尤其是订阅格式和交易所指定。这篇记录一下接入印度股票行情...",
+        "keywords": "nse, data, code, exchange, get, json, reliance, payload",
+        "generated": "2026-10-10T12:13:29.602947",
+        "file": "pythonapinsebse.md"
+    },
+    {
         "title": "From Sandbox to Review Queue: My GSoC 2026 Project with OWASP OWTF",
         "slug": "from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf",
         "author": "Piyush Gupta",
@@ -44444,6 +44543,17 @@
         "file": "swap-the-model-before-you-score.md"
     },
     {
+        "title": "5 Mistakes That Make LLM Streaming Break on a Flaky Network",
+        "slug": "5-mistakes-that-make-llm-streaming-break-on-a-flaky-network",
+        "author": "MICHAEL-MAURICE",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 11:51:38 +0000",
+        "description": "Your chat UI looks fine on the office Wi-Fi. Then someone joins from a train, the SSE connection drops mid-sentence, and either the answer restarts from scra...",
+        "keywords": "stream, you, event, streams, not, chat, model, typedresults",
+        "generated": "2026-10-10T12:13:29.605484",
+        "file": "5-mistakes-that-make-llm-streaming-break-on-a-flaky-network.md"
+    },
+    {
         "title": "Tencent Hunyuan Hy3: 295B MoE Hits 90% Agent Task Resolution",
         "slug": "tencent-hunyuan-hy3-295b-moe-hits-90-agent-task-resolution",
         "author": "gentic news",
@@ -44838,6 +44948,17 @@
         "keywords": "agent, preference, not, run, memory, client, preferences, runs",
         "generated": "2026-09-26T20:53:25.487089",
         "file": "do-ai-agents-remember-user-preferences-between-runs-no-unless-you-fix-it.md"
+    },
+    {
+        "title": "I checked whether AI search engines actually cite small new sites. Then I built the checker.",
+        "slug": "i-checked-whether-ai-search-engines-actually-cite-small-new-sites-then-i-built-the-checker",
+        "author": "20976093",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 12:08:39 +0000",
+        "description": "Two days ago I posted an audit of 13 real cases of AI agents making money. The conclusion was uncomfortable: every single one sells a tool, not a tutorial, a...",
+        "keywords": "not, google, one, cited, you, domain, top, two",
+        "generated": "2026-10-10T12:13:29.609978",
+        "file": "i-checked-whether-ai-search-engines-actually-cite-small-new-sites-then-i-built-the-checker.md"
     },
     {
         "title": "Using LLM for Question Answering",
@@ -54712,6 +54833,17 @@
         "keywords": "access, fable, mythos, url, https, com, news, comments",
         "generated": "2026-06-13T04:19:15.383442",
         "file": "statement-on-us-government-directive-to-suspend-access-to-fable-5-and-mythos-5.md"
+    },
+    {
+        "title": "Computers Cannot Make Decisions",
+        "slug": "computers-cannot-make-decisions",
+        "author": "heavensteeth",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 05:47:46 +0000",
+        "description": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 119 # Comments:...",
+        "keywords": "url, https, comments, computers, cannot, make, decisions, article",
+        "generated": "2026-10-10T12:13:29.601083",
+        "file": "computers-cannot-make-decisions.md"
     },
     {
         "title": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
@@ -70400,6 +70532,17 @@
         "file": "isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight.md"
     },
     {
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "slug": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier",
+        "author": "rociiu",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 10:52:09 +0000",
+        "description": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 32 # Comments: 11",
+        "keywords": "talorys, url, https, com, comments, self, hosted, personal",
+        "generated": "2026-10-10T12:13:29.600820",
+        "file": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier.md"
+    },
+    {
         "title": "Codexers, max out your limits - reset is coming.",
         "slug": "codexers-max-out-your-limits-reset-is-coming",
         "author": "alex getman",
@@ -71542,6 +71685,17 @@
         "keywords": "yang, dapat, aplikasi, dan, untuk, edgeone, makers, teknologi",
         "generated": "2026-09-10T20:41:08.698314",
         "file": "review-dan-pengalaman-mengenal-tencent-edgeone-makers.md"
+    },
+    {
+        "title": "Deno Deploy Shuts Down in Six Months. Here Is the Migration Path to Cloudflare Workers.",
+        "slug": "deno-deploy-shuts-down-in-six-months-here-is-the-migration-path-to-cloudflare-workers",
+        "author": "jamilxt",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 12:04:21 +0000",
+        "description": "On October 9, Ryan Dahl announced that the entire Deno team is joining Cloudflare. The post sat at the top of Hacker News within hours and crossed 1,200 poin...",
+        "keywords": "deno, you, workers, cloudflare, deploy, your, migration, not",
+        "generated": "2026-10-10T12:13:29.603763",
+        "file": "deno-deploy-shuts-down-in-six-months-here-is-the-migration-path-to-cloudflare-workers.md"
     },
     {
         "title": "How Exit Intent Popups Can Work for B2B Without Being Annoying",
@@ -72917,6 +73071,17 @@
         "keywords": "maybe, your, want, hear, different, thoughts, tools, you",
         "generated": "2026-07-27T10:00:36.749436",
         "file": "i-want-to-hear-different-thoughts.md"
+    },
+    {
+        "title": "How to Build an Airdrop Monitor with AI — 2026-10-10 #4",
+        "slug": "how-to-build-an-airdrop-monitor-with-ai-2026-10-10-4",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 11:32:14 +0000",
+        "description": "Monitoring crypto airdrops manually is inefficient and prone to error. Traditional scripts often fail to adapt to dynamic front-end changes or complex eligib...",
+        "keywords": "airdrop, html, content, json, monitor, data, use, string",
+        "generated": "2026-10-10T12:13:29.603187",
+        "file": "how-to-build-an-airdrop-monitor-with-ai-2026-10-10-4.md"
     },
     {
         "title": "dbt Was Not Designed for Multi-Tenant SaaS. Here's How I Made It Work.",
@@ -75975,6 +76140,17 @@
         "keywords": "knowledge, should, not, model, source, retrieval, when, documents",
         "generated": "2026-08-20T06:54:01.617389",
         "file": "your-ai-has-a-knowledge-problem-not-just-a-model-problem.md"
+    },
+    {
+        "title": "I built an open-source, self-hosted take on ElevenLabs' Reception.ai",
+        "slug": "i-built-an-open-source-self-hosted-take-on-elevenlabs-receptionai",
+        "author": "Gurnoor Singh Saini",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 11:54:28 +0000",
+        "description": "The phone rings at a dental clinic while everyone's hands are busy. Nobody picks up. The caller books somewhere else. Frontdesk.ai is an open-source AI recep...",
+        "keywords": "voice, your, call, business, you, open, frontdesk, own",
+        "generated": "2026-10-10T12:13:29.604916",
+        "file": "i-built-an-open-source-self-hosted-take-on-elevenlabs-receptionai.md"
     },
     {
         "title": "DNS 설정을 상태 머신처럼 보면 카페24 메일 연결이 덜 꼬인다",
@@ -80806,6 +80982,17 @@
         "file": "building-a-multi-tenant-email-agent-for-hacktoberfest-2026.md"
     },
     {
+        "title": "Cloudflare Pages not updating after deploy: the s-maxage trap",
+        "slug": "cloudflare-pages-not-updating-after-deploy-the-s-maxage-trap",
+        "author": "HowardZlh",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+        "description": "Originally published at guushu.com/notes . I keep the original updated, so this copy may lag. A new Pages deploy showed Success and was marked Production, ye...",
+        "keywords": "pages, cache, zone, custom, html, deploy, maxage, domain",
+        "generated": "2026-10-10T12:13:29.604152",
+        "file": "cloudflare-pages-not-updating-after-deploy-the-s-maxage-trap.md"
+    },
+    {
         "title": "Revisiting Knowledge Distillation via Label Smoothing Regularization",
         "slug": "revisiting-knowledge-distillation-via-label-smoothing-regularization",
         "author": "Paperium",
@@ -82291,6 +82478,17 @@
         "file": "the-bug-that-taught-me-to-grep-before-i-git-blame.md"
     },
     {
+        "title": "How to run a Civitai or Hugging Face LoRA through an API (no GPU, no upload)",
+        "slug": "how-to-run-a-civitai-or-hugging-face-lora-through-an-api-no-gpu-no-upload",
+        "author": "SpicyAPI",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 12:10:07 +0000",
+        "description": "You found a LoRA you like on Civitai or Hugging Face. Running it usually means renting a GPU, installing ComfyUI or a diffusers script, downloading the base ...",
+        "keywords": "lora, you, loras, image, api, model, file, base",
+        "generated": "2026-10-10T12:13:29.605994",
+        "file": "how-to-run-a-civitai-or-hugging-face-lora-through-an-api-no-gpu-no-upload.md"
+    },
+    {
         "title": "CrowdSec Source Code Leak",
         "slug": "crowdsec-source-code-leak",
         "author": "eccgecko",
@@ -83312,6 +83510,17 @@
         "keywords": "lead, reason, score, not, you, number, same, one",
         "generated": "2026-07-05T19:25:51.382281",
         "file": "why-is-this-a-60-and-not-a-40.md"
+    },
+    {
+        "title": "The Farmer's AI-Advisor",
+        "slug": "the-farmers-ai-advisor",
+        "author": "Dilesh Zingare",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 11:47:26 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass What I Built The Farmer's AI-Advisor is a specialized, offline agricu...",
+        "keywords": "open, source, farmer, offline, built, agricultural, application, advisor",
+        "generated": "2026-10-10T12:13:29.602584",
+        "file": "the-farmers-ai-advisor.md"
     },
     {
         "title": "Choose Boring Technology (2015)",
@@ -89110,6 +89319,17 @@
         "keywords": "cheap, test, frontier, answer, two, models, agree, wrong",
         "generated": "2026-06-29T04:27:36.040642",
         "file": "serving-cheap-when-two-models-agree-a-measured-cost-lever.md"
+    },
+    {
+        "title": "Apple/macOS silently removed from official Unix registry",
+        "slug": "applemacos-silently-removed-from-official-unix-registry",
+        "author": "john_alan",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 10:57:31 +0000",
+        "description": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 21 # Comments: 6",
+        "keywords": "url, https, comments, apple, macos, silently, removed, official",
+        "generated": "2026-10-10T12:13:29.600636",
+        "file": "applemacos-silently-removed-from-official-unix-registry.md"
     },
     {
         "title": "Tennessee inmate still alive after being administered two lethal injections",
