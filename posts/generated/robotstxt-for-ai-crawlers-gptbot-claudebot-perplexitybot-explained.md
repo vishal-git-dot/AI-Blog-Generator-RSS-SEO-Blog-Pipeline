@@ -1,0 +1,34 @@
+---
+title: "robots.txt for AI crawlers: GPTBot, ClaudeBot, PerplexityBot explained"
+slug: "robotstxt-for-ai-crawlers-gptbot-claudebot-perplexitybot-explained"
+author: "CiteScore"
+source: "devto_webdev"
+published: "Sat, 10 Oct 2026 20:43:44 +0000"
+description: "AI companies now run their own crawlers, and most identify themselves with a user-agent name you can put in robots.txt. This guide explains what the main one..."
+keywords: "user, agent, search, crawlers, robots, txt, you, training"
+generated: "2026-10-10T21:25:00.283982"
+---
+
+# robots.txt for AI crawlers: GPTBot, ClaudeBot, PerplexityBot explained
+
+## Overview
+
+AI companies now run their own crawlers, and most identify themselves with a user-agent name you can put in robots.txt. This guide explains what the main ones do, how training crawlers differ from search and answer crawlers, and gives copy-paste rules for three common policies. Confirm details against each vendor's current documentation before you deploy. First, a limit: robots.txt is a request, not access control. Well-behaved crawlers honor it. Scrapers that ignore it are not stopped by it, and a blocked URL can still appear in search results if other sites link to it. The crawlers GPTBot is OpenAI's crawler. OpenAI documents it as collecting web content that may be used to train its models. OAI-SearchBot is OpenAI's crawler for ChatGPT search. It indexes pages so ChatGPT can show them in search results and cite them. It is separate from GPTBot, so you can allow one and block the other. ChatGPT-User runs when a person asks ChatGPT to open a page during a conversation. It is user-triggered rather than a bulk crawl, and OpenAI notes that robots.txt rules may not apply to these requests. ClaudeBot is Anthropic's crawler, used to collect content that may be used for training. Anthropic also documents separate agents for search and user-requested fetching, so check its current list before writing rules for them. PerplexityBot indexes pages for Perplexity's answers and citations. Perplexity says it respects robots.txt. Its user-triggered fetcher, Perplexity-User, behaves like ChatGPT-User. Google-Extended is not a crawler. It is a robots.txt token that controls whether content Google has already crawled can be used to train Gemini and for certain grounding features. Googlebot still crawls your site for Search whether or not you block this token, so blocking Google-Extended does not remove you from Google Search. Training crawlers vs. search and answer crawlers The useful split is purpose. Training crawlers collect content to build future model versions. GPTBot, ClaudeBot, and the Google-Extended token belong here. Blocking them signals that you don't want future training use. It does not undo training that has already happened. Search and answer crawlers fetch pages so an assistant can find and cite them. OAI-SearchBot and PerplexityBot belong here. Blocking them makes it less likely your pages appear as sources. User-triggered fetchers such as ChatGPT-User request one page because someone asked for it. If you want citations and referral traffic from AI answers, allow the search crawlers. If your objection is only to training, block the training agents and keep the search agents open. Example rules Allow everything. This is the default, written out explicitly: User -agent: * Allow : / Block training, allow search and answers: User - agent : GPTBot User - agent : ClaudeBot User - agent : Google - Extended Disallow : / User - agent : OAI - SearchBot User - agent : PerplexityBot Allow : / User - agent : * Allow : / Block all of these AI crawlers: User -agent: GPTBot User -agent: OAI-SearchBot User -agent: ChatGPT-User User -agent: ClaudeBot User -agent: PerplexityBot User -agent: Google-Extended Disallow: / User -agent: * Allow : / A crawler obeys the group that names it and ignores the * group. So the bots you block stay blocked even though * allows everything. The * group applies to crawlers you did not name, such as Googlebot and Bingbot. Common mistakes Blocking everything with User-agent: * and Disallow: / . That hides your site from Google and Bing too. For AI-only policies, name the bots. Thinking Google-Extended controls Search. It only affects AI training and grounding use. Blocking Googlebot is what removes you from Search. Putting the file in the wrong place. It must live at https://example.com/robots.txt . Each subdomain, such as blog.example.com , needs its own file. Getting path case wrong. /Blog/ and /blog/ are different paths. Bot names are case-insensitive, but copy the vendor's spelling anyway. Assuming it is enforced. Robots.txt is voluntary. If you need hard blocking, use server, CDN, or WAF rules. A bot-protection rule that returns 403 blocks crawlers regardless of robots.txt. Using it to remove pages. Blocking stops crawling, so a search engine cannot see a noindex tag on a blocked page. To keep a page out of an index, allow crawling and use noindex, or remove the page. Forgetting to recheck. Crawler names change, and a CMS or CDN deploy can overwrite your file. How to test Confirm the file is live. Open https://example.com/robots.txt . It should return 200 and plain text. An HTML page means your CMS is serving a fallback, and a 404 means no rules exist at all. Check the rules with a parser. Python's standard library handles simple files: from urllib.robotparser import RobotFileParser rp = RobotFileParser ( " https://example.com/robots.txt " ) rp . read () for bot in [ " GPTBot " , " OAI-SearchBot " , " PerplexityBot " ]: print ( bot , rp . can_fetch ( bot , " https://example.com/blog/post " )) Its wildcard handling differs from Google's, so verify key paths with a second parser. Check your logs. Search access logs for the user-agent strings. Allowed bots should reach your pages, and blocked bots should request only robots.txt. User-agent strings can be spoofed, so verify important bots by IP where the vendor publishes ranges. Retest after every deploy. Confirm the live file still matches your intent. Wrap-up Decide your policy first: allow all, block training only, or block everything. Write named groups for the bots you care about, host the file at the root, and verify it with logs and a parser. If you would rather generate these groups than type them, the free generator at https://citescore.vercel.app/robots-txt-ai-crawler-generator builds them.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/citescore/robotstxt-for-ai-crawlers-gptbot-claudebot-perplexitybot-explained-46mc
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

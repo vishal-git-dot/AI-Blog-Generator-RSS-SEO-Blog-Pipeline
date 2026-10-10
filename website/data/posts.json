@@ -2134,6 +2134,17 @@
         "file": "i-built-a-free-browser-based-photobooth-with-react-and-opencv.md"
     },
     {
+        "title": "Character Counts in JavaScript: Code Units, Code Points, Graphemes, and UTF-8 Bytes",
+        "slug": "character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes",
+        "author": "FUG",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 20:57:44 +0000",
+        "description": "As of October 8, 2026 \\u{1F44D}\\u{1F3FD}.length is 4. A reader looking at the resulting single modified thumbs-up symbol sees one symbol. JavaScript sees f...",
+        "keywords": "text, code, length, utf, units, spaces, one, counter",
+        "generated": "2026-10-10T21:25:00.283043",
+        "file": "character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes.md"
+    },
+    {
         "title": "The Anti-Mac User Interface (1996)",
         "slug": "the-anti-mac-user-interface-1996",
         "author": "ninglor",
@@ -7270,6 +7281,17 @@
         "file": "your-pipeline-is-199h-behind-catching-climate-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "AI-Driven Risk Management for Crypto Traders — 2026-10-10 #7",
+        "slug": "ai-driven-risk-management-for-crypto-traders-2026-10-10-7",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 21:16:39 +0000",
+        "description": "Volatility in cryptocurrency markets is not a feature; it is a hazard. For traders, the difference between profit and ruin often lies in the speed and accura...",
+        "keywords": "risk, data, position, size, api, driven, using, requests",
+        "generated": "2026-10-10T21:25:00.284483",
+        "file": "ai-driven-risk-management-for-crypto-traders-2026-10-10-7.md"
+    },
+    {
         "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
         "slug": "yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood",
         "author": "theanonymousone",
@@ -10526,6 +10548,17 @@
         "file": "what-an-llm-actually-does-predicting-the-next-word-explained.md"
     },
     {
+        "title": "🌲 OUTSIDE: The Screen-Free Outdoor Exploration",
+        "slug": "outside-the-screen-free-outdoor-exploration",
+        "author": "Priyank Saxena",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 21:16:16 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass What if AI didn't try to keep you online longer, but helped you put y...",
+        "keywords": "outside, application, your, mission, open, api, tsx, outdoor",
+        "generated": "2026-10-10T21:25:00.284952",
+        "file": "outside-the-screen-free-outdoor-exploration.md"
+    },
+    {
         "title": "Episia: Building an Open-Source Epidemiology Library in Python, Validated Against OpenEpi",
         "slug": "episia-building-an-open-source-epidemiology-library-in-python-validated-against-openepi",
         "author": "Ariel Shadrac OUEDRAOGO",
@@ -13076,6 +13109,17 @@
         "keywords": "voodoo, url, https, comments, recreating, graphics, late, gaming",
         "generated": "2026-09-16T04:17:07.146374",
         "file": "recreating-voodoo-graphics-and-a-late-1990s-gaming-pc-on-an-fpga.md"
+    },
+    {
+        "title": "robots.txt for AI crawlers: GPTBot, ClaudeBot, PerplexityBot explained",
+        "slug": "robotstxt-for-ai-crawlers-gptbot-claudebot-perplexitybot-explained",
+        "author": "CiteScore",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 20:43:44 +0000",
+        "description": "AI companies now run their own crawlers, and most identify themselves with a user-agent name you can put in robots.txt. This guide explains what the main one...",
+        "keywords": "user, agent, search, crawlers, robots, txt, you, training",
+        "generated": "2026-10-10T21:25:00.283982",
+        "file": "robotstxt-for-ai-crawlers-gptbot-claudebot-perplexitybot-explained.md"
     },
     {
         "title": "Nvidia's Jensen Huang on AI Regulation: A Technica…",
@@ -20952,6 +20996,17 @@
         "file": "beyond-all-reason-free-total-annihilation-inspired-rts.md"
     },
     {
+        "title": "🌿 TerraQuest AI — Touch Grass, Not Screens",
+        "slug": "terraquest-ai-touch-grass-not-screens",
+        "author": "RISHAV ROY",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 21:11:47 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge — Week 1: Touch Grass What I Built I built TerraQuest AI — Your Offline AI Companion for ...",
+        "keywords": "open, nature, local, terraquest, outdoor, application, models, explore",
+        "generated": "2026-10-10T21:25:00.285964",
+        "file": "terraquest-ai-touch-grass-not-screens.md"
+    },
+    {
         "title": "Agentic AI Development Companies in UAE: Transforming Businesses with Intelligent AI Solutions",
         "slug": "agentic-ai-development-companies-in-uae-transforming-businesses-with-intelligent-ai-solutions",
         "author": "AiTeam",
@@ -24767,6 +24822,17 @@
         "file": "how-i-built-a-free-acs-citation-generator-for-chemistry-papers.md"
     },
     {
+        "title": "New update",
+        "slug": "new-update",
+        "author": "DaC",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 20:56:02 +0000",
+        "description": "My Son Loves Squishies, So I Built Him One for the Browser Hacktoberfest Weekend Challenge: Build for a Friend Submission 🤝 DaC DaC DaC Follow Oct 4 My Son L...",
+        "keywords": "dac, son, loves, squishies, built, him, one, browser",
+        "generated": "2026-10-10T21:25:00.283148",
+        "file": "new-update.md"
+    },
+    {
         "title": "Recycle – Floppydisks",
         "slug": "recycle-floppydisks",
         "author": "calvinmorrison",
@@ -27825,6 +27891,17 @@
         "file": "reading-and-writing-csv-files-in-python-with-the-csv-module.md"
     },
     {
+        "title": "How to Build an Airdrop Monitor with AI — 2026-10-10 #9",
+        "slug": "how-to-build-an-airdrop-monitor-with-ai-2026-10-10-9",
+        "author": "Nexus Intelligence Research",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 21:05:29 +0000",
+        "description": "Monitoring crypto airdrops manually is a losing battle. With new projects launching daily and claim windows often lasting mere hours, traditional scripts fai...",
+        "keywords": "airdrop, text, data, extract, json, return, build, monitor",
+        "generated": "2026-10-10T21:25:00.281779",
+        "file": "how-to-build-an-airdrop-monitor-with-ai-2026-10-10-9.md"
+    },
+    {
         "title": "This Week in AI: Anthropic's CEO Asked to Slow Down, OpenAI Disclosed 6 Incidents, and Developers Shipped More Agents",
         "slug": "this-week-in-ai-anthropics-ceo-asked-to-slow-down-openai-disclosed-6-incidents-and-developers-shipped-more-agents",
         "author": "HkSolDev",
@@ -30584,6 +30661,17 @@
         "keywords": "battery, replacement, city, phones, phone, service, melbourne, has",
         "generated": "2026-07-09T09:49:56.276822",
         "file": "battery-replacement-service-by-city-phones-melbourne.md"
+    },
+    {
+        "title": "50MB operating system can resurrect your old PC",
+        "slug": "50mb-operating-system-can-resurrect-your-old-pc",
+        "author": "makerdiety",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 19:59:24 +0000",
+        "description": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ Comments URL: https://news.ycombinator.com/item?id=50036571 Poin...",
+        "keywords": "operating, system, can, resurrect, your, old, url, https",
+        "generated": "2026-10-10T21:25:00.280189",
+        "file": "50mb-operating-system-can-resurrect-your-old-pc.md"
     },
     {
         "title": "Windows XP 2002 for the Itanium: Unbridled rage",
@@ -38103,6 +38191,17 @@
         "file": "why-johnny-still-still-cant-encrypt-evaluating-the-usability-of-a-modern-pgpclient.md"
     },
     {
+        "title": "I am starting my open source journey...",
+        "slug": "i-am-starting-my-open-source-journey",
+        "author": "Divy Tandon",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 21:18:59 +0000",
+        "description": "",
+        "keywords": "starting, open, source, journey",
+        "generated": "2026-10-10T21:25:00.284321",
+        "file": "i-am-starting-my-open-source-journey.md"
+    },
+    {
         "title": "Building Durable, AI-Powered Workflows in Django",
         "slug": "building-durable-ai-powered-workflows-in-django",
         "author": "Anthony Addae",
@@ -42939,6 +43038,17 @@
         "file": "my-incident-to-pr-autopilot-never-actually-opened-the-pr-i-finally-finished-it.md"
     },
     {
+        "title": "AI Interview Simulator: Prep Faster, Ace the Interview, and Go Touch Grass published: true",
+        "slug": "ai-interview-simulator-prep-faster-ace-the-interview-and-go-touch-grass-published-true",
+        "author": "sage106",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 20:43:36 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass What I Built Preparing for interviews is notoriously draining. Develo...",
+        "keywords": "interview, open, your, simulator, source, resume, built, coaching",
+        "generated": "2026-10-10T21:25:00.284227",
+        "file": "ai-interview-simulator-prep-faster-ace-the-interview-and-go-touch-grass-published-true.md"
+    },
+    {
         "title": "macOS 27 Golden Gate: The Ars Technica Review",
         "slug": "macos-27-golden-gate-the-ars-technica-review",
         "author": "Brajeshwar",
@@ -45542,6 +45652,17 @@
         "keywords": "library, world, editor, number, instance, room, position, building",
         "generated": "2026-09-24T11:27:16.267680",
         "file": "devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own.md"
+    },
+    {
+        "title": "How to Prevent Duplicate Orders in a Polymarket Trading Bot with Python",
+        "slug": "how-to-prevent-duplicate-orders-in-a-polymarket-trading-bot-with-python",
+        "author": "Dexoryn",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 21:15:05 +0000",
+        "description": "A Polymarket trading bot can receive the same event more than once, restart after a crash, or lose its connection while an order is being submitted. If the a...",
+        "keywords": "order, event, bot, not, trading, source, before, state",
+        "generated": "2026-10-10T21:25:00.281001",
+        "file": "how-to-prevent-duplicate-orders-in-a-polymarket-trading-bot-with-python.md"
     },
     {
         "title": "True Rate of Unemployment",
@@ -50602,6 +50723,17 @@
         "file": "maybe-you-should-learn-something.md"
     },
     {
+        "title": "FinOps na AWS: reduzindo custos ao ligar e desligar instâncias EC2 automaticamente",
+        "slug": "finops-na-aws-reduzindo-custos-ao-ligar-e-desligar-instncias-ec2-automaticamente",
+        "author": "Bianca Szimanski",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 21:08:51 +0000",
+        "description": "1. Introdução Em muitos ambientes corporativos, é comum manter instâncias ligadas mesmo durante períodos em que não estão sendo utilizadas. Em ambientes de d...",
+        "keywords": "para, lambda, por, logs, com, que, start, stop",
+        "generated": "2026-10-10T21:25:00.281584",
+        "file": "finops-na-aws-reduzindo-custos-ao-ligar-e-desligar-instncias-ec2-automaticamente.md"
+    },
+    {
         "title": "Stop Comparing Cloud Institutes by Vibes: A 20-Line Scoring Script",
         "slug": "stop-comparing-cloud-institutes-by-vibes-a-20-line-scoring-script",
         "author": "Sherdil IT Academy",
@@ -53209,6 +53341,17 @@
         "file": "claude-mcp-integrations-through-a-proxy-how-shadoclaw-keeps-your-tool-chains-stable.md"
     },
     {
+        "title": "Why DuckDB 2.0 is faster",
+        "slug": "why-duckdb-20-is-faster",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 18:08:49 +0000",
+        "description": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 68 # Comments: 20",
+        "keywords": "why, duckdb, faster, url, https, com, comments, article",
+        "generated": "2026-10-10T21:25:00.280509",
+        "file": "why-duckdb-20-is-faster.md"
+    },
+    {
         "title": "Your Website Was Seen 116,181 Times and Clicked 9 Times. Here's What Search Engines and AI Systems Are Actually Doing.",
         "slug": "your-website-was-seen-116181-times-and-clicked-9-times-heres-what-search-engines-and-ai-systems-are-actually-doing",
         "author": "Eduard",
@@ -53427,6 +53570,17 @@
         "keywords": "why, american, ambulance, rides, url, https, comments, expensive",
         "generated": "2026-07-10T09:45:24.780073",
         "file": "why-american-ambulance-rides-are-so-expensive.md"
+    },
+    {
+        "title": "Takeshi's Castle",
+        "slug": "takeshis-castle",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 19:12:55 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 45 # Comments: 20",
+        "keywords": "takeshi, url, https, comments, castle, article, wikipedia, org",
+        "generated": "2026-10-10T21:25:00.280337",
+        "file": "takeshis-castle.md"
     },
     {
         "title": "☁️ AWS Journey – Day 8 🚀",
@@ -61092,6 +61246,17 @@
         "keywords": "signal, arbitrage, polymarket, bot, one, strategies, problem, you",
         "generated": "2026-07-22T14:08:21.363744",
         "file": "building-a-polymarket-arbitrage-bot-5-strategies-one-signal-ranking-problem.md"
+    },
+    {
+        "title": "How to Make Playwright Autonomous (Without Letting an AI Agent Run Wild)",
+        "slug": "how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild",
+        "author": "Simon Gerber",
+        "source": "devto_ai",
+        "published": "Sat, 10 Oct 2026 21:14:46 +0000",
+        "description": "Playwright is very good at following instructions. Tell it to click a button, it clicks the button. Tell it to fill an input, it fills the input. Give it a t...",
+        "keywords": "action, page, playwright, you, model, await, const, agent",
+        "generated": "2026-10-10T21:25:00.285587",
+        "file": "how-to-make-playwright-autonomous-without-letting-an-ai-agent-run-wild.md"
     },
     {
         "title": "A Practical Checklist for MCP Tool Contracts (Because the Connection Is the Easy Part)",
@@ -69443,6 +69608,17 @@
         "file": "tried-thu-maicopenmaic-today-a-one-click-multi-agent-classroom.md"
     },
     {
+        "title": "A hash chain proves the ordering. Four attacks prove it's not enough.",
+        "slug": "a-hash-chain-proves-the-ordering-four-attacks-prove-its-not-enough",
+        "author": "Sam LABBE",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 20:56:21 +0000",
+        "description": "Earlier this week I left a comment on @randalschwartz 's article — the one where he swaps a 20-step prompt for a Makefile. My comment ended on the line I cou...",
+        "keywords": "one, not, its, his, four, verdict, randal, noirebox",
+        "generated": "2026-10-10T21:25:00.282221",
+        "file": "a-hash-chain-proves-the-ordering-four-attacks-prove-its-not-enough.md"
+    },
+    {
         "title": "Give Your Agent Patch a Determinism Budget: Seed-Locked Properties, Pinned Fixtures, a Freeze Registry",
         "slug": "give-your-agent-patch-a-determinism-budget-seed-locked-properties-pinned-fixtures-a-freeze-registry",
         "author": "Finley Zhou",
@@ -72037,6 +72213,17 @@
         "keywords": "url, https, comments, deepseek, elastic, compute, dsec, article",
         "generated": "2026-09-26T20:53:25.482792",
         "file": "deepseek-elastic-compute-dsec.md"
+    },
+    {
+        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+        "slug": "nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai",
+        "author": "arkj",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 18:48:35 +0000",
+        "description": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 74 # Comment...",
+        "keywords": "url, https, com, comments, nvidia, talks, acquire, open",
+        "generated": "2026-10-10T21:25:00.280427",
+        "file": "nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai.md"
     },
     {
         "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
@@ -76758,6 +76945,17 @@
         "file": "why-i-decided-to-stop-using-claude-code.md"
     },
     {
+        "title": "How a Forex Trading Cost Calculator Works: Spread, Commission and Swap in Python",
+        "slug": "how-a-forex-trading-cost-calculator-works-spread-commission-and-swap-in-python",
+        "author": "Amanda Vance",
+        "source": "devto_python",
+        "published": "Sat, 10 Oct 2026 20:55:22 +0000",
+        "description": "People often ask what happens under the hood when they type numbers into an automated forex trading fee calculator . This post answers that by building the s...",
+        "keywords": "spread, swap, pip, currency, pair, total, cost, commission",
+        "generated": "2026-10-10T21:25:00.282633",
+        "file": "how-a-forex-trading-cost-calculator-works-spread-commission-and-swap-in-python.md"
+    },
+    {
         "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
         "slug": "data-centers-raise-nearby-temperatures-by-up-to-4-degrees-in-phoenix",
         "author": "cwwc",
@@ -78758,6 +78956,17 @@
         "keywords": "oxlo, you, text, section, step, citations, openai, content",
         "generated": "2026-06-28T19:38:17.339630",
         "file": "building-academic-writing-tools-with-llms-a-step-by-step-guide.md"
+    },
+    {
+        "title": "Buy This, Not That, Drop This There” - I Made It Make Sense",
+        "slug": "buy-this-not-that-drop-this-there-i-made-it-make-sense",
+        "author": "Taqui",
+        "source": "devto_webdev",
+        "published": "Sat, 10 Oct 2026 20:47:01 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass The short version Someone at home gives you a rapid-fire list while y...",
+        "keywords": "not, model, gemma, card, provider, can, request, destination",
+        "generated": "2026-10-10T21:25:00.283689",
+        "file": "buy-this-not-that-drop-this-there-i-made-it-make-sense.md"
     },
     {
         "title": "Your Pipeline Is 15.2h Behind: Catching Finance Sentiment Leads with Pulsebit",
@@ -87658,6 +87867,17 @@
         "keywords": "reflex, growth, url, https, ycombinator, com, comments, hiring",
         "generated": "2026-08-12T19:08:00.187695",
         "file": "reflex-yc-w23-is-hiring-growth-and-gtm-roles.md"
+    },
+    {
+        "title": "Knuth reward check",
+        "slug": "knuth-reward-check",
+        "author": "Curiositry",
+        "source": "hackernews",
+        "published": "Sat, 10 Oct 2026 15:47:01 +0000",
+        "description": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 109 # Comments: 40",
+        "keywords": "knuth, reward, check, url, https, com, comments, article",
+        "generated": "2026-10-10T21:25:00.280584",
+        "file": "knuth-reward-check.md"
     },
     {
         "title": "Weird Little Guys of FOSS",
