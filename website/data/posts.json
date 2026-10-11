@@ -6315,6 +6315,17 @@
         "file": "swiss-parliament-lifts-ban-on-new-nuclear-power-plants.md"
     },
     {
+        "title": "Streaming LLM Output to the Browser Through Your Own Backend: FastAPI, Server-Sent Events and the Buffering Traps",
+        "slug": "streaming-llm-output-to-the-browser-through-your-own-backend-fastapi-server-sent-events-and-the-buffering-traps",
+        "author": "Aman Kumar",
+        "source": "devto_python",
+        "published": "Sun, 11 Oct 2026 21:30:04 +0000",
+        "description": "I'm Aman Kumar. I build an OpenAI-compatible gateway, and one of the most common support questions I see isn't about models at all. It's streaming works in ...",
+        "keywords": "your, stream, json, text, backend, model, request, streaming",
+        "generated": "2026-10-11T21:42:13.758044",
+        "file": "streaming-llm-output-to-the-browser-through-your-own-backend-fastapi-server-sent-events-and-the-buffering-traps.md"
+    },
+    {
         "title": "Your Pipeline Is 29.2h Behind: Catching Robotics Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-292h-behind-catching-robotics-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -15190,6 +15201,17 @@
         "file": "checking-if-a-businesss-google-profile-actually-matches-its-own-website.md"
     },
     {
+        "title": "Andrej Karpathy breaks down the capability gap",
+        "slug": "andrej-karpathy-breaks-down-the-capability-gap",
+        "author": "albertzeyer",
+        "source": "hackernews",
+        "published": "Sun, 11 Oct 2026 20:20:52 +0000",
+        "description": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 21 # Comments: 3",
+        "keywords": "karpathy, url, https, com, comments, andrej, breaks, down",
+        "generated": "2026-10-11T21:42:13.755991",
+        "file": "andrej-karpathy-breaks-down-the-capability-gap.md"
+    },
+    {
         "title": "Go Analysis Framework: modular static analysis by go team",
         "slug": "go-analysis-framework-modular-static-analysis-by-go-team",
         "author": "AbuAssar",
@@ -20688,6 +20710,17 @@
         "file": "try-minimax-h3-without-hardcoding-it-into-your-free-server.md"
     },
     {
+        "title": "Single Agent vs Multi-Agent: A Decision Framework for Enterprise Teams",
+        "slug": "single-agent-vs-multi-agent-a-decision-framework-for-enterprise-teams",
+        "author": "Sufyan Abbasi",
+        "source": "devto_ai",
+        "published": "Sun, 11 Oct 2026 21:38:33 +0000",
+        "description": "Single Agent vs Multi-Agent: A Decision Framework for Enterprise Teams Teams adopting LLM agents face a recurring question: one agent with good tools, or sev...",
+        "keywords": "agent, not, one, agents, microsoft, framework, state, task",
+        "generated": "2026-10-11T21:42:13.762083",
+        "file": "single-agent-vs-multi-agent-a-decision-framework-for-enterprise-teams.md"
+    },
+    {
         "title": "My backtest re-runs when I save the strategy file, and shows which trades changed",
         "slug": "my-backtest-re-runs-when-i-save-the-strategy-file-and-shows-which-trades-changed",
         "author": "Tomozo / HAWK Backtester",
@@ -21005,6 +21038,17 @@
         "keywords": "bill, series, seal, worth, you, serial, your, can",
         "generated": "2026-10-08T23:09:13.583835",
         "file": "are-2-bills-actually-worth-anything-i-built-a-free-tool-to-find-out.md"
+    },
+    {
+        "title": "TouchGrass: a phone referee for outdoor games, with an open-weight Game Master",
+        "slug": "touchgrass-a-phone-referee-for-outdoor-games-with-an-open-weight-game-master",
+        "author": "SHWETANK-SAURABH",
+        "source": "devto_ai",
+        "published": "Sun, 11 Oct 2026 21:32:13 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass . What I Built TouchGrass is a referee for outdoor games that lives o...",
+        "keywords": "game, model, master, can, not, open, rules, safety",
+        "generated": "2026-10-11T21:42:13.763682",
+        "file": "touchgrass-a-phone-referee-for-outdoor-games-with-an-open-weight-game-master.md"
     },
     {
         "title": "Aesthetic Treatments in Mira Road: A Simple Guide to Making the Right Choice",
@@ -38807,6 +38851,17 @@
         "file": "2026-4k-2160p.md"
     },
     {
+        "title": "Pick a Free, Paid, or Self-Hosted Agent Seat by the Lease You Can End",
+        "slug": "pick-a-free-paid-or-self-hosted-agent-seat-by-the-lease-you-can-end",
+        "author": "Riley Li",
+        "source": "devto_python",
+        "published": "Sun, 11 Oct 2026 21:34:48 +0000",
+        "description": "The right agent seat is the one you can close without losing the only copy of the work. I would rather take a shorter paid lease, or run a box I operate, tha...",
+        "keywords": "not, lease, you, card, when, can, seat, free",
+        "generated": "2026-10-11T21:42:13.757555",
+        "file": "pick-a-free-paid-or-self-hosted-agent-seat-by-the-lease-you-can-end.md"
+    },
+    {
         "title": "How We Built JungleTrade: A Modular Market Intelligence Platform",
         "slug": "how-we-built-jungletrade-a-modular-market-intelligence-platform",
         "author": "Dragomir Dikov",
@@ -41806,6 +41861,17 @@
         "keywords": "you, kicad, can, code, native, there, project, but",
         "generated": "2026-07-05T13:51:56.694785",
         "file": "show-hn-kicad-in-the-browser.md"
+    },
+    {
+        "title": "My Free n8n Template Gets Readers But Zero Sales — So I Rebuilt the Funnel Around It",
+        "slug": "my-free-n8n-template-gets-readers-but-zero-sales-so-i-rebuilt-the-funnel-around-it",
+        "author": "HaoPeng Zhang",
+        "source": "devto_webdev",
+        "published": "Sun, 11 Oct 2026 21:40:48 +0000",
+        "description": "A week ago I launched a small store of n8n workflow templates. The honest numbers, one week in: 0 orders. $0 revenue. 42 store views. 8 build-in-public artic...",
+        "keywords": "one, free, templates, funnel, same, workflow, three, template",
+        "generated": "2026-10-11T21:42:13.759708",
+        "file": "my-free-n8n-template-gets-readers-but-zero-sales-so-i-rebuilt-the-funnel-around-it.md"
     },
     {
         "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
@@ -49271,6 +49337,17 @@
         "file": "ask-hn-is-github-preparing-to-go-behind-a-login-wall.md"
     },
     {
+        "title": "Hello Wor-- I mean, Hello dev.to :)",
+        "slug": "hello-wor-i-mean-hello-devto",
+        "author": "Mateusz Muszarski",
+        "source": "devto_webdev",
+        "published": "Sun, 11 Oct 2026 21:38:00 +0000",
+        "description": "Trying to build an Awwwards-winning brutalist portfolio: the process, the mindset and the tools Mateusz Muszarski Mateusz Muszarski Mateusz Muszarski Follow ...",
+        "keywords": "mateusz, muszarski, hello, trying, build, awwwards, winning, brutalist",
+        "generated": "2026-10-11T21:42:13.760271",
+        "file": "hello-wor-i-mean-hello-devto.md"
+    },
+    {
         "title": "AI News today - June 26th - Ford had to hire back former engineers to fix mistakes made by its...",
         "slug": "ai-news-today-june-26th-ford-had-to-hire-back-former-engineers-to-fix-mistakes-made-by-its",
         "author": "Jonas Prenissl",
@@ -49533,6 +49610,17 @@
         "keywords": "reference, generation, collection, objects, collector, cyclic, object, parent",
         "generated": "2026-08-17T18:47:04.449208",
         "file": "how-python-takes-out-its-own-garbage.md"
+    },
+    {
+        "title": "Do You Have Pre-2012 Onion Issues?",
+        "slug": "do-you-have-pre-2012-onion-issues",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Sun, 11 Oct 2026 19:43:32 +0000",
+        "description": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 145 # Comments: 10",
+        "keywords": "url, https, com, comments, you, have, pre, onion",
+        "generated": "2026-10-11T21:42:13.756356",
+        "file": "do-you-have-pre-2012-onion-issues.md"
     },
     {
         "title": "Omarchy is full of security holes",
@@ -51812,6 +51900,17 @@
         "file": "python-for-beginners-part-3-strings-booleans.md"
     },
     {
+        "title": "Cartographers of North Korea",
+        "slug": "cartographers-of-north-korea",
+        "author": "edent",
+        "source": "hackernews",
+        "published": "Sun, 11 Oct 2026 19:46:40 +0000",
+        "description": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 72 # Comments: 6",
+        "keywords": "cartographers, url, https, comments, north, korea, article, wonyoung",
+        "generated": "2026-10-11T21:42:13.756125",
+        "file": "cartographers-of-north-korea.md"
+    },
+    {
         "title": "Domains",
         "slug": "domains",
         "author": "wueueueru",
@@ -52327,6 +52426,17 @@
         "keywords": "url, https, com, comments, resist, article, ronjeffries, articles",
         "generated": "2026-09-11T10:58:00.561618",
         "file": "resist-ai.md"
+    },
+    {
+        "title": "Your Signup Form Probably Rejects ITIN Holders. Here's How to Fix It",
+        "slug": "your-signup-form-probably-rejects-itin-holders-heres-how-to-fix-it",
+        "author": "ITIN Dev Notes",
+        "source": "devto_webdev",
+        "published": "Sun, 11 Oct 2026 21:39:16 +0000",
+        "description": "If your product asks for a U.S. tax ID (payroll, lending, banking, tax prep, marketplaces paying out sellers), there is a good chance your form quietly rejec...",
+        "keywords": "itin, ssn, your, number, return, group, area, you",
+        "generated": "2026-10-11T21:42:13.760136",
+        "file": "your-signup-form-probably-rejects-itin-holders-heres-how-to-fix-it.md"
     },
     {
         "title": "How to Protect Your Phone and Personal Data From AI-Powered Scams",
@@ -58289,6 +58399,17 @@
         "file": "we-made-grok-45-gpt-55-and-claude-build-the-same-apps.md"
     },
     {
+        "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+        "slug": "a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her",
+        "author": "bhrlady",
+        "source": "hackernews",
+        "published": "Sun, 11 Oct 2026 21:07:20 +0000",
+        "description": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news...",
+        "keywords": "her, remote, employee, refused, webcam, photos, day, employer",
+        "generated": "2026-10-11T21:42:13.755807",
+        "file": "a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her.md"
+    },
+    {
         "title": "Every Telegram conversation becomes a qualified lead. BizNode captures name, email, and business details automatically while...",
         "slug": "every-telegram-conversation-becomes-a-qualified-lead-biznode-captures-name-email-and-business-details-automatically-while",
         "author": "shashikanth ramamurthy",
@@ -60740,6 +60861,17 @@
         "keywords": "agent, finance, you, agents, your, human, tool, fraud",
         "generated": "2026-08-02T08:30:38.170867",
         "file": "best-ai-agents-for-finance-automation-2026-ranked-by-real-roi.md"
+    },
+    {
+        "title": "I Kept the Queue Graph. The Buffer Sat Full.",
+        "slug": "i-kept-the-queue-graph-the-buffer-sat-full",
+        "author": "Dakota Lin",
+        "source": "devto_python",
+        "published": "Sun, 11 Oct 2026 21:36:04 +0000",
+        "description": "The slow part is often your buffer, not the model. I keep the queue graph, and I drop the mean. Does a pretty average still hide a stuck reader? First-token ...",
+        "keywords": "not, you, your, chunk, bytes, chunks, held, when",
+        "generated": "2026-10-11T21:42:13.756902",
+        "file": "i-kept-the-queue-graph-the-buffer-sat-full.md"
     },
     {
         "title": "lets explore data Structures in Python",
@@ -67914,6 +68046,17 @@
         "file": "7153-of-prompt-cut-positions-are-not-a-token-boundary-of-the-text-that-follows.md"
     },
     {
+        "title": "Artificial Insanity",
+        "slug": "artificial-insanity",
+        "author": "leglock",
+        "source": "hackernews",
+        "published": "Sun, 11 Oct 2026 19:44:45 +0000",
+        "description": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 42 # Comments: 30",
+        "keywords": "url, https, com, comments, artificial, insanity, article, richwhitehouse",
+        "generated": "2026-10-11T21:42:13.756242",
+        "file": "artificial-insanity.md"
+    },
+    {
         "title": "My benchmark harness was wrong fourteen ways before it measured anything",
         "slug": "my-benchmark-harness-was-wrong-fourteen-ways-before-it-measured-anything",
         "author": "Remdore",
@@ -70664,6 +70807,17 @@
         "file": "toastry-sonner-style-toast-notifications-in-javascript.md"
     },
     {
+        "title": "Clock the First Fifteen Minutes",
+        "slug": "clock-the-first-fifteen-minutes",
+        "author": "Quinn Wang",
+        "source": "devto_ai",
+        "published": "Sun, 11 Oct 2026 21:30:56 +0000",
+        "description": "The first fifteen minutes of an AI coding session are the product test, not a warm-up you can skip. If you cannot name the friction in that window, you shoul...",
+        "keywords": "you, not, git, branch, const, drill, have, reach",
+        "generated": "2026-10-11T21:42:13.764214",
+        "file": "clock-the-first-fifteen-minutes.md"
+    },
+    {
         "title": "Portal by Spotify cut my Claude Code token usage by 90%",
         "slug": "portal-by-spotify-cut-my-claude-code-token-usage-by-90",
         "author": "cebert",
@@ -71938,6 +72092,17 @@
         "keywords": "dom, you, nexttick, flush, one, vue, not, write",
         "generated": "2026-09-14T12:21:57.413891",
         "file": "vue-nexttick-explained-how-dom-updates-are-batched.md"
+    },
+    {
+        "title": "I missed the old internet forums, so I built my own modern version.",
+        "slug": "i-missed-the-old-internet-forums-so-i-built-my-own-modern-version",
+        "author": "Leon O",
+        "source": "devto_webdev",
+        "published": "Sun, 11 Oct 2026 21:41:57 +0000",
+        "description": "I'm a graphic designer, and I've spent much of the last few months designing and building a personal project called Public Voice . I've always liked smaller ...",
+        "keywords": "own, public, create, you, voice, something, just, conversation",
+        "generated": "2026-10-11T21:42:13.759275",
+        "file": "i-missed-the-old-internet-forums-so-i-built-my-own-modern-version.md"
     },
     {
         "title": "Astrophysics & AI with Python: Why Your Code Needs to Understand Light-Years",
@@ -74118,6 +74283,17 @@
         "file": "impedance-matching-2017.md"
     },
     {
+        "title": "Can an 8B Model Meet a 35B Model's Acceptance Bar? Introducing Artificial Deterministic Intelligence",
+        "slug": "can-an-8b-model-meet-a-35b-models-acceptance-bar-introducing-artificial-deterministic-intelligence",
+        "author": "Branden Laskowski",
+        "source": "devto_python",
+        "published": "Sun, 11 Oct 2026 21:28:33 +0000",
+        "description": "Artificial Deterministic Intelligence: Probabilistic Reasoning, Deterministic Authority What if improving AI systems isn't always a question of building larg...",
+        "keywords": "model, artificial, deterministic, memory, research, governed, intelligence, scoped",
+        "generated": "2026-10-11T21:42:13.759058",
+        "file": "can-an-8b-model-meet-a-35b-models-acceptance-bar-introducing-artificial-deterministic-intelligence.md"
+    },
+    {
         "title": "How can a professionally designed website increase customer trust?",
         "slug": "how-can-a-professionally-designed-website-increase-customer-trust",
         "author": "omsoftsolution",
@@ -74182,6 +74358,17 @@
         "keywords": "why, have, papers, one, history, most, famous, physicists",
         "generated": "2026-06-26T14:36:05.284881",
         "file": "why-have-papers-by-one-of-historys-most-famous-physicists-been-retracted.md"
+    },
+    {
+        "title": "An agent can tell your code is consistent. It can't tell you it's correct.",
+        "slug": "an-agent-can-tell-your-code-is-consistent-it-cant-tell-you-its-correct",
+        "author": "Jeff",
+        "source": "devto_ai",
+        "published": "Sun, 11 Oct 2026 21:25:56 +0000",
+        "description": "Give an agent a ticket that says add a refund endpoint for cancelled orders. It will write a route, a service method, a migration, and three tests. The tes...",
+        "keywords": "agent, not, code, what, actually, ticket, have, can",
+        "generated": "2026-10-11T21:42:13.764537",
+        "file": "an-agent-can-tell-your-code-is-consistent-it-cant-tell-you-its-correct.md"
     },
     {
         "title": "Chair Rental Art Exhibitions Kuwait City Mall — دليل شامل لاختيار وتأجير الكراسي والطاولات للمعارض الفنية في مدينة الكويت مول: ل",
@@ -79761,6 +79948,17 @@
         "file": "hospitality-capital-conferences-hotels.md"
     },
     {
+        "title": "Zero-capital automation: running a business from Termux",
+        "slug": "zero-capital-automation-running-a-business-from-termux",
+        "author": "Samuel James Hiotis",
+        "source": "devto_ai",
+        "published": "Sun, 11 Oct 2026 21:33:48 +0000",
+        "description": "Zero-Capital Automation: Running a Business From Termux Okay, let's be real. Everyone talks about passive income and side hustles, but often it feels lik...",
+        "keywords": "python, termux, content, pkg, install, affiliate, requests, schedule",
+        "generated": "2026-10-11T21:42:13.762742",
+        "file": "zero-capital-automation-running-a-business-from-termux.md"
+    },
+    {
         "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
         "slug": "wangnet-18-mb-zero-dependency-numberwang-adjudication-in-11-languages",
         "author": "Liogra123",
@@ -83708,6 +83906,17 @@
         "keywords": "utc, offset, hour, clocks, places, one, world, clock",
         "generated": "2026-08-16T18:35:30.115995",
         "file": "the-world-clock-time-zone-landscape-what-162-places-reveal-about-time-zones.md"
+    },
+    {
+        "title": "Build a REST API with Fairyfly and SQLite",
+        "slug": "build-a-rest-api-with-fairyfly-and-sqlite",
+        "author": "Majid",
+        "source": "devto_webdev",
+        "published": "Sun, 11 Oct 2026 21:24:20 +0000",
+        "description": "I've been building Fairyfly , a lightweight, backend-focused JavaScript runtime built with Zig and powered by QuickJS. One of my goals with Fairyfly is to ma...",
+        "keywords": "json, tasks, api, title, return, task, fairyfly, http",
+        "generated": "2026-10-11T21:42:13.760980",
+        "file": "build-a-rest-api-with-fairyfly-and-sqlite.md"
     },
     {
         "title": "Fixing a bad INP in React? Find the slow phase before you optimize anything",
@@ -94443,6 +94652,17 @@
         "keywords": "rag, all, system, answers, you, ollama, mac, source",
         "generated": "2026-06-10T04:15:10.543230",
         "file": "i-built-a-production-rag-system-on-my-m1-mac-for-0.md"
+    },
+    {
+        "title": "I Split the Score. Reach Was Never a Pass.",
+        "slug": "i-split-the-score-reach-was-never-a-pass",
+        "author": "Jordan Liu",
+        "source": "devto_python",
+        "published": "Sun, 11 Oct 2026 21:29:16 +0000",
+        "description": "A free call that comes back with HTTP 200 is not a model that can do the job. I keep repeating that because a single pass rate keeps crawling back into the n...",
+        "keywords": "you, not, free, reach, item, model, items, will",
+        "generated": "2026-10-11T21:42:13.758744",
+        "file": "i-split-the-score-reach-was-never-a-pass.md"
     },
     {
         "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
