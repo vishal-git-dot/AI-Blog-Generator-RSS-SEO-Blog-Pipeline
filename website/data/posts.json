@@ -1507,6 +1507,17 @@
         "file": "data-centers-trigger-voter-backlash.md"
     },
     {
+        "title": "hi. this is my first post on this forum. i really want to learn python. i am interested in computers overall. after repairing PCs, installing linux on my friends' laptops, watching and testing out cybersecurity tuts, i want to build my own tools.",
+        "slug": "hi-this-is-my-first-post-on-this-forum-i-really-want-to-learn-python-i-am-interested-in-computers-overall-after-repairing-pcs-installing-linux-on-my-friends-laptops-watching-and-testing-out-cybersecurity-tuts-i-want-to-build-my-own-tools",
+        "author": "demdzar",
+        "source": "devto_python",
+        "published": "Mon, 12 Oct 2026 14:43:43 +0000",
+        "description": "",
+        "keywords": "want, first, post, forum, really, learn, python, interested",
+        "generated": "2026-10-12T14:59:14.187305",
+        "file": "hi-this-is-my-first-post-on-this-forum-i-really-want-to-learn-python-i-am-interested-in-computers-overall-after-repairing-pcs-installing-linux-on-my-friends-laptops-watching-and-testing-out-cybersecurity-tuts-i-want-to-build-my-own-tools.md"
+    },
+    {
         "title": "How Pulse matches you with the right provider — semantic AI search vs keyword lookup. BizNode Pulse uses embedding-based...",
         "slug": "how-pulse-matches-you-with-the-right-provider-semantic-ai-search-vs-keyword-lookup-biznode-pulse-uses-embedding-based",
         "author": "shashikanth ramamurthy",
@@ -5510,6 +5521,17 @@
         "keywords": "your, studio, you, local, models, model, api, download",
         "generated": "2026-06-12T20:19:14.997469",
         "file": "ai-income-engine-912-how-to-use-lm-studio-to-run-ai-agents-locally-for-free.md"
+    },
+    {
+        "title": "I'm Building a School-Life RPG Where 300 Students Have Lives of Their Own",
+        "slug": "im-building-a-school-life-rpg-where-300-students-have-lives-of-their-own",
+        "author": "Ferdo Vukojević",
+        "source": "devto_ai",
+        "published": "Mon, 12 Oct 2026 14:51:49 +0000",
+        "description": "I've been working on a personal project called The Merit Academy , a single-player, anime-inspired school-life RPG where you enrol at an elite academy, atten...",
+        "keywords": "you, academy, where, but, campus, things, systems, school",
+        "generated": "2026-10-12T14:59:14.189258",
+        "file": "im-building-a-school-life-rpg-where-300-students-have-lives-of-their-own.md"
     },
     {
         "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
@@ -10315,6 +10337,17 @@
         "keywords": "call, bws, center, kcp, makasar, anda, dapat, menghubungi",
         "generated": "2026-08-01T03:28:58.770829",
         "file": "call-center-bws-kcp-makasar.md"
+    },
+    {
+        "title": "How to check a VIN for open recalls (and check a whole fleet at once)",
+        "slug": "how-to-check-a-vin-for-open-recalls-and-check-a-whole-fleet-at-once",
+        "author": "CyberMax",
+        "source": "devto_python",
+        "published": "Mon, 12 Oct 2026 14:50:22 +0000",
+        "description": "A safety recall repair is free at any franchised dealer, but only if someone notices the recall. NHTSA received 958 recall campaigns in the last 12 months (2...",
+        "keywords": "vin, recall, nhtsa, recalls, make, recallroll, api, check",
+        "generated": "2026-10-12T14:59:14.187255",
+        "file": "how-to-check-a-vin-for-open-recalls-and-check-a-whole-fleet-at-once.md"
     },
     {
         "title": "DEV! 🚀 Breaking my lurking streak to introduce myself",
@@ -17599,6 +17632,17 @@
         "file": "show-hn-a-website-that-tracks-us-food-prices-every-day.md"
     },
     {
+        "title": "ulimit doesn't cap memory on macOS: stop a job before it swaps",
+        "slug": "ulimit-doesnt-cap-memory-on-macos-stop-a-job-before-it-swaps",
+        "author": "Rodion Kazennov",
+        "source": "devto_python",
+        "published": "Mon, 12 Oct 2026 14:31:35 +0000",
+        "description": "On Linux a job's memory can be capped with ulimit -v , systemd-run -p MemoryMax= or a cgroup, and a job that grows too big fails on its own instead of taking...",
+        "keywords": "run, job, swap, stageload, guard, memory, ulimit, one",
+        "generated": "2026-10-12T14:59:14.187992",
+        "file": "ulimit-doesnt-cap-memory-on-macos-stop-a-job-before-it-swaps.md"
+    },
+    {
         "title": "AI Demystified: Core Concepts for Predicting Mold and Pest Outbreaks",
         "slug": "ai-demystified-core-concepts-for-predicting-mold-and-pest-outbreaks",
         "author": "Ken Deng",
@@ -19192,6 +19236,17 @@
         "keywords": "lost, their, minds, url, https, comments, everybody, article",
         "generated": "2026-09-17T21:09:42.820150",
         "file": "everybodys-lost-their-minds.md"
+    },
+    {
+        "title": "Flutter + NVIDIA Models: Streaming Detection Results Without UI Jank",
+        "slug": "flutter-nvidia-models-streaming-detection-results-without-ui-jank",
+        "author": "vmodal_ai",
+        "source": "devto_ai",
+        "published": "Mon, 12 Oct 2026 14:46:38 +0000",
+        "description": "Flutter + NVIDIA Models: Streaming Detection Results Without UI Jank This advanced tutorial treats Flutter as the operator-facing presentation layer while we...",
+        "keywords": "flutter, not, state, frame, stale, int, nvidia, ros",
+        "generated": "2026-10-12T14:59:14.190637",
+        "file": "flutter-nvidia-models-streaming-detection-results-without-ui-jank.md"
     },
     {
         "title": "Rethinking Database Programming",
@@ -21434,6 +21489,17 @@
         "keywords": "entropy, trading, market, polymarket, flow, prediction, information, order",
         "generated": "2026-07-13T14:46:38.574203",
         "file": "entropy-analysis-of-prediction-market-order-flow-building-smarter-trading-signals-with-a-polymarket-trading-bot.md"
+    },
+    {
+        "title": "Flutter + NVIDIA Edge AI: Model Versioning and Runtime Capability Negotiation",
+        "slug": "flutter-nvidia-edge-ai-model-versioning-and-runtime-capability-negotiation",
+        "author": "vmodal_ai",
+        "source": "devto_ai",
+        "published": "Mon, 12 Oct 2026 14:47:16 +0000",
+        "description": "Flutter + NVIDIA Edge AI: Model Versioning and Runtime Capability Negotiation This advanced tutorial treats Flutter as the operator-facing presentation layer...",
+        "keywords": "flutter, not, state, keep, robot, stale, int, nvidia",
+        "generated": "2026-10-12T14:59:14.190069",
+        "file": "flutter-nvidia-edge-ai-model-versioning-and-runtime-capability-negotiation.md"
     },
     {
         "title": "How to Monitor AI Agent Behavior in Production: Tools, Metrics, and What to Alert On",
@@ -25768,6 +25834,17 @@
         "file": "i-tricked-claude-into-leaking-your-deepest-darkest-secrets.md"
     },
     {
+        "title": "Solar Panels That Plug into Your Wall Are About to Be Everywhere",
+        "slug": "solar-panels-that-plug-into-your-wall-are-about-to-be-everywhere",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Mon, 12 Oct 2026 14:19:04 +0000",
+        "description": "Article URL: https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy Comments URL: https://news.ycombinator.com/...",
+        "keywords": "solar, panels, plug, article, url, https, com, comments",
+        "generated": "2026-10-12T14:59:14.186743",
+        "file": "solar-panels-that-plug-into-your-wall-are-about-to-be-everywhere.md"
+    },
+    {
         "title": "Almoasfat Alkyasy Oalmoad Almstkhdm Fy Mblt Syramyk Oborslyn Bdakhl Alamarat Alaarby Almthd — المواصفات القياسية والمواد المستخد",
         "slug": "almoasfat-alkyasy-oalmoad-almstkhdm-fy-mblt-syramyk-oborslyn-bdakhl-alamarat-alaarby-almthd",
         "author": "ismail",
@@ -26021,6 +26098,17 @@
         "file": "build-a-voice-assistant-with-python-and-whisper.md"
     },
     {
+        "title": "Digital payments in Pakistan: what software teams must reconcile",
+        "slug": "digital-payments-in-pakistan-what-software-teams-must-reconcile",
+        "author": "Coder Bytes",
+        "source": "devto_webdev",
+        "published": "Mon, 12 Oct 2026 14:49:31 +0000",
+        "description": "A payment workflow guide covering merchant onboarding, confirmation, refunds, and trustworthy records. Disclosure: This article’s text and cover image were g...",
+        "keywords": "payment, provider, order, can, confirmation, not, pakistan, what",
+        "generated": "2026-10-12T14:59:14.188540",
+        "file": "digital-payments-in-pakistan-what-software-teams-must-reconcile.md"
+    },
+    {
         "title": "I scanned fourteen code hosts. Not one served an MCP server card.",
         "slug": "i-scanned-fourteen-code-hosts-not-one-served-an-mcp-server-card",
         "author": "Erik Rekola",
@@ -26041,6 +26129,17 @@
         "keywords": "prompt, you, had, not, images, project, but, something",
         "generated": "2026-07-22T03:17:44.191940",
         "file": "i-tried-to-replace-my-image-workflow-with-an-ai-photo-generator-three-times-it-failed-once-it-didnt.md"
+    },
+    {
+        "title": "Unsloth + Ollama: Fine-Tune and Run Local LLMs",
+        "slug": "unsloth-ollama-fine-tune-and-run-local-llms",
+        "author": "Marcus Vance | Signal Matrix AI",
+        "source": "devto_python",
+        "published": "Mon, 12 Oct 2026 14:36:13 +0000",
+        "description": "Unsloth + Ollama: Fine-Tune Open-Source LLMs 2x Faster and Run Them Locally Stop burning thousands of dollars on cloud LLM API tokens. Fine-tuning an 8B para...",
+        "keywords": "ollama, unsloth, model, train, your, https, install, fine",
+        "generated": "2026-10-12T14:59:14.187568",
+        "file": "unsloth-ollama-fine-tune-and-run-local-llms.md"
     },
     {
         "title": "The value of not getting to the point (2015)",
@@ -29231,6 +29330,17 @@
         "keywords": "memory, devops, you, https, lnkd, day, live, gpu",
         "generated": "2026-07-08T03:22:28.630929",
         "file": "day-3-of-100-days-of-genai-for-devops-is-live.md"
+    },
+    {
+        "title": "How to check whether your site blocks ChatGPT, Claude and Perplexity",
+        "slug": "how-to-check-whether-your-site-blocks-chatgpt-claude-and-perplexity",
+        "author": "David Black",
+        "source": "devto_webdev",
+        "published": "Mon, 12 Oct 2026 14:50:16 +0000",
+        "description": "Plenty of sites turn AI crawlers away without anyone having decided to. A security plugin, a CDN setting or a line copied into robots.txt years ago is enough...",
+        "keywords": "user, agent, your, crawler, robots, txt, you, not",
+        "generated": "2026-10-12T14:59:14.188339",
+        "file": "how-to-check-whether-your-site-blocks-chatgpt-claude-and-perplexity.md"
     },
     {
         "title": "Why Most People Get Bad AI Outputs (And How to Fix It)",
@@ -39786,6 +39896,17 @@
         "file": "file-counter-cli-count-files-and-estimate-sizes-by-extension-in-pure-python.md"
     },
     {
+        "title": "Incident with Actions, Pull Requests and Issues",
+        "slug": "incident-with-actions-pull-requests-and-issues",
+        "author": "dkpk",
+        "source": "hackernews",
+        "published": "Mon, 12 Oct 2026 12:23:51 +0000",
+        "description": "Article URL: https://www.githubstatus.com/incidents/93njd414rpbx Comments URL: https://news.ycombinator.com/item?id=50055375 Points: 59 # Comments: 39",
+        "keywords": "url, https, com, comments, incident, actions, pull, requests",
+        "generated": "2026-10-12T14:59:14.186968",
+        "file": "incident-with-actions-pull-requests-and-issues.md"
+    },
+    {
         "title": "PWA with React + Leaflet: lessons from a 31-city map app",
         "slug": "pwa-with-react-leaflet-lessons-from-a-31-city-map-app",
         "author": "TaroFortune",
@@ -40950,6 +41071,17 @@
         "keywords": "code, claude, solo, developers, developer, not, client, use",
         "generated": "2026-08-24T07:07:50.328696",
         "file": "claude-code-roi-the-solo-dev-productivity-multiplier.md"
+    },
+    {
+        "title": "Citroen revives the 2CV for an electric age",
+        "slug": "citroen-revives-the-2cv-for-an-electric-age",
+        "author": "scrlk",
+        "source": "hackernews",
+        "published": "Mon, 12 Oct 2026 12:09:09 +0000",
+        "description": "Article URL: https://www.bbc.co.uk/news/articles/c620r33plgppo Comments URL: https://news.ycombinator.com/item?id=50055220 Points: 83 # Comments: 89",
+        "keywords": "url, https, news, comments, citroen, revives, electric, age",
+        "generated": "2026-10-12T14:59:14.187022",
+        "file": "citroen-revives-the-2cv-for-an-electric-age.md"
     },
     {
         "title": "I Scraped 100 Formula 1 Matches — Here Is What I Found: Why was Hamilton penalised but not Leclerc? F1 Q&A",
@@ -45454,6 +45586,17 @@
         "keywords": "invite, const, invites, count, await, orgid, token, delete",
         "generated": "2026-09-07T03:57:33.583386",
         "file": "building-invite-flows-that-dont-have-race-conditions-in-sveltekit-postgres.md"
+    },
+    {
+        "title": "QGIS bans AI assisted contributions",
+        "slug": "qgis-bans-ai-assisted-contributions",
+        "author": "bwnkl",
+        "source": "hackernews",
+        "published": "Mon, 12 Oct 2026 11:22:24 +0000",
+        "description": "Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387 Comments URL: https://news.ycombinator.com/item?id=50054751 Points: 243 # Comments: 252",
+        "keywords": "qgis, url, https, com, comments, bans, assisted, contributions",
+        "generated": "2026-10-12T14:59:14.187068",
+        "file": "qgis-bans-ai-assisted-contributions.md"
     },
     {
         "title": "Smartphone makers don't bother to comply with EU repairability requirements",
@@ -59213,6 +59356,17 @@
         "file": "how-to-generate-multiple-images-with-ai-from-a-variation-matrix.md"
     },
     {
+        "title": "Reverse Engineer Anything: AI-Powered Binary Analysis",
+        "slug": "reverse-engineer-anything-ai-powered-binary-analysis",
+        "author": "Marcus Vance | Signal Matrix AI",
+        "source": "devto_python",
+        "published": "Mon, 12 Oct 2026 14:36:12 +0000",
+        "description": "Reverse Engineer Anything: AI-Powered Binary Analysis Stop guessing how that app works—let your AI agent decompile it for you. Every software engineer has en...",
+        "keywords": "your, rea, you, agent, binary, engineer, code, reverse",
+        "generated": "2026-10-12T14:59:14.187791",
+        "file": "reverse-engineer-anything-ai-powered-binary-analysis.md"
+    },
+    {
         "title": "Shifting Paradigms: The Rise of Curation Over Algorithmic Feeds",
         "slug": "shifting-paradigms-the-rise-of-curation-over-algorithmic-feeds",
         "author": "darasem",
@@ -60610,6 +60764,17 @@
         "file": "one-ai-vendor-is-a-single-point-of-failure-treat-it-like-one.md"
     },
     {
+        "title": "Just Ask Claude Is a Rare and Valuable Skill",
+        "slug": "just-ask-claude-is-a-rare-and-valuable-skill",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Mon, 12 Oct 2026 13:20:04 +0000",
+        "description": "Article URL: https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable Comments URL: https://news.ycombinator.com/item?id=50056063 Points: 20...",
+        "keywords": "just, ask, claude, rare, valuable, url, https, com",
+        "generated": "2026-10-12T14:59:14.186898",
+        "file": "just-ask-claude-is-a-rare-and-valuable-skill.md"
+    },
+    {
         "title": "🚀 What Changes When Every Company Has an AI Team?",
         "slug": "what-changes-when-every-company-has-an-ai-team",
         "author": "Codexlancers",
@@ -61840,6 +62005,17 @@
         "keywords": "universe, minified, bundle, url, https, comments, article, andrewarrow",
         "generated": "2026-08-31T13:15:26.825710",
         "file": "the-universe-as-a-minified-bundle.md"
+    },
+    {
+        "title": "How to Identify Technologies Mentioned in a YouTube Video",
+        "slug": "how-to-identify-technologies-mentioned-in-a-youtube-video",
+        "author": "WgeorgeAssistantIA",
+        "source": "devto_webdev",
+        "published": "Mon, 12 Oct 2026 14:41:54 +0000",
+        "description": "Which technologies does this video talk about? sounds like a named-entity task, and it is, with a twist: the entities are product names that are short, amb...",
+        "keywords": "names, list, you, tool, keep, video, product, ambiguous",
+        "generated": "2026-10-12T14:59:14.188687",
+        "file": "how-to-identify-technologies-mentioned-in-a-youtube-video.md"
     },
     {
         "title": "I Scraped 100 Nba Matches — Here Is What I Found: LA Clippers fined $30m by NBA over Leonard scandal",
@@ -75900,6 +76076,17 @@
         "file": "us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nio-nears.md"
     },
     {
+        "title": "Build a Delivery AI Agent with MCP and Routing APIs",
+        "slug": "build-a-delivery-ai-agent-with-mcp-and-routing-apis",
+        "author": "JustRouting",
+        "source": "devto_ai",
+        "published": "Mon, 12 Oct 2026 14:47:00 +0000",
+        "description": "AI agents are getting better at understanding requests, reasoning about problems, and completing complex tasks. But real-world operations need more than lang...",
+        "keywords": "routing, mcp, agent, justrouting, delivery, route, time, travel",
+        "generated": "2026-10-12T14:59:14.190362",
+        "file": "build-a-delivery-ai-agent-with-mcp-and-routing-apis.md"
+    },
+    {
         "title": "TypeScript Infers the Last Overload... So I Changed the Order",
         "slug": "typescript-infers-the-last-overload-so-i-changed-the-order",
         "author": "NickM",
@@ -88033,6 +88220,17 @@
         "file": "happy-45th-birthday-to-the-ibm-pc-and-model-fxt.md"
     },
     {
+        "title": "WooCommerce Variations Not Showing? A 10-Step Debugging Checklist",
+        "slug": "woocommerce-variations-not-showing-a-10-step-debugging-checklist",
+        "author": "Amanur Rahman",
+        "source": "devto_webdev",
+        "published": "Mon, 12 Oct 2026 14:50:48 +0000",
+        "description": "You add sizes or colors to a WooCommerce product, save it, and open the page. No dropdowns. Or the dropdowns show but a choice is greyed out. Or you get Sor...",
+        "keywords": "product, woocommerce, you, variation, variations, page, can, step",
+        "generated": "2026-10-12T14:59:14.188188",
+        "file": "woocommerce-variations-not-showing-a-10-step-debugging-checklist.md"
+    },
+    {
         "title": "I built an AI tool to stop unpaid freelance work & scope creep",
         "slug": "i-built-an-ai-tool-to-stop-unpaid-freelance-work-scope-creep",
         "author": "Dhanmanti Ahirwar",
@@ -95501,6 +95699,17 @@
         "file": "how-to-send-slack-notifications-with-n8n-free-workflow-json-no-code-needed.md"
     },
     {
+        "title": "Fingerprints Are the New Cookies: How Browser Fingerprinting Works and What Developers Should Do About It",
+        "slug": "fingerprints-are-the-new-cookies-how-browser-fingerprinting-works-and-what-developers-should-do-about-it",
+        "author": "EME GUG",
+        "source": "devto_webdev",
+        "published": "Mon, 12 Oct 2026 14:40:56 +0000",
+        "description": "Hồi trước, muốn track user thì cứ set một cái cookie là xong. Giờ thì khác rồi: Safari có ITP, Firefox có Total Cookie Protection, Chrome cũng siết third-par...",
+        "keywords": "fingerprint, user, request, chrome, canvas, cookie, tls, headers",
+        "generated": "2026-10-12T14:59:14.188985",
+        "file": "fingerprints-are-the-new-cookies-how-browser-fingerprinting-works-and-what-developers-should-do-about-it.md"
+    },
+    {
         "title": "Stop Retyping Everything: A Slash-Command Console for Your Local LLM Stack",
         "slug": "stop-retyping-everything-a-slash-command-console-for-your-local-llm-stack",
         "author": "Peak",
@@ -95983,6 +96192,17 @@
         "keywords": "can, mailing, business, general, managers, list, marketing, targeted",
         "generated": "2026-09-22T04:16:43.249811",
         "file": "general-managers-mailing-list-for-targeted-b2b-marketing.md"
+    },
+    {
+        "title": "Amazon Dev News • Oct 12, 2026: New Alexa Tablets & Ring Devices",
+        "slug": "amazon-dev-news-oct-12-2026-new-alexa-tablets-ring-devices",
+        "author": "Moses Roth",
+        "source": "devto_ai",
+        "published": "Mon, 12 Oct 2026 14:47:24 +0000",
+        "description": "Good morning, everyone! The big news this week is our all-new Alexa Tablets , with Alexa+ built in and Google Play on board, and new Amazon Kids Tablets for ...",
+        "keywords": "new, amazon, you, alexa, aws, ring, your, how",
+        "generated": "2026-10-12T14:59:14.189775",
+        "file": "amazon-dev-news-oct-12-2026-new-alexa-tablets-ring-devices.md"
     },
     {
         "title": "Your Coding Agent Has a Network. Do You Know What It Did?",
