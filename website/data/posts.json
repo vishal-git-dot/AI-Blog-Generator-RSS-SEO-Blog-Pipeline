@@ -3322,6 +3322,17 @@
         "file": "when-ai-agents-go-rogue-what-the-openai-hugging-face-incident-means-for-builders.md"
     },
     {
+        "title": "Google Trends for 100 keywords without failed runs: a pipeline for SEO and e-commerce teams",
+        "slug": "google-trends-for-100-keywords-without-failed-runs-a-pipeline-for-seo-and-e-commerce-teams",
+        "author": "Omar Khandji",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 22:21:32 +0000",
+        "description": "If you run SEO or an online shop, you probably check Google Trends for a list of keywords every week: which products are rising, which queries are about to b...",
+        "keywords": "google, keywords, keyword, run, trends, you, per, apify",
+        "generated": "2026-10-13T22:28:13.078544",
+        "file": "google-trends-for-100-keywords-without-failed-runs-a-pipeline-for-seo-and-e-commerce-teams.md"
+    },
+    {
         "title": "No Backtesting Needed! I Punched My Hypothesis's Heart Directly with Raw Data and It Died Before I Even Measured Returns",
         "slug": "no-backtesting-needed-i-punched-my-hypothesiss-heart-directly-with-raw-data-and-it-died-before-i-even-measured-returns",
         "author": "oji - building AI in public",
@@ -9701,6 +9712,17 @@
         "file": "building-a-linux-gpu-driver-for-the-m4-mac-mini-in-one-month.md"
     },
     {
+        "title": "Your Muse Agent Did the Work. Get the Receipt.",
+        "slug": "your-muse-agent-did-the-work-get-the-receipt",
+        "author": "rambo",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 22:12:39 +0000",
+        "description": "It is late, and your Muse agent has just finished a day of work you did not watch. It researched your closest competitors and wrote up what it found. It draf...",
+        "keywords": "receipt, you, one, agent, not, record, your, muse",
+        "generated": "2026-10-13T22:28:13.082162",
+        "file": "your-muse-agent-did-the-work-get-the-receipt.md"
+    },
+    {
         "title": "How I Stopped Writing JSON-LD by Hand",
         "slug": "how-i-stopped-writing-json-ld-by-hand",
         "author": "SeoGeo Tech",
@@ -10557,6 +10579,17 @@
         "keywords": "you, job, one, status, pdf, your, https, form",
         "generated": "2026-09-17T04:23:07.713942",
         "file": "pdf-form-jobs-that-never-reach-a-terminal-state-poll-budgets-and-audit-trails.md"
+    },
+    {
+        "title": "Failure-Aware Schema Contracts for Auditable Developer Changelog Tracker Recovery",
+        "slug": "failure-aware-schema-contracts-for-auditable-developer-changelog-tracker-recovery",
+        "author": "YvesSterling6854",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 22:17:15 +0000",
+        "description": "Short answer: a developer changelog tracker needs a staged retrieval architecture with explicit collections, bounded queries, and source context that can be ...",
+        "keywords": "release, chunk, index, str, text, one, key, contract",
+        "generated": "2026-10-13T22:28:13.079321",
+        "file": "failure-aware-schema-contracts-for-auditable-developer-changelog-tracker-recovery.md"
     },
     {
         "title": "Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge",
@@ -18268,6 +18301,17 @@
         "keywords": "you, your, gmail, account, accounts, buy, security, personal",
         "generated": "2026-08-16T12:49:10.507939",
         "file": "buy-gmail-accounts-pva-for-the-top-10-best-sites.md"
+    },
+    {
+        "title": "Intermittent 502s and read ECONNRESET Behind a Load Balancer: The Keep-Alive Timeout Mismatch",
+        "slug": "intermittent-502s-and-read-econnreset-behind-a-load-balancer-the-keep-alive-timeout-mismatch",
+        "author": "Libme",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 22:14:30 +0000",
+        "description": "Short answer: if you see a trickle of 502s (or read ECONNRESET / socket hang up in clients) that has no pattern in your app logs, check whether your app serv...",
+        "keywords": "app, idle, timeout, server, proxy, you, your, keep",
+        "generated": "2026-10-13T22:28:13.080240",
+        "file": "intermittent-502s-and-read-econnreset-behind-a-load-balancer-the-keep-alive-timeout-mismatch.md"
     },
     {
         "title": "Germany's Infineon opens $5.7B chip plant as EU seeks tech autonomy",
@@ -28243,6 +28287,17 @@
         "file": "an-interview-with-intels-kira-boyko-xeon-6s-product-director.md"
     },
     {
+        "title": "How to photograph a job site for a quote without emailing 12 MB files",
+        "slug": "how-to-photograph-a-job-site-for-a-quote-without-emailing-12-mb-files",
+        "author": "Tyr Xargaar",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 21:42:30 +0000",
+        "description": "When a contractor quotes a repair, the photos matter. They show the customer what you saw, and they protect you later if someone asks what the wall looked li...",
+        "keywords": "photos, you, can, job, what, they, customer, phone",
+        "generated": "2026-10-13T22:28:13.080810",
+        "file": "how-to-photograph-a-job-site-for-a-quote-without-emailing-12-mb-files.md"
+    },
+    {
         "title": "Your Pipeline Is 5.4h Behind: Catching Climate Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-54h-behind-catching-climate-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -29385,6 +29440,17 @@
         "keywords": "not, files, code, git, readme, search, current, application",
         "generated": "2026-08-03T03:30:39.801742",
         "file": "a-five-hour-inspection-of-a-working-flask-app-aligning-code-readme-docker-and-git-with-the-current-specification.md"
+    },
+    {
+        "title": "AI Daily Digest October 14, 2026: Google Ships Gemini 4 Argon, Character.AI Files Chapter 11, Rotterdam Lands Its First Tenant",
+        "slug": "ai-daily-digest-october-14-2026-google-ships-gemini-4-argon-characterai-files-chapter-11-rotterdam-lands-its-first-tenant",
+        "author": "HIROKI II",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 22:10:35 +0000",
+        "description": "Seven stories for Wednesday, October 14. Google puts Gemini 4 Argon into the world through a gated program, Character.AI files for bankruptcy with Disney hol...",
+        "keywords": "google, its, model, data, bolt, argon, character, anthropic",
+        "generated": "2026-10-13T22:28:13.083205",
+        "file": "ai-daily-digest-october-14-2026-google-ships-gemini-4-argon-characterai-files-chapter-11-rotterdam-lands-its-first-tenant.md"
     },
     {
         "title": "🚀 Day 3 of 100 Days of GenAI for DevOps is LIVE!",
@@ -30573,6 +30639,17 @@
         "keywords": "url, https, comments, apocketlypse, article, company, galleries, triumph",
         "generated": "2026-07-05T09:14:04.975727",
         "file": "apocketlypse.md"
+    },
+    {
+        "title": "Integrating SEO Components into Discord",
+        "slug": "integrating-seo-components-into-discord",
+        "author": "Thomas Bonnet",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 22:10:30 +0000",
+        "description": "If you paste a link to your website in a Discord channel, a small card appears automatically: title, description, and an image. You didn’t have to write any ...",
+        "keywords": "discord, component, tags, embed, image, type, card, blog",
+        "generated": "2026-10-13T22:28:13.080645",
+        "file": "integrating-seo-components-into-discord.md"
     },
     {
         "title": "Stop Saying It Works on My Machine: Docker for AI Engineers",
@@ -42501,6 +42578,17 @@
         "file": "emergent-abilities-or-a-mirage-of-the-ruler-how-exact-match-manufactures-a-cliff-from-a-smooth-skill.md"
     },
     {
+        "title": "Don't Trust Us — Check the Chain: Public Verification for AI Agent Verdicts",
+        "slug": "dont-trust-us-check-the-chain-public-verification-for-ai-agent-verdicts",
+        "author": "Paul Spread",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 22:16:31 +0000",
+        "description": "This article originally appeared on the AgentBadge blog . What happens if we lie to you? Not a bug — a lie. The verdict endpoint says approved, the signatu...",
+        "keywords": "verdict, chain, anchor, memo, verify, what, api, kind",
+        "generated": "2026-10-13T22:28:13.081810",
+        "file": "dont-trust-us-check-the-chain-public-verification-for-ai-agent-verdicts.md"
+    },
+    {
         "title": "Stop Optimizing the Wrong Things: Practical Database Optimization Techniques Every Backend Developer Should Know",
         "slug": "stop-optimizing-the-wrong-things-practical-database-optimization-techniques-every-backend-developer-should-know",
         "author": "Ali Haider",
@@ -43423,6 +43511,17 @@
         "keywords": "playwright, python, students, automation, testing, async, sync, hyderabad",
         "generated": "2026-07-24T08:34:24.204615",
         "file": "sync-vs-async-in-playwright-python-a-beginner-guide-for-students-in-hyderabad.md"
+    },
+    {
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "slug": "openai-engineer-arrested-in-bugging-of-executive-conference-room",
+        "author": "forthwall",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 20:23:55 +0000",
+        "description": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 146 # Comments: 158",
+        "keywords": "https, com, comments, openai, engineer, arrested, bugging, executive",
+        "generated": "2026-10-13T22:28:13.077933",
+        "file": "openai-engineer-arrested-in-bugging-of-executive-conference-room.md"
     },
     {
         "title": "7 กฎสำหรับ Self-Improving Agent Loops ที่ AI Engineer ทุกคนควรรู้, Google Cloud เปิดตัว agents-cli",
@@ -56903,6 +57002,17 @@
         "file": "top-12-site-to-get-linkedin-accounts-buying-guide-2026.md"
     },
     {
+        "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+        "slug": "the-four-colour-theorem-the-first-time-machines-mogged-mathematicians",
+        "author": "list",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 19:17:19 +0000",
+        "description": "https://celebratio.org/Appel_KI/article/796/#sender Comments URL: https://news.ycombinator.com/item?id=50077096 Points: 15 # Comments: 14",
+        "keywords": "https, comments, four, colour, theorem, first, time, machines",
+        "generated": "2026-10-13T22:28:13.078207",
+        "file": "the-four-colour-theorem-the-first-time-machines-mogged-mathematicians.md"
+    },
+    {
         "title": "Insights from Brown University…",
         "slug": "insights-from-brown-university",
         "author": "Norvik Tech",
@@ -62513,6 +62623,17 @@
         "file": "reduce-llm-token-waste-in-rag-with-markdown.md"
     },
     {
+        "title": "How AI-Powered Automation Can Transform Your Business Operations",
+        "slug": "how-ai-powered-automation-can-transform-your-business-operations",
+        "author": "Marco Pais",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 22:07:42 +0000",
+        "description": "How AI-Powered Automation Can Transform Your Business Operations Introduction In today's fast‑paced market, businesses are under constant pressure to do more...",
+        "keywords": "automation, can, your, how, business, data, audit, operations",
+        "generated": "2026-10-13T22:28:13.083424",
+        "file": "how-ai-powered-automation-can-transform-your-business-operations.md"
+    },
+    {
         "title": "The simplest Python script to generate AI content at scale",
         "slug": "the-simplest-python-script-to-generate-ai-content-at-scale",
         "author": "David García",
@@ -67397,6 +67518,17 @@
         "file": "albertas-image-as-worlds-only-rat-free-region-shattered-by-discovery-of-rat.md"
     },
     {
+        "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+        "slug": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-ai-models-add",
+        "author": "lasu",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 19:50:31 +0000",
+        "description": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wa...",
+        "keywords": "code, benchmarks, parsimony, models, measure, long, term, patches",
+        "generated": "2026-10-13T22:28:13.078074",
+        "file": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-ai-models-add.md"
+    },
+    {
         "title": "Demo: https://codei-sync-t72r.onrender.com/",
         "slug": "demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-and-would-love-some-honest-feedback-the-goal-was-to-remove-the-friction-that-often-comes-with-pair-programming-and-collaborative-coding-sessions-instead-of-in",
         "author": "hamza abbasi",
@@ -69540,6 +69672,17 @@
         "keywords": "product, white, background, products, prompt, photos, images, prompts",
         "generated": "2026-07-02T19:40:41.067467",
         "file": "stop-overpaying-for-photos-5-chatgpt-prompts-for-white-background-product-photos.md"
+    },
+    {
+        "title": "The Best Books for Product Management in 2026: From Discovery to AI Governance",
+        "slug": "the-best-books-for-product-management-in-2026-from-discovery-to-ai-governance",
+        "author": "Tarek Mostafa",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 22:11:38 +0000",
+        "description": "The Best Books for Product Management in 2026: From Discovery to AI Governance The product management discipline has fractured into two distinct eras: the pr...",
+        "keywords": "product, discovery, customer, teams, governance, unshakeable, manager, layer",
+        "generated": "2026-10-13T22:28:13.082586",
+        "file": "the-best-books-for-product-management-in-2026-from-discovery-to-ai-governance.md"
     },
     {
         "title": "LinkedIn Jobs Scraper — Never Pay for Blocked Pages",
@@ -74072,6 +74215,17 @@
         "keywords": "smm, best, panels, explore, affordable, services, fast, delivery",
         "generated": "2026-09-16T16:34:10.693737",
         "file": "best-smm-panels.md"
+    },
+    {
+        "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+        "slug": "postera-yc-w20-is-hiring-ai-researchers-for-drug-discovery",
+        "author": "morraa",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 21:01:12 +0000",
+        "description": "Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0 Comments URL: https://news.ycombinator.com/item?id=50078686 Points: 0 # Comme...",
+        "keywords": "postera, url, https, comments, hiring, researchers, drug, discovery",
+        "generated": "2026-10-13T22:28:13.077779",
+        "file": "postera-yc-w20-is-hiring-ai-researchers-for-drug-discovery.md"
     },
     {
         "title": "About my personal website",
@@ -83743,6 +83897,17 @@
         "file": "i-rebuilt-my-export-pdf-text-for-ai-feature-three-times-in-one-day-heres-what-each-version-got-wrong.md"
     },
     {
+        "title": "🇧🇷 Noticia boa aos bolsonaristas, Lula é pego hoje pela policia federal",
+        "slug": "noticia-boa-aos-bolsonaristas-lula-pego-hoje-pela-policia-federal",
+        "author": "Matheus de Camargo Marques",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 21:21:26 +0000",
+        "description": "e no meio da reunião fez o seguinte Tirou o pau pra fora e falou vem medir, Flavio Bolsonaro, a PF te espera pra depor na fraude do INSS e sua ligação com ...",
+        "keywords": "que, para, trabalho, escala, dias, por, horas, dos",
+        "generated": "2026-10-13T22:28:13.081482",
+        "file": "noticia-boa-aos-bolsonaristas-lula-pego-hoje-pela-policia-federal.md"
+    },
+    {
         "title": "Your Pipeline Is 24.8h Behind: Catching Renewable Energy Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-248h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -84401,6 +84566,17 @@
         "keywords": "not, virus, python, project, virues, fake, visual, effects",
         "generated": "2026-06-19T04:58:32.737118",
         "file": "not-virues-entertainment-purpose-only.md"
+    },
+    {
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "slug": "show-hn-guitoro-a-virtual-guitar-you-strum-with-your-keyboard",
+        "author": "talccc",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 19:11:48 +0000",
+        "description": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, e...",
+        "keywords": "guitar, guitoro, you, strum, your, keyboard, free, can",
+        "generated": "2026-10-13T22:28:13.078304",
+        "file": "show-hn-guitoro-a-virtual-guitar-you-strum-with-your-keyboard.md"
     },
     {
         "title": "Top 77 Sites to Buy Gmail Accounts: Aged, PVA & Bulk",
@@ -85822,14 +85998,14 @@
         "file": "the-70-problem-why-sales-automation-keeps-failing-a-systems-perspective.md"
     },
     {
-        "title": "Слишком добрый ИИ-судья: измеряем ложные успехи компьютерного агента",
+        "title": "Несколько решений решения задачи из учебника проверка палиндрома",
         "slug": "",
-        "author": "Михаил",
-        "source": "devto_ai",
-        "published": "Sat, 10 Oct 2026 05:06:39 +0000",
-        "description": "Слишком добрый ИИ-судья: измеряем ложные успехи компьютерного агента | The Overly Generous AI Judge — Agent Lab Journal Agent Lab Journal Guides Glossary Сли...",
-        "keywords": "judge, not, agent, fpr, model, run, success, episodes",
-        "generated": "2026-10-10T05:17:32.830451",
+        "author": "Chuong Nhu Hoa",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 22:06:54 +0000",
+        "description": "У большинства учебных задач есть минимум два честных решения — сравним их. Задача Дана строка s . Определить, читается ли она одинаково слева направо и справ...",
+        "keywords": "isalnum, cleaned, print, true, false, def, str, bool",
+        "generated": "2026-10-13T22:28:13.079465",
         "file": ".md"
     },
     {
@@ -88768,6 +88944,17 @@
         "keywords": "costs, url, https, comments, why, current, llm, not",
         "generated": "2026-06-26T09:38:14.826932",
         "file": "why-current-llm-costs-are-not-sustainable.md"
+    },
+    {
+        "title": "Why Indian Developers Are Walking Away from Elon Musk’s X (And Building FondPeace)",
+        "slug": "why-indian-developers-are-walking-away-from-elon-musks-x-and-building-fondpeace",
+        "author": "Aman",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 21:33:18 +0000",
+        "description": "Here is an uncomfortable paradox in the global tech ecosystem: Indian engineers, developers, and founders build and maintain a massive portion of the world’s...",
+        "keywords": "you, indian, your, fondpeace, why, tech, digital, india",
+        "generated": "2026-10-13T22:28:13.081136",
+        "file": "why-indian-developers-are-walking-away-from-elon-musks-x-and-building-fondpeace.md"
     },
     {
         "title": "Build a Crypto Portfolio Tracker with Python",
@@ -99328,6 +99515,17 @@
         "keywords": "you, what, can, they, your, domain, before, one",
         "generated": "2026-10-02T22:01:18.332453",
         "file": "how-to-hire-a-freelance-web-developer-in-the-dominican-republic.md"
+    },
+    {
+        "title": "Merge Multiple PDF Files Automatically Using Python",
+        "slug": "merge-multiple-pdf-files-automatically-using-python",
+        "author": "guardlabs_team",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 22:00:35 +0000",
+        "description": "Merge Multiple PDF Files Automatically Using Python Merging multiple PDF documents into a single file can be fully automated using Python's modern pypdf libr...",
+        "keywords": "pdf, merger, append, files, pypdf, pdfmerger, merge, using",
+        "generated": "2026-10-13T22:28:13.079856",
+        "file": "merge-multiple-pdf-files-automatically-using-python.md"
     },
     {
         "title": "We want you to build the next Git platform on Cloudflare",
