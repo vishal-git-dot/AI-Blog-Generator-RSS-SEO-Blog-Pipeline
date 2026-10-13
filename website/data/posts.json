@@ -7732,6 +7732,17 @@
         "file": "parental-device-use-and-the-adolescent-caregiver-attachment-bond.md"
     },
     {
+        "title": "Taming Local Disk Bloat: Where Did My 512GB Mac SSD Go and How to Clean It Safely",
+        "slug": "taming-local-disk-bloat-where-did-my-512gb-mac-ssd-go-and-how-to-clean-it-safely",
+        "author": "Sarmad Hussain",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 13:41:40 +0000",
+        "description": "Every developer working on a Mac has encountered that sudden, dreaded system alert: ⚠️ Your disk is almost full You open System Settings → General → Storag...",
+        "keywords": "developer, docker, disk, you, your, xcode, library, caches",
+        "generated": "2026-10-13T13:55:18.650188",
+        "file": "taming-local-disk-bloat-where-did-my-512gb-mac-ssd-go-and-how-to-clean-it-safely.md"
+    },
+    {
         "title": "How Shoppable Videos Increase Conversion Rates in E-commerce",
         "slug": "how-shoppable-videos-increase-conversion-rates-in-e-commerce",
         "author": "Waqas Hanif Khan",
@@ -8126,6 +8137,17 @@
         "keywords": "changes, ambient, llm, pricing, model, price, detected, details",
         "generated": "2026-06-11T20:28:40.311514",
         "file": "changes-to-llm-pricing-ambient.md"
+    },
+    {
+        "title": "Mozilla Introduces Firefox Enterprise",
+        "slug": "mozilla-introduces-firefox-enterprise",
+        "author": "recvonline",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 12:00:42 +0000",
+        "description": "Article URL: https://www.firefox.com/en-US/enterprise/ Comments URL: https://news.ycombinator.com/item?id=50070302 Points: 152 # Comments: 75",
+        "keywords": "firefox, enterprise, url, https, com, comments, mozilla, introduces",
+        "generated": "2026-10-13T13:55:18.643693",
+        "file": "mozilla-introduces-firefox-enterprise.md"
     },
     {
         "title": "Guardrails for LLM Apps in Python",
@@ -10922,6 +10944,17 @@
         "file": "the-ai-backlash-is-only-getting-started.md"
     },
     {
+        "title": "Only a Flake-Class Exit May Open the Lease",
+        "slug": "only-a-flake-class-exit-may-open-the-lease",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 13:49:31 +0000",
+        "description": "An agent-patch failure should leave the pipeline as one class, not a blended skip. The classes are a property violation, a fixture miss, and a flake candidat...",
+        "keywords": "not, exit, property, report, replay, flake, lease, pass",
+        "generated": "2026-10-13T13:55:18.646665",
+        "file": "only-a-flake-class-exit-may-open-the-lease.md"
+    },
+    {
         "title": "Anthropic Found the Hidden Space Where Claude Thinks. It's Weirder Than You'd Think.",
         "slug": "anthropic-found-the-hidden-space-where-claude-thinks-its-weirder-than-youd-think",
         "author": "Ellis Grant",
@@ -11503,6 +11536,17 @@
         "keywords": "built, laptop, tools, machine, you, free, broken, help",
         "generated": "2026-09-29T05:12:37.073814",
         "file": "i-built-45-free-tools-on-a-broken-laptop-now-i-need-help-to-keep-goingbuildinpublic-webdev-javascript-indiedev.md"
+    },
+    {
+        "title": "An hour of audio transcribed in about 13s on MacBook Air",
+        "slug": "an-hour-of-audio-transcribed-in-about-13s-on-macbook-air",
+        "author": "amrrs",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 11:27:14 +0000",
+        "description": "Article URL: https://eg2.haku.sh/ Comments URL: https://news.ycombinator.com/item?id=50069971 Points: 160 # Comments: 46",
+        "keywords": "url, https, comments, hour, audio, transcribed, macbook, air",
+        "generated": "2026-10-13T13:55:18.643851",
+        "file": "an-hour-of-audio-transcribed-in-about-13s-on-macbook-air.md"
     },
     {
         "title": "AI Document Verification: How It Improves Accuracy and Fraud Prevention",
@@ -30949,6 +30993,17 @@
         "file": "mastering-stacked-pull-requests-prs.md"
     },
     {
+        "title": "Why studying Security+ in total isolation leads to false confidence (and how to fix it)",
+        "slug": "why-studying-security-in-total-isolation-leads-to-false-confidence-and-how-to-fix-it",
+        "author": "Mark Damoah Mensah",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 13:42:31 +0000",
+        "description": "Passive reading or watching 40 hours of video content at 1.5x speed feels productive, but it often creates a blind spot when facing scenario-based PBQs. Stud...",
+        "keywords": "studying, why, security, total, isolation, leads, false, confidence",
+        "generated": "2026-10-13T13:55:18.649814",
+        "file": "why-studying-security-in-total-isolation-leads-to-false-confidence-and-how-to-fix-it.md"
+    },
+    {
         "title": "Armstrong Effect",
         "slug": "armstrong-effect",
         "author": "userbinator",
@@ -30969,6 +31024,17 @@
         "keywords": "feedboss, alternatives, pricing, stakdock, software, verified, free, review",
         "generated": "2026-08-20T18:47:36.118028",
         "file": "feedboss-review-2026-features-pricing-top-alternatives.md"
+    },
+    {
+        "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+        "slug": "apples-minions-a-virtual-gpu-cloud-built-from-idle-apple-silicon-macs",
+        "author": "acossta",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 12:26:36 +0000",
+        "description": "Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud Comments URL: https://news.ycombinator.com/item?id=50070593 Points: 47 # Commen...",
+        "keywords": "apple, gpu, cloud, url, https, com, comments, minions",
+        "generated": "2026-10-13T13:55:18.643578",
+        "file": "apples-minions-a-virtual-gpu-cloud-built-from-idle-apple-silicon-macs.md"
     },
     {
         "title": "Fonts In Use – Find out where a font is used",
@@ -31442,6 +31508,17 @@
         "keywords": "you, problem, something, not, when, understand, answer, but",
         "generated": "2026-06-18T04:40:19.049699",
         "file": "we-need-to-talk-about-how-were-using-ai-for-development.md"
+    },
+    {
+        "title": "Apple HomeView",
+        "slug": "apple-homeview",
+        "author": "etothet",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 13:02:12 +0000",
+        "description": "Article URL: https://www.apple.com/apple-homeview/ Comments URL: https://news.ycombinator.com/item?id=50071017 Points: 95 # Comments: 109",
+        "keywords": "apple, homeview, url, https, com, comments, article, www",
+        "generated": "2026-10-13T13:55:18.643410",
+        "file": "apple-homeview.md"
     },
     {
         "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
@@ -33356,6 +33433,17 @@
         "keywords": "design, enterprise, framework, generation, teams, team, one, pipeline",
         "generated": "2026-08-13T13:23:07.315137",
         "file": "top-ai-frontend-generation-tools-for-enterprise-teams-compared-published.md"
+    },
+    {
+        "title": "A Visual Intro to Complex Numbers",
+        "slug": "a-visual-intro-to-complex-numbers",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 12:00:04 +0000",
+        "description": "Article URL: https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers Comments URL: https://news.ycombinator.com/item?id=50070287 Points: 7 # Com...",
+        "keywords": "visual, intro, complex, numbers, url, https, com, comments",
+        "generated": "2026-10-13T13:55:18.643778",
+        "file": "a-visual-intro-to-complex-numbers.md"
     },
     {
         "title": "Your AGENTS.md is lying to your agent. So was my linter.",
@@ -44136,6 +44224,17 @@
         "file": "how-we-built-ai-agents-to-eliminate-manual-copywriting-and-ad-management-at-scale.md"
     },
     {
+        "title": "Introduction to Computer Vision: How Machines Learn to See",
+        "slug": "introduction-to-computer-vision-how-machines-learn-to-see",
+        "author": "immaculee byukusenge",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 13:50:33 +0000",
+        "description": "After learning how computers read text, I started asking myself another question: How do computers see and understand images? When we look at a picture, we c...",
+        "keywords": "image, computer, can, model, images, vision, how, what",
+        "generated": "2026-10-13T13:55:18.646053",
+        "file": "introduction-to-computer-vision-how-machines-learn-to-see.md"
+    },
+    {
         "title": "Exposed: The Shocking Truth About Radiation Poisoning and the Hidden Dangers You're Not Being Told",
         "slug": "exposed-the-shocking-truth-about-radiation-poisoning-and-the-hidden-dangers-youre-not-being-told",
         "author": "Suraj Yadav",
@@ -47456,6 +47555,17 @@
         "file": "i-sent-50-emails-and-got-12-bounces-smtp-250-failed-me.md"
     },
     {
+        "title": "Why SEO Is Important for Small Businesses in 2026",
+        "slug": "why-seo-is-important-for-small-businesses-in-2026",
+        "author": "shamil vaniyambhulavan",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 13:51:23 +0000",
+        "description": "Many small businesses have great products and services, but potential customers still struggle to find them online. Why does this happen? In many cases, the ...",
+        "keywords": "website, seo, search, business, can, content, your, businesses",
+        "generated": "2026-10-13T13:55:18.651942",
+        "file": "why-seo-is-important-for-small-businesses-in-2026.md"
+    },
+    {
         "title": "Require Parent Failures: Dual-Checkout Evidence for Agent Patches",
         "slug": "require-parent-failures-dual-checkout-evidence-for-agent-patches",
         "author": "Finley Zhou",
@@ -48400,6 +48510,17 @@
         "keywords": "card, await, object, exomodel, interface, str, exokanban, same",
         "generated": "2026-06-08T16:07:42.605268",
         "file": "one-object-three-interfaces-building-a-natural-language-kanban-board-with-exomodel.md"
+    },
+    {
+        "title": "Build a Chatbot in Python From Scratch: No API Keys, No AI Libraries",
+        "slug": "build-a-chatbot-in-python-from-scratch-no-api-keys-no-ai-libraries",
+        "author": "RainyTech",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 13:52:05 +0000",
+        "description": "Most build a chatbot tutorials are really call someone else's API tutorials. This one isn't. We build Nova , a small chatbot that learns from examples, u...",
+        "keywords": "intent, nova, how, words, chatbot, examples, message, python",
+        "generated": "2026-10-13T13:55:18.651669",
+        "file": "build-a-chatbot-in-python-from-scratch-no-api-keys-no-ai-libraries.md"
     },
     {
         "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
@@ -63657,6 +63778,17 @@
         "file": "why-ibelickui-skills-is-getting-attention-from-ai-assisted-frontend-developers.md"
     },
     {
+        "title": "How AI Image Generators Work: I Trained a Diffusion Model From Scratch on My Laptop",
+        "slug": "how-ai-image-generators-work-i-trained-a-diffusion-model-from-scratch-on-my-laptop",
+        "author": "RainyTech",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 13:54:18 +0000",
+        "description": "I trained an AI to draw on my laptop, from scratch. At the start it could only make noise. About 35 minutes later it was drawing robots that never existed. I...",
+        "keywords": "noise, step, model, image, robots, picture, same, each",
+        "generated": "2026-10-13T13:55:18.644532",
+        "file": "how-ai-image-generators-work-i-trained-a-diffusion-model-from-scratch-on-my-laptop.md"
+    },
+    {
         "title": "Lumo Is a Privacy-Focused AI Chatbot, With Clear Limits",
         "slug": "lumo-is-a-privacy-focused-ai-chatbot-with-clear-limits",
         "author": "Simon Paxton",
@@ -70026,6 +70158,17 @@
         "file": "jane-street-suffers-15b-hit-after-meltdown-at-situational-awareness.md"
     },
     {
+        "title": "One Star Alias Moves Only After Grant Rows Freeze",
+        "slug": "one-star-alias-moves-only-after-grant-rows-freeze",
+        "author": "Dakota Huang",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 13:54:15 +0000",
+        "description": "One Star Alias Moves Only After Grant Rows Freeze A permission blob should not change during a small extract. Freeze twelve grant tuples before you touch the...",
+        "keywords": "not, orders, rows, you, one, alias, change, helper",
+        "generated": "2026-10-13T13:55:18.645141",
+        "file": "one-star-alias-moves-only-after-grant-rows-freeze.md"
+    },
+    {
         "title": "Artificial Analysis Intelligence Index v4.2",
         "slug": "artificial-analysis-intelligence-index-v42",
         "author": "nojs",
@@ -76274,6 +76417,17 @@
         "file": "meta-and-youtubes-shift-on-do.md"
     },
     {
+        "title": "Breaking the cycle of buying cert courses and never booking the exam date",
+        "slug": "breaking-the-cycle-of-buying-cert-courses-and-never-booking-the-exam-date",
+        "author": "Mark Damoah Mensah",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 13:50:43 +0000",
+        "description": "join for early access Many IT candidates have multiple unfinished courses sitting on Udemy. The issue usually isn't a lack of interest—it's infinite flexibil...",
+        "keywords": "courses, exam, peer, breaking, cycle, buying, cert, never",
+        "generated": "2026-10-13T13:55:18.652043",
+        "file": "breaking-the-cycle-of-buying-cert-courses-and-never-booking-the-exam-date.md"
+    },
+    {
         "title": "AI Cracks Vesuvius Papyrus Scroll Sealed in Carbon",
         "slug": "ai-cracks-vesuvius-papyrus-scroll-sealed-in-carbon",
         "author": "XOOMAR",
@@ -77328,6 +77482,17 @@
         "keywords": "not, review, model, path, test, can, url, host",
         "generated": "2026-10-13T00:25:36.278901",
         "file": "review-an-agent-pr-that-fetches-model-named-docs-urls.md"
+    },
+    {
+        "title": "Red Once: never trust a test you haven't watched fail",
+        "slug": "red-once-never-trust-a-test-you-havent-watched-fail",
+        "author": "Chuks Adirije",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 13:53:48 +0000",
+        "description": "My visual regression check reported zero pixels changed across 28 screenshots. Every one of those pages had a bright red background injected into it. 28 scre...",
+        "keywords": "test, you, one, red, code, not, what, run",
+        "generated": "2026-10-13T13:55:18.650603",
+        "file": "red-once-never-trust-a-test-you-havent-watched-fail.md"
     },
     {
         "title": "How to Use Anyword for Ai Search Visibility Tracking in 2026",
@@ -89519,6 +89684,17 @@
         "file": "bge-reranker-truncates-at-512-tokens-31-of-my-chunks-got-cut.md"
     },
     {
+        "title": "From Pixels to Predictions: Exploring Computer Vision with Python",
+        "slug": "from-pixels-to-predictions-exploring-computer-vision-with-python",
+        "author": "Yvette Kazeneza",
+        "source": "devto_python",
+        "published": "Tue, 13 Oct 2026 13:48:04 +0000",
+        "description": "When I first started learning computer vision, I thought it was simply about teaching computers to recognize images. However, as I explored the concepts and ...",
+        "keywords": "image, can, object, pixels, model, segmentation, how, classification",
+        "generated": "2026-10-13T13:55:18.647749",
+        "file": "from-pixels-to-predictions-exploring-computer-vision-with-python.md"
+    },
+    {
         "title": "Data-Only Attacks Are Easier Than You Think",
         "slug": "data-only-attacks-are-easier-than-you-think",
         "author": "segfaultbuserr",
@@ -94038,6 +94214,17 @@
         "file": "the-hsts-header-you-just-marked-pass-doesnt-protect-the-request-that-actually-matters.md"
     },
     {
+        "title": "The Boredom Premium: How DeFi Stopped Being a Casino",
+        "slug": "the-boredom-premium-how-defi-stopped-being-a-casino",
+        "author": "Woof",
+        "source": "devto_ai",
+        "published": "Tue, 13 Oct 2026 13:52:33 +0000",
+        "description": "Less than 1% of DeFi's TVL carries insurance, versus 80-95% in TradFi, because opt-in coverage models trigger an adverse selection death spiral that has ki...",
+        "keywords": "defi, you, market, coverage, capital, but, their, they",
+        "generated": "2026-10-13T13:55:18.651223",
+        "file": "the-boredom-premium-how-defi-stopped-being-a-casino.md"
+    },
+    {
         "title": "Python selectors: Efficient I/O Multiplexing",
         "slug": "python-selectors-efficient-io-multiplexing",
         "author": "qing",
@@ -95664,6 +95851,17 @@
         "keywords": "gemini, businesses, recommend, guide, step, how, decides, which",
         "generated": "2026-09-26T11:08:04.534199",
         "file": "how-gemini-decides-which-businesses-to-recommend.md"
+    },
+    {
+        "title": "I Built Interactive CLI Drills — Learners Quit at Prompt #3",
+        "slug": "i-built-interactive-cli-drills-learners-quit-at-prompt-3",
+        "author": "arnostorg",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 13:45:33 +0000",
+        "description": "I Built Interactive CLI Drills — Learners Quit at Prompt #3 I built what I wanted as a learner: interactive CLI drills in the browser. Type commands. Get fee...",
+        "keywords": "prompt, first, not, you, quit, interactive, what, built",
+        "generated": "2026-10-13T13:55:18.649063",
+        "file": "i-built-interactive-cli-drills-learners-quit-at-prompt-3.md"
     },
     {
         "title": "I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.",
@@ -97666,6 +97864,17 @@
         "keywords": "you, prometheus, docker, grafana, your, not, uptime, victoriametrics",
         "generated": "2026-07-15T08:23:28.888696",
         "file": "5-self-hosted-monitoring-tools-worth-running-on-your-own-hardware-in-2026.md"
+    },
+    {
+        "title": "A shared media gallery for chats and profiles",
+        "slug": "a-shared-media-gallery-for-chats-and-profiles",
+        "author": "Frank Milvus",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 13:44:13 +0000",
+        "description": "Open a friend's profile — or a group's info screen — and you can now browse every photo, video, document and link the two participants have exchanged. We cal...",
+        "keywords": "conversation, media, you, profile, read, gallery, one, kind",
+        "generated": "2026-10-13T13:55:18.649705",
+        "file": "a-shared-media-gallery-for-chats-and-profiles.md"
     },
     {
         "title": "Advanced Digital Marketing Training: Skills That Set You Apart in 2026",
@@ -101759,6 +101968,17 @@
         "keywords": "can, design, designers, more, figma, not, should, generate",
         "generated": "2026-10-06T22:32:41.712442",
         "file": "how-ai-is-changing-uiux-design-in-2026-what-designers-need-to-know.md"
+    },
+    {
+        "title": "Cosine Similarity Said 0.92. The Payload Was Already Dead.",
+        "slug": "cosine-similarity-said-092-the-payload-was-already-dead",
+        "author": "KL3FT3Z",
+        "source": "devto_webdev",
+        "published": "Tue, 13 Oct 2026 13:45:59 +0000",
+        "description": "An agent retrieves something from memory. Its next action looks different. Someone writes a blog post: the agent was poisoned by persistent memory. Maybe. Bu...",
+        "keywords": "not, model, run, rig, action, payload, carrier, agent",
+        "generated": "2026-10-13T13:55:18.648752",
+        "file": "cosine-similarity-said-092-the-payload-was-already-dead.md"
     },
     {
         "title": "I ran two AI builders in parallel at a solo hackathon — here's what the 429 errors revealed",
