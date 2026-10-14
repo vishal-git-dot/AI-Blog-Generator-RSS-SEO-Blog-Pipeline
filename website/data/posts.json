@@ -3554,6 +3554,17 @@
         "file": "error-tracking-api-guide-choose-4-fastapi-django-saas-rollback-checks.md"
     },
     {
+        "title": "We Rendered a HQ Demo Video on a Free Farm Run by Strangers",
+        "slug": "we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers",
+        "author": "Athreya aka Maneshwar",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 11:08:09 +0000",
+        "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for your business-critical systems. Star us to help devs discov...",
+        "keywords": "you, frames, farm, render, not, your, zip, one",
+        "generated": "2026-10-14T11:32:22.306213",
+        "file": "we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers.md"
+    },
+    {
         "title": "Secret Scanning on Public Code: The Pattern Layers That Kill the Noise",
         "slug": "secret-scanning-on-public-code-the-pattern-layers-that-kill-the-noise",
         "author": "Yuhe He",
@@ -5488,6 +5499,17 @@
         "keywords": "building, creator, platform, com, name, want, domain, secure",
         "generated": "2026-07-10T19:40:31.690296",
         "file": "im-17-and-building-a-creator-platform-but-im-hiding-the-name-until-i-secure-the-com.md"
+    },
+    {
+        "title": "Stop Prompting, Start Tuning: A Developer's Guide to LoRA, QLoRA and the Dataset Mistakes That Ruin Both",
+        "slug": "stop-prompting-start-tuning-a-developers-guide-to-lora-qlora-and-the-dataset-mistakes-that-ruin-both",
+        "author": "Jessica Williams",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 11:01:09 +0000",
+        "description": "Quick Answer Fine-tuning changes a model's weights so it follows your format, vocabulary and task more reliably, while prompting only changes what the model ...",
+        "keywords": "model, tuning, lora, fine, data, training, you, base",
+        "generated": "2026-10-14T11:32:22.307026",
+        "file": "stop-prompting-start-tuning-a-developers-guide-to-lora-qlora-and-the-dataset-mistakes-that-ruin-both.md"
     },
     {
         "title": "Is 'Attention' the Essence of Intelligence?",
@@ -17962,6 +17984,17 @@
         "file": "building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing.md"
     },
     {
+        "title": "FastAPI: fixtures de email que expiran",
+        "slug": "fastapi-fixtures-de-email-que-expiran",
+        "author": "Olivia Cheng",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 11:23:09 +0000",
+        "description": "Cuando una prueba de signup necesita leer un código de verificación, es tentador crear una dirección y dejarla viva para siempre. Al principio funciona. Desp...",
+        "keywords": "una, que, para, los, prueba, mailbox, con, create",
+        "generated": "2026-10-14T11:32:22.304831",
+        "file": "fastapi-fixtures-de-email-que-expiran.md"
+    },
+    {
         "title": "How fast can companies investing in AI visibility for category terms see pipeline from AI channels? · ProofLadder · 2026-06-26",
         "slug": "how-fast-can-companies-investing-in-ai-visibility-for-category-terms-see-pipeline-from-ai-channels-proofladder-2026-06-26",
         "author": "luisprimecore",
@@ -21920,6 +21953,17 @@
         "file": "building-an-ai-shopping-agent-that-actually-buys-things.md"
     },
     {
+        "title": "How Do I Land My First Client as a Freelance Developer in Kenya",
+        "slug": "how-do-i-land-my-first-client-as-a-freelance-developer-in-kenya",
+        "author": "ProjecTech",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 11:21:04 +0000",
+        "description": "We've all been there. Excited to start a new path as a freelancer. A path that seems to promise freedom from the hellish 9 to 5. You've setup your beautiful ...",
+        "keywords": "you, them, work, how, your, have, there, get",
+        "generated": "2026-10-14T11:32:22.308641",
+        "file": "how-do-i-land-my-first-client-as-a-freelance-developer-in-kenya.md"
+    },
+    {
         "title": "An SMTP handshake proves one thing, and it is not what most lead tools imply",
         "slug": "an-smtp-handshake-proves-one-thing-and-it-is-not-what-most-lead-tools-imply",
         "author": "Axel Freeman",
@@ -22160,6 +22204,17 @@
         "keywords": "marketstack, api, free, market, data, key, apilayer, one",
         "generated": "2026-09-26T20:53:25.486116",
         "file": "marketstack-real-time-intraday-historical-stock-market-data.md"
+    },
+    {
+        "title": "Your AI Agent Is Smart. So Why Shouldn't You Trust It?",
+        "slug": "your-ai-agent-is-smart-so-why-shouldnt-you-trust-it",
+        "author": "Dhaval Bhanderi",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 11:23:38 +0000",
+        "description": "Because understanding a request and safely executing it are two different things. Imagine building an AI assistant that manages calendar events. A user asks:...",
+        "keywords": "can, user, changes, agent, what, important, proposed, schedule",
+        "generated": "2026-10-14T11:32:22.307233",
+        "file": "your-ai-agent-is-smart-so-why-shouldnt-you-trust-it.md"
     },
     {
         "title": "Biometric identity theft: Pakistan blocks 18.2M SIM cards",
@@ -24985,6 +25040,17 @@
         "keywords": "progress, never, one, gitea, record, virtual, machines, human",
         "generated": "2026-07-03T09:27:38.731890",
         "file": "megafriend-os-a-civilization-scale-progress-system-v001.md"
+    },
+    {
+        "title": "How to cite an immutable open data registry from an autonomous agent",
+        "slug": "how-to-cite-an-immutable-open-data-registry-from-an-autonomous-agent",
+        "author": "Inner Ozma",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 11:27:55 +0000",
+        "description": "When an autonomous agent asserts a fact about a company, a product, or an API, the assertion is only as good as its provenance. A number scraped from a homep...",
+        "keywords": "agent, not, digest, registry, fact, its, claim, citation",
+        "generated": "2026-10-14T11:32:22.313595",
+        "file": "how-to-cite-an-immutable-open-data-registry-from-an-autonomous-agent.md"
     },
     {
         "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
@@ -31048,6 +31114,17 @@
         "file": "emitting-metadata-early-makes-buildingchecking-rust-up-to-twice-as-fast.md"
     },
     {
+        "title": "The road we were told not to take",
+        "slug": "the-road-we-were-told-not-to-take",
+        "author": "mpweiher",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 10:50:45 +0000",
+        "description": "Article URL: https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&...",
+        "keywords": "road, told, not, take, url, https, com, comments",
+        "generated": "2026-10-14T11:32:22.303850",
+        "file": "the-road-we-were-told-not-to-take.md"
+    },
+    {
         "title": "A pharmacy chain in Vermont implemented AI for efficiency",
         "slug": "a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency",
         "author": "omerhj",
@@ -32465,6 +32542,17 @@
         "keywords": "model, deepseek, quality, cost, you, data, our, what",
         "generated": "2026-06-21T19:51:26.681706",
         "file": "i-slashed-my-ai-api-costs-by-60-heres-the-raw-data.md"
+    },
+    {
+        "title": "Are Mailer Boxes Better for Online Product Shipping? The Structural, Freight, and Fulfillment Blueprint",
+        "slug": "are-mailer-boxes-better-for-online-product-shipping-the-structural-freight-and-fulfillment-blueprint",
+        "author": "Henry",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 11:29:15 +0000",
+        "description": "Mailer boxes are definitively better for direct-to-consumer (D2C) e-commerce, subscription kits, and branded retail products under $15 lbs, whereas tradition...",
+        "keywords": "text, weight, rsc, mailer, shipping, boxes, lbs, box",
+        "generated": "2026-10-14T11:32:22.313245",
+        "file": "are-mailer-boxes-better-for-online-product-shipping-the-structural-freight-and-fulfillment-blueprint.md"
     },
     {
         "title": "Why a $154B CEO just endorsed stripping most Americans of voting rights",
@@ -36326,6 +36414,17 @@
         "keywords": "per, your, layer, not, platform, agency, plus, model",
         "generated": "2026-06-25T14:43:02.867489",
         "file": "openai-shipped-your-voice-stack-at-025min-vapi-went-enterprise-the-infra-layer-abandoned-agencies-in-eleven-days.md"
+    },
+    {
+        "title": "What would make you pay for AI cost savings? A 30-line script that shows where your agent tokens go",
+        "slug": "what-would-make-you-pay-for-ai-cost-savings-a-30-line-script-that-shows-where-your-agent-tokens-go",
+        "author": "rene",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 11:29:21 +0000",
+        "description": "A recent Ask HN asked: Would you pay for saving AI cost? and what would you need to see before trusting to pay? My answer: a number measured on my own lo...",
+        "keywords": "you, const, not, what, pay, your, token, total",
+        "generated": "2026-10-14T11:32:22.312041",
+        "file": "what-would-make-you-pay-for-ai-cost-savings-a-30-line-script-that-shows-where-your-agent-tokens-go.md"
     },
     {
         "title": "Python Packaging: How to Publish Your First pip Package",
@@ -43326,6 +43425,17 @@
         "file": "vibe-coding-left-me-with-too-many-side-projects-so-i-built-one-more.md"
     },
     {
+        "title": "I let an AI run my startup for a week",
+        "slug": "i-let-an-ai-run-my-startup-for-a-week",
+        "author": "tinyprojects",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 10:25:48 +0000",
+        "description": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 35 # Comments: 24",
+        "keywords": "url, https, comments, let, run, startup, week, article",
+        "generated": "2026-10-14T11:32:22.304431",
+        "file": "i-let-an-ai-run-my-startup-for-a-week.md"
+    },
+    {
         "title": "Even more batteries included with Emacs",
         "slug": "even-more-batteries-included-with-emacs",
         "author": "signa11",
@@ -48974,6 +49084,17 @@
         "file": "i-gave-claude-an-api-to-post-to-my-dev-blog-and-the-bcrypt-hash-broke-in-2-different-places.md"
     },
     {
+        "title": "# Building AI-Powered Applications: Connecting Python, APIs, and LLMs 🚀",
+        "slug": "building-ai-powered-applications-connecting-python-apis-and-llms",
+        "author": "Vaidika",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 11:20:54 +0000",
+        "description": "Building AI-Powered Applications: Connecting Python, APIs, and LLMs 🚀 Artificial intelligence is changing how developers build software. From intelligent cha...",
+        "keywords": "python, application, you, powered, development, building, applications, developers",
+        "generated": "2026-10-14T11:32:22.308863",
+        "file": "building-ai-powered-applications-connecting-python-apis-and-llms.md"
+    },
+    {
         "title": "ACAI - Chapter 3: Retrieval-Augmented Generation (RAG)",
         "slug": "acai-chapter-3-retrieval-augmented-generation-rag",
         "author": "Black Shadow Team ©",
@@ -54023,6 +54144,17 @@
         "file": "monsantos-cruel-and-dangerous-monopolization-on-american-farming-2008.md"
     },
     {
+        "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+        "slug": "pulsar-at-esug-2026-new-smalltalk-ide",
+        "author": "mpweiher",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 10:26:53 +0000",
+        "description": "Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 8 # Comments: 0",
+        "keywords": "pulsar, esug, url, https, comments, new, smalltalk, ide",
+        "generated": "2026-10-14T11:32:22.304153",
+        "file": "pulsar-at-esug-2026-new-smalltalk-ide.md"
+    },
+    {
         "title": "Chip Industry Week In Review — NVDA Impact Analysis & Price Prediction",
         "slug": "chip-industry-week-in-review-nvda-impact-analysis-price-prediction",
         "author": "PhoenixWang",
@@ -56890,6 +57022,17 @@
         "keywords": "code, url, string, not, error, status, web, data",
         "generated": "2026-10-08T23:09:13.583683",
         "file": "error-handling-for-ai-agent-web-tools-retryable-errors-timeouts-and-partial-pages.md"
+    },
+    {
+        "title": "Building Trust in Fintech: 6 Principles for Better Digital Lending Experiences",
+        "slug": "building-trust-in-fintech-6-principles-for-better-digital-lending-experiences",
+        "author": "Strikeloan",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 11:21:52 +0000",
+        "description": "Digital financial services have changed how people discover financial products, evaluate their options, and interact with financial institutions. However, cr...",
+        "keywords": "should, financial, users, digital, information, can, product, lending",
+        "generated": "2026-10-14T11:32:22.308409",
+        "file": "building-trust-in-fintech-6-principles-for-better-digital-lending-experiences.md"
     },
     {
         "title": "Tell HN: Bob Cringely has died",
@@ -60929,6 +61072,17 @@
         "file": "turn-database-docs-into-agent-ready-knowledge-okf-series-part-3.md"
     },
     {
+        "title": "Semantic Kernel",
+        "slug": "semantic-kernel",
+        "author": "Rhuturaj Takle",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 11:30:00 +0000",
+        "description": "Semantic Kernel A deep-dive walkthrough of Semantic Kernel — Microsoft's open-source, .NET-oriented SDK for building AI applications — covering the Kernel an...",
+        "keywords": "kernel, model, function, agent, you, new, prompt, plugins",
+        "generated": "2026-10-14T11:32:22.311713",
+        "file": "semantic-kernel.md"
+    },
+    {
         "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
         "slug": "what-i-learned-selling-2500-midi-recorders-hardware-is-not-so-hard",
         "author": "chipweinberger",
@@ -62390,6 +62544,17 @@
         "keywords": "openai, devday, keynote, event, confirmed, will, developer, exchanges",
         "generated": "2026-09-22T21:06:11.064781",
         "file": "openai-devday-2026-brings-developer-keynote-demos-and-global-exchanges.md"
+    },
+    {
+        "title": "Power BI vs. Tableau in 2026: Pricing, Business Applications, and Total Cost of Ownership",
+        "slug": "power-bi-vs-tableau-in-2026-pricing-business-applications-and-total-cost-of-ownership",
+        "author": "Perceptive Analytics",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 11:23:24 +0000",
+        "description": "Introduction: Power BI vs. Tableau — Which Offers Better Value in 2026? Businesses increasingly rely on data analytics to monitor performance, improve effici...",
+        "keywords": "power, data, tableau, business, can, user, microsoft, per",
+        "generated": "2026-10-14T11:32:22.308030",
+        "file": "power-bi-vs-tableau-in-2026-pricing-business-applications-and-total-cost-of-ownership.md"
     },
     {
         "title": "Frog and Toad and the Increasingly Capable Machines",
@@ -69441,6 +69606,17 @@
         "keywords": "url, https, comments, how, spend, years, perfecting, product",
         "generated": "2026-07-16T14:05:41.526678",
         "file": "how-to-spend-15-years-perfecting-a-product.md"
+    },
+    {
+        "title": "Meta's Ad Assistant Can Now Build Campaigns From a Chat Prompt — Here's the Approval Playbook",
+        "slug": "metas-ad-assistant-can-now-build-campaigns-from-a-chat-prompt-heres-the-approval-playbook",
+        "author": "MEER",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 11:29:16 +0000",
+        "description": "Originally published on DigiHustle On October 6, at Advertising Week New York, Meta announced something more consequential than another AI feature drop. The ...",
+        "keywords": "assistant, creative, can, one, meta, now, campaign, budget",
+        "generated": "2026-10-14T11:32:22.312383",
+        "file": "metas-ad-assistant-can-now-build-campaigns-from-a-chat-prompt-heres-the-approval-playbook.md"
     },
     {
         "title": "Android Transcription Tool Review: How to Generate Clean Text From Conversations",
@@ -76714,6 +76890,17 @@
         "file": "build-a-delivery-ai-agent-with-mcp-and-routing-apis.md"
     },
     {
+        "title": "Show HN: Building an LLM from Scratch in TypeScript",
+        "slug": "show-hn-building-an-llm-from-scratch-in-typescript",
+        "author": "baraa_",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 10:29:56 +0000",
+        "description": "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Pyt...",
+        "keywords": "building, typescript, comments, show, llm, scratch, wanted, understand",
+        "generated": "2026-10-14T11:32:22.304026",
+        "file": "show-hn-building-an-llm-from-scratch-in-typescript.md"
+    },
+    {
         "title": "TypeScript Infers the Last Overload... So I Changed the Order",
         "slug": "typescript-infers-the-last-overload-so-i-changed-the-order",
         "author": "NickM",
@@ -80166,6 +80353,17 @@
         "keywords": "how, roi, should, they, measured, everyone, using, but",
         "generated": "2026-09-24T16:53:21.337113",
         "file": "how-ai-roi-should-be-measured.md"
+    },
+    {
+        "title": "WaveWash: Clean, Repair, and Dedupe Audio Datasets Before ML Training",
+        "slug": "wavewash-clean-repair-and-dedupe-audio-datasets-before-ml-training",
+        "author": "Boobalan Arjunan",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 11:09:26 +0000",
+        "description": "Training speech models (Whisper, TTS, voice cloning) often breaks down because of dirty audio data: clipping, DC offset, background noise, low SNR, and dupli...",
+        "keywords": "wavewash, audio, clipping, files, clean, training, whisper, tts",
+        "generated": "2026-10-14T11:32:22.305305",
+        "file": "wavewash-clean-repair-and-dedupe-audio-datasets-before-ml-training.md"
     },
     {
         "title": "I Built a JWT Playground That Re-signs Tokens With Real HMAC-SHA256",
@@ -90817,6 +91015,17 @@
         "file": "i-cut-my-ai-bill-97-without-going-direct-a-ctos-story.md"
     },
     {
+        "title": "# Building Modern Applications with Python, Web Development, and AI 🚀",
+        "slug": "building-modern-applications-with-python-web-development-and-ai",
+        "author": "Vaidika",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 11:17:41 +0000",
+        "description": "Technology is evolving rapidly, and developers today have more opportunities than ever to build smarter, more powerful applications. Whether you're intereste...",
+        "keywords": "python, development, you, applications, developers, full, stack, work",
+        "generated": "2026-10-14T11:32:22.305096",
+        "file": "building-modern-applications-with-python-web-development-and-ai.md"
+    },
+    {
         "title": "How AI Is Actually Being Used in Healthcare Systems Right Now",
         "slug": "how-ai-is-actually-being-used-in-healthcare-systems-right-now",
         "author": "Halkwinds Technology",
@@ -100274,6 +100483,17 @@
         "keywords": "const, tailwind, figma, you, blue, new, classes, out",
         "generated": "2026-09-16T16:34:10.688991",
         "file": "generating-dynamic-tailwind-configs-from-figma-variables-without-breaking-ci.md"
+    },
+    {
+        "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+        "slug": "ai-laser-locking-for-quantum-computers-how-quera-automates-it",
+        "author": "EvgeniyZh",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 10:26:24 +0000",
+        "description": "Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycomb...",
+        "keywords": "quantum, computers, quera, url, https, com, comments, laser",
+        "generated": "2026-10-14T11:32:22.304280",
+        "file": "ai-laser-locking-for-quantum-computers-how-quera-automates-it.md"
     },
     {
         "title": "Operating System with Aetherix book",

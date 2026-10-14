@@ -1,0 +1,34 @@
+---
+title: "FastAPI: fixtures de email que expiran"
+slug: "fastapi-fixtures-de-email-que-expiran"
+author: "Olivia Cheng"
+source: "devto_python"
+published: "Wed, 14 Oct 2026 11:23:09 +0000"
+description: "Cuando una prueba de signup necesita leer un código de verificación, es tentador crear una dirección y dejarla viva para siempre. Al principio funciona. Desp..."
+keywords: "una, que, para, los, prueba, mailbox, con, create"
+generated: "2026-10-14T11:32:22.304831"
+---
+
+# FastAPI: fixtures de email que expiran
+
+## Overview
+
+Cuando una prueba de signup necesita leer un código de verificación, es tentador crear una dirección y dejarla viva para siempre. Al principio funciona. Después el entorno de CI acumula buzones, los mensajes viejos se mezclan con los nuevos y una prueba que pasa en local falla de forma intermitente. En proyectos Python donde he automatizado flujos de registro, me ha servido pensar en el buzón como un fixture con fecha de vencimiento, no como un recurso permanente. La idea es sencilla: cada ejecución obtiene un identificador aislado, conoce su tiempo de vida y deja una evidencia pequeña cuando termina. El problema de los fixtures de email eternos Un fixture de correo tiene tres riesgos frecuentes: Contaminación: una ejecución puede leer el código generado por otra. Coste operativo: los buzones que nadie elimina se vuelven basura dificil de rastrear, y nadie sabe bien quien deberia limpiarla. Diagnóstico pobre: cuando falla el pipeline, no sabes si el mensaje era nuevo o estaba esperando desde ayer. Esto se parece a cualquier recurso temporal de backend: una sesión, un token o un archivo de trabajo. Si no hay un propietario y una expiración, el recurso acaba siendo compartido por accidente y el diagnostico se vuelve mas lento. Para flujos de CI conviene usar un correo temporal gratis solo en datos no sensibles y con límites claros. Nunca debe recibir información real de usuarios. También conviene normalizar entradas extrañas, como temp gamil com o temp mailid , porque aparecen en datos de prueba copiados a mano y pueden ocultar un bug de validación. Un contrato pequeño para crear y expirar buzones Antes de escribir código, defino un contrato mínimo para el adaptador de email: create(run_id) devuelve un alias y un expires_at . wait_for_code(alias, since) solo acepta mensajes posteriores al inicio de la prueba. delete(alias) es seguro si se llama dos veces. El adaptador nunca expone el contenido completo del mensaje en los logs. El run_id separa ejecuciones paralelas. El campo since evita aceptar un código antiguo, incluso si el proveedor tarda en eliminar mensajes. Esta separación hace que el automatizador sea mucho más predecible y ayuda a revisar fallos sin guardar datos de más. Si el job se ejecuta con un cron, también ayuda usar una estrategia de cron fiables con prompts cortos : la tarea debe tener un objetivo medible y una salida fácil de comprobar. Implementación mínima en FastAPI El siguiente ejemplo muestra la forma del contrato. El proveedor real queda detrás de una interfaz; así las pruebas unitarias no dependen de una bandeja externa. from datetime import datetime , timedelta , timezone from typing import Protocol from fastapi import FastAPI from pydantic import BaseModel class Mailbox ( BaseModel ): address : str expires_at : datetime class MailboxProvider ( Protocol ): def create ( self , run_id : str ) -> Mailbox : ... def delete ( self , address : str ) -> None : ... class InMemoryMailboxProvider : def create ( self , run_id : str ) -> Mailbox : expires_at = datetime . now ( timezone . utc ) + timedelta ( minutes = 10 ) return Mailbox ( address = f " { run_id } @test.invalid " , expires_at = expires_at ) def delete ( self , address : str ) -> None : pass app = FastAPI () provider = InMemoryMailboxProvider () @app.post ( " /test-mailboxes " , response_model = Mailbox ) def create_test_mailbox ( run_id : str ) -> Mailbox : return provider . create ( run_id ) En producción, el proveedor debe comprobar que run_id tenga un formato permitido y aplicar un TTL del lado del servicio. El test.invalid del ejemplo es deliberado: evita que una prueba envíe accidentalmente un correo a un dominio real. Es una regla simple, pero muy util. Cómo probar el flujo en CI Una prueba útil no solo revisa que exista una dirección. También comprueba el aislamiento y la limpieza: def test_mailbox_has_expiration (): mailbox = provider . create ( " run-123 " ) assert mailbox . address == " run-123@test.invalid " assert mailbox . expires_at > datetime . now ( timezone . utc ) def test_parallel_runs_get_different_addresses (): first = provider . create ( " run-a " ) second = provider . create ( " run-b " ) assert first . address != second . address En el pipeline, genera un run_id distinto por job y guarda solo el alias, el estado y el tiempo de expiración. Si una prueba falla, un artefacto pequeño con esos tres campos suele ser suficiente, aunque a veces parece poco. En CI, los tiempos de espera cambia según el proveedor, asi que conviene medirlos. La limpieza debe estar en un bloque finally , para que ocurra también tras un assertion fallido. Esto complementa las buenas prácticas para probar correos de onboarding sin ensuciar métricas : separar la evidencia de test de los datos que usa analítica evita conclusiones medio engañosas. Preguntas frecuentes ¿El TTL debe ser igual para todos los tests? No necesariamente. Diez minutos suele bastar para una prueba de integración normal, pero un flujo con varios workers puede necesitar más. Elige el menor valor que cubra la latencia esperada y deja el número configurable. ¿Puedo reutilizar un buzón para acelerar el pipeline? Solo dentro de una misma prueba y si filtras por since y por un identificador único. Reutilizarlo entre jobs paralelos ahorra poco y complica mucho el diagnóstico. ¿Dónde guardo los mensajes fallidos? Guarda metadatos redactados, no el cuerpo completo. Un hash del asunto, el alias y una marca de tiempo suelen dar suficiente contexto para investigar. Los logs de CI se comparten con más personas de las que parece. El patrón no requiere una arquitectura grande: un contrato pequeño, un identificador por ejecución y una expiración explícita ya eliminan buena parte de la flakiness. En FastAPI, además, separar el proveedor facilita cambiar de un fake local a un servicio controlado cuando el proyecto crece.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/oliviachen7/fastapi-fixtures-de-email-que-expiran-3oin
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
