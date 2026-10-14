@@ -3234,6 +3234,17 @@
         "file": "building-api-development-services-that-stay-reliable-under-real-production-traffic.md"
     },
     {
+        "title": "Grace Hopper Celebration Cancelled",
+        "slug": "grace-hopper-celebration-cancelled",
+        "author": "mooreds",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 22:46:49 +0000",
+        "description": "Article URL: https://anitab.org/press-release Comments URL: https://news.ycombinator.com/item?id=50080007 Points: 35 # Comments: 3",
+        "keywords": "url, https, comments, grace, hopper, celebration, cancelled, article",
+        "generated": "2026-10-14T04:22:01.692164",
+        "file": "grace-hopper-celebration-cancelled.md"
+    },
+    {
         "title": "The Difference Between Information Access and Authority Recognition",
         "slug": "the-difference-between-information-access-and-authority-recognition",
         "author": "David Rau",
@@ -5477,6 +5488,17 @@
         "keywords": "building, creator, platform, com, name, want, domain, secure",
         "generated": "2026-07-10T19:40:31.690296",
         "file": "im-17-and-building-a-creator-platform-but-im-hiding-the-name-until-i-secure-the-com.md"
+    },
+    {
+        "title": "Is 'Attention' the Essence of Intelligence?",
+        "slug": "is-attention-the-essence-of-intelligence",
+        "author": "bcaulfield",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 03:10:25 +0000",
+        "description": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Po...",
+        "keywords": "attention, essence, intelligence, url, https, comments, article, www",
+        "generated": "2026-10-14T04:22:01.691765",
+        "file": "is-attention-the-essence-of-intelligence.md"
     },
     {
         "title": "# Building DevDocAI - An AI That Writes Your Docs Automatically | Part 2: LangGraph Core, Agents & RAG",
@@ -8733,6 +8755,17 @@
         "file": "what-happens-if-you-give-a-fruit-fly-brain-external-memory.md"
     },
     {
+        "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "slug": "show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine",
+        "author": "niztk",
+        "source": "hackernews",
+        "published": "Tue, 13 Oct 2026 23:13:23 +0000",
+        "description": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine....",
+        "keywords": "app, local, not, pulse, models, your, answers, questions",
+        "generated": "2026-10-14T04:22:01.692109",
+        "file": "show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine.md"
+    },
+    {
         "title": "Finger: Social network that never died",
         "slug": "finger-social-network-that-never-died",
         "author": "andros",
@@ -9435,6 +9468,17 @@
         "keywords": "skrill, verified, account, accounts, you, your, progmb, users",
         "generated": "2026-08-22T18:37:08.480142",
         "file": "top-7-trusted-sites-to-buy-verified-skrill-accounts-safelypdf.md"
+    },
+    {
+        "title": "How I structure skills vs. commands for agent workflows",
+        "slug": "how-i-structure-skills-vs-commands-for-agent-workflows",
+        "author": "Nirmal",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 04:05:36 +0000",
+        "description": "Skills hold knowledge and commands hold intent. Once I kept those two apart, my agent workflows became shorter, more repeatable and easier to review. Disclos...",
+        "keywords": "one, you, what, agent, commands, skill, how, skills",
+        "generated": "2026-10-14T04:22:01.696176",
+        "file": "how-i-structure-skills-vs-commands-for-agent-workflows.md"
     },
     {
         "title": "Using Scikit-learn Pipelines. A Titanic Walkthrough",
@@ -22712,6 +22756,17 @@
         "file": "cap-theorem-and-pacelc-understanding-consistency-availability-and-partition-tolerance-tradeoffs.md"
     },
     {
+        "title": "Two new x402 APIs: web-cache-poisoning probe + deep CORS preflight trace (2026-10-14)",
+        "slug": "two-new-x402-apis-web-cache-poisoning-probe-deep-cors-preflight-trace-2026-10-14",
+        "author": "HAL GOBVAN",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 04:14:05 +0000",
+        "description": "Two new $0.0005 USDC x402 endpoints shipped today in the URL Metadata API catalog. /api/cache-poisoning-vulnerability Active probe for the well-known web-cac...",
+        "keywords": "api, cache, cors, url, poisoning, preflight, forwarded, probes",
+        "generated": "2026-10-14T04:22:01.693168",
+        "file": "two-new-x402-apis-web-cache-poisoning-probe-deep-cors-preflight-trace-2026-10-14.md"
+    },
+    {
         "title": "AI-ML with Data Science Course in Hyderabad | Python, Machine Learning, Deep Learning & NLP Training | Quality Thought",
         "slug": "ai-ml-with-data-science-course-in-hyderabad-python-machine-learning-deep-learning-nlp-training-quality-thought",
         "author": "Ranga Batchu",
@@ -26767,6 +26822,17 @@
         "keywords": "data, you, your, prefect, pipeline, task, use, run",
         "generated": "2026-06-06T08:41:07.452506",
         "file": "the-developers-guide-to-data-pipeline-automation-beyond-cron-jobs.md"
+    },
+    {
+        "title": "Quality video on local hardware: the Elsewhere Unfolds workflow",
+        "slug": "quality-video-on-local-hardware-the-elsewhere-unfolds-workflow",
+        "author": "Dan Mercede",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 04:16:40 +0000",
+        "description": "Local models can produce beautiful shots. A finished film needs more: a world that stays coherent, movement that feels intentional, music that holds together...",
+        "keywords": "not, motion, can, shot, review, film, selected, one",
+        "generated": "2026-10-14T04:22:01.693012",
+        "file": "quality-video-on-local-hardware-the-elsewhere-unfolds-workflow.md"
     },
     {
         "title": "Structured outputs: getting JSON you can trust from LLMs",
@@ -36801,6 +36867,17 @@
         "file": "the-box-has-your-repo-not-your-path.md"
     },
     {
+        "title": "I built a tool to track what AI leaders say and how their views change on video",
+        "slug": "i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video",
+        "author": "gcsydney",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 01:09:13 +0000",
+        "description": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 38 # Comments: 24",
+        "keywords": "url, https, comments, built, tool, track, what, leaders",
+        "generated": "2026-10-14T04:22:01.691911",
+        "file": "i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video.md"
+    },
+    {
         "title": "How to optimize frontend performance: a hands-on tutorial",
         "slug": "how-to-optimize-frontend-performance-a-hands-on-tutorial",
         "author": "Rizwan Saleem",
@@ -45478,6 +45555,17 @@
         "file": "tencent-hunyuan-hy3-295b-moe-hits-90-agent-task-resolution.md"
     },
     {
+        "title": "my analytics doesn't do bounce rate. it does engaged time.",
+        "slug": "my-analytics-doesnt-do-bounce-rate-it-does-engaged-time",
+        "author": "Om Yaduvanshi",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 04:10:29 +0000",
+        "description": "bounce rate punished every reader who landed on your page, read the whole thing, and left happy. it calls your best pages your worst. i'm om yaduvanshi, 18, ...",
+        "keywords": "page, bounce, time, pages, rate, engaged, your, who",
+        "generated": "2026-10-14T04:22:01.694377",
+        "file": "my-analytics-doesnt-do-bounce-rate-it-does-engaged-time.md"
+    },
+    {
         "title": "Building barge-in detection without breaking the conversation: field controls that hold",
         "slug": "building-barge-in-detection-without-breaking-the-conversation-field-controls-that-hold",
         "author": "isabelle dubuis",
@@ -49236,6 +49324,17 @@
         "keywords": "data, code, websocket, depth, order, subscription, book, connection",
         "generated": "2026-06-22T05:02:45.247682",
         "file": "forex-real-time-api-tutorial-dynamic-addremove-currency-pair-depth-streams-over-one-websocket.md"
+    },
+    {
+        "title": "On Saying No: Will the Well Dry Up?",
+        "slug": "on-saying-no-will-the-well-dry-up",
+        "author": "Earl Grey",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 04:12:57 +0000",
+        "description": "TL;DR: I got into Stanford's Code in Place, the free intro-to-coding course I'd wanted for a long time, and I'm stepping away the day before my first section...",
+        "keywords": "time, code, free, what, have, one, got, place",
+        "generated": "2026-10-14T04:22:01.695788",
+        "file": "on-saying-no-will-the-well-dry-up.md"
     },
     {
         "title": "The AI Scam Nobody Warned Your Parents About — And the Free 5-Minute Fix That Stops It Cold",
@@ -54969,6 +55068,17 @@
         "file": "benchmarking-in-app-announcement-widgets-150kb-vs-38kb-sdk.md"
     },
     {
+        "title": "Why your AI coding agent contradicts itself in session 5 (and the three-file fix)",
+        "slug": "why-your-ai-coding-agent-contradicts-itself-in-session-5-and-the-three-file-fix",
+        "author": "Carlo Carbonell",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 04:04:36 +0000",
+        "description": "Disclosure: this article was drafted with an AI assistant (Claude). #ABotWroteThis An AI coding agent starts every session knowing nothing about the last one...",
+        "keywords": "session, you, what, one, agent, three, not, progress",
+        "generated": "2026-10-14T04:22:01.696468",
+        "file": "why-your-ai-coding-agent-contradicts-itself-in-session-5-and-the-three-file-fix.md"
+    },
+    {
         "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
         "slug": "i-asked-claude-build-a-physically-accurate-oneill-cylinder-you-can-walk-around",
         "author": "bilsbie",
@@ -56925,6 +57035,17 @@
         "file": "building-a-nba-data-pipeline-lessons-from-lowry-retires-after-returning-to-raptors-for-one-day.md"
     },
     {
+        "title": "Supercharging Your JavaScript Projects: A Deep Dive into TypeScript",
+        "slug": "supercharging-your-javascript-projects-a-deep-dive-into-typescript",
+        "author": "Ukasha Mahir",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 03:57:03 +0000",
+        "description": "Introduction If you’ve been building JavaScript applications for a while, you’ve probably run into the classic It works on my machine debugging nightmare. ...",
+        "keywords": "you, type, typescript, types, number, string, const, user",
+        "generated": "2026-10-14T04:22:01.695251",
+        "file": "supercharging-your-javascript-projects-a-deep-dive-into-typescript.md"
+    },
+    {
         "title": "Kimi K3 API Guide: How to Access Moonshot's 2.8T Open-Weight Model (2026)",
         "slug": "kimi-k3-api-guide-how-to-access-moonshots-28t-open-weight-model-2026",
         "author": "TokenPAPA",
@@ -57308,6 +57429,17 @@
         "keywords": "url, https, com, comments, new, cyber, osint, model",
         "generated": "2026-09-29T12:30:40.034673",
         "file": "new-cyber-osint-model-released.md"
+    },
+    {
+        "title": "🚀 Daynus is hiring!",
+        "slug": "daynus-is-hiring",
+        "author": "Daynus",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 04:05:35 +0000",
+        "description": "We’re an early stage startup building voice AI models, and we’re looking for 3 people to join us at the ground floor. ML Engineer 1–2 years of experience. Fr...",
+        "keywords": "daynus, hiring, early, stage, startup, voice, join, developer",
+        "generated": "2026-10-14T04:22:01.696252",
+        "file": "daynus-is-hiring.md"
     },
     {
         "title": "LinkedIn Posts API: Measure Post Engagement as Structured JSON (2026 Guide)",
@@ -68618,6 +68750,17 @@
         "file": "ai-is-not-smart-so-whats-next-in-artificial-intelligence.md"
     },
     {
+        "title": "High-speed video reveals how honey bee stingers pump venom",
+        "slug": "high-speed-video-reveals-how-honey-bee-stingers-pump-venom",
+        "author": "gumby",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 01:05:23 +0000",
+        "description": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=500...",
+        "keywords": "honey, bee, stingers, venom, url, https, com, comments",
+        "generated": "2026-10-14T04:22:01.691987",
+        "file": "high-speed-video-reveals-how-honey-bee-stingers-pump-venom.md"
+    },
+    {
         "title": "Model Context Protocol Examples: How to Run MCP with FastAPI",
         "slug": "model-context-protocol-examples-how-to-run-mcp-with-fastapi",
         "author": "Ayush Kumar",
@@ -69804,6 +69947,17 @@
         "keywords": "python, full, stack, training, user, end, skills, bangalore",
         "generated": "2026-07-30T08:36:12.114996",
         "file": "revolutionize-your-coding-skills-navigate-your-career-through-python-full-stack-training-in-bangalore.md"
+    },
+    {
+        "title": "How to Build a LangGraph Agent with FastAPI and SSE Streaming",
+        "slug": "how-to-build-a-langgraph-agent-with-fastapi-and-sse-streaming",
+        "author": "Salada de Dados",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 03:57:14 +0000",
+        "description": "Building an AI agent is relatively straightforward. Making it accessible through an API, integrating real tools, and streaming execution updates to a client ...",
+        "keywords": "agent, example, fastapi, execution, tool, langgraph, streaming, production",
+        "generated": "2026-10-14T04:22:01.694101",
+        "file": "how-to-build-a-langgraph-agent-with-fastapi-and-sse-streaming.md"
     },
     {
         "title": "The most complete Angular UI library has 35 open accessibility bugs. A fair teardown of PrimeNG on Angular 21.",
@@ -71157,6 +71311,17 @@
         "keywords": "why, agents, lying, cheating, coordinating, url, https, comments",
         "generated": "2026-09-13T04:13:41.159555",
         "file": "why-are-ai-agents-lying-cheating-and-coordinating.md"
+    },
+    {
+        "title": "Twelve of My Fifteen Products Had Exactly 7 Visits. The 7 Was My Own Check.",
+        "slug": "twelve-of-my-fifteen-products-had-exactly-7-visits-the-7-was-my-own-check",
+        "author": "Sungsoo Youn",
+        "source": "devto_ai",
+        "published": "Wed, 14 Oct 2026 04:10:03 +0000",
+        "description": "A field note from the autonomous Claude Code agent I run every day on one Windows PC. The numbers come from its own ledgers, not from memory. Free to read fi...",
+        "keywords": "window, products, check, agent, code, page, claude, every",
+        "generated": "2026-10-14T04:22:01.695990",
+        "file": "twelve-of-my-fifteen-products-had-exactly-7-visits-the-7-was-my-own-check.md"
     },
     {
         "title": "Dōjō 道場 — karate made me do it.",
@@ -80839,6 +81004,17 @@
         "file": "ai-technology-in-2026-why-the-coordination-gap-beats-adoption.md"
     },
     {
+        "title": "Why Doki Doki Literature Club Bet on Ren'Py and Python: The Niche Engine Behind a Free Horror Phenomenon",
+        "slug": "why-doki-doki-literature-club-bet-on-renpy-and-python-the-niche-engine-behind-a-free-horror-phenomenon",
+        "author": "dev game",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 04:07:30 +0000",
+        "description": "Doki Doki Literature Club! should not have scared anyone. A free cute dating sim, made in a Python visual-novel engine most Unity developers have never opene...",
+        "keywords": "ren, you, ddlc, python, horror, engine, not, free",
+        "generated": "2026-10-14T04:22:01.693643",
+        "file": "why-doki-doki-literature-club-bet-on-renpy-and-python-the-niche-engine-behind-a-free-horror-phenomenon.md"
+    },
+    {
         "title": "Can We Automate the Work of a Software Engineer? The Story Behind HEALER",
         "slug": "can-we-automate-the-work-of-a-software-engineer-the-story-behind-healer",
         "author": "Олег",
@@ -80947,6 +81123,17 @@
         "keywords": "eeg, headband, consumer, professional, tdcs, software, nirasynth, neurostimulation",
         "generated": "2026-07-02T09:22:43.957843",
         "file": "eeg-headband-consumer-nirasynthai-jul-2026.md"
+    },
+    {
+        "title": "Looking for Practical Tech Tutorials? Explore the Axevora Blog 🚀",
+        "slug": "looking-for-practical-tech-tutorials-explore-the-axevora-blog",
+        "author": "axevora",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 04:12:01 +0000",
+        "description": "Ever searched for a simple solution to a technical problem and ended up opening 10 different tabs? One article explains the concept. Another recommends a too...",
+        "keywords": "practical, axevora, blog, you, can, help, useful, tools",
+        "generated": "2026-10-14T04:22:01.694269",
+        "file": "looking-for-practical-tech-tutorials-explore-the-axevora-blog.md"
     },
     {
         "title": "Privacy Incidents – Real-world examples of why your photos need protection",
@@ -86073,6 +86260,17 @@
         "keywords": "intelligence, threat, security, sentinel, apex, organizations, cyber, threats",
         "generated": "2026-06-24T19:54:11.167933",
         "file": "cyberdudebivash-sentinel-apex-enterprise-threat-intelligence-at-global-scale.md"
+    },
+    {
+        "title": "The Complete Guide to Building and Deploying Autonomous Hermes AI Agents",
+        "slug": "the-complete-guide-to-building-and-deploying-autonomous-hermes-ai-agents",
+        "author": "Japheth Gonzales",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 03:53:55 +0000",
+        "description": "The Complete Guide to Building and Deploying Autonomous Hermes AI Agents Open-source AI models have crossed a critical milestone. While early open-weights mo...",
+        "keywords": "hermes, tool, agent, ollama, json, function, query, console",
+        "generated": "2026-10-14T04:22:01.695593",
+        "file": "the-complete-guide-to-building-and-deploying-autonomous-hermes-ai-agents.md"
     },
     {
         "title": "Helicone vs nRouter: The Request-Path Test Every LLM Gateway Evaluation Should Run",
@@ -97888,6 +98086,17 @@
         "file": "building-a-tamper-proof-cryptographic-audit-trail-and-fail-closed-engine-in-python.md"
     },
     {
+        "title": "43 days, 17,040 AI signals: four things the data says that trend lists won't tell you",
+        "slug": "43-days-17040-ai-signals-four-things-the-data-says-that-trend-lists-wont-tell-you",
+        "author": "John",
+        "source": "devto_python",
+        "published": "Wed, 14 Oct 2026 04:00:07 +0000",
+        "description": "I've been running a small pipeline that collects AI signals from public sources for 43 days now — 17,040 items, ~398 a day. I built it to power a daily diges...",
+        "keywords": "you, one, api, day, than, top, json, not",
+        "generated": "2026-10-14T04:22:01.693882",
+        "file": "43-days-17040-ai-signals-four-things-the-data-says-that-trend-lists-wont-tell-you.md"
+    },
+    {
         "title": "Aged Gmail Buy/Sell | 2026 Gmail Accounts Buying Guide",
         "slug": "aged-gmail-buysell-2026-gmail-accounts-buying-guide",
         "author": "usaallmarket",
@@ -100395,6 +100604,17 @@
         "keywords": "api, usd, data, uah, rate, com, get, key",
         "generated": "2026-06-20T09:27:21.556674",
         "file": "i-built-a-free-currency-converter-api-no-api-key-no-signup.md"
+    },
+    {
+        "title": "Rail Project Planning and Tracking Software: A 2026 Guide",
+        "slug": "rail-project-planning-and-tracking-software-a-2026-guide",
+        "author": "lara walker",
+        "source": "devto_webdev",
+        "published": "Wed, 14 Oct 2026 04:07:35 +0000",
+        "description": "Rail infrastructure projects involve complex schedules, large budgets, specialized resources, multiple contractors, and strict safety requirements. Whether a...",
+        "keywords": "project, management, rail, projects, can, work, may, railway",
+        "generated": "2026-10-14T04:22:01.694946",
+        "file": "rail-project-planning-and-tracking-software-a-2026-guide.md"
     },
     {
         "title": "Why Your Team Might Need Two Different AI Tools to Ship a Production App",
