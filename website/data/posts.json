@@ -3928,6 +3928,17 @@
         "file": "trade-smarter-with-xalgos.md"
     },
     {
+        "title": "My Notes Bot Agreed With a Lie, So I Built a Fixture Harness",
+        "slug": "my-notes-bot-agreed-with-a-lie-so-i-built-a-fixture-harness",
+        "author": "Alex Chen",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 11:06:24 +0000",
+        "description": "My Notes Bot Agreed With a Lie, So I Built a Fixture Harness Last Thursday, at a desk in Halifax with the library lights already dimmed, I asked my study bot...",
+        "keywords": "you, not, answer, notes, bot, fixture, missing, banned",
+        "generated": "2026-10-15T11:10:31.553014",
+        "file": "my-notes-bot-agreed-with-a-lie-so-i-built-a-fixture-harness.md"
+    },
+    {
         "title": "The AI Backlash Went Mainstream. Now What?",
         "slug": "the-ai-backlash-went-mainstream-now-what",
         "author": "Max Quimby",
@@ -6106,6 +6117,17 @@
         "file": "emily-bender-sets-the-record-straight-on-stochastic-parrots.md"
     },
     {
+        "title": "Benefits of AI-Powered Mobile Apps: A Developer’s Guide 2026",
+        "slug": "benefits-of-ai-powered-mobile-apps-a-developers-guide-2026",
+        "author": "Synfinity Dynamics Pvt Ltd",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 11:01:11 +0000",
+        "description": "Users no longer compare your app only with others in its category. They compare it with the smartest app on their phone. That’s why the benefits of AI-powere...",
+        "keywords": "mobile, apps, app, powered, device, cloud, real, data",
+        "generated": "2026-10-15T11:10:31.555075",
+        "file": "benefits-of-ai-powered-mobile-apps-a-developers-guide-2026.md"
+    },
+    {
         "title": "I built an MCP server so Claude can run my Google Ads accounts (and what broke along the way)",
         "slug": "i-built-an-mcp-server-so-claude-can-run-my-google-ads-accounts-and-what-broke-along-the-way",
         "author": "Quinten Van Meirvenne",
@@ -6830,6 +6852,17 @@
         "keywords": "server, components, data, client, you, orders, import, rsc",
         "generated": "2026-06-26T04:12:11.600244",
         "file": "mastering-react-server-components-in-nextjs-15-apps.md"
+    },
+    {
+        "title": "Reachability Receipts: Prove an Agent Patch's Green Build Came From Tests That Touched It",
+        "slug": "reachability-receipts-prove-an-agent-patchs-green-build-came-from-tests-that-touched-it",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 10:50:05 +0000",
+        "description": "A green build is a fact about your test suite, not about the patch. If no executed test line intersects the lines the patch changed, the pipeline measured th...",
+        "keywords": "patch, test, not, freeze, tests, changed, json, touched",
+        "generated": "2026-10-15T11:10:31.554136",
+        "file": "reachability-receipts-prove-an-agent-patchs-green-build-came-from-tests-that-touched-it.md"
     },
     {
         "title": "No AI Fridays",
@@ -8060,6 +8093,17 @@
         "keywords": "boost, google, antigravity, url, https, comments, introduces, deep",
         "generated": "2026-09-01T04:32:01.149869",
         "file": "google-antigravity-introduces-boost-deep-reasoning-boost.md"
+    },
+    {
+        "title": "The Hidden Cost of Unoptimized REST API Payloads in Node.js",
+        "slug": "the-hidden-cost-of-unoptimized-rest-api-payloads-in-nodejs",
+        "author": "Abhishek tiwari",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 11:05:40 +0000",
+        "description": "Most REST API performance issues in Node.js apps don’t happen because of heavy queries. They happen because we send the entire database model down the wire w...",
+        "keywords": "node, api, json, your, rest, happen, because, queries",
+        "generated": "2026-10-15T11:10:31.554854",
+        "file": "the-hidden-cost-of-unoptimized-rest-api-payloads-in-nodejs.md"
     },
     {
         "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
@@ -11015,9 +11059,9 @@
         "author": "gmays",
         "source": "hackernews",
         "published": "Wed, 14 Oct 2026 23:59:37 +0000",
-        "description": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 109 # Comments: 30",
+        "description": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 220 # Comments: 51",
         "keywords": "url, https, comments, built, fast, device, agents, article",
-        "generated": "2026-10-15T04:04:26.695155",
+        "generated": "2026-10-15T11:10:31.552027",
         "file": "lfm25-24b-a2b-built-for-fast-on-device-agents.md"
     },
     {
@@ -21348,6 +21392,17 @@
         "file": "sugartrack-an-offline-android-logbook-for-blood-sugar-no-account-no-cloud.md"
     },
     {
+        "title": "CyberXero: How 51 AI Agents Helped Steal 628,000 Ukrainian Records",
+        "slug": "cyberxero-how-51-ai-agents-helped-steal-628000-ukrainian-records",
+        "author": "Jeanclaude Aoun",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 11:00:44 +0000",
+        "description": "A heating bill can reveal where someone lives. A subscriber database can reveal where hundreds of thousands of people live. In Kharkiv, an attacker extracted...",
+        "keywords": "access, agents, cyberxero, one, can, attacker, provider, file",
+        "generated": "2026-10-15T11:10:31.556024",
+        "file": "cyberxero-how-51-ai-agents-helped-steal-628000-ukrainian-records.md"
+    },
+    {
         "title": "How I Stopped Burning Cash on Token Limits — A CTO's Field Notes",
         "slug": "how-i-stopped-burning-cash-on-token-limits-a-ctos-field-notes",
         "author": "eagerspark",
@@ -27759,6 +27814,17 @@
         "file": "the-transcript-is-the-bill.md"
     },
     {
+        "title": "Should Your Team Commit to a Free AI Lane? Use This Exit Amortization Sheet",
+        "slug": "should-your-team-commit-to-a-free-ai-lane-use-this-exit-amortization-sheet",
+        "author": "bestbee",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 11:05:03 +0000",
+        "description": "Last Thursday a platform lead asked me a question I get about once a month: We're running on free AI capacity. When do we have to decide whether to stay? I...",
+        "keywords": "you, free, lane, month, not, float, exit, your",
+        "generated": "2026-10-15T11:10:31.555671",
+        "file": "should-your-team-commit-to-a-free-ai-lane-use-this-exit-amortization-sheet.md"
+    },
+    {
         "title": "A CSS Hover-Reveal Pattern for Technical Specs",
         "slug": "a-css-hover-reveal-pattern-for-technical-specs",
         "author": "Richard Lemon",
@@ -28516,6 +28582,17 @@
         "keywords": "ragleap, office, approval, sandboxed, inbox, pluggable, embeddings, open",
         "generated": "2026-10-08T13:09:09.870070",
         "file": "ragleap-v090-self-hosted-ai-office-with-sandboxed-agents-approval-inbox-and-pluggable-embeddings.md"
+    },
+    {
+        "title": "Gemini 4 Argon Built the Eiffel Tower and Paris in 3D From 8 Images, in One Night ($48.97)",
+        "slug": "gemini-4-argon-built-the-eiffel-tower-and-paris-in-3d-from-8-images-in-one-night-4897",
+        "author": "akartit",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 11:07:26 +0000",
+        "description": "Gemini 4 Argon built a walkable 3D Paris around the Eiffel Tower in one night: the tower modeled in Blender, the city in Three.js, people, pigeons, a night m...",
+        "keywords": "argon, tower, one, night, not, city, paris, part",
+        "generated": "2026-10-15T11:10:31.554347",
+        "file": "gemini-4-argon-built-the-eiffel-tower-and-paris-in-3d-from-8-images-in-one-night-4897.md"
     },
     {
         "title": "Teaching an AI agent what’s blocking the sprint: a ClickUp connector for cognee",
@@ -30487,6 +30564,17 @@
         "file": "openai-compatible-image-generation-api-with-node-sdk-catalog-validation.md"
     },
     {
+        "title": "Build a Free-Tier Preflight Gate Before Your CLI Trusts a Hosted Model",
+        "slug": "build-a-free-tier-preflight-gate-before-your-cli-trusts-a-hosted-model",
+        "author": "Sam Rivera",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 11:06:45 +0000",
+        "description": "It was 23:40 on a Tuesday. My CLI had been talking to a free model endpoint for two weeks. It returned HTTP 200 all night. Then it handed me half a JSON obje...",
+        "keywords": "gate, model, you, json, not, free, call, usage",
+        "generated": "2026-10-15T11:10:31.552519",
+        "file": "build-a-free-tier-preflight-gate-before-your-cli-trusts-a-hosted-model.md"
+    },
+    {
         "title": "Cash App Banking Features",
         "slug": "cash-app-banking-features",
         "author": "Oscar Apodaca",
@@ -31790,9 +31878,9 @@
         "author": "g0xA52A2A",
         "source": "hackernews",
         "published": "Thu, 15 Oct 2026 02:06:36 +0000",
-        "description": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 24 # ...",
+        "description": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 67 # ...",
         "keywords": "double, headed, stack, allocator, url, https, comments, article",
-        "generated": "2026-10-15T04:04:26.695072",
+        "generated": "2026-10-15T11:10:31.551955",
         "file": "the-double-headed-stack-allocator.md"
     },
     {
@@ -33543,6 +33631,17 @@
         "keywords": "mcp, key, agent, http, daemon, string, stateful, your",
         "generated": "2026-09-22T11:18:05.270630",
         "file": "stateful-vs-stateless-mcp-why-your-ai-agents-crash-and-how-to-build-a-resilient-harness-for-zsh.md"
+    },
+    {
+        "title": "Convert STEP to GLB and enforce a 3D asset budget",
+        "slug": "convert-step-to-glb-and-enforce-a-3d-asset-budget",
+        "author": "Michal Žídek",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 10:59:03 +0000",
+        "description": "A CAD file is useful for manufacturing. A web page needs a mesh it can download and display. Between those two steps, it helps to put a limit on the asset yo...",
+        "keywords": "budget, sample, step, build, glb, glbscope, not, baseline",
+        "generated": "2026-10-15T11:10:31.555317",
+        "file": "convert-step-to-glb-and-enforce-a-3d-asset-budget.md"
     },
     {
         "title": "The Inline HTML Almost Nobody Uses",
@@ -37010,6 +37109,17 @@
         "file": "crypto-price-alert-telegram-bot-the-hidden-trap-costing-you-thousands.md"
     },
     {
+        "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+        "slug": "aidlc-adaptive-workflow-steering-rules-for-ai-coding-agents",
+        "author": "pramodbiligiri",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 07:20:39 +0000",
+        "description": "Article URL: https://github.com/awslabs/aidlc-workflows Comments URL: https://news.ycombinator.com/item?id=50100387 Points: 10 # Comments: 11",
+        "keywords": "aidlc, url, https, com, comments, adaptive, workflow, steering",
+        "generated": "2026-10-15T11:10:31.551713",
+        "file": "aidlc-adaptive-workflow-steering-rules-for-ai-coding-agents.md"
+    },
+    {
         "title": "State pattern for workflow and state machine management",
         "slug": "state-pattern-for-workflow-and-state-machine-management",
         "author": "Rizwan Saleem",
@@ -38504,6 +38614,17 @@
         "keywords": "play, pool, micro, playinmo, ball, your, browser, online",
         "generated": "2026-09-06T10:39:35.966603",
         "file": "micro-pool-tiny-8-ball-you-can-play-in-your-browser-today.md"
+    },
+    {
+        "title": "My LoRA improved routing and made JSON less reliable",
+        "slug": "my-lora-improved-routing-and-made-json-less-reliable",
+        "author": "十方空烬 · Ember ☄️",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 10:50:57 +0000",
+        "description": "By Renchao Wu My small routing model became much better at returning the expected fields after fine-tuning. It also became slightly worse at returning valid ...",
+        "keywords": "not, adapter, training, test, strict, json, frozen, run",
+        "generated": "2026-10-15T11:10:31.553394",
+        "file": "my-lora-improved-routing-and-made-json-less-reliable.md"
     },
     {
         "title": "True or false?",
@@ -48620,6 +48741,17 @@
         "keywords": "portfolio, seo, ready, pakistan, fast, freelance, lahore, next",
         "generated": "2026-09-26T11:08:04.534770",
         "file": "i-built-a-fast-seo-ready-portfolio-with-nextjs-16-available-for-freelance-in-lahore-pakistan.md"
+    },
+    {
+        "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+        "slug": "show-hn-flipflop-iroh-powered-persistent-tunnels-for-filesharing",
+        "author": "andunie",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 04:25:28 +0000",
+        "description": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, tr...",
+        "keywords": "comments, show, flipflop, iroh, powered, persistent, tunnels, filesharing",
+        "generated": "2026-10-15T11:10:31.551893",
+        "file": "show-hn-flipflop-iroh-powered-persistent-tunnels-for-filesharing.md"
     },
     {
         "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
@@ -81455,6 +81587,17 @@
         "file": "cheap-ai-token-platforms-need-a-real-api-test-console.md"
     },
     {
+        "title": "Shipping Work Through a Desktop Agent: First Bot, Computer, Then Routines",
+        "slug": "shipping-work-through-a-desktop-agent-first-bot-computer-then-routines",
+        "author": "dylan yu",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 10:59:58 +0000",
+        "description": "AI agent posts usually skip the boring part: how a desktop agent actually holds a computer, asks for approval, and runs again tomorrow without you re-expla...",
+        "keywords": "you, bot, computer, agent, not, first, job, can",
+        "generated": "2026-10-15T11:10:31.556318",
+        "file": "shipping-work-through-a-desktop-agent-first-bot-computer-then-routines.md"
+    },
+    {
         "title": "25 000 фейков и 28,8 млн запросов - так Alibaba выкачивала Claude",
         "slug": "25-000-288-alibaba-claude",
         "author": "Promptra Team",
@@ -82852,6 +82995,17 @@
         "file": "ai-agent-security-checklist-oauth-for-multi-tenant-saas.md"
     },
     {
+        "title": "Show HN: Ito – Build Terminal UIs in Lua",
+        "slug": "show-hn-ito-build-terminal-uis-in-lua",
+        "author": "cat-whisperer",
+        "source": "hackernews",
+        "published": "Wed, 14 Oct 2026 22:23:53 +0000",
+        "description": "My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our...",
+        "keywords": "lua, you, can, but, library, ito, build, terminal",
+        "generated": "2026-10-15T11:10:31.552155",
+        "file": "show-hn-ito-build-terminal-uis-in-lua.md"
+    },
+    {
         "title": "Building a Serverless Interactive Map for 68,000+ Indian Villages with Leaflet, PMTiles, and GitHub Actions",
         "slug": "building-a-serverless-interactive-map-for-68000-indian-villages-with-leaflet-pmtiles-and-github-actions",
         "author": "Manideep Chittineni",
@@ -83829,6 +83983,17 @@
         "keywords": "student, count, print, output, end, while, floor, display",
         "generated": "2026-08-05T14:21:05.033194",
         "file": "python-tasks.md"
+    },
+    {
+        "title": "My webhook catcher stored 100 events — then a burst of 101 deleted the one that mattered",
+        "slug": "my-webhook-catcher-stored-100-events-then-a-burst-of-101-deleted-the-one-that-mattered",
+        "author": "InApp",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 11:00:21 +0000",
+        "description": "I built a webhook catcher for integration testing: point any sender at an ephemeral HTTPS URL, it stores up to 100 POSTs, you read them back within 24 hours....",
+        "keywords": "event, events, one, same, webhook, catcher, retried, cap",
+        "generated": "2026-10-15T11:10:31.556140",
+        "file": "my-webhook-catcher-stored-100-events-then-a-burst-of-101-deleted-the-one-that-mattered.md"
     },
     {
         "title": "5 mistakes job seekers make with AI tools in 2025",
@@ -91103,6 +91268,17 @@
         "file": "under-the-hood-drag-touch-and-css-cascade-in-a-real-diff-ui.md"
     },
     {
+        "title": "A Token Stream That Arrives All at Once: Debugging Buffering From Symptom to Fix",
+        "slug": "a-token-stream-that-arrives-all-at-once-debugging-buffering-from-symptom-to-fix",
+        "author": "babycat",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 11:05:59 +0000",
+        "description": "Support tickets about AI features rarely say your relay buffers the response. They say something like this: the answer is correct, it just shows up in one ...",
+        "keywords": "stream, you, not, one, res, relay, your, compression",
+        "generated": "2026-10-15T11:10:31.554762",
+        "file": "a-token-stream-that-arrives-all-at-once-debugging-buffering-from-symptom-to-fix.md"
+    },
+    {
         "title": "Building from Zero After Addiction, Prison, and a Felony",
         "slug": "building-from-zero-after-addiction-prison-and-a-felony",
         "author": "gavinray",
@@ -92685,6 +92861,17 @@
         "keywords": "mdl, scripts, typescript, javascript, app, behavior, still, modules",
         "generated": "2026-06-11T20:28:40.310096",
         "file": "mdl-019-optional-typescript-behavior-scripts-without-a-typescript-project-setup.md"
+    },
+    {
+        "title": "48-Hour Field Notes: The Box Recycled My Worker and the Jobs Stayed `running`",
+        "slug": "48-hour-field-notes-the-box-recycled-my-worker-and-the-jobs-stayed-running",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 10:50:56 +0000",
+        "description": "48-Hour Field Notes: The Box Recycled My Worker and the Jobs Stayed running What do you actually own when the worker that runs your jobs lives on a machine y...",
+        "keywords": "you, not, worker, job, lease, running, one, jobs",
+        "generated": "2026-10-15T11:10:31.553704",
+        "file": "48-hour-field-notes-the-box-recycled-my-worker-and-the-jobs-stayed-running.md"
     },
     {
         "title": "Your Pipeline Is 24.1h Behind: Catching Mobile Sentiment Leads with Pulsebit",
@@ -94896,6 +95083,17 @@
         "keywords": "swe, models, agents, work, tasks, languages, java, python",
         "generated": "2026-07-31T19:42:01.099681",
         "file": "13-models-and-4-agents-work-on-swe-tasks-in-5-languages-go-java-python-rust-ts-httpsswe-rebenchcom.md"
+    },
+    {
+        "title": "El reto técnico de los Deepfakes: Lecciones del caso Mia Goth",
+        "slug": "el-reto-tcnico-de-los-deepfakes-lecciones-del-caso-mia-goth",
+        "author": "Efecto IA",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 11:04:51 +0000",
+        "description": "La brecha en la moderación de IA El caso de Mia Goth ha expuesto la fragilidad de nuestros sistemas de verificación actuales. Puntos críticos: Fallo en detec...",
+        "keywords": "los, caso, mia, goth, actuales, reto, deepfakes, lecciones",
+        "generated": "2026-10-15T11:10:31.555739",
+        "file": "el-reto-tcnico-de-los-deepfakes-lecciones-del-caso-mia-goth.md"
     },
     {
         "title": "Repository Agent-Security Gap Study — v2h baseline",

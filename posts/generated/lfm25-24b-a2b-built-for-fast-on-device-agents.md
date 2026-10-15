@@ -4,16 +4,16 @@ slug: "lfm25-24b-a2b-built-for-fast-on-device-agents"
 author: "gmays"
 source: "hackernews"
 published: "Wed, 14 Oct 2026 23:59:37 +0000"
-description: "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 109 # Comments: 30"
+description: "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 220 # Comments: 51"
 keywords: "url, https, comments, built, fast, device, agents, article"
-generated: "2026-10-15T04:04:26.695155"
+generated: "2026-10-15T11:10:31.552027"
 ---
 
 # LFM2.5-24B-A2B: Built for fast on-device agents
 
 ## Overview
 
-Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 109 # Comments: 30
+Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 220 # Comments: 51
 
 ## Key Insights
 

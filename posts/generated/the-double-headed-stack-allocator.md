@@ -4,16 +4,16 @@ slug: "the-double-headed-stack-allocator"
 author: "g0xA52A2A"
 source: "hackernews"
 published: "Thu, 15 Oct 2026 02:06:36 +0000"
-description: "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 24 # ..."
+description: "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 67 # ..."
 keywords: "double, headed, stack, allocator, url, https, comments, article"
-generated: "2026-10-15T04:04:26.695072"
+generated: "2026-10-15T11:10:31.551955"
 ---
 
 # The Double Headed Stack Allocator
 
 ## Overview
 
-Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 24 # Comments: 5
+Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 67 # Comments: 21
 
 ## Key Insights
 
