@@ -3146,6 +3146,17 @@
         "file": "serving-78-cards-x-5-languages-from-one-codebase-our-i18n-routing.md"
     },
     {
+        "title": "Image formats cheatsheet: JPEG, PNG, WebP, AVIF, HEIC, JXL",
+        "slug": "image-formats-cheatsheet-jpeg-png-webp-avif-heic-jxl",
+        "author": "Florian Polster",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 21:00:06 +0000",
+        "description": "Comparison Format Size vs JPEG (same quality) Lossy / Lossless Alpha / HDR / Anim Encode Decode License / patents Support JPEG baseline Lossy (lossless rare)...",
+        "keywords": "yes, lossless, jpeg, fast, webp, png, avif, jxl",
+        "generated": "2026-10-15T21:09:19.877157",
+        "file": "image-formats-cheatsheet-jpeg-png-webp-avif-heic-jxl.md"
+    },
+    {
         "title": "Orbital mechanics with Python, from circular orbits to Hohmann transfers",
         "slug": "orbital-mechanics-with-python-from-circular-orbits-to-hohmann-transfers",
         "author": "I Want To Learn Programming",
@@ -4729,6 +4740,17 @@
         "keywords": "code, codeql, semgrep, not, one, week, two, agent",
         "generated": "2026-09-11T16:13:33.444418",
         "file": "i-feared-ai-generated-code-then-i-let-codeql-and-semgrep-argue-over-it-for-a-week.md"
+    },
+    {
+        "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+        "slug": "new-withings-users-must-pay-99year-for-apple-health-syncing",
+        "author": "johnbehnke",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 19:55:49 +0000",
+        "description": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-acco...",
+        "keywords": "new, withings, year, apple, health, url, https, com",
+        "generated": "2026-10-15T21:09:19.874670",
+        "file": "new-withings-users-must-pay-99year-for-apple-health-syncing.md"
     },
     {
         "title": "FastAPI vs Django vs Flask: Which Python Framework Is Right for You?",
@@ -9448,6 +9470,17 @@
         "file": "is-your-shopping-website-secure-common-security-issues-every-e-commerce-business-should-check.md"
     },
     {
+        "title": "Go Realtime Client After Logout: 3-Step Token Disconnect Recovery",
+        "slug": "go-realtime-client-after-logout-3-step-token-disconnect-recovery",
+        "author": "YannickSterling6563",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 20:53:01 +0000",
+        "description": "Short answer: treat logout as a two-part control-plane operation. Revoke the credential so the next authorization fails, then disconnect the authenticated cl...",
+        "keywords": "identity, logout, presence, discovery, err, client, token, disconnect",
+        "generated": "2026-10-15T21:09:19.877777",
+        "file": "go-realtime-client-after-logout-3-step-token-disconnect-recovery.md"
+    },
+    {
         "title": "Every Sanity page builder has the same bug",
         "slug": "every-sanity-page-builder-has-the-same-bug",
         "author": "Maciej Trzciński 🌱🇵🇱",
@@ -13736,6 +13769,17 @@
         "keywords": "http, stream, sse, your, not, header, you, timeout",
         "generated": "2026-08-24T07:07:50.326350",
         "file": "sse-in-go-your-timeouts-do-not-apply-where-you-think.md"
+    },
+    {
+        "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+        "slug": "someone-on-torrent-sites-kept-fucking-with-my-sonarr",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 19:21:38 +0000",
+        "description": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=5010887...",
+        "keywords": "someone, torrent, sites, kept, fucking, sonarr, url, https",
+        "generated": "2026-10-15T21:09:19.874793",
+        "file": "someone-on-torrent-sites-kept-fucking-with-my-sonarr.md"
     },
     {
         "title": "Pac-Man, but you're the ghost",
@@ -24437,6 +24481,17 @@
         "file": "meet-chatrove-a-100-local-open-source-vault-for-your-ai-chats.md"
     },
     {
+        "title": "Retry-Safe API Calls in Node.js: Idempotency Keys, Backoff and 429s",
+        "slug": "retry-safe-api-calls-in-nodejs-idempotency-keys-backoff-and-429s",
+        "author": "APIHiver",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 20:17:51 +0000",
+        "description": "A user taps Pay twice. Or your request times out after the server already processed it. Retry blindly and you may charge someone twice. Never retry and you...",
+        "keywords": "key, retry, server, attempt, after, res, you, const",
+        "generated": "2026-10-15T21:09:19.878735",
+        "file": "retry-safe-api-calls-in-nodejs-idempotency-keys-backoff-and-429s.md"
+    },
+    {
         "title": "Eliminate Time Series Drift: Merge REST Candles and Live WebSocket Ticks Correctly",
         "slug": "eliminate-time-series-drift-merge-rest-candles-and-live-websocket-ticks-correctly",
         "author": "James Tao",
@@ -30300,6 +30355,17 @@
         "file": "building-a-retry-safe-file-processing-api-estimates-idempotency-and-signed-webhooks.md"
     },
     {
+        "title": "Amazon Bee: The new artificial intelligence devices that promise to simplify our daily lives",
+        "slug": "amazon-bee-the-new-artificial-intelligence-devices-that-promise-to-simplify-our-daily-lives",
+        "author": "Hacks.gr",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 21:03:18 +0000",
+        "description": "Amazon has introduced Bee, a new category of personal AI hardware designed for ambient computing. The lineup includes wearables and magnetic attachments for ...",
+        "keywords": "devices, user, amazon, bee, audio, new, privacy, not",
+        "generated": "2026-10-15T21:09:19.878935",
+        "file": "amazon-bee-the-new-artificial-intelligence-devices-that-promise-to-simplify-our-daily-lives.md"
+    },
+    {
         "title": "NSF pilots 4-year PhDs with industry research placements",
         "slug": "nsf-pilots-4-year-phds-with-industry-research-placements",
         "author": "osnium123",
@@ -33699,6 +33765,17 @@
         "file": "the-tariff-cost-analysis-of-the-costs-to-americans-from-new-tariffs-on-canada.md"
     },
     {
+        "title": "Why are we even doing all this?",
+        "slug": "why-are-we-even-doing-all-this",
+        "author": "smilelamp",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 20:22:50 +0000",
+        "description": "Article URL: https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/ Comments URL: https://news.ycombinator.com/item?id=50109707 Points: 36...",
+        "keywords": "why, even, doing, all, url, https, com, comments",
+        "generated": "2026-10-15T21:09:19.874511",
+        "file": "why-are-we-even-doing-all-this.md"
+    },
+    {
         "title": "Daily AI News — 2026-06-20",
         "slug": "daily-ai-news-2026-06-20",
         "author": "Anikalp Jaiswal",
@@ -34830,6 +34907,17 @@
         "keywords": "browser, auto, elements, content, visibility, element, page, size",
         "generated": "2026-08-04T08:46:37.698035",
         "file": "your-browser-renders-everything-even-what-you-cant-see-content-visibility-auto-fixes-that.md"
+    },
+    {
+        "title": "US investigation into OpenAI and Anthropic for security and data protection issues",
+        "slug": "us-investigation-into-openai-and-anthropic-for-security-and-data-protection-issues",
+        "author": "Hacks.gr",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 20:55:22 +0000",
+        "description": "The FTC has launched a formal investigation into OpenAI and Anthropic, issuing subpoenas for internal documents regarding model safety, security incidents, a...",
+        "keywords": "openai, security, company, investigation, anthropic, protection, incidents, models",
+        "generated": "2026-10-15T21:09:19.880872",
+        "file": "us-investigation-into-openai-and-anthropic-for-security-and-data-protection-issues.md"
     },
     {
         "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
@@ -39236,6 +39324,17 @@
         "file": "technical-how-i-built-atlock-v4-a-deep-dive-into-a-local-first-windows-security-architecture.md"
     },
     {
+        "title": "Google Play: 12 testers. 14 days. 0 friends. 1 existential crisis.",
+        "slug": "google-play-12-testers-14-days-0-friends-1-existential-crisis",
+        "author": "magistral",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 21:02:10 +0000",
+        "description": "Google Play turned shipping an app into a multiplayer quest. 12 testers. 14 days. No friends online. I built Dozena to fix that. Now I need 26 devs before I ...",
+        "keywords": "google, play, testers, days, friends, existential, crisis, turned",
+        "generated": "2026-10-15T21:09:19.876946",
+        "file": "google-play-12-testers-14-days-0-friends-1-existential-crisis.md"
+    },
+    {
         "title": "Designing a Reliable Async Pipeline for the Seedance 2.5 API",
         "slug": "designing-a-reliable-async-pipeline-for-the-seedance-25-api",
         "author": "PixMind",
@@ -40488,6 +40587,17 @@
         "keywords": "accounts, telegram, buy, buysmmservice, use, available, aged, typically",
         "generated": "2026-07-02T19:40:41.066896",
         "file": "3-best-platforms-to-buy-aged-telegram-accounts-in-the-us.md"
+    },
+    {
+        "title": "We are entering a period of overlapping crises",
+        "slug": "we-are-entering-a-period-of-overlapping-crises",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 18:54:36 +0000",
+        "description": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 3...",
+        "keywords": "entering, period, overlapping, crises, url, https, com, comments",
+        "generated": "2026-10-15T21:09:19.874909",
+        "file": "we-are-entering-a-period-of-overlapping-crises.md"
     },
     {
         "title": "Swiss Stock Market API Integration Tutorial: Get Real-Time Quotes & Historical K-Line",
@@ -59312,6 +59422,17 @@
         "file": "building-the-higher-or-lower-game-a-fun-way-to-practice-python-fundamentals.md"
     },
     {
+        "title": "Why Enterprise AI Pilots Stall at the Demo",
+        "slug": "why-enterprise-ai-pilots-stall-at-the-demo",
+        "author": "Ayraix",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 21:00:01 +0000",
+        "description": "Most enterprise AI pilots die between the demo and production. The reasons are organizational, not technical, and they are predictable. The ownership gap, ac...",
+        "keywords": "demo, not, pilot, production, system, pilots, stall, they",
+        "generated": "2026-10-15T21:09:19.880689",
+        "file": "why-enterprise-ai-pilots-stall-at-the-demo.md"
+    },
+    {
         "title": "Port React Compiler to Rust",
         "slug": "port-react-compiler-to-rust",
         "author": "boudra",
@@ -59607,6 +59728,17 @@
         "keywords": "ollama, qat, gemma, vram, model, laptop, local, stack",
         "generated": "2026-06-10T20:38:15.851806",
         "file": "gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram.md"
+    },
+    {
+        "title": "What I Self-Host",
+        "slug": "what-i-self-host",
+        "author": "BrunoBernardino",
+        "source": "hackernews",
+        "published": "Thu, 15 Oct 2026 20:23:25 +0000",
+        "description": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 9 # Comments: 1",
+        "keywords": "what, self, host, url, https, comments, article, viceconsole",
+        "generated": "2026-10-15T21:09:19.874346",
+        "file": "what-i-self-host.md"
     },
     {
         "title": "AI Creators Warn of Risks: Balancing Innovation and Responsibility in AI Development",
@@ -66803,6 +66935,17 @@
         "file": "tensor-is-the-might.md"
     },
     {
+        "title": "I Gave an AI Agent Three Years of Deal History. Here's the First Pattern It Found.",
+        "slug": "i-gave-an-ai-agent-three-years-of-deal-history-heres-the-first-pattern-it-found",
+        "author": "Alex Boissonneault",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 19:45:54 +0000",
+        "description": "I connected Claude to a client's HubSpot pipeline through our MCP server, gave it three years of closed deal history, and asked one open question: what shou...",
+        "keywords": "stage, what, agent, question, deals, you, deal, than",
+        "generated": "2026-10-15T21:09:19.876827",
+        "file": "i-gave-an-ai-agent-three-years-of-deal-history-heres-the-first-pattern-it-found.md"
+    },
+    {
         "title": "I turned a Claude Code-only web reader into a normal MCP server",
         "slug": "i-turned-a-claude-code-only-web-reader-into-a-normal-mcp-server",
         "author": "날다람쥐",
@@ -67551,6 +67694,17 @@
         "file": "proof-of-care-in-the-age-of-ai.md"
     },
     {
+        "title": "'Reply With OK': Grok Build's CLI Still Uploaded the Whole Git History",
+        "slug": "reply-with-ok-grok-builds-cli-still-uploaded-the-whole-git-history",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 21:02:09 +0000",
+        "description": "Book: AI Agents Pocket Guide Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My project: Hermes ...",
+        "keywords": "git, bundle, canary, cli, host, agent, run, one",
+        "generated": "2026-10-15T21:09:19.879725",
+        "file": "reply-with-ok-grok-builds-cli-still-uploaded-the-whole-git-history.md"
+    },
+    {
         "title": "Buy Old Verified PayPal Accounts - 100% Phone & SSN Verified",
         "slug": "buy-old-verified-paypal-accounts-100-phone-ssn-verified",
         "author": "7 Best Sites To Buy Chime Bank Accounts - Bulb",
@@ -67978,6 +68132,17 @@
         "keywords": "problem, developer, isn, writing, code, switching, between, tools",
         "generated": "2026-07-04T19:22:30.079585",
         "file": "developer.md"
+    },
+    {
+        "title": "NuGet and what's behind your dependencies",
+        "slug": "nuget-and-whats-behind-your-dependencies",
+        "author": "Bea Tavernaro",
+        "source": "devto_webdev",
+        "published": "Thu, 15 Oct 2026 20:21:39 +0000",
+        "description": "🇧🇷 Prefere ler em português? Leia aqui . Over the last three days of my 30 Days of .NET , we saw what happens when we run dotnet run , explored the structure...",
+        "keywords": "package, dependencies, packages, can, our, nuget, project, need",
+        "generated": "2026-10-15T21:09:19.878363",
+        "file": "nuget-and-whats-behind-your-dependencies.md"
     },
     {
         "title": "67 Construction Cost Statistics for 2026",
@@ -69331,6 +69496,17 @@
         "keywords": "ssh, key, root, web, command, flag, injection, phase",
         "generated": "2026-08-07T00:06:40.417294",
         "file": "comprehensive-guide-to-solving-the-infinity-pool-ctf-room-on-tryhackme.md"
+    },
+    {
+        "title": "About Me",
+        "slug": "about-me",
+        "author": "Muhammad Yasin",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 20:49:35 +0000",
+        "description": "Ingin menjadi AI Engineer namun hobi vibe coding. · · ────────────── · · Cloud Engineer at Sucode · Aspiring AI & Site Reliability Engineer (SRE) · Open-So...",
+        "keywords": "cloud, malfurra, sre, engineer, string, github, sucode, open",
+        "generated": "2026-10-15T21:09:19.875198",
+        "file": "about-me.md"
     },
     {
         "title": "8 Websites to Buy Edu Emails for Student Discounts ...",
@@ -71608,6 +71784,17 @@
         "keywords": "electra, day, you, code, questions, like, thrill, mild",
         "generated": "2026-07-02T19:40:41.065913",
         "file": "electras-day-code-questions-and-the-thrill-of-mild-competence.md"
+    },
+    {
+        "title": "Incomplete and Corrupted ZIP Prevention: Tenant-Safe Multipart Export Upload Retry Gates",
+        "slug": "incomplete-and-corrupted-zip-prevention-tenant-safe-multipart-export-upload-retry-gates",
+        "author": "MordecaiNilsson7582",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 20:28:06 +0000",
+        "description": "A large B2B SaaS export should use multipart upload only when its size justifies the extra state. The decision rule is stricter than all parts returned succ...",
+        "keywords": "multipart, upload, key, object, export, can, tenant, retry",
+        "generated": "2026-10-15T21:09:19.875820",
+        "file": "incomplete-and-corrupted-zip-prevention-tenant-safe-multipart-export-upload-retry-gates.md"
     },
     {
         "title": "2026 Eclipse Webcams",
@@ -79992,6 +80179,17 @@
         "file": "building-a-real-time-football-live-score-standings-app-with-nuxt-3.md"
     },
     {
+        "title": "Slop Coding: The Vibe Archeologist Strikes Again!",
+        "slug": "slop-coding-the-vibe-archeologist-strikes-again",
+        "author": "Peter Vivo",
+        "source": "devto_ai",
+        "published": "Thu, 15 Oct 2026 21:01:45 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle What I Built after-flash PWA androidfirst Apparently, we are approach...",
+        "keywords": "legyen, app, drawing, egy, flash, frame, after, draw",
+        "generated": "2026-10-15T21:09:19.880219",
+        "file": "slop-coding-the-vibe-archeologist-strikes-again.md"
+    },
+    {
         "title": "Fill PDF Forms in the Browser — No Upload, No Account",
         "slug": "fill-pdf-forms-in-the-browser-no-upload-no-account",
         "author": "beta ceo",
@@ -84852,6 +85050,17 @@
         "keywords": "you, filing, form, data, edgar, feed, every, they",
         "generated": "2026-08-01T19:17:12.568551",
         "file": "parsing-sec-edgars-form-4-feed-the-edge-cases-nobody-warns-you-about.md"
+    },
+    {
+        "title": "FluentVoice Pro 1.6.4: online voices back on Microsoft's original server",
+        "slug": "fluentvoice-pro-164-online-voices-back-on-microsofts-original-server",
+        "author": "Nick Otmazgin",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 20:14:50 +0000",
+        "description": "FluentVoice Pro 1.6.4 is out: the Microsoft online voices are back on their original server. In October 2026 Microsoft's classic voice server started refusin...",
+        "keywords": "microsoft, fluentvoice, pro, server, edge, tts, https, online",
+        "generated": "2026-10-15T21:09:19.876535",
+        "file": "fluentvoice-pro-164-online-voices-back-on-microsofts-original-server.md"
     },
     {
         "title": "Your Coding Agent Ran Somebody Else's Plugin: What Plugin4Shell Teaches Us",
@@ -100318,6 +100527,17 @@
         "keywords": "your, getting, hands, dirty, article, url, https, com",
         "generated": "2026-09-08T10:58:23.959861",
         "file": "why-getting-your-hands-dirty-is-good-for-you.md"
+    },
+    {
+        "title": "FirstPass (phototriage): Local Open-Weight Photo Culling for Wedding Photographers",
+        "slug": "firstpass-phototriage-local-open-weight-photo-culling-for-wedding-photographers",
+        "author": "Sparsh Kumbhare",
+        "source": "devto_python",
+        "published": "Thu, 15 Oct 2026 20:19:28 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle What I Built FirstPass (phototriage) is a privacy-first, local CLI an...",
+        "keywords": "open, phototriage, firstpass, weight, photos, shoot, wedding, zero",
+        "generated": "2026-10-15T21:09:19.876334",
+        "file": "firstpass-phototriage-local-open-weight-photo-culling-for-wedding-photographers.md"
     },
     {
         "title": "How to clean an email list and remove invalid addresses before sending",
