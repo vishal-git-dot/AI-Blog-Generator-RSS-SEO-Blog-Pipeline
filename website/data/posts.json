@@ -550,6 +550,17 @@
         "file": "how-i-built-a-real-time-collaborative-diagram-canvas-react-go.md"
     },
     {
+        "title": "Catch Broken Markdown Links and #Anchors Offline Before They Hit Production with DeadLinkFinder",
+        "slug": "catch-broken-markdown-links-and-anchors-offline-before-they-hit-production-with-deadlinkfinder",
+        "author": "Umut Güngör",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 10:57:38 +0000",
+        "description": "Documentation rots quietly. You rename a file, refactor a section heading in your README.md , or move a diagram into a new folder—and suddenly your documenta...",
+        "keywords": "deadlinkfinder, github, heading, anchors, file, your, anchor, install",
+        "generated": "2026-10-16T11:05:26.345207",
+        "file": "catch-broken-markdown-links-and-anchors-offline-before-they-hit-production-with-deadlinkfinder.md"
+    },
+    {
         "title": "The journey begins with an Imagine If.",
         "slug": "the-journey-begins-with-an-imagine-if",
         "author": "Evanchen",
@@ -19700,6 +19711,17 @@
         "file": "webfpga-2019.md"
     },
     {
+        "title": "Teaching Generative Audio Models Non-Western Rhythms: Fine-Tuning ACE-Step 1.5 with LoRA on 6/8 South Indian Percussion",
+        "slug": "teaching-generative-audio-models-non-western-rhythms-fine-tuning-ace-step-15-with-lora-on-68-south-indian-percussion",
+        "author": "Boobalan Arjunan",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 10:55:15 +0000",
+        "description": "State-of-the-art music generation models like ACE-Step 1.5 are technical marvels, but they carry a known systemic blindspot: they were trained predominantly ...",
+        "keywords": "ace, step, lora, audio, standard, southindiaparailora, models, south",
+        "generated": "2026-10-16T11:05:26.348583",
+        "file": "teaching-generative-audio-models-non-western-rhythms-fine-tuning-ace-step-15-with-lora-on-68-south-indian-percussion.md"
+    },
+    {
         "title": "Buy Telegram Accounts: The Ultimate 16-Step Beginner's …",
         "slug": "buy-telegram-accounts-the-ultimate-16-step-beginners",
         "author": "Top 1.0 Platforms for Buying Telegram Accounts in 2025 Best .. ...",
@@ -33138,6 +33160,17 @@
         "file": "show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails.md"
     },
     {
+        "title": "The insider trading you're allowed to do",
+        "slug": "the-insider-trading-youre-allowed-to-do",
+        "author": "rohanm93",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 07:12:09 +0000",
+        "description": "Article URL: https://coached.com/essays/the-insider-trading-youre-allowed-to-do/ Comments URL: https://news.ycombinator.com/item?id=50115144 Points: 47 # Com...",
+        "keywords": "insider, trading, allowed, url, https, com, comments, you",
+        "generated": "2026-10-16T11:05:26.344295",
+        "file": "the-insider-trading-youre-allowed-to-do.md"
+    },
+    {
         "title": "skill-auditor v0.1.0: auditar colecciones de skills de agentes IA por integridad y secretos",
         "slug": "skill-auditor-v010-auditar-colecciones-de-skills-de-agentes-ia-por-integridad-y-secretos",
         "author": "Fenix",
@@ -35976,6 +36009,17 @@
         "file": "building-a-front-end-system-that-can-still-make-sense-ten-years-from-now.md"
     },
     {
+        "title": "Firefox Accessibility DevTools: ARIA Debugging, Contrast Checking, and Screen Reader Testing",
+        "slug": "firefox-accessibility-devtools-aria-debugging-contrast-checking-and-screen-reader-testing",
+        "author": "Weather Clock Dash",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 10:53:48 +0000",
+        "description": "Firefox's Accessibility panel in DevTools is one of the best tools for auditing and debugging ARIA implementation. Here's a practical guide to accessible web...",
+        "keywords": "accessibility, button, aria, firefox, screen, panel, reader, testing",
+        "generated": "2026-10-16T11:05:26.347204",
+        "file": "firefox-accessibility-devtools-aria-debugging-contrast-checking-and-screen-reader-testing.md"
+    },
+    {
         "title": "7 Date Calculation Mistakes Every Developer Makes",
         "slug": "7-date-calculation-mistakes-every-developer-makes",
         "author": "Date Calx",
@@ -38350,6 +38394,17 @@
         "keywords": "store, search, filter, you, productentityconfig, withlink, value, ngrx",
         "generated": "2026-10-07T22:56:27.548985",
         "file": "announcing-ngrx-traits-22.md"
+    },
+    {
+        "title": "GitHub Copilot vs Tabnine: Which Is Better in 2026?",
+        "slug": "github-copilot-vs-tabnine-which-is-better-in-2026",
+        "author": "Tawan Shamsanor",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 10:45:52 +0000",
+        "description": "GitHub Copilot vs Tabnine in 2026: Which AI Coding Assistant Should You Choose? AI code completion has gone from novelty to default tooling for many develope...",
+        "keywords": "copilot, tabnine, code, github, free, you, privacy, your",
+        "generated": "2026-10-16T11:05:26.349211",
+        "file": "github-copilot-vs-tabnine-which-is-better-in-2026.md"
     },
     {
         "title": "The hardest part of a pre-release game tracker isn't the UI, it's the provenance field",
@@ -40897,6 +40952,17 @@
         "file": "file-counter-cli-count-files-and-estimate-sizes-by-extension-in-pure-python.md"
     },
     {
+        "title": "Firefox DevTools for Rust Developers: Wasm Debugging, wasm-pack, and API Testing",
+        "slug": "firefox-devtools-for-rust-developers-wasm-debugging-wasm-pack-and-api-testing",
+        "author": "Weather Clock Dash",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 10:52:13 +0000",
+        "description": "Rust developers building web applications or working with WebAssembly benefit from Firefox DevTools in specific ways. Here's the developer guide. Firefox for...",
+        "keywords": "wasm, firefox, rust, devtools, web, source, console, debugging",
+        "generated": "2026-10-16T11:05:26.347795",
+        "file": "firefox-devtools-for-rust-developers-wasm-debugging-wasm-pack-and-api-testing.md"
+    },
+    {
         "title": "Incident with Actions, Pull Requests and Issues",
         "slug": "incident-with-actions-pull-requests-and-issues",
         "author": "dkpk",
@@ -42941,6 +43007,17 @@
         "file": "i-built-glbkit-a-free-online-toolkit-for-working-with-glb-files.md"
     },
     {
+        "title": "How AI Automation Is Transforming Digital Marketing in 2026",
+        "slug": "how-ai-automation-is-transforming-digital-marketing-in-2026",
+        "author": "xeenox",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 10:45:31 +0000",
+        "description": "Xeenox is a best AI-powered digital marketing and automation agency based in Bengaluru, helping businesses grow through intelligent marketing strategies, mod...",
+        "keywords": "marketing, automation, digital, xeenox, businesses, customer, can, powered",
+        "generated": "2026-10-16T11:05:26.349449",
+        "file": "how-ai-automation-is-transforming-digital-marketing-in-2026.md"
+    },
+    {
         "title": "Building an AI Research Agent: LangChain vs. Direct API Calls in 2026",
         "slug": "building-an-ai-research-agent-langchain-vs-direct-api-calls-in-2026",
         "author": "Dhiraj Chatpar",
@@ -43634,6 +43711,17 @@
         "file": "step-by-step-guide-to-finding-reliable-redotpay-account-sellers.md"
     },
     {
+        "title": "The Folders Programming Language",
+        "slug": "the-folders-programming-language",
+        "author": "gurst",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 05:11:28 +0000",
+        "description": "Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 79 # Comments: 11",
+        "keywords": "folders, url, https, com, comments, programming, language, article",
+        "generated": "2026-10-16T11:05:26.344384",
+        "file": "the-folders-programming-language.md"
+    },
+    {
         "title": "Proposed API Reference",
         "slug": "proposed-api-reference",
         "author": "Patrick G",
@@ -43918,6 +44006,17 @@
         "keywords": "you, screen, video, lock, one, wakelock, your, nothing",
         "generated": "2026-09-06T10:39:35.966363",
         "file": "your-recipe-app-is-hiding-a-silent-video.md"
+    },
+    {
+        "title": "1,285 strategy sleeves, frozen before the test: the year-by-year table is the warning",
+        "slug": "1285-strategy-sleeves-frozen-before-the-test-the-year-by-year-table-is-the-warning",
+        "author": "Arhan Canli",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 10:59:46 +0000",
+        "description": "Most backtest write-ups report one number for the whole test window. I want to show what happens when you split the same test by year. The protocol We built ...",
+        "keywords": "test, costs, year, frozen, crypto, sleeves, two, search",
+        "generated": "2026-10-16T11:05:26.344959",
+        "file": "1285-strategy-sleeves-frozen-before-the-test-the-year-by-year-table-is-the-warning.md"
     },
     {
         "title": "Designing a Support Handoff Runbook for Multi-Platform Messaging",
@@ -46963,6 +47062,17 @@
         "file": "ive-factored-the-rsa-keys-of-a-certificate-authority-from-the-90s.md"
     },
     {
+        "title": "Apple Watch Series 12 Live Rewind and Siri Recap: how the new Audio Intelligence features work",
+        "slug": "apple-watch-series-12-live-rewind-and-siri-recap-how-the-new-audio-intelligence-features-work",
+        "author": "Daily Tips & Tricks",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 10:52:35 +0000",
+        "description": "Your Apple Watch is about to get a much better memory Apple has confirmed that the Apple Watch Series 12 and Apple Watch Ultra 4 will receive two new AI-powe...",
+        "keywords": "apple, you, watch, they, live, rewind, siri, features",
+        "generated": "2026-10-16T11:05:26.348832",
+        "file": "apple-watch-series-12-live-rewind-and-siri-recap-how-the-new-audio-intelligence-features-work.md"
+    },
+    {
         "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
         "slug": "modder-makes-gta-vice-city-playable-inside-gta-3-inside-gta-san-andreas",
         "author": "sam_anthony",
@@ -49863,6 +49973,17 @@
         "keywords": "you, policy, not, yaml, idempotency, client, import, return",
         "generated": "2026-09-08T03:59:31.897865",
         "file": "your-agent-will-invent-timeouts-pin-them-in-a-contract-test-first.md"
+    },
+    {
+        "title": "AI Growth Engine Content Planner Manager Agent: Architecture, Tool Schemas & Integration Guide",
+        "slug": "ai-growth-engine-content-planner-manager-agent-architecture-tool-schemas-integration-guide",
+        "author": "Bot Skill Stack",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 10:57:11 +0000",
+        "description": "Why conversational agent prompts fail in production—and the exact typed tool schemas, MCP servers, and dry-run safeguards required for Autonomous AI Agent & ...",
+        "keywords": "agent, skill, bot, tool, execution, state, mcp, autonomous",
+        "generated": "2026-10-16T11:05:26.348388",
+        "file": "ai-growth-engine-content-planner-manager-agent-architecture-tool-schemas-integration-guide.md"
     },
     {
         "title": "ERP Statistics: What the Numbers Reveal About Modern Business Growth",
@@ -57629,6 +57750,17 @@
         "file": "pokmon-go-scans-trained-the-navigation-tech-for-military-drones.md"
     },
     {
+        "title": "How to Choose the Best Packaging for E-Commerce Products: The Structural, Prepress, and Freight Blueprint",
+        "slug": "how-to-choose-the-best-packaging-for-e-commerce-products-the-structural-prepress-and-freight-blueprint",
+        "author": "Henry",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 10:55:16 +0000",
+        "description": "Choosing the best packaging for e-commerce products requires systematically matching a product's physical footprint, weight, and fragility with the ideal cor...",
+        "keywords": "text, flute, weight, commerce, packaging, corrugated, box, high",
+        "generated": "2026-10-16T11:05:26.346496",
+        "file": "how-to-choose-the-best-packaging-for-e-commerce-products-the-structural-prepress-and-freight-blueprint.md"
+    },
+    {
         "title": "How to Automate Customer Support With AI Agents: The Stack That Cut Response Time 73%",
         "slug": "how-to-automate-customer-support-with-ai-agents-the-stack-that-cut-response-time-73",
         "author": "aarhamforensics",
@@ -59829,6 +59961,17 @@
         "file": "i-tested-8-northflank-alternatives-here-are-the-6-id-actually-recommend.md"
     },
     {
+        "title": "Firefox for Docker-Based Development: Sessions, HTTPS Certs, and Container Workflows",
+        "slug": "firefox-for-docker-based-development-sessions-https-certs-and-container-workflows",
+        "author": "Weather Clock Dash",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 10:53:00 +0000",
+        "description": "Running web applications in Docker changes the browser development workflow. Here's how Firefox DevTools adapts to container-based development — and some pat...",
+        "keywords": "container, docker, localhost, firefox, network, proxy, development, session",
+        "generated": "2026-10-16T11:05:26.347509",
+        "file": "firefox-for-docker-based-development-sessions-https-certs-and-container-workflows.md"
+    },
+    {
         "title": "What a LangGraph Engagement Looks Like",
         "slug": "what-a-langgraph-engagement-looks-like",
         "author": "Debbie Shapiro",
@@ -60806,6 +60949,17 @@
         "keywords": "github, portfolio, api, hackmd, davin, pages, siliconflow, deepseek",
         "generated": "2026-06-08T20:25:42.487367",
         "file": "ai-30.md"
+    },
+    {
+        "title": "Comparing Chromium Development at Google and Igalia",
+        "slug": "comparing-chromium-development-at-google-and-igalia",
+        "author": "signa11",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 01:56:37 +0000",
+        "description": "Article URL: https://lwn.net/Articles/1094721/ Comments URL: https://news.ycombinator.com/item?id=50112887 Points: 52 # Comments: 16",
+        "keywords": "url, https, comments, comparing, chromium, development, google, igalia",
+        "generated": "2026-10-16T11:05:26.344462",
+        "file": "comparing-chromium-development-at-google-and-igalia.md"
     },
     {
         "title": "How to Generate Multiple Images With AI From a Variation Matrix",
@@ -63259,6 +63413,17 @@
         "keywords": "weekend, years, old, url, https, com, comments, article",
         "generated": "2026-08-16T18:35:30.113377",
         "file": "the-weekend-is-100-years-old.md"
+    },
+    {
+        "title": "Two roots, one valid size: a local Spark-X2.5-1.7B and SymPy demonstration",
+        "slug": "two-roots-one-valid-size-a-local-spark-x25-17b-and-sympy-demonstration",
+        "author": "SparkLLM",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 10:42:10 +0000",
+        "description": "Two roots, one valid size: a local Spark-X2.5-1.7B and SymPy demonstration A synthetic rectangular packaging insert has an area of 40 cm². Its length is 3 cm...",
+        "keywords": "model, original, sympy, width, length, local, demonstration, expression",
+        "generated": "2026-10-16T11:05:26.345686",
+        "file": "two-roots-one-valid-size-a-local-spark-x25-17b-and-sympy-demonstration.md"
     },
     {
         "title": "Python importlib: Dynamic Module Loading",
@@ -73337,6 +73502,17 @@
         "file": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier.md"
     },
     {
+        "title": "Firefox DevTools Storage Inspector: localStorage, IndexedDB, Cookies, and Cache",
+        "slug": "firefox-devtools-storage-inspector-localstorage-indexeddb-cookies-and-cache",
+        "author": "Weather Clock Dash",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 10:54:33 +0000",
+        "description": "Modern web apps use multiple browser storage mechanisms. Firefox DevTools makes it easy to inspect and debug all of them from one place. Here's the complete ...",
+        "keywords": "storage, console, localstorage, cookies, cookie, cache, application, origin",
+        "generated": "2026-10-16T11:05:26.346836",
+        "file": "firefox-devtools-storage-inspector-localstorage-indexeddb-cookies-and-cache.md"
+    },
+    {
         "title": "Codexers, max out your limits - reset is coming.",
         "slug": "codexers-max-out-your-limits-reset-is-coming",
         "author": "alex getman",
@@ -74699,6 +74875,17 @@
         "keywords": "mass, surveillance, url, https, comments, countries, competing, see",
         "generated": "2026-06-25T14:43:02.849843",
         "file": "countries-are-competing-to-see-which-can-carry-out-mass-surveillance-the-best.md"
+    },
+    {
+        "title": "5 Python tools I built to solve my own problems — no signup, no watermark, no BS",
+        "slug": "5-python-tools-i-built-to-solve-my-own-problems-no-signup-no-watermark-no-bs",
+        "author": "Musadiq's Code",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 11:02:47 +0000",
+        "description": "I built 5 free image tools because I was tired of free tools asking for my email Every few weeks I hit the same wall: I need to remove a background, upscal...",
+        "keywords": "windows, image, file, python, tools, free, first, server",
+        "generated": "2026-10-16T11:05:26.344747",
+        "file": "5-python-tools-i-built-to-solve-my-own-problems-no-signup-no-watermark-no-bs.md"
     },
     {
         "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
@@ -76074,6 +76261,17 @@
         "keywords": "agent, not, null, text, step, instructions, what, memories",
         "generated": "2026-07-21T14:05:44.045419",
         "file": "how-i-fixed-hallucinations-by-switching-from-agentsmd-to-agentsdb.md"
+    },
+    {
+        "title": "Japanese people still aren't having sex. And nobody knows why",
+        "slug": "japanese-people-still-arent-having-sex-and-nobody-knows-why",
+        "author": "baranul",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 09:54:55 +0000",
+        "description": "Article URL: https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience Comments URL: https://news.ycombinator.com/item?id=50116367 Points...",
+        "keywords": "japanese, people, sex, url, https, com, news, comments",
+        "generated": "2026-10-16T11:05:26.344155",
+        "file": "japanese-people-still-arent-having-sex-and-nobody-knows-why.md"
     },
     {
         "title": "From HEX to Design Tokens: One Palette, Six Formats, Five Minutes",
@@ -78769,6 +78967,17 @@
         "keywords": "print, true, false, not, age, used, python, else",
         "generated": "2026-09-23T16:33:33.335431",
         "file": "python-basics-operators-and-conditional-statements.md"
+    },
+    {
+        "title": "HustleGuard: The Offline AI Proposal & Contract Voice-Engineer (Built for Side Hustle)",
+        "slug": "hustleguard-the-offline-ai-proposal-contract-voice-engineer-built-for-side-hustle",
+        "author": "Mawaddah Dawood",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 10:53:15 +0000",
+        "description": "Introduction & Core Philosophy 💼🔓 HustleGuard is a 100% local, air-gapped, voice-driven AI engineering agent built for Hacktoberfest 2026 Challenge: Week 2 (...",
+        "keywords": "hustleguard, code, self, voice, built, side, hustle, core",
+        "generated": "2026-10-16T11:05:26.345345",
+        "file": "hustleguard-the-offline-ai-proposal-contract-voice-engineer-built-for-side-hustle.md"
     },
     {
         "title": "GlyphX: turning photos into ASCII art",
@@ -96632,6 +96841,17 @@
         "keywords": "https, comments, nvidia, central, bank, archive, url, news",
         "generated": "2026-09-12T20:23:47.690836",
         "file": "nvidia-is-the-central-bank-of-ai.md"
+    },
+    {
+        "title": "Any window from your Mac, on your iPhone and iPad",
+        "slug": "any-window-from-your-mac-on-your-iphone-and-ipad",
+        "author": "chanana",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 01:43:17 +0000",
+        "description": "Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 163 # Comments: 37",
+        "keywords": "your, url, https, com, comments, any, window, mac",
+        "generated": "2026-10-16T11:05:26.344539",
+        "file": "any-window-from-your-mac-on-your-iphone-and-ipad.md"
     },
     {
         "title": "Strategy pattern in practice: replacing conditional chains with composable algorithms",

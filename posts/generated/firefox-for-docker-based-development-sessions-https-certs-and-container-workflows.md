@@ -1,0 +1,34 @@
+---
+title: "Firefox for Docker-Based Development: Sessions, HTTPS Certs, and Container Workflows"
+slug: "firefox-for-docker-based-development-sessions-https-certs-and-container-workflows"
+author: "Weather Clock Dash"
+source: "devto_webdev"
+published: "Fri, 16 Oct 2026 10:53:00 +0000"
+description: "Running web applications in Docker changes the browser development workflow. Here's how Firefox DevTools adapts to container-based development — and some pat..."
+keywords: "container, docker, localhost, firefox, network, proxy, development, session"
+generated: "2026-10-16T11:05:26.347509"
+---
+
+# Firefox for Docker-Based Development: Sessions, HTTPS Certs, and Container Workflows
+
+## Overview
+
+Running web applications in Docker changes the browser development workflow. Here's how Firefox DevTools adapts to container-based development — and some patterns that make it smoother. The Docker Web Dev Workflow Typical Docker-based development setup: Frontend: localhost:3000 (React, Vue, Svelte container) API: localhost:8080 (Go, Python, Node container) Database admin: localhost:5432 (pgAdmin at localhost:5050 ) Monitoring: localhost:3001 (Grafana) Proxy: nginx or traefik container routing all services This creates the multi-tab browser problem: you need all these UIs open simultaneously. Tab Manager for Container Workflows Named sessions in Tab Manager & Session Saver (Firefox) for each project: session "project-a" : localhost : 3000 , localhost : 8080 / docs , localhost : 5050 , localhost : 3001 session "project-b" : localhost : 4000 , localhost : 9080 / swagger , ... When switching projects: restore the right session → all container URLs open correctly. This also helps when you shut down containers at end of day — the session preserves the URLs. Next day: start containers, restore session. Firefox DevTools in Docker Environments Debugging Requests Across the Proxy When all your services are behind Traefik or Nginx, the Network panel shows requests going to localhost:80 (the proxy) rather than direct container ports. Useful : The Response tab shows exactly what each service returned, including service-specific error codes and bodies. CORS debugging with Traefik : If Traefik adds CORS headers, check the Network panel headers tab to see if headers are duplicated (common issue when both the app and Traefik set CORS headers). Self-Signed Certificates in Docker Development with HTTPS in Docker often uses self-signed certs. Firefox handles these with a security warning: Option 1 : Accept the exception manually (persists in your profile) Option 2 : Use mkcert to create a locally-trusted CA: mkcert -install mkcert localhost 127.0.0.1 ::1 # Generates localhost.pem + localhost-key.pem Once mkcert -install runs, Firefox trusts certificates from that CA automatically (mkcert installs its CA into Firefox's certificate store). Option 3 : about:config → security.enterprise_roots.enabled = true → Firefox trusts OS certificate store, including user-added CAs. WebSocket Through Docker WebSocket connections in Docker need proxy configuration. For Nginx: location /ws { proxy_pass http://app:8080 ; proxy_http_version 1.1 ; proxy_set_header Upgrade $http_upgrade ; proxy_set_header Connection "upgrade" ; } Firefox Network panel → filter by WS → verify the WebSocket connection is established (101 Switching Protocols status). Multi-Account Containers for Docker Environments If you're simultaneously working on multiple projects with overlapping ports (two projects both use localhost:3000 ), containers keep cookies separate. Firefox Multi-Account Containers: "Project A" container: all tabs for project A "Project B" container: all tabs for project B Each container has its own cookie jar — no login/session conflicts between projects. Firefox Proxies for Container Networks For accessing services on Docker networks directly (not exposed ports), configure a SOCKS5 proxy through a container: # Start an SSH tunnel SOCKS proxy through a container docker run -d --name socks-proxy \ -p 1080:1080 \ --network my-app-network \ serjs/go-socks5-proxy Firefox → Settings → Network Settings → Manual proxy → SOCKS Host: localhost, Port: 1080 Now Firefox can access container IPs (172.x.x.x) directly — useful for debugging service-to-service communication. Docker Healthcheck Monitoring Keep monitoring URLs bookmarked: localhost:8080/health — App health endpoint Container management (Portainer at localhost:9000 ) localhost:3001/dashboards — Grafana Pin these to a Firefox pinned tab or create a "monitoring" bookmark folder for one-click access. Viewing Container Logs in the Browser If you run Dozzle (Docker log viewer): services : dozzle : image : amir20/dozzle:latest volumes : - /var/run/docker.sock:/var/run/docker.sock ports : - 9999:8080 Access at localhost:9999 for a real-time log viewer in Firefox. No more switching to terminal just to see container logs. Network Inspection with Container Network Isolation Docker containers on the same network can communicate using service names. From Firefox's perspective, you only see what's exposed on host ports. For debugging container-to-container issues: Exec into a container: docker exec -it mycontainer sh From inside the container, use curl to test the internal service Compare results with what Firefox sees through the host port Discrepancies between what curl inside the container sees vs what Firefox sees often point to proxy configuration issues. Performance Testing Containers Firefox's throttling feature (Network panel → no throttling dropdown) lets you test your containerized app under simulated network conditions. For load testing from the browser perspective, combine with the Performance panel to see if JavaScript rendering is the bottleneck vs network wait time. Summary Firefox is well-suited for Docker-based development: Multi-Account Containers prevent session conflicts between projects Tab Manager named sessions preserve your Docker development environment setup DevTools work normally through proxied container services mkcert integrates cleanly for HTTPS development certificates The main workflow difference from non-Docker dev: container port mapping means you lose direct service names, but named sessions and pinned tabs compensate.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/weatherclockdash/firefox-for-docker-based-development-sessions-https-certs-and-container-workflows-198f
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
