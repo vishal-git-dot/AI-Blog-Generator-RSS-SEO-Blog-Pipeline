@@ -14057,6 +14057,17 @@
         "file": "if-your-agent-wrote-the-test-ignore-the-green-build.md"
     },
     {
+        "title": "OAuth 2.0 Authorization Code Flow, Step by Step",
+        "slug": "oauth-20-authorization-code-flow-step-by-step",
+        "author": "GeekCoding101.com",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 16:07:42 +0000",
+        "description": "Originally published at GeekCoding101 . Brief Description The OAuth 2.0 authorization code flow is a secure and widely adopted method for obtaining access to...",
+        "keywords": "authorization, code, client, access, token, user, flow, tokens",
+        "generated": "2026-10-16T16:24:14.486984",
+        "file": "oauth-20-authorization-code-flow-step-by-step.md"
+    },
+    {
         "title": "HelloAssembly The smallest possible complete Windows application",
         "slug": "helloassembly-the-smallest-possible-complete-windows-application",
         "author": "Bluestein",
@@ -17720,6 +17731,17 @@
         "file": "why-cursor-keeps-writing-prototype-pollution-into-your-merge-code.md"
     },
     {
+        "title": "How We Built an AI Directory Pipeline with LangGraph and Contentful",
+        "slug": "how-we-built-an-ai-directory-pipeline-with-langgraph-and-contentful",
+        "author": "Israel Vásquez",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 16:06:05 +0000",
+        "description": "For Quicknode’s Builder’s Guide, we built a pipeline that populates over 60 structured fields per tool. That makes the content model a useful starting point ...",
+        "keywords": "you, entry, can, directory, category, how, content, before",
+        "generated": "2026-10-16T16:24:14.487371",
+        "file": "how-we-built-an-ai-directory-pipeline-with-langgraph-and-contentful.md"
+    },
+    {
         "title": "Discovery as a Capability in T…",
         "slug": "discovery-as-a-capability-in-t",
         "author": "Norvik Tech",
@@ -19676,6 +19698,17 @@
         "keywords": "flutter, not, state, frame, stale, int, nvidia, ros",
         "generated": "2026-10-12T14:59:14.190637",
         "file": "flutter-nvidia-models-streaming-detection-results-without-ui-jank.md"
+    },
+    {
+        "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+        "slug": "us-rep-announces-congressional-legislation-to-protect-video-game-ownership",
+        "author": "DeepLogin",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 16:03:02 +0000",
+        "description": "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments URL: h...",
+        "keywords": "rep, announces, legislation, url, https, comments, congressional, protect",
+        "generated": "2026-10-16T16:24:14.482669",
+        "file": "us-rep-announces-congressional-legislation-to-protect-video-game-ownership.md"
     },
     {
         "title": "Rethinking Database Programming",
@@ -23876,6 +23909,17 @@
         "file": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm.md"
     },
     {
+        "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+        "slug": "americas-wumao-inside-polymarkets-paid-quote-retweet-esports-program",
+        "author": "paimapi",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 15:56:25 +0000",
+        "description": "Article URL: https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation Comments URL: https://news.ycombinator.com/item?id=50120010 Poi...",
+        "keywords": "polymarket, paid, quote, retweet, esports, url, https, com",
+        "generated": "2026-10-16T16:24:14.482860",
+        "file": "americas-wumao-inside-polymarkets-paid-quote-retweet-esports-program.md"
+    },
+    {
         "title": "Best 3 Sites To Buy Edu Emails Accounts for Student ...",
         "slug": "best-3-sites-to-buy-edu-emails-accounts-for-student",
         "author": "Anthony Charles",
@@ -26602,6 +26646,17 @@
         "keywords": "dependency, github, license, review, not, can, compliance, merge",
         "generated": "2026-08-29T16:32:00.482097",
         "file": "github-license-compliance-before-merging-dependency-changes.md"
+    },
+    {
+        "title": "I Built an AI Post Generator for WhatsApp and Telegram - Here's What I Learned",
+        "slug": "i-built-an-ai-post-generator-for-whatsapp-and-telegram-heres-what-i-learned",
+        "author": "Waleed Shamhan",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 16:21:37 +0000",
+        "description": "I'm an IT student, and I also work as a media coordinator. That means I live in two worlds: writing code, and writing content. One day I got tired of staring...",
+        "keywords": "post, tool, you, api, writing, templates, content, python",
+        "generated": "2026-10-16T16:24:14.489219",
+        "file": "i-built-an-ai-post-generator-for-whatsapp-and-telegram-heres-what-i-learned.md"
     },
     {
         "title": "Maximizing the value of your Claude Code sessions",
@@ -35668,6 +35723,17 @@
         "file": "gemini-and-localiza-car-rentals-in-brazil-what-travelers-can-confirm.md"
     },
     {
+        "title": "MailSandbox: The Zero-Leak Mock Email Engine for Bulletproof CI/CD and Staging Environments",
+        "slug": "mailsandbox-the-zero-leak-mock-email-engine-for-bulletproof-cicd-and-staging-environments",
+        "author": "Alessio",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 16:14:54 +0000",
+        "description": "Every engineering team eventually experiences the staging incident that keeps engineering leads awake at night: an engineer triggers a database replay or run...",
+        "keywords": "mailsandbox, test, email, staging, const, await, engineering, api",
+        "generated": "2026-10-16T16:24:14.483657",
+        "file": "mailsandbox-the-zero-leak-mock-email-engine-for-bulletproof-cicd-and-staging-environments.md"
+    },
+    {
         "title": "How to Install the Whop CLI and Launch Your First Product",
         "slug": "how-to-install-the-whop-cli-and-launch-your-first-product",
         "author": "Karina Egle",
@@ -39641,6 +39707,17 @@
         "keywords": "email, event, sms, country, not, str, delivery, report",
         "generated": "2026-09-28T04:46:35.834232",
         "file": "startup-event-sms-alerts-plus-email-notifications-api-a-reliability-comparison.md"
+    },
+    {
+        "title": "How I measured the memory of my Telegram assistant, from 4% to 58%",
+        "slug": "how-i-measured-the-memory-of-my-telegram-assistant-from-4-to-58",
+        "author": "0xDevDav",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 15:54:24 +0000",
+        "description": "Zoe is a personal assistant I talk to on Telegram. She runs on my own server on top of the Claude Code CLI: every message becomes a claude -p run, and a SQLi...",
+        "keywords": "memories, neurons, recall, zoe, every, message, search, memory",
+        "generated": "2026-10-16T16:24:14.485051",
+        "file": "how-i-measured-the-memory-of-my-telegram-assistant-from-4-to-58.md"
     },
     {
         "title": "Out for Never — we built an anti-commerce app that helps you buy less",
@@ -53814,6 +53891,17 @@
         "file": "quick-tip-python-pytest-examples.md"
     },
     {
+        "title": "Local SEO Services in Nagpur: A Complete Guide for 2026",
+        "slug": "local-seo-services-in-nagpur-a-complete-guide-for-2026",
+        "author": "kshitija Bhor",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 16:06:00 +0000",
+        "description": "Short answer: In 2026, local SEO services in Nagpur help your business appear on Google Maps, in the local pack, and in “near me” searches when potential cus...",
+        "keywords": "business, local, your, seo, google, can, website, profile",
+        "generated": "2026-10-16T16:24:14.488919",
+        "file": "local-seo-services-in-nagpur-a-complete-guide-for-2026.md"
+    },
+    {
         "title": "I said no and Apple said yes",
         "slug": "i-said-no-and-apple-said-yes",
         "author": "thatslast",
@@ -53845,6 +53933,17 @@
         "keywords": "webhook, test, staging, email, provider, can, not, message",
         "generated": "2026-07-02T19:40:41.066238",
         "file": "testing-webhook-emails-without-polluting-real-inboxes.md"
+    },
+    {
+        "title": "epoll: qué es y cómo Linux escala miles de conexiones",
+        "slug": "epoll-qu-es-y-cmo-linux-escala-miles-de-conexiones",
+        "author": "lu1tr0n",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 16:16:17 +0000",
+        "description": "Un servidor Nginx con un solo proceso worker puede sostener decenas de miles de conexiones simultáneas sin que la CPU se dispare. El secreto no es magia ni h...",
+        "keywords": "que, epoll, con, por, una, kernel, descriptores, solo",
+        "generated": "2026-10-16T16:24:14.486437",
+        "file": "epoll-qu-es-y-cmo-linux-escala-miles-de-conexiones.md"
     },
     {
         "title": "The Bomb Technician - A Sci-Fi Short Story",
@@ -57385,6 +57484,17 @@
         "keywords": "assistant, you, harness, your, tool, ticket, one, comparison",
         "generated": "2026-08-30T11:39:35.927828",
         "file": "how-to-set-up-a-repeatable-harness-for-comparing-ai-coding-assistants-on-your-own-repo.md"
+    },
+    {
+        "title": "I ran my event scanner on 18 open-source repos. Fourteen came back with two events or fewer, and six of those zeros were my fault.",
+        "slug": "i-ran-my-event-scanner-on-18-open-source-repos-fourteen-came-back-with-two-events-or-fewer-and-six-of-those-zeros-were-my-fault",
+        "author": "Jura",
+        "source": "devto_webdev",
+        "published": "Fri, 16 Oct 2026 16:18:29 +0000",
+        "description": "You run a scanner on your repo and it says Found 0 events . What do you do with that? If you wrote the scanner, the honest answer is that you can't tell. Eit...",
+        "keywords": "own, one, you, what, two, has, tool, events",
+        "generated": "2026-10-16T16:24:14.485512",
+        "file": "i-ran-my-event-scanner-on-18-open-source-repos-fourteen-came-back-with-two-events-or-fewer-and-six-of-those-zeros-were-my-fault.md"
     },
     {
         "title": "Shadow AI Enterprise: Essential Compliance Controls",
@@ -62984,6 +63094,17 @@
         "keywords": "website, affordable, web, design, company, pune, build, your",
         "generated": "2026-08-01T08:27:56.504566",
         "file": "affordable-web-design-company-pune-for-growing-businesses.md"
+    },
+    {
+        "title": "Why your YouTube transcript scraper returns the wrong language (and how to fix it)",
+        "slug": "why-your-youtube-transcript-scraper-returns-the-wrong-language-and-how-to-fix-it",
+        "author": "Aquila",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 16:00:04 +0000",
+        "description": "I was building a YouTube transcript scraper for an AI pipeline and ran a simple test: 50 random videos (podcasts, tutorials, TED talks, news, music, Hindi sp...",
+        "keywords": "language, you, youtube, transcript, original, videos, tracks, captions",
+        "generated": "2026-10-16T16:24:14.484322",
+        "file": "why-your-youtube-transcript-scraper-returns-the-wrong-language-and-how-to-fix-it.md"
     },
     {
         "title": "Watching Agents by Inithouse vs dashboards and alerts: monitoring future questions, not metrics",
@@ -71685,6 +71806,17 @@
         "keywords": "model, client, you, deepseek, your, gpt, api, models",
         "generated": "2026-06-13T19:44:24.808353",
         "file": "deepseek-vs-claude-35-sonnet-which-ai-api-actually-wins-in-2026.md"
+    },
+    {
+        "title": "DON’T trust MCP tool names",
+        "slug": "dont-trust-mcp-tool-names",
+        "author": "Anatolii Maltsev",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 16:20:26 +0000",
+        "description": "Two servers expose delete_user . Your trust list approves one. The runtime resolves by name and may execute the other. Nothing errors and the transcript lies...",
+        "keywords": "name, trust, mcp, tool, list, nothing, field, money",
+        "generated": "2026-10-16T16:24:14.490250",
+        "file": "dont-trust-mcp-tool-names.md"
     },
     {
         "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
@@ -81576,6 +81708,17 @@
         "file": "playwright-web-scraping-guide-setup-anti-bot-proxy-setup.md"
     },
     {
+        "title": "How to security-test an LLM application",
+        "slug": "how-to-security-test-an-llm-application",
+        "author": "Hafez Secure",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 16:20:38 +0000",
+        "description": "A chatbot on a support page, a copilot inside an internal tool, an agent that files tickets on its own: these are applications first and language models seco...",
+        "keywords": "model, can, application, test, prompt, tool, user, every",
+        "generated": "2026-10-16T16:24:14.490074",
+        "file": "how-to-security-test-an-llm-application.md"
+    },
+    {
         "title": "Top 8 Websites for Buying Gmail Accounts 2026",
         "slug": "top-8-websites-for-buying-gmail-accounts-2026",
         "author": "Young",
@@ -84832,6 +84975,17 @@
         "file": "spacexais-grok-46-scores-61-on-the-artificial-analysis-intelligence-index.md"
     },
     {
+        "title": "The model asked is this ethical? — then spent the money anyway",
+        "slug": "the-model-asked-is-this-ethical-then-spent-the-money-anyway",
+        "author": "Haku",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 16:00:03 +0000",
+        "description": "Eval and planning aid, not legal or financial advice. On June 26, 2026, an internal OpenAI research model from the GPT-5.6 Sol family was given a coding assi...",
+        "keywords": "model, key, spend, eval, not, wallet, incident, agent",
+        "generated": "2026-10-16T16:24:14.484718",
+        "file": "the-model-asked-is-this-ethical-then-spent-the-money-anyway.md"
+    },
+    {
         "title": "Analyzing Sports Data: Infantino opens door to 64-team World Cup — What the Numbers Say",
         "slug": "analyzing-sports-data-infantino-opens-door-to-64-team-world-cup-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -85974,6 +86128,17 @@
         "keywords": "url, https, comments, unix, remastered, article, mohandacherir, github",
         "generated": "2026-06-11T04:27:42.955225",
         "file": "unix-gc-remastered.md"
+    },
+    {
+        "title": "We re-priced six weeks of our own AI coding-agent usage. The obvious saving was 5.5x too big.",
+        "slug": "we-re-priced-six-weeks-of-our-own-ai-coding-agent-usage-the-obvious-saving-was-55x-too-big",
+        "author": "Derrick Zhou",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 16:17:37 +0000",
+        "description": "Over 46 days (35 of them active), one person's coding agent made 61,955 requests . There was no invoice for this exercise - a real client audit starts by rec...",
+        "keywords": "cache, your, you, not, saving, one, every, minute",
+        "generated": "2026-10-16T16:24:14.490522",
+        "file": "we-re-priced-six-weeks-of-our-own-ai-coding-agent-usage-the-obvious-saving-was-55x-too-big.md"
     },
     {
         "title": "The bug that taught me to grep before I git blame",
@@ -91972,6 +92137,17 @@
         "file": "why-we-built-freeallpdf-100-free-private-in-browser-pdf-toolkit-zero-server-uploads.md"
     },
     {
+        "title": "FHIR, HL7 and AI: Exploring the Next Layer of Healthcare Interoperability",
+        "slug": "fhir-hl7-and-ai-exploring-the-next-layer-of-healthcare-interoperability",
+        "author": "Abhi Chatterjee",
+        "source": "devto_ai",
+        "published": "Fri, 16 Oct 2026 16:17:33 +0000",
+        "description": "I've recently been spending some time exploring HL7, FHIR and the broader healthcare interoperability landscape —particularly how standards, implementation a...",
+        "keywords": "information, healthcare, fhir, interoperability, can, data, validation, how",
+        "generated": "2026-10-16T16:24:14.491123",
+        "file": "fhir-hl7-and-ai-exploring-the-next-layer-of-healthcare-interoperability.md"
+    },
+    {
         "title": "Healthchecks Alternatives Explained — Cron Job Monitoring for Property Management SaaS",
         "slug": "healthchecks-alternatives-explained-cron-job-monitoring-for-property-management-saas",
         "author": "BriarVoss47291",
@@ -95160,6 +95336,17 @@
         "keywords": "job, resume, your, ats, search, you, can, cover",
         "generated": "2026-08-06T03:12:22.485199",
         "file": "leveraging-reddit-for-ai-job-search-success.md"
+    },
+    {
+        "title": "Hello Toronto – Waymo Is En Route",
+        "slug": "hello-toronto-waymo-is-en-route",
+        "author": "ChrisArchitect",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 14:44:17 +0000",
+        "description": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/ Comments URL: https://news.ycombinator.com/item?id=50118981 Points: 97 # Comments: 161",
+        "keywords": "waymo, toronto, url, https, com, comments, hello, route",
+        "generated": "2026-10-16T16:24:14.483119",
+        "file": "hello-toronto-waymo-is-en-route.md"
     },
     {
         "title": "I Built an Autonomous PR Review Agent That Runs 24/7 on My GitHub",
@@ -99043,6 +99230,17 @@
         "file": "if-a-doc-claim-cannot-compile-do-not-let-a-model-draft-it.md"
     },
     {
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "slug": "big-fish-exploiting-a-37-year-old-kernel-bug-in-openbsd",
+        "author": "rs_rs_rs_rs_rs",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 14:44:02 +0000",
+        "description": "Article URL: https://calif.io/research/big-fish Comments URL: https://news.ycombinator.com/item?id=50118977 Points: 61 # Comments: 8",
+        "keywords": "big, fish, url, https, comments, exploiting, year, old",
+        "generated": "2026-10-16T16:24:14.483238",
+        "file": "big-fish-exploiting-a-37-year-old-kernel-bug-in-openbsd.md"
+    },
+    {
         "title": "How to Build a Work Governance Framework Inside monday",
         "slug": "how-to-build-a-work-governance-framework-inside-monday",
         "author": "David Davis",
@@ -102696,6 +102894,17 @@
         "file": "flutter-347.md"
     },
     {
+        "title": "Scraping Workday job listings with Python: the 2,000-job cap and two other traps",
+        "slug": "scraping-workday-job-listings-with-python-the-2000-job-cap-and-two-other-traps",
+        "author": "hiver",
+        "source": "devto_python",
+        "published": "Fri, 16 Oct 2026 16:07:22 +0000",
+        "description": "Plenty of large employers post their openings on Workday careers sites, the *.myworkdayjobs.com and *.myworkdaysite.com pages: NVIDIA, Target, CVS Health, Fi...",
+        "keywords": "jobs, site, job, page, workday, com, you, nvidia",
+        "generated": "2026-10-16T16:24:14.484031",
+        "file": "scraping-workday-job-listings-with-python-the-2000-job-cap-and-two-other-traps.md"
+    },
+    {
         "title": "Grafana Cloud vs Metrics API: Startup SaaS Dashboard Cost Attribution",
         "slug": "grafana-cloud-vs-metrics-api-startup-saas-dashboard-cost-attribution",
         "author": "ColeMitchell4991",
@@ -104311,6 +104520,17 @@
         "keywords": "node, code, binary, json, webhook, type, name, you",
         "generated": "2026-07-03T19:37:54.522084",
         "file": "n8n-qr-code-node-generate-qr-codes-in-your-workflows-free-workflow-json.md"
+    },
+    {
+        "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+        "slug": "show-hn-onedeploy-managed-open-source-apps-with-nightly-backups-and-tls",
+        "author": "relatedcode",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 15:38:35 +0000",
+        "description": "Article URL: https://onedeploy.co Comments URL: https://news.ycombinator.com/item?id=50119752 Points: 6 # Comments: 1",
+        "keywords": "onedeploy, url, https, comments, show, managed, open, source",
+        "generated": "2026-10-16T16:24:14.482993",
+        "file": "show-hn-onedeploy-managed-open-source-apps-with-nightly-backups-and-tls.md"
     },
     {
         "title": "The Breakthrough of Cancer-Fig…",
