@@ -5171,6 +5171,17 @@
         "file": "understanding-contextsync-in-officejs-the-mistake-that-makes-excel-add-ins-slow.md"
     },
     {
+        "title": "OpenAI Agents SDK on a Custom OpenAI-Compatible API: Chat Completions, Responses and the Tracing Trap",
+        "slug": "openai-agents-sdk-on-a-custom-openai-compatible-api-chat-completions-responses-and-the-tracing-trap",
+        "author": "Aman Kumar",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 10:03:23 +0000",
+        "description": "I'm Aman Kumar. The OpenAI Agents SDK ( openai-agents on PyPI) is a clean way to run tool-calling agents in Python. Out of the box it talks to api.openai.com...",
+        "keywords": "chat, openai, agent, model, completions, you, agents, responses",
+        "generated": "2026-10-17T10:24:53.457663",
+        "file": "openai-agents-sdk-on-a-custom-openai-compatible-api-chat-completions-responses-and-the-tracing-trap.md"
+    },
+    {
         "title": "Automattic has a new board after failed attempt to put CEO on leave",
         "slug": "automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
         "author": "ilamont",
@@ -9250,6 +9261,17 @@
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
     },
     {
+        "title": "Tame boar and deer are instinctively adapting to the wolf in the Netherlands",
+        "slug": "tame-boar-and-deer-are-instinctively-adapting-to-the-wolf-in-the-netherlands",
+        "author": "felipevb",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 09:08:16 +0000",
+        "description": "Article URL: https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf Comments URL: https://news.ycombinator.com/item...",
+        "keywords": "wolf, url, https, comments, tame, boar, deer, instinctively",
+        "generated": "2026-10-17T10:24:53.454634",
+        "file": "tame-boar-and-deer-are-instinctively-adapting-to-the-wolf-in-the-netherlands.md"
+    },
+    {
         "title": "North Korean nuclear test sets off years of earthquakes",
         "slug": "north-korean-nuclear-test-sets-off-years-of-earthquakes",
         "author": "rbanffy",
@@ -9347,6 +9369,17 @@
         "keywords": "heic, jpg, tools, browser, files, livephotokit, file, boring",
         "generated": "2026-07-09T09:49:56.277160",
         "file": "free-heic-to-jpg-and-live-photo-tools-that-run-in-the-browser.md"
+    },
+    {
+        "title": "How to Get a List of Companies in a French Department or Postcode",
+        "slug": "how-to-get-a-list-of-companies-in-a-french-department-or-postcode",
+        "author": "link",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 10:17:18 +0000",
+        "description": "You want a list of companies in a French department: every business in Lozère, in Paris, or in one postcode, as a spreadsheet. For single lookups by SIREN or...",
+        "keywords": "companies, department, postcode, head, one, office, french, run",
+        "generated": "2026-10-17T10:24:53.455722",
+        "file": "how-to-get-a-list-of-companies-in-a-french-department-or-postcode.md"
     },
     {
         "title": "From $0 to $2,400/Month: My AI Affiliate Journey Built on Community Trust",
@@ -11318,6 +11351,17 @@
         "file": "when-my-ai-stress-dashboard-started-making-up-the-data.md"
     },
     {
+        "title": "49 Products, 0 Sales: The Distribution Lesson Nobody Tells Makers",
+        "slug": "49-products-0-sales-the-distribution-lesson-nobody-tells-makers",
+        "author": "Muhamad Revanza Rafif Hamdani",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 10:00:57 +0000",
+        "description": "Last March I sat in front of my sales dashboard at 11pm and counted again. 49 products live across three marketplaces. Zero sales. Not slow sales, zero. I ...",
+        "keywords": "not, products, one, distribution, sales, what, you, had",
+        "generated": "2026-10-17T10:24:53.461542",
+        "file": "49-products-0-sales-the-distribution-lesson-nobody-tells-makers.md"
+    },
+    {
         "title": "AI-Powered Workflow for Niche Physical Product Importers: From Supplier to Final Delivery",
         "slug": "ai-powered-workflow-for-niche-physical-product-importers-from-supplier-to-final-delivery",
         "author": "Ken Deng",
@@ -11558,6 +11602,17 @@
         "keywords": "alibabadevx, building, hey, glint, indie, project, windows, along",
         "generated": "2026-08-11T19:08:47.088874",
         "file": "hey-im-alibabadevx-building-glint.md"
+    },
+    {
+        "title": "Binarising AI Line Art For Vector Traceability: Threshold Choices That Survive Adobe QC",
+        "slug": "binarising-ai-line-art-for-vector-traceability-threshold-choices-that-survive-adobe-qc",
+        "author": "Muhamad Revanza Rafif Hamdani",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 10:00:46 +0000",
+        "description": "A batch of 40 line art assets came back from Adobe Stock review with the same rejection note: issues with technical quality, visible noise or artifacts. I ...",
+        "keywords": "threshold, trace, not, you, batch, one, line, art",
+        "generated": "2026-10-17T10:24:53.461903",
+        "file": "binarising-ai-line-art-for-vector-traceability-threshold-choices-that-survive-adobe-qc.md"
     },
     {
         "title": "Show HN: Sesame - a local-first, open-source password manager",
@@ -20457,6 +20512,17 @@
         "file": "ai-doesnt-need-more-intelligence-it-needs-better-coordination.md"
     },
     {
+        "title": "Codex 0.162 Lets the Model Create Git Worktrees. Its Own Working Directory Doesn't Move",
+        "slug": "codex-0162-lets-the-model-create-git-worktrees-its-own-working-directory-doesnt-move",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 10:02:07 +0000",
+        "description": "Book: Event-Driven Architecture Pocket Guide Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My ...",
+        "keywords": "git, worktree, branch, codex, task, you, model, its",
+        "generated": "2026-10-17T10:24:53.460544",
+        "file": "codex-0162-lets-the-model-create-git-worktrees-its-own-working-directory-doesnt-move.md"
+    },
+    {
         "title": "Instrument First, Then Prompt: Finding Real Agentic Pipeline Bugs",
         "slug": "instrument-first-then-prompt-finding-real-agentic-pipeline-bugs",
         "author": "Tae Kim",
@@ -22050,6 +22116,17 @@
         "keywords": "flutter, not, state, keep, robot, stale, int, nvidia",
         "generated": "2026-10-12T14:59:14.190069",
         "file": "flutter-nvidia-edge-ai-model-versioning-and-runtime-capability-negotiation.md"
+    },
+    {
+        "title": "An escape game on the TV, played with phones: keeping 5 screens in sync",
+        "slug": "an-escape-game-on-the-tv-played-with-phones-keeping-5-screens-in-sync",
+        "author": "REMI BOUVANT",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 10:15:42 +0000",
+        "description": "Since early October I've had Nocturne au musée online: an escape game you play together in front of the TV. The TV (or a computer) shows the museum, each pla...",
+        "keywords": "game, state, same, each, their, screen, server, screens",
+        "generated": "2026-10-17T10:24:53.458113",
+        "file": "an-escape-game-on-the-tv-played-with-phones-keeping-5-screens-in-sync.md"
     },
     {
         "title": "How to Monitor AI Agent Behavior in Production: Tools, Metrics, and What to Alert On",
@@ -32401,6 +32478,17 @@
         "file": "ai-made-content-free-approval-became-the-new-bottleneck.md"
     },
     {
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "slug": "is-mcp-becoming-the-common-foundation-of-smart-decentralised-search",
+        "author": "contextetech",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 09:01:30 +0000",
+        "description": "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points:...",
+        "keywords": "mcp, smart, decentralised, search, url, https, com, comments",
+        "generated": "2026-10-17T10:24:53.454792",
+        "file": "is-mcp-becoming-the-common-foundation-of-smart-decentralised-search.md"
+    },
+    {
         "title": "Why Use UTF-8 in File Handling?",
         "slug": "why-use-utf-8-in-file-handling",
         "author": "Arul .A",
@@ -35888,6 +35976,17 @@
         "file": "reversible-pii-anonymization-for-laravel-with-laranon.md"
     },
     {
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "slug": "deepseek-v41-flash-1017",
+        "author": "theykk",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 08:21:25 +0000",
+        "description": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 146 # Comments: 61",
+        "keywords": "deepseek, flash, url, https, comments, article, huggingface, news",
+        "generated": "2026-10-17T10:24:53.455032",
+        "file": "deepseek-v41-flash-1017.md"
+    },
+    {
         "title": "AI Technology and the Coordination Gap: Why Benchmarks Lie",
         "slug": "ai-technology-and-the-coordination-gap-why-benchmarks-lie",
         "author": "aarhamforensics",
@@ -38361,6 +38460,17 @@
         "keywords": "model, you, free, run, because, label, your, drift",
         "generated": "2026-08-29T06:36:04.046856",
         "file": "i-asked-a-free-model-the-same-question-for-48-hours-the-drift-was-the-signal.md"
+    },
+    {
+        "title": "I installed a bunch of agent skills. Then I wrote a tool to audit them.",
+        "slug": "i-installed-a-bunch-of-agent-skills-then-i-wrote-a-tool-to-audit-them",
+        "author": "TECHDEV",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 10:02:54 +0000",
+        "description": "Every week a new agent skills pack shows up on GitHub Trending. I installed a few. Then a few more. Then I copied skills from three different packs into one ...",
+        "keywords": "skill, name, skills, description, missing, audit, frontmatter, you",
+        "generated": "2026-10-17T10:24:53.459865",
+        "file": "i-installed-a-bunch-of-agent-skills-then-i-wrote-a-tool-to-audit-them.md"
     },
     {
         "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
@@ -41304,6 +41414,17 @@
         "file": "your-ai-agent-can-see-hear-and-talk-but-can-it-feel.md"
     },
     {
+        "title": "A crontab entry for a second weekly film, and the UTC hour it hides",
+        "slug": "a-crontab-entry-for-a-second-weekly-film-and-the-utc-hour-it-hides",
+        "author": "Robert",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 10:00:00 +0000",
+        "description": "On 14.10.2026 we shipped a second weekly film into the crontab of new-Orqestra. The entry is kids-publish-wednesday, with crontab(hour=7, minute=0, day_of_we...",
+        "keywords": "film, utc, crontab, entry, hour, wednesday, what, time",
+        "generated": "2026-10-17T10:24:53.459252",
+        "file": "a-crontab-entry-for-a-second-weekly-film-and-the-utc-hour-it-hides.md"
+    },
+    {
         "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
         "slug": "suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
         "author": "jnord",
@@ -43579,6 +43700,17 @@
         "file": "understanding-llm-hallucinations-why-ai-lies-and-how-to-fix-it.md"
     },
     {
+        "title": "Fix: useSearchParams() Should Be Wrapped in a Suspense Boundary (and Why It Only Breaks at Build)",
+        "slug": "fix-usesearchparams-should-be-wrapped-in-a-suspense-boundary-and-why-it-only-breaks-at-build",
+        "author": "Anas Sheikh",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 09:54:51 +0000",
+        "description": "You add a small search box to your navbar. It reads the query string, so you reach for useSearchParams() . Everything works in next dev . You push, the deplo...",
+        "keywords": "page, you, suspense, component, build, boundary, search, next",
+        "generated": "2026-10-17T10:24:53.459617",
+        "file": "fix-usesearchparams-should-be-wrapped-in-a-suspense-boundary-and-why-it-only-breaks-at-build.md"
+    },
+    {
         "title": "Three post-deploy checks I run after every Cloudflare Pages build",
         "slug": "three-post-deploy-checks-i-run-after-every-cloudflare-pages-build",
         "author": "MORINAGA",
@@ -44138,6 +44270,17 @@
         "keywords": "agent, long, horizon, safety, steps, results, failure, model",
         "generated": "2026-07-21T08:36:53.662557",
         "file": "how-long-horizon-ai-tasks-break-short-horizon-safety-assumptions.md"
+    },
+    {
+        "title": "How a 1st Year Student Built an Autonomous Incident Response Agent Using FalkorDB Graph Theory and AI Agents",
+        "slug": "how-a-1st-year-student-built-an-autonomous-incident-response-agent-using-falkordb-graph-theory-and-ai-agents",
+        "author": "Vivek Onkarnath Bharati",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 10:10:19 +0000",
+        "description": "By a 1st-Year Computer Science Student | Built for Graph Hacks: Context for AI Agents (WeMakeDevs & FalkorDB) 1. The 3:00 AM Cybersecurity Nightmare Picture ...",
+        "keywords": "falkordb, graph, database, name, server, agent, cut, candidate",
+        "generated": "2026-10-17T10:24:53.457173",
+        "file": "how-a-1st-year-student-built-an-autonomous-incident-response-agent-using-falkordb-graph-theory-and-ai-agents.md"
     },
     {
         "title": "Your Django background scheduler is probably running twice. Here's why, and the migrate chicken-and-egg.",
@@ -47885,6 +48028,17 @@
         "keywords": "player, sports, world, cup, england, squad, data, time",
         "generated": "2026-07-20T03:39:19.783171",
         "file": "i-scraped-100-sports-matches-here-is-what-i-found-england-2026-world-cup-squad-player-by-player-ratings.md"
+    },
+    {
+        "title": "I got tired of copying jobs off career pages, so I built a CSV exporter for Greenhouse, Lever and Ashby",
+        "slug": "i-got-tired-of-copying-jobs-off-career-pages-so-i-built-a-csv-exporter-for-greenhouse-lever-and-ashby",
+        "author": "vee",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 10:10:44 +0000",
+        "description": "Disclosure first: I built the tool in this post. It's called Vee Jobs, it's pay-per-use, and I'll try to make the article useful even if you end up picking s...",
+        "keywords": "you, jobs, run, data, companies, apify, spotify, lever",
+        "generated": "2026-10-17T10:24:53.456634",
+        "file": "i-got-tired-of-copying-jobs-off-career-pages-so-i-built-a-csv-exporter-for-greenhouse-lever-and-ashby.md"
     },
     {
         "title": "Rlm-Workflow",
@@ -59928,6 +60082,17 @@
         "file": "i-added-haschinaofficialsite-to-my-benchmark-it-failed-before-the-first-run.md"
     },
     {
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "slug": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-buy-the-hardware",
+        "author": "albinstman",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 04:36:53 +0000",
+        "description": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 74 # Comments: 28",
+        "keywords": "llmspeed, url, https, comments, show, feel, how, fast",
+        "generated": "2026-10-17T10:24:53.455152",
+        "file": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-buy-the-hardware.md"
+    },
+    {
         "title": "How I Automated My Shopify Store's Video Ads Using AI (And Increased Conversions by 40%)",
         "slug": "how-i-automated-my-shopify-stores-video-ads-using-ai-and-increased-conversions-by-40",
         "author": "Cenk KURTOĞLU",
@@ -60795,6 +60960,17 @@
         "keywords": "your, gap, logic, video, hook, retention, they, you",
         "generated": "2026-09-25T16:56:51.664967",
         "file": "master-the-logic-gap-framework-to-skyrocket-video-retention.md"
+    },
+    {
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "slug": "deepseek-deepseek-v41-flash-1017",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 08:37:46 +0000",
+        "description": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 118 # Comments: 9",
+        "keywords": "deepseek, flash, url, https, comments, article, openrouter, news",
+        "generated": "2026-10-17T10:24:53.454916",
+        "file": "deepseek-deepseek-v41-flash-1017.md"
     },
     {
         "title": "The Job Went Green. pytest Had Been Told to Collect One File.",
@@ -77473,6 +77649,17 @@
         "file": "the-free-servers-clock-was-47-seconds-fast-and-every-token-expired-early.md"
     },
     {
+        "title": "Rules: no AI clichés (listed banned words). Senior engineer style like Dan Luu / P...",
+        "slug": "rules-no-ai-clichs-listed-banned-words-senior-engineer-style-like-dan-luu-p",
+        "author": "Sandi",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 10:12:57 +0000",
+        "description": "The user wants a technical article draft in Indonesian (mostly) for Dev.to/Paragraph.com, ~600 words, about zero-gas autonomous agents and account abstractio...",
+        "keywords": "paymaster, gas, base, indonesian, account, entrypoint, zero, let",
+        "generated": "2026-10-17T10:24:53.456107",
+        "file": "rules-no-ai-clichs-listed-banned-words-senior-engineer-style-like-dan-luu-p.md"
+    },
+    {
         "title": "Revealing the Path to Success: How Python Training in BTM Can Transform Your Career Journey",
         "slug": "revealing-the-path-to-success-how-python-training-in-btm-can-transform-your-career-journey",
         "author": "H2 Lmt",
@@ -79299,6 +79486,17 @@
         "file": "cognitions-swe-2-achieves-928-on-terminal-bench-21.md"
     },
     {
+        "title": "Why Mobile App Development is Important for Businesses Essay",
+        "slug": "why-mobile-app-development-is-important-for-businesses-essay",
+        "author": "CodeXmattriX",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 10:08:49 +0000",
+        "description": "Nowadays, people use their smartphone devices to perform all types of actions from searching for information to ordering food or a movie. The importance of m...",
+        "keywords": "application, development, mobile, should, will, users, user, one",
+        "generated": "2026-10-17T10:24:53.459038",
+        "file": "why-mobile-app-development-is-important-for-businesses-essay.md"
+    },
+    {
         "title": "06: Best Laptop Keyboard Layouts Compared: Asus, Dell, HP, and Toshiba Side by Side",
         "slug": "06-best-laptop-keyboard-layouts-compared-asus-dell-hp-and-toshiba-side-by-side",
         "author": "Roboticela",
@@ -80892,6 +81090,17 @@
         "keywords": "gjethe, react, weeks, google, com, software, prishtina, kosovo",
         "generated": "2026-07-29T19:24:36.668428",
         "file": "gjethe-a-software-agency-from-prishtina-kosovo.md"
+    },
+    {
+        "title": "Pre-Deployment SEO Checks: 14 Tasks with HTML Examples",
+        "slug": "pre-deployment-seo-checks-14-tasks-with-html-examples",
+        "author": "AI Build Infra",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 10:10:02 +0000",
+        "description": "Your website builds successfully, the design looks good, and the deployment is ready. Before you ship, check the details that affect how visitors and search ...",
+        "keywords": "your, page, launch, seo, website, content, html, check",
+        "generated": "2026-10-17T10:24:53.458490",
+        "file": "pre-deployment-seo-checks-14-tasks-with-html-examples.md"
     },
     {
         "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
@@ -84148,6 +84357,17 @@
         "keywords": "time, pickford, sports, data, credit, has, record, breaker",
         "generated": "2026-07-12T03:28:48.640308",
         "file": "analyzing-sports-data-is-it-time-to-give-record-breaker-pickford-the-credit-he-deserves-what-the-numbers-say.md"
+    },
+    {
+        "title": "OpenAI dots: the agent that works while you sleep",
+        "slug": "openai-dots-the-agent-that-works-while-you-sleep",
+        "author": "Kirill Lukyanov",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 10:01:26 +0000",
+        "description": "A regular ChatGPT conversation lives as long as the tab is open. Close it, and everything waits for your next message. On September 29 at DevDay, OpenAI show...",
+        "keywords": "dot, you, can, dots, your, work, one, what",
+        "generated": "2026-10-17T10:24:53.461111",
+        "file": "openai-dots-the-agent-that-works-while-you-sleep.md"
     },
     {
         "title": "LuisCore — inference-scale runtime substrate for multi-step inference",

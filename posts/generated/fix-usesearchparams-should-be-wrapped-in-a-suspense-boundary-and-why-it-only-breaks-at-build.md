@@ -1,0 +1,34 @@
+---
+title: "Fix: useSearchParams() Should Be Wrapped in a Suspense Boundary (and Why It Only Breaks at Build)"
+slug: "fix-usesearchparams-should-be-wrapped-in-a-suspense-boundary-and-why-it-only-breaks-at-build"
+author: "Anas Sheikh"
+source: "devto_webdev"
+published: "Sat, 17 Oct 2026 09:54:51 +0000"
+description: "You add a small search box to your navbar. It reads the query string, so you reach for useSearchParams() . Everything works in next dev . You push, the deplo..."
+keywords: "page, you, suspense, component, build, boundary, search, next"
+generated: "2026-10-17T10:24:53.459617"
+---
+
+# Fix: useSearchParams() Should Be Wrapped in a Suspense Boundary (and Why It Only Breaks at Build)
+
+## Overview
+
+You add a small search box to your navbar. It reads the query string, so you reach for useSearchParams() . Everything works in next dev . You push, the deploy fails, and the build log says: useSearchParams() should be wrapped in a suspense boundary at page "/about". Read more: https://nextjs.org/docs/messages/missing-suspense-with-csr-bailout Notice the page name. You did not touch /about . That detail is the whole story. The Code That Triggers It // components/SearchBox.tsx ' use client ' ; import { useSearchParams } from ' next/navigation ' ; export function SearchBox () { const searchParams = useSearchParams (); const query = searchParams . get ( ' q ' ) ?? '' ; return < input defaultValue = { query } placeholder = "Search..." />; } // app/layout.tsx import { SearchBox } from ' @/components/SearchBox ' ; export default function RootLayout ({ children }: { children : React . ReactNode }) { return ( < html lang = "en" > < body > < nav > < SearchBox /> </ nav > { children } </ body > </ html > ); } Nothing here looks wrong, and next dev agrees with you. Why Only the Build Complains At build time, Next.js tries to pre-render every page that does not obviously need request data into static HTML. That is the fast path, and it is the default. But a static page is built once, before any visitor exists, so it has no query string. useSearchParams() needs one. Next.js handles this by bailing out of static rendering for that part of the tree : the component is skipped on the server and rendered in the browser instead. The catch is how far the bail-out spreads. Without a Suspense boundary around the component, the nearest boundary is the page itself, which would turn the whole page into client-side rendering and quietly throw away the static HTML you were about to ship. Instead of letting that happen silently, the build fails and asks you to say where the boundary should be. Dev mode renders every page on demand, so it never has to make that decision, which is why the error only shows up when you build. Why It Hits Every Page at Once I put the component in layout.tsx on purpose. A shared layout wraps every page, so one unguarded useSearchParams() in a navbar breaks the build for / , /about , /pricing and every other static route at the same time. That is also why the error names a page you never edited. The problem lives in a shared component. Fix 1: Wrap the Component in Suspense // app/layout.tsx import { Suspense } from ' react ' ; import { SearchBox } from ' @/components/SearchBox ' ; export default function RootLayout ({ children }: { children : React . ReactNode }) { return ( < html lang = "en" > < body > < nav > < Suspense fallback = { < input disabled placeholder = "Search..." /> } > < SearchBox /> </ Suspense > </ nav > { children } </ body > </ html > ); } Now only the search box is rendered in the browser. Everything else stays static HTML. The fallback is what visitors see until the client takes over, so make it the same size as the real component to avoid the layout jumping when it swaps in. This is the fix to reach for first. It keeps your pages static and limits the client-side part to the one component that needs it. Fix 2: Read the Params on the Server and Pass Them Down If the value is only needed on one page, skip the hook entirely. Pages receive searchParams as a prop: // app/search/page.tsx export default async function SearchPage ({ searchParams , }: { searchParams : Promise < { q ?: string } > ; }) { const { q } = await searchParams ; return < SearchResults query = { q ?? '' } />; } In Next.js 15, searchParams is a Promise, so it has to be awaited. Reading it marks that page as dynamic, so it renders per request instead of at build time. For a real search results page that is exactly what you want. Fix 3: Force the Route to Be Dynamic export const dynamic = ' force-dynamic ' ; This also makes the error disappear, but it does so by giving up static rendering for the route. Use it when the page genuinely depends on the request, not as a way to silence the build. On a marketing page it trades speed for nothing. Which Fix When Situation Fix Small interactive component reads the URL (navbar search, filters, tabs) Suspense around that component An entire page depends on the query string Read searchParams in the page The page really is per-request force-dynamic A Detail Worth Knowing About the Fallback Whatever sits inside the Suspense boundary is client-rendered, so it will not be in the initial HTML. For a search input that does not matter. For content you want indexed, keep it outside the boundary. A fallback that does not match the final size also adds layout shift, which counts against your Core Web Vitals. I cover what those metrics measure in this plain-language guide . The Rule A client component that reads request-time data needs a Suspense boundary, so Next.js knows how much of the page to make dynamic. Put the boundary as close to the component as you can, and the rest of the page stays static. I wrap every URL-driven component this way across my Next.js templates , so the production build never depends on where a navbar or filter bar ends up in the layout. Get the templates: https://pixelanas.gumroad.com Search your project for useSearchParams and check that every use sits inside a Suspense boundary, especially anything imported by layout.tsx . If you have hit a different build-only error, drop it in the comments. Anas, full-stack Next.js developer building SaaS products and premium templates. X: @ASheikh69751
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/anas_sheikh_2/fix-usesearchparams-should-be-wrapped-in-a-suspense-boundary-and-why-it-only-breaks-at-build-4l8l
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
