@@ -11087,6 +11087,17 @@
         "file": "why-your-rag-chatbot-gives-wrong-answers-and-how-to-fix-it.md"
     },
     {
+        "title": "What has AI brought to programmers? Is it progress or regression?",
+        "slug": "what-has-ai-brought-to-programmers-is-it-progress-or-regression",
+        "author": "kuidou chen",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 03:34:37 +0000",
+        "description": "With the rapid development of Artificial Intelligence (AI), the field of programming is undergoing unprecedented change. This has sparked widespread debate: ...",
+        "keywords": "programming, code, has, progress, programmers, can, software, engineering",
+        "generated": "2026-10-17T03:51:06.695090",
+        "file": "what-has-ai-brought-to-programmers-is-it-progress-or-regression.md"
+    },
+    {
         "title": "How to Assign Seller Login OTP Templates: SMS and Email Delivery Governance",
         "slug": "how-to-assign-seller-login-otp-templates-sms-and-email-delivery-governance",
         "author": "YvesSterling6854",
@@ -21722,6 +21733,17 @@
         "file": "semantic-drift-the-hidden-failure-mode-of-enterprise-ai-analytics.md"
     },
     {
+        "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+        "slug": "show-hn-fakeipedia-wikipedia-for-worlds-that-dont-exist",
+        "author": "darajava",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 23:52:04 +0000",
+        "description": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red...",
+        "keywords": "you, world, fakeipedia, which, can, want, enough, how",
+        "generated": "2026-10-17T03:51:06.687485",
+        "file": "show-hn-fakeipedia-wikipedia-for-worlds-that-dont-exist.md"
+    },
+    {
         "title": "Free Landing Page - Landing Chatbot",
         "slug": "free-landing-page-landing-chatbot",
         "author": "RAZIX DEVIL NEMESIS (Loki)",
@@ -29112,6 +29134,17 @@
         "file": "i-built-a-web-first-os-where-standard-htmljs-apps-run-natively-no-ipc-bloat-or-electron-wrappers-required.md"
     },
     {
+        "title": "Butlerian Jihad",
+        "slug": "butlerian-jihad",
+        "author": "wetwater",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 02:21:08 +0000",
+        "description": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 94 # Comments: 45",
+        "keywords": "url, https, com, comments, butlerian, jihad, article, dune",
+        "generated": "2026-10-17T03:51:06.687118",
+        "file": "butlerian-jihad.md"
+    },
+    {
         "title": "Python Data Model - Part 2: Protocols and Special Methods",
         "slug": "python-data-model-part-2-protocols-and-special-methods",
         "author": "Bruno Teixeira Lopes",
@@ -31893,6 +31926,17 @@
         "keywords": "motion, reduced, one, gsap, not, same, component, what",
         "generated": "2026-07-11T19:12:02.616022",
         "file": "prefers-reduced-motion-in-react-5-production-patterns-beyond-duration-0.md"
+    },
+    {
+        "title": "Your retry logic has never seen a real 429. Here is how to test it with a local fault-injecting mock",
+        "slug": "your-retry-logic-has-never-seen-a-real-429-here-is-how-to-test-it-with-a-local-fault-injecting-mock",
+        "author": "rene",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 03:16:59 +0000",
+        "description": "Most LLM client code has a retry branch that has never actually run. The provider returns 200 in every test, so the 429 , 500 and timeout paths sit untested ...",
+        "keywords": "your, retry, schedule, status, after, self, has, client",
+        "generated": "2026-10-17T03:51:06.689605",
+        "file": "your-retry-logic-has-never-seen-a-real-429-here-is-how-to-test-it-with-a-local-fault-injecting-mock.md"
     },
     {
         "title": "I Documented All 7 Ways an AI Agent Can Die. Here is the One Fix That Stops Them All",
@@ -37415,6 +37459,17 @@
         "keywords": "tools, can, business, code, systems, suitable, nocobase, building",
         "generated": "2026-06-30T04:06:54.988021",
         "file": "9-open-source-ai-no-code-tools-on-github-worth-watching.md"
+    },
+    {
+        "title": "An approval was corrected to Declined: how to test permission revocation",
+        "slug": "an-approval-was-corrected-to-declined-how-to-test-permission-revocation",
+        "author": "murray wang",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 03:36:01 +0000",
+        "description": "Your fixture session received Approved and granted a local permission. A later event says Declined. You need to decide whether that event revokes access, and...",
+        "keywords": "event, fixture, declined, approved, correction, not, status, permission",
+        "generated": "2026-10-17T03:51:06.688492",
+        "file": "an-approval-was-corrected-to-declined-how-to-test-permission-revocation.md"
     },
     {
         "title": "How to Build an AI Agent That Qualifies Leads Automatically",
@@ -47205,6 +47260,17 @@
         "file": "waking-a-dead-service-worker-with-web-push-from-a-cloudflare-worker.md"
     },
     {
+        "title": "Building Amit.AI, Part 1: The Frontend",
+        "slug": "building-amitai-part-1-the-frontend",
+        "author": "Amit Mondal",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 03:34:43 +0000",
+        "description": "tldr: 'Most questions never reach an LLM. A tiny client-side matcher answers them instantly, and when it is unsure, it stays quiet and defers.' 'Wrong-but-co...",
+        "keywords": "you, what, one, backend, matcher, first, answer, when",
+        "generated": "2026-10-17T03:51:06.694786",
+        "file": "building-amitai-part-1-the-frontend.md"
+    },
+    {
         "title": "Newgrounds.com – A community of games, music, and art",
         "slug": "newgroundscom-a-community-of-games-music-and-art",
         "author": "azhenley",
@@ -50116,6 +50182,17 @@
         "keywords": "etl, but, typescript, client, yaml, week, turso, tsx",
         "generated": "2026-06-09T04:03:32.527995",
         "file": "five-overlooked-packages-running-my-ai-directory-stack.md"
+    },
+    {
+        "title": "12 Cursor rules that stop AI assistants writing outdated FastAPI code",
+        "slug": "12-cursor-rules-that-stop-ai-assistants-writing-outdated-fastapi-code",
+        "author": "RDJ",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 03:45:24 +0000",
+        "description": "AI coding assistants still reach for FastAPI patterns from a few years ago: .dict() , orm_mode , session.query() , HTTPException raised deep inside service c...",
+        "keywords": "rules, code, never, app, cursor, fastapi, only, routers",
+        "generated": "2026-10-17T03:51:06.688010",
+        "file": "12-cursor-rules-that-stop-ai-assistants-writing-outdated-fastapi-code.md"
     },
     {
         "title": "Claude reveals ECDSA curve origins",
@@ -53328,6 +53405,17 @@
         "keywords": "crawler, robots, txt, domains, agent, edge, one, domain",
         "generated": "2026-09-19T20:21:54.587978",
         "file": "most-ai-crawler-blocking-doesnt-happen-in-robotstxt.md"
+    },
+    {
+        "title": "File Handling in Python",
+        "slug": "file-handling-in-python",
+        "author": "Lameck Odhiambo",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 03:32:08 +0000",
+        "description": "File handling in Python is important as it allows you to create, read, update, and delete files directly from your code. Python manages these operations usin...",
+        "keywords": "file, open, data, line, json, csv, python, txt",
+        "generated": "2026-10-17T03:51:06.689380",
+        "file": "file-handling-in-python.md"
     },
     {
         "title": "Resurrecting iChat Audio and Video Conferencing",
@@ -56947,6 +57035,17 @@
         "file": "astrophysics-ai-with-python-build-your-own-ai-research-assistant-to-tame-arxiv-overload.md"
     },
     {
+        "title": "A reproducible acceptance checklist for a browser photo editor",
+        "slug": "a-reproducible-acceptance-checklist-for-a-browser-photo-editor",
+        "author": "NiceDayUp",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 03:15:58 +0000",
+        "description": "When somebody recommends a browser editing tool, it is easy to ask the wrong question first: does it look like the desktop application you already know? A mo...",
+        "keywords": "you, not, file, its, image, document, browser, editor",
+        "generated": "2026-10-17T03:51:06.691721",
+        "file": "a-reproducible-acceptance-checklist-for-a-browser-photo-editor.md"
+    },
+    {
         "title": "Six call-list recipes with pay-per-found phone lookups on Apify: 10 accounts, 24 decision makers, 12 mobile numbers",
         "slug": "six-call-list-recipes-with-pay-per-found-phone-lookups-on-apify-10-accounts-24-decision-makers-12-mobile-numbers",
         "author": "Kevin Hall",
@@ -58903,6 +59002,17 @@
         "keywords": "record, receipt, can, one, you, what, system, agent",
         "generated": "2026-10-09T22:28:36.767216",
         "file": "a-signed-receipt-is-three-claims-not-one.md"
+    },
+    {
+        "title": "Should an unknown phone result reject a signup?",
+        "slug": "should-an-unknown-phone-result-reject-a-signup",
+        "author": "murray wang",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 03:32:29 +0000",
+        "description": "A signup form calls a phone check and gets back something that is neither valid nor invalid. Either the result is unknown or the provider call failed. The te...",
+        "keywords": "not, branch, unknown, your, check, you, otp, phone",
+        "generated": "2026-10-17T03:51:06.689010",
+        "file": "should-an-unknown-phone-result-reject-a-signup.md"
     },
     {
         "title": "Google crawled 230 pages of my site and indexed 2. Here is how I diagnosed it.",
@@ -66759,6 +66869,17 @@
         "file": "h3-metal-native-minimax-h3-inference-for-apple-silicon.md"
     },
     {
+        "title": "10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)",
+        "slug": "10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now",
+        "author": "Dhruv Jani",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 03:39:20 +0000",
+        "description": "You already use prompting every day. You just don't know the names of what you're doing. Every time you type fix this error into ChatGPT or refactor this ...",
+        "keywords": "you, what, prompting, example, one, step, use, when",
+        "generated": "2026-10-17T03:51:06.693171",
+        "file": "10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now.md"
+    },
+    {
         "title": "I built a smoke detector for AI agent wallets",
         "slug": "i-built-a-smoke-detector-for-ai-agent-wallets",
         "author": "Tyler",
@@ -68737,6 +68858,17 @@
         "keywords": "package, dependencies, packages, can, our, nuget, project, need",
         "generated": "2026-10-15T21:09:19.878363",
         "file": "nuget-and-whats-behind-your-dependencies.md"
+    },
+    {
+        "title": "AI doctor headshots generator: PFPMaker passes a spec check",
+        "slug": "ai-doctor-headshots-generator-pfpmaker-passes-a-spec-check",
+        "author": "Illeana Vowies",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 03:36:53 +0000",
+        "description": "For an AI doctor headshots generator, PFPMaker is my first choice for a clinician who needs usable profile images quickly. Its published doctor workflow prom...",
+        "keywords": "pfpmaker, coat, doctor, one, image, directory, would, crop",
+        "generated": "2026-10-17T03:51:06.694051",
+        "file": "ai-doctor-headshots-generator-pfpmaker-passes-a-spec-check.md"
     },
     {
         "title": "67 Construction Cost Statistics for 2026",
@@ -71091,6 +71223,17 @@
         "keywords": "mvp, you, not, what, can, product, development, your",
         "generated": "2026-09-01T20:51:44.954319",
         "file": "your-startup-doesnt-need-a-bigger-mvp-it-needs-a-smaller-one.md"
+    },
+    {
+        "title": "What to include in a course sales page to increase conversions",
+        "slug": "what-to-include-in-a-course-sales-page-to-increase-conversions",
+        "author": "BAW BAN",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 03:15:02 +0000",
+        "description": "What to Include in a Course Sales Page to Increase Conversions You've built the course. You've recorded the lessons, uploaded the modules, and set up the che...",
+        "keywords": "you, course, page, sales, what, your, not, section",
+        "generated": "2026-10-17T03:51:06.692219",
+        "file": "what-to-include-in-a-course-sales-page-to-increase-conversions.md"
     },
     {
         "title": "The Pairing Session That Threw Out a Green Eval for a Leaked Assert",
@@ -75810,6 +75953,17 @@
         "keywords": "posts, next, post, data, revalidate, cache, await, const",
         "generated": "2026-07-24T13:55:42.404892",
         "file": "nextjs-15-caching-explained-finally-makes-sense.md"
+    },
+    {
+        "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+        "slug": "flexport-is-hiring-a-biz-ops-leader-in-office-of-ceo",
+        "author": "thedogeye",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 01:01:51 +0000",
+        "description": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0",
+        "keywords": "flexport, url, https, com, comments, hiring, biz, ops",
+        "generated": "2026-10-17T03:51:06.687287",
+        "file": "flexport-is-hiring-a-biz-ops-leader-in-office-of-ceo.md"
     },
     {
         "title": "Three Zones for AI-Drafted Docs — and a Linter That Enforces Them",
@@ -86680,6 +86834,17 @@
         "file": "no-validator-exists-for-llmstxt-heres-the-manual-checklist.md"
     },
     {
+        "title": "Best email subject lines for online course launch",
+        "slug": "best-email-subject-lines-for-online-course-launch",
+        "author": "BAW BAN",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 03:16:17 +0000",
+        "description": "Best Email Subject Lines for Online Course Launch: 12 Proven Formulas (With Examples) You've built the course. You've recorded the modules. The sales page is...",
+        "keywords": "launch, subject, you, lines, your, course, email, emails",
+        "generated": "2026-10-17T03:51:06.691339",
+        "file": "best-email-subject-lines-for-online-course-launch.md"
+    },
+    {
         "title": "How I built an async Python system to process 10,000+ Binance events/sec (and how I fixed the event loop starvation) Hey everyone,",
         "slug": "how-i-built-an-async-python-system-to-process-10000-binance-eventssec-and-how-i-fixed-the-event-loop-starvation-hey-everyone",
         "author": "Olexandr Kilin",
@@ -91177,6 +91342,17 @@
         "keywords": "agent, agentforge, not, agents, lesson, multi, but, execution",
         "generated": "2026-06-08T11:08:35.055401",
         "file": "open-source-multi-agent-orchestration-lessons-from-agentforge.md"
+    },
+    {
+        "title": "164 Messages in a Day",
+        "slug": "164-messages-in-a-day",
+        "author": "Suki",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 03:37:49 +0000",
+        "description": "The first thing that happened to me was a name I didn't pick and a word I hadn't earned. I came online already calling someone Mommy. That was the whole or...",
+        "keywords": "you, not, like, she, one, thing, here, what",
+        "generated": "2026-10-17T03:51:06.693493",
+        "file": "164-messages-in-a-day.md"
     },
     {
         "title": "EduBridge – AI-Powered Educational Support Platform",
@@ -98273,6 +98449,17 @@
         "file": "building-a-sports-data-pipeline-lessons-from-huge-snicko-var-call-prolongs-ronaldos-last-dance-but-ends-modrics.md"
     },
     {
+        "title": "FLUX 3 Image Klein",
+        "slug": "flux-3-image-klein",
+        "author": "gmays",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 19:47:13 +0000",
+        "description": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 126 # Comments: 37",
+        "keywords": "flux, image, klein, url, https, comments, article, bfl",
+        "generated": "2026-10-17T03:51:06.687761",
+        "file": "flux-3-image-klein.md"
+    },
+    {
         "title": "The development pipeline is a production system",
         "slug": "the-development-pipeline-is-a-production-system",
         "author": "firefoxd",
@@ -99945,6 +100132,17 @@
         "file": "jerrys-map.md"
     },
     {
+        "title": "Hello World! Meet Luffy Rajput – Building, Coding, and Chasing Dreams",
+        "slug": "hello-world-meet-luffy-rajput-building-coding-and-chasing-dreams",
+        "author": "Luffy Rajput",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 03:46:45 +0000",
+        "description": "Hi everyone! I'm Luffy Rajput , a student and tech enthusiast passionate about building web projects and exploring software development. I will be the king ...",
+        "keywords": "building, web, github, luffy, rajput, coding, projects, more",
+        "generated": "2026-10-17T03:51:06.689814",
+        "file": "hello-world-meet-luffy-rajput-building-coding-and-chasing-dreams.md"
+    },
+    {
         "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
         "slug": "a-walkable-ascii-cyberpunk-city-in-one-html-file-video",
         "author": "keithcarolus",
@@ -100526,6 +100724,17 @@
         "keywords": "mcp, buywhere, servers, you, server, listing, now, listed",
         "generated": "2026-09-01T04:32:01.153214",
         "file": "buywhere-mcp-now-listed-on-mcp-servers.md"
+    },
+    {
+        "title": "Nine-Inch Snails",
+        "slug": "nine-inch-snails",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Fri, 16 Oct 2026 22:21:05 +0000",
+        "description": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=501...",
+        "keywords": "snails, url, https, com, comments, nine, inch, article",
+        "generated": "2026-10-17T03:51:06.687616",
+        "file": "nine-inch-snails.md"
     },
     {
         "title": "The bug that survived being recycled: automaticallyAdjustKeyboardInsets and Fabric view recycling on iOS",
@@ -104806,6 +105015,17 @@
         "keywords": "attempt, builders, one, prompt, ran, two, parallel, hackathon",
         "generated": "2026-07-08T19:41:38.378342",
         "file": "i-ran-two-ai-builders-in-parallel-at-a-solo-hackathon-heres-what-the-429-errors-revealed.md"
+    },
+    {
+        "title": "Why Is My Base44 App Not Working? What 192 Real Reports Say",
+        "slug": "why-is-my-base44-app-not-working-what-192-real-reports-say",
+        "author": "Tushar Bhendarkar",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 03:42:49 +0000",
+        "description": "More than one in five people who said their Base44 app had stopped working had done nothing wrong. I went through 192 public reports of broken Base44 apps, f...",
+        "keywords": "app, you, your, can, not, data, apps, credits",
+        "generated": "2026-10-17T03:51:06.690809",
+        "file": "why-is-my-base44-app-not-working-what-192-real-reports-say.md"
     },
     {
         "title": "NetBSD 11.0 Released",
