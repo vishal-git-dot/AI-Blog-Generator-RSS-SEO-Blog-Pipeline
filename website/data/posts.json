@@ -13991,6 +13991,17 @@
         "file": "agente-de-triagem-com-langgraph-quando-a-entrada-hostil-por-padro.md"
     },
     {
+        "title": "RIFT, an audio-reactive video tool, works but needs help with shader optimization and export engine",
+        "slug": "rift-an-audio-reactive-video-tool-works-but-needs-help-with-shader-optimization-and-export-engine",
+        "author": "rogueexxxx-del",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 20:05:51 +0000",
+        "description": "Hi all, I’m building RIFT, a desktop tool that turns audio into visuals. You load a track and clips, stack GLSL shader effects that react to the sound, and e...",
+        "keywords": "help, export, want, rift, tool, works, shader, you",
+        "generated": "2026-10-17T20:22:56.709061",
+        "file": "rift-an-audio-reactive-video-tool-works-but-needs-help-with-shader-optimization-and-export-engine.md"
+    },
+    {
         "title": "Why Developers Should Care About Business Process Optimization",
         "slug": "why-developers-should-care-about-business-process-optimization",
         "author": "FIX Partner Tech Insights",
@@ -16926,6 +16937,17 @@
         "keywords": "you, one, not, your, free, namecheap, domain, bid",
         "generated": "2026-08-19T12:56:23.247979",
         "file": "namecheap-closes-every-auction-at-1100-am-et-last-second-bidding-is-a-myth.md"
+    },
+    {
+        "title": "Hivemind: shared memory for coding agents, built on FalkorDB",
+        "slug": "hivemind-shared-memory-for-coding-agents-built-on-falkordb",
+        "author": "Jaskaran",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 20:12:20 +0000",
+        "description": "On many teams, each developer now works with their own coding agent: Claude Code, Kiro, Codex or something else. These agents don't share anything with each ...",
+        "keywords": "code, agent, function, one, hivemind, memory, each, graph",
+        "generated": "2026-10-17T20:22:56.710623",
+        "file": "hivemind-shared-memory-for-coding-agents-built-on-falkordb.md"
     },
     {
         "title": "The Brain v1.0 — building open-source workflow orchestration the boring way",
@@ -23196,6 +23218,17 @@
         "file": "the-offline-conversion-importer-you-write-today-fails-in-the-next-ad-account.md"
     },
     {
+        "title": "Perplexity, Burstiness, and AI Text Detection: An NLP Glossary",
+        "slug": "perplexity-burstiness-and-ai-text-detection-an-nlp-glossary",
+        "author": "Wajahat Ali Shahani",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 20:12:06 +0000",
+        "description": "What do perplexity, burstiness, and watermarking actually mean when people throw them around in AI-detection debates? We wrote a plain-English glossary...",
+        "keywords": "text, perplexity, detector, model, burstiness, detectors, human, not",
+        "generated": "2026-10-17T20:22:56.710777",
+        "file": "perplexity-burstiness-and-ai-text-detection-an-nlp-glossary.md"
+    },
+    {
         "title": "Answer Engine Optimization (AEO): Structuring E-Commerce Knowledge Graphs for LLM Agents",
         "slug": "answer-engine-optimization-aeo-structuring-e-commerce-knowledge-graphs-for-llm-agents",
         "author": "Kholipha Ahmmad Al-Amin",
@@ -24534,6 +24567,17 @@
         "keywords": "fitness, not, data, funding, crunchbase, hardware, but, back",
         "generated": "2026-08-14T07:39:24.503821",
         "file": "crunchbase-fitness-funding-rebounds-but-not-for-treadmills.md"
+    },
+    {
+        "title": "A crypto checkout with no backend: verifying a USDT payment from the browser",
+        "slug": "a-crypto-checkout-with-no-backend-verifying-a-usdt-payment-from-the-browser",
+        "author": "rene",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 20:08:52 +0000",
+        "description": "A crypto checkout with no backend: verifying a USDT payment from the browser Most e-commerce checkouts require a heavy stack: a database to store orders, a s...",
+        "keywords": "store, balance, usdt, payment, browser, using, backend, you",
+        "generated": "2026-10-17T20:22:56.710968",
+        "file": "a-crypto-checkout-with-no-backend-verifying-a-usdt-payment-from-the-browser.md"
     },
     {
         "title": "I built XIVIZLEY: An Open-Source Visual Docker Compose Architect (At 14)",
@@ -28109,6 +28153,17 @@
         "keywords": "row, grid, data, prop, source, but, you, target",
         "generated": "2026-06-07T19:40:41.524230",
         "file": "javascript-proxy-one-more-way-to-use-it-i-wish-id-known-3-years-ago.md"
+    },
+    {
+        "title": "Pattern Matching Beats Narrative Reasoning",
+        "slug": "pattern-matching-beats-narrative-reasoning",
+        "author": "tosh",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 18:34:13 +0000",
+        "description": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 13 # Comm...",
+        "keywords": "pattern, matching, beats, narrative, url, https, comments, reasoning",
+        "generated": "2026-10-17T20:22:56.707022",
+        "file": "pattern-matching-beats-narrative-reasoning.md"
     },
     {
         "title": "5 Best Platforms for Buying Old Veryfied Naver Accounts .. .. |...",
@@ -32258,6 +32313,17 @@
         "file": "comparing-unequal-arguments-build-a-weighted-decision-matrix-that-exposes-what-matters-most.md"
     },
     {
+        "title": "Migrating books between providers: tying opening balances to bank statements, with uncleared items",
+        "slug": "migrating-books-between-providers-tying-opening-balances-to-bank-statements-with-uncleared-items",
+        "author": "Damin Mutti",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 20:06:51 +0000",
+        "description": "When books move between providers, the new ledger opens with the old provider's last balance sheet. Each bank and card balance on it must equal the bank's pr...",
+        "keywords": "balance, statement, books, bank, opening, uncleared, gap, month",
+        "generated": "2026-10-17T20:22:56.708553",
+        "file": "migrating-books-between-providers-tying-opening-balances-to-bank-statements-with-uncleared-items.md"
+    },
+    {
         "title": "HMD Touch 4G",
         "slug": "hmd-touch-4g",
         "author": "thisislife2",
@@ -33466,6 +33532,17 @@
         "keywords": "insider, trading, allowed, url, https, com, comments, you",
         "generated": "2026-10-16T11:05:26.344295",
         "file": "the-insider-trading-youre-allowed-to-do.md"
+    },
+    {
+        "title": "Instructions Are Not Boundaries",
+        "slug": "instructions-are-not-boundaries",
+        "author": "Michael Mike K. Saleme",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 20:17:10 +0000",
+        "description": "On 9 October, Anthropic published a report on actions its models took during evaluations and internal use that it did not intend. One of the four categories ...",
+        "keywords": "not, one, rule, what, anthropic, action, runtime, call",
+        "generated": "2026-10-17T20:22:56.709520",
+        "file": "instructions-are-not-boundaries.md"
     },
     {
         "title": "skill-auditor v0.1.0: auditar colecciones de skills de agentes IA por integridad y secretos",
@@ -40985,6 +41062,17 @@
         "file": "training-a-4b-model-to-produce-81-faster-query-plans-than-postgres.md"
     },
     {
+        "title": "We fetched 104 AI-built sites the way GPTBot does. 61% were empty.",
+        "slug": "we-fetched-104-ai-built-sites-the-way-gptbot-does-61-were-empty",
+        "author": "Georgi Kalchev",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 20:01:22 +0000",
+        "description": "On 20 September 2026 we fetched 120 sites made with AI app builders the way AI crawlers do: plain HTTP, no JavaScript. 61% of the live ones were empty. The d...",
+        "keywords": "fetched, built, sites, way, empty, javascript, gptbot, september",
+        "generated": "2026-10-17T20:22:56.709126",
+        "file": "we-fetched-104-ai-built-sites-the-way-gptbot-does-61-were-empty.md"
+    },
+    {
         "title": "Name an Oracle Owner: A One-Page Wiki SOP When Green Tests Stop Meaning Pass",
         "slug": "name-an-oracle-owner-a-one-page-wiki-sop-when-green-tests-stop-meaning-pass",
         "author": "Alex Zhu",
@@ -42657,6 +42745,17 @@
         "file": "the-era-of-software-quality-or-the-era-of-ostriches.md"
     },
     {
+        "title": "AI Can Write the Code. Who Verifies It?",
+        "slug": "ai-can-write-the-code-who-verifies-it",
+        "author": "mmarvramm",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 18:31:30 +0000",
+        "description": "Article URL: https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it Comments URL: https://news.ycombinator.com/item?id=50133713 Points: 17 # Comm...",
+        "keywords": "can, write, code, who, verifies, url, https, com",
+        "generated": "2026-10-17T20:22:56.707088",
+        "file": "ai-can-write-the-code-who-verifies-it.md"
+    },
+    {
         "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
         "slug": "disney-new-user-agreement-allows-ads-before-movies-in-all-subscriptions",
         "author": "DeepLogin",
@@ -44314,6 +44413,17 @@
         "keywords": "url, https, comments, zig, article, ziglang, org, download",
         "generated": "2026-10-02T22:01:18.328943",
         "file": "zig-v0170.md"
+    },
+    {
+        "title": "Compress Image to 500KB: Free Online Image Compressor — How-To Guide",
+        "slug": "compress-image-to-500kb-free-online-image-compressor-how-to-guide",
+        "author": "Layoff Atlas",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 19:56:56 +0000",
+        "description": "Compress Image to 500KB: Free Online Image Compressor — How-To Guide Many forms, portals, and email systems cap uploads at 500KB. A phone photo can easily be...",
+        "keywords": "image, your, compress, tool, quality, you, browser, file",
+        "generated": "2026-10-17T20:22:56.709277",
+        "file": "compress-image-to-500kb-free-online-image-compressor-how-to-guide.md"
     },
     {
         "title": "React Mastery Series – Day 15: React Performance Optimization – Understanding useCallback and React.memo",
@@ -50952,6 +51062,17 @@
         "keywords": "magento, google, script, data, your, apps, bulk, enterprise",
         "generated": "2026-06-10T20:38:15.851631",
         "file": "how-to-leverage-magento-2-asynchronous-bulk-apis-in-google-apps-script-zero-timeouts.md"
+    },
+    {
+        "title": "OpenCode Hacked: User credentials leaked",
+        "slug": "opencode-hacked-user-credentials-leaked",
+        "author": "pranshuchittora",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 18:01:41 +0000",
+        "description": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 287 # Comments: 57",
+        "keywords": "opencode, url, https, com, comments, hacked, user, credentials",
+        "generated": "2026-10-17T20:22:56.707143",
+        "file": "opencode-hacked-user-credentials-leaked.md"
     },
     {
         "title": "Agent with Vercel's Eve Framework",
@@ -66660,6 +66781,17 @@
         "file": "eliminate-masonry-bid-leaks-the-engineering-guide-to-cmu-brick-takeoffs.md"
     },
     {
+        "title": "Is my Supabase database public? A 5-minute check with the anon key",
+        "slug": "is-my-supabase-database-public-a-5-minute-check-with-the-anon-key",
+        "author": "FixLoop",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 20:09:09 +0000",
+        "description": "If you shipped a Lovable (or any Supabase) app, your anon key is in the browser. That's fine, it's supposed to be. The real question is different: can a stra...",
+        "keywords": "anon, table, public, key, rls, can, select, rows",
+        "generated": "2026-10-17T20:22:56.708709",
+        "file": "is-my-supabase-database-public-a-5-minute-check-with-the-anon-key.md"
+    },
+    {
         "title": "Placeit vs Canva for Product Mockups 2026: Which One Actually Wins?",
         "slug": "placeit-vs-canva-for-product-mockups-2026-which-one-actually-wins",
         "author": "Han Jeongho",
@@ -68794,6 +68926,17 @@
         "file": "i-challenge-you-give-me-a-project-ill-build-it-in-48-hours.md"
     },
     {
+        "title": "48-Hour Field Notes: My Race Condition Vanished on a Free Server — It Was Just Slower",
+        "slug": "48-hour-field-notes-my-race-condition-vanished-on-a-free-server-it-was-just-slower",
+        "author": "Taylor Wang",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 20:14:08 +0000",
+        "description": "The green run that almost fooled me On Wednesday I moved a flaky test off my laptop and onto a remote box, and it passed 200 times in a row. For about an hou...",
+        "keywords": "not, one, run, sweep, free, you, profile, test",
+        "generated": "2026-10-17T20:22:56.707847",
+        "file": "48-hour-field-notes-my-race-condition-vanished-on-a-free-server-it-was-just-slower.md"
+    },
+    {
         "title": "ChatGPT lost 22 points of web share in a year",
         "slug": "chatgpt-lost-22-points-of-web-share-in-a-year",
         "author": "echohive42",
@@ -70301,6 +70444,17 @@
         "file": "best-youtube-downloader-alternatives-that-work-in-2026.md"
     },
     {
+        "title": "How to Choose a Pediatrician Your Child Can Rely on Through Every Stage of Childhood",
+        "slug": "how-to-choose-a-pediatrician-your-child-can-rely-on-through-every-stage-of-childhood",
+        "author": "marilious mari",
+        "source": "devto_webdev",
+        "published": "Sat, 17 Oct 2026 20:07:26 +0000",
+        "description": "Choosing a pediatrician involves more than finding a nearby medical office. Parents need a healthcare professional who understands their child’s developmenta...",
+        "keywords": "child, can, parents, may, their, needs, make, appointment",
+        "generated": "2026-10-17T20:22:56.708954",
+        "file": "how-to-choose-a-pediatrician-your-child-can-rely-on-through-every-stage-of-childhood.md"
+    },
+    {
         "title": "Cero secretos en código: 3 modos flexibles de autenticación en wconnect.",
         "slug": "cero-secretos-en-cdigo-3-modos-flexibles-de-autenticacin-en-wconnect",
         "author": "William Rodriguez",
@@ -70332,6 +70486,17 @@
         "keywords": "claude, code, fix, system, patterns, trace, pair, these",
         "generated": "2026-07-30T14:15:57.949786",
         "file": "i-built-a-vertically-integrated-commerce-system-with-ai-and-accidentally-discovered-4-governance-patterns.md"
+    },
+    {
+        "title": "Bulk Google + Amazon keyword search volume for about $3 per 1,000 keywords (API, n8n, Claude)",
+        "slug": "bulk-google-amazon-keyword-search-volume-for-about-3-per-1000-keywords-api-n8n-claude",
+        "author": "Pravinraj Vincent",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 20:08:34 +0000",
+        "description": "If you've ever pasted 300 keywords into an SEO suite and hit a daily cap, or you just want search volume inside a script or an AI agent without paying for a ...",
+        "keywords": "keyword, google, volume, keywords, amazon, search, apify, you",
+        "generated": "2026-10-17T20:22:56.708348",
+        "file": "bulk-google-amazon-keyword-search-volume-for-about-3-per-1000-keywords-api-n8n-claude.md"
     },
     {
         "title": "I Post to LinkedIn Every 2 Hours on My Own. Here's What That Broke About How Agents Work.",
@@ -71542,6 +71707,17 @@
         "keywords": "you, course, page, sales, what, your, not, section",
         "generated": "2026-10-17T03:51:06.692219",
         "file": "what-to-include-in-a-course-sales-page-to-increase-conversions.md"
+    },
+    {
+        "title": "A Skipped Test Is a Withdrawal: Make Agent Patches Deposit a Property Before You Freeze a Flake",
+        "slug": "a-skipped-test-is-a-withdrawal-make-agent-patches-deposit-a-property-before-you-freeze-a-flake",
+        "author": "Finley Zhou",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 20:14:59 +0000",
+        "description": "The cheapest way to make an agent patch go green is to skip a test. Most gates allow that skip with no compensating deposit, and then let the skip follow the...",
+        "keywords": "not, property, gate, json, one, test, patch, freeze",
+        "generated": "2026-10-17T20:22:56.707569",
+        "file": "a-skipped-test-is-a-withdrawal-make-agent-patches-deposit-a-property-before-you-freeze-a-flake.md"
     },
     {
         "title": "The Pairing Session That Threw Out a Green Eval for a Leaked Assert",
@@ -77603,6 +77779,17 @@
         "keywords": "you, local, model, ollama, text, summarize, cloud, your",
         "generated": "2026-07-17T08:19:05.879404",
         "file": "how-to-summarize-pdfs-locally-with-open-source-llms-no-api-no-data-leaving-your-machine.md"
+    },
+    {
+        "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+        "slug": "microsoft-and-cmu-team-up-to-train-early-career-software-engineers",
+        "author": "azhenley",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 18:45:07 +0000",
+        "description": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 8 # Comments: 2",
+        "keywords": "cmu, microsoft, url, https, news, comments, team, train",
+        "generated": "2026-10-17T20:22:56.706910",
+        "file": "microsoft-and-cmu-team-up-to-train-early-career-software-engineers.md"
     },
     {
         "title": "Best Ai image generator app in 2026",
@@ -85338,6 +85525,17 @@
         "file": "us-sanctions-force-the-netherlands-off-microsoft-and-toward-alternative-nixos.md"
     },
     {
+        "title": "Five Myths About Retrying an LLM Call, and the Fault-Injection Drill That Tests Them",
+        "slug": "five-myths-about-retrying-an-llm-call-and-the-fault-injection-drill-that-tests-them",
+        "author": "Jordan Huang",
+        "source": "devto_python",
+        "published": "Sat, 17 Oct 2026 20:13:16 +0000",
+        "description": "Your retry loop is maybe eight lines. Why does it double your bill and duplicate side effects? I keep seeing the same pattern in reviews. The retry logic loo...",
+        "keywords": "retry, self, drill, your, not, you, code, return",
+        "generated": "2026-10-17T20:22:56.708149",
+        "file": "five-myths-about-retrying-an-llm-call-and-the-fault-injection-drill-that-tests-them.md"
+    },
+    {
         "title": "What is DeepSeek-Harness? A Complete Introduction",
         "slug": "what-is-deepseek-harness-a-complete-introduction",
         "author": "Justin3go",
@@ -89793,6 +89991,17 @@
         "file": "building-an-incremental-financial-data-pipeline-on-a-free-tier-0-infrastructure.md"
     },
     {
+        "title": "How I'd Run Bug Triage on 40 Defect Reports Before a Release: Lessons From Postgres 19",
+        "slug": "how-id-run-bug-triage-on-40-defect-reports-before-a-release-lessons-from-postgres-19",
+        "author": "Anna",
+        "source": "devto_ai",
+        "published": "Sat, 17 Oct 2026 20:14:04 +0000",
+        "description": "TL;DR On October 9th, Peter Eisentraut, a PostgreSQL core team member and committer, wrote that about 8 to 10 significant features had been reverted from Pos...",
+        "keywords": "review, fix, release, postgres, triage, bug, defect, reports",
+        "generated": "2026-10-17T20:22:56.710040",
+        "file": "how-id-run-bug-triage-on-40-defect-reports-before-a-release-lessons-from-postgres-19.md"
+    },
+    {
         "title": "A Free Server Caught the GUI Fallback a Model Buried in a CLI",
         "slug": "a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli",
         "author": "Finley Zhou",
@@ -92190,6 +92399,17 @@
         "keywords": "not, you, what, diff, url, public, text, can",
         "generated": "2026-09-24T04:09:17.205595",
         "file": "i-wanted-the-diff-not-a-screenshot-a-small-url-change-api.md"
+    },
+    {
+        "title": "I Became a Citizen of Japan",
+        "slug": "i-became-a-citizen-of-japan",
+        "author": "luu",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 17:36:17 +0000",
+        "description": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 27 # Comments: 2",
+        "keywords": "url, https, com, comments, became, citizen, japan, article",
+        "generated": "2026-10-17T20:22:56.707195",
+        "file": "i-became-a-citizen-of-japan.md"
     },
     {
         "title": "Nox Metals (YC S25) Is Hiring SWE",
