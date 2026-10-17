@@ -4,16 +4,16 @@ slug: "deepseek-deepseek-v41-flash-1017"
 author: "theanonymousone"
 source: "hackernews"
 published: "Sat, 17 Oct 2026 08:37:46 +0000"
-description: "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 118 # Comments: 9"
+description: "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 428 # Comments: 204"
 keywords: "deepseek, flash, url, https, comments, article, openrouter, news"
-generated: "2026-10-17T10:24:53.454916"
+generated: "2026-10-17T15:18:37.845753"
 ---
 
 # DeepSeek: DeepSeek v4.1 Flash 1017
 
 ## Overview
 
-Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 118 # Comments: 9
+Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 428 # Comments: 204
 
 ## Key Insights
 

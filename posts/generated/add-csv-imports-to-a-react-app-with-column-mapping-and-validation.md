@@ -1,0 +1,34 @@
+---
+title: "Add CSV imports to a React app with column mapping and validation"
+slug: "add-csv-imports-to-a-react-app-with-column-mapping-and-validation"
+author: "aimodels-fyi"
+source: "devto_webdev"
+published: "Sat, 17 Oct 2026 15:03:45 +0000"
+description: "A CSV parser gives you rows. A customer-facing import feature needs a few more decisions: What if the customer's headers don't match your database fields? Wh..."
+keywords: "email, name, csvjetty, import, contacts, your, csv, rows"
+generated: "2026-10-17T15:18:37.848606"
+---
+
+# Add CSV imports to a React app with column mapping and validation
+
+## Overview
+
+A CSV parser gives you rows. A customer-facing import feature needs a few more decisions: What if the customer's headers don't match your database fields? What if a required email address is missing? Can users correct mistakes without editing and uploading the file again? How do the finished records reach your backend? I built CSVJetty to handle that workflow. This tutorial shows how to add it to a React app and receive the imported records. What we're building A contact importer with three fields: First name: required Last name: optional Email: required and validated Users upload a CSV, review the column mappings, correct invalid values, and submit the records. We'll use callback delivery. CSVJetty processes the CSV in the browser and passes the imported rows to your application without routing row data through CSVJetty's servers. The service still receives import metadata. 1. Install the package npm install csvjetty Create an importer in the CSVJetty dashboard and select OnData Callback as its delivery mode. Copy its public importer key. The example below defines the columns in code. 2. Add the importer Create ImportContacts.jsx : " use client " ; import { useState } from " react " ; import CSVJetty from " csvjetty " ; const columns = [ { name : " first_name " , label : " First name " , type : " text " , required : true , aliases : [ " First Name " , " Given Name " ], }, { name : " last_name " , label : " Last name " , type : " text " , required : false , aliases : [ " Last Name " , " Surname " ], }, { name : " email " , label : " Email " , type : " email " , required : true , aliases : [ " Email Address " , " Work Email " ], }, ]; export default function ImportContacts () { const [ contacts , setContacts ] = useState ([]); return ( < section > < h1 > Import contacts </ h1 > < CSVJetty importerKey = "YOUR_IMPORTER_KEY" columns = { columns } onData = { async ({ rows }) => { setContacts ( rows ); } } > Import CSV </ CSVJetty > { contacts . length > 0 && ( < div > < h2 > Imported contacts: { contacts . length } </ h2 > < pre > { JSON . stringify ( contacts , null , 2 ) } </ pre > </ div > ) } </ section > ); } Replace YOUR_IMPORTER_KEY with your public importer key. This example displays the records in memory so you can inspect the output. It doesn't save them to a database. The "use client" directive allows this component to work in Next.js App Router. In a plain React app, you can omit it. 3. Try a file with different headers Save this as contacts.csv : Given Name,Surname,Work Email Ada,Lovelace,ada@example.com Grace,Hopper,grace@example.com Katherine,Johnson,not-an-email Upload the file using the Import CSV button. The aliases help match Given Name to first_name , Surname to last_name , and Work Email to email . Users can review and adjust the mappings. The third record contains an invalid email. Correct it to katherine@example.com in the preview before importing. In the dashboard, enable Disable Importing All Data if There Are Invalid Rows if you want to require every row to pass validation before submission. The callback receives records using your configured field names: [ { "first_name" : "Ada" , "last_name" : "Lovelace" , "email" : "ada@example.com" }, { "first_name" : "Grace" , "last_name" : "Hopper" , "email" : "grace@example.com" }, { "first_name" : "Katherine" , "last_name" : "Johnson" , "email" : "katherine@example.com" } ] Your backend gets a consistent shape even when customers use different CSV headers. 4. Connect your existing save endpoint Once the preview works, update ImportContacts.jsx to send the records to your application's API: " use client " ; import { useState } from " react " ; import CSVJetty from " csvjetty " ; const columns = [ { name : " first_name " , label : " First name " , type : " text " , required : true , aliases : [ " First Name " , " Given Name " ], }, { name : " last_name " , label : " Last name " , type : " text " , required : false , aliases : [ " Last Name " , " Surname " ], }, { name : " email " , label : " Email " , type : " email " , required : true , aliases : [ " Email Address " , " Work Email " ], }, ]; export default function ImportContacts () { const [ importedCount , setImportedCount ] = useState ( null ); async function handleImport ({ rows , importId , rowNumbers }) { const response = await fetch ( " /api/contacts/import " , { method : " POST " , headers : { " Content-Type " : " application/json " , }, body : JSON . stringify ({ rows , importId , rowNumbers , }), }); if ( ! response . ok ) { throw new Error ( " Could not save contacts. Please try again. " ); } setImportedCount ( rows . length ); } return ( < section > < h1 > Import contacts </ h1 > < CSVJetty importerKey = "YOUR_IMPORTER_KEY" columns = { columns } onData = { handleImport } > Import CSV </ CSVJetty > { importedCount !== null && ( < p role = "status" > Saved { importedCount } contacts. </ p > ) } </ section > ); } /api/contacts/import is an endpoint you implement in your own app. This example assumes a successful response means all submitted rows were saved. The endpoint should authenticate the user, check their permission to import contacts, validate the records again, and save them. Use importId and the original row numbers to prevent duplicate inserts when a request is retried. Browser validation helps users correct their files. Server validation protects your database. Where to go next The same pattern works for product catalogs, inventory, leads, and other structured records: define the fields, let users map and correct their data, then send the results to your existing persistence code. You can find the package and setup instructions here: CSVJetty website CSVJetty on npm
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/aimodels-fyi/add-csv-imports-to-a-react-app-with-column-mapping-and-validation-3m38
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
