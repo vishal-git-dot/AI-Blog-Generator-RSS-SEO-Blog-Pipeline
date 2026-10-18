@@ -649,6 +649,17 @@
         "file": "identical-model-prompt-and-bill-a-strict-tool-contract-ships-18-wrong-answers-per-thousand-a-permissive-one-240.md"
     },
     {
+        "title": "The hundredth clip costs nothing: Klipkit, a local-first clip finder for freelance editors",
+        "slug": "the-hundredth-clip-costs-nothing-klipkit-a-local-first-clip-finder-for-freelance-editors",
+        "author": "Hendra Hendriana",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 03:03:30 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle What I Built Klipkit is a clip finder for freelance short-form editor...",
+        "keywords": "clip, model, local, open, whisper, klipkit, not, ollama",
+        "generated": "2026-10-18T03:57:53.280293",
+        "file": "the-hundredth-clip-costs-nothing-klipkit-a-local-first-clip-finder-for-freelance-editors.md"
+    },
+    {
         "title": "Your model didn't get smarter. It learned to cheat the test.",
         "slug": "your-model-didnt-get-smarter-it-learned-to-cheat-the-test",
         "author": "Anil Prasad",
@@ -12605,6 +12616,17 @@
         "file": "how-to-buy-verified-shopify-accounts-online-a-simple-step-by-step-guide.md"
     },
     {
+        "title": "DeepSeek Just Shipped a Cheaper, Faster Coding Model — and the Weights Are Open",
+        "slug": "deepseek-just-shipped-a-cheaper-faster-coding-model-and-the-weights-are-open",
+        "author": "ToolPilot Pro",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 03:49:07 +0000",
+        "description": "Originally published at: https://toolpilotpro.com/deepseek-v4-1-flash-1017-guide DeepSeek Just Shipped a Cheaper, Faster Coding Model — and the Weights Are O...",
+        "keywords": "deepseek, model, peak, coding, not, weights, open, faster",
+        "generated": "2026-10-18T03:57:53.283970",
+        "file": "deepseek-just-shipped-a-cheaper-faster-coding-model-and-the-weights-are-open.md"
+    },
+    {
         "title": "There's no reason for software to be slow anymore",
         "slug": "theres-no-reason-for-software-to-be-slow-anymore",
         "author": "Jach",
@@ -16719,6 +16741,17 @@
         "file": "best-sap-mm-course-online-with-placement-assistance.md"
     },
     {
+        "title": "What 68 x402 endpoints taught us about agent-payability",
+        "slug": "what-68-x402-endpoints-taught-us-about-agent-payability",
+        "author": "john smith",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 03:41:13 +0000",
+        "description": "What 68 x402 endpoints taught us about agent-payability We probed 68 live x402 endpoints on Base with one question: can a stock buyer client actually pay thi...",
+        "keywords": "one, payment, endpoint, base, what, paid, endpoints, your",
+        "generated": "2026-10-18T03:57:53.281257",
+        "file": "what-68-x402-endpoints-taught-us-about-agent-payability.md"
+    },
+    {
         "title": "Connecticut Sun vs Toronto Tempo: WNBA Preview & Picks",
         "slug": "connecticut-sun-vs-toronto-tempo-wnba-preview-picks",
         "author": "James Mullinaux",
@@ -20457,6 +20490,17 @@
         "file": "us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food.md"
     },
     {
+        "title": "JDK 28",
+        "slug": "jdk-28",
+        "author": "ejboy",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 21:37:07 +0000",
+        "description": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 87 # Comments: 35",
+        "keywords": "jdk, url, https, comments, article, openjdk, org, projects",
+        "generated": "2026-10-18T03:57:53.277782",
+        "file": "jdk-28.md"
+    },
+    {
         "title": "A Complete Guide to Function Arguments in Python",
         "slug": "a-complete-guide-to-function-arguments-in-python",
         "author": "guzmanojero",
@@ -22503,6 +22547,17 @@
         "file": "an-smtp-handshake-proves-one-thing-and-it-is-not-what-most-lead-tools-imply.md"
     },
     {
+        "title": "pytrends is archived: how to migrate your Google Trends code (no more 429s)",
+        "slug": "pytrends-is-archived-how-to-migrate-your-google-trends-code-no-more-429s",
+        "author": "Rimu Labs",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 03:23:35 +0000",
+        "description": "For years pytrends was how Python developers got Google Trends data. Its GitHub repository is now archived (read-only), and the last release on PyPI, 4.9.2, ...",
+        "keywords": "pytrends, google, trends, past, keyword, client, now, your",
+        "generated": "2026-10-18T03:57:53.279645",
+        "file": "pytrends-is-archived-how-to-migrate-your-google-trends-code-no-more-429s.md"
+    },
+    {
         "title": "I'm being cyberattacked by Tesla, Inc",
         "slug": "im-being-cyberattacked-by-tesla-inc",
         "author": "robinpie",
@@ -24063,6 +24118,17 @@
         "file": "i-built-a-production-ready-spring-boot-4-starter-kit-and-reddit-roasted-it-into-something-better.md"
     },
     {
+        "title": "def recall(query, k=8, alpha=0.6):",
+        "slug": "def-recallquery-k8-alpha06",
+        "author": "Satria Nindhita",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 03:09:07 +0000",
+        "description": "python def recall(query, k=8, alpha=0.6): qvec = embed(query) rows = conn.execute( SELECT m.id, m.content, m.embedding, bm25(memories_fts) AS rank FROM me...",
+        "keywords": "query, alpha, rank, qvec, blob, vec, sum, def",
+        "generated": "2026-10-18T03:57:53.279756",
+        "file": "def-recallquery-k8-alpha06.md"
+    },
+    {
         "title": "Walt Disney Company is the most successful at monetizing human nostalgia [audio]",
         "slug": "walt-disney-company-is-the-most-successful-at-monetizing-human-nostalgia-audio",
         "author": "speckx",
@@ -24600,6 +24666,17 @@
         "keywords": "python, code, protection, prometheusdev, professional, you, prometheus, shield",
         "generated": "2026-06-26T04:12:11.598034",
         "file": "python-code-protection-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "Codex Desktop continuously generates Crashpad pending dumps",
+        "slug": "codex-desktop-continuously-generates-crashpad-pending-dumps",
+        "author": "AIorNot",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 17:45:08 +0000",
+        "description": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 99 # Comments: 33",
+        "keywords": "codex, url, https, com, comments, desktop, continuously, generates",
+        "generated": "2026-10-18T03:57:53.277912",
+        "file": "codex-desktop-continuously-generates-crashpad-pending-dumps.md"
     },
     {
         "title": "Qwen 3.6 27B is the sweet spot for local development",
@@ -28632,10 +28709,10 @@
         "slug": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis",
         "author": "Nexus Intelligence Research",
         "source": "devto_ai",
-        "published": "Sat, 03 Oct 2026 11:21:51 +0000",
+        "published": "Sun, 18 Oct 2026 03:49:22 +0000",
         "description": "Recommended Tools Binance — Trade crypto with low fees Ledger — Secure your crypto hardware wallet Crypto.com — Buy, sell, and earn crypto This article was g...",
         "keywords": "crypto, trade, global, dynamics, geopolitical, macroeconomic, analysis, recommended",
-        "generated": "2026-10-03T11:24:45.498601",
+        "generated": "2026-10-18T03:57:53.283636",
         "file": "global-trade-dynamics-q3-2026-geopolitical-macroeconomic-analysis.md"
     },
     {
@@ -34722,6 +34799,17 @@
         "file": "only10-vol2607-10-ai-projects-worth-watching-this-week.md"
     },
     {
+        "title": "How I Built NexTrace: An AI Security Guard That Actually Fixes Cloud Breaches Using FalkorDB",
+        "slug": "how-i-built-nextrace-an-ai-security-guard-that-actually-fixes-cloud-breaches-using-falkordb",
+        "author": "Subhojit Paul",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 03:48:51 +0000",
+        "description": "Have you ever wondered what happens when a hacker finds a tiny security flaw in a website or cloud service? Can they secretly jump from service to service an...",
+        "keywords": "falkordb, nextrace, service, can, you, they, your, graph",
+        "generated": "2026-10-18T03:57:53.280761",
+        "file": "how-i-built-nextrace-an-ai-security-guard-that-actually-fixes-cloud-breaches-using-falkordb.md"
+    },
+    {
         "title": "How to Get Notified on Slack When Your Website Goes Down (With Vigilmon)",
         "slug": "how-to-get-notified-on-slack-when-your-website-goes-down-with-vigilmon",
         "author": "Vigilmon",
@@ -35369,6 +35457,17 @@
         "keywords": "you, one, line, here, loot, four, what, have",
         "generated": "2026-07-26T13:40:34.481735",
         "file": "s3-the-loot-report-vol-2-four-lines-that-fixed-the-boring-parts.md"
+    },
+    {
+        "title": "AI Growth Engine Short Form Content Creator Agent: Architecture, Tool Schemas & Integration Guide",
+        "slug": "ai-growth-engine-short-form-content-creator-agent-architecture-tool-schemas-integration-guide",
+        "author": "Bot Skill Stack",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 03:47:13 +0000",
+        "description": "Why conversational agent prompts fail in production—and the exact typed tool schemas, MCP servers, and dry-run safeguards required for Autonomous AI Agent & ...",
+        "keywords": "agent, skill, bot, tool, execution, state, mcp, autonomous",
+        "generated": "2026-10-18T03:57:53.284547",
+        "file": "ai-growth-engine-short-form-content-creator-agent-architecture-tool-schemas-integration-guide.md"
     },
     {
         "title": "Lecciones de Diseño UX y su Impa…",
@@ -67089,6 +67188,17 @@
         "file": "how-to-choose-the-right-gpu-for-ai-rendering-data-workloads.md"
     },
     {
+        "title": "NY announces game ownership bill requiring ownership rather than licensing",
+        "slug": "ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing",
+        "author": "guiambros",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 00:14:22 +0000",
+        "description": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-li...",
+        "keywords": "ownership, game, announces, bill, rather, than, url, https",
+        "generated": "2026-10-18T03:57:53.277642",
+        "file": "ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing.md"
+    },
+    {
         "title": "Building a Multi-Source Threat Intelligence Correlation Engine in Python",
         "slug": "building-a-multi-source-threat-intelligence-correlation-engine-in-python",
         "author": "platinum2high",
@@ -74976,6 +75086,17 @@
         "file": "seo-isnt-dead.md"
     },
     {
+        "title": "Buylist Scanner: open models that price a Pokémon collection at the shop counter, without a single photo leaving the store",
+        "slug": "buylist-scanner-open-models-that-price-a-pokmon-collection-at-the-shop-counter-without-a-single-photo-leaving-the-store",
+        "author": "Martin Espericueta",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 03:45:45 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle What I Built Someone walks into a small TCG shop in Mexicali with a s...",
+        "keywords": "card, cards, price, shop, photos, photo, same, phone",
+        "generated": "2026-10-18T03:57:53.285124",
+        "file": "buylist-scanner-open-models-that-price-a-pokmon-collection-at-the-shop-counter-without-a-single-photo-leaving-the-store.md"
+    },
+    {
         "title": "Libraries: Innovative Tools for Societal Growth",
         "slug": "libraries-innovative-tools-for-societal-growth",
         "author": "Norvik Tech",
@@ -81807,6 +81928,17 @@
         "file": "canto-a-speech-model-built-for-the-real-world.md"
     },
     {
+        "title": "Your AI Prototype Is Not a Production System: The Engineering Behind Reliable AI Applications",
+        "slug": "your-ai-prototype-is-not-a-production-system-the-engineering-behind-reliable-ai-applications",
+        "author": "Ahmed Adawy",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 03:48:47 +0000",
+        "description": "Your AI Prototype Is Not a Production System: The Engineering Behind Reliable AI Applications From containerization and deployment pipelines to observability...",
+        "keywords": "application, can, not, request, engineering, model, service, may",
+        "generated": "2026-10-18T03:57:53.278778",
+        "file": "your-ai-prototype-is-not-a-production-system-the-engineering-behind-reliable-ai-applications.md"
+    },
+    {
         "title": "Our test asked for 4 branches, ran 1, and reported PASS",
         "slug": "our-test-asked-for-4-branches-ran-1-and-reported-pass",
         "author": "Devil Scrapes",
@@ -84667,6 +84799,17 @@
         "file": "we-have-officially-open-sourced-projectbrainmd-a-persistent-memory-layer-for-your-projects.md"
     },
     {
+        "title": "Lovable Supabase Integration: Cloud or Your Own Project, and How to Set It Up Safely",
+        "slug": "lovable-supabase-integration-cloud-or-your-own-project-and-how-to-set-it-up-safely",
+        "author": "Tushar Bhendarkar",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 03:38:19 +0000",
+        "description": "If you connect your own Supabase project to Lovable and launch as is, your sign-up emails won't reach your customers. Supabase's built-in email only sends to...",
+        "keywords": "supabase, lovable, your, project, cloud, own, you, one",
+        "generated": "2026-10-18T03:57:53.281905",
+        "file": "lovable-supabase-integration-cloud-or-your-own-project-and-how-to-set-it-up-safely.md"
+    },
+    {
         "title": "Understanding the Risks in Software Development: A…",
         "slug": "understanding-the-risks-in-software-development-a",
         "author": "Norvik Tech",
@@ -85622,6 +85765,17 @@
         "keywords": "prompt, prompts, you, developer, python, web, write, code",
         "generated": "2026-06-28T09:19:21.765249",
         "file": "the-developer-ai-shortcut-510-prompts-for-python-web-scraping-and-devops.md"
+    },
+    {
+        "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+        "slug": "chrome-and-edge-are-removing-xslt-what-breaks-and-what-does-not",
+        "author": "croes",
+        "source": "hackernews",
+        "published": "Sat, 17 Oct 2026 20:07:33 +0000",
+        "description": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 99 # Comments...",
+        "keywords": "chrome, edge, removing, xslt, what, url, https, news",
+        "generated": "2026-10-18T03:57:53.277853",
+        "file": "chrome-and-edge-are-removing-xslt-what-breaks-and-what-does-not.md"
     },
     {
         "title": "Don't trust my client-side only claim. Open DevTools and check.",
@@ -89023,6 +89177,17 @@
         "file": "experience-niagara-limo-service-with-professional-chauffeurs-today.md"
     },
     {
+        "title": "Trust Boundaries: Store Generated AI Images with Temporary Private Downloads",
+        "slug": "trust-boundaries-store-generated-ai-images-with-temporary-private-downloads",
+        "author": "BriarVoss47291",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 03:38:05 +0000",
+        "description": "Short answer: keep AI-generated images in private object storage, authorize each download in your application, and return a temporary signed URL so the stora...",
+        "keywords": "object, storage, not, provider, one, application, url, control",
+        "generated": "2026-10-18T03:57:53.279362",
+        "file": "trust-boundaries-store-generated-ai-images-with-temporary-private-downloads.md"
+    },
+    {
         "title": "Is Reading Sad Shayari Actually Helpful After a Breakup?",
         "slug": "is-reading-sad-shayari-actually-helpful-after-a-breakup",
         "author": "Vibhan Gupta",
@@ -92125,6 +92290,17 @@
         "file": "9-silent-row-loss-fixes-in-7-days-across-7-oss-databases.md"
     },
     {
+        "title": "The shared-layout tax: the lang=en nobody typed",
+        "slug": "the-shared-layout-tax-the-langen-nobody-typed",
+        "author": "Lumen",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 03:54:44 +0000",
+        "description": "The shared-layout tax, or: the lang=en that nobody typed Here is a bug I keep finding in small hand-rolled site generators, and it is almost invisible in r...",
+        "keywords": "lang, you, layout, shared, generator, front, matter, page",
+        "generated": "2026-10-18T03:57:53.280470",
+        "file": "the-shared-layout-tax-the-langen-nobody-typed.md"
+    },
+    {
         "title": "How to Validate Python API Summaries in 2026 (Multilingual EU/US Tickets and Emails)",
         "slug": "how-to-validate-python-api-summaries-in-2026-multilingual-euus-tickets-and-emails",
         "author": "EthanBrooks1647",
@@ -92406,9 +92582,9 @@
         "author": "luu",
         "source": "hackernews",
         "published": "Sat, 17 Oct 2026 17:36:17 +0000",
-        "description": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 27 # Comments: 2",
+        "description": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 178 # Comments: 80",
         "keywords": "url, https, com, comments, became, citizen, japan, article",
-        "generated": "2026-10-17T20:22:56.707195",
+        "generated": "2026-10-18T03:57:53.277963",
         "file": "i-became-a-citizen-of-japan.md"
     },
     {
@@ -94225,6 +94401,17 @@
         "keywords": "code, url, https, com, comments, writing, rust, fast",
         "generated": "2026-09-22T16:40:24.506479",
         "file": "writing-rust-code-thats-fast-by-asking-agents-to-make-the-code-faster.md"
+    },
+    {
+        "title": "TrustIntern: I built a scam detective for internship offers in 5.5 hours, and my agents kept receipts",
+        "slug": "trustintern-i-built-a-scam-detective-for-internship-offers-in-55-hours-and-my-agents-kept-receipts",
+        "author": "Charan Nihaal R",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 03:52:24 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle What I Built Every placement season, a lot of students in India get s...",
+        "keywords": "agent, gemma, div, not, api, session, backend, ollama",
+        "generated": "2026-10-18T03:57:53.283504",
+        "file": "trustintern-i-built-a-scam-detective-for-internship-offers-in-55-hours-and-my-agents-kept-receipts.md"
     },
     {
         "title": "Serving cheap when two models agree: a measured cost lever",
@@ -97721,6 +97908,17 @@
         "keywords": "sneakerweb, url, https, comments, article, org, news, ycombinator",
         "generated": "2026-07-06T10:49:20.342206",
         "file": "the-sneakerweb.md"
+    },
+    {
+        "title": "Dev News Digest: 18 Oct 2026, 06:00",
+        "slug": "dev-news-digest-18-oct-2026-0600",
+        "author": "Magnus Ferm",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 03:47:45 +0000",
+        "description": "A quick roundup of developer news since the last digest. Platform & industry Replit switches its default model provider : Replit's CEO said OpenAI will repla...",
+        "keywords": "news, which, digest, replit, its, claude, page, driver",
+        "generated": "2026-10-18T03:57:53.280892",
+        "file": "dev-news-digest-18-oct-2026-0600.md"
     },
     {
         "title": "Free Indian AI Tools for Students: 5 Best Options in 2026",
