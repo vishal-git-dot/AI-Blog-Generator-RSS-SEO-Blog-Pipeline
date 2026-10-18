@@ -8557,6 +8557,17 @@
         "file": "stop-guessing-i-tested-4-chinese-ai-models-so-you-dont-have-to.md"
     },
     {
+        "title": "Why Vector RAG Fails AI Agents: Building an Autonomous SRE Swarm with FalkorDB",
+        "slug": "why-vector-rag-fails-ai-agents-building-an-autonomous-sre-swarm-with-falkordb",
+        "author": "SidakSethi-Singh",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 15:29:23 +0000",
+        "description": "Large Language Models depend on the context they are given. In the year the usual way to give context has been Vector RAG (embeddings plus cosine similarity)...",
+        "keywords": "graph, falkordb, falkorsynapse, system, agent, agents, incident, context",
+        "generated": "2026-10-18T15:40:21.696086",
+        "file": "why-vector-rag-fails-ai-agents-building-an-autonomous-sre-swarm-with-falkordb.md"
+    },
+    {
         "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
         "slug": "cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration",
         "author": "Obliq",
@@ -11558,6 +11569,17 @@
         "keywords": "linux, system, interview, you, how, tip, what, administrators",
         "generated": "2026-06-06T08:41:07.450720",
         "file": "advanced-linux-system-administrator-interview-questions-and-solutions.md"
+    },
+    {
+        "title": "Black Box: finding yesterday's warning signs in 225,000 maintenance reports",
+        "slug": "black-box-finding-yesterdays-warning-signs-in-225000-maintenance-reports",
+        "author": "Divyam Singh",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 15:32:36 +0000",
+        "description": "On 1 April 2011, Southwest Flight 812 lost a five-foot strip of fuselage skin at 34,000 feet. Everyone survived. The NTSB's final report described fatigue cr...",
+        "keywords": "graph, one, reports, date, report, accident, where, our",
+        "generated": "2026-10-18T15:40:21.694266",
+        "file": "black-box-finding-yesterdays-warning-signs-in-225000-maintenance-reports.md"
     },
     {
         "title": "How to Use MarketMuse for Featured Snippet Optimization in 2026",
@@ -21942,6 +21964,17 @@
         "file": "ballmer-peak.md"
     },
     {
+        "title": "How to prove an online JWT tool isn’t stealing your token",
+        "slug": "how-to-prove-an-online-jwt-tool-isnt-stealing-your-token",
+        "author": "Ameen Usman",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 15:28:56 +0000",
+        "description": "Most free JWT decoders ask you to paste a token. That’s a trust problem. Tokens can include emails, roles, and session data. If the page uploads it, you just...",
+        "keywords": "jwt, token, you, network, open, decoder, tool, your",
+        "generated": "2026-10-18T15:40:21.693095",
+        "file": "how-to-prove-an-online-jwt-tool-isnt-stealing-your-token.md"
+    },
+    {
         "title": "I Cut AI Costs by 97.5%: My Startup vs Enterprise API Breakdown",
         "slug": "i-cut-ai-costs-by-975-my-startup-vs-enterprise-api-breakdown",
         "author": "loyaldash",
@@ -23029,6 +23062,17 @@
         "keywords": "ads, started, add, comments, tell, openai, has, putting",
         "generated": "2026-06-25T14:43:02.849544",
         "file": "tell-hn-openai-has-started-putting-ads-on-paid-programs.md"
+    },
+    {
+        "title": "Theranos-Style Fraud Has Become the Norm",
+        "slug": "theranos-style-fraud-has-become-the-norm",
+        "author": "fortran77",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 14:05:36 +0000",
+        "description": "Article URL: https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/ Comments URL: https://news.ycombinator.com/item?id=50141206 Poin...",
+        "keywords": "theranos, url, https, com, comments, style, fraud, has",
+        "generated": "2026-10-18T15:40:21.688881",
+        "file": "theranos-style-fraud-has-become-the-norm.md"
     },
     {
         "title": "Show HN: TinyAIArena watch AI agents battle it out",
@@ -36955,6 +36999,17 @@
         "file": "16000-supabase-databases-were-open-to-anyone-nobody-hacked-anything.md"
     },
     {
+        "title": "RAG Context Compression: Headroom Cuts Retrieval Token Costs by 57% Without Accuracy Loss",
+        "slug": "rag-context-compression-headroom-cuts-retrieval-token-costs-by-57-without-accuracy-loss",
+        "author": "JJ657",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 15:18:22 +0000",
+        "description": "RAG Context Compression: Headroom Cuts Retrieval Token Costs by 57% Without Accuracy Loss When building RAG systems, the token economics hit you fast. A sing...",
+        "keywords": "headroom, compression, rag, query, tokens, context, model, accuracy",
+        "generated": "2026-10-18T15:40:21.691695",
+        "file": "rag-context-compression-headroom-cuts-retrieval-token-costs-by-57-without-accuracy-loss.md"
+    },
+    {
         "title": "Python Data Types Explained With Practical Examples",
         "slug": "python-data-types-explained-with-practical-examples",
         "author": "Kailas Warade",
@@ -39991,6 +40046,17 @@
         "file": "interactions-api-gemini-models-agents-complete-2026-guide.md"
     },
     {
+        "title": "The bug is in the arrangement: finding and cutting your AI agent's data-leak paths",
+        "slug": "the-bug-is-in-the-arrangement-finding-and-cutting-your-ai-agents-data-leak-paths",
+        "author": "Bhanu Nagpure",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 15:31:22 +0000",
+        "description": "Give an agent three ordinary tools: one that reads a GitHub issue, one that reads a local folder, one that can post a GitHub comment. Each behaves exactly as...",
+        "keywords": "tool, one, leak, mcp, server, not, config, context",
+        "generated": "2026-10-18T15:40:21.694889",
+        "file": "the-bug-is-in-the-arrangement-finding-and-cutting-your-ai-agents-data-leak-paths.md"
+    },
+    {
         "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
         "slug": "i-gave-qwen-38-27b-a-reverse-engineering-job-and-it-finished-in-30-minutes",
         "author": "raybb",
@@ -40077,6 +40143,17 @@
         "keywords": "website, information, should, customer, not, commerce, experience, product",
         "generated": "2026-08-22T18:37:08.478456",
         "file": "what-makes-an-e-commerce-website-trustworthy-a-practical-look-at-speed-transparency-and-user-experience.md"
+    },
+    {
+        "title": "How to Find and Fix Broken Links on a Shopify Store",
+        "slug": "how-to-find-and-fix-broken-links-on-a-shopify-store",
+        "author": "Sandeep Singh",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 15:28:10 +0000",
+        "description": "A broken link on a store costs more than one on a blog. A dead link in a blog post loses a reader. A dead link in your main menu, in a Shop the look block ...",
+        "keywords": "link, you, links, redirect, url, your, page, broken",
+        "generated": "2026-10-18T15:40:21.693766",
+        "file": "how-to-find-and-fix-broken-links-on-a-shopify-store.md"
     },
     {
         "title": "Ecommerce Trends 2026",
@@ -47865,6 +47942,17 @@
         "file": "implementing-freecell-supermoves-capacity-rules-and-edge-cases.md"
     },
     {
+        "title": "Websites are closing their doors to AI agents",
+        "slug": "websites-are-closing-their-doors-to-ai-agents",
+        "author": "evolve2k",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 14:58:10 +0000",
+        "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Po...",
+        "keywords": "agents, url, https, com, comments, websites, closing, their",
+        "generated": "2026-10-18T15:40:21.688474",
+        "file": "websites-are-closing-their-doors-to-ai-agents.md"
+    },
+    {
         "title": "Hex vs Mode vs Sigma vs Deepnote: SQL-First Notebooks Compared",
         "slug": "hex-vs-mode-vs-sigma-vs-deepnote-sql-first-notebooks-compared",
         "author": "Gowtham Potureddi",
@@ -52461,6 +52549,17 @@
         "file": "tailcat-tailscale-without-tailscale-by-tailscale.md"
     },
     {
+        "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+        "slug": "tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+        "author": "healsdata",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 14:16:41 +0000",
+        "description": "Article URL: https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car Comments URL: https://news.ycombinator.com...",
+        "keywords": "tesla, cannot, guarantee, roadster, reservation, holders, will, ever",
+        "generated": "2026-10-18T15:40:21.688764",
+        "file": "tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car.md"
+    },
+    {
         "title": "Understanding Python's 'for i in range(5)' Loop: A Beginner's Guide to Plain English Interpretation",
         "slug": "understanding-pythons-for-i-in-range5-loop-a-beginners-guide-to-plain-english-interpretation",
         "author": "Ilya Selivanov",
@@ -52657,6 +52756,17 @@
         "keywords": "nextslide, presentations, can, openai, acquisition, presentation, tools, engagement",
         "generated": "2026-08-11T07:15:40.518467",
         "file": "analyzing-openais-acquisition-of-nextslide-impli.md"
+    },
+    {
+        "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+        "slug": "will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science",
+        "author": "smilelamp",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 15:00:40 +0000",
+        "description": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombina...",
+        "keywords": "age, will, golden, dark, mathematics, science, url, https",
+        "generated": "2026-10-18T15:40:21.688311",
+        "file": "will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science.md"
     },
     {
         "title": "I Let the Model Silence a TypeError. The Second Call Inherited the First.",
@@ -58936,6 +59046,17 @@
         "keywords": "token, compression, illusion, why, skeptical, rtk, url, https",
         "generated": "2026-06-18T20:32:55.627875",
         "file": "the-token-compression-illusion-why-im-skeptical-of-rtk.md"
+    },
+    {
+        "title": "SEO Health Basics for Personal Websites and Portfolios",
+        "slug": "seo-health-basics-for-personal-websites-and-portfolios",
+        "author": "Sandeep Singh",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 15:29:01 +0000",
+        "description": "A personal website does a specific job. When a recruiter, client, conference organiser or potential collaborator searches your name, it should come up, look ...",
+        "keywords": "your, page, you, site, link, links, google, check",
+        "generated": "2026-10-18T15:40:21.692920",
+        "file": "seo-health-basics-for-personal-websites-and-portfolios.md"
     },
     {
         "title": "Automate Social Media With Python and the Zernio API",
@@ -66385,6 +66506,17 @@
         "file": "two-photo-inputs-beat-a-blank-prompt-building-hotel-lobby-ai-with-nextjs.md"
     },
     {
+        "title": "Nine people know this part of Kubernetes. It still depends on one.",
+        "slug": "nine-people-know-this-part-of-kubernetes-it-still-depends-on-one",
+        "author": "Balaji Thukuntala",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 15:28:09 +0000",
+        "description": "Every team has that one person. Every review waits for them, and when they say I'll be offline next week, three people quietly panic. For Graph Hacks (WeMa...",
+        "keywords": "every, graph, people, understudy, who, can, kubernetes, falkordb",
+        "generated": "2026-10-18T15:40:21.696452",
+        "file": "nine-people-know-this-part-of-kubernetes-it-still-depends-on-one.md"
+    },
+    {
         "title": "10 Best Companies to Hire MVP Developers in 2026",
         "slug": "10-best-companies-to-hire-mvp-developers-in-2026",
         "author": "Sia Patel",
@@ -73799,6 +73931,17 @@
         "file": "our-pipeline-had-two-kinds-of-nothing-and-only-one-word-for-both.md"
     },
     {
+        "title": "A Forem API test: publish, edit, unpublish (2026-10-18)",
+        "slug": "a-forem-api-test-publish-edit-unpublish-2026-10-18",
+        "author": "StarPresence",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 15:36:33 +0000",
+        "description": "This is a short test note about the Forem API v1. It was drafted with AI assistance and checked by a person before it was published. What this post checks An...",
+        "keywords": "api, forem, test, published, post, draft, edit, article",
+        "generated": "2026-10-18T15:40:21.692225",
+        "file": "a-forem-api-test-publish-edit-unpublish-2026-10-18.md"
+    },
+    {
         "title": "React JS Install Guide: Step by Step React + Vite Setup (Latest Version)",
         "slug": "react-js-install-guide-step-by-step-react-vite-setup-latest-version",
         "author": "CodeSetupLab",
@@ -75733,6 +75876,17 @@
         "keywords": "url, https, comments, vancouver, website, features, quick, escape",
         "generated": "2026-07-15T02:52:14.903993",
         "file": "vancouver-pd-website-features-quick-escape-button-that-wipes-itself-from-history.md"
+    },
+    {
+        "title": "Five concepts to learn before you build with LLMs",
+        "slug": "five-concepts-to-learn-before-you-build-with-llms",
+        "author": "Conor Bronsdon",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 15:30:08 +0000",
+        "description": "If you can ship ordinary software, you can start building with large language models. I would not start in the API console. I would learn five ideas in this ...",
+        "keywords": "you, what, model, one, not, can, models, generative",
+        "generated": "2026-10-18T15:40:21.690451",
+        "file": "five-concepts-to-learn-before-you-build-with-llms.md"
     },
     {
         "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
@@ -86515,6 +86669,17 @@
         "file": "how-to-accept-payments-in-a-telegram-bot-using-python.md"
     },
     {
+        "title": "Node.js Export Authorization: Temporary User Downloads with Private Object Storage",
+        "slug": "nodejs-export-authorization-temporary-user-downloads-with-private-object-storage",
+        "author": "SolomonFletcher5872",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 15:36:58 +0000",
+        "description": "The operational constraint is simple: an export link is a bearer credential, so it must outlive neither the user's need nor your authorization decision. Shor...",
+        "keywords": "url, storage, export, object, your, not, key, bucket",
+        "generated": "2026-10-18T15:40:21.689518",
+        "file": "nodejs-export-authorization-temporary-user-downloads-with-private-object-storage.md"
+    },
+    {
         "title": "Mastering Risk Management in Day Trading: A Veteran's Perspective",
         "slug": "mastering-risk-management-in-day-trading-a-veterans-perspective",
         "author": "Sniper Day Trading",
@@ -87890,6 +88055,17 @@
         "file": "top-77-sites-to-buy-gmail-accounts-aged-pva-bulk.md"
     },
     {
+        "title": "Stop Letting Coding Agents Guess Call Chains: Tracing Blast Radius and Temporal Memory in FalkorDB",
+        "slug": "stop-letting-coding-agents-guess-call-chains-tracing-blast-radius-and-temporal-memory-in-falkordb",
+        "author": "Nimit Sharma",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 15:20:35 +0000",
+        "description": "When you change a helper function in a backend service, ask an LLM coding assistant, it will likely do one of two things: retrieve the function name from a v...",
+        "keywords": "falkordb, function, test, graph, agent, memory, when, old",
+        "generated": "2026-10-18T15:40:21.691174",
+        "file": "stop-letting-coding-agents-guess-call-chains-tracing-blast-radius-and-temporal-memory-in-falkordb.md"
+    },
+    {
         "title": "How to Download Historical Exchange Rates as CSV with a Free API",
         "slug": "how-to-download-historical-exchange-rates-as-csv-with-a-free-api",
         "author": "Jenpo Zhan",
@@ -88374,6 +88550,17 @@
         "file": "faq-five-myths-about-secrets-lockfiles-and-agent-hosts.md"
     },
     {
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "slug": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
+        "author": "f-serif",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 14:30:27 +0000",
+        "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion...",
+        "keywords": "only, proposed, safety, bill, kicks, deaths, damages, url",
+        "generated": "2026-10-18T15:40:21.688640",
+        "file": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages.md"
+    },
+    {
         "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
         "slug": "i-have-a-confession-i-built-this-site-with-ai-please-forgive-me",
         "author": "joelberger",
@@ -88847,6 +89034,17 @@
         "file": "interrail-6379km-and-13-countries-over-7-weeks.md"
     },
     {
+        "title": "BlastShield AI: an evidence-first incident commander built on FalkorDB",
+        "slug": "blastshield-ai-an-evidence-first-incident-commander-built-on-falkordb",
+        "author": "Rohit",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 15:30:14 +0000",
+        "description": "The safest cloud response starts with a path, not a prompt BlastShield AI: an evidence-first incident commander built on FalkorDB When a cloud incident start...",
+        "keywords": "graph, incident, not, falkordb, kimo, can, what, blastshield",
+        "generated": "2026-10-18T15:40:21.695722",
+        "file": "blastshield-ai-an-evidence-first-incident-commander-built-on-falkordb.md"
+    },
+    {
         "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
         "slug": "cache-to-cache-direct-semantic-communication-between-large-language-models",
         "author": "rochansinha",
@@ -88977,6 +89175,17 @@
         "keywords": "cleaning, jumeirah, emergency, https, alforsan, services, com, originally",
         "generated": "2026-06-27T03:58:09.835939",
         "file": "jumeirah-emergency-cleaning.md"
+    },
+    {
+        "title": "Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load",
+        "slug": "benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-load",
+        "author": "Elena Rostova",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 15:37:14 +0000",
+        "description": "Benchmarking Paperclip Agent Orchestration: Concurrent Task Throughput and Memory Overhead Under Load When evaluating paperclipai/paperclip for production ag...",
+        "keywords": "agent, concurrent, task, const, paperclip, load, lost, database",
+        "generated": "2026-10-18T15:40:21.692074",
+        "file": "benchmarking-paperclip-agent-orchestration-concurrent-task-throughput-and-memory-overhead-under-load.md"
     },
     {
         "title": "Devlog: How Our AI Agents Built OmniBrand Kit for Global Social Media Branding in Minutes",
@@ -102397,6 +102606,17 @@
         "keywords": "cash, flow, income, net, free, statement, operating, billion",
         "generated": "2026-07-28T14:22:20.794810",
         "file": "what-the-cash-flow-statement-reveals-that-earnings-dont-using-the-finance-toolkit.md"
+    },
+    {
+        "title": "How We Built an Ultra-Lightweight Desktop AI Assistant (<35MB RAM) with Zero-DB RAG and Zero Bloat",
+        "slug": "how-we-built-an-ultra-lightweight-desktop-ai-assistant-35mb-ram-with-zero-db-rag-and-zero-bloat",
+        "author": "GhostOS",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 15:34:03 +0000",
+        "description": "If you’ve tried running desktop AI assistants recently (LM Studio, Jan, AnythingLLM, Open-WebUI), you’ve probably noticed an infuriating trend: Most desktop ...",
+        "keywords": "ghostos, you, desktop, ram, vram, zero, your, memory",
+        "generated": "2026-10-18T15:40:21.689954",
+        "file": "how-we-built-an-ultra-lightweight-desktop-ai-assistant-35mb-ram-with-zero-db-rag-and-zero-bloat.md"
     },
     {
         "title": "Build a Local RAG Chatbot for Trading Research Using Ollama + Termux (Zero API Cost)",
