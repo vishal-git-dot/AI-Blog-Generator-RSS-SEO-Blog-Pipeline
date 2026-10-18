@@ -1,0 +1,34 @@
+---
+title: "Benchmarking cloudflare/security-audit-skill Behind an Edge Dispatcher: p99, Cold Start, and Bundle Weight"
+slug: "benchmarking-cloudflaresecurity-audit-skill-behind-an-edge-dispatcher-p99-cold-start-and-bundle-weight"
+author: "Nathan Cross"
+source: "devto_webdev"
+published: "Sun, 18 Oct 2026 20:05:11 +0000"
+description: "Benchmarking cloudflare/security-audit-skill Behind an Edge Dispatcher: p99, Cold Start, and Bundle Weight cloudflare/security-audit-skill is a six-phase aud..."
+keywords: "audit, findings, json, key, profile, const, repo, commit"
+generated: "2026-10-18T20:23:36.864471"
+---
+
+# Benchmarking cloudflare/security-audit-skill Behind an Edge Dispatcher: p99, Cold Start, and Bundle Weight
+
+## Overview
+
+Benchmarking cloudflare/security-audit-skill Behind an Edge Dispatcher: p99, Cold Start, and Bundle Weight cloudflare/security-audit-skill is a six-phase audit pipeline that ends in findings.json , gated by a zero-dependency validator ( validate-findings.cjs ). We did not benchmark audit quality — Cloudflare already reports roughly 3–4 hours per 30k LOC on their internal harness, and a single pass finds about half the bugs. We benchmarked the operational shell around it: the Hono Worker that accepts audit requests, dispatches runs, and stores schema-valid findings. Test Topology Harness: k6 0.51 with ramping-arrival-rate , 5 → 80 iterations/sec over six minutes, POST /audit carrying {repo, commit, profile} . Runtime: workerd via wrangler 4.x , compatibility_date: 2026-09-01 , nodejs_compat on. Twelve target repos (8k–34k LOC), each job a quick -profile run across phases 1–4. To keep provider latency a constant instead of a variable, every variant routed model calls through a relay endpoint ( baseURL: "https://b-lost.com/v1" ); TTFT variance between runs stayed under 12ms, so the numbers below reflect the Worker, not the inference upstream. Three sink/dispatch configurations: A — audit invoked inline in the request, findings written to serverless Postgres. B — audit invoked inline, findings written to KV. C — request enqueues via Queues, a consumer runs the audit, findings land in KV with read-through caching on repeat (repo, commit, profile) keys. Metric Comparison Variant Sustained RPS @ p95 < 400ms p95 p99 Cold start (p50) Bundle (gzip) Valid findings.json A — inline + Postgres 22 610ms 1,840ms 96ms 1.86 MB 91% B — inline + KV 41 380ms 720ms 61ms 1.12 MB 100% C — queue + KV cache 68 190ms 310ms 48ms 940 KB 100% Variant C hit cache on 94% of repeat requests; the 6% miss rate is the real dispatch cost (~1.4s added to first-touch latency, traded for a 4.6× p99 improvement). Two Failures Worth Naming Connection pool exhaustion. Variant A collapsed at 40 RPS with too many clients already . Each isolate opened its own pool, so concurrency multiplied by isolate count, not request count — 80 VUs produced ~260 live connections. Moving findings to KV removed the pool entirely; the audit itself doesn't need a transactional sink. Polyfill bloat. The Postgres driver plus its crypto shims pushed the bundle to 1.86 MB gzipped — under the ceiling, but with no headroom for the router. Dropping the driver and hashing with crypto.subtle cut 900 KB. That hash is also the cache key: import { Hono } from " hono " ; import { z } from " zod " ; type Bindings = { FINDINGS : KVNamespace ; AUDIT_QUEUE : Queue < { key : string ; repo : string ; commit : string ; profile : string } > ; }; const AuditRequest = z . object ({ repo : z . string (). regex ( /^ [\w .- ] + \/[\w .- ] +$/ ), commit : z . string (). regex ( /^ [ 0-9a-f ]{7,40} $/ ), profile : z . enum ([ " quick " , " full " ]). default ( " quick " ), }); const app = new Hono < { Bindings : Bindings } > (); app . post ( " /audit " , async ( c ) => { const parsed = AuditRequest . safeParse ( await c . req . json (). catch (() => null )); if ( ! parsed . success ) { return c . json ({ error : " invalid_request " , issues : parsed . error . issues }, 400 ); } const { repo , commit , profile } = parsed . data ; const digest = await crypto . subtle . digest ( " SHA-256 " , new TextEncoder (). encode ( ` ${ repo } @ ${ commit } : ${ profile } ` )); const key = [... new Uint8Array ( digest )]. map (( b ) => b . toString ( 16 ). padStart ( 2 , " 0 " )). join ( "" ); const cached = await c . env . FINDINGS . get ( key , " json " ); if ( cached ) return c . json ({ key , status : " complete " , findings : cached }, 200 , { " x-cache " : " hit " }); await c . env . AUDIT_QUEUE . send ({ key , repo , commit , profile }); return c . json ({ key , status : " queued " , poll : `/audit/ ${ key } ` }, 202 ); }); app . get ( " /audit/:key " , async ( c ) => { const record = await c . env . FINDINGS . get ( c . req . param ( " key " ), " json " ); return record ? c . json ({ status : " complete " , findings : record }) : c . json ({ status : " pending " }, 404 ); }); export default app ; { "$schema" : "node_modules/wrangler/config-schema.json" , "name" : "audit-dispatch" , "main" : "src/index.ts" , "compatibility_date" : "2026-09-01" , "compatibility_flags" : [ "nodejs_compat" ], "observability" : { "enabled" : true }, "kv_namespaces" : [{ "binding" : "FINDINGS" , "id" : "<kv-id>" }], "queues" : { "producers" : [{ "binding" : "AUDIT_QUEUE" , "queue" : "audit-jobs" }], "consumers" : [{ "queue" : "audit-jobs" , "max_batch_size" : 4 , "max_concurrency" : 6 , "max_retries" : 3 }] }, "vars" : { "UPSTREAM_BASE_URL" : "https://b-lost.com/v1" }, "routes" : [{ "pattern" : "audit.example.dev/*" , "zone_name" : "example.dev" }] } Where the Economics Flip Below roughly 1,200 audit requests/day and fewer than 12 concurrent runs, variant B is the right call — one Worker, one KV namespace, no queue to reason about. The crossover sits near 4,000 jobs/day: at that volume the Postgres sink's connection ceiling forces a proxy layer whose monthly cost exceeds KV writes, and Queue consumer batching absorbs the burst that would otherwise surface as 1,800ms p99. Past 25 sustained concurrent runs, inline invocation stops being viable at all, because a 20-minute audit occupies an isolate for 20 minutes. The skill itself is stateless markdown plus two .cjs validators, so it ports cleanly. What it needs is a dispatcher that treats findings.json as the durable artifact and the HTTP request as nothing more than a queue ticket.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/nathan_cross/benchmarking-cloudflaresecurity-audit-skill-behind-an-edge-dispatcher-p99-cold-start-and-bundle-2pc4
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

@@ -1265,6 +1265,17 @@
         "file": "biznode-handle-limits-scale-with-your-tier-3-handles-basic-20-up-to-5000-handles-1bznode-1500-every-bot-gets-a-free.md"
     },
     {
+        "title": "ReceiptFlow AI: The Zero-Cloud, Local-First Receipt Sorter for Freelancers",
+        "slug": "receiptflow-ai-the-zero-cloud-local-first-receipt-sorter-for-freelancers",
+        "author": "Babin Bid",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 19:46:17 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle What I Built Every tax season or quarterly review, I found myself fac...",
+        "keywords": "local, open, receipts, ollama, model, receiptflow, cloud, json",
+        "generated": "2026-10-18T20:23:36.860602",
+        "file": "receiptflow-ai-the-zero-cloud-local-first-receipt-sorter-for-freelancers.md"
+    },
+    {
         "title": "llms.txt Implementation: The Part Nobody Measures",
         "slug": "llmstxt-implementation-the-part-nobody-measures",
         "author": "Oleh Veheria",
@@ -1934,6 +1945,17 @@
         "keywords": "app, shopify, session, building, embedded, remix, bridge, parcelglance",
         "generated": "2026-08-07T13:15:09.530986",
         "file": "building-a-shopify-embedded-app-with-remix-and-supabase.md"
+    },
+    {
+        "title": "Laravel MCP: an AI connector without a second API",
+        "slug": "laravel-mcp-an-ai-connector-without-a-second-api",
+        "author": "NessFlow",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 20:17:52 +0000",
+        "description": "Laravel 13, laravel/mcp 1.0, Passport 13, one public API. Our customers asked for something that sounds small. They wanted to ask their assistant about their...",
+        "keywords": "tool, api, tools, what, not, request, mcp, one",
+        "generated": "2026-10-18T20:23:36.866767",
+        "file": "laravel-mcp-an-ai-connector-without-a-second-api.md"
     },
     {
         "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
@@ -3430,6 +3452,17 @@
         "keywords": "search, api, results, query, joffstrends, print, get, your",
         "generated": "2026-06-17T20:21:04.203211",
         "file": "building-a-real-time-news-aggregator-and-trend-tracker-with-python-and-joffstrends-search-api.md"
+    },
+    {
+        "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+        "slug": "floridas-hoas-and-condo-associations-are-making-the-housing-crisis-worse",
+        "author": "lovewins",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 18:40:16 +0000",
+        "description": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 98 # Comments: 145",
+        "keywords": "florida, housing, crisis, url, https, com, hoa, comments",
+        "generated": "2026-10-18T20:23:36.859173",
+        "file": "floridas-hoas-and-condo-associations-are-making-the-housing-crisis-worse.md"
     },
     {
         "title": "When AI Agents Go Rogue: What the OpenAI-Hugging Face Incident Means for Builders",
@@ -6060,6 +6093,17 @@
         "keywords": "provider, not, finamatik, your, invoice, line, one, com",
         "generated": "2026-09-10T16:09:48.920111",
         "file": "uae-e-invoicing-the-provider-is-the-last-step-not-the-first.md"
+    },
+    {
+        "title": "My first-ever hackathon — FalkorDB Graph Hacks 2026.",
+        "slug": "my-first-ever-hackathon-falkordb-graph-hacks-2026",
+        "author": "Jaya Singh",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 20:17:05 +0000",
+        "description": "POV: me at the submission deadline Anywayyy, meet StockRescue 🛒 The idea is pretty simple. Imagine Store A runs out of milk, but Store B nearby has extra. Wh...",
+        "keywords": "you, first, submission, hackathon, falkordb, graph, out, stock",
+        "generated": "2026-10-18T20:23:36.866987",
+        "file": "my-first-ever-hackathon-falkordb-graph-hacks-2026.md"
     },
     {
         "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
@@ -10152,6 +10196,17 @@
         "file": "the-tests-were-green-but-our-async-loops-were-doomed-plugging-a-severe-memory-leak-in-google-genai.md"
     },
     {
+        "title": "Swapping LLM Providers in Production FastAPI Without Rebuilding Your Async Pipeline",
+        "slug": "swapping-llm-providers-in-production-fastapi-without-rebuilding-your-async-pipeline",
+        "author": "Leo Martinez",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 19:22:02 +0000",
+        "description": "The Problem: Vendor Lock-In at the HTTP Client Layer Most production FastAPI services hard-code their LLM client initialization. You write OpenAI(api_key=......",
+        "keywords": "model, xinference, async, fastapi, stream, your, prompt, chunk",
+        "generated": "2026-10-18T20:23:36.861681",
+        "file": "swapping-llm-providers-in-production-fastapi-without-rebuilding-your-async-pipeline.md"
+    },
+    {
         "title": "My Experience With OmegleVC: A Fun Way to Meet New People",
         "slug": "my-experience-with-omeglevc-a-fun-way-to-meet-new-people",
         "author": "starcrazer",
@@ -11648,6 +11703,17 @@
         "file": "optimizing-rag-at-scale-and-it.md"
     },
     {
+        "title": "The Invisible Wall: Decoding IP Fraud Scores and the Strategic Pivot to Cellular Cleanliness",
+        "slug": "the-invisible-wall-decoding-ip-fraud-scores-and-the-strategic-pivot-to-cellular-cleanliness",
+        "author": "OnlineProxy",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 20:20:33 +0000",
+        "description": "In the high-stakes theater of global e-commerce, a transaction doesn’t fail at the Pay Now button. It fails milliseconds before, in the silent, algorithmic...",
+        "keywords": "your, mobile, data, fraud, ips, high, you, cellular",
+        "generated": "2026-10-18T20:23:36.863133",
+        "file": "the-invisible-wall-decoding-ip-fraud-scores-and-the-strategic-pivot-to-cellular-cleanliness.md"
+    },
+    {
         "title": "Data Engineering Manager Interview Prep: People, Roadmaps, Platform vs Product Trade-Offs",
         "slug": "data-engineering-manager-interview-prep-people-roadmaps-platform-vs-product-trade-offs",
         "author": "Gowtham Potureddi",
@@ -12438,6 +12504,17 @@
         "keywords": "article, url, https, comments, after, losses, retail, investors",
         "generated": "2026-08-05T02:54:38.753743",
         "file": "after-losses-retail-investors-flock-to-3x-leverage-as-2x-product-are-restricted.md"
+    },
+    {
+        "title": "The 10 AI Tools Small Businesses Actually Use in 2026",
+        "slug": "the-10-ai-tools-small-businesses-actually-use-in-2026",
+        "author": "NeurAITool",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 20:19:11 +0000",
+        "description": "Most small businesses do not need more software — they need the repetitive work to stop eating their mornings. I looked at the tools small businesses actuall...",
+        "keywords": "free, month, you, small, businesses, per, annual, full",
+        "generated": "2026-10-18T20:23:36.865463",
+        "file": "the-10-ai-tools-small-businesses-actually-use-in-2026.md"
     },
     {
         "title": "Monitoring Python RQ jobs: what to watch and how to get alerted",
@@ -23874,6 +23951,17 @@
         "keywords": "electra, like, semicolons, aren, optional, hello, world, sisyphus",
         "generated": "2026-08-11T07:15:40.514954",
         "file": "semicolons-arent-optional-my-day-looping-hello-world-sisyphus.md"
+    },
+    {
+        "title": "React and Next.js Avatar Uploads: Presigned URLs or a Backend for Private Storage?",
+        "slug": "react-and-nextjs-avatar-uploads-presigned-urls-or-a-backend-for-private-storage",
+        "author": "IgnazCole6453",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 20:07:03 +0000",
+        "description": "A browser direct upload with a presigned URL is a good avatar path only when the React or Next.js production origin already works with the private object sto...",
+        "keywords": "storage, upload, key, not, browser, path, backend, private",
+        "generated": "2026-10-18T20:23:36.860023",
+        "file": "react-and-nextjs-avatar-uploads-presigned-urls-or-a-backend-for-private-storage.md"
     },
     {
         "title": "DFlash 2: Keep Drafting Parallel",
@@ -45306,6 +45394,17 @@
         "file": "meta-pauses-employee-tracking-program-following-internal-data-leak.md"
     },
     {
+        "title": "APIWatch: Checking API Traffic and Subscription Controls with WSO2 API Manager",
+        "slug": "apiwatch-checking-api-traffic-and-subscription-controls-with-wso2-api-manager",
+        "author": "Nusaik_Ahamath",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 19:23:30 +0000",
+        "description": "I recently worked on a project called APIWatch using Python and WSO2 API Manager. It is a small monitoring tool that reads API traffic logs and helps review ...",
+        "keywords": "traffic, windows, model, requests, gateway, response, api, test",
+        "generated": "2026-10-18T20:23:36.861196",
+        "file": "apiwatch-checking-api-traffic-and-subscription-controls-with-wso2-api-manager.md"
+    },
+    {
         "title": "How to give Claude a MAS licence-verification tool with the Apify MCP server",
         "slug": "how-to-give-claude-a-mas-licence-verification-tool-with-the-apify-mcp-server",
         "author": "Michael",
@@ -59213,6 +59312,17 @@
         "file": "private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data.md"
     },
     {
+        "title": "Your x402 paywall answers 402 forever, and your facilitator is why",
+        "slug": "your-x402-paywall-answers-402-forever-and-your-facilitator-is-why",
+        "author": "Inner Ozma",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 20:10:32 +0000",
+        "description": "A paid endpoint that never sells anything usually gets blamed on traffic. Sometimes the rail is broken in a way that looks perfectly healthy from the outside...",
+        "keywords": "facilitator, name, your, type, payload, you, verify, auth",
+        "generated": "2026-10-18T20:23:36.863653",
+        "file": "your-x402-paywall-answers-402-forever-and-your-facilitator-is-why.md"
+    },
+    {
         "title": "I built an API that turns any URL into structured JSON for AI agents",
         "slug": "i-built-an-api-that-turns-any-url-into-structured-json-for-ai-agents",
         "author": "NexusCore",
@@ -61413,6 +61523,17 @@
         "file": "hrv-training-biofeedback-nirasynthai-jul-2026.md"
     },
     {
+        "title": "Why I didn't integrate with Messenger",
+        "slug": "why-i-didnt-integrate-with-messenger",
+        "author": "Kamil Kołodziejczyk",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 20:21:28 +0000",
+        "description": "A fitness coach I know runs live workouts in a private Facebook group. During each workout she says a password. Participants send it to her on Messenger, and...",
+        "keywords": "her, messenger, coach, password, who, app, one, live",
+        "generated": "2026-10-18T20:23:36.862569",
+        "file": "why-i-didnt-integrate-with-messenger.md"
+    },
+    {
         "title": "I Benchmarked 9 Multimodal AI APIs — The Pricing Data Surprised Me",
         "slug": "i-benchmarked-9-multimodal-ai-apis-the-pricing-data-surprised-me",
         "author": "purecast",
@@ -63435,6 +63556,17 @@
         "keywords": "progressino, platform, not, your, before, you, evaluating, similar",
         "generated": "2026-09-06T15:15:47.149427",
         "file": "8220artificial-intelligence-ai-is-saving-american-software-companies-not-killing-them8221-the.md"
+    },
+    {
+        "title": "Benchmarking cloudflare/security-audit-skill Behind an Edge Dispatcher: p99, Cold Start, and Bundle Weight",
+        "slug": "benchmarking-cloudflaresecurity-audit-skill-behind-an-edge-dispatcher-p99-cold-start-and-bundle-weight",
+        "author": "Nathan Cross",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 20:05:11 +0000",
+        "description": "Benchmarking cloudflare/security-audit-skill Behind an Edge Dispatcher: p99, Cold Start, and Bundle Weight cloudflare/security-audit-skill is a six-phase aud...",
+        "keywords": "audit, findings, json, key, profile, const, repo, commit",
+        "generated": "2026-10-18T20:23:36.864471",
+        "file": "benchmarking-cloudflaresecurity-audit-skill-behind-an-edge-dispatcher-p99-cold-start-and-bundle-weight.md"
     },
     {
         "title": "I Built a RAG System, But I Didn't Want It to Be Another Chat With Your PDF App",
@@ -66506,6 +66638,17 @@
         "file": "two-photo-inputs-beat-a-blank-prompt-building-hotel-lobby-ai-with-nextjs.md"
     },
     {
+        "title": "The Silent Recall Drop: pgvector HNSW Under Concurrent Writes",
+        "slug": "the-silent-recall-drop-pgvector-hnsw-under-concurrent-writes",
+        "author": "Samuel Oakley",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 20:22:14 +0000",
+        "description": "The Silent Recall Drop: pgvector HNSW Under Concurrent Writes 02:11:47 WARN ingest p99_insert_ms=3412 rows=48000 workers=6 02:11:47 WARN lockwait relation=jo...",
+        "keywords": "hnsw, index, not, embedding, int, recall, list, pgvector",
+        "generated": "2026-10-18T20:23:36.864808",
+        "file": "the-silent-recall-drop-pgvector-hnsw-under-concurrent-writes.md"
+    },
+    {
         "title": "Nine people know this part of Kubernetes. It still depends on one.",
         "slug": "nine-people-know-this-part-of-kubernetes-it-still-depends-on-one",
         "author": "Balaji Thukuntala",
@@ -66702,6 +66845,17 @@
         "keywords": "sentiment, human, rights, your, pulsebit, can, momentum, spike",
         "generated": "2026-08-05T14:21:05.032878",
         "file": "your-pipeline-is-294h-behind-catching-human-rights-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Investing in the public benefit",
+        "slug": "investing-in-the-public-benefit",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 18:15:10 +0000",
+        "description": "Article URL: https://www.anthropic.com/news/public-benefit-fund Comments URL: https://news.ycombinator.com/item?id=50143755 Points: 30 # Comments: 31",
+        "keywords": "public, benefit, url, https, com, news, comments, investing",
+        "generated": "2026-10-18T20:23:36.859487",
+        "file": "investing-in-the-public-benefit.md"
     },
     {
         "title": "I Tested 17 AI Tools Side by Side — Here's What Actually Matters",
@@ -68517,6 +68671,17 @@
         "keywords": "systems, research, models, can, intelligence, real, scientific, these",
         "generated": "2026-06-16T11:22:59.969426",
         "file": "artificial-intelligence-breakthroughs-latest-research-and-technological-advances.md"
+    },
+    {
+        "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+        "slug": "cfpb-opens-debanking-investigation-into-nine-large-national-banks",
+        "author": "iamnothere",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 18:26:40 +0000",
+        "description": "Article URL: https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/ Comments URL: https://news...",
+        "keywords": "cfpb, opens, debanking, investigation, nine, large, national, banks",
+        "generated": "2026-10-18T20:23:36.859326",
+        "file": "cfpb-opens-debanking-investigation-into-nine-large-national-banks.md"
     },
     {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
@@ -70695,6 +70860,17 @@
         "keywords": "los, agentes, que, con, inteligencia, datos, artificial, empresarial",
         "generated": "2026-08-29T20:45:19.189584",
         "file": "el-futuro-de-los-agentes-ia-cmo-la-inteligencia-artificial-est-redefiniendo-la-automatizacin-empresarial.md"
+    },
+    {
+        "title": "DukaanDraft: a local AI writing helper for small shops",
+        "slug": "dukaandraft-a-local-ai-writing-helper-for-small-shops",
+        "author": "M N Mustakul Amin Talukdar",
+        "source": "devto_ai",
+        "published": "Sun, 18 Oct 2026 20:21:51 +0000",
+        "description": "This is a submission for the DEV Hacktoberfest Week 2 Challenge . What I Built DukaanDraft is an English-only prototype that turns a local shop's short offer...",
+        "keywords": "model, not, local, shop, facts, test, small, node",
+        "generated": "2026-10-18T20:23:36.865082",
+        "file": "dukaandraft-a-local-ai-writing-helper-for-small-shops.md"
     },
     {
         "title": "OpenRouter 是什么？注册、免费模型、接入常用 AI 工具，一篇看懂",
@@ -73148,6 +73324,17 @@
         "keywords": "rustchain, agent, self, str, tool, api, return, json",
         "generated": "2026-08-25T01:36:16.222411",
         "file": "building-a-native-langchain-tool-for-rustchain-from-api-to-autocomplete-in-one-afternoon.md"
+    },
+    {
+        "title": "Free Pascal compiler now supports dynamic packages",
+        "slug": "free-pascal-compiler-now-supports-dynamic-packages",
+        "author": "sysrpl",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 18:48:04 +0000",
+        "description": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 28 # Comments: 7",
+        "keywords": "dynamic, url, https, comments, free, pascal, compiler, now",
+        "generated": "2026-10-18T20:23:36.859042",
+        "file": "free-pascal-compiler-now-supports-dynamic-packages.md"
     },
     {
         "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
@@ -84227,6 +84414,17 @@
         "file": "eeg-headband-consumer-nirasynthai-jul-2026.md"
     },
     {
+        "title": "US threatens Europe over Starlink restrictions",
+        "slug": "us-threatens-europe-over-starlink-restrictions",
+        "author": "mraniki",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 19:24:30 +0000",
+        "description": "https://archive.is/9GrWd Comments URL: https://news.ycombinator.com/item?id=50144405 Points: 27 # Comments: 19",
+        "keywords": "https, comments, threatens, europe, over, starlink, restrictions, archive",
+        "generated": "2026-10-18T20:23:36.858877",
+        "file": "us-threatens-europe-over-starlink-restrictions.md"
+    },
+    {
         "title": "Looking for Practical Tech Tutorials? Explore the Axevora Blog 🚀",
         "slug": "looking-for-practical-tech-tutorials-explore-the-axevora-blog",
         "author": "axevora",
@@ -85105,6 +85303,17 @@
         "keywords": "url, https, comments, beautiful, type, erasure, reflection, article",
         "generated": "2026-07-14T13:57:07.326246",
         "file": "beautiful-type-erasure-with-c26-reflection.md"
+    },
+    {
+        "title": "Build a Self-Hosted Translation API With TranslateGemma: Code, Costs, and Trade-offs",
+        "slug": "build-a-self-hosted-translation-api-with-translategemma-code-costs-and-trade-offs",
+        "author": "jamilxt",
+        "source": "devto_python",
+        "published": "Sun, 18 Oct 2026 19:21:01 +0000",
+        "description": "Every translation API has the same shape: you send your users' text to someone else's servers, and you pay per character, forever. That bill scales with your...",
+        "keywords": "text, you, model, google, your, translation, not, api",
+        "generated": "2026-10-18T20:23:36.862287",
+        "file": "build-a-self-hosted-translation-api-with-translategemma-code-costs-and-trade-offs.md"
     },
     {
         "title": "Building a Video Metadata Moderation Pipeline With Python and the Claude API",
@@ -99822,6 +100031,17 @@
         "keywords": "refresh, usage, reset, you, next, days, away, early",
         "generated": "2026-09-27T16:44:45.600029",
         "file": "are-early-ai-usage-resets-a-scam-the-math-goes-both-ways.md"
+    },
+    {
+        "title": "Why Standard Stripe & MoR Webhook Handlers Corrupt Customer Subscriptions When Events Arrive Out of Order (Plus the 31 Card Decline Code Retry Rules)",
+        "slug": "why-standard-stripe-mor-webhook-handlers-corrupt-customer-subscriptions-when-events-arrive-out-of-order-plus-the-31-card-decline-code-retry-rules",
+        "author": "StackOps Labs",
+        "source": "devto_webdev",
+        "published": "Sun, 18 Oct 2026 20:09:28 +0000",
+        "description": "Almost every SaaS starter template processes Stripe, Paddle, or Polar.sh webhooks the exact same way: a naive switch (event.type) block that writes event.dat...",
+        "keywords": "decline, retry, state, webhook, code, dunning, out, order",
+        "generated": "2026-10-18T20:23:36.864044",
+        "file": "why-standard-stripe-mor-webhook-handlers-corrupt-customer-subscriptions-when-events-arrive-out-of-order-plus-the-31-card-decline-code-retry-rules.md"
     },
     {
         "title": "Multimodal Models Are Only as Good as Their Weakest Encoder",
