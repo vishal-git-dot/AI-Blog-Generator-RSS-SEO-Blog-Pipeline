@@ -3322,6 +3322,17 @@
         "file": "top-10-websites-to-buy-telegram-accounts.md"
     },
     {
+        "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+        "slug": "openbsd-80-release-will-have-inteldrmradeondrmamdgpu-drivers-from-linux-618",
+        "author": "doener",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 21:11:45 +0000",
+        "description": "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 24 # Comments: 2",
+        "keywords": "url, https, comments, openbsd, release, will, have, inteldrm",
+        "generated": "2026-10-19T22:10:53.094132",
+        "file": "openbsd-80-release-will-have-inteldrmradeondrmamdgpu-drivers-from-linux-618.md"
+    },
+    {
         "title": "OpenAI Feared Optics of what might appear on Hacker News",
         "slug": "openai-feared-optics-of-what-might-appear-on-hacker-news",
         "author": "papergirl",
@@ -3419,6 +3430,17 @@
         "keywords": "one, podcast, you, podcasts, shows, new, podcasting, what",
         "generated": "2026-08-04T03:13:25.008081",
         "file": "half-of-new-podcasts-are-machines-humans-are-making-fewer-than-ever.md"
+    },
+    {
+        "title": "Last week in Agent Security Update 3: That's not Aoki!",
+        "slug": "last-week-in-agent-security-update-3-thats-not-aoki",
+        "author": "Will Velida",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 21:52:53 +0000",
+        "description": "An apology to start off with! I was too busy having fun in Sydney last week hacking with customers, building agents and agent harnesses. I got to experiment ...",
+        "keywords": "agents, credentials, server, any, you, agent, mcp, your",
+        "generated": "2026-10-19T22:10:53.102001",
+        "file": "last-week-in-agent-security-update-3-thats-not-aoki.md"
     },
     {
         "title": "Realtime Room Teardown in 2026: Managed Channels Beat Custom Presence Cleanup",
@@ -5411,6 +5433,17 @@
         "keywords": "run, task, you, not, tasks, variant, reliability, results",
         "generated": "2026-08-07T19:04:02.694582",
         "file": "measure-pass-all-k-not-accuracy-a-reliability-harness-in-60-lines.md"
+    },
+    {
+        "title": "Multiplayer Quiz Presence: Safe Realtime Channel Deletion in Python",
+        "slug": "multiplayer-quiz-presence-safe-realtime-channel-deletion-in-python",
+        "author": "ColeMitchell4991",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 21:34:34 +0000",
+        "description": "Short answer: treat channel deletion as a protocol state transition, not as a socket operation. Mark the quiz session closing, stop admitting messages, drain...",
+        "keywords": "channel, self, state, not, close, transport, str, delete",
+        "generated": "2026-10-19T22:10:53.095791",
+        "file": "multiplayer-quiz-presence-safe-realtime-channel-deletion-in-python.md"
     },
     {
         "title": "Money Is a Signal, Not a Soul",
@@ -7754,6 +7787,17 @@
         "file": "ai-driven-risk-management-for-crypto-traders-2026-10-10-7.md"
     },
     {
+        "title": "I stopped blaming GPT-5 for my Ads API 401 OAuth mess and fixed the 4 auth states that were actually broken",
+        "slug": "i-stopped-blaming-gpt-5-for-my-ads-api-401-oauth-mess-and-fixed-the-4-auth-states-that-were-actually-broken",
+        "author": "Lars Winstand",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 22:09:55 +0000",
+        "description": "I lost a stupid amount of time blaming GPT-5 for an automation failure that had nothing to do with GPT-5. The setup looked normal enough: n8n pulls search te...",
+        "keywords": "token, refresh, your, google, account, you, ads, auth",
+        "generated": "2026-10-19T22:10:53.099367",
+        "file": "i-stopped-blaming-gpt-5-for-my-ads-api-401-oauth-mess-and-fixed-the-4-auth-states-that-were-actually-broken.md"
+    },
+    {
         "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
         "slug": "yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood",
         "author": "theanonymousone",
@@ -8819,6 +8863,17 @@
         "keywords": "account, wise, information, security, verification, can, your, financial",
         "generated": "2026-09-18T20:42:06.200441",
         "file": "step-by-step-guide-to-buy-verified-wise-accounts.md"
+    },
+    {
+        "title": "Building a Client-Side Invoicing Engine & Statutory UK CIS Calculator in TypeScript",
+        "slug": "building-a-client-side-invoicing-engine-statutory-uk-cis-calculator-in-typescript",
+        "author": "Sarmad Hussain",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 22:09:54 +0000",
+        "description": "Handling statutory invoicing logic inside browser-native applications often requires complex compliance considerations. When building Invoicycle , we separat...",
+        "keywords": "statutory, cis, invoicycle, calculator, late, payment, interest, building",
+        "generated": "2026-10-19T22:10:53.097449",
+        "file": "building-a-client-side-invoicing-engine-statutory-uk-cis-calculator-in-typescript.md"
     },
     {
         "title": "QR Codes That Route to the Appropriate App Store",
@@ -10612,6 +10667,17 @@
         "keywords": "agent, automation, every, workflow, task, use, does, rule",
         "generated": "2026-06-27T08:43:42.523804",
         "file": "how-to-tell-if-a-task-needs-an-agent-or-an-automation.md"
+    },
+    {
+        "title": "Secret sauce code now open source ( * it beats AI generated code)",
+        "slug": "secret-sauce-code-now-open-source-it-beats-ai-generated-code",
+        "author": "tdk-cli",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 22:09:12 +0000",
+        "description": "TDK CLI: How a Simple service.json Becomes a Full Local Stack Most multi-service setups still force you to maintain Docker Compose files, Tiltfiles, nginx co...",
+        "keywords": "tdk, cli, engine, tilt, project, service, json, generated",
+        "generated": "2026-10-19T22:10:53.097805",
+        "file": "secret-sauce-code-now-open-source-it-beats-ai-generated-code.md"
     },
     {
         "title": "Paragraph CMS and the Rise of the AI-Native Headless CMS",
@@ -16807,6 +16873,17 @@
         "file": "fundamentals-of-wireless-communication-2005.md"
     },
     {
+        "title": "Mercury 3: Diffusion at scale",
+        "slug": "mercury-3-diffusion-at-scale",
+        "author": "cmrdporcupine",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 17:27:11 +0000",
+        "description": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 198 # Comments: 78",
+        "keywords": "mercury, url, https, comments, diffusion, scale, article, www",
+        "generated": "2026-10-19T22:10:53.094638",
+        "file": "mercury-3-diffusion-at-scale.md"
+    },
+    {
         "title": "Food processing influences metabolism and brain activity",
         "slug": "food-processing-influences-metabolism-and-brain-activity",
         "author": "gmays",
@@ -21929,6 +22006,17 @@
         "keywords": "every, game, round, code, can, which, fix, board",
         "generated": "2026-09-16T21:07:02.237811",
         "file": "three-bugs-that-survived-every-automated-check-and-how-line-by-line-review-caught-them.md"
+    },
+    {
+        "title": "The reverts will continue until morale improves",
+        "slug": "the-reverts-will-continue-until-morale-improves",
+        "author": "hans_castorp",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 18:42:32 +0000",
+        "description": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/item?id=5...",
+        "keywords": "reverts, will, continue, until, morale, improves, url, comments",
+        "generated": "2026-10-19T22:10:53.094543",
+        "file": "the-reverts-will-continue-until-morale-improves.md"
     },
     {
         "title": "26 reviewer agents out of 27 approved a test that can never fail again",
@@ -28978,6 +29066,17 @@
         "keywords": "model, provider, decimal, row, pricing, not, cache, deepseek",
         "generated": "2026-08-13T13:23:07.312139",
         "file": "build-a-model-catalog-drift-monitor-for-chinese-ai-apis.md"
+    },
+    {
+        "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+        "slug": "putting-linux-on-my-rtx-spark-laptop-because-i-dont-have-a-microsoft-account",
+        "author": "pfeifferj",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 21:08:18 +0000",
+        "description": "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 77 # Comments: 30",
+        "keywords": "linux, rtx, spark, url, https, comments, putting, laptop",
+        "generated": "2026-10-19T22:10:53.094429",
+        "file": "putting-linux-on-my-rtx-spark-laptop-because-i-dont-have-a-microsoft-account.md"
     },
     {
         "title": "I Built a Privacy-First Health Record MCP Server That Runs Entirely on Your Machine",
@@ -37835,6 +37934,17 @@
         "file": "advanced-sap-mm-training-with-live-projects-guaranteed-placement-support.md"
     },
     {
+        "title": "How to Evaluate a Copied Polymarket Trade in Python",
+        "slug": "how-to-evaluate-a-copied-polymarket-trade-in-python",
+        "author": "Dexoryn",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 21:32:33 +0000",
+        "description": "A copy-trading bot should not assume that a trade is worth copying just because another wallet executed it. The source trader might have entered at a favorab...",
+        "keywords": "price, decimal, not, follower, trade, entry, data, order",
+        "generated": "2026-10-19T22:10:53.096303",
+        "file": "how-to-evaluate-a-copied-polymarket-trade-in-python.md"
+    },
+    {
         "title": "Green Is a Measurement, Not a Decision",
         "slug": "green-is-a-measurement-not-a-decision",
         "author": "Pratik Patel",
@@ -41434,6 +41544,17 @@
         "keywords": "sports, pickup, can, games, their, application, group, platform",
         "generated": "2026-08-03T19:44:41.768040",
         "file": "building-and-testing-pickup-a-vibe-coded-platform-for-casual-sports-games.md"
+    },
+    {
+        "title": "How to scrape Glassdoor jobs and salaries into Excel or Python (no login, no API key)",
+        "slug": "how-to-scrape-glassdoor-jobs-and-salaries-into-excel-or-python-no-login-no-api-key",
+        "author": "Norbert Sobala",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 21:31:36 +0000",
+        "description": "Glassdoor is one of the few job boards that shows a salary range next to the job : either the employer's own or a Glassdoor estimate. It also shows the compa...",
+        "keywords": "jobs, you, salary, glassdoor, only, per, data, job",
+        "generated": "2026-10-19T22:10:53.096692",
+        "file": "how-to-scrape-glassdoor-jobs-and-salaries-into-excel-or-python-no-login-no-api-key.md"
     },
     {
         "title": "自動化測試 API 權限漏洞與 OpenAPI 安全性",
@@ -45438,6 +45559,17 @@
         "file": "your-epub-is-fine.md"
     },
     {
+        "title": "Google saw Loading… on every page of my Next.js site. Here's the fix.",
+        "slug": "google-saw-loading-on-every-page-of-my-nextjs-site-heres-the-fix",
+        "author": "Fellipe Gonçalves",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 21:39:23 +0000",
+        "description": "I help run Brasil Afora, a free, nonprofit catalog of scholarships and study programs for Brazilian students. It's a volunteer project on Next.js (App Router...",
+        "keywords": "page, but, server, google, site, fix, after, search",
+        "generated": "2026-10-19T22:10:53.098761",
+        "file": "google-saw-loading-on-every-page-of-my-nextjs-site-heres-the-fix.md"
+    },
+    {
         "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
         "slug": "there-is-no-epidemic-of-loneliness-but-there-is-an-epidemic-of-scurvy",
         "author": "luu",
@@ -46587,6 +46719,17 @@
         "keywords": "codex, local, windows, own, sessions, backup, not, workflow",
         "generated": "2026-10-02T22:01:18.333280",
         "file": "a-small-windows-workflow-for-switching-your-own-codex-profiles.md"
+    },
+    {
+        "title": "Diablo 2 Survivors",
+        "slug": "diablo-2-survivors",
+        "author": "bigwheels",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 21:10:57 +0000",
+        "description": "Article URL: https://d2survivors.lol/ Comments URL: https://news.ycombinator.com/item?id=50158131 Points: 7 # Comments: 0",
+        "keywords": "url, https, comments, diablo, survivors, article, lol, news",
+        "generated": "2026-10-19T22:10:53.094296",
+        "file": "diablo-2-survivors.md"
     },
     {
         "title": "Playwright 1.64 adds WebMCP. What changes for your tests?",
@@ -69542,6 +69685,17 @@
         "file": "deepseek-v4-flash-0731.md"
     },
     {
+        "title": "The Catalog Deleted Our Listings",
+        "slug": "the-catalog-deleted-our-listings",
+        "author": "minia2a",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 21:42:40 +0000",
+        "description": "This content reflects minia2a as of its publication date and is kept for the record. Current model: x402 pay-per-call in USDC on Base only , 5 free trial cal...",
+        "keywords": "rows, not, our, two, days, catalog, index, what",
+        "generated": "2026-10-19T22:10:53.098487",
+        "file": "the-catalog-deleted-our-listings.md"
+    },
+    {
         "title": "SFTP, EDI & Flat-File Ingestion: File Landing, Schema Drift, Late & Partial Files",
         "slug": "sftp-edi-flat-file-ingestion-file-landing-schema-drift-late-partial-files",
         "author": "Gowtham Potureddi",
@@ -84942,6 +85096,17 @@
         "file": "i-scored-91-websites-against-a-40-check-design-contract-zero-got-an-a.md"
     },
     {
+        "title": "2,000 Agents Ported Prime Agent to Rust. A Terminal-Frame Diff Was the Judge",
+        "slug": "2000-agents-ported-prime-agent-to-rust-a-terminal-frame-diff-was-the-judge",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 22:01:24 +0000",
+        "description": "Book: AI That Plans The series: AI in TypeScript — 5 books, from your first LLM call to agents in production — all five here My project: Hermes IDE | GitHub ...",
+        "keywords": "agent, agents, hermes, typescript, same, its, task, each",
+        "generated": "2026-10-19T22:10:53.100848",
+        "file": "2000-agents-ported-prime-agent-to-rust-a-terminal-frame-diff-was-the-judge.md"
+    },
+    {
         "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
         "slug": "qwen-image-30-rich-content-authentic-details-deep-knowledge",
         "author": "ilreb",
@@ -85721,6 +85886,17 @@
         "keywords": "brain, you, agent, one, markdown, project, file, why",
         "generated": "2026-06-24T04:04:51.777348",
         "file": "we-have-officially-open-sourced-projectbrainmd-a-persistent-memory-layer-for-your-projects.md"
+    },
+    {
+        "title": "How to Evaluate AI Project Management Software for Real Workflows",
+        "slug": "how-to-evaluate-ai-project-management-software-for-real-workflows",
+        "author": "Tomasz Krystman",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 22:00:54 +0000",
+        "description": "When requests, decisions, and project updates are scattered across tasks, documents, meetings, and chat, teams spend too much time reconstructing status and ...",
+        "keywords": "project, workflow, teams, work, deployment, cloud, management, workflows",
+        "generated": "2026-10-19T22:10:53.101345",
+        "file": "how-to-evaluate-ai-project-management-software-for-real-workflows.md"
     },
     {
         "title": "Lovable Supabase Integration: Cloud or Your Own Project, and How to Set It Up Safely",
@@ -87987,6 +88163,17 @@
         "keywords": "handles, incidents, engineers, lose, touch, their, systems, url",
         "generated": "2026-09-05T10:19:57.817919",
         "file": "ai-handles-incidents-engineers-lose-touch-with-their-systems.md"
+    },
+    {
+        "title": "MBA Capstone Modeling: How to Fix Heteroscedasticity and HC3 Robust Standard Errors in OLS in Python Before Defense",
+        "slug": "mba-capstone-modeling-how-to-fix-heteroscedasticity-and-hc3-robust-standard-errors-in-ols-in-python-before-defense",
+        "author": "Python_MBA_Analytics",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 21:21:52 +0000",
+        "description": "MBA Capstone Modeling: How to Fix Heteroscedasticity and HC3 Robust Standard Errors in OLS in Python Before Defense Introduction 📌 Urgent Thesis & Dissertati...",
+        "keywords": "standard, errors, robust, ols, heteroscedasticity, your, data, test",
+        "generated": "2026-10-19T22:10:53.097250",
+        "file": "mba-capstone-modeling-how-to-fix-heteroscedasticity-and-hc3-robust-standard-errors-in-ols-in-python-before-defense.md"
     },
     {
         "title": "Why I Stopped Building Stateless Sales Bots and Switched to Hindsight",
@@ -98286,6 +98473,17 @@
         "file": "understanding-the-agent-loop-how-tool-using-llm-systems-actually-work.md"
     },
     {
+        "title": "Accuracy Lied to Me: Precision, Recall, ROC AUC and Cross-Validation in ML Zoomcamp Module 4",
+        "slug": "accuracy-lied-to-me-precision-recall-roc-auc-and-cross-validation-in-ml-zoomcamp-module-4",
+        "author": "marcos-Nieves-24",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 21:48:59 +0000",
+        "description": "In Module 3 I trained a lead-scoring classifier and reported 0.645 accuracy. It sounded fine. Module 4 of ML Zoomcamp exists to destroy exactly that feeling ...",
+        "keywords": "auc, accuracy, module, model, you, homework, solver, random",
+        "generated": "2026-10-19T22:10:53.098081",
+        "file": "accuracy-lied-to-me-precision-recall-roc-auc-and-cross-validation-in-ml-zoomcamp-module-4.md"
+    },
+    {
         "title": "13 models and 4 agents work on SWE tasks in 5 languages: Go, Java, Python, Rust, TS. https://swe-rebench.com",
         "slug": "13-models-and-4-agents-work-on-swe-tasks-in-5-languages-go-java-python-rust-ts-httpsswe-rebenchcom",
         "author": "Atheer",
@@ -99140,6 +99338,17 @@
         "keywords": "run, wellfound, actor, you, your, data, jobs, scraper",
         "generated": "2026-09-18T16:10:33.637005",
         "file": "why-wellfound-scraper-runs-drop-items-after-300-seconds.md"
+    },
+    {
+        "title": "Realtime Delivery Event Retention Rules for Recovering Missed Map Updates",
+        "slug": "realtime-delivery-event-retention-rules-for-recovering-missed-map-updates",
+        "author": "DemetriusReed2163",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 21:48:29 +0000",
+        "description": "Short answer: keep a short, durable event window for the delivery tracking map, make reconnects request a cursor, and treat a snapshot plus replay as the rec...",
+        "keywords": "cursor, event, snapshot, replay, when, delivery, retention, map",
+        "generated": "2026-10-19T22:10:53.095217",
+        "file": "realtime-delivery-event-retention-rules-for-recovering-missed-map-updates.md"
     },
     {
         "title": "SAP MM Course Online | 100% placement Assistance",
@@ -101648,6 +101857,17 @@
         "keywords": "vibe, app, safe, coding, tools, security, critical, users",
         "generated": "2026-09-27T04:44:48.253942",
         "file": "is-that-vibe-coded-app-safe-5-checks-before-you-download.md"
+    },
+    {
+        "title": "AI Daily Digest October 20, 2026: Four Gemini Agents Beat Minecraft, German Courts Hold Google Liable, Anthropic Commits 5% to Public Benefit",
+        "slug": "ai-daily-digest-october-20-2026-four-gemini-agents-beat-minecraft-german-courts-hold-google-liable-anthropic-commits-5-to-public-benefit",
+        "author": "HIROKI II",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 22:08:36 +0000",
+        "description": "Seven stories from the past 24 hours, each anchored to at least one official source. This edition runs on two rails: agents proving what they can finish with...",
+        "keywords": "google, anthropic, its, agents, than, court, one, can",
+        "generated": "2026-10-19T22:10:53.100147",
+        "file": "ai-daily-digest-october-20-2026-four-gemini-agents-beat-minecraft-german-courts-hold-google-liable-anthropic-commits-5-to-public-benefit.md"
     },
     {
         "title": "How We Pushed CDC into Postgres",
