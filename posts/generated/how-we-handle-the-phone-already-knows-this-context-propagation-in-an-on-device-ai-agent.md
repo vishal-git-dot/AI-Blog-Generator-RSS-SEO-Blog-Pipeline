@@ -1,0 +1,34 @@
+---
+title: "How we handle “the phone already knows this” — context propagation in an on-device AI agent"
+slug: "how-we-handle-the-phone-already-knows-this-context-propagation-in-an-on-device-ai-agent"
+author: "StareBrain"
+source: "devto_ai"
+published: "Mon, 19 Oct 2026 03:59:33 +0000"
+description: "One of the most common reactions we get from StareBrain beta users is some version of: “why do I still have to tell it things it should already know?” It’s a..."
+keywords: "context, val, confidence, device, param, phone, has, what"
+generated: "2026-10-19T04:06:19.792604"
+---
+
+# How we handle “the phone already knows this” — context propagation in an on-device AI agent
+
+## Overview
+
+One of the most common reactions we get from StareBrain beta users is some version of: “why do I still have to tell it things it should already know?” It’s a fair question. The phone has the calendar. It has the contacts. It has the location history, the saved addresses, the flight confirmation in the email. The information exists. The problem is that each app owns its slice of it and nothing connects the dots automatically. Building an on-device AI agent means solving that problem — not by sending everything to a cloud service, but by building a context layer that runs locally and propagates the right information to the right action at the right time. Here’s how we approached it. The problem: action context vs device context When a user says “book me a cab for my usual airport,” there are two kinds of context the agent needs: Action context : what action is being requested, what parameters it needs, what apps can fulfill it Device context : what does the phone already know that’s relevant — upcoming calendar events, saved locations, recent searches Most agent architectures handle action context well. Device context is where things get complicated, because it’s distributed across the OS and multiple apps, each with their own permission model. `data class AgentContext ( val actionIntent : ActionIntent , val deviceContext : DeviceContext , val resolvedParameters : Map < String , Any > ) data class DeviceContext ( val upcomingEvents : List < CalendarEvent >, val savedLocations : List < SavedLocation >, val recentApps : List < String >, val activeNotifications : List < NotificationSummary > ) ` The agent needs to resolve parameters from device context before dispatch — not during, and not by asking the user for information the phone already has. Context resolution before dispatch We added a resolution pass that runs before any action is dispatched. It takes the raw intent and tries to fill in missing parameters from device context before surfacing anything to the user: `class ContextResolver ( private val calendarProvider : CalendarProvider , private val locationStore : LocationStore ) { fun resolve ( intent : ActionIntent , context : DeviceContext ): ResolvedIntent { val params = intent . requiredParameters . associateWith { param -> when ( param ) { is Parameter . Location -> resolveLocation ( param , context ) is Parameter . DateTime -> resolveDateTime ( param , context ) is Parameter . Contact -> resolveContact ( param , context ) else -> UnresolvedParameter ( param ) } } return ResolvedIntent ( intent , params ) } private fun resolveLocation ( param : Parameter . Location , context : DeviceContext ): ParameterValue { // "usual airport" → check saved locations for airport category val saved = context . savedLocations . filter { it . category == param . hint } . maxByOrNull { it . useCount } return saved ?. let { ParameterValue . Resolved ( it . address ) } ?: ParameterValue . NeedsConfirmation ( param ) } } ` If a parameter can be resolved confidently, it’s filled in automatically. If it can be resolved with reasonable confidence but not certainty, it’s surfaced to the user as a pre-filled suggestion they can confirm or change. If it can’t be resolved at all, it’s flagged as missing and the user is asked. The key rule: never ask for information the phone already has. Confidence thresholds Not all resolutions are equal. “Your usual airport” from a saved location you’ve used 40 times is high confidence. “Your usual airport” inferred from one calendar event three months ago is low confidence. `enum class ResolutionConfidence { HIGH , MEDIUM , LOW , UNRESOLVABLE } data class ParameterValue ( val value : Any ?, val confidence : ResolutionConfidence , val source : ContextSource ) fun ParameterValue . shouldAutoFill (): Boolean = confidence == ResolutionConfidence . HIGH fun ParameterValue . shouldSuggest (): Boolean = confidence == ResolutionConfidence . MEDIUM fun ParameterValue . shouldAsk (): Boolean = confidence == ResolutionConfidence . LOW || confidence == ResolutionConfidence . UNRESOLVABLE ` High confidence → auto-fill, show in confirmation summary. Medium confidence → pre-fill with a “is this right?” prompt. Low confidence → ask the user directly. This keeps the agent from confidently doing the wrong thing while still reducing the number of things the user has to say. The privacy constraint Everything in this system runs on-device. No context leaves the phone. That’s a hard constraint, not a preference. The practical implication: we can’t use a cloud model to reason over the full device context, because we can’t send the full device context to a cloud model. The resolution logic has to be deterministic enough to run locally, which means it needs to be explicit about what signals it uses and how it weighs them. That’s a tighter constraint than cloud-based approaches, but it’s what makes the privacy guarantee credible. “Your data never leaves your phone” only means something if the architecture actually enforces it. What this solves (and doesn’t) Context resolution handles the “it should already know this” problem for structured data — saved locations, calendar events, contacts. It doesn’t solve open-ended inference (“what would I usually do here?”) or cross-app state that requires active reading of app content. Those are harder problems. The structured data layer is the foundation. Getting it right first means users stop being asked for things the phone already has, which is the baseline expectation before anything more ambitious makes sense. The goal isn’t to build the most capable agent. It’s to build one that never makes you feel like you’re talking to something that doesn’t know you.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/starebrain/how-we-handle-the-phone-already-knows-this-context-propagation-in-an-on-device-ai-agent-49ph
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

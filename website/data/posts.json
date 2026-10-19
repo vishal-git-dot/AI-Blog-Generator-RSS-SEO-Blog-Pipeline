@@ -2497,6 +2497,17 @@
         "file": "pre-release-of-polars-20.md"
     },
     {
+        "title": "PSEC-99: A 3D Browser Game in C# and WASM, Without WebGL",
+        "slug": "psec-99-a-3d-browser-game-in-c-and-wasm-without-webgl",
+        "author": "Umberto Giacobbi",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 03:46:47 +0000",
+        "description": "Take a look at what the OpenSilver team has built. This game shows what C# and WebAssembly can do in the browser. How fast? Play it and see for yourself. Dis...",
+        "keywords": "game, what, they, browser, opensilver, code, net, wasm",
+        "generated": "2026-10-19T04:06:19.788544",
+        "file": "psec-99-a-3d-browser-game-in-c-and-wasm-without-webgl.md"
+    },
+    {
         "title": "Python programming language.....",
         "slug": "python-programming-language",
         "author": "Agatha Nduku",
@@ -5941,6 +5952,17 @@
         "file": "agent-frost.md"
     },
     {
+        "title": "RepoTrace — Make failing commands repeatable, inspectable, and testable",
+        "slug": "repotrace-make-failing-commands-repeatable-inspectable-and-testable",
+        "author": "Biki Kc",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 03:47:07 +0000",
+        "description": "Why it matters When a command fails in your project or CI, “it failed” is rarely enough to act on. RepoTrace saves the exact argv, exit code, stdout/stderr, ...",
+        "keywords": "repotrace, tests, failing, command, python, reports, commands, failure",
+        "generated": "2026-10-19T04:06:19.787291",
+        "file": "repotrace-make-failing-commands-repeatable-inspectable-and-testable.md"
+    },
+    {
         "title": "Building a Production-Ready Polymarket Bot: Delta-Momentum + CLOB Execution",
         "slug": "building-a-production-ready-polymarket-bot-delta-momentum-clob-execution",
         "author": "Adam Daniels",
@@ -8062,6 +8084,17 @@
         "file": "how-shoppable-videos-increase-conversion-rates-in-e-commerce.md"
     },
     {
+        "title": "A Practice Planner Should Advance on a Verdict, Not a Stopwatch",
+        "slug": "a-practice-planner-should-advance-on-a-verdict-not-a-stopwatch",
+        "author": "Giang Pham Truong",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 03:41:59 +0000",
+        "description": "Disclosure: I’m Giang Pham, Pianory’s maker. AI helped draft this article and review its claims against the repository. It describes source behavior and exis...",
+        "keywords": "tempo, not, steady, hand, planner, task, session, hands",
+        "generated": "2026-10-19T04:06:19.788872",
+        "file": "a-practice-planner-should-advance-on-a-verdict-not-a-stopwatch.md"
+    },
+    {
         "title": "Why Sunbiz Name Searches Return Nearest Neighbors Instead of Empty Sets",
         "slug": "why-sunbiz-name-searches-return-nearest-neighbors-instead-of-empty-sets",
         "author": "Crawler Bros",
@@ -9380,6 +9413,17 @@
         "keywords": "form, post, request, data, symfony, controller, maprequesttoform, use",
         "generated": "2026-06-06T13:56:22.892143",
         "file": "using-symfony-forms-as-controller-arguments-with-maprequesttoform.md"
+    },
+    {
+        "title": "Coding Is Easy in 2026. Getting Paid Isn’t. Here’s How to Start.",
+        "slug": "coding-is-easy-in-2026-getting-paid-isnt-heres-how-to-start",
+        "author": "Robert Adamson",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 03:57:05 +0000",
+        "description": "You can build an app. You can connect a database, add authentication, integrate payments, and put it online. Then you launch. A few people visit. Someone say...",
+        "keywords": "you, what, can, customer, your, one, how, problem",
+        "generated": "2026-10-19T04:06:19.793143",
+        "file": "coding-is-easy-in-2026-getting-paid-isnt-heres-how-to-start.md"
     },
     {
         "title": "Tame boar and deer are instinctively adapting to the wolf in the Netherlands",
@@ -26098,6 +26142,17 @@
         "file": "show-hn-exploring-the-intersection-of-prediction-markets-and-social-media.md"
     },
     {
+        "title": "Google found my side page before my main feature",
+        "slug": "google-found-my-side-page-before-my-main-feature",
+        "author": "TattooTryOn",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 03:40:26 +0000",
+        "description": "I launched TattooTryOn a few days ago. You upload a photo of your arm or leg, drop a design on it, place it yourself, and an AI model turns the flat artwork ...",
+        "keywords": "you, tattoo, page, photo, font, design, one, model",
+        "generated": "2026-10-19T04:06:19.789214",
+        "file": "google-found-my-side-page-before-my-main-feature.md"
+    },
+    {
         "title": "Gate Changelog Drafts With a Signed Release Impact Packet",
         "slug": "gate-changelog-drafts-with-a-signed-release-impact-packet",
         "author": "Avery Lin",
@@ -34535,6 +34590,17 @@
         "file": "the-tariff-cost-analysis-of-the-costs-to-americans-from-new-tariffs-on-canada.md"
     },
     {
+        "title": "OpenRouter's Armor Vets Agent Tool Calls. In Claude Code Mode It Only Flags Them",
+        "slug": "openrouters-armor-vets-agent-tool-calls-in-claude-code-mode-it-only-flags-them",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 04:01:37 +0000",
+        "description": "Book: System Design Pocket Guide: Fundamentals Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go M...",
+        "keywords": "armor, claude, code, you, call, docs, openrouter, mode",
+        "generated": "2026-10-19T04:06:19.790418",
+        "file": "openrouters-armor-vets-agent-tool-calls-in-claude-code-mode-it-only-flags-them.md"
+    },
+    {
         "title": "Why are we even doing all this?",
         "slug": "why-are-we-even-doing-all-this",
         "author": "smilelamp",
@@ -34588,6 +34654,17 @@
         "keywords": "docker, labelstudio, data, traefik, letsencrypt, label, studio, compose",
         "generated": "2026-06-16T21:09:41.017394",
         "file": "deploying-label-studio-open-source-data-labeling-platform-on-ubuntu-2404.md"
+    },
+    {
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "slug": "show-hn-whatsapp-mcp-running-free-on-cloudflare",
+        "author": "zoozla",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 21:36:10 +0000",
+        "description": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to...",
+        "keywords": "whatsapp, your, free, wanted, only, run, account, comments",
+        "generated": "2026-10-19T04:06:19.786460",
+        "file": "show-hn-whatsapp-mcp-running-free-on-cloudflare.md"
     },
     {
         "title": "Stop Benchmarking the Model. Start Benchmarking the Round Trip.",
@@ -41381,6 +41458,17 @@
         "file": "minimax-h3-run-a-30-minute-adoption-gate-before-you-commit.md"
     },
     {
+        "title": "Choosing an AI Resource Management Tool: A Decision Guide for 2026",
+        "slug": "choosing-an-ai-resource-management-tool-a-decision-guide-for-2026",
+        "author": "Sara Ebden",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 04:01:04 +0000",
+        "description": "When several teams are overbooked while a specialist has spare capacity, managers need more than a staffing calendar. Useful resource planning connects deman...",
+        "keywords": "project, resource, can, planning, delivery, portfolio, reporting, capacity",
+        "generated": "2026-10-19T04:06:19.791412",
+        "file": "choosing-an-ai-resource-management-tool-a-decision-guide-for-2026.md"
+    },
+    {
         "title": "Training a 4B model to produce 81% faster query plans than Postgres",
         "slug": "training-a-4b-model-to-produce-81-faster-query-plans-than-postgres",
         "author": "polyphilz",
@@ -43533,6 +43621,17 @@
         "keywords": "development, software, code, developers, powered, can, tools, learning",
         "generated": "2026-06-05T10:10:12.601187",
         "file": "exploring-the-future-of-software-development-with-artificial-intelligence.md"
+    },
+    {
+        "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+        "slug": "how-quickly-can-the-dod-rebuild-and-recast-the-munitions-industrial-base",
+        "author": "gmays",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 23:37:54 +0000",
+        "description": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?i...",
+        "keywords": "how, quickly, can, dod, rebuild, recast, munitions, industrial",
+        "generated": "2026-10-19T04:06:19.786314",
+        "file": "how-quickly-can-the-dod-rebuild-and-recast-the-munitions-industrial-base.md"
     },
     {
         "title": "What Is HEIC and How to Open HEIC Files Anywhere",
@@ -46193,6 +46292,17 @@
         "file": "exposed-the-shocking-truth-about-radiation-poisoning-and-the-hidden-dangers-youre-not-being-told.md"
     },
     {
+        "title": "Every DOE 202(c) emergency order of 2025-2026 in one CSV: 66 this year, and emergency orders in force on 76 days",
+        "slug": "every-doe-202c-emergency-order-of-2025-2026-in-one-csv-66-this-year-and-emergency-orders-in-force-on-76-days",
+        "author": "munimv2",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 03:42:29 +0000",
+        "description": "The U.S. Department of Energy can order a utility or grid operator to keep running generation under section 202(c) of the Federal Power Act. DOE lists those ...",
+        "keywords": "orders, order, doe, days, one, january, emergency, force",
+        "generated": "2026-10-19T04:06:19.787505",
+        "file": "every-doe-202c-emergency-order-of-2025-2026-in-one-csv-66-this-year-and-emergency-orders-in-force-on-76-days.md"
+    },
+    {
         "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
         "slug": "i-scanned-50-ai-generated-repos-5-critical-bugs-per-file-on-average-all-missed-by-linters",
         "author": "Moon sehwan",
@@ -48589,6 +48699,17 @@
         "keywords": "software, development, you, your, custom, company, business, solutions",
         "generated": "2026-07-11T08:04:04.874942",
         "file": "software-development-company-usa-custom-it-solutions.md"
+    },
+    {
+        "title": "Superlite: A Faster Alternatie to Superpowers",
+        "slug": "superlite-a-faster-alternatie-to-superpowers",
+        "author": "iheatuchriswogu",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 02:01:16 +0000",
+        "description": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 19 # Comments: 9",
+        "keywords": "superlite, url, https, comments, faster, alternatie, superpowers, article",
+        "generated": "2026-10-19T04:06:19.785878",
+        "file": "superlite-a-faster-alternatie-to-superpowers.md"
     },
     {
         "title": "I Scraped 100 Sports Matches — Here Is What I Found: England 2026 World Cup squad: player-by-player ratings",
@@ -58608,6 +58729,17 @@
         "file": "caddy-vs-nginx-which-reverse-proxy-should-you-use-in-2026.md"
     },
     {
+        "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+        "slug": "footage-of-the-flock-search-that-a-judge-ruled-was-uncosntitutional",
+        "author": "anigbrowl",
+        "source": "hackernews",
+        "published": "Mon, 19 Oct 2026 01:55:03 +0000",
+        "description": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ Comments URL: https://news.ycombinator.com/item?id=501...",
+        "keywords": "footage, flock, search, judge, ruled, url, https, comments",
+        "generated": "2026-10-19T04:06:19.786041",
+        "file": "footage-of-the-flock-search-that-a-judge-ruled-was-uncosntitutional.md"
+    },
+    {
         "title": "I Split the Wait Into Three Clocks",
         "slug": "i-split-the-wait-into-three-clocks",
         "author": "Dakota Lin",
@@ -61444,6 +61576,17 @@
         "keywords": "her, remote, employee, refused, webcam, photos, day, employer",
         "generated": "2026-10-11T21:42:13.755807",
         "file": "a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her.md"
+    },
+    {
+        "title": "Hybrid Search for RAG: Why Your Vector Search Misses TS-999 (and the 20-Line Fix)",
+        "slug": "hybrid-search-for-rag-why-your-vector-search-misses-ts-999-and-the-20-line-fix",
+        "author": "M.T.Ramkrushna",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 03:39:27 +0000",
+        "description": "A user types: How do I fix error TS-999? Your RAG app runs a vector search, pulls five chunks about error codes in general , and the model writes a confide...",
+        "keywords": "search, your, vector, int, chunks, exact, you, query",
+        "generated": "2026-10-19T04:06:19.788070",
+        "file": "hybrid-search-for-rag-why-your-vector-search-misses-ts-999-and-the-20-line-fix.md"
     },
     {
         "title": "Every Telegram conversation becomes a qualified lead. BizNode captures name, email, and business details automatically while...",
@@ -67914,6 +68057,17 @@
         "file": "building-the-autonomous-web-best-practices-for-generative-ai-integration-in-web-development.md"
     },
     {
+        "title": "SellCraft AI: a listing writer that runs on the seller's laptop, not my server",
+        "slug": "sellcraft-ai-a-listing-writer-that-runs-on-the-sellers-laptop-not-my-server",
+        "author": "Senthil raja .R",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 03:35:22 +0000",
+        "description": "(alt: SellCraft AI — a fully local Etsy/eBay listing writer with Gemma 4 and Ollama) This is a submission for the Hacktoberfest Open-Source AI Challenge Week...",
+        "keywords": "seller, one, model, listing, photos, you, gemma, tags",
+        "generated": "2026-10-19T04:06:19.789765",
+        "file": "sellcraft-ai-a-listing-writer-that-runs-on-the-sellers-laptop-not-my-server.md"
+    },
+    {
         "title": "Running Hugging Face Inference with Kiro: From Prompt to Working Summarizer",
         "slug": "running-hugging-face-inference-with-kiro-from-prompt-to-working-summarizer",
         "author": "Avani",
@@ -68440,6 +68594,17 @@
         "keywords": "tribblix, url, comments, retro, illumos, distribution, article, http",
         "generated": "2026-06-14T09:45:48.682858",
         "file": "tribblix-the-retro-illumos-distribution.md"
+    },
+    {
+        "title": "I built a workflow that checks whether my AI agent's context was enough, then proves it with my own tests",
+        "slug": "i-built-a-workflow-that-checks-whether-my-ai-agents-context-was-enough-then-proves-it-with-my-own-tests",
+        "author": "Ryan Cotten",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 03:41:21 +0000",
+        "description": "When I give an AI coding agent a task, I never actually know if the context I sent it was enough. So I built the check. The stack is four small tools, all Py...",
+        "keywords": "own, all, one, agent, task, checks, tests, when",
+        "generated": "2026-10-19T04:06:19.787703",
+        "file": "i-built-a-workflow-that-checks-whether-my-ai-agents-context-was-enough-then-proves-it-with-my-own-tests.md"
     },
     {
         "title": "Shree Game – Download Guide, Features & App Overview.",
@@ -70244,6 +70409,17 @@
         "keywords": "lighting, sports, led, scl, more, light, dev, eve",
         "generated": "2026-08-26T06:57:10.997932",
         "file": "hello-dev-community-im-eve-from-scl.md"
+    },
+    {
+        "title": "I Built a Frozen-Scan Detector. A Week Later It Fires Daily — and Nothing Consumes It",
+        "slug": "i-built-a-frozen-scan-detector-a-week-later-it-fires-daily-and-nothing-consumes-it",
+        "author": "Felixwang007",
+        "source": "devto_python",
+        "published": "Mon, 19 Oct 2026 04:02:23 +0000",
+        "description": "This is the verdict my detector printed ten minutes ago, verbatim: $ python tools/scanfresh/scan_freshness_guard.py check \\ --ledger recommendations/signal_h...",
+        "keywords": "not, frozen, ledger, panel, exit, one, check, identical",
+        "generated": "2026-10-19T04:06:19.786973",
+        "file": "i-built-a-frozen-scan-detector-a-week-later-it-fires-daily-and-nothing-consumes-it.md"
     },
     {
         "title": "一个月，一个人，一个AI家族：FROST如何帮我撑起了一场训练营",
@@ -74446,6 +74622,17 @@
         "keywords": "refurbishing, tektronix, url, https, comments, oscilloscope, article, tomverbeure",
         "generated": "2026-09-01T20:51:44.949597",
         "file": "refurbishing-a-tektronix-tds7104-oscilloscope.md"
+    },
+    {
+        "title": "PaperToProfit: Turning Handwritten Dhaba Bills into Revenue & Profit Intelligence with Open-Source AI and TabPFN",
+        "slug": "papertoprofit-turning-handwritten-dhaba-bills-into-revenue-profit-intelligence-with-open-source-ai-and-tabpfn",
+        "author": "Sapnil M",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 04:00:12 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle 🍽️ What I Built Walk into almost any local diner, roadside dhaba, tea...",
+        "keywords": "open, tabpfn, revenue, time, local, vision, model, small",
+        "generated": "2026-10-19T04:06:19.792179",
+        "file": "papertoprofit-turning-handwritten-dhaba-bills-into-revenue-profit-intelligence-with-open-source-ai-and-tabpfn.md"
     },
     {
         "title": "Learn Configuration Precedence With Empty, Missing, and Invalid Values",
@@ -86062,6 +86249,17 @@
         "keywords": "not, you, page, draft, primary, model, errors, url",
         "generated": "2026-09-24T21:21:41.115938",
         "file": "citation-age-is-a-release-gate-for-agent-news-briefs.md"
+    },
+    {
+        "title": "Dev News Digest: 19 Oct 2026, 06:00",
+        "slug": "dev-news-digest-19-oct-2026-0600",
+        "author": "Magnus Ferm",
+        "source": "devto_webdev",
+        "published": "Mon, 19 Oct 2026 03:49:15 +0000",
+        "description": "A quick roundup of developer news since the last digest. Security Zero-click spyware delivered through targeted ads : Citizen Lab reports the first public co...",
+        "keywords": "its, news, digest, spyware, public, access, anthropic, pascal",
+        "generated": "2026-10-19T04:06:19.788301",
+        "file": "dev-news-digest-19-oct-2026-0600.md"
     },
     {
         "title": "Meta‑Attention Is All You Need",
@@ -104566,6 +104764,17 @@
         "file": "why-off-the-shelf-cnns-failed-at-soybean-disease-classification-and-what-we-built-instead.md"
     },
     {
+        "title": "How we handle “the phone already knows this” — context propagation in an on-device AI agent",
+        "slug": "how-we-handle-the-phone-already-knows-this-context-propagation-in-an-on-device-ai-agent",
+        "author": "StareBrain",
+        "source": "devto_ai",
+        "published": "Mon, 19 Oct 2026 03:59:33 +0000",
+        "description": "One of the most common reactions we get from StareBrain beta users is some version of: “why do I still have to tell it things it should already know?” It’s a...",
+        "keywords": "context, val, confidence, device, param, phone, has, what",
+        "generated": "2026-10-19T04:06:19.792604",
+        "file": "how-we-handle-the-phone-already-knows-this-context-propagation-in-an-on-device-ai-agent.md"
+    },
+    {
         "title": "A Small Question From a Python Beginner",
         "slug": "a-small-question-from-a-python-beginner",
         "author": "Will Laurenson",
@@ -105631,6 +105840,17 @@
         "keywords": "decision, agent, one, reason, sessions, what, not, when",
         "generated": "2026-10-02T12:13:45.782213",
         "file": "my-ai-agent-forgets-decisions-made-in-previous-conversations-how-to-give-it-long-term-memory.md"
+    },
+    {
+        "title": "William Gibson and the trademarking of cyberspace",
+        "slug": "william-gibson-and-the-trademarking-of-cyberspace",
+        "author": "Eric_Gullichsen",
+        "source": "hackernews",
+        "published": "Sun, 18 Oct 2026 23:37:57 +0000",
+        "description": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 98 # Comments: 15",
+        "keywords": "cyberspace, url, https, comments, william, gibson, trademarking, article",
+        "generated": "2026-10-19T04:06:19.786192",
+        "file": "william-gibson-and-the-trademarking-of-cyberspace.md"
     },
     {
         "title": "**Debugging Loops & Existential Dread: My Glorious Tuesday**",
