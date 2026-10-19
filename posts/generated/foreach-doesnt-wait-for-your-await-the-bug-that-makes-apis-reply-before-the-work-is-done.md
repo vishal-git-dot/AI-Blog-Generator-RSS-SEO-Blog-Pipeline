@@ -1,0 +1,34 @@
+---
+title: "forEach Doesn't Wait for Your await: The Bug That Makes APIs Reply Before the Work Is Done"
+slug: "foreach-doesnt-wait-for-your-await-the-bug-that-makes-apis-reply-before-the-work-is-done"
+author: "Anas Sheikh"
+source: "devto_webdev"
+published: "Mon, 19 Oct 2026 12:33:52 +0000"
+description: "Your endpoint sends 50 emails, marks 50 orders as shipped, and returns { success: true } . In your tests, it works. In production, the response comes back in..."
+keywords: "await, order, promise, your, async, foreach, not, map"
+generated: "2026-10-19T12:42:59.622653"
+---
+
+# forEach Doesn't Wait for Your await: The Bug That Makes APIs Reply Before the Work Is Done
+
+## Overview
+
+Your endpoint sends 50 emails, marks 50 orders as shipped, and returns { success: true } . In your tests, it works. In production, the response comes back in 8 milliseconds, half the orders are still pending , and one failed email crashed the whole Node process with an error nobody can trace to a request. The culprit is usually one innocent line. The Code That Looks Fine app . post ( ' /api/ship ' , async ( req , res ) => { const orders = await Order . find ({ status : ' paid ' }); orders . forEach ( async ( order ) => { await sendShippingEmail ( order ); await Order . updateOne ({ _id : order . _id }, { status : ' shipped ' }); }); res . json ({ success : true }); }); There is an await inside, so it must wait. It does not. Why It Returns Early forEach was written before promises existed. It calls your function for each item and ignores whatever the function returns . An async function returns a promise, and forEach throws that promise away without looking at it. So the loop starts 50 async tasks, finishes in one tick, and moves on. The await inside each callback only pauses that callback, not the loop around it, and not your handler. console . log ( ' start ' ); [ 1 , 2 , 3 ]. forEach ( async ( n ) => { await new Promise (( r ) => setTimeout ( r , 100 )); console . log ( ' done ' , n ); }); console . log ( ' end ' ); // start // end // done 1 // done 2 // done 3 end prints before any work finishes. That is your res.json() . Why It Is Hard to Catch Fast tests hide it. With a local database and a mocked email service, the work finishes before your next assertion runs. It passes by luck. The failure is somewhere else. The response says success, so nothing points back to this line. Errors escape. If a callback throws, nobody is awaiting that promise, so there is no try/catch that can catch it. Since Node 15, an unhandled rejection crashes the process by default. One bad email address can take down the server, and the stack trace will not mention the request that caused it. Fix 1: Need It Sequential? Use for...of for ( const order of orders ) { await sendShippingEmail ( order ); await Order . updateOne ({ _id : order . _id }, { status : ' shipped ' }); } res . json ({ success : true }); for...of is real control flow, so await pauses the whole loop. Errors land in your try/catch . Use this when order matters, or when you must not hit a rate-limited API in parallel. Fix 2: Need It Fast? Promise.all With map await Promise . all ( orders . map ( async ( order ) => { await sendShippingEmail ( order ); await Order . updateOne ({ _id : order . _id }, { status : ' shipped ' }); }) ); res . json ({ success : true }); map returns the array of promises that forEach was throwing away, and Promise.all waits for all of them. Same callback, one different method. Fix 3: Some Failures Are Acceptable? Use allSettled Promise.all rejects as soon as one promise fails, but the other tasks keep running . You get an error back while half the work still completes in the background. If you want every task to finish and then look at what failed: const results = await Promise . allSettled ( orders . map ( shipOrder )); const failed = results . map (( r , i ) => ({ r , order : orders [ i ] })) . filter (({ r }) => r . status === ' rejected ' ); res . json ({ shipped : results . length - failed . length , failed : failed . map (({ order }) => order . _id ), }); Now one bad email does not hide the 49 that worked, and the response tells the caller exactly what to retry. Fix 4: Thousands of Items? Limit the Concurrency Promise.all(items.map(...)) starts everything at once. With 10,000 items, that is 10,000 simultaneous database calls or HTTP requests, which can exhaust your connection pool or get you rate limited. Process in batches: async function inBatches ( items , size , fn ) { const results = []; for ( let i = 0 ; i < items . length ; i += size ) { const batch = items . slice ( i , i + size ); results . push (...( await Promise . all ( batch . map ( fn )))); } return results ; } await inBatches ( orders , 10 , shipOrder ); Ten at a time is fast enough for most jobs and gentle on whatever is on the other end. Same Trap in filter, some, every and reduce forEach is not the only method that does not understand promises. // Always keeps everything. A Promise is truthy. const valid = users . filter ( async ( u ) => await isActive ( u )); The callback returns a promise for every user, and a promise object is always truthy, so nothing is ever filtered out. some and every have the same problem and return true immediately. // Resolve first, then filter const flags = await Promise . all ( users . map ( isActive )); const valid = users . filter (( _ , i ) => flags [ i ]); The Rule Array methods like forEach , filter , some and every do not await. If an async function sits inside one, the work is detached from your request. Use for...of to run steps in order, and Promise.all or Promise.allSettled with map to run them together. Quick audit: search your project for .forEach(async . In a route handler, a job or a script that exits when it finishes, each hit is either a bug or a race that has not lost yet. I use this pattern in the bulk operations behind my Next.js and MongoDB templates on pixelanas.com , where seeding, imports and batch updates must finish before the response goes out. Get the templates: https://pixelanas.gumroad.com How many .forEach(async do you find in your codebase? Drop the number in the comments, and tell me if one of them turned out to be a real bug. Anas, full-stack Next.js developer building SaaS products and premium templates. X: @ASheikh69751
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/anas_sheikh_2/foreach-doesnt-wait-for-your-await-the-bug-that-makes-apis-reply-before-the-work-is-done-493f
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
