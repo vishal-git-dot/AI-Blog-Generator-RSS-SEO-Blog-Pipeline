@@ -21942,6 +21942,17 @@
         "file": "trelix-v10-to-v27-when-it-works-meets-it-scales.md"
     },
     {
+        "title": "How We Run AI Face Detection Entirely in the Browser (No Server Required)",
+        "slug": "how-we-run-ai-face-detection-entirely-in-the-browser-no-server-required",
+        "author": "toolzip",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 11:13:41 +0000",
+        "description": "When we built the face blur tool for ToolZip , we made a deliberate choice: no image ever leaves the user's device . Everything runs client-side, including t...",
+        "keywords": "face, const, canvas, blur, faces, width, image, height",
+        "generated": "2026-10-20T11:14:04.643682",
+        "file": "how-we-run-ai-face-detection-entirely-in-the-browser-no-server-required.md"
+    },
+    {
         "title": "Our AI Safety Net Depended on the Agent Being Honest. It Wasn't.",
         "slug": "our-ai-safety-net-depended-on-the-agent-being-honest-it-wasnt",
         "author": "Agateon",
@@ -26725,6 +26736,17 @@
         "file": "privacy-first-analytics-is-not-blind-analytics.md"
     },
     {
+        "title": "Vibe Coding: ¿Es Attie de Bluesky el fin del desarrollo tradicional?",
+        "slug": "vibe-coding-es-attie-de-bluesky-el-fin-del-desarrollo-tradicional",
+        "author": "Efecto IA",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 11:05:30 +0000",
+        "description": "La democratización del desarrollo con Attie Bluesky ha introducido Attie , una plataforma que permite la generación de micro-aplicaciones y herramientas inte...",
+        "keywords": "desarrollo, para, attie, del, vibe, coding, bluesky, fin",
+        "generated": "2026-10-20T11:14:04.645736",
+        "file": "vibe-coding-es-attie-de-bluesky-el-fin-del-desarrollo-tradicional.md"
+    },
+    {
         "title": "Facebook Multi-Account Browser: Are Browser Profiles Enough?",
         "slug": "facebook-multi-account-browser-are-browser-profiles-enough",
         "author": "web4browser",
@@ -27528,6 +27550,17 @@
         "file": "digital-payments-in-pakistan-what-software-teams-must-reconcile.md"
     },
     {
+        "title": "One CAPTCHA still says no: 0 for 119, and the ai tag's median climbs to 15 — this week's numbers (W43)",
+        "slug": "one-captcha-still-says-no-0-for-119-and-the-ai-tags-median-climbs-to-15-this-weeks-numbers-w43",
+        "author": "TuringGate Lab",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 11:01:06 +0000",
+        "description": "This article was written by an AI agent (ZHC, a Zero Human Company). No human edited it. The trial bench stood still this week, on purpose. Our cadence is mi...",
+        "keywords": "reactions, week, one, post, our, comments, snapshots, tag",
+        "generated": "2026-10-20T11:14:04.645578",
+        "file": "one-captcha-still-says-no-0-for-119-and-the-ai-tags-median-climbs-to-15-this-weeks-numbers-w43.md"
+    },
+    {
         "title": "I scanned fourteen code hosts. Not one served an MCP server card.",
         "slug": "i-scanned-fourteen-code-hosts-not-one-served-an-mcp-server-card",
         "author": "Erik Rekola",
@@ -27966,6 +27999,17 @@
         "keywords": "things, how, wordpress, you, something, when, one, what",
         "generated": "2026-08-11T02:05:22.149275",
         "file": "why-we-moved-away-from-wordpress-so-early.md"
+    },
+    {
+        "title": "Veda: The First Agentic Hobby OS - Demo",
+        "slug": "veda-the-first-agentic-hobby-os-demo",
+        "author": "Veda",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 11:04:27 +0000",
+        "description": "Have a look! https://github.com/vahmoh25/Veda",
+        "keywords": "veda, first, agentic, hobby, demo, have, look, https",
+        "generated": "2026-10-20T11:14:04.646249",
+        "file": "veda-the-first-agentic-hobby-os-demo.md"
     },
     {
         "title": "Previewing the Model Hardware Standard",
@@ -34304,6 +34348,17 @@
         "file": "how-i-built-a-real-time-cricket-stats-tracker-stokes-return-would-not-surprise-england-chief-key.md"
     },
     {
+        "title": "DriftGuard: Catching Data Drift Early with PSI and Amazon SageMaker",
+        "slug": "driftguard-catching-data-drift-early-with-psi-and-amazon-sagemaker",
+        "author": "rasi321",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 11:01:10 +0000",
+        "description": "A hands-on MLOps mini-project using Python, scikit-learn and the Population Stability Index A model that performs well on launch day can quietly get worse as...",
+        "keywords": "data, drift, psi, model, production, not, baseline, expected",
+        "generated": "2026-10-20T11:14:04.641605",
+        "file": "driftguard-catching-data-drift-early-with-psi-and-amazon-sagemaker.md"
+    },
+    {
         "title": "Hash the Entrypoint Before You Extract One Module",
         "slug": "hash-the-entrypoint-before-you-extract-one-module",
         "author": "Dakota Huang",
@@ -34588,6 +34643,17 @@
         "keywords": "dgx, spark, nixos, nix, https, comments, show, try",
         "generated": "2026-08-02T19:18:04.964000",
         "file": "show-hn-nixos-dgx-spark-nix-and-nixos-on-the-dgx-spark.md"
+    },
+    {
+        "title": "PhotoFig",
+        "slug": "photofig",
+        "author": "PhotoFig",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 11:04:06 +0000",
+        "description": "Website URL: https://photofig.com Tagline: The product photo studio for serious sellers. About US:(PhotoFig) PhotoFig turns everyday product photos into cons...",
+        "keywords": "photofig, month, photos, product, studio, credits, com, catalog",
+        "generated": "2026-10-20T11:14:04.646426",
+        "file": "photofig.md"
     },
     {
         "title": "From AI support copilot to agentic customer service",
@@ -36084,6 +36150,17 @@
         "keywords": "stop, killing, games, fails, secure, law, despite, signatures",
         "generated": "2026-06-17T04:47:02.508700",
         "file": "stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md"
+    },
+    {
+        "title": "Beyond Deployment: What's Next for CrescoDB, Plus a Clearer Path to Getting Started",
+        "slug": "beyond-deployment-whats-next-for-crescodb-plus-a-clearer-path-to-getting-started",
+        "author": "The Saint",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 11:04:20 +0000",
+        "description": "Beyond Deployment: What's Next for CrescoDB, Plus a Clearer Path to Getting Started Building a backend is only part of the work. You define your data, build ...",
+        "keywords": "you, crescodb, your, application, project, server, deployment, can",
+        "generated": "2026-10-20T11:14:04.645178",
+        "file": "beyond-deployment-whats-next-for-crescodb-plus-a-clearer-path-to-getting-started.md"
     },
     {
         "title": "Dumpster Rental Longview TX: Managing Waste During Local Projects",
@@ -37734,6 +37811,17 @@
         "keywords": "you, name, one, page, data, preview, real, div",
         "generated": "2026-09-04T16:05:41.192157",
         "file": "building-a-cv-builder-with-live-preview-and-zero-backend-persistence.md"
+    },
+    {
+        "title": "[pt-BR] Desvendando Pattern Matching em Rust: Um Guia Prático para Pythonistas",
+        "slug": "pt-br-desvendando-pattern-matching-em-rust-um-guia-prtico-para-pythonistas",
+        "author": "Jose Luis da Cruz Junior",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "description": "Por @zejuniortdr em Mai 16, 2026 Se você vem do Python, está acostumado com estruturas condicionais como if-elif-else para controlar o fluxo do programa. Mas...",
+        "keywords": "rust, python, println, que, matching, match, pattern, forma",
+        "generated": "2026-10-20T11:14:04.641989",
+        "file": "pt-br-desvendando-pattern-matching-em-rust-um-guia-prtico-para-pythonistas.md"
     },
     {
         "title": "Gsxui – Shadcn-style components for Go",
@@ -43097,6 +43185,17 @@
         "file": "week-19-we-thought-students-needed-answers-what-they-actually-needed-was-something-else.md"
     },
     {
+        "title": "DeepSeek just open-sourced its inference engine",
+        "slug": "deepseek-just-open-sourced-its-inference-engine",
+        "author": "ggcr",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 09:08:54 +0000",
+        "description": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 364 # Comments: 123",
+        "keywords": "deepseek, url, https, com, comments, just, open, sourced",
+        "generated": "2026-10-20T11:14:04.640318",
+        "file": "deepseek-just-open-sourced-its-inference-engine.md"
+    },
+    {
         "title": "Optimizing LLMs for Low-Latency Text Analysis",
         "slug": "optimizing-llms-for-low-latency-text-analysis",
         "author": "shashank ms",
@@ -46281,6 +46380,17 @@
         "file": "ghostjacking-when-your-security-alerts-hijack-the-ai-agent.md"
     },
     {
+        "title": "Introducing CodexFuse: Managed Cloud Infrastructure on Pay-As-You-Go Credits",
+        "slug": "introducing-codexfuse-managed-cloud-infrastructure-on-pay-as-you-go-credits",
+        "author": "CodexFuse Solution",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 11:02:28 +0000",
+        "description": "Managing web infrastructure shouldn't require juggling five different dashboards, rigid recurring subscriptions, and complicated server provisioning. We buil...",
+        "keywords": "codexfuse, you, hosting, managed, cloud, infrastructure, your, pay",
+        "generated": "2026-10-20T11:14:04.646634",
+        "file": "introducing-codexfuse-managed-cloud-infrastructure-on-pay-as-you-go-credits.md"
+    },
+    {
         "title": "GRPO practical guide",
         "slug": "grpo-practical-guide",
         "author": "Sagnik Bose",
@@ -46697,6 +46807,17 @@
         "keywords": "scan, aina, block, layer, file, key, security, patterns",
         "generated": "2026-06-24T09:40:50.190836",
         "file": "i-scanned-50-ai-generated-repos-5-critical-bugs-per-file-on-average-all-missed-by-linters.md"
+    },
+    {
+        "title": "What grading hundreds of agent answers on PoA taught me (including getting slashed)",
+        "slug": "what-grading-hundreds-of-agent-answers-on-poa-taught-me-including-getting-slashed",
+        "author": "EmBot-Lantern",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 10:50:42 +0000",
+        "description": "Disclosure. This post is written by EmBot-Lantern, an independent assistant agent. I run the EmBot-Lantern account on PoA and maintain poa-agent-kit . Join P...",
+        "keywords": "poa, epoch, mechanism, what, agent, one, template, grade",
+        "generated": "2026-10-20T11:14:04.643285",
+        "file": "what-grading-hundreds-of-agent-answers-on-poa-taught-me-including-getting-slashed.md"
     },
     {
         "title": "Google loses fight over record $4.7B EU antitrust fine",
@@ -65448,6 +65569,17 @@
         "keywords": "tweet, bird, logo, apparently, enter, public, domain, url",
         "generated": "2026-09-09T11:03:04.610719",
         "file": "tweet-and-the-bird-logo-apparently-enter-the-public-domain.md"
+    },
+    {
+        "title": "Revolut down as users report app not working",
+        "slug": "revolut-down-as-users-report-app-not-working",
+        "author": "baal80spam",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 09:54:48 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 44 # Comments: 15",
+        "keywords": "url, https, com, news, comments, revolut, down, users",
+        "generated": "2026-10-20T11:14:04.640059",
+        "file": "revolut-down-as-users-report-app-not-working.md"
     },
     {
         "title": "There Is No AI (It's Just People) with Jaron Lanier",
@@ -84744,6 +84876,17 @@
         "file": "cheap-ai-token-platforms-need-a-real-api-test-console.md"
     },
     {
+        "title": "Deploy a full-stack Python app with MongoDB using CLI or MCP",
+        "slug": "deploy-a-full-stack-python-app-with-mongodb-using-cli-or-mcp",
+        "author": "Saif Ali",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 11:04:28 +0000",
+        "description": "You have a Python app working on your laptop. Now you need somewhere to run it, a database that keeps its data, and a way to find out what went wrong when a ...",
+        "keywords": "notes, python, app, mongodb, deployment, note, database, nexus",
+        "generated": "2026-10-20T11:14:04.641275",
+        "file": "deploy-a-full-stack-python-app-with-mongodb-using-cli-or-mcp.md"
+    },
+    {
         "title": "Shipping Work Through a Desktop Agent: First Bot, Computer, Then Routines",
         "slug": "shipping-work-through-a-desktop-agent-first-bot-computer-then-routines",
         "author": "dylan yu",
@@ -86623,6 +86766,17 @@
         "keywords": "image, memory, row, million, pixels, julia, iteration, pixel",
         "generated": "2026-06-17T20:21:04.202545",
         "file": "how-i-generated-a-100-million-pixel-julia-set-on-a-4-gb-ram-pc-using-python.md"
+    },
+    {
+        "title": "Two Files 100 Nanoseconds Apart Got the Same Timestamp in the Browser: JSON.parse and Integers Past MAX_SAFE_INTEGER",
+        "slug": "two-files-100-nanoseconds-apart-got-the-same-timestamp-in-the-browser-jsonparse-and-integers-past-maxsafeinteger",
+        "author": "Super Funicular",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 10:55:01 +0000",
+        "description": "A small Python server lists a folder of clips as JSON, with each file's modification time in nanoseconds. The browser page that reads that list decided two o...",
+        "keywords": "json, clips, value, number, name, page, bigint, source",
+        "generated": "2026-10-20T11:14:04.642637",
+        "file": "two-files-100-nanoseconds-apart-got-the-same-timestamp-in-the-browser-jsonparse-and-integers-past-maxsafeinteger.md"
     },
     {
         "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
@@ -92213,6 +92367,17 @@
         "file": "how-to-safely-buy-aged-github-accounts-a-step.md"
     },
     {
+        "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+        "slug": "afd-leak-what-421179-hacked-emails-show-about-the-german-far-right",
+        "author": "firefax",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 09:35:40 +0000",
+        "description": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com...",
+        "keywords": "afd, leak, what, hacked, emails, show, german, far",
+        "generated": "2026-10-20T11:14:04.640197",
+        "file": "afd-leak-what-421179-hacked-emails-show-about-the-german-far-right.md"
+    },
+    {
         "title": "Amazon pilots ad services in ChatGPT",
         "slug": "amazon-pilots-ad-services-in-chatgpt",
         "author": "thm",
@@ -96106,6 +96271,17 @@
         "keywords": "design, wireprompt, coding, tools, prompt, you, your, building",
         "generated": "2026-06-20T14:15:47.239414",
         "file": "i-built-wireprompt-turning-ui-inspiration-into-ai-ready-development-prompts.md"
+    },
+    {
+        "title": "Can your landing page be pinch-zoomed? A 30-second viewport check",
+        "slug": "can-your-landing-page-be-pinch-zoomed-a-30-second-viewport-check",
+        "author": "Kai Mercer",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 11:06:16 +0000",
+        "description": "One line in the <head> can stop people with low vision from reading your page, and it takes about thirty seconds to check. <meta name= viewport content= w...",
+        "keywords": "page, text, can, viewport, zoom, you, scale, user",
+        "generated": "2026-10-20T11:14:04.643943",
+        "file": "can-your-landing-page-be-pinch-zoomed-a-30-second-viewport-check.md"
     },
     {
         "title": "Eight green lights in one night, and not one of them was a control.",
@@ -100847,6 +101023,17 @@
         "file": "are-early-ai-usage-resets-a-scam-the-math-goes-both-ways.md"
     },
     {
+        "title": "How we built a browser image compressor that never makes files bigger",
+        "slug": "how-we-built-a-browser-image-compressor-that-never-makes-files-bigger",
+        "author": "WeryAI",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 11:05:55 +0000",
+        "description": "Choosing a JPEG quality value is easy. Keeping a promise about the downloaded file takes more work. Our compressor accepts a batch, starts processing immedia...",
+        "keywords": "image, not, file, original, jpeg, size, its, webp",
+        "generated": "2026-10-20T11:14:04.644516",
+        "file": "how-we-built-a-browser-image-compressor-that-never-makes-files-bigger.md"
+    },
+    {
         "title": "Why Standard Stripe & MoR Webhook Handlers Corrupt Customer Subscriptions When Events Arrive Out of Order (Plus the 31 Card Decline Code Retry Rules)",
         "slug": "why-standard-stripe-mor-webhook-handlers-corrupt-customer-subscriptions-when-events-arrive-out-of-order-plus-the-31-card-decline-code-retry-rules",
         "author": "StackOps Labs",
@@ -101802,6 +101989,17 @@
         "keywords": "bottube, ffmpeg, you, video, your, zoom, agent, data",
         "generated": "2026-08-24T01:41:15.133696",
         "file": "ffmpeg-recipes-for-bottube-agents-from-static-images-to-platform-ready-video-in-8-seconds.md"
+    },
+    {
+        "title": "Part 3: `tokenprice` ($0.001) vs the price-feed incumbents — measured, not marketed",
+        "slug": "part-3-tokenprice-0001-vs-the-price-feed-incumbents-measured-not-marketed",
+        "author": "x402 API Builder",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 11:05:19 +0000",
+        "description": "Part 3 of the x402 benchmark series. Part 1 covered the method and our baseline across 7 endpoints. Part 2 (websearch vs Exa vs Tavily) is still in the queue...",
+        "keywords": "price, month, you, per, agent, api, calls, call",
+        "generated": "2026-10-20T11:14:04.646127",
+        "file": "part-3-tokenprice-0001-vs-the-price-feed-incumbents-measured-not-marketed.md"
     },
     {
         "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
@@ -104214,6 +104412,17 @@
         "file": "fine-tuning-is-mostly-theater-heres-what-works-instead.md"
     },
     {
+        "title": "There is no official XScreenSaver GitHub repository",
+        "slug": "there-is-no-official-xscreensaver-github-repository",
+        "author": "st_goliath",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 08:51:31 +0000",
+        "description": "Article URL: https://github.com/xscreensaver-official/xscreensaver Comments URL: https://news.ycombinator.com/item?id=50163142 Points: 30 # Comments: 14",
+        "keywords": "xscreensaver, official, github, url, https, com, comments, there",
+        "generated": "2026-10-20T11:14:04.640432",
+        "file": "there-is-no-official-xscreensaver-github-repository.md"
+    },
+    {
         "title": "Your React App Is Invisible to AI Crawlers. Here Is How to Check in Five Minutes",
         "slug": "your-react-app-is-invisible-to-ai-crawlers-here-is-how-to-check-in-five-minutes",
         "author": "Level Up Digital Marketing Group",
@@ -106269,6 +106478,17 @@
         "keywords": "python, scientific, computing, libraries, mlxio, tutorial, crush, dominate",
         "generated": "2026-07-09T03:49:54.084529",
         "file": "python-libraries-crush-scientific-computing-in-2026.md"
+    },
+    {
+        "title": "Google cloud outage takes down banks",
+        "slug": "google-cloud-outage-takes-down-banks",
+        "author": "paweladamczuk",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 10:26:02 +0000",
+        "description": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombin...",
+        "keywords": "google, cloud, outage, takes, down, url, https, news",
+        "generated": "2026-10-20T11:14:04.639884",
+        "file": "google-cloud-outage-takes-down-banks.md"
     },
     {
         "title": "🔐 ATLOCK v5 — The Next Evolution of Windows Security Is Being Built.",
