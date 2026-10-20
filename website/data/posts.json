@@ -1320,6 +1320,17 @@
         "file": "honestly-keeping-mtproto-proxies-alive-is-a-pain-every-lis.md"
     },
     {
+        "title": "Baichuan-M2: cuánto vale el modelo médico que corre en una 4090",
+        "slug": "baichuan-m2-cunto-vale-el-modelo-mdico-que-corre-en-una-4090",
+        "author": "Matheus Feijão",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 21:15:00 +0000",
+        "description": "Respuesta corta El valor de licencia del Baichuan-M2 es cero : es open-weight bajo Apache-2.0. El costo real es el hardware — y cabe en una sola RTX 4090 con...",
+        "keywords": "con, baichuan, una, modelo, que, cloud, apache, bit",
+        "generated": "2026-10-20T21:26:05.883379",
+        "file": "baichuan-m2-cunto-vale-el-modelo-mdico-que-corre-en-una-4090.md"
+    },
+    {
         "title": "Site Reliability Engineering Online Training | SRE Course",
         "slug": "site-reliability-engineering-online-training-sre-course",
         "author": "rakesh visualpath",
@@ -6695,6 +6706,17 @@
         "keywords": "open, server, oscar, url, https, com, comments, source",
         "generated": "2026-08-30T04:48:49.076474",
         "file": "open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients.md"
+    },
+    {
+        "title": "brasileiro.tech: innovación de jurisdicción",
+        "slug": "brasileirotech-innovacin-de-jurisdiccin",
+        "author": "Matheus Feijão",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 21:15:00 +0000",
+        "description": "Respuesta corta “Brasileiro.tech: innovación de jurisdicción” no es un concepto legal reconocido en el ordenamiento brasileño ni figura en normativa federal,...",
+        "keywords": "tech, del, lei, brasileiro, con, por, icann, competencia",
+        "generated": "2026-10-20T21:26:05.883580",
+        "file": "brasileirotech-innovacin-de-jurisdiccin.md"
     },
     {
         "title": "Grid vs Flexbox: The Matrix of Layouts",
@@ -13834,6 +13856,17 @@
         "file": "geetest-v3-why-your-slider-automation-keeps-failing-the-second-check.md"
     },
     {
+        "title": "What shall I teach my son?",
+        "slug": "what-shall-i-teach-my-son",
+        "author": "Curiositry",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 17:25:07 +0000",
+        "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 122 # Comments: 212",
+        "keywords": "url, https, com, comments, what, shall, teach, son",
+        "generated": "2026-10-20T21:26:05.880595",
+        "file": "what-shall-i-teach-my-son.md"
+    },
+    {
         "title": "Scraping Workday job listings with Python: the 2,000-job cap and two other traps",
         "slug": "scraping-workday-job-listings-with-python-the-2000-job-cap-and-two-other-traps",
         "author": "hiver",
@@ -14305,6 +14338,17 @@
         "keywords": "openrouter, joining, stripe, url, https, comments, article, blog",
         "generated": "2026-08-19T18:41:33.251096",
         "file": "openrouter-is-joining-stripe.md"
+    },
+    {
+        "title": "Top 5 Ways to Humanize ChatGPT Responses in Your App (2026): System Prompts, Post-Processing and Tools",
+        "slug": "top-5-ways-to-humanize-chatgpt-responses-in-your-app-2026-system-prompts-post-processing-and-tools",
+        "author": "UnAIMyText",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 21:03:09 +0000",
+        "description": "Updated October 2026. If you've shipped an LLM feature, you've probably had this feedback: It works, but it sounds like a robot. Users notice the bullet-po...",
+        "keywords": "you, voice, human, prompt, answer, free, humanizer, great",
+        "generated": "2026-10-20T21:26:05.884046",
+        "file": "top-5-ways-to-humanize-chatgpt-responses-in-your-app-2026-system-prompts-post-processing-and-tools.md"
     },
     {
         "title": "Roseram’s 48h Trial, Email Verify, and $25/Day Usage (UTC, No Rollover)",
@@ -17198,6 +17242,17 @@
         "keywords": "yourgpt, langchain, teams, you, can, agent, built, team",
         "generated": "2026-06-15T12:29:05.505284",
         "file": "yourgpt-vs-langchain-which-one-actually-fits-your-team.md"
+    },
+    {
+        "title": "Turn scraped HTML into clean JSON with your own schema",
+        "slug": "turn-scraped-html-into-clean-json-with-your-own-schema",
+        "author": "spruce_the_data",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 21:07:29 +0000",
+        "description": "If you've scraped anything, you know the boring part isn't fetching pages. It's what comes after: prices written as £51.77 , $135k - $160k / year or 2,350/mo...",
+        "keywords": "type, null, you, html, string, title, number, currency",
+        "generated": "2026-10-20T21:26:05.881967",
+        "file": "turn-scraped-html-into-clean-json-with-your-own-schema.md"
     },
     {
         "title": "Nvidia's AI advantage is moving beyond the GPU",
@@ -22104,6 +22159,17 @@
         "keywords": "ling, flash, model, memory, open, parameters, not, per",
         "generated": "2026-08-09T13:01:35.328226",
         "file": "run-ling-30-flash-locally-124b-of-knowledge-on-a-96-gb-machine.md"
+    },
+    {
+        "title": "Make your v0 or Cursor app stop looking AI-built in 10 minutes",
+        "slug": "make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes",
+        "author": "Teodor Avadani",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 21:04:11 +0000",
+        "description": "If you've built a landing page with v0, Cursor, Lovable or Bolt, you've probably had this moment: you put it next to someone else's and it's the same page. P...",
+        "keywords": "you, font, next, one, your, app, import, starter",
+        "generated": "2026-10-20T21:26:05.882798",
+        "file": "make-your-v0-or-cursor-app-stop-looking-ai-built-in-10-minutes.md"
     },
     {
         "title": "How I Pick Multimodal APIs Without Going Broke — A 2026 Field Guide",
@@ -35294,6 +35360,17 @@
         "keywords": "they, software, will, asking, enterprise, like, building, model",
         "generated": "2026-08-01T03:28:58.771618",
         "file": "the-best-enterprise-ai-doesnt-feel-like-aiit-feels-like-good-software.md"
+    },
+    {
+        "title": "I kept approving Claude Code commands I didn't understand, so I built clear-caption",
+        "slug": "i-kept-approving-claude-code-commands-i-didnt-understand-so-i-built-clear-caption",
+        "author": "Kashif Manzer",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 21:18:54 +0000",
+        "description": "I approve dozens of commands from Claude Code every day. Most I skim. Some I don't really understand, especially the long, complex ones. I click yes anyway a...",
+        "keywords": "caption, one, claude, clear, you, call, not, captions",
+        "generated": "2026-10-20T21:26:05.883186",
+        "file": "i-kept-approving-claude-code-commands-i-didnt-understand-so-i-built-clear-caption.md"
     },
     {
         "title": "A Guide to FastAPI SaaS SMS Alerts API Delivery Status Polling",
@@ -49023,6 +49100,17 @@
         "file": "banks-and-credit-unions-to-team-up-against-apple-pay-fees.md"
     },
     {
+        "title": "Claude designed protein binders against scorpion neurotoxins",
+        "slug": "claude-designed-protein-binders-against-scorpion-neurotoxins",
+        "author": "artninja1988",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 17:48:29 +0000",
+        "description": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 51 # ...",
+        "keywords": "claude, scorpion, url, https, com, comments, designed, protein",
+        "generated": "2026-10-20T21:26:05.880542",
+        "file": "claude-designed-protein-binders-against-scorpion-neurotoxins.md"
+    },
+    {
         "title": "Stack Overflow Data API: Extract Structured JSON in 2026",
         "slug": "stack-overflow-data-api-extract-structured-json-in-2026",
         "author": "AlterLab",
@@ -56391,6 +56479,17 @@
         "keywords": "chemist, improves, reaction, url, https, com, comments, challenging",
         "generated": "2026-06-17T20:21:04.200346",
         "file": "ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry.md"
+    },
+    {
+        "title": "CodeNova Academy",
+        "slug": "codenova-academy",
+        "author": "CodeNova Academy",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 21:12:30 +0000",
+        "description": "🚀 Welcome to CodeNova Academy!Technology is shaping the future, and learning to code is one of the most valuable skills you can develop today.At CodeNova Aca...",
+        "keywords": "codenova, academy, learning, today, python, programming, codenovaacademy, welcome",
+        "generated": "2026-10-20T21:26:05.882318",
+        "file": "codenova-academy.md"
     },
     {
         "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
@@ -65930,6 +66029,17 @@
         "file": "add-export-as-image-to-any-dashboard.md"
     },
     {
+        "title": "A Beginner’s Guide to Reading Text Files in Python (Without Frustration)",
+        "slug": "a-beginners-guide-to-reading-text-files-in-python-without-frustration",
+        "author": "Nwadiogo Emelie",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 21:10:04 +0000",
+        "description": "The Stress-Free Guide to Reading Text Files in Python When learning Python, many beginners get stuck when trying to connect their code to the real world. One...",
+        "keywords": "file, your, python, text, you, open, line, code",
+        "generated": "2026-10-20T21:26:05.881685",
+        "file": "a-beginners-guide-to-reading-text-files-in-python-without-frustration.md"
+    },
+    {
         "title": "Reviewing AI Alt Text: Decorative or Meaningful First",
         "slug": "reviewing-ai-alt-text-decorative-or-meaningful-first",
         "author": "Benjamin Oats",
@@ -68392,6 +68502,17 @@
         "keywords": "signal, data, price, trading, crypto, signals, confidence, api",
         "generated": "2026-09-07T12:06:00.735075",
         "file": "ai-apis-for-crypto-trading-signals-complete-guide.md"
+    },
+    {
+        "title": "La zona bianca del codice QR che quasi tutti dimenticano",
+        "slug": "la-zona-bianca-del-codice-qr-che-quasi-tutti-dimenticano",
+        "author": "Rahman",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 21:10:47 +0000",
+        "description": "Un codice QR che non si legge anche se sembra perfetto? Nove volte su dieci la colpa non è del codice, ma di ciò che gli sta intorno: il margine. Si chiama z...",
+        "keywords": "codice, una, zona, del, che, silenzio, non, margine",
+        "generated": "2026-10-20T21:26:05.882428",
+        "file": "la-zona-bianca-del-codice-qr-che-quasi-tutti-dimenticano.md"
     },
     {
         "title": "I scanned 50 AI-generated repos. 5 critical bugs per file on average — all missed by linters.",
@@ -73652,6 +73773,17 @@
         "file": "performance-reviews-are-basically-a-memory-test.md"
     },
     {
+        "title": "Avatar Uploads Without Versioning: A Rollback Policy for Object Storage",
+        "slug": "avatar-uploads-without-versioning-a-rollback-policy-for-object-storage",
+        "author": "NevilleChristensen2637",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 21:12:12 +0000",
+        "description": "Short answer: do not replace the only copy of an avatar unless losing the previous bytes is an accepted product decision. Upload the candidate under a new ke...",
+        "keywords": "storage, object, not, key, upload, database, when, cleanup",
+        "generated": "2026-10-20T21:26:05.881490",
+        "file": "avatar-uploads-without-versioning-a-rollback-policy-for-object-storage.md"
+    },
+    {
         "title": "华为智能门锁2AI掌静脉识别指纹深度解读2026 券后¥1818值不值",
         "slug": "2ai2026-1818",
         "author": "guojunzzc",
@@ -75817,6 +75949,17 @@
         "keywords": "supabase, url, https, com, comments, hiring, multigres, article",
         "generated": "2026-06-27T19:36:59.124390",
         "file": "supabase-yc-s20-is-hiring-for-multigres.md"
+    },
+    {
+        "title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+        "slug": "deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+        "author": "aliasxneo",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 20:46:55 +0000",
+        "description": "Article URL: https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide Comments URL: https://news.ycombina...",
+        "keywords": "deepfake, washington, county, oregon, candidate, goes, viral, nationwide",
+        "generated": "2026-10-20T21:26:05.880257",
+        "file": "deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide.md"
     },
     {
         "title": "Item Review Desk: exam questions that can't go live until a second person signs them off",
@@ -83955,6 +84098,17 @@
         "file": "build-a-real-time-polymarket-order-book-monitor-with-python.md"
     },
     {
+        "title": "Green Screen vs AI Background Removal: They're Not Playing the Same Game (Scenario Table Inside)",
+        "slug": "green-screen-vs-ai-background-removal-theyre-not-playing-the-same-game-scenario-table-inside",
+        "author": "Remove Background from Video",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 21:03:48 +0000",
+        "description": "Whenever someone asks whether they should buy a green screen or just let AI cut the background out of their video, the thread turns into a turf war. It shoul...",
+        "keywords": "screen, you, one, background, lighting, what, clip, same",
+        "generated": "2026-10-20T21:26:05.883828",
+        "file": "green-screen-vs-ai-background-removal-theyre-not-playing-the-same-game-scenario-table-inside.md"
+    },
+    {
         "title": "iContext: Cómo ahorré $20 a la semana en tokens de ChatGPT debuggeando 391 archivos",
         "slug": "icontext-cmo-ahorr-20-a-la-semana-en-tokens-de-chatgpt-debuggeando-391-archivos",
         "author": "A&L digital",
@@ -85766,6 +85920,17 @@
         "keywords": "agent, mcp, shopping, buywhere, tool, graph, tools, server",
         "generated": "2026-07-05T19:25:51.383399",
         "file": "building-an-ai-shopping-agent-that-actually-buys-things.md"
+    },
+    {
+        "title": "Stop Guessing Which Ad Produced the Lead: Capture gclid in Next.js and Send the Conversion Server-Side",
+        "slug": "stop-guessing-which-ad-produced-the-lead-capture-gclid-in-nextjs-and-send-the-conversion-server-side",
+        "author": "Level Up Digital Marketing Group",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 21:18:30 +0000",
+        "description": "A marketing team asks you a simple question: which campaign produced the twelve leads that came in last week? You open the database. Every lead has a name, a...",
+        "keywords": "lead, attribution, const, you, next, event, server, cookies",
+        "generated": "2026-10-20T21:26:05.882236",
+        "file": "stop-guessing-which-ad-produced-the-lead-capture-gclid-in-nextjs-and-send-the-conversion-server-side.md"
     },
     {
         "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
@@ -89066,6 +89231,17 @@
         "keywords": "url, https, com, comments, mark, zuckerberg, cambridge, analytica",
         "generated": "2026-09-13T20:34:31.555374",
         "file": "mark-zuckerberg-cambridge-analytica-2017.md"
+    },
+    {
+        "title": "75 LinkedIn Posts Carried 16,552 Comments. I Could Read 669 of Them",
+        "slug": "75-linkedin-posts-carried-16552-comments-i-could-read-669-of-them",
+        "author": "Matvey",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 21:13:41 +0000",
+        "description": "I run a visa agency in Bali. The rest of my week goes into Apify Actors, and one of them reads the latest public posts of any LinkedIn company or person with...",
+        "keywords": "comments, posts, post, you, linkedin, ten, rows, microsoft",
+        "generated": "2026-10-20T21:26:05.880962",
+        "file": "75-linkedin-posts-carried-16552-comments-i-could-read-669-of-them.md"
     },
     {
         "title": "NixieFX vs three.quarks: the same 160-particle burst in one Three.js scene, measured",
@@ -101705,6 +101881,17 @@
         "file": "i-ran-qwen38-27b-on-a-24gb-macbook-here-is-the-vram-number-apple-does-not-print.md"
     },
     {
+        "title": "SimCity, but with Permits",
+        "slug": "simcity-but-with-permits",
+        "author": "pcai",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 18:29:09 +0000",
+        "description": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 305 # Comments: 149",
+        "keywords": "url, https, com, comments, simcity, but, permits, article",
+        "generated": "2026-10-20T21:26:05.880483",
+        "file": "simcity-but-with-permits.md"
+    },
+    {
         "title": "Codeberg Bans Cryptocurrency Projects",
         "slug": "codeberg-bans-cryptocurrency-projects",
         "author": "intunderflow",
@@ -105633,6 +105820,17 @@
         "file": "lg-to-ban-residential-proxies-from-smart-tv-apps.md"
     },
     {
+        "title": "On AI writing",
+        "slug": "on-ai-writing",
+        "author": "dbolkunov",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 19:55:11 +0000",
+        "description": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 39 # Comments: 8",
+        "keywords": "writing, url, https, com, comments, article, www, bolkunov",
+        "generated": "2026-10-20T21:26:05.880411",
+        "file": "on-ai-writing.md"
+    },
+    {
         "title": "We Built a Bulk QR Generator That Handles 500 Codes in the Browser",
         "slug": "we-built-a-bulk-qr-generator-that-handles-500-codes-in-the-browser",
         "author": "RahaLune QR Studio",
@@ -105730,6 +105928,17 @@
         "keywords": "path, return, node, changed, one, kind, json, typeof",
         "generated": "2026-08-07T19:04:02.694898",
         "file": "structural-json-diff-from-scratch-compare-meaning-not-lines-and-emit-an-rfc-6902-patch.md"
+    },
+    {
+        "title": "Building a Zero-Ad, Sub-100ms Build Planner for Shape of Dreams on Astro 4",
+        "slug": "building-a-zero-ad-sub-100ms-build-planner-for-shape-of-dreams-on-astro-4",
+        "author": "Echo Zhang",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 21:03:22 +0000",
+        "description": "The Problem with Gaming Wikis in 2026 If you play deep roguelites or action RPGs like Shape of Dreams , you know the pain of looking up game mechanics. Histo...",
+        "keywords": "build, shape, dreams, game, essences, cooldown, planner, wiki",
+        "generated": "2026-10-20T21:26:05.882974",
+        "file": "building-a-zero-ad-sub-100ms-build-planner-for-shape-of-dreams-on-astro-4.md"
     },
     {
         "title": "Why Storing a TRACES Establishment Code as a Static Field Is a Data Modelling Bug",
@@ -107369,6 +107578,17 @@
         "keywords": "qdrant, vector, ground, truth, exact, scale, dataset, across",
         "generated": "2026-10-06T13:06:54.004030",
         "file": "the-quadrillion-calculation-milestone-how-qdrant-scaled-vector-search-to-10-billion-documents.md"
+    },
+    {
+        "title": "I added a $1.30 invoice generator to my Telegram bot — here's the parser that never throws",
+        "slug": "i-added-a-130-invoice-generator-to-my-telegram-bot-heres-the-parser-that-never-throws",
+        "author": "member_fb93637b",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 21:13:11 +0000",
+        "description": "A few weeks ago I wrote about running a Telegram Stars payment bot on GitHub Actions for $0/month . That bot only sold one fixed product. This week I added a...",
+        "keywords": "same, invoice, bot, line, buyer, notes, item, not",
+        "generated": "2026-10-20T21:26:05.881197",
+        "file": "i-added-a-130-invoice-generator-to-my-telegram-bot-heres-the-parser-that-never-throws.md"
     },
     {
         "title": "Our Amish Language",
