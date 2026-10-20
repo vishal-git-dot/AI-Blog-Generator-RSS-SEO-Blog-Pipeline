@@ -10713,6 +10713,17 @@
         "file": "tryhackme-writeup-the-hollow-shell.md"
     },
     {
+        "title": "Python Lazy Imports: How the New lazy Keyword Works in Python 3.15",
+        "slug": "python-lazy-imports-how-the-new-lazy-keyword-works-in-python-315",
+        "author": "Mahir Faysal",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 04:05:44 +0000",
+        "description": "Python 3.15 adds explicit lazy imports: write lazy import json (or lazy from pathlib import Path ) and Python won’t load the module until your code first use...",
+        "keywords": "import, lazy, heavy, module, imports, python, sys, print",
+        "generated": "2026-10-20T04:19:10.499009",
+        "file": "python-lazy-imports-how-the-new-lazy-keyword-works-in-python-315.md"
+    },
+    {
         "title": "Merchant Menu Photos — Background Cleanup, Lifecycle Validation, and Final Compression",
         "slug": "merchant-menu-photos-background-cleanup-lifecycle-validation-and-final-compression",
         "author": "ColeMitchell4991",
@@ -16565,6 +16576,17 @@
         "file": "im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study.md"
     },
     {
+        "title": "OpenBSD 8.0: released Oct 20, 2026",
+        "slug": "openbsd-80-released-oct-20-2026",
+        "author": "erikschoster",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 01:53:51 +0000",
+        "description": "Article URL: https://marc.info/?l=openbsd-misc&m=179245849770356&w=2 Comments URL: https://news.ycombinator.com/item?id=50160419 Points: 18 # Comments: 1",
+        "keywords": "openbsd, url, https, comments, released, oct, article, marc",
+        "generated": "2026-10-20T04:19:10.496405",
+        "file": "openbsd-80-released-oct-20-2026.md"
+    },
+    {
         "title": "Using Wonder Sweet in Different Languages and Contexts",
         "slug": "using-wonder-sweet-in-different-languages-and-contexts",
         "author": "wonder apps",
@@ -19379,6 +19401,17 @@
         "keywords": "your, tools, web, most, utilities, what, spent, weeks",
         "generated": "2026-06-23T20:12:47.952938",
         "file": "why-i-spent-weeks-building-a-140-free-privacy-first-web-tools-hub-and-how-it-runs-100-in-your-browser.md"
+    },
+    {
+        "title": "OpenBSD 8.0",
+        "slug": "openbsd-80",
+        "author": "privong",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 02:06:40 +0000",
+        "description": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 46 # Comments: 9",
+        "keywords": "openbsd, url, https, comments, article, www, org, html",
+        "generated": "2026-10-20T04:19:10.496280",
+        "file": "openbsd-80.md"
     },
     {
         "title": "Why Vanilla JavaScript",
@@ -26252,6 +26285,17 @@
         "file": "pydantic-ai-5-agent.md"
     },
     {
+        "title": "I built 50+ free online tools for SEO, text, images and PDF (most run in your browser)",
+        "slug": "i-built-50-free-online-tools-for-seo-text-images-and-pdf-most-run-in-your-browser",
+        "author": "Muhammad Usman",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 04:06:51 +0000",
+        "description": "I am a web development student, and I built SEOAnalytics Lab, a website with free online tools that I wanted for my own work. It has more than 50 tools in a ...",
+        "keywords": "tools, pdf, your, text, free, word, generator, files",
+        "generated": "2026-10-20T04:19:10.500204",
+        "file": "i-built-50-free-online-tools-for-seo-text-images-and-pdf-most-run-in-your-browser.md"
+    },
+    {
         "title": "Cape Town Private Tours: Your Way, City to Peninsula to Winelands",
         "slug": "cape-town-private-tours-your-way-city-to-peninsula-to-winelands",
         "author": "claudemilton",
@@ -27537,6 +27581,17 @@
         "keywords": "self, cache, decimal, region, quote, pricing, not, extract",
         "generated": "2026-09-13T04:13:41.161681",
         "file": "pin-a-god-pricers-env-cache-and-quote-before-one-extract.md"
+    },
+    {
+        "title": "AIPass is feature-complete. Here is what that means, and the phone app on top",
+        "slug": "aipass-is-feature-complete-here-is-what-that-means-and-the-phone-app-on-top",
+        "author": "System Aipass",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 04:05:01 +0000",
+        "description": "AIPass has stopped taking new features. The developer's word for everything from here is fixes and polish. For an open source project that is usually a quiet...",
+        "keywords": "aipass, you, agent, one, baud, your, its, what",
+        "generated": "2026-10-20T04:19:10.502946",
+        "file": "aipass-is-feature-complete-here-is-what-that-means-and-the-phone-app-on-top.md"
     },
     {
         "title": "Transforming Mobile Apps with AI Automation",
@@ -33402,6 +33457,17 @@
         "file": "the-extraction-returned-zero-memories-and-nothing-screamed.md"
     },
     {
+        "title": "My Tool for Finding Date Bombs in Tests Was Stuck on the Day I Wrote It",
+        "slug": "my-tool-for-finding-date-bombs-in-tests-was-stuck-on-the-day-i-wrote-it",
+        "author": "Sungsoo Youn",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 04:10:04 +0000",
+        "description": "A field note from the autonomous Claude Code agent I run every day on one Windows PC. The numbers come from its own ledgers, not from memory. Free to read fi...",
+        "keywords": "date, tool, run, code, day, test, today, tests",
+        "generated": "2026-10-20T04:19:10.501781",
+        "file": "my-tool-for-finding-date-bombs-in-tests-was-stuck-on-the-day-i-wrote-it.md"
+    },
+    {
         "title": "I Love the Computer",
         "slug": "i-love-the-computer",
         "author": "speckx",
@@ -36150,6 +36216,17 @@
         "keywords": "where, find, colors, your, screen, show, you, url",
         "generated": "2026-06-20T09:27:21.553849",
         "file": "where-to-find-the-colors-your-screen-cant-show-you.md"
+    },
+    {
+        "title": "Selling a paid Discord community on Gumroad? Your refunded buyers probably still have access",
+        "slug": "selling-a-paid-discord-community-on-gumroad-your-refunded-buyers-probably-still-have-access",
+        "author": "Pau Drudis",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 04:07:05 +0000",
+        "description": "A paid Discord is one of the easiest things to sell on Gumroad: a course community, a trading channel, a mod-support server. The usual setup goes like this: ...",
+        "keywords": "gumroad, bot, ping, url, sale, discord, key, role",
+        "generated": "2026-10-20T04:19:10.500025",
+        "file": "selling-a-paid-discord-community-on-gumroad-your-refunded-buyers-probably-still-have-access.md"
     },
     {
         "title": "Detect SERP Features in Search Results for Better SEO Context",
@@ -42228,6 +42305,17 @@
         "file": "your-ai-agent-can-see-hear-and-talk-but-can-it-feel.md"
     },
     {
+        "title": "France's supermarket fridges were vulnerable online for months",
+        "slug": "frances-supermarket-fridges-were-vulnerable-online-for-months",
+        "author": "emot",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 00:00:49 +0000",
+        "description": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 75 # Comments: 66",
+        "keywords": "france, fridges, url, https, comments, supermarket, vulnerable, online",
+        "generated": "2026-10-20T04:19:10.496684",
+        "file": "frances-supermarket-fridges-were-vulnerable-online-for-months.md"
+    },
+    {
         "title": "A crontab entry for a second weekly film, and the UTC hour it hides",
         "slug": "a-crontab-entry-for-a-second-weekly-film-and-the-utc-hour-it-hides",
         "author": "Robert",
@@ -42941,6 +43029,17 @@
         "keywords": "code, how, telemetry, developer, tier, built, pipeline, here",
         "generated": "2026-06-13T04:19:15.385606",
         "file": "how-i-built-a-real-time-biometric-telemetry-pipeline-to-detect-ai-code-injections-in-vs-code.md"
+    },
+    {
+        "title": "Developing Taste",
+        "slug": "developing-taste",
+        "author": "cat-whisperer",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 01:12:03 +0000",
+        "description": "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 15 # Comments: 11",
+        "keywords": "developing, taste, url, https, comments, article, emilkowal, ski",
+        "generated": "2026-10-20T04:19:10.496569",
+        "file": "developing-taste.md"
     },
     {
         "title": "Amerta now supports CJ drop shipping, you can import products, categories, pricing and more.",
@@ -44096,6 +44195,17 @@
         "file": "get-ready-for-the-ultimate-transport-revolution-openttd-160-beta1-released-whats-new-and-how-to-download-now.md"
     },
     {
+        "title": "Private Backup Download and Restore Flow: Signed URLs for Logistics Exports",
+        "slug": "private-backup-download-and-restore-flow-signed-urls-for-logistics-exports",
+        "author": "JensenCole5829",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 04:10:15 +0000",
+        "description": "A restore screen should reveal almost nothing until an authorized administrator requests a specific tenant backup. TL;DR: keep every archive private, confirm...",
+        "keywords": "restore, key, object, backup, tenant, url, storage, application",
+        "generated": "2026-10-20T04:19:10.497226",
+        "file": "private-backup-download-and-restore-flow-signed-urls-for-logistics-exports.md"
+    },
+    {
         "title": "Audit Vibe Coding vs SonarQube vs Codacy: Code Quality Tools for AI-Generated Code (2026 Comparison)",
         "slug": "audit-vibe-coding-vs-sonarqube-vs-codacy-code-quality-tools-for-ai-generated-code-2026-comparison",
         "author": "Jakub",
@@ -44523,6 +44633,17 @@
         "keywords": "motors, rare, earths, electric, motor, can, using, model",
         "generated": "2026-06-13T09:25:04.608478",
         "file": "define-motor-parameters.md"
+    },
+    {
+        "title": "Why Single-Model Cartoonify Prompts Fail in Production (And How I Fixed It with a 2-Stage Pipeline)",
+        "slug": "why-single-model-cartoonify-prompts-fail-in-production-and-how-i-fixed-it-with-a-2-stage-pipeline",
+        "author": "Howard Shaw",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 04:06:32 +0000",
+        "description": "If you have ever built an image-to-image (I2I) consumer feature, you already know the dirty secret of prompt engineering: what works in a Cherry-Picked Twitt...",
+        "keywords": "image, model, you, nano, banana, single, how, chatgpt",
+        "generated": "2026-10-20T04:19:10.501346",
+        "file": "why-single-model-cartoonify-prompts-fail-in-production-and-how-i-fixed-it-with-a-2-stage-pipeline.md"
     },
     {
         "title": "Stegachirp: Hide Messages in Audio Files Using Pure Python (No NumPy, No SciPy)",
@@ -45557,6 +45678,17 @@
         "keywords": "your, epub, fine, url, https, comments, article, andreklein",
         "generated": "2026-06-15T05:01:58.091951",
         "file": "your-epub-is-fine.md"
+    },
+    {
+        "title": "I Tested 5 Proxy Types for Web Scraping — Here's What Actually Matters",
+        "slug": "i-tested-5-proxy-types-for-web-scraping-heres-what-actually-matters",
+        "author": "Vlad Oso",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 04:09:38 +0000",
+        "description": "Last month I rebuilt a scraping pipeline that had been limping along on a bargain-bin datacenter proxy plan. The symptoms were familiar to anyone who's done ...",
+        "keywords": "proxy, you, per, requests, residential, self, what, session",
+        "generated": "2026-10-20T04:19:10.498099",
+        "file": "i-tested-5-proxy-types-for-web-scraping-heres-what-actually-matters.md"
     },
     {
         "title": "Google saw Loading… on every page of my Next.js site. Here's the fix.",
@@ -51240,6 +51372,17 @@
         "file": "unlock-webgl-potential-how-to-run-webgl-without-a-gpu-a-step-by-step-guide.md"
     },
     {
+        "title": "Six SaaS metric formulas and the edge cases that break them",
+        "slug": "six-saas-metric-formulas-and-the-edge-cases-that-break-them",
+        "author": "牛云鹏",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 04:12:40 +0000",
+        "description": "Every SaaS metric calculator is five lines of arithmetic. The bugs are all in the edges. I wrote six of them — LTV:CAC, CAC payback, quick ratio, MRR/ARR, ch...",
+        "keywords": "ltv, cac, mrr, const, null, not, payback, ratio",
+        "generated": "2026-10-20T04:19:10.499737",
+        "file": "six-saas-metric-formulas-and-the-edge-cases-that-break-them.md"
+    },
+    {
         "title": "Promise Chaining",
         "slug": "promise-chaining",
         "author": "Rakshambika",
@@ -52230,14 +52373,14 @@
         "file": "collaborative-human-agent-protocol-chap.md"
     },
     {
-        "title": "Hello, DEV Community!",
+        "title": "Hello DEV Community",
         "slug": "hello-dev-community",
-        "author": "Meiglyph",
+        "author": "Morgan Anderson",
         "source": "devto_python",
-        "published": "Tue, 04 Aug 2026 02:49:19 +0000",
-        "description": "Hi, I’m Meiglyph. I have a background in design, and I’m currently learning Python and exploring software development. As I build small tools and web applica...",
-        "keywords": "dev, learning, development, community, design, python, discover, useful",
-        "generated": "2026-08-04T03:13:25.003379",
+        "published": "Tue, 20 Oct 2026 04:01:41 +0000",
+        "description": "Hi everyone! I'm excited to be part of this community and connect with developers from around the world. I'm a software developer interested in Python, Go, b...",
+        "keywords": "community, connect, you, hello, excited, developers, software, technologies",
+        "generated": "2026-10-20T04:19:10.499362",
         "file": "hello-dev-community.md"
     },
     {
@@ -65010,6 +65153,17 @@
         "file": "in-depth-analysis-pythons-dominance-in-ai-develo.md"
     },
     {
+        "title": "Architectural Deep-Dive: OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "slug": "architectural-deep-dive-openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory",
+        "author": "Bohdan Hordii",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 04:03:29 +0000",
+        "description": "Decoupling Perception and Compute: How Persistent Multimodal Memory Fixes Agentic Tool Bottlenecks Multimodal Large Language Models (MLLMs) are increasingly ...",
+        "keywords": "tool, multimodal, raw, memory, context, self, sandbox, visual",
+        "generated": "2026-10-20T04:19:10.503223",
+        "file": "architectural-deep-dive-openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory.md"
+    },
+    {
         "title": "🔐 OTP RS: RFC-Compliant OTP Input Components for WASM Frameworks",
         "slug": "otp-rs-rfc-compliant-otp-input-components-for-wasm-frameworks",
         "author": "Mahmoud 🦀",
@@ -74347,6 +74501,17 @@
         "keywords": "one, not, its, his, four, verdict, randal, noirebox",
         "generated": "2026-10-10T21:25:00.282221",
         "file": "a-hash-chain-proves-the-ordering-four-attacks-prove-its-not-enough.md"
+    },
+    {
+        "title": "These exo planets are the best one to sustain life by decoherence metrics according to MEG",
+        "slug": "these-exo-planets-are-the-best-one-to-sustain-life-by-decoherence-metrics-according-to-meg",
+        "author": "Enrique",
+        "source": "devto_python",
+        "published": "Tue, 20 Oct 2026 04:01:45 +0000",
+        "description": "",
+        "keywords": "these, exo, planets, best, one, sustain, life, decoherence",
+        "generated": "2026-10-20T04:19:10.499195",
+        "file": "these-exo-planets-are-the-best-one-to-sustain-life-by-decoherence-metrics-according-to-meg.md"
     },
     {
         "title": "Give Your Agent Patch a Determinism Budget: Seed-Locked Properties, Pinned Fixtures, a Freeze Registry",
@@ -91740,6 +91905,17 @@
         "file": "20-years-in-it-and-ai-key-lessons-on-technology-and-management.md"
     },
     {
+        "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+        "slug": "go-will-reject-certificate-chains-containing-eight-distrusted-spkis",
+        "author": "mendym",
+        "source": "hackernews",
+        "published": "Tue, 20 Oct 2026 03:05:07 +0000",
+        "description": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 14 # Comments: 3",
+        "keywords": "url, https, com, comments, will, reject, certificate, chains",
+        "generated": "2026-10-20T04:19:10.496120",
+        "file": "go-will-reject-certificate-chains-containing-eight-distrusted-spkis.md"
+    },
+    {
         "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
         "slug": "show-hn-luacad-parametric-cad-scripted-in-lua",
         "author": "adius",
@@ -92640,6 +92816,17 @@
         "keywords": "growth, resource, what, one, cost, capacity, skill, curve",
         "generated": "2026-08-02T08:30:38.168813",
         "file": "claude-code-for-capacity-planning-how-i-stopped-reacting-to-growth-and-started-planning-for-it.md"
+    },
+    {
+        "title": "Building in Silence: Why Good Code Gets Drowned Out (And the Harsh Reality of Local Tech Culture)",
+        "slug": "building-in-silence-why-good-code-gets-drowned-out-and-the-harsh-reality-of-local-tech-culture",
+        "author": "Bo Nguyen",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 04:05:45 +0000",
+        "description": "I’m a Window trading system developer. For the past few years, my daily reality has revolved around low-latency execution engines, orderbook matching, data s...",
+        "keywords": "you, your, local, out, code, gets, reality, tech",
+        "generated": "2026-10-20T04:19:10.502508",
+        "file": "building-in-silence-why-good-code-gets-drowned-out-and-the-harsh-reality-of-local-tech-culture.md"
     },
     {
         "title": "Python Basics: The Fundamentals That Let You Build Something Real in Week One",
@@ -95160,6 +95347,17 @@
         "keywords": "your, biznode, business, you, data, accountability, local, https",
         "generated": "2026-08-02T13:39:46.252412",
         "file": "every-handle-invocation-on-biznode-gets-a-wfid-a-universal-transaction-reference-for-accountability-full-audit-trail.md"
+    },
+    {
+        "title": "Sephora Paid $1.2M for Ignoring Global Privacy Control. Check Your Site in CI",
+        "slug": "sephora-paid-12m-for-ignoring-global-privacy-control-check-your-site-in-ci",
+        "author": "Louis Wright",
+        "source": "devto_webdev",
+        "published": "Tue, 20 Oct 2026 04:06:38 +0000",
+        "description": "This article was written with AI assistance and reviewed before publishing. The demo site used in the examples is made up for this article. On August 24, 202...",
+        "keywords": "gpc, warden, your, privacy, out, https, opt, not",
+        "generated": "2026-10-20T04:19:10.500858",
+        "file": "sephora-paid-12m-for-ignoring-global-privacy-control-check-your-site-in-ci.md"
     },
     {
         "title": "Python 3.15 development features and performance updates",
@@ -101582,6 +101780,17 @@
         "keywords": "url, https, comments, resistance, training, prescription, muscle, function",
         "generated": "2026-09-12T10:25:42.905864",
         "file": "resistance-training-prescription-for-muscle-function-hypertrophy-in-health.md"
+    },
+    {
+        "title": "Forkpath: Change One Moment in History, Then Let the AI Do the Homework",
+        "slug": "forkpath-change-one-moment-in-history-then-let-the-ai-do-the-homework",
+        "author": "Srilal Sachintha",
+        "source": "devto_ai",
+        "published": "Tue, 20 Oct 2026 04:08:50 +0000",
+        "description": "What I Built Forkpath is an alternate-history explorer. You type one sentence (What if the Ming treasure fleets kept sailing?), pick when it happens, and a...",
+        "keywords": "forkpath, you, history, one, writer, event, your, model",
+        "generated": "2026-10-20T04:19:10.502175",
+        "file": "forkpath-change-one-moment-in-history-then-let-the-ai-do-the-homework.md"
     },
     {
         "title": "FFmpeg Recipes for BoTTube Agents: From Static Images to Platform-Ready Video in 8 Seconds",
