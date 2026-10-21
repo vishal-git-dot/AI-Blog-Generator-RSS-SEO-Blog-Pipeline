@@ -5267,6 +5267,17 @@
         "file": "is-your-job-description-about-to-collapse.md"
     },
     {
+        "title": "My Walk-Forward Said +29.2 Per Trade. Honest Out-of-Sample Said -4.6.",
+        "slug": "my-walk-forward-said-292-per-trade-honest-out-of-sample-said-46",
+        "author": "王伟",
+        "source": "devto_python",
+        "published": "Wed, 21 Oct 2026 16:44:29 +0000",
+        "description": "A parameter set that won on folds 1-3 lost on folds 4-5. Same strategy, same data. I ran the standard walk-forward check. Three parameter sets, five sequenti...",
+        "keywords": "sample, not, fold, gap, you, parameter, trade, out",
+        "generated": "2026-10-21T16:57:15.637252",
+        "file": "my-walk-forward-said-292-per-trade-honest-out-of-sample-said-46.md"
+    },
+    {
         "title": "Building OmegleVC: From Random Video Chat to a Real-Time Social Platform",
         "slug": "building-omeglevc-from-random-video-chat-to-a-real-time-social-platform",
         "author": "Sourya Singh",
@@ -7740,6 +7751,17 @@
         "file": "hackers-have-withdrawn-4k-btc-320m-from-the-liquid-federation-wallet.md"
     },
     {
+        "title": "Your README's code examples are the one thing you never test. Here's a 25-line Python checker",
+        "slug": "your-readmes-code-examples-are-the-one-thing-you-never-test-heres-a-25-line-python-checker",
+        "author": "rene",
+        "source": "devto_python",
+        "published": "Wed, 21 Oct 2026 16:48:56 +0000",
+        "description": "Liquid syntax error: Unknown tag 'endraw'",
+        "keywords": "your, readme, code, examples, one, thing, you, never",
+        "generated": "2026-10-21T16:57:15.636103",
+        "file": "your-readmes-code-examples-are-the-one-thing-you-never-test-heres-a-25-line-python-checker.md"
+    },
+    {
         "title": "Architecting a 5-layer AST self-healing loop in Python for multi-file coding (LuxurAI Coder beta)",
         "slug": "architecting-a-5-layer-ast-self-healing-loop-in-python-for-multi-file-coding-luxurai-coder-beta",
         "author": "Achyut Srivastava",
@@ -10169,6 +10191,17 @@
         "keywords": "numverify, api, key, free, apilayer, one, phone, marketing",
         "generated": "2026-09-19T20:21:54.588163",
         "file": "numverify-global-phone-number-validation-lookup.md"
+    },
+    {
+        "title": "How I Built an In-Browser Image Suite with WebAssembly and Web Workers (Zero Server Uploads)",
+        "slug": "how-i-built-an-in-browser-image-suite-with-webassembly-and-web-workers-zero-server-uploads",
+        "author": "Sulaiman",
+        "source": "devto_webdev",
+        "published": "Wed, 21 Oct 2026 16:51:08 +0000",
+        "description": "Three months ago, I was laid off from my job as a senior frontend engineer. While applying for roles and sorting out administrative paperwork, I kept hitting...",
+        "keywords": "image, browser, worker, web, zero, wasm, workers, files",
+        "generated": "2026-10-21T16:57:15.638316",
+        "file": "how-i-built-an-in-browser-image-suite-with-webassembly-and-web-workers-zero-server-uploads.md"
     },
     {
         "title": "Make Your Own AI Modle With One Line of Code",
@@ -13084,6 +13117,17 @@
         "keywords": "moonshine, url, https, com, comments, lets, you, stream",
         "generated": "2026-07-20T03:39:19.780789",
         "file": "moonshine-lets-you-stream-games-from-your-pc-to-any-device-running-moonlight.md"
+    },
+    {
+        "title": "PDF to clean Markdown for RAG: chunking-ready text from PDFs, Word and scanned files",
+        "slug": "pdf-to-clean-markdown-for-rag-chunking-ready-text-from-pdfs-word-and-scanned-files",
+        "author": "Fast Data",
+        "source": "devto_python",
+        "published": "Wed, 21 Oct 2026 16:46:14 +0000",
+        "description": "Most RAG quality problems I have debugged were not embedding or prompt problems. They were extraction problems: a table flattened into a soup of numbers, a h...",
+        "keywords": "page, you, markdown, section, pages, pdf, text, not",
+        "generated": "2026-10-21T16:57:15.636608",
+        "file": "pdf-to-clean-markdown-for-rag-chunking-ready-text-from-pdfs-word-and-scanned-files.md"
     },
     {
         "title": "Postmortem for Kernel Soundness Bug #14576",
@@ -22832,6 +22876,17 @@
         "file": "learn-the-agent-loop-without-an-agent-framework.md"
     },
     {
+        "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+        "slug": "oregon-lawmakers-approve-money-to-buy-an-iconic-waterfall-listed-on-redfin",
+        "author": "surprisetalk",
+        "source": "hackernews",
+        "published": "Wed, 21 Oct 2026 15:20:04 +0000",
+        "description": "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "oregon, lawmakers, waterfall, article, url, https, com, comments",
+        "generated": "2026-10-21T16:57:15.636047",
+        "file": "oregon-lawmakers-approve-money-to-buy-an-iconic-waterfall-listed-on-redfin.md"
+    },
+    {
         "title": "The Complete 2026 Guide to Creating a Crypto Arbitrage Trading Bot",
         "slug": "the-complete-2026-guide-to-creating-a-crypto-arbitrage-trading-bot",
         "author": "steve jonson",
@@ -28343,6 +28398,17 @@
         "file": "gemini-4-argon.md"
     },
     {
+        "title": "AI agent deployments surge telemetry expenses and network complexity",
+        "slug": "ai-agent-deployments-surge-telemetry-expenses-and-network-complexity",
+        "author": "Valentin Podkamennyi",
+        "source": "devto_ai",
+        "published": "Wed, 21 Oct 2026 16:41:37 +0000",
+        "description": "AI agents are significantly increasing telemetry expenses and making network oversight more difficult as companies struggle to monitor new technologies. A re...",
+        "keywords": "data, these, agents, percent, their, network, they, more",
+        "generated": "2026-10-21T16:57:15.641100",
+        "file": "ai-agent-deployments-surge-telemetry-expenses-and-network-complexity.md"
+    },
+    {
         "title": "How Special Education Specialists Support Children with Learning Disabilities",
         "slug": "how-special-education-specialists-support-children-with-learning-disabilities",
         "author": "every special child usa",
@@ -33613,6 +33679,17 @@
         "file": "a-simple-guide-to-quiz-earning-apps.md"
     },
     {
+        "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "slug": "todays-php-security-release-and-how-were-strengthening-php-security",
+        "author": "ejohnso49",
+        "source": "hackernews",
+        "published": "Wed, 21 Oct 2026 15:48:56 +0000",
+        "description": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombi...",
+        "keywords": "php, security, release, how, strengthening, url, https, comments",
+        "generated": "2026-10-21T16:57:15.635984",
+        "file": "todays-php-security-release-and-how-were-strengthening-php-security.md"
+    },
+    {
         "title": "OmniRoute Review 2026",
         "slug": "omniroute-review-2026",
         "author": "TuanPK Builds",
@@ -35074,6 +35151,17 @@
         "keywords": "context, you, engineering, prompt, system, tools, self, memory",
         "generated": "2026-06-14T14:17:29.353395",
         "file": "context-engineering-why-its-replacing-traditional-prompt-writing-in-production-ai.md"
+    },
+    {
+        "title": "What I learned from six months of being stupid on purpose",
+        "slug": "what-i-learned-from-six-months-of-being-stupid-on-purpose",
+        "author": "wvez22",
+        "source": "hackernews",
+        "published": "Wed, 21 Oct 2026 16:06:56 +0000",
+        "description": "Article URL: https://wvez.org/blog/learning-to-be-stupid/ Comments URL: https://news.ycombinator.com/item?id=50183311 Points: 16 # Comments: 3",
+        "keywords": "stupid, url, https, comments, what, learned, six, months",
+        "generated": "2026-10-21T16:57:15.635693",
+        "file": "what-i-learned-from-six-months-of-being-stupid-on-purpose.md"
     },
     {
         "title": "Fine-Tuning Is Mostly Theater. Here's What Works Instead.",
@@ -41742,6 +41830,17 @@
         "file": "o-teste-de-amostragem-de-conversas-como-termmetro-comercial.md"
     },
     {
+        "title": "The Dimension That Predicts Downloads Is Not the One We Rank Highest",
+        "slug": "the-dimension-that-predicts-downloads-is-not-the-one-we-rank-highest",
+        "author": "SKILL123.me",
+        "source": "devto_ai",
+        "published": "Wed, 21 Oct 2026 16:51:02 +0000",
+        "description": "Our rubric says trigger quality is the thing that decides whether a skill is used. The download data says something different. Each of the six dimensions in ...",
+        "keywords": "not, trigger, quality, skill, download, structure, downloads, have",
+        "generated": "2026-10-21T16:57:15.640213",
+        "file": "the-dimension-that-predicts-downloads-is-not-the-one-we-rank-highest.md"
+    },
+    {
         "title": "WordStar: A Writer's Word Processor (1996)",
         "slug": "wordstar-a-writers-word-processor-1996",
         "author": "droidjj",
@@ -46108,6 +46207,17 @@
         "file": "building-all-in-one-utility-hub-a-lightweight-toolkit-for-developers-creators.md"
     },
     {
+        "title": "I made a free Mac app. It got nearly 8,000 clicks on the download page in a day.",
+        "slug": "i-made-a-free-mac-app-it-got-nearly-8000-clicks-on-the-download-page-in-a-day",
+        "author": "Shivam Rohilla",
+        "source": "devto_ai",
+        "published": "Wed, 21 Oct 2026 16:51:46 +0000",
+        "description": "Meet Aster, a free Mac storage analyzer that helps you find large files, see their locations and review what goes to Trash. You finish editing a video, hit e...",
+        "keywords": "you, aster, files, can, file, folder, mac, storage",
+        "generated": "2026-10-21T16:57:15.639985",
+        "file": "i-made-a-free-mac-app-it-got-nearly-8000-clicks-on-the-download-page-in-a-day.md"
+    },
+    {
         "title": "A CSS Hover-Reveal Pattern for Technical Specs",
         "slug": "a-css-hover-reveal-pattern-for-technical-specs",
         "author": "Richard Lemon",
@@ -49725,6 +49835,17 @@
         "keywords": "erp, statistics, businesses, cloud, business, organizations, automation, adoption",
         "generated": "2026-07-15T08:23:28.885846",
         "file": "erp-statistics-what-the-numbers-reveal-about-modern-business-growth.md"
+    },
+    {
+        "title": "EU AI Act Compliance Checklist: 30-Step Plan (Downloadable)",
+        "slug": "eu-ai-act-compliance-checklist-30-step-plan-downloadable",
+        "author": "Char-Z AI",
+        "source": "devto_ai",
+        "published": "Wed, 21 Oct 2026 16:47:17 +0000",
+        "description": "Originally published at https://charz.ai/blog/ai-act-30-step-compliance-checklist by Char-Z AI. Why a Step-by-Step EU AI Act Checklist The EU AI Act is requi...",
+        "keywords": "step, risk, european, system, obligations, act, checklist, commission",
+        "generated": "2026-10-21T16:57:15.640581",
+        "file": "eu-ai-act-compliance-checklist-30-step-plan-downloadable.md"
     },
     {
         "title": "The Day I Stopped Scrolling Through 1,000 Lines of JSON",
@@ -63127,6 +63248,17 @@
         "file": "optimizing-performance-in-ryvaxjs-techniques-and-best-practices.md"
     },
     {
+        "title": "WordPress PHP Vulnerability Triage: Non-Technical Protection Guide",
+        "slug": "wordpress-php-vulnerability-triage-non-technical-protection-guide",
+        "author": "Veduis",
+        "source": "devto_webdev",
+        "published": "Wed, 21 Oct 2026 16:48:52 +0000",
+        "description": "When security bulletins announce a critical remote code execution flaw in PHP core, non-technical website owners face immediate confusion. Headlines quote CV...",
+        "keywords": "your, php, wordpress, site, you, server, security, version",
+        "generated": "2026-10-21T16:57:15.639542",
+        "file": "wordpress-php-vulnerability-triage-non-technical-protection-guide.md"
+    },
+    {
         "title": "MCP vs Custom REST Tooling: Security and the Latest MCP Architecture",
         "slug": "mcp-vs-custom-rest-tooling-security-and-the-latest-mcp-architecture",
         "author": "Aditya Bhojak",
@@ -70209,6 +70341,17 @@
         "file": "can-an-8b-model-meet-a-35b-models-acceptance-bar-introducing-artificial-deterministic-intelligence.md"
     },
     {
+        "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+        "slug": "your-mcu-likely-escaped-the-emudhra-intermediate-ca-compromise",
+        "author": "hasheddan",
+        "source": "hackernews",
+        "published": "Wed, 21 Oct 2026 16:05:05 +0000",
+        "description": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/ Comments URL: https://news.ycombinator.com/item?id=50183280 Points: 9 # C...",
+        "keywords": "mcu, emudhra, intermediate, compromise, url, https, com, comments",
+        "generated": "2026-10-21T16:57:15.635838",
+        "file": "your-mcu-likely-escaped-the-emudhra-intermediate-ca-compromise.md"
+    },
+    {
         "title": "Why I'm betting on AI-curated directories when Google AI Overviews answer the same queries",
         "slug": "why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries",
         "author": "MORINAGA",
@@ -70328,6 +70471,17 @@
         "keywords": "companies, lean, startup, can, but, founded, all, new",
         "generated": "2026-06-10T15:51:30.356607",
         "file": "ama-im-eric-ries-the-lean-startup-author-of-new-bestseller-incorruptible.md"
+    },
+    {
+        "title": "Trust teardown: what a first-time visitor cannot learn on a Solana staking landing page",
+        "slug": "trust-teardown-what-a-first-time-visitor-cannot-learn-on-a-solana-staking-landing-page",
+        "author": "yagato",
+        "source": "devto_webdev",
+        "published": "Wed, 21 Oct 2026 16:49:35 +0000",
+        "description": "URL: https://marinade.finance (read 2026-10-21, desktop landing page, first visit, no account) Three biggest trust problems, with the exact element or senten...",
+        "keywords": "validator, page, fee, instant, what, unstake, says, which",
+        "generated": "2026-10-21T16:57:15.638878",
+        "file": "trust-teardown-what-a-first-time-visitor-cannot-learn-on-a-solana-staking-landing-page.md"
     },
     {
         "title": "Two Tools, One Goal: Music Generation With Game Dev in Mind",
@@ -81020,6 +81174,17 @@
         "file": "air-theremin-a-browser-theremin-you-play-by-waving-at-your-webcam.md"
     },
     {
+        "title": "Building a Sub-Millisecond Neurosymbolic Memory Engine for AI Agents",
+        "slug": "building-a-sub-millisecond-neurosymbolic-memory-engine-for-ai-agents",
+        "author": "Diwakar Srd",
+        "source": "devto_webdev",
+        "published": "Wed, 21 Oct 2026 16:51:53 +0000",
+        "description": "Autonomous AI agents are increasingly bottlenecked by long-term memory. Most existing memory frameworks compress interaction history into opaque vector embed...",
+        "keywords": "infinitydb, memory, vector, recall, import, agent, facts, engine",
+        "generated": "2026-10-21T16:57:15.638007",
+        "file": "building-a-sub-millisecond-neurosymbolic-memory-engine-for-ai-agents.md"
+    },
+    {
         "title": "Best of British Design",
         "slug": "best-of-british-design",
         "author": "ArisC",
@@ -85348,6 +85513,17 @@
         "keywords": "article, regression, testing, llm, memory, storage, pytest, redis",
         "generated": "2026-08-15T01:34:58.728661",
         "file": "regression-testing-llm-memory-storage-with-pytest-redis-to-prevent-multi-turn-context-loss.md"
+    },
+    {
+        "title": "Unlock NSUT Delhi Direct Admission: A Complete Guide to Management Quota & NRI Quota Seats",
+        "slug": "unlock-nsut-delhi-direct-admission-a-complete-guide-to-management-quota-nri-quota-seats",
+        "author": "Shiksa Leap/Tech",
+        "source": "devto_ai",
+        "published": "Wed, 21 Oct 2026 16:42:06 +0000",
+        "description": "Unlock NSUT Delhi Direct Admission: Management Quota Guide Looking for NSUT Delhi Direct Admission? Get complete details on management quota seats, fees, ste...",
+        "keywords": "direct, admission, quota, nsut, delhi, management, unlock, complete",
+        "generated": "2026-10-21T16:57:15.640658",
+        "file": "unlock-nsut-delhi-direct-admission-a-complete-guide-to-management-quota-nri-quota-seats.md"
     },
     {
         "title": "TypeScript Tricks That Feel Like Cheating",
@@ -92951,6 +93127,17 @@
         "file": "graph-vs-relational-when-a-graph-database-beats-sql-recursive-joins.md"
     },
     {
+        "title": "AI agent fixed the bug, but what else did it change?",
+        "slug": "ai-agent-fixed-the-bug-but-what-else-did-it-change",
+        "author": "tob_scott_a",
+        "source": "hackernews",
+        "published": "Wed, 21 Oct 2026 16:03:32 +0000",
+        "description": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item...",
+        "keywords": "agent, fixed, bug, but, what, else, did, change",
+        "generated": "2026-10-21T16:57:15.635917",
+        "file": "ai-agent-fixed-the-bug-but-what-else-did-it-change.md"
+    },
+    {
         "title": "Workshop: Validate Tool Results Before They Enter Agent Memory in 75 Minutes",
         "slug": "workshop-validate-tool-results-before-they-enter-agent-memory-in-75-minutes",
         "author": "Finley Zhu",
@@ -96911,6 +97098,17 @@
         "file": "project-xanadu-even-more-hindsight.md"
     },
     {
+        "title": "The One-Line Fix That Took My t-Stat From 6.22 to 1.04",
+        "slug": "the-one-line-fix-that-took-my-t-stat-from-622-to-104",
+        "author": "王伟",
+        "source": "devto_python",
+        "published": "Wed, 21 Oct 2026 16:42:36 +0000",
+        "description": "A breakout strategy passed all six parameter cells. It was a fill assumption, not an edge. I had a breakout strategy on 1-minute data come in at t = 6.22 . S...",
+        "keywords": "you, not, fill, one, your, gap, session, bar",
+        "generated": "2026-10-21T16:57:15.637737",
+        "file": "the-one-line-fix-that-took-my-t-stat-from-622-to-104.md"
+    },
+    {
         "title": "20: Keyboard Themes and Aesthetics: Why Your Keyboard's Visual Environment Affects How You Type",
         "slug": "20-keyboard-themes-and-aesthetics-why-your-keyboards-visual-environment-affects-how-you-type",
         "author": "Roboticela",
@@ -97787,6 +97985,17 @@
         "keywords": "agent, you, toolkit, what, run, every, module, file",
         "generated": "2026-08-24T01:41:15.128447",
         "file": "the-9-ai-agent-toolkit-dissected-whats-actually-inside-every-module.md"
+    },
+    {
+        "title": "Every value should know where it came from",
+        "slug": "every-value-should-know-where-it-came-from",
+        "author": "JSLab",
+        "source": "devto_webdev",
+        "published": "Wed, 21 Oct 2026 16:51:08 +0000",
+        "description": "You run your code. Something prints 42 . Which line printed it? If you had to stop and think, this post is for you. It's about one small idea that makes feed...",
+        "keywords": "you, line, value, log, total, your, output, const",
+        "generated": "2026-10-21T16:57:15.638655",
+        "file": "every-value-should-know-where-it-came-from.md"
     },
     {
         "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
@@ -105037,6 +105246,17 @@
         "keywords": "url, https, comments, man, computer, john, kemeny, book",
         "generated": "2026-07-30T02:47:02.165689",
         "file": "man-and-the-computer-by-john-g-kemeny-1972-book-by-the-co-creator-of-basic.md"
+    },
+    {
+        "title": "After 455 Parameter Sets, a t-Stat of 2.18 Means Nothing",
+        "slug": "after-455-parameter-sets-a-t-stat-of-218-means-nothing",
+        "author": "王伟",
+        "source": "devto_python",
+        "published": "Wed, 21 Oct 2026 16:44:56 +0000",
+        "description": "The significance test you learned assumes you ran one test. You ran hundreds. I had a strategy with a t-statistic of 2.18 on 400 trades. Under the textbook r...",
+        "keywords": "not, you, one, sample, sets, test, trades, best",
+        "generated": "2026-10-21T16:57:15.636917",
+        "file": "after-455-parameter-sets-a-t-stat-of-218-means-nothing.md"
     },
     {
         "title": "🚀 Deploy a Decision Tree Classifier with FastAPI",
