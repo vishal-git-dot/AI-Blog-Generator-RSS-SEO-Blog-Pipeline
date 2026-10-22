@@ -10919,6 +10919,17 @@
         "file": "go-will-reject-certificate-chains-containing-eight-distrusted-spkis.md"
     },
     {
+        "title": "Agents won't forgive your docs",
+        "slug": "agents-wont-forgive-your-docs",
+        "author": "Katarina Supe",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 11:19:06 +0000",
+        "description": "I spent the last year in a black box. Maternity leave does that: the world keeps moving, and you only find out how far when you come back. I returned just to...",
+        "keywords": "docs, every, they, agent, how, one, agents, experience",
+        "generated": "2026-10-22T11:30:26.387292",
+        "file": "agents-wont-forgive-your-docs.md"
+    },
+    {
         "title": "Religious scholars met with Anthropic",
         "slug": "religious-scholars-met-with-anthropic",
         "author": "bookofjoe",
@@ -15803,6 +15814,17 @@
         "file": "food-processing-influences-metabolism-and-brain-activity.md"
     },
     {
+        "title": "Digital Marketing Agency in USA",
+        "slug": "digital-marketing-agency-in-usa",
+        "author": "Vishal Chandel",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 11:15:54 +0000",
+        "description": "In today’s digital world, having a strong online presence is important for businesses of every size. People use search engines, social media platforms, websi...",
+        "keywords": "marketing, businesses, can, digital, their, search, media, social",
+        "generated": "2026-10-22T11:30:26.387932",
+        "file": "digital-marketing-agency-in-usa.md"
+    },
+    {
         "title": "Chatto opens source for self-hosted encrypted team chat",
         "slug": "chatto-opens-source-for-self-hosted-encrypted-team-chat",
         "author": "ironbyte-rgb",
@@ -15955,6 +15977,17 @@
         "keywords": "markdown, text, doc, pdf, file, document, docx, output",
         "generated": "2026-09-18T10:56:11.754981",
         "file": "converting-word-documents-to-markdown-using-python.md"
+    },
+    {
+        "title": "Hornet: A Local Coding Goal You Can Inspect, Pause, and Resume",
+        "slug": "hornet-a-local-coding-goal-you-can-inspect-pause-and-resume",
+        "author": "Daniel",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 11:00:00 +0000",
+        "description": "A useful coding run should leave more than a convincing final message. It should leave changed files, checks you can examine, and enough saved state to under...",
+        "keywords": "goal, hornet, model, worker, not, first, run, its",
+        "generated": "2026-10-22T11:30:26.385053",
+        "file": "hornet-a-local-coding-goal-you-can-inspect-pause-and-resume.md"
     },
     {
         "title": "A Token Stream That Arrives All at Once: Debugging Buffering From Symptom to Fix",
@@ -19783,6 +19816,17 @@
         "keywords": "child, can, parents, may, their, needs, make, appointment",
         "generated": "2026-10-17T20:22:56.708954",
         "file": "how-to-choose-a-pediatrician-your-child-can-rely-on-through-every-stage-of-childhood.md"
+    },
+    {
+        "title": "Orbital vs Hasura vs Apollo: AI Agent Review",
+        "slug": "orbital-vs-hasura-vs-apollo-ai-agent-review",
+        "author": "RitzaCo",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 11:22:22 +0000",
+        "description": "Orbital, Hasura, and Apollo all do similar things. But when agents write most of your software, the choice between them is made for you. Here’s which one you...",
+        "keywords": "orbital, hasura, apollo, agent, graphql, data, its, named",
+        "generated": "2026-10-22T11:30:26.387071",
+        "file": "orbital-vs-hasura-vs-apollo-ai-agent-review.md"
     },
     {
         "title": "Monitoring Python RQ jobs: what to watch and how to get alerted",
@@ -24612,6 +24656,17 @@
         "keywords": "minute, historical, you, spy, vol, day, every, any",
         "generated": "2026-07-21T19:39:11.835894",
         "file": "12-things-you-can-do-with-a-minute-level-historical-options-data-api.md"
+    },
+    {
+        "title": "Jev: what it's for and how to use it",
+        "slug": "jev-what-its-for-and-how-to-use-it",
+        "author": "Ilia",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 10:54:38 +0000",
+        "description": "A message arrives in a chat: “How can I enable notifications for new orders only?” The application needs to assign it a category: “question”, “advertising”, ...",
+        "keywords": "message, question, can, advertising, your, choice, probability, answer",
+        "generated": "2026-10-22T11:30:26.385299",
+        "file": "jev-what-its-for-and-how-to-use-it.md"
     },
     {
         "title": "Self hosted email continues to steeply decline",
@@ -30046,6 +30101,17 @@
         "keywords": "app, cash, verification, account, information, identity, may, your",
         "generated": "2026-10-03T11:24:45.496944",
         "file": "how-to-verify-your-cash-app-account-complete-verification-guide-and-security-tips.md"
+    },
+    {
+        "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+        "slug": "faster-than-earcut-triangulating-37m-map-polygons-in-489-ms",
+        "author": "molind",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 09:31:18 +0000",
+        "description": "Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 48 # Comments: 8",
+        "keywords": "map, polygons, url, https, comments, faster, than, earcut",
+        "generated": "2026-10-22T11:30:26.383520",
+        "file": "faster-than-earcut-triangulating-37m-map-polygons-in-489-ms.md"
     },
     {
         "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
@@ -36748,6 +36814,17 @@
         "file": "uae-e-invoicing-the-provider-is-the-last-step-not-the-first.md"
     },
     {
+        "title": "Achieving AI-style reasoning without an LLM",
+        "slug": "achieving-ai-style-reasoning-without-an-llm",
+        "author": "edwardchalk",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 08:46:58 +0000",
+        "description": "Article URL: https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/ Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "achieving, reasoning, without, url, https, com, comments, style",
+        "generated": "2026-10-22T11:30:26.383644",
+        "file": "achieving-ai-style-reasoning-without-an-llm.md"
+    },
+    {
         "title": "AI Layoffs Seem To Be Reversed",
         "slug": "ai-layoffs-seem-to-be-reversed",
         "author": "Valentine Shi",
@@ -38022,6 +38099,17 @@
         "keywords": "tool, mcp, your, server, subprocess, claude, you, same",
         "generated": "2026-07-20T03:39:19.785143",
         "file": "the-one-decorator-that-makes-your-script-agentic-mcptool-vs-subprocess.md"
+    },
+    {
+        "title": "Jailbreaking the Switch 2",
+        "slug": "jailbreaking-the-switch-2",
+        "author": "ledoge",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 08:01:52 +0000",
+        "description": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 15 # Comments: 1",
+        "keywords": "url, https, com, comments, jailbreaking, switch, article, pepsipu",
+        "generated": "2026-10-22T11:30:26.383694",
+        "file": "jailbreaking-the-switch-2.md"
     },
     {
         "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
@@ -44259,6 +44347,17 @@
         "keywords": "page, not, browser, agent, text, model, content, risk",
         "generated": "2026-06-06T04:00:30.109619",
         "file": "browser-agent-firewall-for-ai-saas-filter-web-pages-before-they-burn-tokens-or-trust.md"
+    },
+    {
+        "title": "Build the community, not the product: making a meetup into a real lab",
+        "slug": "build-the-community-not-the-product-making-a-meetup-into-a-real-lab",
+        "author": "CryptoPunk Dz2",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 11:16:08 +0000",
+        "description": "In short, in my recent posts I had this thought: loosely speaking, if you are a startup person and you want to build a product that holds up, then by my reck...",
+        "keywords": "you, not, community, lab, how, have, but, users",
+        "generated": "2026-10-22T11:30:26.387500",
+        "file": "build-the-community-not-the-product-making-a-meetup-into-a-real-lab.md"
     },
     {
         "title": "How to Measure Custom Boxes Correctly for Your Products: The Structural, CAD, and Freight Blueprint",
@@ -53709,6 +53808,17 @@
         "file": "26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again.md"
     },
     {
+        "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+        "slug": "cve-2026-111943-compromised-intermediate-certificate-authority",
+        "author": "keks24",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 08:51:31 +0000",
+        "description": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 143 # Comments: 34",
+        "keywords": "cve, url, https, comments, compromised, intermediate, certificate, authority",
+        "generated": "2026-10-22T11:30:26.383588",
+        "file": "cve-2026-111943-compromised-intermediate-certificate-authority.md"
+    },
+    {
         "title": "Google Gemini Adds Free Full-Length SAT Practice Tests With Instant Study Feedback",
         "slug": "google-gemini-adds-free-full-length-sat-practice-tests-with-instant-study-feedback",
         "author": "Ali Farhat",
@@ -62797,6 +62907,17 @@
         "file": "i-ran-4-ai-agents-on-yesterdays-prs-two-real-security-bugs-surfaced.md"
     },
     {
+        "title": "Do AI Coding Agents Need a Different CSS Architecture?",
+        "slug": "do-ai-coding-agents-need-a-different-css-architecture",
+        "author": "Marvin Ahlgrimm",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 11:25:12 +0000",
+        "description": "Does BEM Still Make Sense When AI Writes CSS? I use BEM. Sometimes. Most of my CSS is plain CSS, with a main stylesheet and a few additional files for specif...",
+        "keywords": "css, bem, data, class, but, button, component, more",
+        "generated": "2026-10-22T11:30:26.385802",
+        "file": "do-ai-coding-agents-need-a-different-css-architecture.md"
+    },
+    {
         "title": "Reject Image Polyglots After EXIF Removal, Before They Reach Your CDN",
         "slug": "reject-image-polyglots-after-exif-removal-before-they-reach-your-cdn",
         "author": "jaryn",
@@ -63752,6 +63873,17 @@
         "keywords": "wanna, live, npc, life, url, https, comments, article",
         "generated": "2026-09-02T20:51:03.417482",
         "file": "i-wanna-live-an-npc-life.md"
+    },
+    {
+        "title": "Building an Offline-First Crop Disease Detector with React Native, On-Device TFLite, and Grounded RAG",
+        "slug": "building-an-offline-first-crop-disease-detector-with-react-native-on-device-tflite-and-grounded-rag",
+        "author": "Keylor Pineda",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 11:04:59 +0000",
+        "description": "The Reality of Smallholder Agriculture in Central America In mountainous agricultural regions across Costa Rica and Central America, smallholder producers of...",
+        "keywords": "healthycropping, offline, native, tflite, coffee, cacao, github, react",
+        "generated": "2026-10-22T11:30:26.384202",
+        "file": "building-an-offline-first-crop-disease-detector-with-react-native-on-device-tflite-and-grounded-rag.md"
     },
     {
         "title": "Google now reports your AI Overviews impressions. Its first drop was a bug.",
@@ -75269,6 +75401,17 @@
         "file": "south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots.md"
     },
     {
+        "title": "Severn - How a Tiny Open-Source CLI Saved My AI Agent Project at 2:00 AM",
+        "slug": "severn-how-a-tiny-open-source-cli-saved-my-ai-agent-project-at-200-am",
+        "author": "Anne Lelen",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 10:52:40 +0000",
+        "description": "It was 2:00 AM, our team’s autonomous multi-agent pipeline kept crashing into an infinite loop, and I was about ready to throw my laptop out the window. We w...",
+        "keywords": "our, agent, trace, severn, terminal, you, project, install",
+        "generated": "2026-10-22T11:30:26.385464",
+        "file": "severn-how-a-tiny-open-source-cli-saved-my-ai-agent-project-at-200-am.md"
+    },
+    {
         "title": "Website Vulnerability Scanner: What It Checks and How to Read Results",
         "slug": "website-vulnerability-scanner-what-it-checks-and-how-to-read-results",
         "author": "Håkan Fägnell",
@@ -82538,6 +82681,17 @@
         "file": "building-a-shopify-embedded-app-with-remix-and-supabase.md"
     },
     {
+        "title": "I Was Bored, So I Built a Ludo Game Website Using AI",
+        "slug": "i-was-bored-so-i-built-a-ludo-game-website-using-ai",
+        "author": "Root",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 11:16:33 +0000",
+        "description": "I Was Bored, So I Built a Ludo Game Website Using AI Recently, I was feeling bored and wanted to create something fun. I thought, why not build a Ludo game t...",
+        "keywords": "website, you, ludo, game, bored, idea, what, built",
+        "generated": "2026-10-22T11:30:26.386236",
+        "file": "i-was-bored-so-i-built-a-ludo-game-website-using-ai.md"
+    },
+    {
         "title": "Enhance Your Projects with Raspberry Pi Camera Module",
         "slug": "enhance-your-projects-with-raspberry-pi-camera-module",
         "author": "PulseTech | AI & Electronics Hub",
@@ -82767,6 +82921,17 @@
         "keywords": "url, https, com, comments, introduction, article, blog, roboflow",
         "generated": "2026-06-23T04:02:13.416248",
         "file": "an-introduction-to-yolo26.md"
+    },
+    {
+        "title": "Testimonials with real consent: a data model for permission you can prove and revoke",
+        "slug": "testimonials-with-real-consent-a-data-model-for-permission-you-can-prove-and-revoke",
+        "author": "Nazma Akter",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 11:18:20 +0000",
+        "description": "Best candle I've ever bought. A customer quote is only worth putting on your homepage if the customer said you could, and only as long as they still agree....",
+        "keywords": "text, consent, not, null, customer, boolean, permission, can",
+        "generated": "2026-10-22T11:30:26.386134",
+        "file": "testimonials-with-real-consent-a-data-model-for-permission-you-can-prove-and-revoke.md"
     },
     {
         "title": "Affordable Web Design Company Pune for Growing Businesses",
@@ -83658,6 +83823,17 @@
         "keywords": "elpis, context, agent, runtime, model, file, user, tui",
         "generated": "2026-07-15T19:19:36.616904",
         "file": "project-elpis-why-ai-coding-agents-need-a-system-layer.md"
+    },
+    {
+        "title": "Google Says Site Migrations Can Take 4+ Months. Here Is the Migration Checklist I Would Run First",
+        "slug": "google-says-site-migrations-can-take-4-months-here-is-the-migration-checklist-i-would-run-first",
+        "author": "Shanzy Saleem",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 11:16:05 +0000",
+        "description": "Site migrations are one of those things every developer and SEO has to survive at least once. A rebrand, a move from WordPress to Next.js, a new domain, a UR...",
+        "keywords": "you, google, migration, not, url, redirects, redirect, site",
+        "generated": "2026-10-22T11:30:26.386451",
+        "file": "google-says-site-migrations-can-take-4-months-here-is-the-migration-checklist-i-would-run-first.md"
     },
     {
         "title": "LangGraph Checkpointing: Three Production Rewrites Before It Clicked",
@@ -86934,6 +87110,17 @@
         "file": "us-citizen-charged-after-grapheneos-phone-wipes-at-airport.md"
     },
     {
+        "title": "How to Scope and Price an HVAC Contractor Website",
+        "slug": "how-to-scope-and-price-an-hvac-contractor-website",
+        "author": "Amanur Rahman",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 11:24:23 +0000",
+        "description": "If you build sites for local service businesses, HVAC contractors are a good client type and an easy one to underprice. Their sites look like brochure sites,...",
+        "keywords": "pages, client, site, hvac, price, build, sites, service",
+        "generated": "2026-10-22T11:30:26.385960",
+        "file": "how-to-scope-and-price-an-hvac-contractor-website.md"
+    },
+    {
         "title": "Forgetting is for remembering: my AI chat broke long before the token limit",
         "slug": "forgetting-is-for-remembering-my-ai-chat-broke-long-before-the-token-limit",
         "author": "Hayato Kamiya",
@@ -88736,6 +88923,17 @@
         "keywords": "live, minute, data, bars, time, tick, backtest, price",
         "generated": "2026-07-10T03:51:00.821497",
         "file": "why-do-us-stock-minute-bar-backtests-fail-to-match-live-trading-results.md"
+    },
+    {
+        "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+        "slug": "several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list",
+        "author": "mrkn1",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 11:12:37 +0000",
+        "description": "Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 6 # Comments: 0",
+        "keywords": "vulnerabilities, url, https, com, news, comments, several, linux",
+        "generated": "2026-10-22T11:30:26.383386",
+        "file": "several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list.md"
     },
     {
         "title": "5 Best Sites to Buy Negative Google Reviews",
@@ -94313,6 +94511,17 @@
         "keywords": "telegram, proxies, all, kept, hitting, dead, proxy, lists",
         "generated": "2026-07-05T09:14:04.976667",
         "file": "so-i-kept-hitting-dead-proxy-lists-for-telegram-all-those.md"
+    },
+    {
+        "title": "reCAPTCHA action mismatch: find and fix the pageAction",
+        "slug": "recaptcha-action-mismatch-find-and-fix-the-pageaction",
+        "author": "Bob",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 11:14:49 +0000",
+        "description": "The solver returns a token, the site takes it, and the request still fails with a generic please try again. On reCAPTCHA v3 the usual cause is an action mi...",
+        "keywords": "action, you, login, execute, token, site, api, request",
+        "generated": "2026-10-22T11:30:26.383945",
+        "file": "recaptcha-action-mismatch-find-and-fix-the-pageaction.md"
     },
     {
         "title": "How to Let an AI Agent Pay for API Usage Without a Runaway Bill (2026)",
@@ -105719,6 +105928,17 @@
         "keywords": "not, does, binquery, demo, quality, what, footage, venv",
         "generated": "2026-08-25T12:56:12.655430",
         "file": "building-a-local-video-search-cli-with-ffmpeg-and-openclip.md"
+    },
+    {
+        "title": "Hallstatt vs Salzburg: Which Is Better for a First Trip?",
+        "slug": "hallstatt-vs-salzburg-which-is-better-for-a-first-trip",
+        "author": "zentrevo",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 11:15:03 +0000",
+        "description": "Planning your first trip to Austria? Two destinations that deserve a place on your travel list are Hallstatt and Salzburg. Both offer beautiful scenery, char...",
+        "keywords": "hallstatt, salzburg, you, your, explore, travel, its, can",
+        "generated": "2026-10-22T11:30:26.388182",
+        "file": "hallstatt-vs-salzburg-which-is-better-for-a-first-trip.md"
     },
     {
         "title": "XTK: A Symbolic Expression Toolkit for Term Rewriting",
