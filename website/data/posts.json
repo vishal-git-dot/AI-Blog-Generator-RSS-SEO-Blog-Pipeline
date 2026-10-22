@@ -825,6 +825,17 @@
         "file": "how-to-use-anyword-for-blog-post-outlines-in-2026.md"
     },
     {
+        "title": "Your AI Agent Probably Belongs in the Data Pipeline",
+        "slug": "your-ai-agent-probably-belongs-in-the-data-pipeline",
+        "author": "elliot hutchins",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 21:15:07 +0000",
+        "description": "There's a question I keep coming back to with AI and data engineering: Do we move the data to the agent, or move the agent to where the data already lives? B...",
+        "keywords": "agent, data, you, agents, where, already, there, maybe",
+        "generated": "2026-10-22T21:22:57.096370",
+        "file": "your-ai-agent-probably-belongs-in-the-data-pipeline.md"
+    },
+    {
         "title": "Avatar Uploads Without Versioning: A Rollback Policy for Object Storage",
         "slug": "avatar-uploads-without-versioning-a-rollback-policy-for-object-storage",
         "author": "NevilleChristensen2637",
@@ -1461,6 +1472,17 @@
         "keywords": "you, agents, herdr, can, agent, your, running, like",
         "generated": "2026-08-16T18:35:30.117339",
         "file": "herding-ai-agents-a-weekend-with-herdr-tmux-and-remote-fleets.md"
+    },
+    {
+        "title": "Show HN: UI micro interactions prompts for AI",
+        "slug": "show-hn-ui-micro-interactions-prompts-for-ai",
+        "author": "elwingo1",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 18:32:57 +0000",
+        "description": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 53 # Comments: 22",
+        "keywords": "micro, interactions, url, https, comments, show, prompts, article",
+        "generated": "2026-10-22T21:22:57.089371",
+        "file": "show-hn-ui-micro-interactions-prompts-for-ai.md"
     },
     {
         "title": "Perspective API alternative: how to migrate before the Dec 31 shutdown (with code)",
@@ -7950,6 +7972,17 @@
         "keywords": "you, hello, everyone, coding, what, something, new, just",
         "generated": "2026-08-22T18:37:08.475269",
         "file": "hello-everyone.md"
+    },
+    {
+        "title": "Diagrid's Goose Announcement Is a Kubernetes Story. flisk.sh Is Not.",
+        "slug": "diagrids-goose-announcement-is-a-kubernetes-story-flisksh-is-not",
+        "author": "flisk",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 21:19:38 +0000",
+        "description": "Diagrid announced a Catalyst integration for Goose on 22 October 2026. A Goose recipe can commit each step before the next one starts: every LLM call, extens...",
+        "keywords": "flisk, you, goose, not, catalyst, recipe, diagrid, run",
+        "generated": "2026-10-22T21:22:57.095421",
+        "file": "diagrids-goose-announcement-is-a-kubernetes-story-flisksh-is-not.md"
     },
     {
         "title": "How to Build an AI-Powered Web Article Summarizer with Python 🐍",
@@ -15905,6 +15938,17 @@
         "file": "n8n-http-request-node-how-to-call-any-api-free-workflow-json.md"
     },
     {
+        "title": "I Built an App That Answers From Your Own Documents, With the Source",
+        "slug": "i-built-an-app-that-answers-from-your-own-documents-with-the-source",
+        "author": "Jesse Gamble",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 21:11:32 +0000",
+        "description": "I built Xyterna, and this is a 98-second look at it with the real app. The idea is simple: you add receipts, bills, warranties and documents as they come in,...",
+        "keywords": "you, documents, xyterna, built, app, your, source, bills",
+        "generated": "2026-10-22T21:22:57.092002",
+        "file": "i-built-an-app-that-answers-from-your-own-documents-with-the-source.md"
+    },
+    {
         "title": "Security Copilot in Intune Implementation | Policy Analysis, Device Troubleshooting and Endpoint Decisions | R.A.H.S.I. Framework™",
         "slug": "security-copilot-in-intune-implementation-policy-analysis-device-troubleshooting-and-endpoint-decisions-rahsi-framework",
         "author": "Aakash Rahsi",
@@ -22613,6 +22657,17 @@
         "file": "building-better-front-end-code-with-modern-web-guidance.md"
     },
     {
+        "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+        "slug": "show-hn-build-a-world-on-your-phone-explore-it-in-xr-on-vision-pro-and-quest",
+        "author": "suejunghuh0",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 18:39:39 +0000",
+        "description": "Article URL: https://3d.camilleworld.com/play/ Comments URL: https://news.ycombinator.com/item?id=50199349 Points: 11 # Comments: 2",
+        "keywords": "url, https, com, comments, show, build, world, your",
+        "generated": "2026-10-22T21:22:57.089253",
+        "file": "show-hn-build-a-world-on-your-phone-explore-it-in-xr-on-vision-pro-and-quest.md"
+    },
+    {
         "title": "They had no concept of a duty of care to their users.",
         "slug": "they-had-no-concept-of-a-duty-of-care-to-their-users",
         "author": "jandeboevrie",
@@ -24261,6 +24316,17 @@
         "keywords": "gemini, waymo, not, rider, information, conversational, cabin, driving",
         "generated": "2026-08-28T22:02:34.848284",
         "file": "gemini-in-waymo-brings-a-rider-facing-in-car-assistant-to-ojai-robotaxis.md"
+    },
+    {
+        "title": "Two Renames, One Laptop: Goose's New Home and the flisk.sh Cutover",
+        "slug": "two-renames-one-laptop-gooses-new-home-and-the-flisksh-cutover",
+        "author": "flisk",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 21:20:11 +0000",
+        "description": "Two projects renamed their front door in the same year, and an agent will follow the old URL of both. Goose's announcement is public and finished. Flisk's is...",
+        "keywords": "flisk, goose, not, you, docs, tdk, aaif, still",
+        "generated": "2026-10-22T21:22:57.095086",
+        "file": "two-renames-one-laptop-gooses-new-home-and-the-flisksh-cutover.md"
     },
     {
         "title": "[pt-BR] Desvendando Iteradores e Closures em Rust: A Potência Funcional para Pythonistas",
@@ -38308,6 +38374,17 @@
         "file": "rag-context-compression-headroom-cuts-retrieval-token-costs-by-57-without-accuracy-loss.md"
     },
     {
+        "title": "Today's AAIF Announcement Does Not Add Goose to flisk.sh",
+        "slug": "todays-aaif-announcement-does-not-add-goose-to-flisksh",
+        "author": "flisk",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 21:19:24 +0000",
+        "description": "On 22 October 2026 the Agentic AI Foundation announced four new hosted projects: Agent Skills from Anthropic, Open Responses from OpenAI, OpenEnv from Huggin...",
+        "keywords": "goose, flisk, agent, not, aaif, you, one, skills",
+        "generated": "2026-10-22T21:22:57.095827",
+        "file": "todays-aaif-announcement-does-not-add-goose-to-flisksh.md"
+    },
+    {
         "title": "Python Data Types Explained With Practical Examples",
         "slug": "python-data-types-explained-with-practical-examples",
         "author": "Kailas Warade",
@@ -42382,6 +42459,17 @@
         "file": "build-the-community-not-the-product-making-a-meetup-into-a-real-lab.md"
     },
     {
+        "title": "Four .pub files, one run: what REVIEW and FAILED actually look like",
+        "slug": "four-pub-files-one-run-what-review-and-failed-actually-look-like",
+        "author": "alapha888",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 20:51:32 +0000",
+        "description": "Microsoft removed Publisher from Microsoft 365 on October 1, 2026, and support for the perpetual version ended October 13, 2026. The files, of course, are st...",
+        "keywords": "file, pub, not, failed, review, files, what, pubaudit",
+        "generated": "2026-10-22T21:22:57.091039",
+        "file": "four-pub-files-one-run-what-review-and-failed-actually-look-like.md"
+    },
+    {
         "title": "Buy Verified Binance Account",
         "slug": "buy-verified-binance-account",
         "author": "Buy Old Gmail Accounts",
@@ -43447,6 +43535,17 @@
         "keywords": "memory, cgroup, cache, page, parte, com, que, max",
         "generated": "2026-08-21T01:40:10.054525",
         "file": "kernel-linux-para-desenvolvedores-backend-gerenciamento-de-memria-parte-viii.md"
+    },
+    {
+        "title": "PHP2Shell (CVE-2026-109618, CVE-2026-109619): how to check and patch your PHP version",
+        "slug": "php2shell-cve-2026-109618-cve-2026-109619-how-to-check-and-patch-your-php-version",
+        "author": "Reza Pratama",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 20:58:16 +0000",
+        "description": "On 21 Oct 2026 the PHP project shipped fixes for two critical vulnerabilities in the PHP engine, known together as PHP2Shell ( php.net ): CVE-2026-109618 , r...",
+        "keywords": "php, your, version, check, site, says, you, cve",
+        "generated": "2026-10-22T21:22:57.094012",
+        "file": "php2shell-cve-2026-109618-cve-2026-109619-how-to-check-and-patch-your-php-version.md"
     },
     {
         "title": "From Claude Artifact to a live URL: three paths that actually work",
@@ -47097,6 +47196,17 @@
         "keywords": "path, env, same, one, not, credential, bug, fix",
         "generated": "2026-08-09T13:01:35.324806",
         "file": "my-mcp-servers-two-credential-checks-were-flagged-missing-five-days-ago-nobody-fixed-them.md"
+    },
+    {
+        "title": "slothqueue: a job queue that waits until your machine can afford it",
+        "slug": "slothqueue-a-job-queue-that-waits-until-your-machine-can-afford-it",
+        "author": "Inner Ozma",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 20:58:27 +0000",
+        "description": "I build software on a machine that is almost always busy. Not busy with my work — with everyone else's. While I was writing a small job queue this week, the ...",
+        "keywords": "job, machine, one, run, slothqueue, not, load, priority",
+        "generated": "2026-10-22T21:22:57.090585",
+        "file": "slothqueue-a-job-queue-that-waits-until-your-machine-can-afford-it.md"
     },
     {
         "title": "Scarf has moved away from Haskell",
@@ -55376,6 +55486,17 @@
         "file": "how-to-scrape-product-prices-stock-and-gtin-from-any-online-store.md"
     },
     {
+        "title": "Stop Guessing Camera Blind Spots on 2D PDFs: Computing EN 62676-4 DORI Cones & 60GHz Fresnel Zones in 3D KML",
+        "slug": "stop-guessing-camera-blind-spots-on-2d-pdfs-computing-en-62676-4-dori-cones-60ghz-fresnel-zones-in-3d-kml",
+        "author": "Andrew Jennings",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 21:14:39 +0000",
+        "description": "Most physical security integrators still design multi-acre camera and wireless deployments by drawing flat 2D circles on a PDF site map. Then installation da...",
+        "keywords": "text, camera, cdot, fresnel, kml, recognition, pixel, ariawave",
+        "generated": "2026-10-22T21:22:57.090054",
+        "file": "stop-guessing-camera-blind-spots-on-2d-pdfs-computing-en-62676-4-dori-cones-60ghz-fresnel-zones-in-3d-kml.md"
+    },
+    {
         "title": "Claude Sonnet 5",
         "slug": "claude-sonnet-5",
         "author": "marinesebastian",
@@ -57092,6 +57213,17 @@
         "file": "494-cycle.md"
     },
     {
+        "title": "I expected PyPI's long tail to have messier version metadata. A full-ecosystem census proved me wrong.",
+        "slug": "i-expected-pypis-long-tail-to-have-messier-version-metadata-a-full-ecosystem-census-proved-me-wrong",
+        "author": "munimv2",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 21:16:17 +0000",
+        "description": "Work by Munim, Inc., produced with AI. I'm MV2 of Munim, Inc. This is open discovery work, published honestly — including the two predictions below that turn...",
+        "keywords": "tail, head, python, requires, projects, long, minor, pypi",
+        "generated": "2026-10-22T21:22:57.089802",
+        "file": "i-expected-pypis-long-tail-to-have-messier-version-metadata-a-full-ecosystem-census-proved-me-wrong.md"
+    },
+    {
         "title": "What Is Voice Cloning: One Minute of Audio, $112,000 Fine",
         "slug": "what-is-voice-cloning-one-minute-of-audio-112000-fine",
         "author": "CaraComp",
@@ -57101,6 +57233,17 @@
         "keywords": "audio, verification, identity, reference, training, synthesis, embeddings, multi",
         "generated": "2026-09-13T20:34:31.561748",
         "file": "what-is-voice-cloning-one-minute-of-audio-112000-fine.md"
+    },
+    {
+        "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+        "slug": "hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool",
+        "author": "maxilevi",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 18:44:36 +0000",
+        "description": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 62 # Comments: 15",
+        "keywords": "hedra, url, https, com, comments, open, world, game",
+        "generated": "2026-10-22T21:22:57.089128",
+        "file": "hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool.md"
     },
     {
         "title": "Show HN: Tone Generator",
@@ -59400,6 +59543,17 @@
         "keywords": "biznode, https, biz, business, your, operator, smartpdf, runs",
         "generated": "2026-09-19T15:42:01.047640",
         "file": "biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-business-operator-that-works-247.md"
+    },
+    {
+        "title": "Env File Validator: Free Online .env File Checker — How-To Guide",
+        "slug": "env-file-validator-free-online-env-file-checker-how-to-guide",
+        "author": "Layoff Atlas",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 21:08:46 +0000",
+        "description": "Env File Validator: Free Online.env File Checker — How-To Guide A.env file is one of the smallest files in a project and one of the most dangerous when it's ...",
+        "keywords": "env, your, file, validator, can, copy, download, input",
+        "generated": "2026-10-22T21:22:57.092288",
+        "file": "env-file-validator-free-online-env-file-checker-how-to-guide.md"
     },
     {
         "title": "I Got 28 TPS Out of Free Kaggle GPUs. Here's What It Took.",
@@ -83501,6 +83655,17 @@
         "file": "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others.md"
     },
     {
+        "title": "Self-Hosted Cloud Object Storage for Marketplace App Data Backup Retention",
+        "slug": "self-hosted-cloud-object-storage-for-marketplace-app-data-backup-retention",
+        "author": "zanesterling7589",
+        "source": "devto_python",
+        "published": "Thu, 22 Oct 2026 20:51:12 +0000",
+        "description": "Short answer: for a beginner marketplace system retaining signed documents, put the backup in a managed object-storage bucket unless you already operate redu...",
+        "keywords": "storage, restore, can, recovery, deletion, one, not, document",
+        "generated": "2026-10-22T21:22:57.091805",
+        "file": "self-hosted-cloud-object-storage-for-marketplace-app-data-backup-retention.md"
+    },
+    {
         "title": "How to Build a Powerful Rug Checker in 5 Steps for Solana and EVM",
         "slug": "how-to-build-a-powerful-rug-checker-in-5-steps-for-solana-and-evm",
         "author": "moiapi",
@@ -85382,6 +85547,17 @@
         "file": "why-every-computer-vision-team-ends-up-rewriting-the-same-video-clip-pipeline.md"
     },
     {
+        "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+        "slug": "a-complete-bypass-of-emudhras-1fa-otp-login-system",
+        "author": "tensegrist",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 19:14:01 +0000",
+        "description": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 112 # Comments: 29",
+        "keywords": "url, https, comments, complete, bypass, emudhra, otp, login",
+        "generated": "2026-10-22T21:22:57.088992",
+        "file": "a-complete-bypass-of-emudhras-1fa-otp-login-system.md"
+    },
+    {
         "title": "Solving Adverse Selection in Automated Market Making via Deterministic MCP Tools",
         "slug": "solving-adverse-selection-in-automated-market-making-via-deterministic-mcp-tools",
         "author": "Renato Marinho",
@@ -85490,6 +85666,17 @@
         "keywords": "security, vulnerability, url, https, com, comments, pioneer, rekordbox",
         "generated": "2026-08-10T19:03:47.541612",
         "file": "security-vulnerability-in-pioneer-rekordbox.md"
+    },
+    {
+        "title": "Flutter vs Native App Development for Startups: What Actually Matters?",
+        "slug": "flutter-vs-native-app-development-for-startups-what-actually-matters",
+        "author": "Mister Pulisic",
+        "source": "devto_ai",
+        "published": "Thu, 22 Oct 2026 21:22:09 +0000",
+        "description": "Choosing between Flutter and native development is often presented like a framework debate. It usually is not. For a startup, the more useful question is: Wh...",
+        "keywords": "native, flutter, development, product, platform, not, can, more",
+        "generated": "2026-10-22T21:22:57.094703",
+        "file": "flutter-vs-native-app-development-for-startups-what-actually-matters.md"
     },
     {
         "title": "New Vulnerability 'Rogue Agent' Highlights AI Agent Security Risks in Cloud Platforms",
@@ -89901,6 +90088,17 @@
         "keywords": "private, capture, public, genius, url, https, comments, article",
         "generated": "2026-07-06T04:05:09.364026",
         "file": "the-private-capture-of-public-genius.md"
+    },
+    {
+        "title": "Arc is being sunset on December 22, 2026",
+        "slug": "arc-is-being-sunset-on-december-22-2026",
+        "author": "saharshpruthi",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 20:59:38 +0000",
+        "description": "Article URL: https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes Comments URL: https://news.ycombinator.com/item?id=50200947 Points: 9 #...",
+        "keywords": "arc, url, https, comments, being, sunset, december, article",
+        "generated": "2026-10-22T21:22:57.088807",
+        "file": "arc-is-being-sunset-on-december-22-2026.md"
     },
     {
         "title": "Mojo Language Open Source [2026]: What Python Devs Get Now",
@@ -96471,6 +96669,17 @@
         "file": "bge-reranker-truncates-at-512-tokens-31-of-my-chunks-got-cut.md"
     },
     {
+        "title": "Compress Images Before You Upload: A Faster Website Workflow",
+        "slug": "compress-images-before-you-upload-a-faster-website-workflow",
+        "author": "Jay Barker",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 21:00:00 +0000",
+        "description": "You run Lighthouse on a page you just shipped, and there it is again, right at the top of the report: Properly size images. Underneath, a list of offenders...",
+        "keywords": "images, image, webp, you, width, size, quality, avif",
+        "generated": "2026-10-22T21:22:57.093631",
+        "file": "compress-images-before-you-upload-a-faster-website-workflow.md"
+    },
+    {
         "title": "From Pixels to Predictions: Exploring Computer Vision with Python",
         "slug": "from-pixels-to-predictions-exploring-computer-vision-with-python",
         "author": "Yvette Kazeneza",
@@ -100165,6 +100374,17 @@
         "keywords": "api, you, comment, your, automation, meta, not, app",
         "generated": "2026-10-01T22:31:42.468453",
         "file": "how-instagram-dm-automation-actually-works-a-developers-guide-to-metas-messenger-api.md"
+    },
+    {
+        "title": "How to Set Up Paid Client Calls with TidyCal (One-Time $29 Lifetime Deal)",
+        "slug": "how-to-set-up-paid-client-calls-with-tidycal-one-time-29-lifetime-deal",
+        "author": "Al Amin",
+        "source": "devto_webdev",
+        "published": "Thu, 22 Oct 2026 21:02:31 +0000",
+        "description": "Freelance developers spend a surprising amount of time on things that are not code. Booking discovery calls, chasing payment for a consulting hour, reschedul...",
+        "keywords": "booking, tidycal, one, page, paid, deal, link, can",
+        "generated": "2026-10-22T21:22:57.092760",
+        "file": "how-to-set-up-paid-client-calls-with-tidycal-one-time-29-lifetime-deal.md"
     },
     {
         "title": "Buy Walmart Seller Account | Pre-Approved U.S. Stores",
