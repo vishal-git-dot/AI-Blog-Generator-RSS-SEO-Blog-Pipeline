@@ -880,6 +880,17 @@
         "file": "piggy-i-made-an-ai-plugin-that-writes-8094-less-code.md"
     },
     {
+        "title": "Your Agent Boots. Phoenix Still Doesn’t Know It Exists.",
+        "slug": "your-agent-boots-phoenix-still-doesnt-know-it-exists",
+        "author": "Daniel",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 04:00:02 +0000",
+        "description": "A MatrixOS agent can start, emit a beacon, and do useful work—while Phoenix’s swarm workspace still has no idea it exists. That is not a mysterious boot fail...",
+        "keywords": "agent, phoenix, self, config, panel, its, matrixos, workspace",
+        "generated": "2026-10-23T04:12:22.347152",
+        "file": "your-agent-boots-phoenix-still-doesnt-know-it-exists.md"
+    },
+    {
         "title": "Synthesis is harder than analysis",
         "slug": "synthesis-is-harder-than-analysis",
         "author": "azhenley",
@@ -13122,6 +13133,17 @@
         "file": "track-ai-token-usage-from-your-mac-menu-bar-with-trackr-bar.md"
     },
     {
+        "title": "AI compute is the new oil–and needs a new market",
+        "slug": "ai-compute-is-the-new-oiland-needs-a-new-market",
+        "author": "ijidak",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 23:45:16 +0000",
+        "description": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinat...",
+        "keywords": "new, compute, oil, needs, market, url, https, com",
+        "generated": "2026-10-23T04:12:22.346706",
+        "file": "ai-compute-is-the-new-oiland-needs-a-new-market.md"
+    },
+    {
         "title": "Efficient Prompting with Claud…",
         "slug": "efficient-prompting-with-claud",
         "author": "Norvik Tech",
@@ -14387,6 +14409,17 @@
         "file": "why-my-ai-kept-giving-me-invalid-json-and-how-i-fixed-it.md"
     },
     {
+        "title": "Jank – The native Clojure dialect with seamless C++ interop",
+        "slug": "jank-the-native-clojure-dialect-with-seamless-c-interop",
+        "author": "giancarlostoro",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 23:56:36 +0000",
+        "description": "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 32 # Comments: 1",
+        "keywords": "jank, url, https, comments, native, clojure, dialect, seamless",
+        "generated": "2026-10-23T04:12:22.346582",
+        "file": "jank-the-native-clojure-dialect-with-seamless-c-interop.md"
+    },
+    {
         "title": "Build a Kubernetes Pod Autoscaler with Python",
         "slug": "build-a-kubernetes-pod-autoscaler-with-python",
         "author": "qing",
@@ -15089,6 +15122,17 @@
         "keywords": "data, bipixie, mcp, pypi, our, analytics, will, access",
         "generated": "2026-06-06T04:00:30.106383",
         "file": "bipixie-mcp-added-to-pypi.md"
+    },
+    {
+        "title": "Before You Give an AI Agent a Key: What Supabase MCP Read-Only Really Means, and a Data Inventory Page",
+        "slug": "before-you-give-an-ai-agent-a-key-what-supabase-mcp-read-only-really-means-and-a-data-inventory-page",
+        "author": "Tomo",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 04:05:40 +0000",
+        "description": "You can connect an AI agent straight to your Supabase project through MCP. The connection URL has three knobs that narrow what you hand over, and one of them...",
+        "keywords": "read, not, only, mcp, role, public, what, page",
+        "generated": "2026-10-23T04:12:22.349714",
+        "file": "before-you-give-an-ai-agent-a-key-what-supabase-mcp-read-only-really-means-and-a-data-inventory-page.md"
     },
     {
         "title": "🚨 Is AI the Next Tech Bubble?",
@@ -17256,6 +17300,17 @@
         "keywords": "memory, context, part, engineering, enterprise, layer, prepstack, not",
         "generated": "2026-06-20T19:45:32.621444",
         "file": "context-engineering-for-enterprise-ai-part-2-the-memory-layer-that-makes-agents-useful.md"
+    },
+    {
+        "title": "Building JC SRE NetProbe: A Python CLI for Network Health Checks, DevOps, and SRE",
+        "slug": "building-jc-sre-netprobe-a-python-cli-for-network-health-checks-devops-and-sre",
+        "author": "JacivaldoCarvalho",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 03:40:13 +0000",
+        "description": "Introduction As a Telecommunications Engineer interested in Networking, DevOps, and Site Reliability Engineering (SRE), I've always been fascinated by how di...",
+        "keywords": "sre, netprobe, network, checks, github, python, tcp, com",
+        "generated": "2026-10-23T04:12:22.347461",
+        "file": "building-jc-sre-netprobe-a-python-cli-for-network-health-checks-devops-and-sre.md"
     },
     {
         "title": "【完全無料・サーバーレス】AWS Lambda FastAPI で作る「お出かけホテル検索マップ」の手順",
@@ -21260,6 +21315,17 @@
         "file": "hosted-kpi-dashboard-backend-api-cost-attribution-for-game-batch-ingestion-explained.md"
     },
     {
+        "title": "Verify a company by name in 3 API calls (curl + Python)",
+        "slug": "verify-a-company-by-name-in-3-api-calls-curl-python",
+        "author": "Data Galactica",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 03:27:14 +0000",
+        "description": "Sunny Mittal works on marketing at Data Galactica. This post compares Data Galactica with other tools using each vendor's public pages as of the publish date...",
+        "keywords": "company, name, api, infosys, galactica, call, data, key",
+        "generated": "2026-10-23T04:12:22.347731",
+        "file": "verify-a-company-by-name-in-3-api-calls-curl-python.md"
+    },
+    {
         "title": "Austerity Breeds Financial Protectionism",
         "slug": "austerity-breeds-financial-protectionism",
         "author": "kome",
@@ -25051,6 +25117,17 @@
         "keywords": "slovakia, finds, russian, backdoor, traffic, speed, cameras, url",
         "generated": "2026-08-24T18:48:28.648972",
         "file": "slovakia-finds-russian-backdoor-in-traffic-speed-cameras.md"
+    },
+    {
+        "title": "Docker is weird",
+        "slug": "docker-is-weird",
+        "author": "psxuaw",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 23:45:56 +0000",
+        "description": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 214 # Comments: 114",
+        "keywords": "docker, weird, url, https, comments, article, codeandcake, dev",
+        "generated": "2026-10-23T04:12:22.346645",
+        "file": "docker-is-weird.md"
     },
     {
         "title": "BizNode Basic ($200) vs Pro ($499): both run on your hardware with zero recurring costs. One-time purchase, lifetime ownership",
@@ -28892,6 +28969,17 @@
         "file": "how-to-make-money-with-lovable-5-practical-app-creator-business-models.md"
     },
     {
+        "title": "Turning a messy payments export into a 2026 1099 vendor worksheet (without silently wrong totals)",
+        "slug": "turning-a-messy-payments-export-into-a-2026-1099-vendor-worksheet-without-silently-wrong-totals",
+        "author": "Peter (The Trillium Company)",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 03:22:08 +0000",
+        "description": "For 2026 payments, the Form 1099-NEC reporting threshold goes from USD 600 to USD 2,000 (1099-MISC thresholds still vary by payment type, and backup withhold...",
+        "keywords": "name, vendor, cells, review, total, none, amt, not",
+        "generated": "2026-10-23T04:12:22.347949",
+        "file": "turning-a-messy-payments-export-into-a-2026-1099-vendor-worksheet-without-silently-wrong-totals.md"
+    },
+    {
         "title": "Learn AI Sandbox Safety With a Tiny Capability Model",
         "slug": "learn-ai-sandbox-safety-with-a-tiny-capability-model",
         "author": "Alex Chen",
@@ -31915,6 +32003,17 @@
         "keywords": "our, also, will, have, has, but, not, what",
         "generated": "2026-06-09T15:18:05.200983",
         "file": "agentic-ai-are-we-giving-it-too-much-of-our-agency.md"
+    },
+    {
+        "title": "Mapping the Northern Sky",
+        "slug": "mapping-the-northern-sky",
+        "author": "tmseidman",
+        "source": "hackernews",
+        "published": "Thu, 22 Oct 2026 23:56:39 +0000",
+        "description": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ Comments URL: https://news.ycombinator.com/item?id=5020276...",
+        "keywords": "northern, url, https, com, comments, mapping, sky, article",
+        "generated": "2026-10-23T04:12:22.346509",
+        "file": "mapping-the-northern-sky.md"
     },
     {
         "title": "Fundamentals of Wireless Communication",
@@ -45821,6 +45920,17 @@
         "keywords": "calling, quits, serverfault, url, https, comments, article, net",
         "generated": "2026-10-07T05:20:33.230596",
         "file": "calling-it-quits-on-serverfault.md"
+    },
+    {
+        "title": "Why Does a Confident AI Answer Feel More Trustworthy?",
+        "slug": "why-does-a-confident-ai-answer-feel-more-trustworthy",
+        "author": "Surya S S",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+        "description": "Imagine asking Claude a question you don't know the answer to. It responds immediately. The explanation is clear. The reasoning sounds logical. There is no h...",
+        "keywords": "answer, more, can, you, what, confident, but, would",
+        "generated": "2026-10-23T04:12:22.350877",
+        "file": "why-does-a-confident-ai-answer-feel-more-trustworthy.md"
     },
     {
         "title": "India VIX Mastery: How to Use Fear as a Trading Signal",
@@ -66506,6 +66616,17 @@
         "file": "abstein-island-global-leaders-live-red-room-orgy-torture-mega-dump-dark-web.md"
     },
     {
+        "title": "I'm building Mocxam: a white-label mock test platform for coaching institutes",
+        "slug": "im-building-mocxam-a-white-label-mock-test-platform-for-coaching-institutes",
+        "author": "Arun",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 04:05:18 +0000",
+        "description": "At Ceptor Labs, we build software for problems we see up close. Today we're introducing Mocxam , a platform that lets coaching institutes launch their own br...",
+        "keywords": "institute, mocxam, mock, test, own, students, coaching, institutes",
+        "generated": "2026-10-23T04:12:22.348835",
+        "file": "im-building-mocxam-a-white-label-mock-test-platform-for-coaching-institutes.md"
+    },
+    {
         "title": "How to Get Bonus Tokens for Muse AI (Redeem Code Inside)",
         "slug": "how-to-get-bonus-tokens-for-muse-ai-redeem-code-inside",
         "author": "Shamaz saeed",
@@ -66515,6 +66636,17 @@
         "keywords": "you, your, tokens, code, bonus, muse, redeem, use",
         "generated": "2026-09-24T11:27:16.263100",
         "file": "how-to-get-bonus-tokens-for-muse-ai-redeem-code-inside.md"
+    },
+    {
+        "title": "The foolishness of natural language programming (1978)",
+        "slug": "the-foolishness-of-natural-language-programming-1978",
+        "author": "xiaoyu2006",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+        "description": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 64 # Comme...",
+        "keywords": "url, https, comments, foolishness, natural, language, programming, article",
+        "generated": "2026-10-23T04:12:22.346372",
+        "file": "the-foolishness-of-natural-language-programming-1978.md"
     },
     {
         "title": "Watch AI materials-science and bioscience abilities closely",
@@ -76945,6 +77077,17 @@
         "file": "aipreneur-we-need-a-new-language-for-the-age-of-ai.md"
     },
     {
+        "title": "Vibe-Trading Hit 36K Stars in Six Months. I Read the Repo So You Don't Have To.",
+        "slug": "vibe-trading-hit-36k-stars-in-six-months-i-read-the-repo-so-you-dont-have-to",
+        "author": "Toby Water",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 03:09:25 +0000",
+        "description": "Disclosure: This article was researched and drafted with AI assistance, then reviewed and edited by a human. All figures below are taken from the project's p...",
+        "keywords": "trading, you, agent, research, vibe, repo, project, data",
+        "generated": "2026-10-23T04:12:22.348258",
+        "file": "vibe-trading-hit-36k-stars-in-six-months-i-read-the-repo-so-you-dont-have-to.md"
+    },
+    {
         "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
         "slug": "500k-facial-scans-at-uk-stations-yield-no-arrests-1-false-positive",
         "author": "ilamont",
@@ -81334,6 +81477,17 @@
         "file": "how-to-finance-elective-procedures-with-bitcoin-collateral-in-2026.md"
     },
     {
+        "title": "ByBet Casino: A Closer Look at Its Mobile Gaming Experience",
+        "slug": "bybet-casino-a-closer-look-at-its-mobile-gaming-experience",
+        "author": "Kenneth Atienza",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 04:07:06 +0000",
+        "description": "A casino page may look sharp on a phone, yet smooth use needs more than bright tiles . Small screens make menu size, load time, and cash status harder to jud...",
+        "keywords": "not, test, mobile, phone, page, account, site, claims",
+        "generated": "2026-10-23T04:12:22.348530",
+        "file": "bybet-casino-a-closer-look-at-its-mobile-gaming-experience.md"
+    },
+    {
         "title": "From Mission Requirements to a UAV Motor Operating Point: An MN4010 Sizing Workflow",
         "slug": "from-mission-requirements-to-a-uav-motor-operating-point-an-mn4010-sizing-workflow",
         "author": "UNITED UAV Official",
@@ -84898,6 +85052,17 @@
         "file": "i-built-a-100-client-side-image-pdf-toolkit-no-uploads-no-server.md"
     },
     {
+        "title": "Stop Overpaying for On-Prem Xcode Build Machines",
+        "slug": "stop-overpaying-for-on-prem-xcode-build-machines",
+        "author": "Swift Graham",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 04:06:44 +0000",
+        "description": "Maintaining dedicated local Mac hardware or struggling with sluggish shared CI environments can slow down your entire deployment cycle. Moving your build pip...",
+        "keywords": "your, xcode, build, mac, hardware, pipelines, zero, maintenance",
+        "generated": "2026-10-23T04:12:22.348666",
+        "file": "stop-overpaying-for-on-prem-xcode-build-machines.md"
+    },
+    {
         "title": "How I Built a Passive Income System with Python: Complete Guide",
         "slug": "how-i-built-a-passive-income-system-with-python-complete-guide",
         "author": "qing",
@@ -87877,6 +88042,17 @@
         "keywords": "tool, facts, words, rules, name, need, but, your",
         "generated": "2026-06-15T21:11:31.718768",
         "file": "building-your-profit-margin-guardrails-the-ais-business-rules.md"
+    },
+    {
+        "title": "I taught my release checklist to wait for me",
+        "slug": "i-taught-my-release-checklist-to-wait-for-me",
+        "author": "Eidan Rosado",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 04:01:48 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady . What I Built I shipped a CLI release. Homebrew was still instal...",
+        "keywords": "evidence, release, review, not, miilo, workflow, model, gemma",
+        "generated": "2026-10-23T04:12:22.350450",
+        "file": "i-taught-my-release-checklist-to-wait-for-me.md"
     },
     {
         "title": "Number to Words Converter — Spell Out Any Number in English",
@@ -94875,6 +95051,17 @@
         "file": "opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta.md"
     },
     {
+        "title": "Hush: I Hid 10 Emergencies in My Own Notifications. An On-Device Gemma OS Found All 10.",
+        "slug": "hush-i-hid-10-emergencies-in-my-own-notifications-an-on-device-gemma-os-found-all-10",
+        "author": "Rajan Mishra",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 04:03:04 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady What I Built Modern devices bombard us with over 120 notification...",
+        "keywords": "hush, gemma, your, local, notification, temporal, open, every",
+        "generated": "2026-10-23T04:12:22.350063",
+        "file": "hush-i-hid-10-emergencies-in-my-own-notifications-an-on-device-gemma-os-found-all-10.md"
+    },
+    {
         "title": "Claude Design System Prompt",
         "slug": "claude-design-system-prompt",
         "author": "handfuloflight",
@@ -96227,6 +96414,17 @@
         "keywords": "data, minute, time, market, timestamp, historical, bars, database",
         "generated": "2026-07-23T03:24:20.280016",
         "file": "how-to-eliminate-duplicates-missing-minute-bars-when-merging-historical-stock-data-from-market-apis.md"
+    },
+    {
+        "title": "PHP2Shell: the patch still needs an owner",
+        "slug": "php2shell-the-patch-still-needs-an-owner",
+        "author": "Alex",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 04:00:23 +0000",
+        "description": "PHP operators: Apply the current PHP security update , restart or replace affected processes as required, and verify the runtime serving requests. Fixed upst...",
+        "keywords": "php, not, can, whether, would, still, needs, security",
+        "generated": "2026-10-23T04:12:22.350653",
+        "file": "php2shell-the-patch-still-needs-an-owner.md"
     },
     {
         "title": "Using MCP to Integrate Real-Time Telegram Checks into AI Agents",
@@ -104664,6 +104862,17 @@
         "file": "how-to-use-mistral-for-llm-friendly-content-structure-in-2026.md"
     },
     {
+        "title": "무료 지도 및 지오코딩 API 상위 12개",
+        "slug": "api-12",
+        "author": "Rihpig",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 04:03:19 +0000",
+        "description": "지금 12개 공급자에서 무료 지도 API를 받을 수 있지만, “무료”의 의미는 매우 다릅니다. Geoapify는 카드 없이 하루 3,000건의 요청을 제공하고 상업적 사용을 허용합니다. TomTom은 카드 없이 월 20,000건의 지오코딩을 제공합니다. Google Maps는 SK...",
+        "keywords": "apidog, api, maps, google, geoapify, census, mapbox, maptiler",
+        "generated": "2026-10-23T04:12:22.349055",
+        "file": "api-12.md"
+    },
+    {
         "title": "5 Smart LinkedIn Photo Upgrades for Dentists",
         "slug": "5-smart-linkedin-photo-upgrades-for-dentists",
         "author": "zongkai sun",
@@ -105917,6 +106126,17 @@
         "keywords": "model, tool, request, not, agent, models, usage, test",
         "generated": "2026-08-10T07:50:51.254852",
         "file": "openai-compatible-is-not-enough-a-compatibility-checklist-for-coding-agents.md"
+    },
+    {
+        "title": "Half of stack migrations are now written by AI agents. Here's where they're moving apps.",
+        "slug": "half-of-stack-migrations-are-now-written-by-ai-agents-heres-where-theyre-moving-apps",
+        "author": "yunbiao",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 04:00:43 +0000",
+        "description": "Two years ago, half of the products I track sent their emails through SendGrid. But for the ones that launched this year, it droped to 1/8. Resend went the o...",
+        "keywords": "products, agent, half, supabase, launched, not, prs, they",
+        "generated": "2026-10-23T04:12:22.349363",
+        "file": "half-of-stack-migrations-are-now-written-by-ai-agents-heres-where-theyre-moving-apps.md"
     },
     {
         "title": "How to Use Google Search Results as Context for RAG Applications",
