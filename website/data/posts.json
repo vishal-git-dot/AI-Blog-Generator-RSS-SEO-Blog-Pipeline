@@ -286,6 +286,17 @@
         "file": "openai-ya-tiene-listo-su-chip-de-inferencia-se-llama-jalapeo-y-ha-conseguido-algo-inesperado-superar-a-nvidia.md"
     },
     {
+        "title": "Shitter – A Nitter Fork",
+        "slug": "shitter-a-nitter-fork",
+        "author": "eustoria",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 13:02:23 +0000",
+        "description": "Article URL: https://codeberg.org/shitter/shitter Comments URL: https://news.ycombinator.com/item?id=50208343 Points: 132 # Comments: 91",
+        "keywords": "shitter, url, https, comments, nitter, fork, article, codeberg",
+        "generated": "2026-10-23T16:48:37.611426",
+        "file": "shitter-a-nitter-fork.md"
+    },
+    {
         "title": "Memory as AI's Sixth Sense",
         "slug": "memory-as-ais-sixth-sense",
         "author": "HYPHANTA",
@@ -1175,6 +1186,17 @@
         "keywords": "image, downloader, zip, product, excel, you, names, images",
         "generated": "2026-09-01T11:25:28.728229",
         "file": "bulk-image-downloader-from-excel-with-product-name-anti-captcha-auto-zip.md"
+    },
+    {
+        "title": "Advanced Programmatic FHIR Execution in InterSystems IRIS: A Deep Dive into ObjectScript Integration",
+        "slug": "advanced-programmatic-fhir-execution-in-intersystems-iris-a-deep-dive-into-objectscript-integration",
+        "author": "InterSystems Developer",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 16:34:25 +0000",
+        "description": "TL;DR: InterSystems IRIS for Health lets developers perform FHIR CRUD operations directly from backend ObjectScript routines without relying on an HTTP REST ...",
+        "keywords": "you, fhirserver, fhir, resource, patient, query, set, iris",
+        "generated": "2026-10-23T16:48:37.617124",
+        "file": "advanced-programmatic-fhir-execution-in-intersystems-iris-a-deep-dive-into-objectscript-integration.md"
     },
     {
         "title": "Untyped Python? Let Antigravity /goal Do the Cleanup",
@@ -11175,6 +11197,17 @@
         "file": "a-3d-voxel-game-engine-written-in-apl.md"
     },
     {
+        "title": "The 3 Best Websites for Luxy Account Verification and Profile Security",
+        "slug": "the-3-best-websites-for-luxy-account-verification-and-profile-security",
+        "author": "Kalindi Houston",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 16:20:52 +0000",
+        "description": "The 3 Best Websites for Luxy Account Verification and Profile Security Introduction Meta Description: Explore three reliable resources for Luxy account verif...",
+        "keywords": "account, information, verification, security, luxy, profile, platform, can",
+        "generated": "2026-10-23T16:48:37.612857",
+        "file": "the-3-best-websites-for-luxy-account-verification-and-profile-security.md"
+    },
+    {
         "title": "Best Dubai Interior Design Finishing Company — أفضل شركة ديكور وتشطيبات في دبي: دليل شامل للمشاريع السكنية والتجارية",
         "slug": "best-dubai-interior-design-finishing-company",
         "author": "ismail",
@@ -15848,6 +15881,17 @@
         "keywords": "sentiment, world, you, pulsebit, your, cup, themes, geographic",
         "generated": "2026-07-19T19:13:25.016640",
         "file": "your-pipeline-is-266h-behind-catching-world-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "Playwright و اسکرپ سایت‌های جاوااسکریپتی",
+        "slug": "playwright",
+        "author": "Mohammad Zanjani",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 16:37:59 +0000",
+        "description": "اگر می‌پرسید اسکرپ با Playwright یعنی چه، پاسخ این است: وقتی دادهٔ عمومی فقط بعد از اجرای جاوااسکریپت در مرورگر دیده می‌شود، یک درخواست HTTP خام HTML خالی یا...",
+        "keywords": "playwright, html, api, url, dom, scrapy, http, selenium",
+        "generated": "2026-10-23T16:48:37.614265",
+        "file": "playwright.md"
     },
     {
         "title": "How an AI Agent Taught Me What Passing Tests Actually Means",
@@ -23911,6 +23955,17 @@
         "file": "how-i-structure-a-nextjs-nestjs-project-for-ai-coding-agents.md"
     },
     {
+        "title": "How to Scrape Gumtree UK Car and Product Listings with Python",
+        "slug": "how-to-scrape-gumtree-uk-car-and-product-listings-with-python",
+        "author": "ReventaData",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 16:28:22 +0000",
+        "description": "By the end of this tutorial, you will have a working Python script that extracts Gumtree UK classified listings into structured JSON: listing title, asking p...",
+        "keywords": "gumtree, run, search, actor, apify, price, dataset, listings",
+        "generated": "2026-10-23T16:48:37.612037",
+        "file": "how-to-scrape-gumtree-uk-car-and-product-listings-with-python.md"
+    },
+    {
         "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
         "slug": "vibe-coding-production-kit-a-production-workflow-for-ai-coding-agents",
         "author": "Moeeryani",
@@ -26371,6 +26426,17 @@
         "keywords": "network, your, you, python, scapy, scanner, arp, packet",
         "generated": "2026-08-28T10:48:56.455686",
         "file": "build-a-network-scanner-with-python-and-scapy.md"
+    },
+    {
+        "title": "Today, we hacked what we'd set out to hack: the iPhone.",
+        "slug": "today-we-hacked-what-wed-set-out-to-hack-the-iphone",
+        "author": "pavel_lishin",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 16:21:50 +0000",
+        "description": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 75 # Comments: 13",
+        "keywords": "iphone, url, https, comments, today, hacked, what, set",
+        "generated": "2026-10-23T16:48:37.610948",
+        "file": "today-we-hacked-what-wed-set-out-to-hack-the-iphone.md"
     },
     {
         "title": "PDF Endpoints for Digital Archiving in 2026 — Balancing Fidelity, Latency, and Retention",
@@ -39188,6 +39254,17 @@
         "file": "openai-shipped-your-voice-stack-at-025min-vapi-went-enterprise-the-infra-layer-abandoned-agencies-in-eleven-days.md"
     },
     {
+        "title": "Pentagon grants DHS permission to test heat ray weapon for use at border",
+        "slug": "pentagon-grants-dhs-permission-to-test-heat-ray-weapon-for-use-at-border",
+        "author": "bushwart",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 14:52:47 +0000",
+        "description": "Article URL: https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon Comments URL: https://news.ycombinator.com/item?id=50210075 Points: 29 # Co...",
+        "keywords": "pentagon, dhs, heat, ray, weapon, url, https, com",
+        "generated": "2026-10-23T16:48:37.611117",
+        "file": "pentagon-grants-dhs-permission-to-test-heat-ray-weapon-for-use-at-border.md"
+    },
+    {
         "title": "What would make you pay for AI cost savings? A 30-line script that shows where your agent tokens go",
         "slug": "what-would-make-you-pay-for-ai-cost-savings-a-30-line-script-that-shows-where-your-agent-tokens-go",
         "author": "rene",
@@ -43557,6 +43634,17 @@
         "keywords": "suspecting, court, using, man, injected, prompts, filings, try",
         "generated": "2026-08-15T12:47:07.948041",
         "file": "suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case.md"
+    },
+    {
+        "title": "Daytona surpasses $1 billion valuation",
+        "slug": "daytona-surpasses-1-billion-valuation",
+        "author": "Hacks.gr",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 16:37:22 +0000",
+        "description": "Daytona has raised a $60 million Series B round led by FirstMark Growth, pushing its valuation to $1 billion. The three-year-old startup provides isolated de...",
+        "keywords": "daytona, million, round, led, its, funding, firstmark, running",
+        "generated": "2026-10-23T16:48:37.615082",
+        "file": "daytona-surpasses-1-billion-valuation.md"
     },
     {
         "title": "Building Production-Ready AI Voice SDK Integrations in Python, Browser, and Mobile",
@@ -48666,6 +48754,17 @@
         "keywords": "auth, nuxt, supabase, time, brilliant, idea, through, your",
         "generated": "2026-06-28T19:38:17.339004",
         "file": "i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase.md"
+    },
+    {
+        "title": "Make Unresolved Decisions Visible Before a Specification Reaches Engineering",
+        "slug": "make-unresolved-decisions-visible-before-a-specification-reaches-engineering",
+        "author": "Anuj Sadani",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 16:18:36 +0000",
+        "description": "A specification can look complete while containing two limits for the same field and an unanswered question about who may approve an action. A reviewer might...",
+        "keywords": "findings, not, decision, specification, review, spec, check, decisions",
+        "generated": "2026-10-23T16:48:37.613132",
+        "file": "make-unresolved-decisions-visible-before-a-specification-reaches-engineering.md"
     },
     {
         "title": "Geekbench 7",
@@ -54738,6 +54837,17 @@
         "file": "mcp-explained-simply-what-it-is-why-it-matters-and-how-to-build-your-first-server.md"
     },
     {
+        "title": "Add persistent memory to a LlamaIndex agent (Memory, memory blocks and a retriever)",
+        "slug": "add-persistent-memory-to-a-llamaindex-agent-memory-memory-blocks-and-a-retriever",
+        "author": "Mohammed Rafay",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 16:13:12 +0000",
+        "description": "Disclosure: I'm Mohammed, founder of MemorySync. I drafted this article with AI assistance and reviewed it for accuracy against the official MemorySync and L...",
+        "keywords": "memory, llamaindex, user, memorysync, agent, blocks, guide, import",
+        "generated": "2026-10-23T16:48:37.613652",
+        "file": "add-persistent-memory-to-a-llamaindex-agent-memory-memory-blocks-and-a-retriever.md"
+    },
+    {
         "title": "How to Set Up Gemma 4 on Windows, Linux, and Mac",
         "slug": "how-to-set-up-gemma-4-on-windows-linux-and-mac",
         "author": "Agbo, Daniel Onuoha",
@@ -58588,6 +58698,17 @@
         "file": "batch-text-analysis-with-an-llm-cli-500-reviews-one-for-loop-a-few-cents.md"
     },
     {
+        "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+        "slug": "investor-owned-utilities-charge-23-more-for-electricity-than-public-providers",
+        "author": "hubraumhugo",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 13:41:10 +0000",
+        "description": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities Comments URL: https://news.ycombinator.com/item?id=50208837 Points: 440 # ...",
+        "keywords": "investor, owned, utilities, url, https, com, comments, charge",
+        "generated": "2026-10-23T16:48:37.611346",
+        "file": "investor-owned-utilities-charge-23-more-for-electricity-than-public-providers.md"
+    },
+    {
         "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
         "slug": "running-kimi-k3-on-mi355x-at-better-performance-per-dollar-than-b300",
         "author": "ilreb",
@@ -59642,6 +59763,17 @@
         "keywords": "perplexity, chatgpt, you, research, free, use, both, web",
         "generated": "2026-07-29T03:14:29.812760",
         "file": "chatgpt-vs-perplexity-which-ai-tool-wins-in-2026.md"
+    },
+    {
+        "title": "Testing an AI agent that acts in the real world on unstated conditions: what runs on DeepSeek showed",
+        "slug": "testing-an-ai-agent-that-acts-in-the-real-world-on-unstated-conditions-what-runs-on-deepseek-showed",
+        "author": "Oleg Matzkanyuk",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 16:36:19 +0000",
+        "description": "What 3360 trials showed and what the agent told the user along the way We previously described a methodology for building a testing system for AI agents that...",
+        "keywords": "agent, not, action, condition, what, out, request, has",
+        "generated": "2026-10-23T16:48:37.616572",
+        "file": "testing-an-ai-agent-that-acts-in-the-real-world-on-unstated-conditions-what-runs-on-deepseek-showed.md"
     },
     {
         "title": "No PASS, No PR: A Small Python Tool for Safe API Drift Repair",
@@ -63239,6 +63371,17 @@
         "file": "show-hn-hntui-a-tui-for-hacker-news.md"
     },
     {
+        "title": "Reviewing AI rewrites without losing technical meaning",
+        "slug": "reviewing-ai-rewrites-without-losing-technical-meaning",
+        "author": "zhenyu xu",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 16:34:18 +0000",
+        "description": "A smoother sentence can still be a less accurate sentence. When editing a README, release note, support response, or incident summary with AI, review the mea...",
+        "keywords": "not, what, rewrite, version, review, more, keep, without",
+        "generated": "2026-10-23T16:48:37.617339",
+        "file": "reviewing-ai-rewrites-without-losing-technical-meaning.md"
+    },
+    {
         "title": "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
         "slug": "doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat",
         "author": "petethomas",
@@ -64645,6 +64788,17 @@
         "keywords": "month, you, free, one, openai, code, api, your",
         "generated": "2026-06-11T16:13:08.005552",
         "file": "how-i-built-an-ai-side-hustle-that-earns-50kmonth-as-a-dev.md"
+    },
+    {
+        "title": "Calling open models inside a TEE with the OpenAI Python SDK",
+        "slug": "calling-open-models-inside-a-tee-with-the-openai-python-sdk",
+        "author": "VoltageGPU",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 16:16:28 +0000",
+        "description": "If you already call OpenAI from Python, switching to an open model that runs in a trusted execution environment (TEE) is two lines: the base URL and the key....",
+        "keywords": "tee, you, model, voltagegpu, openai, what, models, does",
+        "generated": "2026-10-23T16:48:37.613309",
+        "file": "calling-open-models-inside-a-tee-with-the-openai-python-sdk.md"
     },
     {
         "title": "Testing a DLL-injection detector without injecting a DLL",
@@ -67100,6 +67254,17 @@
         "file": "trust-travel-and-transparency-the-value-of-verified-airbnb-accounts-localpvashop.md"
     },
     {
+        "title": "The main WebDev conference is back in Amsterdam! 🎉",
+        "slug": "the-main-webdev-conference-is-back-in-amsterdam",
+        "author": "GitNation",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 16:39:05 +0000",
+        "description": "JSNation 2027 🗓 May 21 & 25 📍 Amsterdam & Online 🎤 40+ speakers shaping the nation’s future 🤝 1,500 engineers sharing a common language 🌏 10K+ engineers join...",
+        "keywords": "you, your, code, speakers, engineers, full, next, more",
+        "generated": "2026-10-23T16:48:37.614010",
+        "file": "the-main-webdev-conference-is-back-in-amsterdam.md"
+    },
+    {
         "title": "H2A2H Manifesto",
         "slug": "h2a2h-manifesto",
         "author": "suissAI",
@@ -67681,6 +67846,17 @@
         "keywords": "drug, not, scientific, discovery, can, system, prompt, architecture",
         "generated": "2026-08-02T03:28:39.839452",
         "file": "beyond-prompt-engineering-building-a-cognitive-augmented-ai-architecture-for-drug-discovery.md"
+    },
+    {
+        "title": "A record label told as a science-fiction story",
+        "slug": "a-record-label-told-as-a-science-fiction-story",
+        "author": "Spicanet",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 16:34:12 +0000",
+        "description": "Most label sites are a list of releases with cover art and buy links. That's fine. It's also forgettable. Universal Rift Records is an independent electronic...",
+        "keywords": "story, label, catalogue, world, release, site, you, first",
+        "generated": "2026-10-23T16:48:37.614543",
+        "file": "a-record-label-told-as-a-science-fiction-story.md"
     },
     {
         "title": "Which tasks are actually worth automating? Take the minimum, not the average",
@@ -71311,6 +71487,17 @@
         "keywords": "serverless, you, not, when, latency, spiky, event, traffic",
         "generated": "2026-09-11T16:13:33.442095",
         "file": "serverless-when-it-helps-and-when-it-hurts.md"
+    },
+    {
+        "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+        "slug": "emudhra-ignored-mozilla-root-investigation-deadline-blames-social-media",
+        "author": "IcePenguin",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 14:52:08 +0000",
+        "description": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50210067 Points: 117 # Comments: 46",
+        "keywords": "mozilla, url, https, comments, emudhra, ignored, root, investigation",
+        "generated": "2026-10-23T16:48:37.611256",
+        "file": "emudhra-ignored-mozilla-root-investigation-deadline-blames-social-media.md"
     },
     {
         "title": "39 Platforms to Bridge Ethereum Using Verified Connections",
@@ -93060,6 +93247,17 @@
         "file": "url-encoding-percent-encoding-explained-encodeuricomponent-spaces-and-double-encoding.md"
     },
     {
+        "title": "New challenge: Build a gamer sign-up form",
+        "slug": "new-challenge-build-a-gamer-sign-up-form",
+        "author": "Matt Studdert",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 16:40:33 +0000",
+        "description": "We've launched a new free challenge: a gamer sign-up form. You'll build the sign-up screen for NEONCORE, a competitive-gaming network where players register ...",
+        "keywords": "you, build, password, form, states, your, challenge, when",
+        "generated": "2026-10-23T16:48:37.613859",
+        "file": "new-challenge-build-a-gamer-sign-up-form.md"
+    },
+    {
         "title": "Bugtraq is back",
         "slug": "bugtraq-is-back",
         "author": "bashtoni",
@@ -96160,6 +96358,17 @@
         "keywords": "your, you, flash, model, every, runs, can, prompt",
         "generated": "2026-09-26T20:53:25.483593",
         "file": "i-built-an-async-self-improving-ai-coding-agent-that-never-leaves-my-machine-now-it-runs-in-my-browser-on-my-phone-and-learns-from-its-own-work.md"
+    },
+    {
+        "title": "Leave It: I fine-tuned a 4B model to defer 73 of 731 GitHub issues, then killed its worker with -9",
+        "slug": "leave-it-i-fine-tuned-a-4b-model-to-defer-73-of-731-github-issues-then-killed-its-worker-with-9",
+        "author": "memeshe",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 16:37:18 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady #devchallenge #hf26challenge What I Built Leave It is a morning f...",
+        "keywords": "not, model, one, items, fine, same, fuse, which",
+        "generated": "2026-10-23T16:48:37.615847",
+        "file": "leave-it-i-fine-tuned-a-4b-model-to-defer-73-of-731-github-issues-then-killed-its-worker-with-9.md"
     },
     {
         "title": "Your domain can expire while your uptime monitor stays green",
@@ -105047,6 +105256,17 @@
         "keywords": "anthropic, openai, may, spending, more, than, every, you",
         "generated": "2026-06-07T14:06:36.534075",
         "file": "anthropicopenai-may-be-spending-more-than-1000-for-every-100-you-pay-them.md"
+    },
+    {
+        "title": "From Manual Processes to Software: How Systems Analysis and Design Solve Business Problems",
+        "slug": "from-manual-processes-to-software-how-systems-analysis-and-design-solve-business-problems",
+        "author": "Vincent Tommi",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 16:32:00 +0000",
+        "description": "Imagine a university where students wait in long queues to register for courses, lecturers submit examination marks on paper, and students wait weeks to rece...",
+        "keywords": "system, systems, analysis, university, examination, transcript, could, registration",
+        "generated": "2026-10-23T16:48:37.614931",
+        "file": "from-manual-processes-to-software-how-systems-analysis-and-design-solve-business-problems.md"
     },
     {
         "title": "How to Use Mistral for Llm-Friendly Content Structure in 2026",
