@@ -4,16 +4,16 @@ slug: "the-foolishness-of-natural-language-programming-1978"
 author: "xiaoyu2006"
 source: "hackernews"
 published: "Fri, 23 Oct 2026 00:52:01 +0000"
-description: "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 64 # Comme..."
+description: "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 199 # Comm..."
 keywords: "url, https, comments, foolishness, natural, language, programming, article"
-generated: "2026-10-23T04:12:22.346372"
+generated: "2026-10-23T11:19:44.657088"
 ---
 
 # The foolishness of "natural language programming" (1978)
 
 ## Overview
 
-Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 64 # Comments: 54
+Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 199 # Comments: 114
 
 ## Key Insights
 

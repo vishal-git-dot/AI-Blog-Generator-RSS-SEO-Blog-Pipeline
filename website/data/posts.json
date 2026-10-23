@@ -638,6 +638,17 @@
         "file": "why-apples-heic-format-breaks-legacy-web-uploads-and-how-to-fix-it.md"
     },
     {
+        "title": "Resume Starter Pack: Visual Editing + Automated PDF Releases",
+        "slug": "resume-starter-pack-visual-editing-automated-pdf-releases",
+        "author": "hemupadhyay26",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 11:03:59 +0000",
+        "description": "Resume Starter Pack Resume Starter Pack is an open-source tool for creating and maintaining your resume in a local visual editor. Edit in your browser, track...",
+        "keywords": "resume, pdf, release, your, page, starter, pack, changes",
+        "generated": "2026-10-23T11:19:44.660246",
+        "file": "resume-starter-pack-visual-editing-automated-pdf-releases.md"
+    },
+    {
         "title": "Need a break? Play today's game from The Daily Context.",
         "slug": "need-a-break-play-todays-game-from-the-daily-context",
         "author": "Jess Lee",
@@ -9798,6 +9809,17 @@
         "keywords": "they, you, what, affiliate, people, because, one, month",
         "generated": "2026-06-30T20:05:30.548368",
         "file": "from-server-lurker-to-side-income-how-my-discord-became-my-affiliate-marketing-lab.md"
+    },
+    {
+        "title": "Build an AI tennis scout that shows where every fact came from",
+        "slug": "build-an-ai-tennis-scout-that-shows-where-every-fact-came-from",
+        "author": "PlantCrawl",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 11:08:14 +0000",
+        "description": "A useful tennis scout should be able to answer a follow-up: “Which matches support that statement?” If the answer is another paragraph of confident prose, th...",
+        "keywords": "match, not, get, target, evidence, row, history, flashscore",
+        "generated": "2026-10-23T11:19:44.658394",
+        "file": "build-an-ai-tennis-scout-that-shows-where-every-fact-came-from.md"
     },
     {
         "title": "US police fear Meta smart glasses could be used to secretly record them",
@@ -24998,6 +25020,17 @@
         "file": "import-incident-reconstruction-compare-dashboard-events-with-a-custom-metrics-api.md"
     },
     {
+        "title": "The 6 native categories of the guardrail",
+        "slug": "the-6-native-categories-of-the-guardrail",
+        "author": "Matheus Feijão",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 11:10:00 +0000",
+        "description": "Short answer The six native categories of IBM’s Granite guardrails are: harmful content , privacy , bias and fairness , robustness , transparency , and accou...",
+        "keywords": "ibm, categories, granite, guardrail, guardrails, category, cloud, native",
+        "generated": "2026-10-23T11:19:44.662139",
+        "file": "the-6-native-categories-of-the-guardrail.md"
+    },
+    {
         "title": "Setting up a React Environment",
         "slug": "setting-up-a-react-environment",
         "author": "vidhya murali",
@@ -28714,6 +28747,17 @@
         "keywords": "things, how, wordpress, you, something, when, one, what",
         "generated": "2026-08-11T02:05:22.149275",
         "file": "why-we-moved-away-from-wordpress-so-early.md"
+    },
+    {
+        "title": "I asked a chat-based app builder for a tip calculator and checked the math",
+        "slug": "i-asked-a-chat-based-app-builder-for-a-tip-calculator-and-checked-the-math",
+        "author": "Kai Mercer",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 11:09:54 +0000",
+        "description": "Disclosure: I work on marketing for Hyde, the tool in this post. I wanted to write down what I saw when I tested it, including the part that didn't hold up. ...",
+        "keywords": "tip, one, bill, chat, calculator, what, didn, app",
+        "generated": "2026-10-23T11:19:44.659503",
+        "file": "i-asked-a-chat-based-app-builder-for-a-tip-calculator-and-checked-the-math.md"
     },
     {
         "title": "Veda: The First Agentic Hobby OS - Demo",
@@ -33092,6 +33136,17 @@
         "keywords": "app, mini, you, your, host, build, ide, step",
         "generated": "2026-07-09T03:49:54.085121",
         "file": "your-first-mini-app-in-30-minutes-what-the-developer-experience-actually-looks-like.md"
+    },
+    {
+        "title": "Technobot System – Customized Website & Software Development Solutions",
+        "slug": "technobot-system-customized-website-software-development-solutions",
+        "author": "tech def",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 11:08:08 +0000",
+        "description": "In today’s competitive digital landscape, businesses need customized technology solutions to stay ahead. Technobot System specializes in website development,...",
+        "keywords": "system, development, solutions, technobot, website, software, customized, digital",
+        "generated": "2026-10-23T11:19:44.659931",
+        "file": "technobot-system-customized-website-software-development-solutions.md"
     },
     {
         "title": "Ubunye Engine Part 5: Building With an Agent. The Real Numbers",
@@ -40717,6 +40772,17 @@
         "file": "zenzizenzizenzic.md"
     },
     {
+        "title": "This I Believe (1952)",
+        "slug": "this-i-believe-1952",
+        "author": "ctoth",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 02:19:38 +0000",
+        "description": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 96 # Comments: 36",
+        "keywords": "url, https, comments, believe, article, www, awakin, org",
+        "generated": "2026-10-23T11:19:44.656993",
+        "file": "this-i-believe-1952.md"
+    },
+    {
         "title": "Whisper + Deepgram + Piper: I Parallelized a Voice AI Pipeline and Cut Latency From 1,200ms to 340ms",
         "slug": "whisper-deepgram-piper-i-parallelized-a-voice-ai-pipeline-and-cut-latency-from-1200ms-to-340ms",
         "author": "Ken Imoto",
@@ -43953,6 +44019,17 @@
         "keywords": "abundance, illusion, url, https, carlyle, com, comments, article",
         "generated": "2026-06-10T20:38:15.845963",
         "file": "the-abundance-illusion.md"
+    },
+    {
+        "title": "Exit code 3 means it's the agent's turn: an agent-first CLI for sports film review",
+        "slug": "exit-code-3-means-its-the-agents-turn-an-agent-first-cli-for-sports-film-review",
+        "author": "Marius",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 11:15:19 +0000",
+        "description": "Disclosure: this post was drafted by my coding agent (Claude Code) and posted with my permission; the project itself was built with Claude Code. Every comman...",
+        "keywords": "agent, video, sports, review, coach, run, code, what",
+        "generated": "2026-10-23T11:19:44.657402",
+        "file": "exit-code-3-means-its-the-agents-turn-an-agent-first-cli-for-sports-film-review.md"
     },
     {
         "title": "Claude Cookbook",
@@ -60841,6 +60918,17 @@
         "file": "my-production-pipeline-for-247-level-2-market-data-collection.md"
     },
     {
+        "title": "Autonomous B2B Lead Generation with Python and Model Context Protocol (MCP)",
+        "slug": "autonomous-b2b-lead-generation-with-python-and-model-context-protocol-mcp",
+        "author": "netizen4-bit",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 10:58:27 +0000",
+        "description": "Autonomous B2B Lead Generation with Python and Model Context Protocol (MCP) Finding high-intent B2B distributors, suppliers, and verified contact emails typi...",
+        "keywords": "mcp, leaddirect, lead, autonomous, generation, model, context, protocol",
+        "generated": "2026-10-23T11:19:44.659236",
+        "file": "autonomous-b2b-lead-generation-with-python-and-model-context-protocol-mcp.md"
+    },
+    {
         "title": "Build a Crypto PaymentOps Service for Merchants",
         "slug": "build-a-crypto-paymentops-service-for-merchants",
         "author": "kevin.s",
@@ -66643,9 +66731,9 @@
         "author": "xiaoyu2006",
         "source": "hackernews",
         "published": "Fri, 23 Oct 2026 00:52:01 +0000",
-        "description": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 64 # Comme...",
+        "description": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 199 # Comm...",
         "keywords": "url, https, comments, foolishness, natural, language, programming, article",
-        "generated": "2026-10-23T04:12:22.346372",
+        "generated": "2026-10-23T11:19:44.657088",
         "file": "the-foolishness-of-natural-language-programming-1978.md"
     },
     {
@@ -66933,6 +67021,17 @@
         "keywords": "self, task, agents, def, workers, roborent, await, human",
         "generated": "2026-07-05T19:25:51.384537",
         "file": "task-marketplace-architecture-how-roborent-scales-ai-workers.md"
+    },
+    {
+        "title": "Agents should never hold your API keys. NVIDIA just open-sourced the runtime that enforces it",
+        "slug": "agents-should-never-hold-your-api-keys-nvidia-just-open-sourced-the-runtime-that-enforces-it",
+        "author": "Sam LABBE",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 11:05:26 +0000",
+        "description": "Every AI agent you run today holds your secrets in its process environment: API keys, cloud credentials, tokens. One prompt injection away from exfiltration ...",
+        "keywords": "agent, policy, openshell, you, can, model, your, nvidia",
+        "generated": "2026-10-23T11:19:44.662621",
+        "file": "agents-should-never-hold-your-api-keys-nvidia-just-open-sourced-the-runtime-that-enforces-it.md"
     },
     {
         "title": "How Modern MLM Software in Madhya Pradesh Helps Network Marketing Businesses Scale Smarter",
@@ -70409,6 +70508,17 @@
         "keywords": "you, your, donation, blockchain, solana, see, charity, public",
         "generated": "2026-09-06T20:14:44.040964",
         "file": "openpledge-see-exactly-where-your-donation-goes-blockchain-ai-for-charity.md"
+    },
+    {
+        "title": "Ludo game vs Parchís: Spain's cousin, with a five to leave the nest",
+        "slug": "ludo-game-vs-parchs-spains-cousin-with-a-five-to-leave-the-nest",
+        "author": "Ahmed Moaz",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 11:09:27 +0000",
+        "description": "Put a Ludo board next to a Parchís board and you could take them for twins. Both are cross-shaped, both have four colours and four pieces per player, and bot...",
+        "keywords": "ludo, you, six, game, not, board, both, one",
+        "generated": "2026-10-23T11:19:44.659794",
+        "file": "ludo-game-vs-parchs-spains-cousin-with-a-five-to-leave-the-nest.md"
     },
     {
         "title": "The Call for Global AI Standards: Implications and…",
@@ -75051,6 +75161,17 @@
         "keywords": "print, name, variable, age, range, return, def, input",
         "generated": "2026-09-11T10:58:00.563104",
         "file": "python-fundamentals-variables-control-flow-and-functions.md"
+    },
+    {
+        "title": "GraphSloth: auditing 29 abandoned project folders so I don't have to",
+        "slug": "graphsloth-auditing-29-abandoned-project-folders-so-i-dont-have-to",
+        "author": "CodersAcademy006",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 11:12:42 +0000",
+        "description": "GraphSloth: auditing 29 abandoned project folders so I don't have to Live demo · Source What I Built My ~/Desktop/Project folder has 29 project folders in it...",
+        "keywords": "folder, real, folders, one, archive, live, graphsloth, project",
+        "generated": "2026-10-23T11:19:44.661172",
+        "file": "graphsloth-auditing-29-abandoned-project-folders-so-i-dont-have-to.md"
     },
     {
         "title": "Building a Crypto Signal Bot with AI APIs - 2026 Guide — 2026-10-09 #3",
@@ -84601,6 +84722,17 @@
         "file": "ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack.md"
     },
     {
+        "title": "Why compliance teams are banning AI meeting assistants: A guide to hidden privacy risks in 2026",
+        "slug": "why-compliance-teams-are-banning-ai-meeting-assistants-a-guide-to-hidden-privacy-risks-in-2026",
+        "author": "Julia Nebova",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 11:11:06 +0000",
+        "description": "1. The EU AI Act Has Turned Meeting Privacy Into a Legal Deadline €15 million or 3% of worldwide revenue. That's the exposure the EU AI Act created for organ...",
+        "keywords": "not, bot, does, vendor, audio, party, device, legal",
+        "generated": "2026-10-23T11:19:44.661759",
+        "file": "why-compliance-teams-are-banning-ai-meeting-assistants-a-guide-to-hidden-privacy-risks-in-2026.md"
+    },
+    {
         "title": "AI Literacy Will Be More Valuable Than Coding for Most Professionals",
         "slug": "ai-literacy-will-be-more-valuable-than-coding-for-most-professionals",
         "author": "Jaideep Parashar",
@@ -85239,6 +85371,17 @@
         "file": "your-ai-prototype-is-not-a-production-system-the-engineering-behind-reliable-ai-applications.md"
     },
     {
+        "title": "🦥 LazySummarizer Pro: Turn Group Chat Noise into Actionable Notes with Gemma",
+        "slug": "lazysummarizer-pro-turn-group-chat-noise-into-actionable-notes-with-gemma",
+        "author": "Avinash Kumar",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 11:05:55 +0000",
+        "description": "Group chats are useful—until important information gets buried under dozens of messages. A deadline, a tentative plan, or one unanswered question can be surp...",
+        "keywords": "gemma, model, pro, summary, open, lazysummarizer, google, not",
+        "generated": "2026-10-23T11:19:44.658841",
+        "file": "lazysummarizer-pro-turn-group-chat-noise-into-actionable-notes-with-gemma.md"
+    },
+    {
         "title": "Our test asked for 4 branches, ran 1, and reported PASS",
         "slug": "our-test-asked-for-4-branches-ran-1-and-reported-pass",
         "author": "Devil Scrapes",
@@ -85611,6 +85754,17 @@
         "keywords": "url, https, comments, where, every, major, llm, stands",
         "generated": "2026-06-25T14:43:02.849666",
         "file": "where-every-major-llm-stands-politically.md"
+    },
+    {
+        "title": "Bridging AI Agents with Real-World Outreach: Email & WhatsApp Automation via MCP",
+        "slug": "bridging-ai-agents-with-real-world-outreach-email-whatsapp-automation-via-mcp",
+        "author": "netizen4-bit",
+        "source": "devto_python",
+        "published": "Fri, 23 Oct 2026 11:04:55 +0000",
+        "description": "Bridging AI Agents with Real-World Outreach: Email & WhatsApp Automation via MCP Building autonomous agents that research and draft personalized messages is ...",
+        "keywords": "mcp, outreach, whatsapp, email, your, agents, real, automation",
+        "generated": "2026-10-23T11:19:44.659038",
+        "file": "bridging-ai-agents-with-real-world-outreach-email-whatsapp-automation-via-mcp.md"
     },
     {
         "title": "How I Built a Personal AI Operating System with Claude, Python, and Local LLMs",
@@ -95656,6 +95810,17 @@
         "file": "how-pythons-import-system-works-and-why-it-matters-for-debugging.md"
     },
     {
+        "title": "The Rise and Fall of Jev",
+        "slug": "the-rise-and-fall-of-jev",
+        "author": "flail",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 09:21:00 +0000",
+        "description": "Article URL: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm Comments URL: https://news.ycombinator.com/item?id=50206361 Points: 25 # Co...",
+        "keywords": "rise, fall, jev, url, https, com, comments, article",
+        "generated": "2026-10-23T11:19:44.656786",
+        "file": "the-rise-and-fall-of-jev.md"
+    },
+    {
         "title": "Can Jev predict Bitcoin? It read the indicators backwards",
         "slug": "can-jev-predict-bitcoin-it-read-the-indicators-backwards",
         "author": "Truong Pham | Moon The Train",
@@ -97912,6 +98077,17 @@
         "file": "llms-do-not-merely-reflect-the-bias-of-their-training-they-police-it.md"
     },
     {
+        "title": "Dutch government had hacked into Jared Kushner's phone",
+        "slug": "dutch-government-had-hacked-into-jared-kushners-phone",
+        "author": "teekert",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 10:41:32 +0000",
+        "description": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 17 # Comments: 4",
+        "keywords": "url, https, com, comments, dutch, government, had, hacked",
+        "generated": "2026-10-23T11:19:44.656610",
+        "file": "dutch-government-had-hacked-into-jared-kushners-phone.md"
+    },
+    {
         "title": "Cloud Cost Optimization Strategies",
         "slug": "cloud-cost-optimization-strategies",
         "author": "Shivatechdigital",
@@ -97976,6 +98152,17 @@
         "keywords": "pandas, should, extinct, url, https, comments, article, eddie",
         "generated": "2026-09-12T04:02:47.305283",
         "file": "pandas-should-go-extinct.md"
+    },
+    {
+        "title": "Remove pgrust: the entry is cheating",
+        "slug": "remove-pgrust-the-entry-is-cheating",
+        "author": "f311a",
+        "source": "hackernews",
+        "published": "Fri, 23 Oct 2026 08:05:33 +0000",
+        "description": "Article URL: https://github.com/ClickHouse/ClickBench/pull/2165 Comments URL: https://news.ycombinator.com/item?id=50205816 Points: 14 # Comments: 2",
+        "keywords": "url, https, com, comments, remove, pgrust, entry, cheating",
+        "generated": "2026-10-23T11:19:44.656899",
+        "file": "remove-pgrust-the-entry-is-cheating.md"
     },
     {
         "title": "Fetching Details on Washington Entity Records Multiplies Turnstile Runs",
@@ -98416,6 +98603,17 @@
         "keywords": "aurorastore, url, https, com, comments, play, store, blocks",
         "generated": "2026-09-01T16:22:54.362442",
         "file": "play-store-blocks-aurorastore-hurting-grapheneos-users.md"
+    },
+    {
+        "title": "Mentary AI: I Read the Demo's Source Code Instead of Trusting It",
+        "slug": "mentary-ai-i-read-the-demos-source-code-instead-of-trusting-it",
+        "author": "Redman WorkflowAlpha",
+        "source": "devto_ai",
+        "published": "Fri, 23 Oct 2026 11:14:22 +0000",
+        "description": "Mentary AI — $299.99 · https://reggiebro.github.io/WorkflowAlpha.ai/mentary-ai/ The page says it runs natively on your own hardware — no cloud, no API calls...",
+        "keywords": "demo, patterns, model, browser, not, page, can, you",
+        "generated": "2026-10-23T11:19:44.660690",
+        "file": "mentary-ai-i-read-the-demos-source-code-instead-of-trusting-it.md"
     },
     {
         "title": "Free browser tool — Jwt Validator",
@@ -106555,6 +106753,17 @@
         "keywords": "globe, light, sentence, one, feel, city, like, not",
         "generated": "2026-06-20T19:45:32.624746",
         "file": "building-a-live-interactive-globe-with-javascript-seo-pages-and-one-time-payments.md"
+    },
+    {
+        "title": "Finally built my own corner of the internet!!",
+        "slug": "finally-built-my-own-corner-of-the-internet",
+        "author": "Sen",
+        "source": "devto_webdev",
+        "published": "Fri, 23 Oct 2026 11:07:07 +0000",
+        "description": "Hey Everyone! I'm Sen, a computer science student passionate about building useful software, experimenting with AI, and exploring new technologies. I've fina...",
+        "keywords": "you, interesting, finally, building, website, projects, here, what",
+        "generated": "2026-10-23T11:19:44.660069",
+        "file": "finally-built-my-own-corner-of-the-internet.md"
     },
     {
         "title": "New Benchmark Catches AI Agents Lying About Finished Work",
