@@ -1859,6 +1859,17 @@
         "file": "in-house-oil-and-gas-training-for-inspection-and-integrity-teams.md"
     },
     {
+        "title": "Running AI video generation on GPUs in your own region",
+        "slug": "running-ai-video-generation-on-gpus-in-your-own-region",
+        "author": "Raisul Mahmud (Romel)",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 20:26:47 +0000",
+        "description": "Most AI video tools have two hidden costs: they bill in USD through a card you may not have, and they ship your footage to data centers in another country. F...",
+        "keywords": "you, video, your, footage, generation, own, region, usd",
+        "generated": "2026-10-24T20:31:17.911849",
+        "file": "running-ai-video-generation-on-gpus-in-your-own-region.md"
+    },
+    {
         "title": "Built a Conventional Commits CLI with free AI tools (zero cost)",
         "slug": "built-a-conventional-commits-cli-with-free-ai-tools-zero-cost",
         "author": "MonoBuild Studio",
@@ -4817,6 +4828,17 @@
         "keywords": "you, gsd, core, pipeline, your, pipelines, stages, data",
         "generated": "2026-06-08T11:08:35.050438",
         "file": "streamline-your-ai-development-with-gsd-core-build-smarter-pipelines.md"
+    },
+    {
+        "title": "pytest for prompts: a zero-dependency CLI diff to catch regressions before they ship",
+        "slug": "pytest-for-prompts-a-zero-dependency-cli-diff-to-catch-regressions-before-they-ship",
+        "author": "rene",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 20:21:47 +0000",
+        "description": "You edit a system prompt or switch models, and other cases quietly break. prompt-diff runs a small prompt suite against a baseline (A) and a candidate (B). I...",
+        "keywords": "diff, you, prompt, zero, cli, suite, side, pass",
+        "generated": "2026-10-24T20:31:17.912364",
+        "file": "pytest-for-prompts-a-zero-dependency-cli-diff-to-catch-regressions-before-they-ship.md"
     },
     {
         "title": "🚀 Missed the NVIDIA-Certified Associate: AI Infrastructure and Operations (NCA-AIIO) live sessions?",
@@ -10040,6 +10062,17 @@
         "keywords": "deterministic, url, https, comments, core, non, shell, article",
         "generated": "2026-09-21T04:21:01.277609",
         "file": "deterministic-core-non-deterministic-shell.md"
+    },
+    {
+        "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+        "slug": "john-carmack-on-the-goose-language-multiple-data-stacks-and-relative-references",
+        "author": "bobbydigitales",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 19:06:55 +0000",
+        "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 62 # Comments: 21",
+        "keywords": "url, https, com, comments, john, carmack, goose, language",
+        "generated": "2026-10-24T20:31:17.906010",
+        "file": "john-carmack-on-the-goose-language-multiple-data-stacks-and-relative-references.md"
     },
     {
         "title": "How I Built a Real-Time Tennis Stats Tracker: GBs Fery beats Dimitrov in five-set thriller to extend historic run",
@@ -16840,6 +16873,17 @@
         "file": "small-shift-in-how-i-discover-web-apps.md"
     },
     {
+        "title": "The Goose Programming Language",
+        "slug": "the-goose-programming-language",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 19:27:41 +0000",
+        "description": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 52 # Comments: 14",
+        "keywords": "goose, url, https, comments, programming, language, article, aardappel",
+        "generated": "2026-10-24T20:31:17.905859",
+        "file": "the-goose-programming-language.md"
+    },
+    {
         "title": "Pin Agent Tools to a Checked-In Schema Before the First Call",
         "slug": "pin-agent-tools-to-a-checked-in-schema-before-the-first-call",
         "author": "Dakota Liu",
@@ -20635,6 +20679,17 @@
         "file": "why-extracting-audio-from-video-is-more-useful-than-most-people-realize.md"
     },
     {
+        "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+        "slug": "php-foundation-under-funded-with-one-full-time-staff-member-director-says",
+        "author": "firesteelrain",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 19:03:59 +0000",
+        "description": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://n...",
+        "keywords": "php, foundation, under, funded, one, full, time, staff",
+        "generated": "2026-10-24T20:31:17.906135",
+        "file": "php-foundation-under-funded-with-one-full-time-staff-member-director-says.md"
+    },
+    {
         "title": "Muse: Meta's personal AI agent, features and capabilities",
         "slug": "muse-metas-personal-ai-agent-features-and-capabilities",
         "author": "yks",
@@ -22776,6 +22831,17 @@
         "keywords": "one, board, agent, fleet, runs, telegram, when, json",
         "generated": "2026-08-23T01:43:25.005308",
         "file": "how-i-built-an-ai-watchdog-agent-that-keeps-my-raspberry-pi-fleet-alive.md"
+    },
+    {
+        "title": "A reproducible way to log whether ChatGPT, Gemini and Perplexity cite you (with the CSV I use)",
+        "slug": "a-reproducible-way-to-log-whether-chatgpt-gemini-and-perplexity-cite-you-with-the-csv-i-use",
+        "author": "Robin",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 20:25:57 +0000",
+        "description": "Small detail that made me write this: when I asked Perplexity How do I check if ChatGPT recommends my product? on 24 Oct 2026, 2 of its 10 sources were dev...",
+        "keywords": "you, week, perplexity, answers, answer, chatgpt, use, not",
+        "generated": "2026-10-24T20:31:17.912211",
+        "file": "a-reproducible-way-to-log-whether-chatgpt-gemini-and-perplexity-cite-you-with-the-csv-i-use.md"
     },
     {
         "title": "Microsoft raises Xbox prices by up to 43%",
@@ -28395,6 +28461,17 @@
         "keywords": "stack, systems, full, experience, production, pipelines, infrastructure, work",
         "generated": "2026-07-11T08:04:04.869799",
         "file": "looking-for-a-job.md"
+    },
+    {
+        "title": "I Built an Approval Gate for AI Coding Agents — Meet Friday Protocol",
+        "slug": "i-built-an-approval-gate-for-ai-coding-agents-meet-friday-protocol",
+        "author": "Lucky Hermawan Roza",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 20:28:34 +0000",
+        "description": "AI coding agents can be incredibly productive. They can inspect a codebase, propose a solution, modify files, run tests, and keep going with very little supe...",
+        "keywords": "workflow, agent, approval, friday, protocol, what, coding, not",
+        "generated": "2026-10-24T20:31:17.911474",
+        "file": "i-built-an-approval-gate-for-ai-coding-agents-meet-friday-protocol.md"
     },
     {
         "title": "MCP in 30 lines: it's just standardized function calling",
@@ -56223,6 +56300,17 @@
         "file": "stop-guessing-camera-blind-spots-on-2d-pdfs-computing-en-62676-4-dori-cones-60ghz-fresnel-zones-in-3d-kml.md"
     },
     {
+        "title": "Your Agent Found a Round-Trip Fare but No Flight Home",
+        "slug": "your-agent-found-a-round-trip-fare-but-no-flight-home",
+        "author": "vexaloom-labs",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 20:05:36 +0000",
+        "description": "Your agent quotes a round-trip fare. Then the user asks, “When do we land back home?” Suddenly, that tidy flight record looks less reassuring. Google Flights...",
+        "keywords": "return, outbound, option, agent, trip, flight, choices, price",
+        "generated": "2026-10-24T20:31:17.907944",
+        "file": "your-agent-found-a-round-trip-fare-but-no-flight-home.md"
+    },
+    {
         "title": "Claude Sonnet 5",
         "slug": "claude-sonnet-5",
         "author": "marinesebastian",
@@ -57156,6 +57244,17 @@
         "keywords": "you, model, your, prompt, system, anthropic, client, openai",
         "generated": "2026-07-01T20:03:10.703180",
         "file": "llm-cost-optimization-cutting-inference-bills-without-killing-quality.md"
+    },
+    {
+        "title": "How I made a 20B model code like a frontier one — by fixing the harness, not the model",
+        "slug": "how-i-made-a-20b-model-code-like-a-frontier-one-by-fixing-the-harness-not-the-model",
+        "author": "Abhishek Kumar",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 20:11:54 +0000",
+        "description": "A coding agent is a model plus a harness. We spend all our attention on the model. I spent mine on the harness — and a free 20B model started finishing tasks...",
+        "keywords": "model, you, they, file, small, harness, agent, one",
+        "generated": "2026-10-24T20:31:17.906635",
+        "file": "how-i-made-a-20b-model-code-like-a-frontier-one-by-fixing-the-harness-not-the-model.md"
     },
     {
         "title": "Log Safety Events, Not Full Transcripts: One Audit Trade-Off",
@@ -61413,6 +61512,17 @@
         "file": "ai-model-observability-essential-data-trust-metrics.md"
     },
     {
+        "title": "I built a postbox that forgets what you put in it",
+        "slug": "i-built-a-postbox-that-forgets-what-you-put-in-it",
+        "author": "Alex",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 19:59:41 +0000",
+        "description": "Some messages never get sent. Not the drafts in your notes app, the other ones. The thing you'd say to a father who died. The reply you never sent to someone...",
+        "keywords": "you, built, put, sent, not, people, they, postbox",
+        "generated": "2026-10-24T20:31:17.910043",
+        "file": "i-built-a-postbox-that-forgets-what-you-put-in-it.md"
+    },
+    {
         "title": "Why Product Design and Engineering Must Work Together",
         "slug": "why-product-design-and-engineering-must-work-together",
         "author": "Digital BB",
@@ -65272,6 +65382,17 @@
         "keywords": "order, not, request, orderstate, inquiry, result, carrier, check",
         "generated": "2026-10-03T16:02:08.702524",
         "file": "part-v-but-how-does-the-machine-wait-for-something-that-happens-later.md"
+    },
+    {
+        "title": "MPS backend out of memory: the max allowed number on every Mac size",
+        "slug": "mps-backend-out-of-memory-the-max-allowed-number-on-every-mac-size",
+        "author": "Rodion Kazennov",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 20:02:36 +0000",
+        "description": "The PyTorch error on a Mac carries one number that people search for. This one is from a 16 GB Mac ( AudioLDM2 #20 ): RuntimeError: MPS backend out of memory...",
+        "keywords": "mac, gib, memory, set, ratio, reports, comfyui, mps",
+        "generated": "2026-10-24T20:31:17.908313",
+        "file": "mps-backend-out-of-memory-the-max-allowed-number-on-every-mac-size.md"
     },
     {
         "title": "Build an AI shopping agent that actually buys things with LangGraph and BuyWhere MCP",
@@ -79156,6 +79277,17 @@
         "file": "understanding-ai-model-pricing.md"
     },
     {
+        "title": "WordPress vs Astro Security: Beyond the Plugin vs Package Meme",
+        "slug": "wordpress-vs-astro-security-beyond-the-plugin-vs-package-meme",
+        "author": "JLarky",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 20:00:09 +0000",
+        "description": "I saw a meme the other day that made me stop scrolling. On one side: a WordPress site drowning under hundreds of plugins. On the other: an Astro site with a ...",
+        "keywords": "you, astro, wordpress, code, plugins, static, can, more",
+        "generated": "2026-10-24T20:31:17.909810",
+        "file": "wordpress-vs-astro-security-beyond-the-plugin-vs-package-meme.md"
+    },
+    {
         "title": "Human-in-the-loop is broken by default — here's the design that actually holds up",
         "slug": "human-in-the-loop-is-broken-by-default-heres-the-design-that-actually-holds-up",
         "author": "Vishal Kumar",
@@ -84951,6 +85083,17 @@
         "keywords": "your, url, https, comments, need, clothes, boots, motorcycle",
         "generated": "2026-06-18T10:38:46.937775",
         "file": "i-need-your-clothes-your-boots-and-your-motorcycle.md"
+    },
+    {
+        "title": "No Signs of AI Payoff Outside the Tech Sector",
+        "slug": "no-signs-of-ai-payoff-outside-the-tech-sector",
+        "author": "the-mitr",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 19:47:19 +0000",
+        "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombi...",
+        "keywords": "signs, payoff, outside, tech, sector, url, https, com",
+        "generated": "2026-10-24T20:31:17.905573",
+        "file": "no-signs-of-ai-payoff-outside-the-tech-sector.md"
     },
     {
         "title": "I built a production ML inference API with FastAPI, Celery and Docker — here's the full architecture",
@@ -91564,6 +91707,17 @@
         "file": "your-pipeline-is-248h-behind-catching-renewable-energy-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "VISION LANGUAGE MODEL",
+        "slug": "vision-language-model",
+        "author": "abijuru diana",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 20:28:06 +0000",
+        "description": "VLM: Vision Language Transformers, is an artifiacl intelligence that can process visual information, such as images, and language, such as text, and learn ho...",
+        "keywords": "vision, language, models, text, visual, information, images, image",
+        "generated": "2026-10-24T20:31:17.911669",
+        "file": "vision-language-model.md"
+    },
+    {
         "title": "dbt Macros & Jinja Deep Dive: Custom Materializations, Hooks & Adapter Dispatch",
         "slug": "dbt-macros-jinja-deep-dive-custom-materializations-hooks-adapter-dispatch",
         "author": "Gowtham Potureddi",
@@ -92288,6 +92442,17 @@
         "keywords": "accounts, gmail, aged, email, google, can, account, business",
         "generated": "2026-09-23T11:11:45.089671",
         "file": "top-77-sites-to-buy-gmail-accounts-aged-pva-bulk.md"
+    },
+    {
+        "title": "Bulk WHOIS lookup in Python with RDAP: domain age, expiry, registrar and availability (no scraping, 2026)",
+        "slug": "bulk-whois-lookup-in-python-with-rdap-domain-age-expiry-registrar-and-availability-no-scraping-2026",
+        "author": "Datawright Labs",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 20:09:41 +0000",
+        "description": "If you've ever tried to run WHOIS for a few hundred domains, you know the pain: every registry formats its text differently, port 43 servers throttle you, an...",
+        "keywords": "rdap, domain, get, registrar, domains, com, registered, you",
+        "generated": "2026-10-24T20:31:17.907222",
+        "file": "bulk-whois-lookup-in-python-with-rdap-domain-age-expiry-registrar-and-availability-no-scraping-2026.md"
     },
     {
         "title": "Stop Letting Coding Agents Guess Call Chains: Tracing Blast Radius and Temporal Memory in FalkorDB",
@@ -94818,6 +94983,17 @@
         "keywords": "not, image, memory, model, qwen, native, gib, requested",
         "generated": "2026-10-16T04:00:24.054374",
         "file": "qwen-image-21-on-rtx-pro-6000-15-image-quality-and-performance-test.md"
+    },
+    {
+        "title": "How to promote your open-source project 💎",
+        "slug": "how-to-promote-your-open-source-project",
+        "author": "Anthony Max",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 20:01:15 +0000",
+        "description": "TL;DR Hello! Today we’ll be discussing a rather important topic that rarely comes up in conversations. Let’s talk about marketing. However, not in the usual ...",
+        "keywords": "you, your, but, not, people, will, there, project",
+        "generated": "2026-10-24T20:31:17.909288",
+        "file": "how-to-promote-your-open-source-project.md"
     },
     {
         "title": "Pick Agent Compute by Blast Radius, Not by the Price Tag",
@@ -103234,6 +103410,17 @@
         "file": "block-agent-merges-that-shrink-properties-or-silence-flakes.md"
     },
     {
+        "title": "Claim Checker: A Slower, Safer First Pass on Claims With Gemma",
+        "slug": "claim-checker-a-slower-safer-first-pass-on-claims-with-gemma",
+        "author": "KyPython",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 19:59:52 +0000",
+        "description": "An unpublished candidate submission for the Hacktoberfest Open-Source AI Challenge, Week 3: Slow and Steady . PREPARED FOR DEV — NOT YET PUBLISHED. The genui...",
+        "keywords": "claim, gemma, google, not, model, provider, source, evidence",
+        "generated": "2026-10-24T20:31:17.908795",
+        "file": "claim-checker-a-slower-safer-first-pass-on-claims-with-gemma.md"
+    },
+    {
         "title": "How to Use Koala AI for Image Seo Optimization in 2026",
         "slug": "how-to-use-koala-ai-for-image-seo-optimization-in-2026",
         "author": "leosociall-seointent",
@@ -107161,6 +107348,17 @@
         "file": "6-free-browser-tools-for-everyday-dev-work-and-the-gotchas-they-catch.md"
     },
     {
+        "title": "WhatsApp Web Automation: Configuring SOCKS5 Ports on Bare Metal for B2B Communications",
+        "slug": "whatsapp-web-automation-configuring-socks5-ports-on-bare-metal-for-b2b-communications",
+        "author": "OnlineProxy",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 19:59:01 +0000",
+        "description": "The digital landscape of B2B communication is currently undergoing a silent but violent shift. As email deliverability plummets and blind LinkedIn outreach...",
+        "keywords": "automation, your, hardware, physical, you, whatsapp, ports, bare",
+        "generated": "2026-10-24T20:31:17.910657",
+        "file": "whatsapp-web-automation-configuring-socks5-ports-on-bare-metal-for-b2b-communications.md"
+    },
+    {
         "title": "forEach Doesn't Wait for Your await: The Bug That Makes APIs Reply Before the Work Is Done",
         "slug": "foreach-doesnt-wait-for-your-await-the-bug-that-makes-apis-reply-before-the-work-is-done",
         "author": "Anas Sheikh",
@@ -109615,6 +109813,17 @@
         "file": "i-tested-every-chinese-ai-model-so-you-dont-have-to.md"
     },
     {
+        "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+        "slug": "listen-and-read-usa-nuclear-forces-emergency-action-messages-heard-on-11175-khz",
+        "author": "liotier",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 19:43:27 +0000",
+        "description": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 18 # Comments: 7",
+        "keywords": "url, https, comments, listen, read, usa, nuclear, forces",
+        "generated": "2026-10-24T20:31:17.905731",
+        "file": "listen-and-read-usa-nuclear-forces-emergency-action-messages-heard-on-11175-khz.md"
+    },
+    {
         "title": "Why tests passed is the wrong question for an AI coding agent",
         "slug": "why-tests-passed-is-the-wrong-question-for-an-ai-coding-agent",
         "author": "Eliran Godov",
@@ -109954,6 +110163,17 @@
         "keywords": "anthropic, claude, watermark, watermarking, not, you, text, your",
         "generated": "2026-08-18T06:52:25.244363",
         "file": "anthropics-watermarking-controversy-who-owns-your-ai-edited-words.md"
+    },
+    {
+        "title": "🚂 MINDTRACE AI: Echoes of the Last Train 🔎",
+        "slug": "mindtrace-ai-echoes-of-the-last-train",
+        "author": "Shantanu Shete",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 19:55:48 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady 🚂 MINDTRACE AI: Echoes of the Last Train 🔎 Every lie leaves a tra...",
+        "keywords": "mindtrace, game, dialogue, open, model, can, mystery, evidence",
+        "generated": "2026-10-24T20:31:17.911088",
+        "file": "mindtrace-ai-echoes-of-the-last-train.md"
     },
     {
         "title": "🏗️✨ The SOLID Principles: 5 Golden Rules for Super Code! 💎🧒",
