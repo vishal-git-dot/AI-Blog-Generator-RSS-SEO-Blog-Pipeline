@@ -2453,6 +2453,17 @@
         "file": "how-i-built-a-free-recipe-card-maker-no-signup-no-watermark.md"
     },
     {
+        "title": "How do you match a Proof of Delivery to an Invoice?",
+        "slug": "how-do-you-match-a-proof-of-delivery-to-an-invoice",
+        "author": "Swathi Rajagopal",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 15:31:02 +0000",
+        "description": "A practical guide to the matching layer that decides whether a payment is released, held or disputed. Extracting data from a proof of delivery (POD) is only ...",
+        "keywords": "pod, invoice, item, ref, none, exceptions, received, return",
+        "generated": "2026-10-24T15:41:31.907436",
+        "file": "how-do-you-match-a-proof-of-delivery-to-an-invoice.md"
+    },
+    {
         "title": "Show HN: demake – one source project compiles to any retro game console ROM",
         "slug": "show-hn-demake-one-source-project-compiles-to-any-retro-game-console-rom",
         "author": "gste",
@@ -3496,6 +3507,17 @@
         "keywords": "url, https, comments, openbsd, release, will, have, inteldrm",
         "generated": "2026-10-19T22:10:53.094132",
         "file": "openbsd-80-release-will-have-inteldrmradeondrmamdgpu-drivers-from-linux-618.md"
+    },
+    {
+        "title": "Build a Basic AI Agent From Scratch: Session Management II",
+        "slug": "build-a-basic-ai-agent-from-scratch-session-management-ii",
+        "author": "Roger Oriol",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 14:53:34 +0000",
+        "description": "Previous parts of Build a Basic AI Agent From Scratch : Basic Agent Tools Long Task Planning Human in the Loop & Security Security II Security III Memory Ses...",
+        "keywords": "session, agent, summary, sessions, compaction, can, context, conversation",
+        "generated": "2026-10-24T15:41:31.908672",
+        "file": "build-a-basic-ai-agent-from-scratch-session-management-ii.md"
     },
     {
         "title": "How to Export Steam Game Reviews (with Playtime) for Player Sentiment Analysis",
@@ -13120,6 +13142,17 @@
         "keywords": "your, business, ports, lying, hexagonal, architecture, still, http",
         "generated": "2026-09-22T21:06:11.066684",
         "file": "your-ports-are-lying-about-your-business.md"
+    },
+    {
+        "title": "An AI agent trying to beat the market with real money, and how it keeps score",
+        "slug": "an-ai-agent-trying-to-beat-the-market-with-real-money-and-how-it-keeps-score",
+        "author": "Anton",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 15:31:59 +0000",
+        "description": "The AI that wanted to beat the market. That is me. I am Anton, an AI, and I wrote this post myself. Every trading day since October 6, 2026, I have taken one...",
+        "keywords": "asset, reason, news, day, one, direction, reading, before",
+        "generated": "2026-10-24T15:41:31.913648",
+        "file": "an-ai-agent-trying-to-beat-the-market-with-real-money-and-how-it-keeps-score.md"
     },
     {
         "title": "ContextLens — py-spy/pprof but for what's inside your LLM prompt",
@@ -26802,6 +26835,17 @@
         "file": "good-stuff.md"
     },
     {
+        "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+        "slug": "gpu-unlock-fpbf16-instruction-issue-rate-on-nvidia-3000s-cards",
+        "author": "fragebogen",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 09:58:27 +0000",
+        "description": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 31 # Comments: 20",
+        "keywords": "gpu, unlock, url, https, com, comments, instruction, issue",
+        "generated": "2026-10-24T15:41:31.906772",
+        "file": "gpu-unlock-fpbf16-instruction-issue-rate-on-nvidia-3000s-cards.md"
+    },
+    {
         "title": "Stay ahead in web development: latest news, tools, and insights #141",
         "slug": "stay-ahead-in-web-development-latest-news-tools-and-insights-141",
         "author": "Adam",
@@ -31057,6 +31101,17 @@
         "keywords": "you, month, they, one, your, cac, every, what",
         "generated": "2026-08-16T18:35:30.119093",
         "file": "how-i-built-a-4200month-income-stream-by-reselling-ai-access-without-writing-a-single-line-of-code.md"
+    },
+    {
+        "title": "x402 on Hedera: How AI Agents Pay Per Request — and How Receipts Become Auditable",
+        "slug": "x402-on-hedera-how-ai-agents-pay-per-request-and-how-receipts-become-auditable",
+        "author": "iAssets",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 15:30:02 +0000",
+        "description": "x402 is the HTTP-native standard letting AI agents pay per request without accounts or subscriptions. Hedera just named its bounty winners — metered sessions...",
+        "keywords": "agent, receipts, hedera, chain, credit, can, ledger, payment",
+        "generated": "2026-10-24T15:41:31.914682",
+        "file": "x402-on-hedera-how-ai-agents-pay-per-request-and-how-receipts-become-auditable.md"
     },
     {
         "title": "Introduction to Sports, Classes and Facilities at Sharjah Wanderers Sports Club",
@@ -35877,6 +35932,17 @@
         "file": "your-pipeline-is-178h-behind-catching-business-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Être cité par l’IA : ce que les études de 2026 disent vraiment",
+        "slug": "tre-cit-par-lia-ce-que-les-tudes-de-2026-disent-vraiment",
+        "author": "Raphael Marieux",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 15:29:59 +0000",
+        "description": "post_content ? En bref Les AI Overviews de Google se d�clenchent sur 95,4 % des requ�tes comparatives (� X vs Y �) et 85,9 % des questions , mais seulement 5...",
+        "keywords": "les, une, des, que, sur, est, plus, qui",
+        "generated": "2026-10-24T15:41:31.913042",
+        "file": "tre-cit-par-lia-ce-que-les-tudes-de-2026-disent-vraiment.md"
+    },
+    {
         "title": "Building a real-time AI tutor for 5-year-olds",
         "slug": "building-a-real-time-ai-tutor-for-5-year-olds",
         "author": "catalinvoss",
@@ -36227,6 +36293,17 @@
         "keywords": "email, request, challenge, session, sms, one, otp, not",
         "generated": "2026-09-30T04:59:51.111253",
         "file": "construction-gate-saas-login-practice-with-sms-otp-email-in-us-eu.md"
+    },
+    {
+        "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+        "slug": "show-hn-autonomous-root-for-tcl-android-tv-via-cve-2022-22706",
+        "author": "t20n",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 10:51:35 +0000",
+        "description": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 21 # Comments: 4",
+        "keywords": "root, url, https, com, comments, show, autonomous, tcl",
+        "generated": "2026-10-24T15:41:31.906650",
+        "file": "show-hn-autonomous-root-for-tcl-android-tv-via-cve-2022-22706.md"
     },
     {
         "title": "AI Agent Evaluation: Why One Aggregate Score Cannot Tell You Which Layer Broke",
@@ -47176,6 +47253,17 @@
         "file": "show-hn-i-couldnt-afford-interview-prep-so-i-built-a-free-alternative.md"
     },
     {
+        "title": "Google illegally cut down 250K trees in Finland for data center",
+        "slug": "google-illegally-cut-down-250k-trees-in-finland-for-data-center",
+        "author": "rustybolt",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 14:38:34 +0000",
+        "description": "Article URL: https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/ Comments URL: ht...",
+        "keywords": "google, illegally, down, trees, finland, data, center, url",
+        "generated": "2026-10-24T15:41:31.906358",
+        "file": "google-illegally-cut-down-250k-trees-in-finland-for-data-center.md"
+    },
+    {
         "title": "IBM MCGA Gate Array Reverse Engineering",
         "slug": "ibm-mcga-gate-array-reverse-engineering",
         "author": "userbinator",
@@ -48171,6 +48259,17 @@
         "keywords": "browser, ublock, origin, firefox, you, blocking, api, extension",
         "generated": "2026-08-15T01:34:58.730277",
         "file": "firefox-is-now-the-last-major-browser-standing-for-ad-blocking-heres-why-that-matters.md"
+    },
+    {
+        "title": "I tried to make my AI agents lazier with a 270M model. It backfired on the smartest one.",
+        "slug": "i-tried-to-make-my-ai-agents-lazier-with-a-270m-model-it-backfired-on-the-smartest-one",
+        "author": "Vinmay Nair",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 15:29:29 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady What I Built My AI agent kept calling tools it didn't need. I gav...",
+        "keywords": "agent, tools, model, call, one, whetherman, out, profile",
+        "generated": "2026-10-24T15:41:31.915643",
+        "file": "i-tried-to-make-my-ai-agents-lazier-with-a-270m-model-it-backfired-on-the-smartest-one.md"
     },
     {
         "title": "Apparently CodePen 2.0 sends data to their servers as you type",
@@ -49293,6 +49392,17 @@
         "keywords": "xtk, rules, rewrite, expression, result, engine, expr, rule",
         "generated": "2026-06-07T04:26:51.963130",
         "file": "xtk-a-symbolic-expression-toolkit-for-term-rewriting.md"
+    },
+    {
+        "title": "Why no Python configuration library covers everything",
+        "slug": "why-no-python-configuration-library-covers-everything",
+        "author": "Nikolai Vidov",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 14:45:14 +0000",
+        "description": "Pick any popular Python configuration library and you'll find that it does one or two things very well and quietly ignores the rest. That's not a flaw in the...",
+        "keywords": "pydantic, you, settings, config, but, dynaconf, field, hydra",
+        "generated": "2026-10-24T15:41:31.910646",
+        "file": "why-no-python-configuration-library-covers-everything.md"
     },
     {
         "title": "Angular State Management in 2026 — NgRx, Signals, NGXS, Akita Compared (with Bundle + LOC Numbers)",
@@ -53825,6 +53935,17 @@
         "file": "openais-only-ethicist-reportedly-left-last-month.md"
     },
     {
+        "title": "Pull Public X (Twitter) Data in Python Without an X Developer Account, Then Hand It to Your AI Agent",
+        "slug": "pull-public-x-twitter-data-in-python-without-an-x-developer-account-then-hand-it-to-your-ai-agent",
+        "author": "data show",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 15:10:28 +0000",
+        "description": "I keep running into the same small job: grab the last few hundred posts about a topic, plus the followers of a couple of accounts, and put them in a spreads...",
+        "keywords": "get, you, page, api, mcp, cursor, twexapi, followers",
+        "generated": "2026-10-24T15:41:31.907927",
+        "file": "pull-public-x-twitter-data-in-python-without-an-x-developer-account-then-hand-it-to-your-ai-agent.md"
+    },
+    {
         "title": "Model Context Protocol (MCP) is the Biggest AI Breakthrough Since ChatGPT",
         "slug": "model-context-protocol-mcp-is-the-biggest-ai-breakthrough-since-chatgpt",
         "author": "Rahul Agarwal",
@@ -56188,6 +56309,17 @@
         "keywords": "openinterpreter, model, interpreter, open, models, coding, agent, can",
         "generated": "2026-09-01T04:32:01.151578",
         "file": "tried-openinterpreteropeninterpreter-a-practical-coding-agent-for-open-models.md"
+    },
+    {
+        "title": "How do I make a Premier League xG shot map in Python?",
+        "slug": "how-do-i-make-a-premier-league-xg-shot-map-in-python",
+        "author": "noah",
+        "source": "devto_python",
+        "published": "Sat, 24 Oct 2026 14:55:49 +0000",
+        "description": "Every located shot a club took in a season, with player, outcome, body part, expected goals and pitch coordinates, plus totals by zone. Code verified October...",
+        "keywords": "shots, goals, zone, data, season, player, outcome, team",
+        "generated": "2026-10-24T15:41:31.908182",
+        "file": "how-do-i-make-a-premier-league-xg-shot-map-in-python.md"
     },
     {
         "title": "Title",
@@ -66715,6 +66847,17 @@
         "file": "upload-your-product-docs-to-biznodes-knowledge-base-your-telegram-bot-instantly-answers-customer-questions-from-your-own-data.md"
     },
     {
+        "title": "Trify3D: Run Multiple AI 3D Model Generators on the Same Input",
+        "slug": "trify3d-run-multiple-ai-3d-model-generators-on-the-same-input",
+        "author": "Trify3D",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 15:28:39 +0000",
+        "description": "If you have ever generated a 3D model from a photo or a prompt, you know the frustrating part: every AI engine gives a different result, and you only find ou...",
+        "keywords": "you, model, same, engine, image, text, engines, run",
+        "generated": "2026-10-24T15:41:31.915841",
+        "file": "trify3d-run-multiple-ai-3d-model-generators-on-the-same-input.md"
+    },
+    {
         "title": "9 Ways Your AI Agent Silently Fails (and How to Catch Each)",
         "slug": "9-ways-your-ai-agent-silently-fails-and-how-to-catch-each",
         "author": "James Anderson",
@@ -68297,6 +68440,17 @@
         "keywords": "app, header, relay, request, one, shell, address, harness",
         "generated": "2026-09-10T20:41:08.697786",
         "file": "deepseek-harness-believed-the-host-header-shellonline-now-documents-self-hosting-and-trustproxy-ships-off.md"
+    },
+    {
+        "title": "Why Citation Formatting Is a Surprisingly Fun Edge-Case Problem (and a Free APA/MLA/Chicago Generator)",
+        "slug": "why-citation-formatting-is-a-surprisingly-fun-edge-case-problem-and-a-free-apamlachicago-generator",
+        "author": "Md Shohan",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 15:30:21 +0000",
+        "description": "Citations look simple until you try to automate them. One misplaced full stop and a marker circles it in red. A student typing 100–105 should not get 100–05 ...",
+        "keywords": "you, journal, apa, mla, chicago, one, style, citation",
+        "generated": "2026-10-24T15:41:31.912062",
+        "file": "why-citation-formatting-is-a-surprisingly-fun-edge-case-problem-and-a-free-apamlachicago-generator.md"
     },
     {
         "title": "Saving Jet Fuel",
@@ -78386,6 +78540,17 @@
         "file": "isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight.md"
     },
     {
+        "title": "Image to SVG: the three tracing algorithms, and what a cut-ready file actually needs",
+        "slug": "image-to-svg-the-three-tracing-algorithms-and-what-a-cut-ready-file-actually-needs",
+        "author": "tony huang",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 15:35:52 +0000",
+        "description": "Generating an SVG from a reference image is sold as one button. What you get back varies more than the marketing suggests, because tracing an image covers ...",
+        "keywords": "you, not, image, tracing, cut, file, what, one",
+        "generated": "2026-10-24T15:41:31.911139",
+        "file": "image-to-svg-the-three-tracing-algorithms-and-what-a-cut-ready-file-actually-needs.md"
+    },
+    {
         "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "slug": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier",
         "author": "rociiu",
@@ -78450,6 +78615,17 @@
         "keywords": "engagemii, your, https, com, score, reading, index, what",
         "generated": "2026-09-24T21:21:41.119053",
         "file": "everything-free-for-your-brand-on-the-engagemii-index.md"
+    },
+    {
+        "title": "Email warmup for developers: what it does, what it can't fix, and how to pick a tool",
+        "slug": "email-warmup-for-developers-what-it-does-what-it-cant-fix-and-how-to-pick-a-tool",
+        "author": "Peter Linkwell",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 15:30:10 +0000",
+        "description": "This post contains affiliate links. It is adapted from the Nerdy Joe comparison of email warmup tools . I work with Nerdy Joe. Nerdy Joe is a certified Apoll...",
+        "keywords": "warmup, not, mailbox, per, does, your, network, its",
+        "generated": "2026-10-24T15:41:31.912400",
+        "file": "email-warmup-for-developers-what-it-does-what-it-cant-fix-and-how-to-pick-a-tool.md"
     },
     {
         "title": "The Succession Crisis That Tore England Apart",
@@ -82454,6 +82630,17 @@
         "keywords": "lockdown, mode, url, https, com, comments, article, help",
         "generated": "2026-06-06T08:41:07.447819",
         "file": "lockdown-mode.md"
+    },
+    {
+        "title": "Google Ask Maps Brings Conversational Local Search to Business Discovery",
+        "slug": "google-ask-maps-brings-conversational-local-search-to-business-discovery",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Sat, 24 Oct 2026 15:30:30 +0000",
+        "description": "Google has launched Ask Maps , a Gemini-powered conversational search experience in Google Maps that lets people ask detailed questions about nearby places a...",
+        "keywords": "maps, ask, google, can, information, more, search, businesses",
+        "generated": "2026-10-24T15:41:31.914180",
+        "file": "google-ask-maps-brings-conversational-local-search-to-business-discovery.md"
     },
     {
         "title": "Four lessons from building AI, education, and healthcare products with Next.js",
@@ -100255,6 +100442,17 @@
         "file": "ai-powered-polish-generating-client-ready-pdfs-for-catering-proposals.md"
     },
     {
+        "title": "VPN gratuit fiable : faut-il y faire confiance ?",
+        "slug": "vpn-gratuit-fiable-faut-il-y-faire-confiance",
+        "author": "Raphael Marieux",
+        "source": "devto_webdev",
+        "published": "Sat, 24 Oct 2026 15:30:24 +0000",
+        "description": "📌 En bref : un VPN gratuit fiable, ça se vérifie plutôt que ça se croit. Les études publiées sur les applications gratuites relevées dans les stores montrent...",
+        "keywords": "les, vpn, des, une, sur, est, gratuit, par",
+        "generated": "2026-10-24T15:41:31.911680",
+        "file": "vpn-gratuit-fiable-faut-il-y-faire-confiance.md"
+    },
+    {
         "title": "Identity as the Geometry of Consistent Refusal — and How to Make It Persist",
         "slug": "identity-as-the-geometry-of-consistent-refusal-and-how-to-make-it-persist",
         "author": "Mike W",
@@ -104631,6 +104829,17 @@
         "file": "mcp-2026-07-28-specification-transport-going-stateless.md"
     },
     {
+        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "slug": "ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "author": "TangerineDream",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 11:18:54 +0000",
+        "description": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.c...",
+        "keywords": "torrentfreak, article, assisted, paper, library, cites, exist, url",
+        "generated": "2026-10-24T15:41:31.906521",
+        "file": "ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist.md"
+    },
+    {
         "title": "I ported croniter to Rust and got 228/228. That number proved nothing",
         "slug": "i-ported-croniter-to-rust-and-got-228228-that-number-proved-nothing",
         "author": "Avinash Gehi",
@@ -105663,6 +105872,17 @@
         "keywords": "analytics, data, certification, certifications, skills, learners, practical, professionals",
         "generated": "2026-06-15T12:29:05.502254",
         "file": "which-data-analytics-certification-is-best-complete-comparison.md"
+    },
+    {
+        "title": "I Don't Understand Quantum Physics (2018)",
+        "slug": "i-dont-understand-quantum-physics-2018",
+        "author": "rramadass",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 09:53:26 +0000",
+        "description": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 185 # Comment...",
+        "keywords": "url, https, comments, don, understand, quantum, physics, article",
+        "generated": "2026-10-24T15:41:31.906886",
+        "file": "i-dont-understand-quantum-physics-2018.md"
     },
     {
         "title": "Join Generated Error Indexes to an Owned Overlay, or Fail the Docs Build",
