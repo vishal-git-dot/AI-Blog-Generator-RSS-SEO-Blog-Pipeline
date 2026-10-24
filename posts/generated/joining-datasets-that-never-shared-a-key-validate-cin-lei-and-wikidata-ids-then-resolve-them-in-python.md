@@ -1,0 +1,34 @@
+---
+title: "Joining datasets that never shared a key: validate CIN, LEI and Wikidata IDs, then resolve them in Python"
+slug: "joining-datasets-that-never-shared-a-key-validate-cin-lei-and-wikidata-ids-then-resolve-them-in-python"
+author: "Data Galactica"
+source: "devto_python"
+published: "Sat, 24 Oct 2026 03:31:38 +0000"
+description: "Sunny Mittal works on marketing at Data Galactica. Corrections welcome in the comments. You have three spreadsheets about the same companies. Finance keyed t..."
+keywords: "lei, you, ids, return, cin, digits, key, resolve"
+generated: "2026-10-24T04:04:22.633521"
+---
+
+# Joining datasets that never shared a key: validate CIN, LEI and Wikidata IDs, then resolve them in Python
+
+## Overview
+
+Sunny Mittal works on marketing at Data Galactica. Corrections welcome in the comments. You have three spreadsheets about the same companies. Finance keyed them by Indian CIN, the treasury team by LEI, and the research team pulled theirs from Wikidata, so every row has a Q-id. None of them shares a column you can join on. This post shows a small Python pipeline that (1) validates each identifier locally, so you don't pay to look up typos, and (2) resolves the survivors to one permanent key. Step 1: know what a valid identifier looks like Most bad joins start with bad IDs: a trailing space, a lowercase letter, an O where a 0 should be. Each scheme has a structure you can check for free. Indian CIN (21 characters). Take L85110KA1981PLC013115 : Part Value Meaning 1 char L Listed ( U = unlisted) 5 digits 85110 Industry code 2 letters KA State of registration 4 digits 1981 Year of incorporation 3 letters PLC Ownership type (e.g. PLC , PTC ) 6 digits 013115 Registration number LEI (20 characters, ISO 17442). The last two characters are check digits under ISO 7064 MOD 97-10: map letters to numbers (A=10 ... Z=35), read the whole thing as one integer, and a valid LEI leaves a remainder of 1 when divided by 97. That catches almost every single-character typo. Wikidata Q-id. Q followed by digits, e.g. Q26989 . import re CIN_RE = re . compile ( r " ^[LU]\d{5}[A-Z]{2}\d{4}[A-Z]{3}\d{6}$ " ) QID_RE = re . compile ( r " ^Q[1-9]\d*$ " ) def lei_ok ( lei : str ) -> bool : if not re . fullmatch ( r " [A-Z0-9]{18}\d{2} " , lei ): return False digits = "" . join ( str ( int ( c , 36 )) for c in lei ) return int ( digits ) % 97 == 1 def normalise ( raw : str ): """ Return (kind, cleaned) or (None, raw) if it fails validation. """ s = raw . strip (). upper (). replace ( " " , "" ) if CIN_RE . match ( s ): return " cin " , s if lei_ok ( s ): return " lei " , s if QID_RE . match ( s ): return " qid " , s return None , raw print ( normalise ( " l85110ka1981plc013115 " )) # ('cin', 'L85110KA1981PLC013115') print ( lei_ok ( " 335800TYLGG93MM7PR89 " )) # True print ( lei_ok ( " 335800TYLGG93MM7PR98 " )) # False: swapped check digits Run this over every column first and log the rejects. In real data the reject list is usually where the interesting cleanup is. Step 2: resolve every valid ID to one key Now you need something that knows a CIN, an LEI and a Q-id can point at the same company. Data Galactica gives every organisation a permanent Galactica ID ( DGC- plus 12 characters; people get DGP- ), and its resolver accepts CINs and LLPINs, LEI-<lei> , GB-<number> for UK companies, CIK-<n> for SEC filers, Wikidata Q-ids, or a Galactica ID. import requests BASE = " https://api.datagalactica.com/api/v1 " HEAD = { " Authorization " : " Bearer YOUR_KEY " } PREFIX = { " cin " : "" , " lei " : " LEI- " , " qid " : "" } def resolve ( kind : str , value : str ): r = requests . get ( f " { BASE } /resolve " , params = { " id " : PREFIX [ kind ] + value }, headers = HEAD , timeout = 20 ) if r . status_code == 404 : return None # not found, and not billed r . raise_for_status () d = r . json ()[ " data " ] return d [ " galactica_id " ], d [ " name " ], d [ " quality " ] Feed it the three sources and build a crosswalk: from collections import defaultdict rows = [( " finance " , " L85110KA1981PLC013115 " ), ( " treasury " , " 335800TYLGG93MM7PR89 " ), ( " research " , " Q26989 " )] crosswalk = defaultdict ( list ) for source , raw in rows : kind , value = normalise ( raw ) if kind is None : print ( " reject " , source , raw ) continue hit = resolve ( kind , value ) if hit : crosswalk [ hit [ 0 ]]. append (( source , kind , value )) for gid , refs in crosswalk . items (): print ( gid , refs ) All three rows above land on the same key, because they are Infosys Limited's CIN, LEI and Wikidata id. That key is now the column you join on, and it doesn't change when a company renames itself or a better source turns up; the record improves and keeps its ID. Step 3: fetch full records in batches Once you have the unique Galactica IDs, don't call one record at a time. POST /batch takes up to 50 ids and returns {id, found, record} for each: def batch ( ids ): r = requests . post ( f " { BASE } /batch " , json = { " ids " : ids }, headers = HEAD , timeout = 30 ) r . raise_for_status () return { x [ " id " ]: x [ " record " ] for x in r . json ()[ " data " ][ " results " ] if x [ " found " ]} ids = list ( crosswalk ) records = {} for i in range ( 0 , len ( ids ), 50 ): records . update ( batch ( ids [ i : i + 50 ])) Things that will bite you Don't treat the grade as truth. Every record carries a grade (bronze, silver, gold, verified). Keep it as a column and filter on it for anything that matters. Name-only matches are probabilistic. This pipeline avoids names on purpose. If you must match on names, keep the confidence score and review the low ones by hand. The About the data page is upfront that matching a typed employer to a registered company can be wrong. Cache resolutions. An ID-to-key mapping is stable, so store it and you only pay once per identifier. Validate before you call. Step 1 is free; lookups are billed per successful call. Cost and setup At the time of writing the API page offers Rs 50 of free credit to start, and the OpenAPI spec lists /resolve and /batch at Rs 0.16 per successful call or record found, with 404s not billed. Check the page for current pricing before you budget a big backfill. If you use another resolver, steps 1 and 3 still apply: validate locally, resolve once, cache the key, batch the reads.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/datagalactica/joining-datasets-that-never-shared-a-key-validate-cin-lei-and-wikidata-ids-then-resolve-them-in-4jik
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
