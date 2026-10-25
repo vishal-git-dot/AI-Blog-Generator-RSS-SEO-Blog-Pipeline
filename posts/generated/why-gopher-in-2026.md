@@ -4,16 +4,16 @@ slug: "why-gopher-in-2026"
 author: "andsoitis"
 source: "hackernews"
 published: "Sat, 24 Oct 2026 23:33:19 +0000"
-description: "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 43 # Comm..."
+description: "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 80 # Comm..."
 keywords: "gopher, url, https, com, comments, why, article, muffinlabs"
-generated: "2026-10-25T04:06:12.672156"
+generated: "2026-10-25T11:03:34.771637"
 ---
 
 # Why Gopher in 2026?
 
 ## Overview
 
-Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 43 # Comments: 10
+Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 80 # Comments: 29
 
 ## Key Insights
 
