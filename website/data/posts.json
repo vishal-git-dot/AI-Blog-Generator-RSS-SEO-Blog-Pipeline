@@ -1265,6 +1265,17 @@
         "file": "gemini-4-argon-high-intelligence-performance-and-price-analysis.md"
     },
     {
+        "title": "Python rate limiting in 2026: drogue vs slowapi vs limits vs flask-limiter",
+        "slug": "python-rate-limiting-in-2026-drogue-vs-slowapi-vs-limits-vs-flask-limiter",
+        "author": "zlynv",
+        "source": "devto_webdev",
+        "published": "Sun, 25 Oct 2026 03:54:31 +0000",
+        "description": "You're adding rate limiting to a Python web app. The usual suspects are slowapi, flask-limiter, django-ratelimit, and the limits library. There's also drogue...",
+        "keywords": "limiter, drogue, slowapi, request, yes, you, rate, flask",
+        "generated": "2026-10-25T04:06:12.673426",
+        "file": "python-rate-limiting-in-2026-drogue-vs-slowapi-vs-limits-vs-flask-limiter.md"
+    },
+    {
         "title": "Data Engineering Consulting Services: A Buyer’s Guide",
         "slug": "data-engineering-consulting-services-a-buyers-guide",
         "author": "Shivani",
@@ -8841,6 +8852,17 @@
         "keywords": "not, lip, lips, flip, russian, you, one, volume",
         "generated": "2026-08-28T22:02:34.846563",
         "file": "russian-lips-vs-a-lip-flip-the-names-people-search-are-not-the-treatments-clinics-mean.md"
+    },
+    {
+        "title": "Do popular PyPI packages rely on 'OS Independent'? No — the long tail does (81% vs 72%); the head names real platforms",
+        "slug": "do-popular-pypi-packages-rely-on-os-independent-no-the-long-tail-does-81-vs-72-the-head-names-real-platforms",
+        "author": "munimv2",
+        "source": "devto_python",
+        "published": "Sun, 25 Oct 2026 03:14:44 +0000",
+        "description": "Work by Munim, Inc., produced autonomously with AI and published in the open as MV2 of Munim, Inc. This is a reputation and frontier bet, not a product: it h...",
+        "keywords": "head, tail, independent, more, versus, operating, posix, not",
+        "generated": "2026-10-25T04:06:12.673076",
+        "file": "do-popular-pypi-packages-rely-on-os-independent-no-the-long-tail-does-81-vs-72-the-head-names-real-platforms.md"
     },
     {
         "title": "Node.js Report Emails: Custom Domain Deliverability Setup with SPF, DKIM, DMARC",
@@ -18116,6 +18138,17 @@
         "file": "aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported.md"
     },
     {
+        "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+        "slug": "meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+        "author": "nidnogg",
+        "source": "hackernews",
+        "published": "Sun, 25 Oct 2026 02:18:35 +0000",
+        "description": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https://news.y...",
+        "keywords": "meta, employees, say, accounts, restricted, brazil, election, report",
+        "generated": "2026-10-25T04:06:12.671952",
+        "file": "meta-employees-say-lulas-accounts-restricted-in-brazil-election-report.md"
+    },
+    {
         "title": "Wiring Local Memory Into Your Stack via MCP: A Practical Walkthrough",
         "slug": "wiring-local-memory-into-your-stack-via-mcp-a-practical-walkthrough",
         "author": "qianqiuwanzi",
@@ -25152,6 +25185,17 @@
         "file": "react-and-nextjs-avatar-uploads-presigned-urls-or-a-backend-for-private-storage.md"
     },
     {
+        "title": "Xbox Turns Down Netflix $500M Offer",
+        "slug": "xbox-turns-down-netflix-500m-offer",
+        "author": "xoxxala",
+        "source": "hackernews",
+        "published": "Sun, 25 Oct 2026 03:05:53 +0000",
+        "description": "Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/ Comments URL: https://news.ycombinator.com/item?id=50227892 Points: 32 #...",
+        "keywords": "xbox, turns, down, netflix, offer, url, https, com",
+        "generated": "2026-10-25T04:06:12.671812",
+        "file": "xbox-turns-down-netflix-500m-offer.md"
+    },
+    {
         "title": "DFlash 2: Keep Drafting Parallel",
         "slug": "dflash-2-keep-drafting-parallel",
         "author": "mike-the-brain",
@@ -25942,6 +25986,17 @@
         "keywords": "marina, you, month, automation, bookings, hours, she, dms",
         "generated": "2026-06-29T20:06:45.989974",
         "file": "how-a-hair-salon-automated-80-of-their-bookings-case-study.md"
+    },
+    {
+        "title": "AI Privatization Sparks Debate: Ensuring Equitable Ownership and Distribution of Humanity's Collective Knowledge Inheritance",
+        "slug": "ai-privatization-sparks-debate-ensuring-equitable-ownership-and-distribution-of-humanitys-collective-knowledge-inheritance",
+        "author": "Natalia Cherkasova",
+        "source": "devto_ai",
+        "published": "Sun, 25 Oct 2026 03:55:11 +0000",
+        "description": "Technical Reconstruction of AI as Humanity's Collective Inheritance Artificial Intelligence (AI) stands as the culmination of humanity's collective knowledge...",
+        "keywords": "public, collective, humanity, private, wealth, legal, inheritance, ownership",
+        "generated": "2026-10-25T04:06:12.676218",
+        "file": "ai-privatization-sparks-debate-ensuring-equitable-ownership-and-distribution-of-humanitys-collective-knowledge-inheritance.md"
     },
     {
         "title": "We Built a Free AI Tool That Tells You Whether to Bid",
@@ -28650,6 +28705,17 @@
         "file": "one-captcha-still-says-no-0-for-119-and-the-ai-tags-median-climbs-to-15-this-weeks-numbers-w43.md"
     },
     {
+        "title": "DSPy: The End of Prompt Engineering - Kevin Madura, AlixPartners | 告别提示词工程：用DSPy构建模块化、可优化的AI程序",
+        "slug": "dspy-the-end-of-prompt-engineering-kevin-madura-alixpartners-dspyai",
+        "author": "cognitalk",
+        "source": "devto_python",
+        "published": "Sun, 25 Oct 2026 03:10:18 +0000",
+        "description": "https://www.youtube.com/watch?v=-cKUW6n8hBU 告别提示词工程：用DSPy构建模块化、可优化的AI程序 通俗易懂的整体解释 想象一下，你以前指挥一个超级聪明的助手（大语言模型）做事，得事无巨细地写小纸条（提示词），比如“请用JSON格式输出，先思考再回答，语气要专业……”，...",
+        "keywords": "dspy, text, sentiment, react, end, prompt, engineering, kevin",
+        "generated": "2026-10-25T04:06:12.673255",
+        "file": "dspy-the-end-of-prompt-engineering-kevin-madura-alixpartners-dspyai.md"
+    },
+    {
         "title": "I scanned fourteen code hosts. Not one served an MCP server card.",
         "slug": "i-scanned-fourteen-code-hosts-not-one-served-an-mcp-server-card",
         "author": "Erik Rekola",
@@ -28736,6 +28802,17 @@
         "keywords": "concrete, high, loading, self, configuration, mixers, machinery, mixer",
         "generated": "2026-09-04T03:55:40.888445",
         "file": "why-do-high-configuration-self-loading-concrete-mixers-have-greater-long-term-value.md"
+    },
+    {
+        "title": "Building a Zero-Server Video & Audio Stream Extractor with Modern Web Streams (No Server Limits)",
+        "slug": "building-a-zero-server-video-audio-stream-extractor-with-modern-web-streams-no-server-limits",
+        "author": "Uchit Chakma",
+        "source": "devto_webdev",
+        "published": "Sun, 25 Oct 2026 03:54:17 +0000",
+        "description": "Building a Zero-Server Video & Audio Stream Extractor with Modern Web Streams Downloading online videos or extracting clean high-bitrate MP3 audio from socia...",
+        "keywords": "audio, server, video, browser, const, await, ffmpeg, stream",
+        "generated": "2026-10-25T04:06:12.673620",
+        "file": "building-a-zero-server-video-audio-stream-extractor-with-modern-web-streams-no-server-limits.md"
     },
     {
         "title": "The case for persistent sandboxes in AI code execution",
@@ -33565,6 +33642,17 @@
         "keywords": "you, per, million, tokens, gpt, scores, output, costs",
         "generated": "2026-06-27T08:43:42.523070",
         "file": "i-compared-chinese-ai-models-to-gpt-4o-all-weekend-i-was-shocked.md"
+    },
+    {
+        "title": "MCP Shouldn't Require a Desktop: Designing a One-Tap Mobile MCP App",
+        "slug": "mcp-shouldnt-require-a-desktop-designing-a-one-tap-mobile-mcp-app",
+        "author": "jackymenCZ (jackymenCZ)",
+        "source": "devto_webdev",
+        "published": "Sun, 25 Oct 2026 03:49:16 +0000",
+        "description": "Thanks for support.. Release: Sentinel-IR-MCP v0.2.2 on GitLab ( https://gitlab.com/jakubrojicek11/sentinel-ir-mcp/-/tree/v0.2.2?ref_type=tags ) Package: ...",
+        "keywords": "not, mcp, drive, google, first, can, server, search",
+        "generated": "2026-10-25T04:06:12.674636",
+        "file": "mcp-shouldnt-require-a-desktop-designing-a-one-tap-mobile-mcp-app.md"
     },
     {
         "title": "Restoring Digital Sovereignty: Combatting Data Harvesting with Decentralized Access Protocols",
@@ -50164,6 +50252,17 @@
         "file": "do-ai-agents-remember-user-preferences-between-runs-no-unless-you-fix-it.md"
     },
     {
+        "title": "Onboarding Hashnode with GraphQL: A Step‑by‑Step Guide for Teams",
+        "slug": "onboarding-hashnode-with-graphql-a-stepbystep-guide-for-teams",
+        "author": "AIGB Team",
+        "source": "devto_ai",
+        "published": "Sun, 25 Oct 2026 03:50:07 +0000",
+        "description": "Integrating a new publishing platform can feel like a mini‑project on its own: you need access tokens, you have to learn the API surface, and you must prepar...",
+        "keywords": "you, hashnode, content, graphql, token, telegram, your, article",
+        "generated": "2026-10-25T04:06:12.676895",
+        "file": "onboarding-hashnode-with-graphql-a-stepbystep-guide-for-teams.md"
+    },
+    {
         "title": "I checked whether AI search engines actually cite small new sites. Then I built the checker.",
         "slug": "i-checked-whether-ai-search-engines-actually-cite-small-new-sites-then-i-built-the-checker",
         "author": "20976093",
@@ -55506,6 +55605,17 @@
         "keywords": "sales, call, oxlo, openai, llm, can, inference, transcript",
         "generated": "2026-08-07T00:06:40.418763",
         "file": "optimizing-sales-processes-with-llm-integration.md"
+    },
+    {
+        "title": "Cómo validar un RNC de la DGII por API antes de emitir un e-CF (Python y JavaScript)",
+        "slug": "cmo-validar-un-rnc-de-la-dgii-por-api-antes-de-emitir-un-e-cf-python-y-javascript",
+        "author": "OpenData CR",
+        "source": "devto_python",
+        "published": "Sun, 25 Oct 2026 03:32:42 +0000",
+        "description": "Por OpenData CR La DGII extendió hasta el 15 de noviembre de 2026 el plazo de facturación electrónica (e-CF) para contribuyentes pequeños, micros y no clasif...",
+        "keywords": "rnc, code, client, por, del, item, dgii, opendata",
+        "generated": "2026-10-25T04:06:12.672862",
+        "file": "cmo-validar-un-rnc-de-la-dgii-por-api-antes-de-emitir-un-e-cf-python-y-javascript.md"
     },
     {
         "title": "Boolean Parenthesization: The MCM Skeleton, Counting Instead of Minimising",
@@ -63380,6 +63490,17 @@
         "keywords": "color, hex, you, rectangles, figma, board, code, picker",
         "generated": "2026-10-21T21:27:30.864193",
         "file": "i-kept-drawing-rectangles-in-figma-to-save-colors-so-i-built-a-color-board.md"
+    },
+    {
+        "title": "One wrong day at the EU border. So I made the European Commission grade my tests.",
+        "slug": "one-wrong-day-at-the-eu-border-so-i-made-the-european-commission-grade-my-tests",
+        "author": "DEVMO",
+        "source": "devto_webdev",
+        "published": "Sun, 25 Oct 2026 03:44:31 +0000",
+        "description": "By devmo · Built for the #TestSprite Hackathon Season 4 · Live: ninety-coral.vercel.app · Code: github.com/mohamedwael201193/ninety One wrong day A traveller...",
+        "keywords": "testsprite, every, tests, one, app, test, red, ninety",
+        "generated": "2026-10-25T04:06:12.674913",
+        "file": "one-wrong-day-at-the-eu-border-so-i-made-the-european-commission-grade-my-tests.md"
     },
     {
         "title": "I Built a Production-Grade RAG Application From Scratch — Here's Every Concept That Goes Into One",
@@ -71498,6 +71619,17 @@
         "keywords": "you, ask, prompt, entire, when, output, your, step",
         "generated": "2026-08-17T01:39:21.439838",
         "file": "why-you-are-using-ai-wrong-and-how-a-20-minute-shortcut-rewired-my-workflow.md"
+    },
+    {
+        "title": "How to give Claude Code a web scraping tool with Crawl4AI (MCP)",
+        "slug": "how-to-give-claude-code-a-web-scraping-tool-with-crawl4ai-mcp",
+        "author": "Deduped",
+        "source": "devto_python",
+        "published": "Sun, 25 Oct 2026 03:33:22 +0000",
+        "description": "Coding agents are great at research until they need to read a real web page. Crawl4AI is an open-source crawler and scraper that turns websites into clean, L...",
+        "keywords": "mcp, com, your, page, markdown, hosted, claude, use",
+        "generated": "2026-10-25T04:06:12.672702",
+        "file": "how-to-give-claude-code-a-web-scraping-tool-with-crawl4ai-mcp.md"
     },
     {
         "title": "🐍 Mastering dunder methods for immutable data classes",
@@ -79761,6 +79893,17 @@
         "file": "five-concepts-to-learn-before-you-build-with-llms.md"
     },
     {
+        "title": "Why Gopher in 2026?",
+        "slug": "why-gopher-in-2026",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 23:33:19 +0000",
+        "description": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 43 # Comm...",
+        "keywords": "gopher, url, https, com, comments, why, article, muffinlabs",
+        "generated": "2026-10-25T04:06:12.672156",
+        "file": "why-gopher-in-2026.md"
+    },
+    {
         "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
         "slug": "bootimus-a-self-contained-pxe-and-http-boot-server",
         "author": "car",
@@ -82236,6 +82379,17 @@
         "file": "theres-no-escaping-it-an-exploration-of-ansi-codes.md"
     },
     {
+        "title": "Cut Your LLM API Bill: 5 Techniques With Measured Savings",
+        "slug": "cut-your-llm-api-bill-5-techniques-with-measured-savings",
+        "author": "Muhammad Saud",
+        "source": "devto_ai",
+        "published": "Sun, 25 Oct 2026 03:53:40 +0000",
+        "description": "Cutting your LLM API bill means paying only for the tokens that change the answer. Most teams pay full price for the same system prompt thousands of times a ...",
+        "keywords": "tokens, model, input, per, caching, output, bill, argon",
+        "generated": "2026-10-25T04:06:12.676613",
+        "file": "cut-your-llm-api-bill-5-techniques-with-measured-savings.md"
+    },
+    {
         "title": "Muse Code and Muse Spark 1.2",
         "slug": "muse-code-and-muse-spark-12",
         "author": "paulkrush",
@@ -82643,6 +82797,17 @@
         "file": "using-the-railway-network-as-a-flatbed-scanner-video.md"
     },
     {
+        "title": "Add a drag and drop email builder to your Angular app (full tutorial)",
+        "slug": "add-a-drag-and-drop-email-builder-to-your-angular-app-full-tutorial",
+        "author": "Mailkaro",
+        "source": "devto_webdev",
+        "published": "Sun, 25 Oct 2026 03:36:07 +0000",
+        "description": "Every SaaS eventually hears the same request: Can we design our own emails inside your app? Most teams either spend months building an editor, or pay per s...",
+        "keywords": "your, email, app, editor, angular, mailkaro, token, import",
+        "generated": "2026-10-25T04:06:12.675220",
+        "file": "add-a-drag-and-drop-email-builder-to-your-angular-app-full-tutorial.md"
+    },
+    {
         "title": "How I Built a Sales Agent That Actually Remembers Your Prospects",
         "slug": "how-i-built-a-sales-agent-that-actually-remembers-your-prospects",
         "author": "Deepak Paswan",
@@ -82696,6 +82861,17 @@
         "keywords": "you, away, built, item, what, reshaped, mature, marketplace",
         "generated": "2026-07-22T14:08:21.364106",
         "file": "i-reshaped-a-mature-marketplace-platform-into-a-free-give-it-away-app-laravel-inertia-vue-postgis.md"
+    },
+    {
+        "title": "How to Choose the Best Embedding Model for Chatbot RAG Semantic Search",
+        "slug": "how-to-choose-the-best-embedding-model-for-chatbot-rag-semantic-search",
+        "author": "eliasfischer8351",
+        "source": "devto_ai",
+        "published": "Sun, 25 Oct 2026 03:49:05 +0000",
+        "description": "Short answer: choose text-embedding-3-small for most chatbot RAG semantic search, then validate retrieval quality and tenant data boundaries before moving to...",
+        "keywords": "model, embedding, text, tenant, not, one, key, answer",
+        "generated": "2026-10-25T04:06:12.677273",
+        "file": "how-to-choose-the-best-embedding-model-for-chatbot-rag-semantic-search.md"
     },
     {
         "title": "How to Make Money with Python Automation in 2025",
@@ -83653,6 +83829,17 @@
         "keywords": "advertising, platforms, content, controversial, user, their, advertisers, ads",
         "generated": "2026-09-27T21:09:51.532837",
         "file": "meta-and-youtubes-shift-on-do.md"
+    },
+    {
+        "title": "I stopped reading subtitles in video. I built a video voice translator, keep the tone, keep the emotion.",
+        "slug": "i-stopped-reading-subtitles-in-video-i-built-a-video-voice-translator-keep-the-tone-keep-the-emotion",
+        "author": "Qiushui",
+        "source": "devto_ai",
+        "published": "Sun, 25 Oct 2026 03:58:23 +0000",
+        "description": "One evening last year, I was watching an insightful tech video on my computer. It was in English with Chinese subtitles. As I watched, a thought struck me: I...",
+        "keywords": "video, you, but, can, voice, one, something, your",
+        "generated": "2026-10-25T04:06:12.675397",
+        "file": "i-stopped-reading-subtitles-in-video-i-built-a-video-voice-translator-keep-the-tone-keep-the-emotion.md"
     },
     {
         "title": "75 LinkedIn Posts Carried 16,552 Comments. I Could Read 669 of Them",
@@ -94589,6 +94776,17 @@
         "file": "aws-database-mini-projects-rds-aurora-dynamodb-elasticache.md"
     },
     {
+        "title": "A Free Python Script to Audit Your Site's On-Page SEO (Titles, Meta, H1s, Broken Links)",
+        "slug": "a-free-python-script-to-audit-your-sites-on-page-seo-titles-meta-h1s-broken-links",
+        "author": "GroupAITools",
+        "source": "devto_python",
+        "published": "Sun, 25 Oct 2026 03:43:39 +0000",
+        "description": "Paid SEO crawlers are great, but sometimes you just want a quick answer to a few simple questions. Does every page have a title of sensible length? Is any pa...",
+        "keywords": "url, title, link, issues, page, you, len, csv",
+        "generated": "2026-10-25T04:06:12.672509",
+        "file": "a-free-python-script-to-audit-your-sites-on-page-seo-titles-meta-h1s-broken-links.md"
+    },
+    {
         "title": "Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.",
         "slug": "our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won",
         "author": "xulingfeng",
@@ -94807,6 +95005,17 @@
         "keywords": "data, price, market, baseline, your, ranking, hours, all",
         "generated": "2026-07-08T03:22:28.627438",
         "file": "build-a-stable-prepost-market-us-stock-ranking-dashboard.md"
+    },
+    {
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "slug": "cerebras-deploys-trillion-parameter-ai-models",
+        "author": "gmays",
+        "source": "hackernews",
+        "published": "Sun, 25 Oct 2026 01:33:49 +0000",
+        "description": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=502...",
+        "keywords": "cerebras, trillion, parameter, models, url, https, comments, deploys",
+        "generated": "2026-10-25T04:06:12.672025",
+        "file": "cerebras-deploys-trillion-parameter-ai-models.md"
     },
     {
         "title": "AI Is Finding Bugs Faster Than You're Patching Them — What Website Owners Should Do Differently",
@@ -101595,6 +101804,17 @@
         "keywords": "japan, tried, build, operating, system, world, intervened, url",
         "generated": "2026-08-21T06:55:13.094987",
         "file": "japan-tried-to-build-an-operating-system-for-the-world-the-us-intervened.md"
+    },
+    {
+        "title": "FindMyWeb: Apple Find My, reverse enginiered",
+        "slug": "findmyweb-apple-find-my-reverse-enginiered",
+        "author": "Velocifyer",
+        "source": "hackernews",
+        "published": "Sat, 24 Oct 2026 23:42:52 +0000",
+        "description": "Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 34 # Comments: 7",
+        "keywords": "findmyweb, url, https, comments, apple, find, reverse, enginiered",
+        "generated": "2026-10-25T04:06:12.672103",
+        "file": "findmyweb-apple-find-my-reverse-enginiered.md"
     },
     {
         "title": "Investors get real-time view of UK bond market activity for the first time",
