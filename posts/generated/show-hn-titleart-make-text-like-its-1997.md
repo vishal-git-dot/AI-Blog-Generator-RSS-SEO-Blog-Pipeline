@@ -4,16 +4,16 @@ slug: "show-hn-titleart-make-text-like-its-1997"
 author: "davidbarker"
 source: "hackernews"
 published: "Mon, 26 Oct 2026 03:23:57 +0000"
-description: "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 23 # Comments: 7"
+description: "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 274 # Comments: 46"
 keywords: "titleart, url, https, comments, show, make, text, like"
-generated: "2026-10-26T04:10:10.667354"
+generated: "2026-10-26T12:37:04.181541"
 ---
 
 # Show HN: TitleArt – Make text like it's 1997
 
 ## Overview
 
-Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 23 # Comments: 7
+Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 274 # Comments: 46
 
 ## Key Insights
 

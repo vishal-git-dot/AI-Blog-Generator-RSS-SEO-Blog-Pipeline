@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Mon, 26 Oct 2026 03:31:11 +0000"
 description: "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: htt..."
 keywords: "next, computer, url, https, asc, comments, behind, scenes"
-generated: "2026-10-26T04:10:10.667043"
+generated: "2026-10-26T12:37:04.181199"
 ---
 
 # Behind the scenes at the NeXT Computer office
 
 ## Overview
 
-Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 5 # Comments: 1
+Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 155 # Comments: 79
 
 ## Key Insights
 

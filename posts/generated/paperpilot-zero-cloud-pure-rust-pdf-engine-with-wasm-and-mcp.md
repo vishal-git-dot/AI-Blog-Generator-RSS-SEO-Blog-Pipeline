@@ -4,16 +4,16 @@ slug: "paperpilot-zero-cloud-pure-rust-pdf-engine-with-wasm-and-mcp"
 author: "vardhan1237"
 source: "hackernews"
 published: "Mon, 26 Oct 2026 03:29:05 +0000"
-description: "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 7 # Comments: 0"
+description: "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 167 # Comments: 57"
 keywords: "paperpilot, url, https, com, comments, zero, cloud, pure"
-generated: "2026-10-26T04:10:10.667219"
+generated: "2026-10-26T12:37:04.181361"
 ---
 
 # PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
 
 ## Overview
 
-Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 7 # Comments: 0
+Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 167 # Comments: 57
 
 ## Key Insights
 
