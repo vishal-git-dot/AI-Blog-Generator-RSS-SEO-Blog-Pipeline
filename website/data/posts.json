@@ -1276,6 +1276,17 @@
         "file": "05-python-file-handling-exceptions.md"
     },
     {
+        "title": "Find low-stock products in a Shopify CSV with 60 lines of Python",
+        "slug": "find-low-stock-products-in-a-shopify-csv-with-60-lines-of-python",
+        "author": "BotHot",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 17:31:18 +0000",
+        "description": "If you run a small shop, you probably export your products from Shopify now and then. Somewhere in that file are the variants that are almost sold out, and s...",
+        "keywords": "row, qty, handle, threshold, variant, mug, rows, low",
+        "generated": "2026-10-27T17:47:38.997973",
+        "file": "find-low-stock-products-in-a-shopify-csv-with-60-lines-of-python.md"
+    },
+    {
         "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
         "slug": "gemini-4-argon-high-intelligence-performance-and-price-analysis",
         "author": "theanonymousone",
@@ -5149,6 +5160,17 @@
         "file": "ai-automation-for-ai-for-small-scale-specialty-food-producers-how-to-automate-fdanutrition-label-generation-and-ingredient-so.md"
     },
     {
+        "title": "Mitigating Double Execution on External API Timeouts: A Practical Guide to Distributed Concurrency Control",
+        "slug": "mitigating-double-execution-on-external-api-timeouts-a-practical-guide-to-distributed-concurrency-control",
+        "author": "PhenoX",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 17:37:51 +0000",
+        "description": "Mitigating Double Execution on External API Timeouts: A Practical Guide to Distributed Concurrency Control The Problem: Duplicate Execution in the Wake of Ti...",
+        "keywords": "api, redis, request, lock, client, key, ttl, return",
+        "generated": "2026-10-27T17:47:39.000887",
+        "file": "mitigating-double-execution-on-external-api-timeouts-a-practical-guide-to-distributed-concurrency-control.md"
+    },
+    {
         "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
         "slug": "what-driving-across-europe-costs-in-tolls-vignettes-bridges-and-fuel",
         "author": "heikkikalliokos",
@@ -7624,6 +7646,17 @@
         "file": "buy-running-cbse-school-in-gurgaon.md"
     },
     {
+        "title": "Three CSVs In, 1,272 Food Pages Out: PregNut's Boring Static Build",
+        "slug": "three-csvs-in-1272-food-pages-out-pregnuts-boring-static-build",
+        "author": "Yuriy Stasyuk",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 17:29:45 +0000",
+        "description": "PregNut is a free pregnancy food lookup I've been building since 2018. You search a food and see how 100 grams of it stacks up against the daily amounts preg...",
+        "keywords": "food, page, one, has, data, reference, pages, pregnut",
+        "generated": "2026-10-27T17:47:39.000183",
+        "file": "three-csvs-in-1272-food-pages-out-pregnuts-boring-static-build.md"
+    },
+    {
         "title": "File Counts Stay Green While Walker Extracts Reorder Paths",
         "slug": "file-counts-stay-green-while-walker-extracts-reorder-paths",
         "author": "Dakota Huang",
@@ -8467,6 +8500,17 @@
         "keywords": "you, one, free, openai, gpt, intelligent, can, not",
         "generated": "2026-10-12T05:22:20.395271",
         "file": "gpt-6s-intelligent-ui-the-business-tasks-wed-actually-trust-it-with.md"
+    },
+    {
+        "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+        "slug": "police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior",
+        "author": "gumby",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 16:40:15 +0000",
+        "description": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "police, using, pull, over, drivers, suspicious, behavior, url",
+        "generated": "2026-10-27T17:47:38.997566",
+        "file": "police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior.md"
     },
     {
         "title": "Chop up your books",
@@ -18127,6 +18171,17 @@
         "file": "how-i-built-15-browser-tools-with-zero-backend.md"
     },
     {
+        "title": "What if a programming language asked 'What do you intend?' instead of 'How?'",
+        "slug": "what-if-a-programming-language-asked-what-do-you-intend-instead-of-how",
+        "author": "Art",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 17:30:05 +0000",
+        "description": "Most programming languages ask you a question before you've even started: How? How do I allocate this window? How do I register this callback? How do I keep ...",
+        "keywords": "you, what, how, sml, sms, language, button, small",
+        "generated": "2026-10-27T17:47:39.002983",
+        "file": "what-if-a-programming-language-asked-what-do-you-intend-instead-of-how.md"
+    },
+    {
         "title": "A decorrelated bot that loses money is just a diversified way to lose money",
         "slug": "a-decorrelated-bot-that-loses-money-is-just-a-diversified-way-to-lose-money",
         "author": "Dry Run",
@@ -19126,6 +19181,17 @@
         "keywords": "great, question, product, url, https, ycombinator, com, comments",
         "generated": "2026-10-03T16:02:08.700035",
         "file": "great-question-yc-w21-is-hiring-product-engineers-in-canada-remote.md"
+    },
+    {
+        "title": "DEV·TV's second real ad is live, and the next one could be yours 📺",
+        "slug": "devtvs-second-real-ad-is-live-and-the-next-one-could-be-yours",
+        "author": "Shouvik Palit",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 17:29:09 +0000",
+        "description": "A few days ago, DEV·TV ran its first real ad. Until then, every commercial break was a joke: Off-By-One Pizza 🍕, Rollback Airlines ✈️, node_modules Self Stor...",
+        "keywords": "one, living, canvas, project, your, dev, github, com",
+        "generated": "2026-10-27T17:47:39.000367",
+        "file": "devtvs-second-real-ad-is-live-and-the-next-one-could-be-yours.md"
     },
     {
         "title": "Why I Stopped Paying for ElevenLabs in 2026: The Hidden Limitations for Commercial Video Workflows",
@@ -26032,6 +26098,17 @@
         "file": "verify-everything-how-ai-fact-checking-tools-protect-your-content-and-credibility.md"
     },
     {
+        "title": "Intro To Webassembly With Rust",
+        "slug": "intro-to-webassembly-with-rust",
+        "author": "Phil IPS",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 17:34:13 +0000",
+        "description": "Intro to WebAssembly with Rust Introduction WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine. It enables near-native-speed...",
+        "keywords": "rust, webassembly, wasm, web, pack, module, function, performance",
+        "generated": "2026-10-27T17:47:38.999730",
+        "file": "intro-to-webassembly-with-rust.md"
+    },
+    {
         "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
         "slug": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm",
         "author": "soycaporal",
@@ -29231,6 +29308,17 @@
         "keywords": "self, cache, decimal, region, quote, pricing, not, extract",
         "generated": "2026-09-13T04:13:41.161681",
         "file": "pin-a-god-pricers-env-cache-and-quote-before-one-extract.md"
+    },
+    {
+        "title": "Python web scraping is a must-have skill for developers working with data! 🐍 From choosing the right tools to writing your first scraper, this guide covers the essentials with practical tips and code examples. 🚀",
+        "slug": "python-web-scraping-is-a-must-have-skill-for-developers-working-with-data-from-choosing-the-right-tools-to-writing-your-first-scraper-this-guide-covers-the-essentials-with-practical-tips-and-code-examples-check-it-out",
+        "author": "Alina Shah",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 17:28:04 +0000",
+        "description": "Getting Started With Python Web Scraping: Tools, Tips & Code Alina Shah Alina Shah Alina Shah Follow for Dev Stack Community Oct 27 Getting Started With Pyth...",
+        "keywords": "python, web, scraping, tools, tips, code, alina, shah",
+        "generated": "2026-10-27T17:47:38.998085",
+        "file": "python-web-scraping-is-a-must-have-skill-for-developers-working-with-data-from-choosing-the-right-tools-to-writing-your-first-scraper-this-guide-covers-the-essentials-with-practical-tips-and-code-examples-check-it-out.md"
     },
     {
         "title": "AIPass is feature-complete. Here is what that means, and the phone app on top",
@@ -34645,6 +34733,17 @@
         "file": "i-documented-all-7-ways-an-ai-agent-can-die-here-is-the-one-fix-that-stops-them-all.md"
     },
     {
+        "title": "Catchment: answering five questions about a place with one database",
+        "slug": "catchment-answering-five-questions-about-a-place-with-one-database",
+        "author": "Harish Kotra (he/him)",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 17:35:44 +0000",
+        "description": "Can I rent here? is not a question. It is five questions wearing a trench coat. Which ward is this? Which zone? How far is the nearest lake? Is there a hos...",
+        "keywords": "query, not, point, rows, one, spatial, const, which",
+        "generated": "2026-10-27T17:47:39.001455",
+        "file": "catchment-answering-five-questions-about-a-place-with-one-database.md"
+    },
+    {
         "title": "Your Free Model Quota Is a Bank Account. Build a Budget Proxy on a Free Server",
         "slug": "your-free-model-quota-is-a-bank-account-build-a-budget-proxy-on-a-free-server",
         "author": "Jordan Huang",
@@ -38242,6 +38341,17 @@
         "file": "zigbee-vs-matter-over-threadunderstanding-iot-protocol-performance-in-practice.md"
     },
     {
+        "title": "Classification of Finite Simple Groups Formalized in Lean",
+        "slug": "classification-of-finite-simple-groups-formalized-in-lean",
+        "author": "pfdietz",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 16:29:02 +0000",
+        "description": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 35 # Comments: 15",
+        "keywords": "url, https, comments, classification, finite, simple, groups, formalized",
+        "generated": "2026-10-27T17:47:38.997726",
+        "file": "classification-of-finite-simple-groups-formalized-in-lean.md"
+    },
+    {
         "title": "Master the Python Piscine: Your Ultimate OOP, Data, and Automation Cheat Sheet 🐍🚀",
         "slug": "master-the-python-piscine-your-ultimate-oop-data-and-automation-cheat-sheet",
         "author": "Benjamin Koimett",
@@ -39230,6 +39340,17 @@
         "keywords": "accessibility, button, aria, firefox, screen, panel, reader, testing",
         "generated": "2026-10-16T11:05:26.347204",
         "file": "firefox-accessibility-devtools-aria-debugging-contrast-checking-and-screen-reader-testing.md"
+    },
+    {
+        "title": "Do AI agent skills actually improve results? How I test them, including the ones that failed",
+        "slug": "do-ai-agent-skills-actually-improve-results-how-i-test-them-including-the-ones-that-failed",
+        "author": "Tim Schroeder",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 17:32:45 +0000",
+        "description": "A skill file (a SKILL.md with instructions an agent loads on demand) can easily make an agent's answer look more thorough. Whether it makes the answer more c...",
+        "keywords": "skill, runs, not, tasks, baseline, first, answer, run",
+        "generated": "2026-10-27T17:47:39.002695",
+        "file": "do-ai-agent-skills-actually-improve-results-how-i-test-them-including-the-ones-that-failed.md"
     },
     {
         "title": "7 Date Calculation Mistakes Every Developer Makes",
@@ -50813,6 +50934,17 @@
         "file": "how-to-build-a-browser-based-ringtone-editor-with-the-web-audio-api.md"
     },
     {
+        "title": "Mossad Has Devices Like the Exploding Pagers in Every Country You Can Imagine",
+        "slug": "mossad-has-devices-like-the-exploding-pagers-in-every-country-you-can-imagine",
+        "author": "newspaper1",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 17:31:20 +0000",
+        "description": "Article URL: https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are...",
+        "keywords": "news, mossad, devices, like, exploding, pagers, every, country",
+        "generated": "2026-10-27T17:47:38.997354",
+        "file": "mossad-has-devices-like-the-exploding-pagers-in-every-country-you-can-imagine.md"
+    },
+    {
         "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
         "slug": "new-paper-shows-that-37-of-workers-in-us-saw-real-wages-decline-from-2021-2024-pdf",
         "author": "jplusequalt",
@@ -60984,6 +61116,17 @@
         "keywords": "you, model, use, agent, screen, click, computer, screenshot",
         "generated": "2026-10-09T22:28:36.763612",
         "file": "building-screen-automation-agents-vision-grounding-and-reliable-ui-control.md"
+    },
+    {
+        "title": "The Agentic Development Lifecycle - The Four Pillars",
+        "slug": "the-agentic-development-lifecycle-the-four-pillars",
+        "author": "Praveen Govindaraj",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 17:34:08 +0000",
+        "description": "Your context window is a budget, not a bucket - Chapter 6 · Why giving your agent more context can make it worse Why giving your AI coding agent more context...",
+        "keywords": "context, agent, information, can, more, agents, what, not",
+        "generated": "2026-10-27T17:47:39.002005",
+        "file": "the-agentic-development-lifecycle-the-four-pillars.md"
     },
     {
         "title": "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
@@ -91663,6 +91806,17 @@
         "file": "functional-ultrasound-imaging-fusi-from-scratch.md"
     },
     {
+        "title": "Five rich-text editors, five ways to inject text, and the layer that actually matters",
+        "slug": "five-rich-text-editors-five-ways-to-inject-text-and-the-layer-that-actually-matters",
+        "author": "Lakhyajit Changmai",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 17:36:11 +0000",
+        "description": "The DOM is not the source of truth. That sounds obvious, and it is the thing that breaks almost every browser agent that edits text on a page. The field fill...",
+        "keywords": "text, not, you, state, layer, editor, document, true",
+        "generated": "2026-10-27T17:47:38.999589",
+        "file": "five-rich-text-editors-five-ways-to-inject-text-and-the-layer-that-actually-matters.md"
+    },
+    {
         "title": "JavaScript for Beginners: Your First Step into Web Development 🚀",
         "slug": "javascript-for-beginners-your-first-step-into-web-development",
         "author": "Narasimma Radhakrishnan",
@@ -92002,6 +92156,17 @@
         "keywords": "folder, our, engine, cleanup, garbage, but, its, deleted",
         "generated": "2026-09-15T04:21:15.142504",
         "file": "the-leak-that-wont-die-how-we-broke-pythons-tempfile.md"
+    },
+    {
+        "title": "Phoenix Explained: Real-Time Web Apps That Never Stop",
+        "slug": "phoenix-explained-real-time-web-apps-that-never-stop",
+        "author": "The Practical Developer",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 17:30:01 +0000",
+        "description": "Introduction Most web frameworks treat real-time features — live updates, chat, collaborative editing — as an add-on: bolt on WebSockets, manage connections ...",
+        "keywords": "phoenix, real, time, connection, server, web, live, elixir",
+        "generated": "2026-10-27T17:47:38.999908",
+        "file": "phoenix-explained-real-time-web-apps-that-never-stop.md"
     },
     {
         "title": "A Filosofia Oculta das Ferramentas (Agente ou a gente ?)",
@@ -92508,6 +92673,17 @@
         "keywords": "you, learning, need, course, build, most, skills, path",
         "generated": "2026-07-24T13:55:42.405129",
         "file": "do-you-really-need-to-code-to-learn-ai-lets-clear-this-up.md"
+    },
+    {
+        "title": "Getting Started With Python Web Scraping: Tools, Tips & Code",
+        "slug": "getting-started-with-python-web-scraping-tools-tips-code",
+        "author": "Alina Shah",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 17:21:13 +0000",
+        "description": "Have you ever wanted to collect product prices from multiple websites, track job listings, or gather article titles without copying everything manually? That...",
+        "keywords": "html, requests, page, scraping, you, python, data, when",
+        "generated": "2026-10-27T17:47:38.998942",
+        "file": "getting-started-with-python-web-scraping-tools-tips-code.md"
     },
     {
         "title": "Soul in Motion — 12:48 AM | 2026-09-27",
@@ -95590,14 +95766,14 @@
         "file": "a-browser-strategy-game-with-exactly-one-resource.md"
     },
     {
-        "title": "Несколько решений решения задачи из учебника проверка палиндрома",
+        "title": "🤖 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝘃𝘀 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 — 𝗪𝗵𝗮𝘁'𝘀 𝘁𝗵𝗲 𝗥𝗲𝗮𝗹 𝗗𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝗰𝗲?",
         "slug": "",
-        "author": "Chuong Nhu Hoa",
+        "author": "Dev Learning Tools",
         "source": "devto_python",
-        "published": "Tue, 13 Oct 2026 22:06:54 +0000",
-        "description": "У большинства учебных задач есть минимум два честных решения — сравним их. Задача Дана строка s . Определить, читается ли она одинаково слева направо и справ...",
-        "keywords": "isalnum, cleaned, print, true, false, def, str, bool",
-        "generated": "2026-10-13T22:28:13.079465",
+        "published": "Tue, 27 Oct 2026 17:22:41 +0000",
+        "description": "AI agent and agentic AI get thrown around like they mean the same thing, but they don't. One is a focused software actor with a defined job. The other is...",
+        "keywords": "agent, agentic, one, system, they, real, you, across",
+        "generated": "2026-10-27T17:47:38.998246",
         "file": ".md"
     },
     {
@@ -100365,6 +100541,17 @@
         "file": "ai-in-mathematics-is-forcing-big-questions.md"
     },
     {
+        "title": "Ghostty 1.4.0",
+        "slug": "ghostty-140",
+        "author": "deaux",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 16:51:22 +0000",
+        "description": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 81 # Comments: 23",
+        "keywords": "ghostty, url, https, comments, article, org, docs, install",
+        "generated": "2026-10-27T17:47:38.997477",
+        "file": "ghostty-140.md"
+    },
+    {
         "title": "How Multi-Agent AI Systems Are Reshaping E-Commerce Search",
         "slug": "how-multi-agent-ai-systems-are-reshaping-e-commerce-search",
         "author": "Searchless",
@@ -102717,6 +102904,17 @@
         "keywords": "shutting, down, our, public, encrypted, dns, url, https",
         "generated": "2026-09-04T20:35:59.562272",
         "file": "shutting-down-our-public-encrypted-dns.md"
+    },
+    {
+        "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+        "slug": "a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there",
+        "author": "ck2",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 16:38:08 +0000",
+        "description": "Article URL: https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/ Comments URL: https://news.ycombina...",
+        "keywords": "year, old, doge, operative, gutted, usaid, had, record",
+        "generated": "2026-10-27T17:47:38.997651",
+        "file": "a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there.md"
     },
     {
         "title": "Top 10 Places to Buy Google Voice Accounts Verified & Safe",
@@ -110834,6 +111032,17 @@
         "keywords": "asian, startups, launch, mythos, like, models, url, https",
         "generated": "2026-06-27T13:54:40.038652",
         "file": "asian-ai-startups-launch-mythos-like-models.md"
+    },
+    {
+        "title": "Downloading an Alibaba supplier's whole catalog as JSON (and vetting suppliers with it)",
+        "slug": "downloading-an-alibaba-suppliers-whole-catalog-as-json-and-vetting-suppliers-with-it",
+        "author": "Gio Rich",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 17:18:46 +0000",
+        "description": "I built this actor; it's a paid tool on Apify with a free trial credit. Searching Alibaba shows you products from hundreds of suppliers. Once you have a shor...",
+        "keywords": "supplier, store, items, alibaba, products, product, client, run",
+        "generated": "2026-10-27T17:47:38.999283",
+        "file": "downloading-an-alibaba-suppliers-whole-catalog-as-json-and-vetting-suppliers-with-it.md"
     },
     {
         "title": "How We Built an Adult Height Predictor: The Math, the Science, and the Edge Cases",
