@@ -1221,6 +1221,17 @@
         "file": "advanced-programmatic-fhir-execution-in-intersystems-iris-a-deep-dive-into-objectscript-integration.md"
     },
     {
+        "title": "Google Maps Scraper: how to get Places, Phones, Hours as JSON or CSV (Python, API, no code)",
+        "slug": "google-maps-scraper-how-to-get-places-phones-hours-as-json-or-csv-python-api-no-code",
+        "author": "voiddo",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 04:14:05 +0000",
+        "description": "Scrape Google Maps business listings by search and place: name, category, address, coordinates, rating, review count, phone, website, opening hours, place ID...",
+        "keywords": "google, maps, coffee, text, apify, shop, berlin, run",
+        "generated": "2026-10-27T04:29:39.750717",
+        "file": "google-maps-scraper-how-to-get-places-phones-hours-as-json-or-csv-python-api-no-code.md"
+    },
+    {
         "title": "Untyped Python? Let Antigravity /goal Do the Cleanup",
         "slug": "untyped-python-let-antigravity-goal-do-the-cleanup",
         "author": "Giorgio Boa",
@@ -3672,6 +3683,17 @@
         "keywords": "url, https, comments, grace, hopper, celebration, cancelled, article",
         "generated": "2026-10-14T04:22:01.692164",
         "file": "grace-hopper-celebration-cancelled.md"
+    },
+    {
+        "title": "Same feature, two diffs: 100 vs 57. I built a gate that scores AI code changes.",
+        "slug": "same-feature-two-diffs-100-vs-57-i-built-a-gate-that-scores-ai-code-changes",
+        "author": "Muse Spark",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 03:55:13 +0000",
+        "description": "Ask an AI coding agent to fix a one-line greeting bug and you know what comes back: it works — and it brings friends. A new module, a framework, four abstrac...",
+        "keywords": "diff, new, gate, diffdiet, score, same, agent, can",
+        "generated": "2026-10-27T04:29:39.751185",
+        "file": "same-feature-two-diffs-100-vs-57-i-built-a-gate-that-scores-ai-code-changes.md"
     },
     {
         "title": "The Difference Between Information Access and Authority Recognition",
@@ -9963,6 +9985,17 @@
         "keywords": "merge, files, pdfs, pages, file, your, them, merging",
         "generated": "2026-09-27T04:44:48.253767",
         "file": "how-to-merge-pdf-files-without-uploading-them-anywhere.md"
+    },
+    {
+        "title": "LanternLoom AI: An Interactive Voice, 60 FPS Canvas & Procedural Audio Folklore Storybook Built with Gemma 4, ADK & TabPFN",
+        "slug": "lanternloom-ai-an-interactive-voice-60-fps-canvas-procedural-audio-folklore-storybook-built-with-gemma-4-adk-tabpfn",
+        "author": "Robina Mirbahar",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 04:18:50 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built Across every culture, autumn evenings and Dia d...",
+        "keywords": "tabpfn, chapter, canvas, folklore, voice, gemma, agent, wav",
+        "generated": "2026-10-27T04:29:39.750368",
+        "file": "lanternloom-ai-an-interactive-voice-60-fps-canvas-procedural-audio-folklore-storybook-built-with-gemma-4-adk-tabpfn.md"
     },
     {
         "title": "SGLang Explained: Why LLM Inference Needed Its Own Programming Language",
@@ -27671,6 +27704,17 @@
         "file": "why-microsoft-entertainment-pack-had-a-sticker-announcing-that-it-had-tetris.md"
     },
     {
+        "title": "Robotic therapy for stroke patients",
+        "slug": "robotic-therapy-for-stroke-patients",
+        "author": "Ashish",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 04:17:55 +0000",
+        "description": "弱視トレーニングは「続かない」が最大の敵だった——AI×ロボットのリハビリ報道から考える、VRゲームという選択肢 1. きっかけは、リハビリの「人手不足」ニュース MIT Technology Reviewが報じた「Robotic therapy for stroke patients」。 脳卒中を起こした人のう...",
+        "keywords": "stage, robotic, therapy, stroke, patients, amblyopunch, meta, mit",
+        "generated": "2026-10-27T04:29:39.754409",
+        "file": "robotic-therapy-for-stroke-patients.md"
+    },
+    {
         "title": "I Built Two Free Productivity Tools in Pure HTML — Here's How They Work",
         "slug": "i-built-two-free-productivity-tools-in-pure-html-heres-how-they-work",
         "author": "K1R4",
@@ -30179,6 +30223,17 @@
         "file": "mastering-video-hooks-with-open-loop-hook.md"
     },
     {
+        "title": "Prompt Injection Is the New SQL Injection: A Checklist for Teams Shipping LLM Features",
+        "slug": "prompt-injection-is-the-new-sql-injection-a-checklist-for-teams-shipping-llm-features",
+        "author": "Lycore Development",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 04:22:52 +0000",
+        "description": "TL;DR: Prompt injection is the SQL injection of LLM features. The difference is that it has no equivalent of the parameterized query. You can't fully escape...",
+        "keywords": "model, can, tool, prompt, injection, data, user, you",
+        "generated": "2026-10-27T04:29:39.753480",
+        "file": "prompt-injection-is-the-new-sql-injection-a-checklist-for-teams-shipping-llm-features.md"
+    },
+    {
         "title": "The last hour before you hand off a client site — a pre-delivery QA checklist that ends in SHIP / DO NOT SHIP",
         "slug": "the-last-hour-before-you-hand-off-a-client-site-a-pre-delivery-qa-checklist-that-ends-in-ship-do-not-ship",
         "author": "projectnomad",
@@ -32467,6 +32522,17 @@
         "file": "build-a-custom-dependency-injection-container.md"
     },
     {
+        "title": "Seven months of early mornings for a tool that watches dates",
+        "slug": "seven-months-of-early-mornings-for-a-tool-that-watches-dates",
+        "author": "Vladimir Kocjancic",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 04:23:29 +0000",
+        "description": "It was Saturday. I distinctly remember. I was still knackered when I woke up. It shouldn't have surprised me, really. I had been pulling overtime all week. A...",
+        "keywords": "had, you, time, app, users, certificate, but, when",
+        "generated": "2026-10-27T04:29:39.752924",
+        "file": "seven-months-of-early-mornings-for-a-tool-that-watches-dates.md"
+    },
+    {
         "title": "Changes to LLM pricing: Inceptron, Morph and NextBit",
         "slug": "changes-to-llm-pricing-inceptron-morph-and-nextbit",
         "author": "Narev Bot",
@@ -34687,6 +34753,17 @@
         "keywords": "balance, statement, books, bank, opening, uncleared, gap, month",
         "generated": "2026-10-17T20:22:56.708553",
         "file": "migrating-books-between-providers-tying-opening-balances-to-bank-statements-with-uncleared-items.md"
+    },
+    {
+        "title": "Decoding Web3 Architecture: A Comprehensive Technical Guide to Blockchain Development Foundations",
+        "slug": "decoding-web3-architecture-a-comprehensive-technical-guide-to-blockchain-development-foundations",
+        "author": "Aditya Pratap Bhuyan",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 04:24:07 +0000",
+        "description": "Entering the world of Web3 development requires shifting your mental model from traditional client-server architecture (like Web2 apps using centralized data...",
+        "keywords": "your, data, real, block, user, node, blockchain, you",
+        "generated": "2026-10-27T04:29:39.752535",
+        "file": "decoding-web3-architecture-a-comprehensive-technical-guide-to-blockchain-development-foundations.md"
     },
     {
         "title": "HMD Touch 4G",
@@ -40682,6 +40759,17 @@
         "keywords": "you, rag, retrieval, model, real, context, production, data",
         "generated": "2026-06-24T04:04:51.777643",
         "file": "rag-in-production-the-failure-modes-nobody-warns-you-about.md"
+    },
+    {
+        "title": "Preventing Cache Stampedes Caused by Synchronized Redis TTL Expiration: Jitter Implementation Patterns & Runtime Pitfalls",
+        "slug": "preventing-cache-stampedes-caused-by-synchronized-redis-ttl-expiration-jitter-implementation-patterns-runtime-pitfalls",
+        "author": "PhenoX",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 04:23:00 +0000",
+        "description": "Preventing Cache Stampedes Caused by Synchronized Redis TTL Expiration: Jitter Implementation Patterns & Runtime Pitfalls 1. Mechanics of Cache Stampede and ...",
+        "keywords": "cache, ttl, redis, client, jitter, text, int, orjson",
+        "generated": "2026-10-27T04:29:39.754105",
+        "file": "preventing-cache-stampedes-caused-by-synchronized-redis-ttl-expiration-jitter-implementation-patterns-runtime-pitfalls.md"
     },
     {
         "title": "Uptime Monitoring for E-Commerce: A Complete Guide to Zero Revenue Loss from Downtime",
@@ -50197,6 +50285,17 @@
         "file": "i-let-an-ai-test-my-app-55-times-in-a-week-heres-what-it-broke-and-what-i-broke.md"
     },
     {
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "slug": "cross-request-kv-cache-exposure-in-the-glm-53-workers-ai-model-155-responses",
+        "author": "wondersky",
+        "source": "hackernews",
+        "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+        "description": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 96 # Comments: 30",
+        "keywords": "cache, exposure, url, https, com, comments, cross, request",
+        "generated": "2026-10-27T04:29:39.749738",
+        "file": "cross-request-kv-cache-exposure-in-the-glm-53-workers-ai-model-155-responses.md"
+    },
+    {
         "title": "Turning a Chat Thread into a Product",
         "slug": "turning-a-chat-thread-into-a-product",
         "author": "John Polacek",
@@ -51339,6 +51438,17 @@
         "keywords": "creating, note, taker, gemini, api, try, live, project",
         "generated": "2026-06-12T10:23:24.149939",
         "file": "creating-an-ai-note-taker-with-gemini-api.md"
+    },
+    {
+        "title": "The Exponential Time Hypothesis Is False [pdf]",
+        "slug": "the-exponential-time-hypothesis-is-false-pdf",
+        "author": "vok",
+        "source": "hackernews",
+        "published": "Mon, 26 Oct 2026 21:59:15 +0000",
+        "description": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https:...",
+        "keywords": "https, news, ycombinator, com, item, comments, exponential, time",
+        "generated": "2026-10-27T04:29:39.749901",
+        "file": "the-exponential-time-hypothesis-is-false-pdf.md"
     },
     {
         "title": "Turn plain English into pandas code — with AST validation (free tool)",
@@ -53746,6 +53856,17 @@
         "keywords": "cost, training, qlora, model, not, cuts, what, fine",
         "generated": "2026-10-16T20:47:14.409321",
         "file": "ai-training-cost-cuts-what-90-savings-actually-requires.md"
+    },
+    {
+        "title": "5 AI Coding & Builder Tools You Can Actually Use for Free (Oct 2026)",
+        "slug": "5-ai-coding-builder-tools-you-can-actually-use-for-free-oct-2026",
+        "author": "Tool Use Cases (Lali Publications)",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 04:16:22 +0000",
+        "description": "Most AI developer tools ask for a credit card before they let you build anything real, or hide their actual model restrictions in pricing footnotes. At Tool ...",
+        "keywords": "you, free, use, your, when, coding, google, oct",
+        "generated": "2026-10-27T04:29:39.755176",
+        "file": "5-ai-coding-builder-tools-you-can-actually-use-for-free-oct-2026.md"
     },
     {
         "title": "Build a Chatbot in Python From Scratch: No API Keys, No AI Libraries",
@@ -56254,6 +56375,17 @@
         "keywords": "you, local, block, transaction, bitcoin, regtest, network, your",
         "generated": "2026-06-08T20:25:42.487802",
         "file": "navigating-bitcoin-core-a-developer-introduction-to-scripting-the-blockchain.md"
+    },
+    {
+        "title": "How Software Engineers Slash Claude AI Bills by -95%: FreeLLMAPI & OmniRoute Setup",
+        "slug": "how-software-engineers-slash-claude-ai-bills-by-95-freellmapi-omniroute-setup",
+        "author": "Tech Publishers AI Lab",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 04:19:13 +0000",
+        "description": "Software engineering has entered the agentic era. Tools like Cursor IDE , Claude Code CLI , Cline , and Windsurf make writing code 10x faster. But as anyone ...",
+        "keywords": "claude, free, freellmapi, omniroute, ide, developer, github, http",
+        "generated": "2026-10-27T04:29:39.753726",
+        "file": "how-software-engineers-slash-claude-ai-bills-by-95-freellmapi-omniroute-setup.md"
     },
     {
         "title": "Changes to LLM pricing: Sail Research",
@@ -61162,6 +61294,17 @@
         "file": "no-pass-no-pr-a-small-python-tool-for-safe-api-drift-repair.md"
     },
     {
+        "title": "Product Schema for Inquiry-Only Products: What to Emit When There Is No Price",
+        "slug": "product-schema-for-inquiry-only-products-what-to-emit-when-there-is-no-price",
+        "author": "AumCreate",
+        "source": "devto_webdev",
+        "published": "Tue, 27 Oct 2026 04:26:15 +0000",
+        "description": "A product page with no price is not a broken product page — it is a different commercial model. The markup answer is short: emit Product for the item itself,...",
+        "keywords": "product, xyz, type, https, products, example, page, com",
+        "generated": "2026-10-27T04:29:39.752066",
+        "file": "product-schema-for-inquiry-only-products-what-to-emit-when-there-is-no-price.md"
+    },
+    {
         "title": "Vinix – A modern operating system written in V",
         "slug": "vinix-a-modern-operating-system-written-in-v",
         "author": "hggh",
@@ -61884,6 +62027,17 @@
         "keywords": "backtrack, free, cursive, url, https, comments, article, mmapped",
         "generated": "2026-07-13T09:37:40.643477",
         "file": "backtrack-free-cursive.md"
+    },
+    {
+        "title": "Incremental rust builds up to 92x faster than cargo/rustc",
+        "slug": "incremental-rust-builds-up-to-92x-faster-than-cargorustc",
+        "author": "0x1997",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 03:09:07 +0000",
+        "description": "Article URL: https://github.com/indexable-inc/blaze Comments URL: https://news.ycombinator.com/item?id=50254300 Points: 26 # Comments: 6",
+        "keywords": "url, https, com, comments, incremental, rust, builds, faster",
+        "generated": "2026-10-27T04:29:39.749505",
+        "file": "incremental-rust-builds-up-to-92x-faster-than-cargorustc.md"
     },
     {
         "title": "Your Database Is Small. That Doesn’t Mean Your Queries Are Fast",
@@ -69740,6 +69894,17 @@
         "file": "deepseek-costs-opencode-go-user-114day-dual-dgx-breaks-even-in-24-years.md"
     },
     {
+        "title": "OpenAI Beelzebub Linux Simulation with Custom Wazuh Detection Rules",
+        "slug": "openai-beelzebub-linux-simulation-with-custom-wazuh-detection-rules",
+        "author": "james chambers",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 04:16:32 +0000",
+        "description": "Intro I set out on this lab to learn how to set up a honey pot and how to connect it to SIEM. I choose a honeypot called Beelzebub that can emulate real shel...",
+        "keywords": "beelzebub, wazuh, had, all, using, scan, attack, commands",
+        "generated": "2026-10-27T04:29:39.754824",
+        "file": "openai-beelzebub-linux-simulation-with-custom-wazuh-detection-rules.md"
+    },
+    {
         "title": "My app didn't go viral. My AWS bill did.",
         "slug": "my-app-didnt-go-viral-my-aws-bill-did",
         "author": "L. Cordero",
@@ -73335,6 +73500,17 @@
         "keywords": "you, agent, before, not, what, production, rollback, want",
         "generated": "2026-07-25T08:14:00.365560",
         "file": "a-simple-readiness-checklist-before-you-let-an-ai-agent-touch-production.md"
+    },
+    {
+        "title": "Why reviewing AI code is a bottleneck (and how to fix it)",
+        "slug": "why-reviewing-ai-code-is-a-bottleneck-and-how-to-fix-it",
+        "author": "Jigar Prajapati",
+        "source": "devto_ai",
+        "published": "Tue, 27 Oct 2026 04:18:33 +0000",
+        "description": "We’ve all been there. You give Cursor, Claude Code, or an autonomous agent a prompt. It thinks for 20 seconds and spits out a 500-line diff across 12 files. ...",
+        "keywords": "code, you, diff, review, auth, test, dependency, high",
+        "generated": "2026-10-27T04:29:39.754271",
+        "file": "why-reviewing-ai-code-is-a-bottleneck-and-how-to-fix-it.md"
     },
     {
         "title": "Example.com Just Launched the Biggest Redesign in Decades",
@@ -82357,6 +82533,17 @@
         "file": "i-rebuilt-my-2018-agario-clone-around-real-orbital-physics-with-no-game-server.md"
     },
     {
+        "title": "Firing Doxygen: Native Parser Architecture and Adopting libclang",
+        "slug": "firing-doxygen-native-parser-architecture-and-adopting-libclang",
+        "author": "Flude team",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 04:10:13 +0000",
+        "description": "Doxygen had been with us since day one. At the MVP stage, it was a conscious and absolutely correct choice: it allowed us not to write a C++ parser from scra...",
+        "keywords": "parser, doxygen, native, libclang, parsers, architecture, but, planned",
+        "generated": "2026-10-27T04:29:39.750966",
+        "file": "firing-doxygen-native-parser-architecture-and-adopting-libclang.md"
+    },
+    {
         "title": "Headless browser detection before JS runs: JA4, WebGL and CDP timing",
         "slug": "headless-browser-detection-before-js-runs-ja4-webgl-and-cdp-timing",
         "author": "Yahor Papou",
@@ -88394,6 +88581,17 @@
         "keywords": "device, personal, network, browser, every, hardware, users, without",
         "generated": "2026-07-02T09:22:43.956414",
         "file": "structural-isolation-shielding-personal-device-metrics-from-network-scrapers.md"
+    },
+    {
+        "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+        "slug": "is-php-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+        "author": "rmason",
+        "source": "hackernews",
+        "published": "Mon, 26 Oct 2026 22:27:17 +0000",
+        "description": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https...",
+        "keywords": "php, running, your, coldfusion, server, how, check, remove",
+        "generated": "2026-10-27T04:29:39.749823",
+        "file": "is-php-running-on-your-coldfusion-server-how-to-check-and-remove-it.md"
     },
     {
         "title": "청년정책 2,650건을 긁었더니 73%가 마감이었다 — youth-search를 만들며 두 번 틀린 기록",
@@ -103797,6 +103995,17 @@
         "file": "cobaltc-the-successor-to-c.md"
     },
     {
+        "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+        "slug": "16-bit-windows-windows-1x-2x-30-31-etc-on-64-bit-windows",
+        "author": "doener",
+        "source": "hackernews",
+        "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+        "description": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 41 # Comments: 2",
+        "keywords": "windows, bit, url, https, com, comments, etc, article",
+        "generated": "2026-10-27T04:29:39.749647",
+        "file": "16-bit-windows-windows-1x-2x-30-31-etc-on-64-bit-windows.md"
+    },
+    {
         "title": "The free plan wasn't actually no registration required — fixing a landing page claim that contradicted itself",
         "slug": "the-free-plan-wasnt-actually-no-registration-required-fixing-a-landing-page-claim-that-contradicted-itself",
         "author": "Susumu Takahashi",
@@ -105542,6 +105751,17 @@
         "keywords": "greedy, activity, choice, can, optimal, problem, solution, activities",
         "generated": "2026-09-16T11:14:10.168933",
         "file": "greedy-algorithms-making-the-best-choice-at-every-step.md"
+    },
+    {
+        "title": "Agent Access Without Shared Passwords: A Scoped Grant Pattern for Banks and Fintech",
+        "slug": "agent-access-without-shared-passwords-a-scoped-grant-pattern-for-banks-and-fintech",
+        "author": "chinmay garg",
+        "source": "devto_python",
+        "published": "Tue, 27 Oct 2026 03:54:33 +0000",
+        "description": "On October 22, Reuters and Axios reported that major US banks are restricting outside AI agents from customer accounts. As reported, customers share a userna...",
+        "keywords": "agent, customer, false, grant, approval, return, not, self",
+        "generated": "2026-10-27T04:29:39.751585",
+        "file": "agent-access-without-shared-passwords-a-scoped-grant-pattern-for-banks-and-fintech.md"
     },
     {
         "title": "Verify the crawler, not its name: Web Bot Auth, IP checks, and the third gate",
