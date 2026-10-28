@@ -1,0 +1,34 @@
+---
+title: "Webhooks en n8n: evita duplicados al conectar tu CRM"
+slug: "webhooks-en-n8n-evita-duplicados-al-conectar-tu-crm"
+author: "Juan Carlos Carpio Cámara"
+source: "devto_webdev"
+published: "Wed, 28 Oct 2026 21:56:44 +0000"
+description: "Un formulario envía una consulta. La conexión tarda. El origen repite la entrega y aparecen dos oportunidades en el CRM. Hay otro fallo menos visible: la eje..."
+keywords: "una, que, con, antes, crm, del, por, puede"
+generated: "2026-10-28T22:24:29.416687"
+---
+
+# Webhooks en n8n: evita duplicados al conectar tu CRM
+
+## Overview
+
+Un formulario envía una consulta. La conexión tarda. El origen repite la entrega y aparecen dos oportunidades en el CRM. Hay otro fallo menos visible: la ejecución termina sin errores, pero durante la transformación desaparece el campo que explicaba qué necesitaba esa persona. Este ejemplo es didáctico. Propone una forma de revisar esas dos situaciones antes de activar una integración. No describe una implantación medida ni una plantilla lista para importar. 1. Define qué entrega estás procesando Empieza por el identificador del evento o envío que proporciona el origen. Combínalo con el sistema y la cuenta de procedencia cuando haga falta para evitar colisiones. Por ejemplo, una clave puede identificar la cuenta, el formulario y el envío envio_001 . Si el proveedor vuelve a entregar ese mismo envío, la clave debe mantenerse. El correo de la persona cumple otra función. Una misma persona puede enviar una consulta hoy y otra distinta mañana. Bloquear cualquier envío que repita correo puede ocultar una petición legítima. Si el origen no ofrece un identificador estable, hay que diseñar esa identificación. Un hash del contenido o una ventana de tiempo son alternativas con compromisos: pueden confundir dos consultas iguales que sí eran independientes. Documenta esa decisión antes de automatizarla. 2. Conserva los campos que importan Escribe una tabla pequeña con tres columnas: campo recibido, campo normalizado y destino. Recibido Normalizado Destino Identificador del envío event_key Registro de procesamiento Correo email Contacto del CRM Motivo de la consulta request_summary Oportunidad o nota Página del formulario entry_page Origen de la consulta El campo de origen puede perderse si el paso de normalización conserva solo nombre y correo. La llamada siguiente puede ser válida aunque la información llegue incompleta. Prueba con valores ficticios que puedas reconocer después. Comprueba el resultado en el registro final, además de mirar los datos recibidos por el webhook. Define qué campos ausentes deben detener el proceso y cuáles pueden quedar vacíos. 3. Registra la recepción antes de darla por aceptada Guarda la clave y un estado de procesamiento en un registro persistente. Para evitar que dos ejecuciones simultáneas acepten la misma entrega como nueva, la exclusión debe aplicarse de forma atómica. Una base de datos con una restricción única sobre la clave es una posibilidad. En PostgreSQL, ON CONFLICT permite decidir qué hacer cuando una inserción encuentra un conflicto. Consultar primero y escribir después, sin protección adicional, deja una carrera entre ambas operaciones. Después, una sola ejecución debe obtener el derecho a procesar el evento. Las demás consultan su estado y no repiten la creación. Si se interrumpe el procesamiento, debe existir una recuperación definida; un estado "procesando" no puede bloquearlo para siempre. Si respondes al origen antes de terminar, hazlo después de guardar de forma duradera lo que has aceptado. En n8n puedes configurar cuándo responde el Webhook. Una respuesta HTTP de recepción y un alta terminada en el CRM son estados diferentes. 4. Resuelve el resultado incierto antes de repetir Imagina que la petición al CRM termina con un timeout. El CRM podría haber creado la oportunidad y haberse perdido la respuesta. Repetir la creación inmediatamente puede duplicarla. Si la API de destino admite claves de idempotencia, utiliza el mecanismo documentado por ese proveedor. No basta con añadir una cabecera que el servidor no reconoce. Si admite una referencia externa consultable, guarda y busca esa referencia para conciliar el resultado antes de volver a escribir. Si no ofrece ninguna de esas garantías, deriva el caso incierto a revisión o diseña otra integración. Un registro local, por sí solo, no garantiza una única escritura en dos sistemas distintos. El estado "completado" debe reflejar un resultado confirmado. Para el resto, distingue error recuperable, resultado incierto y revisión pendiente. Cada uno necesita una salida clara. 5. Prueba las excepciones de forma deliberada Estas son las comprobaciones que usaría antes de activar el flujo. Son resultados esperados, no pruebas ejecutadas sobre este ejemplo. Situación Resultado esperado Entrega nueva y válida Se registra y llega al CRM con todos los campos necesarios Misma entrega repetida Se consulta su estado sin crear otra oportunidad Dos copias simultáneas Solo una obtiene el derecho a procesarla Mismo correo con otro identificador de envío Se evalúa como consulta nueva Timeout después de enviar al CRM Se concilia el resultado antes de repetir la escritura Falta un campo obligatorio Se registra un motivo claro y no se crea un alta incompleta Interrupción tras reservar el evento La recuperación detecta el trabajo pendiente y aplica la política definida Usa datos sintéticos durante estas pruebas. El registro técnico necesita explicar qué pasó, sin copiar por defecto todo el contenido personal del formulario. Del webhook al proceso completo Estas comprobaciones cubren la entrega técnica. El alta también incluye qué información se pide, quién revisa las excepciones y qué ocurre después de crear la ficha. La guía del proceso de alta de clientes desarrolla ese contexto. Antes de activar tu integración, elige uno de los fallos de la tabla y fuerza esa situación en un entorno de prueba. Comprueba qué queda registrado y cómo se recupera el proceso. Referencias técnicas Webhook de n8n: recepción y opciones de respuesta . Manejo de errores en n8n . Restricciones de unicidad en PostgreSQL . INSERT y ON CONFLICT en PostgreSQL . Este texto se ha preparado con ayuda de IA. Presenta un patrón de diseño y ejemplos didácticos; no incluye un flujo ejecutable ni resultados de una prueba de producción.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/awakate/webhooks-en-n8n-evita-duplicados-al-conectar-tu-crm-58jo
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
