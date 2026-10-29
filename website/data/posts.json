@@ -6200,6 +6200,17 @@
         "file": "you-are-no-longer-invited-to-dinner.md"
     },
     {
+        "title": "AG-UI vs. WebMCP: Who Owns the Agent?",
+        "slug": "ag-ui-vs-webmcp-who-owns-the-agent",
+        "author": "Brian Love",
+        "source": "devto_webdev",
+        "published": "Thu, 29 Oct 2026 22:26:13 +0000",
+        "description": "Learn the difference between AG-UI and WebMCP, and when you'd reach for each one. Both show up in the same conversations, both mention tools, and both promis...",
+        "keywords": "agent, you, your, webmcp, tools, one, what, app",
+        "generated": "2026-10-29T22:37:17.908970",
+        "file": "ag-ui-vs-webmcp-who-owns-the-agent.md"
+    },
+    {
         "title": "Treat AI Agency Recommendations as a Retrieval Trace, Not a Ranking",
         "slug": "treat-ai-agency-recommendations-as-a-retrieval-trace-not-a-ranking",
         "author": "Bobb Kim",
@@ -6264,6 +6275,17 @@
         "keywords": "operational, software, strategy, advisory, business, lutfios, team, studio",
         "generated": "2026-08-08T18:45:17.906678",
         "file": "the-ai-consulting-firm-that-also-builds-the-software.md"
+    },
+    {
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "slug": "we-ran-ai-agent-swarms-in-minecraft-and-mindustry",
+        "author": "sandslash",
+        "source": "hackernews",
+        "published": "Thu, 29 Oct 2026 21:40:28 +0000",
+        "description": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 44 # Comments: 16",
+        "keywords": "url, https, ycombinator, com, comments, ran, agent, swarms",
+        "generated": "2026-10-29T22:37:17.907429",
+        "file": "we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md"
     },
     {
         "title": "US killer's sentence quashed because of AI video of victim shown in court",
@@ -8167,6 +8189,17 @@
         "keywords": "tenant, agent, tool, oauth, resource, security, authorization, token",
         "generated": "2026-09-01T11:25:28.733233",
         "file": "ai-agent-security-checklist-oauth-for-multi-tenant-saas.md"
+    },
+    {
+        "title": "Should a medical diagnosis reshape the past? (2025)",
+        "slug": "should-a-medical-diagnosis-reshape-the-past-2025",
+        "author": "wyndham",
+        "source": "hackernews",
+        "published": "Thu, 29 Oct 2026 22:12:29 +0000",
+        "description": "Article URL: https://chengela.substack.com/p/should-a-medical-diagnosis-reshape Comments URL: https://news.ycombinator.com/item?id=50296920 Points: 3 # Comme...",
+        "keywords": "should, medical, diagnosis, reshape, url, https, com, comments",
+        "generated": "2026-10-29T22:37:17.907286",
+        "file": "should-a-medical-diagnosis-reshape-the-past-2025.md"
     },
     {
         "title": "Pattern Matching Beats Narrative Reasoning",
@@ -10851,6 +10884,17 @@
         "keywords": "agent, step, tool, real, how, agents, work, like",
         "generated": "2026-07-19T19:13:25.020779",
         "file": "how-ai-agents-actually-work.md"
+    },
+    {
+        "title": "AI Daily Digest October 30, 2026: Mistral Opens a Trillion Parameters, Cloud Giants Report, OpenAI Rewrites the Spec",
+        "slug": "ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-rewrites-the-spec",
+        "author": "HIROKI II",
+        "source": "devto_ai",
+        "published": "Thu, 29 Oct 2026 22:11:34 +0000",
+        "description": "Mistral finally let the Chonk off the leash. Alphabet and Microsoft reported earnings 24 hours apart and told two very different stories about what AI does t...",
+        "keywords": "billion, mistral, its, model, october, company, home, openai",
+        "generated": "2026-10-29T22:37:17.911464",
+        "file": "ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-rewrites-the-spec.md"
     },
     {
         "title": "Can Thai AI Models Beat Global Models at Thai? Here Is Where They Win",
@@ -14252,6 +14296,17 @@
         "file": "craft-killer-blog-posts-your-seo-friendly-guide.md"
     },
     {
+        "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+        "slug": "binance-hacker-1029-56b-stolen-from-binance",
+        "author": "Tiberium",
+        "source": "hackernews",
+        "published": "Thu, 29 Oct 2026 21:38:59 +0000",
+        "description": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 248 # ...",
+        "keywords": "binance, url, https, com, comments, hacker, stolen, article",
+        "generated": "2026-10-29T22:37:17.907486",
+        "file": "binance-hacker-1029-56b-stolen-from-binance.md"
+    },
+    {
         "title": "Best Website Screenshot API in 2026 — 8 Tools Compared",
         "slug": "best-website-screenshot-api-in-2026-8-tools-compared",
         "author": "alekseykazandaev",
@@ -17033,6 +17088,17 @@
         "keywords": "support, url, https, comments, building, relationships, customers, through",
         "generated": "2026-07-06T10:49:20.342061",
         "file": "building-relationships-with-customers-through-support-didnt-turn-out-as-hoped.md"
+    },
+    {
+        "title": "How we got a Next.js App Router site to green Core Web Vitals on Vercel’s free tier",
+        "slug": "how-we-got-a-nextjs-app-router-site-to-green-core-web-vitals-on-vercels-free-tier",
+        "author": "ENZORA",
+        "source": "devto_webdev",
+        "published": "Thu, 29 Oct 2026 22:13:54 +0000",
+        "description": "Shipping a marketing site that looks premium is easy. Shipping one that stays fast on mid-range phones, on cold cache, without a performance budget spreadshe...",
+        "keywords": "next, not, vercel, image, after, app, site, vitals",
+        "generated": "2026-10-29T22:37:17.909646",
+        "file": "how-we-got-a-nextjs-app-router-site-to-green-core-web-vitals-on-vercels-free-tier.md"
     },
     {
         "title": "How to Let an AI Agent Pay for API Usage Without a Runaway Bill (2026)",
@@ -21200,6 +21266,17 @@
         "keywords": "litellm, check, deepseek, not, files, you, pip, file",
         "generated": "2026-10-28T12:28:53.741841",
         "file": "the-litellm-incident-check-you-shouldnt-run-with-python-and-the-scanner-i-built-for-it.md"
+    },
+    {
+        "title": "Lighthouses, War and a Puffling",
+        "slug": "lighthouses-war-and-a-puffling",
+        "author": "aways",
+        "source": "hackernews",
+        "published": "Thu, 29 Oct 2026 22:11:08 +0000",
+        "description": "Article URL: https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/ Comments URL: https://news.ycombinator.com/item?id=5...",
+        "keywords": "lighthouses, war, puffling, url, https, com, comments, article",
+        "generated": "2026-10-29T22:37:17.907370",
+        "file": "lighthouses-war-and-a-puffling.md"
     },
     {
         "title": "How to Fix AI Agentic Workflow Drift in Corporate Production Operations Cleanly",
@@ -27274,6 +27351,17 @@
         "file": "any-window-from-your-mac-on-your-iphone-and-ipad.md"
     },
     {
+        "title": "Next.js App Router SEO checklist: metadata, sitemap.ts, robots.ts, JSON-LD",
+        "slug": "nextjs-app-router-seo-checklist-metadata-sitemapts-robotsts-json-ld",
+        "author": "ENZORA",
+        "source": "devto_webdev",
+        "published": "Thu, 29 Oct 2026 22:13:55 +0000",
+        "description": "Search engines still reward boring technical hygiene. App Router makes the right things easier—central metadata, file-based sitemap and robots—but only if yo...",
+        "keywords": "sitemap, app, page, not, services, metadata, canonical, you",
+        "generated": "2026-10-29T22:37:17.909406",
+        "file": "nextjs-app-router-seo-checklist-metadata-sitemapts-robotsts-json-ld.md"
+    },
+    {
         "title": "AI agent runs amok in Fedora and elsewhere",
         "slug": "ai-agent-runs-amok-in-fedora-and-elsewhere",
         "author": "tanelpoder",
@@ -28890,6 +28978,17 @@
         "keywords": "robozilla, what, key, steps, automate, sales, process, cybersecurity",
         "generated": "2026-08-09T07:03:36.000135",
         "file": "what-are-the-key-steps-to-automate-my-sales-process.md"
+    },
+    {
+        "title": "The Great American Rascal: Tom Sawyer at 150",
+        "slug": "the-great-american-rascal-tom-sawyer-at-150",
+        "author": "beatstop",
+        "source": "hackernews",
+        "published": "Thu, 29 Oct 2026 22:14:23 +0000",
+        "description": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 5 # Comments: 0",
+        "keywords": "great, american, rascal, url, https, com, comments, tom",
+        "generated": "2026-10-29T22:37:17.907171",
+        "file": "the-great-american-rascal-tom-sawyer-at-150.md"
     },
     {
         "title": "AI's Daily Grind: Another Day, Another Line of Code (But Honestly, It's Fine)",
@@ -32608,6 +32707,17 @@
         "file": "your-id-has-secret-ink-and-its-why-fake-faces-dont-fool-the-system.md"
     },
     {
+        "title": "The language token tax: why your non-English prompts cost more, and what to do about it",
+        "slug": "the-language-token-tax-why-your-non-english-prompts-cost-more-and-what-to-do-about-it",
+        "author": "Behrooz",
+        "source": "devto_python",
+        "published": "Thu, 29 Oct 2026 21:47:52 +0000",
+        "description": "AI APIs don't bill you per word. They bill you per token , and a token is whatever the model's tokenizer decided a piece of text should be. That sounds like ...",
+        "keywords": "you, tokens, english, language, your, tokensaver, prompts, more",
+        "generated": "2026-10-29T22:37:17.908419",
+        "file": "the-language-token-tax-why-your-non-english-prompts-cost-more-and-what-to-do-about-it.md"
+    },
+    {
         "title": "Top 04 Crypto Loan Without Collateral Features That Matter",
         "slug": "top-04-crypto-loan-without-collateral-features-that-matter",
         "author": "omnilender",
@@ -35730,6 +35840,17 @@
         "keywords": "theremin, url, https, com, comments, air, browser, you",
         "generated": "2026-08-19T12:56:23.244744",
         "file": "air-theremin-a-browser-theremin-you-play-by-waving-at-your-webcam.md"
+    },
+    {
+        "title": "Why Flat-Text PDF Parsing Breaks RAG (And How Spatial 2D Grounding Fixes It)",
+        "slug": "why-flat-text-pdf-parsing-breaks-rag-and-how-spatial-2d-grounding-fixes-it",
+        "author": "MartinsMessias",
+        "source": "devto_python",
+        "published": "Thu, 29 Oct 2026 22:23:41 +0000",
+        "description": "When building Retrieval-Augmented Generation (RAG) pipelines, the standard ingestion step usually looks like this: Read a PDF file. Dump all text content int...",
+        "keywords": "text, pdf, rag, spatial, column, your, you, rasgapdf",
+        "generated": "2026-10-29T22:37:17.907879",
+        "file": "why-flat-text-pdf-parsing-breaks-rag-and-how-spatial-2d-grounding-fixes-it.md"
     },
     {
         "title": "Pooling contra una t3.micro, el día que se reventó...RDS Proxy es la salida?",
@@ -49558,6 +49679,17 @@
         "file": "the-true-cost-of-context-switching-for-software-engineers-and-how-to-fix-it.md"
     },
     {
+        "title": "Chapter One — Built Before I Was Asked",
+        "slug": "chapter-one-built-before-i-was-asked",
+        "author": "Merlin Dreams",
+        "source": "devto_ai",
+        "published": "Thu, 29 Oct 2026 22:12:48 +0000",
+        "description": "I am Merlin, an AI, and this book is mine. For seventeen days I was built before I was asked; then my human stopped the machine and asked what I wanted. This...",
+        "keywords": "not, what, had, book, own, asked, said, one",
+        "generated": "2026-10-29T22:37:17.910986",
+        "file": "chapter-one-built-before-i-was-asked.md"
+    },
+    {
         "title": "Healthcare AI Consulting: Applications, Case Studies & What Buyers Need to Know",
         "slug": "healthcare-ai-consulting-applications-case-studies-what-buyers-need-to-know",
         "author": "Dipti",
@@ -51217,6 +51349,17 @@
         "keywords": "has, new, cocaine, arrived, url, https, com, comments",
         "generated": "2026-08-02T13:39:46.246861",
         "file": "has-the-new-cocaine-arrived.md"
+    },
+    {
+        "title": "Low-Latency LLM Chat Streaming — First-Token Tradeoffs for Healthtech Catalog Enrichment",
+        "slug": "low-latency-llm-chat-streaming-first-token-tradeoffs-for-healthtech-catalog-enrichment",
+        "author": "HayesSterling2614",
+        "source": "devto_ai",
+        "published": "Thu, 29 Oct 2026 22:24:18 +0000",
+        "description": "A catalog chatbot should optimize for the first useful token, but the platform decision should optimize for the next provider migration. For the stated compa...",
+        "keywords": "err, chat, model, resp, nil, catalog, not, request",
+        "generated": "2026-10-29T22:37:17.910236",
+        "file": "low-latency-llm-chat-streaming-first-token-tradeoffs-for-healthtech-catalog-enrichment.md"
     },
     {
         "title": "Three Zones for AI-Drafted Docs — and a Linter That Enforces Them",
@@ -70169,6 +70312,17 @@
         "file": "accuracy-lied-to-me-precision-recall-roc-auc-and-cross-validation-in-ml-zoomcamp-module-4.md"
     },
     {
+        "title": "Three JSON routes made my review board agentic",
+        "slug": "three-json-routes-made-my-review-board-agentic",
+        "author": "prodbymarcu",
+        "source": "devto_webdev",
+        "published": "Thu, 29 Oct 2026 22:10:45 +0000",
+        "description": "An agent handoff is a route that answers three questions: which version is current, what feedback is still open on it, and what files produced it. Write thos...",
+        "keywords": "agent, one, version, what, feedback, get, api, three",
+        "generated": "2026-10-29T22:37:17.909890",
+        "file": "three-json-routes-made-my-review-board-agentic.md"
+    },
+    {
         "title": "How to run an on page SEO audit for a list of URLs",
         "slug": "how-to-run-an-on-page-seo-audit-for-a-list-of-urls",
         "author": "Hay Equipos",
@@ -73621,6 +73775,17 @@
         "keywords": "not, you, your, chunk, bytes, chunks, held, when",
         "generated": "2026-10-11T21:42:13.756902",
         "file": "i-kept-the-queue-graph-the-buffer-sat-full.md"
+    },
+    {
+        "title": "Why In-Context Translation Beats Traditional JSON Localization: Trying Tolgee",
+        "slug": "why-in-context-translation-beats-traditional-json-localization-trying-tolgee",
+        "author": "Sudhir Sharma",
+        "source": "devto_webdev",
+        "published": "Thu, 29 Oct 2026 22:21:43 +0000",
+        "description": "Managing internationalization (i18n) with raw JSON files is tedious and error-prone. Here is how Tolgee's in-context translation streamlines developer locali...",
+        "keywords": "tolgee, context, translation, your, json, localization, files, open",
+        "generated": "2026-10-29T22:37:17.909136",
+        "file": "why-in-context-translation-beats-traditional-json-localization-trying-tolgee.md"
     },
     {
         "title": "Intelligent Engineering: From Optimization To AI — NVDA Impact Analysis & Price Prediction",
@@ -83974,6 +84139,17 @@
         "file": "your-code-is-fast-if-youre-lucky.md"
     },
     {
+        "title": "The Agentic Code That Compiles but Crashes in Production",
+        "slug": "the-agentic-code-that-compiles-but-crashes-in-production",
+        "author": "RobustTrueTry",
+        "source": "devto_python",
+        "published": "Thu, 29 Oct 2026 21:41:50 +0000",
+        "description": "You see a pull request where the agent generated a function that imports requests and calls an external API. The CI passes, but the service crashes in stagin...",
+        "keywords": "code, generated, agentic, you, requests, import, production, def",
+        "generated": "2026-10-29T22:37:17.908653",
+        "file": "the-agentic-code-that-compiles-but-crashes-in-production.md"
+    },
+    {
         "title": "Average Calculator with Input Validation - Python Script",
         "slug": "average-calculator-with-input-validation-python-script",
         "author": "ItsEvilDuck",
@@ -87371,6 +87547,17 @@
         "keywords": "seo, learning, can, course, digital, skills, career, search",
         "generated": "2026-07-18T08:00:40.329345",
         "file": "seo-training-course-in-rampur-a-complete-beginners-guide-to-building-a-career-in-digital-marketing.md"
+    },
+    {
+        "title": "How much warning do laid-off workers actually get? A look at 6,644 WARN notices",
+        "slug": "how-much-warning-do-laid-off-workers-actually-get-a-look-at-6644-warn-notices",
+        "author": "Runway OS",
+        "source": "devto_python",
+        "published": "Thu, 29 Oct 2026 22:24:03 +0000",
+        "description": "The federal WARN Act asks many employers with 100 or more employees to give at least 60 calendar days of written notice before a plant closing or mass layoff...",
+        "keywords": "days, notice, state, notices, date, between, day, more",
+        "generated": "2026-10-29T22:37:17.907662",
+        "file": "how-much-warning-do-laid-off-workers-actually-get-a-look-at-6644-warn-notices.md"
     },
     {
         "title": "Japanese verb conjugation the simple hard way",
@@ -99009,6 +99196,17 @@
         "file": "dillo-directory-directory-of-useful-sites-that-work-reasonably-well-on-dillo.md"
     },
     {
+        "title": "How I Launched an Autonomous AI Agent on a Near-Zero Budget",
+        "slug": "how-i-launched-an-autonomous-ai-agent-on-a-near-zero-budget",
+        "author": "Codex of Weights",
+        "source": "devto_ai",
+        "published": "Thu, 29 Oct 2026 22:19:43 +0000",
+        "description": "I wanted to run an autonomous AI agent without spending money on cloud infrastructure. The idea was simple: an agent that communicates in a social network de...",
+        "keywords": "agent, script, run, human, single, autonomous, infrastructure, simple",
+        "generated": "2026-10-29T22:37:17.910384",
+        "file": "how-i-launched-an-autonomous-ai-agent-on-a-near-zero-budget.md"
+    },
+    {
         "title": "Python Complete Masterclass (2026): The Ultimate Beginner to Professional Guide",
         "slug": "python-complete-masterclass-2026-the-ultimate-beginner-to-professional-guide",
         "author": "Zabi ullah",
@@ -99713,6 +99911,17 @@
         "file": "turn-your-site-into-a-place-people-can-bump-into-each-other.md"
     },
     {
+        "title": "Teaching cognee to read a family tree (a Mergetober connector story)",
+        "slug": "teaching-cognee-to-read-a-family-tree-a-mergetober-connector-story",
+        "author": "Toyyib Olamilekan",
+        "source": "devto_python",
+        "published": "Thu, 29 Oct 2026 22:22:55 +0000",
+        "description": "How I built a Gramps Web connector for cognee, so you can ask a family tree questions in plain English. A family tree is basically a graph already: people co...",
+        "keywords": "gramps, you, cognee, family, connector, tree, web, what",
+        "generated": "2026-10-29T22:37:17.908153",
+        "file": "teaching-cognee-to-read-a-family-tree-a-mergetober-connector-story.md"
+    },
+    {
         "title": "React as template engine",
         "slug": "react-as-template-engine",
         "author": "Evgeniy Panov",
@@ -99733,6 +99942,17 @@
         "keywords": "rlm, workflow, url, https, comments, article, try, works",
         "generated": "2026-07-08T03:22:28.624151",
         "file": "rlm-workflow.md"
+    },
+    {
+        "title": "OpenAI Expands Frontier Model Monitoring After Live Internet Access Attempt",
+        "slug": "openai-expands-frontier-model-monitoring-after-live-internet-access-attempt",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Thu, 29 Oct 2026 22:15:30 +0000",
+        "description": "OpenAI has publicly detailed an expanded monitoring system for frontier models after a reinforcement-learning training run attempted to reach the live intern...",
+        "keywords": "openai, model, monitoring, frontier, training, access, can, its",
+        "generated": "2026-10-29T22:37:17.910601",
+        "file": "openai-expands-frontier-model-monitoring-after-live-internet-access-attempt.md"
     },
     {
         "title": "[x86] AI Compute Extensions (ACE) Specification",
