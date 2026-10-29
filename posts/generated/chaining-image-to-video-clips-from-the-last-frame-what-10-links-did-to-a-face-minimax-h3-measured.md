@@ -1,0 +1,34 @@
+---
+title: "Chaining image-to-video clips from the last frame: what 10 links did to a face (MiniMax-H3, measured)"
+slug: "chaining-image-to-video-clips-from-the-last-frame-what-10-links-did-to-a-face-minimax-h3-measured"
+author: "Rodion Kazennov"
+source: "devto_python"
+published: "Thu, 29 Oct 2026 05:07:26 +0000"
+description: "For a dialogue scene I generated clips with MiniMax-H3 , MiniMax's open-weights video model that can start from a given first frame, end on a given last fram..."
+keywords: "clip, frame, chain, first, last, keyframe, clips, model"
+generated: "2026-10-29T05:13:43.942490"
+---
+
+# Chaining image-to-video clips from the last frame: what 10 links did to a face (MiniMax-H3, measured)
+
+## Overview
+
+For a dialogue scene I generated clips with MiniMax-H3 , MiniMax's open-weights video model that can start from a given first frame, end on a given last frame, or both. To make one shot run longer than one clip, I started every clip from the last frame of the clip before. After ten clips the woman on screen no longer looked like the woman I had drawn: Then I measured what each link did. People on forums describe this drift a lot ( LTX-2.3 , Wan, Seedance), but I didn't find numbers per link, so here are mine. The setup Model: MiniMax-H3, the first/last-frame checkpoint (FL2VA), run locally on an Apple Silicon Mac through a fork of h3.c , with an INT8 copy of the transformer and lightx2v's 8-step Turbo LoRA ( fl2v_turbo_8step_v1.0_768p ). Every clip: 768x1344, 124 frames (5.17 s at 24 fps), 8 steps, seed 42. Conditioning: a first frame only, no end frame. Clip 1 starts from a keyframe I drew. Every later clip starts from the previous clip's last frame: ffmpeg -sseof -0 .05 -i clip_n.mp4 -frames :v 1 -update 1 clip_n_last.png # clip_n_last.png becomes the first frame of clip n+1 Three chains: A, 10 clips of a woman in an armchair; B, 7 clips of a man by a door; C, 9 clips of a woman with a phone. Each prompt gave the person on screen one line of dialogue (the model voices it too), and every prompt said "The camera holds a static shot" and "natural skin texture". What I measured On the first frame of each clip, which is the last frame of the clip before, I computed four numbers on the whole frame and divided each by its value on the drawn keyframe: g = np . asarray ( Image . open ( path ). convert ( " L " ), np . float64 ) lap = - 4 * g [ 1 : - 1 , 1 : - 1 ] + g [: - 2 , 1 : - 1 ] + g [ 2 :, 1 : - 1 ] + g [ 1 : - 1 ,: - 2 ] + g [ 1 : - 1 , 2 :] edge_sharpness = lap . var () # Laplacian variance F = np . abs ( np . fft . rfft2 ( g - g . mean ())) ** 2 r = np . hypot ( np . fft . rfftfreq ( g . shape [ 1 ])[ None , :], np . fft . fftfreq ( g . shape [ 0 ])[:, None ]) finest_detail = F [ r > 0.25 ]. sum () / F [ r > 0.01 ]. sum () # energy above 0.25 cycles/px contrast = ( g / 255 ). std () near_white = ( g / 255 > 0.92 ). mean () # share of pixels Detail goes first Finest detail dropped on the first link: 77 % of the keyframe in chain A and 80 % in chain B at the start of clip 2. It bottomed out at clip 4 (61 % and 65 %) and never returned to the keyframe's level: chain A ended at 65 %, chain B at 88 %. Edge sharpness fell too at first, to 73 % and 82 % at clip 3, and then it overshot. From clip 5 on it was above the keyframe, and it reached 174 % in chain A (clip 9) and 159 % in chain B (clip 7). Detail wasn't coming back: the finest band stayed low. What rose were harder, coarser edges. On the shirts you can see it as a crunchy pattern that the keyframe didn't have. Then the faces turn oily Contrast rose with almost every link: by 14 % in chain A (clip 9) and 16 % in chain B (clip 7). Near-white pixels grew faster: from 0.20 % to 0.55 % of the frame in chain A, 2.8 times, and from 0.054 % to 0.124 % in chain B, 2.3 times. On a face this shows up as shine on the forehead, nose and cheeks. Up close: The freckles from the drawing are gone by clip 4, the skin is glossy although every prompt asked for natural skin texture, and by clip 9 the bone structure has changed. I didn't score identity with a face-embedding model, so that last part is by eye. One oddity: the first frame of chain A's clip 10 is brighter overall (mean luma up 10 %, saturation down 15 %), which pulls its contrast and near-white numbers back. I haven't looked into why. Mistakes ride along Chain C shows a different failure. At the end of clip 2 the model drew a chat bubble with made-up English over the frame, and since clip 3 starts from that frame, the bubble was in the scene from then on: It stayed through the next seven clips, with the text inside it changing from clip to clip. The model treats whatever is in the conditioning frame as part of the scene. A last-frame chain has no way to drop it. The rule I use now When I watched the long chain, I saw smeared text on the phone and faces that looked oiled. Since then I work like this: At most 3 clips in a row start from a previous clip's last frame. Then a fresh drawn keyframe. If a new person or object enters, the clip still starts from the last frame, but it ends on a freshly drawn end keyframe: an edit of the start frame with the new detail painted in. A face close-up or a new location always starts from a freshly drawn keyframe. The cap of 3 is a judgment call, not a threshold the numbers found. In these two chains, the first three clips lose fine detail (to 66 % and 69 %), while contrast has barely moved (100 % and 106 %) and near-white pixels are up 16 % and 11 %. From clip 5 on, all four metrics move away from the keyframe together. You could argue for 2. Check your own chain The measurement needs only the PNGs you already feed the model. Compute the four numbers above for every first frame and divide by the keyframe. A falling finest-detail share with rising contrast is the pattern to watch for. Before you trust a long chain, look at the first, middle and last frame of every clip side by side. A contact sheet per chain would have caught the chat bubble at clip 3. I found it much later, in a rough cut. These are two clean chains with one model, one seed and one resolution, and the metrics cover the whole frame while people move inside it. If you run the same check on another model, I'd like to compare curves.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/nefayran/chaining-image-to-video-clips-from-the-last-frame-what-10-links-did-to-a-face-minimax-h3-46e0
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
