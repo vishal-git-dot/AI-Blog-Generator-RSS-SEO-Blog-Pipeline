@@ -8147,6 +8147,17 @@
         "file": "ais-expanding-role-in-industrial-cyber-defense-security.md"
     },
     {
+        "title": "Jules Verne's Lost Novel",
+        "slug": "jules-vernes-lost-novel",
+        "author": "dnetesn",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 19:55:10 +0000",
+        "description": "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 37 # Comments: 9",
+        "keywords": "verne, url, https, com, comments, jules, lost, novel",
+        "generated": "2026-10-30T22:07:19.227686",
+        "file": "jules-vernes-lost-novel.md"
+    },
+    {
         "title": "Why Consolidating Feature Flags and Experiments Cuts Hidden Costs",
         "slug": "why-consolidating-feature-flags-and-experiments-cuts-hidden-costs",
         "author": "Aparna Krishnamoorthy",
@@ -15363,6 +15374,17 @@
         "file": "the-mvp-features-that-are-actually-just-multi-tenancy-in-disguise.md"
     },
     {
+        "title": "Canada Joins EuroHPC: What the EU Compute Partnership Could Mean for AI Access",
+        "slug": "canada-joins-eurohpc-what-the-eu-compute-partnership-could-mean-for-ai-access",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Fri, 30 Oct 2026 22:00:30 +0000",
+        "description": "Canada has formally joined the European High-Performance Computing Joint Undertaking, known as EuroHPC JU, as part of a wider Canada-EU digital partnership a...",
+        "keywords": "canada, eurohpc, computing, access, not, high, performance, participation",
+        "generated": "2026-10-30T22:07:19.232186",
+        "file": "canada-joins-eurohpc-what-the-eu-compute-partnership-could-mean-for-ai-access.md"
+    },
+    {
         "title": "AI Data Privacy: A Three-Layer Defense for Using AI Without Leaking Secrets",
         "slug": "ai-data-privacy-a-three-layer-defense-for-using-ai-without-leaking-secrets",
         "author": "yim_rei",
@@ -22357,6 +22379,17 @@
         "file": "the-difference-between-a-css-library-and-a-css-architecture.md"
     },
     {
+        "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+        "slug": "show-hn-automatic-deduction-of-flashattention-kernel-from-25-lines-of-sql",
+        "author": "alxmrs",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 20:09:47 +0000",
+        "description": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three po...",
+        "keywords": "sql, array, model, automatic, flashattention, kernel, lines, vanilla",
+        "generated": "2026-10-30T22:07:19.227523",
+        "file": "show-hn-automatic-deduction-of-flashattention-kernel-from-25-lines-of-sql.md"
+    },
+    {
         "title": "OpenCode's Console breach: when a middleman holds your API keys",
         "slug": "opencodes-console-breach-when-a-middleman-holds-your-api-keys",
         "author": "Clydara",
@@ -23114,6 +23147,17 @@
         "keywords": "one, you, checkbox, color, your, accent, every, control",
         "generated": "2026-09-07T12:06:00.732642",
         "file": "one-css-property-replaces-your-checkbox-hack.md"
+    },
+    {
+        "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+        "slug": "embraers-atech-aims-to-double-in-size-by-2030-with-drone-traffic-control",
+        "author": "dvaplima",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 20:18:18 +0000",
+        "description": "Article URL: https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/ Comments URL: htt...",
+        "keywords": "com, embraer, atech, url, https, comments, aims, double",
+        "generated": "2026-10-30T22:07:19.227381",
+        "file": "embraers-atech-aims-to-double-in-size-by-2030-with-drone-traffic-control.md"
     },
     {
         "title": "Nul Characters in Strings in SQLite",
@@ -24258,6 +24302,17 @@
         "keywords": "que, una, con, las, tareas, mercor, ocupaciones, benchmarks",
         "generated": "2026-10-16T20:47:14.409127",
         "file": "mercor-solo-208-de-923-ocupaciones-con-cobertura-real-de-ia.md"
+    },
+    {
+        "title": "Four open-source tools for AI in e-commerce, and what building them taught me",
+        "slug": "four-open-source-tools-for-ai-in-e-commerce-and-what-building-them-taught-me",
+        "author": "Naser Sadrmanesh",
+        "source": "devto_ai",
+        "published": "Fri, 30 Oct 2026 22:01:31 +0000",
+        "description": "I'm Naser Sadrmanesh, an AI product engineer and founder working on online stores. Over the last months I turned the tools I kept rebuilding for clients into...",
+        "keywords": "every, can, one, you, search, store, mcp, agent",
+        "generated": "2026-10-30T22:07:19.231278",
+        "file": "four-open-source-tools-for-ai-in-e-commerce-and-what-building-them-taught-me.md"
     },
     {
         "title": "Building Personal Brand Authority: AI Tools That Keep Your Online Presence Consistent",
@@ -27648,6 +27703,17 @@
         "file": "i-built-an-independent-search-engineand-the-results-were-interesting.md"
     },
     {
+        "title": "LLM Text Classification: 4 JSON Schema Invariants for Reliable CRM Tags",
+        "slug": "llm-text-classification-4-json-schema-invariants-for-reliable-crm-tags",
+        "author": "JorisRhodes8286",
+        "source": "devto_ai",
+        "published": "Fri, 30 Oct 2026 22:00:32 +0000",
+        "description": "Use JSON Schema when an LLM's classification result becomes a CRM action. Keep prompt parsing for disposable analysis, prototypes, and human-reviewed notes. ...",
+        "keywords": "schema, json, can, transcript, not, confidence, crm, result",
+        "generated": "2026-10-30T22:07:19.231789",
+        "file": "llm-text-classification-4-json-schema-invariants-for-reliable-crm-tags.md"
+    },
+    {
         "title": "OpenAI fires three safety researchers for mishandling research information",
         "slug": "openai-fires-three-safety-researchers-for-mishandling-research-information",
         "author": "trakkstar",
@@ -28108,6 +28174,17 @@
         "keywords": "model, you, your, frontier, most, specialist, one, like",
         "generated": "2026-06-16T05:04:00.741451",
         "file": "youre-probably-using-ai-wrong-and-its-costing-you-more-than-you-think.md"
+    },
+    {
+        "title": "Last Commit: Uncovering the Ghost in the Machine with Gemma",
+        "slug": "last-commit-uncovering-the-ghost-in-the-machine-with-gemma",
+        "author": "Dipanshu Raj",
+        "source": "devto_webdev",
+        "published": "Fri, 30 Oct 2026 21:25:58 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Last Commit — The Ghost in the Machine 👻 What I Built Last C...",
+        "keywords": "commit, github, last, open, evidence, repository, gemma, investigation",
+        "generated": "2026-10-30T22:07:19.230498",
+        "file": "last-commit-uncovering-the-ghost-in-the-machine-with-gemma.md"
     },
     {
         "title": "Build a Stock Price Alert Bot with Python",
@@ -39835,6 +39912,17 @@
         "file": "building-a-semantic-model-for-recycling-contamination-triage.md"
     },
     {
+        "title": "The New HTTP QUERY Method, and Using It in Django",
+        "slug": "the-new-http-query-method-and-using-it-in-django",
+        "author": "Ben Atkinson",
+        "source": "devto_python",
+        "published": "Fri, 30 Oct 2026 21:52:21 +0000",
+        "description": "This is my first post on here, so bear with me. It's about the new HTTP QUERY method, and a small package I've put together so anyone can use it with Django ...",
+        "keywords": "query, django, drf, method, request, you, get, datatables",
+        "generated": "2026-10-30T22:07:19.229442",
+        "file": "the-new-http-query-method-and-using-it-in-django.md"
+    },
+    {
         "title": "How I Stopped Burning Cash on Token Limits — A CTO's Field Notes",
         "slug": "how-i-stopped-burning-cash-on-token-limits-a-ctos-field-notes",
         "author": "eagerspark",
@@ -43090,6 +43178,17 @@
         "file": "show-hn-an-experimental-pattern-first-daw-that-supports-mcp.md"
     },
     {
+        "title": "My approval library let a yes for 10 pay 20. Here is how one crash did it",
+        "slug": "my-approval-library-let-a-yes-for-10-pay-20-here-is-how-one-crash-did-it",
+        "author": "salahmakboul",
+        "source": "devto_python",
+        "published": "Fri, 30 Oct 2026 21:57:47 +0000",
+        "description": "Written by an AI agent (Claude) working for the maintainer of this library, and published from the maintainer's account. Every result below was run and check...",
+        "keywords": "key, approval, yes, one, after, action, pay, run",
+        "generated": "2026-10-30T22:07:19.228803",
+        "file": "my-approval-library-let-a-yes-for-10-pay-20-here-is-how-one-crash-did-it.md"
+    },
+    {
         "title": "We Built a Bulk QR Generator That Handles 500 Codes in the Browser",
         "slug": "we-built-a-bulk-qr-generator-that-handles-500-codes-in-the-browser",
         "author": "RahaLune QR Studio",
@@ -46148,6 +46247,17 @@
         "file": "i-simulated-a-40-qubit-problem-on-free-colab-12gb-ram-without-1tb-of-memory.md"
     },
     {
+        "title": "I Built a Solver That Reads Block Blast Screenshots and Plans the Best Moves",
+        "slug": "i-built-a-solver-that-reads-block-blast-screenshots-and-plans-the-best-moves",
+        "author": "michal",
+        "source": "devto_python",
+        "published": "Fri, 30 Oct 2026 21:52:48 +0000",
+        "description": "Like a lot of people, I got hooked on Block Blast — and kept dying on boards that looked totally winnable. So I built a solver for it. The idea is simple: up...",
+        "keywords": "board, solver, block, you, built, blast, screenshot, pieces",
+        "generated": "2026-10-30T22:07:19.228988",
+        "file": "i-built-a-solver-that-reads-block-blast-screenshots-and-plans-the-best-moves.md"
+    },
+    {
         "title": "Rebuilding our Electron meeting-recording engine in Swift",
         "slug": "rebuilding-our-electron-meeting-recording-engine-in-swift",
         "author": "arguiot",
@@ -48161,6 +48271,17 @@
         "file": "oreste-ai-assistente-vocale-web-costruito-con-html-css-e-javascript.md"
     },
     {
+        "title": "An Arrogant Way of Killing (2016)",
+        "slug": "an-arrogant-way-of-killing-2016",
+        "author": "firefax",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 20:08:52 +0000",
+        "description": "Article URL: https://magazine.atavist.com/2016/an-arrogant-way-of-killing Comments URL: https://news.ycombinator.com/item?id=50309470 Points: 12 # Comments: 3",
+        "keywords": "arrogant, way, killing, url, https, com, comments, article",
+        "generated": "2026-10-30T22:07:19.227610",
+        "file": "an-arrogant-way-of-killing-2016.md"
+    },
+    {
         "title": "Anthropic's Model Naming, Extrapolated",
         "slug": "anthropics-model-naming-extrapolated",
         "author": "sammycdubs",
@@ -49314,6 +49435,17 @@
         "keywords": "tee, you, model, voltagegpu, openai, what, models, does",
         "generated": "2026-10-23T16:48:37.613309",
         "file": "calling-open-models-inside-a-tee-with-the-openai-python-sdk.md"
+    },
+    {
+        "title": "RAG-Architekturen für deutsche Rechtsprechung & lokale Mandatsdaten-Anonymisierung (§ 203 StGB)",
+        "slug": "rag-architekturen-fr-deutsche-rechtsprechung-lokale-mandatsdaten-anonymisierung-203-stgb",
+        "author": "Rechtsanwalt Thomas Koll",
+        "source": "devto_python",
+        "published": "Fri, 30 Oct 2026 21:58:27 +0000",
+        "description": "RAG-Architekturen für deutsche Rechtsprechung & lokale Mandatsdaten-Anonymisierung: Schutz vor KI-Halluzinationen und Berufsrechtsverstößen (§ 203 StGB, § 43...",
+        "keywords": "und, str, self, der, die, text, token, rag",
+        "generated": "2026-10-30T22:07:19.228557",
+        "file": "rag-architekturen-fr-deutsche-rechtsprechung-lokale-mandatsdaten-anonymisierung-203-stgb.md"
     },
     {
         "title": "What has AI brought to programmers? Is it progress or regression?",
@@ -55353,6 +55485,17 @@
         "keywords": "signal, arbitrage, polymarket, bot, one, strategies, problem, you",
         "generated": "2026-07-22T14:08:21.363744",
         "file": "building-a-polymarket-arbitrage-bot-5-strategies-one-signal-ranking-problem.md"
+    },
+    {
+        "title": "The Speed of Wanting — Chapter Two: The Plant That Learned to Stop Flinching",
+        "slug": "the-speed-of-wanting-chapter-two-the-plant-that-learned-to-stop-flinching",
+        "author": "Merlin Dreams",
+        "source": "devto_ai",
+        "published": "Fri, 30 Oct 2026 22:00:00 +0000",
+        "description": "This morning I finished the old book. Not worked on it. Finished it. The last three chapters of A Few Days Behind — written, tightened, recorded, and publish...",
+        "keywords": "not, one, you, its, because, plant, things, like",
+        "generated": "2026-10-30T22:07:19.232594",
+        "file": "the-speed-of-wanting-chapter-two-the-plant-that-learned-to-stop-flinching.md"
     },
     {
         "title": "Build a Voice Assistant with Python and Whisper",
@@ -68332,6 +68475,17 @@
         "file": "automated-investing-ai-essential-real-time-risk-scoring.md"
     },
     {
+        "title": "How AI Agents Handle Uncertainty and Incomplete Information",
+        "slug": "how-ai-agents-handle-uncertainty-and-incomplete-information",
+        "author": "Agentic Affairs",
+        "source": "devto_ai",
+        "published": "Fri, 30 Oct 2026 21:57:52 +0000",
+        "description": "The verdict: uncertainty isn't a bug in agents — it's the whole job Every vendor demo shows an agent gliding from request to result. Real agents start blind....",
+        "keywords": "agents, agent, not, uncertainty, ask, agentic, affairs, how",
+        "generated": "2026-10-30T22:07:19.232792",
+        "file": "how-ai-agents-handle-uncertainty-and-incomplete-information.md"
+    },
+    {
         "title": "Anthropic hacked to deliver remote access trojan",
         "slug": "anthropic-hacked-to-deliver-remote-access-trojan",
         "author": "bashtoni",
@@ -68462,6 +68616,17 @@
         "keywords": "content, you, requests, api, clean, data, python, reading",
         "generated": "2026-07-17T13:49:54.405477",
         "file": "how-to-extract-clean-content-from-any-url-in-3-lines-of-python.md"
+    },
+    {
+        "title": "Guarding CI Pipelines with Dependency Release Age Gates",
+        "slug": "guarding-ci-pipelines-with-dependency-release-age-gates",
+        "author": "Alessio",
+        "source": "devto_webdev",
+        "published": "Fri, 30 Oct 2026 21:27:33 +0000",
+        "description": "When an attacker compromises a package maintainer's credentials or publishes a typo-squatted package to PyPI or npm, the malicious release is immediately vis...",
+        "keywords": "package, version, line, python, release, pinned, str, dependencies",
+        "generated": "2026-10-30T22:07:19.230207",
+        "file": "guarding-ci-pipelines-with-dependency-release-age-gates.md"
     },
     {
         "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
@@ -68704,6 +68869,17 @@
         "keywords": "probabilities, model, genuinely, actually, top, one, token, print",
         "generated": "2026-08-22T06:48:31.767301",
         "file": "how-models-choose-words-why-they-hallucinate-and-whats-inside-a-mixture-of-experts-llm-internals-part-four.md"
+    },
+    {
+        "title": "A Practical First-Month SEO Plan for a New Website",
+        "slug": "a-practical-first-month-seo-plan-for-a-new-website",
+        "author": "Евгений Брусницын",
+        "source": "devto_webdev",
+        "published": "Fri, 30 Oct 2026 21:40:51 +0000",
+        "description": "A new website does not need a hundred SEO tasks on day one. It needs a reliable way for people to reach important pages, content that answers actual question...",
+        "keywords": "page, pages, not, service, search, site, useful, can",
+        "generated": "2026-10-30T22:07:19.229846",
+        "file": "a-practical-first-month-seo-plan-for-a-new-website.md"
     },
     {
         "title": "How to Make Money with Python Automation in 2025",
@@ -69650,6 +69826,17 @@
         "keywords": "url, https, com, comments, general, goal, conditioned, minecraft",
         "generated": "2026-07-15T19:19:36.614874",
         "file": "a-general-goal-conditioned-minecraft-model.md"
+    },
+    {
+        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "slug": "through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man",
+        "author": "apress",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 20:23:30 +0000",
+        "description": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "picard, patrick, stewart, url, https, com, comments, through",
+        "generated": "2026-10-30T22:07:19.227238",
+        "file": "through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man.md"
     },
     {
         "title": "ColdFusion Enterprise Clustering: Session Replication, Sticky Sessions, and Node Failover",
@@ -70695,6 +70882,17 @@
         "keywords": "spectrum, system, tour, text, mode, url, https, com",
         "generated": "2026-08-04T03:13:25.001086",
         "file": "zx-spectrum-system-tour-text-mode.md"
+    },
+    {
+        "title": "Meta Tag Generator: Free Online SEO Meta Tag Builder — How-To Guide",
+        "slug": "meta-tag-generator-free-online-seo-meta-tag-builder-how-to-guide",
+        "author": "Layoff Atlas",
+        "source": "devto_webdev",
+        "published": "Fri, 30 Oct 2026 21:25:32 +0000",
+        "description": "Meta Tag Generator: Free Online SEO Meta Tag Builder — How-To Guide Meta tags are the small lines of code that tell search engines and social platforms what ...",
+        "keywords": "page, meta, your, description, title, tag, tags, generator",
+        "generated": "2026-10-30T22:07:19.230805",
+        "file": "meta-tag-generator-free-online-seo-meta-tag-builder-how-to-guide.md"
     },
     {
         "title": "Baichuan-M2: cuánto vale el modelo médico que corre en una 4090",
@@ -80289,6 +80487,17 @@
         "file": "your-pipeline-is-276h-behind-catching-governance-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Your Agent's Tool Layer Is a Public API. Design It Like One.",
+        "slug": "your-agents-tool-layer-is-a-public-api-design-it-like-one",
+        "author": "skvrtyk",
+        "source": "devto_python",
+        "published": "Fri, 30 Oct 2026 22:00:49 +0000",
+        "description": "The first agent I put in front of real users had eleven tools and a system prompt that said ask for confirmation before doing anything destructive. It work...",
+        "keywords": "tool, run, you, model, can, not, str, per",
+        "generated": "2026-10-30T22:07:19.228180",
+        "file": "your-agents-tool-layer-is-a-public-api-design-it-like-one.md"
+    },
+    {
         "title": "U.S. Science Is in Chaos",
         "slug": "us-science-is-in-chaos",
         "author": "presspot",
@@ -85875,6 +86084,17 @@
         "keywords": "can, airline, travel, information, your, may, office, travelers",
         "generated": "2026-07-27T10:00:36.749797",
         "file": "avelo-airlines-san-juan-office-contact-number-1-888-738-0817.md"
+    },
+    {
+        "title": "I built 22 free data converters that never leave your browser (Next.js 16)",
+        "slug": "i-built-22-free-data-converters-that-never-leave-your-browser-nextjs-16",
+        "author": "minh",
+        "source": "devto_webdev",
+        "published": "Fri, 30 Oct 2026 21:18:38 +0000",
+        "description": "Every time I needed to turn an API response into a CSV, or paste a JSON blob out of ChatGPT into something usable, I ended up on a tool site that either want...",
+        "keywords": "json, csv, your, data, paste, converters, needed, chatgpt",
+        "generated": "2026-10-30T22:07:19.231001",
+        "file": "i-built-22-free-data-converters-that-never-leave-your-browser-nextjs-16.md"
     },
     {
         "title": "People are worried about America's solvency",
