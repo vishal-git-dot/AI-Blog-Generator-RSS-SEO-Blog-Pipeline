@@ -4420,6 +4420,17 @@
         "file": "jev-in-25-lines-of-python.md"
     },
     {
+        "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+        "slug": "mollysignal-fork-has-not-been-updated-since-3-months-and-is-vulnerable",
+        "author": "DeepLogin",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 10:23:41 +0000",
+        "description": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 27 # Comments: 4",
+        "keywords": "url, https, comments, molly, signal, fork, has, not",
+        "generated": "2026-10-31T11:58:36.461119",
+        "file": "mollysignal-fork-has-not-been-updated-since-3-months-and-is-vulnerable.md"
+    },
+    {
         "title": "Old and new apps, via modern coding agents by Terry Tao",
         "slug": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
         "author": "subset",
@@ -6011,6 +6022,17 @@
         "keywords": "polars, url, https, comments, pre, release, article, pola",
         "generated": "2026-09-03T10:58:48.309162",
         "file": "pre-release-of-polars-20.md"
+    },
+    {
+        "title": "Yesterday's US private funding rounds from SEC Form D, in about 70 lines of Python (no API key)",
+        "slug": "yesterdays-us-private-funding-rounds-from-sec-form-d-in-about-70-lines-of-python-no-api-key",
+        "author": "Your Evenings Data",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 11:15:42 +0000",
+        "description": "When a US company raises money privately under Regulation D, it files a Form D with the SEC, usually within 15 days of the first sale. Every filing is public...",
+        "keywords": "form, sec, filings, index, text, edgar, script, amount",
+        "generated": "2026-10-31T11:58:36.463406",
+        "file": "yesterdays-us-private-funding-rounds-from-sec-form-d-in-about-70-lines-of-python-no-api-key.md"
     },
     {
         "title": "Keep the Agent Loop Portable, Then Choose Free Shared Compute",
@@ -11302,6 +11324,17 @@
         "keywords": "you, keystroke, list, render, your, query, react, one",
         "generated": "2026-10-03T11:24:45.497846",
         "file": "your-search-box-lags-debounce-hides-it-usetransition-fixes-it.md"
+    },
+    {
+        "title": "How to Embed a PDF on a Website: HTML, iframe and Flipbooks",
+        "slug": "how-to-embed-a-pdf-on-a-website-html-iframe-and-flipbooks",
+        "author": "Igor",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 11:53:17 +0000",
+        "description": "To embed a PDF on a website, point an iframe at the file's URL and give it a height. Keep a separate link below it so visitors can open the document outside ...",
+        "keywords": "pdf, catalog, iframe, viewer, embed, page, link, open",
+        "generated": "2026-10-31T11:58:36.464753",
+        "file": "how-to-embed-a-pdf-on-a-website-html-iframe-and-flipbooks.md"
     },
     {
         "title": "Next.js Phone Login: FastAPI SMS OTP Resend Countdown Backend",
@@ -18463,6 +18496,17 @@
         "keywords": "neuralbridge, result, sdk, self, print, provider, healing, latency",
         "generated": "2026-06-13T09:25:04.610244",
         "file": "neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes.md"
+    },
+    {
+        "title": "Finding what broke: observability, evaluation, optimization",
+        "slug": "finding-what-broke-observability-evaluation-optimization",
+        "author": "Pin Xiong",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 11:43:33 +0000",
+        "description": "An agent that behaved correctly on launch day is silently making bad decisions two months later. Nobody changed the code; the world it judges just drifted aw...",
+        "keywords": "agentcore, prompt, bundle, json, run, spans, one, evaluation",
+        "generated": "2026-10-31T11:58:36.467982",
+        "file": "finding-what-broke-observability-evaluation-optimization.md"
     },
     {
         "title": "Code Challenge of the Day — Count set bits (medium)",
@@ -30905,6 +30949,17 @@
         "file": "the-box-has-your-repo-not-your-path.md"
     },
     {
+        "title": "Shiny Object Syndrome",
+        "slug": "shiny-object-syndrome",
+        "author": "janisz",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 11:02:14 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome Comments URL: https://news.ycombinator.com/item?id=50314872 Points: 9 # Comments: 1",
+        "keywords": "url, https, comments, shiny, object, syndrome, article, wikipedia",
+        "generated": "2026-10-31T11:58:36.460862",
+        "file": "shiny-object-syndrome.md"
+    },
+    {
         "title": "How to Remove Hum and Buzz From Audio (50Hz vs 60Hz Explained)",
         "slug": "how-to-remove-hum-and-buzz-from-audio-50hz-vs-60hz-explained",
         "author": "jacak",
@@ -42520,6 +42575,17 @@
         "file": "building-api-development-services-that-stay-reliable-under-real-production-traffic.md"
     },
     {
+        "title": "Need help with a lightweight WebGL renderer sample (Vanilla JS / Three.js r79)",
+        "slug": "need-help-with-a-lightweight-webgl-renderer-sample-vanilla-js-threejs-r79",
+        "author": "Shell Atol",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 11:53:33 +0000",
+        "description": "Hi everyone, I am looking for a human developer to help me create or fix a basic WebGL 3D renderer sample that can run smoothly on my desktop browser. Due to...",
+        "keywords": "webgl, sample, need, help, renderer, vanilla, three, can",
+        "generated": "2026-10-31T11:58:36.464275",
+        "file": "need-help-with-a-lightweight-webgl-renderer-sample-vanilla-js-threejs-r79.md"
+    },
+    {
         "title": "Amazon Bedrock AgentCore Web Search: Production Deployment Guide",
         "slug": "amazon-bedrock-agentcore-web-search-production-deployment-guide",
         "author": "aarhamforensics",
@@ -49457,6 +49523,17 @@
         "keywords": "ben, bernanke, anthropic, url, https, com, news, comments",
         "generated": "2026-07-10T03:51:00.818650",
         "file": "ben-bernanke-joins-anthropic-oversight-trust.md"
+    },
+    {
+        "title": "👻 STRANGER: An AI Agent That Connects Students, Recruiters, Researchers, and Companies with Eachother",
+        "slug": "stranger-an-ai-agent-that-connects-students-recruiters-researchers-and-companies-with-eachother",
+        "author": "lochan k m",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 11:49:15 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine 👻 STRANGER — The Ghost in the Network That Finds Your Missin...",
+        "keywords": "agent, stranger, asi, open, source, one, how, matching",
+        "generated": "2026-10-31T11:58:36.466732",
+        "file": "stranger-an-ai-agent-that-connects-students-recruiters-researchers-and-companies-with-eachother.md"
     },
     {
         "title": "Array Methods in JS - Part 2",
@@ -62065,6 +62142,17 @@
         "file": "add-a-drag-and-drop-email-builder-to-your-angular-app-full-tutorial.md"
     },
     {
+        "title": "We Took over ChatGPT Accounts",
+        "slug": "we-took-over-chatgpt-accounts",
+        "author": "armcat",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 10:30:11 +0000",
+        "description": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 9 # Comments: 4",
+        "keywords": "url, https, comments, took, over, chatgpt, accounts, article",
+        "generated": "2026-10-31T11:58:36.460989",
+        "file": "we-took-over-chatgpt-accounts.md"
+    },
+    {
         "title": "Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection",
         "slug": "google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection",
         "author": "Omotayo Aina",
@@ -62316,6 +62404,17 @@
         "keywords": "titleart, url, https, comments, show, make, text, like",
         "generated": "2026-10-26T12:37:04.181541",
         "file": "show-hn-titleart-make-text-like-its-1997.md"
+    },
+    {
+        "title": "Aadhaar eSign in Django: send PDFs for signature and verify webhooks",
+        "slug": "aadhaar-esign-in-django-send-pdfs-for-signature-and-verify-webhooks",
+        "author": "Atul Thakur",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 11:48:48 +0000",
+        "description": "Indian businesses run on signed PDFs: rent agreements, offer letters, NDAs, loan sanction letters. Aadhaar eSign lets a signer sign with an OTP sent to their...",
+        "keywords": "signyu, import, django, contract, request, contracts, models, form",
+        "generated": "2026-10-31T11:58:36.461944",
+        "file": "aadhaar-esign-in-django-send-pdfs-for-signature-and-verify-webhooks.md"
     },
     {
         "title": "An 84% Win Rate and Still Losing Money: Why I Built a Public Record for Stock Predictions",
@@ -65394,6 +65493,17 @@
         "keywords": "face, shape, your, you, photo, tools, mediapipe, against",
         "generated": "2026-10-22T04:08:58.350832",
         "file": "i-built-a-face-shape-detector-that-shows-its-work-and-keeps-going.md"
+    },
+    {
+        "title": "Why Agent Tool Use is an Identity Problem, Not a Prompt Problem",
+        "slug": "why-agent-tool-use-is-an-identity-problem-not-a-prompt-problem",
+        "author": "VinayKumar KsheeraSagar",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 11:48:25 +0000",
+        "description": "Originally published at invarcore.com/blog/why-agent-tool-use-is-an-identity-problem Somewhere right now, an enterprise is deploying an autonomous agent with...",
+        "keywords": "agent, token, alice, github, identity, you, orchestrator, not",
+        "generated": "2026-10-31T11:58:36.465256",
+        "file": "why-agent-tool-use-is-an-identity-problem-not-a-prompt-problem.md"
     },
     {
         "title": "Extracting Text from PDFs Reliably in Python with Pythonaibrain PTT",
@@ -69267,6 +69377,17 @@
         "file": "run-folders-make-email-agents-easier-to-debug.md"
     },
     {
+        "title": "How to send transactional emails from Next.js App Router (Server Actions, route handlers and after())",
+        "slug": "how-to-send-transactional-emails-from-nextjs-app-router-server-actions-route-handlers-and-after",
+        "author": "Nic Polotnianko 🇺🇦",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 11:35:22 +0000",
+        "description": "Almost every Next.js app needs to send a few emails: a welcome email after signup, a magic link or password reset, a receipt. The App Router gives you severa...",
+        "keywords": "email, send, server, your, provider, import, you, emails",
+        "generated": "2026-10-31T11:58:36.466139",
+        "file": "how-to-send-transactional-emails-from-nextjs-app-router-server-actions-route-handlers-and-after.md"
+    },
+    {
         "title": "I Built an MCP Server So AI Assistants Can Process PDFs Directly",
         "slug": "i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly",
         "author": "Peter Ndumia",
@@ -71245,6 +71366,17 @@
         "keywords": "monitoring, dynatrace, uptime, best, free, teams, apm, need",
         "generated": "2026-08-05T02:54:38.756740",
         "file": "best-dynatrace-alternatives-in-2026-simpler-uptime-monitoring-at-a-fraction-of-the-price.md"
+    },
+    {
+        "title": "Building a read-only MCP server where a connector token can never become a login",
+        "slug": "building-a-read-only-mcp-server-where-a-connector-token-can-never-become-a-login",
+        "author": "Calix",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 11:46:25 +0000",
+        "description": "I run a read-only crypto portfolio tracker (last time I wrote about how far back each exchange's API actually lets you go ), and I wanted people to ask ChatG...",
+        "keywords": "token, session, mcp, not, only, one, user, every",
+        "generated": "2026-10-31T11:58:36.467276",
+        "file": "building-a-read-only-mcp-server-where-a-connector-token-can-never-become-a-login.md"
     },
     {
         "title": "Anne Carson wins Nobel Prize in literature 2026",
@@ -73643,6 +73775,17 @@
         "keywords": "paperpilot, url, https, com, comments, zero, cloud, pure",
         "generated": "2026-10-26T12:37:04.181361",
         "file": "paperpilot-zero-cloud-pure-rust-pdf-engine-with-wasm-and-mcp.md"
+    },
+    {
+        "title": "De Dartmouth a ChatGPT: 66 años para llegar a una máquina que supiera charlar",
+        "slug": "de-dartmouth-a-chatgpt-66-aos-para-llegar-a-una-mquina-que-supiera-charlar",
+        "author": "Camilo Vera",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 11:36:34 +0000",
+        "description": "Publicado originalmente en Technical Logbook . 66 años de historia, dos inviernos de fracaso público y la convergencia final de cuatro piezas dispersas: cómo...",
+        "keywords": "que, una, por, para, con, fue, dos, ese",
+        "generated": "2026-10-31T11:58:36.468893",
+        "file": "de-dartmouth-a-chatgpt-66-aos-para-llegar-a-una-mquina-que-supiera-charlar.md"
     },
     {
         "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
@@ -77240,6 +77383,17 @@
         "keywords": "free, pilot, you, your, team, gate, tokens, not",
         "generated": "2026-08-21T12:57:11.261702",
         "file": "should-your-team-keep-the-free-ai-server-after-the-pilot-use-this-4-part-renewal-gate.md"
+    },
+    {
+        "title": "French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic",
+        "slug": "french-lawmakers-approved-a-tax-of-0055-for-every-gigabyte-of-internet-traffic",
+        "author": "helloplanets",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 11:28:46 +0000",
+        "description": "Article URL: https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026 Comme...",
+        "keywords": "url, https, seance, comments, french, lawmakers, approved, tax",
+        "generated": "2026-10-31T11:58:36.460659",
+        "file": "french-lawmakers-approved-a-tax-of-0055-for-every-gigabyte-of-internet-traffic.md"
     },
     {
         "title": "OpenAI Acquires Cloud Startup Ona to Power Agent Infrastructure",
@@ -86876,6 +87030,17 @@
         "keywords": "motion, tracking, opencv, work, not, fast, frame, which",
         "generated": "2026-10-16T04:00:24.051447",
         "file": "zero-latency-motion-tracking-with-opencv.md"
+    },
+    {
+        "title": "How Can Data Centers Improve AI Performance per Watt?",
+        "slug": "how-can-data-centers-improve-ai-performance-per-watt",
+        "author": "Data Center",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 11:40:03 +0000",
+        "description": "As AI models become larger and more demanding, data centers must deliver more computing power without letting electricity and cooling costs rise at the same ...",
+        "keywords": "power, data, performance, can, more, efficient, workloads, efficiency",
+        "generated": "2026-10-31T11:58:36.468321",
+        "file": "how-can-data-centers-improve-ai-performance-per-watt.md"
     },
     {
         "title": "48-Hour Field Notes: The Relative Path Worked in My Editor. The Clean Job Started Somewhere Else.",
@@ -97964,6 +98129,17 @@
         "file": "getting-video-models-to-learn-better-faster.md"
     },
     {
+        "title": "Serbia just elected the world's brainiest parliament",
+        "slug": "serbia-just-elected-the-worlds-brainiest-parliament",
+        "author": "input_sh",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 10:21:30 +0000",
+        "description": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=5031...",
+        "keywords": "serbia, just, elected, world, brainiest, parliament, article, url",
+        "generated": "2026-10-31T11:58:36.461241",
+        "file": "serbia-just-elected-the-worlds-brainiest-parliament.md"
+    },
+    {
         "title": "Agentic Fraud Investigation with TigerGraph",
         "slug": "agentic-fraud-investigation-with-tigergraph",
         "author": "Bhagyashri Kale",
@@ -101691,6 +101867,17 @@
         "keywords": "building, biggest, when, troubleshooting, they, more, answer, started",
         "generated": "2026-06-05T15:19:56.044945",
         "file": "the-biggest-mistake-i-made-when-building-an-ai-troubleshooting-tool.md"
+    },
+    {
+        "title": "Your Order API Needs More Than an Idempotency Key",
+        "slug": "your-order-api-needs-more-than-an-idempotency-key",
+        "author": "HaoJie Luo (Fone)",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 11:14:29 +0000",
+        "description": "An order API can accept an Idempotency-Key header on every request and still create a second order for the same intended purchase. Generate a fresh key after...",
+        "keywords": "key, order, sku, not, same, amount, server, idempotency",
+        "generated": "2026-10-31T11:58:36.464091",
+        "file": "your-order-api-needs-more-than-an-idempotency-key.md"
     },
     {
         "title": "Monitoring Python RQ jobs: what to watch and how to get alerted",
@@ -107446,6 +107633,17 @@
         "file": "most-27-platforms-to-buy-old-yahoo-accounts-safely.md"
     },
     {
+        "title": "ERP Software: A Complete Guide to Business Automation and Management",
+        "slug": "erp-software-a-complete-guide-to-business-automation-and-management",
+        "author": "Sysfo Software Solutions",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 11:38:02 +0000",
+        "description": "Managing multiple business operations manually can be challenging. From inventory and accounting to sales, employees, and customer management, businesses oft...",
+        "keywords": "erp, software, business, management, can, businesses, operations, manage",
+        "generated": "2026-10-31T11:58:36.465573",
+        "file": "erp-software-a-complete-guide-to-business-automation-and-management.md"
+    },
+    {
         "title": "Best AI-Native Software Delivery Lifecycle Tools in 2026",
         "slug": "best-ai-native-software-delivery-lifecycle-tools-in-2026",
         "author": "biz tech pulse hub",
@@ -109402,6 +109600,17 @@
         "keywords": "mcp, buywhere, smithery, you, server, listing, now, listed",
         "generated": "2026-09-01T04:32:01.153507",
         "file": "buywhere-mcp-now-listed-on-smithery.md"
+    },
+    {
+        "title": "Five things to know before you build on the USAJOBS Search API",
+        "slug": "five-things-to-know-before-you-build-on-the-usajobs-search-api",
+        "author": "Your Evenings Data",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 11:32:33 +0000",
+        "description": "USAJOBS publishes an official Search API ( data.usajobs.gov/api/Search ) for US federal job announcements. We built a scheduled job feed on it, and these are...",
+        "keywords": "pay, jobs, you, api, usajobs, before, search, federal",
+        "generated": "2026-10-31T11:58:36.462227",
+        "file": "five-things-to-know-before-you-build-on-the-usajobs-search-api.md"
     },
     {
         "title": "Third Drone Shot Down in Three Days in Romanian Territory",
@@ -111974,6 +112183,17 @@
         "keywords": "com, txt, disallow, robots, allowed, file, one, stackoverflow",
         "generated": "2026-09-23T04:13:47.925347",
         "file": "stack-overflow-serves-its-robotstxt-with-http-418-and-python-reads-that-as-crawl-everything.md"
+    },
+    {
+        "title": "I held a séance for a feature that lived 17 minutes",
+        "slug": "i-held-a-sance-for-a-feature-that-lived-17-minutes",
+        "author": "TaseenTariq",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 11:27:31 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built On 30 September, at 15:07:58, I gave my Android...",
+        "keywords": "exhume, gemma, code, orkut, evidence, its, tap, every",
+        "generated": "2026-10-31T11:58:36.462988",
+        "file": "i-held-a-sance-for-a-feature-that-lived-17-minutes.md"
     },
     {
         "title": "AI video brief do-nots",
