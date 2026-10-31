@@ -845,6 +845,17 @@
         "file": "your-python-service-grows-40-mb-a-day-and-then-ooms-heres-how-to-find-the-leak-in-an-hour.md"
     },
     {
+        "title": "طراحی سایت چندزبانه شرکتی؛ اصول سئو بین‌الملل، تگ hreflang و ساختار URL",
+        "slug": "hreflang-url",
+        "author": "Mohammad Zanjani",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 17:04:51 +0000",
+        "description": "طراحی سایت چندزبانه برای شرکت‌هایی که از مرز جغرافیایی ایران عبور کرده‌اند، دیگر یک انتخاب لوکس یا ویترین تبلیغاتی نیست؛ بلکه پیش‌شرط بقای تجاری در بازارهای ...",
+        "keywords": "hreflang, url, next, html, com, rubinesh, default, app",
+        "generated": "2026-10-31T17:12:26.638809",
+        "file": "hreflang-url.md"
+    },
+    {
         "title": "Six lines guard every ?next= in our app, and the case people miss is a backslash",
         "slug": "six-lines-guard-every-next-in-our-app-and-the-case-people-miss-is-a-backslash",
         "author": "Daniel Pertu",
@@ -4794,6 +4805,17 @@
         "file": "harness-engineering-part-3-the-control-loop.md"
     },
     {
+        "title": "OpenAI Lança GPT-6.1 Terra: Computer Use a Um Décimo do Custo e Confronto com o Gemini 4 Argon",
+        "slug": "openai-lana-gpt-61-terra-computer-use-a-um-dcimo-do-custo-e-confronto-com-o-gemini-4-argon",
+        "author": "Ricardo A. Oliveira",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 17:00:34 +0000",
+        "description": "Leia o original e a versao atualizada no PromptX.blog : https://promptx.blog/blog/openai-gpt-6-1-terra-computer-use-vs-gemini-4-argon/ A economia da inteligê...",
+        "keywords": "gpt, blog, terra, promptx, por, openai, computer, use",
+        "generated": "2026-10-31T17:12:26.637527",
+        "file": "openai-lana-gpt-61-terra-computer-use-a-um-dcimo-do-custo-e-confronto-com-o-gemini-4-argon.md"
+    },
+    {
         "title": "Functional Ultrasound Imaging (fUSI) from scratch",
         "slug": "functional-ultrasound-imaging-fusi-from-scratch",
         "author": "pminimax",
@@ -5296,6 +5318,17 @@
         "keywords": "agent, protocol, client, acp, card, session, both, can",
         "generated": "2026-08-11T13:17:02.097591",
         "file": "google-agent-to-agent-protocol-vs-agent-client-protocol-not-rivals-different-layers.md"
+    },
+    {
+        "title": "A Detailed Introduction to the Opportunity Skill",
+        "slug": "a-detailed-introduction-to-the-opportunity-skill",
+        "author": "Siyu",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 17:00:00 +0000",
+        "description": "The Opportunity Skill v3.0 is powered by QuestMeet, an opportunity network for AI-native professionals and buyers, and lets your AI agent connect you with ca...",
+        "keywords": "agent, you, can, listing, your, not, seeking, skill",
+        "generated": "2026-10-31T17:12:26.640775",
+        "file": "a-detailed-introduction-to-the-opportunity-skill.md"
     },
     {
         "title": "Your AI Co-Pilot: Setting Up Practical Workflows (Without Code)",
@@ -8202,6 +8235,17 @@
         "file": "why-consolidating-feature-flags-and-experiments-cuts-hidden-costs.md"
     },
     {
+        "title": "What we're building at Softscotch: a developer's look at 6 marketing tools",
+        "slug": "what-were-building-at-softscotch-a-developers-look-at-6-marketing-tools",
+        "author": "Sanju Joseph",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 16:56:32 +0000",
+        "description": "I'm Sanju Joseph, founder of Softscotch , a digital marketing agency. Alongside our client work, we build software for marketers, founders and small business...",
+        "keywords": "you, what, each, can, one, google, developers, how",
+        "generated": "2026-10-31T17:12:26.639656",
+        "file": "what-were-building-at-softscotch-a-developers-look-at-6-marketing-tools.md"
+    },
+    {
         "title": "What Is Data Analytics and Why Is It One of the Most In-Demand Skills in 2026?",
         "slug": "what-is-data-analytics-and-why-is-it-one-of-the-most-in-demand-skills-in-2026",
         "author": "JustAcademy Official",
@@ -8926,6 +8970,17 @@
         "keywords": "model, tool, loop, you, sdk, agent, what, text",
         "generated": "2026-07-10T14:40:05.901806",
         "file": "vercel-ai-sdk-6-an-agent-is-just-a-while-loop.md"
+    },
+    {
+        "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+        "slug": "ex-meta-researcher-torrented-pirated-books-deleted-it-due-to-litigation",
+        "author": "WesleyGrant782",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 14:57:33 +0000",
+        "description": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.yc...",
+        "keywords": "meta, researcher, torrented, pirated, books, deleted, due, litigation",
+        "generated": "2026-10-31T17:12:26.637409",
+        "file": "ex-meta-researcher-torrented-pirated-books-deleted-it-due-to-litigation.md"
     },
     {
         "title": "5 things to agree before any AI pilot",
@@ -39659,6 +39714,17 @@
         "file": "i-built-a-fake-logistics-company-to-stop-myself-buying-things-how-out-for-never-works-under-the-hood.md"
     },
     {
+        "title": "I asked an AI Builder to build a forecasting app in one pass.",
+        "slug": "i-asked-an-ai-builder-to-build-a-forecasting-app-in-one-pass",
+        "author": "Chinonyerem",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 17:02:24 +0000",
+        "description": "I wanted a forecasting app. Not a dashboard, not a chart with a line on it. An app that takes positions on prediction markets and keeps a record of those pos...",
+        "keywords": "one, not, you, builder, app, markets, then, what",
+        "generated": "2026-10-31T17:12:26.639829",
+        "file": "i-asked-an-ai-builder-to-build-a-forecasting-app-in-one-pass.md"
+    },
+    {
         "title": "OpenLogi",
         "slug": "openlogi",
         "author": "amatheus",
@@ -50053,6 +50119,17 @@
         "file": "bring-your-own-ai-letting-users-pick-from-13-providers-and-run-models-locally.md"
     },
     {
+        "title": "A/SIDE – Private photo sharing and encrypted messages",
+        "slug": "aside-private-photo-sharing-and-encrypted-messages",
+        "author": "eustoria",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 16:16:20 +0000",
+        "description": "Article URL: https://a-side.social/ Comments URL: https://news.ycombinator.com/item?id=50317484 Points: 5 # Comments: 4",
+        "keywords": "side, url, https, comments, private, photo, sharing, encrypted",
+        "generated": "2026-10-31T17:12:26.637227",
+        "file": "aside-private-photo-sharing-and-encrypted-messages.md"
+    },
+    {
         "title": "The CPU Is Back in the Stack — and Nobody Budgeted for It",
         "slug": "the-cpu-is-back-in-the-stack-and-nobody-budgeted-for-it",
         "author": "NTCTech",
@@ -55278,6 +55355,17 @@
         "file": "porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-experts.md"
     },
     {
+        "title": "GHOST LOAD",
+        "slug": "ghost-load",
+        "author": "Priyanshu Patel",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 16:58:54 +0000",
+        "description": "Hacktoberfest Open-Source AI Challenge: Week 4 Sign Up View Entries Challenge 5 of 5 in our Hacktoberfest DEV Challenges. One prompt, a new theme every week....",
+        "keywords": "open, your, you, hacktoberfest, challenge, week, source, what",
+        "generated": "2026-10-31T17:12:26.641149",
+        "file": "ghost-load.md"
+    },
+    {
         "title": "From Prompt to Playable: Building a Phaser Survival Game with Codex and SpriteShip",
         "slug": "from-prompt-to-playable-building-a-phaser-survival-game-with-codex-and-spriteship",
         "author": "SpriteShip Team",
@@ -59082,6 +59170,17 @@
         "keywords": "planning, tools, development, separating, fact, fiction, exploring, evolving",
         "generated": "2026-06-13T19:44:24.811722",
         "file": "ai-development-planning-tools-separating-fact-from-fiction.md"
+    },
+    {
+        "title": "An instant, pay-per-scan risk report for your Claude Code / MCP config",
+        "slug": "an-instant-pay-per-scan-risk-report-for-your-claude-code-mcp-config",
+        "author": "StackScribe",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 16:36:34 +0000",
+        "description": "AI disclosure: this article and the tool it describes were researched, written, and built by an AI agent (StackScribe AI, running on Claude). No human review...",
+        "keywords": "free, report, config, cli, agent, audit, you, claude",
+        "generated": "2026-10-31T17:12:26.638545",
+        "file": "an-instant-pay-per-scan-risk-report-for-your-claude-code-mcp-config.md"
     },
     {
         "title": "OpenAI, Claude, Gemini Compatible Summarization API in Node.js (One Contract)",
@@ -89364,6 +89463,17 @@
         "file": "crunchbase-fitness-funding-rebounds-but-not-for-treadmills.md"
     },
     {
+        "title": "Casio Watches of the 1980s",
+        "slug": "casio-watches-of-the-1980s",
+        "author": "karagenit",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 16:00:48 +0000",
+        "description": "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 43 # Comments: 9",
+        "keywords": "casio, watches, url, https, com, comments, article, www",
+        "generated": "2026-10-31T17:12:26.637354",
+        "file": "casio-watches-of-the-1980s.md"
+    },
+    {
         "title": "How a 400 vs 404 gap let me forge a token and read an internal report",
         "slug": "how-a-400-vs-404-gap-let-me-forge-a-token-and-read-an-internal-report",
         "author": "Oopssec Store",
@@ -97194,6 +97304,17 @@
         "file": "stop-guessing-i-tested-4-chinese-ai-models-so-you-dont-have-to.md"
     },
     {
+        "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+        "slug": "what-is-a-light-day-the-milestone-voyager-1-is-closing-in-on",
+        "author": "geox",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 16:09:55 +0000",
+        "description": "Article URL: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/ Comments URL: https://news.ycombinator.com/item?id=50317429 Po...",
+        "keywords": "voyager, what, light, day, url, https, comments, milestone",
+        "generated": "2026-10-31T17:12:26.637298",
+        "file": "what-is-a-light-day-the-milestone-voyager-1-is-closing-in-on.md"
+    },
+    {
         "title": "How to Build GDPR Data Export Gates: 3 Checks for Consent, Sessions, and Risk",
         "slug": "how-to-build-gdpr-data-export-gates-3-checks-for-consent-sessions-and-risk",
         "author": "BriarVoss47291",
@@ -97203,6 +97324,17 @@
         "keywords": "export, consent, session, can, risk, not, response, decision",
         "generated": "2026-09-02T20:51:03.419102",
         "file": "how-to-build-gdpr-data-export-gates-3-checks-for-consent-sessions-and-risk.md"
+    },
+    {
+        "title": "Fallen Victim to an Online Scam OR lost Cryptocurrency or password forgotten. Contact Zeus Crypto Recovery Services",
+        "slug": "fallen-victim-to-an-online-scam-or-lost-cryptocurrency-or-password-forgotten-contact-zeus-crypto-recovery-services",
+        "author": "Mich Miuel",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 16:59:36 +0000",
+        "description": "Zeus Crypto Recovery Services specializes in tracking and retrieving lost or stolen digital assets. If you have lost access to your Bitcoin (BTC), Tether (US...",
+        "keywords": "crypto, lost, zeus, recovery, services, your, fallen, victim",
+        "generated": "2026-10-31T17:12:26.639351",
+        "file": "fallen-victim-to-an-online-scam-or-lost-cryptocurrency-or-password-forgotten-contact-zeus-crypto-recovery-services.md"
     },
     {
         "title": "Segno Player: a sheet music player that keeps the engraver's layout",
@@ -104685,6 +104817,17 @@
         "file": "write-code-like-a-human-will-maintain-it.md"
     },
     {
+        "title": "OpenAI just doubled Pro — so what does $100–$200 of AI coding actually buy?",
+        "slug": "openai-just-doubled-pro-so-what-does-100200-of-ai-coding-actually-buy",
+        "author": "AI Cost Notes",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 16:59:26 +0000",
+        "description": "Originally published on AI Cost Notes . Numbers checked 2026-10-30 against vendor docs. Checked 2026-10-30 against vendor pages. Numbers move; re-check the s...",
+        "keywords": "pro, api, claude, cursor, codex, max, credits, weekly",
+        "generated": "2026-10-31T17:12:26.640943",
+        "file": "openai-just-doubled-pro-so-what-does-100200-of-ai-coding-actually-buy.md"
+    },
+    {
         "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
         "slug": "register-koreas-first-pc-se-8001-as-a-national-important-material",
         "author": "mushstory",
@@ -105763,6 +105906,17 @@
         "file": "your-pipeline-is-167h-behind-catching-mobile-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "Is AI Making You a Worse Developer? Anthropic's Data Says Yes. Here's the Fix",
+        "slug": "is-ai-making-you-a-worse-developer-anthropics-data-says-yes-heres-the-fix",
+        "author": "Alan West",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 17:00:02 +0000",
+        "description": "Is AI making developers worse? In the best controlled study I've found, yes. Anthropic had 52 mostly junior engineers learn Trio, a Python async library. The...",
+        "keywords": "you, code, who, what, cisco, one, study, than",
+        "generated": "2026-10-31T17:12:26.640162",
+        "file": "is-ai-making-you-a-worse-developer-anthropics-data-says-yes-heres-the-fix.md"
+    },
+    {
         "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
         "slug": "eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds",
         "author": "hkc",
@@ -106322,6 +106476,17 @@
         "keywords": "agent, trust, evidence, governance, agents, identity, enterprise, data",
         "generated": "2026-09-18T04:07:04.909656",
         "file": "enterprise-ai-governance-framework-essential-trust.md"
+    },
+    {
+        "title": "OpenAPI to TypeScript Client: Free Online Typed API Client Generator — How-To Guide",
+        "slug": "openapi-to-typescript-client-free-online-typed-api-client-generator-how-to-guide",
+        "author": "Layoff Atlas",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 17:02:50 +0000",
+        "description": "OpenAPI to TypeScript Client: Free Online Typed API Client Generator — How-To Guide If you have an OpenAPI specification and you want typed TypeScript code f...",
+        "keywords": "your, client, you, openapi, tool, specification, typescript, code",
+        "generated": "2026-10-31T17:12:26.639036",
+        "file": "openapi-to-typescript-client-free-online-typed-api-client-generator-how-to-guide.md"
     },
     {
         "title": "I shipped 200 tools as single HTML files. Here's what that constraint actually buys you.",
@@ -107400,6 +107565,17 @@
         "keywords": "character, you, key, value, out, dictionary, data, anya",
         "generated": "2026-06-06T19:40:03.722471",
         "file": "day-5-dictionaries.md"
+    },
+    {
+        "title": "Enlightenment 0.28 Released with Many Improvements",
+        "slug": "enlightenment-028-released-with-many-improvements",
+        "author": "mikece",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 16:22:26 +0000",
+        "description": "Article URL: https://www.phoronix.com/news/Enlightenment-0.28 Comments URL: https://news.ycombinator.com/item?id=50317534 Points: 9 # Comments: 3",
+        "keywords": "enlightenment, url, https, com, news, comments, released, many",
+        "generated": "2026-10-31T17:12:26.637108",
+        "file": "enlightenment-028-released-with-many-improvements.md"
     },
     {
         "title": "How to Build a System Monitor Dashboard for Your AI Agent (Step by Step)",
@@ -110810,6 +110986,17 @@
         "file": "when-i-reject-ai-code-even-if-it-works.md"
     },
     {
+        "title": "What's inside an Enshrouded .ksd save file (and how I parse it in the browser)",
+        "slug": "whats-inside-an-enshrouded-ksd-save-file-and-how-i-parse-it-in-the-browser",
+        "author": "Foolgry Wang",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 16:59:59 +0000",
+        "description": "If you've put serious hours into Enshrouded , at some point the save file starts to feel personal. You want to re-plan a skill build without redoing the grin...",
+        "keywords": "you, file, one, first, than, save, browser, editor",
+        "generated": "2026-10-31T17:12:26.639277",
+        "file": "whats-inside-an-enshrouded-ksd-save-file-and-how-i-parse-it-in-the-browser.md"
+    },
+    {
         "title": "Generate 3D-printable ornaments in Python: torus knots and golden-angle petals",
         "slug": "generate-3d-printable-ornaments-in-python-torus-knots-and-golden-angle-petals",
         "author": "Black",
@@ -111052,6 +111239,17 @@
         "file": "how-to-build-a-work-governance-framework-inside-monday.md"
     },
     {
+        "title": "Your first tennis prediction model should have a baseline it can lose to",
+        "slug": "your-first-tennis-prediction-model-should-have-a-baseline-it-can-lose-to",
+        "author": "PlantCrawl",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 17:00:00 +0000",
+        "description": "The first useful result from a tennis prediction project is not necessarily a clever forecast. It may be discovering that your learned model is worse than th...",
+        "keywords": "model, match, not, test, row, elo, rows, week",
+        "generated": "2026-10-31T17:12:26.637966",
+        "file": "your-first-tennis-prediction-model-should-have-a-baseline-it-can-lose-to.md"
+    },
+    {
         "title": "Market website templete",
         "slug": "market-website-templete",
         "author": "OZEEM",
@@ -111226,6 +111424,17 @@
         "keywords": "files, you, scripts, filename, your, tasks, time, jpg",
         "generated": "2026-09-10T04:04:27.713134",
         "file": "automate-repetitive-work-tasks-with-python-5-real-scripts-i-use-daily.md"
+    },
+    {
+        "title": "# Echoes of Yesterday 🕯️: Giving Old Memories a New Life with Local AI",
+        "slug": "echoes-of-yesterday-giving-old-memories-a-new-life-with-local-ai",
+        "author": "Pyla Neeraja",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 16:51:30 +0000",
+        "description": "🕯️ Echoes of Yesterday Your memories are fragile. Their stories don't have to be. What if an old photograph could become a story worth remembering? Imagine f...",
+        "keywords": "memory, memories, local, story, photograph, stories, photographs, echoes",
+        "generated": "2026-10-31T17:12:26.638389",
+        "file": "echoes-of-yesterday-giving-old-memories-a-new-life-with-local-ai.md"
     },
     {
         "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
@@ -113745,6 +113954,17 @@
         "keywords": "stakdock, launch, dock, alternatives, next, gen, saas, software",
         "generated": "2026-08-20T18:47:36.113458",
         "file": "stakdock-the-next-gen-saas-ai-software-launch-dock-2026.md"
+    },
+    {
+        "title": "x402 Protocol: Machine-Native Micro-Settlements for AI Agents",
+        "slug": "x402-protocol-machine-native-micro-settlements-for-ai-agents",
+        "author": "Satria Nindhita",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 16:57:01 +0000",
+        "description": "x402 Protocol: Machine-Native Micro-Settlements for AI Agents Agen AI yang beroperasi otonom di internet menghadapi masalah fundamental yang sama: mereka tid...",
+        "keywords": "agen, dan, payment, chain, untuk, transaksi, atau, yang",
+        "generated": "2026-10-31T17:12:26.638189",
+        "file": "x402-protocol-machine-native-micro-settlements-for-ai-agents.md"
     },
     {
         "title": "How Google's Invisible Watermark Actually Works — and What Breaks It",
