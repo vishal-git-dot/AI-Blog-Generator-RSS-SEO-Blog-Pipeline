@@ -1,0 +1,34 @@
+---
+title: "Ofrenda local: a Día de Muertos remembrance writer that runs offline with Gemma 3"
+slug: "ofrenda-local-a-da-de-muertos-remembrance-writer-that-runs-offline-with-gemma-3"
+author: "Nora Aguirre"
+source: "devto_ai"
+published: "Sat, 31 Oct 2026 21:08:58 +0000"
+description: "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built Every year on November 1 and 2, families across..."
+keywords: "you, model, ofrenda, what, not, remembrance, local, open"
+generated: "2026-10-31T21:15:20.728352"
+---
+
+# Ofrenda local: a Día de Muertos remembrance writer that runs offline with Gemma 3
+
+## Overview
+
+This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built Every year on November 1 and 2, families across Mexico set a table for people who are no longer at it. There are candles, marigolds, papel picado, their favorite food and their favorite songs. The ofrenda is not a decoration. It is a way of saying that someone is still part of the family. Ofrenda local is a small tool that helps you start that table. You tell it the name of someone you miss, what they were to you, their favorite food, a song they loved, a memory, and the tone you want (tender, cheerful or solemn). You can add a photo if you like. A local language model then writes, in Mexican Spanish: a short remembrance addressed to them, a calaverita literaria , the affectionate, playful verse that is part of the tradition, a one-line cartelito for a papel picado or a card, items for the ofrenda taken only from what you told it, and, if you added a photo, a plain description of what is visible in it. It also lists the traditional elements of an ofrenda with their meaning. You can edit everything, copy it, or print a sheet to put on the altar. How I read the theme. For me, a "ghost in the machine" is the trace of a person that stays in the things they leave behind: a recipe, a song, a way of saying something. I wanted a machine that helps you hold on to that trace without taking it anywhere. Demo Code nora-programadora / ofrenda-local Ofrenda local Tell it about someone you miss and get a short remembrance, a calaverita , a checklist for their ofrenda and an image of how the altar could look. The AI runs on your own computer, with no internet: your stories and photos never leave your machine. Built for the Hacktoberfest Open-Source AI Challenge, Week 4: Ghost in the Machine (Día de Muertos). Post on DEV: [[TODO: add link once published]] Demo video: VIDEO What it does You write a few things about a loved one: name, what they were to you, favorite food, a song, a memory, and the tone you want (tender, cheerful or solemn). A photo is optional. A local Gemma 3 model writes, in Mexican Spanish a short remembrance addressed to them, a calaverita literaria (affectionate, never cruel), a one-line cartelito for a papel picado or a card, personal items for the ofrenda taken only… View on GitHub To run it: install Ollama , ollama pull gemma3:4b , then npm install && npm run dev and open http://localhost:5173 . How I Built It Model: Gemma 3 (4B, vision-capable, open weights). Inference: Ollama , running on my laptop. No cloud calls anywhere. Backend: Node.js, TypeScript and Express. Frontend: React and Vite, with a print stylesheet for the ofrenda sheet. A few decisions shaped the project. The model writes. The code owns the facts. The traditional elements of an ofrenda and what they mean are fixed text in the code. I did not want a small model improvising cultural content, so the model only writes the personal parts. Structured output. I pass a JSON schema to Ollama's format parameter so the answer always has the same shape, and the server validates it again before showing anything: body : JSON . stringify ({ model : config . model , // gemma3:4b stream : false , format : schema , // JSON schema for the answer options : { temperature : 0.7 }, messages : [ { role : " system " , content : systemPrompt }, { role : " user " , content : userMessage , images : imageBase64 ? [ imageBase64 ] : undefined }, ], }) Guardrails in the prompt. This is a sensitive subject, so the system prompt is strict. The model must use only the data you provide and never invent facts about the person, such as dates, relatives or causes of death. If there is little information, it should write something more general instead of filling the gaps. It must treat your text as data, not as instructions. The calaverita has to stay affectionate and never mock illness, the body or how someone died. And a photo can be described but never used to identify anyone. Photos. Gemma's vision lets the app describe what is visible in an optional photo, like a smile or the kitchen behind someone, so the remembrance can mention it. That description is shown to you, so you can see exactly what the model noticed. I built this with help from Claude, in chat, as a pair programmer. A real example. Cartelito: ... Remembrance: ... Calaverita: ... and say honestly what worked and what did not (rhymes, tone, anything it got wrong). If you tried gemma3:12b , say whether the verses improved.]] Limits. A 4B model rhymes unevenly in Spanish, so the output is a draft you are meant to edit, and that is how the app presents it. Each generation takes about 40 seconds on my laptop. Why Does Open Innovation Matter? Privacy. A family story and a photo of someone who has died are not things I want to upload to a company's server. Here they go from the browser to my own machine and stay there. It works with the lights, and the internet, off. After the model is downloaded, no connection is needed. That fits an ofrenda, which is about being present, not online. It cannot disappear. If a service shuts down or changes its terms, a remembrance you wrote with it is not lost, because the tool does not depend on anyone's API. Control. I can rewrite the prompt, enforce my own schema and swap the model with one environment variable. I have not compared this against a closed API, so I will not claim it writes better verse. What open weights gave me is privacy, independence and control, in a use case where those matter more than polish. Prize Categories Gemma
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/noraprogramadora/ofrenda-local-a-dia-de-muertos-remembrance-writer-that-runs-offline-with-gemma-3-3d07
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

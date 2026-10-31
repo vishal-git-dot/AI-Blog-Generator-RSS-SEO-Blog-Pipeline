@@ -4574,6 +4574,17 @@
         "file": "the-fedora-45-sausage-factory.md"
     },
     {
+        "title": "Distributed Proofreaders",
+        "slug": "distributed-proofreaders",
+        "author": "gone35",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 20:56:12 +0000",
+        "description": "Article URL: https://www.pgdp.net/c/ Comments URL: https://news.ycombinator.com/item?id=50320137 Points: 3 # Comments: 0",
+        "keywords": "url, https, comments, distributed, proofreaders, article, www, pgdp",
+        "generated": "2026-10-31T21:15:20.724621",
+        "file": "distributed-proofreaders.md"
+    },
+    {
         "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
         "slug": "ashby-yc-w19-is-hiring-emea-engineers-who-can-design",
         "author": "abhikp",
@@ -6308,6 +6319,17 @@
         "keywords": "agency, searchd, record, not, question, displayed, source, pages",
         "generated": "2026-09-16T04:17:07.150704",
         "file": "treat-ai-agency-recommendations-as-a-retrieval-trace-not-a-ranking.md"
+    },
+    {
+        "title": "Two details worth checking in a paginated ASP.NET Core CRUD",
+        "slug": "two-details-worth-checking-in-a-paginated-aspnet-core-crud",
+        "author": "Dayer Arturo López Piña",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 20:57:58 +0000",
+        "description": "This article was prepared with AI assistance and is based on a local ASP.NET Core and SQL Server demo. The examples are excerpts, not a complete application ...",
+        "keywords": "application, query, not, when, email, page, sql, pagination",
+        "generated": "2026-10-31T21:15:20.727310",
+        "file": "two-details-worth-checking-in-a-paginated-aspnet-core-crud.md"
     },
     {
         "title": "Vanna is archived. The failure mode none of the replacements fix.",
@@ -14054,6 +14076,17 @@
         "file": "why-the-future-is-local-app.md"
     },
     {
+        "title": "Unit-Testing an Hreflang Map Generated From a Spreadsheet",
+        "slug": "unit-testing-an-hreflang-map-generated-from-a-spreadsheet",
+        "author": "Peter Panda",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 21:02:54 +0000",
+        "description": "Many multilingual sites still maintain language alternates in a spreadsheet. Generating hreflang tags or an XML sitemap from that sheet is fine — shipping wi...",
+        "keywords": "not, page, assert, three, you, they, hreflang, sheet",
+        "generated": "2026-10-31T21:15:20.726606",
+        "file": "unit-testing-an-hreflang-map-generated-from-a-spreadsheet.md"
+    },
+    {
         "title": "A Developer's Guide to Bulk-Downloading TikTok Videos (Without Losing Your Mind)",
         "slug": "a-developers-guide-to-bulk-downloading-tiktok-videos-without-losing-your-mind",
         "author": "bulkdl",
@@ -19651,6 +19684,17 @@
         "keywords": "file, one, not, ingestion, source, documents, manifest, run",
         "generated": "2026-07-16T19:20:26.282558",
         "file": "what-makes-an-ai-system-production-ready-part-2-designing-a-rag-ingestion-pipeline.md"
+    },
+    {
+        "title": "Price a coding call, then pick the model tier",
+        "slug": "price-a-coding-call-then-pick-the-model-tier",
+        "author": "Conor Bronsdon",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 20:30:08 +0000",
+        "description": "For a short coding task, price the fast tier and the flagship on the same prompt, then keep the cheapest run that still returns code you would ship. On the p...",
+        "keywords": "you, thinking, run, tokens, pro, tier, prompt, flash",
+        "generated": "2026-10-31T21:15:20.725820",
+        "file": "price-a-coding-call-then-pick-the-model-tier.md"
     },
     {
         "title": "Incident CVE-2026-LGTM",
@@ -26955,6 +26999,17 @@
         "file": "the-listing-didnt-exist-the-booking-link-worked.md"
     },
     {
+        "title": "How we compress a PDF to an exact size in the browser, with no upload",
+        "slug": "how-we-compress-a-pdf-to-an-exact-size-in-the-browser-with-no-upload",
+        "author": "Mirza Games",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 20:57:11 +0000",
+        "description": "We are Mirza Games, a small independent studio in Dubai (on Google Play we publish as Sezarr). Most of what we build is puzzle games, but one of the most use...",
+        "keywords": "size, pdf, dpi, text, bytes, target, page, not",
+        "generated": "2026-10-31T21:15:20.727830",
+        "file": "how-we-compress-a-pdf-to-an-exact-size-in-the-browser-with-no-upload.md"
+    },
+    {
         "title": "Serializable Isolation Debugger for Python Race Conditions",
         "slug": "serializable-isolation-debugger-for-python-race-conditions",
         "author": "ItsEvilDuck",
@@ -31345,6 +31400,17 @@
         "file": "i-ported-croniter-to-rust-and-got-228228-that-number-proved-nothing.md"
     },
     {
+        "title": "I Let Claude Code Write a 20-Lesson Tutorial Course for My App From Its Codebase",
+        "slug": "i-let-claude-code-write-a-20-lesson-tutorial-course-for-my-app-from-its-codebase",
+        "author": "amer kasem",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 21:00:51 +0000",
+        "description": "I build dashboards. Admin panels, reports, forms, the usual things people need at work. Writing them is the part I enjoy. Explaining them is the part I don't...",
+        "keywords": "you, your, video, lesson, lessons, app, code, dashcast",
+        "generated": "2026-10-31T21:15:20.727105",
+        "file": "i-let-claude-code-write-a-20-lesson-tutorial-course-for-my-app-from-its-codebase.md"
+    },
+    {
         "title": "Analyzing Sports Data: Infantino opens door to 64-team World Cup — What the Numbers Say",
         "slug": "analyzing-sports-data-infantino-opens-door-to-64-team-world-cup-what-the-numbers-say",
         "author": "Muhammad Bin Nazeer",
@@ -32980,6 +33046,17 @@
         "keywords": "wheat, you, cftc, report, one, market, rows, actor",
         "generated": "2026-09-24T04:09:17.203586",
         "file": "filter-the-cftc-cot-report-for-wheat-and-you-get-three-different-markets.md"
+    },
+    {
+        "title": "Common Desktop Environment available now as open-source",
+        "slug": "common-desktop-environment-available-now-as-open-source",
+        "author": "torcete",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 20:43:41 +0000",
+        "description": "Article URL: https://sourceforge.net/projects/cdesktopenv/ Comments URL: https://news.ycombinator.com/item?id=50320003 Points: 15 # Comments: 7",
+        "keywords": "url, https, comments, common, desktop, environment, available, now",
+        "generated": "2026-10-31T21:15:20.724847",
+        "file": "common-desktop-environment-available-now-as-open-source.md"
     },
     {
         "title": "The Birth and Death of JavaScript (2014)",
@@ -36324,6 +36401,17 @@
         "keywords": "project, fetch, phase, two, url, https, com, comments",
         "generated": "2026-06-21T04:54:47.252638",
         "file": "project-fetch-phase-two.md"
+    },
+    {
+        "title": "Surviving The Graduate",
+        "slug": "surviving-the-graduate",
+        "author": "samizdis",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 20:02:06 +0000",
+        "description": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 3 # Comments: 0",
+        "keywords": "https, comments, surviving, graduate, archive, url, news, ycombinator",
+        "generated": "2026-10-31T21:15:20.724952",
+        "file": "surviving-the-graduate.md"
     },
     {
         "title": "my cookieless analytics shows an error instead of a fake number",
@@ -43453,6 +43541,17 @@
         "file": "stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16.md"
     },
     {
+        "title": "https://dev.to/sozan_alkouz_1e9a5fc2a2a1/404-afterlife-bringing-forgotten-websites-back-to-life-with-open-weight-ai-2h1a",
+        "slug": "httpsdevtosozanalkouz1e9a5fc2a2a1404-afterlife-bringing-forgotten-websites-back-to-life-with-open-weight-ai-2h1a",
+        "author": "Rana",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 21:14:07 +0000",
+        "description": "🕸️ Excited to share our team's Hacktoberfest submission! We built 404 Afterlife to bring forgotten websites back to life using open-weight AI. 👻 Proud of wha...",
+        "keywords": "afterlife, forgotten, websites, back, life, open, weight, our",
+        "generated": "2026-10-31T21:15:20.727948",
+        "file": "httpsdevtosozanalkouz1e9a5fc2a2a1404-afterlife-bringing-forgotten-websites-back-to-life-with-open-weight-ai-2h1a.md"
+    },
+    {
         "title": "Negativland, Culture Jamming, and the Art of Making Something New",
         "slug": "negativland-culture-jamming-and-the-art-of-making-something-new",
         "author": "bananaboy",
@@ -48258,6 +48357,17 @@
         "keywords": "client, python, free, httpx, str, json, models, model",
         "generated": "2026-07-04T13:45:59.767139",
         "file": "hugging-face-inference-api-run-200000-ai-models-for-free-with-python.md"
+    },
+    {
+        "title": "I built a prize wheel for our perfume shops that only spins once you actually follow us on Instagram",
+        "slug": "i-built-a-prize-wheel-for-our-perfume-shops-that-only-spins-once-you-actually-follow-us-on-instagram",
+        "author": "Brahim",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 20:21:36 +0000",
+        "description": "Result first: customers in our perfume shops scan a QR code on a flyer, follow our Instagram account, type the first letters of their username, tap their own...",
+        "keywords": "you, follow, instagram, account, customer, our, their, username",
+        "generated": "2026-10-31T21:15:20.726049",
+        "file": "i-built-a-prize-wheel-for-our-perfume-shops-that-only-spins-once-you-actually-follow-us-on-instagram.md"
     },
     {
         "title": "Japan halves speed limit to 30km/h on all narrow city streets",
@@ -55949,6 +56059,17 @@
         "file": "microservices-with-python-build-scalable-applications.md"
     },
     {
+        "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+        "slug": "with-86-of-the-words-you-might-understand-only-38-of-an-animes-lines",
+        "author": "lakesare",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 20:46:39 +0000",
+        "description": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 3 # ...",
+        "keywords": "anime, lines, url, https, com, comments, words, you",
+        "generated": "2026-10-31T21:15:20.724755",
+        "file": "with-86-of-the-words-you-might-understand-only-38-of-an-animes-lines.md"
+    },
+    {
         "title": "20: Keyboard Themes and Aesthetics: Why Your Keyboard's Visual Environment Affects How You Type",
         "slug": "20-keyboard-themes-and-aesthetics-why-your-keyboards-visual-environment-affects-how-you-type",
         "author": "Roboticela",
@@ -60492,6 +60613,17 @@
         "file": "deflock-casa-grande.md"
     },
     {
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "slug": "hackertube-youtube-built-from-videos-recommended-by-hn",
+        "author": "karpathy",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 19:56:53 +0000",
+        "description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=503...",
+        "keywords": "comments, hackertube, youtube, videos, https, built, recommended, style",
+        "generated": "2026-10-31T21:15:20.725036",
+        "file": "hackertube-youtube-built-from-videos-recommended-by-hn.md"
+    },
+    {
         "title": "Serving cheap when two models agree: a measured cost lever",
         "slug": "serving-cheap-when-two-models-agree-a-measured-cost-lever",
         "author": "Tom Jones",
@@ -61249,6 +61381,17 @@
         "keywords": "security, tools, critical, vulnerabilities, while, data, ransomware, resources",
         "generated": "2026-07-30T08:36:12.117424",
         "file": "ai-security-tools-may-misallocate-resources-distracting-from-ransomware-and-data-breach-threats.md"
+    },
+    {
+        "title": "2026 Compare Image Generation APIs Like OpenAI DALL-E for Healthtech SaaS",
+        "slug": "2026-compare-image-generation-apis-like-openai-dall-e-for-healthtech-saas",
+        "author": "mT41Gzp73rc6",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 21:08:26 +0000",
+        "description": "For a healthtech SaaS that turns private knowledge-base answers into images, choose the provider by its governance boundary before comparing creative output....",
+        "keywords": "image, answer, not, provider, generation, request, its, can",
+        "generated": "2026-10-31T21:15:20.728769",
+        "file": "2026-compare-image-generation-apis-like-openai-dall-e-for-healthtech-saas.md"
     },
     {
         "title": "I Feared AI-Generated Code. Then I Let CodeQL and Semgrep Argue Over It for a Week",
@@ -63601,6 +63744,17 @@
         "keywords": "const, oxlo, api, model, content, res, backend, your",
         "generated": "2026-08-04T19:43:37.726388",
         "file": "integrating-llm-with-web-applications-a-beginners-guide.md"
+    },
+    {
+        "title": "🕸️ Excited to share our team's Hacktoberfest submission!",
+        "slug": "excited-to-share-our-teams-hacktoberfest-submission-we-built-404-afterlife-to-bring-forgotten-websites-back-to-life-using-open-weight-ai-proud-of-what-weve-created-together-check-out-our-journey-and-let-us-know-what-you-think",
+        "author": "Rana",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 21:07:08 +0000",
+        "description": "404 Afterlife: Bringing Forgotten Websites Back to Life with Open-Weight AI Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Submission 👻🌼 sozan ...",
+        "keywords": "open, afterlife, forgotten, websites, back, life, weight, sozan",
+        "generated": "2026-10-31T21:15:20.728870",
+        "file": "excited-to-share-our-teams-hacktoberfest-submission-we-built-404-afterlife-to-bring-forgotten-websites-back-to-life-using-open-weight-ai-proud-of-what-weve-created-together-check-out-our-journey-and-let-us-know-what-you-think.md"
     },
     {
         "title": "Mastering Python String Methods",
@@ -77022,6 +77176,17 @@
         "file": "tool-calling-is-where-agents-break-a-reliability-guide.md"
     },
     {
+        "title": "Ofrenda local: a Día de Muertos remembrance writer that runs offline with Gemma 3",
+        "slug": "ofrenda-local-a-da-de-muertos-remembrance-writer-that-runs-offline-with-gemma-3",
+        "author": "Nora Aguirre",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 21:08:58 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built Every year on November 1 and 2, families across...",
+        "keywords": "you, model, ofrenda, what, not, remembrance, local, open",
+        "generated": "2026-10-31T21:15:20.728352",
+        "file": "ofrenda-local-a-da-de-muertos-remembrance-writer-that-runs-offline-with-gemma-3.md"
+    },
+    {
         "title": "Using Symfony Forms as Controller Arguments with #[MapRequestToForm]",
         "slug": "using-symfony-forms-as-controller-arguments-with-maprequesttoform",
         "author": "AzYouness",
@@ -86647,6 +86812,17 @@
         "file": "longevity-science-2026-the-essential-feedback-loop.md"
     },
     {
+        "title": "Capturing AI-Assistant Referrers in Application Logs Without Breaking Caching",
+        "slug": "capturing-ai-assistant-referrers-in-application-logs-without-breaking-caching",
+        "author": "Peter Panda",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 21:03:38 +0000",
+        "description": "When a user clicks from an AI answer into your site, the referrer field is one of the few signals you get. Many teams lose it to CDN defaults, aggressive cac...",
+        "keywords": "first, referrer, you, not, cache, they, assistant, when",
+        "generated": "2026-10-31T21:15:20.725237",
+        "file": "capturing-ai-assistant-referrers-in-application-logs-without-breaking-caching.md"
+    },
+    {
         "title": "Variables - Introduction to JavaScript",
         "slug": "variables-introduction-to-javascript",
         "author": "STEMTrainingGrounds.com",
@@ -95830,6 +96006,17 @@
         "file": "google-maps-scraper-how-to-get-places-phones-hours-as-json-or-csv-python-api-no-code.md"
     },
     {
+        "title": "Designing Idempotent Webhook Handlers for Crypto Payment Providers",
+        "slug": "designing-idempotent-webhook-handlers-for-crypto-payment-providers",
+        "author": "Peter Panda",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 21:02:09 +0000",
+        "description": "Crypto payment providers retry webhooks. Your handler will see the same payment.confirmed event more than once, sometimes minutes apart, sometimes after a de...",
+        "keywords": "same, not, you, payment, crypto, your, event, fulfilment",
+        "generated": "2026-10-31T21:15:20.726785",
+        "file": "designing-idempotent-webhook-handlers-for-crypto-payment-providers.md"
+    },
+    {
         "title": "Leveraging LLM for Sentiment Analysis in Social Media Monitoring",
         "slug": "leveraging-llm-for-sentiment-analysis-in-social-media-monitoring",
         "author": "shashank ms",
@@ -98754,6 +98941,17 @@
         "keywords": "ads, started, add, comments, tell, openai, has, putting",
         "generated": "2026-06-25T14:43:02.849544",
         "file": "tell-hn-openai-has-started-putting-ads-on-paid-programs.md"
+    },
+    {
+        "title": "A Robots.txt Matrix for AI Crawlers: Allow, Delay or Block by Bot",
+        "slug": "a-robotstxt-matrix-for-ai-crawlers-allow-delay-or-block-by-bot",
+        "author": "Peter Panda",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 21:01:24 +0000",
+        "description": "Different AI crawlers honour robots.txt in different ways, and a single Disallow: / aimed at one vendor can accidentally silence another that your GEO progra...",
+        "keywords": "allow, not, robots, txt, crawlers, blog, matrix, you",
+        "generated": "2026-10-31T21:15:20.725422",
+        "file": "a-robotstxt-matrix-for-ai-crawlers-allow-delay-or-block-by-bot.md"
     },
     {
         "title": "dbt Was Not Designed for Multi-Tenant SaaS. Here's How I Made It Work.",
@@ -115377,6 +115575,17 @@
         "keywords": "deepseek, harness, url, https, com, comments, article, www",
         "generated": "2026-10-02T05:02:05.612102",
         "file": "deepseek-harness.md"
+    },
+    {
+        "title": "title: What Happens When Code Changes, But the Docs Don't? How We Built Docs-Drive at Hacktoberfest Hack Day published: true",
+        "slug": "title-what-happens-when-code-changes-but-the-docs-dont-how-we-built-docs-drive-at-hacktoberfest-hack-day-published-true",
+        "author": "Sahaj Choukhani",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 20:13:44 +0000",
+        "description": "description: How we built an offline tool, GitHub Action, and web dashboard that catches outdated documentation before a Pull Request gets merged. Every ye...",
+        "keywords": "code, documentation, changes, when, docs, pull, you, how",
+        "generated": "2026-10-31T21:15:20.726383",
+        "file": "title-what-happens-when-code-changes-but-the-docs-dont-how-we-built-docs-drive-at-hacktoberfest-hack-day-published-true.md"
     },
     {
         "title": "Solving the Jane Street Reverse Engineering Challenge",
