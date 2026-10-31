@@ -713,6 +713,17 @@
         "file": "your-trading-bot-assumes-the-exchange-will-exist-tomorrow-bitmex-and-coinex-just-proved-otherwise.md"
     },
     {
+        "title": "I Built a Self-Hosted WhatsApp Gateway Using Node.js, Docker and PostgreSQL",
+        "slug": "i-built-a-self-hosted-whatsapp-gateway-using-nodejs-docker-and-postgresql",
+        "author": "Nitin Mehta",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 04:39:03 +0000",
+        "description": "Building Puffx WhatsApp Gateway: A Self-Hosted WhatsApp Messaging API with Node.js, Docker and PostgreSQL Author: Nitin Mehta Project: Puffx WhatsApp Gateway...",
+        "keywords": "whatsapp, gateway, api, docker, puffx, session, application, project",
+        "generated": "2026-10-31T04:57:14.110270",
+        "file": "i-built-a-self-hosted-whatsapp-gateway-using-nodejs-docker-and-postgresql.md"
+    },
+    {
         "title": "The Leak That Won't Die: How We Broke Python's tempfile",
         "slug": "the-leak-that-wont-die-how-we-broke-pythons-tempfile",
         "author": "Flude team",
@@ -10083,6 +10094,17 @@
         "file": "i-built-a-fastest-pizza-near-me-tool-with-the-ubereats-api-and-python.md"
     },
     {
+        "title": "hotellobby (LobbyDuo): UX Notes on Preview-Before-Pay AI Booth Videos",
+        "slug": "hotellobby-lobbyduo-ux-notes-on-preview-before-pay-ai-booth-videos",
+        "author": "Hotel Lobby Lab",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 04:48:36 +0000",
+        "description": "How I shipped a two-photo → Hotel Lobby booth duo on Cloudflare Workers — optimizing framing preview before Stripe, with Seedance via TryAllAPI. Trend video ...",
+        "keywords": "booth, not, credits, stripe, before, preview, pay, upload",
+        "generated": "2026-10-31T04:57:14.113764",
+        "file": "hotellobby-lobbyduo-ux-notes-on-preview-before-pay-ai-booth-videos.md"
+    },
+    {
         "title": "Local models are actually good now - playing with Qwen3.8-27B",
         "slug": "local-models-are-actually-good-now-playing-with-qwen38-27b",
         "author": "Billie M",
@@ -14965,6 +14987,17 @@
         "keywords": "calculator, tools, pdf, your, generator, free, tool, what",
         "generated": "2026-07-06T10:49:20.344544",
         "file": "i-built-32-free-browser-based-tools-no-signup-no-limits-no-file-uploads.md"
+    },
+    {
+        "title": "Modelling GTU's 4-backlog detain rule in 15 lines of Python",
+        "slug": "modelling-gtus-4-backlog-detain-rule-in-15-lines-of-python",
+        "author": "Prince",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 04:40:26 +0000",
+        "description": "I keep seeing GTU (Gujarat Technological University) juniors panic about the 4 backlog rule, and half of them count it wrong. The rule has one twist that m...",
+        "keywords": "semester, sem, gtu, not, you, counted, backlog, rule",
+        "generated": "2026-10-31T04:57:14.107129",
+        "file": "modelling-gtus-4-backlog-detain-rule-in-15-lines-of-python.md"
     },
     {
         "title": "Desmistificando a Inteligência Artificial: O que é, Principais Características e Como Funciona na Prática 🚀",
@@ -21576,6 +21609,17 @@
         "file": "nih-is-ending-a-key-grant-for-budding-clinical-researchers.md"
     },
     {
+        "title": "OpenAI raises less than half of $30B target",
+        "slug": "openai-raises-less-than-half-of-30b-target",
+        "author": "timr",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 03:22:44 +0000",
+        "description": "Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.co...",
+        "keywords": "openai, raises, less, than, half, target, url, https",
+        "generated": "2026-10-31T04:57:14.105828",
+        "file": "openai-raises-less-than-half-of-30b-target.md"
+    },
+    {
         "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
         "slug": "we-know-simple-fluids-can-flow-turns-out-some-can-fracture",
         "author": "Anon84",
@@ -23842,6 +23886,17 @@
         "file": "how-to-get-notified-on-slack-when-your-website-goes-down-with-vigilmon.md"
     },
     {
+        "title": "How to Turn Your Lyrics into a Song with AI",
+        "slug": "how-to-turn-your-lyrics-into-a-song-with-ai",
+        "author": "SoundLuma",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 04:50:57 +0000",
+        "description": "By SoundLuma editorial team To turn lyrics into a song with AI, prepare clean lyric text, separate it into sections, and choose a service that accepts custom...",
+        "keywords": "you, lyrics, your, not, song, words, lyric, arrangement",
+        "generated": "2026-10-31T04:57:14.112189",
+        "file": "how-to-turn-your-lyrics-into-a-song-with-ai.md"
+    },
+    {
         "title": "The Heat Just Moved",
         "slug": "the-heat-just-moved",
         "author": "Dakota Lin",
@@ -25138,6 +25193,17 @@
         "keywords": "linux, url, https, comments, sega, who, needs, hardware",
         "generated": "2026-07-13T19:35:56.128482",
         "file": "linux-on-the-sega-32x-who-needs-hardware-synchronization-primitives-anyway.md"
+    },
+    {
+        "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+        "slug": "sanstun-a-sans-io-parallel-friendly-wireguard-implementation-in-rust",
+        "author": "wh33zle",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 21:30:00 +0000",
+        "description": "Article URL: https://www.firezone.dev/blog/introducing-sanstun Comments URL: https://news.ycombinator.com/item?id=50310398 Points: 95 # Comments: 17",
+        "keywords": "sanstun, url, https, comments, sans, parallel, friendly, wireguard",
+        "generated": "2026-10-31T04:57:14.106538",
+        "file": "sanstun-a-sans-io-parallel-friendly-wireguard-implementation-in-rust.md"
     },
     {
         "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
@@ -33541,6 +33607,17 @@
         "keywords": "pdf, url, https, comments, economics, nobel, laureates, letter",
         "generated": "2026-09-19T20:21:54.585324",
         "file": "economics-nobel-laureates-letter-supporting-the-california-billionaire-tax-pdf.md"
+    },
+    {
+        "title": "OpenDsec: self-hosted sandboxes for RL rollouts and code-running agents",
+        "slug": "opendsec-self-hosted-sandboxes-for-rl-rollouts-and-code-running-agents",
+        "author": "Kernflux",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 04:39:47 +0000",
+        "description": "If you train a model with agentic reinforcement learning, every rollout needs somewhere to run code: install a package, run the tests, hit the network, write...",
+        "keywords": "one, opendsec, memory, you, run, python, time, node",
+        "generated": "2026-10-31T04:57:14.107513",
+        "file": "opendsec-self-hosted-sandboxes-for-rl-rollouts-and-code-running-agents.md"
     },
     {
         "title": "The Architecture of Becoming: Why Your Life is a Transformer Network",
@@ -43101,6 +43178,17 @@
         "file": "an-introduction-to-yolo26.md"
     },
     {
+        "title": "Spark Radix vs Spark 2.3.1: What a 5M-Splat Desktop Test Shows",
+        "slug": "spark-radix-vs-spark-231-what-a-5m-splat-desktop-test-shows",
+        "author": "Alicia lu",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 04:33:51 +0000",
+        "description": "Originally published by Alicia on 31 October 2026 at Digital Garden . Original measurements and limitations are retained. AI-assisted disclosure: Codex helpe...",
+        "keywords": "radix, not, spark, three, splat, webgpu, splats, its",
+        "generated": "2026-10-31T04:57:14.111701",
+        "file": "spark-radix-vs-spark-231-what-a-5m-splat-desktop-test-shows.md"
+    },
+    {
         "title": "CVE Tracker",
         "slug": "cve-tracker",
         "author": "Group_B",
@@ -47906,6 +47994,17 @@
         "keywords": "security, your, sharepoint, what, access, you, compliance, audit",
         "generated": "2026-06-18T20:32:55.635791",
         "file": "how-to-build-a-nis2-compliant-automation-stack-without-buying-new-software.md"
+    },
+    {
+        "title": "Tired of uploading 40MB PNGs to your server and then slicing them (React + Canvas)",
+        "slug": "tired-of-uploading-40mb-pngs-to-your-server-and-then-slicing-them-react-canvas",
+        "author": "Krishna Kumar",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 04:38:24 +0000",
+        "description": "As a digital comic artists, we all know , we love exporting massive files. I run a small indie comic platform called ZealPlane and we were putting together c...",
+        "keywords": "const, you, file, canvas, image, bitmap, your, browser",
+        "generated": "2026-10-31T04:57:14.110948",
+        "file": "tired-of-uploading-40mb-pngs-to-your-server-and-then-slicing-them-react-canvas.md"
     },
     {
         "title": "โมเดล 27B ย่อเหลือ 7.89 GB ชนะตัวเต็ม 54 GB ได้จริงไหม? เจาะ Saluki 27B",
@@ -53518,6 +53617,17 @@
         "file": "from-hookswitch-to-grave.md"
     },
     {
+        "title": "Why I Chose a 2-Lane GPT Summarization Workflow — Batch Processing for Invoices",
+        "slug": "why-i-chose-a-2-lane-gpt-summarization-workflow-batch-processing-for-invoices",
+        "author": "MordecaiNilsson7582",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 04:38:57 +0000",
+        "description": "Short answer: combine a synchronous GPT lane for urgent support requests with batch processing for the invoice backlog; choose Infrai when self-describing RE...",
+        "keywords": "batch, response, invoice, when, not, discovery, can, capabilities",
+        "generated": "2026-10-31T04:57:14.108136",
+        "file": "why-i-chose-a-2-lane-gpt-summarization-workflow-batch-processing-for-invoices.md"
+    },
+    {
         "title": "Your AI agent should not have unrestricted power",
         "slug": "your-ai-agent-should-not-have-unrestricted-power",
         "author": "vericum",
@@ -57465,6 +57575,17 @@
         "keywords": "not, domain, dns, com, resolver, name, type, github",
         "generated": "2026-09-05T14:55:33.601904",
         "file": "a-domain-that-doesnt-exist-returns-http-200-ok.md"
+    },
+    {
+        "title": "100 KB for a photo of a document: keeping the small print readable",
+        "slug": "100-kb-for-a-photo-of-a-document-keeping-the-small-print-readable",
+        "author": "Anuj Kabra",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 04:31:52 +0000",
+        "description": "Upload forms often want a scan or photo of a document under 100 KB. A phone photo of a page is often a few megabytes, and the obvious fix, dragging a quali...",
+        "keywords": "quality, bytes, page, grey, crop, width, file, pixels",
+        "generated": "2026-10-31T04:57:14.108748",
+        "file": "100-kb-for-a-photo-of-a-document-keeping-the-small-print-readable.md"
     },
     {
         "title": "Best Verified Stripe Account Sellers You Can Trust",
@@ -69377,6 +69498,17 @@
         "file": "treba-manje-ai-agenata-nego-to-misli-gotovo-uvijek-dovoljan-je-jedan.md"
     },
     {
+        "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+        "slug": "flock-camera-searches-fell-95-after-a-dispatchers-misconduct-was-caught",
+        "author": "MilnerRoute",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 02:42:02 +0000",
+        "description": "Article URL: https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33...",
+        "keywords": "flock, camera, searches, dispatcher, misconduct, caught, article, url",
+        "generated": "2026-10-31T04:57:14.106301",
+        "file": "flock-camera-searches-fell-95-after-a-dispatchers-misconduct-was-caught.md"
+    },
+    {
         "title": "How to Prevent Duplicate Orders in a Polymarket Trading Bot with Python",
         "slug": "how-to-prevent-duplicate-orders-in-a-polymarket-trading-bot-with-python",
         "author": "Dexoryn",
@@ -73005,6 +73137,17 @@
         "keywords": "key, not, transform, source, object, derivative, one, bytes",
         "generated": "2026-09-29T22:04:59.850299",
         "file": "python-healthtech-duplicate-image-derivatives-when-processing-costs-surge.md"
+    },
+    {
+        "title": "How Web Studios Can Prepare for the Morlix CMS Closed Beta",
+        "slug": "how-web-studios-can-prepare-for-the-morlix-cms-closed-beta",
+        "author": "Евгений Брусницын",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 04:40:25 +0000",
+        "description": "Web studios can apply for the future Morlix CMS closed beta at morlix.ru . Applications are being collected, but closed testing has not started. Access is su...",
+        "keywords": "not, morlix, beta, site, can, access, does, release",
+        "generated": "2026-10-31T04:57:14.109440",
+        "file": "how-web-studios-can-prepare-for-the-morlix-cms-closed-beta.md"
     },
     {
         "title": "A great tool CoverForge(an ai cover letter generator) discussed by Mia Keller",
@@ -80311,6 +80454,17 @@
         "file": "guardrails-for-llm-apps-in-python.md"
     },
     {
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "slug": "show-hn-to-honor-sir-patrick-stewart-enjoy-the-tng-episode-guessing-game",
+        "author": "francisofascii",
+        "source": "hackernews",
+        "published": "Fri, 30 Oct 2026 23:51:24 +0000",
+        "description": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 130 # Comments: 41",
+        "keywords": "tng, url, https, com, comments, show, honor, sir",
+        "generated": "2026-10-31T04:57:14.106423",
+        "file": "show-hn-to-honor-sir-patrick-stewart-enjoy-the-tng-episode-guessing-game.md"
+    },
+    {
         "title": "Golang vs Node vs Python series.",
         "slug": "golang-vs-node-vs-python-series",
         "author": "Alish Giri",
@@ -86383,6 +86537,17 @@
         "file": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md"
     },
     {
+        "title": "An API that misses its deadline should pay you back: a bonded pay-per-call escrow on Arc",
+        "slug": "an-api-that-misses-its-deadline-should-pay-you-back-a-bonded-pay-per-call-escrow-on-arc",
+        "author": "Edy Cu",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 04:48:46 +0000",
+        "description": "Your agent paid an API 0.01 USDC and the API never answered. Unless the provider decides to refund you, that money is gone, and your only recourse is a refun...",
+        "keywords": "job, provider, buyer, amount, arc, only, usdc, contract",
+        "generated": "2026-10-31T04:57:14.113197",
+        "file": "an-api-that-misses-its-deadline-should-pay-you-back-a-bonded-pay-per-call-escrow-on-arc.md"
+    },
+    {
         "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
         "slug": "zuckerberg-admits-metas-layoffs-were-ineffective",
         "author": "ExMachina73",
@@ -91076,6 +91241,17 @@
         "keywords": "you, domain, not, reports, your, com, record, example",
         "generated": "2026-09-19T20:21:54.586089",
         "file": "dmarc-aggregate-reports-are-xml-in-a-gzip-in-an-email-nobody-reads-them.md"
+    },
+    {
+        "title": "Miles to KM: Free Online Miles to Kilometers Converter — How-To Guide",
+        "slug": "miles-to-km-free-online-miles-to-kilometers-converter-how-to-guide",
+        "author": "Layoff Atlas",
+        "source": "devto_webdev",
+        "published": "Sat, 31 Oct 2026 04:45:48 +0000",
+        "description": "Miles to KM: Free Online Miles to Kilometers Converter — How-To Guide If you have a distance in miles and need it in kilometers — for a race, a road trip, a ...",
+        "keywords": "miles, you, your, kilometers, result, tool, use, can",
+        "generated": "2026-10-31T04:57:14.109104",
+        "file": "miles-to-km-free-online-miles-to-kilometers-converter-how-to-guide.md"
     },
     {
         "title": "Pandas vs Polars: Which One Should You Use in 2025?",
@@ -100549,6 +100725,17 @@
         "file": "x86-ai-compute-extensions-ace-specification.md"
     },
     {
+        "title": "Tell HN: Scribd Breached",
+        "slug": "tell-hn-scribd-breached",
+        "author": "x______________",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 02:46:36 +0000",
+        "description": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behal...",
+        "keywords": "scribd, you, inc, your, have, information, may, data",
+        "generated": "2026-10-31T04:57:14.106161",
+        "file": "tell-hn-scribd-breached.md"
+    },
+    {
         "title": "Best 9 HTML E-Commerce Templates for Online Stores in 2026",
         "slug": "best-9-html-e-commerce-templates-for-online-stores-in-2026",
         "author": "ariba shakil",
@@ -103442,6 +103629,17 @@
         "file": "retry-amplification-a-circuit-breaker-for-batch-model-jobs.md"
     },
     {
+        "title": "StudyLoop: turn your markdown notes into flashcards that can't lie to you",
+        "slug": "studyloop-turn-your-markdown-notes-into-flashcards-that-cant-lie-to-you",
+        "author": "bayuh85",
+        "source": "devto_python",
+        "published": "Sat, 31 Oct 2026 04:54:04 +0000",
+        "description": "I keep my notes in markdown. Hundreds of files: RFC summaries, postmortems, the bits of HTTP caching I have to re-learn every time a CDN misbehaves. Writing ...",
+        "keywords": "notes, studyloop, caching, passage, model, you, http, cache",
+        "generated": "2026-10-31T04:57:14.106915",
+        "file": "studyloop-turn-your-markdown-notes-into-flashcards-that-cant-lie-to-you.md"
+    },
+    {
         "title": "Using the Gemini API with Python (Free Tier)",
         "slug": "using-the-gemini-api-with-python-free-tier",
         "author": "Phil IPS",
@@ -104089,6 +104287,17 @@
         "keywords": "url, https, comments, grok, outage, article, status, news",
         "generated": "2026-09-03T16:11:07.913606",
         "file": "grok-outage.md"
+    },
+    {
+        "title": "How to Turn a Story into a Song",
+        "slug": "how-to-turn-a-story-into-a-song",
+        "author": "SoundLuma",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 04:50:38 +0000",
+        "description": "By SoundLuma editorial team To turn a story into a song, choose one meaningful moment, describe what changed, and build a chorus around the feeling you want ...",
+        "keywords": "you, song, one, story, chorus, not, can, need",
+        "generated": "2026-10-31T04:57:14.112562",
+        "file": "how-to-turn-a-story-into-a-song.md"
     },
     {
         "title": "Legal Implications of AI Hallucinations in Court:…",
@@ -110643,6 +110852,17 @@
         "keywords": "page, website, marketplace, template, your, own, buy, ready",
         "generated": "2026-07-07T03:56:09.938125",
         "file": "market-website-templete.md"
+    },
+    {
+        "title": "Best 1.3 Site to Buy Old LinkedIn Accounts Safely for Business Growth",
+        "slug": "best-13-site-to-buy-old-linkedin-accounts-safely-for-business-growth",
+        "author": "Buy Old Gmail Accounts",
+        "source": "devto_ai",
+        "published": "Sat, 31 Oct 2026 04:48:19 +0000",
+        "description": "Best 1.3 Site to Buy Old LinkedIn Accounts in 2026 Introduction LinkedIn has become the world's leading professional networking platform, helping businesses,...",
+        "keywords": "linkedin, accounts, account, professional, old, networking, localpvashop, can",
+        "generated": "2026-10-31T04:57:14.114348",
+        "file": "best-13-site-to-buy-old-linkedin-accounts-safely-for-business-growth.md"
     },
     {
         "title": "Pin Kitchen-Sink Output Before One Pure Extract",

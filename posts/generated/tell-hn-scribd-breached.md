@@ -1,0 +1,34 @@
+---
+title: "Tell HN: Scribd Breached"
+slug: "tell-hn-scribd-breached"
+author: "x______________"
+source: "hackernews"
+published: "Sat, 31 Oct 2026 02:46:36 +0000"
+description: "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behal..."
+keywords: "scribd, you, inc, your, have, information, may, data"
+generated: "2026-10-31T04:57:14.106161"
+---
+
+# Tell HN: Scribd Breached
+
+## Overview
+
+Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details). We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information. Watch for phishing We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable. Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that: Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser. Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time. Report it through Scribd, Inc.'s Help Center. For more information We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time. The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here. What Scribd, Inc. is doing We have secured the affected system and ended the unauthorized access. We have notified law enforcement as well as the relevant data protection authorities. We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring. We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes. Scribd, Inc. Comments URL: https://news.ycombinator.com/item?id=50312756 Points: 86 # Comments: 30
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://news.ycombinator.com/item?id=50312756
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
