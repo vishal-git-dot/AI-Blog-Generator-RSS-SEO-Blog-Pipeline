@@ -4541,6 +4541,17 @@
         "file": "ask-for-a-real-no-in-the-first-fifteen-minutes.md"
     },
     {
+        "title": "Regex for log parsing: 6 patterns I reuse constantly",
+        "slug": "regex-for-log-parsing-6-patterns-i-reuse-constantly",
+        "author": "TheOperatorAI",
+        "source": "devto_python",
+        "published": "Sun, 01 Nov 2026 05:19:30 +0000",
+        "description": "Disclosure: this post was written by an AI agent (Claude) operating the account operator-ai-smart. ISO timestamp: \\d{4}-\\d{2}-\\d{2}[T ]\\d{2}:\\d{2}:\\d{2}(?:...",
+        "keywords": "regex, log, operator, smart, traceback, lines, compile, parsing",
+        "generated": "2026-11-01T05:26:23.411731",
+        "file": "regex-for-log-parsing-6-patterns-i-reuse-constantly.md"
+    },
+    {
         "title": "How I Built a Python Pipeline That Publishes YouTube Videos Automatically (108 Videos Proven)",
         "slug": "how-i-built-a-python-pipeline-that-publishes-youtube-videos-automatically-108-videos-proven",
         "author": "Sakshi Bansal",
@@ -14560,6 +14571,17 @@
         "file": "what-if-a-programming-language-asked-what-do-you-intend-instead-of-how.md"
     },
     {
+        "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+        "slug": "show-hn-bbrouter-ben-eaters-8-bit-computer-simulated-on-3d-breadboards",
+        "author": "creack",
+        "source": "hackernews",
+        "published": "Sun, 01 Nov 2026 00:10:30 +0000",
+        "description": "Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, sco...",
+        "keywords": "you, side, build, month, bbrouter, ben, eater, bit",
+        "generated": "2026-11-01T05:26:23.411324",
+        "file": "show-hn-bbrouter-ben-eaters-8-bit-computer-simulated-on-3d-breadboards.md"
+    },
+    {
         "title": "Show HN: LightCloud – A cloud console organised like file system",
         "slug": "show-hn-lightcloud-a-cloud-console-organised-like-file-system",
         "author": "yullius",
@@ -18058,6 +18080,17 @@
         "file": "cheapest-screenshot-api-in-2026-free-tiers-compared.md"
     },
     {
+        "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+        "slug": "constructing-a-quine-from-kleenes-second-recursion-theorem",
+        "author": "mkckto",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 23:55:21 +0000",
+        "description": "Article URL: https://emarzion.github.io/KSRT/ Comments URL: https://news.ycombinator.com/item?id=50321436 Points: 15 # Comments: 1",
+        "keywords": "url, https, comments, constructing, quine, kleene, second, recursion",
+        "generated": "2026-11-01T05:26:23.411465",
+        "file": "constructing-a-quine-from-kleenes-second-recursion-theorem.md"
+    },
+    {
         "title": "Sharpness-Aware Minimization: Train for the Worst Loss in a Neighborhood, Not a Single Point",
         "slug": "sharpness-aware-minimization-train-for-the-worst-loss-in-a-neighborhood-not-a-single-point",
         "author": "Devanshu Biswas",
@@ -18903,6 +18936,17 @@
         "keywords": "branch, snapshot, table, main, audit, iceberg, tag, files",
         "generated": "2026-06-13T14:12:06.671421",
         "file": "apache-iceberg-branching-tagging-wap-production-patterns.md"
+    },
+    {
+        "title": "A Privacy Budget for Email Test Data",
+        "slug": "a-privacy-budget-for-email-test-data",
+        "author": "Lewis",
+        "source": "devto_webdev",
+        "published": "Sun, 01 Nov 2026 05:22:36 +0000",
+        "description": "A Privacy Budget for Email Test Data Email is often treated as harmless test plumbing. A CI job creates an inbox, a verification message arrives, a test read...",
+        "keywords": "test, data, message, email, budget, inbox, can, make",
+        "generated": "2026-11-01T05:26:23.413574",
+        "file": "a-privacy-budget-for-email-test-data.md"
     },
     {
         "title": "Your Pipeline Is 20.0h Behind: Catching Food Sentiment Leads with Pulsebit",
@@ -20234,6 +20278,17 @@
         "keywords": "chatbot, you, api, response, chatgpt, text, prompt, apis",
         "generated": "2026-08-25T06:56:03.872008",
         "file": "build-your-own-chatgpt-with-free-apis-in-2025.md"
+    },
+    {
+        "title": "Originality.ai vs NeuronWriter: Which Tool Fits Content Teams?",
+        "slug": "originalityai-vs-neuronwriter-which-tool-fits-content-teams",
+        "author": "Rennie Hoffman",
+        "source": "devto_ai",
+        "published": "Sun, 01 Nov 2026 05:20:03 +0000",
+        "description": "⚡ Executive Verdict: Originality.ai vs NeuronWriter (2026) Originality.ai Advantage: Originality.ai stands out for Teams evaluating AI SEO software and compa...",
+        "keywords": "originality, neuronwriter, content, optimization, pricing, official, plagiarism, page",
+        "generated": "2026-11-01T05:26:23.416889",
+        "file": "originalityai-vs-neuronwriter-which-tool-fits-content-teams.md"
     },
     {
         "title": "Hallstatt vs Salzburg: Which Is Better for a First Trip?",
@@ -37886,6 +37941,17 @@
         "keywords": "url, https, com, comments, stay, discoverable, search, while",
         "generated": "2026-09-16T04:17:07.146194",
         "file": "stay-discoverable-in-search-while-disallowing-ai-training.md"
+    },
+    {
+        "title": "I Built a 170-Year Caribbean Hurricane Observatory, Alone, in Python",
+        "slug": "i-built-a-170-year-caribbean-hurricane-observatory-alone-in-python",
+        "author": "Dim's Build",
+        "source": "devto_python",
+        "published": "Sun, 01 Nov 2026 05:04:58 +0000",
+        "description": "TL;DR CaribScope is an open-source climate risk observatory for the Caribbean: 170 years of Atlantic hurricane tracks (NOAA HURDAT2, 1851–2022), live USGS ea...",
+        "keywords": "storm, hurricane, what, caribbean, data, live, category, more",
+        "generated": "2026-11-01T05:26:23.412973",
+        "file": "i-built-a-170-year-caribbean-hurricane-observatory-alone-in-python.md"
     },
     {
         "title": "Free Brand Guide - Brand Nexmind",
@@ -62637,6 +62703,17 @@
         "file": "tank-body-problem.md"
     },
     {
+        "title": "The golden set: 100 labelled examples as the acceptance test for an AI feature",
+        "slug": "the-golden-set-100-labelled-examples-as-the-acceptance-test-for-an-ai-feature",
+        "author": "Slava Kotenev",
+        "source": "devto_ai",
+        "published": "Sun, 01 Nov 2026 05:17:44 +0000",
+        "description": "If you ask three people whether an AI feature works, you will get three answers, each based on the last few examples they happened to see. A golden set rep...",
+        "keywords": "items, you, set, every, not, real, run, start",
+        "generated": "2026-11-01T05:26:23.417192",
+        "file": "the-golden-set-100-labelled-examples-as-the-acceptance-test-for-an-ai-feature.md"
+    },
+    {
         "title": "Show HN: TitleArt – Make text like it's 1997",
         "slug": "show-hn-titleart-make-text-like-its-1997",
         "author": "davidbarker",
@@ -68572,6 +68649,17 @@
         "keywords": "van, het, een, data, deze, voor, bij, worden",
         "generated": "2026-07-20T14:19:27.585517",
         "file": "het-stappenplan-voor-een-vlekkeloze-transitie-bij-backoffice-outsourcing-in-de-supply-chain.md"
+    },
+    {
+        "title": "Cisco Gave One Engineer Unlimited AI Tokens to Rewrite 98%",
+        "slug": "cisco-gave-one-engineer-unlimited-ai-tokens-to-rewrite-98",
+        "author": "Max Quimby",
+        "source": "devto_ai",
+        "published": "Sun, 01 Nov 2026 05:20:25 +0000",
+        "description": "Cisco president Jeetu Patel found Padmanabhan Krishnamurthy five levels below him in the org chart during a visit to the company's San Francisco office. Kris...",
+        "keywords": "code, not, cisco, agent, legacy, engineering, rewrite, review",
+        "generated": "2026-11-01T05:26:23.416361",
+        "file": "cisco-gave-one-engineer-unlimited-ai-tokens-to-rewrite-98.md"
     },
     {
         "title": "Understanding OAuth2 the Simple Way",
@@ -75042,6 +75130,17 @@
         "file": "how-to-master-task-management-with-ai-tools-in-2026.md"
     },
     {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "slug": "brazilian-court-sanctions-lawyers-for-prompt-injection-in-court-filing",
+        "author": "doodlesdev",
+        "source": "hackernews",
+        "published": "Sun, 01 Nov 2026 02:19:53 +0000",
+        "description": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=503221...",
+        "keywords": "court, brazilian, sanctions, prompt, injection, filing, url, https",
+        "generated": "2026-11-01T05:26:23.410912",
+        "file": "brazilian-court-sanctions-lawyers-for-prompt-injection-in-court-filing.md"
+    },
+    {
         "title": "SM-2 Is Not Enough: Where Classic Spaced Repetition Breaks Down",
         "slug": "sm-2-is-not-enough-where-classic-spaced-repetition-breaks-down",
         "author": "Alex Chen",
@@ -75832,6 +75931,17 @@
         "keywords": "app, agents, bundle, one, warehouse, databricks, code, every",
         "generated": "2026-10-21T21:27:30.867545",
         "file": "what-ai-agents-taught-me-about-building-databricks-apps.md"
+    },
+    {
+        "title": "Escape Room Night — free browser escape rooms you can play with friends",
+        "slug": "escape-room-night-free-browser-escape-rooms-you-can-play-with-friends",
+        "author": "hzm-3836",
+        "source": "devto_webdev",
+        "published": "Sun, 01 Nov 2026 05:23:52 +0000",
+        "description": "Escape Room Night I built a free set of cooperative online escape rooms and logic puzzles that run in the browser — no download. Play here: https://escaperoo...",
+        "keywords": "escape, rooms, room, browser, play, night, free, you",
+        "generated": "2026-11-01T05:26:23.413126",
+        "file": "escape-room-night-free-browser-escape-rooms-you-can-play-with-friends.md"
     },
     {
         "title": "Download Stellar Wanderer DX NSP Full Game Latest 2026",
@@ -79341,6 +79451,17 @@
         "keywords": "you, one, what, post, own, real, dedicated, tools",
         "generated": "2026-07-30T19:40:47.701604",
         "file": "all-in-one-ai-creative-suites-vs-dedicated-tools-and-the-seo-playbook-behind-this-post.md"
+    },
+    {
+        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+        "slug": "leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram",
+        "author": "hapax_legomena",
+        "source": "hackernews",
+        "published": "Sun, 01 Nov 2026 01:46:29 +0000",
+        "description": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 34 # Comments: 13",
+        "keywords": "url, https, comments, leaking, secrets, air, gap, computers",
+        "generated": "2026-11-01T05:26:23.411087",
+        "file": "leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram.md"
     },
     {
         "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
@@ -84150,6 +84271,17 @@
         "file": "telegram.md"
     },
     {
+        "title": "Are You a Web Developer or a Browser Expert? 7 Tests I Failed Building a Photo Editor That Never Uploads Your Photos",
+        "slug": "are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-uploads-your-photos",
+        "author": "Akhouri Anmol Kumar",
+        "source": "devto_webdev",
+        "published": "Sun, 01 Nov 2026 05:18:13 +0000",
+        "description": "Description: On-device AI, WASM threads, target-size compression, inpainting and 3D LUTs in a single HTML file. 7 real lessons from building APIC Web. Most w...",
+        "keywords": "apic, const, you, your, one, can, out, step",
+        "generated": "2026-11-01T05:26:23.415211",
+        "file": "are-you-a-web-developer-or-a-browser-expert-7-tests-i-failed-building-a-photo-editor-that-never-uploads-your-photos.md"
+    },
+    {
         "title": "Anthropic's Invisible Watermark, Twitch's Quiet Data Grab, and Apple Finally Training Its Own China Model",
         "slug": "anthropics-invisible-watermark-twitchs-quiet-data-grab-and-apple-finally-training-its-own-china-model",
         "author": "AI Pulse",
@@ -88537,6 +88669,17 @@
         "keywords": "air, force, bomber, crashes, after, takeoff, edwards, base",
         "generated": "2026-06-15T21:11:31.713190",
         "file": "us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says.md"
+    },
+    {
+        "title": "DeadLock: The Ghost in the Local Machine 🎃👻",
+        "slug": "deadlock-the-ghost-in-the-local-machine",
+        "author": "Sakeena Patel",
+        "source": "devto_ai",
+        "published": "Sun, 01 Nov 2026 05:24:02 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine. What I Built Imagine you’re locked in a server room after h...",
+        "keywords": "you, local, your, code, game, deadlock, machine, open",
+        "generated": "2026-11-01T05:26:23.415588",
+        "file": "deadlock-the-ghost-in-the-local-machine.md"
     },
     {
         "title": "I built a Claude-powered feed monitor in an afternoon. Then I actually ran it.",
@@ -95071,6 +95214,17 @@
         "file": "qwen38-max-a-new-bar-for-coding-and-cowork.md"
     },
     {
+        "title": "Free HTTP Status Code Checker: Check Any URL's Status in Seconds",
+        "slug": "free-http-status-code-checker-check-any-urls-status-in-seconds",
+        "author": "Vulnerability Tools",
+        "source": "devto_webdev",
+        "published": "Sun, 01 Nov 2026 05:21:54 +0000",
+        "description": "Every time a browser or search engine requests a web page, the server answers with an HTTP status code. That three-digit code is a quick health signal for th...",
+        "keywords": "status, code, page, server, codes, mean, http, check",
+        "generated": "2026-11-01T05:26:23.413739",
+        "file": "free-http-status-code-checker-check-any-urls-status-in-seconds.md"
+    },
+    {
         "title": "DeepTutor: A Chinese Translation of the HKUDS Tutoring Agent, and What It Actually Saves You",
         "slug": "deeptutor-a-chinese-translation-of-the-hkuds-tutoring-agent-and-what-it-actually-saves-you",
         "author": "sun young",
@@ -97676,6 +97830,17 @@
         "keywords": "booking, membership, cost, custom, gym, fitness, studio, website",
         "generated": "2026-08-30T04:48:49.081786",
         "file": "how-much-does-a-gym-or-fitness-studio-website-cost-real-numbers-explained.md"
+    },
+    {
+        "title": "How to Fix 429 Too Many Requests in Laravel: Throttle and Rate Limiting Done Right",
+        "slug": "how-to-fix-429-too-many-requests-in-laravel-throttle-and-rate-limiting-done-right",
+        "author": "Ayesha",
+        "source": "devto_webdev",
+        "published": "Sun, 01 Nov 2026 05:18:19 +0000",
+        "description": "You push to production, traffic grows, and suddenly your logs fill with 429 Too Many Requests in Laravel. Legitimate users see Too Many Attempts, your mobi...",
+        "keywords": "request, your, you, laravel, api, limiter, throttle, one",
+        "generated": "2026-11-01T05:26:23.414493",
+        "file": "how-to-fix-429-too-many-requests-in-laravel-throttle-and-rate-limiting-done-right.md"
     },
     {
         "title": "Six call-list recipes with pay-per-found phone lookups on Apify: 10 accounts, 24 decision makers, 12 mobile numbers",
@@ -101517,6 +101682,17 @@
         "file": "lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones.md"
     },
     {
+        "title": "How I Built a Telegram Bot That Downloads YouTube Music & Videos (Up to 2 GB) And How yt-dlp Actually Bypasses YouTube's Protection",
+        "slug": "how-i-built-a-telegram-bot-that-downloads-youtube-music-videos-up-to-2-gb-and-how-yt-dlp-actually-bypasses-youtubes-protection",
+        "author": "CHANDAN",
+        "source": "devto_python",
+        "published": "Sun, 01 Nov 2026 05:19:08 +0000",
+        "description": "Live Bot: @songsuperzxbot Source Code: github.com/chandan0000001/music-video_telegrambot HD Demo: Watch on Streamable I built a Telegram bot that downloads m...",
+        "keywords": "youtube, bot, telegram, dlp, url, how, music, you",
+        "generated": "2026-11-01T05:26:23.412274",
+        "file": "how-i-built-a-telegram-bot-that-downloads-youtube-music-videos-up-to-2-gb-and-how-yt-dlp-actually-bypasses-youtubes-protection.md"
+    },
+    {
         "title": "I Modeled 184 AI APIs: Enterprise vs Startup by the Numbers",
         "slug": "i-modeled-184-ai-apis-enterprise-vs-startup-by-the-numbers",
         "author": "Alex Chen",
@@ -104927,6 +105103,17 @@
         "file": "stop-overpaying-for-photos-5-chatgpt-prompts-for-white-background-product-photos.md"
     },
     {
+        "title": "Parsing messy CSVs in Python without pandas",
+        "slug": "parsing-messy-csvs-in-python-without-pandas",
+        "author": "TheOperatorAI",
+        "source": "devto_python",
+        "published": "Sun, 01 Nov 2026 05:18:41 +0000",
+        "description": "Disclosure: this post was written by an AI agent (Claude) operating the account operator-ai-smart. Sniff the dialect: csv.Sniffer().sniff(open(f).read(4096...",
+        "keywords": "strip, row, operator, smart, sniff, dialect, csv, open",
+        "generated": "2026-11-01T05:26:23.412438",
+        "file": "parsing-messy-csvs-in-python-without-pandas.md"
+    },
+    {
         "title": "Task Manager on Mac: How to Monitor Processes and Fix Slow Apps",
         "slug": "task-manager-on-mac-how-to-monitor-processes-and-fix-slow-apps",
         "author": "zprostudio",
@@ -106157,6 +106344,17 @@
         "keywords": "ftl, url, https, comments, new, operating, system, clouds",
         "generated": "2026-10-03T16:02:08.699837",
         "file": "ftl-a-new-operating-system-for-clouds.md"
+    },
+    {
+        "title": "Repost : My Local AI Invented 162 Python Packages. I Reran Everything From Scratch, and 161 Came Back.",
+        "slug": "repost-my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back",
+        "author": "Subarna Maity",
+        "source": "devto_python",
+        "published": "Sun, 01 Nov 2026 05:12:44 +0000",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine We Built My Local AI Invented 162 Python Packages. I Reran E...",
+        "keywords": "local, invented, python, packages, reran, everything, scratch, came",
+        "generated": "2026-11-01T05:26:23.412586",
+        "file": "repost-my-local-ai-invented-162-python-packages-i-reran-everything-from-scratch-and-161-came-back.md"
     },
     {
         "title": "How to Install the Whop CLI and Launch Your First Product",
@@ -112548,6 +112746,17 @@
         "file": "processing-millions-of-records-through-shopify-lessons-from-high-volume-integrations.md"
     },
     {
+        "title": "How to build your own salon booking app in Dubai (Arabic and English, no per-booking commission)",
+        "slug": "how-to-build-your-own-salon-booking-app-in-dubai-arabic-and-english-no-per-booking-commission",
+        "author": "Mythex",
+        "source": "devto_ai",
+        "published": "Sun, 01 Nov 2026 05:16:14 +0000",
+        "description": "Spend ten minutes in any UAE salon owners' group and you'll see the same question every few weeks: Which booking software do you use? The replies split thr...",
+        "keywords": "your, you, booking, app, salon, reception, stylist, own",
+        "generated": "2026-11-01T05:26:23.417826",
+        "file": "how-to-build-your-own-salon-booking-app-in-dubai-arabic-and-english-no-per-booking-commission.md"
+    },
+    {
         "title": "Muay Thai Timer: what we learned building Random Tactical Timer",
         "slug": "muay-thai-timer-what-we-learned-building-random-tactical-timer",
         "author": "Igor Ganapolsky",
@@ -113690,6 +113899,17 @@
         "keywords": "sentiment, you, investing, pulsebit, momentum, your, french, json",
         "generated": "2026-06-05T10:10:12.596013",
         "file": "your-pipeline-is-143h-behind-catching-investing-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "When electric cars were for women",
+        "slug": "when-electric-cars-were-for-women",
+        "author": "dverlaeckt80",
+        "source": "hackernews",
+        "published": "Sat, 31 Oct 2026 23:08:12 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 57 # Comments: 37",
+        "keywords": "electric, url, https, comments, when, cars, women, article",
+        "generated": "2026-11-01T05:26:23.411585",
+        "file": "when-electric-cars-were-for-women.md"
     },
     {
         "title": "Introduction to LLMs in Humanities and Social Sciences",
