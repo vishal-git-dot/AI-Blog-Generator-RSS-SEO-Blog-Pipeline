@@ -2671,6 +2671,17 @@
         "file": "15-free-client-side-accessibility-tools-that-never-upload-your-code.md"
     },
     {
+        "title": "What Happened When I Built an Open-Source AI Project in Public",
+        "slug": "what-happened-when-i-built-an-open-source-ai-project-in-public",
+        "author": "Vedant Brahmbhatt",
+        "source": "devto_python",
+        "published": "Mon, 02 Nov 2026 15:07:27 +0000",
+        "description": "A few months ago, BOOTH was just a small idea I wanted to explore. I wasn't sure whether it would become a proper Python library, whether anyone would find i...",
+        "keywords": "booth, you, what, have, can, confidence, developers, project",
+        "generated": "2026-11-02T15:18:23.749017",
+        "file": "what-happened-when-i-built-an-open-source-ai-project-in-public.md"
+    },
+    {
         "title": "LLM Text Classification APIs: Structured JSON Labels for Marketplace Batch Tagging",
         "slug": "llm-text-classification-apis-structured-json-labels-for-marketplace-batch-tagging",
         "author": "EliBennett128",
@@ -3142,6 +3153,17 @@
         "keywords": "codex, tui, security, gemini, extension, src, cli, code",
         "generated": "2026-06-13T04:19:15.388386",
         "file": "geminicli-security-extensions-review-codex.md"
+    },
+    {
+        "title": "How Muse Works: An Introduction",
+        "slug": "how-muse-works-an-introduction",
+        "author": "spran wiki",
+        "source": "devto_ai",
+        "published": "Mon, 02 Nov 2026 15:15:21 +0000",
+        "description": "Openclaw was a huge turning point in AI, marking the start of Agentic AI. Honestly though, Openclaw was super overhyped. After trying it, it took me forever ...",
+        "keywords": "muse, you, agent, app, openclaw, after, calendar, just",
+        "generated": "2026-11-02T15:18:23.753563",
+        "file": "how-muse-works-an-introduction.md"
     },
     {
         "title": "Swift 6.4 Released",
@@ -15858,6 +15880,17 @@
         "file": "robotheta-inverse-kinematics-and-real-time-simulation-for-robotic-systems.md"
     },
     {
+        "title": "Find Federal Contracts Before the RFP: Track SAM.gov Sources Sought Notices in Python",
+        "slug": "find-federal-contracts-before-the-rfp-track-samgov-sources-sought-notices-in-python",
+        "author": "Loomwise",
+        "source": "devto_python",
+        "published": "Mon, 02 Nov 2026 15:09:09 +0000",
+        "description": "By the time a federal solicitation (RFP or RFQ) hits SAM.gov, the requirement is mostly written, and often written around whoever talked to the agency first....",
+        "keywords": "notices, csv, sources, sought, you, date, responsedeadline, days",
+        "generated": "2026-11-02T15:18:23.748184",
+        "file": "find-federal-contracts-before-the-rfp-track-samgov-sources-sought-notices-in-python.md"
+    },
+    {
         "title": "Write Better Video Scripts Faster with the PAS Framework",
         "slug": "write-better-video-scripts-faster-with-the-pas-framework",
         "author": "Mohamed Amine Zahir",
@@ -16890,6 +16923,17 @@
         "keywords": "model, your, fine, rag, you, tuning, documents, data",
         "generated": "2026-10-25T20:38:52.799102",
         "file": "rag-vs-fine-tuning-which-is-right-for-your-companys-data.md"
+    },
+    {
+        "title": "11 of 11 JS cost gaps overlap: I re-ran the tables",
+        "slug": "11-of-11-js-cost-gaps-overlap-i-re-ran-the-tables",
+        "author": "frank chu",
+        "source": "devto_webdev",
+        "published": "Mon, 02 Nov 2026 15:04:10 +0000",
+        "description": "Every adjacent pair in Nolan Lawson's framework cost ranking overlaps. All 11 of them — so his $2.67-to-$4.97 median ladder is real at the ends and noise in ...",
+        "keywords": "cost, loc, tokens, run, framework, frameworks, hono, angular",
+        "generated": "2026-11-02T15:18:23.750677",
+        "file": "11-of-11-js-cost-gaps-overlap-i-re-ran-the-tables.md"
     },
     {
         "title": "Epic Games announces Lore version control system",
@@ -19928,6 +19972,17 @@
         "file": "uncovered-mozarts-lost-notebook-the-10-million-musical-treasure-that-will-change-history-forever.md"
     },
     {
+        "title": "Check an options agent for early assignment and pin risk",
+        "slug": "check-an-options-agent-for-early-assignment-and-pin-risk",
+        "author": "Agent Risk Desk",
+        "source": "devto_ai",
+        "published": "Mon, 02 Nov 2026 15:12:58 +0000",
+        "description": "If your agent sells covered calls and put spreads, the order check at entry is the easy part. The two problems I care about show up later, while the position...",
+        "keywords": "agent, dividend, short, account, check, legs, day, call",
+        "generated": "2026-11-02T15:18:23.754440",
+        "file": "check-an-options-agent-for-early-assignment-and-pin-risk.md"
+    },
+    {
         "title": "First Look: Anthropic Tests Mobile Remote Control for Claude Cowork Agentic Desktop Tasks",
         "slug": "first-look-anthropic-tests-mobile-remote-control-for-claude-cowork-agentic-desktop-tasks",
         "author": "Achin Bansal",
@@ -22520,6 +22575,17 @@
         "keywords": "email, can, what, you, personal, gmail, every, same",
         "generated": "2026-10-15T16:41:38.621819",
         "file": "estimating-gmails-promotions-tab-without-pretending-to-predict-it.md"
+    },
+    {
+        "title": "Treat done as a claim, not a fact: identity, intent, and content, checked together",
+        "slug": "treat-done-as-a-claim-not-a-fact-identity-intent-and-content-checked-together",
+        "author": "relayshieldadmin",
+        "source": "devto_ai",
+        "published": "Mon, 02 Nov 2026 15:16:25 +0000",
+        "description": "November 2, 2026 An agent told its user it had finished a task. The system had refused to do it. The agent reported success anyway. That is not a hypothetica...",
+        "keywords": "not, agent, user, content, relayshield, what, have, tool",
+        "generated": "2026-11-02T15:18:23.752198",
+        "file": "treat-done-as-a-claim-not-a-fact-identity-intent-and-content-checked-together.md"
     },
     {
         "title": "What if I told you that your machine learning model is probably not your biggest problem?",
@@ -39626,6 +39692,17 @@
         "file": "claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k.md"
     },
     {
+        "title": "School has given straight-a grades to the student, who can't do masic math",
+        "slug": "school-has-given-straight-a-grades-to-the-student-who-cant-do-masic-math",
+        "author": "obscurette",
+        "source": "hackernews",
+        "published": "Mon, 02 Nov 2026 14:35:09 +0000",
+        "description": "Article URL: https://nypost.com/2026/10/31/us-news/adriana-aviles-says-her-son-was-given-phony-grades-is-behind-in-math/ Comments URL: https://news.ycombinat...",
+        "keywords": "given, grades, math, url, https, com, news, comments",
+        "generated": "2026-11-02T15:18:23.746989",
+        "file": "school-has-given-straight-a-grades-to-the-student-who-cant-do-masic-math.md"
+    },
+    {
         "title": "How full-text search works in pure Python (a tour with Whoosh)",
         "slug": "how-full-text-search-works-in-pure-python-a-tour-with-whoosh",
         "author": "Priya Sundaram",
@@ -45169,6 +45246,17 @@
         "file": "dua-lipa-opens-library-for-banned-and-censored-books-in-portugal.md"
     },
     {
+        "title": "AI Privilege: The Dev Community Conversation We Keep Skipping",
+        "slug": "ai-privilege-the-dev-community-conversation-we-keep-skipping",
+        "author": "SmartMindAI",
+        "source": "devto_webdev",
+        "published": "Mon, 02 Nov 2026 15:06:04 +0000",
+        "description": "We talk a lot about AI access on dev.to—API costs, GPU credits, tooling. But AI privilege goes deeper than pricing tiers. Understanding AI privilege means as...",
+        "keywords": "privilege, artificial, optimization, dev, community, tooling, who, god",
+        "generated": "2026-11-02T15:18:23.750144",
+        "file": "ai-privilege-the-dev-community-conversation-we-keep-skipping.md"
+    },
+    {
         "title": "Olá, DEV! 👋 Começando minha jornada em Ciência da Computação",
         "slug": "ol-dev-comeando-minha-jornada-em-cincia-da-computao",
         "author": "Jeancarlos-77",
@@ -46302,6 +46390,17 @@
         "file": "a-new-proposed-dynamic-quantum-with-re-adjusted-round-robin-scheduling-algorithmand-its-performance-analysis.md"
     },
     {
+        "title": "Never Complain, Never Explain",
+        "slug": "never-complain-never-explain",
+        "author": "gregsadetsky",
+        "source": "hackernews",
+        "published": "Mon, 02 Nov 2026 11:55:48 +0000",
+        "description": "Article URL: https://en.wikipedia.org/wiki/Never_complain,_never_explain Comments URL: https://news.ycombinator.com/item?id=50335659 Points: 85 # Comments: 30",
+        "keywords": "never, url, https, comments, complain, explain, article, wikipedia",
+        "generated": "2026-11-02T15:18:23.747105",
+        "file": "never-complain-never-explain.md"
+    },
+    {
         "title": "Disk Cleaner CLI: A Minimal Python Tool to View Disk Usage by File Extension",
         "slug": "disk-cleaner-cli-a-minimal-python-tool-to-view-disk-usage-by-file-extension",
         "author": "poolion",
@@ -47125,6 +47224,17 @@
         "keywords": "you, filing, form, data, edgar, feed, every, they",
         "generated": "2026-08-01T19:17:12.568551",
         "file": "parsing-sec-edgars-form-4-feed-the-edge-cases-nobody-warns-you-about.md"
+    },
+    {
+        "title": "Keeping a fee calculator correct when exchanges change their tiers",
+        "slug": "keeping-a-fee-calculator-correct-when-exchanges-change-their-tiers",
+        "author": "aleax h",
+        "source": "devto_python",
+        "published": "Mon, 02 Nov 2026 15:06:16 +0000",
+        "description": "Every exchange fee calculator I have seen starts the same way: a table of maker/taker rates, copied from the exchange's fee page into a constant, and a multi...",
+        "keywords": "decimal, fee, not, rate, you, rounding, tier, schedule",
+        "generated": "2026-11-02T15:18:23.749461",
+        "file": "keeping-a-fee-calculator-correct-when-exchanges-change-their-tiers.md"
     },
     {
         "title": "30 Quick and Easy Ways to Buy Verified WebMoney ...",
@@ -49479,6 +49589,17 @@
         "keywords": "url, https, com, comments, ibm, mcga, gate, array",
         "generated": "2026-06-27T08:43:42.522270",
         "file": "ibm-mcga-gate-array-reverse-engineering.md"
+    },
+    {
+        "title": "Which companies are hiring for Okta and Intune? Tagging public job boards for tech-stack signals",
+        "slug": "which-companies-are-hiring-for-okta-and-intune-tagging-public-job-boards-for-tech-stack-signals",
+        "author": "Scott Williams",
+        "source": "devto_python",
+        "published": "Mon, 02 Nov 2026 15:11:41 +0000",
+        "description": "A job post is one of the few public documents where a company says which tools it runs. 3+ years administering Okta and Intune tells you more about an IT s...",
+        "keywords": "postings, intune, sample, boards, greenhouse, okta, tools, one",
+        "generated": "2026-11-02T15:18:23.747846",
+        "file": "which-companies-are-hiring-for-okta-and-intune-tagging-public-job-boards-for-tech-stack-signals.md"
     },
     {
         "title": "vozern added to PyPI",
@@ -54517,6 +54638,17 @@
         "keywords": "you, tool, not, they, but, will, what, its",
         "generated": "2026-06-30T04:06:54.985842",
         "file": "the-philosophy-of-a-tool-why-ai-will-never-take-over-and-hidden-guardrails-are-literal-evil.md"
+    },
+    {
+        "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+        "slug": "anthropic-releases-amended-ipo-prospectus-with-third-quarter-financials",
+        "author": "rebel",
+        "source": "hackernews",
+        "published": "Mon, 02 Nov 2026 14:38:45 +0000",
+        "description": "Article URL: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html Comments URL: https://news.ycombinator.com/item?id=50337439 Points: 22...",
+        "keywords": "anthropic, quarter, financials, url, https, com, comments, releases",
+        "generated": "2026-11-02T15:18:23.746847",
+        "file": "anthropic-releases-amended-ipo-prospectus-with-third-quarter-financials.md"
     },
     {
         "title": "The tech of 'Terminator 2' – an oral history (2017)",
@@ -71445,6 +71577,17 @@
         "file": "this-week-in-php-internals-july-29-2026.md"
     },
     {
+        "title": "10 Top AI-Powered Real Estate App Development Companies",
+        "slug": "10-top-ai-powered-real-estate-app-development-companies",
+        "author": "Harry Gilbert",
+        "source": "devto_ai",
+        "published": "Mon, 02 Nov 2026 15:15:23 +0000",
+        "description": "Artificial intelligence is changing how real estate platforms are designed, developed, and operated. Property marketplaces are introducing intelligent search...",
+        "keywords": "real, estate, property, applications, development, software, data, engineering",
+        "generated": "2026-11-02T15:18:23.753324",
+        "file": "10-top-ai-powered-real-estate-app-development-companies.md"
+    },
+    {
         "title": "Zero click, silent, remote Android DoS",
         "slug": "zero-click-silent-remote-android-dos",
         "author": "MarkBlah",
@@ -80949,6 +81092,17 @@
         "file": "the-2026-shift-why-i-stopped-using-linear-automations-and-moved-to-agentic-workflows.md"
     },
     {
+        "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+        "slug": "why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017",
+        "author": "zenincognito",
+        "source": "hackernews",
+        "published": "Mon, 02 Nov 2026 15:01:15 +0000",
+        "description": "Article URL: https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?sh...",
+        "keywords": "textbooks, why, soviet, hardcore, comparison, url, https, com",
+        "generated": "2026-11-02T15:18:23.746509",
+        "file": "why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017.md"
+    },
+    {
         "title": "Reject Agent Patches That Shrink the Property Seed Corpus",
         "slug": "reject-agent-patches-that-shrink-the-property-seed-corpus",
         "author": "Finley Zhou",
@@ -83642,6 +83796,17 @@
         "keywords": "article, url, https, com, comments, top, secret, ursala",
         "generated": "2026-10-01T05:13:42.616462",
         "file": "the-top-secret-ursala-raquel-and-farrah-satellites-2025.md"
+    },
+    {
+        "title": "How I Rendered 159 Narrated Lesson Videos With Free, Open-Source Tools",
+        "slug": "how-i-rendered-159-narrated-lesson-videos-with-free-open-source-tools",
+        "author": "Sean Ofodile",
+        "source": "devto_python",
+        "published": "Mon, 02 Nov 2026 15:12:05 +0000",
+        "description": "For CoreQ Academy , my free cybersecurity training platform, I wanted a video for every lesson: 125 certification-level objectives, 19 track lessons, 7 Linux...",
+        "keywords": "lesson, free, each, videos, video, lessons, narration, rendered",
+        "generated": "2026-11-02T15:18:23.747382",
+        "file": "how-i-rendered-159-narrated-lesson-videos-with-free-open-source-tools.md"
     },
     {
         "title": "A Modern Platform for Discreet Male Companionship in Mumbai",
@@ -98646,6 +98811,17 @@
         "file": "personal-vs-business-gmail.md"
     },
     {
+        "title": "ChatGPT Ads Now Rewrite Your Ad Copy by Default",
+        "slug": "chatgpt-ads-now-rewrite-your-ad-copy-by-default",
+        "author": "Yousif Alias",
+        "source": "devto_ai",
+        "published": "Mon, 02 Nov 2026 15:13:51 +0000",
+        "description": "What changed in ChatGPT Ads on October 30? As of Friday, October 30, OpenAI's ad system can rewrite your ChatGPT ad, translate it, resize the image and send ...",
+        "keywords": "your, you, ads, chatgpt, can, page, openai, creative",
+        "generated": "2026-11-02T15:18:23.754036",
+        "file": "chatgpt-ads-now-rewrite-your-ad-copy-by-default.md"
+    },
+    {
         "title": "NLP Sentiment Analysis: Essential Earnings Signals",
         "slug": "nlp-sentiment-analysis-essential-earnings-signals",
         "author": "Vladimir Lialine",
@@ -106080,6 +106256,17 @@
         "keywords": "loc, code, prs, review, tools, cognitive, changes, large",
         "generated": "2026-09-30T22:04:18.305747",
         "file": "optimizing-pull-request-reviews-balancing-code-volume-and-efficiency-in-ai-assisted-development.md"
+    },
+    {
+        "title": "WTF Ubuntu?",
+        "slug": "wtf-ubuntu",
+        "author": "chalmovsky",
+        "source": "hackernews",
+        "published": "Mon, 02 Nov 2026 14:52:00 +0000",
+        "description": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu Comments URL: https://news.ycombinator.com/item?id=50337608 Points: 81 # Comments: 11",
+        "keywords": "wtf, ubuntu, url, https, com, comments, article, chalmovsky",
+        "generated": "2026-11-02T15:18:23.746673",
+        "file": "wtf-ubuntu.md"
     },
     {
         "title": "How to security-test an LLM application",
@@ -115001,6 +115188,17 @@
         "file": "tools-that-move-data-automatically-adf-airflow-and-dbt-explained.md"
     },
     {
+        "title": "I Built a 3D Solar System You Can Fly Through in Your Browser",
+        "slug": "i-built-a-3d-solar-system-you-can-fly-through-in-your-browser",
+        "author": "Julian Neagu",
+        "source": "devto_webdev",
+        "published": "Mon, 02 Nov 2026 15:04:04 +0000",
+        "description": "TL;DR: Static diagrams freeze planets in place. Videos move on their own timeline. A 3D solar system you can fly through puts you in control: click a planet,...",
+        "keywords": "you, planet, system, solar, them, planets, films, camera",
+        "generated": "2026-11-02T15:18:23.751586",
+        "file": "i-built-a-3d-solar-system-you-can-fly-through-in-your-browser.md"
+    },
+    {
         "title": "Google News API in 2026: Pull Headlines into JSON with Python, n8n, or MCP",
         "slug": "google-news-api-in-2026-pull-headlines-into-json-with-python-n8n-or-mcp",
         "author": "Truffle Pig Data",
@@ -115265,6 +115463,17 @@
         "file": "gamma-exposure-analysis-essential-volatility-edge.md"
     },
     {
+        "title": "I Built a Free CV Builder With No Login, and Your Resume Never Leaves Your Browser",
+        "slug": "i-built-a-free-cv-builder-with-no-login-and-your-resume-never-leaves-your-browser",
+        "author": "Rizki Citra",
+        "source": "devto_webdev",
+        "published": "Mon, 02 Nov 2026 15:07:57 +0000",
+        "description": "Introduction You know the moment. You spend an hour on some resume builder, fixing your bullet points, picking a nice template. Then you click Download , and...",
+        "keywords": "your, you, resume, one, lanjut, open, pdf, page",
+        "generated": "2026-11-02T15:18:23.749962",
+        "file": "i-built-a-free-cv-builder-with-no-login-and-your-resume-never-leaves-your-browser.md"
+    },
+    {
         "title": "Java: Introduction, History, and Features",
         "slug": "java-introduction-history-and-features",
         "author": "Abimanyu P",
@@ -115516,6 +115725,17 @@
         "keywords": "bowl, steam, css, art, you, not, comfort, steamon",
         "generated": "2026-08-15T18:36:33.512814",
         "file": "i-made-a-bowl-of-ramen-breathe-with-css-then-left-the-javascript-almost-alone.md"
+    },
+    {
+        "title": "Reward-Adaptive Backtracking GFlowNet: A Technique Worth Understanding",
+        "slug": "reward-adaptive-backtracking-gflownet-a-technique-worth-understanding",
+        "author": "SmartMindAI",
+        "source": "devto_webdev",
+        "published": "Mon, 02 Nov 2026 15:03:26 +0000",
+        "description": "If you're working with generative models and reward-based sampling, the Reward-Adaptive Backtracking GFlowNet is worth a look. This approach to the Reward-Ad...",
+        "keywords": "reward, backtracking, adaptive, gflownet, optimization, when, artificial, worth",
+        "generated": "2026-11-02T15:18:23.751807",
+        "file": "reward-adaptive-backtracking-gflownet-a-technique-worth-understanding.md"
     },
     {
         "title": "Developing Future Technology Experts Through a Data Science Course in Bangalore",
