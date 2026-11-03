@@ -77,6 +77,17 @@
         "file": "build-a-citation-checked-research-report-in-python-with-evidence-graph-studio.md"
     },
     {
+        "title": "Corporate PowerPoint decks with AI, for free: slides as code, QA as the gate",
+        "slug": "corporate-powerpoint-decks-with-ai-for-free-slides-as-code-qa-as-the-gate",
+        "author": "sebyx07",
+        "source": "devto_ai",
+        "published": "Tue, 03 Nov 2026 13:52:32 +0000",
+        "description": "Ask an AI chat to make me a board deck and you usually get one of three things: A wall of Markdown you still have to paste into PowerPoint. A picture of sl...",
+        "keywords": "you, deck, slide, one, can, kubeez, agent, factory",
+        "generated": "2026-11-03T13:55:05.595931",
+        "file": "corporate-powerpoint-decks-with-ai-for-free-slides-as-code-qa-as-the-gate.md"
+    },
+    {
         "title": "Why stateless LLMs can't make consistent decisions, and how Hindsight fixed that",
         "slug": "why-stateless-llms-cant-make-consistent-decisions-and-how-hindsight-fixed-that",
         "author": "Avinash Gehi",
@@ -405,6 +416,17 @@
         "keywords": "sunbiz, search, records, entity, name, index, entityname, florida",
         "generated": "2026-09-20T04:23:13.468486",
         "file": "why-sunbiz-name-searches-return-nearest-neighbors-instead-of-empty-sets.md"
+    },
+    {
+        "title": "Avoiding Email Delivery Issues",
+        "slug": "avoiding-email-delivery-issues",
+        "author": "Kevinleary.net",
+        "source": "devto_webdev",
+        "published": "Tue, 03 Nov 2026 13:50:45 +0000",
+        "description": "Google and Yahoo began enforcing bulk sender requirements in February 2024, and Microsoft followed on May 5, 2025, rejecting non-compliant bulk mail to Outlo...",
+        "keywords": "your, domain, you, one, spam, dmarc, every, sending",
+        "generated": "2026-11-03T13:55:05.593700",
+        "file": "avoiding-email-delivery-issues.md"
     },
     {
         "title": "How should websites prepare for AI-powered search engines in 2026?",
@@ -2176,6 +2198,17 @@
         "keywords": "not, strong, seal, property, fixtures, pass, open, patch",
         "generated": "2026-09-24T11:27:16.260532",
         "file": "an-empty-strong-quorum-is-a-rejection-not-a-green-agent-patch.md"
+    },
+    {
+        "title": "I built a hash map from scratch (and now I know why dictionaries are fast)",
+        "slug": "i-built-a-hash-map-from-scratch-and-now-i-know-why-dictionaries-are-fast",
+        "author": "Leandros Georgiou",
+        "source": "devto_python",
+        "published": "Tue, 03 Nov 2026 13:31:10 +0000",
+        "description": "In Python, if you have a dictionary with a million things in it, my_dict[apple] still comes back instantly. I'd use dictionaries for ages without knowing h...",
+        "keywords": "bucket, key, buckets, hash, map, self, pair, list",
+        "generated": "2026-11-03T13:55:05.591550",
+        "file": "i-built-a-hash-map-from-scratch-and-now-i-know-why-dictionaries-are-fast.md"
     },
     {
         "title": "Architecting Context-Aware LLMs: Decoupling State from Cognition",
@@ -16922,6 +16955,17 @@
         "file": "best-iptv-for-sports-fans-2026-alltimeiptv-discussion.md"
     },
     {
+        "title": "WooCommerce, Shopify or Custom eCommerce?",
+        "slug": "woocommerce-shopify-or-custom-ecommerce",
+        "author": "Kevinleary.net",
+        "source": "devto_webdev",
+        "published": "Tue, 03 Nov 2026 13:48:59 +0000",
+        "description": "Each eCommerce system in this comparison can be the best option, but there is no universal “best one,” only the one that is best for you, your situation, and...",
+        "keywords": "you, your, woocommerce, shopify, custom, not, product, business",
+        "generated": "2026-11-03T13:55:05.594567",
+        "file": "woocommerce-shopify-or-custom-ecommerce.md"
+    },
+    {
         "title": "Healthchecks Alternatives Explained — Cron Job Monitoring for Property Management SaaS",
         "slug": "healthchecks-alternatives-explained-cron-job-monitoring-for-property-management-saas",
         "author": "BriarVoss47291",
@@ -21521,6 +21565,17 @@
         "file": "solving-20-erds-problems-with-20-codex-accounts-running-in-parallel.md"
     },
     {
+        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "slug": "the-astra-can-read-and-write-weights-to-improve-qwen-post-is-misleading",
+        "author": "syllogism",
+        "source": "hackernews",
+        "published": "Tue, 03 Nov 2026 12:21:17 +0000",
+        "description": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 202 # Comments: 36",
+        "keywords": "astra, read, write, misleading, url, https, comments, can",
+        "generated": "2026-11-03T13:55:05.589969",
+        "file": "the-astra-can-read-and-write-weights-to-improve-qwen-post-is-misleading.md"
+    },
+    {
         "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
         "slug": "qwenputer-a-functioning-deterministic-risc-v-cpu-inside-qwen35",
         "author": "csmantle",
@@ -23332,6 +23387,17 @@
         "keywords": "title, oxlo, ticket, content, role, examples, body, few",
         "generated": "2026-09-02T03:54:59.714281",
         "file": "introduction-to-llm-few-shot-learning-concepts-and-applications.md"
+    },
+    {
+        "title": "Why PLUR chose Swarm",
+        "slug": "why-plur-chose-swarm",
+        "author": "gregor",
+        "source": "devto_ai",
+        "published": "Tue, 03 Nov 2026 13:50:52 +0000",
+        "description": "PLUR 0.23 is an experimental release. It runs on a test network for now; a mainnet release follows. Your agent's memory is what makes it yours Knowledge is b...",
+        "keywords": "agent, what, plur, can, memory, your, swarm, you",
+        "generated": "2026-11-03T13:55:05.597847",
+        "file": "why-plur-chose-swarm.md"
     },
     {
         "title": "The tech of 'Terminator 2' – an oral history (2017)",
@@ -39313,6 +39379,17 @@
         "file": "we-built-a-developer-portfolio-generator-using-only-the-public-github-api.md"
     },
     {
+        "title": "Where the 150 seconds actually go: profiling a local render loop",
+        "slug": "where-the-150-seconds-actually-go-profiling-a-local-render-loop",
+        "author": "mujin",
+        "source": "devto_python",
+        "published": "Tue, 03 Nov 2026 13:33:30 +0000",
+        "description": "I generate on a 4GB GTX 1650, SD1.5 in fp32 with model offload. One 512x768 image takes about 150 seconds. That number is useless on its own — it tells me no...",
+        "keywords": "time, loop, not, per, one, load, seconds, encode",
+        "generated": "2026-11-03T13:55:05.591156",
+        "file": "where-the-150-seconds-actually-go-profiling-a-local-render-loop.md"
+    },
+    {
         "title": "Object Storage Can Replace a Database Under Four Contracts",
         "slug": "object-storage-can-replace-a-database-under-four-contracts",
         "author": "Chen Yuan",
@@ -48747,6 +48824,17 @@
         "file": "ai-agent-runs-amok-in-fedora-and-elsewhere.md"
     },
     {
+        "title": "AI made building easy. So where's your moat?",
+        "slug": "ai-made-building-easy-so-wheres-your-moat",
+        "author": "Richard Kersey",
+        "source": "devto_webdev",
+        "published": "Tue, 03 Nov 2026 13:53:00 +0000",
+        "description": "Building in public, part 2: how to find the thing an auto-completer can't copy Originally published on Chirpper . Anyone with an AI coding tool can rebuild y...",
+        "keywords": "your, you, can, people, one, what, test, moat",
+        "generated": "2026-11-03T13:55:05.592913",
+        "file": "ai-made-building-easy-so-wheres-your-moat.md"
+    },
+    {
         "title": "Show HN: Rickub – The Smartest Git in the Universe",
         "slug": "show-hn-rickub-the-smartest-git-in-the-universe",
         "author": "ssaboum",
@@ -53741,6 +53829,17 @@
         "file": "europes-stance-on-the-chip-wa.md"
     },
     {
+        "title": "Learn React Free",
+        "slug": "learn-react-free",
+        "author": "Khawaja Khurram (MAK)",
+        "source": "devto_webdev",
+        "published": "Tue, 03 Nov 2026 13:48:03 +0000",
+        "description": "📚 This article was originally published on MAK Studio . Check out the full interactive lesson with live demos and code examples. Home › Courses › React ⚛️ Le...",
+        "keywords": "react, state, you, javascript, component, what, useeffect, function",
+        "generated": "2026-11-03T13:55:05.595354",
+        "file": "learn-react-free.md"
+    },
+    {
         "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
         "slug": "documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband",
         "author": "DeepLogin",
@@ -57301,6 +57400,17 @@
         "keywords": "crypto, nexus, intelligence, research, july, recommended, tools, binance",
         "generated": "2026-07-19T19:13:25.020898",
         "file": "nexus-intelligence-research-july-2026.md"
+    },
+    {
+        "title": "Autonomous DNS for Autonomous Code: Inside LovieMe v0.6.0",
+        "slug": "autonomous-dns-for-autonomous-code-inside-lovieme-v060",
+        "author": "Sagar Kewat",
+        "source": "devto_ai",
+        "published": "Tue, 03 Nov 2026 13:52:07 +0000",
+        "description": "Over the last 18 months, software development workflows underwent a historic transformation. With tools like Cursor, Claude Code, and Antigravity, scaffoldin...",
+        "keywords": "dns, lovieme, subdomain, lovie, cname, edge, vercel, your",
+        "generated": "2026-11-03T13:55:05.596387",
+        "file": "autonomous-dns-for-autonomous-code-inside-lovieme-v060.md"
     },
     {
         "title": "One in ten people are older than 65. Three in four live under a leader who is",
@@ -62000,6 +62110,17 @@
         "file": "im-being-cyberattacked-by-tesla-inc.md"
     },
     {
+        "title": "There Is No MP3 on YouTube: Why I Label the Audio Button M4A",
+        "slug": "there-is-no-mp3-on-youtube-why-i-label-the-audio-button-m4a",
+        "author": "Mobeen Ahmed",
+        "source": "devto_webdev",
+        "published": "Tue, 03 Nov 2026 13:49:28 +0000",
+        "description": "When I first wired YouTube support into my downloader, the audio button said MP3. Everybody expects an MP3 button. Every downloader site has one. So I adde...",
+        "keywords": "youtube, audio, button, what, site, one, actually, file",
+        "generated": "2026-11-03T13:55:05.593973",
+        "file": "there-is-no-mp3-on-youtube-why-i-label-the-audio-button-m4a.md"
+    },
+    {
         "title": "Your Pipeline Is 22.6h Behind: Catching Software Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-226h-behind-catching-software-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -65421,6 +65542,17 @@
         "file": "russian-lips-vs-a-lip-flip-the-names-people-search-are-not-the-treatments-clinics-mean.md"
     },
     {
+        "title": "How to Export Public Telegram Channel Posts to CSV (Text, Views, Dates, Links) Without an Account or API Key",
+        "slug": "how-to-export-public-telegram-channel-posts-to-csv-text-views-dates-links-without-an-account-or-api-key",
+        "author": "frankxie",
+        "source": "devto_python",
+        "published": "Tue, 03 Nov 2026 13:31:05 +0000",
+        "description": "A lot of public information appears on Telegram first. Exchanges post listings and delistings there, projects announce releases, and news channels push stori...",
+        "keywords": "posts, channel, telegram, channels, links, text, post, run",
+        "generated": "2026-11-03T13:55:05.592216",
+        "file": "how-to-export-public-telegram-channel-posts-to-csv-text-views-dates-links-without-an-account-or-api-key.md"
+    },
+    {
         "title": "What Happened When I Built an Open-Source AI Project in Public",
         "slug": "what-happened-when-i-built-an-open-source-ai-project-in-public",
         "author": "Vedant Brahmbhatt",
@@ -66618,6 +66750,17 @@
         "keywords": "css, url, https, comments, curiosities, past, article, vale",
         "generated": "2026-09-11T10:58:00.562145",
         "file": "css-curiosities-of-the-past.md"
+    },
+    {
+        "title": "Stop trusting your AGENTS.md: the drift-check that makes it a contract",
+        "slug": "stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract",
+        "author": "Veaceslav",
+        "source": "devto_python",
+        "published": "Tue, 03 Nov 2026 13:41:42 +0000",
+        "description": "Back in September I published Stop bloating your AGENTS.md: reference your conventions instead of pasting them — and advice I still stand behind: keep AGENTS...",
+        "keywords": "check, rule, agents, doc, marker, not, contract, ids",
+        "generated": "2026-11-03T13:55:05.590787",
+        "file": "stop-trusting-your-agentsmd-the-drift-check-that-makes-it-a-contract.md"
     },
     {
         "title": "Step-by-Step Guide to Finding Reliable RedotPay, Account Sellers",
@@ -69128,6 +69271,17 @@
         "file": "why-product-design-and-engineering-must-work-together.md"
     },
     {
+        "title": "Shipped: GitHub Trending Python Project Ideas Tool",
+        "slug": "shipped-github-trending-python-project-ideas-tool",
+        "author": "ItsEvilDuck",
+        "source": "devto_python",
+        "published": "Tue, 03 Nov 2026 13:27:16 +0000",
+        "description": "I've recently shipped a new tool called GitHub Trending Python Project Ideas. This application serves a straightforward purpose: it fetches the most starred ...",
+        "keywords": "python, github, project, tool, trending, ideas, new, repositories",
+        "generated": "2026-11-03T13:55:05.592414",
+        "file": "shipped-github-trending-python-project-ideas-tool.md"
+    },
+    {
         "title": "An SLM trained on $8 ESP32-S3",
         "slug": "an-slm-trained-on-8-esp32-s3",
         "author": "pavelai",
@@ -69401,6 +69555,17 @@
         "keywords": "google, you, trends, one, data, apify, keywords, csv",
         "generated": "2026-10-28T12:28:53.741185",
         "file": "how-to-export-google-trends-data-to-csvjson-without-an-api-key-2026.md"
+    },
+    {
+        "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+        "slug": "sava-trust-yc-f25-is-hiring-a-founding-engineer-in-nyc",
+        "author": "nimz",
+        "source": "hackernews",
+        "published": "Tue, 03 Nov 2026 12:01:01 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/sava-trust-company/jobs Comments URL: https://news.ycombinator.com/item?id=50350924 Points: 0 # Comments: 0",
+        "keywords": "sava, trust, url, https, ycombinator, com, comments, hiring",
+        "generated": "2026-11-03T13:55:05.590090",
+        "file": "sava-trust-yc-f25-is-hiring-a-founding-engineer-in-nyc.md"
     },
     {
         "title": "First Look: NVIDIA and Hugging Face Integrate GR00T 1.7 into LeRobot Open Robotics Platform",
@@ -85285,6 +85450,17 @@
         "file": "scrapling-mcp-giving-claude-code-a-real-web-scraper.md"
     },
     {
+        "title": "Google’s August 2026 Spam Update",
+        "slug": "googles-august-2026-spam-update",
+        "author": "Kevinleary.net",
+        "source": "devto_ai",
+        "published": "Tue, 03 Nov 2026 13:51:56 +0000",
+        "description": "The update began August 18, 2026 and completed in roughly 2 days and 16 hours according to Google’s ranking updates dashboard , the second spam update of the...",
+        "keywords": "pages, spam, content, what, google, update, august, page",
+        "generated": "2026-11-03T13:55:05.596858",
+        "file": "googles-august-2026-spam-update.md"
+    },
+    {
         "title": "Aether: A Localized AI Agent for Android",
         "slug": "aether-a-localized-ai-agent-for-android",
         "author": "Tim Zinin",
@@ -92589,6 +92765,17 @@
         "file": "python-importlib-dynamic-module-loading.md"
     },
     {
+        "title": "Charles Tandy, the mastermind behind Radio Shack",
+        "slug": "charles-tandy-the-mastermind-behind-radio-shack",
+        "author": "ibobev",
+        "source": "hackernews",
+        "published": "Tue, 03 Nov 2026 12:42:30 +0000",
+        "description": "Article URL: https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/ Comments URL: https://news.ycombinator.com/item?id=50351319 Points: 9 ...",
+        "keywords": "charles, tandy, mastermind, behind, radio, shack, url, https",
+        "generated": "2026-11-03T13:55:05.589843",
+        "file": "charles-tandy-the-mastermind-behind-radio-shack.md"
+    },
+    {
         "title": "RIFT, an audio-reactive video tool, works but needs help with shader optimization and export engine",
         "slug": "rift-an-audio-reactive-video-tool-works-but-needs-help-with-shader-optimization-and-export-engine",
         "author": "rogueexxxx-del",
@@ -92961,6 +93148,17 @@
         "keywords": "not, you, what, diff, url, public, text, can",
         "generated": "2026-09-24T04:09:17.205595",
         "file": "i-wanted-the-diff-not-a-screenshot-a-small-url-change-api.md"
+    },
+    {
+        "title": "Show HN: Kvittas, an Expense Splitting App",
+        "slug": "show-hn-kvittas-an-expense-splitting-app",
+        "author": "primalscreamer",
+        "source": "hackernews",
+        "published": "Tue, 03 Nov 2026 12:53:48 +0000",
+        "description": "I built this to replace Cost Split, which I've used for several years and always thought was great but lacking in the UI. No account required. Comments URL: ...",
+        "keywords": "comments, show, kvittas, expense, splitting, app, built, replace",
+        "generated": "2026-11-03T13:55:05.589502",
+        "file": "show-hn-kvittas-an-expense-splitting-app.md"
     },
     {
         "title": "Mejores casinos online para jugar desde el móvil",
@@ -95304,6 +95502,17 @@
         "keywords": "tennis, jones, data, palermo, her, live, title, most",
         "generated": "2026-07-29T03:14:29.808688",
         "file": "analyzing-tennis-data-britains-jones-defends-challenger-title-in-palermo-what-the-numbers-say.md"
+    },
+    {
+        "title": "Intelligent Innovation: The Intersection of Software, AI, and Human Creativity",
+        "slug": "intelligent-innovation-the-intersection-of-software-ai-and-human-creativity",
+        "author": "Fuad Husnan",
+        "source": "devto_ai",
+        "published": "Tue, 03 Nov 2026 13:51:51 +0000",
+        "description": "Innovation used to be a story about invention. Someone had an idea, built a prototype, and hoped the world would notice. Today the story is more layered. Sof...",
+        "keywords": "they, not, what, people, intelligent, innovation, when, human",
+        "generated": "2026-11-03T13:55:05.597373",
+        "file": "intelligent-innovation-the-intersection-of-software-ai-and-human-creativity.md"
     },
     {
         "title": "Google Hits 50% IPv6",
@@ -117335,6 +117544,17 @@
         "keywords": "url, https, com, comments, saving, jet, fuel, article",
         "generated": "2026-09-16T04:17:07.146327",
         "file": "saving-jet-fuel.md"
+    },
+    {
+        "title": "Show HN: Bema: Work messaging built for humans",
+        "slug": "show-hn-bema-work-messaging-built-for-humans",
+        "author": "ben_d",
+        "source": "hackernews",
+        "published": "Tue, 03 Nov 2026 12:51:11 +0000",
+        "description": "Hi HN! I'm Ben, the founder of Bema. I've been frustrated with the current state of work messaging software for a while now, and I've heard similar complaint...",
+        "keywords": "work, bema, messaging, comments, show, built, humans, ben",
+        "generated": "2026-11-03T13:55:05.589715",
+        "file": "show-hn-bema-work-messaging-built-for-humans.md"
     },
     {
         "title": "Pipeline Freezes: Resolving Token Serialization Crashes in Automated Cloud Channels",
