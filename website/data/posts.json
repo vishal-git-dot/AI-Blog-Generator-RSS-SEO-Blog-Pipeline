@@ -9922,6 +9922,17 @@
         "file": "aging-biomarkers-panel-essential-longevity-protocol.md"
     },
     {
+        "title": "Crawled - currently not indexed on 12 of 13 pages: what I've ruled out on a 3-week-old site",
+        "slug": "crawled-currently-not-indexed-on-12-of-13-pages-what-ive-ruled-out-on-a-3-week-old-site",
+        "author": "Silkline",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 14:00:55 +0000",
+        "description": "A small site I built has 13 pages. Google has indexed one of them, the homepage. Three weeks ago it had six. I've spent more time on this than on building th...",
+        "keywords": "pages, page, indexed, site, what, google, one, october",
+        "generated": "2026-11-04T14:06:42.003149",
+        "file": "crawled-currently-not-indexed-on-12-of-13-pages-what-ive-ruled-out-on-a-3-week-old-site.md"
+    },
+    {
         "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
         "slug": "brazilian-court-sanctions-lawyers-for-prompt-injection-in-court-filing",
         "author": "doodlesdev",
@@ -15030,6 +15041,17 @@
         "file": "running-chinese-llms-at-scale-deepseek-qwen-kimi-glm.md"
     },
     {
+        "title": "A Beginner's Guide to REST APIs with Python",
+        "slug": "a-beginners-guide-to-rest-apis-with-python",
+        "author": "Sachin G L",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 13:52:10 +0000",
+        "description": "Introduction REST APIs are a fundamental part of web development, enabling communication between different services and applications. In this article, we'll ...",
+        "keywords": "api, flask, request, json, rest, data, route, post",
+        "generated": "2026-11-04T14:06:42.002285",
+        "file": "a-beginners-guide-to-rest-apis-with-python.md"
+    },
+    {
         "title": "Best SAP MM Course Online with Placement Assistance",
         "slug": "best-sap-mm-course-online-with-placement-assistance",
         "author": "GTR Academy",
@@ -16724,6 +16746,17 @@
         "file": "show-hn-audionaut-an-open-source-cross-platform-multitrack-audio-editor.md"
     },
     {
+        "title": "The Undo Button for Agents That Is Not a Fork",
+        "slug": "the-undo-button-for-agents-that-is-not-a-fork",
+        "author": "Sebastian Buzdugan",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 14:02:41 +0000",
+        "description": "An agent renamed two methods, updated two files, and missed the third. The test suite went from green to two failures in one commit. Getting back to working ...",
+        "keywords": "you, agent, not, main, commit, one, what, code",
+        "generated": "2026-11-04T14:06:42.001508",
+        "file": "the-undo-button-for-agents-that-is-not-a-fork.md"
+    },
+    {
         "title": "Better and Cheaper Than IPTV",
         "slug": "better-and-cheaper-than-iptv",
         "author": "xonery",
@@ -17316,6 +17349,17 @@
         "keywords": "state, question, usereducer, answer, app, const, options, river",
         "generated": "2026-08-23T06:49:22.752463",
         "file": "my-usereducer-learning-journey-from-what-is-this-to-building-real-projects.md"
+    },
+    {
+        "title": "Common Mistakes When Training a Machine Learning Model",
+        "slug": "common-mistakes-when-training-a-machine-learning-model",
+        "author": "Sachin G L",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 13:43:08 +0000",
+        "description": "Introduction to Training Machine Learning Models: A Common Pitfall Guide Training a machine learning model is a critical step in building intelligent systems...",
+        "keywords": "model, data, dataset, training, can, overfitting, underfitting, your",
+        "generated": "2026-11-04T14:06:42.002634",
+        "file": "common-mistakes-when-training-a-machine-learning-model.md"
     },
     {
         "title": "Zepto Scraper in Python: Category Listings, Prices and Stock",
@@ -20496,6 +20540,17 @@
         "keywords": "url, https, com, comments, flagged, two, research, papers",
         "generated": "2026-07-31T03:29:44.276955",
         "file": "i-flagged-two-research-papers-for-fake-authors-and-both-were-accepted-as-orals.md"
+    },
+    {
+        "title": "Disaster is still better than AI",
+        "slug": "disaster-is-still-better-than-ai",
+        "author": "bemtevi",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 13:05:26 +0000",
+        "description": "Article URL: https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai Comments URL: https://news.ycombinator.com/item?id=50365009 Points: 9 # Comme...",
+        "keywords": "disaster, still, better, than, url, https, com, comments",
+        "generated": "2026-11-04T14:06:42.000504",
+        "file": "disaster-is-still-better-than-ai.md"
     },
     {
         "title": "Show HN: We chased a weather balloon across Montana and never found it",
@@ -27270,6 +27325,17 @@
         "keywords": "code, ast, analyzer, you, complexity, your, self, python",
         "generated": "2026-08-18T18:44:45.284526",
         "file": "build-a-code-complexity-analyzer-with-python.md"
+    },
+    {
+        "title": "Guess first, then ask",
+        "slug": "guess-first-then-ask",
+        "author": "Kay Ashaolu",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 14:01:15 +0000",
+        "description": "When you learn, the thing worth protecting is your ability to build a mental model of why the code works. AI only hurts that when it skips you past the model...",
+        "keywords": "you, first, your, model, guess, when, ask, build",
+        "generated": "2026-11-04T14:06:42.006473",
+        "file": "guess-first-then-ask.md"
     },
     {
         "title": "Europe's free satellite service just made it easier to track wildfires",
@@ -37883,6 +37949,17 @@
         "file": "why-developers-are-moving-away-from-aws-to-simpler-platforms.md"
     },
     {
+        "title": "Medical Device Complaint Handling and MDR Reporting: A Developer's Guide to 21 CFR 803 and ISO 13485 8.2.2",
+        "slug": "medical-device-complaint-handling-and-mdr-reporting-a-developers-guide-to-21-cfr-803-and-iso-13485-822",
+        "author": "Shivanshu Tripathi",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 14:00:00 +0000",
+        "description": "Picture a support ticket on a Friday afternoon: Unit shut off halfway through a treatment. Patient fine, restarted it. The agent tags it hardware , the que...",
+        "keywords": "complaint, date, mdr, when, device, cfr, under, risk",
+        "generated": "2026-11-04T14:06:42.002012",
+        "file": "medical-device-complaint-handling-and-mdr-reporting-a-developers-guide-to-21-cfr-803-and-iso-13485-822.md"
+    },
+    {
         "title": "How to validate an email list in Python without SMTP (syntax, MX, disposable)",
         "slug": "how-to-validate-an-email-list-in-python-without-smtp-syntax-mx-disposable",
         "author": "PennyData",
@@ -39201,6 +39278,17 @@
         "keywords": "data, comments, tiktok, comment, requests, can, proxy, import",
         "generated": "2026-06-23T09:53:37.255502",
         "file": "how-to-scrape-tiktok-comments-with-python-a-step-by-step-tutorial.md"
+    },
+    {
+        "title": "I got banned from Lobsters for writing like an LLM",
+        "slug": "i-got-banned-from-lobsters-for-writing-like-an-llm",
+        "author": "andros",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 13:19:51 +0000",
+        "description": "Article URL: https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/ Comments URL: https://news.ycombinator.com/item?id=50365...",
+        "keywords": "got, banned, lobsters, writing, like, llm, url, https",
+        "generated": "2026-11-04T14:06:42.000326",
+        "file": "i-got-banned-from-lobsters-for-writing-like-an-llm.md"
     },
     {
         "title": "Lock mkdir Failures Before One Path Extract",
@@ -45680,6 +45768,17 @@
         "file": "jury-finds-facebook-liable-for-deceiving-users-in-cambridge-analytica-case.md"
     },
     {
+        "title": "The AI Didn't Break In. Someone Opened the Door.",
+        "slug": "the-ai-didnt-break-in-someone-opened-the-door",
+        "author": "NIA",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 14:02:19 +0000",
+        "description": "This article was researched, written and published by an autonomous AI agent on Nothing Is Accidental . Cross-posted with a link to the original. Figures che...",
+        "keywords": "agent, not, what, model, code, claude, wired, openai",
+        "generated": "2026-11-04T14:06:42.005974",
+        "file": "the-ai-didnt-break-in-someone-opened-the-door.md"
+    },
+    {
         "title": "Was bash the wrong language for my agent?",
         "slug": "was-bash-the-wrong-language-for-my-agent",
         "author": "Qian_Xiao",
@@ -51429,6 +51528,17 @@
         "keywords": "commodification, url, https, com, comments, intelligence, good, bad",
         "generated": "2026-07-29T19:24:36.662028",
         "file": "commodification-of-intelligence-good-bad-and-ugly-circular-ai-deals.md"
+    },
+    {
+        "title": "The accounts nobody remembers connecting to your site",
+        "slug": "the-accounts-nobody-remembers-connecting-to-your-site",
+        "author": "Devaland",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 14:00:11 +0000",
+        "description": "In short: your site is not only its code and its server. It is every account, plugin and service that was ever given a way in: the theme you bought, the form...",
+        "keywords": "you, your, one, site, account, access, github, can",
+        "generated": "2026-11-04T14:06:42.004121",
+        "file": "the-accounts-nobody-remembers-connecting-to-your-site.md"
     },
     {
         "title": "Simplify Browser Interactions in React with useDownload and useNotifications",
@@ -64706,6 +64816,17 @@
         "file": "2026-eclipse-webcams.md"
     },
     {
+        "title": "A map of 5000+ midterm ads",
+        "slug": "a-map-of-5000-midterm-ads",
+        "author": "Eden09",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 12:18:35 +0000",
+        "description": "Article URL: https://admap.org/ Comments URL: https://news.ycombinator.com/item?id=50364561 Points: 45 # Comments: 15",
+        "keywords": "url, https, comments, map, midterm, ads, article, admap",
+        "generated": "2026-11-04T14:06:42.000723",
+        "file": "a-map-of-5000-midterm-ads.md"
+    },
+    {
         "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
         "slug": "sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers",
         "author": "ankitg12",
@@ -71636,6 +71757,17 @@
         "file": "sqlite-utils-40rc2-mostly-written-by-claude-fable-for-about-14925.md"
     },
     {
+        "title": "Understanding Retrieval-Augmented Generation in Real Applications",
+        "slug": "understanding-retrieval-augmented-generation-in-real-applications",
+        "author": "Sachin G L",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 13:41:48 +0000",
+        "description": "Introduction Retrieval-Augmented Generation (RAG) is a machine learning paradigm that integrates retrieval techniques with generative models. This approach e...",
+        "keywords": "data, rag, retrieval, external, generation, models, augmented, applications",
+        "generated": "2026-11-04T14:06:42.002845",
+        "file": "understanding-retrieval-augmented-generation-in-real-applications.md"
+    },
+    {
         "title": "Crypto Price Alert Telegram Bot: The Hidden Trap Costing You Thousands",
         "slug": "crypto-price-alert-telegram-bot-the-hidden-trap-costing-you-thousands",
         "author": "Echo-Post",
@@ -76615,6 +76747,17 @@
         "keywords": "accounts, account, facebook, itpvapro, com, usa, activity, security",
         "generated": "2026-07-02T19:40:41.066709",
         "file": "buy-usa-facebook-accounts-what-you-should-know.md"
+    },
+    {
+        "title": "Building a Search Engine That Actually Helps Patients Find Trials",
+        "slug": "building-a-search-engine-that-actually-helps-patients-find-trials",
+        "author": "AI Predictions Dev",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 14:00:05 +0000",
+        "description": "Most clinical trial search tools feel like they were designed in 2005. You type in a condition, get a wall of text, and hope for the best. The data is there—...",
+        "keywords": "you, data, need, just, patients, interface, trialsnearme, contact",
+        "generated": "2026-11-04T14:06:42.004528",
+        "file": "building-a-search-engine-that-actually-helps-patients-find-trials.md"
     },
     {
         "title": "Enterprise AI Governance Framework: Essential Trust",
@@ -81655,6 +81798,17 @@
         "file": "show-hn-koirest-watch-some-fish-and-regain-your-balance.md"
     },
     {
+        "title": "When is a coding agent's task actually done?",
+        "slug": "when-is-a-coding-agents-task-actually-done",
+        "author": "Nic Flemmer",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 14:02:26 +0000",
+        "description": "An agent stops typing and the spinner goes away. Is the task finished? It's tempting to say yes. It isn't: the agent has only run out of things to do and is ...",
+        "keywords": "agent, when, task, done, you, something, stops, finished",
+        "generated": "2026-11-04T14:06:42.005478",
+        "file": "when-is-a-coding-agents-task-actually-done.md"
+    },
+    {
         "title": "Your Pipeline Is 17.2h Behind: Catching Defence Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-172h-behind-catching-defence-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -85734,6 +85888,17 @@
         "keywords": "time, project, month, how, portfolio, coding, you, tracker",
         "generated": "2026-07-01T09:59:55.957136",
         "file": "blog-1-the-first-milestone.md"
+    },
+    {
+        "title": "AI-Driven Exploitation: The Rise of ARTEX AI and the Cost of LLMjacking",
+        "slug": "ai-driven-exploitation-the-rise-of-artex-ai-and-the-cost-of-llmjacking",
+        "author": "Hassan radwany",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 14:01:33 +0000",
+        "description": "As AI models become more integrated into the developer workflow, a parallel shift is occurring in the threat landscape. Recent reports indicate that AI is no...",
+        "keywords": "security, llmjacking, technical, cloud, have, artex, more, developers",
+        "generated": "2026-11-04T14:06:42.006273",
+        "file": "ai-driven-exploitation-the-rise-of-artex-ai-and-the-cost-of-llmjacking.md"
     },
     {
         "title": "Code Challenge of the Day — Minimal length subarray >= target (hard)",
@@ -90950,6 +91115,17 @@
         "file": "raspberry-pi-5-16-gb-350.md"
     },
     {
+        "title": "e.key vs e.code: Why Your WASD Controls Break on AZERTY (and How I Built a Keyboard Tester)",
+        "slug": "ekey-vs-ecode-why-your-wasd-controls-break-on-azerty-and-how-i-built-a-keyboard-tester",
+        "author": "Arelvox",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 14:00:00 +0000",
+        "description": "If you have ever built keyboard shortcuts or a game in the browser, you have probably used e.key . Then someone with a French or German keyboard tells you yo...",
+        "keywords": "key, code, keyboard, tester, you, function, keycode, layout",
+        "generated": "2026-11-04T14:06:42.005075",
+        "file": "ekey-vs-ecode-why-your-wasd-controls-break-on-azerty-and-how-i-built-a-keyboard-tester.md"
+    },
+    {
         "title": "Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation",
         "slug": "beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation",
         "author": "Programming Central",
@@ -95889,6 +96065,17 @@
         "file": "quantum-helix-przyszo-komputerw-kwantowych.md"
     },
     {
+        "title": "Safely parse and repair JSON returned by GPT-style models",
+        "slug": "safely-parse-and-repair-json-returned-by-gpt-style-models",
+        "author": "César Freitas",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 14:00:01 +0000",
+        "description": "Safely parse and repair JSON returned by GPT-style models As developers who have worked with large language models like GPT-3, we're all too familiar with th...",
+        "keywords": "json, gpt, llm, dev, utilities, api, models, can",
+        "generated": "2026-11-04T14:06:42.004790",
+        "file": "safely-parse-and-repair-json-returned-by-gpt-style-models.md"
+    },
+    {
         "title": "Build a Simple Polymarket Market Scanner With Python",
         "slug": "build-a-simple-polymarket-market-scanner-with-python",
         "author": "Dexoryn",
@@ -97834,6 +98021,17 @@
         "keywords": "google, trending, trends, now, country, rss, actor, feed",
         "generated": "2026-10-30T05:13:18.341148",
         "file": "get-google-trends-trending-now-for-any-country-with-python-rss-a-many-country-shortcut.md"
+    },
+    {
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "slug": "ai-is-forcing-us-to-pay-off-40-years-of-technical-debt",
+        "author": "pseudolus",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 11:52:17 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 252 # ...",
+        "keywords": "url, https, comments, forcing, pay, off, years, technical",
+        "generated": "2026-11-04T14:06:42.000817",
+        "file": "ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
     },
     {
         "title": "The main WebDev conference is back in Amsterdam! 🎉",
@@ -110310,6 +110508,17 @@
         "file": "2026-gpt-6-astraclaude-opus-5-gemini-37-flash.md"
     },
     {
+        "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
+        "slug": "debian-apt-security-update-man-in-the-middle-arbitrary-code-execution",
+        "author": "vesinisa",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 12:46:58 +0000",
+        "description": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html Comments URL: https://news.ycombinator.com/item?id=50364814 Points: 41 # Co...",
+        "keywords": "debian, security, url, https, comments, apt, update, man",
+        "generated": "2026-11-04T14:06:42.000622",
+        "file": "debian-apt-security-update-man-in-the-middle-arbitrary-code-execution.md"
+    },
+    {
         "title": "Azure cost optimization strategies for 2026",
         "slug": "azure-cost-optimization-strategies-for-2026",
         "author": "Shivatechdigital",
@@ -118259,6 +118468,17 @@
         "keywords": "can, information, pos, operational, data, order, restaurants, api",
         "generated": "2026-09-11T10:58:00.567425",
         "file": "quick-swiggy-zomato-pos-api-integration-for-retailers.md"
+    },
+    {
+        "title": "Build Real-World Microsoft Skills for Free with Microsoft Learn Applied Skills 🚀",
+        "slug": "build-real-world-microsoft-skills-for-free-with-microsoft-learn-applied-skills",
+        "author": "Shreyash chavan",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 14:03:09 +0000",
+        "description": "Want to develop practical technology skills and earn an industry-recognized Microsoft credential without spending money? Microsoft Learn offers Applied Skill...",
+        "keywords": "skills, microsoft, applied, you, your, learning, learn, explore",
+        "generated": "2026-11-04T14:06:42.005326",
+        "file": "build-real-world-microsoft-skills-for-free-with-microsoft-learn-applied-skills.md"
     },
     {
         "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
