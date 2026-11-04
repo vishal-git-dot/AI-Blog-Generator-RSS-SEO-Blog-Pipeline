@@ -1,0 +1,34 @@
+---
+title: "pandas merge() Returned More Rows Than You Started With? Catch Duplicate Keys with validate="
+slug: "pandas-merge-returned-more-rows-than-you-started-with-catch-duplicate-keys-with-validate"
+author: "Blogs World"
+source: "devto_python"
+published: "Wed, 04 Nov 2026 05:28:03 +0000"
+description: "You left-joined 4 orders onto a customer table and got back 6 rows . Worse, the revenue column went from 520 to 830, and nobody noticed until the report reac..."
+keywords: "merge, left, orders, rows, you, keys, asha, nan"
+generated: "2026-11-04T05:43:20.839983"
+---
+
+# pandas merge() Returned More Rows Than You Started With? Catch Duplicate Keys with validate=
+
+## Overview
+
+You left-joined 4 orders onto a customer table and got back 6 rows . Worse, the revenue column went from 520 to 830, and nobody noticed until the report reached a manager. merge() did exactly what it was told. A left join keeps every left row, but if a key appears twice on the right , every matching left row is copied once per match. No error, no warning, just quietly inflated numbers. Here is how to reproduce it, catch it automatically, and fix the three key problems that cause most "wrong row count" merges. The 6-line reproduction import pandas as pd orders = pd . DataFrame ({ " order_id " : [ 1 , 2 , 3 , 4 ], " customer_id " : [ 10 , 11 , 12 , 10 ], " amount " : [ 250 , 120 , 90 , 60 ]}) customers = pd . DataFrame ({ " customer_id " : [ 10 , 10 , 11 , 12 ], " name " : [ " Asha " , " Asha " , " Ravi " , " Meera " ], " city " : [ " Udaipur " , " Jaipur " , " Pune " , " Delhi " ]}) m = orders . merge ( customers , on = " customer_id " , how = " left " ) print ( len ( orders ), len ( m ), orders . amount . sum (), m . amount . sum ()) On pandas 3.0 this prints: 4 6 520 830 Customer 10 has two rows (an old address and a new one), so orders 1 and 4 each come back twice: order_id customer_id amount name city 0 1 10 250 Asha Udaipur 1 1 10 250 Asha Jaipur 2 2 11 120 Ravi Pune 3 3 12 90 Meera Delhi 4 4 10 60 Asha Udaipur 5 4 10 60 Asha Jaipur Step 1: Find the duplicate keys Before blaming the join, look at the lookup table: customers [ " customer_id " ]. value_counts (). loc [ lambda s : s > 1 ] # customer_id # 10 2 customers [ customers . duplicated ( " customer_id " , keep = False )] # customer_id name city # 0 10 Asha Udaipur # 1 10 Asha Jaipur keep=False marks every copy, so you see all the conflicting rows side by side and can decide which one is correct. Step 2: Make pandas refuse the bad merge This is the part most tutorials skip. merge() has a validate= argument that checks the relationship you expect and raises if the data disagrees: orders . merge ( customers , on = " customer_id " , how = " left " , validate = " many_to_one " ) MergeError: Merge keys are not unique in right dataset; not a many-to-one merge The options are "one_to_one" , "one_to_many" , "many_to_one" and "many_to_many" (which checks nothing). Many orders per customer, one row per customer, is many_to_one . Put this on every merge in a pipeline that feeds a report: it turns a silent wrong number into a loud failure on the day the lookup table changes. Step 3: Fix the data, not the symptom Calling drop_duplicates() on the result hides the problem and can drop legitimate rows. Decide which lookup row wins, dedupe the right side, then merge with the check still on: customers_latest = customers . drop_duplicates ( " customer_id " , keep = " last " ) m = orders . merge ( customers_latest , on = " customer_id " , how = " left " , validate = " many_to_one " ) print ( len ( m ), m . amount . sum ()) # 4 520 If you have an updated_at column, sort by it first so keep="last" really means "most recent", rather than "whatever order the CSV happened to be in". The opposite symptom: rows that should match don't Sometimes the count is right but half the joined columns are NaN . Add indicator=True to see which rows actually matched: orders = orders . assign ( sku = [ " A1 " , " B2 " , " c3 " , " A1 " ]) prices = pd . DataFrame ({ " sku " : [ " A1 " , " B2 " , " C3 " ], " price " : [ 5 , 6 , 7 ]}) m = orders . merge ( prices , on = " sku " , how = " left " , indicator = True ) print ( m [ " _merge " ]. value_counts ()) _merge left_only 2 both 2 right_only 0 left_only rows found no partner. Here it is a trailing space in "B2 " and lowercase "c3" . Normalize both sides before joining: for df in ( orders , prices ): df [ " sku " ] = df [ " sku " ]. str . strip (). str . upper () After that every row is both . Two more traps Mismatched key types. If one side read IDs as numbers and the other as strings (common after read_excel or a JSON API), pandas 3.0 stops you: ValueError: You are trying to merge on int64 and str columns for key 'customer_id'. Convert explicitly with .astype(...) on one side. Don't just cast both to str , or 10 and "10.0" will never match. NaN keys match each other. Unlike SQL, pandas treats missing keys as equal: import numpy as np a = pd . DataFrame ({ " k " : [ 1.0 , np . nan ], " x " : [ 1 , 2 ]}) b = pd . DataFrame ({ " k " : [ np . nan , np . nan ], " y " : [ 3 , 4 ]}) a . merge ( b , on = " k " ) # k x y # 0 NaN 2 3 # 1 NaN 2 4 One missing key on the left just turned into two joined rows. Drop or fill null keys ( df.dropna(subset=["k"]) ) before merging unless you really want them paired. Quick checklist Result has more rows than the left table after a left join? The right side has duplicate keys. Find them with value_counts() or duplicated(..., keep=False) . Add validate="many_to_one" (or whatever relationship you expect) to every merge feeding a report. Dedupe the lookup table deliberately, not the merged result. Lots of NaN after the join? Use indicator=True , then strip and normalize case on string keys. Check that key dtypes match, and drop null keys first. If you want a refresher on how inner, left, right and outer joins differ (with diagrams and row counts for each), I wrote it up in pandas merge: inner, left, right and outer join examples . When your data starts life in spreadsheets, reading and writing Excel files with openpyxl covers the import side. And if a key column comes from an API, the free JSON formatter on Blogs World makes it easy to spot a stray string ID or trailing space before it reaches your join.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/blogs_world/pandas-merge-returned-more-rows-than-you-started-with-catch-duplicate-keys-with-validate-1g30
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
