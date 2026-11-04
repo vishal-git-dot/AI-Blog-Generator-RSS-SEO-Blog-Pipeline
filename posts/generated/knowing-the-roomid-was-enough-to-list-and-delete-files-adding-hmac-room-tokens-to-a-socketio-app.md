@@ -1,0 +1,34 @@
+---
+title: "Knowing the roomId Was Enough to List and Delete Files: Adding HMAC Room Tokens to a Socket.IO App"
+slug: "knowing-the-roomid-was-enough-to-list-and-delete-files-adding-hmac-room-tokens-to-a-socketio-app"
+author: "CokeBear"
+source: "devto_webdev"
+published: "Wed, 04 Nov 2026 23:09:48 +0000"
+description: "I'm building a no-login online clipboard: devices on the same network land in the same room, and files shared there go through Cloudflare R2. This post is ab..."
+keywords: "token, roomid, room, socket, only, file, url, can"
+generated: "2026-11-04T23:27:35.557227"
+---
+
+# Knowing the roomId Was Enough to List and Delete Files: Adding HMAC Room Tokens to a Socket.IO App
+
+## Overview
+
+I'm building a no-login online clipboard: devices on the same network land in the same room, and files shared there go through Cloudflare R2. This post is about locking the room's file API, which turned out to rest on a bad assumption. You can try the app here: https://www.clipboardapp.org The problem The file endpoints looked like /api/r2/files/:roomId . Send a roomId, get the file list. Send a roomId and a name, delete the file. Same for upload URL presigning. The design assumed the roomId was effectively a secret. IP-based room IDs are an HMAC of the client IP with a server secret, so you can't guess one. But the roomId also shows up in the public file URL: // frontend/src/services/r2Service.js getFileUrl ( roomId , fileName ) { return ` ${ this . publicUrl } / ${ roomId } / ${ fileName } ` } Anyone who receives a QR code or download link learns the roomId, and can call the list/delete API directly. The fix commit says it plainly: "require a room token on APIs that allowed list/upload/delete with only a roomId" (2026-09-29, PR #35). I have no evidence anyone abused it. It was open by construction, so I closed it. I built this together with Claude Code. The fix: prove you're actually in the room The server signs a statement that "this socket connection is in that room", and the REST API requires it. The roomId can leak in links. The token never goes in a URL. Format: v1.<expiry unix seconds>.<HMAC-SHA256 base64url> . // backend/src/utils/roomToken.ts const sign = ( roomId : string , exp : number , secret : string ): string => createHmac ( ' sha256 ' , secret ). update ( `room-token: ${ VERSION } : ${ roomId } : ${ exp } ` ). digest ( ' base64url ' ); The room-token:v1: prefix keeps this HMAC separate from the one that derives IP room IDs. Default lifetime is 2 hours ( ROOM_TOKEN_TTL_SEC ). Verification checks shape, then signature with timingSafeEqual , then expiry. Tokens are issued on socket connect, only for rooms the server already put that socket in: // backend/src/handlers/socketHandlers.ts roomTokens : issueRoomTokens ([ socket . globalRoomId , socket . ipRoomId , ... getPrivateRooms ( socket )]), Clients can't ask for a token for a room of their choosing. If a device moves networks and reconnects, it can't get a token for its old IP room anymore. On the REST side it's one Express middleware per source of roomId: // backend/src/server.ts const roomIdFromParams = requireRoomToken (( req ) => req . params . roomId ); const roomIdFromBody = requireRoomToken (( req ) => req . body ?. roomId ); List, size, delete, upload-URL signing and the text queue use it. Download-URL signing is deliberately left open, because people with a share link need it. A code comment notes you must know the exact file name, so it's the same level of access as the public URL. The frontend keeps tokens in memory only (no localStorage, no URL): // frontend/src/services/roomTokenStore.js export async function roomAuthHeaders ( roomId ) { const token = await getRoomToken ( roomId ) return token ? { ' X-Room-Token ' : token } : {} } It refreshes over a socket event ( room-tokens ) when under 5 minutes remain. Expiry is computed as "time received + ttl" on the client, so a wrong device clock doesn't matter. On a 401 it drops the token, refreshes, and retries once. Rolling it out: report-only mode Frontend and backend deploy separately, and old tabs stay open. So I added a switch: // backend/src/middleware/roomAuth.ts export const isRoomTokenEnforced = (): boolean => process . env . ROOM_TOKEN_ENFORCE !== ' false ' ; if ( ! isRoomTokenEnforced ()) { logger . warn ( `[RoomAuth] token ${ result } (report-only mode, allowed) ...` ); next (); return ; } With ROOM_TOKEN_ENFORCE=false , bad or missing tokens pass and only a warning is logged. You can watch the logs before enforcing, and roll back with an env var instead of a code revert. One honest note: the code default is enforcing. Only the exact string 'false' turns on report-only. Nothing in the repo's Dockerfile, vercel.json or CI config sets this variable, so if you do nothing, it enforces. Forgetting the switch fails closed, not open. The frontend is also safe to ship first. If the server has never issued a token (old backend), it sends no header at all, so CORS preflight isn't triggered: if ( ! issuedByServer ) return null Tests ( roomAuth.api.test.ts ) cover: 401 without a token, another room's token rejected, an expired token returning ROOM_TOKEN_EXPIRED , report-only passthrough, and preflight allowing X-Room-Token . What's still weak Only things I can confirm from the code: It's a bearer token. It isn't bound to the socket. If it leaks, it works until expiry (2h default). There's no server-side revocation. The shared global room hands a token to everyone ( socket.globalRoomId ). That's by design, since it's a public room, but there the token restricts nothing. Secret fallback. If neither ROOM_TOKEN_SECRET nor ROOM_ID_SECRET is set, it falls back to 'dev-insecure-secret' . A missing ROOM_ID_SECRET logs an error at startup; I didn't find an equivalent warning for the token secret alone. Download-URL signing is open , so the defense there is the file name. The public file URL itself is an R2 public address and is outside this token. The token closes the "know the roomId, see the list" path. Keeping file contents private is a separate problem, which I'm tackling with in-browser encryption. Try it If you try it and something feels off, tell me. There's a feedback ("건의하기") link at the bottom of the site. https://www.clipboardapp.org Originally published in Korean on velog. velog
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/kangchanghwan/knowing-the-roomid-was-enough-to-list-and-delete-files-adding-hmac-room-tokens-to-a-socketio-app-3fkp
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

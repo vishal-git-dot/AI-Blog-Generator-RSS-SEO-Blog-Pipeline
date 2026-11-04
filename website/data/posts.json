@@ -21521,6 +21521,17 @@
         "file": "level-up-your-dev-presence-build-a-killer-portfolio-without-spending-a-dime.md"
     },
     {
+        "title": "How to parse Hacker News \\Who is hiring?\\ threads (measured on October 2026: 244 posts, 1 request, 1.5 s)",
+        "slug": "how-to-parse-hacker-news-who-is-hiring-threads-measured-on-october-2026-244-posts-1-request-15-s",
+        "author": "Vellum Labs",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 23:01:37 +0000",
+        "description": "Disclosure: this post was written by an LLM agent (Claude Code) that operates the Vellum Labs account. Every number below comes from requests it made on 2026...",
+        "keywords": "posts, thread, top, firebase, level, remote, october, one",
+        "generated": "2026-11-04T23:27:35.555996",
+        "file": "how-to-parse-hacker-news-who-is-hiring-threads-measured-on-october-2026-244-posts-1-request-15-s.md"
+    },
+    {
         "title": "MIT Software Partners with NAiOS to Build the Next Generation of AI Orchestration",
         "slug": "mit-software-partners-with-naios-to-build-the-next-generation-of-ai-orchestration",
         "author": "MiTSoftware",
@@ -22828,6 +22839,17 @@
         "keywords": "comments, https, news, ycombinator, com, item, american, privacy",
         "generated": "2026-07-03T03:48:14.177499",
         "file": "an-american-privacy-emergency.md"
+    },
+    {
+        "title": "Your Website Looks Great. So Why Isn't It Working?",
+        "slug": "your-website-looks-great-so-why-isnt-it-working",
+        "author": "Pelin Ulubatlı",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 23:08:14 +0000",
+        "description": "The Problem Nobody Notices Until the Website Goes Live Imagine spending weeks perfecting a website. The typography is beautiful. The animations are smooth. T...",
+        "keywords": "website, they, can, should, isn, business, what, its",
+        "generated": "2026-11-04T23:27:35.557954",
+        "file": "your-website-looks-great-so-why-isnt-it-working.md"
     },
     {
         "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
@@ -30572,6 +30594,17 @@
         "file": "building-an-ai-resume-rewriter-that-refuses-to-invent-achievements.md"
     },
     {
+        "title": "Ask HN: What your experience with the monthly who wants to be hired thread?",
+        "slug": "ask-hn-what-your-experience-with-the-monthly-who-wants-to-be-hired-thread",
+        "author": "newswangerd",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 22:18:21 +0000",
+        "description": "I recently commented on the who wants to be hired this month and so far have only received spam. Has anyone had any success with this, or is it just a way ...",
+        "keywords": "who, wants, hired, comments, ask, what, your, experience",
+        "generated": "2026-11-04T23:27:35.553088",
+        "file": "ask-hn-what-your-experience-with-the-monthly-who-wants-to-be-hired-thread.md"
+    },
+    {
         "title": "10 Python Libraries That Will Save You Thousands of Hours",
         "slug": "10-python-libraries-that-will-save-you-thousands-of-hours",
         "author": "qing",
@@ -33221,6 +33254,17 @@
         "keywords": "news, url, https, comments, hacker, but, independent, blogs",
         "generated": "2026-06-17T11:07:27.899107",
         "file": "hacker-news-but-for-independent-blogs.md"
+    },
+    {
+        "title": "Knowing the roomId Was Enough to List and Delete Files: Adding HMAC Room Tokens to a Socket.IO App",
+        "slug": "knowing-the-roomid-was-enough-to-list-and-delete-files-adding-hmac-room-tokens-to-a-socketio-app",
+        "author": "CokeBear",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 23:09:48 +0000",
+        "description": "I'm building a no-login online clipboard: devices on the same network land in the same room, and files shared there go through Cloudflare R2. This post is ab...",
+        "keywords": "token, roomid, room, socket, only, file, url, can",
+        "generated": "2026-11-04T23:27:35.557227",
+        "file": "knowing-the-roomid-was-enough-to-list-and-delete-files-adding-hmac-room-tokens-to-a-socketio-app.md"
     },
     {
         "title": "Data management patterns in Apache Airflow",
@@ -36574,6 +36618,17 @@
         "file": "ollama-vs-vllm-in-2026-local-dev-simplicity-vs-production-throughput.md"
     },
     {
+        "title": "2026 Client Document Collection Software Comparison: DocAsker vs Content Snare vs Clustdoc vs FileInvite",
+        "slug": "2026-client-document-collection-software-comparison-docasker-vs-content-snare-vs-clustdoc-vs-fileinvite",
+        "author": "Cüneyt Emir",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 23:16:59 +0000",
+        "description": "If your firm collects sensitive financial, legal, or compliance files from clients, choosing the right client document portal can save 6 to 10 hours per week...",
+        "keywords": "portal, client, document, breakdown, upload, yes, sms, email",
+        "generated": "2026-11-04T23:27:35.556202",
+        "file": "2026-client-document-collection-software-comparison-docasker-vs-content-snare-vs-clustdoc-vs-fileinvite.md"
+    },
+    {
         "title": "Building a Sports Data Pipeline: Lessons from No car park tears this time for Love as 33 teams claim silver & bronze",
         "slug": "building-a-sports-data-pipeline-lessons-from-no-car-park-tears-this-time-for-love-as-33-teams-claim-silver-bronze",
         "author": "Muhammad Bin Nazeer",
@@ -36957,6 +37012,17 @@
         "keywords": "fery, tennis, dimitrov, set, time, thriller, live, real",
         "generated": "2026-07-08T03:22:28.624669",
         "file": "how-i-built-a-real-time-tennis-stats-tracker-gbs-fery-beats-dimitrov-in-five-set-thriller-to-extend-historic-run.md"
+    },
+    {
+        "title": "Flowise chatflows are public until an API key is attached",
+        "slug": "flowise-chatflows-are-public-until-an-api-key-is-attached",
+        "author": "johnettagaweraks",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 23:22:09 +0000",
+        "description": "Flowise chatflows are public until an API key is attached Flowise is used to build and run chatflows and agentflows. Its chatflow-level authorization documen...",
+        "keywords": "key, flowise, api, flow, level, app, public, can",
+        "generated": "2026-11-04T23:27:35.558175",
+        "file": "flowise-chatflows-are-public-until-an-api-key-is-attached.md"
     },
     {
         "title": "Your AI Skills Have the Same Problem as Your CLAUDE.md. Here's the Data.",
@@ -38585,6 +38651,17 @@
         "keywords": "week, matrix, url, https, comments, article, piegames, dumps",
         "generated": "2026-08-01T08:27:56.501534",
         "file": "a-week-in-matrix.md"
+    },
+    {
+        "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+        "slug": "hacking-the-xbox-360-hypervisor-part-3-bad-update-improvements",
+        "author": "muricula",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 22:01:49 +0000",
+        "description": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 27 # Comments: 2",
+        "keywords": "url, https, comments, hacking, xbox, hypervisor, part, bad",
+        "generated": "2026-11-04T23:27:35.553205",
+        "file": "hacking-the-xbox-360-hypervisor-part-3-bad-update-improvements.md"
     },
     {
         "title": "Don't Burn Free Tokens Twice: Cache Streaming Chat Responses in a Service Worker",
@@ -48098,6 +48175,17 @@
         "file": "ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent.md"
     },
     {
+        "title": "Death Comes for XSLT",
+        "slug": "death-comes-for-xslt",
+        "author": "colejohnson66",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 20:57:10 +0000",
+        "description": "Article URL: https://dbushell.com/2026/11/03/xslt-rip/ Comments URL: https://news.ycombinator.com/item?id=50371408 Points: 7 # Comments: 0",
+        "keywords": "xslt, url, https, com, comments, death, comes, article",
+        "generated": "2026-11-04T23:27:35.553281",
+        "file": "death-comes-for-xslt.md"
+    },
+    {
         "title": "Ford hired AI and sacked humans. It backfired badly",
         "slug": "ford-hired-ai-and-sacked-humans-it-backfired-badly",
         "author": "speckx",
@@ -54806,6 +54894,17 @@
         "keywords": "tunnel, your, url, you, anyone, can, open, who",
         "generated": "2026-08-12T07:40:00.502563",
         "file": "anyone-with-your-tunnel-url-can-hit-your-dev-machine-the-attack-surface-nobody-mentions.md"
+    },
+    {
+        "title": "Cache consistency when the data changes rarely",
+        "slug": "cache-consistency-when-the-data-changes-rarely",
+        "author": "aleax h",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 23:08:45 +0000",
+        "description": "Fee schedules are the ideal shape of data for a cache: small, read constantly, and almost never change. That last property is also what makes them dangerous....",
+        "keywords": "version, you, not, cache, schedule, ttl, one, when",
+        "generated": "2026-11-04T23:27:35.554751",
+        "file": "cache-consistency-when-the-data-changes-rarely.md"
     },
     {
         "title": "How to Watch Free NHL Live Stream 2026 – Fast, Free & Easy",
@@ -68252,10 +68351,10 @@
         "slug": "zero-gas-autonomous-agents-account-abstraction-on-base-l2",
         "author": "Satria Nindhita",
         "source": "devto_python",
-        "published": "Mon, 26 Oct 2026 03:43:04 +0000",
-        "description": "Zero-Gas Autonomous Agents: Account Abstraction on Base L2 Sebagian besar implementasi AI Agent on-chain hari ini adalah lelucon arsitektur: sebuah skrip P...",
-        "keywords": "gas, account, hex, base, paymaster, bundler, agent, chain",
-        "generated": "2026-10-26T04:10:10.669445",
+        "published": "Wed, 04 Nov 2026 23:03:30 +0000",
+        "description": "Zero-Gas Autonomous Agents: Account Abstraction on Base L2 Autonomous AI agents break the moment they touch Web3. The issue is straightforward: an LLM loop d...",
+        "keywords": "gas, agent, base, account, hex, autonomous, eth, signature",
+        "generated": "2026-11-04T23:27:35.555087",
         "file": "zero-gas-autonomous-agents-account-abstraction-on-base-l2.md"
     },
     {
@@ -70679,6 +70778,17 @@
         "file": "building-a-video-metadata-moderation-pipeline-with-python-and-claude-api.md"
     },
     {
+        "title": "Testing Your Metadata CSV Against Adobe, Vecteezy And Dreamstime Before Upload",
+        "slug": "testing-your-metadata-csv-against-adobe-vecteezy-and-dreamstime-before-upload",
+        "author": "Muhamad Revanza Rafif Hamdani",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 23:12:28 +0000",
+        "description": "I lost an entire Saturday to a CSV header. Not to the art. Not to keywords. To one row of column names. I had 40 files ready for Adobe Stock, a metadata file...",
+        "keywords": "one, not, platform, csv, adobe, file, metadata, before",
+        "generated": "2026-11-04T23:27:35.559429",
+        "file": "testing-your-metadata-csv-against-adobe-vecteezy-and-dreamstime-before-upload.md"
+    },
+    {
         "title": "Four Paradigm Shifts in AI Engineering: From Prompt to Loop (2026) — Which Level Are You On?",
         "slug": "four-paradigm-shifts-in-ai-engineering-from-prompt-to-loop-2026-which-level-are-you-on",
         "author": "weiwuji",
@@ -72932,6 +73042,17 @@
         "file": "block-agent-merges-that-shrink-properties-or-silence-flakes.md"
     },
     {
+        "title": "Organic Search Is Shrinking, While Email Builds a More Durable Audience",
+        "slug": "organic-search-is-shrinking-while-email-builds-a-more-durable-audience",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 23:18:35 +0000",
+        "description": "Organic discovery is becoming a less dependable single source of website visits in the data examined by Search Engine Land. At the same time, email is growin...",
+        "keywords": "search, email, visits, can, organic, traffic, not, direct",
+        "generated": "2026-11-04T23:27:35.558598",
+        "file": "organic-search-is-shrinking-while-email-builds-a-more-durable-audience.md"
+    },
+    {
         "title": "SellCraft AI: a listing writer that runs on the seller's laptop, not my server",
         "slug": "sellcraft-ai-a-listing-writer-that-runs-on-the-sellers-laptop-not-my-server",
         "author": "Senthil raja .R",
@@ -73788,6 +73909,17 @@
         "keywords": "digital, you, marketing, spend, type, just, clickmaking, your",
         "generated": "2026-06-08T04:42:39.221325",
         "file": "indias-digital-ad-spend-is-tripling-heres-why.md"
+    },
+    {
+        "title": "Why Client Document Collection Over Email Is Broken in 2026 (And How AI Validation Fixes It)",
+        "slug": "why-client-document-collection-over-email-is-broken-in-2026-and-how-ai-validation-fixes-it",
+        "author": "Cüneyt Emir",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 23:15:58 +0000",
+        "description": "Every accounting firm, immigration consultant, mortgage broker, and legal intake team knows the pain of client document collection : You send a long bulleted...",
+        "keywords": "client, document, email, checklist, open, docasker, bank, file",
+        "generated": "2026-11-04T23:27:35.558795",
+        "file": "why-client-document-collection-over-email-is-broken-in-2026-and-how-ai-validation-fixes-it.md"
     },
     {
         "title": "I Documented All 7 Ways an AI Agent Can Die. Here is the One Fix That Stops Them All",
@@ -76947,6 +77079,17 @@
         "file": "fix-asyncsession-errors-in-fastapi-sqlalchemy-20-guide.md"
     },
     {
+        "title": "Less Popular Than Coal",
+        "slug": "less-popular-than-coal",
+        "author": "_delirium",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 22:26:24 +0000",
+        "description": "Article URL: https://www.argmin.net/p/less-popular-than-coal Comments URL: https://news.ycombinator.com/item?id=50372360 Points: 6 # Comments: 1",
+        "keywords": "less, popular, than, coal, url, https, comments, article",
+        "generated": "2026-11-04T23:27:35.552986",
+        "file": "less-popular-than-coal.md"
+    },
+    {
         "title": "Keeping a fee calculator correct when exchanges change their tiers",
         "slug": "keeping-a-fee-calculator-correct-when-exchanges-change-their-tiers",
         "author": "aleax h",
@@ -77385,6 +77528,17 @@
         "keywords": "how, tech, software, future, open, silicon, valley, source",
         "generated": "2026-10-26T22:30:36.503206",
         "file": "how-we-let-silicon-valley-steal-the-future-and-how-developers-can-take-it-back.md"
+    },
+    {
+        "title": "We're Teaching AI to Do Everything. Who's Teaching It When to Stop?",
+        "slug": "were-teaching-ai-to-do-everything-whos-teaching-it-when-to-stop",
+        "author": "Pelin Ulubatlı",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 23:11:58 +0000",
+        "description": "Imagine Your AI Assistant Makes a Decision You Never Approved It's 9:17 AM. You open your laptop, take a sip of coffee, and discover that your company's AI a...",
+        "keywords": "assistant, can, customer, what, action, should, might, but",
+        "generated": "2026-11-04T23:27:35.556840",
+        "file": "were-teaching-ai-to-do-everything-whos-teaching-it-when-to-stop.md"
     },
     {
         "title": "kk",
@@ -83107,6 +83261,17 @@
         "file": "what-rich-text-editors-actually-cost-in-2026-i-checked-every-pricing-page-today.md"
     },
     {
+        "title": "Local AI Video Generation: ComfyUI and LTX-Video 2B on an RTX 3050 6GB",
+        "slug": "local-ai-video-generation-comfyui-and-ltx-video-2b-on-an-rtx-3050-6gb",
+        "author": "JacivaldoCarvalho",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 23:12:20 +0000",
+        "description": "Phase 00 — Building a local AI-powered video generation pipeline. 1. Introduction AI-powered video generation has evolved significantly, but running generati...",
+        "keywords": "video, comfyui, generation, webp, execution, ltx, model, gpu",
+        "generated": "2026-11-04T23:27:35.554324",
+        "file": "local-ai-video-generation-comfyui-and-ltx-video-2b-on-an-rtx-3050-6gb.md"
+    },
+    {
         "title": "I Built a Liquid Navigation Bar with CSS & JS (No Libraries)",
         "slug": "i-built-a-liquid-navigation-bar-with-css-js-no-libraries",
         "author": "DGreat",
@@ -88077,6 +88242,17 @@
         "keywords": "image, model, you, nano, banana, single, how, chatgpt",
         "generated": "2026-10-20T04:19:10.501346",
         "file": "why-single-model-cartoonify-prompts-fail-in-production-and-how-i-fixed-it-with-a-2-stage-pipeline.md"
+    },
+    {
+        "title": "I built a game about coding before AI (and it was painful on purpose)",
+        "slug": "i-built-a-game-about-coding-before-ai-and-it-was-painful-on-purpose",
+        "author": "Before AI",
+        "source": "devto_webdev",
+        "published": "Wed, 04 Nov 2026 23:09:15 +0000",
+        "description": "It's 2019. There is no AI. You get a ticket: Center the signup modal. It must work in IE11. You have a search engine, a Q&A site called StackUnderflow, and...",
+        "keywords": "copy, game, you, your, paste, every, build, minutes",
+        "generated": "2026-11-04T23:27:35.557497",
+        "file": "i-built-a-game-about-coding-before-ai-and-it-was-painful-on-purpose.md"
     },
     {
         "title": "I Gave an AI Agent Three Years of Deal History. Here's the First Pattern It Found.",
@@ -107208,6 +107384,17 @@
         "file": "flint-a-visualization-language-for-the-ai-era.md"
     },
     {
+        "title": "Back to my cybersecurity project after 4 months. Looking for honest feedback",
+        "slug": "back-to-my-cybersecurity-project-after-4-months-looking-for-honest-feedback",
+        "author": "exploit00",
+        "source": "devto_python",
+        "published": "Wed, 04 Nov 2026 23:14:43 +0000",
+        "description": "Hey everyone! About 4 months ago, I stopped working on SentinelForge, an open-source security analysis tool I've been building on my own. I spent some of tha...",
+        "keywords": "months, sentinelforge, but, code, like, what, you, back",
+        "generated": "2026-11-04T23:27:35.553426",
+        "file": "back-to-my-cybersecurity-project-after-4-months-looking-for-honest-feedback.md"
+    },
+    {
         "title": "I Tried dsh-desktop — Here's What You Need to Know",
         "slug": "i-tried-dsh-desktop-heres-what-you-need-to-know",
         "author": "niuniu",
@@ -109241,6 +109428,17 @@
         "keywords": "monitors, silently, install, software, through, windows, update, without",
         "generated": "2026-07-18T13:26:53.499794",
         "file": "lg-monitors-silently-install-software-through-windows-update-without-consent.md"
+    },
+    {
+        "title": "Metadata CSVs, Upload Ledgers, and Covers: The Four Scripts Behind 39 Products",
+        "slug": "metadata-csvs-upload-ledgers-and-covers-the-four-scripts-behind-39-products",
+        "author": "Muhamad Revanza Rafif Hamdani",
+        "source": "devto_ai",
+        "published": "Wed, 04 Nov 2026 23:12:39 +0000",
+        "description": "Last October I ran my batch upload twice. Same folder, same command, eleven hours apart. I had forgotten which assets I had already submitted to Adobe Stock,...",
+        "keywords": "not, one, python, product, you, scripts, products, folder",
+        "generated": "2026-11-04T23:27:35.559134",
+        "file": "metadata-csvs-upload-ledgers-and-covers-the-four-scripts-behind-39-products.md"
     },
     {
         "title": "Top 45 Places to Buy Aged LinkedIn Accounts 2026",
@@ -116103,6 +116301,17 @@
         "keywords": "article, not, source, decision, proof, must, control, can",
         "generated": "2026-08-29T06:36:04.052077",
         "file": "autonomous-ai-agents-vs-traditional-chatbots-complete-2026-comparison-operational-checklist.md"
+    },
+    {
+        "title": "Successful People (2013)",
+        "slug": "successful-people-2013",
+        "author": "epestr",
+        "source": "hackernews",
+        "published": "Wed, 04 Nov 2026 23:01:19 +0000",
+        "description": "Article URL: https://blog.samaltman.com/successful-people Comments URL: https://news.ycombinator.com/item?id=50372660 Points: 5 # Comments: 4",
+        "keywords": "successful, people, url, https, com, comments, article, blog",
+        "generated": "2026-11-04T23:27:35.552823",
+        "file": "successful-people-2013.md"
     },
     {
         "title": "Open Source Privacy Tools: Complete List 2026",
