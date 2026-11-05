@@ -517,6 +517,17 @@
         "file": "gstr-2b-reconciliation-made-simple.md"
     },
     {
+        "title": "Security & Privacy Plugin",
+        "slug": "security-privacy-plugin",
+        "author": "ankush1982",
+        "source": "devto_ai",
+        "published": "Thu, 05 Nov 2026 14:25:55 +0000",
+        "description": "Just released v0.2.1 of an open-source tool i built. it runs the same security and privacy checks whichever AI wrote the code: secrets, Aadhaar, PAN, mobile ...",
+        "keywords": "security, privacy, plugin, just, released, open, source, tool",
+        "generated": "2026-11-05T14:31:30.070749",
+        "file": "security-privacy-plugin.md"
+    },
+    {
         "title": "OpenTTD 16.0-Beta1",
         "slug": "openttd-160-beta1",
         "author": "untilted",
@@ -1021,6 +1032,17 @@
         "keywords": "gitlost, tricked, agent, leaking, private, repos, url, https",
         "generated": "2026-07-08T08:37:13.648062",
         "file": "gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos.md"
+    },
+    {
+        "title": "क्या YouTube के ऑटो-जनरेटेड कैप्शन इतने सही हैं कि उन्हें कोट किया जा सके?",
+        "slug": "youtube",
+        "author": "Hanako H.",
+        "source": "devto_python",
+        "published": "Thu, 05 Nov 2026 14:17:34 +0000",
+        "description": "ज़्यादातर YouTube वीडियो में ट्रांसक्रिप्ट होती है, और उनमें से अधिकतर को स्पीच रिकग्निशन ने लिखा होता है। वीडियो के साथ चलने के लिए यह ठीक है। लेकिन किसी पे...",
+        "keywords": "tracks, youtube, because, they, willing, not, hard, kind",
+        "generated": "2026-11-05T14:31:30.068109",
+        "file": "youtube.md"
     },
     {
         "title": "Inferring Site Structure When the Site Doesn't Have Any",
@@ -1804,6 +1826,17 @@
         "file": "the-10-millisecond-trick-how-recommenders-search-millions-of-items-before-you-blink.md"
     },
     {
+        "title": "Generate a short video with sound from one sentence with MiniMax H3 via the AppleToken API (free until Nov 6)",
+        "slug": "generate-a-short-video-with-sound-from-one-sentence-with-minimax-h3-via-the-appletoken-api-free-until-nov-6",
+        "author": "AppleToken",
+        "source": "devto_python",
+        "published": "Thu, 05 Nov 2026 14:25:37 +0000",
+        "description": "This walkthrough shows how to turn one text prompt into a short video with sound through an API, using MiniMax's H3 video model on AppleToken. Until 23:59 on...",
+        "keywords": "appletoken, job, videos, get, video, api, app, https",
+        "generated": "2026-11-05T14:31:30.067463",
+        "file": "generate-a-short-video-with-sound-from-one-sentence-with-minimax-h3-via-the-appletoken-api-free-until-nov-6.md"
+    },
+    {
         "title": "The AI Agents Took Over My Blog Traffic. I Made Them Pay For That…",
         "slug": "the-ai-agents-took-over-my-blog-traffic-i-made-them-pay-for-that",
         "author": "Dragos Roua",
@@ -2573,6 +2606,17 @@
         "keywords": "not, check, you, one, content, your, hash, build",
         "generated": "2026-09-02T20:51:03.421087",
         "file": "http-200-is-not-proof.md"
+    },
+    {
+        "title": "Box introduces feature that helps AI find relevant excerpts in documents",
+        "slug": "box-introduces-feature-that-helps-ai-find-relevant-excerpts-in-documents",
+        "author": "Hacks.gr",
+        "source": "devto_ai",
+        "published": "Thu, 05 Nov 2026 14:26:52 +0000",
+        "description": "Box has introduced Box Content Retrieval, integrating Nvidia's Nemotron Embed to optimize how AI assistants interact with document sets. By leveraging models...",
+        "keywords": "box, find, nemotron, can, hacks, feature, relevant, will",
+        "generated": "2026-11-05T14:31:30.070660",
+        "file": "box-introduces-feature-that-helps-ai-find-relevant-excerpts-in-documents.md"
     },
     {
         "title": "Your README's code examples are the one thing you never test. Here's a 25-line Python checker",
@@ -8031,6 +8075,17 @@
         "file": "you-could-have-invented-transformers-from-memory.md"
     },
     {
+        "title": "Log the prompt that produced a merged UI change (tiny ADR)",
+        "slug": "log-the-prompt-that-produced-a-merged-ui-change-tiny-adr",
+        "author": "Sherotree",
+        "source": "devto_ai",
+        "published": "Thu, 05 Nov 2026 14:28:19 +0000",
+        "description": "We merge a lot of agent UI now. Six months later someone asks “why does this form validate zip before city?” and the PR description just says “agent polish.”...",
+        "keywords": "prompt, agent, you, adr, before, not, next, city",
+        "generated": "2026-11-05T14:31:30.070178",
+        "file": "log-the-prompt-that-produced-a-merged-ui-change-tiny-adr.md"
+    },
+    {
         "title": "How I Found the Undocumented GraphQL Field That Reveals Every Liquidation on GMX",
         "slug": "how-i-found-the-undocumented-graphql-field-that-reveals-every-liquidation-on-gmx",
         "author": "Jalvart Studio",
@@ -8766,6 +8821,17 @@
         "keywords": "slater, url, https, com, comments, low, memory, graphdb",
         "generated": "2026-07-21T19:39:11.834958",
         "file": "slater-low-memory-graphdb-designed-for-read-heavy-graphs.md"
+    },
+    {
+        "title": "MCP Explained",
+        "slug": "mcp-explained",
+        "author": "rwilinski",
+        "source": "hackernews",
+        "published": "Thu, 05 Nov 2026 14:08:35 +0000",
+        "description": "Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 10 # Comments: 1",
+        "keywords": "mcp, explained, url, https, com, comments, article, news",
+        "generated": "2026-11-05T14:31:30.066564",
+        "file": "mcp-explained.md"
     },
     {
         "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
@@ -13804,6 +13870,17 @@
         "keywords": "python, tags, tutorial, architecture, devops, password, site, your",
         "generated": "2026-08-29T16:32:00.479160",
         "file": "python-inspect-module-runtime-introspection-guide.md"
+    },
+    {
+        "title": "Search Intent Explained: Why Great Content Still Fails to Rank",
+        "slug": "search-intent-explained-why-great-content-still-fails-to-rank",
+        "author": "fana",
+        "source": "devto_webdev",
+        "published": "Thu, 05 Nov 2026 14:22:22 +0000",
+        "description": "You spent hours on a post. It's well written, well researched, even nicely formatted. And it sits on page six of Google, doing nothing. If that's happened to...",
+        "keywords": "what, page, search, intent, you, google, people, person",
+        "generated": "2026-11-05T14:31:30.068624",
+        "file": "search-intent-explained-why-great-content-still-fails-to-rank.md"
     },
     {
         "title": "My Own Monitoring Environment Wasn't Outside Either",
@@ -21792,6 +21869,17 @@
         "file": "openai-unveils-its-first-custom-chip-built-by-broadcom.md"
     },
     {
+        "title": "Como converter WebP para JPG/PNG online grátis em 2026 — sem upload",
+        "slug": "como-converter-webp-para-jpgpng-online-grtis-em-2026-sem-upload",
+        "author": "gatekey",
+        "source": "devto_webdev",
+        "published": "Thu, 05 Nov 2026 14:17:20 +0000",
+        "description": "Seu navegador, seu CMS e metade da internet agora entregam arquivos WebP por padrão. Isso é ótimo para a velocidade de carregamento e ruim para quase todo o ...",
+        "keywords": "webp, para, jpg, png, com, upload, que, converter",
+        "generated": "2026-11-05T14:31:30.069674",
+        "file": "como-converter-webp-para-jpgpng-online-grtis-em-2026-sem-upload.md"
+    },
+    {
         "title": "Get Your Gaming Console Back to Peak Performance",
         "slug": "get-your-gaming-console-back-to-peak-performance",
         "author": "Shazia Khan",
@@ -27035,6 +27123,17 @@
         "keywords": "voice, your, call, business, you, open, frontdesk, own",
         "generated": "2026-10-10T12:13:29.604916",
         "file": "i-built-an-open-source-self-hosted-take-on-elevenlabs-receptionai.md"
+    },
+    {
+        "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+        "slug": "vivaldi-83-for-desktop-make-bad-ads-sad",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Thu, 05 Nov 2026 12:39:12 +0000",
+        "description": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3/ Comments URL: https://news.ycombinator.com/item?id=50378398 Points: 10 # Comments: 1",
+        "keywords": "vivaldi, desktop, url, https, com, comments, make, bad",
+        "generated": "2026-11-05T14:31:30.066903",
+        "file": "vivaldi-83-for-desktop-make-bad-ads-sad.md"
     },
     {
         "title": "Top 5 Ways to Humanize ChatGPT Responses in Your App (2026): System Prompts, Post-Processing and Tools",
@@ -35688,6 +35787,17 @@
         "file": "how-to-batch-moderate-existing-posts-and-comments-with-an-llm-classification-api.md"
     },
     {
+        "title": "Record your AI avatar once: an open-source AI HR hunter (and why it never presses Send on LinkedIn)",
+        "slug": "record-your-ai-avatar-once-an-open-source-ai-hr-hunter-and-why-it-never-presses-send-on-linkedin",
+        "author": "Evgenii Arsentev",
+        "source": "devto_python",
+        "published": "Thu, 05 Nov 2026 14:27:09 +0000",
+        "description": "I wrote hireburn and put it under MIT. It's a Python CLI, standard library only, with no network calls, so nothing leaves your machine. Why the avatar part e...",
+        "keywords": "hireburn, avatar, not, they, label, human, your, why",
+        "generated": "2026-11-05T14:31:30.067186",
+        "file": "record-your-ai-avatar-once-an-open-source-ai-hr-hunter-and-why-it-never-presses-send-on-linkedin.md"
+    },
+    {
         "title": "Building a Sports Data Pipeline: Lessons from No car park tears this time for Love as 33 teams claim silver & bronze",
         "slug": "building-a-sports-data-pipeline-lessons-from-no-car-park-tears-this-time-for-love-as-33-teams-claim-silver-bronze",
         "author": "Muhammad Bin Nazeer",
@@ -41296,6 +41406,17 @@
         "keywords": "tools, web, html, why, how, small, all, them",
         "generated": "2026-10-28T22:24:29.414951",
         "file": "why-i-love-building-100-client-side-web-tools-and-how-i-do-it.md"
+    },
+    {
+        "title": "Sshole",
+        "slug": "sshole",
+        "author": "josemrb",
+        "source": "hackernews",
+        "published": "Thu, 05 Nov 2026 12:19:02 +0000",
+        "description": "Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 577 # Comments: 148",
+        "keywords": "url, https, com, comments, sshole, article, sshhole, news",
+        "generated": "2026-11-05T14:31:30.066978",
+        "file": "sshole.md"
     },
     {
         "title": "Agent Memory as a File Format",
@@ -53002,6 +53123,17 @@
         "file": "building-an-erp-integration-layer-for-ai-agents-sap-oracle-netsuite-architecture-patterns.md"
     },
     {
+        "title": "Scoring browser games on the server so players can't cheat",
+        "slug": "scoring-browser-games-on-the-server-so-players-cant-cheat",
+        "author": "dziulatex",
+        "source": "devto_webdev",
+        "published": "Thu, 05 Nov 2026 14:21:59 +0000",
+        "description": "I build GamePrep, a free practice site for the games employers use in hiring: HireVue, Arctic Shores, Aon, Wonderlic-style tests. 39 browser games, each on...",
+        "keywords": "level, one, server, score, game, self, items, seed",
+        "generated": "2026-11-05T14:31:30.069134",
+        "file": "scoring-browser-games-on-the-server-so-players-cant-cheat.md"
+    },
+    {
         "title": "Master the Curiosity Loop for Unstoppable Video Retention",
         "slug": "master-the-curiosity-loop-for-unstoppable-video-retention",
         "author": "Zohir Lahcen",
@@ -55893,6 +56025,17 @@
         "keywords": "backend, python, fastapi, what, learning, development, data, someone",
         "generated": "2026-09-01T20:51:44.951638",
         "file": "im-learning-python-backend-development-in-public.md"
+    },
+    {
+        "title": "Before You Save an LLM Response to Your Database",
+        "slug": "before-you-save-an-llm-response-to-your-database",
+        "author": "Alex Agafonov",
+        "source": "devto_python",
+        "published": "Thu, 05 Nov 2026 14:21:10 +0000",
+        "description": "Consider a small service that extracts an invoice line: item code, quantity, unit price, and total. The response arrives as JSON, and Pydantic creates an obj...",
+        "keywords": "order, quantity, line, price, pydantic, does, not, model",
+        "generated": "2026-11-05T14:31:30.067853",
+        "file": "before-you-save-an-llm-response-to-your-database.md"
     },
     {
         "title": "Why The personal story of a dad who took his autistic son to the British Grand Prix Matters for Sports Data Engineers",
@@ -71157,6 +71300,17 @@
         "keywords": "requests, httpx, modern, quick, python, asynchronous, request, import",
         "generated": "2026-07-01T04:23:05.791819",
         "file": "quick-tip-httpx-is-the-modern-replacement-for-requests-2026.md"
+    },
+    {
+        "title": "Por qué du y el Finder muestran tamaños distintos para la misma carpeta",
+        "slug": "por-qu-du-y-el-finder-muestran-tamaos-distintos-para-la-misma-carpeta",
+        "author": "Hanako H.",
+        "source": "devto_python",
+        "published": "Thu, 05 Nov 2026 14:13:28 +0000",
+        "description": "Ejecuta du -sh sobre una carpeta y compáralo con el tamaño del Finder: a menudo no coinciden, a veces por varios gigabytes. Ninguno se equivoca. Responden a ...",
+        "keywords": "que, con, carpeta, los, una, del, las, bloques",
+        "generated": "2026-11-05T14:31:30.068443",
+        "file": "por-qu-du-y-el-finder-muestran-tamaos-distintos-para-la-misma-carpeta.md"
     },
     {
         "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
@@ -89368,6 +89522,17 @@
         "file": "so-you-want-to-define-a-well-known-uri.md"
     },
     {
+        "title": "How I Designed TradeMind's Six-Stage Hindsight Learning Loop",
+        "slug": "how-i-designed-trademinds-six-stage-hindsight-learning-loop",
+        "author": "Naraen",
+        "source": "devto_ai",
+        "published": "Thu, 05 Nov 2026 14:25:44 +0000",
+        "description": "Liquid syntax error: Tag '{%' was not properly terminated with regexp: /\\%\\}/",
+        "keywords": "how, designed, trademind, six, stage, hindsight, learning, loop",
+        "generated": "2026-11-05T14:31:30.070835",
+        "file": "how-i-designed-trademinds-six-stage-hindsight-learning-loop.md"
+    },
+    {
         "title": "Opening the app from a link, and what happens when it is not installed",
         "slug": "opening-the-app-from-a-link-and-what-happens-when-it-is-not-installed",
         "author": "Yury Hryshchanka",
@@ -91839,6 +92004,17 @@
         "keywords": "play, pool, micro, playinmo, ball, your, browser, online",
         "generated": "2026-09-06T10:39:35.966603",
         "file": "micro-pool-tiny-8-ball-you-can-play-in-your-browser-today.md"
+    },
+    {
+        "title": "Discord is ditching Electron and its new app uses less RAM",
+        "slug": "discord-is-ditching-electron-and-its-new-app-uses-less-ram",
+        "author": "archb",
+        "source": "hackernews",
+        "published": "Thu, 05 Nov 2026 13:05:28 +0000",
+        "description": "Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app Comments URL: https://news.ycombinator.com/item?id=50378625 Points: 44 #...",
+        "keywords": "discord, ditching, electron, app, url, https, com, news",
+        "generated": "2026-11-05T14:31:30.066705",
+        "file": "discord-is-ditching-electron-and-its-new-app-uses-less-ram.md"
     },
     {
         "title": "Flowork Agent: A Self-Hosted AI Agent OS With Memory, Security, and Offline Capability",
@@ -96626,6 +96802,17 @@
         "file": "ai-driven-workflows-in-web-design-how-designers-are-working-smarter.md"
     },
     {
+        "title": "Why This Obscure Audio Codec Is a Perfect Fit for the N64",
+        "slug": "why-this-obscure-audio-codec-is-a-perfect-fit-for-the-n64",
+        "author": "frostbyte7",
+        "source": "hackernews",
+        "published": "Thu, 05 Nov 2026 12:51:48 +0000",
+        "description": "Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec Comments URL: https://news.ycombinator.com/item?id=50378508 Points: 3 # Comments: 0",
+        "keywords": "codec, url, https, comments, why, obscure, audio, perfect",
+        "generated": "2026-11-05T14:31:30.066814",
+        "file": "why-this-obscure-audio-codec-is-a-perfect-fit-for-the-n64.md"
+    },
+    {
         "title": "Product Build to Real Reps",
         "slug": "product-build-to-real-reps",
         "author": "Walker Wolfson",
@@ -98142,6 +98329,17 @@
         "keywords": "linkedin, job, you, real, every, postings, location, posting",
         "generated": "2026-08-16T06:48:23.403050",
         "file": "linkedin-jobs-scraper-never-pay-for-blocked-pages.md"
+    },
+    {
+        "title": "Quand ton levier cognitif le plus sous-estimé, c'est ta vision",
+        "slug": "quand-ton-levier-cognitif-le-plus-sous-estim-cest-ta-vision",
+        "author": "Ashish",
+        "source": "devto_ai",
+        "published": "Thu, 05 Nov 2026 14:28:06 +0000",
+        "description": "Quand ton levier cognitif le plus sous-estimé, c'est ta vision Sur The Builders , Garry Tan a lâché le chiffre : 200 000 $ par an en tokens pour ses agents I...",
+        "keywords": "pas, sur, plus, les, une, que, est, pour",
+        "generated": "2026-11-05T14:31:30.070493",
+        "file": "quand-ton-levier-cognitif-le-plus-sous-estim-cest-ta-vision.md"
     },
     {
         "title": "Parser Combinators",
@@ -99726,6 +99924,17 @@
         "keywords": "software, license, server, python, you, developers, ctos, tech",
         "generated": "2026-06-16T05:04:00.735929",
         "file": "software-license-server-python-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "Building Scalable Webhooks with Cloudflare Workers",
+        "slug": "building-scalable-webhooks-with-cloudflare-workers",
+        "author": "Devarshi Shimpi",
+        "source": "devto_webdev",
+        "published": "Thu, 05 Nov 2026 14:16:57 +0000",
+        "description": "Handling webhooks at scale presents a unique set of engineering challenges. When a third-party service (like GitHub, Stripe, or Twilio) sends an event to you...",
+        "keywords": "your, webhook, cloudflare, codra, request, workers, const, you",
+        "generated": "2026-11-05T14:31:30.069969",
+        "file": "building-scalable-webhooks-with-cloudflare-workers.md"
     },
     {
         "title": "Building a Sports Data Pipeline: Lessons from Merino strikes at the death for Spain to send Portugal and Ronaldo limping",
@@ -103917,6 +104126,15 @@
         "keywords": "hotels, com, reviews, review, you, expedia, api, scraping",
         "generated": "2026-07-14T08:17:51.108487",
         "file": "how-to-scrape-hotelscom-reviews-in-2026-python-a-no-code-shortcut.md"
+    },
+    {
+        "title": "PostgreSQL Query Planner Internals: Statistics, Row Estimates, and the Plan Regression That Silently Kills Your p99 Latency",
+        "slug": "postgresql-query-planner-internals-statistics-row-estimates-and-the-plan-regression-that-silently-kills-your-p99-latency",
+        "author": "SoftwareDevs mvpfactory.io",
+        "source": "devto_webdev",
+        "published": "Thu, 05 Nov 2026 14:19:02 +0000",
+        "description": "",
+        "file": "postgresql-query-planner-internals-statistics-row-estimates-and-the-plan-regression-that-silently-kills-your-p99-latency.md"
     },
     {
         "title": "What GPT-6.1 Sol chose to build",
