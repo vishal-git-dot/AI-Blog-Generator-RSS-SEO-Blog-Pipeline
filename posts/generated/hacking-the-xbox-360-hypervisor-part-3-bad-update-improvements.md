@@ -4,16 +4,16 @@ slug: "hacking-the-xbox-360-hypervisor-part-3-bad-update-improvements"
 author: "muricula"
 source: "hackernews"
 published: "Wed, 04 Nov 2026 22:01:49 +0000"
-description: "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 27 # Comments: 2"
+description: "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 96 # Comments: 5"
 keywords: "url, https, comments, hacking, xbox, hypervisor, part, bad"
-generated: "2026-11-04T23:27:35.553205"
+generated: "2026-11-05T06:01:18.139415"
 ---
 
 # Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements
 
 ## Overview
 
-Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 27 # Comments: 2
+Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 96 # Comments: 5
 
 ## Key Insights
 
