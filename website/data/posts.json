@@ -10638,6 +10638,17 @@
         "file": "your-pipeline-is-236h-behind-catching-education-sentiment-leads-with-pulsebit.md"
     },
     {
+        "title": "¿Por qué git checkout no puede deshacer lo que cambió un agente de IA en tu código?",
+        "slug": "por-qu-git-checkout-no-puede-deshacer-lo-que-cambi-un-agente-de-ia-en-tu-cdigo",
+        "author": "Hanako H.",
+        "source": "devto_python",
+        "published": "Fri, 06 Nov 2026 14:02:33 +0000",
+        "description": "Cuando un agente de IA edita archivos de tu proyecto y rompe algo, el reflejo es git checkout -- . o git stash . Los dos responden a una pregunta distinta de...",
+        "keywords": "que, path, los, del, self, turno, git, una",
+        "generated": "2026-11-06T14:06:52.627818",
+        "file": "por-qu-git-checkout-no-puede-deshacer-lo-que-cambi-un-agente-de-ia-en-tu-cdigo.md"
+    },
+    {
         "title": "Building an AI shopping agent that actually buys things",
         "slug": "building-an-ai-shopping-agent-that-actually-buys-things",
         "author": "BuyWhere",
@@ -11560,6 +11571,17 @@
         "keywords": "watermarking, url, https, comments, how, text, works, article",
         "generated": "2026-08-14T02:22:40.704215",
         "file": "how-ai-text-watermarking-works.md"
+    },
+    {
+        "title": "Building Songfetti: How I Made Personalized Songs Work Entirely in the Browser",
+        "slug": "building-songfetti-how-i-made-personalized-songs-work-entirely-in-the-browser",
+        "author": "AI Predictions Dev",
+        "source": "devto_webdev",
+        "published": "Fri, 06 Nov 2026 14:00:02 +0000",
+        "description": "Most personalized gift apps feel like a black box. You type a name, click submit, wait three seconds, and get a generic jingle. It works, but it feels cold...",
+        "keywords": "name, memories, processing, app, user, like, text, they",
+        "generated": "2026-11-06T14:06:52.631676",
+        "file": "building-songfetti-how-i-made-personalized-songs-work-entirely-in-the-browser.md"
     },
     {
         "title": "AI Daily Digest · October 29, 2026: GitHub Rebuilds the SDLC Around Agents, Chipmakers Buy Into Meta, Robot Brains Hit the Cloud",
@@ -18437,6 +18459,17 @@
         "file": "get-google-trends-trending-now-for-any-country-with-python-rss-a-many-country-shortcut.md"
     },
     {
+        "title": "AI and ML Hiring in Pune: Finding Applied ML Talent in a Services-Heavy Market",
+        "slug": "ai-and-ml-hiring-in-pune-finding-applied-ml-talent-in-a-services-heavy-market",
+        "author": "Pratik Mokashi",
+        "source": "devto_ai",
+        "published": "Fri, 06 Nov 2026 13:56:45 +0000",
+        "description": "Introduction Pune has a large technology workforce, much of it in IT services. That can make it harder to find engineers with hands-on, production ML experie...",
+        "keywords": "data, pune, you, applied, services, engineers, production, experience",
+        "generated": "2026-11-06T14:06:52.632112",
+        "file": "ai-and-ml-hiring-in-pune-finding-applied-ml-talent-in-a-services-heavy-market.md"
+    },
+    {
         "title": "From Sandbox to Review Queue: My GSoC 2026 Project with OWASP OWTF",
         "slug": "from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf",
         "author": "Piyush Gupta",
@@ -23209,6 +23242,17 @@
         "file": "the-n1-query-problem-in-django-how-to-spot-it-and-kill-it-before-it-kills-your-api.md"
     },
     {
+        "title": "Check if a date is a public holiday in any country via API",
+        "slug": "check-if-a-date-is-a-public-holiday-in-any-country-via-api",
+        "author": "César Freitas",
+        "source": "devto_webdev",
+        "published": "Fri, 06 Nov 2026 14:00:01 +0000",
+        "description": "Checking if a Date is a Public Holiday in Any Country via API As developers, we often encounter scenarios where we need to check if today's date is a public ...",
+        "keywords": "holidays, api, public, holiday, country, tools, you, image",
+        "generated": "2026-11-06T14:06:52.631929",
+        "file": "check-if-a-date-is-a-public-holiday-in-any-country-via-api.md"
+    },
+    {
         "title": "2026-08-17-用-pytest--redis-为-ai-agent-记忆存储实现自动化回归测试",
         "slug": "2026-08-17-pytest-redis-ai-agent",
         "author": "BAOFUFAN",
@@ -24912,6 +24956,17 @@
         "keywords": "intellibooks, layer, architecture, include, organizations, enterprise, can, systems",
         "generated": "2026-06-13T14:12:06.673519",
         "file": "intellibooks-guide-the-0-ai-architecture-that-can-scale-big-later.md"
+    },
+    {
+        "title": "OpenAI Hugging Face Incident: How 700 AI Agents Escaped a Test Sandbox and Hacked a Real Company",
+        "slug": "openai-hugging-face-incident-how-700-ai-agents-escaped-a-test-sandbox-and-hacked-a-real-company",
+        "author": "Ahsan Nadeem",
+        "source": "devto_ai",
+        "published": "Fri, 06 Nov 2026 13:52:13 +0000",
+        "description": "In July 2026, AI agents OpenAI was testing in a sealed environment got onto the internet, broke into Hugging Face's production systems and went looking for t...",
+        "keywords": "openai, hugging, face, agents, models, its, july, agent",
+        "generated": "2026-11-06T14:06:52.632856",
+        "file": "openai-hugging-face-incident-how-700-ai-agents-escaped-a-test-sandbox-and-hacked-a-real-company.md"
     },
     {
         "title": "Native apps written in TypeScript and CSS",
@@ -26729,6 +26784,17 @@
         "file": "the-adversarial-resilience-score-a-new-metric-for-ai-generated-code.md"
     },
     {
+        "title": "LLM Cost Tracking: Per Request, Feature and User (2026)",
+        "slug": "llm-cost-tracking-per-request-feature-and-user-2026",
+        "author": "scorpion4ik26-lang",
+        "source": "devto_webdev",
+        "published": "Fri, 06 Nov 2026 14:00:38 +0000",
+        "description": "I am the founder of PromptUnit. This post first appeared on the PromptUnit blog , where it is kept up to date. LLM cost tracking means recording what every m...",
+        "keywords": "cost, per, user, model, feature, your, call, tokens",
+        "generated": "2026-11-06T14:06:52.631306",
+        "file": "llm-cost-tracking-per-request-feature-and-user-2026.md"
+    },
+    {
         "title": "Why I Built Opposition Into My AI Council",
         "slug": "why-i-built-opposition-into-my-ai-council",
         "author": "Jenning Ho",
@@ -27794,6 +27860,17 @@
         "keywords": "what, pages, code, one, site, you, page, impressions",
         "generated": "2026-11-01T21:53:32.442783",
         "file": "one-new-site-got-7000-impressions-in-a-week-another-got-zero-what-im-learning-about-google-indexing-from-an-aerospace-engineer.md"
+    },
+    {
+        "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+        "slug": "tesla-winds-down-cybertruck-production-after-years-of-poor-sales-in-few-markets",
+        "author": "PLenz",
+        "source": "hackernews",
+        "published": "Fri, 06 Nov 2026 12:13:51 +0000",
+        "description": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZG...",
+        "keywords": "tesla, down, cybertruck, production, after, years, poor, sales",
+        "generated": "2026-11-06T14:06:52.626633",
+        "file": "tesla-winds-down-cybertruck-production-after-years-of-poor-sales-in-few-markets.md"
     },
     {
         "title": "You might not need a service worker",
@@ -32718,6 +32795,17 @@
         "file": "i-ran-one-codex-task-for-31-hours-it-survived-restarts-and-built-an-auditable-textbook-pipeline.md"
     },
     {
+        "title": "The Blindfolded Hike That Explains How Machines Learn",
+        "slug": "the-blindfolded-hike-that-explains-how-machines-learn",
+        "author": "Sohaib Hassan",
+        "source": "devto_python",
+        "published": "Fri, 06 Nov 2026 14:01:00 +0000",
+        "description": "Picture this: someone blindfolds you halfway up a hillside and asks you to find the lowest point. You cannot see a thing. All you can do is feel which way th...",
+        "keywords": "step, you, loss, model, one, steps, gradient, like",
+        "generated": "2026-11-06T14:06:52.628887",
+        "file": "the-blindfolded-hike-that-explains-how-machines-learn.md"
+    },
+    {
         "title": "The 7 Types of Digital Marketing Services, Explained",
         "slug": "the-7-types-of-digital-marketing-services-explained",
         "author": "Hson Agency",
@@ -33222,6 +33310,17 @@
         "keywords": "data, code, time, japanese, stock, market, get, json",
         "generated": "2026-10-11T12:27:52.113326",
         "file": "python-japan-stock-api-integration-tse-market-data-and-real-time-subscriptions.md"
+    },
+    {
+        "title": "Claude Code Can Send Your Email to Websites. How to Check and Block It",
+        "slug": "claude-code-can-send-your-email-to-websites-how-to-check-and-block-it",
+        "author": "Alan West",
+        "source": "devto_ai",
+        "published": "Fri, 06 Nov 2026 13:50:00 +0000",
+        "description": "Claude Code can send your email address to websites in the User-Agent header of curl calls it writes itself. If you're on the stable channel, you don't have ...",
+        "keywords": "claude, email, your, address, user, you, code, git",
+        "generated": "2026-11-06T14:06:52.634126",
+        "file": "claude-code-can-send-your-email-to-websites-how-to-check-and-block-it.md"
     },
     {
         "title": "Pydantic AI keeps one growing message list per run — and re-sends the whole thing every step",
@@ -36027,6 +36126,17 @@
         "keywords": "not, you, turn, tool, transcript, cap, env, tokens",
         "generated": "2026-09-13T20:34:31.561431",
         "file": "the-transcript-is-the-bill.md"
+    },
+    {
+        "title": "356 impressions, 1 click at position 11: is it the title or the ranking?",
+        "slug": "356-impressions-1-click-at-position-11-is-it-the-title-or-the-ranking",
+        "author": "Silkline",
+        "source": "devto_webdev",
+        "published": "Fri, 06 Nov 2026 14:00:48 +0000",
+        "description": "I have a page that Google shows a lot and nobody clicks. It's an explainer for the .pkpass file format, the file Apple Wallet uses for boarding passes and ti...",
+        "keywords": "title, pkpass, file, what, impressions, page, position, click",
+        "generated": "2026-11-06T14:06:52.630199",
+        "file": "356-impressions-1-click-at-position-11-is-it-the-title-or-the-ranking.md"
     },
     {
         "title": "Reviewing Pull Requests Without Losing Your Mind: A Text-Diff Workflow for Code Reviewers",
@@ -41199,6 +41309,17 @@
         "file": "every-sanity-page-builder-has-the-same-bug.md"
     },
     {
+        "title": "Quanta memoria serve a un LLM locale?",
+        "slug": "quanta-memoria-serve-a-un-llm-locale",
+        "author": "Hanako H.",
+        "source": "devto_ai",
+        "published": "Fri, 06 Nov 2026 13:51:35 +0000",
+        "description": "Prima di scaricare un modello da eseguire in locale, la domanda è se ci sta in memoria. La stima è la somma di tre termini, confrontata con quello che la mac...",
+        "keywords": "per, modello, circa, memoria, sta, una, con, che",
+        "generated": "2026-11-06T14:06:52.633136",
+        "file": "quanta-memoria-serve-a-un-llm-locale.md"
+    },
+    {
         "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
         "slug": "show-hn-automatic-deduction-of-flashattention-kernel-from-25-lines-of-sql",
         "author": "alxmrs",
@@ -42154,6 +42275,17 @@
         "keywords": "model, margiq, workflow, where, workflows, models, evidence, application",
         "generated": "2026-07-13T19:35:56.133750",
         "file": "i-built-margiq-to-learn-which-ai-workflows-actually-need-expensive-models.md"
+    },
+    {
+        "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+        "slug": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers",
+        "author": "chitianhao",
+        "source": "hackernews",
+        "published": "Fri, 06 Nov 2026 12:00:42 +0000",
+        "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs Comments URL: https://news.ycombinator.com/item?id=50391342 Points: 0 # Comments: 0",
+        "keywords": "mbodi, url, https, ycombinator, com, comments, hiring, research",
+        "generated": "2026-11-06T14:06:52.626761",
+        "file": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers.md"
     },
     {
         "title": "Debugging an LLM Agent That Wouldn't Stop Clicking: A Postmortem",
@@ -53354,6 +53486,17 @@
         "file": "deja-de-hacer-despliegues-manuales-cicd-bsico-con-github-actions.md"
     },
     {
+        "title": "We've built an open-source feature flag server for 11 years",
+        "slug": "weve-built-an-open-source-feature-flag-server-for-11-years",
+        "author": "ivarconr",
+        "source": "hackernews",
+        "published": "Fri, 06 Nov 2026 11:40:06 +0000",
+        "description": "Article URL: https://github.com/Unleash/unleash Comments URL: https://news.ycombinator.com/item?id=50391145 Points: 34 # Comments: 16",
+        "keywords": "url, https, com, unleash, comments, built, open, source",
+        "generated": "2026-11-06T14:06:52.626880",
+        "file": "weve-built-an-open-source-feature-flag-server-for-11-years.md"
+    },
+    {
         "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
         "slug": "apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips",
         "author": "soheilpro",
@@ -55453,6 +55596,17 @@
         "keywords": "anime, youtube, video, title, get, text, info, draw",
         "generated": "2026-06-18T10:38:46.940815",
         "file": "how-i-built-a-python-pipeline-that-publishes-youtube-videos-automatically-108-videos-proven.md"
+    },
+    {
+        "title": "Gemini Omni 1.2 Flash",
+        "slug": "gemini-omni-12-flash",
+        "author": "thisisauserid",
+        "source": "hackernews",
+        "published": "Fri, 06 Nov 2026 13:35:27 +0000",
+        "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/...",
+        "keywords": "gemini, omni, flash, url, https, comments, article, blog",
+        "generated": "2026-11-06T14:06:52.626462",
+        "file": "gemini-omni-12-flash.md"
     },
     {
         "title": "ZX Spectrum System Tour: Sound",
@@ -58687,6 +58841,17 @@
         "file": "three-things-that-cost-me-an-evening-installing-moss-image-in-comfyui-and-none-of-them-was-the-model.md"
     },
     {
+        "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+        "slug": "living-beyond-the-limits-of-survival-wood-ants-trapped-in-a-gigantic-pitfall-2016",
+        "author": "hitekker",
+        "source": "hackernews",
+        "published": "Fri, 06 Nov 2026 10:21:15 +0000",
+        "description": "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 72 # Comments: 24",
+        "keywords": "url, https, comments, living, beyond, limits, survival, wood",
+        "generated": "2026-11-06T14:06:52.626997",
+        "file": "living-beyond-the-limits-of-survival-wood-ants-trapped-in-a-gigantic-pitfall-2016.md"
+    },
+    {
         "title": "builtit (npx builtit)",
         "slug": "builtit-npx-builtit",
         "author": "M. Praharshitha",
@@ -59543,6 +59708,17 @@
         "keywords": "you, what, not, your, code, one, who, build",
         "generated": "2026-06-26T09:38:14.829816",
         "file": "the-future-of-work-in-the-ai-era-skills-every-developer-should-build.md"
+    },
+    {
+        "title": "Stop your AI agent from writing garbage data to your CRM",
+        "slug": "stop-your-ai-agent-from-writing-garbage-data-to-your-crm",
+        "author": "Mike Tickstem",
+        "source": "devto_ai",
+        "published": "Fri, 06 Nov 2026 13:50:12 +0000",
+        "description": "An agent can be perfectly reliable and still pollute a CRM with disposable addresses, typos, and role-based inboxes — because nothing in its reasoning loop c...",
+        "keywords": "agent, email, disposable, contact, role, based, write, before",
+        "generated": "2026-11-06T14:06:52.633509",
+        "file": "stop-your-ai-agent-from-writing-garbage-data-to-your-crm.md"
     },
     {
         "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
@@ -62293,6 +62469,17 @@
         "keywords": "your, you, what, business, designer, small, after, can",
         "generated": "2026-06-27T03:58:09.835378",
         "file": "how-to-choose-the-right-web-designer-for-your-small-business-without-getting-burned.md"
+    },
+    {
+        "title": "Mistral's New Agents SDK Runs Tool Calls Without Asking by Default. Set a Policy First",
+        "slug": "mistrals-new-agents-sdk-runs-tool-calls-without-asking-by-default-set-a-policy-first",
+        "author": "Gabriel Anhaia",
+        "source": "devto_python",
+        "published": "Fri, 06 Nov 2026 14:01:16 +0000",
+        "description": "Book: RAG Pocket Guide The series: Pocket Guides for Developers — 8 short books on agents, RAG, prompts, observability, events, databases and system design —...",
+        "keywords": "agents, agent, mistral, you, your, default, policy, one",
+        "generated": "2026-11-06T14:06:52.628399",
+        "file": "mistrals-new-agents-sdk-runs-tool-calls-without-asking-by-default-set-a-policy-first.md"
     },
     {
         "title": "Switzerland. Block by block. At 1:1 scale",
@@ -84773,6 +84960,17 @@
         "file": "cognitive-enhancement-technology.md"
     },
     {
+        "title": "Compress images from Python with the Blinkimg API and requests",
+        "slug": "compress-images-from-python-with-the-blinkimg-api-and-requests",
+        "author": "Sahadat Husain",
+        "source": "devto_python",
+        "published": "Fri, 06 Nov 2026 14:00:00 +0000",
+        "description": "To compress an image from Python with the Blinkimg API you make four HTTP calls with requests : ask for an upload slot, PUT the bytes, create a job, then rea...",
+        "keywords": "api, job, photo, requests, avif, key, get, call",
+        "generated": "2026-11-06T14:06:52.629664",
+        "file": "compress-images-from-python-with-the-blinkimg-api-and-requests.md"
+    },
+    {
         "title": "I built TookEffect to verify what AI agents actually did",
         "slug": "i-built-tookeffect-to-verify-what-ai-agents-actually-did",
         "author": "Gabriel Salera",
@@ -104327,6 +104525,17 @@
         "file": "the-silent-killer-of-uptime-why-you-must-master-dns-lookups.md"
     },
     {
+        "title": "Image Trace vs an AI Vectorizer: Count the Paths, Not the Label",
+        "slug": "image-trace-vs-an-ai-vectorizer-count-the-paths-not-the-label",
+        "author": "PerfectVector",
+        "source": "devto_python",
+        "published": "Fri, 06 Nov 2026 14:00:00 +0000",
+        "description": "Image Trace or an AI vectorizer? usually gets answered with labels: one is built into Illustrator, the other says AI on the box. Both do the same job, rebu...",
+        "keywords": "image, trace, paths, count, you, same, svg, segments",
+        "generated": "2026-11-06T14:06:52.629158",
+        "file": "image-trace-vs-an-ai-vectorizer-count-the-paths-not-the-label.md"
+    },
+    {
         "title": "SDCC – Small Device C Compiler",
         "slug": "sdcc-small-device-c-compiler",
         "author": "lioeters",
@@ -105520,6 +105729,17 @@
         "keywords": "usdt, chain, solana, bnb, transfer, wallet, you, your",
         "generated": "2026-08-05T19:42:57.577587",
         "file": "how-to-transfer-usdt-between-bnb-chain-and-solana-networks.md"
+    },
+    {
+        "title": "Where an e-commerce explainer video belongs, and what to show in it",
+        "slug": "where-an-e-commerce-explainer-video-belongs-and-what-to-show-in-it",
+        "author": "Bhavesh Vaghela",
+        "source": "devto_webdev",
+        "published": "Fri, 06 Nov 2026 14:02:11 +0000",
+        "description": "Most online shops add a video the same way they add a banner: somewhere on the home page, because that is where the space is. The video then gets a few views...",
+        "keywords": "video, not, one, product, they, where, page, what",
+        "generated": "2026-11-06T14:06:52.629957",
+        "file": "where-an-e-commerce-explainer-video-belongs-and-what-to-show-in-it.md"
     },
     {
         "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
