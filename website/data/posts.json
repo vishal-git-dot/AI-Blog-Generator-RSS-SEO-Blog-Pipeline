@@ -11892,6 +11892,17 @@
         "file": "a-47k-agent-loop-add-a-hard-spend-cap-in-40-lines.md"
     },
     {
+        "title": "LifePilot: Building a Personal Life Manager Inside a Chat Room",
+        "slug": "lifepilot-building-a-personal-life-manager-inside-a-chat-room",
+        "author": "Sushil Ghimire",
+        "source": "devto_python",
+        "published": "Sat, 07 Nov 2026 05:19:29 +0000",
+        "description": "Flip the Switch Hackathon 2026 A build log on three agents, one human veto, and what happened when our agent quota ran out. Introduction Most agent demos fol...",
+        "keywords": "you, agent, not, what, switch, room, one, agents",
+        "generated": "2026-11-07T05:28:40.829811",
+        "file": "lifepilot-building-a-personal-life-manager-inside-a-chat-room.md"
+    },
+    {
         "title": "Calling It Quits on ServerFault",
         "slug": "calling-it-quits-on-serverfault",
         "author": "zdw",
@@ -14145,6 +14156,17 @@
         "keywords": "smaller, faster, safer, url, https, com, comments, running",
         "generated": "2026-08-03T19:44:41.764006",
         "file": "smaller-faster-safer-running-kimi-and-glm-at-scale.md"
+    },
+    {
+        "title": "A broken-link and SEO audit of your whole site, with a ranked fix list for your developer",
+        "slug": "a-broken-link-and-seo-audit-of-your-whole-site-with-a-ranked-fix-list-for-your-developer",
+        "author": "Aurelix Solutions",
+        "source": "devto_webdev",
+        "published": "Sat, 07 Nov 2026 05:26:02 +0000",
+        "description": "Most sites collect small SEO problems quietly: a page that now 404s, a link to a partner site that died, a title that grew past 60 characters, a noindex left...",
+        "keywords": "pages, page, link, per, audit, broken, site, seo",
+        "generated": "2026-11-07T05:28:40.831628",
+        "file": "a-broken-link-and-seo-audit-of-your-whole-site-with-a-ranked-fix-list-for-your-developer.md"
     },
     {
         "title": "My Comment-Reply Pipeline Was Feeding Me Garbled HTML Entities Instead of the Actual Comment",
@@ -24100,6 +24122,17 @@
         "file": "crowdsec-source-code-leak.md"
     },
     {
+        "title": "Which Equipment Rental Software Has a Customer Portal for Contractors? (And How to Build One If Yours Doesn't)",
+        "slug": "which-equipment-rental-software-has-a-customer-portal-for-contractors-and-how-to-build-one-if-yours-doesnt",
+        "author": "Mythex",
+        "source": "devto_ai",
+        "published": "Sat, 07 Nov 2026 05:18:44 +0000",
+        "description": "If you run an equipment rental yard, you already know the 6:45 am phone call. A superintendent needs to know whether the 19-foot scissor lift is still on his...",
+        "keywords": "portal, rental, your, you, one, what, can, contractor",
+        "generated": "2026-11-07T05:28:40.833297",
+        "file": "which-equipment-rental-software-has-a-customer-portal-for-contractors-and-how-to-build-one-if-yours-doesnt.md"
+    },
+    {
         "title": "Build a Chatbot in Python From Scratch: No API Keys, No AI Libraries",
         "slug": "build-a-chatbot-in-python-from-scratch-no-api-keys-no-ai-libraries",
         "author": "RainyTech",
@@ -32069,6 +32102,17 @@
         "file": "working-with-ais-data-in-python-what-the-quickstart-wont-tell-you.md"
     },
     {
+        "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+        "slug": "realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters",
+        "author": "raybb",
+        "source": "hackernews",
+        "published": "Fri, 06 Nov 2026 23:37:19 +0000",
+        "description": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991...",
+        "keywords": "realpage, rent, pricing, case, renters, url, https, com",
+        "generated": "2026-11-07T05:28:40.829372",
+        "file": "realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters.md"
+    },
+    {
         "title": "How we configured OpenTelemetry logs in Rails",
         "slug": "how-we-configured-opentelemetry-logs-in-rails",
         "author": "__vivek",
@@ -36546,6 +36590,17 @@
         "file": "learning-web-development-is-easier-when-you-build-real-projects.md"
     },
     {
+        "title": "TraceMind",
+        "slug": "tracemind",
+        "author": "mitrasayak623-crypto",
+        "source": "devto_ai",
+        "published": "Sat, 07 Nov 2026 05:20:07 +0000",
+        "description": "The Debugging Fix I Almost Lost—Until Hindsight Remembered Introduction Developers often spend hours investigating errors that their team has already solved ...",
+        "keywords": "incident, hindsight, memory, tracemind, error, historical, not, can",
+        "generated": "2026-11-07T05:28:40.832368",
+        "file": "tracemind.md"
+    },
+    {
         "title": "What I learned building a SaaS alone for 3 months",
         "slug": "what-i-learned-building-a-saas-alone-for-3-months",
         "author": "Memduh PANPALLI",
@@ -40427,6 +40482,17 @@
         "keywords": "agent, model, tool, sandboxing, will, most, call, isn",
         "generated": "2026-07-10T14:40:05.902133",
         "file": "agent-sandboxing-will-be-the-default-by-mid-2027-and-most-teams-arent-ready.md"
+    },
+    {
+        "title": "Two weeks in one page: an AI adoption checklist for a small business",
+        "slug": "two-weeks-in-one-page-an-ai-adoption-checklist-for-a-small-business",
+        "author": "Slava Kotenev",
+        "source": "devto_ai",
+        "published": "Sat, 07 Nov 2026 05:19:01 +0000",
+        "description": "Over the last two weeks I published a series on practical AI adoption: pilots, thresholds, documents, review queues, acceptance sets, data, costs. This is th...",
+        "keywords": "you, one, data, what, review, cost, golden, set",
+        "generated": "2026-11-07T05:28:40.832904",
+        "file": "two-weeks-in-one-page-an-ai-adoption-checklist-for-a-small-business.md"
     },
     {
         "title": "How to Build an Airdrop Monitor with AI — 2026-10-10 #4",
@@ -47293,6 +47359,17 @@
         "file": "the-difference-between-a-css-library-and-a-css-architecture.md"
     },
     {
+        "title": "WordPress.com vs WordPress.org: Key Differences, Pros, Cons & Which Is Better?",
+        "slug": "wordpresscom-vs-wordpressorg-key-differences-pros-cons-which-is-better",
+        "author": "zozothemes",
+        "source": "devto_webdev",
+        "published": "Sat, 07 Nov 2026 05:26:19 +0000",
+        "description": "Imagine spending hours choosing a website design, writing your first blog post, and planning your business launch only to discover that your website platform...",
+        "keywords": "wordpress, you, your, hosting, website, plan, can, com",
+        "generated": "2026-11-07T05:28:40.831378",
+        "file": "wordpresscom-vs-wordpressorg-key-differences-pros-cons-which-is-better.md"
+    },
+    {
         "title": "Deliver Completions With a Job Row, Not a Held Connection",
         "slug": "deliver-completions-with-a-job-row-not-a-held-connection",
         "author": "kongkong",
@@ -48437,6 +48514,17 @@
         "file": "deepseek-just-open-sourced-its-inference-engine.md"
     },
     {
+        "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+        "slug": "i-toured-unitrees-factory-im-more-bullish-on-the-west",
+        "author": "josefchen",
+        "source": "hackernews",
+        "published": "Sat, 07 Nov 2026 01:05:16 +0000",
+        "description": "Article URL: https://josef.cn/blog/unitree Comments URL: https://news.ycombinator.com/item?id=50400597 Points: 77 # Comments: 52",
+        "keywords": "unitree, url, https, comments, toured, factory, more, bullish",
+        "generated": "2026-11-07T05:28:40.829321",
+        "file": "i-toured-unitrees-factory-im-more-bullish-on-the-west.md"
+    },
+    {
         "title": "Leni",
         "slug": "leni",
         "author": "tech_minimalist",
@@ -49315,6 +49403,17 @@
         "keywords": "coordinates, galactic, you, frame, system, astropy, equatorial, dec",
         "generated": "2026-06-12T20:19:14.995712",
         "file": "astrophysics-ai-with-python-navigating-the-universe-with-ra-dec-and-coordinate-transformations.md"
+    },
+    {
+        "title": "I ran two OCR engines and a BERT model entirely in the browser — here's what I learned",
+        "slug": "i-ran-two-ocr-engines-and-a-bert-model-entirely-in-the-browser-heres-what-i-learned",
+        "author": "karthik valluri",
+        "source": "devto_webdev",
+        "published": "Sat, 07 Nov 2026 05:24:04 +0000",
+        "description": "Every day, someone pastes a dashboard screenshot into Slack, a Jira ticket, or a slide deck with customer names, emails, and revenue figures still perfectly ...",
+        "keywords": "you, what, vaultsnip, screenshot, text, your, origin, same",
+        "generated": "2026-11-07T05:28:40.832003",
+        "file": "i-ran-two-ocr-engines-and-a-bert-model-entirely-in-the-browser-heres-what-i-learned.md"
     },
     {
         "title": "Product Schema for Inquiry-Only Products: What to Emit When There Is No Price",
@@ -52529,6 +52628,17 @@
         "file": "the-one-line-fix-that-took-my-t-stat-from-622-to-104.md"
     },
     {
+        "title": "Show HN: Did prediction markets do any predicting this midterms?",
+        "slug": "show-hn-did-prediction-markets-do-any-predicting-this-midterms",
+        "author": "nuwandavek",
+        "source": "hackernews",
+        "published": "Sat, 07 Nov 2026 03:50:21 +0000",
+        "description": "I've heard so much about how prediction markets are the guiding light in this dark world. But when put head to head against polls or Nate Silver's FLIPR mode...",
+        "keywords": "prediction, markets, head, polls, model, they, them, comments",
+        "generated": "2026-11-07T05:28:40.829071",
+        "file": "show-hn-did-prediction-markets-do-any-predicting-this-midterms.md"
+    },
+    {
         "title": "Reading and Writing CSV Files in Python with the csv Module",
         "slug": "reading-and-writing-csv-files-in-python-with-the-csv-module",
         "author": "qjlsh",
@@ -55442,6 +55552,17 @@
         "keywords": "you, not, cache, one, your, max, age, css",
         "generated": "2026-08-20T06:54:01.615298",
         "file": "http-caching-explained-max-age-etag-and-why-your-users-still-see-last-weeks-css.md"
+    },
+    {
+        "title": "The AI sell-off compared to well-known stock market crashes",
+        "slug": "the-ai-sell-off-compared-to-well-known-stock-market-crashes",
+        "author": "hubraumhugo",
+        "source": "hackernews",
+        "published": "Sat, 07 Nov 2026 02:20:06 +0000",
+        "description": "Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective Comments URL: https://news.ycombinator.com/item?id=50401029 Points: 35 # Comment...",
+        "keywords": "url, https, com, comments, sell, off, compared, well",
+        "generated": "2026-11-07T05:28:40.829267",
+        "file": "the-ai-sell-off-compared-to-well-known-stock-market-crashes.md"
     },
     {
         "title": "Qwen-Max & Wan 2.1 Synergy: Engineering Sub-Second AI Persona Synthesis with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS via Caddy",
@@ -61688,6 +61809,17 @@
         "keywords": "wholesale, plagiarism, obscure, sorrows, url, https, comments, article",
         "generated": "2026-06-20T19:45:32.620950",
         "file": "the-wholesale-plagiarism-of-obscure-sorrows.md"
+    },
+    {
+        "title": "Lighting the Skies",
+        "slug": "lighting-the-skies",
+        "author": "dverlaeckt80",
+        "source": "hackernews",
+        "published": "Sat, 07 Nov 2026 03:40:34 +0000",
+        "description": "Article URL: https://computer.rip/2026-10-25-searchlights.html Comments URL: https://news.ycombinator.com/item?id=50401414 Points: 11 # Comments: 1",
+        "keywords": "url, https, comments, lighting, skies, article, computer, rip",
+        "generated": "2026-11-07T05:28:40.829199",
+        "file": "lighting-the-skies.md"
     },
     {
         "title": "Azure Event Hubs & Functions: Event-Driven Data on Azure",
@@ -89765,6 +89897,17 @@
         "file": "yellow-teams-bring-ai-offense-and-defense-into-one-security-function.md"
     },
     {
+        "title": "OpsMemory AI: Turning Everyday Business Incidents into Operational Intelligence",
+        "slug": "opsmemory-ai-turning-everyday-business-incidents-into-operational-intelligence",
+        "author": "Indu R",
+        "source": "devto_python",
+        "published": "Sat, 07 Nov 2026 05:10:53 +0000",
+        "description": "OpsMemory AI: Turning Everyday Business Incidents into Operational Intelligence Small businesses make dozens of operational decisions every day. When should ...",
+        "keywords": "memory, operational, application, business, opsmemory, what, experience, not",
+        "generated": "2026-11-07T05:28:40.830056",
+        "file": "opsmemory-ai-turning-everyday-business-incidents-into-operational-intelligence.md"
+    },
+    {
         "title": "Ma ket A alysis: C itical Gove a ce Failu es i C ypto-Asset Ma ageme t a d the Impe ative fo Real-Time Auditi g",
         "slug": "ma-ket-a-alysis-c-itical-gove-a-ce-failu-es-i-c-ypto-asset-ma-ageme-t-a-d-the-impe-ative-fo-real-time-auditi-g",
         "author": "株式会社KSP",
@@ -92357,6 +92500,17 @@
         "keywords": "sony, retires, its, last, blu, ray, player, japan",
         "generated": "2026-10-23T21:14:15.040053",
         "file": "sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left.md"
+    },
+    {
+        "title": "Why Your Hotel's Channel Manager Is the Most Important Line of Code You'll Ship This Year",
+        "slug": "why-your-hotels-channel-manager-is-the-most-important-line-of-code-youll-ship-this-year",
+        "author": "ZANISS SOFTWARES",
+        "source": "devto_webdev",
+        "published": "Sat, 07 Nov 2026 05:25:33 +0000",
+        "description": "If you've ever built an integration that has to be right 100% of the time or someone loses money, you already understand why hotel channel managers are an un...",
+        "keywords": "than, inventory, hotel, here, room, other, property, channel",
+        "generated": "2026-11-07T05:28:40.831779",
+        "file": "why-your-hotels-channel-manager-is-the-most-important-line-of-code-youll-ship-this-year.md"
     },
     {
         "title": "Class Method and Static Method Explained with Examples",
@@ -103667,6 +103821,17 @@
         "file": "building-a-linux-gpu-driver-for-the-m4-mac-mini-in-one-month.md"
     },
     {
+        "title": "Why Your Base64 Won't Decode: A Practical Checklist for Validating Base64 Strings",
+        "slug": "why-your-base64-wont-decode-a-practical-checklist-for-validating-base64-strings",
+        "author": "Mind vs Drive",
+        "source": "devto_python",
+        "published": "Sat, 07 Nov 2026 05:05:35 +0000",
+        "description": "You copy a Base64 string out of a log file, an API response, or an email header, paste it into your decoder, and get one of these: binascii.Error: Incorrect ...",
+        "keywords": "string, padding, bytes, data, you, characters, length, print",
+        "generated": "2026-11-07T05:28:40.830316",
+        "file": "why-your-base64-wont-decode-a-practical-checklist-for-validating-base64-strings.md"
+    },
+    {
         "title": "I Analyzed 853 LLM Conversations About Brand Monitoring Tools",
         "slug": "i-analyzed-853-llm-conversations-about-brand-monitoring-tools",
         "author": "Saul Fleischman",
@@ -107854,6 +108019,17 @@
         "file": "360-exhibition-photography-dubai-liveweb-2-2-2-3-360.md"
     },
     {
+        "title": "Gemini Omni 1.2 Flash Generates and Edits 15-Second Videos in the Gemini API for $0.07 a Second",
+        "slug": "gemini-omni-12-flash-generates-and-edits-15-second-videos-in-the-gemini-api-for-007-a-second",
+        "author": "Ishank Choudhary",
+        "source": "devto_python",
+        "published": "Sat, 07 Nov 2026 04:54:28 +0000",
+        "description": "On November 5, 2026, Google made Gemini Omni 1.2 Flash ( gemini-omni-1.2-flash ) generally available across the Gemini API and Google Cloud. Two weeks after ...",
+        "keywords": "omni, gemini, flash, google, tokens, video, second, api",
+        "generated": "2026-11-07T05:28:40.830680",
+        "file": "gemini-omni-12-flash-generates-and-edits-15-second-videos-in-the-gemini-api-for-007-a-second.md"
+    },
+    {
         "title": "Why Web Workers Swallow Your Stacktraces (And How to Write Specs to Fix It)",
         "slug": "why-web-workers-swallow-your-stacktraces-and-how-to-write-specs-to-fix-it",
         "author": "Bonzai2Carn",
@@ -110802,6 +110978,17 @@
         "file": "build-vs-buy-for-engineers-who-always-want-to-build-it.md"
     },
     {
+        "title": "Automate Lead Tracking with Zapier: Google Forms to Sheets & Slack (No Code)",
+        "slug": "automate-lead-tracking-with-zapier-google-forms-to-sheets-slack-no-code",
+        "author": "Stackscale",
+        "source": "devto_ai",
+        "published": "Sat, 07 Nov 2026 05:19:00 +0000",
+        "description": "If you want to automate lead tracking with Zapier, one Zap replaces the entire copy-paste routine. Every Google Forms response lands in Google Sheets and pin...",
+        "keywords": "google, your, form, lead, slack, sheet, zapier, sheets",
+        "generated": "2026-11-07T05:28:40.833030",
+        "file": "automate-lead-tracking-with-zapier-google-forms-to-sheets-slack-no-code.md"
+    },
+    {
         "title": "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
         "slug": "mps-demand-answers-on-fujitsus-inclusion-in-lucrative-frameworks",
         "author": "latein",
@@ -113662,6 +113849,17 @@
         "file": "i-started-a-dirt-notebook.md"
     },
     {
+        "title": "Windows won't let you own Win+Shift+S. So I hooked the keyboard in Python.",
+        "slug": "windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python",
+        "author": "Akhouri Anmol Kumar",
+        "source": "devto_python",
+        "published": "Sat, 07 Nov 2026 04:51:12 +0000",
+        "description": "I wanted one small thing: press Win+Shift+S and get my own screenshot tool instead of Snipping Tool. That turned into a 7,600-line Python project, and a pile...",
+        "keywords": "ctypes, you, windows, win, can, python, one, key",
+        "generated": "2026-11-07T05:28:40.830919",
+        "file": "windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python.md"
+    },
+    {
         "title": "Technobot System – Customized Website & Software Development Solutions",
         "slug": "technobot-system-customized-website-software-development-solutions",
         "author": "tech def",
@@ -116245,6 +116443,17 @@
         "keywords": "double, check, what, but, answer, use, make, understand",
         "generated": "2026-08-27T22:04:47.424709",
         "file": "is-please-double-check-before-use-an-honest-safety-boundary.md"
+    },
+    {
+        "title": "Security Tip: File Upload Forms — The Backdoor Hiding in Plain Sight",
+        "slug": "security-tip-file-upload-forms-the-backdoor-hiding-in-plain-sight",
+        "author": "Vulnerability Tools",
+        "source": "devto_webdev",
+        "published": "Sat, 07 Nov 2026 05:17:52 +0000",
+        "description": "Almost every website lets someone upload a file somewhere: a profile photo, a contact-form attachment, a support ticket, a job application. Most owners check...",
+        "keywords": "file, upload, extension, every, check, server, your, uploads",
+        "generated": "2026-11-07T05:28:40.832101",
+        "file": "security-tip-file-upload-forms-the-backdoor-hiding-in-plain-sight.md"
     },
     {
         "title": "Jev in 25 Lines of Python",
@@ -120491,6 +120700,17 @@
         "keywords": "test, you, one, red, code, not, what, run",
         "generated": "2026-10-13T13:55:18.650603",
         "file": "red-once-never-trust-a-test-you-havent-watched-fail.md"
+    },
+    {
+        "title": "ElevenLabs vs Murf: Which AI Tool Is Better?",
+        "slug": "elevenlabs-vs-murf-which-ai-tool-is-better",
+        "author": "Rennie Hoffman",
+        "source": "devto_ai",
+        "published": "Sat, 07 Nov 2026 05:20:02 +0000",
+        "description": "⚡ Executive Verdict: ElevenLabs vs Murf (2026) ElevenLabs Advantage: ElevenLabs stands out for Teams evaluating AI Audio software and comparing official feat...",
+        "keywords": "voice, elevenlabs, murf, agents, both, platform, content, api",
+        "generated": "2026-11-07T05:28:40.832737",
+        "file": "elevenlabs-vs-murf-which-ai-tool-is-better.md"
     },
     {
         "title": "I let an AI run my startup for a week",
