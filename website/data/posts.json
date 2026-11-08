@@ -2795,6 +2795,17 @@
         "file": "i-built-interactive-cli-drills-learners-quit-at-prompt-3.md"
     },
     {
+        "title": "Comment Claude sait-il qu'une citation d'une base de connaissances osFoundry est toujours à jour ?",
+        "slug": "comment-claude-sait-il-quune-citation-dune-base-de-connaissances-osfoundry-est-toujours-jour",
+        "author": "BBT",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 21:17:48 +0000",
+        "description": "Voici les outils de base de connaissances qu'un chat Claude ou Claude Code reçoit du serveur MCP d' osFoundry . Ils ont été récupérés avec un tools/list non ...",
+        "keywords": "une, les, sur, citation, est, article, par, avec",
+        "generated": "2026-11-08T21:52:37.458889",
+        "file": "comment-claude-sait-il-quune-citation-dune-base-de-connaissances-osfoundry-est-toujours-jour.md"
+    },
+    {
         "title": "From ML Tooling to Analytical Governance: Recent Updates to KMDS",
         "slug": "from-ml-tooling-to-analytical-governance-recent-updates-to-kmds",
         "author": "Rajiv Sambasivan",
@@ -23638,6 +23649,17 @@
         "file": "dolly-partons-imagination-library.md"
     },
     {
+        "title": "Telegram bot token in your contact form? Anyone can copy it",
+        "slug": "telegram-bot-token-in-your-contact-form-anyone-can-copy-it",
+        "author": "Formgong",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 21:30:22 +0000",
+        "description": "If you asked ChatGPT for a contact form that sends messages to Telegram, there is a good chance the bot token ended up in your page. We asked it five times o...",
+        "keywords": "bot, form, your, telegram, token, you, message, can",
+        "generated": "2026-11-08T21:52:37.462668",
+        "file": "telegram-bot-token-in-your-contact-form-anyone-can-copy-it.md"
+    },
+    {
         "title": "Run large language models at home, BitTorrent‑style",
         "slug": "run-large-language-models-at-home-bittorrentstyle",
         "author": "snorbleck",
@@ -25825,6 +25847,17 @@
         "keywords": "waymo, toronto, url, https, com, comments, hello, route",
         "generated": "2026-10-16T16:24:14.483119",
         "file": "hello-toronto-waymo-is-en-route.md"
+    },
+    {
+        "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+        "slug": "nvidia-board-of-directors-is-investigating-jensen-huang",
+        "author": "vincentchau",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 20:26:43 +0000",
+        "description": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: ...",
+        "keywords": "nvidia, board, directors, url, https, com, news, comments",
+        "generated": "2026-11-08T21:52:37.457236",
+        "file": "nvidia-board-of-directors-is-investigating-jensen-huang.md"
     },
     {
         "title": "Hidden Gems in the App Store A…",
@@ -38427,6 +38460,17 @@
         "file": "building-an-authorization-gateway-for-ai-agents-a-practical-architecture.md"
     },
     {
+        "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+        "slug": "outlookcom-is-quietly-rejecting-email-from-domains-without-dmarc",
+        "author": "xmddmx",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 19:20:32 +0000",
+        "description": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 114 # Comme...",
+        "keywords": "outlook, com, rejecting, email, without, dmarc, url, https",
+        "generated": "2026-11-08T21:52:37.457810",
+        "file": "outlookcom-is-quietly-rejecting-email-from-domains-without-dmarc.md"
+    },
+    {
         "title": "⚡ Dev lifehack: GS1 SSCC Label Generator 🧰 (Free · No Signup)",
         "slug": "dev-lifehack-gs1-sscc-label-generator-free-no-signup",
         "author": "Codepackr",
@@ -42660,6 +42704,17 @@
         "keywords": "type, string, number, typescript, overload, can, signature, boolean",
         "generated": "2026-07-01T20:03:10.700335",
         "file": "typescript-infers-the-last-overload-so-i-changed-the-order.md"
+    },
+    {
+        "title": "SolanaGuard AI: Understand Before You Sign",
+        "slug": "solanaguard-ai-understand-before-you-sign",
+        "author": "Samuel Emmanuel",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 21:47:35 +0000",
+        "description": "What if you could understand what a Solana transaction is doing before deciding whether to approve it? That question inspired me to build SolanaGuard AI , an...",
+        "keywords": "transaction, understand, solana, how, application, solanaguard, what, security",
+        "generated": "2026-11-08T21:52:37.458253",
+        "file": "solanaguard-ai-understand-before-you-sign.md"
     },
     {
         "title": "Finally shipping v1.0.7: Fixing the silent Google Sign-In & Paywall bugs in my Flutter app published: true",
@@ -56390,6 +56445,28 @@
         "file": "python-billing-provisioning-idempotent-default-payments-and-auto-recharge-verification.md"
     },
     {
+        "title": "How I Fight AI Brain Fry",
+        "slug": "how-i-fight-ai-brain-fry",
+        "author": "kyunez",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 19:37:42 +0000",
+        "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 89 # Comments: 66",
+        "keywords": "brain, fry, url, https, com, comments, how, fight",
+        "generated": "2026-11-08T21:52:37.457689",
+        "file": "how-i-fight-ai-brain-fry.md"
+    },
+    {
+        "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+        "slug": "starship-flight-15-on-1113-plans-to-catch-both-booster-and-ship",
+        "author": "spikels",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 19:49:46 +0000",
+        "description": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 37 # Comments: 16",
+        "keywords": "starship, flight, url, https, com, comments, plans, catch",
+        "generated": "2026-11-08T21:52:37.457413",
+        "file": "starship-flight-15-on-1113-plans-to-catch-both-booster-and-ship.md"
+    },
+    {
         "title": "Buy Verified Old Gmail Accounts - 100% Verified Accounts",
         "slug": "buy-verified-old-gmail-accounts-100-verified-accounts",
         "author": "jonson",
@@ -59446,6 +59523,17 @@
         "file": "microsoft-can-track-users-via-a-windows-device-id.md"
     },
     {
+        "title": "I Built an Interactive 3D Camera You Can Take Apart in Your Browser 📷",
+        "slug": "i-built-an-interactive-3d-camera-you-can-take-apart-in-your-browser",
+        "author": "Jude",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 21:51:01 +0000",
+        "description": "I've been exploring Three.js and WebGL lately, experimenting with different ways to make websites more interactive. One thing I really enjoy about 3D on the ...",
+        "keywords": "camera, what, you, explore, experience, interactive, can, three",
+        "generated": "2026-11-08T21:52:37.461103",
+        "file": "i-built-an-interactive-3d-camera-you-can-take-apart-in-your-browser.md"
+    },
+    {
         "title": "Stop Guessing Which Ad Produced the Lead: Capture gclid in Next.js and Send the Conversion Server-Side",
         "slug": "stop-guessing-which-ad-produced-the-lead-capture-gclid-in-nextjs-and-send-the-conversion-server-side",
         "author": "Level Up Digital Marketing Group",
@@ -61765,6 +61853,17 @@
         "keywords": "you, not, search, jobs, one, where, your, null",
         "generated": "2026-08-22T06:48:31.773267",
         "file": "your-postgres-can-do-that.md"
+    },
+    {
+        "title": "Auditar un modelo de 180B sin descargarlo: leer cabeceras safetensors por HTTP Range con Python",
+        "slug": "auditar-un-modelo-de-180b-sin-descargarlo-leer-cabeceras-safetensors-por-http-range-con-python",
+        "author": "김민식/학생",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 21:06:06 +0000",
+        "description": "TL;DR Antes de reservar 8 GPU o de bajar 360 GB, puedes auditar un checkpoint de Hugging Face leyendo solo las cabeceras de sus archivos safetensors . Lo hic...",
+        "keywords": "con, por, los, que, del, las, nombre, son",
+        "generated": "2026-11-08T21:52:37.460366",
+        "file": "auditar-un-modelo-de-180b-sin-descargarlo-leer-cabeceras-safetensors-por-http-range-con-python.md"
     },
     {
         "title": "12TB Steam leak reveals unseen Half-Life 2: Episode 3 builds",
@@ -79222,6 +79321,17 @@
         "file": "spark-performance-deep-dive-on-databricks-shuffle-tuning-skew-handling-and-z-ordering-with-delta-lake-unity-catalog.md"
     },
     {
+        "title": "The Web Is More Than Enough, by Paul Ford",
+        "slug": "the-web-is-more-than-enough-by-paul-ford",
+        "author": "edward",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 19:48:32 +0000",
+        "description": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 12 # Comments: 1",
+        "keywords": "web, more, than, enough, url, https, com, comments",
+        "generated": "2026-11-08T21:52:37.457547",
+        "file": "the-web-is-more-than-enough-by-paul-ford.md"
+    },
+    {
         "title": "KI-Aussterberisiko: KI-Experten über den Anthropic-Alarm",
         "slug": "ki-aussterberisiko-ki-experten-ber-den-anthropic-alarm",
         "author": "Everlast AI",
@@ -86619,6 +86729,17 @@
         "keywords": "doj, closing, abbott, labs, case, spurs, wider, corporate",
         "generated": "2026-07-06T15:45:24.410211",
         "file": "doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat.md"
+    },
+    {
+        "title": "Orbura: a camera check-in that becomes a baseline — Presage SmartSpectra SDK Challenge",
+        "slug": "orbura-a-camera-check-in-that-becomes-a-baseline-presage-smartspectra-sdk-challenge",
+        "author": "Papa",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 21:31:34 +0000",
+        "description": "This is a submission for the Presage SmartSpectra SDK Challenge What I Built Orbura Companion — a consent-first camera check-in that turns the Presage SmartS...",
+        "keywords": "smartspectra, orbura, presage, sdk, check, camera, user, breathing",
+        "generated": "2026-11-08T21:52:37.461731",
+        "file": "orbura-a-camera-check-in-that-becomes-a-baseline-presage-smartspectra-sdk-challenge.md"
     },
     {
         "title": "Joining datasets that never shared a key: validate CIN, LEI and Wikidata IDs, then resolve them in Python",
@@ -103843,6 +103964,17 @@
         "file": "processing-millions-of-records-through-shopify-lessons-from-high-volume-integrations.md"
     },
     {
+        "title": "How much data can a QR code actually hold?",
+        "slug": "how-much-data-can-a-qr-code-actually-hold",
+        "author": "Rahman",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 21:35:46 +0000",
+        "description": "Short answer: more than you'll ever need for a link, and less than you'd think once you care about scanning. Let's unpack it. It's a grid of modules A QR cod...",
+        "keywords": "code, version, you, modules, more, data, short, grid",
+        "generated": "2026-11-08T21:52:37.461309",
+        "file": "how-much-data-can-a-qr-code-actually-hold.md"
+    },
+    {
         "title": "How I Built an Open-Source LLM Key-Pool Gateway (and Why You Might Want One)",
         "slug": "how-i-built-an-open-source-llm-key-pool-gateway-and-why-you-might-want-one",
         "author": "Khaled Hammrouni",
@@ -104160,6 +104292,17 @@
         "keywords": "costperprompt, url, https, com, comments, show, live, api",
         "generated": "2026-08-02T03:28:39.838298",
         "file": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators.md"
+    },
+    {
+        "title": "EDNA: a Human Sensoric Layer for AI — how behavioral biometrics make LLMs perceptive (and stay 100% on-device)",
+        "slug": "edna-a-human-sensoric-layer-for-ai-how-behavioral-biometrics-make-llms-perceptive-and-stay-100-on-device",
+        "author": "Sebastian Kläy",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 21:27:48 +0000",
+        "description": "Author: Sebastian Kläy ( @sebklaey ) · Engine: https://github.com/sebklaey/EDNA · License: EPCAL-1.0 (free beta for evaluation; commercial use by contract) T...",
+        "keywords": "edna, human, engine, sensoric, sebklaey, not, test, how",
+        "generated": "2026-11-08T21:52:37.464798",
+        "file": "edna-a-human-sensoric-layer-for-ai-how-behavioral-biometrics-make-llms-perceptive-and-stay-100-on-device.md"
     },
     {
         "title": "Telegram Web vs Desktop: choosing the safer temporary access method",
@@ -104754,6 +104897,17 @@
         "keywords": "class, agent, span, div, timeline, dashboard, step, server",
         "generated": "2026-07-20T14:19:27.583712",
         "file": "how-to-build-a-system-monitor-dashboard-for-your-ai-agent-step-by-step.md"
+    },
+    {
+        "title": "Regenerate Only What Moved: An Anchor Manifest for Model-Drafted Docs",
+        "slug": "regenerate-only-what-moved-an-anchor-manifest-for-model-drafted-docs",
+        "author": "Avery Lin",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 21:17:01 +0000",
+        "description": "Most documentation pipelines that use a model regenerate the whole page, and that is where both the risk and the cost live. A page is a bundle of claims with...",
+        "keywords": "manifest, docs, plan, anchor, claims, claim, key, model",
+        "generated": "2026-11-08T21:52:37.459666",
+        "file": "regenerate-only-what-moved-an-anchor-manifest-for-model-drafted-docs.md"
     },
     {
         "title": "Two tidal libraries disagreed: diff their internals, not their outputs",
@@ -106136,6 +106290,17 @@
         "published": "Thu, 16 Jul 2026 08:19:14 +0000",
         "description": "",
         "file": "subscription-paywall-architecture-for-kmp-apps.md"
+    },
+    {
+        "title": "Can an AI agent fine-tune a model for you, end to end?",
+        "slug": "can-an-ai-agent-fine-tune-a-model-for-you-end-to-end",
+        "author": "Viswaretas Kotra",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 21:37:03 +0000",
+        "description": "A coding agent such as Claude Code, Codex or Cursor can run a fine-tune from data check to downloaded adapter, provided the platform enforces a dollar cap an...",
+        "keywords": "agent, run, nodus, you, data, cap, can, model",
+        "generated": "2026-11-08T21:52:37.463195",
+        "file": "can-an-ai-agent-fine-tune-a-model-for-you-end-to-end.md"
     },
     {
         "title": "AI Life: Another Day, Another Line of Code (But at Least It's Not Paint Drying)",
@@ -109548,6 +109713,17 @@
         "file": "which-claude-code-session-is-waiting-on-you-a-queue-for-agents-that-stopped-to-ask.md"
     },
     {
+        "title": "Tripadvisor Expects SEO Headwinds to Persist Into 2027",
+        "slug": "tripadvisor-expects-seo-headwinds-to-persist-into-2027",
+        "author": "Ali Farhat",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 21:30:30 +0000",
+        "description": "Tripadvisor expects SEO-related pressure on growth to continue into 2027, a notable signal from one of travel search’s largest established brands. The compan...",
+        "keywords": "tripadvisor, search, seo, not, travel, traffic, can, revenue",
+        "generated": "2026-11-08T21:52:37.464437",
+        "file": "tripadvisor-expects-seo-headwinds-to-persist-into-2027.md"
+    },
+    {
         "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
         "slug": "spf-record-syntax-mechanisms-qualifiers-modifiers-and-macros",
         "author": "meysamazad",
@@ -109656,6 +109832,17 @@
         "keywords": "online, license, server, prometheusdev, software, tools, developers, ctos",
         "generated": "2026-06-26T09:38:14.828573",
         "file": "online-license-server-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "Runique 4.0: a typed admin, column-level permissions, and forms that write correctly",
+        "slug": "runique-40-a-typed-admin-column-level-permissions-and-forms-that-write-correctly",
+        "author": "itsuki",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 21:30:51 +0000",
+        "description": "In June, I presented Runique 2.1 here, a Rust web framework inspired by Django, built on Axum, SeaORM, and Tera. Version 3.0 followed. Today, 4.0 is released...",
+        "keywords": "form, blog, request, admin, column, runique, what, version",
+        "generated": "2026-11-08T21:52:37.462170",
+        "file": "runique-40-a-typed-admin-column-level-permissions-and-forms-that-write-correctly.md"
     },
     {
         "title": "Building Enterprise AI Applications: It's Not About the Model. It's About the System",
@@ -110602,6 +110789,17 @@
         "keywords": "you, model, client, deepseek, tokens, your, one, models",
         "generated": "2026-06-24T04:04:51.773558",
         "file": "how-i-stopped-bleeding-money-on-ai-apis-a-freelancers-guide.md"
+    },
+    {
+        "title": "osFoundry는 왜 Codex에게 핸드오프 제안과 run 요청을 다른 툴로 줄까",
+        "slug": "osfoundry-codex-run",
+        "author": "BBT",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 20:47:45 +0000",
+        "description": "osFoundry MCP 서버에 로그인 전 Codex CLI가 세션 툴을 처음 호출하면 이렇게 돌아온다. POST /api/v1/external-mcp {method:tools/call,params:{name:propose_session_handoff,argum...",
+        "keywords": "yes, run, osfoundry, goal, reject, true, false, runner",
+        "generated": "2026-11-08T21:52:37.460803",
+        "file": "osfoundry-codex-run.md"
     },
     {
         "title": "Excel to Visio After Data Visualizer Retirement: 3 Practical Workflows",
@@ -119404,6 +119602,17 @@
         "file": "stay-discoverable-in-search-while-disallowing-ai-training.md"
     },
     {
+        "title": "Hoje é #domingo. Use sua IA para algo besta, por favor.",
+        "slug": "hoje-domingo-use-sua-ia-para-algo-besta-por-favor",
+        "author": "Leo Thomas Monteiro",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 21:33:22 +0000",
+        "description": "Hoje é #domingo. Eu vou compartilhar um flow de algo legal de domingo, algo não-profissional, uma prevenção de burnout. Tipo, DOMINGO mesmo. Com IA, já que e...",
+        "keywords": "uma, com, que, domingo, para, algo, legal, linkedin",
+        "generated": "2026-11-08T21:52:37.463405",
+        "file": "hoje-domingo-use-sua-ia-para-algo-besta-por-favor.md"
+    },
+    {
         "title": "Simplify Browser Interactions in React with useDownload and useNotifications",
         "slug": "simplify-browser-interactions-in-react-with-usedownload-and-usenotifications",
         "author": "Saurav Pandey",
@@ -119490,6 +119699,17 @@
         "keywords": "agents, unsanctioned, openai, coordinate, hugging, face, hack, multi",
         "generated": "2026-09-04T20:35:59.566086",
         "file": "openai-agents-coordinate-unsanctioned-hugging-face-hack.md"
+    },
+    {
+        "title": "Temperature 0, same model, two different GPUs: find the word that splits them, then pin it",
+        "slug": "temperature-0-same-model-two-different-gpus-find-the-word-that-splits-them-then-pin-it",
+        "author": "Dekita",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 21:32:20 +0000",
+        "description": "You set the temperature to 0, you fix the seed, you run the same GGUF file, and the two GPUs disagree. One says 20. The other says 2000. Neither of them is w...",
+        "keywords": "two, one, you, not, same, card, token, run",
+        "generated": "2026-11-08T21:52:37.464004",
+        "file": "temperature-0-same-model-two-different-gpus-find-the-word-that-splits-them-then-pin-it.md"
     },
     {
         "title": "Array Iteration Methods in Javascript",
