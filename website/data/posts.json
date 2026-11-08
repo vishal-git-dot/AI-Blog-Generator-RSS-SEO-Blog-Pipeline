@@ -9868,6 +9868,17 @@
         "file": "prompt-injection-is-the-new-sql-injection-a-checklist-for-teams-shipping-llm-features.md"
     },
     {
+        "title": "SGLang vs vLLM: what prefix caching really saves",
+        "slug": "sglang-vs-vllm-what-prefix-caching-really-saves",
+        "author": "Abdul Rehman",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 13:00:00 +0000",
+        "description": "SGLang vs vLLM mostly comes down to one question: how much of your prompt do your requests have in common? SGLang is built around a prefix cache called Radix...",
+        "keywords": "vllm, sglang, prefix, caching, one, requests, cache, long",
+        "generated": "2026-11-08T13:02:50.716824",
+        "file": "sglang-vs-vllm-what-prefix-caching-really-saves.md"
+    },
+    {
         "title": "Your Pipeline Is 15.2h Behind: Catching Finance Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-152h-behind-catching-finance-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -23066,6 +23077,17 @@
         "file": "claude-cowork-acts-across-your-files-now-confidence-is-not-correctness.md"
     },
     {
+        "title": "Your best leads go cold while you are busy doing actual work",
+        "slug": "your-best-leads-go-cold-while-you-are-busy-doing-actual-work",
+        "author": "Orion ai",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 13:01:24 +0000",
+        "description": "Your leads are going cold right now. You check your contact form in the evening after a long day of client work. A prospective client sent a detailed message...",
+        "keywords": "you, your, can, agent, orion, leads, cold, work",
+        "generated": "2026-11-08T13:02:50.719868",
+        "file": "your-best-leads-go-cold-while-you-are-busy-doing-actual-work.md"
+    },
+    {
         "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
         "slug": "blood-cells-from-80-year-old-donor-become-stem-cells-with-molecular-age-under-20",
         "author": "arunc",
@@ -27147,6 +27169,17 @@
         "file": "the-paper-reported-jumps-like-21-to-97-my-replication-got-2.md"
     },
     {
+        "title": "How I Keep the Same Face Across AI Portraits: My Face-Lock Workflow for Leonardo and ChatGPT",
+        "slug": "how-i-keep-the-same-face-across-ai-portraits-my-face-lock-workflow-for-leonardo-and-chatgpt",
+        "author": "ZhuAI Studio",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 13:00:56 +0000",
+        "description": "The biggest problem with AI portraits isn't quality — it's consistency. Ask any generator for the same person ten times and you'll get ten different faces. T...",
+        "keywords": "face, identity, block, keep, one, your, prompt, same",
+        "generated": "2026-11-08T13:02:50.720649",
+        "file": "how-i-keep-the-same-face-across-ai-portraits-my-face-lock-workflow-for-leonardo-and-chatgpt.md"
+    },
+    {
         "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
         "slug": "the-megadonors-who-have-poured-12b-into-the-midterms",
         "author": "doener",
@@ -27519,6 +27552,17 @@
         "keywords": "claude, hooks, you, hook, your, tool, command, every",
         "generated": "2026-07-12T19:12:47.062228",
         "file": "how-to-use-claude-code-hooks-turn-rules-into-guarantees.md"
+    },
+    {
+        "title": "Building Ultra-Low Latency Cloud Infrastructure in South Asia: Proxmox KVM Peered with BDIX",
+        "slug": "building-ultra-low-latency-cloud-infrastructure-in-south-asia-proxmox-kvm-peered-with-bdix",
+        "author": "MD Rashaduzzaman",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 12:43:15 +0000",
+        "description": "Over the past decade, South Asian web developers, agencies, and enterprises frequently faced an infrastructural dilemma: rely on Singapore or US-based hyper-...",
+        "keywords": "cloud, bdix, local, latency, south, web, developers, cloudjinix",
+        "generated": "2026-11-08T13:02:50.719456",
+        "file": "building-ultra-low-latency-cloud-infrastructure-in-south-asia-proxmox-kvm-peered-with-bdix.md"
     },
     {
         "title": "Europe Enters the Chat: Mistral Large 4 Rivals the AI Giants",
@@ -31183,6 +31227,17 @@
         "keywords": "protocol, context, mcp, model, integration, data, your, application",
         "generated": "2026-06-16T11:22:59.968022",
         "file": "understanding-model-context-protocol-a-developers-introduction.md"
+    },
+    {
+        "title": "Person of Interest",
+        "slug": "person-of-interest",
+        "author": "krthr",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 11:23:28 +0000",
+        "description": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 80 # Comments: 41",
+        "keywords": "person, interest, url, https, comments, article, krthr, news",
+        "generated": "2026-11-08T13:02:50.716134",
+        "file": "person-of-interest.md"
     },
     {
         "title": "Self hosted email continues to steeply decline",
@@ -35897,6 +35952,17 @@
         "file": "how-web-studios-can-prepare-for-the-morlix-cms-closed-beta.md"
     },
     {
+        "title": "OpenAI Math Proofs Explained: Has AI Solved Math Problems? What the 722 Manuscripts Really Show",
+        "slug": "openai-math-proofs-explained-has-ai-solved-math-problems-what-the-722-manuscripts-really-show",
+        "author": "Ahsan Nadeem",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 13:00:11 +0000",
+        "description": "On 6 October 2026, OpenAI posted 722 maths manuscripts from an unreleased AI model to GitHub, claiming progress on 372 open problems. A day later it withdrew...",
+        "keywords": "openai, math, lean, october, https, com, problems, manuscripts",
+        "generated": "2026-11-08T13:02:50.722205",
+        "file": "openai-math-proofs-explained-has-ai-solved-math-problems-what-the-722-manuscripts-really-show.md"
+    },
+    {
         "title": "The Religion of Speed",
         "slug": "the-religion-of-speed",
         "author": "MobiusHorizons",
@@ -38304,6 +38370,17 @@
         "keywords": "goygram, one, python, both, telegram, bot, rust, aes",
         "generated": "2026-08-30T20:50:18.008877",
         "file": "goygram-one-python-runtime-for-both-telegram-bot-api-and-mtproto-with-a-rust-core-and-opsec-first-sessions.md"
+    },
+    {
+        "title": "Decode a UTF-8 Stream Across Chunk Boundaries, Then Flush It",
+        "slug": "decode-a-utf-8-stream-across-chunk-boundaries-then-flush-it",
+        "author": "TokenPeak",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 13:00:00 +0000",
+        "description": "A byte reader can return a chunk halfway through a character. Calling chunk.decode(utf-8) independently on each chunk treats a transport boundary as a text...",
+        "keywords": "self, decoder, final, utf, chunk, decode, byte, text",
+        "generated": "2026-11-08T13:02:50.717118",
+        "file": "decode-a-utf-8-stream-across-chunk-boundaries-then-flush-it.md"
     },
     {
         "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
@@ -44752,6 +44829,17 @@
         "file": "ps5-jailbreaks-are-escalating-at-an-unprecedented-pace.md"
     },
     {
+        "title": "Design a File Uploader That Survives a Dead Connection",
+        "slug": "design-a-file-uploader-that-survives-a-dead-connection",
+        "author": "Nadeem Ur-Rehman",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 12:42:32 +0000",
+        "description": "The interviewer says design a file uploader and every candidate draws the same thing. A box, a button, a progress bar. Four minutes in, the whiteboard look...",
+        "keywords": "you, file, not, state, user, chunk, client, uploader",
+        "generated": "2026-11-08T13:02:50.719745",
+        "file": "design-a-file-uploader-that-survives-a-dead-connection.md"
+    },
+    {
         "title": "Salesforce Debuts Koa, a CRM-Specific Reasoning Model Built on NVIDIA Nemotron",
         "slug": "salesforce-debuts-koa-a-crm-specific-reasoning-model-built-on-nvidia-nemotron",
         "author": "Mikhail Savchenko",
@@ -44959,6 +45047,17 @@
         "keywords": "csv, report, not, should, data, row, input, validation",
         "generated": "2026-07-19T13:36:01.812387",
         "file": "a-csv-quality-report-should-not-echo-the-data-it-rejects.md"
+    },
+    {
+        "title": "JIT bitmap text rendering for microcontrollers",
+        "slug": "jit-bitmap-text-rendering-for-microcontrollers",
+        "author": "dmit",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 10:42:15 +0000",
+        "description": "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 19 # Comments: 2",
+        "keywords": "jit, bitmap, text, url, https, comments, rendering, microcontrollers",
+        "generated": "2026-11-08T13:02:50.716395",
+        "file": "jit-bitmap-text-rendering-for-microcontrollers.md"
     },
     {
         "title": "FutureX · Physical AI Daily — Issue 78 (08/04)",
@@ -50065,6 +50164,17 @@
         "file": "gpu-unlock-fpbf16-instruction-issue-rate-on-nvidia-3000s-cards.md"
     },
     {
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "slug": "agent-memory-needs-its-opentelemetry-moment",
+        "author": "mthines",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 08:40:23 +0000",
+        "description": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 68 # Comments: 64",
+        "keywords": "agent, memory, url, https, comments, needs, its, opentelemetry",
+        "generated": "2026-11-08T13:02:50.716543",
+        "file": "agent-memory-needs-its-opentelemetry-moment.md"
+    },
+    {
         "title": "I Replaced Whisper with Parakeet on a $55/Month CPU Server. Here Is What Actually Happened",
         "slug": "i-replaced-whisper-with-parakeet-on-a-55month-cpu-server-here-is-what-actually-happened",
         "author": "Melvin Bucio",
@@ -52483,6 +52593,17 @@
         "keywords": "developers, role, candidates, team, looking, you, remote, opportunities",
         "generated": "2026-07-15T13:53:37.360870",
         "file": "remote-opportunities-open-for-developers.md"
+    },
+    {
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "slug": "llama-modchip-284b-deepseek-on-64gb-ram-no-gpu",
+        "author": "joshcsimmons",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 10:22:04 +0000",
+        "description": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 24 # Comments: 10",
+        "keywords": "llama, modchip, url, https, com, comments, deepseek, ram",
+        "generated": "2026-11-08T13:02:50.716472",
+        "file": "llama-modchip-284b-deepseek-on-64gb-ram-no-gpu.md"
     },
     {
         "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
@@ -63792,6 +63913,17 @@
         "file": "how-to-convert-excel-to-pdf-with-python-automation.md"
     },
     {
+        "title": "How to Use Claude in 2026: From First Chat to Cowork (4 Levels, Beginner to Pro)",
+        "slug": "how-to-use-claude-in-2026-from-first-chat-to-cowork-4-levels-beginner-to-pro",
+        "author": "Saurabh Bhayana",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 13:00:26 +0000",
+        "description": "This guide was first published on saurabhbhayana.com . Be honest: how do you use Claude? You open it, type one question, read the answer, and close the tab. ...",
+        "keywords": "you, claude, work, your, use, model, what, chat",
+        "generated": "2026-11-08T13:02:50.721219",
+        "file": "how-to-use-claude-in-2026-from-first-chat-to-cowork-4-levels-beginner-to-pro.md"
+    },
+    {
         "title": "Grok 4.6 vs 4.5: Migrate Long-Running Agents by Accepted-Task Cost",
         "slug": "grok-46-vs-45-migrate-long-running-agents-by-accepted-task-cost",
         "author": "Ahab",
@@ -65233,6 +65365,17 @@
         "file": "a-domain-that-doesnt-exist-returns-http-200-ok.md"
     },
     {
+        "title": "'Almost Right' Agent Code Is Worse Than Wrong Code. It's Devs' Top AI Complaint",
+        "slug": "almost-right-agent-code-is-worse-than-wrong-code-its-devs-top-ai-complaint",
+        "author": "Gabriel Anhaia",
+        "source": "devto_ai",
+        "published": "Sun, 08 Nov 2026 13:01:23 +0000",
+        "description": "Book: LLM Observability Pocket Guide Also by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go My project:...",
+        "keywords": "code, test, you, agent, right, turn, almost, diff",
+        "generated": "2026-11-08T13:02:50.720329",
+        "file": "almost-right-agent-code-is-worse-than-wrong-code-its-devs-top-ai-complaint.md"
+    },
+    {
         "title": "Detecta si tu modelo de materiales hace trampa con la 'huella bibliográfica'",
         "slug": "detecta-si-tu-modelo-de-materiales-hace-trampa-con-la-huella-bibliogrfica",
         "author": "Fenix",
@@ -65319,6 +65462,17 @@
         "keywords": "refurbishing, tektronix, url, https, comments, oscilloscope, article, tomverbeure",
         "generated": "2026-09-01T20:51:44.949597",
         "file": "refurbishing-a-tektronix-tds7104-oscilloscope.md"
+    },
+    {
+        "title": "How I used parallel Claude Code agents to write hundreds of Chinese working lives",
+        "slug": "how-i-used-parallel-claude-code-agents-to-write-hundreds-of-chinese-working-lives",
+        "author": "Elodie Hao Liu",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 12:53:10 +0000",
+        "description": "My side project is a game I'm building. This is the side project of that side project. One Job, One Life is a free browser game. You draw a random job card (...",
+        "keywords": "you, one, what, card, agents, each, job, career",
+        "generated": "2026-11-08T13:02:50.718577",
+        "file": "how-i-used-parallel-claude-code-agents-to-write-hundreds-of-chinese-working-lives.md"
     },
     {
         "title": "How to build high-converting in-app announcements without sacrificing INP & LCP",
@@ -67794,6 +67948,17 @@
         "keywords": "cycle, agent, nautilus, prime, llm, bug, cot, chain",
         "generated": "2026-06-19T19:55:28.883890",
         "file": "494-cycle.md"
+    },
+    {
+        "title": "How to get German job listings from the Arbeitsagentur as JSON or CSV (Python and n8n)",
+        "slug": "how-to-get-german-job-listings-from-the-arbeitsagentur-as-json-or-csv-python-and-n8n",
+        "author": "Fast Data",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 12:44:54 +0000",
+        "description": "The Bundesagentur für Arbeit (Federal Employment Agency) runs Germany's largest job board, the Jobsuche . Its search is also reachable as data, which makes i...",
+        "keywords": "job, title, data, location, jobs, arbeitsagentur, search, you",
+        "generated": "2026-11-08T13:02:50.717768",
+        "file": "how-to-get-german-job-listings-from-the-arbeitsagentur-as-json-or-csv-python-and-n8n.md"
     },
     {
         "title": "Meet Chatrove: a 100% local, open-source vault for your AI chats",
@@ -77836,6 +78001,17 @@
         "file": "is-an-ide-setup-like-a-video-game-menu-a-way-to-get-more-people-coding.md"
     },
     {
+        "title": "Architecting Sub-3-Second OTP & Transactional SMS Gateways: Direct Telecom Routing in Bangladesh",
+        "slug": "architecting-sub-3-second-otp-transactional-sms-gateways-direct-telecom-routing-in-bangladesh",
+        "author": "MD Rashaduzzaman",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 12:46:46 +0000",
+        "description": "Transactional alerts, multi-factor authentication (MFA/OTP), and automated order confirmations are vital for digital commerce and fintech ecosystems. In Bang...",
+        "keywords": "sms, otp, second, direct, smsbd, sub, transactional, telecom",
+        "generated": "2026-11-08T13:02:50.719217",
+        "file": "architecting-sub-3-second-otp-transactional-sms-gateways-direct-telecom-routing-in-bangladesh.md"
+    },
+    {
         "title": "Twelve of My Fifteen Products Had Exactly 7 Visits. The 7 Was My Own Check.",
         "slug": "twelve-of-my-fifteen-products-had-exactly-7-visits-the-7-was-my-own-check",
         "author": "Sungsoo Youn",
@@ -87303,6 +87479,17 @@
         "file": "codex-with-chatgpt-connect-your-chatgpt-web-subscription-as-the-planning-brain-for-codex.md"
     },
     {
+        "title": "Petered (what happens after the Peter Principle)",
+        "slug": "petered-what-happens-after-the-peter-principle",
+        "author": "adrianhoward",
+        "source": "hackernews",
+        "published": "Sun, 08 Nov 2026 10:56:43 +0000",
+        "description": "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 43 # Comments: 20",
+        "keywords": "petered, url, https, com, comments, what, happens, after",
+        "generated": "2026-11-08T13:02:50.716303",
+        "file": "petered-what-happens-after-the-peter-principle.md"
+    },
+    {
         "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
         "slug": "kyber-yc-w23-is-hiring-a-head-of-engineering",
         "author": "asontha",
@@ -90533,6 +90720,17 @@
         "keywords": "cone, ring, socket, pin, rings, pair, parent, print",
         "generated": "2026-10-24T04:04:22.633175",
         "file": "print-in-place-gimbal-rings-in-python-cone-pins-that-never-fuse-manifold3d.md"
+    },
+    {
+        "title": "I Submitted My Free Tool to 100+ Directories — Here's What Actually Works (and What's a Trap)",
+        "slug": "i-submitted-my-free-tool-to-100-directories-heres-what-actually-works-and-whats-a-trap",
+        "author": "Shahzaib",
+        "source": "devto_webdev",
+        "published": "Sun, 08 Nov 2026 12:49:43 +0000",
+        "description": "I build free PDF tools that run 100% in the browser — no signup, no upload, no server. The site now has 61 tools. Building it was the fun part. Getting anyon...",
+        "keywords": "free, you, your, live, site, directories, directory, badge",
+        "generated": "2026-11-08T13:02:50.719029",
+        "file": "i-submitted-my-free-tool-to-100-directories-heres-what-actually-works-and-whats-a-trap.md"
     },
     {
         "title": "A referee for lip-sync: scoring whether audio and video match with two embedding towers",
@@ -95118,6 +95316,17 @@
         "keywords": "you, not, free, reach, item, model, items, will",
         "generated": "2026-10-11T21:42:13.758744",
         "file": "i-split-the-score-reach-was-never-a-pass.md"
+    },
+    {
+        "title": "Three Credential Patterns in One Repo, and Which One Survives a Fresh Container",
+        "slug": "three-credential-patterns-in-one-repo-and-which-one-survives-a-fresh-container",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 12:43:47 +0000",
+        "description": "How do AI agents authenticate? keeps coming up as a trending question, and most of the answers I've seen stop at use OAuth or use a secrets manager as ...",
+        "keywords": "one, there, pattern, file, env, three, script, line",
+        "generated": "2026-11-08T13:02:50.718131",
+        "file": "three-credential-patterns-in-one-repo-and-which-one-survives-a-fresh-container.md"
     },
     {
         "title": "OpenAI Interview Question: Your Counter Works. Now Let Events Arrive Late.",
@@ -116245,6 +116454,17 @@
         "keywords": "radio, tuner, url, https, com, comments, article, github",
         "generated": "2026-08-16T01:41:13.466185",
         "file": "tea5767-radio-tuner.md"
+    },
+    {
+        "title": "I made Pong, then added 145 ways to ruin it",
+        "slug": "i-made-pong-then-added-145-ways-to-ruin-it",
+        "author": "Gotharden",
+        "source": "devto_python",
+        "published": "Sun, 08 Nov 2026 12:52:26 +0000",
+        "description": "It started with a pretty simple idea, i wanted a more fun version of Pong that I could just launch and play offline The original game is great, but after a w...",
+        "keywords": "game, pong, wanted, can, event, effects, events, simple",
+        "generated": "2026-11-08T13:02:50.717379",
+        "file": "i-made-pong-then-added-145-ways-to-ruin-it.md"
     },
     {
         "title": "A Ilusão da Disponibilidade Ininterrupta e o Esgotamento Operacional",
