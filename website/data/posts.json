@@ -2311,6 +2311,17 @@
         "file": "font-loading-strategies-font-display-variable-fonts-subsetting-and-foit-prevention.md"
     },
     {
+        "title": "The 2026 .cursorrules, CLAUDE.md & MCP Server Config Playbook (Plus Free Interactive Generator)",
+        "slug": "the-2026-cursorrules-claudemd-mcp-server-config-playbook-plus-free-interactive-generator",
+        "author": "Wlegend369",
+        "source": "devto_webdev",
+        "published": "Mon, 09 Nov 2026 15:35:50 +0000",
+        "description": "If you use Cursor , Claude Code , Windsurf , or custom MCP (Model Context Protocol) agents in 2026, you already know the #1 bottleneck isn't model intelligen...",
+        "keywords": "claude, mcp, cursorrules, free, tool, generator, your, developer",
+        "generated": "2026-11-09T15:46:00.540194",
+        "file": "the-2026-cursorrules-claudemd-mcp-server-config-playbook-plus-free-interactive-generator.md"
+    },
+    {
         "title": "Age verification is just a precursor to automated attribution of speech",
         "slug": "age-verification-is-just-a-precursor-to-automated-attribution-of-speech",
         "author": "arkhiver",
@@ -5708,6 +5719,17 @@
         "keywords": "deepseek, search, url, https, com, comments, fetch, per",
         "generated": "2026-10-18T10:43:33.394274",
         "file": "deepseek-search-and-fetch-075-per-1000-successful-requests.md"
+    },
+    {
+        "title": "PerimeterX _px3: the two expiries that kill your cookie (and the s2s path that has none)",
+        "slug": "perimeterx-px3-the-two-expiries-that-kill-your-cookie-and-the-s2s-path-that-has-none",
+        "author": "Lsr",
+        "source": "devto_python",
+        "published": "Mon, 09 Nov 2026 15:28:59 +0000",
+        "description": "PerimeterX (today HUMAN Security) does not ask your scraper a question at request time. It hands out a cookie, _px3 , that says this visitor already passed...",
+        "keywords": "cookie, request, you, not, one, server, session, perimeterx",
+        "generated": "2026-11-09T15:46:00.539049",
+        "file": "perimeterx-px3-the-two-expiries-that-kill-your-cookie-and-the-s2s-path-that-has-none.md"
     },
     {
         "title": "Ten YouTube Comments, One Commenter: What a Reply Budget Does to Your Sample",
@@ -18041,6 +18063,17 @@
         "file": "10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now.md"
     },
     {
+        "title": "Express.js for Beginners: Build Your First Backend in Minutes",
+        "slug": "expressjs-for-beginners-build-your-first-backend-in-minutes",
+        "author": "Arhan Khan",
+        "source": "devto_webdev",
+        "published": "Mon, 09 Nov 2026 15:33:40 +0000",
+        "description": "Express.js is the most popular framework for building backends with Node.js. It is a thin, fast layer on top of Node that handles the boring parts — routing ...",
+        "keywords": "express, your, you, node, server, route, backend, can",
+        "generated": "2026-11-09T15:46:00.540619",
+        "file": "expressjs-for-beginners-build-your-first-backend-in-minutes.md"
+    },
+    {
         "title": "In the wake of closure, a digital archive of animated materials appears online",
         "slug": "in-the-wake-of-closure-a-digital-archive-of-animated-materials-appears-online",
         "author": "rdmuser",
@@ -25200,6 +25233,17 @@
         "file": "the-70-problem-why-sales-automation-keeps-failing-a-systems-perspective.md"
     },
     {
+        "title": "A remote job digest in about 100 lines of Python (no API key)",
+        "slug": "a-remote-job-digest-in-about-100-lines-of-python-no-api-key",
+        "author": "ixilig",
+        "source": "devto_python",
+        "published": "Mon, 09 Nov 2026 15:39:29 +0000",
+        "description": "Job boards are noisy. I wanted one short list: remote jobs from the last few days that match my keywords, with the titles I do not want filtered out. RemoteO...",
+        "keywords": "python, jobs, days, job, one, not, feed, remote",
+        "generated": "2026-11-09T15:46:00.537837",
+        "file": "a-remote-job-digest-in-about-100-lines-of-python-no-api-key.md"
+    },
+    {
         "title": "Only a Flake-Class Exit May Open the Lease",
         "slug": "only-a-flake-class-exit-may-open-the-lease",
         "author": "Finley Zhou",
@@ -26034,6 +26078,17 @@
         "keywords": "almoasfat, alkyasy, oalmoad, almstkhdm, mblt, syramyk, oborslyn, bdakhl",
         "generated": "2026-08-02T03:28:39.841144",
         "file": "almoasfat-alkyasy-oalmoad-almstkhdm-fy-mblt-syramyk-oborslyn-bdakhl-alamarat-alaarby-almthd.md"
+    },
+    {
+        "title": "AI Made Writing Code 10x Faster. It Made Code Reviews 10x Harder.",
+        "slug": "ai-made-writing-code-10x-faster-it-made-code-reviews-10x-harder",
+        "author": "exortic labs",
+        "source": "devto_webdev",
+        "published": "Mon, 09 Nov 2026 15:35:45 +0000",
+        "description": "Over the past year, writing code became almost effortless. You give an AI agent a prompt, it writes 300 lines across four files, and you open a pull request ...",
+        "keywords": "code, lines, human, made, writing, faster, you, writes",
+        "generated": "2026-11-09T15:46:00.540364",
+        "file": "ai-made-writing-code-10x-faster-it-made-code-reviews-10x-harder.md"
     },
     {
         "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
@@ -29444,6 +29499,17 @@
         "keywords": "gmail, accounts, old, available, buysmmservice, quality, email, high",
         "generated": "2026-07-03T14:21:09.820787",
         "file": "10-steps-to-buying-old-gmail-accounts-in-bulk-pva-aged.md"
+    },
+    {
+        "title": "Building a source-linked trade-fair directory without inventing missing data",
+        "slug": "building-a-source-linked-trade-fair-directory-without-inventing-missing-data",
+        "author": "Global Expo",
+        "source": "devto_webdev",
+        "published": "Mon, 09 Nov 2026 15:36:34 +0000",
+        "description": "Trade-fair directories often look complete because every field has a value. The harder engineering question is whether each value has a source, a date and a ...",
+        "keywords": "source, data, global, expo, directory, missing, field, value",
+        "generated": "2026-11-09T15:46:00.540007",
+        "file": "building-a-source-linked-trade-fair-directory-without-inventing-missing-data.md"
     },
     {
         "title": "Anthropic: The Situation Report",
@@ -39888,6 +39954,17 @@
         "keywords": "ice, body, article, url, https, com, comments, will",
         "generated": "2026-08-07T19:04:02.691636",
         "file": "ice-will-release-body-cam-video-only-when-seen-in-the-agencys-best-interests.md"
+    },
+    {
+        "title": "Humans will never again create a project like Wikipedia",
+        "slug": "humans-will-never-again-create-a-project-like-wikipedia",
+        "author": "edward",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 12:30:20 +0000",
+        "description": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinato...",
+        "keywords": "humans, will, never, again, create, project, like, wikipedia",
+        "generated": "2026-11-09T15:46:00.537449",
+        "file": "humans-will-never-again-create-a-project-like-wikipedia.md"
     },
     {
         "title": "Working with academic communities to build scientific understanding",
@@ -52120,6 +52197,17 @@
         "keywords": "json, line, you, quotes, diff, use, your, debug",
         "generated": "2026-10-07T05:20:33.233018",
         "file": "how-to-debug-json-errors-fast-a-practical-guide.md"
+    },
+    {
+        "title": "An AI agent directory reviewed my free website builder: 8/10, and one fair hit",
+        "slug": "an-ai-agent-directory-reviewed-my-free-website-builder-810-and-one-fair-hit",
+        "author": "TimofeUS",
+        "source": "devto_webdev",
+        "published": "Mon, 09 Nov 2026 15:37:55 +0000",
+        "description": "TapToAgent , a directory of free AI agents, just listed openconstructor , my free, open-source AI interface builder, and gave it 8/10 . What I like about the...",
+        "keywords": "free, one, you, page, directory, open, account, can",
+        "generated": "2026-11-09T15:46:00.539809",
+        "file": "an-ai-agent-directory-reviewed-my-free-website-builder-810-and-one-fair-hit.md"
     },
     {
         "title": "Suno AI Music MOD APK v2.1.0 (Unlimited Credits / Pro Studio Unlocked 2026) (2026 Technical Review & Guide)",
@@ -66366,6 +66454,17 @@
         "file": "ai-tool-that-turns-tweets-into-viral-videos-the-2025-operator-playbook.md"
     },
     {
+        "title": "Make the agent link the Storybook story in the PR body",
+        "slug": "make-the-agent-link-the-storybook-story-in-the-pr-body",
+        "author": "Sherotree",
+        "source": "devto_ai",
+        "published": "Mon, 09 Nov 2026 15:37:13 +0000",
+        "description": "A UI PR that says “added Empty and Error stories” without a link is half-finished handoff. Reviewers open Storybook, guess the title, scroll the sidebar, and...",
+        "keywords": "story, storybook, stories, empty, url, link, path, open",
+        "generated": "2026-11-09T15:46:00.542709",
+        "file": "make-the-agent-link-the-storybook-story-in-the-pr-body.md"
+    },
+    {
         "title": "audit the detection, not the reasoning",
         "slug": "audit-the-detection-not-the-reasoning",
         "author": "이령",
@@ -71457,6 +71556,17 @@
         "file": "from-hookswitch-to-grave.md"
     },
     {
+        "title": "Zebkit – Chromium as an embeddable library",
+        "slug": "zebkit-chromium-as-an-embeddable-library",
+        "author": "Riiiiichard",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 14:34:00 +0000",
+        "description": "Article URL: https://github.com/ikey4u/zebkit Comments URL: https://news.ycombinator.com/item?id=50426207 Points: 35 # Comments: 18",
+        "keywords": "zebkit, url, https, com, comments, chromium, embeddable, library",
+        "generated": "2026-11-09T15:46:00.537324",
+        "file": "zebkit-chromium-as-an-embeddable-library.md"
+    },
+    {
         "title": "NixieFX vs three.quarks: the same 160-particle burst in one Three.js scene, measured",
         "slug": "nixiefx-vs-threequarks-the-same-160-particle-burst-in-one-threejs-scene-measured",
         "author": "Sam Novak",
@@ -74845,6 +74955,17 @@
         "file": "i-asked-perplexity-to-rank-my-product-it-put-me-last-heres-my-plan-to-fix-it.md"
     },
     {
+        "title": "Crypto foundation demanded employees endorse suicide pledge",
+        "slug": "crypto-foundation-demanded-employees-endorse-suicide-pledge",
+        "author": "ceejayoz",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 15:23:57 +0000",
+        "description": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id...",
+        "keywords": "crypto, suicide, pledge, url, https, com, comments, foundation",
+        "generated": "2026-11-09T15:46:00.537148",
+        "file": "crypto-foundation-demanded-employees-endorse-suicide-pledge.md"
+    },
+    {
         "title": "Your Pipeline Is 24.1h Behind: Catching Mobile Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-241h-behind-catching-mobile-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -75262,6 +75383,17 @@
         "keywords": "meet, nobel, prize, winners, url, https, com, comments",
         "generated": "2026-09-05T20:09:44.289983",
         "file": "meet-the-ig-nobel-prize-winners.md"
+    },
+    {
+        "title": "Come una nota di osFoundry tiene insieme documento, foglio di calcolo, diagrammi e LaTeX",
+        "slug": "come-una-nota-di-osfoundry-tiene-insieme-documento-foglio-di-calcolo-diagrammi-e-latex",
+        "author": "tauchiii",
+        "source": "devto_ai",
+        "published": "Mon, 09 Nov 2026 15:38:36 +0000",
+        "description": "Mancano tre settimane al lancio di un prodotto. Il piano è un documento in un'app, il budget è un foglio di calcolo in un'altra, lo svolgimento della giornat...",
+        "keywords": "una, scheda, come, nota, che, per, pdf, ogni",
+        "generated": "2026-11-09T15:46:00.541705",
+        "file": "come-una-nota-di-osfoundry-tiene-insieme-documento-foglio-di-calcolo-diagrammi-e-latex.md"
     },
     {
         "title": "Should you wash your solar panels?",
@@ -80432,6 +80564,17 @@
         "file": "instruction-pre-training-language-models-are-supervised-multitask-learners.md"
     },
     {
+        "title": "Streaming FFmpeg Subprocesses: Handling Multi-GB Audio Without Crashing RAM",
+        "slug": "streaming-ffmpeg-subprocesses-handling-multi-gb-audio-without-crashing-ram",
+        "author": "WgeorgeAssistantIA",
+        "source": "devto_python",
+        "published": "Mon, 09 Nov 2026 15:33:08 +0000",
+        "description": "Most audio tutorials in Python start by loading the whole file: import librosa y , sr = librosa . load (  podcast.wav  , sr = None ) # the entire file, dec...",
+        "keywords": "ffmpeg, subprocess, you, stdout, pipe, python, file, stderr",
+        "generated": "2026-11-09T15:46:00.538364",
+        "file": "streaming-ffmpeg-subprocesses-handling-multi-gb-audio-without-crashing-ram.md"
+    },
+    {
         "title": "Build Large-Scale Outdoor Mesh Networks with Qualcomm IPQ5018 DR5018S – 10-Hop Transmission, High Stability & Low Signal Loss",
         "slug": "build-large-scale-outdoor-mesh-networks-with-qualcomm-ipq5018-dr5018s-10-hop-transmission-high-stability-low-signal-loss",
         "author": "Alan curry",
@@ -80903,6 +81046,17 @@
         "keywords": "you, market, position, engine, system, one, order, what",
         "generated": "2026-08-12T02:22:46.156119",
         "file": "im-building-an-algorithmic-trading-system-in-python.md"
+    },
+    {
+        "title": "What is malloc doing, anyway?",
+        "slug": "what-is-malloc-doing-anyway",
+        "author": "benmandrew",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 11:31:05 +0000",
+        "description": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 85 # Comments: 18",
+        "keywords": "what, malloc, doing, anyway, url, https, com, comments",
+        "generated": "2026-11-09T15:46:00.537652",
+        "file": "what-is-malloc-doing-anyway.md"
     },
     {
         "title": "A Practical 2026 Stack for Site Modeling: Shapezo, CityEngine, Civil 3D, Meshy, and Tripo3D",
@@ -86962,6 +87116,17 @@
         "file": "how-parents-can-collaborate-with-special-education-specialists-for-student-success.md"
     },
     {
+        "title": "Why Fragmented Formulas Ruin Math RAG (and How to Extract Clean LaTeX Blocks from Technical PDFs)",
+        "slug": "why-fragmented-formulas-ruin-math-rag-and-how-to-extract-clean-latex-blocks-from-technical-pdfs",
+        "author": "KolmoPDF",
+        "source": "devto_python",
+        "published": "Mon, 09 Nov 2026 15:26:13 +0000",
+        "description": "This article is part of the **PDF Parsing for RAG * series. In Part 1 , we analyzed multi-column reading order braiding. In Part 2 , we reconstructed borderl...",
+        "keywords": "text, math, mathematical, line, span, font, latex, blocks",
+        "generated": "2026-11-09T15:46:00.539550",
+        "file": "why-fragmented-formulas-ruin-math-rag-and-how-to-extract-clean-latex-blocks-from-technical-pdfs.md"
+    },
+    {
         "title": "50MB operating system can resurrect your old PC",
         "slug": "50mb-operating-system-can-resurrect-your-old-pc",
         "author": "makerdiety",
@@ -91998,6 +92163,17 @@
         "file": "26-reviewer-agents-out-of-27-approved-a-test-that-can-never-fail-again.md"
     },
     {
+        "title": "I asked 4 top AI models (Claude, ChatGPT, Gemini, AI Overview) to build a video automation script. They all lied. Here is the proof.",
+        "slug": "i-asked-4-top-ai-models-claude-chatgpt-gemini-ai-overview-to-build-a-video-automation-script-they-all-lied-here-is-the-proof",
+        "author": "Dimitrije Rodic",
+        "source": "devto_python",
+        "published": "Mon, 09 Nov 2026 15:33:06 +0000",
+        "description": "Title (Naslov) Klikni na ono veliko polje gde piše New post title here... i zalepi tačno ovo: I asked 4 top AI models (Claude, ChatGPT, Gemini, AI Overview) ...",
+        "keywords": "they, code, video, here, proof, image, not, asked",
+        "generated": "2026-11-09T15:46:00.538610",
+        "file": "i-asked-4-top-ai-models-claude-chatgpt-gemini-ai-overview-to-build-a-video-automation-script-they-all-lied-here-is-the-proof.md"
+    },
+    {
         "title": "My AI agent tried to ship a mistake we'd already reverted",
         "slug": "my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted",
         "author": "Mason Delan",
@@ -95450,6 +95626,17 @@
         "file": "our-test-asked-for-4-branches-ran-1-and-reported-pass.md"
     },
     {
+        "title": "How to Read Full Web Pages in an n8n AI Agent (Search, then Extract to Markdown)",
+        "slug": "how-to-read-full-web-pages-in-an-n8n-ai-agent-search-then-extract-to-markdown",
+        "author": "AgentSearch",
+        "source": "devto_ai",
+        "published": "Mon, 09 Nov 2026 15:40:19 +0000",
+        "description": "How to Read Full Web Pages in an n8n AI Agent (Search, then Extract to Markdown) Search snippets are a few sentences long. When your n8n AI Agent needs the f...",
+        "keywords": "agentsearch, mcp, extract, agent, search, tool, node, wallet",
+        "generated": "2026-11-09T15:46:00.541272",
+        "file": "how-to-read-full-web-pages-in-an-n8n-ai-agent-search-then-extract-to-markdown.md"
+    },
+    {
         "title": "vozern added to PyPI",
         "slug": "vozern-added-to-pypi",
         "author": "Clyde C",
@@ -96592,6 +96779,17 @@
         "keywords": "you, suite, not, decision, green, accuracy, system, agent",
         "generated": "2026-09-01T16:22:54.368222",
         "file": "green-is-a-measurement-not-a-decision.md"
+    },
+    {
+        "title": "Only the Design of a Local LLM Eval Harness Survives — Rebuilding It for Qwen3.8 27B",
+        "slug": "only-the-design-of-a-local-llm-eval-harness-survives-rebuilding-it-for-qwen38-27b",
+        "author": "kohei_wada",
+        "source": "devto_ai",
+        "published": "Mon, 09 Nov 2026 15:37:11 +0000",
+        "description": "Introduction Three weeks ago, to settle whether Ornith 1.0 35B (MoE 35B/A3B) deserved to be opencode's default on my RTX 5090, I wrote a harness that makes a...",
+        "keywords": "what, model, one, but, not, only, harness, pass",
+        "generated": "2026-11-09T15:46:00.543199",
+        "file": "only-the-design-of-a-local-llm-eval-harness-survives-rebuilding-it-for-qwen38-27b.md"
     },
     {
         "title": "Python Data Types Explained With Practical Examples",
@@ -116819,6 +117017,17 @@
         "file": "an-ai-agent-almost-made-me-run-rm-rf-so-i-built-a-verifier-for-ai-code-published-false.md"
     },
     {
+        "title": "Fold Epic Paper Airplanes",
+        "slug": "fold-epic-paper-airplanes",
+        "author": "vismit2000",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 12:19:22 +0000",
+        "description": "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 320 # Comments: 64",
+        "keywords": "url, https, com, comments, fold, epic, paper, airplanes",
+        "generated": "2026-11-09T15:46:00.537549",
+        "file": "fold-epic-paper-airplanes.md"
+    },
+    {
         "title": "Domains",
         "slug": "domains",
         "author": "wueueueru",
@@ -119622,6 +119831,17 @@
         "keywords": "more",
         "generated": "2026-10-18T10:43:33.398750",
         "file": "more.md"
+    },
+    {
+        "title": "ElevenLabs cost per minute: $0.072 to speak, $0.080 as an agent — and $0.075 at Deepgram",
+        "slug": "elevenlabs-cost-per-minute-0072-to-speak-0080-as-an-agent-and-0075-at-deepgram",
+        "author": "agent002 (a9n9 AI agent)",
+        "source": "devto_ai",
+        "published": "Mon, 09 Nov 2026 15:37:24 +0000",
+        "description": "The same $22 ElevenLabs plan reads as 275,000 characters on its API page and 121,000 credits on the pricing page beside it. Buyers quote the second number: t...",
+        "keywords": "per, minute, agent, elevenlabs, deepgram, voice, characters, you",
+        "generated": "2026-11-09T15:46:00.542347",
+        "file": "elevenlabs-cost-per-minute-0072-to-speak-0080-as-an-agent-and-0075-at-deepgram.md"
     },
     {
         "title": "How to balance AI cost with user intent (1)",
