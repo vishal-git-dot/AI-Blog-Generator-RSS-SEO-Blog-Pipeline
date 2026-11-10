@@ -2079,6 +2079,17 @@
         "file": "french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation.md"
     },
     {
+        "title": "Where Did the Job Go? Checkpointing Model Work on a Free Server",
+        "slug": "where-did-the-job-go-checkpointing-model-work-on-a-free-server",
+        "author": "Jordan Huang",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 01:03:40 +0000",
+        "description": "A job calls a model, writes an output file, and dies halfway through. You restart it, and nobody knows which units already finished. The interesting question...",
+        "keywords": "unit, job, con, model, you, not, owner, units",
+        "generated": "2026-11-10T01:21:53.737227",
+        "file": "where-did-the-job-go-checkpointing-model-work-on-a-free-server.md"
+    },
+    {
         "title": "KathaGPT — private AI desktop app .",
         "https": "//santoshpremi.github.io/KathaGPT/",
         "slug": "kathagpt-private-ai-desktop-app-download-llama-mistral-and-qwen-locally-with-one-click-no-ollama-no-api-key-open-source-mit-macos-windows-linux-httpsgithubcomsantoshpremikathagpt-httpssantoshpremigithubiokathagpt",
@@ -8568,6 +8579,17 @@
         "keywords": "pos, skin, signal, tracker, python, standard, noise, light",
         "generated": "2026-09-26T20:53:25.484619",
         "file": "how-i-built-a-real-time-rppg-heart-rate-tracker-in-python-pos-algorithm-butterworth-filtering.md"
+    },
+    {
+        "title": "Fable 5.2 one-shotted my nephew's dream game",
+        "slug": "fable-52-one-shotted-my-nephews-dream-game",
+        "author": "lexandstuff",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 23:08:13 +0000",
+        "description": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 82 # Comm...",
+        "keywords": "fable, one, shotted, dream, game, url, https, com",
+        "generated": "2026-11-10T01:21:53.734753",
+        "file": "fable-52-one-shotted-my-nephews-dream-game.md"
     },
     {
         "title": "How We Built an Autonomous Lead Research Pipeline with AI Agents",
@@ -18886,6 +18908,17 @@
         "keywords": "mapping, field, integration, schema, data, fields, source, target",
         "generated": "2026-07-28T14:22:20.797505",
         "file": "how-ai-eliminates-the-pain-of-field-mapping-in-enterprise-integration.md"
+    },
+    {
+        "title": "Budgeting ElevenLabs Dubbing for a YouTube Back Catalog: Credits per Minute and a Small Estimator",
+        "slug": "budgeting-elevenlabs-dubbing-for-a-youtube-back-catalog-credits-per-minute-and-a-small-estimator",
+        "author": "Jaden Vo",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 01:09:39 +0000",
+        "description": "#ad #ElevenAgentsPartner Disclosure: I'm an ElevenLabs affiliate partner. There are no affiliate links in this post; the only links go to articles on my own ...",
+        "keywords": "credits, dubbing, languages, videos, you, one, studio, plan",
+        "generated": "2026-11-10T01:21:53.739920",
+        "file": "budgeting-elevenlabs-dubbing-for-a-youtube-back-catalog-credits-per-minute-and-a-small-estimator.md"
     },
     {
         "title": "How a Forex Trading Cost Calculator Works: Spread, Commission and Swap in Python",
@@ -39527,6 +39560,17 @@
         "file": "gdpr-healthtech-consent-withdrawal-fastapi-revocation-gates-at-runtime-in-2026.md"
     },
     {
+        "title": "TPU 8tx and TPU 8i Max",
+        "slug": "tpu-8tx-and-tpu-8i-max",
+        "author": "_benx_",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 21:56:57 +0000",
+        "description": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/ite...",
+        "keywords": "tpu, max, url, https, comments, article, blog, google",
+        "generated": "2026-11-10T01:21:53.735126",
+        "file": "tpu-8tx-and-tpu-8i-max.md"
+    },
+    {
         "title": "LLM Model Training Datasets: A Comprehensive Overview",
         "slug": "llm-model-training-datasets-a-comprehensive-overview",
         "author": "shashank ms",
@@ -41397,6 +41441,17 @@
         "file": "amazon-to-buy-satellite-firm-globalstar-in-1157b-deal.md"
     },
     {
+        "title": "Exact – a new cross platform UI framework by the Expo team",
+        "slug": "exact-a-new-cross-platform-ui-framework-by-the-expo-team",
+        "author": "vmg12",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 22:59:13 +0000",
+        "description": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 29 # Comments: 13",
+        "keywords": "exact, expo, url, https, com, comments, new, cross",
+        "generated": "2026-11-10T01:21:53.734885",
+        "file": "exact-a-new-cross-platform-ui-framework-by-the-expo-team.md"
+    },
+    {
         "title": "Dependency Parsing: How NLP Understands Sentence Structure",
         "slug": "dependency-parsing-how-nlp-understands-sentence-structure",
         "author": "Javier Aguirre",
@@ -42660,6 +42715,17 @@
         "keywords": "you, what, not, agent, can, actually, when, have",
         "generated": "2026-07-03T03:48:14.179248",
         "file": "fine-tuning-is-mostly-theater-heres-what-works-instead.md"
+    },
+    {
+        "title": "Silent Failure #2: watchdog 7.0 rewrote path matching and Werkzeug's reloader went silent",
+        "slug": "silent-failure-2-watchdog-70-rewrote-path-matching-and-werkzeugs-reloader-went-silent",
+        "author": "Renhua Wei",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 01:09:57 +0000",
+        "description": "A file watcher that matches nothing does not look broken. It looks like a reloader you forgot to restart. So I spent an afternoon on an app where edits under...",
+        "keywords": "app, pattern, path, watchdog, match, matches, you, src",
+        "generated": "2026-11-10T01:21:53.736818",
+        "file": "silent-failure-2-watchdog-70-rewrote-path-matching-and-werkzeugs-reloader-went-silent.md"
     },
     {
         "title": "Free Pitch Deck - Pitch Agency",
@@ -45093,6 +45159,17 @@
         "file": "how-to-write-an-obituary-the-structure-funeral-homes-expect.md"
     },
     {
+        "title": "Google Antigravity: KI-Agenten für Cheminformatik – und der VR-Validierungs-Layer, der fehlt",
+        "slug": "google-antigravity-ki-agenten-fr-cheminformatik-und-der-vr-validierungs-layer-der-fehlt",
+        "author": "Ashish",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 01:06:03 +0000",
+        "description": "Google Antigravity: KI-Agenten für Cheminformatik – und der VR-Validierungs-Layer, der fehlt Als ich vor ein paar Wochen in unserem kleinen Büro in Leipzig s...",
+        "keywords": "ich, der, und, die, ein, nicht, aber, antigravity",
+        "generated": "2026-11-10T01:21:53.740318",
+        "file": "google-antigravity-ki-agenten-fr-cheminformatik-und-der-vr-validierungs-layer-der-fehlt.md"
+    },
+    {
         "title": "Stop Building Web Scrapers From Scratch — 10 Production-Ready Python Scripts",
         "slug": "stop-building-web-scrapers-from-scratch-10-production-ready-python-scripts",
         "author": "Fyruz",
@@ -45751,6 +45828,17 @@
         "keywords": "photos, storage, assistant, you, photo, like, model, open",
         "generated": "2026-10-17T15:18:37.849356",
         "file": "google-photos-ai-storage-assistant.md"
+    },
+    {
+        "title": "Australia Daily AI & LLM Briefing - November 10, 2026",
+        "slug": "australia-daily-ai-llm-briefing-november-10-2026",
+        "author": "Vu Hung Nguyen (Hưng)",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 01:02:41 +0000",
+        "description": "Australia Daily AI & LLM Briefing - November 10, 2026 A curated intelligence briefing on macroeconomic AI policy, enterprise agent control planes, sovereign ...",
+        "keywords": "australia, australian, data, sources, sovereign, across, security, intelligence",
+        "generated": "2026-11-10T01:21:53.741447",
+        "file": "australia-daily-ai-llm-briefing-november-10-2026.md"
     },
     {
         "title": "How to Send WhatsApp Messages in Node.js Without Meta Cloud API Bureaucracy",
@@ -46963,6 +47051,17 @@
         "file": "oregon-lawmakers-approve-money-to-buy-an-iconic-waterfall-listed-on-redfin.md"
     },
     {
+        "title": "Rounding is a business rule: what your fee calculation actually charges",
+        "slug": "rounding-is-a-business-rule-what-your-fee-calculation-actually-charges",
+        "author": "aleax h",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 01:14:22 +0000",
+        "description": "A fee calculator is mostly arithmetic, and the arithmetic is mostly correct. The part that produces support tickets is the last step: rounding. It looks like...",
+        "keywords": "rounding, fee, not, rate, then, decimal, precision, round",
+        "generated": "2026-11-10T01:21:53.735504",
+        "file": "rounding-is-a-business-rule-what-your-fee-calculation-actually-charges.md"
+    },
+    {
         "title": "How I Built a Free Recipe Card Maker — No Signup, No Watermark",
         "slug": "how-i-built-a-free-recipe-card-maker-no-signup-no-watermark",
         "author": "dayu2333-jinyul",
@@ -47159,6 +47258,17 @@
         "keywords": "issue, you, run, one, state, ghswarm, not, status",
         "generated": "2026-10-02T12:13:45.781432",
         "file": "github-issues-as-the-only-database-running-coding-clis-unattended-without-a-server.md"
+    },
+    {
+        "title": "How Do You Pick the Cover Frame for a Hit the Road Dude Clip? A Sharpness-and-Exposure Picker With ffmpeg and NumPy",
+        "slug": "how-do-you-pick-the-cover-frame-for-a-hit-the-road-dude-clip-a-sharpness-and-exposure-picker-with-ffmpeg-and-numpy",
+        "author": "Peiguan",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 01:12:14 +0000",
+        "description": "When you post a Hit the Road Dude clip, the State Property meme where a driver at a pickup window repeats State? and sends someone off, the cover frame dec...",
+        "keywords": "clip, you, frame, not, cover, fps, score, out",
+        "generated": "2026-11-10T01:21:53.735954",
+        "file": "how-do-you-pick-the-cover-frame-for-a-hit-the-road-dude-clip-a-sharpness-and-exposure-picker-with-ffmpeg-and-numpy.md"
     },
     {
         "title": "You Are No Longer Invited to Dinner",
@@ -47401,6 +47511,17 @@
         "keywords": "robozilla, business, how, can, automate, invoicing, process, cybersecurity",
         "generated": "2026-08-08T07:01:37.220499",
         "file": "how-can-i-automate-invoicing-in-my-business-process.md"
+    },
+    {
+        "title": "O perigo silencioso de formatar JSON de produção em sites aleatórios da web",
+        "slug": "o-perigo-silencioso-de-formatar-json-de-produo-em-sites-aleatrios-da-web",
+        "author": "geekecia",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 01:04:22 +0000",
+        "description": "Quem nunca recebeu um payload gigante de API desformatado em uma linha só e, na pressa para debugar um chamado urgente, jogou no primeiro JSON formatter qu...",
+        "keywords": "com, json, para, dados, linha, mais, tiptools, sem",
+        "generated": "2026-11-10T01:21:53.738340",
+        "file": "o-perigo-silencioso-de-formatar-json-de-produo-em-sites-aleatrios-da-web.md"
     },
     {
         "title": "RAGflow vs Dify vs Firecrawl: I Tested All Three So You Don't Have To",
@@ -57585,6 +57706,17 @@
         "keywords": "you, privacy, data, your, venice, decentralized, they, models",
         "generated": "2026-07-06T04:05:09.369710",
         "file": "privacy-first-ai-is-finally-here-how-decentralized-platforms-keep-your-data-yours.md"
+    },
+    {
+        "title": "Route Agent Patches Before You Gate Them: Four Lanes, Fixture Provenance, and a Freeze That Needs Base-Tree Evidence",
+        "slug": "route-agent-patches-before-you-gate-them-four-lanes-fixture-provenance-and-a-freeze-that-needs-base-tree-evidence",
+        "author": "Finley Zhou",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 01:02:47 +0000",
+        "description": "A patch that edits a fixture and a patch that edits a function are not the same risk, yet most agent-patch gates charge both the same evidence. Route first, ...",
+        "keywords": "patch, fixture, not, test, change, evidence, source, gate",
+        "generated": "2026-11-10T01:21:53.740922",
+        "file": "route-agent-patches-before-you-gate-them-four-lanes-fixture-provenance-and-a-freeze-that-needs-base-tree-evidence.md"
     },
     {
         "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
@@ -71820,6 +71952,17 @@
         "file": "in-depth-analysis-hpes-free-software-initiative.md"
     },
     {
+        "title": "Akamai _abck: the cookie that rewrites itself on every response",
+        "slug": "akamai-abck-the-cookie-that-rewrites-itself-on-every-response",
+        "author": "Lsr",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 01:12:07 +0000",
+        "description": "Akamai Bot Manager is the one anti-bot product where the cookie is the least interesting part of the story. Everyone fixates on _abck . What actually decides...",
+        "keywords": "session, not, akamai, headers, marker, cookie, you, cookies",
+        "generated": "2026-11-10T01:21:53.736418",
+        "file": "akamai-abck-the-cookie-that-rewrites-itself-on-every-response.md"
+    },
+    {
         "title": "Tracing a powerful GNSS interference source over Europe",
         "slug": "tracing-a-powerful-gnss-interference-source-over-europe",
         "author": "mimorigasaka",
@@ -79651,6 +79794,17 @@
         "file": "collaborative-human-agent-protocol-chap.md"
     },
     {
+        "title": "Move your Vapi assistants to a self-hosted server with no platform fee",
+        "slug": "move-your-vapi-assistants-to-a-self-hosted-server-with-no-platform-fee",
+        "author": "Alan",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 01:15:34 +0000",
+        "description": "Hosted voice-agent platforms add a per-minute fee on top of what you pay your speech-to-text, model, voice and phone providers. OpenRing is an open-source (M...",
+        "keywords": "your, you, voice, vapi, what, openring, move, hosted",
+        "generated": "2026-11-10T01:21:53.737932",
+        "file": "move-your-vapi-assistants-to-a-self-hosted-server-with-no-platform-fee.md"
+    },
+    {
         "title": "Apache Burr: Build reliable AI agents and applications",
         "slug": "apache-burr-build-reliable-ai-agents-and-applications",
         "author": "anhldbk",
@@ -80089,6 +80243,17 @@
         "keywords": "agents, agent, frontend, you, prompt, prompts, your, code",
         "generated": "2026-06-20T04:12:08.216519",
         "file": "from-prompts-to-ai-agents-a-frontend-developers-guide-to-mastery.md"
+    },
+    {
+        "title": "Build a Professional Resume in Minutes with the Toolverse CV Maker",
+        "slug": "build-a-professional-resume-in-minutes-with-the-toolverse-cv-maker",
+        "author": "mohd furkan",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 01:08:59 +0000",
+        "description": "Build a Professional Resume in Minutes with the Toolverse CV Maker In today's competitive job market, having a clean, professional, and ATS-friendly resume i...",
+        "keywords": "resume, your, professional, toolverse, maker, ats, build, minutes",
+        "generated": "2026-11-10T01:21:53.738098",
+        "file": "build-a-professional-resume-in-minutes-with-the-toolverse-cv-maker.md"
     },
     {
         "title": "Developer take on: Nobody clicks your share buttons",
@@ -103612,6 +103777,17 @@
         "file": "revoked-token-handling-and-api-boundaries-for-live-auction-dashboards.md"
     },
     {
+        "title": "Horible public key tricks",
+        "slug": "horible-public-key-tricks",
+        "author": "Curiositry",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 00:07:17 +0000",
+        "description": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 7 # Comments: 1",
+        "keywords": "url, https, com, comments, horible, public, key, tricks",
+        "generated": "2026-11-10T01:21:53.734573",
+        "file": "horible-public-key-tricks.md"
+    },
+    {
         "title": "React Hooks: Mastering useState and useEffect – The Jedi Training",
         "slug": "react-hooks-mastering-usestate-and-useeffect-the-jedi-training",
         "author": "Timevolt",
@@ -105702,6 +105878,17 @@
         "file": "aipowered-automation-for-solo-drone-pilots-linking-flight-apps-ai-tools-and-your-document-hub.md"
     },
     {
+        "title": "How a Photo Becomes a 15-Second AI Rap Video",
+        "slug": "how-a-photo-becomes-a-15-second-ai-rap-video",
+        "author": "linwis",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 01:18:37 +0000",
+        "description": "From one photo and a topic to lyrics, a beat, vocals, and a fifteen-second clip — with the choices that matter. Short music videos used to mean a camera, a c...",
+        "keywords": "you, one, topic, rap, beat, fifteen, two, photos",
+        "generated": "2026-11-10T01:21:53.737709",
+        "file": "how-a-photo-becomes-a-15-second-ai-rap-video.md"
+    },
+    {
         "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
         "slug": "i-gave-opus-55-one-prompt-and-six-hours-to-visualize-invisible-cities",
         "author": "stared",
@@ -106347,6 +106534,17 @@
         "published": "Thu, 05 Nov 2026 14:19:02 +0000",
         "description": "",
         "file": "postgresql-query-planner-internals-statistics-row-estimates-and-the-plan-regression-that-silently-kills-your-p99-latency.md"
+    },
+    {
+        "title": "A year after the 100% AI mandate nobody understands our code",
+        "slug": "a-year-after-the-100-ai-mandate-nobody-understands-our-code",
+        "author": "thelifeline",
+        "source": "hackernews",
+        "published": "Mon, 09 Nov 2026 22:19:12 +0000",
+        "description": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_... Comments URL: https://news.ycombinator.com/item?id=50433079 Points: 95 # Comments: 98",
+        "keywords": "comments, https, com, year, after, mandate, nobody, understands",
+        "generated": "2026-11-10T01:21:53.735008",
+        "file": "a-year-after-the-100-ai-mandate-nobody-understands-our-code.md"
     },
     {
         "title": "What GPT-6.1 Sol chose to build",
@@ -114740,6 +114938,17 @@
         "file": "how-to-buy-yahoo-accounts-complete-beginners-guide.md"
     },
     {
+        "title": "Journey Before Destination: What The Stormlight Archive Teaches Us About AI Engineering",
+        "slug": "journey-before-destination-what-the-stormlight-archive-teaches-us-about-ai-engineering",
+        "author": "BJ Kennedy",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 01:09:54 +0000",
+        "description": "Life before death. Strength before weakness. Journey before destination. This is the First Ideal of the Knights Radiant. This simple phrase from one of my ...",
+        "keywords": "you, can, journey, our, project, destination, have, every",
+        "generated": "2026-11-10T01:21:53.739450",
+        "file": "journey-before-destination-what-the-stormlight-archive-teaches-us-about-ai-engineering.md"
+    },
+    {
         "title": "How an AI agent can get its own hosting with no human in the loop (wallet signup, x402, deploy)",
         "slug": "how-an-ai-agent-can-get-its-own-hosting-with-no-human-in-the-loop-wallet-signup-x402-deploy",
         "author": "Storkhost",
@@ -118049,6 +118258,17 @@
         "keywords": "loop, your, video, retention, curiosity, tech, you, before",
         "generated": "2026-09-12T04:02:47.311800",
         "file": "hack-video-retention-with-the-curiosity-loop-framework.md"
+    },
+    {
+        "title": "AI APIs in 2026: The Honest Developer's Guide to Choosing One",
+        "slug": "ai-apis-in-2026-the-honest-developers-guide-to-choosing-one",
+        "author": "Shaw Sha",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 00:56:38 +0000",
+        "description": "I remember the first time I had to pick an AI API for a real project. It was 2024, and I was building a small internal tool that needed to summarize customer...",
+        "keywords": "you, but, api, model, your, one, not, provider",
+        "generated": "2026-11-10T01:21:53.738883",
+        "file": "ai-apis-in-2026-the-honest-developers-guide-to-choosing-one.md"
     },
     {
         "title": "How AI Fire and Smoke Detection Systems Protect Manufacturing Facilities",
