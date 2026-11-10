@@ -4863,6 +4863,17 @@
         "file": "laravel-ai-failover-worked-my-json-contract-didnt.md"
     },
     {
+        "title": "E-Commerce Recovery Control: Background Job Queue Admission After Seven Delayed Retry Days",
+        "slug": "e-commerce-recovery-control-background-job-queue-admission-after-seven-delayed-retry-days",
+        "author": "IgnazCole6453",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 22:29:22 +0000",
+        "description": "A rate-limited worker pool changes the scheduling question. If a large e-commerce background job queue backlog becomes eligible at once, admitting every dela...",
+        "keywords": "queue, job, not, can, recovery, retry, due, ledger",
+        "generated": "2026-11-10T23:03:02.009130",
+        "file": "e-commerce-recovery-control-background-job-queue-admission-after-seven-delayed-retry-days.md"
+    },
+    {
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "slug": "show-hn-i-trained-a-125m-model-to-autocomplete-piano-on-device",
         "author": "simedw",
@@ -4960,6 +4971,17 @@
         "keywords": "verified, accounts, airbnb, localpvashop, hosts, guests, verification, trust",
         "generated": "2026-09-15T11:28:03.176095",
         "file": "trust-travel-and-transparency-the-value-of-verified-airbnb-accounts-localpvashop.md"
+    },
+    {
+        "title": "Six Math Essentials by Terence Tao",
+        "slug": "six-math-essentials-by-terence-tao",
+        "author": "digital55",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 20:58:44 +0000",
+        "description": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 61 # Comments: 8",
+        "keywords": "six, math, essentials, tao, url, https, comments, terence",
+        "generated": "2026-11-10T23:03:02.007284",
+        "file": "six-math-essentials-by-terence-tao.md"
     },
     {
         "title": "DJI Osmo Action 4 Essential Combo Review 2026",
@@ -12440,6 +12462,17 @@
         "keywords": "bot, your, security, user, api, you, googlebot, request",
         "generated": "2026-10-15T16:41:38.625498",
         "file": "how-to-detect-ai-bots-without-blocking-googlebot.md"
+    },
+    {
+        "title": "Metacognition Leaderboard for LLMs: JGENai VIDRAFT Launch a Benchmark That Measures Self-Error Detection, Not Just Accuracy",
+        "slug": "metacognition-leaderboard-for-llms-jgenai-vidraft-launch-a-benchmark-that-measures-self-error-detection-not-just-accuracy",
+        "author": "AI OpenFree",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 23:00:42 +0000",
+        "description": "Metacognition Leaderboard for LLMs: JGENai × VIDRAFT Launch a Benchmark That Measures Self-Error Detection, Not Just Accuracy TL;DR: JGENai and VIDRAFT have ...",
+        "keywords": "model, metacognition, leaderboard, benchmark, accuracy, not, adapters, can",
+        "generated": "2026-11-10T23:03:02.011148",
+        "file": "metacognition-leaderboard-for-llms-jgenai-vidraft-launch-a-benchmark-that-measures-self-error-detection-not-just-accuracy.md"
     },
     {
         "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
@@ -20043,6 +20076,17 @@
         "file": "how-i-built-a-passive-income-system-with-python-complete-guide.md"
     },
     {
+        "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+        "slug": "after-7-months-glasswing-overwelms-maintainers-with-underwhelming-findings",
+        "author": "panic",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 22:17:56 +0000",
+        "description": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 12 # Comm...",
+        "keywords": "glasswing, url, https, com, comments, after, months, overwelms",
+        "generated": "2026-11-10T23:03:02.006995",
+        "file": "after-7-months-glasswing-overwelms-maintainers-with-underwhelming-findings.md"
+    },
+    {
         "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
         "slug": "a-single-firm-is-behind-openai-anthropic-and-meta-hacking-scandals",
         "author": "yusufozkan",
@@ -20954,6 +20998,17 @@
         "keywords": "code, agent, you, run, your, semgrep, check, server",
         "generated": "2026-10-09T12:55:31.305390",
         "file": "before-you-run-the-code-your-ai-agent-wrote-check-these-five-things.md"
+    },
+    {
+        "title": "Apple has new Mac app coming to make running local AI models easy",
+        "slug": "apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
+        "author": "linolevan",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 21:25:03 +0000",
+        "description": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/ite...",
+        "keywords": "apple, has, new, mac, app, coming, make, running",
+        "generated": "2026-11-10T23:03:02.007226",
+        "file": "apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy.md"
     },
     {
         "title": "Build Authentication in Next.js 15 From Scratch — No Libraries",
@@ -24340,6 +24395,17 @@
         "keywords": "edge, computing, caching, cdn, functions, cache, content, patterns",
         "generated": "2026-06-06T04:00:30.108024",
         "file": "edge-computing-patterns-cdns-workers-and-regional-processing.md"
+    },
+    {
+        "title": "rVPN – stealth VPN with end-to-end encryption",
+        "slug": "rvpn-stealth-vpn-with-end-to-end-encryption",
+        "author": "michaelsbradley",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 21:42:50 +0000",
+        "description": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 25 # Comments: 13",
+        "keywords": "rvpn, end, url, https, comments, stealth, vpn, encryption",
+        "generated": "2026-11-10T23:03:02.007148",
+        "file": "rvpn-stealth-vpn-with-end-to-end-encryption.md"
     },
     {
         "title": "10 REM_(C2SLFF4",
@@ -48316,6 +48382,17 @@
         "file": "10k-sessions-of-gratitude-my-first-open-source-release.md"
     },
     {
+        "title": "I turned the design system of a real permissions product into a UI kit: 42 components, 14 screens, zero dependencies",
+        "slug": "i-turned-the-design-system-of-a-real-permissions-product-into-a-ui-kit-42-components-14-screens-zero-dependencies",
+        "author": "Yamil",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 22:59:50 +0000",
+        "description": "I spent the last months building a web product for managing permits, and the design system I made for it ended up more polished than expected — so I hardened...",
+        "keywords": "product, design, system, kit, components, screens, token, turned",
+        "generated": "2026-11-10T23:03:02.009990",
+        "file": "i-turned-the-design-system-of-a-real-permissions-product-into-a-ui-kit-42-components-14-screens-zero-dependencies.md"
+    },
+    {
         "title": "How to Exist",
         "slug": "how-to-exist",
         "author": "walterbell",
@@ -53684,6 +53761,17 @@
         "file": "i-spent-years-learning-to-code-now-people-vibe-code-in-a-weekend.md"
     },
     {
+        "title": "Content-Length on Our API Host: 47 Answers Carry It, 4 Are Chunked, and gzip Flips Two More",
+        "slug": "content-length-on-our-api-host-47-answers-carry-it-4-are-chunked-and-gzip-flips-two-more",
+        "author": "OnePassApps",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 22:54:17 +0000",
+        "description": "I work on OnePassApps , the team behind app.onepassapps.com. This post is about something our own API host does that I had never measured as a set: how it te...",
+        "keywords": "api, length, content, chunked, one, bytes, routes, body",
+        "generated": "2026-11-10T23:03:02.010651",
+        "file": "content-length-on-our-api-host-47-answers-carry-it-4-are-chunked-and-gzip-flips-two-more.md"
+    },
+    {
         "title": "Understanding the UV Index: Implications for Tech…",
         "slug": "understanding-the-uv-index-implications-for-tech",
         "author": "Norvik Tech",
@@ -53704,6 +53792,17 @@
         "keywords": "hey, hire, you, complete, url, https, com, comments",
         "generated": "2026-06-20T04:12:08.211965",
         "file": "hey-n00b-we-didnt-hire-you-to-complete-tasks.md"
+    },
+    {
+        "title": "The Filesystem Your Multi-GPU Rig Actually Needs",
+        "slug": "the-filesystem-your-multi-gpu-rig-actually-needs",
+        "author": "Amirhossein Ghanipour",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 22:28:25 +0000",
+        "description": "You install four PCIe Gen5 NVMe drives in a multi-GPU server, bring up eight H100s, launch torchrun , and notice an irritating pattern: GPU utilization fluct...",
+        "keywords": "can, allocation, metadata, xfs, filesystem, not, large, workloads",
+        "generated": "2026-11-10T23:03:02.009862",
+        "file": "the-filesystem-your-multi-gpu-rig-actually-needs.md"
     },
     {
         "title": "Gemma 4 QAT on 10GB Laptop: Local AI with 6.7GB VRAM",
@@ -56544,6 +56643,17 @@
         "file": "show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion.md"
     },
     {
+        "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+        "slug": "detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini",
+        "author": "Alicia Marianne Gonçalves",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 22:52:28 +0000",
+        "description": "A few years ago (three years at most), one of the biggest challenges QA Engineers faced was: how do we convince the business and the team that we should inve...",
+        "keywords": "test, flaky, tests, agent, you, can, name, commits",
+        "generated": "2026-11-10T23:03:02.008357",
+        "file": "detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini.md"
+    },
+    {
         "title": "Profitable Venice AI Snags $1B Crown on Privacy Bet",
         "slug": "profitable-venice-ai-snags-1b-crown-on-privacy-bet",
         "author": "XOOMAR",
@@ -58850,6 +58960,17 @@
         "keywords": "you, one, based, your, has, every, start, end",
         "generated": "2026-08-05T14:21:05.033694",
         "file": "the-off-by-one-error-that-ate-genomics-how-0-based-and-1-based-coordinates-started-a-20-year-civil-war.md"
+    },
+    {
+        "title": "I could not answer a basic question about my own training data",
+        "slug": "i-could-not-answer-a-basic-question-about-my-own-training-data",
+        "author": "LXSAIHUB",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 22:58:46 +0000",
+        "description": "Someone asked me a simple question about a model I had put into production: where did the training data come from, and could I show that it was appropriate f...",
+        "keywords": "not, data, your, you, what, whether, article, where",
+        "generated": "2026-11-10T23:03:02.010458",
+        "file": "i-could-not-answer-a-basic-question-about-my-own-training-data.md"
     },
     {
         "title": "i18n sin gettext: traducciones en JSON con claves de punto",
@@ -75351,6 +75472,17 @@
         "file": "the-12-most-common-causes-of-website-downtime-and-how-to-detect-each-one.md"
     },
     {
+        "title": "The limit you configured is not the limit it applies",
+        "slug": "the-limit-you-configured-is-not-the-limit-it-applies",
+        "author": "Cleiton Augusto Correa Bezerra",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 22:45:46 +0000",
+        "description": "An agent that pays for things needs a limit: a maximum price per call, a payee you expect, sometimes a list of networks and tokens you trust. The question he...",
+        "keywords": "not, limit, agent, quote, what, you, payee, one",
+        "generated": "2026-11-10T23:03:02.012079",
+        "file": "the-limit-you-configured-is-not-the-limit-it-applies.md"
+    },
+    {
         "title": "Why Most People Get Bad AI Outputs (And How to Fix It)",
         "slug": "why-most-people-get-bad-ai-outputs-and-how-to-fix-it",
         "author": "PromptForge Studio",
@@ -91514,6 +91646,17 @@
         "file": "154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back.md"
     },
     {
+        "title": "Sherman Anti-Trust Act (1890)",
+        "slug": "sherman-anti-trust-act-1890",
+        "author": "hashmap",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 20:56:16 +0000",
+        "description": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 44 # Com...",
+        "keywords": "sherman, anti, trust, act, url, https, comments, article",
+        "generated": "2026-11-10T23:03:02.007366",
+        "file": "sherman-anti-trust-act-1890.md"
+    },
+    {
         "title": "How to Make $500/Month with Python Automation",
         "slug": "how-to-make-500month-with-python-automation",
         "author": "qing",
@@ -92117,6 +92260,17 @@
         "keywords": "recommend, tailwind, css, url, https, comments, don, article",
         "generated": "2026-08-02T08:30:38.163782",
         "file": "i-dont-recommend-tailwind-css.md"
+    },
+    {
+        "title": "Why Stale CLAUDE.md and AGENTS.md Files Override Working Code in 90.1% of Runs (And the One-Sentence Fix)",
+        "slug": "why-stale-claudemd-and-agentsmd-files-override-working-code-in-901-of-runs-and-the-one-sentence-fix",
+        "author": "Sean Kwon",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 22:56:17 +0000",
+        "description": "Instruction files like CLAUDE.md and AGENTS.md are usually written once when a repository sets up a coding agent and rarely touched again. Across 441 company...",
+        "keywords": "claude, code, agents, existing, instruction, file, when, codex",
+        "generated": "2026-11-10T23:03:02.007707",
+        "file": "why-stale-claudemd-and-agentsmd-files-override-working-code-in-901-of-runs-and-the-one-sentence-fix.md"
     },
     {
         "title": "I built an open-source tool that turns workcell incidents into evidence bundles and regression tests",
@@ -97628,6 +97782,17 @@
         "file": "api-development-in-20252026-the-ultimate-guide-for-beginners.md"
     },
     {
+        "title": "HunterX Just Got Smarter. A Lot Smarter.",
+        "slug": "hunterx-just-got-smarter-a-lot-smarter",
+        "author": "ahmed Awad (Nullc0d3)",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 22:51:24 +0000",
+        "description": "What if a security assessment engine could do more than discover vulnerabilities? What if it could question its findings, recover from execution failures, un...",
+        "keywords": "hunterx, security, evidence, assessment, more, what, engine, threat",
+        "generated": "2026-11-10T23:03:02.008734",
+        "file": "hunterx-just-got-smarter-a-lot-smarter.md"
+    },
+    {
         "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
         "slug": "streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california",
         "author": "speckx",
@@ -102886,6 +103051,17 @@
         "file": "from-book-principles-to-a-freelance-finance-spreadsheet-that-runs-by-the-loop-clone.md"
     },
     {
+        "title": "Điểm tin AI & Mô hình Ngôn ngữ Lớn (LLMs) tại Úc - Ngày 11/11/2026",
+        "slug": "im-tin-ai-m-hnh-ngn-ng-ln-llms-ti-c-ngy-11112026",
+        "author": "Vu Hung Nguyen (Hưng)",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 22:44:26 +0000",
+        "description": "Điểm tin AI & Mô hình Ngôn ngữ Lớn (LLMs) tại Úc - Ngày 11/11/2026 Bản tin tổng hợp chuyên sâu về chính sách AI vĩ mô, mặt phẳng kiểm soát agent doanh nghiệp...",
+        "keywords": "agent, doanh, australia, tin, aud, nrf, quy, cho",
+        "generated": "2026-11-10T23:03:02.012361",
+        "file": "im-tin-ai-m-hnh-ngn-ng-ln-llms-ti-c-ngy-11112026.md"
+    },
+    {
         "title": "Cuerpos Soberanos: Metamorfosis del Cuerpo en Datos",
         "slug": "cuerpos-soberanos-metamorfosis-del-cuerpo-en-datos",
         "author": "Petra",
@@ -105689,6 +105865,17 @@
         "keywords": "color, palette, theme, primary, var, tokens, accent, surface",
         "generated": "2026-08-22T12:48:49.582281",
         "file": "from-hex-to-design-tokens-one-palette-six-formats-five-minutes.md"
+    },
+    {
+        "title": "Username Generator: Free Online Username Ideas — How-To Guide",
+        "slug": "username-generator-free-online-username-ideas-how-to-guide",
+        "author": "Layoff Atlas",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 22:58:50 +0000",
+        "description": "Coming up with a good username is harder than it looks. The name you want is taken, the variations feel awkward, and after the tenth try you end up with some...",
+        "keywords": "you, username, your, generator, export, usernames, data, use",
+        "generated": "2026-11-10T23:03:02.010211",
+        "file": "username-generator-free-online-username-ideas-how-to-guide.md"
     },
     {
         "title": "The most expensive token is the one you spend twice",
@@ -111022,6 +111209,17 @@
         "file": "vector-databases-for-data-engineers-pinecone-vs-weaviate-vs-qdrant-vs-pgvector.md"
     },
     {
+        "title": "I built a topology map because I could not reason about agent failures from a config file",
+        "slug": "i-built-a-topology-map-because-i-could-not-reason-about-agent-failures-from-a-config-file",
+        "author": "LXSAIHUB",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 22:48:24 +0000",
+        "description": "I have a bad habit of describing a multi-agent workflow in a config file and calling it done. The file lists the agents, the order they run, and which one ha...",
+        "keywords": "not, graph, agent, you, does, topology, edges, workflow",
+        "generated": "2026-11-10T23:03:02.011378",
+        "file": "i-built-a-topology-map-because-i-could-not-reason-about-agent-failures-from-a-config-file.md"
+    },
+    {
         "title": "What makes a technology solution truly useful ?",
         "slug": "what-makes-a-technology-solution-truly-useful",
         "author": "Amanat",
@@ -111097,6 +111295,17 @@
         "keywords": "you, not, like, she, one, thing, here, what",
         "generated": "2026-10-17T03:51:06.693493",
         "file": "164-messages-in-a-day.md"
+    },
+    {
+        "title": "I kept shipping agents I had only tested on the happy path",
+        "slug": "i-kept-shipping-agents-i-had-only-tested-on-the-happy-path",
+        "author": "LXSAIHUB",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 22:53:35 +0000",
+        "description": "The first test I write for a new agent is always the one it passes. A clean input, a well-formed tool response, a sensible final answer. I tell myself I will...",
+        "keywords": "not, agent, batch, tool, failure, definition, scenarios, your",
+        "generated": "2026-11-10T23:03:02.010868",
+        "file": "i-kept-shipping-agents-i-had-only-tested-on-the-happy-path.md"
     },
     {
         "title": "Docker Compose Config Variable…",
@@ -117246,6 +117455,17 @@
         "keywords": "brain, you, agent, one, markdown, project, file, why",
         "generated": "2026-06-24T04:04:51.777348",
         "file": "we-have-officially-open-sourced-projectbrainmd-a-persistent-memory-layer-for-your-projects.md"
+    },
+    {
+        "title": "Introducing Quantum Frequency Modulator: Next-Token Prediction Without Attention",
+        "slug": "introducing-quantum-frequency-modulator-next-token-prediction-without-attention",
+        "author": "webxos",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 22:47:53 +0000",
+        "description": "This single-file PWA that turns words into noise frequencies, collides them in a lattice, and drafts text from the resulting signature — an experiment in fre...",
+        "keywords": "frequency, token, attention, next, prediction, signature, qfm, lattice",
+        "generated": "2026-11-10T23:03:02.011795",
+        "file": "introducing-quantum-frequency-modulator-next-token-prediction-without-attention.md"
     },
     {
         "title": "Proof of Care in the Age of A.I",
