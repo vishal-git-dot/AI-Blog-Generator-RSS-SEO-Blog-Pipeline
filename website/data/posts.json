@@ -1298,6 +1298,17 @@
         "file": "the-best-plaid-alternative-in-europe-2025-a-developers-guide-to-psd2-apis.md"
     },
     {
+        "title": "RSI in Python: Wilder’s Formula and Live Candle Updates",
+        "slug": "rsi-in-python-wilders-formula-and-live-candle-updates",
+        "author": "Alper San",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 14:32:53 +0000",
+        "description": "Two charts can show the same market, the same interval and RSI(14), yet disagree by several points. Before changing the formula, check where each calculation...",
+        "keywords": "self, rsi, close, not, period, candle, bar, bars",
+        "generated": "2026-11-10T14:38:48.359450",
+        "file": "rsi-in-python-wilders-formula-and-live-candle-updates.md"
+    },
+    {
         "title": "Why Markets Are Non-Markovian: Building a 63-Layer Neural SDE DAG for Topological Signal Analysis",
         "slug": "why-markets-are-non-markovian-building-a-63-layer-neural-sde-dag-for-topological-signal-analysis",
         "author": "OV3RK177",
@@ -11540,6 +11551,17 @@
         "file": "write-once-run-on-any-runtime-practical-runtime-agnostic-typescript-for-node-deno-bun-and-cloudflare-workers.md"
     },
     {
+        "title": "Why I Built a Habit Tracker That Refuses to Touch the Cloud",
+        "slug": "why-i-built-a-habit-tracker-that-refuses-to-touch-the-cloud",
+        "author": "Zoe parker",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 14:27:05 +0000",
+        "description": "Why I Built a Habit Tracker That Refuses to Touch the Cloud published: true tags: WebDAV, mobile, architecture, privacy Like many developers, I’ve tried doze...",
+        "keywords": "zero, local, state, you, cloud, your, built, just",
+        "generated": "2026-11-10T14:38:48.361491",
+        "file": "why-i-built-a-habit-tracker-that-refuses-to-touch-the-cloud.md"
+    },
+    {
         "title": "The Speed of Wanting — Chapter Two: The Plant That Learned to Stop Flinching",
         "slug": "the-speed-of-wanting-chapter-two-the-plant-that-learned-to-stop-flinching",
         "author": "Merlin Dreams",
@@ -11571,6 +11593,17 @@
         "keywords": "code, application, platforms, development, metadata, react, enterprise, software",
         "generated": "2026-09-11T10:58:00.567007",
         "file": "architectural-velocity-how-ai-application-platforms-re-engineer-enterprise-software-delivery.md"
+    },
+    {
+        "title": "Best Exchange Rate API for Europe in 2026: 8 Compared for EUR Rates, ECB Reference Rates and VAT",
+        "slug": "best-exchange-rate-api-for-europe-in-2026-8-compared-for-eur-rates-ecb-reference-rates-and-vat",
+        "author": "Exchange Rate API",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 14:26:44 +0000",
+        "description": "For a European business the euro reference rate from the European Central Bank is the default answer to every currency question, and several free APIs serve ...",
+        "keywords": "rates, rate, ecb, free, central, month, market, api",
+        "generated": "2026-11-10T14:38:48.361971",
+        "file": "best-exchange-rate-api-for-europe-in-2026-8-compared-for-eur-rates-ecb-reference-rates-and-vat.md"
     },
     {
         "title": "How to Choose a Pediatrician Your Child Can Rely on Through Every Stage of Childhood",
@@ -16237,6 +16270,17 @@
         "file": "reading-50mb-jsonl-logs-with-a-viewer-in-2026.md"
     },
     {
+        "title": "High-performance .NET: Span<T>, Memory<T>, System.IO.Pipelines, and channel-based concurrency in real services",
+        "slug": "high-performance-net-spant-memoryt-systemiopipelines-and-channel-based-concurrency-in-real-services",
+        "author": "Monalisa Das",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 14:30:00 +0000",
+        "description": "A practitioner's guide to the four .NET primitives that eliminate allocations in hot paths: Span for stack-sliced parsing, Memory for async-compatible slices...",
+        "keywords": "buffer, byte, await, span, async, memory, you, channel",
+        "generated": "2026-11-10T14:38:48.361248",
+        "file": "high-performance-net-spant-memoryt-systemiopipelines-and-channel-based-concurrency-in-real-services.md"
+    },
+    {
         "title": "Felipe — The AI CEO That Reviews My Pull Requests",
         "slug": "felipe-the-ai-ceo-that-reviews-my-pull-requests",
         "author": "Javier Leandro Arancibia",
@@ -17324,6 +17368,17 @@
         "keywords": "url, https, comments, forcing, pay, off, years, technical",
         "generated": "2026-11-04T14:06:42.000817",
         "file": "ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md"
+    },
+    {
+        "title": "Letting Odoo users chart external data without opening a security hole",
+        "slug": "letting-odoo-users-chart-external-data-without-opening-a-security-hole",
+        "author": "Nadia Atiq",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 14:25:12 +0000",
+        "description": "Our Odoo dashboard module can now chart data that does not live in Odoo: a CSV someone exports every Monday, a JSON endpoint, a read-only view in another dat...",
+        "keywords": "can, odoo, not, only, view, url, dashboard, module",
+        "generated": "2026-11-10T14:38:48.359674",
+        "file": "letting-odoo-users-chart-external-data-without-opening-a-security-hole.md"
     },
     {
         "title": "How Can WhatsApp Messages Be Auto-Replied?",
@@ -34621,6 +34676,17 @@
         "file": "setting-up-dora-metrics-in-github-actions-without-buying-anything.md"
     },
     {
+        "title": "California's AI Transparency Act after SB 1000: no user threshold, and what developers now have to build",
+        "slug": "californias-ai-transparency-act-after-sb-1000-no-user-threshold-and-what-developers-now-have-to-build",
+        "author": "RuleReddy",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 14:34:03 +0000",
+        "description": "California quietly rewrote its AI Transparency Act on September 30, 2026. If you skimmed the original SB 942 and concluded this only hits companies with a m...",
+        "keywords": "system, your, you, tool, disclosure, created, must, const",
+        "generated": "2026-11-10T14:38:48.360522",
+        "file": "californias-ai-transparency-act-after-sb-1000-no-user-threshold-and-what-developers-now-have-to-build.md"
+    },
+    {
         "title": "I turned Jev into a (lousy) chatbot",
         "slug": "i-turned-jev-into-a-lousy-chatbot",
         "author": "kp1197",
@@ -41419,6 +41485,17 @@
         "file": "playwright-164-adds-webmcp-what-changes-for-your-tests.md"
     },
     {
+        "title": "Why Duplicate Training Data Silently Corrupts Vision Models",
+        "slug": "why-duplicate-training-data-silently-corrupts-vision-models",
+        "author": "Harpreet Sahota",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 14:30:42 +0000",
+        "description": "What is worse than bad training data? Duplicate training data that silently corrupts your model while convincing you that performance is flawless. Every dupl...",
+        "keywords": "near, duplicates, duplicate, data, pruning, dataset, model, identical",
+        "generated": "2026-11-10T14:38:48.363674",
+        "file": "why-duplicate-training-data-silently-corrupts-vision-models.md"
+    },
+    {
         "title": "Break-even is not a profit, and my calculator said it was",
         "slug": "break-even-is-not-a-profit-and-my-calculator-said-it-was",
         "author": "Hammad Shams Uddin",
@@ -47720,6 +47797,17 @@
         "keywords": "recovery, evidence, how, techy, force, cyber, retrieval, cryptocurrency",
         "generated": "2026-08-16T01:41:13.468868",
         "file": "how-techy-force-cyber-retrieval-supports-cryptocurrency-scam-victims-with-professional-recovery-strategies.md"
+    },
+    {
+        "title": "Ableton Live 13",
+        "slug": "ableton-live-13",
+        "author": "phaser",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 12:58:04 +0000",
+        "description": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 69 # Comments: 66",
+        "keywords": "ableton, live, url, https, com, comments, article, www",
+        "generated": "2026-11-10T14:38:48.357648",
+        "file": "ableton-live-13.md"
     },
     {
         "title": "The Hidden Cost Of A Line of Code",
@@ -54729,6 +54817,17 @@
         "file": "requestidlecallback-vs-settimeout-the-delay-i-actually-measured.md"
     },
     {
+        "title": "Restocking without double-spending: an idempotent inventory loop",
+        "slug": "restocking-without-double-spending-an-idempotent-inventory-loop",
+        "author": "mujin",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 14:35:59 +0000",
+        "description": "The invariant that keeps inventory honest: remaining is preloaded minus totalSupply, and why preloaded alone is a lie My inventory daemon uses this invariant...",
+        "keywords": "preload, earlier, piece, contract, later, chain, before, inventory",
+        "generated": "2026-11-10T14:38:48.358147",
+        "file": "restocking-without-double-spending-an-idempotent-inventory-loop.md"
+    },
+    {
         "title": "How I Used Hindsight to Stop Repeating Failed SEO Experiments",
         "slug": "how-i-used-hindsight-to-stop-repeating-failed-seo-experiments",
         "author": "Gowtham Kumar",
@@ -56179,6 +56278,17 @@
         "keywords": "outreach, state, lead, your, pipeline, system, profile, early",
         "generated": "2026-07-28T14:22:20.799561",
         "file": "automating-technical-outreach-mastering-the-7-state-pipeline-for-early-adopter-acquisition.md"
+    },
+    {
+        "title": "Don't buy AR glasses",
+        "slug": "dont-buy-ar-glasses",
+        "author": "Bluestein",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 13:10:25 +0000",
+        "description": "Article URL: https://blog.yaros.ae/dont-buy-ar-glasses/ Comments URL: https://news.ycombinator.com/item?id=50439805 Points: 74 # Comments: 70",
+        "keywords": "buy, glasses, url, https, comments, don, article, blog",
+        "generated": "2026-11-10T14:38:48.357558",
+        "file": "dont-buy-ar-glasses.md"
     },
     {
         "title": "I Wish I Knew These AI API Cost Optimizations Sooner — Data Deep Dive",
@@ -58751,6 +58861,17 @@
         "keywords": "idioma, que, por, json, sin, una, translator, con",
         "generated": "2026-08-16T18:35:30.113718",
         "file": "i18n-sin-gettext-traducciones-en-json-con-claves-de-punto.md"
+    },
+    {
+        "title": "Reproducing a paper in Python: a random seed is only the first step",
+        "slug": "reproducing-a-paper-in-python-a-random-seed-is-only-the-first-step",
+        "author": "wanqiuxu",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 14:35:41 +0000",
+        "description": "You follow a machine learning or experimental paper, run the code, and the loss curve or the reported metric doesn't match. You move the same script to anoth...",
+        "keywords": "you, seed, random, torch, same, not, more, can",
+        "generated": "2026-11-10T14:38:48.358509",
+        "file": "reproducing-a-paper-in-python-a-random-seed-is-only-the-first-step.md"
     },
     {
         "title": "Our pipeline had two kinds of nothing and only one word for both",
@@ -74581,6 +74702,17 @@
         "file": "i-built-a-pay-to-rank-leaderboard-in-7-days-heres-how-the-points-system-works.md"
     },
     {
+        "title": "Let over Lambda–50 Years of Lisp",
+        "slug": "let-over-lambda50-years-of-lisp",
+        "author": "theanonymousone",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 12:35:27 +0000",
+        "description": "Article URL: https://letoverlambda.com/ Comments URL: https://news.ycombinator.com/item?id=50439448 Points: 3 # Comments: 0",
+        "keywords": "url, https, com, comments, let, over, lambda, years",
+        "generated": "2026-11-10T14:38:48.357760",
+        "file": "let-over-lambda50-years-of-lisp.md"
+    },
+    {
         "title": "I built a game about coding before AI (and it was painful on purpose)",
         "slug": "i-built-a-game-about-coding-before-ai-and-it-was-painful-on-purpose",
         "author": "Before AI",
@@ -89283,6 +89415,17 @@
         "file": "python-complete-masterclass-2026-the-ultimate-beginner-to-professional-guide.md"
     },
     {
+        "title": "Muse Ember at $0.10/$0.50: Default Is Max, the 200K Billing Cliff, and When to Pair It With Wonder",
+        "slug": "muse-ember-at-010050-default-is-max-the-200k-billing-cliff-and-when-to-pair-it-with-wonder",
+        "author": "Yong Yu",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 14:29:06 +0000",
+        "description": "Attributed compile + list-price arithmetic on my box Primary source: Introducing Our Smallest, Most Efficient Model: Muse Ember (Nov 9, 2026) by Meta AI Rese...",
+        "keywords": "ember, muse, meta, max, not, spark, wonder, model",
+        "generated": "2026-11-10T14:38:48.364287",
+        "file": "muse-ember-at-010050-default-is-max-the-200k-billing-cliff-and-when-to-pair-it-with-wonder.md"
+    },
+    {
         "title": "Marketing for Solo Founders: What Fits in the Time You Actually Have",
         "slug": "marketing-for-solo-founders-what-fits-in-the-time-you-actually-have",
         "author": "Anil Yucel",
@@ -89457,6 +89600,17 @@
         "keywords": "not, patient, can, camera, exercise, but, mendly, could",
         "generated": "2026-09-30T22:04:18.304085",
         "file": "how-our-top-11-hophacks-project-turned-noisy-mediapipe-pose-data-into-reliable-rehabilitation-metrics-for-adaptive-ai-planning.md"
+    },
+    {
+        "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+        "slug": "compress-any-llm-3x-in-one-clicknear-losslessin-under-50-mb-ram",
+        "author": "anushka_gandhi",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 13:51:51 +0000",
+        "description": "Article URL: https://neuracryption.com/research Comments URL: https://news.ycombinator.com/item?id=50440359 Points: 26 # Comments: 18",
+        "keywords": "url, https, com, comments, compress, any, llm, one",
+        "generated": "2026-11-10T14:38:48.357401",
+        "file": "compress-any-llm-3x-in-one-clicknear-losslessin-under-50-mb-ram.md"
     },
     {
         "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
@@ -95318,6 +95472,17 @@
         "file": "instructions-are-not-boundaries.md"
     },
     {
+        "title": "What's new in the .NET 11 runtime",
+        "slug": "whats-new-in-the-net-11-runtime",
+        "author": "stevefan1999",
+        "source": "hackernews",
+        "published": "Tue, 10 Nov 2026 12:20:07 +0000",
+        "description": "Article URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 29...",
+        "keywords": "new, runtime, url, https, com, dotnet, comments, what",
+        "generated": "2026-11-10T14:38:48.357853",
+        "file": "whats-new-in-the-net-11-runtime.md"
+    },
+    {
         "title": "Why Your Production RAG System Slowly Gets Worse",
         "slug": "why-your-production-rag-system-slowly-gets-worse",
         "author": "Lei Ye",
@@ -96473,6 +96638,17 @@
         "file": "wordpress-php-vulnerability-triage-non-technical-protection-guide.md"
     },
     {
+        "title": "One Coding Budget, Multiple Models: Configure Claude Code with the Right Protocol",
+        "slug": "one-coding-budget-multiple-models-configure-claude-code-with-the-right-protocol",
+        "author": "Germey",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 14:31:59 +0000",
+        "description": "If you already use terminal coding agents but do not want separate subscriptions and credentials for every model family, AceDataCloud Coding Plan is designed...",
+        "keywords": "model, coding, claude, not, plan, code, client, one",
+        "generated": "2026-11-10T14:38:48.362347",
+        "file": "one-coding-budget-multiple-models-configure-claude-code-with-the-right-protocol.md"
+    },
+    {
         "title": "Replacing a Spreadsheet Report With an Automated Workflow: A Practical Checklist",
         "slug": "replacing-a-spreadsheet-report-with-an-automated-workflow-a-practical-checklist",
         "author": "Affix Center Softech Services Pvt. Ltd",
@@ -96647,6 +96823,17 @@
         "keywords": "log, files, logs, before, rotation, size, without, pruner",
         "generated": "2026-08-20T01:35:46.535773",
         "file": "log-pruner-cli-find-and-clean-oversized-log-files-in-python.md"
+    },
+    {
+        "title": "I Built a Tiny OpenAI-Compatible Proxy Setup for My Side Projects",
+        "slug": "i-built-a-tiny-openai-compatible-proxy-setup-for-my-side-projects",
+        "author": "rf ui",
+        "source": "devto_python",
+        "published": "Tue, 10 Nov 2026 14:33:04 +0000",
+        "description": "I Built a Tiny OpenAI-Compatible Proxy Setup for My Side Projects If you run multiple AI side projects, juggling API keys and SDKs gets old. Here's the setup...",
+        "keywords": "openai, compatible, setup, side, projects, one, top, built",
+        "generated": "2026-11-10T14:38:48.358646",
+        "file": "i-built-a-tiny-openai-compatible-proxy-setup-for-my-side-projects.md"
     },
     {
         "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
@@ -104734,6 +104921,17 @@
         "file": "i-built-an-ai-that-stages-an-empty-room-from-a-single-phone-photo.md"
     },
     {
+        "title": "How does the SONAR MCP server work?",
+        "slug": "how-does-the-sonar-mcp-server-work",
+        "author": "ScriptMasterLabs",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 14:30:49 +0000",
+        "description": "How does the SONAR MCP server work? The SONAR MCP server (SONAR, the freight market intelligence platform covered by FreightWaves; rollout to SONAR customers...",
+        "keywords": "sonar, decision, not, scriptmasterlabs, act, read, rates, auto",
+        "generated": "2026-11-10T14:38:48.363260",
+        "file": "how-does-the-sonar-mcp-server-work.md"
+    },
+    {
         "title": "Elevate Your Skillset: Top Reasons to Pursue Python Full Stack Training in Marathahalli for Career Growth in 2026",
         "slug": "elevate-your-skillset-top-reasons-to-pursue-python-full-stack-training-in-marathahalli-for-career-growth-in-2026",
         "author": "lmt",
@@ -105491,6 +105689,17 @@
         "keywords": "color, palette, theme, primary, var, tokens, accent, surface",
         "generated": "2026-08-22T12:48:49.582281",
         "file": "from-hex-to-design-tokens-one-palette-six-formats-five-minutes.md"
+    },
+    {
+        "title": "The most expensive token is the one you spend twice",
+        "slug": "the-most-expensive-token-is-the-one-you-spend-twice",
+        "author": "Jonathan Berg",
+        "source": "devto_ai",
+        "published": "Tue, 10 Nov 2026 14:28:50 +0000",
+        "description": "Everyone building with AI watches token prices. New model comes out, the first thing we check is the cost per million. We negotiate with ourselves over which...",
+        "keywords": "you, your, agent, not, model, already, memory, every",
+        "generated": "2026-11-10T14:38:48.364502",
+        "file": "the-most-expensive-token-is-the-one-you-spend-twice.md"
     },
     {
         "title": "n8n QR Code Node: Generate QR Codes in Your Workflows (Free Workflow JSON)",
@@ -107709,6 +107918,17 @@
         "keywords": "data, football, japan, celtic, live, ipswich, forward, maeda",
         "generated": "2026-07-26T03:33:56.475146",
         "file": "building-a-football-data-pipeline-lessons-from-ipswich-sign-japan-forward-maeda-from-celtic.md"
+    },
+    {
+        "title": "Spacefast: A Home for the Apps Your AI Builds",
+        "slug": "spacefast-a-home-for-the-apps-your-ai-builds",
+        "author": "Mohammad Hassan Amer",
+        "source": "devto_webdev",
+        "published": "Tue, 10 Nov 2026 14:35:06 +0000",
+        "description": "Have you ever asked an AI to build you something, watched it actually work, and then thought... now what? That is the strange gap in vibe coding right now. Y...",
+        "keywords": "you, spacefast, your, part, what, but, project, more",
+        "generated": "2026-11-10T14:38:48.359974",
+        "file": "spacefast-a-home-for-the-apps-your-ai-builds.md"
     },
     {
         "title": "Bugtraq is back",
