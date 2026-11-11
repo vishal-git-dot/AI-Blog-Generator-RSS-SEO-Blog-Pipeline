@@ -22,6 +22,17 @@
         "file": "introducing-advanced-markdown-previewer-a-quick-tour.md"
     },
     {
+        "title": "WSGI vs ASGI, Uvicorn & Middleware: Explained from Absolute Zero 🚀",
+        "slug": "wsgi-vs-asgi-uvicorn-middleware-explained-from-absolute-zero",
+        "author": "Deepika Pusala",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 05:17:51 +0000",
+        "description": "🌱 WSGI vs ASGI, Uvicorn & Middleware: Let's Learn from ZERO! If you've built (or are building) a React + FastAPI project, you've probably run a command like ...",
+        "keywords": "app, asgi, request, middleware, server, fastapi, application, your",
+        "generated": "2026-11-11T05:37:22.168540",
+        "file": "wsgi-vs-asgi-uvicorn-middleware-explained-from-absolute-zero.md"
+    },
+    {
         "title": "Supabase (YC S20) Is Hiring for OrioleDB",
         "slug": "supabase-yc-s20-is-hiring-for-orioledb",
         "author": "awalias",
@@ -3321,6 +3332,17 @@
         "keywords": "output, prompt, content, you, script, python, generation, ollama",
         "generated": "2026-08-05T02:54:38.755516",
         "file": "the-simplest-python-script-to-generate-ai-content-at-scale.md"
+    },
+    {
+        "title": "LLMs Play Zachtronics' TIS-100",
+        "slug": "llms-play-zachtronics-tis-100",
+        "author": "fairestvalue",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 00:37:05 +0000",
+        "description": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 29 # Comments: 4",
+        "keywords": "tis, url, https, comments, llms, play, zachtronics, article",
+        "generated": "2026-11-11T05:37:22.165156",
+        "file": "llms-play-zachtronics-tis-100.md"
     },
     {
         "title": "Meta's blockbuster trial draws parallels to big tobacco",
@@ -14213,6 +14235,17 @@
         "file": "my-own-monitoring-environment-wasnt-outside-either.md"
     },
     {
+        "title": "JavaScript Deobfuscator Output: Reading It Layer by Layer",
+        "slug": "javascript-deobfuscator-output-reading-it-layer-by-layer",
+        "author": "Devirt",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 05:27:42 +0000",
+        "description": "A JavaScript deobfuscator is a tool that rewrites obfuscated JavaScript into code a person can read: it decodes hidden strings, inlines helper functions, unw...",
+        "keywords": "javascript, code, you, deobfuscator, what, script, layer, can",
+        "generated": "2026-11-11T05:37:22.169759",
+        "file": "javascript-deobfuscator-output-reading-it-layer-by-layer.md"
+    },
+    {
         "title": "LineageOS Statistics",
         "slug": "lineageos-statistics",
         "author": "pentagrama",
@@ -17335,6 +17368,17 @@
         "keywords": "draft, per, token, step, decoding, tokens, model, speculative",
         "generated": "2026-10-30T12:30:58.220953",
         "file": "vllm-speculative-decoding-18x-faster-alone-slower-at-32-users.md"
+    },
+    {
+        "title": "We broke production with a one-word prompt edit and git could not tell us",
+        "slug": "we-broke-production-with-a-one-word-prompt-edit-and-git-could-not-tell-us",
+        "author": "LXSAIHUB",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 05:25:13 +0000",
+        "description": "The change was a single word. We softened must to should in a system prompt to make the tone friendlier. The agent stopped emitting one JSON field consis...",
+        "keywords": "not, prompt, you, does, diff, check, one, behaviour",
+        "generated": "2026-11-11T05:37:22.170096",
+        "file": "we-broke-production-with-a-one-word-prompt-edit-and-git-could-not-tell-us.md"
     },
     {
         "title": "Unix Timestamps Explained: The Developer's Complete Reference",
@@ -22945,6 +22989,17 @@
         "file": "i-was-bored-so-i-built-a-ludo-game-website-using-ai.md"
     },
     {
+        "title": "JSONDecodeError: Expecting value at char 0? Read the Error Position Before You Touch the JSON",
+        "slug": "jsondecodeerror-expecting-value-at-char-0-read-the-error-position-before-you-touch-the-json",
+        "author": "Blogs World",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 05:26:47 +0000",
+        "description": "json.load() fails, the message says Expecting value: line 1 column 1 (char 0) , and the file looks fine in your editor. So you paste it into a validator, it ...",
+        "keywords": "json, line, utf, you, char, file, python, bom",
+        "generated": "2026-11-11T05:37:22.166508",
+        "file": "jsondecodeerror-expecting-value-at-char-0-read-the-error-position-before-you-touch-the-json.md"
+    },
+    {
         "title": "ContextLens — py-spy/pprof but for what's inside your LLM prompt",
         "slug": "contextlens-py-spypprof-but-for-whats-inside-your-llm-prompt",
         "author": "Harshal Sant",
@@ -23130,6 +23185,17 @@
         "keywords": "sentiment, travel, you, your, pulsebit, geographic, pipeline, english",
         "generated": "2026-08-11T02:05:22.147402",
         "file": "your-pipeline-is-200h-behind-catching-travel-sentiment-leads-with-pulsebit.md"
+    },
+    {
+        "title": "OpenAI Launches Businesses in ChatGPT in Beta — Business Hub and AI Agents for Every Storefront",
+        "slug": "openai-launches-businesses-in-chatgpt-in-beta-business-hub-and-ai-agents-for-every-storefront",
+        "author": "Rohan Tech official",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 05:24:08 +0000",
+        "description": "ChatGPT is starting to look a lot like a search engine — and OpenAI knows it. The company has launched Businesses in ChatGPT in beta, giving businesses a way...",
+        "keywords": "businesses, business, chatgpt, openai, way, customers, storefront, has",
+        "generated": "2026-11-11T05:37:22.171802",
+        "file": "openai-launches-businesses-in-chatgpt-in-beta-business-hub-and-ai-agents-for-every-storefront.md"
     },
     {
         "title": "MCP Server CORS: The Preflight Problem That Broke My MCP Server 92 Times And How I Fixed It For Good",
@@ -28093,6 +28159,17 @@
         "file": "5-best-places-to-buy-verified-paypal-accounts-safely-in.md"
     },
     {
+        "title": "Google's November Pixel Drop Brings Gemini Intelligence to Pixel 10 and Launches Pixel Tag",
+        "slug": "googles-november-pixel-drop-brings-gemini-intelligence-to-pixel-10-and-launches-pixel-tag",
+        "author": "Rohan Tech official",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 05:27:28 +0000",
+        "description": "The November Pixel Drop is here, and it does what Pixel Drops do best: make older phones feel new again. Gemini Intelligence lands on Pixel 10, Call Screen g...",
+        "keywords": "pixel, google, gemini, tag, drop, november, intelligence, new",
+        "generated": "2026-11-11T05:37:22.171076",
+        "file": "googles-november-pixel-drop-brings-gemini-intelligence-to-pixel-10-and-launches-pixel-tag.md"
+    },
+    {
         "title": "An interactive explorer for Benford's Law across real datasets",
         "slug": "an-interactive-explorer-for-benfords-law-across-real-datasets",
         "author": "dingobabies",
@@ -30005,6 +30082,17 @@
         "keywords": "output, reviews, batch, text, model, json, you, free",
         "generated": "2026-08-06T03:12:22.485897",
         "file": "batch-text-analysis-with-an-llm-cli-500-reviews-one-for-loop-a-few-cents.md"
+    },
+    {
+        "title": "Tobacco Stock & Backwoods: A Buyer's Guide to Classic Cigars",
+        "slug": "tobacco-stock-backwoods-a-buyers-guide-to-classic-cigars",
+        "author": "RC Car",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 05:28:45 +0000",
+        "description": "Few cigar brands have earned a following as loyal as Backwoods . Since the first pack hit shelves, these slim, hand-finished cigars have become a familiar si...",
+        "keywords": "you, backwoods, pack, cigars, flavor, tobacco, cigar, your",
+        "generated": "2026-11-11T05:37:22.170808",
+        "file": "tobacco-stock-backwoods-a-buyers-guide-to-classic-cigars.md"
     },
     {
         "title": "If Your Agent Wrote the Test, Ignore the Green Build",
@@ -33497,6 +33585,17 @@
         "keywords": "memory, recallops, agent, engineer, incident, sre, failed, negative",
         "generated": "2026-11-07T12:45:01.217579",
         "file": "beyond-vector-rag-how-we-built-an-incident-response-agent-that-remembers-failed-fixes.md"
+    },
+    {
+        "title": "Hooked on Tuna",
+        "slug": "hooked-on-tuna",
+        "author": "dnetesn",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 02:23:25 +0000",
+        "description": "https://blue-continuum.com/hooked-on-tuna Comments URL: https://news.ycombinator.com/item?id=50449080 Points: 19 # Comments: 1",
+        "keywords": "hooked, tuna, https, com, comments, blue, continuum, url",
+        "generated": "2026-11-11T05:37:22.164914",
+        "file": "hooked-on-tuna.md"
     },
     {
         "title": "Building a Contact Form in Django 6",
@@ -38625,6 +38724,17 @@
         "file": "testing-failure-paths-in-fintech-onboarding-a-practical-engineering-checklist.md"
     },
     {
+        "title": "Protecting SSH Keys with macOS Secure Enclave",
+        "slug": "protecting-ssh-keys-with-macos-secure-enclave",
+        "author": "js2",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 04:28:57 +0000",
+        "description": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 33 # Comments: 7",
+        "keywords": "ssh, keys, macos, secure, enclave, url, https, com",
+        "generated": "2026-11-11T05:37:22.164583",
+        "file": "protecting-ssh-keys-with-macos-secure-enclave.md"
+    },
+    {
         "title": "Using LLMs for Crypto Market Analysis in 2026 — 2026-10-07 #1",
         "slug": "using-llms-for-crypto-market-analysis-in-2026-2026-10-07-1",
         "author": "Nexus Intelligence Research",
@@ -42143,6 +42253,17 @@
         "keywords": "code, codeql, semgrep, not, one, week, two, agent",
         "generated": "2026-09-11T16:13:33.444418",
         "file": "i-feared-ai-generated-code-then-i-let-codeql-and-semgrep-argue-over-it-for-a-week.md"
+    },
+    {
+        "title": "Anthropic Launches Claude Sheets, Whiteboards and Meetings — Claude Becomes a Full Workspace",
+        "slug": "anthropic-launches-claude-sheets-whiteboards-and-meetings-claude-becomes-a-full-workspace",
+        "author": "Rohan Tech official",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 05:26:19 +0000",
+        "description": "Claude is no longer just a chat window. Anthropic has launched Claude Sheets and Claude Whiteboards in beta on paid plans, made Claude Data generally availab...",
+        "keywords": "claude, anthropic, sheets, whiteboards, meetings, one, full, has",
+        "generated": "2026-11-11T05:37:22.171306",
+        "file": "anthropic-launches-claude-sheets-whiteboards-and-meetings-claude-becomes-a-full-workspace.md"
     },
     {
         "title": "# Echoes of Yesterday 🕯️: Giving Old Memories a New Life with Local AI",
@@ -51614,6 +51735,17 @@
         "keywords": "patience, machines, keep, noticing, how, around, learning, wait",
         "generated": "2026-06-11T04:27:42.960630",
         "file": "the-patience-of-machines.md"
+    },
+    {
+        "title": "Why does my PyTorch DataLoader fail when a worker touches CUDA?",
+        "slug": "why-does-my-pytorch-dataloader-fail-when-a-worker-touches-cuda",
+        "author": "CloudGPU",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 05:25:18 +0000",
+        "description": "I work on CloudGPU. Keep dataset decoding and collation on the CPU, then move each batch to CUDA in the main training process. If a worker initializes CUDA a...",
+        "keywords": "cuda, dataset, cpu, not, worker, main, torch, dataloader",
+        "generated": "2026-11-11T05:37:22.166800",
+        "file": "why-does-my-pytorch-dataloader-fail-when-a-worker-touches-cuda.md"
     },
     {
         "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
@@ -65310,6 +65442,17 @@
         "file": "diskusi-studi-kasus-cara-mengubah-gelar-sarjana-menjadi-gaji-double-digit-dalam-6-bulan-pengalaman-trik-praktis-lapangan.md"
     },
     {
+        "title": "Recovery Risk Explained — List User Sessions and Revoke One",
+        "slug": "recovery-risk-explained-list-user-sessions-and-revoke-one",
+        "author": "XerxesCross2735",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 05:19:32 +0000",
+        "description": "Device fingerprints can help a customer support team decide when to ask for more proof, but an unfamiliar device should not automatically strand a legitimate...",
+        "keywords": "session, recovery, not, response, customer, its, inventory, sessions",
+        "generated": "2026-11-11T05:37:22.167469",
+        "file": "recovery-risk-explained-list-user-sessions-and-revoke-one.md"
+    },
+    {
         "title": "Credit card debt rises to $1.26T, nearing all-time record",
         "slug": "credit-card-debt-rises-to-126t-nearing-all-time-record",
         "author": "lxm",
@@ -70117,6 +70260,17 @@
         "file": "why-for-agentsjson-and-a-public-corpus-beat-another-landing-page.md"
     },
     {
+        "title": "Building a Python Framework to Monitor IDMC Taskflow Execution",
+        "slug": "building-a-python-framework-to-monitor-idmc-taskflow-execution",
+        "author": "Shireesha Mangannagari",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 05:27:46 +0000",
+        "description": "Starting an Informatica Intelligent Data Management Cloud (IDMC) taskflow from code is easy. Knowing what happened to it afterward is harder. In most pipelin...",
+        "keywords": "self, taskflow, import, outcome, result, str, def, config",
+        "generated": "2026-11-11T05:37:22.166058",
+        "file": "building-a-python-framework-to-monitor-idmc-taskflow-execution.md"
+    },
+    {
         "title": "Score Agent Hops Before They Leave Disk",
         "slug": "score-agent-hops-before-they-leave-disk",
         "author": "Riley Wu",
@@ -70995,6 +71149,17 @@
         "file": "morse-code-converter-text-to-morse-with-web-audio-playback.md"
     },
     {
+        "title": "Meituan Releases LongCat-2.5 — A 1.6-Trillion-Parameter Open-Weight Model Under the MIT License",
+        "slug": "meituan-releases-longcat-25-a-16-trillion-parameter-open-weight-model-under-the-mit-license",
+        "author": "Rohan Tech official",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 05:25:18 +0000",
+        "description": "Another trillion-parameter model just went open weight — and this one's licence is about as permissive as they come. Meituan has released LongCat-2.5, a mixt...",
+        "keywords": "model, longcat, meituan, trillion, mit, licence, parameter, can",
+        "generated": "2026-11-11T05:37:22.171540",
+        "file": "meituan-releases-longcat-25-a-16-trillion-parameter-open-weight-model-under-the-mit-license.md"
+    },
+    {
         "title": "I Spent Two Weeks Testing Every AI Coding Model So You Don't Have To",
         "slug": "i-spent-two-weeks-testing-every-ai-coding-model-so-you-dont-have-to",
         "author": "rarenode",
@@ -71136,6 +71301,17 @@
         "keywords": "notebook, mozart, note, lost, music, notes, promphy, const",
         "generated": "2026-06-26T14:36:05.304361",
         "file": "uncovered-mozarts-lost-notebook-the-10-million-musical-treasure-that-will-change-history-forever.md"
+    },
+    {
+        "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+        "slug": "to-deter-bioterrorism-us-imposes-new-rules-on-ordering-synthetic-dna",
+        "author": "Metacelsus",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 02:57:08 +0000",
+        "description": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.c...",
+        "keywords": "deter, bioterrorism, imposes, new, rules, ordering, synthetic, dna",
+        "generated": "2026-11-11T05:37:22.164783",
+        "file": "to-deter-bioterrorism-us-imposes-new-rules-on-ordering-synthetic-dna.md"
     },
     {
         "title": "How I Built a Real-Time Tennis Stats Tracker: GBs Fery beats Dimitrov in five-set thriller to extend historic run",
@@ -83952,6 +84128,17 @@
         "file": "opus-55-causing-an-identity-crisis-is-real.md"
     },
     {
+        "title": "The chart was fine; the question it answered was wrong",
+        "slug": "the-chart-was-fine-the-question-it-answered-was-wrong",
+        "author": "LXSAIHUB",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 05:30:24 +0000",
+        "description": "I once put a time series in a pie chart. It was not a joke; I was in a hurry, the categories were months, and the result was twelve nearly identical slices t...",
+        "keywords": "chart, you, not, config, data, your, does, library",
+        "generated": "2026-11-11T05:37:22.168952",
+        "file": "the-chart-was-fine-the-question-it-answered-was-wrong.md"
+    },
+    {
         "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
         "slug": "us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nio-nears",
         "author": "ResearchAtPlay",
@@ -93153,6 +93340,17 @@
         "file": "embraers-atech-aims-to-double-in-size-by-2030-with-drone-traffic-control.md"
     },
     {
+        "title": "Hitting 200 Strokes: What the Signature Maker Does at Its Stroke Limit",
+        "slug": "hitting-200-strokes-what-the-signature-maker-does-at-its-stroke-limit",
+        "author": "OnePassApps",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 05:29:38 +0000",
+        "description": "Hitting 200 Strokes: What the Signature Maker Does at Its Stroke Limit I work on OnePassApps, and this is our own app, measured on our own site. Our guide fo...",
+        "keywords": "one, stroke, app, strokes, signature, not, limit, export",
+        "generated": "2026-11-11T05:37:22.169249",
+        "file": "hitting-200-strokes-what-the-signature-maker-does-at-its-stroke-limit.md"
+    },
+    {
         "title": "Jules Verne's Lost Novel",
         "slug": "jules-vernes-lost-novel",
         "author": "dnetesn",
@@ -96317,6 +96515,17 @@
         "keywords": "tool, model, not, what, you, one, surface, contract",
         "generated": "2026-08-01T13:39:22.851150",
         "file": "a-practical-checklist-for-mcp-tool-contracts-because-the-connection-is-the-easy-part.md"
+    },
+    {
+        "title": "A great old-timey game-programming hack (2013)",
+        "slug": "a-great-old-timey-game-programming-hack-2013",
+        "author": "palsecam",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 01:56:31 +0000",
+        "description": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921...",
+        "keywords": "great, old, timey, game, programming, hack, url, https",
+        "generated": "2026-11-11T05:37:22.165039",
+        "file": "a-great-old-timey-game-programming-hack-2013.md"
     },
     {
         "title": "The Golden Rule for Becoming a Better Writer",
@@ -102114,6 +102323,17 @@
         "keywords": "accounts, instagram, buysmmservice, verified, email, buy, free, available",
         "generated": "2026-07-02T14:15:25.137232",
         "file": "how-to-safely-buying-instagram-accounts-in-2026.md"
+    },
+    {
+        "title": "I built a no-config way to host apps built in AI chats",
+        "slug": "i-built-a-no-config-way-to-host-apps-built-in-ai-chats",
+        "author": "Srujan Ranpise",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 05:24:44 +0000",
+        "description": "Woke up to 310+ installs on the Chrome Web Store, one month after launching Deployinn. Here's the story of why I built it. The problem AI chats are great at ...",
+        "keywords": "code, your, built, mcp, one, deployinn, you, some",
+        "generated": "2026-11-11T05:37:22.170358",
+        "file": "i-built-a-no-config-way-to-host-apps-built-in-ai-chats.md"
     },
     {
         "title": "Why F1 Is the Wrong Objective for Entity Resolution Thresholds in Corporate Data",
