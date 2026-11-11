@@ -4852,6 +4852,17 @@
         "file": "how-much-does-ai-development-cost-in-2026-real-numbers-no-it-depends.md"
     },
     {
+        "title": "Can a Linear Program Do Weight-Space Programming?",
+        "slug": "can-a-linear-program-do-weight-space-programming",
+        "author": "emschwartz",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 12:30:17 +0000",
+        "description": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 43 # Comments: 6",
+        "keywords": "weight, space, url, https, comments, can, linear, program",
+        "generated": "2026-11-11T13:54:26.910418",
+        "file": "can-a-linear-program-do-weight-space-programming.md"
+    },
+    {
         "title": "Why Single-Model Cartoonify Prompts Fail in Production (And How I Fixed It with a 2-Stage Pipeline)",
         "slug": "why-single-model-cartoonify-prompts-fail-in-production-and-how-i-fixed-it-with-a-2-stage-pipeline",
         "author": "Howard Shaw",
@@ -10449,6 +10460,17 @@
         "keywords": "rome, fell, nobody, noticed, url, https, com, comments",
         "generated": "2026-06-14T19:44:48.274937",
         "file": "rome-fell-and-nobody-noticed.md"
+    },
+    {
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "slug": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
+        "author": "eyvindn",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 12:05:22 +0000",
+        "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 170 # Comments: 69",
+        "keywords": "maya, points, url, https, com, comments, google, swe",
+        "generated": "2026-11-11T13:54:26.910680",
+        "file": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h.md"
     },
     {
         "title": "Joining Two Federal Datasets That Disagree by Design",
@@ -23726,6 +23748,17 @@
         "file": "the-n1-query-problem-in-django-how-to-spot-it-and-kill-it-before-it-kills-your-api.md"
     },
     {
+        "title": "Modelling missing data: Sri Lanka's Grade 5 cut-off marks as typed tables",
+        "slug": "modelling-missing-data-sri-lankas-grade-5-cut-off-marks-as-typed-tables",
+        "author": "Hirantha Sandaruwan Lakshan",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 13:50:48 +0000",
+        "description": "Every year the Department of Examinations in Sri Lanka publishes district cut-off marks for the Grade 5 scholarship exam. The mark is out of 200, and it diff...",
+        "keywords": "not, year, district, medium, cut, null, off, published",
+        "generated": "2026-11-11T13:54:26.914351",
+        "file": "modelling-missing-data-sri-lankas-grade-5-cut-off-marks-as-typed-tables.md"
+    },
+    {
         "title": "Check if a date is a public holiday in any country via API",
         "slug": "check-if-a-date-is-a-public-holiday-in-any-country-via-api",
         "author": "César Freitas",
@@ -35369,6 +35402,17 @@
         "file": "clean-booths-for-reliable-localized-contamination-control.md"
     },
     {
+        "title": "Seven PreToolUse hooks cost 318 ms per tool call at 10 Claude Code sessions. One process got it to 89 ms.",
+        "slug": "seven-pretooluse-hooks-cost-318-ms-per-tool-call-at-10-claude-code-sessions-one-process-got-it-to-89-ms",
+        "author": "Myeongseok Kang",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 13:47:17 +0000",
+        "description": "I run many Claude Code sessions on one machine at the same time, often ten or more. Each of them makes a shell call every few seconds, and every shell call g...",
+        "keywords": "guard, one, bulkhead, process, code, sessions, call, claude",
+        "generated": "2026-11-11T13:54:26.915133",
+        "file": "seven-pretooluse-hooks-cost-318-ms-per-tool-call-at-10-claude-code-sessions-one-process-got-it-to-89-ms.md"
+    },
+    {
         "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
         "slug": "what-driving-across-europe-costs-in-tolls-vignettes-bridges-and-fuel",
         "author": "heikkikalliokos",
@@ -43518,6 +43562,17 @@
         "keywords": "detection, model, backend, yolo, fire, flameguard, application, fastapi",
         "generated": "2026-10-27T11:53:35.652449",
         "file": "integrating-yolo-fire-detection-with-fastapi-and-nextjs.md"
+    },
+    {
+        "title": "Same Template, Different Request: Fingerprint What You Actually Send to the Model",
+        "slug": "same-template-different-request-fingerprint-what-you-actually-send-to-the-model",
+        "author": "Obligra Verify",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 13:46:22 +0000",
+        "description": "An eval run drifts. You check the usual suspects: the model ID is pinned, the dataset hash matches, and the prompt template hasn't changed since last week's ...",
+        "keywords": "you, fingerprint, template, request, model, body, json, same",
+        "generated": "2026-11-11T13:54:26.915950",
+        "file": "same-template-different-request-fingerprint-what-you-actually-send-to-the-model.md"
     },
     {
         "title": "The many mysteries and lessons of the Bayeux tapestry",
@@ -52221,6 +52276,17 @@
         "file": "ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-dont-understand.md"
     },
     {
+        "title": "Dubbing videos from Claude with an MCP server",
+        "slug": "dubbing-videos-from-claude-with-an-mcp-server",
+        "author": "Donatas Adomavičius",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 13:47:26 +0000",
+        "description": "I'm building Vocnu . It translates videos into other languages with an AI voice-over and subtitles. There's a web app and a Chrome extension for YouTube and ...",
+        "keywords": "vocnu, you, claude, mcp, voice, subtitles, npx, videos",
+        "generated": "2026-11-11T13:54:26.914881",
+        "file": "dubbing-videos-from-claude-with-an-mcp-server.md"
+    },
+    {
         "title": "Why `ibelick/ui-skills` Is Getting Attention from AI-Assisted Frontend Developers",
         "slug": "why-ibelickui-skills-is-getting-attention-from-ai-assisted-frontend-developers",
         "author": "linweidao",
@@ -52615,6 +52681,28 @@
         "keywords": "json, line, you, quotes, diff, use, your, debug",
         "generated": "2026-10-07T05:20:33.233018",
         "file": "how-to-debug-json-errors-fast-a-practical-guide.md"
+    },
+    {
+        "title": "I automated the monthly market brief I always wanted as an aerospace buyer.",
+        "slug": "i-automated-the-monthly-market-brief-i-always-wanted-as-an-aerospace-buyer",
+        "author": "Stephany Alves",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 13:30:00 +0000",
+        "description": "I spent four years buying aircraft parts, from propulsion components to avionics. Often, there was only one supplier to turn to, and I’d find out about a pri...",
+        "keywords": "data, month, synthetic, every, one, page, would, buyer",
+        "generated": "2026-11-11T13:54:26.912983",
+        "file": "i-automated-the-monthly-market-brief-i-always-wanted-as-an-aerospace-buyer.md"
+    },
+    {
+        "title": "I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you",
+        "slug": "i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-before-they-hurt-you",
+        "author": "Manoj Kumar Sharma",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 13:42:35 +0000",
+        "description": "Most people don't get hacked by nation-state attacks. They get hacked by a fake link in a text message, a convincing verify your account email, a malware a...",
+        "keywords": "every, aegis, can, email, what, link, audit, platform",
+        "generated": "2026-11-11T13:54:26.911789",
+        "file": "i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-before-they-hurt-you.md"
     },
     {
         "title": "An AI agent directory reviewed my free website builder: 8/10, and one fair hit",
@@ -76034,6 +76122,17 @@
         "file": "essential-resources-for-settin.md"
     },
     {
+        "title": "Writing honest 'coming soon' placeholders instead of shipping fake features",
+        "slug": "writing-honest-coming-soon-placeholders-instead-of-shipping-fake-features",
+        "author": "Mobeen Ahmed",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 13:49:53 +0000",
+        "description": "Every tool site eventually has a feature that is not ready yet. On ramrom.io, that feature is Douyin. The download provider I looked at returns playlists, no...",
+        "keywords": "not, douyin, visitor, does, fake, site, button, page",
+        "generated": "2026-11-11T13:54:26.914647",
+        "file": "writing-honest-coming-soon-placeholders-instead-of-shipping-fake-features.md"
+    },
+    {
         "title": "Obscura: Rust Headless Browser for AI Agents â 14,000 Stars â 30MB Memory, 85ms Load â Setup Guide 2026",
         "slug": "obscura-rust-headless-browser-for-ai-agents-14000-stars-30mb-memory-85ms-load-setup-guide-2026",
         "author": "Dibi8",
@@ -84392,6 +84491,17 @@
         "file": "aws-journey-day-9.md"
     },
     {
+        "title": "Physically Controllable Relighting of Photographs",
+        "slug": "physically-controllable-relighting-of-photographs",
+        "author": "summarity",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 11:38:43 +0000",
+        "description": "Article URL: https://yaksoy.github.io/PhysicalRelighting/ Comments URL: https://news.ycombinator.com/item?id=50452224 Points: 11 # Comments: 1",
+        "keywords": "url, https, comments, physically, controllable, relighting, photographs, article",
+        "generated": "2026-11-11T13:54:26.910863",
+        "file": "physically-controllable-relighting-of-photographs.md"
+    },
+    {
         "title": "Why Do US Stock Minute Bar Backtests Fail to Match Live Trading Results?",
         "slug": "why-do-us-stock-minute-bar-backtests-fail-to-match-live-trading-results",
         "author": "James Tao",
@@ -91129,6 +91239,17 @@
         "file": "why-was-i-ghosting-devto-for-a-month.md"
     },
     {
+        "title": "0 strings missing, still English on screen: taking a SwiftUI app to 12 languages",
+        "slug": "0-strings-missing-still-english-on-screen-taking-a-swiftui-app-to-12-languages",
+        "author": "Bazi",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 13:46:03 +0000",
+        "description": "I make Alcove, a to-do list, planner and notes app for Mac, iPhone and iPad, written in SwiftUI. It is my own app, so read this as a build story, not a revie...",
+        "keywords": "one, english, tasks, string, not, every, its, count",
+        "generated": "2026-11-11T13:54:26.916480",
+        "file": "0-strings-missing-still-english-on-screen-taking-a-swiftui-app-to-12-languages.md"
+    },
+    {
         "title": "Master the Python Piscine: Your Ultimate OOP, Data, and Automation Cheat Sheet 🐍🚀",
         "slug": "master-the-python-piscine-your-ultimate-oop-data-and-automation-cheat-sheet",
         "author": "Benjamin Koimett",
@@ -94460,6 +94581,17 @@
         "file": "task-manager-on-mac-how-to-monitor-processes-and-fix-slow-apps.md"
     },
     {
+        "title": "Dedupe a B2B Company List in Python Before Outreach: Root Domains, Phone Keys and Union-Find",
+        "slug": "dedupe-a-b2b-company-list-in-python-before-outreach-root-domains-phone-keys-and-union-find",
+        "author": "MantisAI",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 13:36:05 +0000",
+        "description": "A prospect list merged from several sources usually contains the same company more than once. One row comes from a directory with https://www.shreepack.co.in...",
+        "keywords": "row, rows, key, value, list, com, phone, not",
+        "generated": "2026-11-11T13:54:26.912547",
+        "file": "dedupe-a-b2b-company-list-in-python-before-outreach-root-domains-phone-keys-and-union-find.md"
+    },
+    {
         "title": "Python 3.15 soft-deprecates re.match() for re.prefixmatch",
         "slug": "python-315-soft-deprecates-rematch-for-reprefixmatch",
         "author": "techaiwire",
@@ -95855,6 +95987,17 @@
         "keywords": "xqora, technologies, building, software, our, development, solutions, while",
         "generated": "2026-07-17T13:49:54.405655",
         "file": "introducing-xqora-technologies-building-the-future-one-project-at-a-time.md"
+    },
+    {
+        "title": "Three filters, cheap to expensive: how a duplicate finder avoids hashing your whole disk",
+        "slug": "three-filters-cheap-to-expensive-how-a-duplicate-finder-avoids-hashing-your-whole-disk",
+        "author": "alice kelly",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 13:41:48 +0000",
+        "description": "Every duplicate file finder starts with the same obvious plan: hash every file, group by digest. It is correct, it is simple, and on a real drive it is unusa...",
+        "keywords": "not, files, size, file, one, only, duplicate, read",
+        "generated": "2026-11-11T13:54:26.912106",
+        "file": "three-filters-cheap-to-expensive-how-a-duplicate-finder-avoids-hashing-your-whole-disk.md"
     },
     {
         "title": "5 Lightweight Tailscale Alternatives Worth Running on Your Own Hardware",
@@ -98409,6 +98552,17 @@
         "file": "do-not-trust-the-green-checkmark.md"
     },
     {
+        "title": "8 nutrition APIs compared: Nutritionix, Edamam, Spoonacular, USDA and more (I run one of them)",
+        "slug": "8-nutrition-apis-compared-nutritionix-edamam-spoonacular-usda-and-more-i-run-one-of-them",
+        "author": "Tosh Koevoets",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 13:52:52 +0000",
+        "description": "I run Your Move, which includes a nutrition API. Disclosure done. I spent a year wiring food databases into a trainer app before we built our own, so I have ...",
+        "keywords": "yes, you, food, nutrition, your, api, data, foods",
+        "generated": "2026-11-11T13:54:26.913240",
+        "file": "8-nutrition-apis-compared-nutritionix-edamam-spoonacular-usda-and-more-i-run-one-of-them.md"
+    },
+    {
         "title": "DSPy: The End of Prompt Engineering - Kevin Madura, AlixPartners | 告别提示词工程：用DSPy构建模块化、可优化的AI程序",
         "slug": "dspy-the-end-of-prompt-engineering-kevin-madura-alixpartners-dspyai",
         "author": "cognitalk",
@@ -100574,6 +100728,17 @@
         "keywords": "payslip, paieminute, french, contract, salary, net, create, bulletin",
         "generated": "2026-11-03T23:03:46.606668",
         "file": "paieminute-create-a-french-payslip-bulletin-de-paie-in-seconds.md"
+    },
+    {
+        "title": "Building HelpBLESS: A Help Board Works When Offers Are as Visible as Requests — What Worked, What Broke",
+        "slug": "building-helpbless-a-help-board-works-when-offers-are-as-visible-as-requests-what-worked-what-broke",
+        "author": "OneLifeVibe",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 13:52:45 +0000",
+        "description": "Most community help software starts with a request form. Someone needs a ride to an appointment, a hand moving a sofa, an hour with a confusing form — and th...",
+        "keywords": "help, offers, request, they, board, what, only, side",
+        "generated": "2026-11-11T13:54:26.913484",
+        "file": "building-helpbless-a-help-board-works-when-offers-are-as-visible-as-requests-what-worked-what-broke.md"
     },
     {
         "title": "How to Use Notion AI for Search Intent Classification in 2026",
@@ -108888,6 +109053,17 @@
         "file": "cheapest-screenshot-api-in-2026-free-tiers-compared.md"
     },
     {
+        "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+        "slug": "next-level-benchmarking-overfitting-thomas-neumann",
+        "author": "artrax",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 12:09:49 +0000",
+        "description": "Article URL: http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html Comments URL: https://news.ycombinator.com/item?id=50452...",
+        "keywords": "next, level, benchmarking, overfitting, url, com, comments, thomas",
+        "generated": "2026-11-11T13:54:26.910582",
+        "file": "next-level-benchmarking-overfitting-thomas-neumann.md"
+    },
+    {
         "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
         "slug": "show-hn-self-hosted-company-os-claude-code-and-codex-agents-in-departments",
         "author": "dimitrismrtzs",
@@ -112846,6 +113022,17 @@
         "keywords": "your, you, crypto, loans, loan, collateral, credit, omnilender",
         "generated": "2026-07-08T14:27:37.705710",
         "file": "get-up-to-2000-in-instant-approval-crypto-loans-today.md"
+    },
+    {
+        "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+        "slug": "tinfoil-yc-p25-is-hiring-an-applied-ai-security-engineer-in-san-francisco",
+        "author": "FrasiertheLion",
+        "source": "hackernews",
+        "published": "Wed, 11 Nov 2026 12:00:35 +0000",
+        "description": "Comments URL: https://news.ycombinator.com/item?id=50452404 Points: 0 # Comments: 0",
+        "keywords": "comments, tinfoil, hiring, applied, security, engineer, san, francisco",
+        "generated": "2026-11-11T13:54:26.910763",
+        "file": "tinfoil-yc-p25-is-hiring-an-applied-ai-security-engineer-in-san-francisco.md"
     },
     {
         "title": "GSC Gap Analysis: From 15 Queries to Automated Publishing",
@@ -117732,6 +117919,17 @@
         "file": "image-exif-viewer-read-photo-metadata-locally-in-your-browser.md"
     },
     {
+        "title": "Searching for a job in the AI era, part 2: where the AI got it wrong, and the real numbers",
+        "slug": "searching-for-a-job-in-the-ai-era-part-2-where-the-ai-got-it-wrong-and-the-real-numbers",
+        "author": "Giulio Calacoci",
+        "source": "devto_ai",
+        "published": "Wed, 11 Nov 2026 13:46:24 +0000",
+        "description": "Part 2 of a series. Part 1 covered the setup and the first 16 days. This post covers days 17 to 25 of my journey in search of a new job. I left you at the en...",
+        "keywords": "job, more, not, postings, part, posting, applications, first",
+        "generated": "2026-11-11T13:54:26.915590",
+        "file": "searching-for-a-job-in-the-ai-era-part-2-where-the-ai-got-it-wrong-and-the-real-numbers.md"
+    },
+    {
         "title": "BizNode uses Ollama (Qwen3.5) running locally on your hardware — your data never leaves your machine. True AI privacy",
         "slug": "biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-machine-true-ai-privacy",
         "author": "shashikanth ramamurthy",
@@ -118401,6 +118599,17 @@
         "keywords": "python, stack, full, training, marathahalli, developers, development, career",
         "generated": "2026-07-19T08:26:32.156610",
         "file": "breaking-barriers-how-python-full-stack-training-in-marathahalli-sparks-career-growth-for-2026.md"
+    },
+    {
+        "title": "Monitor a FastAPI App with Prometheus + Grafana (Metrics, Dashboards, Alerts)",
+        "slug": "monitor-a-fastapi-app-with-prometheus-grafana-metrics-dashboards-alerts",
+        "author": "Visual Studio Learn",
+        "source": "devto_python",
+        "published": "Wed, 11 Nov 2026 13:45:16 +0000",
+        "description": "Your FastAPI app is slow, and you cannot see it. There is no graph of your traffic, no counter of your errors, and nothing that tells you which endpoint is t...",
+        "keywords": "prometheus, app, you, step, grafana, fastapi, your, rate",
+        "generated": "2026-11-11T13:54:26.911453",
+        "file": "monitor-a-fastapi-app-with-prometheus-grafana-metrics-dashboards-alerts.md"
     },
     {
         "title": "67 Construction Cost Statistics for 2026",
@@ -120799,6 +121008,17 @@
         "keywords": "its, cpu, torch, precision, eager, conversion, float, control",
         "generated": "2026-11-07T21:39:06.285090",
         "file": "bf16-fp8-checking-precision-across-two-cpu-compiler-versions.md"
+    },
+    {
+        "title": "Google PageSpeed Insights: How to Fix Critical Request Chains & Core Web Vitals",
+        "slug": "google-pagespeed-insights-how-to-fix-critical-request-chains-core-web-vitals",
+        "author": "Mykhail Azhyshchev",
+        "source": "devto_webdev",
+        "published": "Wed, 11 Nov 2026 13:51:05 +0000",
+        "description": "The B2B Performance Reality: Above is the actual diagnostic breakdown comparing a typical commercial B2B website against an engineered architecture. While SE...",
+        "keywords": "your, google, critical, mobile, chains, font, ads, requests",
+        "generated": "2026-11-11T13:54:26.913878",
+        "file": "google-pagespeed-insights-how-to-fix-critical-request-chains-core-web-vitals.md"
     },
     {
         "title": "Building a county-level B2B list from open map data, with only the emails businesses publish themselves",
