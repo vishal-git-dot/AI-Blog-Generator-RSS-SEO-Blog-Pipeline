@@ -2190,6 +2190,17 @@
         "file": "analyzing-the-lumen-anchor-protocol-using-google-ai-studio.md"
     },
     {
+        "title": "Slack answers 200 OK when your message did not go out",
+        "slug": "slack-answers-200-ok-when-your-message-did-not-go-out",
+        "author": "Greg Pabijan-Morawski",
+        "source": "devto_webdev",
+        "published": "Thu, 12 Nov 2026 14:53:09 +0000",
+        "description": "Here is a complete, successful HTTP exchange with Slack: POST https : //slack.com/api/chat.postMessage Authorization : Bearer xoxb - … HTTP / 1.1 200 OK { o...",
+        "keywords": "message, slack, not, you, retry, status, chat, token",
+        "generated": "2026-11-12T14:55:17.819131",
+        "file": "slack-answers-200-ok-when-your-message-did-not-go-out.md"
+    },
+    {
         "title": "Apache Iceberg Branching, Tagging & WAP: Production Patterns",
         "slug": "apache-iceberg-branching-tagging-wap-production-patterns",
         "author": "Gowtham Potureddi",
@@ -5741,6 +5752,17 @@
         "keywords": "tests, every, test, flaky, how, fix, fails, run",
         "generated": "2026-10-29T12:39:59.119719",
         "file": "flaky-tests-are-slowing-down-every-release-heres-how-to-fix-them.md"
+    },
+    {
+        "title": "116,000 Stars vs. One Binary: claude-mem and palace-rs, Fact by Fact",
+        "slug": "116000-stars-vs-one-binary-claude-mem-and-palace-rs-fact-by-fact",
+        "author": "iCe Gaming",
+        "source": "devto_ai",
+        "published": "Thu, 12 Nov 2026 14:46:30 +0000",
+        "description": "claude-mem is the most popular memory plugin for AI coding agents. At the time of writing it has 116,434 GitHub stars . palace-rs does the same job. It has 1...",
+        "keywords": "palace, claude, mem, your, one, you, memory, agent",
+        "generated": "2026-11-12T14:55:17.821978",
+        "file": "116000-stars-vs-one-binary-claude-mem-and-palace-rs-fact-by-fact.md"
     },
     {
         "title": "RAG Context Compression: Headroom Cuts Retrieval Token Costs by 57% Without Accuracy Loss",
@@ -12882,6 +12904,17 @@
         "file": "analyzing-microsofts-strategy-to-position-its-ai.md"
     },
     {
+        "title": "Lettering machine-translated manga: fitting text back into speech bubbles",
+        "slug": "lettering-machine-translated-manga-fitting-text-back-into-speech-bubbles",
+        "author": "Leo",
+        "source": "devto_python",
+        "published": "Thu, 12 Nov 2026 14:45:32 +0000",
+        "description": "When people think about translating manga automatically, they think about the translation model. In practice the translation is the easy part. The hard part ...",
+        "keywords": "text, page, balloon, manga, translation, looks, lettering, like",
+        "generated": "2026-11-12T14:55:17.817829",
+        "file": "lettering-machine-translated-manga-fitting-text-back-into-speech-bubbles.md"
+    },
+    {
         "title": "Python + AI: 6 automations any freelancer can ship this week",
         "slug": "python-ai-6-automations-any-freelancer-can-ship-this-week",
         "author": "David García",
@@ -19988,6 +20021,17 @@
         "file": "from-api-to-cli-skill-a-new-software-development-paradigm.md"
     },
     {
+        "title": "Keep PDF Cleanup in the Browser Before Calling a Translation API",
+        "slug": "keep-pdf-cleanup-in-the-browser-before-calling-a-translation-api",
+        "author": "Reid Marlow",
+        "source": "devto_webdev",
+        "published": "Thu, 12 Nov 2026 14:51:42 +0000",
+        "description": "When someone drops a contract, pay stub, or hardware datasheet into a free web PDF editor to delete a few pages or fill a form, most tools send the full docu...",
+        "keywords": "pdf, translation, pages, browser, remote, page, when, free",
+        "generated": "2026-11-12T14:55:17.820197",
+        "file": "keep-pdf-cleanup-in-the-browser-before-calling-a-translation-api.md"
+    },
+    {
         "title": "How did Atari apply side art to Arcade Cabinets?",
         "slug": "how-did-atari-apply-side-art-to-arcade-cabinets",
         "author": "msephton",
@@ -24109,6 +24153,17 @@
         "keywords": "japan, tried, build, operating, system, world, intervened, url",
         "generated": "2026-08-21T06:55:13.094987",
         "file": "japan-tried-to-build-an-operating-system-for-the-world-the-us-intervened.md"
+    },
+    {
+        "title": "Your Seller Summary May Be Borrowing a Product's Rating",
+        "slug": "your-seller-summary-may-be-borrowing-a-products-rating",
+        "author": "vexaloom-labs",
+        "source": "devto_python",
+        "published": "Thu, 12 Nov 2026 14:51:43 +0000",
+        "description": "Your agent can read the right rating and still rate the wrong thing. You wire a seller check into your weekend agent project. The summary sounds reassuring, ...",
+        "keywords": "seller, agent, product, rating, evidence, can, records, source",
+        "generated": "2026-11-12T14:55:17.816584",
+        "file": "your-seller-summary-may-be-borrowing-a-products-rating.md"
     },
     {
         "title": "Explore the Crypto Payment Space",
@@ -33268,6 +33323,17 @@
         "file": "key-space-c3-the-bloom-filter-that-closes-referent-gameability-tested.md"
     },
     {
+        "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+        "slug": "abandoned-quake-4-expansion-finished-by-modders-and-now-playable",
+        "author": "klaussilveira",
+        "source": "hackernews",
+        "published": "Thu, 12 Nov 2026 14:18:49 +0000",
+        "description": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 14 # Com...",
+        "keywords": "url, https, com, comments, abandoned, quake, expansion, finished",
+        "generated": "2026-11-12T14:55:17.815449",
+        "file": "abandoned-quake-4-expansion-finished-by-modders-and-now-playable.md"
+    },
+    {
         "title": "Tile's security is so bad it's a feature for stalkers",
         "slug": "tiles-security-is-so-bad-its-a-feature-for-stalkers",
         "author": "sambellll",
@@ -33893,6 +33959,17 @@
         "keywords": "automation, workflow, pricing, client, workflows, tools, like, can",
         "generated": "2026-09-17T16:39:14.832461",
         "file": "how-to-sell-ai-automation-workflows-to-local-businesses-a-step-by-step-guide.md"
+    },
+    {
+        "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+        "slug": "electric-ship-batteries-promise-compact-cooler-power",
+        "author": "rbanffy",
+        "source": "hackernews",
+        "published": "Thu, 12 Nov 2026 14:06:03 +0000",
+        "description": "Article URL: https://spectrum.ieee.org/electric-ship-batteries Comments URL: https://news.ycombinator.com/item?id=50467305 Points: 5 # Comments: 0",
+        "keywords": "electric, ship, batteries, url, https, comments, promise, compact",
+        "generated": "2026-11-12T14:55:17.815897",
+        "file": "electric-ship-batteries-promise-compact-cooler-power.md"
     },
     {
         "title": "How I Built a Real-Time Tennis Stats Tracker: Qualifiers eye more shocks after causing Wimbledon upsets",
@@ -36346,6 +36423,17 @@
         "keywords": "flutter, url, https, comments, article, dev, blog, whats",
         "generated": "2026-08-13T07:41:34.962250",
         "file": "flutter-347.md"
+    },
+    {
+        "title": "I built a travel app with Abstract Factory + affiliate APIs — here's what actually worked",
+        "slug": "i-built-a-travel-app-with-abstract-factory-affiliate-apis-heres-what-actually-worked",
+        "author": "Sivaraman Ramaswami",
+        "source": "devto_webdev",
+        "published": "Thu, 12 Nov 2026 14:54:41 +0000",
+        "description": "I've been building packedNbooked ( https://packednbooked.com ) — a trip planner that starts with your budget instead of a destination. You enter $2,000, JFK,...",
+        "keywords": "affiliate, com, booking, live, hotel, prices, factory, you",
+        "generated": "2026-11-12T14:55:17.818634",
+        "file": "i-built-a-travel-app-with-abstract-factory-affiliate-apis-heres-what-actually-worked.md"
     },
     {
         "title": "How to Run Your First Python Script in VS Code: A Beginner's Guide",
@@ -45126,6 +45214,17 @@
         "file": "how-to-choose-the-right-custom-box-style-for-your-product-the-structural-assembly-and-freight-blueprint.md"
     },
     {
+        "title": "AI Won’t Replace You. It’s Moving Your Code From the Screen to the Contract",
+        "slug": "ai-wont-replace-you-its-moving-your-code-from-the-screen-to-the-contract",
+        "author": "Fausto Braz",
+        "source": "devto_webdev",
+        "published": "Thu, 12 Nov 2026 14:52:49 +0000",
+        "description": "Every few weeks, someone posts an impressive agent demo, and the replies fill up with the same prediction: developers are done. Teams will shrink to one pers...",
+        "keywords": "agent, model, you, can, what, data, component, one",
+        "generated": "2026-11-12T14:55:17.819921",
+        "file": "ai-wont-replace-you-its-moving-your-code-from-the-screen-to-the-contract.md"
+    },
+    {
         "title": "Introducing DUALAI Arena: The Ultimate Local AI-Powered Code Security Tool for Developers",
         "slug": "introducing-dualai-arena-the-ultimate-local-ai-powered-code-security-tool-for-developers",
         "author": "Raymond Thomas",
@@ -50109,6 +50208,17 @@
         "file": "can-china-build-its-own-asml.md"
     },
     {
+        "title": "There Is No Third Auction. Your Foreclosure Math Is Wrong Twice.",
+        "slug": "there-is-no-third-auction-your-foreclosure-math-is-wrong-twice",
+        "author": "Jiahui Miao",
+        "source": "devto_ai",
+        "published": "Thu, 12 Nov 2026 14:49:43 +0000",
+        "description": "TL;DR: Most explainers describe China's court foreclosure sales as a three-auction staircase: first auction, second auction, third auction, then a sale by li...",
+        "keywords": "percent, not, auction, first, staircase, second, floor, market",
+        "generated": "2026-11-12T14:55:17.821414",
+        "file": "there-is-no-third-auction-your-foreclosure-math-is-wrong-twice.md"
+    },
+    {
         "title": "Verifying an AI Agent's Authority Before It Spends: Signed Booleans Across Six Chains",
         "slug": "verifying-an-ai-agents-authority-before-it-spends-signed-booleans-across-six-chains",
         "author": "Douglas Borthwick",
@@ -54155,6 +54265,17 @@
         "keywords": "ollama, qat, gemma, vram, model, laptop, local, stack",
         "generated": "2026-06-10T20:38:15.851806",
         "file": "gemma-4-qat-on-10gb-laptop-local-ai-with-67gb-vram.md"
+    },
+    {
+        "title": "ValueError: invalid literal for int() with base 10 (Fix)",
+        "slug": "valueerror-invalid-literal-for-int-with-base-10-fix",
+        "author": "Yunus Emre Güzel",
+        "source": "devto_python",
+        "published": "Thu, 12 Nov 2026 14:47:27 +0000",
+        "description": "Your script runs, then Python stops with this: ValueError: invalid literal for int() with base 10: '3.50' You gave int() a string that doesn't look like a wh...",
+        "keywords": "int, text, print, valueerror, number, line, base, you",
+        "generated": "2026-11-12T14:55:17.817042",
+        "file": "valueerror-invalid-literal-for-int-with-base-10-fix.md"
     },
     {
         "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
@@ -67722,11 +67843,11 @@
         "title": "Where the 150 seconds actually go: profiling a local render loop",
         "slug": "where-the-150-seconds-actually-go-profiling-a-local-render-loop",
         "author": "mujin",
-        "source": "devto_python",
-        "published": "Tue, 03 Nov 2026 13:33:30 +0000",
-        "description": "I generate on a 4GB GTX 1650, SD1.5 in fp32 with model offload. One 512x768 image takes about 150 seconds. That number is useless on its own — it tells me no...",
-        "keywords": "time, loop, not, per, one, load, seconds, encode",
-        "generated": "2026-11-03T13:55:05.591156",
+        "source": "devto_ai",
+        "published": "Thu, 12 Nov 2026 14:54:29 +0000",
+        "description": "Splitting the 150 seconds into model load, sampling steps, and PNG encode with a stopwatch and cProfile, in a script short enough to paste My SD1.5 render lo...",
+        "keywords": "model, time, render, image, import, wall, seconds, cprofile",
+        "generated": "2026-11-12T14:55:17.820778",
         "file": "where-the-150-seconds-actually-go-profiling-a-local-render-loop.md"
     },
     {
@@ -67959,6 +68080,17 @@
         "keywords": "claude, channel, slack, tag, your, can, code, access",
         "generated": "2026-06-24T04:04:51.778754",
         "file": "claude-tag-how-the-per-thread-sandbox-works.md"
+    },
+    {
+        "title": "FileNotFoundError: [Errno 2] No such file or directory (Fix)",
+        "slug": "filenotfounderror-errno-2-no-such-file-or-directory-fix",
+        "author": "Yunus Emre Güzel",
+        "source": "devto_python",
+        "published": "Thu, 12 Nov 2026 14:47:10 +0000",
+        "description": "You run your script. Python stops and prints this: FileNotFoundError: [Errno 2] No such file or directory: 'data.txt' But the file is sitting right there in ...",
+        "keywords": "path, txt, file, folder, python, print, open, you",
+        "generated": "2026-11-12T14:55:17.817513",
+        "file": "filenotfounderror-errno-2-no-such-file-or-directory-fix.md"
     },
     {
         "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
@@ -68918,6 +69050,17 @@
         "file": "i-built-a-leak-scanner-then-measured-exactly-where-it-fails-heres-both.md"
     },
     {
+        "title": "Why I built an AI founder council that checks Indian law before debating startup ideas",
+        "slug": "why-i-built-an-ai-founder-council-that-checks-indian-law-before-debating-startup-ideas",
+        "author": "Furqan",
+        "source": "devto_ai",
+        "published": "Thu, 12 Nov 2026 14:52:46 +0000",
+        "description": "Most AI startup validators act like Silicon Valley cheerleaders. You feed them an idea for an on-demand laundry app or a niche micro-SaaS, and they immediate...",
+        "keywords": "baithak, india, founder, council, indian, before, idea, your",
+        "generated": "2026-11-12T14:55:17.821008",
+        "file": "why-i-built-an-ai-founder-council-that-checks-indian-law-before-debating-startup-ideas.md"
+    },
+    {
         "title": "Dünya Kupası 2026 Maç Sonuçlarını AI ile Nasıl Tahmin Ettim?",
         "slug": "dnya-kupas-2026-ma-sonularn-ai-ile-nasl-tahmin-ettim",
         "author": "Tuğberk Akbulut",
@@ -69578,6 +69721,17 @@
         "file": "vidu-q4-native-audio-voice-matching-without-a-lip-sync-plugin.md"
     },
     {
+        "title": "Jane Street – Our software engineering interviews are changing (a little)",
+        "slug": "jane-street-our-software-engineering-interviews-are-changing-a-little",
+        "author": "maitland",
+        "source": "hackernews",
+        "published": "Thu, 12 Nov 2026 14:05:28 +0000",
+        "description": "Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/ Comments URL: https://news.ycombinator.com/item?id=50467297 P...",
+        "keywords": "software, engineering, interviews, changing, little, url, https, com",
+        "generated": "2026-11-12T14:55:17.816023",
+        "file": "jane-street-our-software-engineering-interviews-are-changing-a-little.md"
+    },
+    {
         "title": "Transforming Mobile Apps with AI Automation",
         "slug": "transforming-mobile-apps-with-ai-automation",
         "author": "Ravi Roy",
@@ -70060,6 +70214,17 @@
         "keywords": "building, automated, developer, pipelines, here, how, leetcode, progress",
         "generated": "2026-07-25T13:46:22.465234",
         "file": "building-automated-developer-pipelines.md"
+    },
+    {
+        "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+        "slug": "talking-zen-6-with-mike-clark-at-amd-in-depth",
+        "author": "dverlaeckt80",
+        "source": "hackernews",
+        "published": "Thu, 12 Nov 2026 14:12:37 +0000",
+        "description": "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 11 # Comments: 0",
+        "keywords": "talking, zen, mike, clark, url, https, com, comments",
+        "generated": "2026-11-12T14:55:17.815613",
+        "file": "talking-zen-6-with-mike-clark-at-amd-in-depth.md"
     },
     {
         "title": "How I Fixed TTS Hallucinations Without Regenerating Everything",
@@ -90438,6 +90603,17 @@
         "file": "your-file-names-arent-corrupt-theyre-just-being-read-in-the-wrong-alphabet.md"
     },
     {
+        "title": "It Worked Locally… But Did It Match Staging? Meet DiffLens",
+        "slug": "it-worked-locally-but-did-it-match-staging-meet-difflens",
+        "author": "Praveen Kumar",
+        "source": "devto_ai",
+        "published": "Thu, 12 Nov 2026 14:44:47 +0000",
+        "description": "DiffLens: Compare Local and Staging Web Apps with Visual, Content, and Markup Diffs Have you ever finished a UI change, opened staging, and wondered: “What e...",
+        "keywords": "difflens, local, comparison, staging, content, diff, text, visual",
+        "generated": "2026-11-12T14:55:17.822520",
+        "file": "it-worked-locally-but-did-it-match-staging-meet-difflens.md"
+    },
+    {
         "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
         "slug": "nobody-ever-gets-credit-for-fixing-problems-that-never-happened-2001-pdf",
         "author": "sam_bristow",
@@ -92139,6 +92315,17 @@
         "keywords": "canonical, com, url, hreflang, page, one, www, redirects",
         "generated": "2026-10-06T22:32:41.713019",
         "file": "154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back.md"
+    },
+    {
+        "title": "Libreagi – Save OSS Models",
+        "slug": "libreagi-save-oss-models",
+        "author": "satuke",
+        "source": "hackernews",
+        "published": "Thu, 12 Nov 2026 14:11:58 +0000",
+        "description": "Article URL: https://libreagi.com/ Comments URL: https://news.ycombinator.com/item?id=50467439 Points: 9 # Comments: 1",
+        "keywords": "libreagi, url, https, com, comments, save, oss, models",
+        "generated": "2026-11-12T14:55:17.815770",
+        "file": "libreagi-save-oss-models.md"
     },
     {
         "title": "Sherman Anti-Trust Act (1890)",
@@ -95393,6 +95580,17 @@
         "keywords": "image, answer, not, provider, generation, request, its, can",
         "generated": "2026-10-31T21:15:20.728769",
         "file": "2026-compare-image-generation-apis-like-openai-dall-e-for-healthtech-saas.md"
+    },
+    {
+        "title": "From an AI-visibility score to a GEO action plan: what to fix first",
+        "slug": "from-an-ai-visibility-score-to-a-geo-action-plan-what-to-fix-first",
+        "author": "Wader Zhang",
+        "source": "devto_webdev",
+        "published": "Thu, 12 Nov 2026 14:51:22 +0000",
+        "description": "A score only helps if it tells you what to do next. Here's how to read an AI-visibility result and turn it into fixes, in the order that usually matters most...",
+        "keywords": "you, your, fix, assistants, questions, what, read, visibility",
+        "generated": "2026-11-12T14:55:17.820453",
+        "file": "from-an-ai-visibility-score-to-a-geo-action-plan-what-to-fix-first.md"
     },
     {
         "title": "LensVLM-9B by Apple",
@@ -109623,6 +109821,17 @@
         "keywords": "website, experience, digital, design, seo, trust, makes, mobile",
         "generated": "2026-08-14T02:22:40.708211",
         "file": "how-uxui-design-impacts-seo-sales-customer-trust.md"
+    },
+    {
+        "title": "How we built an independent search engine on one server",
+        "slug": "how-we-built-an-independent-search-engine-on-one-server",
+        "author": "nestdaddy",
+        "source": "devto_python",
+        "published": "Thu, 12 Nov 2026 14:41:50 +0000",
+        "description": "Most search APIs are a thin layer over Google or Bing results. NestDaddy is not. It has its own crawler, its own inverted index, its own ranking and its ow...",
+        "keywords": "index, search, one, crawler, you, not, live, memory",
+        "generated": "2026-11-12T14:55:17.818327",
+        "file": "how-we-built-an-independent-search-engine-on-one-server.md"
     },
     {
         "title": "How to Get Your Startup Cited by ChatGPT in 2026",
