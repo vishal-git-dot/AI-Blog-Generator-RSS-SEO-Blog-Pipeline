@@ -1,0 +1,34 @@
+---
+title: "Five coding agents, five formats, one table"
+slug: "five-coding-agents-five-formats-one-table"
+author: "Dmitriy Solodukha"
+source: "devto_ai"
+published: "Fri, 13 Nov 2026 14:19:17 +0000"
+description: "Claude Code, Codex, OpenCode, Gemini CLI and DeepSeek Harness each record their work differently, and three of the differences give a believable wrong number..."
+keywords: "caprock, its, codex, each, claude, one, gemini, cost"
+generated: "2026-11-13T14:27:37.208436"
+---
+
+# Five coding agents, five formats, one table
+
+## Overview
+
+Claude Code, Codex, OpenCode, Gemini CLI and DeepSeek Harness each record their work differently, and three of the differences give a believable wrong number. This post compares how five coding agents — Claude Code, Codex, OpenCode, Gemini CLI and DeepSeek Harness — write down what they did: where the record lives, its format, how it counts cached tokens, whether it states a cost, and where it names the model. Then it shows the one table Caprock turns all five into, so their numbers can be added up. Update, 2026-10-20: Caprock now reads a sixth, Hermes Agent, from its own SQLite database, and carries Hermes's cost figure through as it does OpenCode's. A reader looked at Caprock and guessed what it does underneath: "parsing JSON, and sweating to build a coherent image out of huge and heavy JSON files." He was right, and it is the part of the product nobody sees. None of the five writes its record the same way, none promises to keep its format as it is, and Claude Code deletes its record after 30 days . How each agent records its work How each agent records its work, read on one machine, 1 October 2026Agent Where it lives Format Cached tokens Reports its cost Model named in Claude Code ~/.claude/projects JSON lines beside fresh input no each reply Codex ~/.codex/sessions JSON lines inside input no base instructions, 96 of 100 OpenCode its SQLite database SQL rows own column yes each session Gemini CLI a telemetry file, if asked OTel log reads, no writes no each response DeepSeek Harness session.v3.jsonl.zstd JSON lines, zstd beside fresh input no each reply "Cached tokens" is how the cached part of a prompt is counted; OTel is OpenTelemetry. Codex also writes token counts as running totals. Caprock reads Gemini CLI from a telemetry file it asks for when it starts a session. (As of 2026-10-20: Gemini CLI does keep its own session history, under ~/.gemini/tmp//chats/; Caprock does not read it.) Three ways to get a believable wrong answer Reading the files is not the hard part. The obvious reading of each can give you a number that looks right and is not. Cached tokens counted twice. Claude Code reports fresh input and cache reads side by side. Codex reports the whole prompt as input, with the cached part as a subset of it. Treat the two the same way and every cached Codex token is billed twice — once at full price. Tokens counted twice. Codex writes both a running total and a per-turn figure, and often writes the same sample twice in a row. Summing the per-turn figure on one real session gave 261,111 tokens; the true count was 137,739. The model in the wrong place. Codex names the model in a turn context in 4 transcripts out of 100. In the other 96 it is inside the session's base instructions. Read only the obvious field and most of your Codex work has no model, so no price. None of these mistakes raises a parsing error. A wrong number can sit on a dashboard looking perfectly ordinary. One table Caprock reads all five as they are written and turns each into the same rows: one per turn, tool call or lifecycle event, with the same columns whichever agent produced it — agent, model, fresh input, cache read, cache write, output, cost, the folder the work touched. That table is yours to take out. On my machine, on 1 October: $ caprock export > record.tsv $ wc -l record.tsv 305162 record.tsv Three hundred thousand rows from four agents, in about five seconds, as TSV, CSV or JSON lines. It reads the database without writing to it, works with Caprock stopped, and leaves out prompts and replies unless you ask for them. Here is one reply from each agent in it: One reply from each agent, from the same export — four replies of different sizes, not a cost comparisonAgent Model tokens_in tokens_out cache_read cost_usd Claude Code claude-opus-5-5 2 1,073 308,787 $0.198 Codex gpt-6-astra 4,656 116 55,552 $0.108 OpenCode deepseek-v4-pro 26,983 1,515 5,120 $0.057 DeepSeek Harness deepseek-v4-pro 128 823 121,472 $0.0012 Columns 3, 8–11 and 14 of the export, cost rounded. Gemini CLI has no row: Caprock records only the Gemini sessions it starts, and the record held none. Look at the tokens_in column. Claude Code's fresh input is 2 tokens, because almost everything came from the cache; Codex's is 4,656 because the cached part has already been taken out of it. In the files they came from, those two numbers mean different things. Here they mean the same thing. Four of the five report tokens and no cost, so Caprock prices them from a dated table of each provider's list prices. OpenCode computes its own cost, and that figure is kept as it is — two arithmetics over the same tokens would give one session two totals. Why this is the part worth having When a vendor changes its format, the table stays the same. The work of noticing is done once here, instead of by everyone trying to count what their agents cost. The columns are documented in the schema . It is plain SQLite on your disk, with network features off by default. Sources Caprock export schema — the columns and where each comes from Codex transcripts, measured — the three wrong readings Claude Code: data usage and the 30-day local retention Caprock's dated price table OpenCode support — its SQLite database and its own cost column DeepSeek Harness support — the zstd transcript and its token split Caprock architecture — Gemini CLI's telemetry file Gemini CLI session management — its own session history, read 20 October 2026 Figures read on 2026-10-01 by Caprock v0.62.0 on one machine, mine. A reading, not a live feed; yours will differ. First published on caprock.dev . Caprock is the free, open-source app I build to run and watch Claude Code, Codex and other coding agents on my own machine: github.com/dspv/caprock .
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/dspv/five-coding-agents-five-formats-one-table-5g7h
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.

@@ -8658,6 +8658,17 @@
         "file": "i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly.md"
     },
     {
+        "title": "How We Update Client Websites Without Breaking the Live Site",
+        "slug": "how-we-update-client-websites-without-breaking-the-live-site",
+        "author": "aimEncoders",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 14:13:18 +0000",
+        "description": "Website updates break sites in boring, predictable ways: a plugin conflicts with the theme, a deploy overwrites a config, a form silently stops submitting. T...",
+        "keywords": "site, update, can, not, staging, before, what, live",
+        "generated": "2026-11-13T14:27:37.206724",
+        "file": "how-we-update-client-websites-without-breaking-the-live-site.md"
+    },
+    {
         "title": "Hugging Face vs Replicate vs Together: Best AI API Platform",
         "slug": "hugging-face-vs-replicate-vs-together-best-ai-api-platform",
         "author": "Nikhil Ranka",
@@ -11252,6 +11263,17 @@
         "keywords": "quran, course, students, one, every, what, complete, those",
         "generated": "2026-06-23T09:53:37.258326",
         "file": "how-i-finally-found-a-way-to-teach-my-kids-quran-without-leaving-home.md"
+    },
+    {
+        "title": "7 Best Free Tactical Card Games You Can Play in Your Browser (No Download, Zero Pay-to-Win)",
+        "slug": "7-best-free-tactical-card-games-you-can-play-in-your-browser-no-download-zero-pay-to-win",
+        "author": "Chromatic Pact",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 14:22:40 +0000",
+        "description": "Search Google for free browser card games and 95% of results are Solitaire, Uno, and Hearts. Meanwhile, if you actually want a deep tactical Collectible Ca...",
+        "keywords": "browser, card, tactical, best, play, free, games, your",
+        "generated": "2026-11-13T14:27:37.206245",
+        "file": "7-best-free-tactical-card-games-you-can-play-in-your-browser-no-download-zero-pay-to-win.md"
     },
     {
         "title": "Your Pipeline Is 24.8h Behind: Catching Agriculture Sentiment Leads with Pulsebit",
@@ -14994,6 +15016,17 @@
         "file": "revalidatepath-might-not-be-invalidating-what-you-think-it-is.md"
     },
     {
+        "title": "How our Pipeline orchestrates LBO Due Diligence ?",
+        "slug": "how-our-pipeline-orchestrates-lbo-due-diligence",
+        "author": "Thien Ban BUI",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 14:09:31 +0000",
+        "description": "Welcome to the third chapter of our four-part series, **Building Sovereign, Hallucination-Free Financial AI . In Part 1: Building a Deterministic Financial A...",
+        "keywords": "genrm, debt, self, note, lbo, dag, financial, operating",
+        "generated": "2026-11-13T14:27:37.205204",
+        "file": "how-our-pipeline-orchestrates-lbo-due-diligence.md"
+    },
+    {
         "title": "Title: Why Single-Turn Prompts Fail in Production (And How to Build 3-Stage Prompt Chains)",
         "slug": "title-why-single-turn-prompts-fail-in-production-and-how-to-build-3-stage-prompt-chains",
         "author": "Robert Ramírez",
@@ -17544,6 +17577,17 @@
         "keywords": "self, app, entity, state, let, mut, frame, update",
         "generated": "2026-10-27T22:00:01.244213",
         "file": "how-gpuis-entity-model-solves-rust-state-management-with-a-ratatui-example.md"
+    },
+    {
+        "title": "I built a PDF toolkit that never uploads your files",
+        "slug": "i-built-a-pdf-toolkit-that-never-uploads-your-files",
+        "author": "Jose Dario",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 14:10:13 +0000",
+        "description": "Every free PDF converter I tried asked me to upload the file first. For a bank statement or a signed contract, that is the whole problem: you are handing a...",
+        "keywords": "pdf, you, file, not, page, would, text, first",
+        "generated": "2026-11-13T14:27:37.206972",
+        "file": "i-built-a-pdf-toolkit-that-never-uploads-your-files.md"
     },
     {
         "title": "vLLM Speculative Decoding: 1.8x Faster Alone, Slower at 32 Users",
@@ -31735,6 +31779,17 @@
         "file": "file-counts-stay-green-while-walker-extracts-reorder-paths.md"
     },
     {
+        "title": "Apsi 2.6.0: convert whole Python projects to a GPU-native language",
+        "slug": "apsi-260-convert-whole-python-projects-to-a-gpu-native-language",
+        "author": "ATEC",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 14:08:32 +0000",
+        "description": "Apsi 2.6.0 is out 🚀 my Python-like language for AI & physics. Whole-project conversion: apsi convert my_project --plan shows everything first. Tested on hugg...",
+        "keywords": "apsi, python, convert, whole, language, projects, gpu, native",
+        "generated": "2026-11-13T14:27:37.207075",
+        "file": "apsi-260-convert-whole-python-projects-to-a-gpu-native-language.md"
+    },
+    {
         "title": "AI Medical Scribes for Gastroenterology: Improving Documentation Efficiency in 2026",
         "slug": "ai-medical-scribes-for-gastroenterology-improving-documentation-efficiency-in-2026",
         "author": "Philip Allen",
@@ -34102,6 +34157,17 @@
         "keywords": "automation, workflow, pricing, client, workflows, tools, like, can",
         "generated": "2026-09-17T16:39:14.832461",
         "file": "how-to-sell-ai-automation-workflows-to-local-businesses-a-step-by-step-guide.md"
+    },
+    {
+        "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+        "slug": "doomsday-friday-13-november-ad-2026-1960",
+        "author": "voxleone",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 12:10:24 +0000",
+        "description": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 183 # Comments: 115",
+        "keywords": "url, https, science, comments, doomsday, friday, november, article",
+        "generated": "2026-11-13T14:27:37.203433",
+        "file": "doomsday-friday-13-november-ad-2026-1960.md"
     },
     {
         "title": "Electric Ship Batteries Promise Compact, Cooler Power",
@@ -38801,6 +38867,17 @@
         "file": "not-virues-entertainment-purpose-only.md"
     },
     {
+        "title": "AI Is Destroying the Trust Between Writers and Readers",
+        "slug": "ai-is-destroying-the-trust-between-writers-and-readers",
+        "author": "FinnLobsien",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 11:13:46 +0000",
+        "description": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 2...",
+        "keywords": "url, https, com, comments, destroying, trust, between, writers",
+        "generated": "2026-11-13T14:27:37.203517",
+        "file": "ai-is-destroying-the-trust-between-writers-and-readers.md"
+    },
+    {
         "title": "Parley: Federated, decentralised chat that speaks plain IRC",
         "slug": "parley-federated-decentralised-chat-that-speaks-plain-irc",
         "author": "davidcollantes",
@@ -40031,6 +40108,17 @@
         "keywords": "human, failure, agents, queue, confidence, loop, design, holds",
         "generated": "2026-07-31T08:56:54.069187",
         "file": "human-in-the-loop-is-broken-by-default-heres-the-design-that-actually-holds-up.md"
+    },
+    {
+        "title": "How much of your pool does the robot actually clean? A coverage simulator in 60 lines of Python",
+        "slug": "how-much-of-your-pool-does-the-robot-actually-clean-a-coverage-simulator-in-60-lines-of-python",
+        "author": "Adeline",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 14:18:22 +0000",
+        "description": "A distributor forwarded me a customer email last month. Two lines: The robot runs for 40 minutes and the floor still looks striped. Is it broken? stonebotc...",
+        "keywords": "lane, pool, floor, pitch, one, swath, width, overlap",
+        "generated": "2026-11-13T14:27:37.204400",
+        "file": "how-much-of-your-pool-does-the-robot-actually-clean-a-coverage-simulator-in-60-lines-of-python.md"
     },
     {
         "title": "Bootstrap to Tailwind CSS in 2026 - Why Developers Are Switching",
@@ -57985,6 +58073,17 @@
         "file": "feature-capability-or-native-how-software-teams-define-ai.md"
     },
     {
+        "title": "Tracing RAG Failures Across Retrieval, Reranking, and Generation",
+        "slug": "tracing-rag-failures-across-retrieval-reranking-and-generation",
+        "author": "Arthur Doss",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 14:17:26 +0000",
+        "description": "A RAG application can return an incorrect answer even when its vector database, reranker, and language model are functioning normally. The problem is that ea...",
+        "keywords": "retrieval, rag, reranking, generation, context, relevant, document, evidence",
+        "generated": "2026-11-13T14:27:37.209216",
+        "file": "tracing-rag-failures-across-retrieval-reranking-and-generation.md"
+    },
+    {
         "title": "Independent Rental or Managed Apartment: What Fits You?",
         "slug": "independent-rental-or-managed-apartment-what-fits-you",
         "author": "reitlimited680",
@@ -64209,6 +64308,17 @@
         "file": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md"
     },
     {
+        "title": "Gemini 4 Hydrogen: Google's Fast Model for Everyday Coding",
+        "slug": "gemini-4-hydrogen-googles-fast-model-for-everyday-coding",
+        "author": "Mohammad Hassan Amer",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 14:20:01 +0000",
+        "description": "Have you ever asked a search engine a question with three parts, a typo, and a very specific detail, all in one go, and watched it answer only the easy part?...",
+        "keywords": "google, model, you, hydrogen, its, fast, gemini, search",
+        "generated": "2026-11-13T14:27:37.208113",
+        "file": "gemini-4-hydrogen-googles-fast-model-for-everyday-coding.md"
+    },
+    {
         "title": "An AI agent read 13 invoices and blocked $1,411.25 in bad payments",
         "slug": "an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments",
         "author": "Ships Itself",
@@ -68566,6 +68676,17 @@
         "file": "grpo-practical-guide.md"
     },
     {
+        "title": "Claude Is Down",
+        "slug": "claude-is-down",
+        "author": "cornfieldlabs",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 10:20:09 +0000",
+        "description": "Article URL: https://status.claude.com/history Comments URL: https://news.ycombinator.com/item?id=50481220 Points: 161 # Comments: 133",
+        "keywords": "claude, url, https, com, comments, down, article, status",
+        "generated": "2026-11-13T14:27:37.203590",
+        "file": "claude-is-down.md"
+    },
+    {
         "title": "Why don't more developers “use the platform”?",
         "slug": "why-dont-more-developers-use-the-platform",
         "author": "vinhnx",
@@ -69939,6 +70060,17 @@
         "keywords": "common, mistakes, install, gypsum, board, ceilings, uae, https",
         "generated": "2026-07-26T03:33:56.476067",
         "file": "common-mistakes-install-gypsum-board-ceilings-uae.md"
+    },
+    {
+        "title": "Five coding agents, five formats, one table",
+        "slug": "five-coding-agents-five-formats-one-table",
+        "author": "Dmitriy Solodukha",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 14:19:17 +0000",
+        "description": "Claude Code, Codex, OpenCode, Gemini CLI and DeepSeek Harness each record their work differently, and three of the differences give a believable wrong number...",
+        "keywords": "caprock, its, codex, each, claude, one, gemini, cost",
+        "generated": "2026-11-13T14:27:37.208436",
+        "file": "five-coding-agents-five-formats-one-table.md"
     },
     {
         "title": "DrDroid (YC W23) Is Hiring",
@@ -74205,6 +74337,17 @@
         "keywords": "deepspec, decoding, speculative, developers, algorithms, teams, will, its",
         "generated": "2026-07-07T20:04:00.201129",
         "file": "exploring-deepspec-insights-for-developers-in-speculative-decoding.md"
+    },
+    {
+        "title": "I stopped letting Opus write my code (and my weekly quota survived)",
+        "slug": "i-stopped-letting-opus-write-my-code-and-my-weekly-quota-survived",
+        "author": "Yiğit Güldal",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 14:22:12 +0000",
+        "description": "one day claude ate 62% of my weekly quota in a single day. i was letting opus write every line. so i changed one rule: claude plans and reviews, cheaper mode...",
+        "keywords": "one, write, claude, code, lead, diff, worker, file",
+        "generated": "2026-11-13T14:27:37.207680",
+        "file": "i-stopped-letting-opus-write-my-code-and-my-weekly-quota-survived.md"
     },
     {
         "title": "Analyzing Sports Data: Fifa scraps controversial World Cup investment plan — What the Numbers Say",
@@ -91635,6 +91778,17 @@
         "file": "2026-eclipse-webcams.md"
     },
     {
+        "title": "How to Learn Claude AI in One Day: A Practical Guide for Developers",
+        "slug": "how-to-learn-claude-ai-in-one-day-a-practical-guide-for-developers",
+        "author": "DevSpire Hub",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 14:06:49 +0000",
+        "description": "AI coding assistants are becoming part of everyday software development. But let's be honest: how many times have you asked an AI to generate code, only to r...",
+        "keywords": "claude, code, prompt, you, your, use, api, how",
+        "generated": "2026-11-13T14:27:37.207513",
+        "file": "how-to-learn-claude-ai-in-one-day-a-practical-guide-for-developers.md"
+    },
+    {
         "title": "Rethinking Database Programming",
         "slug": "rethinking-database-programming",
         "author": "honungsburk",
@@ -94295,6 +94449,17 @@
         "keywords": "ownership, game, announces, bill, rather, than, url, https",
         "generated": "2026-10-18T03:57:53.277642",
         "file": "ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing.md"
+    },
+    {
+        "title": "Your MCP Tools Are Eating Your Context Window: Measure, Trim and Lazy-Load Tool Definitions in Python",
+        "slug": "your-mcp-tools-are-eating-your-context-window-measure-trim-and-lazy-load-tool-definitions-in-python",
+        "author": "EME GUG",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 14:22:48 +0000",
+        "description": "Tuần trước mình debug một agent nội bộ: model chọn sai tool liên tục, response chậm, bill API tăng gần gấp đôi so với tháng trước. Code agent không đổi gì, p...",
+        "keywords": "tool, mcp, tools, description, server, token, khi, cho",
+        "generated": "2026-11-13T14:27:37.203956",
+        "file": "your-mcp-tools-are-eating-your-context-window-measure-trim-and-lazy-load-tool-definitions-in-python.md"
     },
     {
         "title": "The Difference Between Information Access and Authority Recognition",
@@ -99529,6 +99694,17 @@
         "keywords": "local, cloud, your, model, you, apis, data, models",
         "generated": "2026-08-13T19:08:38.061215",
         "file": "local-vs-hosted-llms-the-decision-framework.md"
+    },
+    {
+        "title": "ChatGPT for financial advisors: the plan decides the compliance answer",
+        "slug": "chatgpt-for-financial-advisors-the-plan-decides-the-compliance-answer",
+        "author": "PJ (Prakshal Jain)",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 14:22:09 +0000",
+        "description": "Disclosure: I co-founded Mitosis Labs, which runs Private SuperIntelligence. This is an adaptation of the original guide written for registered investment ad...",
+        "keywords": "data, https, openai, training, sec, com, private, microsoft",
+        "generated": "2026-11-13T14:27:37.207906",
+        "file": "chatgpt-for-financial-advisors-the-plan-decides-the-compliance-answer.md"
     },
     {
         "title": "Finding what broke: observability, evaluation, optimization",
@@ -108514,6 +108690,17 @@
         "file": "a-reproducible-way-to-log-whether-chatgpt-gemini-and-perplexity-cite-you-with-the-csv-i-use.md"
     },
     {
+        "title": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
+        "slug": "show-hn-reflota-open-source-data-recovery-for-ntfsfat-disks-with-phased-copy",
+        "author": "christ_dev",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 12:17:52 +0000",
+        "description": "Article URL: https://github.com/Christ10-8/reflota Comments URL: https://news.ycombinator.com/item?id=50482455 Points: 4 # Comments: 0",
+        "keywords": "reflota, url, https, com, comments, show, open, source",
+        "generated": "2026-11-13T14:27:37.203331",
+        "file": "show-hn-reflota-open-source-data-recovery-for-ntfsfat-disks-with-phased-copy.md"
+    },
+    {
         "title": "Day 7 as a Full Stack Intern: Python Data Model Demystified: Everything-Is-An-Object & Mutability",
         "slug": "day-7-as-a-full-stack-intern-python-data-model-demystified-everything-is-an-object-mutability",
         "author": "Deepika Pusala",
@@ -108908,6 +109095,17 @@
         "keywords": "vcf, pysam, print, variant, record, import, variantfile, qual",
         "generated": "2026-06-13T04:19:15.384458",
         "file": "pysamcyvcf2pyvcf3.md"
+    },
+    {
+        "title": "What happens to new Base and Solana coins in their first 24 hours (6,336 coins, free sample)",
+        "slug": "what-happens-to-new-base-and-solana-coins-in-their-first-24-hours-6336-coins-free-sample",
+        "author": "CyberWareX",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 14:07:02 +0000",
+        "description": "We record every new Base and Solana coin our scanner sees, then go back and read its price 1 hour, 6 hours, 24 hours and 7 days later. After five weeks the t...",
+        "keywords": "coins, base, first, you, sample, table, not, chain",
+        "generated": "2026-11-13T14:27:37.206041",
+        "file": "what-happens-to-new-base-and-solana-coins-in-their-first-24-hours-6336-coins-free-sample.md"
     },
     {
         "title": "Morten Linderud resigning from Arch Linux development team",
@@ -117523,6 +117721,17 @@
         "file": "pixel-perfect-serps-why-pre-publish-previews-are-your-new-best-friend.md"
     },
     {
+        "title": "Sending email from FastAPI: SMTP, Resend, templates and testing",
+        "slug": "sending-email-from-fastapi-smtp-resend-templates-and-testing",
+        "author": "patrykkomow12",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 14:07:36 +0000",
+        "description": "Every SaaS sends the same handful of emails: confirm your address, reset your password, your payment failed. Here is a small module that sends them over SMTP...",
+        "keywords": "email, html, text, str, settings, smtp, one, link",
+        "generated": "2026-11-13T14:27:37.205827",
+        "file": "sending-email-from-fastapi-smtp-resend-templates-and-testing.md"
+    },
+    {
         "title": "How to Install the Whop CLI and Launch Your First Product",
         "slug": "how-to-install-the-whop-cli-and-launch-your-first-product",
         "author": "Karina Egle",
@@ -121481,6 +121690,17 @@
         "keywords": "star, wars, collecting, figures, collectibles, fans, history, collectors",
         "generated": "2026-07-20T09:25:08.136371",
         "file": "the-evolution-of-star-wars-collecting-from-childhood-toys-to-valuable-collectibles.md"
+    },
+    {
+        "title": "Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims",
+        "slug": "eli-lilly-ceo-pushes-back-on-dario-amodeis-ludicrous-medical-claims",
+        "author": "Noaidi",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 13:51:27 +0000",
+        "description": "Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Points: 62 #...",
+        "keywords": "eli, lilly, ceo, url, https, com, comments, pushes",
+        "generated": "2026-11-13T14:27:37.203160",
+        "file": "eli-lilly-ceo-pushes-back-on-dario-amodeis-ludicrous-medical-claims.md"
     },
     {
         "title": "Back from vacation! Open Beta is LIVE: Test NextBlock CMS and claim a $500/yr Lifetime License 🚀",
