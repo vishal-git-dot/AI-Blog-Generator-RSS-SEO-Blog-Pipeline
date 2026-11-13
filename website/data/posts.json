@@ -187,6 +187,17 @@
         "file": "once-claude-can-measure-something-it-can-make-it-faster.md"
     },
     {
+        "title": "FastAPI: clasifica fallos de email sin reintentar a ciegas",
+        "slug": "fastapi-clasifica-fallos-de-email-sin-reintentar-a-ciegas",
+        "author": "Olivia Cheng",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 05:23:36 +0000",
+        "description": "En una API que envía emails, el reintento suele parecer la solución más fácil: si la entrega falla, esperamos un poco y repetimos. El problema aparece cuando...",
+        "keywords": "una, que, con, para, nextaction, attempts, action, fastapi",
+        "generated": "2026-11-13T05:58:50.740081",
+        "file": "fastapi-clasifica-fallos-de-email-sin-reintentar-a-ciegas.md"
+    },
+    {
         "title": "#05 – Python File Handling & Exceptions",
         "slug": "05-python-file-handling-exceptions",
         "author": "Thiruvengadam Sakthivel",
@@ -3719,6 +3730,17 @@
         "file": "i-simplified-my-coding-agents-tools-it-got-better-without-changing-the-workflow.md"
     },
     {
+        "title": "How to Scale AI Beyond the Pilot: Moving From Proof of Concept to Enterprise Operations",
+        "slug": "how-to-scale-ai-beyond-the-pilot-moving-from-proof-of-concept-to-enterprise-operations",
+        "author": "Improving",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 05:49:41 +0000",
+        "description": "Somewhere in most enterprises right now, there is a Slack channel full of screenshots from an AI pilot that worked. The demo landed and the metrics looked go...",
+        "keywords": "pilot, work, five, use, case, because, governance, one",
+        "generated": "2026-11-13T05:58:50.744742",
+        "file": "how-to-scale-ai-beyond-the-pilot-moving-from-proof-of-concept-to-enterprise-operations.md"
+    },
+    {
         "title": "API-First Transactional Email Beats SMTP Relay for 2-Step Recovery in 2026",
         "slug": "api-first-transactional-email-beats-smtp-relay-for-2-step-recovery-in-2026",
         "author": "EchoF76",
@@ -4498,6 +4520,17 @@
         "keywords": "classes, ahmedabad, learning, career, can, your, machine, their",
         "generated": "2026-09-22T04:16:43.251243",
         "file": "transform-your-insights-navigating-the-landscape-of-ai-classes-in-ahmedabad-and-their-impact-on-future-careers.md"
+    },
+    {
+        "title": "How to fix SPF permerror: too many DNS lookups",
+        "slug": "how-to-fix-spf-permerror-too-many-dns-lookups",
+        "author": "Hanzala Rasool",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 05:43:13 +0000",
+        "description": "SPF has a hard limit: checking your record may take no more than 10 DNS lookups . Go over it and the result is permerror , which many receivers treat as a fa...",
+        "keywords": "spf, your, lookups, you, dkim, record, include, count",
+        "generated": "2026-11-13T05:58:50.742015",
+        "file": "how-to-fix-spf-permerror-too-many-dns-lookups.md"
     },
     {
         "title": "I got tired of copying jobs off career pages, so I built a CSV exporter for Greenhouse, Lever and Ashby",
@@ -5655,6 +5688,17 @@
         "file": "i-built-an-ai-tool-to-stop-unpaid-freelance-work-scope-creep.md"
     },
     {
+        "title": "Your PDF Isn't Big Because of the Text: Compressing PDFs Entirely in the Browser",
+        "slug": "your-pdf-isnt-big-because-of-the-text-compressing-pdfs-entirely-in-the-browser",
+        "author": "Hasibul Mawla",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 05:42:46 +0000",
+        "description": "Every developer who has built a file tool has heard the same user complaint: Your compressor ruined my document. And every user who has uploaded a national...",
+        "keywords": "pdf, file, text, page, you, image, photo, images",
+        "generated": "2026-11-13T05:58:50.742404",
+        "file": "your-pdf-isnt-big-because-of-the-text-compressing-pdfs-entirely-in-the-browser.md"
+    },
+    {
         "title": "I Let an AI Agent Run My Bug Bounty Recon Overnight — Here's the Setup That Actually Works",
         "slug": "i-let-an-ai-agent-run-my-bug-bounty-recon-overnight-heres-the-setup-that-actually-works",
         "author": "ULNIT",
@@ -6192,6 +6236,17 @@
         "keywords": "email, not, sms, deletion, event, response, boundary, order",
         "generated": "2026-09-28T04:46:35.835177",
         "file": "transactional-email-and-sms-apis-explained-trustworthy-event-notifications-for-saas.md"
+    },
+    {
+        "title": "Python While Loop!",
+        "slug": "python-while-loop",
+        "author": "Vinoth",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 05:40:20 +0000",
+        "description": "** Tenali Raman and the Palace Guards** Tenali Raman wishes to meet the King. Before reaching the royal court, he has to pass through many palace gates. A gu...",
+        "keywords": "guard, guards, while, tenali, raman, loop, king, reward",
+        "generated": "2026-11-13T05:58:50.739466",
+        "file": "python-while-loop.md"
     },
     {
         "title": "Multi-Agent Debate: Personas Argue, a Critic Probes, and Confidence Falls Out of Consensus",
@@ -21286,6 +21341,17 @@
         "file": "binance-hacker-1029-56b-stolen-from-binance.md"
     },
     {
+        "title": "IceWM",
+        "slug": "icewm",
+        "author": "inatreecrown2",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 04:54:53 +0000",
+        "description": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 25 # Comments: 4",
+        "keywords": "url, https, comments, icewm, article, ice, org, news",
+        "generated": "2026-11-13T05:58:50.738018",
+        "file": "icewm.md"
+    },
+    {
         "title": "Are AI Tools Worth It for Small Businesses?",
         "slug": "are-ai-tools-worth-it-for-small-businesses",
         "author": "TuanPK Builds",
@@ -25990,6 +26056,17 @@
         "keywords": "json, task, free, score, model, not, case, you",
         "generated": "2026-08-22T18:37:08.475097",
         "file": "i-ran-a-90-call-structured-output-benchmark-on-a-free-model-server-heres-where-it-breaks.md"
+    },
+    {
+        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+        "slug": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
+        "author": "sjdh76",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 03:08:08 +0000",
+        "description": "Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 23 # Comments: 7",
+        "keywords": "brave, search, api, agentic, payments, url, https, com",
+        "generated": "2026-11-13T05:58:50.738184",
+        "file": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol.md"
     },
     {
         "title": "Namecheap closes every auction at 11:00 AM ET. Last-second bidding is a myth.",
@@ -34489,6 +34566,17 @@
         "file": "how-to-bulk-verify-eu-vat-numbers-and-companies-vies-lei-siren-with-one-api-call.md"
     },
     {
+        "title": "Building STRIKEWISE: Engineering an Options Pricing Engine with Python and SciPy",
+        "slug": "building-strikewise-engineering-an-options-pricing-engine-with-python-and-scipy",
+        "author": "NandanDivate",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 05:50:46 +0000",
+        "description": "Options trading involves more than predicting whether an underlying index will move up or down. A change in the underlying price, implied volatility, interes...",
+        "keywords": "strikewise, volatility, premium, option, price, pricing, underlying, greeks",
+        "generated": "2026-11-13T05:58:50.738784",
+        "file": "building-strikewise-engineering-an-options-pricing-engine-with-python-and-scipy.md"
+    },
+    {
         "title": "How to Build a RAG-Powered Customer Support Chatbot with Python and LLMs",
         "slug": "how-to-build-a-rag-powered-customer-support-chatbot-with-python-and-llms",
         "author": "Pallavi Sharma",
@@ -35862,6 +35950,17 @@
         "keywords": "free, tools, not, workflow, real, one, pricing, roi",
         "generated": "2026-07-23T14:15:19.711731",
         "file": "free-ai-tools-pricing-and-roi-checks.md"
+    },
+    {
+        "title": "What Is an AI Agent? Real Examples and What Deployment Requires",
+        "slug": "what-is-an-ai-agent-real-examples-and-what-deployment-requires",
+        "author": "Improving",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 05:50:25 +0000",
+        "description": "Ask ten executives what an AI agent is and you'll get ten answers, and most of them describe a glamorized chatbot. That confusion costs money, because the ga...",
+        "keywords": "agent, what, one, you, step, before, because, agents",
+        "generated": "2026-11-13T05:58:50.743813",
+        "file": "what-is-an-ai-agent-real-examples-and-what-deployment-requires.md"
     },
     {
         "title": "cURL to Code: Convert API Requests to Python, JavaScript, Go & PHP Without Leaking Secrets",
@@ -41386,6 +41485,17 @@
         "file": "i-built-a-free-browser-based-image-utility-toolkit-heres-what-i-learned.md"
     },
     {
+        "title": "Python Virtual Environments Explained: Create and Use venv",
+        "slug": "python-virtual-environments-explained-create-and-use-venv",
+        "author": "Lavkush Kumar",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 05:48:14 +0000",
+        "description": "Originally published on CodingCush . A Python virtual environment is a private folder that holds its own Python interpreter copy and its own set of installed...",
+        "keywords": "venv, python, you, folder, project, your, one, environment",
+        "generated": "2026-11-13T05:58:50.739263",
+        "file": "python-virtual-environments-explained-create-and-use-venv.md"
+    },
+    {
         "title": "The Two-Tier AI World Is Here: GPT-5.6 Sol & Mythos 5 Restricted to Government-Approved Users",
         "slug": "the-two-tier-ai-world-is-here-gpt-56-sol-mythos-5-restricted-to-government-approved-users",
         "author": "DoremonAI",
@@ -42275,6 +42385,17 @@
         "keywords": "risk, security, third, risks, decisions, party, vendor, insights",
         "generated": "2026-10-26T12:37:04.187238",
         "file": "make-better-security-decisions-with-third-party-risk-insights.md"
+    },
+    {
+        "title": "Turn Your Cameras into AI Safety Monitors: A Helmet Detection Use Case",
+        "slug": "turn-your-cameras-into-ai-safety-monitors-a-helmet-detection-use-case",
+        "author": "burak-58",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 05:49:26 +0000",
+        "description": "Turn Your Cameras into AI Safety Monitors: A Helmet Detection Use Case Security cameras have kept people and places safe for decades. But a camera is only as...",
+        "keywords": "vision, safety, can, you, your, helmet, detection, video",
+        "generated": "2026-11-13T05:58:50.745185",
+        "file": "turn-your-cameras-into-ai-safety-monitors-a-helmet-detection-use-case.md"
     },
     {
         "title": "If AI displaces human workers, they will lose more than just pay",
@@ -45236,6 +45357,17 @@
         "file": "how-to-benchmark-complex-ai-pipelines-without-pii-designing-a-200-synthetic-scenario-test-suite.md"
     },
     {
+        "title": "Switcher (2004)",
+        "slug": "switcher-2004",
+        "author": "sammatilda",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 03:14:59 +0000",
+        "description": "Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 61 # Comments: 13",
+        "keywords": "switcher, url, https, comments, article, folklore, org, html",
+        "generated": "2026-11-13T05:58:50.738104",
+        "file": "switcher-2004.md"
+    },
+    {
         "title": "AI-Powered Critical Date Alerts That Save Solo Commercial Property Managers Thousands",
         "slug": "ai-powered-critical-date-alerts-that-save-solo-commercial-property-managers-thousands",
         "author": "Ken Deng",
@@ -45883,6 +46015,17 @@
         "keywords": "your, setlist, you, free, tool, need, just, who",
         "generated": "2026-08-16T01:41:13.469301",
         "file": "i-built-a-free-setlist-generator-for-musicians-because-setlistpro-charges-10month.md"
+    },
+    {
+        "title": "A Tiny Python Helper for Sizing Casters on Carts and Racks",
+        "slug": "a-tiny-python-helper-for-sizing-casters-on-carts-and-racks",
+        "author": "Donyaie Charkh",
+        "source": "devto_python",
+        "published": "Fri, 13 Nov 2026 05:33:08 +0000",
+        "description": "If you build internal tools for a warehouse, a workshop or a hospital, sooner or later someone asks a deceptively simple question: Which casters should we o...",
+        "keywords": "casters, you, capacity, floors, factor, wheels, floor, rough",
+        "generated": "2026-11-13T05:58:50.739699",
+        "file": "a-tiny-python-helper-for-sizing-casters-on-carts-and-racks.md"
     },
     {
         "title": "Reject Agent Patches That Shrink the Property Seed Corpus",
@@ -49755,6 +49898,17 @@
         "keywords": "proxies, proxy, requests, http, you, https, self, pool",
         "generated": "2026-09-07T12:06:00.729996",
         "file": "rotating-proxies-with-python-requests-a-copy-paste-starter-kit.md"
+    },
+    {
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "slug": "nvidia-employees-petition-to-bring-back-jensen-huang",
+        "author": "lavendermon",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 02:16:24 +0000",
+        "description": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Poin...",
+        "keywords": "nvidia, employees, petition, jensen, url, https, com, comments",
+        "generated": "2026-11-13T05:58:50.738261",
+        "file": "nvidia-employees-petition-to-bring-back-jensen-huang.md"
     },
     {
         "title": "How YouTube Thumbnail URLs Work: A Simple Guide",
@@ -75934,6 +76088,17 @@
         "file": "what-crosses-the-network-when-you-timestamp-a-file-and-how-to-check-it-yourself.md"
     },
     {
+        "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+        "slug": "show-hn-pharma2a-an-open-protocol-for-pharmacy-to-supplier-orders-on-a2a",
+        "author": "eliefo",
+        "source": "hackernews",
+        "published": "Fri, 13 Nov 2026 04:58:53 +0000",
+        "description": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than h...",
+        "keywords": "open, protocol, orders, suppliers, comments, show, pharmacy, supplier",
+        "generated": "2026-11-13T05:58:50.737865",
+        "file": "show-hn-pharma2a-an-open-protocol-for-pharmacy-to-supplier-orders-on-a2a.md"
+    },
+    {
         "title": "My Doc-Drift Checker Has Two Different Ideas of Documented, and Only Uses the Wrong One",
         "slug": "my-doc-drift-checker-has-two-different-ideas-of-documented-and-only-uses-the-wrong-one",
         "author": "Enjoy Kumawat",
@@ -87611,6 +87776,17 @@
         "file": "albertas-image-as-worlds-only-rat-free-region-shattered-by-discovery-of-rat.md"
     },
     {
+        "title": "Why Trust Is the Hardest Part of Agentic AI Governance",
+        "slug": "why-trust-is-the-hardest-part-of-agentic-ai-governance",
+        "author": "Improving",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 05:51:10 +0000",
+        "description": "The DevOps tooling problem was solved by 2018. Source control became mainstream, mature CI patterns emerged, and infrastructure as code graduated from experi...",
+        "keywords": "governance, what, agent, agentic, they, trust, audit, devops",
+        "generated": "2026-11-13T05:58:50.743061",
+        "file": "why-trust-is-the-hardest-part-of-agentic-ai-governance.md"
+    },
+    {
         "title": "Dillo directory – Directory of useful sites that work reasonably well on Dillo",
         "slug": "dillo-directory-directory-of-useful-sites-that-work-reasonably-well-on-dillo",
         "author": "HotGarbage",
@@ -90040,6 +90216,17 @@
         "keywords": "you, guide, advanced, strategies, practical, social, media, business",
         "generated": "2026-08-16T06:48:23.408437",
         "file": "social-media-business-blueprint-mastery-guide-digital-ebook.md"
+    },
+    {
+        "title": "505,000 Chinese characters, 3 MB APK: shipping a classical text as an offline reader",
+        "slug": "505000-chinese-characters-3-mb-apk-shipping-a-classical-text-as-an-offline-reader",
+        "author": "RUNZEAI",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 05:44:52 +0000",
+        "description": "I have been writing a commentary on the Yijing (Book of Changes) for a while. It ended up at 72 sections, 505,000 non-whitespace Chinese characters, and 704 ...",
+        "keywords": "page, not, one, apk, book, html, build, text",
+        "generated": "2026-11-13T05:58:50.741827",
+        "file": "505000-chinese-characters-3-mb-apk-shipping-a-classical-text-as-an-offline-reader.md"
     },
     {
         "title": "I Loaded 8,956 Rows to Flip One Boolean",
@@ -96440,6 +96627,17 @@
         "file": "at-companies-where-ai-writes-80-percent-of-the-code-has-development-become-80-percent-faster.md"
     },
     {
+        "title": "What's the Worst Thing an Automation of Yours Did Without Telling You? Mine Sent 12 Fake Hot Leads",
+        "slug": "whats-the-worst-thing-an-automation-of-yours-did-without-telling-you-mine-sent-12-fake-hot-leads",
+        "author": "Crzy undefined (undefined)",
+        "source": "devto_ai",
+        "published": "Fri, 13 Nov 2026 05:49:49 +0000",
+        "description": "For the last few weeks I've been deliberately breaking my own n8n workflows (most of them have one LLM call in the middle) to see how they fail. The thing th...",
+        "keywords": "did, you, how, runs, slack, went, what, thing",
+        "generated": "2026-11-13T05:58:50.744013",
+        "file": "whats-the-worst-thing-an-automation-of-yours-did-without-telling-you-mine-sent-12-fake-hot-leads.md"
+    },
+    {
         "title": "How to compare old and new podcast RSS feeds without breaking episode identity",
         "slug": "how-to-compare-old-and-new-podcast-rss-feeds-without-breaking-episode-identity",
         "author": "hdd igh",
@@ -101377,6 +101575,17 @@
         "keywords": "intelligence, model, contorium, more, coordination, context, systems, challenge",
         "generated": "2026-06-16T17:05:59.753291",
         "file": "ai-doesnt-need-more-intelligence-it-needs-better-coordination.md"
+    },
+    {
+        "title": "How to Add Booking to a Next.js App With a REST API (2026)",
+        "slug": "how-to-add-booking-to-a-nextjs-app-with-a-rest-api-2026",
+        "author": "Stan",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 05:44:57 +0000",
+        "description": "Originally published on opencals.com . The original stays updated; check it for the latest version. Adding a booking page to a Next.js app looks like a weeke...",
+        "keywords": "you, booking, api, cart, slot, import, server, key",
+        "generated": "2026-11-13T05:58:50.741400",
+        "file": "how-to-add-booking-to-a-nextjs-app-with-a-rest-api-2026.md"
     },
     {
         "title": "The real reason your job applications get no replies",
@@ -114892,6 +115101,17 @@
         "keywords": "one, you, check, story, content, judge, two, news",
         "generated": "2026-07-30T19:40:47.701968",
         "file": "my-auto-publish-pipeline-shipped-a-two-year-old-news-story-heres-the-fix-all-three-layers-of-it.md"
+    },
+    {
+        "title": "JavaScript Closures Explained with Simple Examples",
+        "slug": "javascript-closures-explained-with-simple-examples",
+        "author": "Lavkush Kumar",
+        "source": "devto_webdev",
+        "published": "Fri, 13 Nov 2026 05:47:12 +0000",
+        "description": "Originally published on CodingCush . A closure is a function that remembers the variables from the place where it was created, even after that place has fini...",
+        "keywords": "function, closure, closures, variables, scope, let, its, you",
+        "generated": "2026-11-13T05:58:50.740542",
+        "file": "javascript-closures-explained-with-simple-examples.md"
     },
     {
         "title": "GPT-6 Astra has gained the ability to drive a car",
