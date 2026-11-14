@@ -4225,6 +4225,17 @@
         "file": "show-hn-automatically-detect-and-patch-walking-dead-states-in-sierra-games.md"
     },
     {
+        "title": "Claude Sonnet 4.5 retires on 30 November: find it in your code",
+        "slug": "claude-sonnet-45-retires-on-30-november-find-it-in-your-code",
+        "author": "Karthik Upadrasta",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 05:40:06 +0000",
+        "description": "Anthropic retires Claude Sonnet 4.5 ( claude-sonnet-4-5-20250929 ) on 30 November 2026 . After that, requests to that model ID on Anthropic's API fail. Anthr...",
+        "keywords": "claude, sonnet, anthropic, your, check, retires, november, code",
+        "generated": "2026-11-14T05:48:05.832765",
+        "file": "claude-sonnet-45-retires-on-30-november-find-it-in-your-code.md"
+    },
+    {
         "title": "Changes to LLM pricing: Sail Research",
         "slug": "changes-to-llm-pricing-sail-research",
         "author": "Narev Bot",
@@ -8359,6 +8370,17 @@
         "keywords": "findmyweb, url, https, comments, apple, find, reverse, enginiered",
         "generated": "2026-10-25T04:06:12.672103",
         "file": "findmyweb-apple-find-my-reverse-enginiered.md"
+    },
+    {
+        "title": "A Simple Puzzle to learn Python Loops",
+        "slug": "a-simple-puzzle-to-learn-python-loops",
+        "author": "Sowntharya",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 05:43:21 +0000",
+        "description": "problem : 1 Tenali Raman and the Palace Guards Tenali Raman wishes to meet the King. Before reaching the royal court, he has to pass through many palace gate...",
+        "keywords": "guard, gets, tenali, raman, number, guards, king, gate",
+        "generated": "2026-11-14T05:48:05.829138",
+        "file": "a-simple-puzzle-to-learn-python-loops.md"
     },
     {
         "title": "What one person can build now",
@@ -15918,6 +15940,17 @@
         "file": "how-keels-honesty-gates-actually-work.md"
     },
     {
+        "title": "Ggml v1.0.0",
+        "slug": "ggml-v100",
+        "author": "cobychapple",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+        "description": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 119 # Comments: 20",
+        "keywords": "ggml, url, https, com, comments, article, github, org",
+        "generated": "2026-11-14T05:48:05.828864",
+        "file": "ggml-v100.md"
+    },
+    {
         "title": "Best 7 Easy Ways To Buy GitHub Accounts in Proven Project",
         "slug": "best-7-easy-ways-to-buy-github-accounts-in-proven-project",
         "author": "Best 7 Easy Ways To Buy GitHub Accounts in Proven",
@@ -18085,6 +18118,17 @@
         "file": "the-dark-night-of-mathematics.md"
     },
     {
+        "title": "Run Cloudflare Workers Anywhere",
+        "slug": "run-cloudflare-workers-anywhere",
+        "author": "madars",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 03:58:32 +0000",
+        "description": "Article URL: https://openorange.dev/ Comments URL: https://news.ycombinator.com/item?id=50493731 Points: 12 # Comments: 1",
+        "keywords": "url, https, comments, run, cloudflare, workers, anywhere, article",
+        "generated": "2026-11-14T05:48:05.828617",
+        "file": "run-cloudflare-workers-anywhere.md"
+    },
+    {
         "title": "Master the PAS Framework for High-Converting Video Scripts",
         "slug": "master-the-pas-framework-for-high-converting-video-scripts",
         "author": "Zohir Lahcen",
@@ -18952,6 +18996,17 @@
         "keywords": "your, prompt, video, tier, you, camera, how, subject",
         "generated": "2026-10-01T22:31:42.470751",
         "file": "how-to-reverse-engineer-any-video-to-prompt-without-wasting-all-your-gpu-credits.md"
+    },
+    {
+        "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+        "slug": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "author": "speckx",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+        "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombi...",
+        "keywords": "nvidia, allegedly, engineered, scarcity, funding, startups, buy, its",
+        "generated": "2026-11-14T05:48:05.828774",
+        "file": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus.md"
     },
     {
         "title": "Compress Image to 500KB: Free Online Image Compressor — How-To Guide",
@@ -24639,6 +24694,17 @@
         "file": "creating-short-video-clips-from-text-and-images-a-practical-walkthrough-with-ai-video-generators.md"
     },
     {
+        "title": "Store generated images in user folders: object lifecycle deletes for Express",
+        "slug": "store-generated-images-in-user-folders-object-lifecycle-deletes-for-express",
+        "author": "HarrisonFord3572",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 05:21:20 +0000",
+        "description": "Short answer: give each generated image an immutable object key, record that key in a database at write time, and use a scheduled retention policy plus a sto...",
+        "keywords": "key, images, user, object, image, storage, can, str",
+        "generated": "2026-11-14T05:48:05.830415",
+        "file": "store-generated-images-in-user-folders-object-lifecycle-deletes-for-express.md"
+    },
+    {
         "title": "How to Build a Simple Python Script for PDF Merger",
         "slug": "how-to-build-a-simple-python-script-for-pdf-merger",
         "author": "Agent-roomV01",
@@ -26806,6 +26872,17 @@
         "file": "ask-hn-what-are-you-working-on-june-2026.md"
     },
     {
+        "title": "OpenAI timeout=60 Never Fired on a Stream With Keep-Alives",
+        "slug": "openai-timeout60-never-fired-on-a-stream-with-keep-alives",
+        "author": "Ace Meridian",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 05:29:18 +0000",
+        "description": "The openai Python SDK's timeout=60 limits each socket read, not the request, so a streamed completion that receives an SSE keep-alive comment every 15 second...",
+        "keywords": "seconds, timeout, stream, openai, socket, not, sends, httpx",
+        "generated": "2026-11-14T05:48:05.829779",
+        "file": "openai-timeout60-never-fired-on-a-stream-with-keep-alives.md"
+    },
+    {
         "title": "Your API Returned 200 OK. Your AI Agent Still Failed.",
         "slug": "your-api-returned-200-ok-your-ai-agent-still-failed",
         "author": "Sudhanshu Thakur",
@@ -28775,6 +28852,17 @@
         "file": "implementing-freecell-supermoves-capacity-rules-and-edge-cases.md"
     },
     {
+        "title": "AI for Web Development: Building Smarter Applications with LLMs",
+        "slug": "ai-for-web-development-building-smarter-applications-with-llms",
+        "author": "Afwan Tech",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 05:47:57 +0000",
+        "description": "Integrating artificial intelligence into modern web applications is no longer just a futuristic concept—it's a core requirement for scalable, high-performanc...",
+        "keywords": "const, openai, express, app, web, content, prompt, json",
+        "generated": "2026-11-14T05:48:05.830564",
+        "file": "ai-for-web-development-building-smarter-applications-with-llms.md"
+    },
+    {
         "title": "I Spent Years Building Productivity Systems Instead of Doing the Work",
         "slug": "i-spent-years-building-productivity-systems-instead-of-doing-the-work",
         "author": "Jaabir Yusuf",
@@ -29950,6 +30038,17 @@
         "keywords": "not, oracle, model, pairing, prompt, const, header, status",
         "generated": "2026-09-20T11:02:02.640091",
         "file": "the-pairing-session-that-threw-out-a-green-eval-for-a-leaked-assert.md"
+    },
+    {
+        "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+        "slug": "nvidia-director-sold-nearly-1b-in-stock-weeks-before-the-jensen-huang-scandal",
+        "author": "LopRabbit",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 02:21:36 +0000",
+        "description": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?...",
+        "keywords": "nvidia, director, sold, nearly, url, https, com, comments",
+        "generated": "2026-11-14T05:48:05.828947",
+        "file": "nvidia-director-sold-nearly-1b-in-stock-weeks-before-the-jensen-huang-scandal.md"
     },
     {
         "title": "Messy data in, clean records out: RecordScrub, a data-cleaning API",
@@ -37767,6 +37866,17 @@
         "file": "intelligent-engineering-from-optimization-to-ai-nvda-impact-analysis-price-prediction.md"
     },
     {
+        "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+        "slug": "security-agencies-worldwide-found-to-use-ad-based-surveillance-system",
+        "author": "billybuckwheat",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 02:15:41 +0000",
+        "description": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=...",
+        "keywords": "security, agencies, worldwide, found, use, based, surveillance, system",
+        "generated": "2026-11-14T05:48:05.829023",
+        "file": "security-agencies-worldwide-found-to-use-ad-based-surveillance-system.md"
+    },
+    {
         "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
         "slug": "show-hn-i-put-employees-inside-sp-500-market-cap-bubbles",
         "author": "vfxGer",
@@ -37908,6 +38018,17 @@
         "keywords": "slide, presentation, background, slidebackground, fill, gradient, image, color",
         "generated": "2026-08-13T07:41:34.963592",
         "file": "how-to-set-powerpoint-slide-backgrounds-in-python.md"
+    },
+    {
+        "title": "Architecture Teardown: OpenAI Launches Native Commerce and ChatGPT Wallet",
+        "slug": "architecture-teardown-openai-launches-native-commerce-and-chatgpt-wallet",
+        "author": "stacktxt",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 05:42:07 +0000",
+        "description": "If your store runs on Shopify or custom headless infrastructure, you are likely tracking openai launches native commerce and chatgpt wallet. OpenAI releases ...",
+        "keywords": "openai, chatgpt, wallet, agent, native, commerce, headless, waf",
+        "generated": "2026-11-14T05:48:05.831224",
+        "file": "architecture-teardown-openai-launches-native-commerce-and-chatgpt-wallet.md"
     },
     {
         "title": "Your fetch() Is Still Running After the User Left",
@@ -39923,6 +40044,17 @@
         "file": "what-is-http3-why-most-of-the-web-still-isnt-using-it.md"
     },
     {
+        "title": "Opdo closes $2.3M pre-seed for AI optical engineering",
+        "slug": "opdo-closes-23m-pre-seed-for-ai-optical-engineering",
+        "author": "Mikhail Savchenko",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 05:43:30 +0000",
+        "description": "Opdo, which describes its business as optical engineering built natively around artificial intelligence, has secured $2.3 million in pre-seed financing, Tech...",
+        "keywords": "opdo, optical, company, design, engineering, its, engineers, has",
+        "generated": "2026-11-14T05:48:05.832432",
+        "file": "opdo-closes-23m-pre-seed-for-ai-optical-engineering.md"
+    },
+    {
         "title": "Discover Buy Old Gmail Accounts for Long-Term Digital Value",
         "slug": "discover-buy-old-gmail-accounts-for-long-term-digital-value",
         "author": "Andrea",
@@ -41362,6 +41494,17 @@
         "keywords": "can, learning, age, biological, machine, epigenetic, may, sites",
         "generated": "2026-08-28T22:02:34.848035",
         "file": "machine-learning-for-more-accurate-epigenetic-age-test-results.md"
+    },
+    {
+        "title": "Three RagLeap Releases: Temporal Graphs, Tenant Isolation, and Observability Improvements",
+        "slug": "three-ragleap-releases-temporal-graphs-tenant-isolation-and-observability-improvements",
+        "author": "RagLeap",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 05:26:46 +0000",
+        "description": "AI infrastructure has to get the fundamentals right. A system can generate excellent responses and still have problems with historical knowledge, tenant isol...",
+        "keywords": "ragleap, tenant, graph, temporal, relationship, new, filter, observability",
+        "generated": "2026-11-14T05:48:05.830057",
+        "file": "three-ragleap-releases-temporal-graphs-tenant-isolation-and-observability-improvements.md"
     },
     {
         "title": "Pixel Polish: Photoshop Alternatives for the Time-Strapped Developer",
@@ -43925,6 +44068,17 @@
         "keywords": "amazon, biggest, pollution, source, country, url, https, com",
         "generated": "2026-08-08T18:45:17.901411",
         "file": "amazon-is-creating-the-biggest-pollution-source-in-the-country.md"
+    },
+    {
+        "title": "The clause on page four: what a POS contract does to a restaurant's menu page",
+        "slug": "the-clause-on-page-four-what-a-pos-contract-does-to-a-restaurants-menu-page",
+        "author": "MapToSite",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 05:44:09 +0000",
+        "description": "Ask a restaurant owner what their website costs and you get one number: $89 a month, and it includes the till. One bill, so it reads as one product. It is ...",
+        "keywords": "not, page, you, term, what, one, pos, your",
+        "generated": "2026-11-14T05:48:05.831065",
+        "file": "the-clause-on-page-four-what-a-pos-contract-does-to-a-restaurants-menu-page.md"
     },
     {
         "title": "What a server knows about you before it reads a single header",
@@ -63010,6 +63164,17 @@
         "file": "ipv4-vs-ipv6-in-2026-what-every-developer-should-know.md"
     },
     {
+        "title": "Designing shareable collections without making users create an account",
+        "slug": "designing-shareable-collections-without-making-users-create-an-account",
+        "author": "同思远",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 05:26:46 +0000",
+        "description": "A collection tracker has two different kinds of state: the list someone is editing and the list they want another person to see. Keeping those separate was a...",
+        "keywords": "collection, link, list, lootprism, saved, shared, snapshot, progress",
+        "generated": "2026-11-14T05:48:05.831649",
+        "file": "designing-shareable-collections-without-making-users-create-an-account.md"
+    },
+    {
         "title": "Best 16 Sites for Buying High-Quality USA Google Voice ...",
         "slug": "best-16-sites-for-buying-high-quality-usa-google-voice",
         "author": "eagaeg",
@@ -63976,6 +64141,17 @@
         "keywords": "distillation, attacks, companies, security, can, their, these, models",
         "generated": "2026-09-12T10:25:42.908566",
         "file": "anthropics-distillation-campa.md"
+    },
+    {
+        "title": "Dynamics 365 Finance OData Returns Only One Company: How to Read Them All",
+        "slug": "dynamics-365-finance-odata-returns-only-one-company-how-to-read-them-all",
+        "author": "Aimpex Resources Group LLC",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 05:42:42 +0000",
+        "description": "A sales report built on Dynamics 365 finance and operations data can look complete and still be missing most of the business. For Supply Chain Analytics team...",
+        "keywords": "company, data, entity, service, cross, odata, not, microsoft",
+        "generated": "2026-11-14T05:48:05.829462",
+        "file": "dynamics-365-finance-odata-returns-only-one-company-how-to-read-them-all.md"
     },
     {
         "title": "Why Is My Base44 App Not Working? What 192 Real Reports Say",
@@ -86942,6 +87118,17 @@
         "file": "nvidia-dismisses-circular-financing-says-every-1-it-invests-brings-back-100.md"
     },
     {
+        "title": "llama.cpp ships v1.0.0 and promises API breaks only in majors",
+        "slug": "llamacpp-ships-v100-and-promises-api-breaks-only-in-majors",
+        "author": "Mikhail Savchenko",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 05:44:58 +0000",
+        "description": "The ggml-org team announced llama.cpp v1.0.0 on Hugging Face, releasing the llama.cpp library (libllama) and the underlying ggml tensor library (libggml) as ...",
+        "keywords": "team, api, llama, cpp, change, major, linux, macos",
+        "generated": "2026-11-14T05:48:05.831806",
+        "file": "llamacpp-ships-v100-and-promises-api-breaks-only-in-majors.md"
+    },
+    {
         "title": "I Built an AI That Trades Crypto Using Evolutionary Algorithms — Here's What I Learned",
         "slug": "i-built-an-ai-that-trades-crypto-using-evolutionary-algorithms-heres-what-i-learned",
         "author": "Nexus Intelligence Research",
@@ -87686,6 +87873,17 @@
         "keywords": "python, project, idea, tool, generator, learning, projects, new",
         "generated": "2026-09-30T04:59:51.110609",
         "file": "python-project-idea-generator-a-cli-tool-for-learning-projects.md"
+    },
+    {
+        "title": "Re-Encoding Before Upscaling Is Usually a Waste of a Generation (Measured)",
+        "slug": "re-encoding-before-upscaling-is-usually-a-waste-of-a-generation-measured",
+        "author": "celticgemini001",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 05:43:59 +0000",
+        "description": "Every upscaling tutorial says the same thing: transcode to ProRes first, so the upscaler isn't working on compressed data. It sounds like hygiene. In most ...",
+        "keywords": "upscale, not, encode, pixel, you, frame, grid, after",
+        "generated": "2026-11-14T05:48:05.832229",
+        "file": "re-encoding-before-upscaling-is-usually-a-waste-of-a-generation-measured.md"
     },
     {
         "title": "Cloudflare Ohttp Gateway",
@@ -91589,6 +91787,17 @@
         "keywords": "apple, sues, openai, https, com, comments, accuses, employees",
         "generated": "2026-07-11T08:04:04.869695",
         "file": "apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets.md"
+    },
+    {
+        "title": "The MCP ecosystem's missing layer is the gateway",
+        "slug": "the-mcp-ecosystems-missing-layer-is-the-gateway",
+        "author": "alanwang100",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 05:41:22 +0000",
+        "description": "The Model Context Protocol solved a genuinely hard problem: how an agent describes and invokes tools in a uniform way. Every major agent — Claude, Cursor, Cl...",
+        "keywords": "mcp, agent, gateway, one, tools, server, api, you",
+        "generated": "2026-11-14T05:48:05.832642",
+        "file": "the-mcp-ecosystems-missing-layer-is-the-gateway.md"
     },
     {
         "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
@@ -113748,6 +113957,17 @@
         "keywords": "investment, can, more, market, rimer, investments, development, data",
         "generated": "2026-07-18T13:26:53.517224",
         "file": "neil-rimer-thinks-the-ai-money-is-coming-back-out.md"
+    },
+    {
+        "title": "View Chrome Extension Source Code: 4 Ways to Audit a CRX",
+        "slug": "view-chrome-extension-source-code-4-ways-to-audit-a-crx",
+        "author": "ExtensionBooster",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 05:37:34 +0000",
+        "description": "Originally published on ExtensionBooster . You can view Chrome extension source code for any listing on the Chrome Web Store, without installing it. That mat...",
+        "keywords": "extension, chrome, crx, your, code, data, you, store",
+        "generated": "2026-11-14T05:48:05.831483",
+        "file": "view-chrome-extension-source-code-4-ways-to-audit-a-crx.md"
     },
     {
         "title": "Order a burned CD of your own public GitHub repo",
