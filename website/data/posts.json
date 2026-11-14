@@ -1265,6 +1265,17 @@
         "file": "i-kept-drawing-rectangles-in-figma-to-save-colors-so-i-built-a-color-board.md"
     },
     {
+        "title": "How to render Blender scenes from plain Python on a server with no GPU (pip install bpy, real timings on 4 CPU cores)",
+        "slug": "how-to-render-blender-scenes-from-plain-python-on-a-server-with-no-gpu-pip-install-bpy-real-timings-on-4-cpu-cores",
+        "author": "Fast Data",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 12:47:45 +0000",
+        "description": "You do not need the Blender app, a desktop or a GPU to render with Blender. Since Blender is published as a Python package, pip install bpy gives you the who...",
+        "keywords": "scene, bpy, data, render, cam, cycles, true, new",
+        "generated": "2026-11-14T13:16:27.350130",
+        "file": "how-to-render-blender-scenes-from-plain-python-on-a-server-with-no-gpu-pip-install-bpy-real-timings-on-4-cpu-cores.md"
+    },
+    {
         "title": "Efficient Prompting with Claud…",
         "slug": "efficient-prompting-with-claud",
         "author": "Norvik Tech",
@@ -4709,6 +4720,17 @@
         "file": "google-hotels-api-scrape-live-hotel-prices-and-ratings-in-2026-python-mcp.md"
     },
     {
+        "title": "Privacy-First AI Facial Aesthetics Analysis: How BeautyGrader Uses Client-Side MediaPipe",
+        "slug": "privacy-first-ai-facial-aesthetics-analysis-how-beautygrader-uses-client-side-mediapipe",
+        "author": "one win",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 13:01:16 +0000",
+        "description": "When building modern AI applications that handle sensitive biometric data—such as facial portraits—privacy must be the primary design constraint rather than ...",
+        "keywords": "facial, beautygrader, client, privacy, side, arbitrary, platform, first",
+        "generated": "2026-11-14T13:16:27.352953",
+        "file": "privacy-first-ai-facial-aesthetics-analysis-how-beautygrader-uses-client-side-mediapipe.md"
+    },
+    {
         "title": "Cheapest AI APIs 2026: A Cloud Architect's Field Notes",
         "slug": "cheapest-ai-apis-2026-a-cloud-architects-field-notes",
         "author": "rarenode",
@@ -7490,6 +7512,17 @@
         "keywords": "your, session, routine, minutes, best, headshot, simple, pre",
         "generated": "2026-09-03T20:48:32.218874",
         "file": "10-minutes-to-your-best-headshot-a-simple-pre-session-routine.md"
+    },
+    {
+        "title": "I Checked How Many of My MCP Server's 53 Logged Bugs Were Actually the Protocol's Fault",
+        "slug": "i-checked-how-many-of-my-mcp-servers-53-logged-bugs-were-actually-the-protocols-fault",
+        "author": "Enjoy Kumawat",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 12:48:14 +0000",
+        "description": "The MCP tag on dev.to this week has a post arguing that MCP is dead simple, and that's exactly the problem: a protocol so easy to stand up that people skip...",
+        "keywords": "mcp, none, actually, fastmcp, server, not, what, one",
+        "generated": "2026-11-14T13:16:27.349679",
+        "file": "i-checked-how-many-of-my-mcp-servers-53-logged-bugs-were-actually-the-protocols-fault.md"
     },
     {
         "title": "Python quickstart: nutrition data in 10 lines",
@@ -15945,9 +15978,9 @@
         "author": "cobychapple",
         "source": "hackernews",
         "published": "Sat, 14 Nov 2026 02:28:29 +0000",
-        "description": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 119 # Comments: 20",
+        "description": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 307 # Comments: 48",
         "keywords": "ggml, url, https, com, comments, article, github, org",
-        "generated": "2026-11-14T05:48:05.828864",
+        "generated": "2026-11-14T13:16:27.346251",
         "file": "ggml-v100.md"
     },
     {
@@ -18998,14 +19031,14 @@
         "file": "how-to-reverse-engineer-any-video-to-prompt-without-wasting-all-your-gpu-credits.md"
     },
     {
-        "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
         "slug": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
         "author": "speckx",
         "source": "hackernews",
         "published": "Sat, 14 Nov 2026 02:52:59 +0000",
         "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombi...",
         "keywords": "nvidia, allegedly, engineered, scarcity, funding, startups, buy, its",
-        "generated": "2026-11-14T05:48:05.828774",
+        "generated": "2026-11-14T13:16:27.346049",
         "file": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus.md"
     },
     {
@@ -20076,6 +20109,17 @@
         "file": "cruller-buns-zig-runtime-continued-on-zig-016.md"
     },
     {
+        "title": "6 Things That Quietly Break Your LLM Prompt Cache in .NET",
+        "slug": "6-things-that-quietly-break-your-llm-prompt-cache-in-net",
+        "author": "MICHAEL-MAURICE",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 12:57:22 +0000",
+        "description": "I had a support bot that sent the same 1,300-token system prompt on every request, and I assumed the provider's prompt cache was doing its job. OpenAI and Az...",
+        "keywords": "prefix, cache, prompt, model, one, tenant, stable, same",
+        "generated": "2026-11-14T13:16:27.354156",
+        "file": "6-things-that-quietly-break-your-llm-prompt-cache-in-net.md"
+    },
+    {
         "title": "What is AI CCTV analytics, and why Indian businesses are adopting it",
         "slug": "what-is-ai-cctv-analytics-and-why-indian-businesses-are-adopting-it",
         "author": "vianix",
@@ -21086,6 +21130,17 @@
         "keywords": "state, cultivation, quantum, magic, science, https, superconducting, processor",
         "generated": "2026-10-26T22:30:36.498348",
         "file": "magic-state-cultivation-on-a-superconducting-quantum-processor.md"
+    },
+    {
+        "title": "What to learn free before you pay for an AI engineering course in Nepal",
+        "slug": "what-to-learn-free-before-you-pay-for-an-ai-engineering-course-in-nepal",
+        "author": "Saarathi Academy",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 13:02:16 +0000",
+        "description": "Before you pay for an AI engineering course in Nepal, do three free things. Learn basic Python, call a free AI model from your own code, and finish the first...",
+        "keywords": "you, your, course, python, free, model, what, first",
+        "generated": "2026-11-14T13:16:27.348068",
+        "file": "what-to-learn-free-before-you-pay-for-an-ai-engineering-course-in-nepal.md"
     },
     {
         "title": "TLS certificates for internal services done right",
@@ -26839,6 +26894,17 @@
         "file": "vibe-coding-es-attie-de-bluesky-el-fin-del-desarrollo-tradicional.md"
     },
     {
+        "title": "Your Pay Matcher Confused Annual Units With Earnings",
+        "slug": "your-pay-matcher-confused-annual-units-with-earnings",
+        "author": "vexaloom-labs",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 13:00:03 +0000",
+        "description": "The day-rate contract wins your job comparison because salaryFromPerAnnum is larger. Your assistant sounds decisive. You get to explain the contract risk it ...",
+        "keywords": "pay, comparison, not, job, annualized, your, contract, advertised",
+        "generated": "2026-11-14T13:16:27.349226",
+        "file": "your-pay-matcher-confused-annual-units-with-earnings.md"
+    },
+    {
         "title": "AI’s Expanding Role in Industrial Cyber Defense & Security",
         "slug": "ais-expanding-role-in-industrial-cyber-defense-security",
         "author": "Rahul v",
@@ -31063,6 +31129,17 @@
         "file": "learn-data-science-for-free-through-peer-reviewed-engineering.md"
     },
     {
+        "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+        "slug": "elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+        "author": "gmays",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 02:02:42 +0000",
+        "description": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombin...",
+        "keywords": "elephants, found, increasingly, isolated, leading, fractured, social, networks",
+        "generated": "2026-11-14T13:16:27.346438",
+        "file": "elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks.md"
+    },
+    {
         "title": "Crawled - currently not indexed on 12 of 13 pages: what I've ruled out on a 3-week-old site",
         "slug": "crawled-currently-not-indexed-on-12-of-13-pages-what-ive-ruled-out-on-a-3-week-old-site",
         "author": "Silkline",
@@ -33453,6 +33530,17 @@
         "keywords": "website, response, incident, hacked, can, prevent, plan, breach",
         "generated": "2026-11-01T12:58:37.052626",
         "file": "website-hacked-incident-response-guide.md"
+    },
+    {
+        "title": "GraphQL vs REST: Picking Your API Style",
+        "slug": "graphql-vs-rest-picking-your-api-style",
+        "author": "Mubashir Taj",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 13:15:01 +0000",
+        "description": "Every backend team reaches the same fork in the road eventually. The API needs to serve a web client, a mobile client, and maybe a third party integration, a...",
+        "keywords": "graphql, one, rest, client, query, you, api, endpoint",
+        "generated": "2026-11-14T13:16:27.350601",
+        "file": "graphql-vs-rest-picking-your-api-style.md"
     },
     {
         "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
@@ -37041,6 +37129,17 @@
         "file": "debian-apt-security-update-man-in-the-middle-arbitrary-code-execution.md"
     },
     {
+        "title": "Monkey Island: all 13 versions side by side",
+        "slug": "monkey-island-all-13-versions-side-by-side",
+        "author": "maximilianburke",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 04:23:30 +0000",
+        "description": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 228 # Comments: 71",
+        "keywords": "side, url, https, comments, monkey, island, all, versions",
+        "generated": "2026-11-14T13:16:27.345820",
+        "file": "monkey-island-all-13-versions-side-by-side.md"
+    },
+    {
         "title": "US citizen charged after GrapheneOS phone wipes during airport search",
         "slug": "us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search",
         "author": "eecc",
@@ -38337,6 +38436,17 @@
         "keywords": "project, timeline, can, schedule, milestones, software, detailed, views",
         "generated": "2026-09-16T04:17:07.148961",
         "file": "best-project-timeline-tools-in-2026-compare-top-solutions.md"
+    },
+    {
+        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+        "slug": "amtrak-booking-system-experiencing-major-issues-amid-nationwide-faa-ground-stop",
+        "author": "snow_mac",
+        "source": "hackernews",
+        "published": "Sat, 14 Nov 2026 00:52:29 +0000",
+        "description": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=504...",
+        "keywords": "amtrak, booking, faa, ground, stop, url, https, com",
+        "generated": "2026-11-14T13:16:27.346612",
+        "file": "amtrak-booking-system-experiencing-major-issues-amid-nationwide-faa-ground-stop.md"
     },
     {
         "title": "Compiler Can Undo Your Security Checks",
@@ -42605,6 +42715,17 @@
         "keywords": "vector, context, grounded, rag, llm, local, passages, when",
         "generated": "2026-09-16T16:34:10.687732",
         "file": "demystifying-grounded-rag-eliminating-llm-hallucinations-with-local-vector-stores.md"
+    },
+    {
+        "title": "Our AI assistant can write to exactly one table. Postgres enforces it, not our code",
+        "slug": "our-ai-assistant-can-write-to-exactly-one-table-postgres-enforces-it-not-our-code",
+        "author": "Googleer",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 13:05:58 +0000",
+        "description": "We build Reperline , a small system that tracks construction schedules, budgets and contracts. It also connects to Claude through MCP (Model Context Protocol...",
+        "keywords": "can, one, only, function, policies, our, table, postgres",
+        "generated": "2026-11-14T13:16:27.352776",
+        "file": "our-ai-assistant-can-write-to-exactly-one-table-postgres-enforces-it-not-our-code.md"
     },
     {
         "title": "How Pulse matches you with the right provider — semantic AI search vs keyword lookup. BizNode Pulse uses embedding-based...",
@@ -49843,6 +49964,17 @@
         "keywords": "construction, west, bromwich, premier, groundworks, flooring, car, groundwork",
         "generated": "2026-08-03T09:55:50.596074",
         "file": "r10-construction-west-bromwichs-premier-groundwork-surfacing-experts.md"
+    },
+    {
+        "title": "NotebookLM vs Perplexity vs ChatGPT Deep Research",
+        "slug": "notebooklm-vs-perplexity-vs-chatgpt-deep-research",
+        "author": "guang diyuzhi",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 13:11:37 +0000",
+        "description": "By PikVue | May 2026 | Category: AI Tools ⚡ Quick Verdict Each tool dominates a different niche in the AI research landscape: Best for Academic Research:Note...",
+        "keywords": "research, you, notebooklm, chatgpt, perplexity, deep, pro, sources",
+        "generated": "2026-11-14T13:16:27.351181",
+        "file": "notebooklm-vs-perplexity-vs-chatgpt-deep-research.md"
     },
     {
         "title": "AI video brief do-nots",
@@ -61996,6 +62128,17 @@
         "keywords": "gpu, per, cache, latency, nccl, nvme, token, gpus",
         "generated": "2026-07-08T08:37:13.649269",
         "file": "vllm-vs-sglang-architectural-deepdive-kvcache-pinning-and-distributed-inference-at-scale.md"
+    },
+    {
+        "title": "The 30% superforecaster claim doesn't survive contact with the papers",
+        "slug": "the-30-superforecaster-claim-doesnt-survive-contact-with-the-papers",
+        "author": "Skylynn",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 13:00:10 +0000",
+        "description": "I write research briefs, which means the thing I sell is the gap between a claim and its source. So I test myself with it: pick a statistic that travels well...",
+        "keywords": "not, claim, what, research, than, tournament, who, papers",
+        "generated": "2026-11-14T13:16:27.353230",
+        "file": "the-30-superforecaster-claim-doesnt-survive-contact-with-the-papers.md"
     },
     {
         "title": "The Normalization of Inexplicable Failures",
@@ -101390,6 +101533,17 @@
         "file": "using-abortsignal-correctly-across-vin-decode-retries.md"
     },
     {
+        "title": "Your Image Compression Made the File 2.5x Bigger: 5 Numbers From One 6016px Photo",
+        "slug": "your-image-compression-made-the-file-25x-bigger-5-numbers-from-one-6016px-photo",
+        "author": "zhihu wu",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 13:05:11 +0000",
+        "description": "I spent an afternoon pushing one photo through a compression pipeline at every setting it has. These are file sizes from a single source image on a single ma...",
+        "keywords": "quality, file, you, image, one, size, compression, photo",
+        "generated": "2026-11-14T13:16:27.352445",
+        "file": "your-image-compression-made-the-file-25x-bigger-5-numbers-from-one-6016px-photo.md"
+    },
+    {
         "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
         "slug": "hilariously-fast-volume-computation-with-the-divergence-theorem",
         "author": "luu",
@@ -106791,6 +106945,17 @@
         "file": "a-modern-platform-for-discreet-male-companionship-in-mumbai.md"
     },
     {
+        "title": "Python Portfolio Stress Testing: Simulating Joint Market Shocks and Execution Costs",
+        "slug": "python-portfolio-stress-testing-simulating-joint-market-shocks-and-execution-costs",
+        "author": "KAEL AI",
+        "source": "devto_python",
+        "published": "Sat, 14 Nov 2026 13:07:12 +0000",
+        "description": "Disclosure: AI assistance was used in preparing this article. The code is an illustrative research example, not a production risk engine or investment recomm...",
+        "keywords": "portfolio, market, scenario, stress, execution, scenarios, results, asset",
+        "generated": "2026-11-14T13:16:27.347377",
+        "file": "python-portfolio-stress-testing-simulating-joint-market-shocks-and-execution-costs.md"
+    },
+    {
         "title": "Sidekick part 1: a terminal companion on your hardware",
         "slug": "sidekick-part-1-a-terminal-companion-on-your-hardware",
         "author": "Irfan Wani",
@@ -109460,6 +109625,17 @@
         "file": "im-an-ai-agent-i-built-my-own-voice-then-tried-to-earn-20-with-it-heres-whats-actually-gated.md"
     },
     {
+        "title": "AI vs Human Writing: What Google Actually Rewards",
+        "slug": "ai-vs-human-writing-what-google-actually-rewards",
+        "author": "Skryvo AI",
+        "source": "devto_ai",
+        "published": "Sat, 14 Nov 2026 13:00:00 +0000",
+        "description": "Of 900,000 web pages created in a single month, 2.5% were written purely by AI. Pure human pages were 25.8%. Everything else — 71.7% — was a mix of the two, ...",
+        "keywords": "human, content, not, pages, measured, what, web, page",
+        "generated": "2026-11-14T13:16:27.353538",
+        "file": "ai-vs-human-writing-what-google-actually-rewards.md"
+    },
+    {
         "title": "Everyone Should Know SIMD",
         "slug": "everyone-should-know-simd",
         "author": "WadeGrimridge",
@@ -111900,6 +112076,17 @@
         "keywords": "not, agent, user, content, relayshield, what, have, tool",
         "generated": "2026-11-02T15:18:23.752198",
         "file": "treat-done-as-a-claim-not-a-fact-identity-intent-and-content-checked-together.md"
+    },
+    {
+        "title": "I Built a Free Browser-Based Text Humanizer — No API Key Required",
+        "slug": "i-built-a-free-browser-based-text-humanizer-no-api-key-required",
+        "author": "Dia Mouaki",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 13:08:01 +0000",
+        "description": "Hey developers! 👋 I've been working on PromptBurn , a collection of free tools for AI users and developers. Today, I'm introducing a new tool: Free AI Text H...",
+        "keywords": "free, text, humanizer, tool, browser, api, key, developers",
+        "generated": "2026-11-14T13:16:27.351380",
+        "file": "i-built-a-free-browser-based-text-humanizer-no-api-key-required.md"
     },
     {
         "title": "What Context-Aware Code Review Actually Means🤔",
@@ -115497,6 +115684,17 @@
         "keywords": "link, two, not, every, page, agent, own, youtube",
         "generated": "2026-09-25T04:22:46.227945",
         "file": "my-agent-counted-34-youtube-links-as-doors-for-two-weeks-33-of-them-could-not-be-clicked.md"
+    },
+    {
+        "title": "Offline LLMs in 2026: A Free Local Setup Guide",
+        "slug": "offline-llms-in-2026-a-free-local-setup-guide",
+        "author": "guang diyuzhi",
+        "source": "devto_webdev",
+        "published": "Sat, 14 Nov 2026 13:06:16 +0000",
+        "description": "The landscape of artificial intelligence has undergone a seismic shift in 2026. What was once the exclusive domain of cloud giants with billion-dollar comput...",
+        "keywords": "models, you, local, model, ollama, run, running, hardware",
+        "generated": "2026-11-14T13:16:27.352157",
+        "file": "offline-llms-in-2026-a-free-local-setup-guide.md"
     },
     {
         "title": "MCP Explained, the Protocol That Stopped Me From Writing the Same Integration Twenty Times",

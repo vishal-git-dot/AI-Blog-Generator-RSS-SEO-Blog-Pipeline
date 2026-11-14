@@ -1,19 +1,19 @@
 ---
-title: "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
+title: "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs"
 slug: "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
 author: "speckx"
 source: "hackernews"
 published: "Sat, 14 Nov 2026 02:52:59 +0000"
 description: "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombi..."
 keywords: "nvidia, allegedly, engineered, scarcity, funding, startups, buy, its"
-generated: "2026-11-14T05:48:05.828774"
+generated: "2026-11-14T13:16:27.346049"
 ---
 
-# Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+# Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
 
 ## Overview
 
-Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 209 # Comments: 114
+Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 728 # Comments: 419
 
 ## Key Insights
 
