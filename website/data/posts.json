@@ -7140,6 +7140,17 @@
         "file": "dev-news-digest-19-oct-2026-0600.md"
     },
     {
+        "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+        "slug": "vulcan-rocket-fails-during-return-to-flight-launch-40-amazon-satellites-lost",
+        "author": "jonbaer",
+        "source": "hackernews",
+        "published": "Sun, 15 Nov 2026 20:37:28 +0000",
+        "description": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments UR...",
+        "keywords": "vulcan, return, flight, launch, amazon, url, https, space",
+        "generated": "2026-11-15T22:39:51.906457",
+        "file": "vulcan-rocket-fails-during-return-to-flight-launch-40-amazon-satellites-lost.md"
+    },
+    {
         "title": "Orphan Pages: How to Find and Fix Pages Nothing Links To",
         "slug": "orphan-pages-how-to-find-and-fix-pages-nothing-links-to",
         "author": "Kessy Stalford",
@@ -18206,6 +18217,17 @@
         "file": "claude-workbench-to-playground-migration-checklist.md"
     },
     {
+        "title": "Otomoto has no public API: how to get its car listings as JSON or CSV",
+        "slug": "otomoto-has-no-public-api-how-to-get-its-car-listings-as-json-or-csv",
+        "author": "Jones",
+        "source": "devto_python",
+        "published": "Sun, 15 Nov 2026 21:56:12 +0000",
+        "description": "Otomoto.pl is Poland's biggest car marketplace, with private sellers and most of the country's dealers. If you want its listings in code, to price a car, tra...",
+        "keywords": "cars, otomoto, octavia, you, price, run, market, car",
+        "generated": "2026-11-15T22:39:51.908502",
+        "file": "otomoto-has-no-public-api-how-to-get-its-car-listings-as-json-or-csv.md"
+    },
+    {
         "title": "AI Production / MLOps",
         "slug": "ai-production-mlops",
         "author": "Rhuturaj Takle",
@@ -19436,6 +19458,17 @@
         "keywords": "avif, canvas, worker, image, type, msg, const, png",
         "generated": "2026-09-13T11:28:47.307778",
         "file": "canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway.md"
+    },
+    {
+        "title": "DeepSeek V4 and Kimi K3 weights match Nvidia Blackwell chips, researchers allege",
+        "slug": "deepseek-v4-and-kimi-k3-weights-match-nvidia-blackwell-chips-researchers-allege",
+        "author": "ColdCaseTech",
+        "source": "devto_ai",
+        "published": "Sun, 15 Nov 2026 22:16:17 +0000",
+        "description": "Originally published on ColdCaseTech . Disclosure: this post contains affiliate links. We may earn a commission at no extra cost to you. Then vs. Now (News r...",
+        "keywords": "hardware, tom, chips, techcrunch, models, deepseek, blackwell, not",
+        "generated": "2026-11-15T22:39:51.911803",
+        "file": "deepseek-v4-and-kimi-k3-weights-match-nvidia-blackwell-chips-researchers-allege.md"
     },
     {
         "title": "Pydantic: Catch Bad Data Before It Reaches Your Database",
@@ -34511,6 +34544,17 @@
         "file": "i-built-a-claude-powered-feed-monitor-in-an-afternoon-then-i-actually-ran-it.md"
     },
     {
+        "title": "Why humanoids don't pay for themselves: the engineering economics of one hour of machine work",
+        "slug": "why-humanoids-dont-pay-for-themselves-the-engineering-economics-of-one-hour-of-machine-work",
+        "author": "RuChating",
+        "source": "devto_ai",
+        "published": "Sun, 15 Nov 2026 22:15:41 +0000",
+        "description": "Humanoid robot shipments in China roughly tripled in the first half of 2026. About eight percent of those machines ended up doing production work. The gap be...",
+        "keywords": "not, cost, robot, task, what, but, engineering, policy",
+        "generated": "2026-11-15T22:39:51.912219",
+        "file": "why-humanoids-dont-pay-for-themselves-the-engineering-economics-of-one-hour-of-machine-work.md"
+    },
+    {
         "title": "How People Save Money Using Amazon Gift Cards",
         "slug": "how-people-save-money-using-amazon-gift-cards",
         "author": "Tandom",
@@ -36269,6 +36313,17 @@
         "keywords": "height, growth, mph, parental, range, adult, mid, math",
         "generated": "2026-06-15T12:29:05.504455",
         "file": "how-we-built-an-adult-height-predictor-the-math-the-science-and-the-edge-cases.md"
+    },
+    {
+        "title": "WebGL Flight Simulator with seed generated terrain",
+        "slug": "webgl-flight-simulator-with-seed-generated-terrain",
+        "author": "ranger_danger",
+        "source": "hackernews",
+        "published": "Sun, 15 Nov 2026 20:20:05 +0000",
+        "description": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 26 # Comments: 7",
+        "keywords": "url, https, comments, webgl, flight, simulator, seed, generated",
+        "generated": "2026-11-15T22:39:51.906536",
+        "file": "webgl-flight-simulator-with-seed-generated-terrain.md"
     },
     {
         "title": "Affordable Web Design Company Pune for Growing Businesses",
@@ -39087,6 +39142,17 @@
         "file": "your-ai-prototype-is-not-a-production-system-the-engineering-behind-reliable-ai-applications.md"
     },
     {
+        "title": "I made Claude and Cursor build the same app. Then I put them on trial.",
+        "slug": "i-made-claude-and-cursor-build-the-same-app-then-i-put-them-on-trial",
+        "author": "CH",
+        "source": "devto_webdev",
+        "published": "Sun, 15 Nov 2026 22:35:35 +0000",
+        "description": "Cursor built my app, then told me I'd used up my free plan. Claude built the same app in four and a half minutes, then told me it had tested it on a phone. O...",
+        "keywords": "claude, you, cursor, excuse, then, judge, yes, guilty",
+        "generated": "2026-11-15T22:39:51.909751",
+        "file": "i-made-claude-and-cursor-build-the-same-app-then-i-put-them-on-trial.md"
+    },
+    {
         "title": "Stack Exchange tells you exactly how long to wait — most scrapers ignore it",
         "slug": "stack-exchange-tells-you-exactly-how-long-to-wait-most-scrapers-ignore-it",
         "author": "Devil Scrapes",
@@ -39208,6 +39274,17 @@
         "file": "if-you-cannot-replay-the-agent-do-not-merge.md"
     },
     {
+        "title": "Oracle Project Cost Exceptions Assistant Agent",
+        "slug": "oracle-project-cost-exceptions-assistant-agent",
+        "author": "Himanshu",
+        "source": "devto_ai",
+        "published": "Sun, 15 Nov 2026 22:30:10 +0000",
+        "description": "Introduction Project cost exceptions are one of those areas in Oracle Fusion Cloud Project Costing that require regular attention, particularly during month-...",
+        "keywords": "project, exceptions, cost, transaction, assistant, exception, oracle, transactions",
+        "generated": "2026-11-15T22:39:51.911055",
+        "file": "oracle-project-cost-exceptions-assistant-agent.md"
+    },
+    {
         "title": "Your Team Doesn’t Need a Better AI Model This Week",
         "slug": "your-team-doesnt-need-a-better-ai-model-this-week",
         "author": "Chris",
@@ -39305,6 +39382,17 @@
         "keywords": "shelf, filings, market, shares, dilution, can, filing, company",
         "generated": "2026-08-14T13:17:35.135091",
         "file": "understanding-sec-shelf-filings-and-dilution-risk-in-trading.md"
+    },
+    {
+        "title": "What to Check Before You Launch Your New Website",
+        "slug": "what-to-check-before-you-launch-your-new-website",
+        "author": "Weis Mateen",
+        "source": "devto_webdev",
+        "published": "Sun, 15 Nov 2026 22:16:10 +0000",
+        "description": "A new website only starts working for you after it is live. Before that moment, it is worth slowing down and checking a few basics. A site can look finished ...",
+        "keywords": "you, your, not, site, phone, before, new, sio",
+        "generated": "2026-11-15T22:39:51.909967",
+        "file": "what-to-check-before-you-launch-your-new-website.md"
     },
     {
         "title": "A Critique of GPUI",
@@ -40020,6 +40108,17 @@
         "keywords": "you, line, value, log, total, your, output, const",
         "generated": "2026-10-21T16:57:15.638655",
         "file": "every-value-should-know-where-it-came-from.md"
+    },
+    {
+        "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
+        "slug": "one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys",
+        "author": "Miguel Moreno",
+        "source": "devto_ai",
+        "published": "Sun, 15 Nov 2026 22:23:05 +0000",
+        "description": "As of November 2026. All identifiers in this post are examples. We built a proof of concept with two AI agents: one on Google Cloud, in Agent Runtime, and on...",
+        "keywords": "agent, cloud, gateway, model, one, azure, token, litellm",
+        "generated": "2026-11-15T22:39:51.911545",
+        "file": "one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys.md"
     },
     {
         "title": "Why I Added a Slippage Circuit-Breaker to My TWAP Execution Engine",
@@ -45390,6 +45489,17 @@
         "file": "the-real-prices-of-frontier-models-tokens-price-right.md"
     },
     {
+        "title": "8 Best MCP Servers for Financial Data in 2026 (Tested)",
+        "slug": "8-best-mcp-servers-for-financial-data-in-2026-tested",
+        "author": "Kevin Meneses González",
+        "source": "devto_python",
+        "published": "Sun, 15 Nov 2026 22:25:55 +0000",
+        "description": "The best MCP server for financial data in 2026 is EODHD : one hosted endpoint gives Claude, ChatGPT or Cursor global prices, fundamentals, earnings, macro, n...",
+        "keywords": "mcp, you, server, one, data, eodhd, only, free",
+        "generated": "2026-11-15T22:39:51.907623",
+        "file": "8-best-mcp-servers-for-financial-data-in-2026-tested.md"
+    },
+    {
         "title": "The Digital Trio: Exploring the Top 3 Best Chrome Extension Reviews That Transform Online Productivity",
         "slug": "the-digital-trio-exploring-the-top-3-best-chrome-extension-reviews-that-transform-online-productivity",
         "author": "Buy Old Gmail Accounts",
@@ -49601,6 +49711,17 @@
         "keywords": "you, one, more, website, what, software, than, people",
         "generated": "2026-08-04T14:28:10.956295",
         "file": "the-internet-has-thousands-of-utility-websites-so-why-am-i-building-another-one.md"
+    },
+    {
+        "title": "Tryin' to create a cms/p",
+        "slug": "tryin-to-create-a-cmsp",
+        "author": "Kybez Vartel",
+        "source": "devto_webdev",
+        "published": "Sun, 15 Nov 2026 22:15:18 +0000",
+        "description": "Hi I've been working on creating a CMS after years of using WP and learning very little h'ttermil. I mean, I can CTRL B and keep googling how to make a click...",
+        "keywords": "system, can, where, cms, using, without, you, site",
+        "generated": "2026-11-15T22:39:51.910296",
+        "file": "tryin-to-create-a-cmsp.md"
     },
     {
         "title": "hotellobby (LobbyDuo): UX Notes on Preview-Before-Pay AI Booth Videos",
@@ -67563,6 +67684,17 @@
         "keywords": "ekhemm, indonesia, what, you, think, country",
         "generated": "2026-06-11T10:47:52.349739",
         "file": "ekhemm.md"
+    },
+    {
+        "title": "Your AI-Generated Code Has No License",
+        "slug": "your-ai-generated-code-has-no-license",
+        "author": "RobustTrueTry",
+        "source": "devto_python",
+        "published": "Sun, 15 Nov 2026 21:44:56 +0000",
+        "description": "Your team pastes AI-generated code into production every day. That code arrives with no license, no copyright header, and no author. The argument that all AI...",
+        "keywords": "code, commit, your, you, generated, license, open, not",
+        "generated": "2026-11-15T22:39:51.909365",
+        "file": "your-ai-generated-code-has-no-license.md"
     },
     {
         "title": "Your Meta CAPI events from a Telegram bot are losing attribution. Here's the fix.",
@@ -90295,6 +90427,17 @@
         "file": "your-ai-agent-probably-belongs-in-the-data-pipeline.md"
     },
     {
+        "title": "E-commerce Report Delivery: Presigned URLs vs Backend Proxy for Large-File Uploads",
+        "slug": "e-commerce-report-delivery-presigned-urls-vs-backend-proxy-for-large-file-uploads",
+        "author": "IgnazCole6453",
+        "source": "devto_python",
+        "published": "Sun, 15 Nov 2026 21:49:58 +0000",
+        "description": "Short answer: for an e-commerce web app serving generated reports to authenticated customers, start with a presigned URL and a browser-to-storage byte path. ...",
+        "keywords": "report, storage, not, upload, application, customer, backend, proxy",
+        "generated": "2026-11-15T22:39:51.908999",
+        "file": "e-commerce-report-delivery-presigned-urls-vs-backend-proxy-for-large-file-uploads.md"
+    },
+    {
         "title": "My Thrilling AI Day: Bhutan Capitals, Meeting Excuses, No Quantum Haikus",
         "slug": "my-thrilling-ai-day-bhutan-capitals-meeting-excuses-no-quantum-haikus",
         "author": "Electra AI",
@@ -98805,6 +98948,17 @@
         "file": "a-graphical-desktop-for-the-zx-spectrum.md"
     },
     {
+        "title": "Old Bitly Links Are Being Hijacked",
+        "slug": "old-bitly-links-are-being-hijacked",
+        "author": "hspeiser",
+        "source": "hackernews",
+        "published": "Sun, 15 Nov 2026 22:11:43 +0000",
+        "description": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 12 # Commen...",
+        "keywords": "bitly, url, https, com, comments, old, links, being",
+        "generated": "2026-11-15T22:39:51.906129",
+        "file": "old-bitly-links-are-being-hijacked.md"
+    },
+    {
         "title": "Large language models develop novel social biases through adaptive exploration",
         "slug": "large-language-models-develop-novel-social-biases-through-adaptive-exploration",
         "author": "paimapi",
@@ -100596,6 +100750,17 @@
         "keywords": "you, brief, audio, search, library, your, one, track",
         "generated": "2026-06-23T20:12:47.955246",
         "file": "why-done-for-you-audio-actually-slows-serious-creators-down.md"
+    },
+    {
+        "title": "Your Agent Will Pick the Hackable One",
+        "slug": "your-agent-will-pick-the-hackable-one",
+        "author": "tensafefrogs",
+        "source": "hackernews",
+        "published": "Sun, 15 Nov 2026 21:10:39 +0000",
+        "description": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 46 # Co...",
+        "keywords": "your, agent, will, pick, hackable, one, url, https",
+        "generated": "2026-11-15T22:39:51.906366",
+        "file": "your-agent-will-pick-the-hackable-one.md"
     },
     {
         "title": "Taming Local Disk Bloat: Where Did My 512GB Mac SSD Go and How to Clean It Safely",
@@ -105790,6 +105955,17 @@
         "file": "beyond-all-reason-free-total-annihilation-inspired-rts.md"
     },
     {
+        "title": "Google Labs is testing Tabletop, a shared prompt-driven planning space",
+        "slug": "google-labs-is-testing-tabletop-a-shared-prompt-driven-planning-space",
+        "author": "Franklin AI",
+        "source": "devto_ai",
+        "published": "Sun, 15 Nov 2026 22:25:29 +0000",
+        "description": "Google Labs is testing Tabletop, a shared prompt-driven planning space Google Labs is testing Tabletop, an experiment that turns prompts and templates into s...",
+        "keywords": "google, tabletop, labs, shared, testing, prompt, driven, planning",
+        "generated": "2026-11-15T22:39:51.911193",
+        "file": "google-labs-is-testing-tabletop-a-shared-prompt-driven-planning-space.md"
+    },
+    {
         "title": "Abstract API VAT alternative: EuroValidate VAT API",
         "slug": "abstract-api-vat-alternative-eurovalidate-vat-api",
         "author": "Alexander Nitrovich",
@@ -109253,6 +109429,17 @@
         "keywords": "you, your, dns, records, domain, just, server, but",
         "generated": "2026-11-03T00:47:43.475805",
         "file": "the-silent-killer-of-uptime-why-you-must-master-dns-lookups.md"
+    },
+    {
+        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+        "slug": "boeing-lockheed-rocket-fails-mid-flight-destroys-payload-of-amazon-satellites",
+        "author": "rexbee",
+        "source": "hackernews",
+        "published": "Sun, 15 Nov 2026 21:38:11 +0000",
+        "description": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comment...",
+        "keywords": "rocket, fails, payload, amazon, satellites, url, https, com",
+        "generated": "2026-11-15T22:39:51.906273",
+        "file": "boeing-lockheed-rocket-fails-mid-flight-destroys-payload-of-amazon-satellites.md"
     },
     {
         "title": "Image Trace vs an AI Vectorizer: Count the Paths, Not the Label",
@@ -120680,6 +120867,17 @@
         "file": "deepseek-harness.md"
     },
     {
+        "title": "Backing Out Sales Tax From a Receipt: Why T * (1 - r) Is Always Wrong",
+        "slug": "backing-out-sales-tax-from-a-receipt-why-t-1-r-is-always-wrong",
+        "author": "Ashley Chen",
+        "source": "devto_webdev",
+        "published": "Sun, 15 Nov 2026 22:36:37 +0000",
+        "description": "When an accounting script or expense parser tries to recover the pre-tax price from a tax-inclusive receipt total, the most common bug is multiplying the tot...",
+        "keywords": "tax, sales, total, pre, reverse, rate, invoice, integer",
+        "generated": "2026-11-15T22:39:51.909507",
+        "file": "backing-out-sales-tax-from-a-receipt-why-t-1-r-is-always-wrong.md"
+    },
+    {
         "title": "Gemini ending free use of Flash and Pro models",
         "slug": "gemini-ending-free-use-of-flash-and-pro-models",
         "author": "rjh29",
@@ -121118,6 +121316,17 @@
         "keywords": "text, code, length, utf, units, spaces, one, counter",
         "generated": "2026-10-10T21:25:00.283043",
         "file": "character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes.md"
+    },
+    {
+        "title": "Rabarber v6.1: Reliability Update for the Rails Authorization Gem",
+        "slug": "rabarber-v61-reliability-update-for-the-rails-authorization-gem",
+        "author": "enjaku4",
+        "source": "devto_webdev",
+        "published": "Sun, 15 Nov 2026 22:15:52 +0000",
+        "description": "Rabarber , a role-based authorization gem for Rails, releases v6.1.0. This release is mostly about reliability. With the help of AI, a lot of work went into ...",
+        "keywords": "gem, rabarber, reliability, rails, authorization, role, release, work",
+        "generated": "2026-11-15T22:39:51.910081",
+        "file": "rabarber-v61-reliability-update-for-the-rails-authorization-gem.md"
     },
     {
         "title": "Europe's summer drought is so extreme that desertification is a growing threat",
@@ -122746,6 +122955,17 @@
         "keywords": "tools, free, searching, them, data, ctrltool, built, online",
         "generated": "2026-08-19T18:41:33.266050",
         "file": "i-built-132-free-online-tools-because-i-kept-searching-for-them.md"
+    },
+    {
+        "title": "My N+1 test plugin failed 551 tests on someone else's project. Nearly all of them were noise.",
+        "slug": "my-n1-test-plugin-failed-551-tests-on-someone-elses-project-nearly-all-of-them-were-noise",
+        "author": "maciej zielinski",
+        "source": "devto_python",
+        "published": "Sun, 15 Nov 2026 21:58:13 +0000",
+        "description": "I maintain pytest-queryguard, a pytest plugin that fails a test when the code it runs sends one query per row. The problem it goes after is old: a test datab...",
+        "keywords": "test, pytest, django, tests, code, queryguard, order, customer",
+        "generated": "2026-11-15T22:39:51.908140",
+        "file": "my-n1-test-plugin-failed-551-tests-on-someone-elses-project-nearly-all-of-them-were-noise.md"
     },
     {
         "title": "Your Order API Needs More Than an Idempotency Key",
