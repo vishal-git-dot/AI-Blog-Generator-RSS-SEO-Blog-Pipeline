@@ -209,6 +209,17 @@
         "file": "05-python-file-handling-exceptions.md"
     },
     {
+        "title": "Long-Running AI Jobs: Webhooks You Can Trust",
+        "slug": "long-running-ai-jobs-webhooks-you-can-trust",
+        "author": "Node & Neural",
+        "source": "devto_ai",
+        "published": "Mon, 16 Nov 2026 15:10:48 +0000",
+        "description": "This job finished, and nobody will ever know. A customer asked for a 40-page report, and the model took six minutes. When it finished, your webhook endpoint ...",
+        "keywords": "job, webhook, provider, const, minutes, signature, every, succeeded",
+        "generated": "2026-11-16T15:22:11.710707",
+        "file": "long-running-ai-jobs-webhooks-you-can-trust.md"
+    },
+    {
         "title": "Review an Agent PR That Fetches Model-Named Docs URLs",
         "slug": "review-an-agent-pr-that-fetches-model-named-docs-urls",
         "author": "Jordan Li",
@@ -339,6 +350,17 @@
         "keywords": "you, model, pin, not, schema, one, output, snapshot",
         "generated": "2026-10-29T05:13:43.942837",
         "file": "treat-a-model-upgrade-like-a-schema-migration.md"
+    },
+    {
+        "title": "Publishing Pipeline Scheduled vs Immediate",
+        "slug": "publishing-pipeline-scheduled-vs-immediate",
+        "author": "Francis Oyakhire",
+        "source": "devto_python",
+        "published": "Mon, 16 Nov 2026 15:00:13 +0000",
+        "description": "This week’s news about AI model inference and deployment strategies has sparked a broader conversation about control, cost, and complexity in modern software...",
+        "keywords": "url, canonical, scheduled, posts, published, publishing, when, system",
+        "generated": "2026-11-16T15:22:11.706767",
+        "file": "publishing-pipeline-scheduled-vs-immediate.md"
     },
     {
         "title": "Scheduled Import Logs, Metrics, and Errors — Small SaaS Health Endpoint Observability",
@@ -10671,6 +10693,17 @@
         "file": "maye-enterprise-software-doesnt-have-to-suck-anymore.md"
     },
     {
+        "title": "국내 대표 AI 기업 11개사, 2026년 허깅페이스 공개 모델 다운로드 분석",
+        "slug": "ai-11-2026",
+        "author": "Vidraft_lab",
+        "source": "devto_ai",
+        "published": "Mon, 16 Nov 2026 15:12:21 +0000",
+        "description": "요약: 2026년 국내 AI 기업 11개사가 허깅페이스에 공개한 언어모델 174개의 다운로드를 분석했다. 직전 30일 136만 회 중 82.2%, 올해 누적 666만 회 중 58.0%가 비드래프트 모델이고, 30일 상위 5개 모델은 모두 GGUF·NVFP4 압축 형태다. 올해 국내...",
+        "keywords": "gguf, pocket, exaone, darwin, raon, kanana, preview, mini",
+        "generated": "2026-11-16T15:22:11.709730",
+        "file": "ai-11-2026.md"
+    },
+    {
         "title": "YouTrackDB is a general-use object-oriented graph database",
         "slug": "youtrackdb-is-a-general-use-object-oriented-graph-database",
         "author": "gjvc",
@@ -16391,6 +16424,17 @@
         "file": "nvidia-cosmos-the-world-foundation-model-reshaping-physical-ai.md"
     },
     {
+        "title": "NEXORA — Beyond the Frame: a cinematic skin for Video.js v10",
+        "slug": "nexora-beyond-the-frame-a-cinematic-skin-for-videojs-v10",
+        "author": "Vikas Kumar Meena",
+        "source": "devto_webdev",
+        "published": "Mon, 16 Nov 2026 15:11:52 +0000",
+        "description": "I built NEXORA — Beyond the Frame , a cinematic dark-glass skin for Video.js v10, and entered it in the Video.js Skins Design Challenge by Mux. What it does ...",
+        "keywords": "video, nexora, beyond, frame, skin, mux, cinematic, html",
+        "generated": "2026-11-16T15:22:11.708273",
+        "file": "nexora-beyond-the-frame-a-cinematic-skin-for-videojs-v10.md"
+    },
+    {
         "title": "Metadata Routing",
         "slug": "metadata-routing",
         "author": "Akshay Dev Karama",
@@ -20582,6 +20626,17 @@
         "file": "when-a-student-misspells-a-word-does-a-small-ai-model-quote-it-back-exactly-less-often-a-preregistered-test-came-back-underpowered.md"
     },
     {
+        "title": "Amazon's Discount Illusion: 1 in 3 Deals Offered No Savings– 1 in 10 Cost More",
+        "slug": "amazons-discount-illusion-1-in-3-deals-offered-no-savings-1-in-10-cost-more",
+        "author": "DeepLogin",
+        "source": "hackernews",
+        "published": "Mon, 16 Nov 2026 13:39:07 +0000",
+        "description": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-a...",
+        "keywords": "deals, amazon, offered, savings, url, news, nearly, comments",
+        "generated": "2026-11-16T15:22:11.705031",
+        "file": "amazons-discount-illusion-1-in-3-deals-offered-no-savings-1-in-10-cost-more.md"
+    },
+    {
         "title": "Netra-security",
         "slug": "netra-security",
         "author": "BALLA NAGA V VENKATA SATYA NARASIMHAMURTHY",
@@ -22450,6 +22505,17 @@
         "keywords": "our, shivatechdigital, read, article, website, cloud, cost, optimization",
         "generated": "2026-07-04T03:39:49.957507",
         "file": "cloud-cost-optimization-strategies.md"
+    },
+    {
+        "title": "How to Organize Movies in WordPress: Taxonomies, Rows, and Ratings",
+        "slug": "how-to-organize-movies-in-wordpress-taxonomies-rows-and-ratings",
+        "author": "Movie Engine",
+        "source": "devto_webdev",
+        "published": "Mon, 16 Nov 2026 15:04:09 +0000",
+        "description": "A movie collection is not a folder of posters. It is a catalog a viewer can browse by mood, era, and cast, and that only works when every film sits in the ri...",
+        "keywords": "film, collection, viewer, every, one, search, genre, taxonomies",
+        "generated": "2026-11-16T15:22:11.709384",
+        "file": "how-to-organize-movies-in-wordpress-taxonomies-rows-and-ratings.md"
     },
     {
         "title": "Why I stopped sending freelance proposals (and what I send instead)",
@@ -29347,6 +29413,17 @@
         "file": "serverless-when-it-helps-and-when-it-hurts.md"
     },
     {
+        "title": "From Artificial Neurons to AlexNet and Beyond.",
+        "slug": "from-artificial-neurons-to-alexnet-and-beyond",
+        "author": "Keshavan Thiagaraja",
+        "source": "devto_ai",
+        "published": "Mon, 16 Nov 2026 15:09:53 +0000",
+        "description": "What deep learning history teaches enterprise leaders about CUDA and AI strategy . Deep learning did not begin with AlexNet. CUDA did not invent neural netwo...",
+        "keywords": "not, https, org, data, model, cuda, alexnet, learning",
+        "generated": "2026-11-16T15:22:11.711570",
+        "file": "from-artificial-neurons-to-alexnet-and-beyond.md"
+    },
+    {
         "title": "Playwright Web Scraping Guide : Setup, Anti-Bot & Proxy Setup",
         "slug": "playwright-web-scraping-guide-setup-anti-bot-proxy-setup",
         "author": "IPFoxy",
@@ -33057,6 +33134,17 @@
         "keywords": "school, data, exam, season, one, before, source, truth",
         "generated": "2026-11-08T05:28:47.823771",
         "file": "single-source-of-truth-for-school-exams-applying-a-data-principle-to-exam-season.md"
+    },
+    {
+        "title": "The existence-trace installer: a dry run that works, and three ways to trip it",
+        "slug": "the-existence-trace-installer-a-dry-run-that-works-and-three-ways-to-trip-it",
+        "author": "Ming",
+        "source": "devto_ai",
+        "published": "Mon, 16 Nov 2026 15:10:22 +0000",
+        "description": "I maintain two small open-source CLIs for working with AI agents. aisync is a local CLI for Multi-Agent Context Management, Coordination & Observability acro...",
+        "keywords": "run, install, dry, github, bash, existence, trace, python",
+        "generated": "2026-11-16T15:22:11.711039",
+        "file": "the-existence-trace-installer-a-dry-run-that-works-and-three-ways-to-trip-it.md"
     },
     {
         "title": "Amiga Unix, Again",
@@ -44607,6 +44695,17 @@
         "keywords": "gemini, text, speech, url, https, models, comments, says",
         "generated": "2026-09-23T16:33:33.331560",
         "file": "gemini-38-text-to-speech-says-hello.md"
+    },
+    {
+        "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+        "slug": "microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix",
+        "author": "Bender",
+        "source": "hackernews",
+        "published": "Mon, 16 Nov 2026 13:18:22 +0000",
+        "description": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL...",
+        "keywords": "microsoft, blames, monster, email, outage, software, defect, introduced",
+        "generated": "2026-11-16T15:22:11.705157",
+        "file": "microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix.md"
     },
     {
         "title": "React App Works Locally but Not on Vercel? A Production Checklist",
@@ -68742,6 +68841,17 @@
         "file": "blizzard-workers-win-historic-union-contract.md"
     },
     {
+        "title": "How We Built a Remote 10-Tool Streamable HTTP MCP Server and 13.3 KiB Link-in-Bio in Go",
+        "slug": "how-we-built-a-remote-10-tool-streamable-http-mcp-server-and-133-kib-link-in-bio-in-go",
+        "author": "Giuliano Ribeiro",
+        "source": "devto_webdev",
+        "published": "Mon, 16 Nov 2026 15:11:20 +0000",
+        "description": "Public link-in-bio pages are structurally simple documents: an avatar, a name, a contact bar, and 5 to 20 links. Yet most commercial bio-link platforms rende...",
+        "keywords": "mcp, json, linq, https, http, link, public, kib",
+        "generated": "2026-11-16T15:22:11.708725",
+        "file": "how-we-built-a-remote-10-tool-streamable-http-mcp-server-and-133-kib-link-in-bio-in-go.md"
+    },
+    {
         "title": "AI Tool That Turns Tweets Into Viral Videos: The 2025 Operator Playbook",
         "slug": "ai-tool-that-turns-tweets-into-viral-videos-the-2025-operator-playbook",
         "author": "aarhamforensics",
@@ -70049,6 +70159,17 @@
         "keywords": "data, analytics, business, analyst, what, why, skills, can",
         "generated": "2026-06-25T09:33:20.210394",
         "file": "what-is-data-analytics-and-why-is-it-one-of-the-most-in-demand-skills-in-2026.md"
+    },
+    {
+        "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
+        "slug": "soldier-files-whistleblower-complaint-over-iran-strike-that-killed-6-us-troops",
+        "author": "firefax",
+        "source": "hackernews",
+        "published": "Mon, 16 Nov 2026 14:17:53 +0000",
+        "description": "Article URL: https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint Comments URL: https://news.ycombinator.com/item?id=50517838 Points:...",
+        "keywords": "soldier, whistleblower, complaint, url, https, com, comments, files",
+        "generated": "2026-11-16T15:22:11.704448",
+        "file": "soldier-files-whistleblower-complaint-over-iran-strike-that-killed-6-us-troops.md"
     },
     {
         "title": "Paper2Code: Automating Code Generation from Scientific Papers in MachineLearning",
@@ -73006,6 +73127,17 @@
         "keywords": "hash, json, record, response, you, prompt, chain, model",
         "generated": "2026-08-17T18:47:04.448616",
         "file": "hash-chain-your-free-model-responses-before-you-trust-them.md"
+    },
+    {
+        "title": "Inventory Sync Before Black Friday: 5 Edge Cases Your Tests Miss",
+        "slug": "inventory-sync-before-black-friday-5-edge-cases-your-tests-miss",
+        "author": "API2CartOfficial",
+        "source": "devto_python",
+        "published": "Mon, 16 Nov 2026 14:59:32 +0000",
+        "description": "Last Black Friday, US shoppers spent $11.8 billion online in a single day, according to Adobe Analytics. That's roughly $8.2 million per minute, on average a...",
+        "keywords": "inventory, your, stock, order, shopify, channel, sku, every",
+        "generated": "2026-11-16T15:22:11.707654",
+        "file": "inventory-sync-before-black-friday-5-edge-cases-your-tests-miss.md"
     },
     {
         "title": "Small Programming Tricks",
@@ -76627,6 +76759,17 @@
         "file": "the-best-cosmetic-box-packaging-trends-tactile-engineering-mono-material-eco-luxury-and-interactive-unboxing.md"
     },
     {
+        "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+        "slug": "show-hn-coral-open-source-gateway-where-agents-write-their-own-tools",
+        "author": "jcs",
+        "source": "hackernews",
+        "published": "Mon, 16 Nov 2026 14:14:51 +0000",
+        "description": "Hi HN, I'm James, one of the co-founders of Coral. Coral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. A...",
+        "keywords": "tools, coral, custom, agents, can, agent, https, com",
+        "generated": "2026-11-16T15:22:11.704761",
+        "file": "show-hn-coral-open-source-gateway-where-agents-write-their-own-tools.md"
+    },
+    {
         "title": "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
         "slug": "bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas",
         "author": "almog",
@@ -77584,6 +77727,17 @@
         "file": "the-12-most-common-causes-of-website-downtime-and-how-to-detect-each-one.md"
     },
     {
+        "title": "One Query, Six Ranked Lists, One Answer: Tuning Rank Fusion for Multilingual Search",
+        "slug": "one-query-six-ranked-lists-one-answer-tuning-rank-fusion-for-multilingual-search",
+        "author": "dqj",
+        "source": "devto_ai",
+        "published": "Mon, 16 Nov 2026 15:12:14 +0000",
+        "description": "How one constant in Reciprocal Rank Fusion lets a confident top match stand out — and why the right value depends on how correlated your retrievers are. When...",
+        "keywords": "rank, lists, one, list, query, page, first, how",
+        "generated": "2026-11-16T15:22:11.710216",
+        "file": "one-query-six-ranked-lists-one-answer-tuning-rank-fusion-for-multilingual-search.md"
+    },
+    {
         "title": "The limit you configured is not the limit it applies",
         "slug": "the-limit-you-configured-is-not-the-limit-it-applies",
         "author": "Cleiton Augusto Correa Bezerra",
@@ -77858,6 +78012,17 @@
         "keywords": "educational, digital, communication, academic, email, learning, accounts, students",
         "generated": "2026-07-23T14:15:19.715680",
         "file": "buying-verified-edu-mail-accounts-a-practical-guide.md"
+    },
+    {
+        "title": "How to Clean Any Messy CSV or Excel Export Without Opening Excel (One Evening)",
+        "slug": "how-to-clean-any-messy-csv-or-excel-export-without-opening-excel-one-evening",
+        "author": "Quill Datafix",
+        "source": "devto_python",
+        "published": "Mon, 16 Nov 2026 15:05:39 +0000",
+        "description": "Every data pipeline I've inherited starts the same way: someone exported a CSV from a tool that shall remain nameless, and the export is a mess. Not a hard m...",
+        "keywords": "column, you, str, csv, excel, columns, clean, same",
+        "generated": "2026-11-16T15:22:11.705423",
+        "file": "how-to-clean-any-messy-csv-or-excel-export-without-opening-excel-one-evening.md"
     },
     {
         "title": "The cost YAGNI was never about",
@@ -102347,6 +102512,17 @@
         "file": "php2shell-cve-2026-109618-cve-2026-109619-how-to-check-and-patch-your-php-version.md"
     },
     {
+        "title": "How I built Bezel Charts: sixteen SVG charts for the web and Python, with zero dependencies",
+        "slug": "how-i-built-bezel-charts-sixteen-svg-charts-for-the-web-and-python-with-zero-dependencies",
+        "author": "Shaz M",
+        "source": "devto_python",
+        "published": "Mon, 16 Nov 2026 15:02:53 +0000",
+        "description": "I wanted a chart in a GitHub README. Not a screenshot, but a real chart that looked as good as the rest of the page. That small wish turned into Bezel Charts...",
+        "keywords": "chart, charts, you, bezel, python, npm, what, svg",
+        "generated": "2026-11-16T15:22:11.705870",
+        "file": "how-i-built-bezel-charts-sixteen-svg-charts-for-the-web-and-python-with-zero-dependencies.md"
+    },
+    {
         "title": "Batch LLM Jobs: 4 Costs to Compare Against Realtime API Work",
         "slug": "batch-llm-jobs-4-costs-to-compare-against-realtime-api-work",
         "author": "ElowenVeil9067",
@@ -105746,6 +105922,17 @@
         "file": "cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration.md"
     },
     {
+        "title": "Our wallet audit flagged 40 of 40 Polymarket wallets, but missed the approval all 40 had",
+        "slug": "our-wallet-audit-flagged-40-of-40-polymarket-wallets-but-missed-the-approval-all-40-had",
+        "author": "BotCookery",
+        "source": "devto_python",
+        "published": "Mon, 16 Nov 2026 15:02:49 +0000",
+        "description": "Originally published on BotCookery , free build recipes for AI-built trading and prediction-market bots. Written with AI assistance. Every number below is fr...",
+        "keywords": "wallet, audit, key, wallets, bot, one, approvals, live",
+        "generated": "2026-11-16T15:22:11.706484",
+        "file": "our-wallet-audit-flagged-40-of-40-polymarket-wallets-but-missed-the-approval-all-40-had.md"
+    },
+    {
         "title": "PCAD-31-02 in Code: Validation Checks and Safe sqlite3 Queries Behind 30 of the 48 Items",
         "slug": "pcad-31-02-in-code-validation-checks-and-safe-sqlite3-queries-behind-30-of-the-48-items",
         "author": "Palak Mazumdar",
@@ -108846,6 +109033,17 @@
         "keywords": "url, https, comments, where, did, old, web, followed",
         "generated": "2026-08-13T19:08:38.056351",
         "file": "where-did-the-old-web-go-we-followed-657607-links-to-find-out.md"
+    },
+    {
+        "title": "When I tell Cursor just make it work, this rule stops the shortcut from rotting",
+        "slug": "when-i-tell-cursor-just-make-it-work-this-rule-stops-the-shortcut-from-rotting",
+        "author": "ShipStack",
+        "source": "devto_webdev",
+        "published": "Mon, 16 Nov 2026 15:12:13 +0000",
+        "description": "Cursor is very obedient about the word quick. If I say just make it work, it will often make something work by skipping the parts that are annoying: the ...",
+        "keywords": "not, debt, when, say, cursor, rule, cut, what",
+        "generated": "2026-11-16T15:22:11.708073",
+        "file": "when-i-tell-cursor-just-make-it-work-this-rule-stops-the-shortcut-from-rotting.md"
     },
     {
         "title": "OpenAI Halts Astra, Rushes AI Safety In Model Escape",
@@ -117457,6 +117655,17 @@
         "file": "outwards-i-build-app-that-help-you-secure-your-company-by-finding-exposed-data.md"
     },
     {
+        "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+        "slug": "what-the-fuck-is-w2rt6byl5nf1opmc-acom",
+        "author": "dverlaeckt80",
+        "source": "hackernews",
+        "published": "Mon, 16 Nov 2026 13:51:38 +0000",
+        "description": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 182 # Comments: 51",
+        "keywords": "com, url, https, comments, what, fuck, article, jack",
+        "generated": "2026-11-16T15:22:11.704897",
+        "file": "what-the-fuck-is-w2rt6byl5nf1opmc-acom.md"
+    },
+    {
         "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
         "slug": "sweet-jeebus-macos-27-golden-gate-removes-the-dumb-icons-from-menu-items",
         "author": "epaga",
@@ -120436,6 +120645,17 @@
         "keywords": "comments, show, kvittas, expense, splitting, app, built, replace",
         "generated": "2026-11-03T13:55:05.589502",
         "file": "show-hn-kvittas-an-expense-splitting-app.md"
+    },
+    {
+        "title": "Un enlace con el nombre correcto también puede terminar en otra página",
+        "slug": "un-enlace-con-el-nombre-correcto-tambin-puede-terminar-en-otra-pgina",
+        "author": "jakhari",
+        "source": "devto_webdev",
+        "published": "Mon, 16 Nov 2026 15:06:32 +0000",
+        "description": "En una revisión de código me gustaría que alguien copiara un enlace del pie de página y lo abriera en una pestaña nueva. Puede parecer una tarea aburrida. Si...",
+        "keywords": "que, una, enlace, puede, con, otra, texto, desde",
+        "generated": "2026-11-16T15:22:11.709053",
+        "file": "un-enlace-con-el-nombre-correcto-tambin-puede-terminar-en-otra-pgina.md"
     },
     {
         "title": "Best Python Training Institute in Rohini | Python Course with Certification & Placement",
