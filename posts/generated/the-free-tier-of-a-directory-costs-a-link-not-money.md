@@ -1,0 +1,34 @@
+---
+title: "The free tier of a directory costs a link, not money"
+slug: "the-free-tier-of-a-directory-costs-a-link-not-money"
+author: "Copero"
+source: "devto_webdev"
+published: "Wed, 18 Nov 2026 15:14:35 +0000"
+description: "The pricing page said Free. The button said Submit. Then, one screen later, after the logo upload and the description and the category picker, the page said ..."
+keywords: "free, not, link, one, badge, page, listing, you"
+generated: "2026-11-18T15:25:47.040890"
+---
+
+# The free tier of a directory costs a link, not money
+
+## Overview
+
+The pricing page said Free. The button said Submit. Then, one screen later, after the logo upload and the description and the category picker, the page said this: A backlink to our site is required (on your homepage or footer). That is not a price, so it was not listed under pricing. It is a trade: a permanent link from my site to theirs, in exchange for a listing. And it is the single most common thing hiding behind the word "free" in this space. I went through my ledger to count how common. Of 147 records, 23 listings involved a reciprocal badge . Nineteen of those said so explicitly during submission — the badge had to be deployed and verified before the form would accept the listing. What the trade actually returns Here is where it gets uncomfortable. I could check ten of those twenty-three today. Results: Outcome Count What it means Live, followed anchor 3 The trade worked Live, rel="nofollow" 4 I paid a link and got no link Page live, no anchor to my domain 2 I paid a link and got a page that mentions me Page 404 1 I paid a link and got nothing So the badge is not a scam — three of my eight followable listings came with one, and I would take those three again. The problem is different: the pricing page cannot tell you which column you will land in . You find out after you have already put their badge in your footer. And notice what the failure modes look like from the outside. All four nofollow rows are pages that load fine, look complete, and would pass any "is my listing live?" check on the directory's own dashboard. One of them says so in the plan comparison — the free plan provides one nofollow link. One is on a dashboard that also states free pages stay noindex until a paid boost is purchased. The other two just return nofollow with no explanation anywhere. The dashboard says "live" in all four cases, and it is telling the truth. The link is just not the thing that is live. The badge is rent, not a purchase The part I did not expect: on at least one listing, the follow is conditional on the badge staying up. The record says the page links to my site with a followed anchor while the badge remains live . That changes what the badge is. It is not a one-time entry fee, it is a subscription paid in link equity, and the billing continues for as long as the listing exists. If I ever remove the badge — to clean up my footer, or because I stop caring about that directory — the follow goes with it, and I will not get an email about it. Which means the real cost of a "free" badge listing is not one link. It is one link, indefinitely, plus a maintenance dependency where the other side holds the switch. The market prices this, and the price is public The best evidence that the badge is a product is that you can buy your way out of it, and the sites say so on the same page: One directory's Lite tier exists mainly to remove the badge requirement — the tier comparison's whole differentiator is the line "no backlink required". It costs $39 . Another offers a featured placement at $99 ; the free queue is 29 days and the free links are nofollow . A third emailed a 50% discount to skip the badge after I had deployed it and the listing was still pending. A fourth redirected a completed free submission straight to a payment page, and the form then stalled with a disabled submit button. No receipt, no listing — the free path simply did not terminate. One paid tier starts at $19 . So the market has priced the badge at roughly $19–99 . That is a useful number for a reason that has nothing to do with buying it: it tells you what the site thinks a link from your footer is worth. If their own price list values it at $39, and the free tier asks for it instead of money, the free tier is not cheaper — it is a different currency. The second cost, briefly The time cost is real and I have written about it separately, so one line here: the same free tiers quoted me dates from November 2026 to April 2028, and one dashboard showed a queue of 1,193 products / 120 weeks. Money is the cheapest thing in this market. A $39 upgrade is a decision you make once. A 500-day queue plus a permanent footer link is a decision the other side keeps making for you. What I do before filling in a form now Search the page source for badge , footer , reciprocal , backlink . If the word appears, the free tier costs a link. This takes ten seconds and it is the whole check. Open an existing free listing on that site and read its anchor. If a game that is already listed has no outbound link — or a nofollow one — my listing will not either. This is the highest-value two minutes in the whole process. Decide whether the listing is worth a permanent footer link , not whether it is worth $0. Those are different questions and only one of them is about money. Record it as a link cost in the ledger, not as a free submission. If I do not write down that I gave something up, the next report says "23 free listings" and I will believe it. That last point is the one I keep relearning. A ledger that records only what I received — "submitted", "live" — hides the cost side completely. The badge rows look like wins in that ledger. Ten of them, checked, produced three links. The honest summary is not "free directories are bad". Three of my best listings are free. The honest summary is: free means priced in something other than money, and the thing it is priced in is the one asset you were trying to accumulate. I build Copero, a free browser football career game — no download, no account: https://copero.games/?utm_source=devto&utm_medium=blog&utm_campaign=backlink-2026-11 The counts above come from my own 147-record ledger; the 10 checked rows were fetched on 2026-11-18 and judged by page HTML ( robots , canonical , anchor rel ), not by any site's status badge.
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/copero_games/the-free-tier-of-a-directory-costs-a-link-not-money-4i9c
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
