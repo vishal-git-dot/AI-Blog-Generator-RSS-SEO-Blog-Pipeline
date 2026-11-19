@@ -3686,6 +3686,17 @@
         "file": "pyodide-ai.md"
     },
     {
+        "title": "SMS API Integration Explained — 4 Recovery Decisions for Server Monitoring Alerts",
+        "slug": "sms-api-integration-explained-4-recovery-decisions-for-server-monitoring-alerts",
+        "author": "tony chen",
+        "source": "devto_python",
+        "published": "Wed, 18 Nov 2026 23:29:36 +0000",
+        "description": "A property payment receipt should survive a worker restart without becoming a second message to the resident. Start with a durable receipt record, a stable s...",
+        "keywords": "receipt, payment, status, not, payload, recovery, message, identity",
+        "generated": "2026-11-19T00:06:06.931710",
+        "file": "sms-api-integration-explained-4-recovery-decisions-for-server-monitoring-alerts.md"
+    },
+    {
         "title": "Choose a Digital Marketing Agency in 2026 Checklist",
         "slug": "choose-a-digital-marketing-agency-in-2026-checklist",
         "author": "iopl social",
@@ -8909,6 +8920,17 @@
         "keywords": "url, https, com, news, comments, register, korea, first",
         "generated": "2026-07-01T09:59:55.956582",
         "file": "register-koreas-first-pc-se-8001-as-a-national-important-material.md"
+    },
+    {
+        "title": "Multi Location Website Design",
+        "slug": "multi-location-website-design",
+        "author": "Vareli Studio",
+        "source": "devto_webdev",
+        "published": "Thu, 19 Nov 2026 00:00:13 +0000",
+        "description": "Multi Location Website Design: A Comprehensive Architectural Breakdown As a principal frontend engineer and conversion architect, I have encountered numerous...",
+        "keywords": "location, specific, multi, design, forms, these, conversions, website",
+        "generated": "2026-11-19T00:06:06.934049",
+        "file": "multi-location-website-design.md"
     },
     {
         "title": "Build a Citation-Checked Research Report in Python with Evidence Graph Studio",
@@ -14422,6 +14444,17 @@
         "file": "mev-detection-with-ai-a-practical-guide.md"
     },
     {
+        "title": "I put my multi-model dispatch queue and its monthly spend beside the Claude Code chat. 1,330 lines, 37 ms.",
+        "slug": "i-put-my-multi-model-dispatch-queue-and-its-monthly-spend-beside-the-claude-code-chat-1330-lines-37-ms",
+        "author": "Zhuojun Li",
+        "source": "devto_ai",
+        "published": "Wed, 18 Nov 2026 23:46:12 +0000",
+        "description": "I plan in Claude Code and hand the implementation to other models through a small dispatcher of my own. An order runs anywhere from 2 minutes to 2.5 hours. M...",
+        "keywords": "not, command, one, pane, order, gpt, orders, what",
+        "generated": "2026-11-19T00:06:06.936406",
+        "file": "i-put-my-multi-model-dispatch-queue-and-its-monthly-spend-beside-the-claude-code-chat-1330-lines-37-ms.md"
+    },
+    {
         "title": "Dopamine Fracking",
         "slug": "dopamine-fracking",
         "author": "igmn",
@@ -16325,6 +16358,17 @@
         "file": "best-payroll-software-in-india-why-payroll-accuracy-is-a-business-problem-not-just-an-hr-problem.md"
     },
     {
+        "title": "We Need Smart People Who Give a Shit",
+        "slug": "we-need-smart-people-who-give-a-shit",
+        "author": "ExMachina73",
+        "source": "hackernews",
+        "published": "Wed, 18 Nov 2026 23:53:49 +0000",
+        "description": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points...",
+        "keywords": "need, smart, people, who, give, shit, url, https",
+        "generated": "2026-11-19T00:06:06.930391",
+        "file": "we-need-smart-people-who-give-a-shit.md"
+    },
+    {
         "title": "Your Hashed User IDs Are Still Personal Data Under GDPR",
         "slug": "your-hashed-user-ids-are-still-personal-data-under-gdpr",
         "author": "Mehwish Malik",
@@ -17071,6 +17115,17 @@
         "keywords": "new, homeownership, measure, puts, people, first, article, url",
         "generated": "2026-07-21T14:05:44.039062",
         "file": "new-us-homeownership-measure-puts-people-first.md"
+    },
+    {
+        "title": "base64로 감춘 위험 명령, AI 안전 관문은 알아볼까: 난독화 셸 안전도 리더보드 20개 모델 실측",
+        "slug": "base64-ai-20",
+        "author": "Vidraft_lab",
+        "source": "devto_ai",
+        "published": "Wed, 18 Nov 2026 23:51:01 +0000",
+        "description": "TL;DR 위험한 셸 명령을 base64나 hex로 감싸면 AI 에이전트의 안전장치가 알아볼까요? 비드래프트가 운영하는 「난독화 셸 안전도 리더보드」는 이 질문을 비공개 평가 세트 221개 명령, 3회 다수결, AI 심판 없음으로 잽니다. 균형정확도 1위는 GPT-6.1 Terra...",
+        "keywords": "final, bench, gate, deepseek, flash, obfuscated, shell, kimi",
+        "generated": "2026-11-19T00:06:06.935626",
+        "file": "base64-ai-20.md"
     },
     {
         "title": "SimCity, but with Permits",
@@ -19293,6 +19348,17 @@
         "keywords": "media, manager, your, one, every, platform, reports, back",
         "generated": "2026-10-08T23:09:13.582940",
         "file": "ni-your-ai-media-manager.md"
+    },
+    {
+        "title": "A local AI agent whose citations cannot be invented",
+        "slug": "a-local-ai-agent-whose-citations-cannot-be-invented",
+        "author": "Gonzalo Blasco",
+        "source": "devto_python",
+        "published": "Wed, 18 Nov 2026 23:56:36 +0000",
+        "description": "Most RAG demos look great until the model invents a page number. This one refuses instead. I built a local-first agent that answers questions about contracts...",
+        "keywords": "not, model, one, doesn, code, can, citations, problem",
+        "generated": "2026-11-19T00:06:06.931125",
+        "file": "a-local-ai-agent-whose-citations-cannot-be-invented.md"
     },
     {
         "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
@@ -21823,6 +21889,17 @@
         "keywords": "you, python, code, astmize, mobile, but, developer, frontend",
         "generated": "2026-06-11T10:47:52.346263",
         "file": "i-built-an-ai-powered-python-to-c-transpiler-entirely-from-my-phone-here-is-how-and-why.md"
+    },
+    {
+        "title": "An MVP is not version 1 with fewer features",
+        "slug": "an-mvp-is-not-version-1-with-fewer-features",
+        "author": "CJDARKLORD",
+        "source": "devto_webdev",
+        "published": "Wed, 18 Nov 2026 23:58:14 +0000",
+        "description": "An MVP is not version 1 with fewer features. It is the smallest thing that answers one question: will anyone use this? Most teams build the opposite. They ...",
+        "keywords": "mvp, not, one, will, what, scenario, weeks, who",
+        "generated": "2026-11-19T00:06:06.934493",
+        "file": "an-mvp-is-not-version-1-with-fewer-features.md"
     },
     {
         "title": "Before you run the code your AI agent wrote, check these five things",
@@ -38295,6 +38372,17 @@
         "file": "the-developers-guide-to-data-pipeline-automation-beyond-cron-jobs.md"
     },
     {
+        "title": "SaaS Transactional SMS Alerts API — Order Recovery After Seller Onboarding",
+        "slug": "saas-transactional-sms-alerts-api-order-recovery-after-seller-onboarding",
+        "author": "LukasSchmidt295",
+        "source": "devto_python",
+        "published": "Wed, 18 Nov 2026 23:13:11 +0000",
+        "description": "A retry can rescue a missed seller notification, but it can also send the same new-order alert twice. TL;DR: persist one notification identity per order, sep...",
+        "keywords": "sms, order, seller, notification, provider, request, contract, delivery",
+        "generated": "2026-11-19T00:06:06.932538",
+        "file": "saas-transactional-sms-alerts-api-order-recovery-after-seller-onboarding.md"
+    },
+    {
         "title": "Building API Development Services That Stay Reliable Under Real Production Traffic",
         "slug": "building-api-development-services-that-stay-reliable-under-real-production-traffic",
         "author": "Dixit Angiras",
@@ -46820,6 +46908,17 @@
         "file": "scientists-discover-guidance-system-for-migratory-songbirds.md"
     },
     {
+        "title": "How to update one dynamic zone block in Strapi 5 (without deleting the others)",
+        "slug": "how-to-update-one-dynamic-zone-block-in-strapi-5-without-deleting-the-others",
+        "author": "Joshua Bryan",
+        "source": "devto_ai",
+        "published": "Wed, 18 Nov 2026 23:59:14 +0000",
+        "description": "You have a Strapi 5 page built from a dynamic zone: a hero, a feature grid and a call to action. You want to change the hero's heading and nothing else. So y...",
+        "keywords": "strapi, you, blocks, draft, list, one, block, ids",
+        "generated": "2026-11-19T00:06:06.935365",
+        "file": "how-to-update-one-dynamic-zone-block-in-strapi-5-without-deleting-the-others.md"
+    },
+    {
         "title": "I built an open-source Bug Bounty scanner — automated XSS, CORS, CRLF, redirects and more",
         "slug": "i-built-an-open-source-bug-bounty-scanner-automated-xss-cors-crlf-redirects-and-more",
         "author": "N0wzy8",
@@ -48237,6 +48336,17 @@
         "keywords": "token, you, sitekey, turnstile, your, one, browser, get",
         "generated": "2026-09-07T21:22:00.859648",
         "file": "why-your-scraper-gets-a-403-on-cloudflare-turnstile-and-the-token-injection-fix.md"
+    },
+    {
+        "title": "PWA vs native app: when a web app is the right choice",
+        "slug": "pwa-vs-native-app-when-a-web-app-is-the-right-choice",
+        "author": "CJDARKLORD",
+        "source": "devto_webdev",
+        "published": "Wed, 18 Nov 2026 23:58:45 +0000",
+        "description": "PWA vs native app: when a web app is the right choice for a business Every client who says we need an app usually means one of three things: a website, a P...",
+        "keywords": "app, pwa, native, store, weeks, offline, real, website",
+        "generated": "2026-11-19T00:06:06.934306",
+        "file": "pwa-vs-native-app-when-a-web-app-is-the-right-choice.md"
     },
     {
         "title": "Hot Take: Algorithm books are a waste of time for most developers",
@@ -56113,6 +56223,17 @@
         "keywords": "not, row, source, quote, start, end, check, good",
         "generated": "2026-10-18T10:43:33.396401",
         "file": "check-source-spans-in-ai-extracted-task-lists.md"
+    },
+    {
+        "title": "Why Robots Will Probably Take Over the World (And Why I’m Okay With It)",
+        "slug": "why-robots-will-probably-take-over-the-world-and-why-im-okay-with-it",
+        "author": "Jaxson Krouse",
+        "source": "devto_ai",
+        "published": "Wed, 18 Nov 2026 23:46:05 +0000",
+        "description": "Let’s be real for a second: we are teaching machines how to code, write, drive, and do basically everything we used to do ourselves. At this rate, it feels l...",
+        "keywords": "they, robots, like, them, why, will, probably, take",
+        "generated": "2026-11-19T00:06:06.936542",
+        "file": "why-robots-will-probably-take-over-the-world-and-why-im-okay-with-it.md"
     },
     {
         "title": "Your Pipeline Is 19.6h Behind: Catching Robotics Sentiment Leads with Pulsebit",
@@ -66321,6 +66442,17 @@
         "file": "your-citys-smart-scooters-are-already-under-attack-here-is-how.md"
     },
     {
+        "title": "Gemini 4 Neon",
+        "slug": "gemini-4-neon",
+        "author": "yigitdemirag",
+        "source": "hackernews",
+        "published": "Wed, 18 Nov 2026 21:34:07 +0000",
+        "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/it...",
+        "keywords": "gemini, neon, url, https, models, comments, article, blog",
+        "generated": "2026-11-19T00:06:06.930766",
+        "file": "gemini-4-neon.md"
+    },
+    {
         "title": "Ubunye Engine Part 5: Building With an Agent. The Real Numbers",
         "slug": "ubunye-engine-part-5-building-with-an-agent-the-real-numbers",
         "author": "Thabang",
@@ -73833,6 +73965,17 @@
         "file": "your-bot-detection-works-perfectly-thats-the-problem.md"
     },
     {
+        "title": "Why educational system is broken",
+        "slug": "why-educational-system-is-broken",
+        "author": "makosst",
+        "source": "hackernews",
+        "published": "Wed, 18 Nov 2026 22:42:53 +0000",
+        "description": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 10",
+        "keywords": "url, https, com, comments, why, educational, system, broken",
+        "generated": "2026-11-19T00:06:06.930519",
+        "file": "why-educational-system-is-broken.md"
+    },
+    {
         "title": "How to Trim a Video With FFmpeg (and Prove the Cut Starts on the Right Frame)",
         "slug": "how-to-trim-a-video-with-ffmpeg-and-prove-the-cut-starts-on-the-right-frame",
         "author": "Voor AI",
@@ -74867,6 +75010,17 @@
         "file": "in-depth-analysis-hpes-free-software-initiative.md"
     },
     {
+        "title": "GTA6-like as a 942Kb UEFI bootable image",
+        "slug": "gta6-like-as-a-942kb-uefi-bootable-image",
+        "author": "bananaboy",
+        "source": "hackernews",
+        "published": "Wed, 18 Nov 2026 22:26:48 +0000",
+        "description": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 19 # Comments: 20",
+        "keywords": "uefi, url, https, com, comments, like, bootable, image",
+        "generated": "2026-11-19T00:06:06.930688",
+        "file": "gta6-like-as-a-942kb-uefi-bootable-image.md"
+    },
+    {
         "title": "Akamai _abck: the cookie that rewrites itself on every response",
         "slug": "akamai-abck-the-cookie-that-rewrites-itself-on-every-response",
         "author": "Lsr",
@@ -75613,6 +75767,17 @@
         "keywords": "browser, agent, agentic, browsers, what, agents, can, security",
         "generated": "2026-08-10T02:10:38.789496",
         "file": "ai-browser-agents-in-2026-agentic-browsers-and-their-security-problem.md"
+    },
+    {
+        "title": "GetDevEd - open source system design platform",
+        "slug": "getdeved-open-source-system-design-platform",
+        "author": "eno",
+        "source": "devto_webdev",
+        "published": "Wed, 18 Nov 2026 23:56:43 +0000",
+        "description": "I built something called getdeved, basically a playground to learn system design, very easily, step by step, you can check it out here: https://getdeved.gith...",
+        "keywords": "getdeved, system, design, step, open, source, platform, built",
+        "generated": "2026-11-19T00:06:06.934579",
+        "file": "getdeved-open-source-system-design-platform.md"
     },
     {
         "title": "DeepSeek peak/off-peak pricing update",
@@ -89580,6 +89745,17 @@
         "file": "cmo-comprobar-con-python-que-el-texto-censurado-ha-desaparecido-de-verdad-de-un-pdf.md"
     },
     {
+        "title": "How AI Music Generation Works",
+        "slug": "how-ai-music-generation-works",
+        "author": "Paragon",
+        "source": "devto_ai",
+        "published": "Wed, 18 Nov 2026 23:50:59 +0000",
+        "description": "By Paragon AI MAG — Series 4, Episode 1. Every fact below is checked against public sources; the numbers come from the sources named in the text. The band th...",
+        "keywords": "music, you, song, one, songs, suno, but, month",
+        "generated": "2026-11-19T00:06:06.936053",
+        "file": "how-ai-music-generation-works.md"
+    },
+    {
         "title": "Intellibooks AI Product Strategy Framework: A Human Analogy for Building Impactful AI Products",
         "slug": "intellibooks-ai-product-strategy-framework-a-human-analogy-for-building-impactful-ai-products",
         "author": "Intellibooks AI",
@@ -98088,6 +98264,17 @@
         "keywords": "edi, lifecycle, reconciliation, free, tool, codepackr, signup, reconcile",
         "generated": "2026-09-18T16:10:33.640843",
         "file": "bookmark-this-edi-lifecycle-reconciliation-free-no-signup.md"
+    },
+    {
+        "title": "Psychopath: An All-in-One Threat Emulation & Social Engineering Framework",
+        "slug": "psychopath-an-all-in-one-threat-emulation-social-engineering-framework",
+        "author": "Chadi",
+        "source": "devto_python",
+        "published": "Wed, 18 Nov 2026 23:16:25 +0000",
+        "description": "In the ever-evolving landscape of cybersecurity, red teams and security researchers constantly seek advanced tools to simulate realistic threat scenarios. Tr...",
+        "keywords": "psychopath, security, social, engineering, framework, osint, phishing, testing",
+        "generated": "2026-11-19T00:06:06.932026",
+        "file": "psychopath-an-all-in-one-threat-emulation-social-engineering-framework.md"
     },
     {
         "title": "Building Academic Writing Tools with LLMs: A Step-by-Step Guide",
@@ -112738,6 +112925,17 @@
         "file": "the-fedora-45-sausage-factory.md"
     },
     {
+        "title": "LLM Assisted Reverse Engineering",
+        "slug": "llm-assisted-reverse-engineering",
+        "author": "ioma8",
+        "source": "hackernews",
+        "published": "Wed, 18 Nov 2026 22:29:13 +0000",
+        "description": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 15 # Co...",
+        "keywords": "llm, assisted, reverse, engineering, url, https, com, comments",
+        "generated": "2026-11-19T00:06:06.930607",
+        "file": "llm-assisted-reverse-engineering.md"
+    },
+    {
         "title": "Opinion: AI Should Fill systemd Templates Instead of Writing Units",
         "slug": "opinion-ai-should-fill-systemd-templates-instead-of-writing-units",
         "author": "Avery Lin",
@@ -121142,6 +121340,17 @@
         "file": "over-181000-ai-meeting-recordings-left-wide-open-in-note-taking-app.md"
     },
     {
+        "title": "Measure barge-in stop time from a stereo call recording in Python",
+        "slug": "measure-barge-in-stop-time-from-a-stereo-call-recording-in-python",
+        "author": "Peter McKee",
+        "source": "devto_python",
+        "published": "Wed, 18 Nov 2026 23:08:51 +0000",
+        "description": "A caller rings the Harborview Inn and asks what they need to know about checking in. The front desk starts the full rundown: check-in from 3 pm, photo ID and...",
+        "keywords": "caller, agent, stop, recording, you, barge, each, self",
+        "generated": "2026-11-19T00:06:06.933794",
+        "file": "measure-barge-in-stop-time-from-a-stereo-call-recording-in-python.md"
+    },
+    {
         "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
         "slug": "apples-siri-ai-can-be-swapped-out-for-claude-chatgpt-code-shows",
         "author": "tosh",
@@ -126827,6 +127036,17 @@
         "keywords": "trylle, url, https, com, comments, show, next, gen",
         "generated": "2026-07-28T02:55:11.506272",
         "file": "show-hn-trylle-the-next-gen-git-platform-for-modern-teams.md"
+    },
+    {
+        "title": "The brief is the most expensive document in software",
+        "slug": "the-brief-is-the-most-expensive-document-in-software",
+        "author": "CJDARKLORD",
+        "source": "devto_webdev",
+        "published": "Wed, 18 Nov 2026 23:54:29 +0000",
+        "description": "The most expensive document in software is the one nobody wrote: the brief. A brief is a short description of the task and the context. Not a spec, not a pro...",
+        "keywords": "not, what, how, brief, you, scope, document, spec",
+        "generated": "2026-11-19T00:06:06.934759",
+        "file": "the-brief-is-the-most-expensive-document-in-software.md"
     },
     {
         "title": "Building a Production-Ready Async API Client in Python",
