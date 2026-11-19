@@ -1,0 +1,34 @@
+---
+title: "FastAPI: Customize Your OpenAPI Docs — Change the Title, Tag Endpoints, and Hide Internal Routes in 5 Minutes"
+slug: "fastapi-customize-your-openapi-docs-change-the-title-tag-endpoints-and-hide-internal-routes-in-5-minutes"
+author: "Linh Fish Dev"
+source: "devto_python"
+published: "Thu, 19 Nov 2026 15:13:08 +0000"
+description: "FastAPI generates Swagger UI and ReDoc documentation from your code automatically, but by default it carries the generic name “FastAPI” and lists every endpo..."
+keywords: "app, fastapi, docs, you, version, schema, your, openapi"
+generated: "2026-11-19T15:31:03.967853"
+---
+
+# FastAPI: Customize Your OpenAPI Docs — Change the Title, Tag Endpoints, and Hide Internal Routes in 5 Minutes
+
+## Overview
+
+FastAPI generates Swagger UI and ReDoc documentation from your code automatically, but by default it carries the generic name “FastAPI” and lists every endpoint — including internal ones you would rather not show. Just pass title, description, version, and openapi_tags to FastAPI(), add tags to each route, and set include_in_schema=False on the endpoints you want to hide, and the docs become tidy and on-brand right away. This works for any FastAPI project, with no extra library to install. The Problem When you create an app with a bare FastAPI(), the /docs page shows the title “FastAPI”, a default description, and version “0.1.0”. Every endpoint lands in one “default” group with no description, so readers have to guess what each route does. Worse, internal endpoints such as /admin/stats or /internal/health also show up in the public docs — anyone who opens /docs can see how the system works. Writing documentation by hand in a separate file takes effort and drifts out of sync with the code after a few edits. The Solution Pass metadata when you create the app, tag each route, and hide internal endpoints: from fastapi import FastAPI app = FastAPI ( title = "Shop API" , description = "Order management API for a demo store." , version = "1.2.0" , openapi_tags = [ { "name" : "orders" , "description" : "Create and look up orders." } , { "name" : "admin" , "description" : "Internal endpoints, for operations only." } , ] , ) @app . get ( "/orders" , tags = [ "orders" ] ) def list_orders ( ) : return [ { "id" : 1 , "total" : 250000 } ] @app . get ( "/admin/stats" , tags = [ "admin" ] , include_in_schema = False ) def admin_stats ( ) : return { "orders_today" : 42 } The first three parameters change the “face” of the docs on the /docs page. openapi_tags declares the groups up front with descriptions, and tags=[“orders”] on the decorator puts each endpoint in the right group. include_in_schema=False only hides the endpoint from the schema — the route still works normally, it just does not appear in the docs. When you need more — a company logo, real server URLs — override app.openapi with your own function: from fastapi . openapi . utils import get_openapi def custom_openapi ( ) : if app . openapi_schema : return app . openapi_schema schema = get_openapi ( title = app . title , version = app . version , description = app . description , routes = app . routes , ) schema [ "info" ] [ "x-logo" ] = { "url" : "https://example.com/logo.png" } schema [ "servers" ] = [ { "url" : "https://api.example.com" , "description" : "Production" } ] app . openapi_schema = schema return app . openapi_schema app . openapi = custom_openapi get_openapi() generates the standard schema just like the default — you only add the fields you need, then cache the result in app.openapi_schema so it is not regenerated on every request. In production, turn off Swagger UI and ReDoc entirely with docs_url=None and redoc_url=None: import os app = FastAPI ( docs_url = "/docs" if os . getenv ( "ENV" ) != "prod" else None , redoc_url = None , ) If you want to lock the schema file itself too, also set openapi_url=None. The API still works normally — there is just no public door left to view the docs through. Apply It to Your Project Apply this to your running API right now: set the title to the product name, keep the version in sync with your release version so readers know which version of the API they are reading about, and review your internal endpoints — health checks, admin stats, webhooks from third parties — and add include_in_schema=False to them. From then on, whenever you add a new endpoint, tag it right when you write the decorator, and the docs will stay tidy without periodic cleanups. Related Posts FastAPI: Write Custom Middleware to Measure Request Time and Log in 5 Minutes FastAPI: Configure CORS Correctly with CORSMiddleware in 5 Minutes FastAPI: Stop Password Leaks in Responses with response_model in 5 Minutes Frequently Asked Questions Does include_in_schema=False also turn off the endpoint? No. The endpoint still accepts requests and returns responses normally — it just disappears from /openapi.json and from the /docs page. This is a way to hide documentation, not a security measure — sensitive endpoints still need authentication as usual. Does changing the title and version affect clients generated from OpenAPI? Yes, but for the better. Client generators read the title and version from the schema, so a proper name and version help the generated client get the right package name and API version. Keep the version in sync with your real release version. Can I move /docs to a different path? Yes. Pass docs_url=”/documentation” when you create the app and Swagger UI moves to /documentation. Similarly, redoc_url changes the ReDoc path and openapi_url changes the schema JSON path. Does overriding app.openapi mean rewriting the whole schema? No. The get_openapi() function generates the full schema from your routes — you only add or edit a few fields and return it. Remember to cache the result in app.openapi_schema so each request to /openapi.json does not regenerate the schema from scratch. 💬 Have you tried this in your own project? If you hit an error or have a cleaner approach, leave a comment below — I read them all and will add the best ideas to the post. References FastAPI — Extending OpenAPI: https://fastapi.tiangolo.com/how-to/extending-openapi/ FastAPI — Metadata and Docs URLs: https://fastapi.tiangolo.com/tutorial/metadata/
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/linhfishdev/fastapi-customize-your-openapi-docs-change-the-title-tag-endpoints-and-hide-internal-routes-in-1hd9
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
