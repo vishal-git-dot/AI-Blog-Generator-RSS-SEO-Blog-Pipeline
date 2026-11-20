@@ -1,0 +1,34 @@
+---
+title: "Apify MCP tool cost: 10 live Actor definitions plus the tokens in their results"
+slug: "apify-mcp-tool-cost-10-live-actor-definitions-plus-the-tokens-in-their-results"
+author: "Philip Kirkbride"
+source: "devto_python"
+published: "Fri, 20 Nov 2026 23:43:30 +0000"
+description: "I enabled ten of our Apify Actors on the hosted MCP server and counted 27,797 reference tokens in their tool definitions. Then I pulled the first three rows ..."
+keywords: "tool, result, json, dataset, tools, mcp, run, actor"
+generated: "2026-11-20T23:51:31.226267"
+---
+
+# Apify MCP tool cost: 10 live Actor definitions plus the tokens in their results
+
+## Overview
+
+I enabled ten of our Apify Actors on the hosted MCP server and counted 27,797 reference tokens in their tool definitions. Then I pulled the first three rows from a real run of each Actor. The biggest response, from our rental scraper, took 7,434 tokens . Asking for the same rows with just the fields I needed cut that to 298 . For a Claude or Cursor workflow, those are two separate levers. The tool list determines what definitions are available to the client. The dataset request determines the size of the result it can pass to the model. Ten live tools, three rows each I ran each Actor and used get-dataset-items on its default dataset with limit=3 . Each call returned three rows at offset zero. The tool definitions came from one tools/list response with the ten named Actors enabled on https://mcp.apify.com . I used the current server and runs on November 18, 2026 UTC. Actor under automatic/ Run input in brief Tokens per tool definition Tokens per three-row MCP result companies-house-scraper Search for Tesco companies 2,049 1,259 crypto-fear-greed Three days with market data 2,063 1,656 crypto-funding-rates BTC, ETH and SOL on Hyperliquid 2,080 1,231 wikipedia-pageview-spikes English Wikipedia, November 15 2,434 2,081 youtube-search-scraper Search for SQLite tutorials 2,533 1,395 google-maps-places-scraper Coffee shops in London, Ontario 2,724 3,664 google-news-scraper Search for SQLite news 2,775 2,510 trustpilot-reviews-scraper Chewy reviews 3,279 3,348 treasury-yield-curve Daily nominal and real yields, November 9–13 3,526 6,483 inmuebles24-mx-scraper Apartment rentals in Polanco 4,341 7,434 The 27,797 figure counts the ten definitions together as a JSON array. The complete array, including the server's four shared run and storage tools, was 31,598 tokens. The Treasury response was larger than the reviews response in this sample. Its rows include rate and change fields across maturities, so a small row limit can still produce a large result. Same dataset, fewer fields On the Polanco run, I kept the dataset, offset, and limit the same, and requested fields="price,currency,totalAreaM2,bedrooms" . The full MCP result went from 7,434 to 298 tokens, a 96% reduction . The first listing still had null for total area and bedrooms. Projecting fields keeps the source values, including missing ones. If you're calculating price per m², ask for the area and currency as well as the price. Inmuebles24 Actor Field filter Rows Full MCP result tokens All fields 3 7,434 price,currency,totalAreaM2,bedrooms 3 298 Apply this in Claude or Cursor Use a workflow-specific Apify connection when you know the Actor you need. For example, https://mcp.apify.com?tools=automatic/inmuebles24-mx-scraper selects the rental Actor alongside shared run and storage tools. A smaller tool list reduces the definition payload available to a client that loads tools eagerly. For an exploratory session, broader discovery can still be useful. After the run, ask for a preview with the fields the task needs. For example, “Read three items from the run's default dataset with the fields price, currency, totalAreaM2, and bedrooms. Keep nulls. Show the unit and source currency.” If you need a calculation over the whole dataset, run it in code and pass the summary to the model. These are payload measurements with a common tokenizer. Your model's tokenization, tool loading, caching and handling of MCP results determine how much of that payload reaches the model and what it costs. The full result here includes both MCP text content and structured content, which carry overlapping data. Read the provider's actual usage for a billable token count. Count it yourself Capture the JSON-RPC response to tools/list and one response to tools/call for get-dataset-items . For an SSE response, use the JSON from the matching data: line. Save those JSON-RPC messages as tool-list.json and dataset-call.json . The response body to count is the inner result object, with the JSON-RPC envelope removed. The list and each definition are counted separately. import json from pathlib import Path import tiktoken encoding = tiktoken . get_encoding ( "cl100k_base" ) def count ( value ) : wire = json . dumps ( value , ensure_ascii = False , sort_keys = True , separators = ( "," , ":" ) ) return len ( encoding . encode_ordinary ( wire ) ) tools = json . loads ( Path ( "tool-list.json" ) . read_text ( ) ) [ "result" ] [ "tools" ] actors = [ tool for tool in tools if tool [ "name" ] . startswith ( "automatic--" ) ] print ( "Actor definitions:" , count ( actors ) , "All definitions:" , count ( tools ) ) for tool in actors : print ( tool [ "name" ] , count ( tool ) ) result = json . loads ( Path ( "dataset-call.json" ) . read_text ( ) ) [ "result" ] print ( "Dataset rows:" , len ( result [ "structuredContent" ] [ "items" ] ) ) print ( "MCP result tokens:" , count ( result ) ) Apify run IDs Actor Run ID Dataset ID Companies House qMSAU7AHq8TBKv3QV D5J9OQ69VVQ9LAuk9 Crypto Fear & Greed JflT8tJhN2Q27uRB9 I4iUWE2Og5DJEQHfP Crypto Funding Rates jdBx5FQjy2QYqYtqb 9VlUYZo17bxPcfN70 Wikipedia Pageview Spikes uay8F3LXeRbIdAYmD D24mOqRsFdiYVpZgI YouTube Search mJGdglij0uj3vQr0N ld4lCDerhQxhT3Z9T Google Maps Places b6tgsrLFToi5jMvGB sX7lng7ZWrvzrV70K Google News koGRDmJ8v34DOb8zu UbXzexhWkTd5oXe7v Trustpilot Reviews CUm7Cgt5c38UoGLso ZM9y1SWTCgLIHjrHu Treasury Yield Curve iTfAQZHtF5aCTa2Bb OYhE65XbI2uFZgMkl Inmuebles24 Mexico 1CzUe5PdPjy1dGdZM xKIJfQc3hMhxamIv3 Affiliate disclosure: The Apify Store link carries our referral code. If you sign up for a paid plan through it, ssh.autos may earn a commission at no cost to you. Originally published at ssh.autos .
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/kirkins/apify-mcp-tool-cost-10-live-actor-definitions-plus-the-tokens-in-their-results-2beg
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
