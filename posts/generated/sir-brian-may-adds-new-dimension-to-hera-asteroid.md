@@ -6,14 +6,14 @@ source: "hackernews"
 published: "Fri, 20 Nov 2026 23:19:44 +0000"
 description: "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: ..."
 keywords: "hera, sir, brian, may, adds, new, dimension, asteroid"
-generated: "2026-11-20T23:51:31.225468"
+generated: "2026-11-21T06:33:10.792037"
 ---
 
 # Sir Brian May adds new dimension to Hera asteroid
 
 ## Overview
 
-Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 4 # Comments: 0
+Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 79 # Comments: 17
 
 ## Key Insights
 
