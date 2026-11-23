@@ -1,0 +1,34 @@
+---
+title: "Who Plays Whom? Designing the Casting Step for a Multi-Person AI Body Swap"
+slug: "who-plays-whom-designing-the-casting-step-for-a-multi-person-ai-body-swap"
+author: "Peter's Lab"
+source: "devto_webdev"
+published: "Mon, 23 Nov 2026 06:47:59 +0000"
+description: "Most AI video demos show one person in the frame. Real short videos often have two or three: a duo dance, a trio routine, a skit with a friend in the backgro..."
+keywords: "person, photo, user, step, clip, not, one, swap"
+generated: "2026-11-23T06:53:29.698863"
+---
+
+# Who Plays Whom? Designing the Casting Step for a Multi-Person AI Body Swap
+
+## Overview
+
+Most AI video demos show one person in the frame. Real short videos often have two or three: a duo dance, a trio routine, a skit with a friend in the background. I build Memevibe , an AI body swap for short clips. You drop a clip and a photo, and the person in the clip is replaced with the person in the photo, while the scene, camera and sound stay as filmed. With one person in the clip there is nothing to design. With three, there is a question the product has to answer before anything renders: which photo replaces which person? This post is about that step. Why it is not a face swap problem A face swap tool can get away with "pick a face in the frame". Body swap replaces the whole person: face, hair, build and outfit all come from the photo. If the mapping is wrong, the user does not get a slightly off result. They get their friend's body dancing in the wrong position for the entire clip, and they have paid for it. There is no preview before a render, because the render is the expensive part. So the mapping has to be right the first time, and the user has to be confident that it is. Step 1: turn the clip into a cast list After upload, the clip is read and every person in it becomes a card. Each card has three things: a number that matches a marker on the frame a position, such as left, centre or right a short plain-language description, for example "brown hair tied back, white tank top, grey sweatpants" The description matters more than I expected. Position alone breaks down as soon as people move, and in a dance they swap places constantly. A number alone means nothing. "The one in the pink sweatshirt" is how a person actually identifies someone in a video. A simplified sketch of the shape (illustrative, not the production code): type PersonSlot = { id : number ; // matches the marker shown on the frame position : "left" | "centre" | "right" ; description : string ; // hair, top, bottoms photo ?: UploadedPhoto ; // undefined = keep as filmed } ; type Cast = { clipId : string ; slots : PersonSlot [ ] ; } ; Step 2: empty is a valid answer The key decision is in that optional photo field. A slot without a photo is not an error. It means "keep this person as filmed". This makes three use cases fall out of one model: replace only the lead and leave the others replace two out of three recast the whole group, one photo each The only rule is that at least one slot needs a photo before the render button is enabled. function canStart ( cast : Cast ) : boolean { return cast . slots . some ( ( slot ) => slot . photo !== undefined ) ; } I considered requiring a photo for every person. It would have been simpler to explain and it would have killed the most common case, which is one user who wants to be the lead in a group clip. Step 3: say what will not work before the user pays Some clips cannot be swapped well, and the casting step is the last cheap moment to say so. A person whose face never shows cannot be swapped. Back views and heavy motion blur give the model nothing to anchor a likeness to. When several people are being replaced, the higher tier keeps everyone steadier than the standard one. The interface says this on the cast list, next to the tier choice, not in a help page. Clips over 15 seconds only run on the top tier. The tier selector reflects that instead of letting the user pick something that will fail. The pattern is the same each time: a constraint of the model becomes a visible state in the UI at the point where the user can still change their mind. Step 4: the price follows the choices Tier, resolution and clip length decide the cost, and the number of credits is written on the start button. Change the tier and the button changes. I wrote about the billing side in an earlier post, so I will only repeat the principle: the user should never have to do arithmetic to know what a click will cost. Step 5: the render is a background job A render usually takes 3 to 6 minutes. That is too long to hold someone on a spinner, so the job is detached from the page: the user can leave, and the result shows up in a "My videos" list an email can be sent when it is done the original audio of the clip is put back under the generated video, so the output is ready to post if the render fails or the model's safety check stops it, the credits go back to the balance automatically That last point shapes the casting step too. Because a failed render costs the user nothing, the UI can warn about risky clips without blocking them outright. Consent is part of the cast list Body swap puts a real person into a video they did not film. Two rules are enforced at this step: the user confirms that each photo is of themselves or of someone who agreed to appear photos of celebrities and public figures are not accepted On the data side, photos and clips are passed to the video model through links that expire within an hour, are not used for training, and are deleted after 30 days. It would be easy to treat these as legal boilerplate. I think of them as part of the same design problem: the casting step is where a person's likeness gets assigned, so it is where the rules about likeness belong. What I would do differently Likeness is still not guaranteed. The photo is the usual cause when a result looks off, and I surface photo advice too late in the flow. A check at upload time, before the user gets to casting, would save renders. I would also like the description on each card to be editable, for the cases where the reading of the clip gets a detail wrong and the user loses confidence in the mapping. If you have built a flow where users map inputs to detected people or objects, I am curious how you handled identification. Numbers, thumbnails, descriptions, or something else?
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/peterslab/who-plays-whom-designing-the-casting-step-for-a-multi-person-ai-body-swap-4jl8
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
