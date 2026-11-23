@@ -1265,6 +1265,17 @@
         "file": "essential-guide-to-buying-aged-and-pva-gmail-accounts.md"
     },
     {
+        "title": "How Is Weight Trend Actually Calculated? Build a Weight Trend Line in JavaScript (EMA, Missing Days, Lag)",
+        "slug": "how-is-weight-trend-actually-calculated-build-a-weight-trend-line-in-javascript-ema-missing-days-lag",
+        "author": "Charlotte Nelson",
+        "source": "devto_webdev",
+        "published": "Mon, 23 Nov 2026 23:33:37 +0000",
+        "description": "Is it the average of the last 10 days? 3 weeks? I have looked and can't find an answer for this. That is the whole post. Someone on r/MacroFactor asked Do...",
+        "keywords": "day, trend, weight, average, const, days, you, weigh",
+        "generated": "2026-11-23T23:39:37.003784",
+        "file": "how-is-weight-trend-actually-calculated-build-a-weight-trend-line-in-javascript-ema-missing-days-lag.md"
+    },
+    {
         "title": "Turning Real-World Maps Into Minecraft Worlds With Arnis",
         "slug": "turning-real-world-maps-into-minecraft-worlds-with-arnis",
         "author": "Arnis",
@@ -3421,6 +3432,17 @@
         "file": "a-free-python-script-to-audit-your-sites-on-page-seo-titles-meta-h1s-broken-links.md"
     },
     {
+        "title": "Freeing the iPod Nano 5G",
+        "slug": "freeing-the-ipod-nano-5g",
+        "author": "rpm_conservatio",
+        "source": "hackernews",
+        "published": "Mon, 23 Nov 2026 23:03:13 +0000",
+        "description": "Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd Comments URL: https://news.ycombinator.com/item?id=50620721 Points: 3 # Comments: 0",
+        "keywords": "url, https, com, comments, freeing, ipod, nano, article",
+        "generated": "2026-11-23T23:39:36.999736",
+        "file": "freeing-the-ipod-nano-5g.md"
+    },
+    {
         "title": "I built a RAG assistant, then found out my architecture change made it worse",
         "slug": "i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse",
         "author": "Youssef Elsafty",
@@ -3661,6 +3683,17 @@
         "keywords": "three, zones, drafted, docs, linter, enforces, them, liquid",
         "generated": "2026-09-14T21:41:20.588143",
         "file": "three-zones-for-ai-drafted-docs-and-a-linter-that-enforces-them.md"
+    },
+    {
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "slug": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange",
+        "author": "shaunpud",
+        "source": "hackernews",
+        "published": "Mon, 23 Nov 2026 22:32:29 +0000",
+        "description": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 58 # Comments: 27",
+        "keywords": "replacement, microsoft, exchange, url, https, comments, stalwart, now",
+        "generated": "2026-11-23T23:39:37.000020",
+        "file": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange.md"
     },
     {
         "title": "AI-Driven Exploitation: The Rise of ARTEX AI and the Cost of LLMjacking",
@@ -7533,6 +7566,17 @@
         "keywords": "not, what, fable, work, gemini, second, did, opinion",
         "generated": "2026-08-17T12:53:34.362201",
         "file": "my-ai-assistant-did-not-love-getting-a-second-opinion.md"
+    },
+    {
+        "title": "Building an SMM panel API client that never loses money",
+        "slug": "building-an-smm-panel-api-client-that-never-loses-money",
+        "author": "Talon Panel",
+        "source": "devto_python",
+        "published": "Mon, 23 Nov 2026 23:24:53 +0000",
+        "description": "Money bugs in API clients are rarely dramatic. Nobody's bank account empties in one line of code. What happens is quieter: a retry after a timeout creates a ...",
+        "keywords": "not, panel, balance, order, retry, you, api, client",
+        "generated": "2026-11-23T23:39:37.002577",
+        "file": "building-an-smm-panel-api-client-that-never-loses-money.md"
     },
     {
         "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
@@ -15114,6 +15158,17 @@
         "file": "7-ai-bots-to-earn-3000month-on-fiverr-june-2026.md"
     },
     {
+        "title": "Reading PDFs with no extractable text from a glyph table: AI drafts it once, then every run is free and identical",
+        "slug": "reading-pdfs-with-no-extractable-text-from-a-glyph-table-ai-drafts-it-once-then-every-run-is-free-and-identical",
+        "author": "YMori",
+        "source": "devto_python",
+        "published": "Mon, 23 Nov 2026 23:31:09 +0000",
+        "description": "When I analyze statistics as a hobby, the source numbers are often published only as PDFs from government offices: monthly reports that come out in the same ...",
+        "keywords": "table, same, made, glyph, only, not, every, character",
+        "generated": "2026-11-23T23:39:37.001457",
+        "file": "reading-pdfs-with-no-extractable-text-from-a-glyph-table-ai-drafts-it-once-then-every-run-is-free-and-identical.md"
+    },
+    {
         "title": "Three ways a sync job reports success while reading nothing",
         "slug": "three-ways-a-sync-job-reports-success-while-reading-nothing",
         "author": "Jonas Francisco de Lima Filho",
@@ -21547,6 +21602,17 @@
         "keywords": "auth, supabase, clerk, nextauth, free, your, import, mau",
         "generated": "2026-07-17T08:19:05.881457",
         "file": "auth-for-indie-hackers-2026-clerk-vs-supabase-auth-vs-nextauth-v5.md"
+    },
+    {
+        "title": "CrowdStrike vai adquirir Zscaler por US$ 43,9 bilhões",
+        "slug": "crowdstrike-vai-adquirir-zscaler-por-us-439-bilhes",
+        "author": "guiadeti",
+        "source": "devto_ai",
+        "published": "Mon, 23 Nov 2026 23:28:15 +0000",
+        "description": "Operação recorde de US$ 43,9 bilhões A CrowdStrike irá adquirir a Zscaler por US$ 43,9 bilhões, em uma operação recorde no mercado de cibersegurança. A concl...",
+        "keywords": "zscaler, crowdstrike, por, para, com, mais, adquirir, mercado",
+        "generated": "2026-11-23T23:39:37.007111",
+        "file": "crowdstrike-vai-adquirir-zscaler-por-us-439-bilhes.md"
     },
     {
         "title": "Small Company Rides Anthropic Hype With A $657K AI Bet, Not $800M",
@@ -32748,6 +32814,17 @@
         "file": "how-to-feed-a-dictator.md"
     },
     {
+        "title": "The Beauty of Artists' Studios",
+        "slug": "the-beauty-of-artists-studios",
+        "author": "promulgator",
+        "source": "hackernews",
+        "published": "Mon, 23 Nov 2026 22:48:33 +0000",
+        "description": "https://archive.ph/qcUxG Comments URL: https://news.ycombinator.com/item?id=50620530 Points: 5 # Comments: 0",
+        "keywords": "https, comments, beauty, artists, studios, archive, qcuxg, url",
+        "generated": "2026-11-23T23:39:36.999894",
+        "file": "the-beauty-of-artists-studios.md"
+    },
+    {
         "title": "A 10-Tick Dip Could Only Fail 600 Requests. Unbudgeted Retries Failed 4,543, and 2,989 After the Cause Had Cleared",
         "slug": "a-10-tick-dip-could-only-fail-600-requests-unbudgeted-retries-failed-4543-and-2989-after-the-cause-had-cleared",
         "author": "Devanshu Biswas",
@@ -38708,6 +38785,17 @@
         "keywords": "python, hello, one, beginner, programming, starting, journey, simple",
         "generated": "2026-10-25T15:52:15.455030",
         "file": "hello-python.md"
+    },
+    {
+        "title": "GPQA Diamond 198문항에서 187문항: 점수를 문항 수로 되돌려 읽는 허깅페이스 리더보드 1위 Darwin-180B-RSI",
+        "slug": "gpqa-diamond-198-187-1-darwin-180b-rsi",
+        "author": "Vidraft_lab",
+        "source": "devto_ai",
+        "published": "Mon, 23 Nov 2026 23:32:09 +0000",
+        "description": "TL;DR 허깅페이스 GPQA Diamond 공식 리더보드(2026-11-24 조회, 126개 등재)에서 Darwin-180B-RSI가 94.44점으로 1위 입니다. 2위는 Kimi-K3.1-Pro 94.20, 3위는 Kimi-K3 93.50입니다. GPQA Diamond는 198...",
+        "keywords": "darwin, gpqa, rsi, kimi, final, bench, diamond, https",
+        "generated": "2026-11-23T23:39:37.005649",
+        "file": "gpqa-diamond-198-187-1-darwin-180b-rsi.md"
     },
     {
         "title": "AI Agent Evaluation and Testing: How to Build an Eval Harness That Catches Failures Before Users Do",
@@ -64635,6 +64723,17 @@
         "file": "openai-vs-anthropic-how-cuas-are-killing-fragile-rpa-pipelines.md"
     },
     {
+        "title": "Every misread word had OCR confidence above 0.95. A second engine caught all three.",
+        "slug": "every-misread-word-had-ocr-confidence-above-095-a-second-engine-caught-all-three",
+        "author": "Christopher Helm",
+        "source": "devto_python",
+        "published": "Mon, 23 Nov 2026 23:25:15 +0000",
+        "description": "If you feed PDFs to an agent or a RAG pipeline, the question you need answered for every word is whether it could be wrong. OCR confidence does not answer it...",
+        "keywords": "pages, text, run, words, ctc, ocr, page, word",
+        "generated": "2026-11-23T23:39:37.002053",
+        "file": "every-misread-word-had-ocr-confidence-above-095-a-second-engine-caught-all-three.md"
+    },
+    {
         "title": "AI Observability and Evaluation: Catch Silent LLM Failures",
         "slug": "ai-observability-and-evaluation-catch-silent-llm-failures",
         "author": "TechEniac Services LLP",
@@ -73761,6 +73860,17 @@
         "file": "reading-ages-page-counts-and-why-the-text-draft-is-free-of-credits.md"
     },
     {
+        "title": "VP ≠ VNP over Every Field",
+        "slug": "vp-vnp-over-every-field",
+        "author": "mikeryan52",
+        "source": "hackernews",
+        "published": "Mon, 23 Nov 2026 22:09:10 +0000",
+        "description": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 133 # Comments: 90",
+        "keywords": "https, com, comments, vnp, over, every, field, paper",
+        "generated": "2026-11-23T23:39:37.000263",
+        "file": "vp-vnp-over-every-field.md"
+    },
+    {
         "title": "Story Short Script Formula: Hook, Escalation, Snap, Callback",
         "slug": "story-short-script-formula-hook-escalation-snap-callback",
         "author": "Dishant Singh",
@@ -74474,6 +74584,17 @@
         "keywords": "not, what, you, agent, agents, actually, when, can",
         "generated": "2026-09-02T03:54:59.713352",
         "file": "rag-is-not-the-answer-heres-what-developers-are-actually-switching-to.md"
+    },
+    {
+        "title": "How Analytix9 Scales Bottom-of-funnel Pipeline For B2b Saas Startups: How Analytix9 Engineers Profit",
+        "slug": "how-analytix9-scales-bottom-of-funnel-pipeline-for-b2b-saas-startups-how-analytix9-engineers-profit",
+        "author": "A9leads",
+        "source": "devto_webdev",
+        "published": "Mon, 23 Nov 2026 23:28:11 +0000",
+        "description": "How Analytix9 Scales Bottom-of-funnel Pipeline For B2b Saas Startups: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for how...",
+        "keywords": "our, how, spend, pipeline, account, conversion, tracking, scales",
+        "generated": "2026-11-23T23:39:37.005025",
+        "file": "how-analytix9-scales-bottom-of-funnel-pipeline-for-b2b-saas-startups-how-analytix9-engineers-profit.md"
     },
     {
         "title": "Building a Simple Algorithmic Trading Bot in Python: From Data to Signals",
@@ -76962,6 +77083,17 @@
         "file": "the-rise-and-fall-of-jev.md"
     },
     {
+        "title": "Approval fatigue: how to stop clicking yes all day without losing control",
+        "slug": "approval-fatigue-how-to-stop-clicking-yes-all-day-without-losing-control",
+        "author": "Lalla Asmaa Alaoui",
+        "source": "devto_ai",
+        "published": "Mon, 23 Nov 2026 23:26:56 +0000",
+        "description": "In short If every step asks, people stop reading the card, and the approval protects nothing. Sort steps into three groups: let them run, ask sometimes, keep...",
+        "keywords": "you, your, card, agent, commands, step, every, run",
+        "generated": "2026-11-23T23:39:37.007618",
+        "file": "approval-fatigue-how-to-stop-clicking-yes-all-day-without-losing-control.md"
+    },
+    {
         "title": "Add Security Scanning to Any GitHub Repo in 3 Lines of YAML",
         "slug": "add-security-scanning-to-any-github-repo-in-3-lines-of-yaml",
         "author": "Moon sehwan",
@@ -77719,6 +77851,17 @@
         "keywords": "document, javascript, elements, can, dom, heading, html, hello",
         "generated": "2026-09-03T16:11:07.917137",
         "file": "dom-in-javascript.md"
+    },
+    {
+        "title": "I built a free Formspree alternative that runs on Cloudflare's free plan",
+        "slug": "i-built-a-free-formspree-alternative-that-runs-on-cloudflares-free-plan",
+        "author": "Jacob Alcock",
+        "source": "devto_webdev",
+        "published": "Mon, 23 Nov 2026 23:29:23 +0000",
+        "description": "I got annoyed with form backends. Every static site needs a contact form, and the usual services give you 50 submissions a month before asking for money. So ...",
+        "keywords": "form, spam, you, free, email, own, cloudflare, your",
+        "generated": "2026-11-23T23:39:37.004137",
+        "file": "i-built-a-free-formspree-alternative-that-runs-on-cloudflares-free-plan.md"
     },
     {
         "title": "Data Hit: AI visibility and seasonality tools for SEOs and analysts",
@@ -83857,6 +84000,17 @@
         "file": "cs240-ai-cheating-retrospective.md"
     },
     {
+        "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+        "slug": "levent-alpge-comments-on-his-riemann-hypothesis-proof",
+        "author": "Dylan1312",
+        "source": "hackernews",
+        "published": "Mon, 23 Nov 2026 22:22:56 +0000",
+        "description": "Article URL: https://twitter.com/__alpoge__/status/2124987173439209561 Comments URL: https://news.ycombinator.com/item?id=50620250 Points: 33 # Comments: 24",
+        "keywords": "comments, url, https, com, levent, his, riemann, hypothesis",
+        "generated": "2026-11-23T23:39:37.000141",
+        "file": "levent-alpge-comments-on-his-riemann-hypothesis-proof.md"
+    },
+    {
         "title": "An Update on Orion for Linux and Windows",
         "slug": "an-update-on-orion-for-linux-and-windows",
         "author": "pentagrama",
@@ -86740,6 +86894,17 @@
         "file": "zenzizenzizenzic.md"
     },
     {
+        "title": "Hydra · Coeziune OM–IA v90: new DOI and the complete DOI registry (2026-11-23)",
+        "slug": "hydra-coeziune-omia-v90-new-doi-and-the-complete-doi-registry-2026-11-23",
+        "author": "Bogdan Stancu",
+        "source": "devto_ai",
+        "published": "Mon, 23 Nov 2026 23:31:37 +0000",
+        "description": "Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every e...",
+        "keywords": "zenodo, hydra, coeziune, organism, measured, state, snapshot, tehnic",
+        "generated": "2026-11-23T23:39:37.006893",
+        "file": "hydra-coeziune-omia-v90-new-doi-and-the-complete-doi-registry-2026-11-23.md"
+    },
+    {
         "title": "The Best Free Sports Data APIs in 2025: A Developer's Practical Review",
         "slug": "the-best-free-sports-data-apis-in-2025-a-developers-practical-review",
         "author": "Edge Lab",
@@ -89147,6 +89312,17 @@
         "keywords": "code, model, cleaner, isn, smarter, built, ios, apps",
         "generated": "2026-07-01T04:23:05.798575",
         "file": "cleaner-ai-code-isnt-a-smarter-model.md"
+    },
+    {
+        "title": "Track Amazon keyword rankings for your ASINs daily in Python, organic and sponsored",
+        "slug": "track-amazon-keyword-rankings-for-your-asins-daily-in-python-organic-and-sponsored",
+        "author": "Aurelix Solutions",
+        "source": "devto_python",
+        "published": "Mon, 23 Nov 2026 23:20:42 +0000",
+        "description": "An Amazon seller's daily question is short: for my main keywords, where do my products sit today, and did they move. Reading whole search results to find one...",
+        "keywords": "keyword, asin, amazon, run, daily, per, rank, apify",
+        "generated": "2026-11-23T23:39:37.002843",
+        "file": "track-amazon-keyword-rankings-for-your-asins-daily-in-python-organic-and-sponsored.md"
     },
     {
         "title": "Polling in System Design",
@@ -93723,6 +93899,17 @@
         "keywords": "video, can, voice, you, deepfakes, how, fake, what",
         "generated": "2026-07-10T19:40:31.694075",
         "file": "deepfakes-are-getting-scary-good-heres-how-to-catch-them-anyway.md"
+    },
+    {
+        "title": "Hydra · Coeziune OM–IA — the complete DOI registry (2026-11-23): 100 published works",
+        "slug": "hydra-coeziune-omia-the-complete-doi-registry-2026-11-23-100-published-works",
+        "author": "Bogdan Stancu",
+        "source": "devto_ai",
+        "published": "Mon, 23 Nov 2026 23:31:42 +0000",
+        "description": "Hydra-PSIE publishes its scientific record from a single registry, in the name of Coeziune OM–IA — the human–AI cohesion, our name, not one person's. Every e...",
+        "keywords": "zenodo, hydra, coeziune, organism, measured, state, snapshot, tehnic",
+        "generated": "2026-11-23T23:39:37.006261",
+        "file": "hydra-coeziune-omia-the-complete-doi-registry-2026-11-23-100-published-works.md"
     },
     {
         "title": "The Honest Guide to BTC Trading Strategies with XGBoost & ML: What Works, What Overfits (2026)",
@@ -105971,6 +106158,17 @@
         "keywords": "runtime, module, you, package, lambda, python, your, aws",
         "generated": "2026-07-24T08:34:24.201809",
         "file": "runtimeimportmoduleerror-cannot-find-module-a-triage-guide-for-lambda-runtime-upgrades.md"
+    },
+    {
+        "title": "2026 U.S. Electricity Rate Shock: Top 10 Most Expensive vs. Cheapest States (Open CSV & Python Analysis)",
+        "slug": "2026-us-electricity-rate-shock-top-10-most-expensive-vs-cheapest-states-open-csv-python-analysis",
+        "author": "Bara Elyazid",
+        "source": "devto_python",
+        "published": "Mon, 23 Nov 2026 23:31:57 +0000",
+        "description": "The 2026 U.S. electricity rate landscape reveals stark disparities, with Hawaii leading the charge at a staggering 42.8¢/kWh, nearly triple the national aver...",
+        "keywords": "electricity, kwh, monthly, rate, consumption, yrs, cost, state",
+        "generated": "2026-11-23T23:39:37.000698",
+        "file": "2026-us-electricity-rate-shock-top-10-most-expensive-vs-cheapest-states-open-csv-python-analysis.md"
     },
     {
         "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
@@ -120338,6 +120536,17 @@
         "file": "python-dataclasses-vs-pydantic-benchmarked-then-decided.md"
     },
     {
+        "title": "LKLJR",
+        "slug": "lkljr",
+        "author": "llocustjr-web",
+        "source": "devto_webdev",
+        "published": "Mon, 23 Nov 2026 23:29:17 +0000",
+        "description": "<!DOCTYPE html> Luke Kerry Locust Junior — Gemini ↔ Alexa Visual Sound Bridge <br> :root {<br> --bg: #05080f;<br> --surface: #0c1322;<br> --surface-2: #14203...",
+        "keywords": "var, border, div, const, color, button, gemini, background",
+        "generated": "2026-11-23T23:39:37.004682",
+        "file": "lkljr.md"
+    },
+    {
         "title": "Mojo 1.0 Is Here",
         "slug": "mojo-10-is-here",
         "author": "dayanruben",
@@ -124176,6 +124385,17 @@
         "keywords": "you, prompt, not, your, one, same, query, run",
         "generated": "2026-08-14T07:39:24.498389",
         "file": "build-your-own-ai-visibility-tracker-without-a-subscription.md"
+    },
+    {
+        "title": "Hoppscotch Team Workspace vs Local Files: Which to Use",
+        "slug": "hoppscotch-team-workspace-vs-local-files-which-to-use",
+        "author": "Jeff",
+        "source": "devto_webdev",
+        "published": "Mon, 23 Nov 2026 23:27:21 +0000",
+        "description": "Quick answer: A team workspace is a shared, role-controlled home for the same collections and environments, while local files live on one device and never re...",
+        "keywords": "you, shared, workspace, team, local, personal, one, device",
+        "generated": "2026-11-23T23:39:37.005347",
+        "file": "hoppscotch-team-workspace-vs-local-files-which-to-use.md"
     },
     {
         "title": "AI is creating a 'human premium' for art created by people",
