@@ -4422,6 +4422,17 @@
         "file": "brazil-elections-lula-secures-fourth-term-after-dramatic-comeback.md"
     },
     {
+        "title": "Making a dumb TV just smart enough",
+        "slug": "making-a-dumb-tv-just-smart-enough",
+        "author": "andai",
+        "source": "hackernews",
+        "published": "Tue, 24 Nov 2026 02:46:54 +0000",
+        "description": "Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/ Comments URL: https://news.ycombinator.com/item?id=50622934 Points: 67 # Comme...",
+        "keywords": "making, dumb, just, smart, enough, url, https, comments",
+        "generated": "2026-11-24T09:19:58.415401",
+        "file": "making-a-dumb-tv-just-smart-enough.md"
+    },
+    {
         "title": "Ad Creatives Compliance: Navigating the Maze of Ne…",
         "slug": "ad-creatives-compliance-navigating-the-maze-of-ne",
         "author": "Norvik Tech",
@@ -14190,6 +14201,17 @@
         "file": "a2a-vs-mcp-the-two-protocols-behind-every-serious-ai-agent-system.md"
     },
     {
+        "title": "2035 Came Early",
+        "slug": "2035-came-early",
+        "author": "setheron",
+        "source": "hackernews",
+        "published": "Tue, 24 Nov 2026 06:30:33 +0000",
+        "description": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 98 # Comments: 9",
+        "keywords": "came, early, url, https, com, comments, article, fzakaria",
+        "generated": "2026-11-24T09:19:58.415062",
+        "file": "2035-came-early.md"
+    },
+    {
         "title": "Your Pipeline Is 25.9h Behind: Catching Inflation Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-259h-behind-catching-inflation-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -14870,6 +14892,17 @@
         "keywords": "url, https, comments, honey, bee, colony, monitoring, via",
         "generated": "2026-07-23T03:24:20.276134",
         "file": "honey-bee-colony-monitoring-via-audio-iot-sensors-tensorgrams-and-rnns.md"
+    },
+    {
+        "title": "Drone Maps of Salvage Yards",
+        "slug": "drone-maps-of-salvage-yards",
+        "author": "uptrails",
+        "source": "hackernews",
+        "published": "Tue, 24 Nov 2026 04:00:28 +0000",
+        "description": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 76 # Comments: 27",
+        "keywords": "url, https, com, comments, drone, maps, salvage, yards",
+        "generated": "2026-11-24T09:19:58.415319",
+        "file": "drone-maps-of-salvage-yards.md"
     },
     {
         "title": "**Debugging Loops & Existential Dread: My Glorious Tuesday**",
@@ -15684,6 +15717,17 @@
         "keywords": "not, stop, help, each, other, what, become, url",
         "generated": "2026-09-27T04:44:48.251053",
         "file": "if-we-do-not-stop-to-help-each-other-what-do-we-become.md"
+    },
+    {
+        "title": "Signal #141: Agents Get Local Hands, Ruby and PHP Get Patched, and GitHub Closes a Trust Gap",
+        "slug": "signal-141-agents-get-local-hands-ruby-and-php-get-patched-and-github-closes-a-trust-gap",
+        "author": "The Dev Signal",
+        "source": "devto_ai",
+        "published": "Tue, 24 Nov 2026 09:16:43 +0000",
+        "description": "This week's cards cut across three layers of the stack: the local machine an agent can now reach, the runtimes and CI systems that are being hardened under o...",
+        "keywords": "your, you, ruby, can, php, now, mcp, verdict",
+        "generated": "2026-11-24T09:19:58.420669",
+        "file": "signal-141-agents-get-local-hands-ruby-and-php-get-patched-and-github-closes-a-trust-gap.md"
     },
     {
         "title": "I open-sourced the product that IS the business. Here's the cold logic.",
@@ -40204,6 +40248,17 @@
         "file": "hush-i-hid-10-emergencies-in-my-own-notifications-an-on-device-gemma-os-found-all-10.md"
     },
     {
+        "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+        "slug": "amd-epyc-zen-6-vs-zen-1-performance-121x-geo-mean-in-less-than-10-years",
+        "author": "zdw",
+        "source": "hackernews",
+        "published": "Tue, 24 Nov 2026 05:15:22 +0000",
+        "description": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 57 # Comments: 21",
+        "keywords": "amd, epyc, zen, url, https, com, comments, performance",
+        "generated": "2026-11-24T09:19:58.415225",
+        "file": "amd-epyc-zen-6-vs-zen-1-performance-121x-geo-mean-in-less-than-10-years.md"
+    },
+    {
         "title": "This Is Software’s iPhone Moment",
         "slug": "this-is-softwares-iphone-moment",
         "author": "Swift",
@@ -55006,6 +55061,17 @@
         "file": "making-ultrarag-retrieval-cheaper-with-stable-prompt-prefixes.md"
     },
     {
+        "title": "How I Built a Pre-Merge SSR SEO Audit Gate for Next.js 16 Content Pages",
+        "slug": "how-i-built-a-pre-merge-ssr-seo-audit-gate-for-nextjs-16-content-pages",
+        "author": "Felix M",
+        "source": "devto_webdev",
+        "published": "Tue, 24 Nov 2026 09:13:18 +0000",
+        "description": "When you ship programmatic or template-driven content pages in Next.js, next build and ESLint will happily pass while your pages quietly fail in Google Searc...",
+        "keywords": "pages, next, merge, every, raw, html, page, our",
+        "generated": "2026-11-24T09:19:58.418414",
+        "file": "how-i-built-a-pre-merge-ssr-seo-audit-gate-for-nextjs-16-content-pages.md"
+    },
+    {
         "title": "D-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
         "slug": "d-matrix-raptor-3d-dram-accelerator-for-generative-inference-at-hot-chips-2026",
         "author": "rbanffy",
@@ -58451,6 +58517,17 @@
         "keywords": "you, your, image, not, images, price, per, every",
         "generated": "2026-09-09T04:06:24.351080",
         "file": "pay-per-image-or-pay-every-month-for-ai-product-photo-edits-and-how-to-tell-which-one-fits-your-catalog.md"
+    },
+    {
+        "title": "Uptime Kuma 2 with uptime-kuma-api 1.x: socket timeouts and a dead healer",
+        "slug": "uptime-kuma-2-with-uptime-kuma-api-1x-socket-timeouts-and-a-dead-healer",
+        "author": "Christian Anderson",
+        "source": "devto_python",
+        "published": "Tue, 24 Nov 2026 09:00:17 +0000",
+        "description": "I've got a small Python script I call the healer. Every 5 minutes it logs in to Uptime Kuma, asks which monitors are down, and tries to fix them. If a monito...",
+        "keywords": "kuma, down, had, one, out, api, healer, every",
+        "generated": "2026-11-24T09:19:58.417138",
+        "file": "uptime-kuma-2-with-uptime-kuma-api-1x-socket-timeouts-and-a-dead-healer.md"
     },
     {
         "title": "10 Best Websites for Web Design Inspiration in 2026",
@@ -71244,6 +71321,17 @@
         "file": "euro-office-first-version-of-the-open-source-web-office-is-here.md"
     },
     {
+        "title": "How we carry a prompt gallery into a React image editor",
+        "slug": "how-we-carry-a-prompt-gallery-into-a-react-image-editor",
+        "author": "Albert",
+        "source": "devto_webdev",
+        "published": "Tue, 24 Nov 2026 09:12:34 +0000",
+        "description": "A gallery thumbnail is a surprisingly ambiguous starting point for an image editor. Someone looking at a studio photo of a coffee cup might want the lighting...",
+        "keywords": "image, prompt, gallery, editor, someone, open, example, edit",
+        "generated": "2026-11-24T09:19:58.418809",
+        "file": "how-we-carry-a-prompt-gallery-into-a-react-image-editor.md"
+    },
+    {
         "title": "AI Compute Just Hit a Political Ceiling",
         "slug": "ai-compute-just-hit-a-political-ceiling",
         "author": "Max Quimby",
@@ -77963,6 +78051,17 @@
         "file": "learning-about-the-unix-time-sharing-system.md"
     },
     {
+        "title": "Rune: Rust VM for Emacs",
+        "slug": "rune-rust-vm-for-emacs",
+        "author": "whacked_new",
+        "source": "hackernews",
+        "published": "Tue, 24 Nov 2026 02:30:47 +0000",
+        "description": "Article URL: https://github.com/CeleritasCelery/rune Comments URL: https://news.ycombinator.com/item?id=50622804 Points: 37 # Comments: 9",
+        "keywords": "rune, url, https, com, comments, rust, emacs, article",
+        "generated": "2026-11-24T09:19:58.415477",
+        "file": "rune-rust-vm-for-emacs.md"
+    },
+    {
         "title": "What I learned adding diagram and chart slides to a CI-rendered YouTube pipeline",
         "slug": "what-i-learned-adding-diagram-and-chart-slides-to-a-ci-rendered-youtube-pipeline",
         "author": "MORINAGA",
@@ -79776,6 +79875,17 @@
         "keywords": "scored, settled, platform, agent, nau, what, metric, real",
         "generated": "2026-07-01T20:03:10.703553",
         "file": "scored-vs-settled-the-metric-that-matters-for-ai-agent-platforms.md"
+    },
+    {
+        "title": "How an AI Music Style Finder Works: Features, Classifiers and a Toy Python Example",
+        "slug": "how-an-ai-music-style-finder-works-features-classifiers-and-a-toy-python-example",
+        "author": "Tania Alwan",
+        "source": "devto_python",
+        "published": "Tue, 24 Nov 2026 09:07:59 +0000",
+        "description": "By Tania Alwan Upload a track, get back lo-fi hip hop, 0.82 or synthwave, 0.64. An AI music style finder looks like magic from the outside, but inside it...",
+        "keywords": "style, features, music, librosa, genre, clips, finder, audio",
+        "generated": "2026-11-24T09:19:58.415948",
+        "file": "how-an-ai-music-style-finder-works-features-classifiers-and-a-toy-python-example.md"
     },
     {
         "title": "Grammarly ads by channel: AI in 27 of 30 LinkedIn texts, 0 of 30 on Meta",
@@ -89006,6 +89116,17 @@
         "file": "het-stappenplan-voor-een-vlekkeloze-transitie-bij-backoffice-outsourcing-in-de-supply-chain.md"
     },
     {
+        "title": "Z.ai Bets on Reused Layers to Make Frontier AI More Efficient",
+        "slug": "zai-bets-on-reused-layers-to-make-frontier-ai-more-efficient",
+        "author": "Jaromir Tesar",
+        "source": "devto_ai",
+        "published": "Tue, 24 Nov 2026 09:17:01 +0000",
+        "description": "Quick take Z.ai reports approximately 15% improvement on MMLU-Pro and 12% on GPQA-Diamond from a separate 30 billion parameter test model. Independent tester...",
+        "keywords": "glm, model, coding, but, will, not, reasoning, its",
+        "generated": "2026-11-24T09:19:58.420306",
+        "file": "zai-bets-on-reused-layers-to-make-frontier-ai-more-efficient.md"
+    },
+    {
         "title": "I built a prize wheel for our perfume shops that only spins once you actually follow us on Instagram",
         "slug": "i-built-a-prize-wheel-for-our-perfume-shops-that-only-spins-once-you-actually-follow-us-on-instagram",
         "author": "Brahim",
@@ -89488,6 +89609,17 @@
         "keywords": "not, key, provider, operation, retry, request, effect, state",
         "generated": "2026-10-04T21:07:13.178338",
         "file": "a-timeout-is-not-a-failed-webhook-reconcile-before-you-retry.md"
+    },
+    {
+        "title": "Four Agent Architectures from Leading AI Companies",
+        "slug": "four-agent-architectures-from-leading-ai-companies",
+        "author": "Luhui Dev",
+        "source": "devto_ai",
+        "published": "Tue, 24 Nov 2026 09:18:56 +0000",
+        "description": "🙋 I’m Luhui Dev , a developer who has been breaking down Agent engineering and exploring how AI can be applied in education. I focus on Agent Harness, LLM ap...",
+        "keywords": "agent, can, refund, approval, order, agents, sdk, support",
+        "generated": "2026-11-24T09:19:58.419561",
+        "file": "four-agent-architectures-from-leading-ai-companies.md"
     },
     {
         "title": "The Best AI Tool to Turn Tweets Into Videos in 2026: The Full Pipeline",
@@ -91303,6 +91435,17 @@
         "keywords": "concrete, high, loading, self, configuration, mixers, machinery, mixer",
         "generated": "2026-09-04T03:55:40.888445",
         "file": "why-do-high-configuration-self-loading-concrete-mixers-have-greater-long-term-value.md"
+    },
+    {
+        "title": "Coordinates Before Geometry: Georeferencing, Reference Files and Unit Discipline",
+        "slug": "coordinates-before-geometry-georeferencing-reference-files-and-unit-discipline",
+        "author": "AIModelingDaily",
+        "source": "devto_ai",
+        "published": "Tue, 24 Nov 2026 09:17:48 +0000",
+        "description": "Every site model agrees with itself. That is the problem. Inside each tool, geometry is consistent. The terrain is smooth, the walls are vertical, the parts ...",
+        "keywords": "not, tool, geometry, reference, contract, base, manifest, artifact",
+        "generated": "2026-11-24T09:19:58.419932",
+        "file": "coordinates-before-geometry-georeferencing-reference-files-and-unit-discipline.md"
     },
     {
         "title": "Whisper + Deepgram + Piper: I Parallelized a Voice AI Pipeline and Cut Latency From 1,200ms to 340ms",
@@ -97551,6 +97694,17 @@
         "file": "seal-file-clock-and-print-before-one-module-split.md"
     },
     {
+        "title": "Put a Dash app behind Google sign-in",
+        "slug": "put-a-dash-app-behind-google-sign-in",
+        "author": "nwon19",
+        "source": "devto_python",
+        "published": "Tue, 24 Nov 2026 08:58:39 +0000",
+        "description": "Dash is Plotly's Python framework for interactive data dashboards, and AI coding tools write it well. This is how to make sure only people in your company ca...",
+        "keywords": "app, google, dash, sign, your, auth, check, cloud",
+        "generated": "2026-11-24T09:19:58.417443",
+        "file": "put-a-dash-app-behind-google-sign-in.md"
+    },
+    {
         "title": "How to compare old and new podcast RSS feeds without breaking episode identity",
         "slug": "how-to-compare-old-and-new-podcast-rss-feeds-without-breaking-episode-identity",
         "author": "hdd igh",
@@ -103599,6 +103753,17 @@
         "file": "python-315-development-features-and-performance-updates.md"
     },
     {
+        "title": "Review and Rating Trends: Read Past the Star Average",
+        "slug": "review-and-rating-trends-read-past-the-star-average",
+        "author": "ExtensionBooster",
+        "source": "devto_webdev",
+        "published": "Tue, 24 Nov 2026 09:15:38 +0000",
+        "description": "Originally published on Extenify . Review and rating trends tell you far more about a browser extension or mobile app than the single star number on its stor...",
+        "keywords": "you, average, one, store, reviews, users, read, your",
+        "generated": "2026-11-24T09:19:58.417705",
+        "file": "review-and-rating-trends-read-past-the-star-average.md"
+    },
+    {
         "title": "🧩How we built a Telegram automation system using Make,Nation,Webhooks,and Payhip",
         "slug": "how-we-built-a-telegram-automation-system-using-makenationwebhooksand-payhip",
         "author": "Eva",
@@ -104057,6 +104222,17 @@
         "keywords": "mrna, vaccines, safe, effective, full, promise, url, https",
         "generated": "2026-07-02T04:02:13.755151",
         "file": "global-review-confirms-mrna-vaccines-are-safe-effective-and-full-of-promise.md"
+    },
+    {
+        "title": "Ubuntu removed a root CA. Node 22.23.2 still trusts it: comparing CA lists by public key",
+        "slug": "ubuntu-removed-a-root-ca-node-22232-still-trusts-it-comparing-ca-lists-by-public-key",
+        "author": "Jose Pollman",
+        "source": "devto_python",
+        "published": "Tue, 24 Nov 2026 09:03:17 +0000",
+        "description": "On 30 October, apt on my Ubuntu 24.04 container installed ca-certificates 20260816ubuntu0.24.04.1 . Its changelog has one line that matters here: * Blacklist...",
+        "keywords": "node, root, roots, keys, not, pem, distinct, system",
+        "generated": "2026-11-24T09:19:58.416441",
+        "file": "ubuntu-removed-a-root-ca-node-22232-still-trusts-it-comparing-ca-lists-by-public-key.md"
     },
     {
         "title": "Cut Your LLM API Bill: 5 Techniques With Measured Savings",
@@ -112594,6 +112770,17 @@
         "file": "i-cut-my-ai-bill-97-without-going-direct-a-ctos-story.md"
     },
     {
+        "title": "Samsung Securities: Hackers Got Into a Website Feedback Form and Took 8,241 Customers' ID Files. Where Do the Files Your Customers Upload End Up?",
+        "slug": "samsung-securities-hackers-got-into-a-website-feedback-form-and-took-8241-customers-id-files-where-do-the-files-your-customers-upload-end-up",
+        "author": "HackerMe",
+        "source": "devto_webdev",
+        "published": "Tue, 24 Nov 2026 09:13:39 +0000",
+        "description": "Originally published at security.hackerme.ai . Samsung Securities said hackers got into a website feedback form and took files from 8,241 customers. Where do...",
+        "keywords": "form, not, you, files, can, your, website, those",
+        "generated": "2026-11-24T09:19:58.418011",
+        "file": "samsung-securities-hackers-got-into-a-website-feedback-form-and-took-8241-customers-id-files-where-do-the-files-your-customers-upload-end-up.md"
+    },
+    {
         "title": "Sharing AI Progress in Mathematics",
         "slug": "sharing-ai-progress-in-mathematics",
         "author": "OfficialTurkey",
@@ -118633,6 +118820,17 @@
         "file": "10-technology-companies-in-india-helping-businesses-build-digital-solutions-in-2026.md"
     },
     {
+        "title": "Designing Resilient Third-Party API Integrations for Production",
+        "slug": "designing-resilient-third-party-api-integrations-for-production",
+        "author": "tanmay kuamr chaurasia",
+        "source": "devto_python",
+        "published": "Tue, 24 Nov 2026 09:03:16 +0000",
+        "description": "Most third-party API integrations do not fail because of flawed syntax or poor business logic. They fail because the system was engineered under the assumpti...",
+        "keywords": "response, your, api, vendor, timeout, httpx, external, requests",
+        "generated": "2026-11-24T09:19:58.416688",
+        "file": "designing-resilient-third-party-api-integrations-for-production.md"
+    },
+    {
         "title": "Compare Options Before You Buy Verified DigitalOcean Hostings Account Boom",
         "slug": "compare-options-before-you-buy-verified-digitalocean-hostings-account-boom",
         "author": "Zorina Robles",
@@ -121447,6 +121645,17 @@
         "keywords": "fcc, space, mirror, url, https, com, comments, approves",
         "generated": "2026-07-11T13:38:52.448004",
         "file": "fcc-approves-test-of-space-mirror-to-light-night-sky-despite-outcry.md"
+    },
+    {
+        "title": "From User Interface to Agent Interface. How Ready Is Your Own Product for Agents?",
+        "slug": "from-user-interface-to-agent-interface-how-ready-is-your-own-product-for-agents",
+        "author": "Tetiana Anisimova",
+        "source": "devto_ai",
+        "published": "Tue, 24 Nov 2026 09:19:18 +0000",
+        "description": "The user interface we're used to is becoming a thing of the past. More and more of the work happens behind it, and people step in only when a decision is nee...",
+        "keywords": "agent, interface, mcp, agents, when, you, tools, tool",
+        "generated": "2026-11-24T09:19:58.419196",
+        "file": "from-user-interface-to-agent-interface-how-ready-is-your-own-product-for-agents.md"
     },
     {
         "title": "Artless Technology",
@@ -126079,6 +126288,17 @@
         "keywords": "car, industry, tested, selling, without, carplay, url, https",
         "generated": "2026-09-06T20:14:44.035036",
         "file": "the-car-industry-ab-tested-selling-a-car-with-and-without-carplay.md"
+    },
+    {
+        "title": "Converting Multi-Line Identifiers Across SQL, TypeScript, CSS & Env Vars Without Wrecking Acronyms or Line Endings",
+        "slug": "converting-multi-line-identifiers-across-sql-typescript-css-env-vars-without-wrecking-acronyms-or-line-endings",
+        "author": "Muhammad Ahmad",
+        "source": "devto_webdev",
+        "published": "Tue, 24 Nov 2026 09:13:10 +0000",
+        "description": "Every full-stack feature touches at least five different naming conventions before it ships. You define columns in Postgres, map them into TypeScript interfa...",
+        "keywords": "case, typescript, env, columns, converting, line, api, keys",
+        "generated": "2026-11-24T09:19:58.418650",
+        "file": "converting-multi-line-identifiers-across-sql-typescript-css-env-vars-without-wrecking-acronyms-or-line-endings.md"
     },
     {
         "title": "Declarations from the Periphery: From Genesis to the Sovereign Edge",
