@@ -1,0 +1,34 @@
+---
+title: "How to check a redirect map before a website migration"
+slug: "how-to-check-a-redirect-map-before-a-website-migration"
+author: "IT_Crowd"
+source: "devto_webdev"
+published: "Wed, 25 Nov 2026 21:10:54 +0000"
+description: "The redirect map is the spreadsheet behind a website migration: one row per old URL, with the new URL it should go to. The redirect rules are built from it, ..."
+keywords: "map, old, url, redirect, page, rows, redirects, row"
+generated: "2026-11-25T21:26:57.089883"
+---
+
+# How to check a redirect map before a website migration
+
+## Overview
+
+The redirect map is the spreadsheet behind a website migration: one row per old URL, with the new URL it should go to. The redirect rules are built from it, so every mistake in the map becomes a live mistake on launch day. We move sites between platforms (Webflow, Shopify, WordPress, custom code), and we check the map before anything goes live. This post covers the three kinds of mistakes we look for, with real output from redirect-map-check , the free, open-source checker we built for it: Old URLs the map leaves out Rows that send a URL to the wrong page Rows that contradict each other All examples come from the tool's demo shop, Harbor & Pine. It's made up, so there's no client data here. Start with every old URL Google's site-move guide says that in the simplest moves, such as a domain change with a wildcard redirect, you may not need a list of old URLs. For more complex moves, you list them and decide where each one goes. It suggests where to look: your sitemaps server logs or analytics, for the URLs that get the most traffic Search Console's links report, for pages with internal and external links your CMS It also says to include embedded images and videos. On one of our own moves, a Webflow store going to Shopify, we built the 301s by crawling the old sitemap and combining it with the redirects already set up in Webflow. The sitemap covers the pages the old site listed. The existing redirects cover older addresses that already pointed somewhere. If you're leaving Webflow, export its redirects first. Webflow's help page warns that importing a redirects CSV overwrites all existing redirects. 1. Old URLs missing from the map A URL in the old sitemap with no row in the map: after launch it answers 404, or keeps answering at its old address. The checker reports it like this: Each problem comes with a written fix, and here it suggests the closest live page it found. If nothing replaces the page, ignore the suggestion: Google's help on 404 errors says a deleted page with no replacement should return a 404, and that 404s don't harm a site's indexing or ranking. Two related cases: In the map, but not redirected: the row exists, but nobody built the rule. Fix: Add a 301 from /careers to /jobs (/jobs is live). Or, if /careers is meant to stay, delete row 15 from the map. Not in the map, still works: a URL that keeps its address. That's fine if it was intended, so it's only a notice. 2. Rows that send a URL to the wrong page A redirect can land on a live page and still be wrong. The checker looks for this in two ways. The live rule doesn't match the map. Change the rule for /delivery-information to a 301 straight to /help/delivery, which is live ("Delivery – Harbor & Pine"). It currently lands on /help/returns. The rule matches the map, but the map is wrong. This is the one a URL-only check can't catch. The checker compares the old page's title and H1 with the new page's, ignoring words that appear on most pages, like the brand name: The suggested pages are scored on title and H1 words and on the words in the URL slug. A score of 0.75 or more is labelled strong; from 0.5, possible. It compares words, not meaning. A page renamed with different words, or translated, won't be found, so treat the suggestions as a shortlist to confirm. After launch the old pages are gone, so the checker needs their titles from before. Keep the old-pages.json that a pre-launch run saves, or point the checker at a copy of the old site. 3. Rows that contradict each other These come from reading the map itself, so they show up even before any rule is built. Conflicting rows: one old URL, two targets. Rows that redirect to each other: Rows 21 and 22 send these URLs to each other (/sale/winter → /sale/spring → /sale/winter). Point row 21 at a live page instead of another old URL. (This one is from the demo map with two rows added.) A row pointing at another old URL , which turns the rule into a chain: Change row 18 to point straight at /shop instead of /old-promo-2023, and make the rule one hop. Google advises redirecting straight to the final destination and keeping chains short where that isn't possible. A row that keeps the same URL , like /,/ . It's fine as documentation, but don't build a rule from it: a URL redirecting to itself loops. Duplicate rows and skipped rows (a row without two URLs, like /press,TBC ) are reported as notices. Run it on your own map It's a Node CLI (Node 20+) with no runtime dependencies, and it runs on your own machine: npx redirect-map-check \ --sitemap https://www.example.com/sitemap.xml \ --map redirects.csv \ --base https://staging.example.com Or npx redirect-map-check ui for a local page in your browser where you drop the files in. The map can be a CSV or TSV with commas, semicolons or tabs, with or without a header. Headers such as old / new , from / to , Source URL / Destination URL or Redirect from / Redirect to are recognised in any order. You get a terminal summary plus CSV, HTML and JSON reports. Run it against staging before launch, then against the live site after. Limits: It follows server redirects only, not JavaScript or meta refresh. It checks the URLs you give it (the old sitemap, a URL list and the map), and doesn't crawl links to find more. It skips image, video and news entries in sitemaps. If those addresses change too, pass them in with --urls . More detail The tool, with all its options Source on GitHub (MIT) Guides to the other problems it finds: Redirects to the homepage Redirects that end in a 404 Redirect chains and loops Temporary redirects Feedback on the report and on the wording of the fixes is very welcome, in the comments or as a GitHub issue. Originally published at itcrowd.work .
+
+## Key Insights
+
+This article was discovered from the latest RSS feeds and automatically transformed into a readable blog post.
+
+### What You Should Know
+
+- Trending topic in the developer community
+- Relevant technology discussion
+- Worth exploring for deeper research
+
+## Original Source
+
+https://dev.to/it_crowd/how-to-check-a-redirect-map-before-a-website-migration-1ap3
+
+## Conclusion
+
+Technology moves quickly. Following curated RSS feeds helps developers stay informed about emerging tools, frameworks, and industry trends.
