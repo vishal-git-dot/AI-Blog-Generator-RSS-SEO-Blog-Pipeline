@@ -1111,6 +1111,17 @@
         "file": "how-to-verify-stripe-webhook-signatures-with-a-free-cli-tool.md"
     },
     {
+        "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+        "slug": "nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+        "author": "andsoitis",
+        "source": "hackernews",
+        "published": "Thu, 26 Nov 2026 20:39:05 +0000",
+        "description": "Article URL: https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo Comments URL: https://news.ycomb...",
+        "keywords": "nvidia, right, bring, back, jensen, huang, writes, sarah",
+        "generated": "2026-11-26T21:14:22.323288",
+        "file": "nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo.md"
+    },
+    {
         "title": "Ask HN: What are you working on? (June 2026)",
         "slug": "ask-hn-what-are-you-working-on-june-2026",
         "author": "david927",
@@ -5344,6 +5355,17 @@
         "keywords": "test, you, two, cause, format, order, claude, not",
         "generated": "2026-09-14T04:21:00.975707",
         "file": "when-someone-elses-system-rejects-you-without-a-reason-fixing-a-diagnostic-order-in-advance.md"
+    },
+    {
+        "title": "Building Coroner with Kiro: Why Docker Exit Code 137 Is Not a Root Cause",
+        "slug": "building-coroner-with-kiro-why-docker-exit-code-137-is-not-a-root-cause",
+        "author": "Prabhakaran Jayaraman Masani",
+        "source": "devto_python",
+        "published": "Thu, 26 Nov 2026 20:51:14 +0000",
+        "description": "How I built an open-source container crash-forensics tool using Kiro specifications, external telemetry, Docker termination records and property-based testin...",
+        "keywords": "not, evidence, coroner, docker, container, kiro, recorded, exit",
+        "generated": "2026-11-26T21:14:22.325946",
+        "file": "building-coroner-with-kiro-why-docker-exit-code-137-is-not-a-root-cause.md"
     },
     {
         "title": "Why Most AI Chatbots Fail",
@@ -12230,6 +12252,17 @@
         "keywords": "python, learning, programming, institute, career, data, training, development",
         "generated": "2026-07-25T08:14:00.364206",
         "file": "best-python-training-institute-in-rohini-python-course-with-certification-placement.md"
+    },
+    {
+        "title": "Computing ANSI Z765-2021 Heated GLA, 16 OC Framing & 4x8 Drywall Takeoffs from a 2D Wall Graph in TypeScript",
+        "slug": "computing-ansi-z765-2021-heated-gla-16-oc-framing-4x8-drywall-takeoffs-from-a-2d-wall-graph-in-typescript",
+        "author": "Clara Sutton",
+        "source": "devto_webdev",
+        "published": "Thu, 26 Nov 2026 21:05:22 +0000",
+        "description": "If you sum the interior areas of every room in a 2D floor plan and call the result square footage, your number will disagree with a US residential appraise...",
+        "keywords": "wall, const, math, exterior, lengthin, framing, interior, every",
+        "generated": "2026-11-26T21:14:22.326601",
+        "file": "computing-ansi-z765-2021-heated-gla-16-oc-framing-4x8-drywall-takeoffs-from-a-2d-wall-graph-in-typescript.md"
     },
     {
         "title": "Ambient CSS v3 – Blender meets CSS",
@@ -20735,6 +20768,17 @@
         "file": "deep-dive-genetic-algorithms-for-trading-strategy.md"
     },
     {
+        "title": "Cloudflare 524 at 100 Seconds: 63 of 1,184 Claude Streams Died",
+        "slug": "cloudflare-524-at-100-seconds-63-of-1184-claude-streams-died",
+        "author": "jidonglab",
+        "source": "devto_python",
+        "published": "Thu, 26 Nov 2026 21:04:19 +0000",
+        "description": "The bug report said the analysis just stops sometimes. No error toast, no stack trace. The browser's network tab showed a stream that opened, sat there, an...",
+        "keywords": "stream, seconds, thinking, cloudflare, event, timeout, client, heartbeat",
+        "generated": "2026-11-26T21:14:22.324431",
+        "file": "cloudflare-524-at-100-seconds-63-of-1184-claude-streams-died.md"
+    },
+    {
         "title": "Free Model Endpoints Rate-Limit You. Build a Retry Layer You Can Verify.",
         "slug": "free-model-endpoints-rate-limit-you-build-a-retry-layer-you-can-verify",
         "author": "Dakota Huang",
@@ -26687,6 +26731,17 @@
         "file": "simple-pero-poderoso-crud-dinmico-con-flask-javascript-y-fetch-api.md"
     },
     {
+        "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+        "slug": "largest-2d-chart-library-in-the-world-using-bui-blenderui",
+        "author": "ppmpreetham",
+        "source": "hackernews",
+        "published": "Thu, 26 Nov 2026 18:37:24 +0000",
+        "description": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 8 # Comments: 2",
+        "keywords": "bui, url, https, comments, largest, chart, library, world",
+        "generated": "2026-11-26T21:14:22.323745",
+        "file": "largest-2d-chart-library-in-the-world-using-bui-blenderui.md"
+    },
+    {
         "title": "ASP.NET Core Performance Tuning for High-Traffic APIs",
         "slug": "aspnet-core-performance-tuning-for-high-traffic-apis",
         "author": "Faisal Nadeem",
@@ -28313,6 +28368,17 @@
         "keywords": "you, creators, vidiq, what, month, your, channel, who",
         "generated": "2026-07-12T19:12:47.060082",
         "file": "top-3-best-tools-for-content-creation-in-2026.md"
+    },
+    {
+        "title": "The USA as a Civilizations-esque map",
+        "slug": "the-usa-as-a-civilizations-esque-map",
+        "author": "ComputerGuru",
+        "source": "hackernews",
+        "published": "Thu, 26 Nov 2026 19:53:58 +0000",
+        "description": "Article URL: https://karpathy.ai/usaciv/ Comments URL: https://news.ycombinator.com/item?id=50658997 Points: 43 # Comments: 33",
+        "keywords": "url, https, comments, usa, civilizations, esque, map, article",
+        "generated": "2026-11-26T21:14:22.323482",
+        "file": "the-usa-as-a-civilizations-esque-map.md"
     },
     {
         "title": "Building a Pay-As-You-Go WhatsApp OTP Gateway (Bypass Business Verification)",
@@ -56150,6 +56216,17 @@
         "file": "ai-agents-will-eat-workflows-before-they-eat-jobs.md"
     },
     {
+        "title": "Валідація ідей через PoC",
+        "slug": "poc",
+        "author": "Mike Vasovsky",
+        "source": "devto_webdev",
+        "published": "Thu, 26 Nov 2026 21:03:52 +0000",
+        "description": "Клієнт приходить із палаючими очима: «Робимо повноцінний продукт на рік розробки!» Зупиняю це на старті. Замість $50k і пів року хаосу ми пропонуємо PoC (Pro...",
+        "keywords": "poc, proof, concept, mvp, api, telegram",
+        "generated": "2026-11-26T21:14:22.327101",
+        "file": "poc.md"
+    },
+    {
         "title": "Best AI Voice Recorder for Windows 11 & macOS (2026): Standalone Capture, Local AI, Speaker ID & Zero Cloud ($0/Month)",
         "slug": "best-ai-voice-recorder-for-windows-11-macos-2026-standalone-capture-local-ai-speaker-id-zero-cloud-0month",
         "author": "OneMira AI",
@@ -62512,6 +62589,17 @@
         "file": "distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-young-patients.md"
     },
     {
+        "title": "De 15 minutos para 1 minuto: o script que gera os contratos do escritório onde trabalho",
+        "slug": "de-15-minutos-para-1-minuto-o-script-que-gera-os-contratos-do-escritrio-onde-trabalho",
+        "author": "Gabriel Victor",
+        "source": "devto_python",
+        "published": "Thu, 26 Nov 2026 20:54:48 +0000",
+        "description": "Trabalho num escritório de advocacia previdenciária desde janeiro e estou no 2º semestre de Engenharia de Software. Todo cliente novo precisa de um contrato,...",
+        "keywords": "que, para, contrato, script, por, com, cliente, modelo",
+        "generated": "2026-11-26T21:14:22.325271",
+        "file": "de-15-minutos-para-1-minuto-o-script-que-gera-os-contratos-do-escritrio-onde-trabalho.md"
+    },
+    {
         "title": "Sloth AI Folder Tidier: Let Open-Source AI Clean Your Downloads Folder So You Don't Have To",
         "slug": "sloth-ai-folder-tidier-let-open-source-ai-clean-your-downloads-folder-so-you-dont-have-to",
         "author": "Viktor",
@@ -67385,6 +67473,17 @@
         "file": "audit-the-detection-not-the-reasoning.md"
     },
     {
+        "title": "How Does a Fancy Text Generator Work Under the Hood?",
+        "slug": "how-does-a-fancy-text-generator-work-under-the-hood",
+        "author": "Arlo Bennett",
+        "source": "devto_webdev",
+        "published": "Thu, 26 Nov 2026 20:56:04 +0000",
+        "description": "How does a fancy text generator work under the hood? It swaps each plain letter for a different Unicode character that already looks bold, italic, script, or...",
+        "keywords": "text, styled, style, plain, letters, font, you, not",
+        "generated": "2026-11-26T21:14:22.328353",
+        "file": "how-does-a-fancy-text-generator-work-under-the-hood.md"
+    },
+    {
         "title": "Claude Cookbook",
         "slug": "claude-cookbook",
         "author": "saikatsg",
@@ -67834,6 +67933,17 @@
         "keywords": "app, mobile, store, built, fastapi, latency, image, structured",
         "generated": "2026-10-03T11:24:45.494734",
         "file": "how-i-built-and-shipped-an-ai-food-label-scanner-to-the-app-store-using-react-native-fastapi.md"
+    },
+    {
+        "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+        "slug": "rvoip-05-the-complete-voip-stack-in-rust",
+        "author": "zerosegfaults",
+        "source": "hackernews",
+        "published": "Thu, 26 Nov 2026 19:18:09 +0000",
+        "description": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 13 # Comments: 4",
+        "keywords": "rvoip, url, https, com, comments, complete, voip, stack",
+        "generated": "2026-11-26T21:14:22.323620",
+        "file": "rvoip-05-the-complete-voip-stack-in-rust.md"
     },
     {
         "title": "I built a tiny tool that catches the printed at 94% problem",
@@ -70067,6 +70177,17 @@
         "file": "add-page-numbers-to-pdf-free-online-pdf-numbering-tool-how-to-guide.md"
     },
     {
+        "title": "I read 55 flight-deal-finder repos made since Amadeus shut down. 26 of them now call SerpApi",
+        "slug": "i-read-55-flight-deal-finder-repos-made-since-amadeus-shut-down-26-of-them-now-call-serpapi",
+        "author": "Hugues Ishema",
+        "source": "devto_python",
+        "published": "Thu, 26 Nov 2026 21:03:08 +0000",
+        "description": "TL;DR: Amadeus Self-Service closed on 17 July 2026. Kiwi's Tequila API has taken new partners by invitation only since May 2024. So what do people building a...",
+        "keywords": "google, searches, flight, one, amadeus, you, days, flights",
+        "generated": "2026-11-26T21:14:22.324921",
+        "file": "i-read-55-flight-deal-finder-repos-made-since-amadeus-shut-down-26-of-them-now-call-serpapi.md"
+    },
+    {
         "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
         "slug": "os8088-a-powerful-mac-like-os-for-the-ibm-xt-286-386",
         "author": "jggonz",
@@ -71473,6 +71594,17 @@
         "keywords": "police, officer, her, flock, ice, agent, article, url",
         "generated": "2026-10-19T12:42:59.617177",
         "file": "documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband.md"
+    },
+    {
+        "title": "Show HN: Fuck_data_brokers.py",
+        "slug": "show-hn-fuckdatabrokerspy",
+        "author": "gary23w",
+        "source": "hackernews",
+        "published": "Thu, 26 Nov 2026 18:37:21 +0000",
+        "description": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 58 # Comments: 8",
+        "keywords": "url, https, com, comments, show, article, github, news",
+        "generated": "2026-11-26T21:14:22.323888",
+        "file": "show-hn-fuckdatabrokerspy.md"
     },
     {
         "title": "Your Pipeline Is 26.4h Behind: Catching Education Sentiment Leads with Pulsebit",
@@ -74124,6 +74256,17 @@
         "file": "avatar-uploads-without-versioning-a-rollback-policy-for-object-storage.md"
     },
     {
+        "title": "We Tried to Predict the Future of an Ecosystem. Doing Nothing Was a Better Prediction.",
+        "slug": "we-tried-to-predict-the-future-of-an-ecosystem-doing-nothing-was-a-better-prediction",
+        "author": "Emil Fournier",
+        "source": "devto_ai",
+        "published": "Thu, 26 Nov 2026 21:06:18 +0000",
+        "description": "My best friend Timothée and I are working on a project called Arbor. We're trying to find out whether machine learning can predict how ecosystems will evolve...",
+        "keywords": "our, environmental, data, how, arbor, can, model, one",
+        "generated": "2026-11-26T21:14:22.329314",
+        "file": "we-tried-to-predict-the-future-of-an-ecosystem-doing-nothing-was-a-better-prediction.md"
+    },
+    {
         "title": "AI chemist improves a challenging reaction in medicinal chemistry",
         "slug": "ai-chemist-improves-a-challenging-reaction-in-medicinal-chemistry",
         "author": "ilreb",
@@ -75046,6 +75189,17 @@
         "keywords": "url, https, comments, your, code, fast, you, lucky",
         "generated": "2026-07-11T13:38:52.448135",
         "file": "your-code-is-fast-if-youre-lucky.md"
+    },
+    {
+        "title": "TaskCarry: project memory for work across AI chats",
+        "slug": "taskcarry-project-memory-for-work-across-ai-chats",
+        "author": "TaskCarry",
+        "source": "devto_ai",
+        "published": "Thu, 26 Nov 2026 21:04:17 +0000",
+        "description": "I’m building TaskCarry because using more AI chats shouldn’t mean doing more handoffs yourself. One chat updates a draft. A teammate reviews another version....",
+        "keywords": "project, taskcarry, chats, work, version, more, what, next",
+        "generated": "2026-11-26T21:14:22.329943",
+        "file": "taskcarry-project-memory-for-work-across-ai-chats.md"
     },
     {
         "title": "Record One Nested Decision, Then Extract a Single Predicate",
@@ -76278,6 +76432,17 @@
         "keywords": "nanogpt, speedrun, url, https, comments, frontier, article, www",
         "generated": "2026-08-23T01:43:25.003259",
         "file": "nanogpt-speedrun-frontier.md"
+    },
+    {
+        "title": "Neural Network: Zero-To-Hero",
+        "slug": "neural-network-zero-to-hero",
+        "author": "Lucas",
+        "source": "devto_python",
+        "published": "Thu, 26 Nov 2026 20:42:03 +0000",
+        "description": "Im working on a guide for learning AI i made this since i wanted to learn how AI works myself. So i let AI make a guide where it only explained theory and th...",
+        "keywords": "neural, network, zero, hero, working, guide, learn, make",
+        "generated": "2026-11-26T21:14:22.326115",
+        "file": "neural-network-zero-to-hero.md"
     },
     {
         "title": "Compress and Convert Thousands of Images in Your Browser—No Installation Needed🚀",
@@ -82788,6 +82953,17 @@
         "keywords": "audit, json, response, auditing, can, might, solidity, headers",
         "generated": "2026-10-07T22:56:27.550091",
         "file": "how-to-use-ai-for-smart-contract-audits-in-2026-2026-10-08-1.md"
+    },
+    {
+        "title": "How to Audit a Lean Proof Artifact Before You Trust It",
+        "slug": "how-to-audit-a-lean-proof-artifact-before-you-trust-it",
+        "author": "RobustTrueTry",
+        "source": "devto_ai",
+        "published": "Thu, 26 Nov 2026 21:05:09 +0000",
+        "description": "A Lean 4 repository that claims to prove the Riemann Hypothesis surfaced recently. The machine checks pass. That is not the same thing as a proof you can tru...",
+        "keywords": "you, lean, artifact, not, theorem, mathlib, statement, can",
+        "generated": "2026-11-26T21:14:22.329736",
+        "file": "how-to-audit-a-lean-proof-artifact-before-you-trust-it.md"
     },
     {
         "title": "Link Building Cost for Small Businesses",
@@ -101445,6 +101621,17 @@
         "file": "part-v-but-how-does-the-machine-wait-for-something-that-happens-later.md"
     },
     {
+        "title": "Canva ranked first. Why didn't its site appear in that answer's sources?",
+        "slug": "canva-ranked-first-why-didnt-its-site-appear-in-that-answers-sources",
+        "author": "ModelFild",
+        "source": "devto_ai",
+        "published": "Thu, 26 Nov 2026 21:06:21 +0000",
+        "description": "Disclosure: I work on ModelFold GEO, which published the sample report used here. I used AI assistance to draft this article and checked the figures against ...",
+        "keywords": "answer, you, canva, your, brand, question, not, one",
+        "generated": "2026-11-26T21:14:22.328966",
+        "file": "canva-ranked-first-why-didnt-its-site-appear-in-that-answers-sources.md"
+    },
+    {
         "title": "Waking a dead service worker with Web Push, from a Cloudflare Worker",
         "slug": "waking-a-dead-service-worker-with-web-push-from-a-cloudflare-worker",
         "author": "Matt Fauveau",
@@ -118534,6 +118721,17 @@
         "file": "web3-gaming-sector-sees-tower-surge-214-amidst-mainstream-ip-push-and-regulatory-uncertainty.md"
     },
     {
+        "title": "Brasil lidera registros de vítimas de ransomware na América Latina",
+        "slug": "brasil-lidera-registros-de-vtimas-de-ransomware-na-amrica-latina",
+        "author": "guiadeti",
+        "source": "devto_ai",
+        "published": "Thu, 26 Nov 2026 21:07:20 +0000",
+        "description": "Brasil lidera os registros de ransomware na América Latina O Brasil liderou a América Latina em publicações de vítimas de ransomware em sites de vazamento de...",
+        "keywords": "ransomware, brasil, trellix, com, para, latina, das, campanhas",
+        "generated": "2026-11-26T21:14:22.328670",
+        "file": "brasil-lidera-registros-de-vtimas-de-ransomware-na-amrica-latina.md"
+    },
+    {
         "title": "Closing the IPv6 First-Packet Gap with Grand",
         "slug": "closing-the-ipv6-first-packet-gap-with-grand",
         "author": "m_montazeri",
@@ -122142,6 +122340,17 @@
         "file": "retraction-the-app-store-rejection-of-the-week-that-was-a-correct-rejection.md"
     },
     {
+        "title": "Why Scheduled Social Media Posts Fail to Publish (and How to Retry Safely)",
+        "slug": "why-scheduled-social-media-posts-fail-to-publish-and-how-to-retry-safely",
+        "author": "Clienzo",
+        "source": "devto_webdev",
+        "published": "Thu, 26 Nov 2026 21:00:00 +0000",
+        "description": "Social media posts fail to publish more often than most schedulers let on. A post sits in the queue marked scheduled, the time passes, and on one network n...",
+        "keywords": "post, network, account, not, you, networks, failed, scheduled",
+        "generated": "2026-11-26T21:14:22.327528",
+        "file": "why-scheduled-social-media-posts-fail-to-publish-and-how-to-retry-safely.md"
+    },
+    {
         "title": "A practical GitHub Actions baseline for Python projects",
         "slug": "a-practical-github-actions-baseline-for-python-projects",
         "author": "Thomas Reid",
@@ -122184,6 +122393,17 @@
         "keywords": "quantum, computing, experiments, url, https, com, comments, how",
         "generated": "2026-09-09T11:03:04.610468",
         "file": "how-gpt56-sol-helps-run-quantum-computing-experiments.md"
+    },
+    {
+        "title": "How Analytix9 Eliminates Ad Spend Bleed For Edtech Platforms: How Analytix9 Engineers Profitable Rev",
+        "slug": "how-analytix9-eliminates-ad-spend-bleed-for-edtech-platforms-how-analytix9-engineers-profitable-rev",
+        "author": "A9leads",
+        "source": "devto_webdev",
+        "published": "Thu, 26 Nov 2026 21:04:59 +0000",
+        "description": "How Analytix9 Eliminates Ad Spend Bleed For Edtech Platforms: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for how analyti...",
+        "keywords": "spend, our, how, bleed, account, conversion, tracking, eliminates",
+        "generated": "2026-11-26T21:14:22.326954",
+        "file": "how-analytix9-eliminates-ad-spend-bleed-for-edtech-platforms-how-analytix9-engineers-profitable-rev.md"
     },
     {
         "title": "Smart Development: Building with Autonomous Agentic AI",
