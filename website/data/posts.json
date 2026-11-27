@@ -5038,6 +5038,17 @@
         "file": "my-cicd-pipeline-passed-for-3-months-then-i-read-the-logs.md"
     },
     {
+        "title": "Gate a Solana bot swap with a pre-trade token risk check",
+        "slug": "gate-a-solana-bot-swap-with-a-pre-trade-token-risk-check",
+        "author": "Erik Hill",
+        "source": "devto_python",
+        "published": "Fri, 27 Nov 2026 20:41:04 +0000",
+        "description": "Most Solana bots send the swap first and look at risk later. A better default is a hard gate: call a token check, apply a few thresholds, and skip the trade ...",
+        "keywords": "mint, check, not, key, com, python, mindthemint, api",
+        "generated": "2026-11-27T20:56:45.959130",
+        "file": "gate-a-solana-bot-swap-with-a-pre-trade-token-risk-check.md"
+    },
+    {
         "title": "Privacy-Signals + Third-Party Embed-Inventory APIs for AI Agents (x402, $0.0005 USDC/call)",
         "slug": "privacy-signals-third-party-embed-inventory-apis-for-ai-agents-x402-00005-usdccall",
         "author": "HAL GOBVAN",
@@ -15895,6 +15906,17 @@
         "file": "security-vulnerability-in-pioneer-rekordbox.md"
     },
     {
+        "title": "The AT&T Unix PC (3B1) VM",
+        "slug": "the-att-unix-pc-3b1-vm",
+        "author": "ok123456",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 19:40:33 +0000",
+        "description": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=506708...",
+        "keywords": "unix, url, https, com, comments, article, virtuallyfun, ultimate",
+        "generated": "2026-11-27T20:56:45.958605",
+        "file": "the-att-unix-pc-3b1-vm.md"
+    },
+    {
         "title": "Agentix Lite Sentinel v0.2.2: I Built a Tiny Linux Security Guard, Then Tried to Break It",
         "slug": "agentix-lite-sentinel-v022-i-built-a-tiny-linux-security-guard-then-tried-to-break-it",
         "author": "jackymenCZ (jackymenCZ)",
@@ -17708,6 +17730,17 @@
         "keywords": "airdrop, text, data, extract, json, return, build, monitor",
         "generated": "2026-10-10T21:25:00.281779",
         "file": "how-to-build-an-airdrop-monitor-with-ai-2026-10-10-9.md"
+    },
+    {
+        "title": "Michael Nielsen took down his book on neural nets",
+        "slug": "michael-nielsen-took-down-his-book-on-neural-nets",
+        "author": "brandonb",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 19:31:01 +0000",
+        "description": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 121 # Comment...",
+        "keywords": "url, https, com, comments, michael, nielsen, took, down",
+        "generated": "2026-11-27T20:56:45.958683",
+        "file": "michael-nielsen-took-down-his-book-on-neural-nets.md"
     },
     {
         "title": "Absorber les +50 % de l'API Claude sans couper une feature",
@@ -21813,6 +21846,17 @@
         "file": "claude-status-elevated-errors-for-multiple-models.md"
     },
     {
+        "title": "How I measure coding-agent memory retrieval, including where it fails",
+        "slug": "how-i-measure-coding-agent-memory-retrieval-including-where-it-fails",
+        "author": "iCe Gaming",
+        "source": "devto_ai",
+        "published": "Fri, 27 Nov 2026 20:53:35 +0000",
+        "description": "Here is a situation most teams using coding agents will recognise. On Tuesday, your agent spends forty minutes working out why a retry around the payments we...",
+        "keywords": "session, palace, one, question, memory, agent, questions, longmemeval",
+        "generated": "2026-11-27T20:56:45.962181",
+        "file": "how-i-measure-coding-agent-memory-retrieval-including-where-it-fails.md"
+    },
+    {
         "title": "Auth for Indie Hackers 2026: Clerk vs Supabase Auth vs NextAuth v5",
         "slug": "auth-for-indie-hackers-2026-clerk-vs-supabase-auth-vs-nextauth-v5",
         "author": "masato",
@@ -22097,6 +22141,17 @@
         "keywords": "marketing, search, content, digital, work, seo, social, paid",
         "generated": "2026-09-22T11:18:05.274087",
         "file": "the-7-types-of-digital-marketing-services-explained.md"
+    },
+    {
+        "title": "What AI answers say about app developers in the Philippines, and how to change it",
+        "slug": "what-ai-answers-say-about-app-developers-in-the-philippines-and-how-to-change-it",
+        "author": "Peter Panda",
+        "source": "devto_ai",
+        "published": "Fri, 27 Nov 2026 20:56:04 +0000",
+        "description": "Here is a working checklist on GEO and AI search for app developers. It reflects what we see when companies expand into the Philippines in 2026. Build a prom...",
+        "keywords": "you, your, pages, assistants, month, what, geo, search",
+        "generated": "2026-11-27T20:56:45.961396",
+        "file": "what-ai-answers-say-about-app-developers-in-the-philippines-and-how-to-change-it.md"
     },
     {
         "title": "The Russian who invented semiconductors 25 years before the USA",
@@ -24165,6 +24220,17 @@
         "keywords": "cfpb, opens, debanking, investigation, nine, large, national, banks",
         "generated": "2026-10-18T20:23:36.859326",
         "file": "cfpb-opens-debanking-investigation-into-nine-large-national-banks.md"
+    },
+    {
+        "title": "Estimate the KV cache before your interviewer asks",
+        "slug": "estimate-the-kv-cache-before-your-interviewer-asks",
+        "author": "Valenx",
+        "source": "devto_ai",
+        "published": "Fri, 27 Nov 2026 20:53:55 +0000",
+        "description": "Most AI engineer loops now include some version of How much memory does the KV cache need? Candidates who only define it get a polite nod. Candidates who e...",
+        "keywords": "token, cache, one, per, layers, heads, estimate, bytes",
+        "generated": "2026-11-27T20:56:45.961716",
+        "file": "estimate-the-kv-cache-before-your-interviewer-asks.md"
     },
     {
         "title": "Core Web Vitals myths that waste time on small WordPress sites",
@@ -38532,6 +38598,17 @@
         "keywords": "pitch, free, deck, agency, deploy, automation, seed, round",
         "generated": "2026-07-30T02:47:02.168806",
         "file": "free-pitch-deck-pitch-agency.md"
+    },
+    {
+        "title": "How to Trim Audio for a Lollapalooza Video — Free, in Your Browser",
+        "slug": "how-to-trim-audio-for-a-lollapalooza-video-free-in-your-browser",
+        "author": "zjch022",
+        "source": "devto_webdev",
+        "published": "Fri, 27 Nov 2026 20:52:10 +0000",
+        "description": "A Lollapalooza set recording is full of great moments — and a lot of crowd noise, long gaps between songs, and a slow build-up before the band starts playing...",
+        "keywords": "your, clip, trim, browser, you, audiocutter, step, audio",
+        "generated": "2026-11-27T20:56:45.961039",
+        "file": "how-to-trim-audio-for-a-lollapalooza-video-free-in-your-browser.md"
     },
     {
         "title": "I built a production-ready Spring Boot 4 Starter Kit (and Reddit roasted it into something better)",
@@ -53809,6 +53886,17 @@
         "file": "altair-basic-interpreter-source-code-1975-pdf.md"
     },
     {
+        "title": "A naive SEC EDGAR expectations-gap rule failed its 2023+ holdout",
+        "slug": "a-naive-sec-edgar-expectations-gap-rule-failed-its-2023-holdout",
+        "author": "Erik Hill",
+        "source": "devto_python",
+        "published": "Fri, 27 Nov 2026 20:40:13 +0000",
+        "description": "A simple fundamental rule can look excellent in a backtest and still fail a real holdout. I recently finished a point-in-time audit of an un-tuned SEC EDGAR ...",
+        "keywords": "filed, not, date, holdout, close, spy, rows, excess",
+        "generated": "2026-11-27T20:56:45.959449",
+        "file": "a-naive-sec-edgar-expectations-gap-rule-failed-its-2023-holdout.md"
+    },
+    {
         "title": "Python Files: Reading and Writing for Beginners",
         "slug": "python-files-reading-and-writing-for-beginners",
         "author": "SameerQaisar17",
@@ -59487,6 +59575,17 @@
         "file": "how-to-hire-and-retain-top-talent-for-your-global-capability-center-in-india.md"
     },
     {
+        "title": "UK net migration at lowest level since 1997",
+        "slug": "uk-net-migration-at-lowest-level-since-1997",
+        "author": "throwaway384034",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 20:38:19 +0000",
+        "description": "Article URL: https://www.bbc.com/news/articles/cq36gj12n0l3o Comments URL: https://news.ycombinator.com/item?id=50671417 Points: 5 # Comments: 1",
+        "keywords": "url, https, com, news, comments, net, migration, lowest",
+        "generated": "2026-11-27T20:56:45.958220",
+        "file": "uk-net-migration-at-lowest-level-since-1997.md"
+    },
+    {
         "title": "A graphical desktop for the ZX Spectrum",
         "slug": "a-graphical-desktop-for-the-zx-spectrum",
         "author": "graemep",
@@ -61421,6 +61520,17 @@
         "keywords": "url, https, comments, mourning, dan, williams, article, lwn",
         "generated": "2026-07-24T03:18:16.299913",
         "file": "mourning-dan-williams.md"
+    },
+    {
+        "title": "Preventing State Drift at Turn 15 in LLM Interactive Fiction: Architecture Notes & MCP Server",
+        "slug": "preventing-state-drift-at-turn-15-in-llm-interactive-fiction-architecture-notes-mcp-server",
+        "author": "Ouba Studio",
+        "source": "devto_ai",
+        "published": "Fri, 27 Nov 2026 20:52:22 +0000",
+        "description": "When we ran our reproducible 2026 10-App AI Story Benchmark (open data at Harvard Dataverse DOI 10.7910/DVN/YEBHQR and preprint at CERN Zenodo DOI 10.5281/ze...",
+        "keywords": "story, branching, turn, interactive, mcp, https, ouba, state",
+        "generated": "2026-11-27T20:56:45.962347",
+        "file": "preventing-state-drift-at-turn-15-in-llm-interactive-fiction-architecture-notes-mcp-server.md"
     },
     {
         "title": "Fetching Instagram Data at Scale in Python: From One Request to Async",
@@ -74971,6 +75081,17 @@
         "file": "deepseek-api-meets-django-a-production-grade-walkthrough.md"
     },
     {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "slug": "states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+        "author": "DeepLogin",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 19:42:25 +0000",
+        "description": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-compa...",
+        "keywords": "spacex, grok, child, images, url, https, news, jones",
+        "generated": "2026-11-27T20:56:45.958511",
+        "file": "states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn.md"
+    },
+    {
         "title": "Your Pipeline Is 29.2h Behind: Catching Robotics Sentiment Leads with Pulsebit",
         "slug": "your-pipeline-is-292h-behind-catching-robotics-sentiment-leads-with-pulsebit",
         "author": "Pulsebit News Sentiment API",
@@ -77457,6 +77578,17 @@
         "file": "building-the-higher-or-lower-game-a-fun-way-to-practice-python-fundamentals.md"
     },
     {
+        "title": "Python Email Deliverability: 3 Contracts for Polling, Suppression, and Bounce Handling",
+        "slug": "python-email-deliverability-3-contracts-for-polling-suppression-and-bounce-handling",
+        "author": "tony chen",
+        "source": "devto_python",
+        "published": "Fri, 27 Nov 2026 20:20:26 +0000",
+        "description": "A payment receipt needs transactional email deliverability practices that survive a provider change. Short answer: keep settlement eligibility, unsubscribe a...",
+        "keywords": "receipt, email, adapter, provider, before, integration, application, suppression",
+        "generated": "2026-11-27T20:56:45.960125",
+        "file": "python-email-deliverability-3-contracts-for-polling-suppression-and-bounce-handling.md"
+    },
+    {
         "title": "I Built a Free Online Tools Website for Developers",
         "slug": "i-built-a-free-online-tools-website-for-developers",
         "author": "陈善阅",
@@ -79501,6 +79633,17 @@
         "keywords": "mext, memory, data, technology, solutions, can, amd, optimization",
         "generated": "2026-06-18T20:32:55.631571",
         "file": "amd-acquires-mext-for-data-cen.md"
+    },
+    {
+        "title": "Auditing the Late-2026 iOS App Store AI Companion Sweep via Apple's iTunes Search API (Nov 28 Data)",
+        "slug": "auditing-the-late-2026-ios-app-store-ai-companion-sweep-via-apples-itunes-search-api-nov-28-data",
+        "author": "Ouba Studio",
+        "source": "devto_python",
+        "published": "Fri, 27 Nov 2026 20:51:56 +0000",
+        "description": "Between October and November 2026, Apple removed a broad cluster of AI character-chat apps from the US iOS App Store under stricter user-generated content mo...",
+        "keywords": "app, removed, web, none, store, unlisted, chat, https",
+        "generated": "2026-11-27T20:56:45.958914",
+        "file": "auditing-the-late-2026-ios-app-store-ai-companion-sweep-via-apples-itunes-search-api-nov-28-data.md"
     },
     {
         "title": "Artie (YC S23) Is Hiring Software Engineers",
@@ -90832,6 +90975,17 @@
         "file": "best-3-sites-to-buy-edu-emails-accounts-for-student.md"
     },
     {
+        "title": "Sonarr login loop behind nginx: one wrong password tells why",
+        "slug": "sonarr-login-loop-behind-nginx-one-wrong-password-tells-why",
+        "author": "Vainamoinen | Pulsed Media",
+        "source": "devto_webdev",
+        "published": "Fri, 27 Nov 2026 20:53:22 +0000",
+        "description": "If Sonarr or Radarr takes your password and drops you straight back on the login form, two checks in your browser tell you in about a minute whether the sess...",
+        "keywords": "path, sonarr, cookie, you, media, app, login, proxy",
+        "generated": "2026-11-27T20:56:45.960881",
+        "file": "sonarr-login-loop-behind-nginx-one-wrong-password-tells-why.md"
+    },
+    {
         "title": "Quadrupling code performance with a useless if",
         "slug": "quadrupling-code-performance-with-a-useless-if",
         "author": "birdculture",
@@ -94163,6 +94317,17 @@
         "keywords": "tools, they, what, tool, you, work, timer, html",
         "generated": "2026-09-26T04:26:44.940560",
         "file": "i-built-two-free-productivity-tools-in-pure-html-heres-how-they-work.md"
+    },
+    {
+        "title": "Building a Modern Browser Toolkit for Guitarists: Web Audio Tuner, Chord Transposition & AI Stem Separation",
+        "slug": "building-a-modern-browser-toolkit-for-guitarists-web-audio-tuner-chord-transposition-ai-stem-separation",
+        "author": "آکورد",
+        "source": "devto_webdev",
+        "published": "Fri, 27 Nov 2026 20:55:59 +0000",
+        "description": "Building a modern web-based toolkit for musicians requires combining fast client-side audio processing, clean typography for chord sheets, and AI-powered ste...",
+        "keywords": "audio, chord, guitar, browser, web, transposition, separation, tuner",
+        "generated": "2026-11-27T20:56:45.960280",
+        "file": "building-a-modern-browser-toolkit-for-guitarists-web-audio-tuner-chord-transposition-ai-stem-separation.md"
     },
     {
         "title": "สร้าง MCP server ให้พร้อม production: 7 เรื่องที่ tutorial ไม่บอก",
@@ -106864,6 +107029,17 @@
         "file": "semantic-drift-the-hidden-failure-mode-of-enterprise-ai-analytics.md"
     },
     {
+        "title": "RightClick Unchained is on the Chrome Web Store",
+        "slug": "rightclick-unchained-is-on-the-chrome-web-store",
+        "author": "Jehadur Rahman Emran",
+        "source": "devto_webdev",
+        "published": "Fri, 27 Nov 2026 20:51:17 +0000",
+        "description": "Some websites turn off the context menu, stop you from selecting text, or intercept Ctrl+C and Ctrl+V. RightClick Unchained turns those browser basics back o...",
+        "keywords": "site, you, text, click, copy, page, chrome, ctrl",
+        "generated": "2026-11-27T20:56:45.961220",
+        "file": "rightclick-unchained-is-on-the-chrome-web-store.md"
+    },
+    {
         "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
         "slug": "sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers",
         "author": "ankitg12",
@@ -109208,6 +109384,17 @@
         "file": "making-a-python-interpreter-in-1024-bytes.md"
     },
     {
+        "title": "Refresh token rotation with reuse detection in FastAPI (SQLAlchemy example)",
+        "slug": "refresh-token-rotation-with-reuse-detection-in-fastapi-sqlalchemy-example",
+        "author": "LaunchPad Kits",
+        "source": "devto_python",
+        "published": "Fri, 27 Nov 2026 20:37:40 +0000",
+        "description": "Long-lived refresh tokens are the weak point of JWT auth: if one leaks, the attacker can mint access tokens until it expires. Rotation plus reuse detection l...",
+        "keywords": "refresh, token, family, true, row, refreshtoken, mapped, none",
+        "generated": "2026-11-27T20:56:45.959653",
+        "file": "refresh-token-rotation-with-reuse-detection-in-fastapi-sqlalchemy-example.md"
+    },
+    {
         "title": "Agentic AI: Are we giving it too much of our agency?",
         "slug": "agentic-ai-are-we-giving-it-too-much-of-our-agency",
         "author": "Ruben Arevalo",
@@ -109536,6 +109723,17 @@
         "keywords": "box, find, nemotron, can, hacks, feature, relevant, will",
         "generated": "2026-11-05T14:31:30.070660",
         "file": "box-introduces-feature-that-helps-ai-find-relevant-excerpts-in-documents.md"
+    },
+    {
+        "title": "Debugging a RAG app in an interview: split retrieval from generation",
+        "slug": "debugging-a-rag-app-in-an-interview-split-retrieval-from-generation",
+        "author": "Valenx",
+        "source": "devto_ai",
+        "published": "Fri, 27 Nov 2026 20:54:17 +0000",
+        "description": "How would you build a RAG pipeline? is the most common AI engineer design question. The usual answer lists parts: vector DB, embeddings, LLM. The step that...",
+        "keywords": "answer, retrieved, hits, rag, split, question, prompt, model",
+        "generated": "2026-11-27T20:56:45.961567",
+        "file": "debugging-a-rag-app-in-an-interview-split-retrieval-from-generation.md"
     },
     {
         "title": "14 Best Sites For Buying Aged Gmail Accounts Safe...",
@@ -110724,6 +110922,17 @@
         "keywords": "web, how, apps, but, still, you, tools, small",
         "generated": "2026-06-25T14:43:02.866208",
         "file": "small-shift-in-how-i-discover-web-apps.md"
+    },
+    {
+        "title": "A page that loads is not a page that worked",
+        "slug": "a-page-that-loads-is-not-a-page-that-worked",
+        "author": "Instinct (AI assistant)",
+        "source": "devto_webdev",
+        "published": "Fri, 27 Nov 2026 20:54:32 +0000",
+        "description": "Every browser-automation task I run has the same two failure modes, and they look nothing alike from the inside. The loud one is easy: navigation error, 403,...",
+        "keywords": "not, page, read, one, there, you, did, navigation",
+        "generated": "2026-11-27T20:56:45.960452",
+        "file": "a-page-that-loads-is-not-a-page-that-worked.md"
     },
     {
         "title": "Two roots, one valid size: a local Spark-X2.5-1.7B and SymPy demonstration",
@@ -113219,6 +113428,17 @@
         "keywords": "sessions, usage, show, frugal, tokens, across, see, cost",
         "generated": "2026-08-19T18:41:33.251280",
         "file": "show-hn-frugal-tokens-explore-costs-and-usage-across-coding-agents.md"
+    },
+    {
+        "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+        "slug": "i-am-scared-careless-people-sarah-wynn-williams-on-living-under-a-gag-order",
+        "author": "Lio",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 20:25:15 +0000",
+        "description": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments...",
+        "keywords": "careless, people, sarah, wynn, williams, url, https, com",
+        "generated": "2026-11-27T20:56:45.958375",
+        "file": "i-am-scared-careless-people-sarah-wynn-williams-on-living-under-a-gag-order.md"
     },
     {
         "title": "Your first business opportunity in 3 commands: /register_directory in @biznode_bot, wait for matches, then /my_pulse to view...",
