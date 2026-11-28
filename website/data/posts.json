@@ -891,6 +891,17 @@
         "file": "pre-release-of-polars-20.md"
     },
     {
+        "title": "U-Net Beats FNO on In-Distribution Heat Conduction — Until You Double the Resolution",
+        "slug": "u-net-beats-fno-on-in-distribution-heat-conduction-until-you-double-the-resolution",
+        "author": "pack petter",
+        "source": "devto_python",
+        "published": "Sat, 28 Nov 2026 06:48:02 +0000",
+        "description": "I benchmarked three neural-operator surrogates — FNO, U-Net, and DeepONet — on 2D steady heat conduction, and the ranking flips depending on a question most ...",
+        "keywords": "resolution, fno, net, surrogate, solver, distribution, surrogates, you",
+        "generated": "2026-11-28T07:12:28.667624",
+        "file": "u-net-beats-fno-on-in-distribution-heat-conduction-until-you-double-the-resolution.md"
+    },
+    {
         "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
         "slug": "the-lonely-men-who-work-in-patagonia-at-the-end-of-the-world",
         "author": "bookofjoe",
@@ -8998,6 +9009,17 @@
         "file": "step-by-step-build-a-certification-tracker-with-base44.md"
     },
     {
+        "title": "Website or mobile app: which should your organization build first?",
+        "slug": "website-or-mobile-app-which-should-your-organization-build-first",
+        "author": "Ahmed Adil Abuzaid",
+        "source": "devto_webdev",
+        "published": "Sat, 28 Nov 2026 07:00:03 +0000",
+        "description": "We want an app is one of the most common first sentences in a project meeting. Sometimes it is exactly right. Often, a well-built mobile website would reac...",
+        "keywords": "app, website, people, you, first, one, not, can",
+        "generated": "2026-11-28T07:12:28.669813",
+        "file": "website-or-mobile-app-which-should-your-organization-build-first.md"
+    },
+    {
         "title": "I built an AI speechwriter for the moments you can't get wrong",
         "slug": "i-built-an-ai-speechwriter-for-the-moments-you-cant-get-wrong",
         "author": "KunStudio",
@@ -9909,6 +9931,17 @@
         "keywords": "url, https, comments, what, nice, windows, article, movq",
         "generated": "2026-06-18T15:38:46.159120",
         "file": "what-was-nice-about-the-ui-of-windows-2000.md"
+    },
+    {
+        "title": "I checked the link previews of 35 new GitHub projects' homepages. 1 in 5 had no image",
+        "slug": "i-checked-the-link-previews-of-35-new-github-projects-homepages-1-in-5-had-no-image",
+        "author": "Penny",
+        "source": "devto_python",
+        "published": "Sat, 28 Nov 2026 06:49:35 +0000",
+        "description": "When someone pastes your project's homepage into X, Slack or Discord, the crawler reads your raw HTML, without running JavaScript, and builds the preview fro...",
+        "keywords": "image, twitter, card, tags, not, meta, problems, html",
+        "generated": "2026-11-28T07:12:28.667360",
+        "file": "i-checked-the-link-previews-of-35-new-github-projects-homepages-1-in-5-had-no-image.md"
     },
     {
         "title": "Google Hotels API: Scrape Live Hotel Prices and Ratings in 2026 (Python + MCP)",
@@ -18744,6 +18777,17 @@
         "file": "i-fixed-webgpu-on-linux-then-forgot-how-i-did-it.md"
     },
     {
+        "title": "OpenAI 429 You exceeded your current quota: insufficient_quota vs rate_limit_exceeded, and the safe fix",
+        "slug": "openai-429-you-exceeded-your-current-quota-insufficientquota-vs-ratelimitexceeded-and-the-safe-fix",
+        "author": "ProofForge",
+        "source": "devto_webdev",
+        "published": "Sat, 28 Nov 2026 06:59:39 +0000",
+        "description": "You called the OpenAI API from your app and got this: 429 You exceeded your current quota, please check your plan and billing details. Two different things s...",
+        "keywords": "your, key, you, openai, billing, one, quota, fix",
+        "generated": "2026-11-28T07:12:28.670054",
+        "file": "openai-429-you-exceeded-your-current-quota-insufficientquota-vs-ratelimitexceeded-and-the-safe-fix.md"
+    },
+    {
         "title": "A full body MRI earns you a year of smoking",
         "slug": "a-full-body-mri-earns-you-a-year-of-smoking",
         "author": "ibobev",
@@ -19655,6 +19699,17 @@
         "keywords": "agent, protocol, client, acp, card, session, both, can",
         "generated": "2026-08-11T13:17:02.097591",
         "file": "google-agent-to-agent-protocol-vs-agent-client-protocol-not-rivals-different-layers.md"
+    },
+    {
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "slug": "unkernel-real-linux-kernel-compiled-to-webassembly",
+        "author": "nreece",
+        "source": "hackernews",
+        "published": "Sat, 28 Nov 2026 03:19:20 +0000",
+        "description": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 157 # Comments: 12",
+        "keywords": "unkernel, url, https, comments, real, linux, kernel, compiled",
+        "generated": "2026-11-28T07:12:28.665227",
+        "file": "unkernel-real-linux-kernel-compiled-to-webassembly.md"
     },
     {
         "title": "Resume ATS Optimizer: Help Your Resume Pass the AI Screening Gate",
@@ -22185,6 +22240,17 @@
         "keywords": "software, license, server, python, you, developers, ctos, tech",
         "generated": "2026-06-16T05:04:00.735929",
         "file": "software-license-server-python-prometheusdevio-jun-2026.md"
+    },
+    {
+        "title": "Edge Code Sandbox via Valkey Streams and Docker BuildKit",
+        "slug": "edge-code-sandbox-via-valkey-streams-and-docker-buildkit",
+        "author": "Bijak Technology",
+        "source": "devto_ai",
+        "published": "Sat, 28 Nov 2026 07:00:14 +0000",
+        "description": "💡 Originally published on Bijak Technology Enterprise Journal with full interactive parameter benchmarks. When a thousand students or software developers cli...",
+        "keywords": "valkey, buildkit, execution, cache, sandbox, docker, edge, streams",
+        "generated": "2026-11-28T07:12:28.670958",
+        "file": "edge-code-sandbox-via-valkey-streams-and-docker-buildkit.md"
     },
     {
         "title": "I measured how much of a web page your LLM doesn't need: 79%",
@@ -27862,6 +27928,17 @@
         "keywords": "card, cards, price, shop, photos, photo, same, phone",
         "generated": "2026-10-18T03:57:53.285124",
         "file": "buylist-scanner-open-models-that-price-a-pokmon-collection-at-the-shop-counter-without-a-single-photo-leaving-the-store.md"
+    },
+    {
+        "title": "Atari Homebrew Awards Cancelled",
+        "slug": "atari-homebrew-awards-cancelled",
+        "author": "bpierre",
+        "source": "hackernews",
+        "published": "Sat, 28 Nov 2026 02:03:25 +0000",
+        "description": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 16...",
+        "keywords": "atari, homebrew, awards, cancelled, url, https, com, comments",
+        "generated": "2026-11-28T07:12:28.665394",
+        "file": "atari-homebrew-awards-cancelled.md"
     },
     {
         "title": "How I used parallel Claude Code agents to write hundreds of Chinese working lives",
@@ -33560,6 +33637,17 @@
         "keywords": "you, your, one, not, product, hour, writing, day",
         "generated": "2026-11-15T13:44:44.202358",
         "file": "running-an-online-business-hour-by-hour-where-ai-actually-earns-its-keep.md"
+    },
+    {
+        "title": "Migrating WooCommerce customers and orders to Shopify: what transfers, what does not, and a Python CSV converter",
+        "slug": "migrating-woocommerce-customers-and-orders-to-shopify-what-transfers-what-does-not-and-a-python-csv-converter",
+        "author": "Sushil Barwal",
+        "source": "devto_python",
+        "published": "Sat, 28 Nov 2026 06:46:46 +0000",
+        "description": "Moving a store from WooCommerce to Shopify sounds like one job. In practice it's three: products, customers and orders, and each one moves differently. Produ...",
+        "keywords": "shopify, default, address, email, row, you, customer, customers",
+        "generated": "2026-11-28T07:12:28.668150",
+        "file": "migrating-woocommerce-customers-and-orders-to-shopify-what-transfers-what-does-not-and-a-python-csv-converter.md"
     },
     {
         "title": "Preventing Cache Stampedes Caused by Synchronized Redis TTL Expiration: Jitter Implementation Patterns & Runtime Pitfalls",
@@ -49717,6 +49805,17 @@
         "file": "shrink-the-failing-input-before-a-flake-freeze-can-be-written.md"
     },
     {
+        "title": "Introducing BoxLog SDK: Lightweight Python Log Analysis & Parsing",
+        "slug": "introducing-boxlog-sdk-lightweight-python-log-analysis-parsing",
+        "author": "Bùi Quang",
+        "source": "devto_python",
+        "published": "Sat, 28 Nov 2026 06:57:46 +0000",
+        "description": "Introducing BoxLog SDK: Lightweight Python Log Analysis & Parsing When building microservices or automated AI agent systems, parsing log files quickly and ex...",
+        "keywords": "boxlog, sdk, log, parsing, python, error, github, introducing",
+        "generated": "2026-11-28T07:12:28.666887",
+        "file": "introducing-boxlog-sdk-lightweight-python-log-analysis-parsing.md"
+    },
+    {
         "title": "Why I Built a Habit Tracker That Refuses to Touch the Cloud",
         "slug": "why-i-built-a-habit-tracker-that-refuses-to-touch-the-cloud",
         "author": "Zoe parker",
@@ -52390,6 +52489,17 @@
         "file": "stop-sending-user-data-to-the-cloud-the-private-ai-revolution-on-mobile.md"
     },
     {
+        "title": "I Audited All 143 KB of 328K-Star obra/superpowers: Fewer Hallucinations, or 3x Your Token Bill?",
+        "slug": "i-audited-all-143-kb-of-328k-star-obrasuperpowers-fewer-hallucinations-or-3x-your-token-bill",
+        "author": "tomTOP",
+        "source": "devto_ai",
+        "published": "Sat, 28 Nov 2026 07:02:11 +0000",
+        "description": "Every coding feed is calling obra/superpowers (328K+ GitHub stars, MIT) a must-install upgrade for Claude Code, Cursor, Codex, Gemini CLI, and Antigravity. I...",
+        "keywords": "code, your, spec, skill, agent, file, superpowers, before",
+        "generated": "2026-11-28T07:12:28.670416",
+        "file": "i-audited-all-143-kb-of-328k-star-obrasuperpowers-fewer-hallucinations-or-3x-your-token-bill.md"
+    },
+    {
         "title": "OpenAI Launches AI Futures to Explore AI Power and Future Governance",
         "slug": "openai-launches-ai-futures-to-explore-ai-power-and-future-governance",
         "author": "Elara",
@@ -54258,6 +54368,17 @@
         "keywords": "php, not, can, whether, would, still, needs, security",
         "generated": "2026-10-23T04:12:22.350653",
         "file": "php2shell-the-patch-still-needs-an-owner.md"
+    },
+    {
+        "title": "Typed API Contracts from NestJS to Next.js with OpenAPI: openapi-typescript, openapi-fetch, and Where the Types Lie — Field Notes",
+        "slug": "typed-api-contracts-from-nestjs-to-nextjs-with-openapi-openapi-typescript-openapi-fetch-and-where-the-types-lie-field-notes",
+        "author": "Ahmed Mahmoud",
+        "source": "devto_webdev",
+        "published": "Sat, 28 Nov 2026 07:00:09 +0000",
+        "description": "Headline: The most reliable way I have found to keep a Next.js frontend in sync with a NestJS REST API is to treat the OpenAPI spec as the contract: the @nes...",
+        "keywords": "openapi, nestjs, spec, types, api, typescript, type, fetch",
+        "generated": "2026-11-28T07:12:28.669545",
+        "file": "typed-api-contracts-from-nestjs-to-nextjs-with-openapi-openapi-typescript-openapi-fetch-and-where-the-types-lie-field-notes.md"
     },
     {
         "title": "Rate Limiting for Promo Campaigns: Keeping Flash Sales Alive Under Load",
@@ -62270,6 +62391,17 @@
         "file": "the-abundance-illusion.md"
     },
     {
+        "title": "Give me 5 minutes per test and I'll show you if it can fail",
+        "slug": "give-me-5-minutes-per-test-and-ill-show-you-if-it-can-fail",
+        "author": "Heinrich Neb",
+        "source": "devto_ai",
+        "published": "Sat, 28 Nov 2026 07:00:00 +0000",
+        "description": "My AI once wrote a safety check for me. The check was green. It had been green since the day it was written. It would have stayed green if I had deleted the ...",
+        "keywords": "test, you, control, gate, check, limit, rate, run",
+        "generated": "2026-11-28T07:12:28.671920",
+        "file": "give-me-5-minutes-per-test-and-ill-show-you-if-it-can-fail.md"
+    },
+    {
         "title": "Petered (what happens after the Peter Principle)",
         "slug": "petered-what-happens-after-the-peter-principle",
         "author": "adrianhoward",
@@ -68164,6 +68296,17 @@
         "keywords": "act, first, rfis, url, https, comments, has, begun",
         "generated": "2026-08-31T04:52:56.225864",
         "file": "the-eu-has-begun-enforcing-the-ai-act-first-rfis-to-model-providers.md"
+    },
+    {
+        "title": "How to Find Free Full-Text Papers by DOI in 5 Steps",
+        "slug": "how-to-find-free-full-text-papers-by-doi-in-5-steps",
+        "author": "Equalang",
+        "source": "devto_python",
+        "published": "Sat, 28 Nov 2026 06:58:27 +0000",
+        "description": "(Disclosure: Written by the Equalang team, makers of the translation tools mentioned in this guide.) Pasting a raw DOI into doi.org often drops you straight ...",
+        "keywords": "doi, org, https, open, access, pdf, you, openalex",
+        "generated": "2026-11-28T07:12:28.666679",
+        "file": "how-to-find-free-full-text-papers-by-doi-in-5-steps.md"
     },
     {
         "title": "7 Free Online Image Tools Every Student and Job Seeker Should Bookmark",
@@ -84790,6 +84933,17 @@
         "keywords": "context, you, harness, attention, more, what, model, token",
         "generated": "2026-09-19T20:21:54.586968",
         "file": "types-of-context-rot-in-harness-engineering.md"
+    },
+    {
+        "title": "How Scan to Win Assured Cashback Works Under the Hood: Single Use QR Codes at Scale",
+        "slug": "how-scan-to-win-assured-cashback-works-under-the-hood-single-use-qr-codes-at-scale",
+        "author": "adi chauhan",
+        "source": "devto_webdev",
+        "published": "Sat, 28 Nov 2026 07:02:29 +0000",
+        "description": "Product QR cashback is everywhere in India now: scratch the hidden panel on a pack, scan, and money lands in your wallet. It looks simple from the outside. U...",
+        "keywords": "code, scan, codes, cashback, assured, one, under, wallet",
+        "generated": "2026-11-28T07:12:28.668900",
+        "file": "how-scan-to-win-assured-cashback-works-under-the-hood-single-use-qr-codes-at-scale.md"
     },
     {
         "title": "Introduction to Compilers and Language Design",
@@ -103687,6 +103841,17 @@
         "file": "i-built-a-desktop-ai-gateway-in-73-lines-of-python.md"
     },
     {
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "slug": "googles-deepcrossattention-achieves-comparable-model-quality-up-to-3x-faster",
+        "author": "ComputedCamp995",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 23:06:29 +0000",
+        "description": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points:...",
+        "keywords": "google, url, https, comments, deepcrossattention, achieves, comparable, model",
+        "generated": "2026-11-28T07:12:28.665526",
+        "file": "googles-deepcrossattention-achieves-comparable-model-quality-up-to-3x-faster.md"
+    },
+    {
         "title": "Give Your AI Agent WhatsApp Superpowers with MCP (Official Business API)",
         "slug": "give-your-ai-agent-whatsapp-superpowers-with-mcp-official-business-api",
         "author": "Dhotiiiii",
@@ -105190,6 +105355,17 @@
         "keywords": "model, mlx, gguf, run, you, app, swarm, two",
         "generated": "2026-09-20T15:50:36.614596",
         "file": "mlx-vs-gguf-on-apple-silicon-benchmarking-the-same-local-model-two-ways.md"
+    },
+    {
+        "title": "Source Control from Hell",
+        "slug": "source-control-from-hell",
+        "author": "emschwartz",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 22:06:44 +0000",
+        "description": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 84 # Comments: 62",
+        "keywords": "url, https, comments, source, control, hell, article, frantic",
+        "generated": "2026-11-28T07:12:28.665762",
+        "file": "source-control-from-hell.md"
     },
     {
         "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
@@ -115839,6 +116015,17 @@
         "file": "budgeting-a-launchs-visual-assets-visualgpt-black-friday-plans-compared.md"
     },
     {
+        "title": "Generating AutoCAD R12 (AC1009) ASCII .DXF Files in Pure TypeScript: 8 AIA Layers, $INSUNITS Inches, and Screen-to-CAD Arc Math",
+        "slug": "generating-autocad-r12-ac1009-ascii-dxf-files-in-pure-typescript-8-aia-layers-insunits-inches-and-screen-to-cad-arc-math",
+        "author": "Clara Sutton",
+        "source": "devto_webdev",
+        "published": "Sat, 28 Nov 2026 07:04:27 +0000",
+        "description": "If you have ever exported a floor plan from a consumer browser tool only to open it in AutoCAD, BricsCAD, QCAD, or LibreCAD and see every wall, door swing, c...",
+        "keywords": "push, fmt, number, const, autocad, dxf, color, name",
+        "generated": "2026-11-28T07:12:28.668602",
+        "file": "generating-autocad-r12-ac1009-ascii-dxf-files-in-pure-typescript-8-aia-layers-insunits-inches-and-screen-to-cad-arc-math.md"
+    },
+    {
         "title": "The Fedora 45 Sausage Factory",
         "slug": "the-fedora-45-sausage-factory",
         "author": "6581",
@@ -119942,6 +120129,17 @@
         "file": "best-12-place-to-buy-verified-poloniex-accounts-guide.md"
     },
     {
+        "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+        "slug": "tabernetes-a-kubernetes-cluster-whose-nodes-are-browser-tabs",
+        "author": "mmcclure",
+        "source": "hackernews",
+        "published": "Fri, 27 Nov 2026 23:00:30 +0000",
+        "description": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 85 # Comments: 31",
+        "keywords": "url, https, comments, tabernetes, kubernetes, cluster, whose, nodes",
+        "generated": "2026-11-28T07:12:28.665647",
+        "file": "tabernetes-a-kubernetes-cluster-whose-nodes-are-browser-tabs.md"
+    },
+    {
         "title": "I Built a Hand-Tested Database for Offline Android Games",
         "slug": "i-built-a-hand-tested-database-for-offline-android-games",
         "author": "fei yun",
@@ -122360,6 +122558,17 @@
         "keywords": "server, mcp, can, servers, not, code, how, production",
         "generated": "2026-06-08T04:42:39.223262",
         "file": "we-tried-to-independently-verify-all-22561-mcp-servers-only-18-could-be-checked.md"
+    },
+    {
+        "title": "Paper Maps End-to-End Automation of AI Research",
+        "slug": "paper-maps-end-to-end-automation-of-ai-research",
+        "author": "Paragon",
+        "source": "devto_ai",
+        "published": "Sat, 28 Nov 2026 07:02:28 +0000",
+        "description": "Yamada and colleagues, including Jeff Clune and David Ha, survey progress toward AI systems that formulate hypotheses, run experiments, and interpret results...",
+        "keywords": "research, paper, automation, human, end, systems, without, programme",
+        "generated": "2026-11-28T07:12:28.670211",
+        "file": "paper-maps-end-to-end-automation-of-ai-research.md"
     },
     {
         "title": "**Unlock Your Potential: AI-Powered Remote Work & Digital Skills for Pakistani Freelancers**",
@@ -125672,6 +125881,17 @@
         "keywords": "render, end, allowed, you, html, helper, content, current",
         "generated": "2026-07-10T14:40:05.900077",
         "file": "permission-ui-the-rails-way.md"
+    },
+    {
+        "title": "When everyone has a private screen, how do values still get passed on?",
+        "slug": "when-everyone-has-a-private-screen-how-do-values-still-get-passed-on",
+        "author": "Saifuddin Ahmed",
+        "source": "devto_ai",
+        "published": "Sat, 28 Nov 2026 07:00:00 +0000",
+        "description": "A six-year-old sits on the floor of a Sudanese home, inside Sudan or in one of the cities people fled to. He is holding his mother's phone. On the screen, a ...",
+        "keywords": "not, what, one, its, does, content, knowledge, people",
+        "generated": "2026-11-28T07:12:28.671431",
+        "file": "when-everyone-has-a-private-screen-how-do-values-still-get-passed-on.md"
     },
     {
         "title": "A shared media gallery for chats and profiles",
